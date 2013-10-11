@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Coelogyne cristata",
+  "canonicalName": "Coelogyne",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045387,
+      "key": 14045752,
       "type": "SOURCE_ID",
-      "usageKey": 113489281
+      "usageKey": 113489855
     }
   ],
-  "key": 113489281,
+  "key": 113489855,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2811527,
-  "numDescendants": 0,
+  "nubKey": 2811365,
+  "numDescendants": 2,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Coelogyne",
-  "parentKey": 113489855,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Coelogyne cristata",
-  "species": "Coelogyne cristata",
-  "speciesKey": 113489281,
+  "rank": "GENUS",
+  "scientificName": "Coelogyne",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-GENUS Roscoea
+FAMILY Araceae
 =======
 Status: ???
 According to: ???

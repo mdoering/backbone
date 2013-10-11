@@ -1,4 +1,4 @@
-SPECIES Perilla frutescens
+GENUS Perilla
 =======
 Status: ???
 According to: ???

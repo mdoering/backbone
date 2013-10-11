@@ -1,4 +1,4 @@
-SPECIES Plantago erosa
+GENUS Plantago
 =======
 Status: ???
 According to: ???

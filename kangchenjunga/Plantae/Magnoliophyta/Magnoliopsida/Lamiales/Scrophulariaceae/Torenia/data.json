@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Torenia cordifolia",
+  "canonicalName": "Torenia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045692,
+      "key": 14046001,
       "type": "SOURCE_ID",
-      "usageKey": 113489586
+      "usageKey": 113490104
     }
   ],
-  "key": 113489586,
+  "key": 113490104,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3725822,
-  "numDescendants": 0,
+  "nubKey": 3172202,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Torenia",
-  "parentKey": 113490104,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Scrophulariaceae",
+  "parentKey": 113490102,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Torenia cordifolia",
-  "species": "Torenia cordifolia",
-  "speciesKey": 113489586,
+  "rank": "GENUS",
+  "scientificName": "Torenia",
   "synonym": false
 }

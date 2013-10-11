@@ -1,4 +1,4 @@
-SPECIES Debregeasia salicifolia
+GENUS Debregeasia
 =======
 Status: ???
 According to: ???

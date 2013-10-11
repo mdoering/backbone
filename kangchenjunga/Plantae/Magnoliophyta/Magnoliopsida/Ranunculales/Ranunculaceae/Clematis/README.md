@@ -1,4 +1,4 @@
-SPECIES Clematis buchananiana
+GENUS Clematis
 =======
 Status: ???
 According to: ???

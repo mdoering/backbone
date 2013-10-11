@@ -1,4 +1,4 @@
-GENUS Juniperus
+FAMILY Cupressaceae
 =======
 Status: ???
 According to: ???

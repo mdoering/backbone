@@ -1,4 +1,4 @@
-SPECIES Colebrookea oppositifolia
+GENUS Colebrookea
 =======
 Status: ???
 According to: ???

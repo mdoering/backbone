@@ -1,4 +1,4 @@
-GENUS Lonicera
+FAMILY Caprifoliaceae
 =======
 Status: ???
 According to: ???

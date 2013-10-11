@@ -1,4 +1,4 @@
-GENUS Myrica
+FAMILY Myricaceae
 =======
 Status: ???
 According to: ???

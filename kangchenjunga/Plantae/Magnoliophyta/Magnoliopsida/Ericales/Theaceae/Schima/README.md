@@ -1,4 +1,4 @@
-SPECIES Schima wallichii
+GENUS Schima
 =======
 Status: ???
 According to: ???

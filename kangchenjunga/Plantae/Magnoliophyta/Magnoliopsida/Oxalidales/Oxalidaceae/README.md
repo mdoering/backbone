@@ -1,4 +1,4 @@
-GENUS Oxalis
+FAMILY Oxalidaceae
 =======
 Status: ???
 According to: ???

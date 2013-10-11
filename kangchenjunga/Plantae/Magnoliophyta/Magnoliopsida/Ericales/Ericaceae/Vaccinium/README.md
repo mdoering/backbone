@@ -1,4 +1,4 @@
-SPECIES Vaccinium vacciniaceum
+GENUS Vaccinium
 =======
 Status: ???
 According to: ???

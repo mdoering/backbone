@@ -1,4 +1,4 @@
-GENUS Torenia
+FAMILY Scrophulariaceae
 =======
 Status: ???
 According to: ???

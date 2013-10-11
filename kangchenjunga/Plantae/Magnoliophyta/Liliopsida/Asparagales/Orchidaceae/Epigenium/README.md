@@ -1,4 +1,4 @@
-SPECIES Epigeneium rotundatum
+GENUS Epigenium
 =======
 Status: ???
 According to: ???

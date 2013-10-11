@@ -1,4 +1,4 @@
-GENUS Pogostemon
+FAMILY Lamiaceae
 =======
 Status: ???
 According to: ???

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Ilex dipyrena",
+  "canonicalName": "Ilex",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045449,
+      "key": 14045818,
       "type": "SOURCE_ID",
-      "usageKey": 113489343
+      "usageKey": 113489921
     }
   ],
-  "key": 113489343,
+  "key": 113489921,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5534633,
-  "numDescendants": 0,
+  "nubKey": 3169013,
+  "numDescendants": 1,
   "order": "Aquifoliales",
   "orderKey": 113489919,
-  "origin": "SOURCE",
-  "parent": "Ilex",
-  "parentKey": 113489921,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Aquifoliaceae",
+  "parentKey": 113489920,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Ilex dipyrena",
-  "species": "Ilex dipyrena",
-  "speciesKey": 113489343,
+  "rank": "GENUS",
+  "scientificName": "Ilex",
   "synonym": false
 }

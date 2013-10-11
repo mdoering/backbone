@@ -1,4 +1,4 @@
-GENUS Schisandra
+FAMILY Schisandraceae
 =======
 Status: ???
 According to: ???

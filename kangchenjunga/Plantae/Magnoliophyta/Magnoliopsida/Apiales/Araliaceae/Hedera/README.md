@@ -1,4 +1,4 @@
-SPECIES Hedera nepalensis
+GENUS Hedera
 =======
 Status: ???
 According to: ???

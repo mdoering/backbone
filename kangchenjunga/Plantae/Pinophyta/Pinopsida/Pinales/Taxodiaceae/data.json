@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Cryptomeria",
+  "canonicalName": "Taxodiaceae",
   "classKey": 113490251,
   "clazz": "Pinopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Taxodiaceae",
   "familyKey": 113490258,
-  "genus": "Cryptomeria",
-  "genusKey": 113490259,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046156,
+      "key": 14046155,
       "type": "SOURCE_ID",
-      "usageKey": 113490259
+      "usageKey": 113490258
     }
   ],
-  "key": 113490259,
+  "key": 113490258,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2683915,
-  "numDescendants": 1,
+  "nubKey": 3230358,
+  "numDescendants": 2,
   "order": "Pinales",
   "orderKey": 113490252,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Taxodiaceae",
-  "parentKey": 113490258,
+  "parent": "Pinales",
+  "parentKey": 113490252,
   "phylum": "Pinophyta",
   "phylumKey": 113490250,
-  "rank": "GENUS",
-  "scientificName": "Cryptomeria",
+  "rank": "FAMILY",
+  "scientificName": "Taxodiaceae",
   "synonym": false
 }

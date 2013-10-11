@@ -1,4 +1,4 @@
-SPECIES Ocimum tenuiflorum
+GENUS Ocimum
 =======
 Status: ???
 According to: ???

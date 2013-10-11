@@ -1,4 +1,4 @@
-SPECIES Lithocarpus pachyphylla
+GENUS Lithocarpus
 =======
 Status: ???
 According to: ???

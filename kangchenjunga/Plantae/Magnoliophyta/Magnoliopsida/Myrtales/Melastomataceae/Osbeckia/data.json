@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Osbeckia stellata",
+  "canonicalName": "Osbeckia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045616,
+      "key": 14046043,
       "type": "SOURCE_ID",
-      "usageKey": 113489510
+      "usageKey": 113490146
     }
   ],
-  "key": 113489510,
+  "key": 113490146,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3864900,
-  "numDescendants": 0,
+  "nubKey": 3231554,
+  "numDescendants": 1,
   "order": "Myrtales",
   "orderKey": 113490140,
-  "origin": "SOURCE",
-  "parent": "Osbeckia",
-  "parentKey": 113490146,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Melastomataceae",
+  "parentKey": 113490145,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Osbeckia stellata",
-  "species": "Osbeckia stellata",
-  "speciesKey": 113489510,
+  "rank": "GENUS",
+  "scientificName": "Osbeckia",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Daphniphyllum himalense
+GENUS Daphniphyllum
 =======
 Status: ???
 According to: ???

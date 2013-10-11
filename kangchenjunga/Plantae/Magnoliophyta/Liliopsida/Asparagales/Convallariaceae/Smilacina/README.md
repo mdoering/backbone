@@ -1,4 +1,4 @@
-SPECIES Smilacina oleracea
+GENUS Smilacina
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Panax pseudoginseng
+GENUS Panax
 =======
 Status: ???
 According to: ???

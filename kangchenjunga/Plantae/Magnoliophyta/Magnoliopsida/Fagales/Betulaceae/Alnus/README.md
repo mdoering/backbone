@@ -1,4 +1,4 @@
-SPECIES Alnus nepalensis
+GENUS Alnus
 =======
 Status: ???
 According to: ???

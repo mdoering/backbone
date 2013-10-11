@@ -1,4 +1,4 @@
-SPECIES Artemisia indica
+GENUS Artemisia
 =======
 Status: ???
 According to: ???

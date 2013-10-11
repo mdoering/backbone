@@ -1,4 +1,4 @@
-SPECIES Leptodermis lanceolata
+GENUS Leptodermis
 =======
 Status: ???
 According to: ???

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Leucosceptrum canum",
+  "canonicalName": "Leucosceptrum",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045591,
+      "key": 14045986,
       "type": "SOURCE_ID",
-      "usageKey": 113489485
+      "usageKey": 113490089
     }
   ],
-  "key": 113489485,
+  "key": 113490089,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3885429,
-  "numDescendants": 0,
+  "nubKey": 7306881,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Leucosceptrum",
-  "parentKey": 113490089,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Lamiaceae",
+  "parentKey": 113490085,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Leucosceptrum canum",
-  "species": "Leucosceptrum canum",
-  "speciesKey": 113489485,
+  "rank": "GENUS",
+  "scientificName": "Leucosceptrum",
   "synonym": false
 }

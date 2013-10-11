@@ -1,4 +1,4 @@
-GENUS Buddleja
+FAMILY Loganiaceae
 =======
 Status: ???
 According to: ???

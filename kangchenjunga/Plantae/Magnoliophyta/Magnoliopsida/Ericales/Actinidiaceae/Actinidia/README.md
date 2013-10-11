@@ -1,4 +1,4 @@
-SPECIES Actinidia callosa
+GENUS Actinidia
 =======
 Status: ???
 According to: ???

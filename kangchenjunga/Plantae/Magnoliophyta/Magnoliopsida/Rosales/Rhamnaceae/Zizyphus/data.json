@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Zizyphus mauritiana",
+  "canonicalName": "Zizyphus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045659,
+      "key": 14046085,
       "type": "SOURCE_ID",
-      "usageKey": 113489553
+      "usageKey": 113490188
     }
   ],
-  "key": 113489553,
+  "key": 113490188,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5834410,
-  "numDescendants": 0,
+  "nubKey": 3877588,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Zizyphus",
-  "parentKey": 113490188,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rhamnaceae",
+  "parentKey": 113490187,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Zizyphus mauritiana",
-  "species": "Zizyphus mauritiana",
-  "speciesKey": 113489553,
+  "rank": "GENUS",
+  "scientificName": "Zizyphus",
   "synonym": false
 }

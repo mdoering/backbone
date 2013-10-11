@@ -1,4 +1,4 @@
-GENUS Morus
+FAMILY Moraceae
 =======
 Status: ???
 According to: ???

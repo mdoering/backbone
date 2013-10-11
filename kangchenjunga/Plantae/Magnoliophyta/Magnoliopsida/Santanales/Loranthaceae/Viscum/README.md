@@ -1,4 +1,4 @@
-SPECIES Viscum album
+GENUS Viscum
 =======
 Status: ???
 According to: ???

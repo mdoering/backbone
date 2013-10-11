@@ -1,4 +1,4 @@
-SPECIES Arundinaria maling
+GENUS Arundinaria
 =======
 Status: ???
 According to: ???

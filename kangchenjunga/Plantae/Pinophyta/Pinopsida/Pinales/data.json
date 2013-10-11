@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Taxodiaceae",
+  "canonicalName": "Pinales",
   "classKey": 113490251,
   "clazz": "Pinopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Taxodiaceae",
-  "familyKey": 113490258,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046155,
+      "key": 14046149,
       "type": "SOURCE_ID",
-      "usageKey": 113490258
+      "usageKey": 113490252
     }
   ],
-  "key": 113490258,
+  "key": 113490252,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3230358,
-  "numDescendants": 2,
+  "nubKey": 640,
+  "numDescendants": 15,
   "order": "Pinales",
   "orderKey": 113490252,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Pinales",
-  "parentKey": 113490252,
+  "parent": "Pinopsida",
+  "parentKey": 113490251,
   "phylum": "Pinophyta",
   "phylumKey": 113490250,
-  "rank": "FAMILY",
-  "scientificName": "Taxodiaceae",
+  "rank": "ORDER",
+  "scientificName": "Pinales",
   "synonym": false
 }

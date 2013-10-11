@@ -1,4 +1,4 @@
-SPECIES Pinus wallichiana
+GENUS Pinus
 =======
 Status: ???
 According to: ???

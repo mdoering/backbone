@@ -1,4 +1,4 @@
-SPECIES Symplocos ramosissima
+GENUS Symplocos
 =======
 Status: ???
 According to: ???

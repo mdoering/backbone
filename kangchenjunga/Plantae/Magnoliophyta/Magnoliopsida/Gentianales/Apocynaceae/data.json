@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Trachelospermum",
+  "canonicalName": "Apocynaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Apocynaceae",
   "familyKey": 113490043,
-  "genus": "Trachelospermum",
-  "genusKey": 113490049,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045946,
+      "key": 14045940,
       "type": "SOURCE_ID",
-      "usageKey": 113490049
+      "usageKey": 113490043
     }
   ],
-  "key": 113490049,
+  "key": 113490043,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3169711,
-  "numDescendants": 1,
+  "nubKey": 6701,
+  "numDescendants": 13,
   "order": "Gentianales",
   "orderKey": 113490042,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Apocynaceae",
-  "parentKey": 113490043,
+  "parent": "Gentianales",
+  "parentKey": 113490042,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Trachelospermum",
+  "rank": "FAMILY",
+  "scientificName": "Apocynaceae",
   "synonym": false
 }

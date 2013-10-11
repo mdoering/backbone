@@ -1,4 +1,4 @@
-FAMILY Rubiaceae
+ORDER Gentianales
 =======
 Status: ???
 According to: ???

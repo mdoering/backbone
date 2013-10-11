@@ -1,4 +1,4 @@
-SPECIES Aralia cachemirica
+GENUS Aralia
 =======
 Status: ???
 According to: ???

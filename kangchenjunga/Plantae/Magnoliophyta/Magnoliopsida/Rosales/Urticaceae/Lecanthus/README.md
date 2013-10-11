@@ -1,4 +1,4 @@
-SPECIES Lecanthus peduncularis
+GENUS Lecanthus
 =======
 Status: ???
 According to: ???

@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Tsuga",
+  "canonicalName": "Pinaceae",
   "classKey": 113490251,
   "clazz": "Pinopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Pinaceae",
   "familyKey": 113490255,
-  "genus": "Tsuga",
-  "genusKey": 113490263,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046160,
+      "key": 14046152,
       "type": "SOURCE_ID",
-      "usageKey": 113490263
+      "usageKey": 113490255
     }
   ],
-  "key": 113490263,
+  "key": 113490255,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2685257,
-  "numDescendants": 1,
+  "nubKey": 3925,
+  "numDescendants": 7,
   "order": "Pinales",
   "orderKey": 113490252,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Pinaceae",
-  "parentKey": 113490255,
+  "parent": "Pinales",
+  "parentKey": 113490252,
   "phylum": "Pinophyta",
   "phylumKey": 113490250,
-  "rank": "GENUS",
-  "scientificName": "Tsuga",
+  "rank": "FAMILY",
+  "scientificName": "Pinaceae",
   "synonym": false
 }

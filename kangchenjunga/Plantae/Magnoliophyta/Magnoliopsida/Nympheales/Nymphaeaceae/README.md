@@ -1,4 +1,4 @@
-GENUS Nymphaea
+FAMILY Nymphaeaceae
 =======
 Status: ???
 According to: ???

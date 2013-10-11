@@ -1,4 +1,4 @@
-SPECIES Persea odoratissima
+GENUS Persea
 =======
 Status: ???
 According to: ???

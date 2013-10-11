@@ -1,4 +1,4 @@
-SPECIES Lactuca glaucifolia
+GENUS Lactuca
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Galinsoga parviflora
+GENUS Galinsoga
 =======
 Status: ???
 According to: ???

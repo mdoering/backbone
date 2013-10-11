@@ -1,4 +1,4 @@
-SPECIES Begonia megaptera
+GENUS Begonia
 =======
 Status: ???
 According to: ???

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Vandopsis undulata",
+  "canonicalName": "Vandopsis",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045397,
+      "key": 14045760,
       "type": "SOURCE_ID",
-      "usageKey": 113489291
+      "usageKey": 113489863
     }
   ],
-  "key": 113489291,
+  "key": 113489863,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5308492,
-  "numDescendants": 0,
+  "nubKey": 5308480,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Vandopsis",
-  "parentKey": 113489863,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Vandopsis undulata",
-  "species": "Vandopsis undulata",
-  "speciesKey": 113489291,
+  "rank": "GENUS",
+  "scientificName": "Vandopsis",
   "synonym": false
 }

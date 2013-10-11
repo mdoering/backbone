@@ -1,4 +1,4 @@
-SPECIES Scurrula elata
+GENUS Scurrula
 =======
 Status: ???
 According to: ???

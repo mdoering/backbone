@@ -1,4 +1,4 @@
-GENUS Euonymus
+FAMILY Celastraceae
 =======
 Status: ???
 According to: ???

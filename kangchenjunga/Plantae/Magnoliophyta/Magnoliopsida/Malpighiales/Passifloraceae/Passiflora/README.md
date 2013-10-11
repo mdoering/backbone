@@ -1,4 +1,4 @@
-SPECIES Passiflora edulis
+GENUS Passiflora
 =======
 Status: ???
 According to: ???

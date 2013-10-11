@@ -1,4 +1,4 @@
-GENUS Dichroa
+FAMILY Hydrangeaceae
 =======
 Status: ???
 According to: ???

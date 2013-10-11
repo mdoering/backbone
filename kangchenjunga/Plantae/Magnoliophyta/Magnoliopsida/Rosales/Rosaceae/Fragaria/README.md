@@ -1,4 +1,4 @@
-SPECIES Fragaria nubicola
+GENUS Fragaria
 =======
 Status: ???
 According to: ???

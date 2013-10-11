@@ -1,4 +1,4 @@
-GENUS Bombax
+FAMILY Malvaceae
 =======
 Status: ???
 According to: ???

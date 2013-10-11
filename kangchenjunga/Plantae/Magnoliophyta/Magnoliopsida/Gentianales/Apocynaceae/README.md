@@ -1,4 +1,4 @@
-GENUS Trachelospermum
+FAMILY Apocynaceae
 =======
 Status: ???
 According to: ???

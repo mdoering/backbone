@@ -1,4 +1,4 @@
-GENUS Tupistra
+FAMILY Convallariaceae
 =======
 Status: ???
 According to: ???

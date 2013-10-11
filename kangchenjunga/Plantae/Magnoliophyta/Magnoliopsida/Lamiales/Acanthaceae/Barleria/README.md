@@ -1,4 +1,4 @@
-SPECIES Barleria cristata
+GENUS Barleria
 =======
 Status: ???
 According to: ???

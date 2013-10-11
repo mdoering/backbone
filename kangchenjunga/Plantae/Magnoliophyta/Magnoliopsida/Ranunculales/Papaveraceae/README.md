@@ -1,4 +1,4 @@
-GENUS Corydalis
+FAMILY Papaveraceae
 =======
 Status: ???
 According to: ???

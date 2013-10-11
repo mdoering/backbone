@@ -1,4 +1,4 @@
-SPECIES Cuscuta reflexa
+GENUS Cuscuta
 =======
 Status: ???
 According to: ???

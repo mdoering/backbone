@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Compositae",
+  "canonicalName": "Asterales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Compositae",
-  "familyKey": 113489950,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045847,
+      "key": 14045819,
       "type": "SOURCE_ID",
-      "usageKey": 113489950
+      "usageKey": 113489922
     }
   ],
-  "key": 113489950,
+  "key": 113489922,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 6070956,
-  "numDescendants": 2,
+  "nubKey": 414,
+  "numDescendants": 60,
   "order": "Asterales",
   "orderKey": 113489922,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Asterales",
-  "parentKey": 113489922,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Compositae",
+  "rank": "ORDER",
+  "scientificName": "Asterales",
   "synonym": false
 }

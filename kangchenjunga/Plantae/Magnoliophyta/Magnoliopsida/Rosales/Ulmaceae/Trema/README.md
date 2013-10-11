@@ -1,4 +1,4 @@
-SPECIES Trema orientalis
+GENUS Trema
 =======
 Status: ???
 According to: ???

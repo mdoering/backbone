@@ -1,4 +1,4 @@
-GENUS Dioscorea
+FAMILY Dioscoreaceae
 =======
 Status: ???
 According to: ???

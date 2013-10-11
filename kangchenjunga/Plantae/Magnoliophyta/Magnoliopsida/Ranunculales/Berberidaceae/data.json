@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Podophyllum",
+  "canonicalName": "Berberidaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Berberidaceae",
   "familyKey": 113490161,
-  "genus": "Podophyllum",
-  "genusKey": 113490164,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046061,
+      "key": 14046058,
       "type": "SOURCE_ID",
-      "usageKey": 113490164
+      "usageKey": 113490161
     }
   ],
-  "key": 113490164,
+  "key": 113490161,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3033838,
-  "numDescendants": 1,
+  "nubKey": 6673,
+  "numDescendants": 10,
   "order": "Ranunculales",
   "orderKey": 113490160,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Berberidaceae",
-  "parentKey": 113490161,
+  "parent": "Ranunculales",
+  "parentKey": 113490160,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Podophyllum",
+  "rank": "FAMILY",
+  "scientificName": "Berberidaceae",
   "synonym": false
 }

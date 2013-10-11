@@ -1,4 +1,4 @@
-SPECIES Magnolia campbellii
+GENUS Magnolia
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Terminalia chebula
+GENUS Terminalia
 =======
 Status: ???
 According to: ???

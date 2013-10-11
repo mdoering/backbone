@@ -1,4 +1,4 @@
-GENUS Vandopsis
+FAMILY Orchidaceae
 =======
 Status: ???
 According to: ???

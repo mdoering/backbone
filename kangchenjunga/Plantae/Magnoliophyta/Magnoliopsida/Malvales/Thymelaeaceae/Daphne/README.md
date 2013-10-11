@@ -1,4 +1,4 @@
-SPECIES Daphne sureil
+GENUS Daphne
 =======
 Status: ???
 According to: ???

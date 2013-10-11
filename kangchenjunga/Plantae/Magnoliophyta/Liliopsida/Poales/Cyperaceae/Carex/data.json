@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Carex filicina",
+  "canonicalName": "Carex",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045375,
+      "key": 14045777,
       "type": "SOURCE_ID",
-      "usageKey": 113489269
+      "usageKey": 113489880
     }
   ],
-  "key": 113489269,
+  "key": 113489880,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2724401,
-  "numDescendants": 0,
+  "nubKey": 2721893,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Carex",
-  "parentKey": 113489880,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Cyperaceae",
+  "parentKey": 113489878,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Carex filicina",
-  "species": "Carex filicina",
-  "speciesKey": 113489269,
+  "rank": "GENUS",
+  "scientificName": "Carex",
   "synonym": false
 }

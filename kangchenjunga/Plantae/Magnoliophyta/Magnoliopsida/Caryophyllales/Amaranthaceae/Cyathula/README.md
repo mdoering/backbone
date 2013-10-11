@@ -1,4 +1,4 @@
-SPECIES Cyathula capitata
+GENUS Cyathula
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-FAMILY Nymphaeaceae
+ORDER Nympheales
 =======
 Status: ???
 According to: ???

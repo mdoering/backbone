@@ -1,4 +1,0 @@
-KINGDOM Plantae
-=======
-Status: ???
-According to: ???

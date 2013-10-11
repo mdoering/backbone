@@ -1,4 +1,4 @@
-ORDER Zingiberales
+CLASS Liliopsida
 =======
 Status: ???
 According to: ???

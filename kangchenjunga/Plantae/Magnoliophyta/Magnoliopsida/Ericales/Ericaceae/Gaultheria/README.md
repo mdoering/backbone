@@ -1,4 +1,4 @@
-SPECIES Gaultheria nummularioides
+GENUS Gaultheria
 =======
 Status: ???
 According to: ???

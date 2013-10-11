@@ -1,4 +1,4 @@
-SPECIES Roscoea purpurea
+GENUS Roscoea
 =======
 Status: ???
 According to: ???

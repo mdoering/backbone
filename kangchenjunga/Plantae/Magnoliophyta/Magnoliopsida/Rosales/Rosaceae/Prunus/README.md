@@ -1,4 +1,4 @@
-SPECIES Prunus persica
+GENUS Prunus
 =======
 Status: ???
 According to: ???

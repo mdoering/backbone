@@ -1,4 +1,4 @@
-SPECIES Eleuthercoccus cissifolius
+GENUS Eleuthercoccus
 =======
 Status: ???
 According to: ???

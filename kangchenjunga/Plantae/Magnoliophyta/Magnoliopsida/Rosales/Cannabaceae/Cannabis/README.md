@@ -1,4 +1,4 @@
-SPECIES Cannabis sativa
+GENUS Cannabis
 =======
 Status: ???
 According to: ???

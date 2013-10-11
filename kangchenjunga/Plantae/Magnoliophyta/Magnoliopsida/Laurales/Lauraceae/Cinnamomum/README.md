@@ -1,4 +1,4 @@
-SPECIES Cinnamomum tamala
+GENUS Cinnamomum
 =======
 Status: ???
 According to: ???

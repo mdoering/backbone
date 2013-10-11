@@ -1,4 +1,4 @@
-SPECIES Bridelia retusa
+GENUS Bridelia
 =======
 Status: ???
 According to: ???

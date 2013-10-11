@@ -1,4 +1,4 @@
-SPECIES Piper longum
+GENUS Piper
 =======
 Status: ???
 According to: ???

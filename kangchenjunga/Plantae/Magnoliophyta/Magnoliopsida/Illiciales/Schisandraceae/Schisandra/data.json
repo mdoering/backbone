@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Schisandra grandiflora",
+  "canonicalName": "Schisandra",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045689,
+      "key": 14045964,
       "type": "SOURCE_ID",
-      "usageKey": 113489583
+      "usageKey": 113490067
     }
   ],
-  "key": 113489583,
+  "key": 113490067,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3745238,
-  "numDescendants": 0,
+  "nubKey": 2889759,
+  "numDescendants": 1,
   "order": "Illiciales",
   "orderKey": 113490065,
-  "origin": "SOURCE",
-  "parent": "Schisandra",
-  "parentKey": 113490067,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Schisandraceae",
+  "parentKey": 113490066,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Schisandra grandiflora",
-  "species": "Schisandra grandiflora",
-  "speciesKey": 113489583,
+  "rank": "GENUS",
+  "scientificName": "Schisandra",
   "synonym": false
 }

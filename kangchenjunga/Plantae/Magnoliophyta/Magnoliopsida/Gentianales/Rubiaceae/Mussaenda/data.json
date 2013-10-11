@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Mussaenda roxburghii",
+  "canonicalName": "Mussaenda",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045678,
+      "key": 14045956,
       "type": "SOURCE_ID",
-      "usageKey": 113489572
+      "usageKey": 113490059
     }
   ],
-  "key": 113489572,
+  "key": 113490059,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4937999,
-  "numDescendants": 0,
+  "nubKey": 2892394,
+  "numDescendants": 1,
   "order": "Gentianales",
   "orderKey": 113490042,
-  "origin": "SOURCE",
-  "parent": "Mussaenda",
-  "parentKey": 113490059,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rubiaceae",
+  "parentKey": 113490055,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Mussaenda roxburghii",
-  "species": "Mussaenda roxburghii",
-  "speciesKey": 113489572,
+  "rank": "GENUS",
+  "scientificName": "Mussaenda",
   "synonym": false
 }

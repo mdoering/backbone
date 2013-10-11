@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Sarcopyramis napalensis",
+  "canonicalName": "Sarcopyramis",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045617,
+      "key": 14046044,
       "type": "SOURCE_ID",
-      "usageKey": 113489511
+      "usageKey": 113490147
     }
   ],
-  "key": 113489511,
+  "key": 113490147,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3859598,
-  "numDescendants": 0,
+  "nubKey": 3859572,
+  "numDescendants": 1,
   "order": "Myrtales",
   "orderKey": 113490140,
-  "origin": "SOURCE",
-  "parent": "Sarcopyramis",
-  "parentKey": 113490147,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Melastomataceae",
+  "parentKey": 113490145,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Sarcopyramis napalensis",
-  "species": "Sarcopyramis napalensis",
-  "speciesKey": 113489511,
+  "rank": "GENUS",
+  "scientificName": "Sarcopyramis",
   "synonym": false
 }

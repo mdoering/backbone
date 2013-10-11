@@ -1,4 +1,4 @@
-GENUS Smilax
+FAMILY Smilacaceae
 =======
 Status: ???
 According to: ???

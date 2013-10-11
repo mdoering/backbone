@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Pleione hookeriana",
+  "canonicalName": "Pleione",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045395,
+      "key": 14045758,
       "type": "SOURCE_ID",
-      "usageKey": 113489289
+      "usageKey": 113489861
     }
   ],
-  "key": 113489289,
+  "key": 113489861,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5321393,
-  "numDescendants": 0,
+  "nubKey": 2832483,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Pleione",
-  "parentKey": 113489861,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Pleione hookeriana",
-  "species": "Pleione hookeriana",
-  "speciesKey": 113489289,
+  "rank": "GENUS",
+  "scientificName": "Pleione",
   "synonym": false
 }

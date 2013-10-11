@@ -1,4 +1,4 @@
-SPECIES Crotalaria tetragona
+GENUS Crotalaria
 =======
 Status: ???
 According to: ???

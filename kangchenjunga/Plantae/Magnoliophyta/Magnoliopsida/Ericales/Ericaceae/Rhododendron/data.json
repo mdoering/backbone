@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Rhododendron lindleyi",
+  "canonicalName": "Rhododendron",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045545,
+      "key": 14045904,
       "type": "SOURCE_ID",
-      "usageKey": 113489439
+      "usageKey": 113490007
     }
   ],
-  "key": 113489439,
+  "key": 113490007,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4171546,
-  "numDescendants": 0,
+  "nubKey": 2883026,
+  "numDescendants": 10,
   "order": "Ericales",
   "orderKey": 113489996,
-  "origin": "SOURCE",
-  "parent": "Rhododendron",
-  "parentKey": 113490007,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Ericaceae",
+  "parentKey": 113490002,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Rhododendron lindleyi",
-  "species": "Rhododendron lindleyi",
-  "speciesKey": 113489439,
+  "rank": "GENUS",
+  "scientificName": "Rhododendron",
   "synonym": false
 }

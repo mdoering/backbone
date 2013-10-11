@@ -1,4 +1,4 @@
-SPECIES Coelogyne cristata
+GENUS Coelogyne
 =======
 Status: ???
 According to: ???

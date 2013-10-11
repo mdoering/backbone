@@ -1,4 +1,4 @@
-SPECIES Abrus precatorius
+GENUS Abrus
 =======
 Status: ???
 According to: ???

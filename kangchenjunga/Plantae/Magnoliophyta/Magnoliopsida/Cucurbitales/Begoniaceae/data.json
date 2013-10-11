@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Begonia",
+  "canonicalName": "Begoniaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Begoniaceae",
   "familyKey": 113489983,
-  "genus": "Begonia",
-  "genusKey": 113489984,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045881,
+      "key": 14045880,
       "type": "SOURCE_ID",
-      "usageKey": 113489984
+      "usageKey": 113489983
     }
   ],
-  "key": 113489984,
+  "key": 113489983,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2874710,
-  "numDescendants": 1,
+  "nubKey": 6638,
+  "numDescendants": 2,
   "order": "Cucurbitales",
   "orderKey": 113489982,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Begoniaceae",
-  "parentKey": 113489983,
+  "parent": "Cucurbitales",
+  "parentKey": 113489982,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Begonia",
+  "rank": "FAMILY",
+  "scientificName": "Begoniaceae",
   "synonym": false
 }

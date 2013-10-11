@@ -1,4 +1,4 @@
-SPECIES Spondias pinnata
+GENUS Spondias
 =======
 Status: ???
 According to: ???

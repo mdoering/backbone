@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Setaria geniculata",
+  "canonicalName": "Setaria",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045409,
+      "key": 14045790,
       "type": "SOURCE_ID",
-      "usageKey": 113489303
+      "usageKey": 113489893
     }
   ],
-  "key": 113489303,
+  "key": 113489893,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5289680,
-  "numDescendants": 0,
+  "nubKey": 2702955,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Setaria",
-  "parentKey": 113489893,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Poaceae",
+  "parentKey": 113489882,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Setaria geniculata",
-  "species": "Setaria geniculata",
-  "speciesKey": 113489303,
+  "rank": "GENUS",
+  "scientificName": "Setaria",
   "synonym": false
 }

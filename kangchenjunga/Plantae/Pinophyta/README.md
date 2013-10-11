@@ -1,4 +1,4 @@
-CLASS Pinopsida
+PHYLUM Pinophyta
 =======
 Status: ???
 According to: ???

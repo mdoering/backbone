@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Rubus treutleri",
+  "canonicalName": "Rubus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045671,
+      "key": 14046091,
       "type": "SOURCE_ID",
-      "usageKey": 113489565
+      "usageKey": 113490194
     }
   ],
-  "key": 113489565,
+  "key": 113490194,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2992530,
-  "numDescendants": 0,
+  "nubKey": 2988638,
+  "numDescendants": 6,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Rubus",
-  "parentKey": 113490194,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rosaceae",
+  "parentKey": 113490189,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Rubus treutleri",
-  "species": "Rubus treutleri",
-  "speciesKey": 113489565,
+  "rank": "GENUS",
+  "scientificName": "Rubus",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Ranunculus hirtellus
+GENUS Ranunculus
 =======
 Status: ???
 According to: ???

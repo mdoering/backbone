@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Vernonia volkameriifolia",
+  "canonicalName": "Vernonia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045487,
+      "key": 14045842,
       "type": "SOURCE_ID",
-      "usageKey": 113489381
+      "usageKey": 113489945
     }
   ],
-  "key": 113489381,
+  "key": 113489945,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5397353,
-  "numDescendants": 0,
+  "nubKey": 3123781,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Vernonia",
-  "parentKey": 113489945,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asteraceae",
+  "parentKey": 113489923,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Vernonia volkameriifolia",
-  "species": "Vernonia volkameriifolia",
-  "speciesKey": 113489381,
+  "rank": "GENUS",
+  "scientificName": "Vernonia",
   "synonym": false
 }

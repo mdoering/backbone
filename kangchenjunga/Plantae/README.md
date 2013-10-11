@@ -1,4 +1,4 @@
-PHYLUM Pinophyta
+KINGDOM Plantae
 =======
 Status: ???
 According to: ???

@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Spiraea",
+  "canonicalName": "Rosaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Rosaceae",
   "familyKey": 113490189,
-  "genus": "Spiraea",
-  "genusKey": 113490195,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046092,
+      "key": 14046086,
       "type": "SOURCE_ID",
-      "usageKey": 113490195
+      "usageKey": 113490189
     }
   ],
-  "key": 113490195,
+  "key": 113490189,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3026392,
-  "numDescendants": 1,
+  "nubKey": 5015,
+  "numDescendants": 19,
   "order": "Rosales",
   "orderKey": 113490176,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Rosaceae",
-  "parentKey": 113490189,
+  "parent": "Rosales",
+  "parentKey": 113490176,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Spiraea",
+  "rank": "FAMILY",
+  "scientificName": "Rosaceae",
   "synonym": false
 }

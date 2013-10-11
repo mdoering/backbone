@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Sporobolus fertilis",
+  "canonicalName": "Sporobolus",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045410,
+      "key": 14045791,
       "type": "SOURCE_ID",
-      "usageKey": 113489304
+      "usageKey": 113489894
     }
   ],
-  "key": 113489304,
+  "key": 113489894,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4150275,
-  "numDescendants": 0,
+  "nubKey": 2704744,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Sporobolus",
-  "parentKey": 113489894,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Poaceae",
+  "parentKey": 113489882,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Sporobolus fertilis",
-  "species": "Sporobolus fertilis",
-  "speciesKey": 113489304,
+  "rank": "GENUS",
+  "scientificName": "Sporobolus",
   "synonym": false
 }

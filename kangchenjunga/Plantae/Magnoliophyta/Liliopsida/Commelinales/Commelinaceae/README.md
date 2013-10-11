@@ -1,4 +1,4 @@
-GENUS Streptolirion
+FAMILY Commelinaceae
 =======
 Status: ???
 According to: ???

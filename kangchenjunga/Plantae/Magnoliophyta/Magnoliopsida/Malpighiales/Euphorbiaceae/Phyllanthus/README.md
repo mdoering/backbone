@@ -1,4 +1,4 @@
-SPECIES Phyllanthus emblica
+GENUS Phyllanthus
 =======
 Status: ???
 According to: ???

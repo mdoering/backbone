@@ -1,4 +1,4 @@
-SPECIES Urtica dioica
+GENUS Urtica
 =======
 Status: ???
 According to: ???

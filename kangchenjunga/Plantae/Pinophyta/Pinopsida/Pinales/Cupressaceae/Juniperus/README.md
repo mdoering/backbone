@@ -1,4 +1,4 @@
-SPECIES Juniperus recurva
+GENUS Juniperus
 =======
 Status: ???
 According to: ???

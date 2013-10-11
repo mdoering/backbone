@@ -1,31 +1,30 @@
 {
   "authorship": "",
-  "canonicalName": "Taxales",
+  "canonicalName": "Pinopsida",
   "classKey": 113490251,
   "clazz": "Pinopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046157,
+      "key": 14046148,
       "type": "SOURCE_ID",
-      "usageKey": 113490260
+      "usageKey": 113490251
     }
   ],
-  "key": 113490260,
+  "key": 113490251,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "numDescendants": 3,
-  "order": "Taxales",
-  "orderKey": 113490260,
+  "nubKey": 194,
+  "numDescendants": 20,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Pinopsida",
-  "parentKey": 113490251,
+  "parent": "Pinophyta",
+  "parentKey": 113490250,
   "phylum": "Pinophyta",
   "phylumKey": 113490250,
-  "rank": "ORDER",
-  "scientificName": "Taxales",
+  "rank": "CLASS",
+  "scientificName": "Pinopsida",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Adenostemma lavenia
+GENUS Adenostemma
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-GENUS Juglans
+FAMILY Juglandaceae
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Syzygium operculatum
+GENUS Syzygium
 =======
 Status: ???
 According to: ???

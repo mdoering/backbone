@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Potentilla fulgens",
+  "canonicalName": "Potentilla",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045662,
+      "key": 14046089,
       "type": "SOURCE_ID",
-      "usageKey": 113489556
+      "usageKey": 113490192
     }
   ],
-  "key": 113489556,
+  "key": 113490192,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5366166,
-  "numDescendants": 0,
+  "nubKey": 5365261,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Potentilla",
-  "parentKey": 113490192,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rosaceae",
+  "parentKey": 113490189,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Potentilla fulgens",
-  "species": "Potentilla fulgens",
-  "speciesKey": 113489556,
+  "rank": "GENUS",
+  "scientificName": "Potentilla",
   "synonym": false
 }

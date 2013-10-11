@@ -1,4 +1,4 @@
-SPECIES Psidium guajava
+GENUS Psidium
 =======
 Status: ???
 According to: ???

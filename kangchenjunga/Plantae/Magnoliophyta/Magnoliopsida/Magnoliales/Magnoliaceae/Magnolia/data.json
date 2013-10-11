@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Magnolia campbellii",
+  "canonicalName": "Magnolia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045612,
+      "key": 14046013,
       "type": "SOURCE_ID",
-      "usageKey": 113489506
+      "usageKey": 113490116
     }
   ],
-  "key": 113489506,
+  "key": 113490116,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3152974,
-  "numDescendants": 0,
+  "nubKey": 2888195,
+  "numDescendants": 1,
   "order": "Magnoliales",
   "orderKey": 113490114,
-  "origin": "SOURCE",
-  "parent": "Magnolia",
-  "parentKey": 113490116,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Magnoliaceae",
+  "parentKey": 113490115,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Magnolia campbellii",
-  "species": "Magnolia campbellii",
-  "speciesKey": 113489506,
+  "rank": "GENUS",
+  "scientificName": "Magnolia",
   "synonym": false
 }

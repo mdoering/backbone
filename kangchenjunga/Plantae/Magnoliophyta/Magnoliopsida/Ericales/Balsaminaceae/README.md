@@ -1,4 +1,4 @@
-GENUS Impatiens
+FAMILY Balsaminaceae
 =======
 Status: ???
 According to: ???

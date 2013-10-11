@@ -1,4 +1,4 @@
-GENUS Persea
+FAMILY Lauraceae
 =======
 Status: ???
 According to: ???

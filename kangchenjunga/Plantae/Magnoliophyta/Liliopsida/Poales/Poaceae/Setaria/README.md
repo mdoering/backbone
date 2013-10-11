@@ -1,4 +1,4 @@
-SPECIES Setaria geniculata
+GENUS Setaria
 =======
 Status: ???
 According to: ???

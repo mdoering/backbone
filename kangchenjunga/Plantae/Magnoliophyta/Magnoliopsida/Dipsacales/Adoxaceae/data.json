@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Viburnum",
+  "canonicalName": "Adoxaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Adoxaceae",
   "familyKey": 113489989,
-  "genus": "Viburnum",
-  "genusKey": 113489990,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045887,
+      "key": 14045886,
       "type": "SOURCE_ID",
-      "usageKey": 113489990
+      "usageKey": 113489989
     }
   ],
-  "key": 113489990,
+  "key": 113489989,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2888580,
-  "numDescendants": 2,
+  "nubKey": 2510,
+  "numDescendants": 3,
   "order": "Dipsacales",
   "orderKey": 113489988,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Adoxaceae",
-  "parentKey": 113489989,
+  "parent": "Dipsacales",
+  "parentKey": 113489988,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Viburnum",
+  "rank": "FAMILY",
+  "scientificName": "Adoxaceae",
   "synonym": false
 }

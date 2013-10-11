@@ -1,4 +1,4 @@
-SPECIES Notochaete hamosa
+GENUS Notochaete
 =======
 Status: ???
 According to: ???

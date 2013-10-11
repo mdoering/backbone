@@ -1,4 +1,4 @@
-SPECIES Cestrum elegans
+GENUS Cestrum
 =======
 Status: ???
 According to: ???

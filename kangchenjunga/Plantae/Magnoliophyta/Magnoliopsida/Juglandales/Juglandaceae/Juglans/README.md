@@ -1,4 +1,4 @@
-SPECIES Juglans regia
+GENUS Juglans
 =======
 Status: ???
 According to: ???

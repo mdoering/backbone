@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Clerodendrum viscosum",
+  "canonicalName": "Clerodendrum",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045716,
+      "key": 14046003,
       "type": "SOURCE_ID",
-      "usageKey": 113489610
+      "usageKey": 113490106
     }
   ],
-  "key": 113489610,
+  "key": 113490106,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7307373,
-  "numDescendants": 0,
+  "nubKey": 2925347,
+  "numDescendants": 2,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Clerodendrum",
-  "parentKey": 113490106,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Verbenaceae",
+  "parentKey": 113490105,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Clerodendrum viscosum",
-  "species": "Clerodendrum viscosum",
-  "speciesKey": 113489610,
+  "rank": "GENUS",
+  "scientificName": "Clerodendrum",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Capillipedium assimile
+GENUS Capillipedium
 =======
 Status: ???
 According to: ???

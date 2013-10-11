@@ -1,4 +1,4 @@
-SPECIES Gonostegia hirta
+GENUS Gonostegia
 =======
 Status: ???
 According to: ???

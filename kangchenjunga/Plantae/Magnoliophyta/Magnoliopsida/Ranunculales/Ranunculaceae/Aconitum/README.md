@@ -1,4 +1,4 @@
-SPECIES Aconitum ferox
+GENUS Aconitum
 =======
 Status: ???
 According to: ???

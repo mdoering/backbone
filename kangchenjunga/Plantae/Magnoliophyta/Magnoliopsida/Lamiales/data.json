@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Verbenaceae",
+  "canonicalName": "Lamiales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Verbenaceae",
-  "familyKey": 113490105,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046002,
+      "key": 14045969,
       "type": "SOURCE_ID",
-      "usageKey": 113490105
+      "usageKey": 113490072
     }
   ],
-  "key": 113490105,
+  "key": 113490072,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 6689,
-  "numDescendants": 5,
+  "nubKey": 408,
+  "numDescendants": 67,
   "order": "Lamiales",
   "orderKey": 113490072,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Lamiales",
-  "parentKey": 113490072,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Verbenaceae",
+  "rank": "ORDER",
+  "scientificName": "Lamiales",
   "synonym": false
 }

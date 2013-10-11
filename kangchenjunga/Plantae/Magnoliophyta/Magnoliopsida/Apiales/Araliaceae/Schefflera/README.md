@@ -1,4 +1,4 @@
-SPECIES Schefflera venulosa
+GENUS Schefflera
 =======
 Status: ???
 According to: ???

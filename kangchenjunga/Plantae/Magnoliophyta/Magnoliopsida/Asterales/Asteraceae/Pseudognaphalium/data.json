@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Gnaphalium affine",
+  "canonicalName": "Pseudognaphalium",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045480,
+      "key": 14045836,
       "type": "SOURCE_ID",
-      "usageKey": 113489374
+      "usageKey": 113489939
     }
   ],
-  "key": 113489374,
+  "key": 113489939,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5390097,
-  "numDescendants": 0,
+  "nubKey": 3100917,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Pseudognaphalium",
-  "parentKey": 113489939,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asteraceae",
+  "parentKey": 113489923,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Gnaphalium affine",
-  "species": "Gnaphalium affine",
-  "speciesKey": 113489374,
+  "rank": "GENUS",
+  "scientificName": "Pseudognaphalium",
   "synonym": false
 }

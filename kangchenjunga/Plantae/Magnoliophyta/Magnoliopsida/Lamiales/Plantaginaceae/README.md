@@ -1,4 +1,4 @@
-GENUS Plantago
+FAMILY Plantaginaceae
 =======
 Status: ???
 According to: ???

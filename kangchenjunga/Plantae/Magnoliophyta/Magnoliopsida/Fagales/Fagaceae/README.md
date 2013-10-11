@@ -1,4 +1,4 @@
-GENUS Quercus
+FAMILY Fagaceae
 =======
 Status: ???
 According to: ???

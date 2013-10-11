@@ -1,4 +1,4 @@
-SPECIES Anaphalis margaritacea
+GENUS Anaphalis
 =======
 Status: ???
 According to: ???

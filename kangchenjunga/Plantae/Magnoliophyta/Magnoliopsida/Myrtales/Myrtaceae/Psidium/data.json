@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Psidium guajava",
+  "canonicalName": "Psidium",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045632,
+      "key": 14046046,
       "type": "SOURCE_ID",
-      "usageKey": 113489526
+      "usageKey": 113490149
     }
   ],
-  "key": 113489526,
+  "key": 113490149,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5420380,
-  "numDescendants": 0,
+  "nubKey": 3187232,
+  "numDescendants": 1,
   "order": "Myrtales",
   "orderKey": 113490140,
-  "origin": "SOURCE",
-  "parent": "Psidium",
-  "parentKey": 113490149,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Myrtaceae",
+  "parentKey": 113490148,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Psidium guajava",
-  "species": "Psidium guajava",
-  "speciesKey": 113489526,
+  "rank": "GENUS",
+  "scientificName": "Psidium",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Pleione hookeriana
+GENUS Pleione
 =======
 Status: ???
 According to: ???

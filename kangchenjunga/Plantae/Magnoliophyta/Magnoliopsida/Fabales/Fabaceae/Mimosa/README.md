@@ -1,4 +1,4 @@
-SPECIES Mimosa pudica
+GENUS Mimosa
 =======
 Status: ???
 According to: ???

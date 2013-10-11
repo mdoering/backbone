@@ -1,4 +1,4 @@
-GENUS Phytolacca
+FAMILY Phytolaccaceae
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-ORDER Solanales
+CLASS Magnoliopsida
 =======
 Status: ???
 According to: ???

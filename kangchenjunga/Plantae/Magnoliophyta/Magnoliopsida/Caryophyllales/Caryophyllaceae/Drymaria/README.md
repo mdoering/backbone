@@ -1,4 +1,4 @@
-SPECIES Drymaria villosa
+GENUS Drymaria
 =======
 Status: ???
 According to: ???

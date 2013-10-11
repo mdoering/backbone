@@ -1,4 +1,4 @@
-SPECIES Crinum amoenum
+GENUS Crinum
 =======
 Status: ???
 According to: ???

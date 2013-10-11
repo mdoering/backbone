@@ -1,4 +1,4 @@
-SPECIES Sarcococca hookeriana
+GENUS Sarcococca
 =======
 Status: ???
 According to: ???

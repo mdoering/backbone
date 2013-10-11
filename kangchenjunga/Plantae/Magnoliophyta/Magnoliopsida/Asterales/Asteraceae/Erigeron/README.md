@@ -1,4 +1,4 @@
-SPECIES Erigeron bellidioides
+GENUS Erigeron
 =======
 Status: ???
 According to: ???

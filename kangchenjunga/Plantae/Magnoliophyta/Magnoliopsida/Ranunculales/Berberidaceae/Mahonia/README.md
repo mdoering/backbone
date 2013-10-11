@@ -1,4 +1,4 @@
-SPECIES Mahonia napaulensis
+GENUS Mahonia
 =======
 Status: ???
 According to: ???

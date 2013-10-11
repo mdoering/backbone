@@ -1,4 +1,4 @@
-SPECIES Elaeagnus parvifolia
+GENUS Elaeagnus
 =======
 Status: ???
 According to: ???

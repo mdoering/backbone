@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Myrtaceae",
+  "canonicalName": "Myrtales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Myrtaceae",
-  "familyKey": 113490148,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046045,
+      "key": 14046037,
       "type": "SOURCE_ID",
-      "usageKey": 113490148
+      "usageKey": 113490140
     }
   ],
-  "key": 113490148,
+  "key": 113490140,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5014,
-  "numDescendants": 5,
+  "nubKey": 690,
+  "numDescendants": 17,
   "order": "Myrtales",
   "orderKey": 113490140,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Myrtales",
-  "parentKey": 113490140,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Myrtaceae",
+  "rank": "ORDER",
+  "scientificName": "Myrtales",
   "synonym": false
 }

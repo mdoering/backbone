@@ -1,4 +1,4 @@
-SPECIES Carpesium nepalense
+GENUS Carpesium
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Achyranthes aspera
+GENUS Achyranthes
 =======
 Status: ???
 According to: ???

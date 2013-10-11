@@ -1,4 +1,4 @@
-SPECIES Costus speciosus
+GENUS Costus
 =======
 Status: ???
 According to: ???

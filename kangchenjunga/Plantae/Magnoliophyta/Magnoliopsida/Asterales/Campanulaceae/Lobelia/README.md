@@ -1,4 +1,4 @@
-SPECIES Lobelia pyramidalis
+GENUS Lobelia
 =======
 Status: ???
 According to: ???

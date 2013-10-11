@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Persea",
+  "canonicalName": "Lauraceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Lauraceae",
   "familyKey": 113490109,
-  "genus": "Persea",
-  "genusKey": 113490113,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046010,
+      "key": 14046006,
       "type": "SOURCE_ID",
-      "usageKey": 113490113
+      "usageKey": 113490109
     }
   ],
-  "key": 113490113,
+  "key": 113490109,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3034041,
-  "numDescendants": 2,
+  "nubKey": 6688,
+  "numDescendants": 12,
   "order": "Laurales",
   "orderKey": 113490108,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Lauraceae",
-  "parentKey": 113490109,
+  "parent": "Laurales",
+  "parentKey": 113490108,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Persea",
+  "rank": "FAMILY",
+  "scientificName": "Lauraceae",
   "synonym": false
 }

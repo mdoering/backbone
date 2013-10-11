@@ -1,4 +1,4 @@
-SPECIES Clerodendrum viscosum
+GENUS Clerodendrum
 =======
 Status: ???
 According to: ???

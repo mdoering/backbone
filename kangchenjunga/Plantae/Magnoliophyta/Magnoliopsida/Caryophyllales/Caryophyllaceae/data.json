@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Spergula",
+  "canonicalName": "Caryophyllaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Caryophyllaceae",
   "familyKey": 113489963,
-  "genus": "Spergula",
-  "genusKey": 113489965,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045862,
+      "key": 14045860,
       "type": "SOURCE_ID",
-      "usageKey": 113489965
+      "usageKey": 113489963
     }
   ],
-  "key": 113489965,
+  "key": 113489963,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3085807,
-  "numDescendants": 1,
+  "nubKey": 2518,
+  "numDescendants": 5,
   "order": "Caryophyllales",
   "orderKey": 113489957,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Caryophyllaceae",
-  "parentKey": 113489963,
+  "parent": "Caryophyllales",
+  "parentKey": 113489957,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Spergula",
+  "rank": "FAMILY",
+  "scientificName": "Caryophyllaceae",
   "synonym": false
 }

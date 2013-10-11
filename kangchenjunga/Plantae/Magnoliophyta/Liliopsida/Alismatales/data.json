@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Araceae",
+  "canonicalName": "Alismatales",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Araceae",
-  "familyKey": 113489835,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045732,
+      "key": 14045731,
       "type": "SOURCE_ID",
-      "usageKey": 113489835
+      "usageKey": 113489834
     }
   ],
-  "key": 113489835,
+  "key": 113489834,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 6979,
-  "numDescendants": 8,
+  "nubKey": 551,
+  "numDescendants": 9,
   "order": "Alismatales",
   "orderKey": 113489834,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Alismatales",
-  "parentKey": 113489834,
+  "parent": "Liliopsida",
+  "parentKey": 113489833,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Araceae",
+  "rank": "ORDER",
+  "scientificName": "Alismatales",
   "synonym": false
 }

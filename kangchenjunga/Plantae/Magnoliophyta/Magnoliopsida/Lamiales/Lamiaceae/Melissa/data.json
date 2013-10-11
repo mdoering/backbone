@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Melissa axillaris",
+  "canonicalName": "Melissa",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045592,
+      "key": 14045987,
       "type": "SOURCE_ID",
-      "usageKey": 113489486
+      "usageKey": 113490090
     }
   ],
-  "key": 113489486,
+  "key": 113490090,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5610922,
-  "numDescendants": 0,
+  "nubKey": 2927330,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Melissa",
-  "parentKey": 113490090,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Lamiaceae",
+  "parentKey": 113490085,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Melissa axillaris",
-  "species": "Melissa axillaris",
-  "speciesKey": 113489486,
+  "rank": "GENUS",
+  "scientificName": "Melissa",
   "synonym": false
 }

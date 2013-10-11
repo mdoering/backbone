@@ -1,4 +1,4 @@
-SPECIES Pogostemon amarantoides
+GENUS Pogostemon
 =======
 Status: ???
 According to: ???

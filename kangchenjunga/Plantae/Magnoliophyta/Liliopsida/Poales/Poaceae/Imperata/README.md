@@ -1,4 +1,4 @@
-SPECIES Imperata cylindrica
+GENUS Imperata
 =======
 Status: ???
 According to: ???

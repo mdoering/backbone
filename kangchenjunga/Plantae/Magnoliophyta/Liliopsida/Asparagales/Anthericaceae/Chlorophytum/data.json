@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Chlorophytum nepalense",
+  "canonicalName": "Chlorophytum",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045367,
+      "key": 14045740,
       "type": "SOURCE_ID",
-      "usageKey": 113489261
+      "usageKey": 113489843
     }
   ],
-  "key": 113489261,
+  "key": 113489843,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2774691,
-  "numDescendants": 0,
+  "nubKey": 2693640,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Chlorophytum",
-  "parentKey": 113489843,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Anthericaceae",
+  "parentKey": 113489842,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Chlorophytum nepalense",
-  "species": "Chlorophytum nepalense",
-  "speciesKey": 113489261,
+  "rank": "GENUS",
+  "scientificName": "Chlorophytum",
   "synonym": false
 }

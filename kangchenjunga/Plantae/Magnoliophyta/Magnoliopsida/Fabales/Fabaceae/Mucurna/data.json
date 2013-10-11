@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Mucurna monosperma",
+  "canonicalName": "Mucurna",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,27 +11,25 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045563,
+      "key": 14045926,
       "type": "SOURCE_ID",
-      "usageKey": 113489457
+      "usageKey": 113490029
     }
   ],
-  "key": 113489457,
+  "key": 113490029,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "numDescendants": 0,
+  "numDescendants": 1,
   "order": "Fabales",
   "orderKey": 113490020,
-  "origin": "SOURCE",
-  "parent": "Mucurna",
-  "parentKey": 113490029,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Fabaceae",
+  "parentKey": 113490021,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Mucurna monosperma",
-  "species": "Mucurna monosperma",
-  "speciesKey": 113489457,
+  "rank": "GENUS",
+  "scientificName": "Mucurna",
   "synonym": false
 }

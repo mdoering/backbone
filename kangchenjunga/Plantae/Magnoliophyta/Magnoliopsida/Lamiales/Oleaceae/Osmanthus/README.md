@@ -1,4 +1,4 @@
-SPECIES Osmanthus suavis
+GENUS Osmanthus
 =======
 Status: ???
 According to: ???

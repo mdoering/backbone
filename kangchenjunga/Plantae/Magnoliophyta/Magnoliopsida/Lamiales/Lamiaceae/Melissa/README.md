@@ -1,4 +1,4 @@
-SPECIES Melissa axillaris
+GENUS Melissa
 =======
 Status: ???
 According to: ???

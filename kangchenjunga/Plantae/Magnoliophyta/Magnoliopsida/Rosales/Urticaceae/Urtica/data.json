@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Urtica dioica",
+  "canonicalName": "Urtica",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045711,
+      "key": 14046101,
       "type": "SOURCE_ID",
-      "usageKey": 113489605
+      "usageKey": 113490204
     }
   ],
-  "key": 113489605,
+  "key": 113490204,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5361816,
-  "numDescendants": 0,
+  "nubKey": 2984391,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Urtica",
-  "parentKey": 113490204,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Urticaceae",
+  "parentKey": 113490198,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Urtica dioica",
-  "species": "Urtica dioica",
-  "speciesKey": 113489605,
+  "rank": "GENUS",
+  "scientificName": "Urtica",
   "synonym": false
 }

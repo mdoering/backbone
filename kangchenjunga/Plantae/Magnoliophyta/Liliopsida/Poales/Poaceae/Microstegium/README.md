@@ -1,4 +1,4 @@
-SPECIES Microstegium ciliatum
+GENUS Microstegium
 =======
 Status: ???
 According to: ???

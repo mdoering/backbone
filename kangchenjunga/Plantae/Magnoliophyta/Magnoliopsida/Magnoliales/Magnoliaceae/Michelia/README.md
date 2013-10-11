@@ -1,4 +1,4 @@
-SPECIES Michelia velutina
+GENUS Michelia
 =======
 Status: ???
 According to: ???

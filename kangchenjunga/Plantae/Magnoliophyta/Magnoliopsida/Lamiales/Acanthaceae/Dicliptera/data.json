@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Dicliptera bupleuroides",
+  "canonicalName": "Dicliptera",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045421,
+      "key": 14045972,
       "type": "SOURCE_ID",
-      "usageKey": 113489315
+      "usageKey": 113490075
     }
   ],
-  "key": 113489315,
+  "key": 113490075,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7264383,
-  "numDescendants": 0,
+  "nubKey": 5415359,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Dicliptera",
-  "parentKey": 113490075,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Acanthaceae",
+  "parentKey": 113490073,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Dicliptera bupleuroides",
-  "species": "Dicliptera bupleuroides",
-  "speciesKey": 113489315,
+  "rank": "GENUS",
+  "scientificName": "Dicliptera",
   "synonym": false
 }

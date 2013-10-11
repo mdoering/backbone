@@ -1,4 +1,4 @@
-SPECIES Lindera pulcherrima
+GENUS Lindera
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Heracleum nepalense
+GENUS Heracleum
 =======
 Status: ???
 According to: ???

@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Ranunculaceae",
+  "canonicalName": "Ranunculales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Ranunculaceae",
-  "familyKey": 113490169,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046066,
+      "key": 14046057,
       "type": "SOURCE_ID",
-      "usageKey": 113490169
+      "usageKey": 113490160
     }
   ],
-  "key": 113490169,
+  "key": 113490160,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2410,
-  "numDescendants": 7,
+  "nubKey": 399,
+  "numDescendants": 25,
   "order": "Ranunculales",
   "orderKey": 113490160,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Ranunculales",
-  "parentKey": 113490160,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Ranunculaceae",
+  "rank": "ORDER",
+  "scientificName": "Ranunculales",
   "synonym": false
 }

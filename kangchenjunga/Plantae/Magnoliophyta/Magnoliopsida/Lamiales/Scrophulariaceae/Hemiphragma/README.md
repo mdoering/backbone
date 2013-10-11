@@ -1,4 +1,4 @@
-SPECIES Hemiphragma heterophyllum
+GENUS Hemiphragma
 =======
 Status: ???
 According to: ???

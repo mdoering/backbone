@@ -1,4 +1,4 @@
-SPECIES Trichosanthes tricuspidata
+GENUS Trichosanthes
 =======
 Status: ???
 According to: ???

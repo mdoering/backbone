@@ -1,4 +1,4 @@
-SPECIES Eulophia herbacea
+GENUS Eulophia
 =======
 Status: ???
 According to: ???

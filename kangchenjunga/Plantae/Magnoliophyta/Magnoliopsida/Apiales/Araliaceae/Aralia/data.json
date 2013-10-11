@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Aralia cachemirica",
+  "canonicalName": "Aralia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045450,
+      "key": 14045807,
       "type": "SOURCE_ID",
-      "usageKey": 113489344
+      "usageKey": 113489910
     }
   ],
-  "key": 113489344,
+  "key": 113489910,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3037057,
-  "numDescendants": 0,
+  "nubKey": 3036858,
+  "numDescendants": 1,
   "order": "Apiales",
   "orderKey": 113489903,
-  "origin": "SOURCE",
-  "parent": "Aralia",
-  "parentKey": 113489910,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Araliaceae",
+  "parentKey": 113489909,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Aralia cachemirica",
-  "species": "Aralia cachemirica",
-  "speciesKey": 113489344,
+  "rank": "GENUS",
+  "scientificName": "Aralia",
   "synonym": false
 }

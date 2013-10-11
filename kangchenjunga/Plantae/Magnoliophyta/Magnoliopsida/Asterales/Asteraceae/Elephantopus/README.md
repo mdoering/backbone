@@ -1,4 +1,4 @@
-SPECIES Elephantopus scaber
+GENUS Elephantopus
 =======
 Status: ???
 According to: ???

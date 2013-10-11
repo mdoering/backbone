@@ -1,4 +1,4 @@
-SPECIES Tetrastigma serrulatum
+GENUS Tetrastigma
 =======
 Status: ???
 According to: ???

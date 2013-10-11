@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Trichosanthes",
+  "canonicalName": "Cucurbitaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Cucurbitaceae",
   "familyKey": 113489985,
-  "genus": "Trichosanthes",
-  "genusKey": 113489987,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045884,
+      "key": 14045882,
       "type": "SOURCE_ID",
-      "usageKey": 113489987
+      "usageKey": 113489985
     }
   ],
-  "key": 113489987,
+  "key": 113489985,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2874604,
-  "numDescendants": 1,
+  "nubKey": 6634,
+  "numDescendants": 4,
   "order": "Cucurbitales",
   "orderKey": 113489982,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Cucurbitaceae",
-  "parentKey": 113489985,
+  "parent": "Cucurbitales",
+  "parentKey": 113489982,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Trichosanthes",
+  "rank": "FAMILY",
+  "scientificName": "Cucurbitaceae",
   "synonym": false
 }

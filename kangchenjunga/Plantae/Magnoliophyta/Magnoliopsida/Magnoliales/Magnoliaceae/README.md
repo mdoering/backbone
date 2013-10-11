@@ -1,4 +1,4 @@
-GENUS Michelia
+FAMILY Magnoliaceae
 =======
 Status: ???
 According to: ???

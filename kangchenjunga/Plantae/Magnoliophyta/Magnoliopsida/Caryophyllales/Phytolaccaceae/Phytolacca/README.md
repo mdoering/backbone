@@ -1,4 +1,4 @@
-SPECIES Phytolacca acinosa
+GENUS Phytolacca
 =======
 Status: ???
 According to: ???

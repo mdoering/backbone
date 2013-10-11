@@ -1,4 +1,4 @@
-SPECIES Berberis chitria
+GENUS Berberis
 =======
 Status: ???
 According to: ???

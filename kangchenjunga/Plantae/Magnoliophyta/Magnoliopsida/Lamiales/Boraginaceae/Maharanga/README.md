@@ -1,4 +1,4 @@
-SPECIES Maharanga emodi
+GENUS Maharanga
 =======
 Status: ???
 According to: ???

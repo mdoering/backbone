@@ -1,4 +1,4 @@
-ORDER Taxales
+CLASS Pinopsida
 =======
 Status: ???
 According to: ???

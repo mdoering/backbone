@@ -1,4 +1,4 @@
-SPECIES Paris polyphylla
+GENUS Paris
 =======
 Status: ???
 According to: ???

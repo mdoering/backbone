@@ -1,4 +1,4 @@
-SPECIES Thunbergia coccinea
+GENUS Thunbergia
 =======
 Status: ???
 According to: ???

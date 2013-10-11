@@ -1,4 +1,4 @@
-GENUS Betula
+FAMILY Betulaceae
 =======
 Status: ???
 According to: ???

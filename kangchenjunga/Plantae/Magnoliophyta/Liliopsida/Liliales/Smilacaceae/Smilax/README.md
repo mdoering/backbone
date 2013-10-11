@@ -1,4 +1,4 @@
-SPECIES Smilax rigida
+GENUS Smilax
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Abies spectabilis
+GENUS Abies
 =======
 Status: ???
 According to: ???

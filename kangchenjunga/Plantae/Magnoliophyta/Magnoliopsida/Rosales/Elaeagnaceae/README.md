@@ -1,4 +1,4 @@
-GENUS Elaeagnus
+FAMILY Elaeagnaceae
 =======
 Status: ???
 According to: ???

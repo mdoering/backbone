@@ -1,4 +1,4 @@
-SPECIES Lyonia ovalifolia
+GENUS Lyonia
 =======
 Status: ???
 According to: ???

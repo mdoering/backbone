@@ -1,4 +1,4 @@
-SPECIES Alstonia scholaris
+GENUS Alstonia
 =======
 Status: ???
 According to: ???

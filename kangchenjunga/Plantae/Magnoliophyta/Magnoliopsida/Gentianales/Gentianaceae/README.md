@@ -1,4 +1,4 @@
-GENUS Swertia
+FAMILY Gentianaceae
 =======
 Status: ???
 According to: ???

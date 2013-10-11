@@ -1,4 +1,4 @@
-SPECIES Acer sikkimense
+GENUS Acer
 =======
 Status: ???
 According to: ???

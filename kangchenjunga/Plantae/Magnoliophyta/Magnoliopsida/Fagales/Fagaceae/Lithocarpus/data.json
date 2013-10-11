@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Lithocarpus pachyphylla",
+  "canonicalName": "Lithocarpus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,27 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045570,
+      "key": 14045935,
       "type": "SOURCE_ID",
-      "usageKey": 113489464
+      "usageKey": 113490038
     }
   ],
-  "key": 113489464,
+  "key": 113490038,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "numDescendants": 0,
+  "nubKey": 2876673,
+  "numDescendants": 2,
   "order": "Fagales",
   "orderKey": 113490032,
-  "origin": "SOURCE",
-  "parent": "Lithocarpus",
-  "parentKey": 113490038,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Fagaceae",
+  "parentKey": 113490036,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Lithocarpus pachyphylla",
-  "species": "Lithocarpus pachyphylla",
-  "speciesKey": 113489464,
+  "rank": "GENUS",
+  "scientificName": "Lithocarpus",
   "synonym": false
 }

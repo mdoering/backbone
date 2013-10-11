@@ -1,4 +1,4 @@
-SPECIES Duchesnea indica
+GENUS Duchesnea
 =======
 Status: ???
 According to: ???

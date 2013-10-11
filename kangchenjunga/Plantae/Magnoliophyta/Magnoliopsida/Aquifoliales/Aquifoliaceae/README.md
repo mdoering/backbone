@@ -1,4 +1,4 @@
-GENUS Ilex
+FAMILY Aquifoliaceae
 =======
 Status: ???
 According to: ???

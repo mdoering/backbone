@@ -1,4 +1,4 @@
-SPECIES Potentilla fulgens
+GENUS Potentilla
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Cassia fistula
+GENUS Cassia
 =======
 Status: ???
 According to: ???

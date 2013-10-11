@@ -1,4 +1,4 @@
-SPECIES Ilex dipyrena
+GENUS Ilex
 =======
 Status: ???
 According to: ???

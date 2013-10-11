@@ -1,4 +1,4 @@
-SPECIES Myriactis nepalensis
+GENUS Myriactis
 =======
 Status: ???
 According to: ???

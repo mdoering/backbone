@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Elephantopus scaber",
+  "canonicalName": "Elephantopus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045475,
+      "key": 14045831,
       "type": "SOURCE_ID",
-      "usageKey": 113489369
+      "usageKey": 113489934
     }
   ],
-  "key": 113489369,
+  "key": 113489934,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5395925,
-  "numDescendants": 0,
+  "nubKey": 3119618,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Elephantopus",
-  "parentKey": 113489934,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asteraceae",
+  "parentKey": 113489923,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Elephantopus scaber",
-  "species": "Elephantopus scaber",
-  "speciesKey": 113489369,
+  "rank": "GENUS",
+  "scientificName": "Elephantopus",
   "synonym": false
 }

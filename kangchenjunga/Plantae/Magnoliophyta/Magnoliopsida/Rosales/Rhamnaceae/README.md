@@ -1,4 +1,4 @@
-GENUS Zizyphus
+FAMILY Rhamnaceae
 =======
 Status: ???
 According to: ???

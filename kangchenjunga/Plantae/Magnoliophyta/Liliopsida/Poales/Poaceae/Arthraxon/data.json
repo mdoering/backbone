@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Arthraxon lancifolius",
+  "canonicalName": "Arthraxon",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045398,
+      "key": 14045780,
       "type": "SOURCE_ID",
-      "usageKey": 113489292
+      "usageKey": 113489883
     }
   ],
-  "key": 113489292,
+  "key": 113489883,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5674603,
-  "numDescendants": 0,
+  "nubKey": 2706305,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Arthraxon",
-  "parentKey": 113489883,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Poaceae",
+  "parentKey": 113489882,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Arthraxon lancifolius",
-  "species": "Arthraxon lancifolius",
-  "speciesKey": 113489292,
+  "rank": "GENUS",
+  "scientificName": "Arthraxon",
   "synonym": false
 }

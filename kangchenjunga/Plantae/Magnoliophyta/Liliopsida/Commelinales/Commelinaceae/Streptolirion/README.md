@@ -1,4 +1,4 @@
-SPECIES Streptolirion volubile
+GENUS Streptolirion
 =======
 Status: ???
 According to: ???

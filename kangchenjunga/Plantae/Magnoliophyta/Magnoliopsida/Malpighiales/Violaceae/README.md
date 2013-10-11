@@ -1,4 +1,4 @@
-GENUS Viola
+FAMILY Violaceae
 =======
 Status: ???
 According to: ???

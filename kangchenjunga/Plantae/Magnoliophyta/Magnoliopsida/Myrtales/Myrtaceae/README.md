@@ -1,4 +1,4 @@
-GENUS Syzygium
+FAMILY Myrtaceae
 =======
 Status: ???
 According to: ???

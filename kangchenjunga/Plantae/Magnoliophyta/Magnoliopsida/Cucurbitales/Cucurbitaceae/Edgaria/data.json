@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Edgaria darjeelingensis",
+  "canonicalName": "Edgaria",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045525,
+      "key": 14045883,
       "type": "SOURCE_ID",
-      "usageKey": 113489419
+      "usageKey": 113489986
     }
   ],
-  "key": 113489419,
+  "key": 113489986,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7317501,
-  "numDescendants": 0,
+  "nubKey": 7317500,
+  "numDescendants": 1,
   "order": "Cucurbitales",
   "orderKey": 113489982,
-  "origin": "SOURCE",
-  "parent": "Edgaria",
-  "parentKey": 113489986,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Cucurbitaceae",
+  "parentKey": 113489985,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Edgaria darjeelingensis",
-  "species": "Edgaria darjeelingensis",
-  "speciesKey": 113489419,
+  "rank": "GENUS",
+  "scientificName": "Edgaria",
   "synonym": false
 }

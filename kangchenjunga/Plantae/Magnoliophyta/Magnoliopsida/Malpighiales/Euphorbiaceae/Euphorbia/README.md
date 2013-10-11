@@ -1,4 +1,4 @@
-SPECIES Euphorbia royleana
+GENUS Euphorbia
 =======
 Status: ???
 According to: ???

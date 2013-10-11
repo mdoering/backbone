@@ -1,4 +1,4 @@
-SPECIES Engelhardtia spicata
+GENUS Engelhardtia
 =======
 Status: ???
 According to: ???

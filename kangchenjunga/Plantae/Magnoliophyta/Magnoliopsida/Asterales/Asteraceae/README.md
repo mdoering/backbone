@@ -1,4 +1,4 @@
-GENUS Vernonia
+FAMILY Asteraceae
 =======
 Status: ???
 According to: ???

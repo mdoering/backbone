@@ -1,4 +1,4 @@
-SPECIES Ceropegia pubescens
+GENUS Ceropegia
 =======
 Status: ???
 According to: ???

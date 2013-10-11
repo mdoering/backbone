@@ -1,4 +1,4 @@
-GENUS Begonia
+FAMILY Begoniaceae
 =======
 Status: ???
 According to: ???

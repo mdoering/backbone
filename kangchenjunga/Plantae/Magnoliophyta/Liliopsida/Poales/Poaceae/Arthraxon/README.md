@@ -1,4 +1,4 @@
-SPECIES Arthraxon lancifolius
+GENUS Arthraxon
 =======
 Status: ???
 According to: ???

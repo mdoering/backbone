@@ -1,4 +1,4 @@
-SPECIES Myrica esculenta
+GENUS Myrica
 =======
 Status: ???
 According to: ???

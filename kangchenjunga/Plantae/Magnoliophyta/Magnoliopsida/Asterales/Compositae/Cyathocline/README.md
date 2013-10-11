@@ -1,4 +1,4 @@
-SPECIES Cyathocline purpurea
+GENUS Cyathocline
 =======
 Status: ???
 According to: ???

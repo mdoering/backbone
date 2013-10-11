@@ -1,4 +1,4 @@
-SPECIES Sarcopyramis napalensis
+GENUS Sarcopyramis
 =======
 Status: ???
 According to: ???

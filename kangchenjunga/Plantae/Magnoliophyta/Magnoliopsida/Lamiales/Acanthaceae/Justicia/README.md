@@ -1,4 +1,4 @@
-SPECIES Justicia procumbens
+GENUS Justicia
 =======
 Status: ???
 According to: ???

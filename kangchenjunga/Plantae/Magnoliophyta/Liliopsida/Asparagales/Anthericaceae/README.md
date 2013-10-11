@@ -1,4 +1,4 @@
-GENUS Chlorophytum
+FAMILY Anthericaceae
 =======
 Status: ???
 According to: ???

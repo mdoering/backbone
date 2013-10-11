@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Imperata cylindrica",
+  "canonicalName": "Imperata",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045406,
+      "key": 14045787,
       "type": "SOURCE_ID",
-      "usageKey": 113489300
+      "usageKey": 113489890
     }
   ],
-  "key": 113489300,
+  "key": 113489890,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5289712,
-  "numDescendants": 0,
+  "nubKey": 2703065,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Imperata",
-  "parentKey": 113489890,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Poaceae",
+  "parentKey": 113489882,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Imperata cylindrica",
-  "species": "Imperata cylindrica",
-  "speciesKey": 113489300,
+  "rank": "GENUS",
+  "scientificName": "Imperata",
   "synonym": false
 }

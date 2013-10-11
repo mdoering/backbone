@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Pycnoplinthopsis bhutanica",
+  "canonicalName": "Pycnoplinthopsis",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045505,
+      "key": 14045852,
       "type": "SOURCE_ID",
-      "usageKey": 113489399
+      "usageKey": 113489955
     }
   ],
-  "key": 113489399,
+  "key": 113489955,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3041969,
-  "numDescendants": 0,
+  "nubKey": 3041968,
+  "numDescendants": 1,
   "order": "Brassicales",
   "orderKey": 113489952,
-  "origin": "SOURCE",
-  "parent": "Pycnoplinthopsis",
-  "parentKey": 113489955,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Brassicaceae",
+  "parentKey": 113489953,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Pycnoplinthopsis bhutanica",
-  "species": "Pycnoplinthopsis bhutanica",
-  "speciesKey": 113489399,
+  "rank": "GENUS",
+  "scientificName": "Pycnoplinthopsis",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Erythrina arborescens
+GENUS Erythrina
 =======
 Status: ???
 According to: ???

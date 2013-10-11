@@ -1,4 +1,4 @@
-GENUS Lagerstroemia
+FAMILY Lythraceae
 =======
 Status: ???
 According to: ???

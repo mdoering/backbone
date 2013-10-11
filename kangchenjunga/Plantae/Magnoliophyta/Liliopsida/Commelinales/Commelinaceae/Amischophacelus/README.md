@@ -1,4 +1,4 @@
-SPECIES Amischophacelus axillaris
+GENUS Amischophacelus
 =======
 Status: ???
 According to: ???

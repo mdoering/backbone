@@ -1,4 +1,4 @@
-GENUS Reinwardtia
+FAMILY Linaceae
 =======
 Status: ???
 According to: ???

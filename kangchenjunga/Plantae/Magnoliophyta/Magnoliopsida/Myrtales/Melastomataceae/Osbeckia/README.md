@@ -1,4 +1,4 @@
-SPECIES Osbeckia stellata
+GENUS Osbeckia
 =======
 Status: ???
 According to: ???

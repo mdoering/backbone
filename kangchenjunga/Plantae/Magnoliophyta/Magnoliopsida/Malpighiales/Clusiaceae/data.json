@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Hypericum",
+  "canonicalName": "Clusiaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Clusiaceae",
   "familyKey": 113490119,
-  "genus": "Hypericum",
-  "genusKey": 113490120,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046017,
+      "key": 14046016,
       "type": "SOURCE_ID",
-      "usageKey": 113490120
+      "usageKey": 113490119
     }
   ],
-  "key": 113490120,
+  "key": 113490119,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3189452,
-  "numDescendants": 3,
+  "nubKey": 6646,
+  "numDescendants": 4,
   "order": "Malpighiales",
   "orderKey": 113490118,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Clusiaceae",
-  "parentKey": 113490119,
+  "parent": "Malpighiales",
+  "parentKey": 113490118,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Hypericum",
+  "rank": "FAMILY",
+  "scientificName": "Clusiaceae",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Vernonia volkameriifolia
+GENUS Vernonia
 =======
 Status: ???
 According to: ???

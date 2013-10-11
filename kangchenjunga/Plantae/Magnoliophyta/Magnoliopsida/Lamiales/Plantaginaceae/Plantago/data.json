@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Plantago erosa",
+  "canonicalName": "Plantago",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045649,
+      "key": 14045998,
       "type": "SOURCE_ID",
-      "usageKey": 113489543
+      "usageKey": 113490101
     }
   ],
-  "key": 113489543,
+  "key": 113490101,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7302966,
-  "numDescendants": 0,
+  "nubKey": 3189695,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Plantago",
-  "parentKey": 113490101,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Plantaginaceae",
+  "parentKey": 113490100,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Plantago erosa",
-  "species": "Plantago erosa",
-  "speciesKey": 113489543,
+  "rank": "GENUS",
+  "scientificName": "Plantago",
   "synonym": false
 }

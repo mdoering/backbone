@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Tupistra aurantiaca",
+  "canonicalName": "Tupistra",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045369,
+      "key": 14045746,
       "type": "SOURCE_ID",
-      "usageKey": 113489263
+      "usageKey": 113489849
     }
   ],
-  "key": 113489263,
+  "key": 113489849,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2770742,
-  "numDescendants": 0,
+  "nubKey": 2763685,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Tupistra",
-  "parentKey": 113489849,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Convallariaceae",
+  "parentKey": 113489846,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Tupistra aurantiaca",
-  "species": "Tupistra aurantiaca",
-  "speciesKey": 113489263,
+  "rank": "GENUS",
+  "scientificName": "Tupistra",
   "synonym": false
 }

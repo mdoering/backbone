@@ -1,4 +1,4 @@
-SPECIES Elsholtzia strobilifera
+GENUS Elsholtzia
 =======
 Status: ???
 According to: ???

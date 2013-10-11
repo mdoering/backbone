@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Habenaria pectinata",
+  "canonicalName": "Habenaria",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045394,
+      "key": 14045757,
       "type": "SOURCE_ID",
-      "usageKey": 113489288
+      "usageKey": 113489860
     }
   ],
-  "key": 113489288,
+  "key": 113489860,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2829876,
-  "numDescendants": 0,
+  "nubKey": 2828306,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Habenaria",
-  "parentKey": 113489860,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Habenaria pectinata",
-  "species": "Habenaria pectinata",
-  "speciesKey": 113489288,
+  "rank": "GENUS",
+  "scientificName": "Habenaria",
   "synonym": false
 }

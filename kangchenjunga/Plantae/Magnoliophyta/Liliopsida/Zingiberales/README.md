@@ -1,4 +1,4 @@
-FAMILY Zingiberaceae
+ORDER Zingiberales
 =======
 Status: ???
 According to: ???

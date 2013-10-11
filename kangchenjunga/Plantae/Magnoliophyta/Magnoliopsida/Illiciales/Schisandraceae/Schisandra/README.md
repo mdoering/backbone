@@ -1,4 +1,4 @@
-SPECIES Schisandra grandiflora
+GENUS Schisandra
 =======
 Status: ???
 According to: ???

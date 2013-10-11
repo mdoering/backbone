@@ -1,4 +1,4 @@
-GENUS Nicotiana
+FAMILY Solanaceae
 =======
 Status: ???
 According to: ???

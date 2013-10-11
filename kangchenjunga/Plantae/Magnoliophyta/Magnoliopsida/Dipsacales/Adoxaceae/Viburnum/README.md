@@ -1,4 +1,4 @@
-SPECIES Viburnum erubescens
+GENUS Viburnum
 =======
 Status: ???
 According to: ???

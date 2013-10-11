@@ -1,4 +1,4 @@
-GENUS Spatholobus
+FAMILY Fabaceae
 =======
 Status: ???
 According to: ???

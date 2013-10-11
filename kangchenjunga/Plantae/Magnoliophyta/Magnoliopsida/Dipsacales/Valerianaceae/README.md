@@ -1,4 +1,4 @@
-GENUS Valeriana
+FAMILY Valerianaceae
 =======
 Status: ???
 According to: ???

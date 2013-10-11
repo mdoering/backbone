@@ -1,4 +1,4 @@
-SPECIES Artocarpus lakoocha
+GENUS Artocarpus
 =======
 Status: ???
 According to: ???

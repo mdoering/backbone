@@ -1,4 +1,4 @@
-SPECIES Hemerocallis fulva
+GENUS Hemerocallis
 =======
 Status: ???
 According to: ???

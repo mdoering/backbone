@@ -1,4 +1,4 @@
-SPECIES Chenopodium ambrosioides
+GENUS Chenopodium
 =======
 Status: ???
 According to: ???

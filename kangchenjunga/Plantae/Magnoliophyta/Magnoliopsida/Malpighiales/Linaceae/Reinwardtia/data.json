@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Reinwardtia indica",
+  "canonicalName": "Reinwardtia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045606,
+      "key": 14046025,
       "type": "SOURCE_ID",
-      "usageKey": 113489500
+      "usageKey": 113490128
     }
   ],
-  "key": 113489500,
+  "key": 113490128,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5658009,
-  "numDescendants": 0,
+  "nubKey": 3231346,
+  "numDescendants": 1,
   "order": "Malpighiales",
   "orderKey": 113490118,
-  "origin": "SOURCE",
-  "parent": "Reinwardtia",
-  "parentKey": 113490128,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Linaceae",
+  "parentKey": 113490127,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Reinwardtia indica",
-  "species": "Reinwardtia indica",
-  "speciesKey": 113489500,
+  "rank": "GENUS",
+  "scientificName": "Reinwardtia",
   "synonym": false
 }

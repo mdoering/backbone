@@ -1,4 +1,4 @@
-SPECIES Deeringia amaranthoides
+GENUS Deeringia
 =======
 Status: ???
 According to: ???

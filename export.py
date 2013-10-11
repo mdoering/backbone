@@ -20,12 +20,12 @@ def dumpUsage(u, parentDir):
     dirpath = os.path.join( parentDir, u.get("canonicalName","incertae sedis"))
     os.makedirs(dirpath)
     
-    fJson = open(os.path.join(parentDir,'data.json'), 'w')
+    fJson = open(os.path.join(dirpath,'data.json'), 'w')
     fJson.write(json.dumps(u, sort_keys=True, indent=2, separators=(',', ': ')))
     fJson.close()
     
     # add defaults to json if None
-    fReadme = open(os.path.join(parentDir,'README.md'), 'w')
+    fReadme = open(os.path.join(dirpath,'README.md'), 'w')
     fReadme.write("%s %s\n=======\nStatus: %s\nAccording to: %s\n" % (u.get("rank","unranked"), u.get("scientificName","Name missing"), u.get("taxonomicStatus","???"), u.get("accordingTo","???")))
     fReadme.close()
   except Exception as e:

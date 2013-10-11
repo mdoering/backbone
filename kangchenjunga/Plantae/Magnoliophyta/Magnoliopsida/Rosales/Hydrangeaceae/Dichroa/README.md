@@ -1,4 +1,4 @@
-SPECIES Dichroa febrifuga
+GENUS Dichroa
 =======
 Status: ???
 According to: ???

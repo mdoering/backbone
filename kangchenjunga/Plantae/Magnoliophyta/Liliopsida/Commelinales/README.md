@@ -1,4 +1,4 @@
-FAMILY Commelinaceae
+ORDER Commelinales
 =======
 Status: ???
 According to: ???

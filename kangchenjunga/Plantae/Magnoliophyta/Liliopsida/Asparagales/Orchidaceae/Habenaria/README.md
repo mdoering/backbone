@@ -1,4 +1,4 @@
-SPECIES Habenaria pectinata
+GENUS Habenaria
 =======
 Status: ???
 According to: ???

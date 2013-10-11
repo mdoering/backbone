@@ -1,4 +1,4 @@
-GENUS Spergula
+FAMILY Caryophyllaceae
 =======
 Status: ???
 According to: ???

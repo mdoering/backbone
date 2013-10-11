@@ -1,4 +1,4 @@
-GENUS Terminalia
+FAMILY Combretaceae
 =======
 Status: ???
 According to: ???

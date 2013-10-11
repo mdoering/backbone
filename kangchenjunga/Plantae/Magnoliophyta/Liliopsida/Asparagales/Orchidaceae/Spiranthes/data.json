@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Spiranthes sinensis",
+  "canonicalName": "Spiranthes",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045396,
+      "key": 14045759,
       "type": "SOURCE_ID",
-      "usageKey": 113489290
+      "usageKey": 113489862
     }
   ],
-  "key": 113489290,
+  "key": 113489862,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2805433,
-  "numDescendants": 0,
+  "nubKey": 2805315,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Spiranthes",
-  "parentKey": 113489862,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Spiranthes sinensis",
-  "species": "Spiranthes sinensis",
-  "speciesKey": 113489290,
+  "rank": "GENUS",
+  "scientificName": "Spiranthes",
   "synonym": false
 }

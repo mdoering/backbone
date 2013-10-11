@@ -1,4 +1,4 @@
-SPECIES Impatiens sulcata
+GENUS Impatiens
 =======
 Status: ???
 According to: ???

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Boehmeria clidemioides",
+  "canonicalName": "Boehmeria",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045706,
+      "key": 14046096,
       "type": "SOURCE_ID",
-      "usageKey": 113489600
+      "usageKey": 113490199
     }
   ],
-  "key": 113489600,
+  "key": 113490199,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7300656,
-  "numDescendants": 0,
+  "nubKey": 2984344,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Boehmeria",
-  "parentKey": 113490199,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Urticaceae",
+  "parentKey": 113490198,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Boehmeria clidemioides",
-  "species": "Boehmeria clidemioides",
-  "speciesKey": 113489600,
+  "rank": "GENUS",
+  "scientificName": "Boehmeria",
   "synonym": false
 }

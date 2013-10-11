@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Drymaria villosa",
+  "canonicalName": "Drymaria",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045518,
+      "key": 14045861,
       "type": "SOURCE_ID",
-      "usageKey": 113489412
+      "usageKey": 113489964
     }
   ],
-  "key": 113489412,
+  "key": 113489964,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7267996,
-  "numDescendants": 0,
+  "nubKey": 3085329,
+  "numDescendants": 2,
   "order": "Caryophyllales",
   "orderKey": 113489957,
-  "origin": "SOURCE",
-  "parent": "Drymaria",
-  "parentKey": 113489964,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Caryophyllaceae",
+  "parentKey": 113489963,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Drymaria villosa",
-  "species": "Drymaria villosa",
-  "speciesKey": 113489412,
+  "rank": "GENUS",
+  "scientificName": "Drymaria",
   "synonym": false
 }

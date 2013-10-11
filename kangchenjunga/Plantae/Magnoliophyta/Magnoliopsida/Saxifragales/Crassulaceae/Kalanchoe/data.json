@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Kalanchoe spathulata",
+  "canonicalName": "Kalanchoe",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045524,
+      "key": 14046130,
       "type": "SOURCE_ID",
-      "usageKey": 113489418
+      "usageKey": 113490233
     }
   ],
-  "key": 113489418,
+  "key": 113490233,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7334133,
-  "numDescendants": 0,
+  "nubKey": 2985928,
+  "numDescendants": 1,
   "order": "Saxifragales",
   "orderKey": 113490231,
-  "origin": "SOURCE",
-  "parent": "Kalanchoe",
-  "parentKey": 113490233,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Crassulaceae",
+  "parentKey": 113490232,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Kalanchoe spathulata",
-  "species": "Kalanchoe spathulata",
-  "speciesKey": 113489418,
+  "rank": "GENUS",
+  "scientificName": "Kalanchoe",
   "synonym": false
 }

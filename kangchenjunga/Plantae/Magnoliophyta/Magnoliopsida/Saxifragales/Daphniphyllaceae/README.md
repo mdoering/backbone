@@ -1,4 +1,4 @@
-GENUS Daphniphyllum
+FAMILY Daphniphyllaceae
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Tupistra aurantiaca
+GENUS Tupistra
 =======
 Status: ???
 According to: ???

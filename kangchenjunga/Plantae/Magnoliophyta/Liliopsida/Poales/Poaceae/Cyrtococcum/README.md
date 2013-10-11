@@ -1,4 +1,4 @@
-SPECIES Cyrtococcum accrescens
+GENUS Cyrtococcum
 =======
 Status: ???
 According to: ???

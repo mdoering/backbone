@@ -1,4 +1,4 @@
-GENUS Didymocarpus
+FAMILY Gesneriaceae
 =======
 Status: ???
 According to: ???

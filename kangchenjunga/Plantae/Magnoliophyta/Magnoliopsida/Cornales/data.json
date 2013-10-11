@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Hydrangeaceae",
+  "canonicalName": "Cornales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Hydrangeaceae",
-  "familyKey": 113489980,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045877,
+      "key": 14045874,
       "type": "SOURCE_ID",
-      "usageKey": 113489980
+      "usageKey": 113489977
     }
   ],
-  "key": 113489980,
+  "key": 113489977,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 6667,
-  "numDescendants": 2,
+  "nubKey": 949,
+  "numDescendants": 6,
   "order": "Cornales",
   "orderKey": 113489977,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Cornales",
-  "parentKey": 113489977,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Hydrangeaceae",
+  "rank": "ORDER",
+  "scientificName": "Cornales",
   "synonym": false
 }

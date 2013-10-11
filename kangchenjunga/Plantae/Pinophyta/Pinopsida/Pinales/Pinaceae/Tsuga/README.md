@@ -1,4 +1,4 @@
-SPECIES Tsuga dumosa
+GENUS Tsuga
 =======
 Status: ???
 According to: ???

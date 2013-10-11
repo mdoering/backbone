@@ -1,4 +1,4 @@
-GENUS Spiraea
+FAMILY Rosaceae
 =======
 Status: ???
 According to: ???

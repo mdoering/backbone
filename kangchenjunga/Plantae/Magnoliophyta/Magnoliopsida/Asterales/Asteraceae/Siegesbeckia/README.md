@@ -1,4 +1,4 @@
-SPECIES Sigesbeckia orientalis
+GENUS Siegesbeckia
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-GENUS Maharanga
+FAMILY Boraginaceae
 =======
 Status: ???
 According to: ???

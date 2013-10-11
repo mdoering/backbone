@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Lagerstroemia",
+  "canonicalName": "Lythraceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Lythraceae",
   "familyKey": 113490143,
-  "genus": "Lagerstroemia",
-  "genusKey": 113490144,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046041,
+      "key": 14046040,
       "type": "SOURCE_ID",
-      "usageKey": 113490144
+      "usageKey": 113490143
     }
   ],
-  "key": 113490144,
+  "key": 113490143,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3188723,
-  "numDescendants": 1,
+  "nubKey": 6684,
+  "numDescendants": 2,
   "order": "Myrtales",
   "orderKey": 113490140,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Lythraceae",
-  "parentKey": 113490143,
+  "parent": "Myrtales",
+  "parentKey": 113490140,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Lagerstroemia",
+  "rank": "FAMILY",
+  "scientificName": "Lythraceae",
   "synonym": false
 }

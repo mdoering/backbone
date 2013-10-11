@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Symplocos ramosissima",
+  "canonicalName": "Symplocos",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045697,
+      "key": 14045910,
       "type": "SOURCE_ID",
-      "usageKey": 113489591
+      "usageKey": 113490013
     }
   ],
-  "key": 113489591,
+  "key": 113490013,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7318852,
-  "numDescendants": 0,
+  "nubKey": 3032996,
+  "numDescendants": 3,
   "order": "Ericales",
   "orderKey": 113489996,
-  "origin": "SOURCE",
-  "parent": "Symplocos",
-  "parentKey": 113490013,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Symplocaceae",
+  "parentKey": 113490012,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Symplocos ramosissima",
-  "species": "Symplocos ramosissima",
-  "speciesKey": 113489591,
+  "rank": "GENUS",
+  "scientificName": "Symplocos",
   "synonym": false
 }

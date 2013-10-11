@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Capillipedium assimile",
+  "canonicalName": "Capillipedium",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045402,
+      "key": 14045783,
       "type": "SOURCE_ID",
-      "usageKey": 113489296
+      "usageKey": 113489886
     }
   ],
-  "key": 113489296,
+  "key": 113489886,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4106183,
-  "numDescendants": 0,
+  "nubKey": 4105924,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Capillipedium",
-  "parentKey": 113489886,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Poaceae",
+  "parentKey": 113489882,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Capillipedium assimile",
-  "species": "Capillipedium assimile",
-  "speciesKey": 113489296,
+  "rank": "GENUS",
+  "scientificName": "Capillipedium",
   "synonym": false
 }

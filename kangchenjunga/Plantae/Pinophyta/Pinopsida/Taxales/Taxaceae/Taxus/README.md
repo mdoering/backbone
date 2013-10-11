@@ -1,4 +1,4 @@
-SPECIES Taxus baccata
+GENUS Taxus
 =======
 Status: ???
 According to: ???

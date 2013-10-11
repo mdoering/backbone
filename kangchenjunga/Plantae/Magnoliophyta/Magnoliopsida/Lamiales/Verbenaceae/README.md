@@ -1,4 +1,4 @@
-GENUS Vitex
+FAMILY Verbenaceae
 =======
 Status: ???
 According to: ???

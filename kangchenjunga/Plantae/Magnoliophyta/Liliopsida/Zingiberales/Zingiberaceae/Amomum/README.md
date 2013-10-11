@@ -1,4 +1,4 @@
-SPECIES Amomum subulatum
+GENUS Amomum
 =======
 Status: ???
 According to: ???

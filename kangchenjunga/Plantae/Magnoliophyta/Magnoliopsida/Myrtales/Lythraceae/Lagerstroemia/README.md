@@ -1,4 +1,4 @@
-SPECIES Lagerstroemia hirsuta
+GENUS Lagerstroemia
 =======
 Status: ???
 According to: ???

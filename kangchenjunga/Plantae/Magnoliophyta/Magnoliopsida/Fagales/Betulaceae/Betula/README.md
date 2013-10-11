@@ -1,4 +1,4 @@
-SPECIES Betula utilis
+GENUS Betula
 =======
 Status: ???
 According to: ???

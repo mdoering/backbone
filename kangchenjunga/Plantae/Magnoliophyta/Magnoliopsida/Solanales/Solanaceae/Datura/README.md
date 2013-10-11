@@ -1,4 +1,4 @@
-SPECIES Datura stramonium
+GENUS Datura
 =======
 Status: ???
 According to: ???

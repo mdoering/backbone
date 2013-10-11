@@ -1,4 +1,4 @@
-SPECIES Spergula arvensis
+GENUS Spergula
 =======
 Status: ???
 According to: ???

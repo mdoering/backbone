@@ -1,4 +1,4 @@
-SPECIES Hydrangea robusta
+GENUS Hydrangea
 =======
 Status: ???
 According to: ???

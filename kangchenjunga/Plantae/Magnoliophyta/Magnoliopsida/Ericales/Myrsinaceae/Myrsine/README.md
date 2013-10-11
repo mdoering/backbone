@@ -1,4 +1,4 @@
-SPECIES Myrsine semiserrata
+GENUS Myrsine
 =======
 Status: ???
 According to: ???

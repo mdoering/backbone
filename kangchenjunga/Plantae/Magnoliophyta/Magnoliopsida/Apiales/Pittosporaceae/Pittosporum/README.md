@@ -1,4 +1,4 @@
-SPECIES Pittosporum napaulense
+GENUS Pittosporum
 =======
 Status: ???
 According to: ???

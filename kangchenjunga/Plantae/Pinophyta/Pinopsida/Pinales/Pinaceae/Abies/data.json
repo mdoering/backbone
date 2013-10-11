@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Abies spectabilis",
+  "canonicalName": "Abies",
   "classKey": 113490251,
   "clazz": "Pinopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045723,
+      "key": 14046153,
       "type": "SOURCE_ID",
-      "usageKey": 113489617
+      "usageKey": 113490256
     }
   ],
-  "key": 113489617,
+  "key": 113490256,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2685619,
-  "numDescendants": 0,
+  "nubKey": 2684876,
+  "numDescendants": 1,
   "order": "Pinales",
   "orderKey": 113490252,
-  "origin": "SOURCE",
-  "parent": "Abies",
-  "parentKey": 113490256,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Pinaceae",
+  "parentKey": 113490255,
   "phylum": "Pinophyta",
   "phylumKey": 113490250,
-  "rank": "SPECIES",
-  "scientificName": "Abies spectabilis",
-  "species": "Abies spectabilis",
-  "speciesKey": 113489617,
+  "rank": "GENUS",
+  "scientificName": "Abies",
   "synonym": false
 }

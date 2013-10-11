@@ -1,4 +1,4 @@
-GENUS Myrsine
+FAMILY Myrsinaceae
 =======
 Status: ???
 According to: ???

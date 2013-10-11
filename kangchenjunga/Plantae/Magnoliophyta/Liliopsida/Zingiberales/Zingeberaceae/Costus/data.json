@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Costus speciosus",
+  "canonicalName": "Costus",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045373,
+      "key": 14045795,
       "type": "SOURCE_ID",
-      "usageKey": 113489267
+      "usageKey": 113489898
     }
   ],
-  "key": 113489267,
+  "key": 113489898,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2756724,
-  "numDescendants": 0,
+  "nubKey": 2756771,
+  "numDescendants": 1,
   "order": "Zingiberales",
   "orderKey": 113489896,
-  "origin": "SOURCE",
-  "parent": "Costus",
-  "parentKey": 113489898,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Zingeberaceae",
+  "parentKey": 113489897,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Costus speciosus",
-  "species": "Costus speciosus",
-  "speciesKey": 113489267,
+  "rank": "GENUS",
+  "scientificName": "Costus",
   "synonym": false
 }

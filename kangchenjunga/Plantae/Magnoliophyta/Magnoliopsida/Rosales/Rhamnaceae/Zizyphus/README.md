@@ -1,4 +1,4 @@
-SPECIES Zizyphus mauritiana
+GENUS Zizyphus
 =======
 Status: ???
 According to: ???

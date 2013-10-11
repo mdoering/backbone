@@ -1,4 +1,4 @@
-SPECIES Toona ciliata
+GENUS Toona
 =======
 Status: ???
 According to: ???

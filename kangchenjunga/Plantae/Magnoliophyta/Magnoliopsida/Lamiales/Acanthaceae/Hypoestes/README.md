@@ -1,4 +1,4 @@
-SPECIES Hypoestes triflora
+GENUS Hypoestes
 =======
 Status: ???
 According to: ???

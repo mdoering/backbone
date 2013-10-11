@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Tupistra",
+  "canonicalName": "Convallariaceae",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Convallariaceae",
   "familyKey": 113489846,
-  "genus": "Tupistra",
-  "genusKey": 113489849,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045746,
+      "key": 14045743,
       "type": "SOURCE_ID",
-      "usageKey": 113489849
+      "usageKey": 113489846
     }
   ],
-  "key": 113489849,
+  "key": 113489846,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2763685,
-  "numDescendants": 1,
+  "nubKey": 3685131,
+  "numDescendants": 6,
   "order": "Asparagales",
   "orderKey": 113489839,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Convallariaceae",
-  "parentKey": 113489846,
+  "parent": "Asparagales",
+  "parentKey": 113489839,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Tupistra",
+  "rank": "FAMILY",
+  "scientificName": "Convallariaceae",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Codonopsis viridis
+GENUS Codonopsis
 =======
 Status: ???
 According to: ???

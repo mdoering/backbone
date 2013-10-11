@@ -1,4 +1,4 @@
-GENUS Zanthoxylum
+FAMILY Rutaceae
 =======
 Status: ???
 According to: ???

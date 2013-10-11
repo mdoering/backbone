@@ -1,4 +1,4 @@
-GENUS Deeringia
+FAMILY Amaranthaceae
 =======
 Status: ???
 According to: ???

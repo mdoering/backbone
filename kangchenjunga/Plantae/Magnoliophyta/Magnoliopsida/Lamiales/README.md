@@ -1,4 +1,4 @@
-FAMILY Verbenaceae
+ORDER Lamiales
 =======
 Status: ???
 According to: ???

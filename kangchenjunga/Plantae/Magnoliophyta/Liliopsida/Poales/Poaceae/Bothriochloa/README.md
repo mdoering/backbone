@@ -1,4 +1,4 @@
-SPECIES Bothriochloa intermedia
+GENUS Bothriochloa
 =======
 Status: ???
 According to: ???

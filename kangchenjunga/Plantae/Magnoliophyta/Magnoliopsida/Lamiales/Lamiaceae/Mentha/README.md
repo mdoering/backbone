@@ -1,4 +1,4 @@
-SPECIES Mentha arvensis
+GENUS Mentha
 =======
 Status: ???
 According to: ???

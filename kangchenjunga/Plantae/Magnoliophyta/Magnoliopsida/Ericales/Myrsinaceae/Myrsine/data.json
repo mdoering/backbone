@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Myrsine semiserrata",
+  "canonicalName": "Myrsine",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045631,
+      "key": 14045908,
       "type": "SOURCE_ID",
-      "usageKey": 113489525
+      "usageKey": 113490011
     }
   ],
-  "key": 113489525,
+  "key": 113490011,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7330934,
-  "numDescendants": 0,
+  "nubKey": 3169412,
+  "numDescendants": 2,
   "order": "Ericales",
   "orderKey": 113489996,
-  "origin": "SOURCE",
-  "parent": "Myrsine",
-  "parentKey": 113490011,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Myrsinaceae",
+  "parentKey": 113490009,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Myrsine semiserrata",
-  "species": "Myrsine semiserrata",
-  "speciesKey": 113489525,
+  "rank": "GENUS",
+  "scientificName": "Myrsine",
   "synonym": false
 }

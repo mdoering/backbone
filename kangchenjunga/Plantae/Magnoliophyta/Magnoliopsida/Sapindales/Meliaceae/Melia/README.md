@@ -1,4 +1,4 @@
-SPECIES Melia azedarach
+GENUS Melia
 =======
 Status: ???
 According to: ???

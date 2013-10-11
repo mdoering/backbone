@@ -1,4 +1,4 @@
-SPECIES Calotropis gigantea
+GENUS Calotropis
 =======
 Status: ???
 According to: ???

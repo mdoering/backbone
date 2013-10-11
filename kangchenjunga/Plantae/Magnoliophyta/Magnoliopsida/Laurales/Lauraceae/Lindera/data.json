@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Lindera pulcherrima",
+  "canonicalName": "Lindera",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045602,
+      "key": 14046008,
       "type": "SOURCE_ID",
-      "usageKey": 113489496
+      "usageKey": 113490111
     }
   ],
-  "key": 113489496,
+  "key": 113490111,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7304463,
-  "numDescendants": 0,
+  "nubKey": 3034035,
+  "numDescendants": 2,
   "order": "Laurales",
   "orderKey": 113490108,
-  "origin": "SOURCE",
-  "parent": "Lindera",
-  "parentKey": 113490111,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Lauraceae",
+  "parentKey": 113490109,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Lindera pulcherrima",
-  "species": "Lindera pulcherrima",
-  "speciesKey": 113489496,
+  "rank": "GENUS",
+  "scientificName": "Lindera",
   "synonym": false
 }

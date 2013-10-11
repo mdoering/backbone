@@ -1,4 +1,4 @@
-SPECIES Choerospondias axillaris
+GENUS Chaerospondias
 =======
 Status: ???
 According to: ???

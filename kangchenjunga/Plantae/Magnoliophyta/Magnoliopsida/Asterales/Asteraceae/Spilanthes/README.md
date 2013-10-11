@@ -1,4 +1,4 @@
-SPECIES Spilanthes calva
+GENUS Spilanthes
 =======
 Status: ???
 According to: ???

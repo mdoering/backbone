@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Spatholobus",
+  "canonicalName": "Fabaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Fabaceae",
   "familyKey": 113490021,
-  "genus": "Spatholobus",
-  "genusKey": 113490031,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045928,
+      "key": 14045918,
       "type": "SOURCE_ID",
-      "usageKey": 113490031
+      "usageKey": 113490021
     }
   ],
-  "key": 113490031,
+  "key": 113490021,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2977000,
-  "numDescendants": 1,
+  "nubKey": 5386,
+  "numDescendants": 21,
   "order": "Fabales",
   "orderKey": 113490020,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Fabaceae",
-  "parentKey": 113490021,
+  "parent": "Fabales",
+  "parentKey": 113490020,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Spatholobus",
+  "rank": "FAMILY",
+  "scientificName": "Fabaceae",
   "synonym": false
 }

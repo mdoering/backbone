@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Cyrtococcum accrescens",
+  "canonicalName": "Cyrtococcum",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045403,
+      "key": 14045784,
       "type": "SOURCE_ID",
-      "usageKey": 113489297
+      "usageKey": 113489887
     }
   ],
-  "key": 113489297,
+  "key": 113489887,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4133116,
-  "numDescendants": 0,
+  "nubKey": 2705907,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Cyrtococcum",
-  "parentKey": 113489887,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Poaceae",
+  "parentKey": 113489882,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Cyrtococcum accrescens",
-  "species": "Cyrtococcum accrescens",
-  "speciesKey": 113489297,
+  "rank": "GENUS",
+  "scientificName": "Cyrtococcum",
   "synonym": false
 }

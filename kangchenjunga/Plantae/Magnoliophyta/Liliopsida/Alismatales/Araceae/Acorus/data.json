@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Acorus calamus",
+  "canonicalName": "Acorus",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045361,
+      "key": 14045733,
       "type": "SOURCE_ID",
-      "usageKey": 113489255
+      "usageKey": 113489836
     }
   ],
-  "key": 113489255,
+  "key": 113489836,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2873769,
-  "numDescendants": 0,
+  "nubKey": 2730063,
+  "numDescendants": 1,
   "order": "Alismatales",
   "orderKey": 113489834,
-  "origin": "SOURCE",
-  "parent": "Acorus",
-  "parentKey": 113489836,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Araceae",
+  "parentKey": 113489835,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Acorus calamus",
-  "species": "Acorus calamus",
-  "speciesKey": 113489255,
+  "rank": "GENUS",
+  "scientificName": "Acorus",
   "synonym": false
 }

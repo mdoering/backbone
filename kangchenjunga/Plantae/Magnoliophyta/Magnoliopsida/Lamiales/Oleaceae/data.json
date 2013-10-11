@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Osmanthus",
+  "canonicalName": "Oleaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Oleaceae",
   "familyKey": 113490096,
-  "genus": "Osmanthus",
-  "genusKey": 113490099,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045996,
+      "key": 14045993,
       "type": "SOURCE_ID",
-      "usageKey": 113490099
+      "usageKey": 113490096
     }
   ],
-  "key": 113490099,
+  "key": 113490096,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3172275,
-  "numDescendants": 1,
+  "nubKey": 6652,
+  "numDescendants": 8,
   "order": "Lamiales",
   "orderKey": 113490072,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Oleaceae",
-  "parentKey": 113490096,
+  "parent": "Lamiales",
+  "parentKey": 113490072,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Osmanthus",
+  "rank": "FAMILY",
+  "scientificName": "Oleaceae",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-GENUS Asparagus
+FAMILY Asparagaceae
 =======
 Status: ???
 According to: ???

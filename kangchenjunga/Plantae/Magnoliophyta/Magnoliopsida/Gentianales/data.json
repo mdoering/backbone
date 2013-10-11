@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Rubiaceae",
+  "canonicalName": "Gentianales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Rubiaceae",
-  "familyKey": 113490055,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045952,
+      "key": 14045939,
       "type": "SOURCE_ID",
-      "usageKey": 113490055
+      "usageKey": 113490042
     }
   ],
-  "key": 113490055,
+  "key": 113490042,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 8798,
-  "numDescendants": 12,
+  "nubKey": 412,
+  "numDescendants": 37,
   "order": "Gentianales",
   "orderKey": 113490042,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Gentianales",
-  "parentKey": 113490042,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Rubiaceae",
+  "rank": "ORDER",
+  "scientificName": "Gentianales",
   "synonym": false
 }

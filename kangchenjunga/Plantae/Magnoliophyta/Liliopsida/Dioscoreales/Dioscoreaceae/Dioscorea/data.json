@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Dioscorea alata",
+  "canonicalName": "Dioscorea",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045377,
+      "key": 14045767,
       "type": "SOURCE_ID",
-      "usageKey": 113489271
+      "usageKey": 113489870
     }
   ],
-  "key": 113489271,
+  "key": 113489870,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2754476,
-  "numDescendants": 0,
+  "nubKey": 2754367,
+  "numDescendants": 1,
   "order": "Dioscoreales",
   "orderKey": 113489868,
-  "origin": "SOURCE",
-  "parent": "Dioscorea",
-  "parentKey": 113489870,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Dioscoreaceae",
+  "parentKey": 113489869,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Dioscorea alata",
-  "species": "Dioscorea alata",
-  "speciesKey": 113489271,
+  "rank": "GENUS",
+  "scientificName": "Dioscorea",
   "synonym": false
 }

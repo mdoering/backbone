@@ -1,4 +1,4 @@
-GENUS Bergenia
+FAMILY Saxifragaceae
 =======
 Status: ???
 According to: ???

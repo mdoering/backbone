@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Nymphaea",
+  "canonicalName": "Nymphaeaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Nymphaeaceae",
   "familyKey": 113490152,
-  "genus": "Nymphaea",
-  "genusKey": 113490153,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046050,
+      "key": 14046049,
       "type": "SOURCE_ID",
-      "usageKey": 113490153
+      "usageKey": 113490152
     }
   ],
-  "key": 113490153,
+  "key": 113490152,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2882411,
-  "numDescendants": 1,
+  "nubKey": 2423,
+  "numDescendants": 2,
   "order": "Nympheales",
   "orderKey": 113490151,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Nymphaeaceae",
-  "parentKey": 113490152,
+  "parent": "Nympheales",
+  "parentKey": 113490151,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Nymphaea",
+  "rank": "FAMILY",
+  "scientificName": "Nymphaeaceae",
   "synonym": false
 }

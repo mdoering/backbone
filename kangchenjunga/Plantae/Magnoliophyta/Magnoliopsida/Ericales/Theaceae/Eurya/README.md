@@ -1,4 +1,4 @@
-SPECIES Eurya cerasifolia
+GENUS Eurya
 =======
 Status: ???
 According to: ???

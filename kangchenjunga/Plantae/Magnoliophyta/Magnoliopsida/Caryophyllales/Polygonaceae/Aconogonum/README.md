@@ -1,4 +1,4 @@
-SPECIES Aconogonum molle
+GENUS Aconogonum
 =======
 Status: ???
 According to: ???

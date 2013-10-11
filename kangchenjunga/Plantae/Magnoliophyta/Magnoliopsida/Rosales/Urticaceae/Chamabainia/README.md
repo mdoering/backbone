@@ -1,4 +1,4 @@
-SPECIES Chamabainia cuspidata
+GENUS Chamabainia
 =======
 Status: ???
 According to: ???

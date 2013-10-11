@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Euphorbia royleana",
+  "canonicalName": "Euphorbia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045551,
+      "key": 14046021,
       "type": "SOURCE_ID",
-      "usageKey": 113489445
+      "usageKey": 113490124
     }
   ],
-  "key": 113489445,
+  "key": 113490124,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3065786,
-  "numDescendants": 0,
+  "nubKey": 3063749,
+  "numDescendants": 1,
   "order": "Malpighiales",
   "orderKey": 113490118,
-  "origin": "SOURCE",
-  "parent": "Euphorbia",
-  "parentKey": 113490124,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Euphorbiaceae",
+  "parentKey": 113490121,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Euphorbia royleana",
-  "species": "Euphorbia royleana",
-  "speciesKey": 113489445,
+  "rank": "GENUS",
+  "scientificName": "Euphorbia",
   "synonym": false
 }

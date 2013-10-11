@@ -1,4 +1,4 @@
-SPECIES Nymphaea stellata
+GENUS Nymphaea
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-FAMILY Fabaceae
+ORDER Fabales
 =======
 Status: ???
 According to: ???

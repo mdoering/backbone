@@ -1,4 +1,4 @@
-SPECIES Galium aparine
+GENUS Galium
 =======
 Status: ???
 According to: ???

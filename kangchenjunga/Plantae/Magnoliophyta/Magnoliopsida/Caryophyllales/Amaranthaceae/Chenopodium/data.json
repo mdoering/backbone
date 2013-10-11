@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Chenopodium ambrosioides",
+  "canonicalName": "Chenopodium",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045515,
+      "key": 14045857,
       "type": "SOURCE_ID",
-      "usageKey": 113489409
+      "usageKey": 113489960
     }
   ],
-  "key": 113489409,
+  "key": 113489960,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3083836,
-  "numDescendants": 0,
+  "nubKey": 3083823,
+  "numDescendants": 2,
   "order": "Caryophyllales",
   "orderKey": 113489957,
-  "origin": "SOURCE",
-  "parent": "Chenopodium",
-  "parentKey": 113489960,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Amaranthaceae",
+  "parentKey": 113489958,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Chenopodium ambrosioides",
-  "species": "Chenopodium ambrosioides",
-  "speciesKey": 113489409,
+  "rank": "GENUS",
+  "scientificName": "Chenopodium",
   "synonym": false
 }

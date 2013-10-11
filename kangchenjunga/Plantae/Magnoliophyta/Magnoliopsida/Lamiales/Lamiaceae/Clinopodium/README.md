@@ -1,4 +1,4 @@
-SPECIES Clinopodium umbrosum
+GENUS Clinopodium
 =======
 Status: ???
 According to: ???

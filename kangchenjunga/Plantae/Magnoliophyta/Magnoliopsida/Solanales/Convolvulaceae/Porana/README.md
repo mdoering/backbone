@@ -1,4 +1,4 @@
-SPECIES Porana grandiflora
+GENUS Porana
 =======
 Status: ???
 According to: ???

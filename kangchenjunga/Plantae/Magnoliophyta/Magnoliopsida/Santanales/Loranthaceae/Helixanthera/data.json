@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Helixanthera parasitica",
+  "canonicalName": "Helixanthera",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045608,
+      "key": 14046107,
       "type": "SOURCE_ID",
-      "usageKey": 113489502
+      "usageKey": 113490210
     }
   ],
-  "key": 113489502,
+  "key": 113490210,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4001417,
-  "numDescendants": 0,
+  "nubKey": 7287922,
+  "numDescendants": 1,
   "order": "Santanales",
   "orderKey": 113490205,
-  "origin": "SOURCE",
-  "parent": "Helixanthera",
-  "parentKey": 113490210,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Loranthaceae",
+  "parentKey": 113490208,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Helixanthera parasitica",
-  "species": "Helixanthera parasitica",
-  "speciesKey": 113489502,
+  "rank": "GENUS",
+  "scientificName": "Helixanthera",
   "synonym": false
 }

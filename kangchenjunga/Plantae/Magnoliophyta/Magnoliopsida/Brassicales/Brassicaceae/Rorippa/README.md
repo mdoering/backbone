@@ -1,4 +1,4 @@
-SPECIES Rorippa nasturtium-aquat
+GENUS Rorippa
 =======
 Status: ???
 According to: ???

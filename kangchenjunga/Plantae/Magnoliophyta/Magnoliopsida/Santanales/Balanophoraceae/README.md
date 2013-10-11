@@ -1,4 +1,4 @@
-GENUS Balanophora
+FAMILY Balanophoraceae
 =======
 Status: ???
 According to: ???

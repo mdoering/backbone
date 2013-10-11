@@ -1,4 +1,4 @@
-SPECIES Drepanostachyum intermedium
+GENUS Drepanostachyum
 =======
 Status: ???
 According to: ???

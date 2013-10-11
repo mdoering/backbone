@@ -1,4 +1,4 @@
-SPECIES Bulbostylis densa
+GENUS Bulbostylis
 =======
 Status: ???
 According to: ???

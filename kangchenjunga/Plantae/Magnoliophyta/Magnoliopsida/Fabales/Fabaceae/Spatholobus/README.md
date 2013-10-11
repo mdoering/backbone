@@ -1,4 +1,4 @@
-SPECIES Spatholobus parviflorus
+GENUS Spatholobus
 =======
 Status: ???
 According to: ???

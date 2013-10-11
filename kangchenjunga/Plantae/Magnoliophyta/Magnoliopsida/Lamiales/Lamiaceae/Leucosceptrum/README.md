@@ -1,4 +1,4 @@
-SPECIES Leucosceptrum canum
+GENUS Leucosceptrum
 =======
 Status: ???
 According to: ???

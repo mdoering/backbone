@@ -1,4 +1,4 @@
-SPECIES Alangium salviifolium
+GENUS Alangium
 =======
 Status: ???
 According to: ???

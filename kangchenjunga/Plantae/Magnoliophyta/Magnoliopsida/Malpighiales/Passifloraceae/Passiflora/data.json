@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Passiflora edulis",
+  "canonicalName": "Passiflora",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045645,
+      "key": 14046027,
       "type": "SOURCE_ID",
-      "usageKey": 113489539
+      "usageKey": 113490130
     }
   ],
-  "key": 113489539,
+  "key": 113490130,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2874190,
-  "numDescendants": 0,
+  "nubKey": 2874172,
+  "numDescendants": 1,
   "order": "Malpighiales",
   "orderKey": 113490118,
-  "origin": "SOURCE",
-  "parent": "Passiflora",
-  "parentKey": 113490130,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Passifloraceae",
+  "parentKey": 113490129,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Passiflora edulis",
-  "species": "Passiflora edulis",
-  "speciesKey": 113489539,
+  "rank": "GENUS",
+  "scientificName": "Passiflora",
   "synonym": false
 }

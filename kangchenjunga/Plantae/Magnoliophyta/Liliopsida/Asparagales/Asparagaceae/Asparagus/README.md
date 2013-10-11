@@ -1,4 +1,4 @@
-SPECIES Asparagus racemosus
+GENUS Asparagus
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Sapindus mukorossi
+GENUS Sapindus
 =======
 Status: ???
 According to: ???

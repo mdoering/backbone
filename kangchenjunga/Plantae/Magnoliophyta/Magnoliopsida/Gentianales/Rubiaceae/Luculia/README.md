@@ -1,4 +1,4 @@
-SPECIES Luculia gratissima
+GENUS Luculia
 =======
 Status: ???
 According to: ???

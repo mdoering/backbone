@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Bridelia retusa",
+  "canonicalName": "Bridelia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045550,
+      "key": 14046020,
       "type": "SOURCE_ID",
-      "usageKey": 113489444
+      "usageKey": 113490123
     }
   ],
-  "key": 113489444,
+  "key": 113490123,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3076196,
-  "numDescendants": 0,
+  "nubKey": 3076094,
+  "numDescendants": 1,
   "order": "Malpighiales",
   "orderKey": 113490118,
-  "origin": "SOURCE",
-  "parent": "Bridelia",
-  "parentKey": 113490123,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Euphorbiaceae",
+  "parentKey": 113490121,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Bridelia retusa",
-  "species": "Bridelia retusa",
-  "speciesKey": 113489444,
+  "rank": "GENUS",
+  "scientificName": "Bridelia",
   "synonym": false
 }

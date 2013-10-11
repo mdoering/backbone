@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Eulophia herbacea",
+  "canonicalName": "Eulophia",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045393,
+      "key": 14045756,
       "type": "SOURCE_ID",
-      "usageKey": 113489287
+      "usageKey": 113489859
     }
   ],
-  "key": 113489287,
+  "key": 113489859,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5311469,
-  "numDescendants": 0,
+  "nubKey": 2805899,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Eulophia",
-  "parentKey": 113489859,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Eulophia herbacea",
-  "species": "Eulophia herbacea",
-  "speciesKey": 113489287,
+  "rank": "GENUS",
+  "scientificName": "Eulophia",
   "synonym": false
 }

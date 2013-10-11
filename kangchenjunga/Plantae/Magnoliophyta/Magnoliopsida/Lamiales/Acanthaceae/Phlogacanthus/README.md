@@ -1,4 +1,4 @@
-SPECIES Phlogacanthus thyrsiflorus
+GENUS Phlogacanthus
 =======
 Status: ???
 According to: ???

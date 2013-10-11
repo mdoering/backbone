@@ -1,4 +1,4 @@
-GENUS Urtica
+FAMILY Urticaceae
 =======
 Status: ???
 According to: ???

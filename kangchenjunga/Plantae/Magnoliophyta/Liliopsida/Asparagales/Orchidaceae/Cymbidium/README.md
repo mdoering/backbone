@@ -1,4 +1,4 @@
-SPECIES Cymbidium longifolium
+GENUS Cymbidium
 =======
 Status: ???
 According to: ???

@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Lobelia",
+  "canonicalName": "Campanulaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Campanulaceae",
   "familyKey": 113489946,
-  "genus": "Lobelia",
-  "genusKey": 113489949,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045846,
+      "key": 14045843,
       "type": "SOURCE_ID",
-      "usageKey": 113489949
+      "usageKey": 113489946
     }
   ],
-  "key": 113489949,
+  "key": 113489946,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2756426,
-  "numDescendants": 1,
+  "nubKey": 8801,
+  "numDescendants": 7,
   "order": "Asterales",
   "orderKey": 113489922,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Campanulaceae",
-  "parentKey": 113489946,
+  "parent": "Asterales",
+  "parentKey": 113489922,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Lobelia",
+  "rank": "FAMILY",
+  "scientificName": "Campanulaceae",
   "synonym": false
 }

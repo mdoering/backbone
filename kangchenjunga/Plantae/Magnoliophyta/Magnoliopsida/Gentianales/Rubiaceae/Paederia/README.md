@@ -1,4 +1,4 @@
-SPECIES Paederia foetida
+GENUS Paederia
 =======
 Status: ???
 According to: ???

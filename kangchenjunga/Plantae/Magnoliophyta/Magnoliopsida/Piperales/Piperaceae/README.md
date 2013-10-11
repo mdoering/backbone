@@ -1,4 +1,4 @@
-GENUS Piper
+FAMILY Piperaceae
 =======
 Status: ???
 According to: ???

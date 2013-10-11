@@ -1,4 +1,4 @@
-SPECIES Marsdenia roylei
+GENUS Marsdenia
 =======
 Status: ???
 According to: ???

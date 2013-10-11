@@ -1,4 +1,4 @@
-SPECIES Spiraea arcuata
+GENUS Spiraea
 =======
 Status: ???
 According to: ???

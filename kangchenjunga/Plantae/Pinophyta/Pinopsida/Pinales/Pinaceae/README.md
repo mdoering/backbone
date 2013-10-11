@@ -1,4 +1,4 @@
-GENUS Tsuga
+FAMILY Pinaceae
 =======
 Status: ???
 According to: ???

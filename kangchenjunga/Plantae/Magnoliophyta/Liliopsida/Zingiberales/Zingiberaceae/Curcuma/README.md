@@ -1,4 +1,4 @@
-SPECIES Curcuma angustifolia
+GENUS Curcuma
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Cardiocrinum giganteum
+GENUS Cardiocrinum
 =======
 Status: ???
 According to: ???

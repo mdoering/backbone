@@ -1,4 +1,4 @@
-SPECIES Kalanchoe spathulata
+GENUS Kalanchoe
 =======
 Status: ???
 According to: ???

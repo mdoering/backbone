@@ -1,4 +1,4 @@
-SPECIES Reinwardtia indica
+GENUS Reinwardtia
 =======
 Status: ???
 According to: ???

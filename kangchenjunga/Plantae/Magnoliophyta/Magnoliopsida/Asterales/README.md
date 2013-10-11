@@ -1,4 +1,4 @@
-FAMILY Compositae
+ORDER Asterales
 =======
 Status: ???
 According to: ???

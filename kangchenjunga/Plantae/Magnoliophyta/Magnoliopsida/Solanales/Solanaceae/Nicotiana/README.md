@@ -1,4 +1,4 @@
-SPECIES Nicotiana tabacum
+GENUS Nicotiana
 =======
 Status: ???
 According to: ???

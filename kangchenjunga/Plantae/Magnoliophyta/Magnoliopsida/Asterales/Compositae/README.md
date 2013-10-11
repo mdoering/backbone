@@ -1,4 +1,4 @@
-GENUS Cyathocline
+FAMILY Compositae
 =======
 Status: ???
 According to: ???

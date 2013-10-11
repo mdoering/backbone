@@ -1,4 +1,4 @@
-SPECIES Nardostachys jatamansi
+GENUS Nardostachys
 =======
 Status: ???
 According to: ???

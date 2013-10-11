@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Centella asiatica",
+  "canonicalName": "Centella",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045441,
+      "key": 14045802,
       "type": "SOURCE_ID",
-      "usageKey": 113489335
+      "usageKey": 113489905
     }
   ],
-  "key": 113489335,
+  "key": 113489905,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3034128,
-  "numDescendants": 0,
+  "nubKey": 3034124,
+  "numDescendants": 1,
   "order": "Apiales",
   "orderKey": 113489903,
-  "origin": "SOURCE",
-  "parent": "Centella",
-  "parentKey": 113489905,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Apiaceae",
+  "parentKey": 113489904,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Centella asiatica",
-  "species": "Centella asiatica",
-  "speciesKey": 113489335,
+  "rank": "GENUS",
+  "scientificName": "Centella",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Pycreus sanguinolentus
+GENUS Pycreus
 =======
 Status: ???
 According to: ???

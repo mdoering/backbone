@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Acacia pennata",
+  "canonicalName": "Acacia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045556,
+      "key": 14045920,
       "type": "SOURCE_ID",
-      "usageKey": 113489450
+      "usageKey": 113490023
     }
   ],
-  "key": 113489450,
+  "key": 113490023,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2978790,
-  "numDescendants": 0,
+  "nubKey": 2978223,
+  "numDescendants": 1,
   "order": "Fabales",
   "orderKey": 113490020,
-  "origin": "SOURCE",
-  "parent": "Acacia",
-  "parentKey": 113490023,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Fabaceae",
+  "parentKey": 113490021,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Acacia pennata",
-  "species": "Acacia pennata",
-  "speciesKey": 113489450,
+  "rank": "GENUS",
+  "scientificName": "Acacia",
   "synonym": false
 }

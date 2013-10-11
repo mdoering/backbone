@@ -1,4 +1,4 @@
-GENUS Sarcopyramis
+FAMILY Melastomataceae
 =======
 Status: ???
 According to: ???

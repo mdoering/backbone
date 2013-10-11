@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Smilacina oleracea",
+  "canonicalName": "Smilacina",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045370,
+      "key": 14045745,
       "type": "SOURCE_ID",
-      "usageKey": 113489264
+      "usageKey": 113489848
     }
   ],
-  "key": 113489264,
+  "key": 113489848,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2769538,
-  "numDescendants": 0,
+  "nubKey": 6432888,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Smilacina",
-  "parentKey": 113489848,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Convallariaceae",
+  "parentKey": 113489846,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Smilacina oleracea",
-  "species": "Smilacina oleracea",
-  "speciesKey": 113489264,
+  "rank": "GENUS",
+  "scientificName": "Smilacina",
   "synonym": false
 }

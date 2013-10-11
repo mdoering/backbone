@@ -1,4 +1,4 @@
-SPECIES Saccharum spontaneum
+GENUS Saccharum
 =======
 Status: ???
 According to: ???

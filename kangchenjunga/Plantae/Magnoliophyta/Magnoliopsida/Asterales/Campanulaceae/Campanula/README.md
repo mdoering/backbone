@@ -1,4 +1,4 @@
-SPECIES Campanula pallida
+GENUS Campanula
 =======
 Status: ???
 According to: ???

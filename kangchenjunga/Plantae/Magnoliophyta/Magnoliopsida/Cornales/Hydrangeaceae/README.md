@@ -1,4 +1,4 @@
-GENUS Hydrangea
+FAMILY Hydrangeaceae
 =======
 Status: ???
 According to: ???

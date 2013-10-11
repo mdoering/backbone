@@ -1,30 +1,28 @@
 {
   "authorship": "",
-  "canonicalName": "Pinopsida",
-  "classKey": 113490251,
-  "clazz": "Pinopsida",
+  "canonicalName": "Pinophyta",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046148,
+      "key": 14046147,
       "type": "SOURCE_ID",
-      "usageKey": 113490251
+      "usageKey": 113490250
     }
   ],
-  "key": 113490251,
+  "key": 113490250,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 194,
-  "numDescendants": 20,
+  "nubKey": 101,
+  "numDescendants": 21,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Pinophyta",
-  "parentKey": 113490250,
+  "parent": "Plantae",
+  "parentKey": 113489831,
   "phylum": "Pinophyta",
   "phylumKey": 113490250,
-  "rank": "CLASS",
-  "scientificName": "Pinopsida",
+  "rank": "PHYLUM",
+  "scientificName": "Pinophyta",
   "synonym": false
 }

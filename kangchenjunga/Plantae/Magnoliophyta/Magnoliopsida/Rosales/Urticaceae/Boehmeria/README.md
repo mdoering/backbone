@@ -1,4 +1,4 @@
-SPECIES Boehmeria clidemioides
+GENUS Boehmeria
 =======
 Status: ???
 According to: ???

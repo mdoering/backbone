@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Hypoestes triflora",
+  "canonicalName": "Hypoestes",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045422,
+      "key": 14045973,
       "type": "SOURCE_ID",
-      "usageKey": 113489316
+      "usageKey": 113490076
     }
   ],
-  "key": 113489316,
+  "key": 113490076,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3776474,
-  "numDescendants": 0,
+  "nubKey": 3173195,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Hypoestes",
-  "parentKey": 113490076,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Acanthaceae",
+  "parentKey": 113490073,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Hypoestes triflora",
-  "species": "Hypoestes triflora",
-  "speciesKey": 113489316,
+  "rank": "GENUS",
+  "scientificName": "Hypoestes",
   "synonym": false
 }

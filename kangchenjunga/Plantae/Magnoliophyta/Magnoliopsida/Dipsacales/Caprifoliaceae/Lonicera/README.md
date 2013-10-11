@@ -1,4 +1,4 @@
-SPECIES Lonicera glabrata
+GENUS Lonicera
 =======
 Status: ???
 According to: ???

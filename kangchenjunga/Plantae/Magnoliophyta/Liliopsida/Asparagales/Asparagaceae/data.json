@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Asparagus",
+  "canonicalName": "Asparagaceae",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Asparagaceae",
   "familyKey": 113489844,
-  "genus": "Asparagus",
-  "genusKey": 113489845,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045742,
+      "key": 14045741,
       "type": "SOURCE_ID",
-      "usageKey": 113489845
+      "usageKey": 113489844
     }
   ],
-  "key": 113489845,
+  "key": 113489844,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2768348,
-  "numDescendants": 1,
+  "nubKey": 7683,
+  "numDescendants": 2,
   "order": "Asparagales",
   "orderKey": 113489839,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Asparagaceae",
-  "parentKey": 113489844,
+  "parent": "Asparagales",
+  "parentKey": 113489839,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Asparagus",
+  "rank": "FAMILY",
+  "scientificName": "Asparagaceae",
   "synonym": false
 }

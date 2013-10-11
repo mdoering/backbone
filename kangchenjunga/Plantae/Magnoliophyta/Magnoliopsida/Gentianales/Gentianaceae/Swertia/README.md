@@ -1,4 +1,4 @@
-SPECIES Swertia chirayita
+GENUS Swertia
 =======
 Status: ???
 According to: ???

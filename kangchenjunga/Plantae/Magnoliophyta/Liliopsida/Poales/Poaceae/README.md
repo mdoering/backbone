@@ -1,4 +1,4 @@
-GENUS Thysanolaena
+FAMILY Poaceae
 =======
 Status: ???
 According to: ???

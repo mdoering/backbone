@@ -1,4 +1,4 @@
-GENUS Curcuma
+FAMILY Zingiberaceae
 =======
 Status: ???
 According to: ???

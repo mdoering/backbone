@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Mimosa pudica",
+  "canonicalName": "Mimosa",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045562,
+      "key": 14045925,
       "type": "SOURCE_ID",
-      "usageKey": 113489456
+      "usageKey": 113490028
     }
   ],
-  "key": 113489456,
+  "key": 113490028,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2969284,
-  "numDescendants": 0,
+  "nubKey": 2969235,
+  "numDescendants": 1,
   "order": "Fabales",
   "orderKey": 113490020,
-  "origin": "SOURCE",
-  "parent": "Mimosa",
-  "parentKey": 113490028,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Fabaceae",
+  "parentKey": 113490021,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Mimosa pudica",
-  "species": "Mimosa pudica",
-  "speciesKey": 113489456,
+  "rank": "GENUS",
+  "scientificName": "Mimosa",
   "synonym": false
 }

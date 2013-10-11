@@ -1,4 +1,4 @@
-SPECIES Saurauia napaulensis
+GENUS Saurauia
 =======
 Status: ???
 According to: ???

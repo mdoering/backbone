@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Panax pseudoginseng",
+  "canonicalName": "Panax",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045455,
+      "key": 14045812,
       "type": "SOURCE_ID",
-      "usageKey": 113489349
+      "usageKey": 113489915
     }
   ],
-  "key": 113489349,
+  "key": 113489915,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5372282,
-  "numDescendants": 0,
+  "nubKey": 3037591,
+  "numDescendants": 1,
   "order": "Apiales",
   "orderKey": 113489903,
-  "origin": "SOURCE",
-  "parent": "Panax",
-  "parentKey": 113489915,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Araliaceae",
+  "parentKey": 113489909,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Panax pseudoginseng",
-  "species": "Panax pseudoginseng",
-  "speciesKey": 113489349,
+  "rank": "GENUS",
+  "scientificName": "Panax",
   "synonym": false
 }

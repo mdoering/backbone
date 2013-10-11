@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Lagerstroemia hirsuta",
+  "canonicalName": "Lagerstroemia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045611,
+      "key": 14046041,
       "type": "SOURCE_ID",
-      "usageKey": 113489505
+      "usageKey": 113490144
     }
   ],
-  "key": 113489505,
+  "key": 113490144,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3988853,
-  "numDescendants": 0,
+  "nubKey": 3188723,
+  "numDescendants": 1,
   "order": "Myrtales",
   "orderKey": 113490140,
-  "origin": "SOURCE",
-  "parent": "Lagerstroemia",
-  "parentKey": 113490144,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Lythraceae",
+  "parentKey": 113490143,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Lagerstroemia hirsuta",
-  "species": "Lagerstroemia hirsuta",
-  "speciesKey": 113489505,
+  "rank": "GENUS",
+  "scientificName": "Lagerstroemia",
   "synonym": false
 }

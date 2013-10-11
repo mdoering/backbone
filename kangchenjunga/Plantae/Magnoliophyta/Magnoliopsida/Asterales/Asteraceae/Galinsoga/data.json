@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Galinsoga parviflora",
+  "canonicalName": "Galinsoga",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045477,
+      "key": 14045833,
       "type": "SOURCE_ID",
-      "usageKey": 113489371
+      "usageKey": 113489936
     }
   ],
-  "key": 113489371,
+  "key": 113489936,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3132570,
-  "numDescendants": 0,
+  "nubKey": 3132547,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Galinsoga",
-  "parentKey": 113489936,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asteraceae",
+  "parentKey": 113489923,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Galinsoga parviflora",
-  "species": "Galinsoga parviflora",
-  "speciesKey": 113489371,
+  "rank": "GENUS",
+  "scientificName": "Galinsoga",
   "synonym": false
 }

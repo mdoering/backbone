@@ -1,4 +1,4 @@
-GENUS Lilium
+FAMILY Liliaceae
 =======
 Status: ???
 According to: ???

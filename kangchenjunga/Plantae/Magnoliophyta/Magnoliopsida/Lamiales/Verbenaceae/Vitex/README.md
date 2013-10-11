@@ -1,4 +1,4 @@
-SPECIES Vitex negundo
+GENUS Vitex
 =======
 Status: ???
 According to: ???

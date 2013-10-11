@@ -1,4 +1,4 @@
-SPECIES Centella asiatica
+GENUS Centella
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Mussaenda roxburghii
+GENUS Mussaenda
 =======
 Status: ???
 According to: ???

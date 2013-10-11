@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Ocimum tenuiflorum",
+  "canonicalName": "Ocimum",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045595,
+      "key": 14045990,
       "type": "SOURCE_ID",
-      "usageKey": 113489489
+      "usageKey": 113490093
     }
   ],
-  "key": 113489489,
+  "key": 113490093,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2927100,
-  "numDescendants": 0,
+  "nubKey": 2874693,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Ocimum",
-  "parentKey": 113490093,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Lamiaceae",
+  "parentKey": 113490085,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Ocimum tenuiflorum",
-  "species": "Ocimum tenuiflorum",
-  "speciesKey": 113489489,
+  "rank": "GENUS",
+  "scientificName": "Ocimum",
   "synonym": false
 }

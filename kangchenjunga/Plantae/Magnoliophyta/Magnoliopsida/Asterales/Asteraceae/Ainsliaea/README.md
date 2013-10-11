@@ -1,4 +1,4 @@
-SPECIES Ainsliaea latifolia
+GENUS Ainsliaea
 =======
 Status: ???
 According to: ???

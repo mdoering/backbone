@@ -1,4 +1,4 @@
-SPECIES Trachelospermum lucidum
+GENUS Trachelospermum
 =======
 Status: ???
 According to: ???

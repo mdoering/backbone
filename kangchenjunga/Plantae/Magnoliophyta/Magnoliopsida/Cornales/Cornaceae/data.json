@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Alangium",
+  "canonicalName": "Cornaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Cornaceae",
   "familyKey": 113489978,
-  "genus": "Alangium",
-  "genusKey": 113489979,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045876,
+      "key": 14045875,
       "type": "SOURCE_ID",
-      "usageKey": 113489979
+      "usageKey": 113489978
     }
   ],
-  "key": 113489979,
+  "key": 113489978,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7326259,
-  "numDescendants": 1,
+  "nubKey": 6713,
+  "numDescendants": 2,
   "order": "Cornales",
   "orderKey": 113489977,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Cornaceae",
-  "parentKey": 113489978,
+  "parent": "Cornales",
+  "parentKey": 113489977,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Alangium",
+  "rank": "FAMILY",
+  "scientificName": "Cornaceae",
   "synonym": false
 }

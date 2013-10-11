@@ -1,4 +1,4 @@
-SPECIES Gamblea ciliata
+GENUS Gamblea
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Euodia fraxinifolia
+GENUS Euodia
 =======
 Status: ???
 According to: ???

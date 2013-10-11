@@ -1,4 +1,4 @@
-SPECIES Viola hamiltoniana
+GENUS Viola
 =======
 Status: ???
 According to: ???

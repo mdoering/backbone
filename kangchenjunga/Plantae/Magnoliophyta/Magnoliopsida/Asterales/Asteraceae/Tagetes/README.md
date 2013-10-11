@@ -1,4 +1,4 @@
-SPECIES Tagetes erecta
+GENUS Tagetes
 =======
 Status: ???
 According to: ???

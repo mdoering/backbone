@@ -1,4 +1,4 @@
-GENUS Osmanthus
+FAMILY Oleaceae
 =======
 Status: ???
 According to: ???

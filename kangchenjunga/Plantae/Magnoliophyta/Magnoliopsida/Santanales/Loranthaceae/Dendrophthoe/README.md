@@ -1,4 +1,4 @@
-SPECIES Dendrophthoe falcata
+GENUS Dendrophthoe
 =======
 Status: ???
 According to: ???

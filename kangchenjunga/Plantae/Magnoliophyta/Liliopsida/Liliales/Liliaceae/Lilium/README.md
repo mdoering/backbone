@@ -1,4 +1,4 @@
-SPECIES Lilium wallichianum
+GENUS Lilium
 =======
 Status: ???
 According to: ???

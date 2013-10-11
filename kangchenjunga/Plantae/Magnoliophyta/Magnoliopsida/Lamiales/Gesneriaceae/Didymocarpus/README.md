@@ -1,4 +1,4 @@
-SPECIES Didymocarpus primulifolius
+GENUS Didymocarpus
 =======
 Status: ???
 According to: ???

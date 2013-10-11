@@ -1,4 +1,4 @@
-GENUS Schima
+FAMILY Theaceae
 =======
 Status: ???
 According to: ???

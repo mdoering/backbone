@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Piperaceae",
+  "canonicalName": "Piperales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Piperaceae",
-  "familyKey": 113490158,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046055,
+      "key": 14046054,
       "type": "SOURCE_ID",
-      "usageKey": 113490158
+      "usageKey": 113490157
     }
   ],
-  "key": 113490158,
+  "key": 113490157,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 6678,
-  "numDescendants": 2,
+  "nubKey": 404,
+  "numDescendants": 3,
   "order": "Piperales",
   "orderKey": 113490157,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Piperales",
-  "parentKey": 113490157,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Piperaceae",
+  "rank": "ORDER",
+  "scientificName": "Piperales",
   "synonym": false
 }

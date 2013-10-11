@@ -1,4 +1,4 @@
-SPECIES Quercus semecarpifolia
+GENUS Quercus
 =======
 Status: ???
 According to: ???

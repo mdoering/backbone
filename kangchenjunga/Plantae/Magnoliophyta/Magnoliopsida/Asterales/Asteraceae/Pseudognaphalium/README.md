@@ -1,4 +1,4 @@
-SPECIES Gnaphalium affine
+GENUS Pseudognaphalium
 =======
 Status: ???
 According to: ???

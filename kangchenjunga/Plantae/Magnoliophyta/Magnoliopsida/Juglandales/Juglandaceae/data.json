@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Juglans",
+  "canonicalName": "Juglandaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Juglandaceae",
   "familyKey": 113490069,
-  "genus": "Juglans",
-  "genusKey": 113490071,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045968,
+      "key": 14045966,
       "type": "SOURCE_ID",
-      "usageKey": 113490071
+      "usageKey": 113490069
     }
   ],
-  "key": 113490071,
+  "key": 113490069,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3054350,
-  "numDescendants": 1,
+  "nubKey": 2499,
+  "numDescendants": 4,
   "order": "Juglandales",
   "orderKey": 113490068,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Juglandaceae",
-  "parentKey": 113490069,
+  "parent": "Juglandales",
+  "parentKey": 113490068,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Juglans",
+  "rank": "FAMILY",
+  "scientificName": "Juglandaceae",
   "synonym": false
 }

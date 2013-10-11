@@ -1,4 +1,4 @@
-SPECIES Castanopsis tribuloides
+GENUS Castanopsis
 =======
 Status: ???
 According to: ???

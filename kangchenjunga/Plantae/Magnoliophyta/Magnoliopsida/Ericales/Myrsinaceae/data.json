@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Myrsine",
+  "canonicalName": "Myrsinaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Myrsinaceae",
   "familyKey": 113490009,
-  "genus": "Myrsine",
-  "genusKey": 113490011,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045908,
+      "key": 14045906,
       "type": "SOURCE_ID",
-      "usageKey": 113490011
+      "usageKey": 113490009
     }
   ],
-  "key": 113490011,
+  "key": 113490009,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3169412,
-  "numDescendants": 2,
+  "nubKey": 6675,
+  "numDescendants": 6,
   "order": "Ericales",
   "orderKey": 113489996,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Myrsinaceae",
-  "parentKey": 113490009,
+  "parent": "Ericales",
+  "parentKey": 113489996,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Myrsine",
+  "rank": "FAMILY",
+  "scientificName": "Myrsinaceae",
   "synonym": false
 }

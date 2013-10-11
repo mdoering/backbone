@@ -1,4 +1,4 @@
-SPECIES Dobinea vulgaris
+GENUS Dobinea
 =======
 Status: ???
 According to: ???

@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Swertia",
+  "canonicalName": "Gentianaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Gentianaceae",
   "familyKey": 113490050,
-  "genus": "Swertia",
-  "genusKey": 113490052,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045949,
+      "key": 14045947,
       "type": "SOURCE_ID",
-      "usageKey": 113490052
+      "usageKey": 113490050
     }
   ],
-  "key": 113490052,
+  "key": 113490050,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3170182,
-  "numDescendants": 3,
+  "nubKey": 2503,
+  "numDescendants": 6,
   "order": "Gentianales",
   "orderKey": 113490042,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Gentianaceae",
-  "parentKey": 113490050,
+  "parent": "Gentianales",
+  "parentKey": 113490042,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Swertia",
+  "rank": "FAMILY",
+  "scientificName": "Gentianaceae",
   "synonym": false
 }

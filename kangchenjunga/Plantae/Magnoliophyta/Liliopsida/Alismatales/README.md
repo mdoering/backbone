@@ -1,4 +1,4 @@
-FAMILY Araceae
+ORDER Alismatales
 =======
 Status: ???
 According to: ???

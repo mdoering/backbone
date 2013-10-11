@@ -1,4 +1,4 @@
-SPECIES Acorus calamus
+GENUS Acorus
 =======
 Status: ???
 According to: ???

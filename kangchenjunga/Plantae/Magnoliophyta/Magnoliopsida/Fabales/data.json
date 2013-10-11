@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Fabaceae",
+  "canonicalName": "Fabales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Fabaceae",
-  "familyKey": 113490021,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045918,
+      "key": 14045917,
       "type": "SOURCE_ID",
-      "usageKey": 113490021
+      "usageKey": 113490020
     }
   ],
-  "key": 113490021,
+  "key": 113490020,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5386,
-  "numDescendants": 21,
+  "nubKey": 1370,
+  "numDescendants": 22,
   "order": "Fabales",
   "orderKey": 113490020,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Fabales",
-  "parentKey": 113490020,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Fabaceae",
+  "rank": "ORDER",
+  "scientificName": "Fabales",
   "synonym": false
 }

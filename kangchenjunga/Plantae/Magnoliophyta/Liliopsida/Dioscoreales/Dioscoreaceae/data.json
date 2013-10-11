@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Dioscorea",
+  "canonicalName": "Dioscoreaceae",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Dioscoreaceae",
   "familyKey": 113489869,
-  "genus": "Dioscorea",
-  "genusKey": 113489870,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045767,
+      "key": 14045766,
       "type": "SOURCE_ID",
-      "usageKey": 113489870
+      "usageKey": 113489869
     }
   ],
-  "key": 113489870,
+  "key": 113489869,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2754367,
-  "numDescendants": 1,
+  "nubKey": 7694,
+  "numDescendants": 2,
   "order": "Dioscoreales",
   "orderKey": 113489868,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Dioscoreaceae",
-  "parentKey": 113489869,
+  "parent": "Dioscoreales",
+  "parentKey": 113489868,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Dioscorea",
+  "rank": "FAMILY",
+  "scientificName": "Dioscoreaceae",
   "synonym": false
 }

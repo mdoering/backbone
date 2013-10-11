@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Elsholtzia strobilifera",
+  "canonicalName": "Elsholtzia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045590,
+      "key": 14045985,
       "type": "SOURCE_ID",
-      "usageKey": 113489484
+      "usageKey": 113490088
     }
   ],
-  "key": 113489484,
+  "key": 113490088,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7308877,
-  "numDescendants": 0,
+  "nubKey": 2927074,
+  "numDescendants": 2,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Elsholtzia",
-  "parentKey": 113490088,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Lamiaceae",
+  "parentKey": 113490085,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Elsholtzia strobilifera",
-  "species": "Elsholtzia strobilifera",
-  "speciesKey": 113489484,
+  "rank": "GENUS",
+  "scientificName": "Elsholtzia",
   "synonym": false
 }

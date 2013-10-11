@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Pycreus",
+  "canonicalName": "Cyperaceae",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Cyperaceae",
   "familyKey": 113489878,
-  "genus": "Pycreus",
-  "genusKey": 113489881,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045778,
+      "key": 14045775,
       "type": "SOURCE_ID",
-      "usageKey": 113489881
+      "usageKey": 113489878
     }
   ],
-  "key": 113489881,
+  "key": 113489878,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2730284,
-  "numDescendants": 1,
+  "nubKey": 7708,
+  "numDescendants": 6,
   "order": "Poales",
   "orderKey": 113489877,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Cyperaceae",
-  "parentKey": 113489878,
+  "parent": "Poales",
+  "parentKey": 113489877,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Pycreus",
+  "rank": "FAMILY",
+  "scientificName": "Cyperaceae",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Oxalis corniculata
+GENUS Oxalis
 =======
 Status: ???
 According to: ???

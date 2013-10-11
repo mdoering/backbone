@@ -1,4 +1,4 @@
-SPECIES Hydrocotyle himalaica
+GENUS Hydrocotyle
 =======
 Status: ???
 According to: ???

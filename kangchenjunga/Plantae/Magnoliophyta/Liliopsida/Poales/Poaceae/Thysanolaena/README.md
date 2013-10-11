@@ -1,4 +1,4 @@
-SPECIES Thysanolaena maxima
+GENUS Thysanolaena
 =======
 Status: ???
 According to: ???

@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Piper",
+  "canonicalName": "Piperaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Piperaceae",
   "familyKey": 113490158,
-  "genus": "Piper",
-  "genusKey": 113490159,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046056,
+      "key": 14046055,
       "type": "SOURCE_ID",
-      "usageKey": 113490159
+      "usageKey": 113490158
     }
   ],
-  "key": 113490159,
+  "key": 113490158,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3075433,
-  "numDescendants": 1,
+  "nubKey": 6678,
+  "numDescendants": 2,
   "order": "Piperales",
   "orderKey": 113490157,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Piperaceae",
-  "parentKey": 113490158,
+  "parent": "Piperales",
+  "parentKey": 113490157,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Piper",
+  "rank": "FAMILY",
+  "scientificName": "Piperaceae",
   "synonym": false
 }

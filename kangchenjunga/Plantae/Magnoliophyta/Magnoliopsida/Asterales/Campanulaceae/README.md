@@ -1,4 +1,4 @@
-GENUS Lobelia
+FAMILY Campanulaceae
 =======
 Status: ???
 According to: ???

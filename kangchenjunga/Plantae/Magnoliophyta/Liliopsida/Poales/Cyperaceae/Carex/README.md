@@ -1,4 +1,4 @@
-SPECIES Carex filicina
+GENUS Carex
 =======
 Status: ???
 According to: ???

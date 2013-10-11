@@ -1,4 +1,4 @@
-SPECIES Mirabilis jalapa
+GENUS Mirabilis
 =======
 Status: ???
 According to: ???

@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Roscoea",
+  "canonicalName": "Araceae",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Araceae",
   "familyKey": 113489835,
-  "genus": "Roscoea",
-  "genusKey": 113489838,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045735,
+      "key": 14045732,
       "type": "SOURCE_ID",
-      "usageKey": 113489838
+      "usageKey": 113489835
     }
   ],
-  "key": 113489838,
+  "key": 113489835,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2757354,
-  "numDescendants": 1,
+  "nubKey": 6979,
+  "numDescendants": 8,
   "order": "Alismatales",
   "orderKey": 113489834,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Araceae",
-  "parentKey": 113489835,
+  "parent": "Alismatales",
+  "parentKey": 113489834,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Roscoea",
+  "rank": "FAMILY",
+  "scientificName": "Araceae",
   "synonym": false
 }

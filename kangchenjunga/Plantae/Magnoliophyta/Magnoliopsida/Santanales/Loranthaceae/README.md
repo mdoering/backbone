@@ -1,4 +1,4 @@
-GENUS Viscum
+FAMILY Loranthaceae
 =======
 Status: ???
 According to: ???

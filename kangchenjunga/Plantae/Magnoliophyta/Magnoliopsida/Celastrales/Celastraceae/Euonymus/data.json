@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Euonymus frigidus",
+  "canonicalName": "Euonymus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045520,
+      "key": 14045873,
       "type": "SOURCE_ID",
-      "usageKey": 113489414
+      "usageKey": 113489976
     }
   ],
-  "key": 113489414,
+  "key": 113489976,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7265628,
-  "numDescendants": 0,
+  "nubKey": 3169115,
+  "numDescendants": 1,
   "order": "Celastrales",
   "orderKey": 113489974,
-  "origin": "SOURCE",
-  "parent": "Euonymus",
-  "parentKey": 113489976,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Celastraceae",
+  "parentKey": 113489975,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Euonymus frigidus",
-  "species": "Euonymus frigidus",
-  "speciesKey": 113489414,
+  "rank": "GENUS",
+  "scientificName": "Euonymus",
   "synonym": false
 }

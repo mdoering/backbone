@@ -1,4 +1,4 @@
-SPECIES Ageratina adenophora
+GENUS Ageratina
 =======
 Status: ???
 According to: ???

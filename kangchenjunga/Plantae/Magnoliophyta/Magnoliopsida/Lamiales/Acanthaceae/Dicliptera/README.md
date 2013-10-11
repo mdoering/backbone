@@ -1,4 +1,4 @@
-SPECIES Dicliptera bupleuroides
+GENUS Dicliptera
 =======
 Status: ???
 According to: ???

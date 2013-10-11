@@ -1,4 +1,4 @@
-SPECIES Euonymus frigidus
+GENUS Euonymus
 =======
 Status: ???
 According to: ???

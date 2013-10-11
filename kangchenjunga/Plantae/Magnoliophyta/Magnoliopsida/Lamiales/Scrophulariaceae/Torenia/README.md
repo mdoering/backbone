@@ -1,4 +1,4 @@
-SPECIES Torenia cordifolia
+GENUS Torenia
 =======
 Status: ???
 According to: ???

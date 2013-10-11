@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Schima wallichii",
+  "canonicalName": "Schima",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045701,
+      "key": 14045913,
       "type": "SOURCE_ID",
-      "usageKey": 113489595
+      "usageKey": 113490016
     }
   ],
-  "key": 113489595,
+  "key": 113490016,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3591392,
-  "numDescendants": 0,
+  "nubKey": 7313761,
+  "numDescendants": 1,
   "order": "Ericales",
   "orderKey": 113489996,
-  "origin": "SOURCE",
-  "parent": "Schima",
-  "parentKey": 113490016,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Theaceae",
+  "parentKey": 113490014,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Schima wallichii",
-  "species": "Schima wallichii",
-  "speciesKey": 113489595,
+  "rank": "GENUS",
+  "scientificName": "Schima",
   "synonym": false
 }

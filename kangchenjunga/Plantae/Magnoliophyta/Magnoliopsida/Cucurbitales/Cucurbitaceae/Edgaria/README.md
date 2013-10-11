@@ -1,4 +1,4 @@
-SPECIES Edgaria darjeelingensis
+GENUS Edgaria
 =======
 Status: ???
 According to: ???

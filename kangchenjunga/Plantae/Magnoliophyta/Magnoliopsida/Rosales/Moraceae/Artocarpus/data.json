@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Artocarpus lakoocha",
+  "canonicalName": "Artocarpus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045620,
+      "key": 14046081,
       "type": "SOURCE_ID",
-      "usageKey": 113489514
+      "usageKey": 113490184
     }
   ],
-  "key": 113489514,
+  "key": 113490184,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3764636,
-  "numDescendants": 0,
+  "nubKey": 2984563,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Artocarpus",
-  "parentKey": 113490184,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Moraceae",
+  "parentKey": 113490183,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Artocarpus lakoocha",
-  "species": "Artocarpus lakoocha",
-  "speciesKey": 113489514,
+  "rank": "GENUS",
+  "scientificName": "Artocarpus",
   "synonym": false
 }

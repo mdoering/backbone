@@ -1,4 +1,4 @@
-SPECIES Persicaria runcinata
+GENUS Persicaria
 =======
 Status: ???
 According to: ???

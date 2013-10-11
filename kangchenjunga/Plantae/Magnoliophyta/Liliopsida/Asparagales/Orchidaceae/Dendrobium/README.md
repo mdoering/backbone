@@ -1,4 +1,4 @@
-SPECIES Dendrobium longicornu
+GENUS Dendrobium
 =======
 Status: ???
 According to: ???

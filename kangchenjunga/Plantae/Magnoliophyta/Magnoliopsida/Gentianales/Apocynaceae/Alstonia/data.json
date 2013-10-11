@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Alstonia scholaris",
+  "canonicalName": "Alstonia",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045446,
+      "key": 14045941,
       "type": "SOURCE_ID",
-      "usageKey": 113489340
+      "usageKey": 113490044
     }
   ],
-  "key": 113489340,
+  "key": 113490044,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5414410,
-  "numDescendants": 0,
+  "nubKey": 5414409,
+  "numDescendants": 1,
   "order": "Gentianales",
   "orderKey": 113490042,
-  "origin": "SOURCE",
-  "parent": "Alstonia",
-  "parentKey": 113490044,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Apocynaceae",
+  "parentKey": 113490043,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Alstonia scholaris",
-  "species": "Alstonia scholaris",
-  "speciesKey": 113489340,
+  "rank": "GENUS",
+  "scientificName": "Alstonia",
   "synonym": false
 }

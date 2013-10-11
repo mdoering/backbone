@@ -1,4 +1,4 @@
-SPECIES Rauvolfia serpentina
+GENUS Rauwolfia/ Rauvolfia
 =======
 Status: ???
 According to: ???

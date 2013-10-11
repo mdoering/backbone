@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Ainsliaea latifolia",
+  "canonicalName": "Ainsliaea",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045464,
+      "key": 14045823,
       "type": "SOURCE_ID",
-      "usageKey": 113489358
+      "usageKey": 113489926
     }
   ],
-  "key": 113489358,
+  "key": 113489926,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3133830,
-  "numDescendants": 0,
+  "nubKey": 3133776,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Ainsliaea",
-  "parentKey": 113489926,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asteraceae",
+  "parentKey": 113489923,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Ainsliaea latifolia",
-  "species": "Ainsliaea latifolia",
-  "speciesKey": 113489358,
+  "rank": "GENUS",
+  "scientificName": "Ainsliaea",
   "synonym": false
 }

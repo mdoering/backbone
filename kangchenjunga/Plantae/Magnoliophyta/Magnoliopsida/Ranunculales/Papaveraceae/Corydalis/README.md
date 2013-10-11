@@ -1,4 +1,4 @@
-SPECIES Corydalis gowaniana
+GENUS Corydalis
 =======
 Status: ???
 According to: ???

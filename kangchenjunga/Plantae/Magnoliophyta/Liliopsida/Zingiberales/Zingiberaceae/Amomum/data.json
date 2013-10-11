@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Amomum subulatum",
+  "canonicalName": "Amomum",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045417,
+      "key": 14045797,
       "type": "SOURCE_ID",
-      "usageKey": 113489311
+      "usageKey": 113489900
     }
   ],
-  "key": 113489311,
+  "key": 113489900,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5301632,
-  "numDescendants": 0,
+  "nubKey": 5301254,
+  "numDescendants": 1,
   "order": "Zingiberales",
   "orderKey": 113489896,
-  "origin": "SOURCE",
-  "parent": "Amomum",
-  "parentKey": 113489900,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Zingiberaceae",
+  "parentKey": 113489899,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Amomum subulatum",
-  "species": "Amomum subulatum",
-  "speciesKey": 113489311,
+  "rank": "GENUS",
+  "scientificName": "Amomum",
   "synonym": false
 }

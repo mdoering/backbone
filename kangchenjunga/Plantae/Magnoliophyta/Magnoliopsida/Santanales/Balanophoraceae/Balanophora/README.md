@@ -1,4 +1,4 @@
-SPECIES Balanophora involucrata
+GENUS Balanophora
 =======
 Status: ???
 According to: ???

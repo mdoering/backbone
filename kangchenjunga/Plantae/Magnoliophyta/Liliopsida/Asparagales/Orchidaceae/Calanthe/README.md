@@ -1,4 +1,4 @@
-SPECIES Calanthe tricarinata
+GENUS Calanthe
 =======
 Status: ???
 According to: ???

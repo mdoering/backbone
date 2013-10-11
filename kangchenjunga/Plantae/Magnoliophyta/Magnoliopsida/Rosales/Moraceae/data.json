@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Morus",
+  "canonicalName": "Moraceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Moraceae",
   "familyKey": 113490183,
-  "genus": "Morus",
-  "genusKey": 113490186,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046083,
+      "key": 14046080,
       "type": "SOURCE_ID",
-      "usageKey": 113490186
+      "usageKey": 113490183
     }
   ],
-  "key": 113490186,
+  "key": 113490183,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2984545,
-  "numDescendants": 1,
+  "nubKey": 6640,
+  "numDescendants": 11,
   "order": "Rosales",
   "orderKey": 113490176,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Moraceae",
-  "parentKey": 113490183,
+  "parent": "Rosales",
+  "parentKey": 113490176,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Morus",
+  "rank": "FAMILY",
+  "scientificName": "Moraceae",
   "synonym": false
 }

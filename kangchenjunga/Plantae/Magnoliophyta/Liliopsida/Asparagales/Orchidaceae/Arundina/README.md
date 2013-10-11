@@ -1,4 +1,4 @@
-SPECIES Arundina graminifolia
+GENUS Arundina
 =======
 Status: ???
 According to: ???

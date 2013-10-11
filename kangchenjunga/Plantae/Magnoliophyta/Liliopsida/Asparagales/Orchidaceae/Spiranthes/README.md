@@ -1,4 +1,4 @@
-SPECIES Spiranthes sinensis
+GENUS Spiranthes
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Rhododendron lindleyi
+GENUS Rhododendron
 =======
 Status: ???
 According to: ???

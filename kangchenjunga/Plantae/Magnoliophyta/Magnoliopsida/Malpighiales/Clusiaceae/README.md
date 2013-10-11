@@ -1,4 +1,4 @@
-GENUS Hypericum
+FAMILY Clusiaceae
 =======
 Status: ???
 According to: ???

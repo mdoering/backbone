@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Trema orientalis",
+  "canonicalName": "Trema",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045705,
+      "key": 14046094,
       "type": "SOURCE_ID",
-      "usageKey": 113489599
+      "usageKey": 113490197
     }
   ],
-  "key": 113489599,
+  "key": 113490197,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7141659,
-  "numDescendants": 0,
+  "nubKey": 2984500,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Trema",
-  "parentKey": 113490197,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Ulmaceae",
+  "parentKey": 113490196,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Trema orientalis",
-  "species": "Trema orientalis",
-  "speciesKey": 113489599,
+  "rank": "GENUS",
+  "scientificName": "Trema",
   "synonym": false
 }

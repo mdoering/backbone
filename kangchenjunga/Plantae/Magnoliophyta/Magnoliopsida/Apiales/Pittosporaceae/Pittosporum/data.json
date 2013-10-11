@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Pittosporum napaulense",
+  "canonicalName": "Pittosporum",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045648,
+      "key": 14045815,
       "type": "SOURCE_ID",
-      "usageKey": 113489542
+      "usageKey": 113489918
     }
   ],
-  "key": 113489542,
+  "key": 113489918,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4937305,
-  "numDescendants": 0,
+  "nubKey": 2986233,
+  "numDescendants": 1,
   "order": "Apiales",
   "orderKey": 113489903,
-  "origin": "SOURCE",
-  "parent": "Pittosporum",
-  "parentKey": 113489918,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Pittosporaceae",
+  "parentKey": 113489917,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Pittosporum napaulense",
-  "species": "Pittosporum napaulense",
-  "speciesKey": 113489542,
+  "rank": "GENUS",
+  "scientificName": "Pittosporum",
   "synonym": false
 }

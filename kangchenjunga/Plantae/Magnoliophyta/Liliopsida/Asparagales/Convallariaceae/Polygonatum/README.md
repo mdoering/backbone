@@ -1,4 +1,4 @@
-SPECIES Polygonatum oppositifolium
+GENUS Polygonatum
 =======
 Status: ???
 According to: ???

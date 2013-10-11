@@ -1,4 +1,4 @@
-SPECIES Holboellia latifolia
+GENUS Holboellia
 =======
 Status: ???
 According to: ???

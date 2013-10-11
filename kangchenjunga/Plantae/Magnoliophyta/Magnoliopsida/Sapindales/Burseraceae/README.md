@@ -1,4 +1,4 @@
-GENUS Garuga
+FAMILY Burseraceae
 =======
 Status: ???
 According to: ???

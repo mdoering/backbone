@@ -1,4 +1,4 @@
-FAMILY Magnoliaceae
+ORDER Magnoliales
 =======
 Status: ???
 According to: ???

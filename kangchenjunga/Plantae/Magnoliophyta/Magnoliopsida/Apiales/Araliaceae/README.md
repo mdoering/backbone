@@ -1,4 +1,4 @@
-GENUS Schefflera
+FAMILY Araliaceae
 =======
 Status: ???
 According to: ???

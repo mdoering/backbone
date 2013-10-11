@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Theaceae",
+  "canonicalName": "Ericales",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Theaceae",
-  "familyKey": 113490014,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045911,
+      "key": 14045893,
       "type": "SOURCE_ID",
-      "usageKey": 113490014
+      "usageKey": 113489996
     }
   ],
-  "key": 113490014,
+  "key": 113489996,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3189597,
-  "numDescendants": 5,
+  "nubKey": 1353,
+  "numDescendants": 54,
   "order": "Ericales",
   "orderKey": 113489996,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Ericales",
-  "parentKey": 113489996,
+  "parent": "Magnoliopsida",
+  "parentKey": 113489902,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Theaceae",
+  "rank": "ORDER",
+  "scientificName": "Ericales",
   "synonym": false
 }

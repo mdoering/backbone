@@ -1,4 +1,4 @@
-FAMILY Cucurbitaceae
+ORDER Cucurbitales
 =======
 Status: ???
 According to: ???

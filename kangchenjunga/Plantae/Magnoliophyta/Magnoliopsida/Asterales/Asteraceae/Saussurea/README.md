@@ -1,4 +1,4 @@
-SPECIES Saussurea gossypiphora
+GENUS Saussurea
 =======
 Status: ???
 According to: ???

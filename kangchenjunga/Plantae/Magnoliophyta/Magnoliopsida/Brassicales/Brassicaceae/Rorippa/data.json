@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Rorippa nasturtium-aquat",
+  "canonicalName": "Rorippa",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,27 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045506,
+      "key": 14045853,
       "type": "SOURCE_ID",
-      "usageKey": 113489400
+      "usageKey": 113489956
     }
   ],
-  "key": 113489400,
+  "key": 113489956,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "numDescendants": 0,
+  "nubKey": 3053118,
+  "numDescendants": 1,
   "order": "Brassicales",
   "orderKey": 113489952,
-  "origin": "SOURCE",
-  "parent": "Rorippa",
-  "parentKey": 113489956,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Brassicaceae",
+  "parentKey": 113489953,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Rorippa nasturtium-aquat",
-  "species": "Rorippa nasturtium-aquat",
-  "speciesKey": 113489400,
+  "rank": "GENUS",
+  "scientificName": "Rorippa",
   "synonym": false
 }

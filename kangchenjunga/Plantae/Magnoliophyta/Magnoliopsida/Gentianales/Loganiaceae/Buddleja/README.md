@@ -1,4 +1,4 @@
-SPECIES Buddleja asiatica
+GENUS Buddleja
 =======
 Status: ???
 According to: ???

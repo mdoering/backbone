@@ -1,4 +1,4 @@
-SPECIES Senecio scandens
+GENUS Senecio
 =======
 Status: ???
 According to: ???

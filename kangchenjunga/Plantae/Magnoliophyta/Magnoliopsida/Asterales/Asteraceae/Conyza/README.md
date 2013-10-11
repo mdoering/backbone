@@ -1,4 +1,4 @@
-SPECIES Conyza stricta
+GENUS Conyza
 =======
 Status: ???
 According to: ???

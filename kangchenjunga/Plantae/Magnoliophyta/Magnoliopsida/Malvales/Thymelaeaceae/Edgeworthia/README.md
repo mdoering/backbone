@@ -1,4 +1,4 @@
-SPECIES Edgeworthia gardneri
+GENUS Edgeworthia
 =======
 Status: ???
 According to: ???

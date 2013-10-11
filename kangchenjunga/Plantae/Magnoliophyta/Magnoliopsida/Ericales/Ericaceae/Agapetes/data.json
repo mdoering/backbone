@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Agapetes serpens",
+  "canonicalName": "Agapetes",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045531,
+      "key": 14045900,
       "type": "SOURCE_ID",
-      "usageKey": 113489425
+      "usageKey": 113490003
     }
   ],
-  "key": 113489425,
+  "key": 113490003,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4175061,
-  "numDescendants": 0,
+  "nubKey": 4163829,
+  "numDescendants": 2,
   "order": "Ericales",
   "orderKey": 113489996,
-  "origin": "SOURCE",
-  "parent": "Agapetes",
-  "parentKey": 113490003,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Ericaceae",
+  "parentKey": 113490002,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Agapetes serpens",
-  "species": "Agapetes serpens",
-  "speciesKey": 113489425,
+  "rank": "GENUS",
+  "scientificName": "Agapetes",
   "synonym": false
 }

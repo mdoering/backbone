@@ -1,4 +1,4 @@
-SPECIES Podophyllum hexandrum
+GENUS Podophyllum
 =======
 Status: ???
 According to: ???

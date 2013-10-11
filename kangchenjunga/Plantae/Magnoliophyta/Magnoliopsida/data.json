@@ -1,32 +1,30 @@
 {
   "authorship": "",
-  "canonicalName": "Solanales",
+  "canonicalName": "Magnoliopsida",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046138,
+      "key": 14045799,
       "type": "SOURCE_ID",
-      "usageKey": 113490241
+      "usageKey": 113489902
     }
   ],
-  "key": 113490241,
+  "key": 113489902,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 1176,
-  "numDescendants": 13,
-  "order": "Solanales",
-  "orderKey": 113490241,
+  "nubKey": 220,
+  "numDescendants": 650,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Magnoliopsida",
-  "parentKey": 113489902,
+  "parent": "Magnoliophyta",
+  "parentKey": 113489832,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "ORDER",
-  "scientificName": "Solanales",
+  "rank": "CLASS",
+  "scientificName": "Magnoliopsida",
   "synonym": false
 }

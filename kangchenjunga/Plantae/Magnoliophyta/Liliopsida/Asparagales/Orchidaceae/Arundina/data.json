@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Arundina graminifolia",
+  "canonicalName": "Arundina",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045382,
+      "key": 14045750,
       "type": "SOURCE_ID",
-      "usageKey": 113489276
+      "usageKey": 113489853
     }
   ],
-  "key": 113489276,
+  "key": 113489853,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2795522,
-  "numDescendants": 0,
+  "nubKey": 2795520,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Arundina",
-  "parentKey": 113489853,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Arundina graminifolia",
-  "species": "Arundina graminifolia",
-  "speciesKey": 113489276,
+  "rank": "GENUS",
+  "scientificName": "Arundina",
   "synonym": false
 }

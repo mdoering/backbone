@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Daphniphyllum himalense",
+  "canonicalName": "Daphniphyllum",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045528,
+      "key": 14046132,
       "type": "SOURCE_ID",
-      "usageKey": 113489422
+      "usageKey": 113490235
     }
   ],
-  "key": 113489422,
+  "key": 113490235,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 4930379,
-  "numDescendants": 0,
+  "nubKey": 7311235,
+  "numDescendants": 1,
   "order": "Saxifragales",
   "orderKey": 113490231,
-  "origin": "SOURCE",
-  "parent": "Daphniphyllum",
-  "parentKey": 113490235,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Daphniphyllaceae",
+  "parentKey": 113490234,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Daphniphyllum himalense",
-  "species": "Daphniphyllum himalense",
-  "speciesKey": 113489422,
+  "rank": "GENUS",
+  "scientificName": "Daphniphyllum",
   "synonym": false
 }

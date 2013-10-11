@@ -1,4 +1,4 @@
-SPECIES Piptanthus nepalensis
+GENUS Piptanthus
 =======
 Status: ???
 According to: ???

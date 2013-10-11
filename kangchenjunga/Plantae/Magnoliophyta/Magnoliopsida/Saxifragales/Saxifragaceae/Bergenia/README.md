@@ -1,4 +1,4 @@
-SPECIES Bergenia ciliata
+GENUS Bergenia
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-GENUS Crinum
+FAMILY Amaryllidaceae
 =======
 Status: ???
 According to: ???

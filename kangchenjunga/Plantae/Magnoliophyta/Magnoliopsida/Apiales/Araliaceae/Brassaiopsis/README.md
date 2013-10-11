@@ -1,4 +1,4 @@
-SPECIES Brassaiopsis mitis
+GENUS Brassaiopsis
 =======
 Status: ???
 According to: ???

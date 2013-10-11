@@ -1,4 +1,4 @@
-GENUS Edgeworthia
+FAMILY Thymelaeaceae
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Bombax ceiba
+GENUS Bombax
 =======
 Status: ???
 According to: ???

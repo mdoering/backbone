@@ -1,4 +1,4 @@
-SPECIES Cynoglossum zeylanicum
+GENUS Cynoglossum
 =======
 Status: ???
 According to: ???

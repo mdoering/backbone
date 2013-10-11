@@ -1,4 +1,4 @@
-SPECIES Mucurna monosperma
+GENUS Mucurna
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Valeriana jatamansi
+GENUS Valeriana
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Helixanthera parasitica
+GENUS Helixanthera
 =======
 Status: ???
 According to: ???

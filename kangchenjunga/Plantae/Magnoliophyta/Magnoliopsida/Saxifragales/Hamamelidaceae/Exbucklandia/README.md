@@ -1,4 +1,4 @@
-SPECIES Exbucklandia populnea
+GENUS Exbucklandia
 =======
 Status: ???
 According to: ???

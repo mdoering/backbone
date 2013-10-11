@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Cyathocline purpurea",
+  "canonicalName": "Cyathocline",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045522,
+      "key": 14045848,
       "type": "SOURCE_ID",
-      "usageKey": 113489416
+      "usageKey": 113489951
     }
   ],
-  "key": 113489416,
+  "key": 113489951,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3142265,
-  "numDescendants": 0,
+  "nubKey": 3142260,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Cyathocline",
-  "parentKey": 113489951,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Compositae",
+  "parentKey": 113489950,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Cyathocline purpurea",
-  "species": "Cyathocline purpurea",
-  "speciesKey": 113489416,
+  "rank": "GENUS",
+  "scientificName": "Cyathocline",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Aster tricephalus
+GENUS Aster
 =======
 Status: ???
 According to: ???

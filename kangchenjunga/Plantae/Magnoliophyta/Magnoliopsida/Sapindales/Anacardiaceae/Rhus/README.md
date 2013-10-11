@@ -1,4 +1,4 @@
-SPECIES Rhus succedanea
+GENUS Rhus
 =======
 Status: ???
 According to: ???

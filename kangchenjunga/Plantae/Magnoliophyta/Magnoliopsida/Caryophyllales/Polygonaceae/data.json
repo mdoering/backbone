@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Rumex",
+  "canonicalName": "Polygonaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Polygonaceae",
   "familyKey": 113489970,
-  "genus": "Rumex",
-  "genusKey": 113489973,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045870,
+      "key": 14045867,
       "type": "SOURCE_ID",
-      "usageKey": 113489973
+      "usageKey": 113489970
     }
   ],
-  "key": 113489973,
+  "key": 113489970,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2888942,
-  "numDescendants": 1,
+  "nubKey": 2416,
+  "numDescendants": 7,
   "order": "Caryophyllales",
   "orderKey": 113489957,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Polygonaceae",
-  "parentKey": 113489970,
+  "parent": "Caryophyllales",
+  "parentKey": 113489957,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Rumex",
+  "rank": "FAMILY",
+  "scientificName": "Polygonaceae",
   "synonym": false
 }

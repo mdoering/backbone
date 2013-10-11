@@ -1,4 +1,4 @@
-SPECIES Rubia manjith
+GENUS Rubia
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Zanthoxylum oxyphyllum
+GENUS Zanthoxylum
 =======
 Status: ???
 According to: ???

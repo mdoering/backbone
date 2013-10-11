@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Hemerocallis",
+  "canonicalName": "Hemerocallidaceae",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Hemerocallidaceae",
   "familyKey": 113489850,
-  "genus": "Hemerocallis",
-  "genusKey": 113489851,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045748,
+      "key": 14045747,
       "type": "SOURCE_ID",
-      "usageKey": 113489851
+      "usageKey": 113489850
     }
   ],
-  "key": 113489851,
+  "key": 113489850,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2752065,
-  "numDescendants": 1,
+  "nubKey": 3686211,
+  "numDescendants": 2,
   "order": "Asparagales",
   "orderKey": 113489839,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Hemerocallidaceae",
-  "parentKey": 113489850,
+  "parent": "Asparagales",
+  "parentKey": 113489839,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Hemerocallis",
+  "rank": "FAMILY",
+  "scientificName": "Hemerocallidaceae",
   "synonym": false
 }

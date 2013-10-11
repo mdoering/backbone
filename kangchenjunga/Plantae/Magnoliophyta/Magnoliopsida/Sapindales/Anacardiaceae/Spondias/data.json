@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Spondias pinnata",
+  "canonicalName": "Spondias",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045440,
+      "key": 14046115,
       "type": "SOURCE_ID",
-      "usageKey": 113489334
+      "usageKey": 113490218
     }
   ],
-  "key": 113489334,
+  "key": 113490218,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3661030,
-  "numDescendants": 0,
+  "nubKey": 3190592,
+  "numDescendants": 1,
   "order": "Sapindales",
   "orderKey": 113490213,
-  "origin": "SOURCE",
-  "parent": "Spondias",
-  "parentKey": 113490218,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Anacardiaceae",
+  "parentKey": 113490214,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Spondias pinnata",
-  "species": "Spondias pinnata",
-  "speciesKey": 113489334,
+  "rank": "GENUS",
+  "scientificName": "Spondias",
   "synonym": false
 }

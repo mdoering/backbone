@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Cymbidium longifolium",
+  "canonicalName": "Cymbidium",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045389,
+      "key": 14045753,
       "type": "SOURCE_ID",
-      "usageKey": 113489283
+      "usageKey": 113489856
     }
   ],
-  "key": 113489283,
+  "key": 113489856,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5305530,
-  "numDescendants": 0,
+  "nubKey": 2782293,
+  "numDescendants": 2,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Cymbidium",
-  "parentKey": 113489856,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Orchidaceae",
+  "parentKey": 113489852,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Cymbidium longifolium",
-  "species": "Cymbidium longifolium",
-  "speciesKey": 113489283,
+  "rank": "GENUS",
+  "scientificName": "Cymbidium",
   "synonym": false
 }

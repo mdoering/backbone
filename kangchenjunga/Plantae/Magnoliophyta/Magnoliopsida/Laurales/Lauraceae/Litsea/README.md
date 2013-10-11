@@ -1,4 +1,4 @@
-SPECIES Litsea monopetala
+GENUS Litsea
 =======
 Status: ???
 According to: ???

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Zanthoxylum oxyphyllum",
+  "canonicalName": "Zanthoxylum",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045685,
+      "key": 14046124,
       "type": "SOURCE_ID",
-      "usageKey": 113489579
+      "usageKey": 113490227
     }
   ],
-  "key": 113489579,
+  "key": 113490227,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3835722,
-  "numDescendants": 0,
+  "nubKey": 3190076,
+  "numDescendants": 3,
   "order": "Sapindales",
   "orderKey": 113490213,
-  "origin": "SOURCE",
-  "parent": "Zanthoxylum",
-  "parentKey": 113490227,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rutaceae",
+  "parentKey": 113490224,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Zanthoxylum oxyphyllum",
-  "species": "Zanthoxylum oxyphyllum",
-  "speciesKey": 113489579,
+  "rank": "GENUS",
+  "scientificName": "Zanthoxylum",
   "synonym": false
 }

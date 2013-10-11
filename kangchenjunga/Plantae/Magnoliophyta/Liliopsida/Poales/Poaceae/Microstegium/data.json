@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Microstegium ciliatum",
+  "canonicalName": "Microstegium",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045407,
+      "key": 14045788,
       "type": "SOURCE_ID",
-      "usageKey": 113489301
+      "usageKey": 113489891
     }
   ],
-  "key": 113489301,
+  "key": 113489891,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5679157,
-  "numDescendants": 0,
+  "nubKey": 2703555,
+  "numDescendants": 1,
   "order": "Poales",
   "orderKey": 113489877,
-  "origin": "SOURCE",
-  "parent": "Microstegium",
-  "parentKey": 113489891,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Poaceae",
+  "parentKey": 113489882,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Microstegium ciliatum",
-  "species": "Microstegium ciliatum",
-  "speciesKey": 113489301,
+  "rank": "GENUS",
+  "scientificName": "Microstegium",
   "synonym": false
 }

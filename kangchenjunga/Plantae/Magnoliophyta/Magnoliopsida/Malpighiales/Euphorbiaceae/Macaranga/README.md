@@ -1,4 +1,4 @@
-SPECIES Macaranga pustulata
+GENUS Macaranga
 =======
 Status: ???
 According to: ???

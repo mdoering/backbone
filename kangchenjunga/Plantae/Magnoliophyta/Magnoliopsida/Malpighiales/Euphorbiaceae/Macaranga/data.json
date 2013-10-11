@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Macaranga pustulata",
+  "canonicalName": "Macaranga",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045552,
+      "key": 14046022,
       "type": "SOURCE_ID",
-      "usageKey": 113489446
+      "usageKey": 113490125
     }
   ],
-  "key": 113489446,
+  "key": 113490125,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3073972,
-  "numDescendants": 0,
+  "nubKey": 3073879,
+  "numDescendants": 2,
   "order": "Malpighiales",
   "orderKey": 113490118,
-  "origin": "SOURCE",
-  "parent": "Macaranga",
-  "parentKey": 113490125,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Euphorbiaceae",
+  "parentKey": 113490121,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Macaranga pustulata",
-  "species": "Macaranga pustulata",
-  "speciesKey": 113489446,
+  "rank": "GENUS",
+  "scientificName": "Macaranga",
   "synonym": false
 }

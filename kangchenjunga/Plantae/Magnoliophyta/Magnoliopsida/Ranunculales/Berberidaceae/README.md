@@ -1,4 +1,4 @@
-GENUS Podophyllum
+FAMILY Berberidaceae
 =======
 Status: ???
 According to: ???

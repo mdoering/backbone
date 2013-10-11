@@ -1,4 +1,4 @@
-GENUS Trichosanthes
+FAMILY Cucurbitaceae
 =======
 Status: ???
 According to: ???

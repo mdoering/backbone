@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Syzygium",
+  "canonicalName": "Myrtaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Myrtaceae",
   "familyKey": 113490148,
-  "genus": "Syzygium",
-  "genusKey": 113490150,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14046047,
+      "key": 14046045,
       "type": "SOURCE_ID",
-      "usageKey": 113490150
+      "usageKey": 113490148
     }
   ],
-  "key": 113490150,
+  "key": 113490148,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3029010,
-  "numDescendants": 2,
+  "nubKey": 5014,
+  "numDescendants": 5,
   "order": "Myrtales",
   "orderKey": 113490140,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Myrtaceae",
-  "parentKey": 113490148,
+  "parent": "Myrtales",
+  "parentKey": 113490140,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Syzygium",
+  "rank": "FAMILY",
+  "scientificName": "Myrtaceae",
   "synonym": false
 }

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Fragaria nubicola",
+  "canonicalName": "Fragaria",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045661,
+      "key": 14046088,
       "type": "SOURCE_ID",
-      "usageKey": 113489555
+      "usageKey": 113490191
     }
   ],
-  "key": 113489555,
+  "key": 113490191,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3029943,
-  "numDescendants": 0,
+  "nubKey": 3029779,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Fragaria",
-  "parentKey": 113490191,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rosaceae",
+  "parentKey": 113490189,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Fragaria nubicola",
-  "species": "Fragaria nubicola",
-  "speciesKey": 113489555,
+  "rank": "GENUS",
+  "scientificName": "Fragaria",
   "synonym": false
 }

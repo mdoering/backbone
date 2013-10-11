@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Duchesnea indica",
+  "canonicalName": "Duchesnea",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045660,
+      "key": 14046087,
       "type": "SOURCE_ID",
-      "usageKey": 113489554
+      "usageKey": 113490190
     }
   ],
-  "key": 113489554,
+  "key": 113490190,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3031919,
-  "numDescendants": 0,
+  "nubKey": 3031918,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Duchesnea",
-  "parentKey": 113490190,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rosaceae",
+  "parentKey": 113490189,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Duchesnea indica",
-  "species": "Duchesnea indica",
-  "speciesKey": 113489554,
+  "rank": "GENUS",
+  "scientificName": "Duchesnea",
   "synonym": false
 }

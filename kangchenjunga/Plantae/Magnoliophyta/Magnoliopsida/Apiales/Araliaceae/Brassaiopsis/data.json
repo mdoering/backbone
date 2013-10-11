@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Brassaiopsis mitis",
+  "canonicalName": "Brassaiopsis",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045451,
+      "key": 14045808,
       "type": "SOURCE_ID",
-      "usageKey": 113489345
+      "usageKey": 113489911
     }
   ],
-  "key": 113489345,
+  "key": 113489911,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3036255,
-  "numDescendants": 0,
+  "nubKey": 3036184,
+  "numDescendants": 1,
   "order": "Apiales",
   "orderKey": 113489903,
-  "origin": "SOURCE",
-  "parent": "Brassaiopsis",
-  "parentKey": 113489911,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Araliaceae",
+  "parentKey": 113489909,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Brassaiopsis mitis",
-  "species": "Brassaiopsis mitis",
-  "speciesKey": 113489345,
+  "rank": "GENUS",
+  "scientificName": "Brassaiopsis",
   "synonym": false
 }

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Asparagus racemosus",
+  "canonicalName": "Asparagus",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045366,
+      "key": 14045742,
       "type": "SOURCE_ID",
-      "usageKey": 113489260
+      "usageKey": 113489845
     }
   ],
-  "key": 113489260,
+  "key": 113489845,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2768632,
-  "numDescendants": 0,
+  "nubKey": 2768348,
+  "numDescendants": 1,
   "order": "Asparagales",
   "orderKey": 113489839,
-  "origin": "SOURCE",
-  "parent": "Asparagus",
-  "parentKey": 113489845,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asparagaceae",
+  "parentKey": 113489844,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Asparagus racemosus",
-  "species": "Asparagus racemosus",
-  "speciesKey": 113489260,
+  "rank": "GENUS",
+  "scientificName": "Asparagus",
   "synonym": false
 }

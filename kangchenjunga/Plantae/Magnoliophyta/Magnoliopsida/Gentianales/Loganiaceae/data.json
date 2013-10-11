@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Buddleja",
+  "canonicalName": "Loganiaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Loganiaceae",
   "familyKey": 113490053,
-  "genus": "Buddleja",
-  "genusKey": 113490054,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045951,
+      "key": 14045950,
       "type": "SOURCE_ID",
-      "usageKey": 113490054
+      "usageKey": 113490053
     }
   ],
-  "key": 113490054,
+  "key": 113490053,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3173330,
-  "numDescendants": 1,
+  "nubKey": 2502,
+  "numDescendants": 2,
   "order": "Gentianales",
   "orderKey": 113490042,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Loganiaceae",
-  "parentKey": 113490053,
+  "parent": "Gentianales",
+  "parentKey": 113490042,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Buddleja",
+  "rank": "FAMILY",
+  "scientificName": "Loganiaceae",
   "synonym": false
 }

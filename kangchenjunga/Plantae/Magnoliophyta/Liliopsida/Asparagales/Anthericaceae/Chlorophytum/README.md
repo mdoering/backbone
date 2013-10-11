@@ -1,4 +1,4 @@
-SPECIES Chlorophytum nepalense
+GENUS Chlorophytum
 =======
 Status: ???
 According to: ???

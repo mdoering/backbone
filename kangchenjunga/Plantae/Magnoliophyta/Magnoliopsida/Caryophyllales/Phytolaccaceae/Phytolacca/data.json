@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Phytolacca acinosa",
+  "canonicalName": "Phytolacca",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045646,
+      "key": 14045866,
       "type": "SOURCE_ID",
-      "usageKey": 113489540
+      "usageKey": 113489969
     }
   ],
-  "key": 113489540,
+  "key": 113489969,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3084022,
-  "numDescendants": 0,
+  "nubKey": 3084013,
+  "numDescendants": 1,
   "order": "Caryophyllales",
   "orderKey": 113489957,
-  "origin": "SOURCE",
-  "parent": "Phytolacca",
-  "parentKey": 113489969,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Phytolaccaceae",
+  "parentKey": 113489968,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Phytolacca acinosa",
-  "species": "Phytolacca acinosa",
-  "speciesKey": 113489540,
+  "rank": "GENUS",
+  "scientificName": "Phytolacca",
   "synonym": false
 }

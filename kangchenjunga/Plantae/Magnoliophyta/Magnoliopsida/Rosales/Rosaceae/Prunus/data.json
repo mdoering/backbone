@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Prunus persica",
+  "canonicalName": "Prunus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045665,
+      "key": 14046090,
       "type": "SOURCE_ID",
-      "usageKey": 113489559
+      "usageKey": 113490193
     }
   ],
-  "key": 113489559,
+  "key": 113490193,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3022511,
-  "numDescendants": 0,
+  "nubKey": 3020559,
+  "numDescendants": 3,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Prunus",
-  "parentKey": 113490193,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rosaceae",
+  "parentKey": 113490189,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Prunus persica",
-  "species": "Prunus persica",
-  "speciesKey": 113489559,
+  "rank": "GENUS",
+  "scientificName": "Prunus",
   "synonym": false
 }

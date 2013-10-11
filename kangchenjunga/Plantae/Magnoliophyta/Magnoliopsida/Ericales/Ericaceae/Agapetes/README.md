@@ -1,4 +1,4 @@
-SPECIES Agapetes serpens
+GENUS Agapetes
 =======
 Status: ???
 According to: ???

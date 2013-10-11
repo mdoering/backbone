@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Myriactis nepalensis",
+  "canonicalName": "Myriactis",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045479,
+      "key": 14045835,
       "type": "SOURCE_ID",
-      "usageKey": 113489373
+      "usageKey": 113489938
     }
   ],
-  "key": 113489373,
+  "key": 113489938,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5391574,
-  "numDescendants": 0,
+  "nubKey": 3105150,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Myriactis",
-  "parentKey": 113489938,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asteraceae",
+  "parentKey": 113489923,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Myriactis nepalensis",
-  "species": "Myriactis nepalensis",
-  "speciesKey": 113489373,
+  "rank": "GENUS",
+  "scientificName": "Myriactis",
   "synonym": false
 }

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Betula utilis",
+  "canonicalName": "Betula",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045636,
+      "key": 14045932,
       "type": "SOURCE_ID",
-      "usageKey": 113489530
+      "usageKey": 113490035
     }
   ],
-  "key": 113489530,
+  "key": 113490035,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5332157,
-  "numDescendants": 0,
+  "nubKey": 2875008,
+  "numDescendants": 2,
   "order": "Fagales",
   "orderKey": 113490032,
-  "origin": "SOURCE",
-  "parent": "Betula",
-  "parentKey": 113490035,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Betulaceae",
+  "parentKey": 113490033,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Betula utilis",
-  "species": "Betula utilis",
-  "speciesKey": 113489530,
+  "rank": "GENUS",
+  "scientificName": "Betula",
   "synonym": false
 }

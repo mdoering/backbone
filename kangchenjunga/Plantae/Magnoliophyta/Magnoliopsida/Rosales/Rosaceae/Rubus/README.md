@@ -1,4 +1,4 @@
-SPECIES Rubus treutleri
+GENUS Rubus
 =======
 Status: ???
 According to: ???

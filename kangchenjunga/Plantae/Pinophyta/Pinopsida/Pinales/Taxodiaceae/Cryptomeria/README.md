@@ -1,4 +1,4 @@
-SPECIES Cryptomeria japonica
+GENUS Cryptomeria
 =======
 Status: ???
 According to: ???

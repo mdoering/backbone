@@ -1,4 +1,4 @@
-SPECIES Garuga pinnata
+GENUS Garuga
 =======
 Status: ???
 According to: ???

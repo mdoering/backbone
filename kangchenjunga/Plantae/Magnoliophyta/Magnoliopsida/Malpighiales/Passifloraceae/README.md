@@ -1,4 +1,4 @@
-GENUS Passiflora
+FAMILY Passifloraceae
 =======
 Status: ???
 According to: ???

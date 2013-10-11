@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Mirabilis jalapa",
+  "canonicalName": "Mirabilis",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045637,
+      "key": 14045864,
       "type": "SOURCE_ID",
-      "usageKey": 113489531
+      "usageKey": 113489967
     }
   ],
-  "key": 113489531,
+  "key": 113489967,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3086240,
-  "numDescendants": 0,
+  "nubKey": 3086140,
+  "numDescendants": 1,
   "order": "Caryophyllales",
   "orderKey": 113489957,
-  "origin": "SOURCE",
-  "parent": "Mirabilis",
-  "parentKey": 113489967,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Nyctaginaceae",
+  "parentKey": 113489966,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Mirabilis jalapa",
-  "species": "Mirabilis jalapa",
-  "speciesKey": 113489531,
+  "rank": "GENUS",
+  "scientificName": "Mirabilis",
   "synonym": false
 }

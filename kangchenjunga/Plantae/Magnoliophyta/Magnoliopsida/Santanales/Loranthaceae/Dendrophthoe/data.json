@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Dendrophthoe falcata",
+  "canonicalName": "Dendrophthoe",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045607,
+      "key": 14046106,
       "type": "SOURCE_ID",
-      "usageKey": 113489501
+      "usageKey": 113490209
     }
   ],
-  "key": 113489501,
+  "key": 113490209,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7288062,
-  "numDescendants": 0,
+  "nubKey": 7287931,
+  "numDescendants": 1,
   "order": "Santanales",
   "orderKey": 113490205,
-  "origin": "SOURCE",
-  "parent": "Dendrophthoe",
-  "parentKey": 113490209,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Loranthaceae",
+  "parentKey": 113490208,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Dendrophthoe falcata",
-  "species": "Dendrophthoe falcata",
-  "speciesKey": 113489501,
+  "rank": "GENUS",
+  "scientificName": "Dendrophthoe",
   "synonym": false
 }

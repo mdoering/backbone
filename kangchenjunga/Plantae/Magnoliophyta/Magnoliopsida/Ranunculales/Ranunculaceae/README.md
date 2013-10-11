@@ -1,4 +1,4 @@
-GENUS Ranunculus
+FAMILY Ranunculaceae
 =======
 Status: ???
 According to: ???

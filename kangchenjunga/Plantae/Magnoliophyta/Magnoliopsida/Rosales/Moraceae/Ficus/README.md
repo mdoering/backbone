@@ -1,4 +1,4 @@
-SPECIES Ficus semicordata
+GENUS Ficus
 =======
 Status: ???
 According to: ???

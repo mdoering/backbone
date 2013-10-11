@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Cuscuta reflexa",
+  "canonicalName": "Cuscuta",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045527,
+      "key": 14046142,
       "type": "SOURCE_ID",
-      "usageKey": 113489421
+      "usageKey": 113490245
     }
   ],
-  "key": 113489421,
+  "key": 113490245,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2927545,
-  "numDescendants": 0,
+  "nubKey": 2927479,
+  "numDescendants": 1,
   "order": "Solanales",
   "orderKey": 113490241,
-  "origin": "SOURCE",
-  "parent": "Cuscuta",
-  "parentKey": 113490245,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Convulvulaceae",
+  "parentKey": 113490244,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Cuscuta reflexa",
-  "species": "Cuscuta reflexa",
-  "speciesKey": 113489421,
+  "rank": "GENUS",
+  "scientificName": "Cuscuta",
   "synonym": false
 }

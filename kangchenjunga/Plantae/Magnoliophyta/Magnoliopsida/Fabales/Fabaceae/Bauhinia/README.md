@@ -1,4 +1,4 @@
-SPECIES Bauhinia vahlii
+GENUS Bauhinia
 =======
 Status: ???
 According to: ???

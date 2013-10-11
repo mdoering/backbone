@@ -1,4 +1,4 @@
-GENUS Vaccinium
+FAMILY Ericaceae
 =======
 Status: ???
 According to: ???

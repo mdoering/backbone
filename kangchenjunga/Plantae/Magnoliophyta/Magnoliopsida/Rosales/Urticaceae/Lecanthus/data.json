@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Lecanthus peduncularis",
+  "canonicalName": "Lecanthus",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045710,
+      "key": 14046100,
       "type": "SOURCE_ID",
-      "usageKey": 113489604
+      "usageKey": 113490203
     }
   ],
-  "key": 113489604,
+  "key": 113490203,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7300476,
-  "numDescendants": 0,
+  "nubKey": 4098111,
+  "numDescendants": 1,
   "order": "Rosales",
   "orderKey": 113490176,
-  "origin": "SOURCE",
-  "parent": "Lecanthus",
-  "parentKey": 113490203,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Urticaceae",
+  "parentKey": 113490198,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Lecanthus peduncularis",
-  "species": "Lecanthus peduncularis",
-  "speciesKey": 113489604,
+  "rank": "GENUS",
+  "scientificName": "Lecanthus",
   "synonym": false
 }

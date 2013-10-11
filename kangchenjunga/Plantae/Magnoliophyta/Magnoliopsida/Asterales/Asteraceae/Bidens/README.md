@@ -1,4 +1,4 @@
-SPECIES Bidens pilosa
+GENUS Bidens
 =======
 Status: ???
 According to: ???

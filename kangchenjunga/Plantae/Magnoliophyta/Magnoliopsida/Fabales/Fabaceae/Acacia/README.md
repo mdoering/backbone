@@ -1,4 +1,4 @@
-SPECIES Acacia pennata
+GENUS Acacia
 =======
 Status: ???
 According to: ???

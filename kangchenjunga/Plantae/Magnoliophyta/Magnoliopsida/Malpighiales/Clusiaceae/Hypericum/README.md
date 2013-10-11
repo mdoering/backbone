@@ -1,4 +1,4 @@
-SPECIES Hypericum uralum
+GENUS Hypericum
 =======
 Status: ???
 According to: ???

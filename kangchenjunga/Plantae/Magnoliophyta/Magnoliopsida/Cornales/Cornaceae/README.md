@@ -1,4 +1,4 @@
-GENUS Alangium
+FAMILY Cornaceae
 =======
 Status: ???
 According to: ???

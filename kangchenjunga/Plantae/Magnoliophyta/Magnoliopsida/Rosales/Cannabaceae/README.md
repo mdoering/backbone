@@ -1,4 +1,4 @@
-GENUS Cannabis
+FAMILY Cannabaceae
 =======
 Status: ???
 According to: ???

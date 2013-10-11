@@ -1,4 +1,4 @@
-SPECIES Vandopsis undulata
+GENUS Vandopsis
 =======
 Status: ???
 According to: ???

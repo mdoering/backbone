@@ -1,4 +1,4 @@
-GENUS Costus
+FAMILY Zingeberaceae
 =======
 Status: ???
 According to: ???

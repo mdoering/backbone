@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Jasminum humile",
+  "canonicalName": "Jasminum",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045641,
+      "key": 14045995,
       "type": "SOURCE_ID",
-      "usageKey": 113489535
+      "usageKey": 113490098
     }
   ],
-  "key": 113489535,
+  "key": 113490098,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7326112,
-  "numDescendants": 0,
+  "nubKey": 3172260,
+  "numDescendants": 3,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Jasminum",
-  "parentKey": 113490098,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Oleaceae",
+  "parentKey": 113490096,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Jasminum humile",
-  "species": "Jasminum humile",
-  "speciesKey": 113489535,
+  "rank": "GENUS",
+  "scientificName": "Jasminum",
   "synonym": false
 }

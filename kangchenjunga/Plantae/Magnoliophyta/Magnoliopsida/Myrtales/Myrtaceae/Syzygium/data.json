@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Syzygium operculatum",
+  "canonicalName": "Syzygium",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045633,
+      "key": 14046047,
       "type": "SOURCE_ID",
-      "usageKey": 113489527
+      "usageKey": 113490150
     }
   ],
-  "key": 113489527,
+  "key": 113490150,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3184138,
-  "numDescendants": 0,
+  "nubKey": 3029010,
+  "numDescendants": 2,
   "order": "Myrtales",
   "orderKey": 113490140,
-  "origin": "SOURCE",
-  "parent": "Syzygium",
-  "parentKey": 113490150,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Myrtaceae",
+  "parentKey": 113490148,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Syzygium operculatum",
-  "species": "Syzygium operculatum",
-  "speciesKey": 113489527,
+  "rank": "GENUS",
+  "scientificName": "Syzygium",
   "synonym": false
 }

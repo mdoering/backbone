@@ -1,4 +1,4 @@
-SPECIES Rumex nepalensis
+GENUS Rumex
 =======
 Status: ???
 According to: ???

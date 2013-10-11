@@ -1,4 +1,4 @@
-GENUS Symplocos
+FAMILY Symplocaceae
 =======
 Status: ???
 According to: ???

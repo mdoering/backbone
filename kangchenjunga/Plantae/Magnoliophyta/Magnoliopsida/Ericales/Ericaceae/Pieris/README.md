@@ -1,4 +1,4 @@
-SPECIES Pieris formosa
+GENUS Pieris
 =======
 Status: ???
 According to: ???

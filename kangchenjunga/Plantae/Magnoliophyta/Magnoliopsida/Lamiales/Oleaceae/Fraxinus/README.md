@@ -1,4 +1,4 @@
-SPECIES Fraxinus floribunda
+GENUS Fraxinus
 =======
 Status: ???
 According to: ???

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Conyza stricta",
+  "canonicalName": "Conyza",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045474,
+      "key": 14045830,
       "type": "SOURCE_ID",
-      "usageKey": 113489368
+      "usageKey": 113489933
     }
   ],
-  "key": 113489368,
+  "key": 113489933,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5404804,
-  "numDescendants": 0,
+  "nubKey": 5397989,
+  "numDescendants": 1,
   "order": "Asterales",
   "orderKey": 113489922,
-  "origin": "SOURCE",
-  "parent": "Conyza",
-  "parentKey": 113489933,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Asteraceae",
+  "parentKey": 113489923,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Conyza stricta",
-  "species": "Conyza stricta",
-  "speciesKey": 113489368,
+  "rank": "GENUS",
+  "scientificName": "Conyza",
   "synonym": false
 }

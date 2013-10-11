@@ -1,4 +1,4 @@
-SPECIES Oenanthe thomsonii
+GENUS Oenanthe
 =======
 Status: ???
 According to: ???

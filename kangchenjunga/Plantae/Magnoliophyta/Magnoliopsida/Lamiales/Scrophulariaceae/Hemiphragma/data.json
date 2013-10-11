@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Hemiphragma heterophyllum",
+  "canonicalName": "Hemiphragma",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045691,
+      "key": 14046000,
       "type": "SOURCE_ID",
-      "usageKey": 113489585
+      "usageKey": 113490103
     }
   ],
-  "key": 113489585,
+  "key": 113490103,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 5559314,
-  "numDescendants": 0,
+  "nubKey": 3233346,
+  "numDescendants": 1,
   "order": "Lamiales",
   "orderKey": 113490072,
-  "origin": "SOURCE",
-  "parent": "Hemiphragma",
-  "parentKey": 113490103,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Scrophulariaceae",
+  "parentKey": 113490102,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Hemiphragma heterophyllum",
-  "species": "Hemiphragma heterophyllum",
-  "speciesKey": 113489585,
+  "rank": "GENUS",
+  "scientificName": "Hemiphragma",
   "synonym": false
 }

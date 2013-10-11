@@ -1,4 +1,4 @@
-SPECIES Abelmoschu moschatus
+GENUS Abelmoschu
 =======
 Status: ???
 According to: ???

@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Acer sikkimense",
+  "canonicalName": "Acer",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045427,
+      "key": 14046126,
       "type": "SOURCE_ID",
-      "usageKey": 113489321
+      "usageKey": 113490229
     }
   ],
-  "key": 113489321,
+  "key": 113490229,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7263068,
-  "numDescendants": 0,
+  "nubKey": 3189834,
+  "numDescendants": 3,
   "order": "Sapindales",
   "orderKey": 113490213,
-  "origin": "SOURCE",
-  "parent": "Acer",
-  "parentKey": 113490229,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Sapindaceae",
+  "parentKey": 113490228,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Acer sikkimense",
-  "species": "Acer sikkimense",
-  "speciesKey": 113489321,
+  "rank": "GENUS",
+  "scientificName": "Acer",
   "synonym": false
 }

@@ -1,4 +1,4 @@
-SPECIES Morus macroura
+GENUS Morus
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Sporobolus fertilis
+GENUS Sporobolus
 =======
 Status: ???
 According to: ???

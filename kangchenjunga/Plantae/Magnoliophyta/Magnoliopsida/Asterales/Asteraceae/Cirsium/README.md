@@ -1,4 +1,4 @@
-SPECIES Cirsium verutum
+GENUS Cirsium
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Pycnoplinthopsis bhutanica
+GENUS Pycnoplinthopsis
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Erianthus ravennae
+GENUS Erianthus
 =======
 Status: ???
 According to: ???

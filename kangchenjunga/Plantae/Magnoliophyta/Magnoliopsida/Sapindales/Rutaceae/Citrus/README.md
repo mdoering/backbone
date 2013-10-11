@@ -1,4 +1,4 @@
-SPECIES Citrus medica
+GENUS Citrus
 =======
 Status: ???
 According to: ???

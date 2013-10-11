@@ -1,4 +1,4 @@
-GENUS Rumex
+FAMILY Polygonaceae
 =======
 Status: ???
 According to: ???

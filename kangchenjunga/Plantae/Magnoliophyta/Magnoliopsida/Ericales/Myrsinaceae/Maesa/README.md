@@ -1,4 +1,4 @@
-SPECIES Maesa indica
+GENUS Maesa
 =======
 Status: ???
 According to: ???

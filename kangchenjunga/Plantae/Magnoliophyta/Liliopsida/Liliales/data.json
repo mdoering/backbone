@@ -1,34 +1,32 @@
 {
   "authorship": "",
-  "canonicalName": "Smilacaceae",
+  "canonicalName": "Liliales",
   "classKey": 113489833,
   "clazz": "Liliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-  "family": "Smilacaceae",
-  "familyKey": 113489875,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045772,
+      "key": 14045768,
       "type": "SOURCE_ID",
-      "usageKey": 113489875
+      "usageKey": 113489871
     }
   ],
-  "key": 113489875,
+  "key": 113489871,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 7702,
-  "numDescendants": 4,
+  "nubKey": 1172,
+  "numDescendants": 10,
   "order": "Liliales",
   "orderKey": 113489871,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Liliales",
-  "parentKey": 113489871,
+  "parent": "Liliopsida",
+  "parentKey": 113489833,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "FAMILY",
-  "scientificName": "Smilacaceae",
+  "rank": "ORDER",
+  "scientificName": "Liliales",
   "synonym": false
 }

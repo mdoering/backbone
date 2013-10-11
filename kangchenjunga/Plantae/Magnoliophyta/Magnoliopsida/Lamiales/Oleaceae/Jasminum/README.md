@@ -1,4 +1,4 @@
-SPECIES Jasminum humile
+GENUS Jasminum
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-CLASS Magnoliopsida
+PHYLUM Magnoliophyta
 =======
 Status: ???
 According to: ???

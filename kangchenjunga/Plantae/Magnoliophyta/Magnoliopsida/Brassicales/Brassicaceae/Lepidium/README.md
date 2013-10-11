@@ -1,4 +1,4 @@
-SPECIES Lepidium sativum
+GENUS Lepidium
 =======
 Status: ???
 According to: ???

@@ -1,4 +1,4 @@
-SPECIES Dioscorea alata
+GENUS Dioscorea
 =======
 Status: ???
 According to: ???

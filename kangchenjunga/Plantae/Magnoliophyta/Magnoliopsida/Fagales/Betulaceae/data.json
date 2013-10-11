@@ -1,36 +1,34 @@
 {
   "authorship": "",
-  "canonicalName": "Betula",
+  "canonicalName": "Betulaceae",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
   "family": "Betulaceae",
   "familyKey": 113490033,
-  "genus": "Betula",
-  "genusKey": 113490035,
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045932,
+      "key": 14045930,
       "type": "SOURCE_ID",
-      "usageKey": 113490035
+      "usageKey": 113490033
     }
   ],
-  "key": 113490035,
+  "key": 113490033,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 2875008,
-  "numDescendants": 2,
+  "nubKey": 4688,
+  "numDescendants": 5,
   "order": "Fagales",
   "orderKey": 113490032,
   "origin": "DENORMED_CLASSIFICATION",
-  "parent": "Betulaceae",
-  "parentKey": 113490033,
+  "parent": "Fagales",
+  "parentKey": 113490032,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "GENUS",
-  "scientificName": "Betula",
+  "rank": "FAMILY",
+  "scientificName": "Betulaceae",
   "synonym": false
 }

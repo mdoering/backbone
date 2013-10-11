@@ -1,6 +1,6 @@
 {
   "authorship": "",
-  "canonicalName": "Toona ciliata",
+  "canonicalName": "Toona",
   "classKey": 113489902,
   "clazz": "Magnoliopsida",
   "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
@@ -11,28 +11,26 @@
   "identifiers": [
     {
       "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
-      "key": 14045619,
+      "key": 14046120,
       "type": "SOURCE_ID",
-      "usageKey": 113489513
+      "usageKey": 113490223
     }
   ],
-  "key": 113489513,
+  "key": 113490223,
   "kingdom": "Plantae",
   "kingdomKey": 113489831,
   "nameType": "WELLFORMED",
   "nomenclaturalStatus": [],
-  "nubKey": 3190472,
-  "numDescendants": 0,
+  "nubKey": 3190471,
+  "numDescendants": 1,
   "order": "Sapindales",
   "orderKey": 113490213,
-  "origin": "SOURCE",
-  "parent": "Toona",
-  "parentKey": 113490223,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Meliaceae",
+  "parentKey": 113490221,
   "phylum": "Magnoliophyta",
   "phylumKey": 113489832,
-  "rank": "SPECIES",
-  "scientificName": "Toona ciliata",
-  "species": "Toona ciliata",
-  "speciesKey": 113489513,
+  "rank": "GENUS",
+  "scientificName": "Toona",
   "synonym": false
 }

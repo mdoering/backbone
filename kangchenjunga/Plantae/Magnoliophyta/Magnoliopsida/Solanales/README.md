@@ -1,4 +1,4 @@
-FAMILY Solanaceae
+ORDER Solanales
 =======
 Status: ???
 According to: ???

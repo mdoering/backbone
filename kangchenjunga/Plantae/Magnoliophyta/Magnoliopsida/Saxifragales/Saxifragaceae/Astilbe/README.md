@@ -1,4 +1,4 @@
-SPECIES Astilbe rivularis
+GENUS Astilbe
 =======
 Status: ???
 According to: ???
