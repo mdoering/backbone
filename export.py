@@ -26,7 +26,7 @@ def dumpUsage(u, parentDir):
     
     # add defaults to json if None
     fReadme = open(os.path.join(parentDir,'README.md'), 'w')
-    fReadme.write("%s %s\n=======Status: %s\nAccording to: %s\n" % (u.get("rank","unranked"), u.get("scientificName","Name missing"), u.get("taxonomicStatus","???"), u.get("accordingTo","???")))
+    fReadme.write("%s %s\n=======\nStatus: %s\nAccording to: %s\n" % (u.get("rank","unranked"), u.get("scientificName","Name missing"), u.get("taxonomicStatus","???"), u.get("accordingTo","???")))
     fReadme.close()
   except Exception as e:
     print "  %s" % e

@@ -1,3 +1,4 @@
 SPECIES Garuga pinnata
-=======Status: ???
+=======
+Status: ???
 According to: ???
