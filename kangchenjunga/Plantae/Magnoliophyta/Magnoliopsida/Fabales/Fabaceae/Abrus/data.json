@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Abrus precatorius",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Fabaceae",
+  "familyKey": 113490021,
+  "genus": "Abrus",
+  "genusKey": 113490022,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045555,
+      "type": "SOURCE_ID",
+      "usageKey": 113489449
+    }
+  ],
+  "key": 113489449,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5348711,
+  "numDescendants": 0,
+  "order": "Fabales",
+  "orderKey": 113490020,
+  "origin": "SOURCE",
+  "parent": "Abrus",
+  "parentKey": 113490022,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Abrus precatorius",
+  "species": "Abrus precatorius",
+  "speciesKey": 113489449,
+  "synonym": false
+}

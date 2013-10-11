@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Ficus semicordata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Moraceae",
+  "familyKey": 113490183,
+  "genus": "Ficus",
+  "genusKey": 113490185,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045624,
+      "type": "SOURCE_ID",
+      "usageKey": 113489518
+    }
+  ],
+  "key": 113489518,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7262538,
+  "numDescendants": 0,
+  "order": "Rosales",
+  "orderKey": 113490176,
+  "origin": "SOURCE",
+  "parent": "Ficus",
+  "parentKey": 113490185,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Ficus semicordata",
+  "species": "Ficus semicordata",
+  "speciesKey": 113489518,
+  "synonym": false
+}

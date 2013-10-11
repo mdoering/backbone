@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Debregeasia salicifolia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Urticaceae",
+  "familyKey": 113490198,
+  "genus": "Debregeasia",
+  "genusKey": 113490201,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045708,
+      "type": "SOURCE_ID",
+      "usageKey": 113489602
+    }
+  ],
+  "key": 113489602,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4100808,
+  "numDescendants": 0,
+  "order": "Rosales",
+  "orderKey": 113490176,
+  "origin": "SOURCE",
+  "parent": "Debregeasia",
+  "parentKey": 113490201,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Debregeasia salicifolia",
+  "species": "Debregeasia salicifolia",
+  "speciesKey": 113489602,
+  "synonym": false
+}

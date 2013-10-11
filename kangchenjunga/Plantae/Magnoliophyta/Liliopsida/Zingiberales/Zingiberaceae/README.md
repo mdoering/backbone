@@ -1,0 +1,3 @@
+GENUS Curcuma
+=======Status: ???
+According to: ???

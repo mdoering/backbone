@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Begonia megaptera",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Begoniaceae",
+  "familyKey": 113489983,
+  "genus": "Begonia",
+  "genusKey": 113489984,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045492,
+      "type": "SOURCE_ID",
+      "usageKey": 113489386
+    }
+  ],
+  "key": 113489386,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4158325,
+  "numDescendants": 0,
+  "order": "Cucurbitales",
+  "orderKey": 113489982,
+  "origin": "SOURCE",
+  "parent": "Begonia",
+  "parentKey": 113489984,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Begonia megaptera",
+  "species": "Begonia megaptera",
+  "speciesKey": 113489386,
+  "synonym": false
+}

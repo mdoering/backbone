@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Paris",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Melanthiaceae",
+  "familyKey": 113490063,
+  "genus": "Paris",
+  "genusKey": 113490064,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045961,
+      "type": "SOURCE_ID",
+      "usageKey": 113490064
+    }
+  ],
+  "key": 113490064,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2741835,
+  "numDescendants": 1,
+  "order": "Geraniales",
+  "orderKey": 113490062,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Melanthiaceae",
+  "parentKey": 113490063,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Paris",
+  "synonym": false
+}

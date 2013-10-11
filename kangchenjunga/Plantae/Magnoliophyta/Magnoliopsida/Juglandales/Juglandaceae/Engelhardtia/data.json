@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Engelhardtia spicata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Juglandaceae",
+  "familyKey": 113490069,
+  "genus": "Engelhardtia",
+  "genusKey": 113490070,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045585,
+      "type": "SOURCE_ID",
+      "usageKey": 113489479
+    }
+  ],
+  "key": 113489479,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7310580,
+  "numDescendants": 0,
+  "order": "Juglandales",
+  "orderKey": 113490068,
+  "origin": "SOURCE",
+  "parent": "Engelhardtia",
+  "parentKey": 113490070,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Engelhardtia spicata",
+  "species": "Engelhardtia spicata",
+  "speciesKey": 113489479,
+  "synonym": false
+}

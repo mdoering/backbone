@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Swertia chirayita",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Gentianaceae",
+  "familyKey": 113490050,
+  "genus": "Swertia",
+  "genusKey": 113490052,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045578,
+      "type": "SOURCE_ID",
+      "usageKey": 113489472
+    }
+  ],
+  "key": 113489472,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5596316,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Swertia",
+  "parentKey": 113490052,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Swertia chirayita",
+  "species": "Swertia chirayita",
+  "speciesKey": 113489472,
+  "synonym": false
+}

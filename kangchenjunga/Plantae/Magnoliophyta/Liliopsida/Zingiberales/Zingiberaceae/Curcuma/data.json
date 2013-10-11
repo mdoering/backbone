@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Curcuma angustifolia",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Zingiberaceae",
+  "familyKey": 113489899,
+  "genus": "Curcuma",
+  "genusKey": 113489901,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045418,
+      "type": "SOURCE_ID",
+      "usageKey": 113489312
+    }
+  ],
+  "key": 113489312,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2757542,
+  "numDescendants": 0,
+  "order": "Zingiberales",
+  "orderKey": 113489896,
+  "origin": "SOURCE",
+  "parent": "Curcuma",
+  "parentKey": 113489901,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Curcuma angustifolia",
+  "species": "Curcuma angustifolia",
+  "speciesKey": 113489312,
+  "synonym": false
+}

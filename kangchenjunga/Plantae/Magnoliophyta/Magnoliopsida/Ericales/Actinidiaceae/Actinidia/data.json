@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Actinidia callosa",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Actinidiaceae",
+  "familyKey": 113489997,
+  "genus": "Actinidia",
+  "genusKey": 113489998,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045428,
+      "type": "SOURCE_ID",
+      "usageKey": 113489322
+    }
+  ],
+  "key": 113489322,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7270822,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Actinidia",
+  "parentKey": 113489998,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Actinidia callosa",
+  "species": "Actinidia callosa",
+  "speciesKey": 113489322,
+  "synonym": false
+}

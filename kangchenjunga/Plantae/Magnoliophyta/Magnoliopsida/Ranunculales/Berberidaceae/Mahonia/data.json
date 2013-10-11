@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Mahonia napaulensis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Berberidaceae",
+  "familyKey": 113490161,
+  "genus": "Mahonia",
+  "genusKey": 113490163,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045497,
+      "type": "SOURCE_ID",
+      "usageKey": 113489391
+    }
+  ],
+  "key": 113489391,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3981498,
+  "numDescendants": 0,
+  "order": "Ranunculales",
+  "orderKey": 113490160,
+  "origin": "SOURCE",
+  "parent": "Mahonia",
+  "parentKey": 113490163,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Mahonia napaulensis",
+  "species": "Mahonia napaulensis",
+  "speciesKey": 113489391,
+  "synonym": false
+}

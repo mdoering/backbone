@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Pycreus sanguinolentus",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Cyperaceae",
+  "familyKey": 113489878,
+  "genus": "Pycreus",
+  "genusKey": 113489881,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045376,
+      "type": "SOURCE_ID",
+      "usageKey": 113489270
+    }
+  ],
+  "key": 113489270,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2730814,
+  "numDescendants": 0,
+  "order": "Poales",
+  "orderKey": 113489877,
+  "origin": "SOURCE",
+  "parent": "Pycreus",
+  "parentKey": 113489881,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Pycreus sanguinolentus",
+  "species": "Pycreus sanguinolentus",
+  "speciesKey": 113489270,
+  "synonym": false
+}

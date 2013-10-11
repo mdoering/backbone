@@ -1,0 +1,37 @@
+{
+  "authorship": "",
+  "canonicalName": "Corydalis gowaniana",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Papaveraceae",
+  "familyKey": 113490167,
+  "genus": "Corydalis",
+  "genusKey": 113490168,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045574,
+      "type": "SOURCE_ID",
+      "usageKey": 113489468
+    }
+  ],
+  "key": 113489468,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "numDescendants": 0,
+  "order": "Ranunculales",
+  "orderKey": 113490160,
+  "origin": "SOURCE",
+  "parent": "Corydalis",
+  "parentKey": 113490168,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Corydalis gowaniana",
+  "species": "Corydalis gowaniana",
+  "speciesKey": 113489468,
+  "synonym": false
+}

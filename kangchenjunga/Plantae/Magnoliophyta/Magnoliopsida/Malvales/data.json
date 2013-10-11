@@ -1,0 +1,34 @@
+{
+  "authorship": "",
+  "canonicalName": "Thymelaeaceae",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Thymelaeaceae",
+  "familyKey": 113490137,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046034,
+      "type": "SOURCE_ID",
+      "usageKey": 113490137
+    }
+  ],
+  "key": 113490137,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2428,
+  "numDescendants": 5,
+  "order": "Malvales",
+  "orderKey": 113490133,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Malvales",
+  "parentKey": 113490133,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "FAMILY",
+  "scientificName": "Thymelaeaceae",
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Perilla frutescens",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Lamiaceae",
+  "familyKey": 113490085,
+  "genus": "Perilla",
+  "genusKey": 113490094,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045596,
+      "type": "SOURCE_ID",
+      "usageKey": 113489490
+    }
+  ],
+  "key": 113489490,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5341394,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Perilla",
+  "parentKey": 113490094,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Perilla frutescens",
+  "species": "Perilla frutescens",
+  "speciesKey": 113489490,
+  "synonym": false
+}

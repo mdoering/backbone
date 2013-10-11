@@ -1,0 +1,34 @@
+{
+  "authorship": "",
+  "canonicalName": "Vitaceae",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Vitaceae",
+  "familyKey": 113490174,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046071,
+      "type": "SOURCE_ID",
+      "usageKey": 113490174
+    }
+  ],
+  "key": 113490174,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 6672,
+  "numDescendants": 2,
+  "order": "Rhamnales",
+  "orderKey": 113490173,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rhamnales",
+  "parentKey": 113490173,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "FAMILY",
+  "scientificName": "Vitaceae",
+  "synonym": false
+}

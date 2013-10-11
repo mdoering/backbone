@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Cardiocrinum giganteum",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Liliaceae",
+  "familyKey": 113489872,
+  "genus": "Cardiocrinum",
+  "genusKey": 113489873,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045379,
+      "type": "SOURCE_ID",
+      "usageKey": 113489273
+    }
+  ],
+  "key": 113489273,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2752917,
+  "numDescendants": 0,
+  "order": "Liliales",
+  "orderKey": 113489871,
+  "origin": "SOURCE",
+  "parent": "Cardiocrinum",
+  "parentKey": 113489873,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Cardiocrinum giganteum",
+  "species": "Cardiocrinum giganteum",
+  "speciesKey": 113489273,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Ageratina adenophora",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Asteraceae",
+  "familyKey": 113489923,
+  "genus": "Ageratina",
+  "genusKey": 113489925,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045463,
+      "type": "SOURCE_ID",
+      "usageKey": 113489357
+    }
+  ],
+  "key": 113489357,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5400613,
+  "numDescendants": 0,
+  "order": "Asterales",
+  "orderKey": 113489922,
+  "origin": "SOURCE",
+  "parent": "Ageratina",
+  "parentKey": 113489925,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Ageratina adenophora",
+  "species": "Ageratina adenophora",
+  "speciesKey": 113489357,
+  "synonym": false
+}

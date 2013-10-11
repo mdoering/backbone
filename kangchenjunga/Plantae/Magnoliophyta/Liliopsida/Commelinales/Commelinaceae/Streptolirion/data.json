@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Streptolirion volubile",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Commelinaceae",
+  "familyKey": 113489865,
+  "genus": "Streptolirion",
+  "genusKey": 113489867,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045371,
+      "type": "SOURCE_ID",
+      "usageKey": 113489265
+    }
+  ],
+  "key": 113489265,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2765086,
+  "numDescendants": 0,
+  "order": "Commelinales",
+  "orderKey": 113489864,
+  "origin": "SOURCE",
+  "parent": "Streptolirion",
+  "parentKey": 113489867,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Streptolirion volubile",
+  "species": "Streptolirion volubile",
+  "speciesKey": 113489265,
+  "synonym": false
+}

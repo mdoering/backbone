@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Smilax rigida",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Smilacaceae",
+  "familyKey": 113489875,
+  "genus": "Smilax",
+  "genusKey": 113489876,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045414,
+      "type": "SOURCE_ID",
+      "usageKey": 113489308
+    }
+  ],
+  "key": 113489308,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5295077,
+  "numDescendants": 0,
+  "order": "Liliales",
+  "orderKey": 113489871,
+  "origin": "SOURCE",
+  "parent": "Smilax",
+  "parentKey": 113489876,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Smilax rigida",
+  "species": "Smilax rigida",
+  "speciesKey": 113489308,
+  "synonym": false
+}

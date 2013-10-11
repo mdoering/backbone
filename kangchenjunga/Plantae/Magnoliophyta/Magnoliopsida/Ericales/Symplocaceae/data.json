@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Symplocos",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Symplocaceae",
+  "familyKey": 113490012,
+  "genus": "Symplocos",
+  "genusKey": 113490013,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045910,
+      "type": "SOURCE_ID",
+      "usageKey": 113490013
+    }
+  ],
+  "key": 113490013,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3032996,
+  "numDescendants": 3,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Symplocaceae",
+  "parentKey": 113490012,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Symplocos",
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Oxalis corniculata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Oxalidaceae",
+  "familyKey": 113490155,
+  "genus": "Oxalis",
+  "genusKey": 113490156,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045644,
+      "type": "SOURCE_ID",
+      "usageKey": 113489538
+    }
+  ],
+  "key": 113489538,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2891729,
+  "numDescendants": 0,
+  "order": "Oxalidales",
+  "orderKey": 113490154,
+  "origin": "SOURCE",
+  "parent": "Oxalis",
+  "parentKey": 113490156,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Oxalis corniculata",
+  "species": "Oxalis corniculata",
+  "speciesKey": 113489538,
+  "synonym": false
+}

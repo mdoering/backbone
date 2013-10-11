@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Bombax ceiba",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Malvaceae",
+  "familyKey": 113490134,
+  "genus": "Bombax",
+  "genusKey": 113490136,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045501,
+      "type": "SOURCE_ID",
+      "usageKey": 113489395
+    }
+  ],
+  "key": 113489395,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3152226,
+  "numDescendants": 0,
+  "order": "Malvales",
+  "orderKey": 113490133,
+  "origin": "SOURCE",
+  "parent": "Bombax",
+  "parentKey": 113490136,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Bombax ceiba",
+  "species": "Bombax ceiba",
+  "speciesKey": 113489395,
+  "synonym": false
+}

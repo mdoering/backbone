@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Bauhinia vahlii",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Fabaceae",
+  "familyKey": 113490021,
+  "genus": "Bauhinia",
+  "genusKey": 113490024,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045558,
+      "type": "SOURCE_ID",
+      "usageKey": 113489452
+    }
+  ],
+  "key": 113489452,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2953159,
+  "numDescendants": 0,
+  "order": "Fabales",
+  "orderKey": 113490020,
+  "origin": "SOURCE",
+  "parent": "Bauhinia",
+  "parentKey": 113490024,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Bauhinia vahlii",
+  "species": "Bauhinia vahlii",
+  "speciesKey": 113489452,
+  "synonym": false
+}

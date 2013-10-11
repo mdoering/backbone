@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Valeriana jatamansi",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Valerianaceae",
+  "familyKey": 113489993,
+  "genus": "Valeriana",
+  "genusKey": 113489995,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045714,
+      "type": "SOURCE_ID",
+      "usageKey": 113489608
+    }
+  ],
+  "key": 113489608,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4096160,
+  "numDescendants": 0,
+  "order": "Dipsacales",
+  "orderKey": 113489988,
+  "origin": "SOURCE",
+  "parent": "Valeriana",
+  "parentKey": 113489995,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Valeriana jatamansi",
+  "species": "Valeriana jatamansi",
+  "speciesKey": 113489608,
+  "synonym": false
+}

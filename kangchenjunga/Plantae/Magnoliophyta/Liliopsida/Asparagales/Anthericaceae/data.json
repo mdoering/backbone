@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Chlorophytum",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Anthericaceae",
+  "familyKey": 113489842,
+  "genus": "Chlorophytum",
+  "genusKey": 113489843,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045740,
+      "type": "SOURCE_ID",
+      "usageKey": 113489843
+    }
+  ],
+  "key": 113489843,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2693640,
+  "numDescendants": 1,
+  "order": "Asparagales",
+  "orderKey": 113489839,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Anthericaceae",
+  "parentKey": 113489842,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Chlorophytum",
+  "synonym": false
+}

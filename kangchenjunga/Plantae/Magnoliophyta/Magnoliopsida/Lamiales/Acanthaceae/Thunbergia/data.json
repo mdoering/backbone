@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Thunbergia coccinea",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Acanthaceae",
+  "familyKey": 113490073,
+  "genus": "Thunbergia",
+  "genusKey": 113490079,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045424,
+      "type": "SOURCE_ID",
+      "usageKey": 113489318
+    }
+  ],
+  "key": 113489318,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5574269,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Thunbergia",
+  "parentKey": 113490079,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Thunbergia coccinea",
+  "species": "Thunbergia coccinea",
+  "speciesKey": 113489318,
+  "synonym": false
+}

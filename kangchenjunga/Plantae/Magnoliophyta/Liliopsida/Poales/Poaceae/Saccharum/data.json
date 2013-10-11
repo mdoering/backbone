@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Saccharum spontaneum",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Poaceae",
+  "familyKey": 113489882,
+  "genus": "Saccharum",
+  "genusKey": 113489892,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045408,
+      "type": "SOURCE_ID",
+      "usageKey": 113489302
+    }
+  ],
+  "key": 113489302,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2703935,
+  "numDescendants": 0,
+  "order": "Poales",
+  "orderKey": 113489877,
+  "origin": "SOURCE",
+  "parent": "Saccharum",
+  "parentKey": 113489892,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Saccharum spontaneum",
+  "species": "Saccharum spontaneum",
+  "speciesKey": 113489302,
+  "synonym": false
+}

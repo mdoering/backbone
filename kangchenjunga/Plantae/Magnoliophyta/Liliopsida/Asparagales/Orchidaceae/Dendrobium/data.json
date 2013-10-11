@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Dendrobium longicornu",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Orchidaceae",
+  "familyKey": 113489852,
+  "genus": "Dendrobium",
+  "genusKey": 113489857,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045391,
+      "type": "SOURCE_ID",
+      "usageKey": 113489285
+    }
+  ],
+  "key": 113489285,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5316927,
+  "numDescendants": 0,
+  "order": "Asparagales",
+  "orderKey": 113489839,
+  "origin": "SOURCE",
+  "parent": "Dendrobium",
+  "parentKey": 113489857,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Dendrobium longicornu",
+  "species": "Dendrobium longicornu",
+  "speciesKey": 113489285,
+  "synonym": false
+}

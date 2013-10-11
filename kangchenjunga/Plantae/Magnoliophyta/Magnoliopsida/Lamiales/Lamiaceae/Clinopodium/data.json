@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Clinopodium umbrosum",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Lamiaceae",
+  "familyKey": 113490085,
+  "genus": "Clinopodium",
+  "genusKey": 113490086,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045587,
+      "type": "SOURCE_ID",
+      "usageKey": 113489481
+    }
+  ],
+  "key": 113489481,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7306866,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Clinopodium",
+  "parentKey": 113490086,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Clinopodium umbrosum",
+  "species": "Clinopodium umbrosum",
+  "speciesKey": 113489481,
+  "synonym": false
+}

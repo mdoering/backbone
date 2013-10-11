@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Ranunculus hirtellus",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Ranunculaceae",
+  "familyKey": 113490169,
+  "genus": "Ranunculus",
+  "genusKey": 113490172,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045658,
+      "type": "SOURCE_ID",
+      "usageKey": 113489552
+    }
+  ],
+  "key": 113489552,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7277557,
+  "numDescendants": 0,
+  "order": "Ranunculales",
+  "orderKey": 113490160,
+  "origin": "SOURCE",
+  "parent": "Ranunculus",
+  "parentKey": 113490172,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Ranunculus hirtellus",
+  "species": "Ranunculus hirtellus",
+  "speciesKey": 113489552,
+  "synonym": false
+}

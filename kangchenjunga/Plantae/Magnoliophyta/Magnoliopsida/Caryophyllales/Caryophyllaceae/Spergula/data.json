@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Spergula arvensis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Caryophyllaceae",
+  "familyKey": 113489963,
+  "genus": "Spergula",
+  "genusKey": 113489965,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045519,
+      "type": "SOURCE_ID",
+      "usageKey": 113489413
+    }
+  ],
+  "key": 113489413,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3085810,
+  "numDescendants": 0,
+  "order": "Caryophyllales",
+  "orderKey": 113489957,
+  "origin": "SOURCE",
+  "parent": "Spergula",
+  "parentKey": 113489965,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Spergula arvensis",
+  "species": "Spergula arvensis",
+  "speciesKey": 113489413,
+  "synonym": false
+}

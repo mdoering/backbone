@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Bergenia ciliata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Saxifragaceae",
+  "familyKey": 113490238,
+  "genus": "Bergenia",
+  "genusKey": 113490240,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045688,
+      "type": "SOURCE_ID",
+      "usageKey": 113489582
+    }
+  ],
+  "key": 113489582,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5567700,
+  "numDescendants": 0,
+  "order": "Saxifragales",
+  "orderKey": 113490231,
+  "origin": "SOURCE",
+  "parent": "Bergenia",
+  "parentKey": 113490240,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Bergenia ciliata",
+  "species": "Bergenia ciliata",
+  "speciesKey": 113489582,
+  "synonym": false
+}

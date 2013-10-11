@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Deeringia amaranthoides",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Amaranthaceae",
+  "familyKey": 113489958,
+  "genus": "Deeringia",
+  "genusKey": 113489962,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045442,
+      "type": "SOURCE_ID",
+      "usageKey": 113489336
+    }
+  ],
+  "key": 113489336,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3675567,
+  "numDescendants": 0,
+  "order": "Caryophyllales",
+  "orderKey": 113489957,
+  "origin": "SOURCE",
+  "parent": "Deeringia",
+  "parentKey": 113489962,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Deeringia amaranthoides",
+  "species": "Deeringia amaranthoides",
+  "speciesKey": 113489336,
+  "synonym": false
+}

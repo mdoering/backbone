@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Impatiens sulcata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Balsaminaceae",
+  "familyKey": 113490000,
+  "genus": "Impatiens",
+  "genusKey": 113490001,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045490,
+      "type": "SOURCE_ID",
+      "usageKey": 113489384
+    }
+  ],
+  "key": 113489384,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4193277,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Impatiens",
+  "parentKey": 113490001,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Impatiens sulcata",
+  "species": "Impatiens sulcata",
+  "speciesKey": 113489384,
+  "synonym": false
+}

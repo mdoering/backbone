@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Cassia fistula",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Fabaceae",
+  "familyKey": 113490021,
+  "genus": "Cassia",
+  "genusKey": 113490025,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045559,
+      "type": "SOURCE_ID",
+      "usageKey": 113489453
+    }
+  ],
+  "key": 113489453,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5357108,
+  "numDescendants": 0,
+  "order": "Fabales",
+  "orderKey": 113490020,
+  "origin": "SOURCE",
+  "parent": "Cassia",
+  "parentKey": 113490025,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Cassia fistula",
+  "species": "Cassia fistula",
+  "speciesKey": 113489453,
+  "synonym": false
+}

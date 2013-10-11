@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Phlogacanthus thyrsiflorus",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Acanthaceae",
+  "familyKey": 113490073,
+  "genus": "Phlogacanthus",
+  "genusKey": 113490078,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045423,
+      "type": "SOURCE_ID",
+      "usageKey": 113489317
+    }
+  ],
+  "key": 113489317,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3775574,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Phlogacanthus",
+  "parentKey": 113490078,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Phlogacanthus thyrsiflorus",
+  "species": "Phlogacanthus thyrsiflorus",
+  "speciesKey": 113489317,
+  "synonym": false
+}

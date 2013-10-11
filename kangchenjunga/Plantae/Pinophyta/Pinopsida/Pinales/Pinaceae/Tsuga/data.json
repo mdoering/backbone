@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Tsuga dumosa",
+  "classKey": 113490251,
+  "clazz": "Pinopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Pinaceae",
+  "familyKey": 113490255,
+  "genus": "Tsuga",
+  "genusKey": 113490263,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045726,
+      "type": "SOURCE_ID",
+      "usageKey": 113489620
+    }
+  ],
+  "key": 113489620,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2687227,
+  "numDescendants": 0,
+  "order": "Pinales",
+  "orderKey": 113490252,
+  "origin": "SOURCE",
+  "parent": "Tsuga",
+  "parentKey": 113490263,
+  "phylum": "Pinophyta",
+  "phylumKey": 113490250,
+  "rank": "SPECIES",
+  "scientificName": "Tsuga dumosa",
+  "species": "Tsuga dumosa",
+  "speciesKey": 113489620,
+  "synonym": false
+}

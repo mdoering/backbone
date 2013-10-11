@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Taxus",
+  "classKey": 113490251,
+  "clazz": "Pinopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Taxaceae",
+  "familyKey": 113490261,
+  "genus": "Taxus",
+  "genusKey": 113490262,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046159,
+      "type": "SOURCE_ID",
+      "usageKey": 113490262
+    }
+  ],
+  "key": 113490262,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2684902,
+  "numDescendants": 1,
+  "order": "Taxales",
+  "orderKey": 113490260,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Taxaceae",
+  "parentKey": 113490261,
+  "phylum": "Pinophyta",
+  "phylumKey": 113490250,
+  "rank": "GENUS",
+  "scientificName": "Taxus",
+  "synonym": false
+}

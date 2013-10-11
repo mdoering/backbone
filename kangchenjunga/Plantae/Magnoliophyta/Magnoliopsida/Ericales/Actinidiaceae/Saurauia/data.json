@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Saurauia napaulensis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Actinidiaceae",
+  "familyKey": 113489997,
+  "genus": "Saurauia",
+  "genusKey": 113489999,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045429,
+      "type": "SOURCE_ID",
+      "usageKey": 113489323
+    }
+  ],
+  "key": 113489323,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7270803,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Saurauia",
+  "parentKey": 113489999,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Saurauia napaulensis",
+  "species": "Saurauia napaulensis",
+  "speciesKey": 113489323,
+  "synonym": false
+}

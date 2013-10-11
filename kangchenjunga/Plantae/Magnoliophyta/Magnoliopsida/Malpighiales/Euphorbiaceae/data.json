@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Phyllanthus",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Euphorbiaceae",
+  "familyKey": 113490121,
+  "genus": "Phyllanthus",
+  "genusKey": 113490126,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046023,
+      "type": "SOURCE_ID",
+      "usageKey": 113490126
+    }
+  ],
+  "key": 113490126,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3061139,
+  "numDescendants": 1,
+  "order": "Malpighiales",
+  "orderKey": 113490118,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Euphorbiaceae",
+  "parentKey": 113490121,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Phyllanthus",
+  "synonym": false
+}

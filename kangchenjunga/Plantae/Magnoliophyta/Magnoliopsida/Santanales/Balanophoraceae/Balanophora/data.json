@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Balanophora involucrata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Balanophoraceae",
+  "familyKey": 113490206,
+  "genus": "Balanophora",
+  "genusKey": 113490207,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045488,
+      "type": "SOURCE_ID",
+      "usageKey": 113489382
+    }
+  ],
+  "key": 113489382,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4195176,
+  "numDescendants": 0,
+  "order": "Santanales",
+  "orderKey": 113490205,
+  "origin": "SOURCE",
+  "parent": "Balanophora",
+  "parentKey": 113490207,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Balanophora involucrata",
+  "species": "Balanophora involucrata",
+  "speciesKey": 113489382,
+  "synonym": false
+}

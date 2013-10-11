@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Crinum amoenum",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Amaryllidaceae",
+  "familyKey": 113489840,
+  "genus": "Crinum",
+  "genusKey": 113489841,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045362,
+      "type": "SOURCE_ID",
+      "usageKey": 113489256
+    }
+  ],
+  "key": 113489256,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2853855,
+  "numDescendants": 0,
+  "order": "Asparagales",
+  "orderKey": 113489839,
+  "origin": "SOURCE",
+  "parent": "Crinum",
+  "parentKey": 113489841,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Crinum amoenum",
+  "species": "Crinum amoenum",
+  "speciesKey": 113489256,
+  "synonym": false
+}

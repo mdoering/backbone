@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Terminalia chebula",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Combretaceae",
+  "familyKey": 113490141,
+  "genus": "Terminalia",
+  "genusKey": 113490142,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045521,
+      "type": "SOURCE_ID",
+      "usageKey": 113489415
+    }
+  ],
+  "key": 113489415,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3189388,
+  "numDescendants": 0,
+  "order": "Myrtales",
+  "orderKey": 113490140,
+  "origin": "SOURCE",
+  "parent": "Terminalia",
+  "parentKey": 113490142,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Terminalia chebula",
+  "species": "Terminalia chebula",
+  "speciesKey": 113489415,
+  "synonym": false
+}

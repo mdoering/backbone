@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Maesa indica",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Myrsinaceae",
+  "familyKey": 113490009,
+  "genus": "Maesa",
+  "genusKey": 113490010,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045629,
+      "type": "SOURCE_ID",
+      "usageKey": 113489523
+    }
+  ],
+  "key": 113489523,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3719071,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Maesa",
+  "parentKey": 113490010,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Maesa indica",
+  "species": "Maesa indica",
+  "speciesKey": 113489523,
+  "synonym": false
+}

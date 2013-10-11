@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Drepanostachyum intermedium",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Poaceae",
+  "familyKey": 113489882,
+  "genus": "Drepanostachyum",
+  "genusKey": 113489888,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045404,
+      "type": "SOURCE_ID",
+      "usageKey": 113489298
+    }
+  ],
+  "key": 113489298,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4120730,
+  "numDescendants": 0,
+  "order": "Poales",
+  "orderKey": 113489877,
+  "origin": "SOURCE",
+  "parent": "Drepanostachyum",
+  "parentKey": 113489888,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Drepanostachyum intermedium",
+  "species": "Drepanostachyum intermedium",
+  "speciesKey": 113489298,
+  "synonym": false
+}

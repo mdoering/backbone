@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Eurya cerasifolia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Theaceae",
+  "familyKey": 113490014,
+  "genus": "Eurya",
+  "genusKey": 113490015,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045700,
+      "type": "SOURCE_ID",
+      "usageKey": 113489594
+    }
+  ],
+  "key": 113489594,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3591364,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Eurya",
+  "parentKey": 113490015,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Eurya cerasifolia",
+  "species": "Eurya cerasifolia",
+  "speciesKey": 113489594,
+  "synonym": false
+}

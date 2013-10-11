@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Michelia velutina",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Magnoliaceae",
+  "familyKey": 113490115,
+  "genus": "Michelia",
+  "genusKey": 113490117,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045613,
+      "type": "SOURCE_ID",
+      "usageKey": 113489507
+    }
+  ],
+  "key": 113489507,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5939081,
+  "numDescendants": 0,
+  "order": "Magnoliales",
+  "orderKey": 113490114,
+  "origin": "SOURCE",
+  "parent": "Michelia",
+  "parentKey": 113490117,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Michelia velutina",
+  "species": "Michelia velutina",
+  "speciesKey": 113489507,
+  "synonym": false
+}

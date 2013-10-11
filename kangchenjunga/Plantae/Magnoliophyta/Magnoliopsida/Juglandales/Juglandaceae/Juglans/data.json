@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Juglans regia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Juglandaceae",
+  "familyKey": 113490069,
+  "genus": "Juglans",
+  "genusKey": 113490071,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045586,
+      "type": "SOURCE_ID",
+      "usageKey": 113489480
+    }
+  ],
+  "key": 113489480,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3054368,
+  "numDescendants": 0,
+  "order": "Juglandales",
+  "orderKey": 113490068,
+  "origin": "SOURCE",
+  "parent": "Juglans",
+  "parentKey": 113490071,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Juglans regia",
+  "species": "Juglans regia",
+  "speciesKey": 113489480,
+  "synonym": false
+}

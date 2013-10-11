@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Tagetes erecta",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Asteraceae",
+  "familyKey": 113489923,
+  "genus": "Tagetes",
+  "genusKey": 113489944,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045486,
+      "type": "SOURCE_ID",
+      "usageKey": 113489380
+    }
+  ],
+  "key": 113489380,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3088488,
+  "numDescendants": 0,
+  "order": "Asterales",
+  "orderKey": 113489922,
+  "origin": "SOURCE",
+  "parent": "Tagetes",
+  "parentKey": 113489944,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Tagetes erecta",
+  "species": "Tagetes erecta",
+  "speciesKey": 113489380,
+  "synonym": false
+}

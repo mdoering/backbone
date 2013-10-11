@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Lobelia pyramidalis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Campanulaceae",
+  "familyKey": 113489946,
+  "genus": "Lobelia",
+  "genusKey": 113489949,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045512,
+      "type": "SOURCE_ID",
+      "usageKey": 113489406
+    }
+  ],
+  "key": 113489406,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5408559,
+  "numDescendants": 0,
+  "order": "Asterales",
+  "orderKey": 113489922,
+  "origin": "SOURCE",
+  "parent": "Lobelia",
+  "parentKey": 113489949,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Lobelia pyramidalis",
+  "species": "Lobelia pyramidalis",
+  "speciesKey": 113489406,
+  "synonym": false
+}

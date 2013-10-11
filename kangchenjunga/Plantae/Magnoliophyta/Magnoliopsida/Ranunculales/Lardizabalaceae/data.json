@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Holboellia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Lardizabalaceae",
+  "familyKey": 113490165,
+  "genus": "Holboellia",
+  "genusKey": 113490166,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046063,
+      "type": "SOURCE_ID",
+      "usageKey": 113490166
+    }
+  ],
+  "key": 113490166,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3234366,
+  "numDescendants": 1,
+  "order": "Ranunculales",
+  "orderKey": 113490160,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Lardizabalaceae",
+  "parentKey": 113490165,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Holboellia",
+  "synonym": false
+}

@@ -1,0 +1,34 @@
+{
+  "authorship": "",
+  "canonicalName": "Buxaceae",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Buxaceae",
+  "familyKey": 113490018,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045915,
+      "type": "SOURCE_ID",
+      "usageKey": 113490018
+    }
+  ],
+  "key": 113490018,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 6703,
+  "numDescendants": 2,
+  "order": "Euphorbiales",
+  "orderKey": 113490017,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Euphorbiales",
+  "parentKey": 113490017,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "FAMILY",
+  "scientificName": "Buxaceae",
+  "synonym": false
+}

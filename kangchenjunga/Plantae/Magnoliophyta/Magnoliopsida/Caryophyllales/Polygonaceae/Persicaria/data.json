@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Persicaria runcinata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Polygonaceae",
+  "familyKey": 113489970,
+  "genus": "Persicaria",
+  "genusKey": 113489972,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045652,
+      "type": "SOURCE_ID",
+      "usageKey": 113489546
+    }
+  ],
+  "key": 113489546,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4033062,
+  "numDescendants": 0,
+  "order": "Caryophyllales",
+  "orderKey": 113489957,
+  "origin": "SOURCE",
+  "parent": "Persicaria",
+  "parentKey": 113489972,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Persicaria runcinata",
+  "species": "Persicaria runcinata",
+  "speciesKey": 113489546,
+  "synonym": false
+}

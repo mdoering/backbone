@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Berberis chitria",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Berberidaceae",
+  "familyKey": 113490161,
+  "genus": "Berberis",
+  "genusKey": 113490162,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045496,
+      "type": "SOURCE_ID",
+      "usageKey": 113489390
+    }
+  ],
+  "key": 113489390,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3981925,
+  "numDescendants": 0,
+  "order": "Ranunculales",
+  "orderKey": 113490160,
+  "origin": "SOURCE",
+  "parent": "Berberis",
+  "parentKey": 113490162,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Berberis chitria",
+  "species": "Berberis chitria",
+  "speciesKey": 113489390,
+  "synonym": false
+}

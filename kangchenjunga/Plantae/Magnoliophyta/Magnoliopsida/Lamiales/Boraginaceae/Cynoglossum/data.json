@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Cynoglossum zeylanicum",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Boraginaceae",
+  "familyKey": 113490080,
+  "genus": "Cynoglossum",
+  "genusKey": 113490081,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045502,
+      "type": "SOURCE_ID",
+      "usageKey": 113489396
+    }
+  ],
+  "key": 113489396,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2925813,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Cynoglossum",
+  "parentKey": 113490081,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Cynoglossum zeylanicum",
+  "species": "Cynoglossum zeylanicum",
+  "speciesKey": 113489396,
+  "synonym": false
+}

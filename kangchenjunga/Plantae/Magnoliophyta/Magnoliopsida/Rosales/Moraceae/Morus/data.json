@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Morus macroura",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Moraceae",
+  "familyKey": 113490183,
+  "genus": "Morus",
+  "genusKey": 113490186,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045627,
+      "type": "SOURCE_ID",
+      "usageKey": 113489521
+    }
+  ],
+  "key": 113489521,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7262379,
+  "numDescendants": 0,
+  "order": "Rosales",
+  "orderKey": 113490176,
+  "origin": "SOURCE",
+  "parent": "Morus",
+  "parentKey": 113490186,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Morus macroura",
+  "species": "Morus macroura",
+  "speciesKey": 113489521,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Arisaema erubescens",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Araceae",
+  "familyKey": 113489835,
+  "genus": "Arisaema",
+  "genusKey": 113489837,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045365,
+      "type": "SOURCE_ID",
+      "usageKey": 113489259
+    }
+  ],
+  "key": 113489259,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2867313,
+  "numDescendants": 0,
+  "order": "Alismatales",
+  "orderKey": 113489834,
+  "origin": "SOURCE",
+  "parent": "Arisaema",
+  "parentKey": 113489837,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Arisaema erubescens",
+  "species": "Arisaema erubescens",
+  "speciesKey": 113489259,
+  "synonym": false
+}

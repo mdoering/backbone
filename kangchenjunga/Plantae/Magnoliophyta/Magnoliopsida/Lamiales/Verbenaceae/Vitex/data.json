@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Vitex negundo",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Verbenaceae",
+  "familyKey": 113490105,
+  "genus": "Vitex",
+  "genusKey": 113490107,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045717,
+      "type": "SOURCE_ID",
+      "usageKey": 113489611
+    }
+  ],
+  "key": 113489611,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2925564,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Vitex",
+  "parentKey": 113490107,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Vitex negundo",
+  "species": "Vitex negundo",
+  "speciesKey": 113489611,
+  "synonym": false
+}

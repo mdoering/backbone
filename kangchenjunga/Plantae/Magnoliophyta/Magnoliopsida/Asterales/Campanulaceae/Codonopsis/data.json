@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Codonopsis viridis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Campanulaceae",
+  "familyKey": 113489946,
+  "genus": "Codonopsis",
+  "genusKey": 113489948,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045511,
+      "type": "SOURCE_ID",
+      "usageKey": 113489405
+    }
+  ],
+  "key": 113489405,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5412917,
+  "numDescendants": 0,
+  "order": "Asterales",
+  "orderKey": 113489922,
+  "origin": "SOURCE",
+  "parent": "Codonopsis",
+  "parentKey": 113489948,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Codonopsis viridis",
+  "species": "Codonopsis viridis",
+  "speciesKey": 113489405,
+  "synonym": false
+}

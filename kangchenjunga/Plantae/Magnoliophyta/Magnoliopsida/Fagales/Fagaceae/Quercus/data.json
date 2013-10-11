@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Quercus semecarpifolia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Fagaceae",
+  "familyKey": 113490036,
+  "genus": "Quercus",
+  "genusKey": 113490039,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045573,
+      "type": "SOURCE_ID",
+      "usageKey": 113489467
+    }
+  ],
+  "key": 113489467,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2878082,
+  "numDescendants": 0,
+  "order": "Fagales",
+  "orderKey": 113490032,
+  "origin": "SOURCE",
+  "parent": "Quercus",
+  "parentKey": 113490039,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Quercus semecarpifolia",
+  "species": "Quercus semecarpifolia",
+  "speciesKey": 113489467,
+  "synonym": false
+}

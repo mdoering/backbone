@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Citrus medica",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Rutaceae",
+  "familyKey": 113490224,
+  "genus": "Citrus",
+  "genusKey": 113490225,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045681,
+      "type": "SOURCE_ID",
+      "usageKey": 113489575
+    }
+  ],
+  "key": 113489575,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3190157,
+  "numDescendants": 0,
+  "order": "Sapindales",
+  "orderKey": 113490213,
+  "origin": "SOURCE",
+  "parent": "Citrus",
+  "parentKey": 113490225,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Citrus medica",
+  "species": "Citrus medica",
+  "speciesKey": 113489575,
+  "synonym": false
+}

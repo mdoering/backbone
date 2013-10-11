@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Arundinaria maling",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Poaceae",
+  "familyKey": 113489882,
+  "genus": "Arundinaria",
+  "genusKey": 113489884,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045400,
+      "type": "SOURCE_ID",
+      "usageKey": 113489294
+    }
+  ],
+  "key": 113489294,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4115598,
+  "numDescendants": 0,
+  "order": "Poales",
+  "orderKey": 113489877,
+  "origin": "SOURCE",
+  "parent": "Arundinaria",
+  "parentKey": 113489884,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Arundinaria maling",
+  "species": "Arundinaria maling",
+  "speciesKey": 113489294,
+  "synonym": false
+}

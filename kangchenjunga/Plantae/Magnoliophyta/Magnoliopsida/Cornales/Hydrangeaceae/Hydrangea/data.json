@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Hydrangea robusta",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Hydrangeaceae",
+  "familyKey": 113489980,
+  "genus": "Hydrangea",
+  "genusKey": 113489981,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045581,
+      "type": "SOURCE_ID",
+      "usageKey": 113489475
+    }
+  ],
+  "key": 113489475,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3645777,
+  "numDescendants": 0,
+  "order": "Cornales",
+  "orderKey": 113489977,
+  "origin": "SOURCE",
+  "parent": "Hydrangea",
+  "parentKey": 113489981,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Hydrangea robusta",
+  "species": "Hydrangea robusta",
+  "speciesKey": 113489475,
+  "synonym": false
+}

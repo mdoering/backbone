@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Campanula pallida",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Campanulaceae",
+  "familyKey": 113489946,
+  "genus": "Campanula",
+  "genusKey": 113489947,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045509,
+      "type": "SOURCE_ID",
+      "usageKey": 113489403
+    }
+  ],
+  "key": 113489403,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5411542,
+  "numDescendants": 0,
+  "order": "Asterales",
+  "orderKey": 113489922,
+  "origin": "SOURCE",
+  "parent": "Campanula",
+  "parentKey": 113489947,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Campanula pallida",
+  "species": "Campanula pallida",
+  "speciesKey": 113489403,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Buddleja asiatica",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Loganiaceae",
+  "familyKey": 113490053,
+  "genus": "Buddleja",
+  "genusKey": 113490054,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045690,
+      "type": "SOURCE_ID",
+      "usageKey": 113489584
+    }
+  ],
+  "key": 113489584,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3173333,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Buddleja",
+  "parentKey": 113490054,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Buddleja asiatica",
+  "species": "Buddleja asiatica",
+  "speciesKey": 113489584,
+  "synonym": false
+}

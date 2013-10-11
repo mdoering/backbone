@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Maharanga emodi",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Boraginaceae",
+  "familyKey": 113490080,
+  "genus": "Maharanga",
+  "genusKey": 113490082,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045503,
+      "type": "SOURCE_ID",
+      "usageKey": 113489397
+    }
+  ],
+  "key": 113489397,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4058898,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Maharanga",
+  "parentKey": 113490082,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Maharanga emodi",
+  "species": "Maharanga emodi",
+  "speciesKey": 113489397,
+  "synonym": false
+}

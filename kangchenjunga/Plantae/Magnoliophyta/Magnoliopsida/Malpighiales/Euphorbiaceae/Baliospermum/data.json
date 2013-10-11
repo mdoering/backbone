@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Baliospermum corymbiferum",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Euphorbiaceae",
+  "familyKey": 113490121,
+  "genus": "Baliospermum",
+  "genusKey": 113490122,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045549,
+      "type": "SOURCE_ID",
+      "usageKey": 113489443
+    }
+  ],
+  "key": 113489443,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3062322,
+  "numDescendants": 0,
+  "order": "Malpighiales",
+  "orderKey": 113490118,
+  "origin": "SOURCE",
+  "parent": "Baliospermum",
+  "parentKey": 113490122,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Baliospermum corymbiferum",
+  "species": "Baliospermum corymbiferum",
+  "speciesKey": 113489443,
+  "synonym": false
+}

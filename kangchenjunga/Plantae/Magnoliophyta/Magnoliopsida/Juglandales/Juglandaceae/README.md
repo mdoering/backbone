@@ -1,0 +1,3 @@
+GENUS Juglans
+=======Status: ???
+According to: ???

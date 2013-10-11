@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Porana grandiflora",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Convolvulaceae",
+  "familyKey": 113490242,
+  "genus": "Porana",
+  "genusKey": 113490243,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045523,
+      "type": "SOURCE_ID",
+      "usageKey": 113489417
+    }
+  ],
+  "key": 113489417,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3680561,
+  "numDescendants": 0,
+  "order": "Solanales",
+  "orderKey": 113490241,
+  "origin": "SOURCE",
+  "parent": "Porana",
+  "parentKey": 113490243,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Porana grandiflora",
+  "species": "Porana grandiflora",
+  "speciesKey": 113489417,
+  "synonym": false
+}

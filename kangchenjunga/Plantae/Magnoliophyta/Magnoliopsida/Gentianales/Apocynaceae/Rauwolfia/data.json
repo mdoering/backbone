@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Rauvolfia serpentina",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Apocynaceae",
+  "familyKey": 113490043,
+  "genus": "Rauwolfia",
+  "genusKey": 113490048,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045447,
+      "type": "SOURCE_ID",
+      "usageKey": 113489341
+    }
+  ],
+  "key": 113489341,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3169787,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Rauwolfia",
+  "parentKey": 113490048,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Rauvolfia serpentina",
+  "species": "Rauvolfia serpentina",
+  "speciesKey": 113489341,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Dichroa febrifuga",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Hydrangeaceae",
+  "familyKey": 113490181,
+  "genus": "Dichroa",
+  "genusKey": 113490182,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045580,
+      "type": "SOURCE_ID",
+      "usageKey": 113489474
+    }
+  ],
+  "key": 113489474,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7319055,
+  "numDescendants": 0,
+  "order": "Rosales",
+  "orderKey": 113490176,
+  "origin": "SOURCE",
+  "parent": "Dichroa",
+  "parentKey": 113490182,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Dichroa febrifuga",
+  "species": "Dichroa febrifuga",
+  "speciesKey": 113489474,
+  "synonym": false
+}

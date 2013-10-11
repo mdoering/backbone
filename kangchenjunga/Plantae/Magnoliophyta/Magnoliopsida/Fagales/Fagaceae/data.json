@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Quercus",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Fagaceae",
+  "familyKey": 113490036,
+  "genus": "Quercus",
+  "genusKey": 113490039,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045936,
+      "type": "SOURCE_ID",
+      "usageKey": 113490039
+    }
+  ],
+  "key": 113490039,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2877951,
+  "numDescendants": 3,
+  "order": "Fagales",
+  "orderKey": 113490032,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Fagaceae",
+  "parentKey": 113490036,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Quercus",
+  "synonym": false
+}

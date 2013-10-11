@@ -1,0 +1,34 @@
+{
+  "authorship": "",
+  "canonicalName": "Melanthiaceae",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Melanthiaceae",
+  "familyKey": 113490063,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045960,
+      "type": "SOURCE_ID",
+      "usageKey": 113490063
+    }
+  ],
+  "key": 113490063,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7700,
+  "numDescendants": 2,
+  "order": "Geraniales",
+  "orderKey": 113490062,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Geraniales",
+  "parentKey": 113490062,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "FAMILY",
+  "scientificName": "Melanthiaceae",
+  "synonym": false
+}

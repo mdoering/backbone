@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Scurrula elata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Loranthaceae",
+  "familyKey": 113490208,
+  "genus": "Scurrula",
+  "genusKey": 113490211,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045609,
+      "type": "SOURCE_ID",
+      "usageKey": 113489503
+    }
+  ],
+  "key": 113489503,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4001550,
+  "numDescendants": 0,
+  "order": "Santanales",
+  "orderKey": 113490205,
+  "origin": "SOURCE",
+  "parent": "Scurrula",
+  "parentKey": 113490211,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Scurrula elata",
+  "species": "Scurrula elata",
+  "speciesKey": 113489503,
+  "synonym": false
+}

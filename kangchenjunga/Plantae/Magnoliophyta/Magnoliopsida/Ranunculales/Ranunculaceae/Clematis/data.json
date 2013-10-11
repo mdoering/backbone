@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Clematis buchananiana",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Ranunculaceae",
+  "familyKey": 113490169,
+  "genus": "Clematis",
+  "genusKey": 113490171,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045657,
+      "type": "SOURCE_ID",
+      "usageKey": 113489551
+    }
+  ],
+  "key": 113489551,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3923490,
+  "numDescendants": 0,
+  "order": "Ranunculales",
+  "orderKey": 113490160,
+  "origin": "SOURCE",
+  "parent": "Clematis",
+  "parentKey": 113490171,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Clematis buchananiana",
+  "species": "Clematis buchananiana",
+  "speciesKey": 113489551,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Edgeworthia gardneri",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Thymelaeaceae",
+  "familyKey": 113490137,
+  "genus": "Edgeworthia",
+  "genusKey": 113490139,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045704,
+      "type": "SOURCE_ID",
+      "usageKey": 113489598
+    }
+  ],
+  "key": 113489598,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5523712,
+  "numDescendants": 0,
+  "order": "Malvales",
+  "orderKey": 113490133,
+  "origin": "SOURCE",
+  "parent": "Edgeworthia",
+  "parentKey": 113490139,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Edgeworthia gardneri",
+  "species": "Edgeworthia gardneri",
+  "speciesKey": 113489598,
+  "synonym": false
+}

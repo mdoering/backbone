@@ -1,0 +1,32 @@
+{
+  "authorship": "",
+  "canonicalName": "Zingiberales",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045793,
+      "type": "SOURCE_ID",
+      "usageKey": 113489896
+    }
+  ],
+  "key": 113489896,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 627,
+  "numDescendants": 8,
+  "order": "Zingiberales",
+  "orderKey": 113489896,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Liliopsida",
+  "parentKey": 113489833,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "ORDER",
+  "scientificName": "Zingiberales",
+  "synonym": false
+}

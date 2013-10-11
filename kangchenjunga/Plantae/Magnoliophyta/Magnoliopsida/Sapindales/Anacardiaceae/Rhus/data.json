@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Rhus succedanea",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Anacardiaceae",
+  "familyKey": 113490214,
+  "genus": "Rhus",
+  "genusKey": 113490217,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045439,
+      "type": "SOURCE_ID",
+      "usageKey": 113489333
+    }
+  ],
+  "key": 113489333,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3190625,
+  "numDescendants": 0,
+  "order": "Sapindales",
+  "orderKey": 113490213,
+  "origin": "SOURCE",
+  "parent": "Rhus",
+  "parentKey": 113490217,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Rhus succedanea",
+  "species": "Rhus succedanea",
+  "speciesKey": 113489333,
+  "synonym": false
+}

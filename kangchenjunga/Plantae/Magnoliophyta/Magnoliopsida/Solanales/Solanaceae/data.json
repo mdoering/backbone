@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Nicotiana",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Solanaceae",
+  "familyKey": 113490246,
+  "genus": "Nicotiana",
+  "genusKey": 113490249,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046146,
+      "type": "SOURCE_ID",
+      "usageKey": 113490249
+    }
+  ],
+  "key": 113490249,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2928756,
+  "numDescendants": 1,
+  "order": "Solanales",
+  "orderKey": 113490241,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Solanaceae",
+  "parentKey": 113490246,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Nicotiana",
+  "synonym": false
+}

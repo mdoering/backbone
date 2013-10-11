@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Spiraea arcuata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Rosaceae",
+  "familyKey": 113490189,
+  "genus": "Spiraea",
+  "genusKey": 113490195,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045672,
+      "type": "SOURCE_ID",
+      "usageKey": 113489566
+    }
+  ],
+  "key": 113489566,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3027274,
+  "numDescendants": 0,
+  "order": "Rosales",
+  "orderKey": 113490176,
+  "origin": "SOURCE",
+  "parent": "Spiraea",
+  "parentKey": 113490195,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Spiraea arcuata",
+  "species": "Spiraea arcuata",
+  "speciesKey": 113489566,
+  "synonym": false
+}

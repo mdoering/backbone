@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Alnus nepalensis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Betulaceae",
+  "familyKey": 113490033,
+  "genus": "Alnus",
+  "genusKey": 113490034,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045500,
+      "type": "SOURCE_ID",
+      "usageKey": 113489394
+    }
+  ],
+  "key": 113489394,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2876187,
+  "numDescendants": 0,
+  "order": "Fagales",
+  "orderKey": 113490032,
+  "origin": "SOURCE",
+  "parent": "Alnus",
+  "parentKey": 113490034,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Alnus nepalensis",
+  "species": "Alnus nepalensis",
+  "speciesKey": 113489394,
+  "synonym": false
+}

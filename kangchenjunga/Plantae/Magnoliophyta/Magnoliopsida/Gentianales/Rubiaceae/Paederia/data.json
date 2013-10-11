@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Paederia foetida",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Rubiaceae",
+  "familyKey": 113490055,
+  "genus": "Paederia",
+  "genusKey": 113490060,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045679,
+      "type": "SOURCE_ID",
+      "usageKey": 113489573
+    }
+  ],
+  "key": 113489573,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2909527,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Paederia",
+  "parentKey": 113490060,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Paederia foetida",
+  "species": "Paederia foetida",
+  "speciesKey": 113489573,
+  "synonym": false
+}

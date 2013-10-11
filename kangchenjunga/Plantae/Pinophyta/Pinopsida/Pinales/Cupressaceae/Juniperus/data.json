@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Juniperus recurva",
+  "classKey": 113490251,
+  "clazz": "Pinopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Cupressaceae",
+  "familyKey": 113490253,
+  "genus": "Juniperus",
+  "genusKey": 113490254,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045722,
+      "type": "SOURCE_ID",
+      "usageKey": 113489616
+    }
+  ],
+  "key": 113489616,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2684844,
+  "numDescendants": 0,
+  "order": "Pinales",
+  "orderKey": 113490252,
+  "origin": "SOURCE",
+  "parent": "Juniperus",
+  "parentKey": 113490254,
+  "phylum": "Pinophyta",
+  "phylumKey": 113490250,
+  "rank": "SPECIES",
+  "scientificName": "Juniperus recurva",
+  "species": "Juniperus recurva",
+  "speciesKey": 113489616,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Pieris formosa",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Ericaceae",
+  "familyKey": 113490002,
+  "genus": "Pieris",
+  "genusKey": 113490006,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045536,
+      "type": "SOURCE_ID",
+      "usageKey": 113489430
+    }
+  ],
+  "key": 113489430,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5333350,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Pieris",
+  "parentKey": 113490006,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Pieris formosa",
+  "species": "Pieris formosa",
+  "speciesKey": 113489430,
+  "synonym": false
+}

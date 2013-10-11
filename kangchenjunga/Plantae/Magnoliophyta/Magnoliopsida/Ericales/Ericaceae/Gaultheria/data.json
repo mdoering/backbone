@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Gaultheria nummularioides",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Ericaceae",
+  "familyKey": 113490002,
+  "genus": "Gaultheria",
+  "genusKey": 113490004,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045534,
+      "type": "SOURCE_ID",
+      "usageKey": 113489428
+    }
+  ],
+  "key": 113489428,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7328365,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Gaultheria",
+  "parentKey": 113490004,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Gaultheria nummularioides",
+  "species": "Gaultheria nummularioides",
+  "speciesKey": 113489428,
+  "synonym": false
+}

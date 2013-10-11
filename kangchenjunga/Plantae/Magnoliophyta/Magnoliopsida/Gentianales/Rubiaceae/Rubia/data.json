@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Rubia manjith",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Rubiaceae",
+  "familyKey": 113490055,
+  "genus": "Rubia",
+  "genusKey": 113490061,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045680,
+      "type": "SOURCE_ID",
+      "usageKey": 113489574
+    }
+  ],
+  "key": 113489574,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2892309,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Rubia",
+  "parentKey": 113490061,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Rubia manjith",
+  "species": "Rubia manjith",
+  "speciesKey": 113489574,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Ceropegia pubescens",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Apocynaceae",
+  "familyKey": 113490043,
+  "genus": "Ceropegia",
+  "genusKey": 113490046,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045460,
+      "type": "SOURCE_ID",
+      "usageKey": 113489354
+    }
+  ],
+  "key": 113489354,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3573751,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Ceropegia",
+  "parentKey": 113490046,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Ceropegia pubescens",
+  "species": "Ceropegia pubescens",
+  "speciesKey": 113489354,
+  "synonym": false
+}

@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Schima",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Theaceae",
+  "familyKey": 113490014,
+  "genus": "Schima",
+  "genusKey": 113490016,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045913,
+      "type": "SOURCE_ID",
+      "usageKey": 113490016
+    }
+  ],
+  "key": 113490016,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7313761,
+  "numDescendants": 1,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Theaceae",
+  "parentKey": 113490014,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Schima",
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Amischophacelus axillaris",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Commelinaceae",
+  "familyKey": 113489865,
+  "genus": "Amischophacelus",
+  "genusKey": 113489866,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045372,
+      "type": "SOURCE_ID",
+      "usageKey": 113489266
+    }
+  ],
+  "key": 113489266,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2763438,
+  "numDescendants": 0,
+  "order": "Commelinales",
+  "orderKey": 113489864,
+  "origin": "SOURCE",
+  "parent": "Amischophacelus",
+  "parentKey": 113489866,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Amischophacelus axillaris",
+  "species": "Amischophacelus axillaris",
+  "speciesKey": 113489266,
+  "synonym": false
+}

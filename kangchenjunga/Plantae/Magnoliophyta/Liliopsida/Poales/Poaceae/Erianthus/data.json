@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Erianthus ravennae",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Poaceae",
+  "familyKey": 113489882,
+  "genus": "Erianthus",
+  "genusKey": 113489889,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045405,
+      "type": "SOURCE_ID",
+      "usageKey": 113489299
+    }
+  ],
+  "key": 113489299,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5289885,
+  "numDescendants": 0,
+  "order": "Poales",
+  "orderKey": 113489877,
+  "origin": "SOURCE",
+  "parent": "Erianthus",
+  "parentKey": 113489889,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Erianthus ravennae",
+  "species": "Erianthus ravennae",
+  "speciesKey": 113489299,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Exbucklandia populnea",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Hamamelidaceae",
+  "familyKey": 113490236,
+  "genus": "Exbucklandia",
+  "genusKey": 113490237,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045378,
+      "type": "SOURCE_ID",
+      "usageKey": 113489272
+    }
+  ],
+  "key": 113489272,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3702513,
+  "numDescendants": 0,
+  "order": "Saxifragales",
+  "orderKey": 113490231,
+  "origin": "SOURCE",
+  "parent": "Exbucklandia",
+  "parentKey": 113490237,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Exbucklandia populnea",
+  "species": "Exbucklandia populnea",
+  "speciesKey": 113489272,
+  "synonym": false
+}

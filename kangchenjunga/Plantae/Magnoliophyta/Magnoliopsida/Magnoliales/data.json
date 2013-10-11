@@ -1,0 +1,34 @@
+{
+  "authorship": "",
+  "canonicalName": "Magnoliaceae",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Magnoliaceae",
+  "familyKey": 113490115,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046012,
+      "type": "SOURCE_ID",
+      "usageKey": 113490115
+    }
+  ],
+  "key": 113490115,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4690,
+  "numDescendants": 5,
+  "order": "Magnoliales",
+  "orderKey": 113490114,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Magnoliales",
+  "parentKey": 113490114,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "FAMILY",
+  "scientificName": "Magnoliaceae",
+  "synonym": false
+}

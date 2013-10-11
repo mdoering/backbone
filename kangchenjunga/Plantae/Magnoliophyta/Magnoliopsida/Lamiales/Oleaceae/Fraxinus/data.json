@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Fraxinus floribunda",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Oleaceae",
+  "familyKey": 113490096,
+  "genus": "Fraxinus",
+  "genusKey": 113490097,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045639,
+      "type": "SOURCE_ID",
+      "usageKey": 113489533
+    }
+  ],
+  "key": 113489533,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7326078,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Fraxinus",
+  "parentKey": 113490097,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Fraxinus floribunda",
+  "species": "Fraxinus floribunda",
+  "speciesKey": 113489533,
+  "synonym": false
+}

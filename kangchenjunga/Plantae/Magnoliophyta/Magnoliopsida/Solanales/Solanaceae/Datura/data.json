@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Datura stramonium",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Solanaceae",
+  "familyKey": 113490246,
+  "genus": "Datura",
+  "genusKey": 113490248,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045694,
+      "type": "SOURCE_ID",
+      "usageKey": 113489588
+    }
+  ],
+  "key": 113489588,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2928751,
+  "numDescendants": 0,
+  "order": "Solanales",
+  "orderKey": 113490241,
+  "origin": "SOURCE",
+  "parent": "Datura",
+  "parentKey": 113490248,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Datura stramonium",
+  "species": "Datura stramonium",
+  "speciesKey": 113489588,
+  "synonym": false
+}

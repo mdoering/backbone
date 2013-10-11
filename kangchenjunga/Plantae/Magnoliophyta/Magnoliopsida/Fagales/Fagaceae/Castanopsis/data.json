@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Castanopsis tribuloides",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Fagaceae",
+  "familyKey": 113490036,
+  "genus": "Castanopsis",
+  "genusKey": 113490037,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045568,
+      "type": "SOURCE_ID",
+      "usageKey": 113489462
+    }
+  ],
+  "key": 113489462,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5333084,
+  "numDescendants": 0,
+  "order": "Fagales",
+  "orderKey": 113490032,
+  "origin": "SOURCE",
+  "parent": "Castanopsis",
+  "parentKey": 113490037,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Castanopsis tribuloides",
+  "species": "Castanopsis tribuloides",
+  "speciesKey": 113489462,
+  "synonym": false
+}

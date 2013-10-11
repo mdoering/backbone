@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Hydrocotyle himalaica",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Apiaceae",
+  "familyKey": 113489904,
+  "genus": "Hydrocotyle",
+  "genusKey": 113489907,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045444,
+      "type": "SOURCE_ID",
+      "usageKey": 113489338
+    }
+  ],
+  "key": 113489338,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 6027027,
+  "numDescendants": 0,
+  "order": "Apiales",
+  "orderKey": 113489903,
+  "origin": "SOURCE",
+  "parent": "Hydrocotyle",
+  "parentKey": 113489907,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Hydrocotyle himalaica",
+  "species": "Hydrocotyle himalaica",
+  "speciesKey": 113489338,
+  "synonym": false
+}

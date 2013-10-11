@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Holboellia latifolia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Lardizabalaceae",
+  "familyKey": 113490165,
+  "genus": "Holboellia",
+  "genusKey": 113490166,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045650,
+      "type": "SOURCE_ID",
+      "usageKey": 113489544
+    }
+  ],
+  "key": 113489544,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7306117,
+  "numDescendants": 0,
+  "order": "Ranunculales",
+  "orderKey": 113490160,
+  "origin": "SOURCE",
+  "parent": "Holboellia",
+  "parentKey": 113490166,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Holboellia latifolia",
+  "species": "Holboellia latifolia",
+  "speciesKey": 113489544,
+  "synonym": false
+}

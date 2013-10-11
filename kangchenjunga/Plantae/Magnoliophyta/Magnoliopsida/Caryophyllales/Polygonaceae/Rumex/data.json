@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Rumex nepalensis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Polygonaceae",
+  "familyKey": 113489970,
+  "genus": "Rumex",
+  "genusKey": 113489973,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045654,
+      "type": "SOURCE_ID",
+      "usageKey": 113489548
+    }
+  ],
+  "key": 113489548,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7291884,
+  "numDescendants": 0,
+  "order": "Caryophyllales",
+  "orderKey": 113489957,
+  "origin": "SOURCE",
+  "parent": "Rumex",
+  "parentKey": 113489973,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Rumex nepalensis",
+  "species": "Rumex nepalensis",
+  "speciesKey": 113489548,
+  "synonym": false
+}

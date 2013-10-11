@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Choerospondias axillaris",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Anacardiaceae",
+  "familyKey": 113490214,
+  "genus": "Chaerospondias",
+  "genusKey": 113490215,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045435,
+      "type": "SOURCE_ID",
+      "usageKey": 113489329
+    }
+  ],
+  "key": 113489329,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3661517,
+  "numDescendants": 0,
+  "order": "Sapindales",
+  "orderKey": 113490213,
+  "origin": "SOURCE",
+  "parent": "Chaerospondias",
+  "parentKey": 113490215,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Choerospondias axillaris",
+  "species": "Choerospondias axillaris",
+  "speciesKey": 113489329,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Vaccinium vacciniaceum",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Ericaceae",
+  "familyKey": 113490002,
+  "genus": "Vaccinium",
+  "genusKey": 113490008,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045548,
+      "type": "SOURCE_ID",
+      "usageKey": 113489442
+    }
+  ],
+  "key": 113489442,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7327892,
+  "numDescendants": 0,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "SOURCE",
+  "parent": "Vaccinium",
+  "parentKey": 113490008,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Vaccinium vacciniaceum",
+  "species": "Vaccinium vacciniaceum",
+  "speciesKey": 113489442,
+  "synonym": false
+}

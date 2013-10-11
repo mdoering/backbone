@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Marsdenia roylei",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Apocynaceae",
+  "familyKey": 113490043,
+  "genus": "Marsdenia",
+  "genusKey": 113490047,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045461,
+      "type": "SOURCE_ID",
+      "usageKey": 113489355
+    }
+  ],
+  "key": 113489355,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3575513,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Marsdenia",
+  "parentKey": 113490047,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Marsdenia roylei",
+  "species": "Marsdenia roylei",
+  "speciesKey": 113489355,
+  "synonym": false
+}

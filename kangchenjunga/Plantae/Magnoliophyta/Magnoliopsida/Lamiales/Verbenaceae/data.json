@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Vitex",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Verbenaceae",
+  "familyKey": 113490105,
+  "genus": "Vitex",
+  "genusKey": 113490107,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046004,
+      "type": "SOURCE_ID",
+      "usageKey": 113490107
+    }
+  ],
+  "key": 113490107,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2925556,
+  "numDescendants": 1,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Verbenaceae",
+  "parentKey": 113490105,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Vitex",
+  "synonym": false
+}

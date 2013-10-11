@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Kalanchoe",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Crassulaceae",
+  "familyKey": 113490232,
+  "genus": "Kalanchoe",
+  "genusKey": 113490233,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046130,
+      "type": "SOURCE_ID",
+      "usageKey": 113490233
+    }
+  ],
+  "key": 113490233,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2985928,
+  "numDescendants": 1,
+  "order": "Saxifragales",
+  "orderKey": 113490231,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Crassulaceae",
+  "parentKey": 113490232,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Kalanchoe",
+  "synonym": false
+}

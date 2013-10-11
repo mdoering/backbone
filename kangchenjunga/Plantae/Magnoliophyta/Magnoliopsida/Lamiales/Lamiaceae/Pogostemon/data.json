@@ -1,0 +1,37 @@
+{
+  "authorship": "",
+  "canonicalName": "Pogostemon amarantoides",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Lamiaceae",
+  "familyKey": 113490085,
+  "genus": "Pogostemon",
+  "genusKey": 113490095,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045597,
+      "type": "SOURCE_ID",
+      "usageKey": 113489491
+    }
+  ],
+  "key": 113489491,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Pogostemon",
+  "parentKey": 113490095,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Pogostemon amarantoides",
+  "species": "Pogostemon amarantoides",
+  "speciesKey": 113489491,
+  "synonym": false
+}

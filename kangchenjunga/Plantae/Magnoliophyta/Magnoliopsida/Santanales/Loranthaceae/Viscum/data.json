@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Viscum album",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Loranthaceae",
+  "familyKey": 113490208,
+  "genus": "Viscum",
+  "genusKey": 113490212,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045610,
+      "type": "SOURCE_ID",
+      "usageKey": 113489504
+    }
+  ],
+  "key": 113489504,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2889828,
+  "numDescendants": 0,
+  "order": "Santanales",
+  "orderKey": 113490205,
+  "origin": "SOURCE",
+  "parent": "Viscum",
+  "parentKey": 113490212,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Viscum album",
+  "species": "Viscum album",
+  "speciesKey": 113489504,
+  "synonym": false
+}

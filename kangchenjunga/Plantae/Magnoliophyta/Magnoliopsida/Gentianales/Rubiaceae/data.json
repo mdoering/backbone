@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Rubia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Rubiaceae",
+  "familyKey": 113490055,
+  "genus": "Rubia",
+  "genusKey": 113490061,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045958,
+      "type": "SOURCE_ID",
+      "usageKey": 113490061
+    }
+  ],
+  "key": 113490061,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2892184,
+  "numDescendants": 1,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Rubiaceae",
+  "parentKey": 113490055,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Rubia",
+  "synonym": false
+}

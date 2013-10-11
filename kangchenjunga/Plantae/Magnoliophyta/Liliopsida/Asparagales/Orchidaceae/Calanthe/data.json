@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Calanthe tricarinata",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Orchidaceae",
+  "familyKey": 113489852,
+  "genus": "Calanthe",
+  "genusKey": 113489854,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045384,
+      "type": "SOURCE_ID",
+      "usageKey": 113489278
+    }
+  ],
+  "key": 113489278,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2795225,
+  "numDescendants": 0,
+  "order": "Asparagales",
+  "orderKey": 113489839,
+  "origin": "SOURCE",
+  "parent": "Calanthe",
+  "parentKey": 113489854,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Calanthe tricarinata",
+  "species": "Calanthe tricarinata",
+  "speciesKey": 113489278,
+  "synonym": false
+}

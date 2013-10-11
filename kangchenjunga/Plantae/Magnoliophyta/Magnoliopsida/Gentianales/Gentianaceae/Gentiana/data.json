@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Gentiana pedicellata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Gentianaceae",
+  "familyKey": 113490050,
+  "genus": "Gentiana",
+  "genusKey": 113490051,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045575,
+      "type": "SOURCE_ID",
+      "usageKey": 113489469
+    }
+  ],
+  "key": 113489469,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7269719,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Gentiana",
+  "parentKey": 113490051,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Gentiana pedicellata",
+  "species": "Gentiana pedicellata",
+  "speciesKey": 113489469,
+  "synonym": false
+}

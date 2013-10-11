@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Saurauia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Actinidiaceae",
+  "familyKey": 113489997,
+  "genus": "Saurauia",
+  "genusKey": 113489999,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045896,
+      "type": "SOURCE_ID",
+      "usageKey": 113489999
+    }
+  ],
+  "key": 113489999,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 7270665,
+  "numDescendants": 1,
+  "order": "Ericales",
+  "orderKey": 113489996,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Actinidiaceae",
+  "parentKey": 113489997,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Saurauia",
+  "synonym": false
+}

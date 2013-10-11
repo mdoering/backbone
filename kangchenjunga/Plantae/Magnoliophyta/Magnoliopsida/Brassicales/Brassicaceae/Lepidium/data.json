@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Lepidium sativum",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Brassicaceae",
+  "familyKey": 113489953,
+  "genus": "Lepidium",
+  "genusKey": 113489954,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045504,
+      "type": "SOURCE_ID",
+      "usageKey": 113489398
+    }
+  ],
+  "key": 113489398,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5376565,
+  "numDescendants": 0,
+  "order": "Brassicales",
+  "orderKey": 113489952,
+  "origin": "SOURCE",
+  "parent": "Lepidium",
+  "parentKey": 113489954,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Lepidium sativum",
+  "species": "Lepidium sativum",
+  "speciesKey": 113489398,
+  "synonym": false
+}

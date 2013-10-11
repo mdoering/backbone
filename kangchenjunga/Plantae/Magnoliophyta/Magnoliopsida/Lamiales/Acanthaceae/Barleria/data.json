@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Barleria cristata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Acanthaceae",
+  "familyKey": 113490073,
+  "genus": "Barleria",
+  "genusKey": 113490074,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045420,
+      "type": "SOURCE_ID",
+      "usageKey": 113489314
+    }
+  ],
+  "key": 113489314,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3173128,
+  "numDescendants": 0,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "SOURCE",
+  "parent": "Barleria",
+  "parentKey": 113490074,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Barleria cristata",
+  "species": "Barleria cristata",
+  "speciesKey": 113489314,
+  "synonym": false
+}

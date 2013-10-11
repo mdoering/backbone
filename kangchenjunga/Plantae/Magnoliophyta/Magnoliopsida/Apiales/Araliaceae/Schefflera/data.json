@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Schefflera venulosa",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Araliaceae",
+  "familyKey": 113489909,
+  "genus": "Schefflera",
+  "genusKey": 113489916,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045457,
+      "type": "SOURCE_ID",
+      "usageKey": 113489351
+    }
+  ],
+  "key": 113489351,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3038372,
+  "numDescendants": 0,
+  "order": "Apiales",
+  "orderKey": 113489903,
+  "origin": "SOURCE",
+  "parent": "Schefflera",
+  "parentKey": 113489916,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Schefflera venulosa",
+  "species": "Schefflera venulosa",
+  "speciesKey": 113489351,
+  "synonym": false
+}

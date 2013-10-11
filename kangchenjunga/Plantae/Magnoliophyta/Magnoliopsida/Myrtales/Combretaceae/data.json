@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Terminalia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Combretaceae",
+  "familyKey": 113490141,
+  "genus": "Terminalia",
+  "genusKey": 113490142,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046039,
+      "type": "SOURCE_ID",
+      "usageKey": 113490142
+    }
+  ],
+  "key": 113490142,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3189387,
+  "numDescendants": 1,
+  "order": "Myrtales",
+  "orderKey": 113490140,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Combretaceae",
+  "parentKey": 113490141,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Terminalia",
+  "synonym": false
+}

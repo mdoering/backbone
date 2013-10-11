@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Luculia gratissima",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Rubiaceae",
+  "familyKey": 113490055,
+  "genus": "Luculia",
+  "genusKey": 113490058,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045677,
+      "type": "SOURCE_ID",
+      "usageKey": 113489571
+    }
+  ],
+  "key": 113489571,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2900019,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Luculia",
+  "parentKey": 113490058,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Luculia gratissima",
+  "species": "Luculia gratissima",
+  "speciesKey": 113489571,
+  "synonym": false
+}

@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Costus",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Zingeberaceae",
+  "familyKey": 113489897,
+  "genus": "Costus",
+  "genusKey": 113489898,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045795,
+      "type": "SOURCE_ID",
+      "usageKey": 113489898
+    }
+  ],
+  "key": 113489898,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2756771,
+  "numDescendants": 1,
+  "order": "Zingiberales",
+  "orderKey": 113489896,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Zingeberaceae",
+  "parentKey": 113489897,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Costus",
+  "synonym": false
+}

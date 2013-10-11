@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Didymocarpus",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Gesneriaceae",
+  "familyKey": 113490083,
+  "genus": "Didymocarpus",
+  "genusKey": 113490084,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045981,
+      "type": "SOURCE_ID",
+      "usageKey": 113490084
+    }
+  ],
+  "key": 113490084,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 6365033,
+  "numDescendants": 1,
+  "order": "Lamiales",
+  "orderKey": 113490072,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Gesneriaceae",
+  "parentKey": 113490083,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Didymocarpus",
+  "synonym": false
+}

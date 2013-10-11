@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Adenostemma lavenia",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Asteraceae",
+  "familyKey": 113489923,
+  "genus": "Adenostemma",
+  "genusKey": 113489924,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045462,
+      "type": "SOURCE_ID",
+      "usageKey": 113489356
+    }
+  ],
+  "key": 113489356,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3132228,
+  "numDescendants": 0,
+  "order": "Asterales",
+  "orderKey": 113489922,
+  "origin": "SOURCE",
+  "parent": "Adenostemma",
+  "parentKey": 113489924,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Adenostemma lavenia",
+  "species": "Adenostemma lavenia",
+  "speciesKey": 113489356,
+  "synonym": false
+}

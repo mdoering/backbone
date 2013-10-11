@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Oxalis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Oxalidaceae",
+  "familyKey": 113490155,
+  "genus": "Oxalis",
+  "genusKey": 113490156,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046053,
+      "type": "SOURCE_ID",
+      "usageKey": 113490156
+    }
+  ],
+  "key": 113490156,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2891642,
+  "numDescendants": 1,
+  "order": "Oxalidales",
+  "orderKey": 113490154,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Oxalidaceae",
+  "parentKey": 113490155,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Oxalis",
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Calotropis gigantea",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Apocynaceae",
+  "familyKey": 113490043,
+  "genus": "Calotropis",
+  "genusKey": 113490045,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045458,
+      "type": "SOURCE_ID",
+      "usageKey": 113489352
+    }
+  ],
+  "key": 113489352,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3579089,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Calotropis",
+  "parentKey": 113490045,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Calotropis gigantea",
+  "species": "Calotropis gigantea",
+  "speciesKey": 113489352,
+  "synonym": false
+}

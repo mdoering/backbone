@@ -1,0 +1,34 @@
+{
+  "authorship": "",
+  "canonicalName": "Schisandraceae",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Schisandraceae",
+  "familyKey": 113490066,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045963,
+      "type": "SOURCE_ID",
+      "usageKey": 113490066
+    }
+  ],
+  "key": 113490066,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 6691,
+  "numDescendants": 2,
+  "order": "Illiciales",
+  "orderKey": 113490065,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Illiciales",
+  "parentKey": 113490065,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "FAMILY",
+  "scientificName": "Schisandraceae",
+  "synonym": false
+}

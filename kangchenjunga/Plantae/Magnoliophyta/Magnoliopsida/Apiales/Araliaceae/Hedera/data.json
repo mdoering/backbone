@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Hedera nepalensis",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Araliaceae",
+  "familyKey": 113489909,
+  "genus": "Hedera",
+  "genusKey": 113489914,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045454,
+      "type": "SOURCE_ID",
+      "usageKey": 113489348
+    }
+  ],
+  "key": 113489348,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3036051,
+  "numDescendants": 0,
+  "order": "Apiales",
+  "orderKey": 113489903,
+  "origin": "SOURCE",
+  "parent": "Hedera",
+  "parentKey": 113489914,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Hedera nepalensis",
+  "species": "Hedera nepalensis",
+  "speciesKey": 113489348,
+  "synonym": false
+}

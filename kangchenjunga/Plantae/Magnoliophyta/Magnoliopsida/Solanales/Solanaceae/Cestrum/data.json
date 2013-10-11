@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Cestrum elegans",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Solanaceae",
+  "familyKey": 113490246,
+  "genus": "Cestrum",
+  "genusKey": 113490247,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045693,
+      "type": "SOURCE_ID",
+      "usageKey": 113489587
+    }
+  ],
+  "key": 113489587,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 6403186,
+  "numDescendants": 0,
+  "order": "Solanales",
+  "orderKey": 113490241,
+  "origin": "SOURCE",
+  "parent": "Cestrum",
+  "parentKey": 113490247,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Cestrum elegans",
+  "species": "Cestrum elegans",
+  "speciesKey": 113489587,
+  "synonym": false
+}

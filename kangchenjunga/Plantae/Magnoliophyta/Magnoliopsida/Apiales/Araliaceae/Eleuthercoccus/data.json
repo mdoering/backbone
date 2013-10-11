@@ -1,0 +1,37 @@
+{
+  "authorship": "",
+  "canonicalName": "Eleuthercoccus cissifolius",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Araliaceae",
+  "familyKey": 113489909,
+  "genus": "Eleuthercoccus",
+  "genusKey": 113489912,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045452,
+      "type": "SOURCE_ID",
+      "usageKey": 113489346
+    }
+  ],
+  "key": 113489346,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "numDescendants": 0,
+  "order": "Apiales",
+  "orderKey": 113489903,
+  "origin": "SOURCE",
+  "parent": "Eleuthercoccus",
+  "parentKey": 113489912,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Eleuthercoccus cissifolius",
+  "species": "Eleuthercoccus cissifolius",
+  "speciesKey": 113489346,
+  "synonym": false
+}

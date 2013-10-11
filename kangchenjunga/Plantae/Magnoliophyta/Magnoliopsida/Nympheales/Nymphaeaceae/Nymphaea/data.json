@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Nymphaea stellata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Nymphaeaceae",
+  "familyKey": 113490152,
+  "genus": "Nymphaea",
+  "genusKey": 113490153,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045638,
+      "type": "SOURCE_ID",
+      "usageKey": 113489532
+    }
+  ],
+  "key": 113489532,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3697487,
+  "numDescendants": 0,
+  "order": "Nympheales",
+  "orderKey": 113490151,
+  "origin": "SOURCE",
+  "parent": "Nymphaea",
+  "parentKey": 113490153,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Nymphaea stellata",
+  "species": "Nymphaea stellata",
+  "speciesKey": 113489532,
+  "synonym": false
+}

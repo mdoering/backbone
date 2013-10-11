@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Viola hamiltoniana",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Violaceae",
+  "familyKey": 113490131,
+  "genus": "Viola",
+  "genusKey": 113490132,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045718,
+      "type": "SOURCE_ID",
+      "usageKey": 113489612
+    }
+  ],
+  "key": 113489612,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5664666,
+  "numDescendants": 0,
+  "order": "Malpighiales",
+  "orderKey": 113490118,
+  "origin": "SOURCE",
+  "parent": "Viola",
+  "parentKey": 113490132,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Viola hamiltoniana",
+  "species": "Viola hamiltoniana",
+  "speciesKey": 113489612,
+  "synonym": false
+}

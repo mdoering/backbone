@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Persea odoratissima",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Lauraceae",
+  "familyKey": 113490109,
+  "genus": "Persea",
+  "genusKey": 113490113,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045604,
+      "type": "SOURCE_ID",
+      "usageKey": 113489498
+    }
+  ],
+  "key": 113489498,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4180261,
+  "numDescendants": 0,
+  "order": "Laurales",
+  "orderKey": 113490108,
+  "origin": "SOURCE",
+  "parent": "Persea",
+  "parentKey": 113490113,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Persea odoratissima",
+  "species": "Persea odoratissima",
+  "speciesKey": 113489498,
+  "synonym": false
+}

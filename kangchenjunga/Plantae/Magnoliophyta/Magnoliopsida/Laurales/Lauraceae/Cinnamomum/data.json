@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Cinnamomum tamala",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Lauraceae",
+  "familyKey": 113490109,
+  "genus": "Cinnamomum",
+  "genusKey": 113490110,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045599,
+      "type": "SOURCE_ID",
+      "usageKey": 113489493
+    }
+  ],
+  "key": 113489493,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3033986,
+  "numDescendants": 0,
+  "order": "Laurales",
+  "orderKey": 113490108,
+  "origin": "SOURCE",
+  "parent": "Cinnamomum",
+  "parentKey": 113490110,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Cinnamomum tamala",
+  "species": "Cinnamomum tamala",
+  "speciesKey": 113489493,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Nardostachys jatamansi",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Valerianaceae",
+  "familyKey": 113489993,
+  "genus": "Nardostachys",
+  "genusKey": 113489994,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045712,
+      "type": "SOURCE_ID",
+      "usageKey": 113489606
+    }
+  ],
+  "key": 113489606,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4095989,
+  "numDescendants": 0,
+  "order": "Dipsacales",
+  "orderKey": 113489988,
+  "origin": "SOURCE",
+  "parent": "Nardostachys",
+  "parentKey": 113489994,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Nardostachys jatamansi",
+  "species": "Nardostachys jatamansi",
+  "speciesKey": 113489606,
+  "synonym": false
+}

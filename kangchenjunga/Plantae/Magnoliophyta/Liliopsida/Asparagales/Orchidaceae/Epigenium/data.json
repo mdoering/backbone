@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Epigeneium rotundatum",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Orchidaceae",
+  "familyKey": 113489852,
+  "genus": "Epigenium",
+  "genusKey": 113489858,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045392,
+      "type": "SOURCE_ID",
+      "usageKey": 113489286
+    }
+  ],
+  "key": 113489286,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2819489,
+  "numDescendants": 0,
+  "order": "Asparagales",
+  "orderKey": 113489839,
+  "origin": "SOURCE",
+  "parent": "Epigenium",
+  "parentKey": 113489858,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Epigeneium rotundatum",
+  "species": "Epigeneium rotundatum",
+  "speciesKey": 113489286,
+  "synonym": false
+}

@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Hypericum uralum",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Clusiaceae",
+  "familyKey": 113490119,
+  "genus": "Hypericum",
+  "genusKey": 113490120,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045583,
+      "type": "SOURCE_ID",
+      "usageKey": 113489477
+    }
+  ],
+  "key": 113489477,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3714976,
+  "numDescendants": 0,
+  "order": "Malpighiales",
+  "orderKey": 113490118,
+  "origin": "SOURCE",
+  "parent": "Hypericum",
+  "parentKey": 113490120,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Hypericum uralum",
+  "species": "Hypericum uralum",
+  "speciesKey": 113489477,
+  "synonym": false
+}

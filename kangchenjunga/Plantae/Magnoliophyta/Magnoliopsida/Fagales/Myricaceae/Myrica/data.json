@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Myrica esculenta",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Myricaceae",
+  "familyKey": 113490040,
+  "genus": "Myrica",
+  "genusKey": 113490041,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045381,
+      "type": "SOURCE_ID",
+      "usageKey": 113489275
+    }
+  ],
+  "key": 113489275,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 5565387,
+  "numDescendants": 0,
+  "order": "Fagales",
+  "orderKey": 113490032,
+  "origin": "SOURCE",
+  "parent": "Myrica",
+  "parentKey": 113490041,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Myrica esculenta",
+  "species": "Myrica esculenta",
+  "speciesKey": 113489275,
+  "synonym": false
+}

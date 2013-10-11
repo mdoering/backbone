@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Spondias",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Anacardiaceae",
+  "familyKey": 113490214,
+  "genus": "Spondias",
+  "genusKey": 113490218,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046115,
+      "type": "SOURCE_ID",
+      "usageKey": 113490218
+    }
+  ],
+  "key": 113490218,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3190592,
+  "numDescendants": 1,
+  "order": "Sapindales",
+  "orderKey": 113490213,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Anacardiaceae",
+  "parentKey": 113490214,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Spondias",
+  "synonym": false
+}

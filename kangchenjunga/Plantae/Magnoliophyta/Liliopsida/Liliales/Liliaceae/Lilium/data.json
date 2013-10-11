@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Lilium wallichianum",
+  "classKey": 113489833,
+  "clazz": "Liliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Liliaceae",
+  "familyKey": 113489872,
+  "genus": "Lilium",
+  "genusKey": 113489874,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045380,
+      "type": "SOURCE_ID",
+      "usageKey": 113489274
+    }
+  ],
+  "key": 113489274,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 4937248,
+  "numDescendants": 0,
+  "order": "Liliales",
+  "orderKey": 113489871,
+  "origin": "SOURCE",
+  "parent": "Lilium",
+  "parentKey": 113489874,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Lilium wallichianum",
+  "species": "Lilium wallichianum",
+  "speciesKey": 113489274,
+  "synonym": false
+}

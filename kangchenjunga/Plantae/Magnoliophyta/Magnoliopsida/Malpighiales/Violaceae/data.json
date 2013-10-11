@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Viola",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Violaceae",
+  "familyKey": 113490131,
+  "genus": "Viola",
+  "genusKey": 113490132,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14046029,
+      "type": "SOURCE_ID",
+      "usageKey": 113490132
+    }
+  ],
+  "key": 113490132,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2874237,
+  "numDescendants": 1,
+  "order": "Malpighiales",
+  "orderKey": 113490118,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Violaceae",
+  "parentKey": 113490131,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Viola",
+  "synonym": false
+}

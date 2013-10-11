@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Piper longum",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Piperaceae",
+  "familyKey": 113490158,
+  "genus": "Piper",
+  "genusKey": 113490159,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045647,
+      "type": "SOURCE_ID",
+      "usageKey": 113489541
+    }
+  ],
+  "key": 113489541,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3086338,
+  "numDescendants": 0,
+  "order": "Piperales",
+  "orderKey": 113490157,
+  "origin": "SOURCE",
+  "parent": "Piper",
+  "parentKey": 113490159,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Piper longum",
+  "species": "Piper longum",
+  "speciesKey": 113489541,
+  "synonym": false
+}

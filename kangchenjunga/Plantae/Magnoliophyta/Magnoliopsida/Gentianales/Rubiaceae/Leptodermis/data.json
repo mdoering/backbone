@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Leptodermis lanceolata",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Rubiaceae",
+  "familyKey": 113490055,
+  "genus": "Leptodermis",
+  "genusKey": 113490057,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045676,
+      "type": "SOURCE_ID",
+      "usageKey": 113489570
+    }
+  ],
+  "key": 113489570,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 2893447,
+  "numDescendants": 0,
+  "order": "Gentianales",
+  "orderKey": 113490042,
+  "origin": "SOURCE",
+  "parent": "Leptodermis",
+  "parentKey": 113490057,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Leptodermis lanceolata",
+  "species": "Leptodermis lanceolata",
+  "speciesKey": 113489570,
+  "synonym": false
+}

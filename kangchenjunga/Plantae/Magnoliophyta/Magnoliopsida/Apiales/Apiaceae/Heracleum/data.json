@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Heracleum nepalense",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Apiaceae",
+  "familyKey": 113489904,
+  "genus": "Heracleum",
+  "genusKey": 113489906,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045443,
+      "type": "SOURCE_ID",
+      "usageKey": 113489337
+    }
+  ],
+  "key": 113489337,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3629043,
+  "numDescendants": 0,
+  "order": "Apiales",
+  "orderKey": 113489903,
+  "origin": "SOURCE",
+  "parent": "Heracleum",
+  "parentKey": 113489906,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Heracleum nepalense",
+  "species": "Heracleum nepalense",
+  "speciesKey": 113489337,
+  "synonym": false
+}

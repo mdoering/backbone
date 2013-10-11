@@ -1,0 +1,38 @@
+{
+  "authorship": "",
+  "canonicalName": "Alangium salviifolium",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Cornaceae",
+  "familyKey": 113489978,
+  "genus": "Alangium",
+  "genusKey": 113489979,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045432,
+      "type": "SOURCE_ID",
+      "usageKey": 113489326
+    }
+  ],
+  "key": 113489326,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3701897,
+  "numDescendants": 0,
+  "order": "Cornales",
+  "orderKey": 113489977,
+  "origin": "SOURCE",
+  "parent": "Alangium",
+  "parentKey": 113489979,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "SPECIES",
+  "scientificName": "Alangium salviifolium",
+  "species": "Alangium salviifolium",
+  "speciesKey": 113489326,
+  "synonym": false
+}

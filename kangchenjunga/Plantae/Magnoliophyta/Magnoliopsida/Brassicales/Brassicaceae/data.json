@@ -1,0 +1,36 @@
+{
+  "authorship": "",
+  "canonicalName": "Rorippa",
+  "classKey": 113489902,
+  "clazz": "Magnoliopsida",
+  "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+  "family": "Brassicaceae",
+  "familyKey": 113489953,
+  "genus": "Rorippa",
+  "genusKey": 113489956,
+  "identifiers": [
+    {
+      "datasetKey": "2e38c085-1140-46b2-9fc3-c62fb18d56bf",
+      "key": 14045853,
+      "type": "SOURCE_ID",
+      "usageKey": 113489956
+    }
+  ],
+  "key": 113489956,
+  "kingdom": "Plantae",
+  "kingdomKey": 113489831,
+  "nameType": "WELLFORMED",
+  "nomenclaturalStatus": [],
+  "nubKey": 3053118,
+  "numDescendants": 1,
+  "order": "Brassicales",
+  "orderKey": 113489952,
+  "origin": "DENORMED_CLASSIFICATION",
+  "parent": "Brassicaceae",
+  "parentKey": 113489953,
+  "phylum": "Magnoliophyta",
+  "phylumKey": 113489832,
+  "rank": "GENUS",
+  "scientificName": "Rorippa",
+  "synonym": false
+}
