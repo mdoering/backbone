@@ -1,4 +1,0 @@
-GENUS Cymbidium
-=======
-Status: ???
-According to: ???

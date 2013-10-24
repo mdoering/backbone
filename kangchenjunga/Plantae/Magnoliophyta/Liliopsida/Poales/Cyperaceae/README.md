@@ -1,4 +1,0 @@
-FAMILY Cyperaceae
-=======
-Status: ???
-According to: ???

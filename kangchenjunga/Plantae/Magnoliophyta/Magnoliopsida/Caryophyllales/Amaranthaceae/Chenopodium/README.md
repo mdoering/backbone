@@ -1,4 +1,0 @@
-GENUS Chenopodium
-=======
-Status: ???
-According to: ???

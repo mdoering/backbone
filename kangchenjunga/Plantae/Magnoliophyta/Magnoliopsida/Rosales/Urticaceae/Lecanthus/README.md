@@ -1,4 +1,0 @@
-GENUS Lecanthus
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Gentiana
-=======
-Status: ???
-According to: ???

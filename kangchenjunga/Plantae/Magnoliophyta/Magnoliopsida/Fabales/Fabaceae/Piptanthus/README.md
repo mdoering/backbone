@@ -1,4 +1,0 @@
-GENUS Piptanthus
-=======
-Status: ???
-According to: ???

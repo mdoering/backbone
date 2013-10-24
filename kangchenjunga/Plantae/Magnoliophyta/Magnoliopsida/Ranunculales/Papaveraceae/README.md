@@ -1,4 +1,0 @@
-FAMILY Papaveraceae
-=======
-Status: ???
-According to: ???

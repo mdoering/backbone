@@ -1,4 +1,0 @@
-GENUS Amomum
-=======
-Status: ???
-According to: ???

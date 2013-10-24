@@ -1,4 +1,0 @@
-ORDER Lamiales
-=======
-Status: ???
-According to: ???

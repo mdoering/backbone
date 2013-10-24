@@ -1,4 +1,0 @@
-GENUS Pieris
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Morus
-=======
-Status: ???
-According to: ???

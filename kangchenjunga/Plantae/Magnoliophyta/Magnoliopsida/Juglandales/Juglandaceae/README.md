@@ -1,4 +1,0 @@
-FAMILY Juglandaceae
-=======
-Status: ???
-According to: ???

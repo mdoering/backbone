@@ -1,4 +1,0 @@
-GENUS Paederia
-=======
-Status: ???
-According to: ???

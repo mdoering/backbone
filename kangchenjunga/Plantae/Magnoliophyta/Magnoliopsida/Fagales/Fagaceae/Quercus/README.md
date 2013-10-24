@@ -1,4 +1,0 @@
-GENUS Quercus
-=======
-Status: ???
-According to: ???

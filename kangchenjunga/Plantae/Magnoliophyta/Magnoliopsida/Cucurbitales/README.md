@@ -1,4 +1,0 @@
-ORDER Cucurbitales
-=======
-Status: ???
-According to: ???

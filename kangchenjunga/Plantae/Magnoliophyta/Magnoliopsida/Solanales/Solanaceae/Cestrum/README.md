@@ -1,4 +1,0 @@
-GENUS Cestrum
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Citrus
-=======
-Status: ???
-According to: ???

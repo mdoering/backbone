@@ -1,4 +1,0 @@
-GENUS Bauhinia
-=======
-Status: ???
-According to: ???

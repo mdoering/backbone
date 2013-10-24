@@ -1,4 +1,0 @@
-GENUS Aconogonum
-=======
-Status: ???
-According to: ???

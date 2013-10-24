@@ -1,4 +1,0 @@
-FAMILY Gesneriaceae
-=======
-Status: ???
-According to: ???

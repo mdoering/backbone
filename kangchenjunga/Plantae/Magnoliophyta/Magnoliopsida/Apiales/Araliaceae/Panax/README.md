@@ -1,4 +1,0 @@
-GENUS Panax
-=======
-Status: ???
-According to: ???

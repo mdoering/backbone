@@ -1,4 +1,0 @@
-GENUS Michelia
-=======
-Status: ???
-According to: ???

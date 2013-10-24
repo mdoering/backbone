@@ -1,4 +1,0 @@
-GENUS Nymphaea
-=======
-Status: ???
-According to: ???

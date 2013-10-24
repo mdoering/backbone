@@ -1,4 +1,0 @@
-GENUS Notochaete
-=======
-Status: ???
-According to: ???

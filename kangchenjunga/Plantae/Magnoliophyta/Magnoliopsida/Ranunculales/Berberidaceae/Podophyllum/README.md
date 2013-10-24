@@ -1,4 +1,0 @@
-GENUS Podophyllum
-=======
-Status: ???
-According to: ???

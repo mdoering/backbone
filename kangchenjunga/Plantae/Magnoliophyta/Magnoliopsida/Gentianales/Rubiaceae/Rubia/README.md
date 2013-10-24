@@ -1,4 +1,0 @@
-GENUS Rubia
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Abrus
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-FAMILY Cucurbitaceae
-=======
-Status: ???
-According to: ???

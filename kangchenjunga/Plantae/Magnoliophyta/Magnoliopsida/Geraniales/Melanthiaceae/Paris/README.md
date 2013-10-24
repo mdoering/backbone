@@ -1,4 +1,0 @@
-GENUS Paris
-=======
-Status: ???
-According to: ???

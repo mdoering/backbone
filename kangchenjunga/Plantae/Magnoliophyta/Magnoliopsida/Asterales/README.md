@@ -1,4 +1,0 @@
-ORDER Asterales
-=======
-Status: ???
-According to: ???

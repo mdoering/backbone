@@ -1,4 +1,0 @@
-GENUS Polygonatum
-=======
-Status: ???
-According to: ???

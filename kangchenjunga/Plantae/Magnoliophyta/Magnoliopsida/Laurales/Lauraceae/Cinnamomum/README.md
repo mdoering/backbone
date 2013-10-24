@@ -1,4 +1,0 @@
-GENUS Cinnamomum
-=======
-Status: ???
-According to: ???

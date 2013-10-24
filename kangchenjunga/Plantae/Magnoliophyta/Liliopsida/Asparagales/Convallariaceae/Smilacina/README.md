@@ -1,4 +1,0 @@
-GENUS Smilacina
-=======
-Status: ???
-According to: ???

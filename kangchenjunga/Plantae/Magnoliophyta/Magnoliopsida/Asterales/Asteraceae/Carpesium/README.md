@@ -1,4 +1,0 @@
-GENUS Carpesium
-=======
-Status: ???
-According to: ???

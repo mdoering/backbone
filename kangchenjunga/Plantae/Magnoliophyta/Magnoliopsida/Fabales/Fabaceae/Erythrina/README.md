@@ -1,4 +1,0 @@
-GENUS Erythrina
-=======
-Status: ???
-According to: ???

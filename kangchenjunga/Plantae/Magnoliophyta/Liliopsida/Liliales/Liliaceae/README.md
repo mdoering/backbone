@@ -1,4 +1,0 @@
-FAMILY Liliaceae
-=======
-Status: ???
-According to: ???

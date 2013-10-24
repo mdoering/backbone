@@ -1,4 +1,0 @@
-GENUS Spiranthes
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Litsea
-=======
-Status: ???
-According to: ???

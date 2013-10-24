@@ -1,4 +1,0 @@
-GENUS Hydrocotyle
-=======
-Status: ???
-According to: ???

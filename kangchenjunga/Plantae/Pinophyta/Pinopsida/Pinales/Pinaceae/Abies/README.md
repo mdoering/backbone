@@ -1,4 +1,0 @@
-GENUS Abies
-=======
-Status: ???
-According to: ???

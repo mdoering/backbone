@@ -1,4 +1,0 @@
-GENUS Alstonia
-=======
-Status: ???
-According to: ???

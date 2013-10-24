@@ -1,4 +1,0 @@
-GENUS Cyathocline
-=======
-Status: ???
-According to: ???

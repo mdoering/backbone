@@ -1,4 +1,0 @@
-GENUS Ainsliaea
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-FAMILY Cannabaceae
-=======
-Status: ???
-According to: ???

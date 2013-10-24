@@ -1,4 +1,0 @@
-GENUS Aster
-=======
-Status: ???
-According to: ???

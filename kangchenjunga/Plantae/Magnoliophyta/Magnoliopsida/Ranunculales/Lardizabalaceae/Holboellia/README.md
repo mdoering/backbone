@@ -1,4 +1,0 @@
-GENUS Holboellia
-=======
-Status: ???
-According to: ???

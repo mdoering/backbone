@@ -1,4 +1,0 @@
-GENUS Mentha
-=======
-Status: ???
-According to: ???

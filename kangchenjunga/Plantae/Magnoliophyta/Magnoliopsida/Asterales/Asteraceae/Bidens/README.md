@@ -1,4 +1,0 @@
-GENUS Bidens
-=======
-Status: ???
-According to: ???

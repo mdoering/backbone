@@ -1,4 +1,0 @@
-FAMILY Nymphaeaceae
-=======
-Status: ???
-According to: ???

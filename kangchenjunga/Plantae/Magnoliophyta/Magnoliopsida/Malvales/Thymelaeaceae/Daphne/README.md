@@ -1,4 +1,0 @@
-GENUS Daphne
-=======
-Status: ???
-According to: ???

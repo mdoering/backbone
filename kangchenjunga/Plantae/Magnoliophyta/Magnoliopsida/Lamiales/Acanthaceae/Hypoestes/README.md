@@ -1,4 +1,0 @@
-GENUS Hypoestes
-=======
-Status: ???
-According to: ???

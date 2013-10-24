@@ -1,4 +1,0 @@
-GENUS Nardostachys
-=======
-Status: ???
-According to: ???

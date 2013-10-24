@@ -1,4 +1,0 @@
-GENUS Sarcococca
-=======
-Status: ???
-According to: ???

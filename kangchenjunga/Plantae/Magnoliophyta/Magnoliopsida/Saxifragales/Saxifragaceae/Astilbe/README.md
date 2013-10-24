@@ -1,4 +1,0 @@
-GENUS Astilbe
-=======
-Status: ???
-According to: ???

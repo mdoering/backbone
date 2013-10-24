@@ -1,4 +1,0 @@
-GENUS Zizyphus
-=======
-Status: ???
-According to: ???

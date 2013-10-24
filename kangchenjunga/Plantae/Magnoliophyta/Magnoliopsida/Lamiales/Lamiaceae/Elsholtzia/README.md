@@ -1,4 +1,0 @@
-GENUS Elsholtzia
-=======
-Status: ???
-According to: ???

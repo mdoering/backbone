@@ -1,4 +1,0 @@
-CLASS Liliopsida
-=======
-Status: ???
-According to: ???

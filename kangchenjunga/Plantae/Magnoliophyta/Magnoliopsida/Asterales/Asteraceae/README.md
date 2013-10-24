@@ -1,4 +1,0 @@
-FAMILY Asteraceae
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Dobinea
-=======
-Status: ???
-According to: ???

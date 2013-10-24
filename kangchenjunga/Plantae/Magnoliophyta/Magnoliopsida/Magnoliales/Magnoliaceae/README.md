@@ -1,4 +1,0 @@
-FAMILY Magnoliaceae
-=======
-Status: ???
-According to: ???

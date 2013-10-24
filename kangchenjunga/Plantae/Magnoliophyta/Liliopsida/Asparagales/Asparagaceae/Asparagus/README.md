@@ -1,4 +1,0 @@
-GENUS Asparagus
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Gonostegia
-=======
-Status: ???
-According to: ???

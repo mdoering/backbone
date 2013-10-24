@@ -1,4 +1,0 @@
-FAMILY Theaceae
-=======
-Status: ???
-According to: ???

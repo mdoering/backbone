@@ -1,4 +1,0 @@
-FAMILY Myrsinaceae
-=======
-Status: ???
-According to: ???

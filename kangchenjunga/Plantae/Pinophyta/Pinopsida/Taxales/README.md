@@ -1,4 +1,0 @@
-ORDER Taxales
-=======
-Status: ???
-According to: ???

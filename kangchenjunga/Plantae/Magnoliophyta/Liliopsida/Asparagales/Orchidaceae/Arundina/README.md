@@ -1,4 +1,0 @@
-GENUS Arundina
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Dichroa
-=======
-Status: ???
-According to: ???

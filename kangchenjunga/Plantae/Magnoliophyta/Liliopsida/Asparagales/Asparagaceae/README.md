@@ -1,4 +1,0 @@
-FAMILY Asparagaceae
-=======
-Status: ???
-According to: ???

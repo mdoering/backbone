@@ -1,4 +1,0 @@
-GENUS Bridelia
-=======
-Status: ???
-According to: ???

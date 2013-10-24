@@ -1,4 +1,0 @@
-FAMILY Clusiaceae
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-FAMILY Linaceae
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Ceropegia
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Galium
-=======
-Status: ???
-According to: ???

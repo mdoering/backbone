@@ -1,4 +1,0 @@
-GENUS Barleria
-=======
-Status: ???
-According to: ???

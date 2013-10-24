@@ -1,4 +1,0 @@
-GENUS Hedera
-=======
-Status: ???
-According to: ???

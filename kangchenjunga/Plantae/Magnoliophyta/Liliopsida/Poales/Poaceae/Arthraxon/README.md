@@ -1,4 +1,0 @@
-GENUS Arthraxon
-=======
-Status: ???
-According to: ???

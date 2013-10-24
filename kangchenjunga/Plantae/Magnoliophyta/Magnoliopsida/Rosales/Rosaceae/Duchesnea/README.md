@@ -1,4 +1,0 @@
-GENUS Duchesnea
-=======
-Status: ???
-According to: ???

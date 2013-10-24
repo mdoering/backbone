@@ -1,4 +1,0 @@
-GENUS Engelhardtia
-=======
-Status: ???
-According to: ???

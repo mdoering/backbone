@@ -1,4 +1,0 @@
-FAMILY Berberidaceae
-=======
-Status: ???
-According to: ???

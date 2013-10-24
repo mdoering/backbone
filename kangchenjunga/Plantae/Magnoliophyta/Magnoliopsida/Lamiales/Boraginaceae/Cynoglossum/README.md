@@ -1,4 +1,0 @@
-GENUS Cynoglossum
-=======
-Status: ???
-According to: ???

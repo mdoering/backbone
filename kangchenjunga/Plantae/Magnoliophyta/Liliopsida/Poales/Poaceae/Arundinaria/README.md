@@ -1,4 +1,0 @@
-GENUS Arundinaria
-=======
-Status: ???
-According to: ???

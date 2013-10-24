@@ -1,4 +1,0 @@
-GENUS Dicliptera
-=======
-Status: ???
-According to: ???

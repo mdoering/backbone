@@ -1,4 +1,0 @@
-GENUS Cardiocrinum
-=======
-Status: ???
-According to: ???

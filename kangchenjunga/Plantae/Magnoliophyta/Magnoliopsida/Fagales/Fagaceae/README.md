@@ -1,4 +1,0 @@
-FAMILY Fagaceae
-=======
-Status: ???
-According to: ???

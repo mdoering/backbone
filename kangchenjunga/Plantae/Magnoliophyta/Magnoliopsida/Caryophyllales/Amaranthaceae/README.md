@@ -1,4 +1,0 @@
-FAMILY Amaranthaceae
-=======
-Status: ???
-According to: ???

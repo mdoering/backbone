@@ -1,4 +1,0 @@
-ORDER Cornales
-=======
-Status: ???
-According to: ???

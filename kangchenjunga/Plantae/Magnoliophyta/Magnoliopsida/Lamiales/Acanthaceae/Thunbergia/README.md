@@ -1,4 +1,0 @@
-GENUS Thunbergia
-=======
-Status: ???
-According to: ???

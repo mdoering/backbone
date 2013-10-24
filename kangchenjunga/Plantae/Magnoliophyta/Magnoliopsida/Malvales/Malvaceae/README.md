@@ -1,4 +1,0 @@
-FAMILY Malvaceae
-=======
-Status: ???
-According to: ???

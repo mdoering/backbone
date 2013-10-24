@@ -1,4 +1,0 @@
-GENUS Centella
-=======
-Status: ???
-According to: ???

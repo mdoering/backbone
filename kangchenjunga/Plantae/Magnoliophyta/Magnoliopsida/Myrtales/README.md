@@ -1,4 +1,0 @@
-ORDER Myrtales
-=======
-Status: ???
-According to: ???

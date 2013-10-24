@@ -1,4 +1,0 @@
-GENUS Calanthe
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Maesa
-=======
-Status: ???
-According to: ???

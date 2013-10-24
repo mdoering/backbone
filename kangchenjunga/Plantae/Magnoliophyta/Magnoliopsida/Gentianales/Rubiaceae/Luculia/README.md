@@ -1,4 +1,0 @@
-GENUS Luculia
-=======
-Status: ???
-According to: ???

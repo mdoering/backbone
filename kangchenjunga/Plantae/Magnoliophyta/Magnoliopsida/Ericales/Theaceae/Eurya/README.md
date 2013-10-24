@@ -1,4 +1,0 @@
-GENUS Eurya
-=======
-Status: ???
-According to: ???

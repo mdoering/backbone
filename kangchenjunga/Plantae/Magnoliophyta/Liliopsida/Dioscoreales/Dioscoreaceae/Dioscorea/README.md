@@ -1,4 +1,0 @@
-GENUS Dioscorea
-=======
-Status: ???
-According to: ???

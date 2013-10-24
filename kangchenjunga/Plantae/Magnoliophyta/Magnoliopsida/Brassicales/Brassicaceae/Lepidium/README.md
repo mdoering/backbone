@@ -1,4 +1,0 @@
-GENUS Lepidium
-=======
-Status: ???
-According to: ???

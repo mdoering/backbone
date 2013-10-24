@@ -1,4 +1,0 @@
-ORDER Juglandales
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Potentilla
-=======
-Status: ???
-According to: ???

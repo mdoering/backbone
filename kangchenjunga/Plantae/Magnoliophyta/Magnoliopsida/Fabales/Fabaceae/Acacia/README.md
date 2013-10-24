@@ -1,4 +1,0 @@
-GENUS Acacia
-=======
-Status: ???
-According to: ???

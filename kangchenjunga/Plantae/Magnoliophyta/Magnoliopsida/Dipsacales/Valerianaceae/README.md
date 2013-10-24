@@ -1,4 +1,0 @@
-FAMILY Valerianaceae
-=======
-Status: ???
-According to: ???

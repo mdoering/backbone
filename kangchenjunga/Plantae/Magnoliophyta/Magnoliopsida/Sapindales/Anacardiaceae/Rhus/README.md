@@ -1,4 +1,0 @@
-GENUS Rhus
-=======
-Status: ???
-According to: ???

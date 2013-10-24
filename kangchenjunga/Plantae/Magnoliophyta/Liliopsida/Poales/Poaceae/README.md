@@ -1,4 +1,0 @@
-FAMILY Poaceae
-=======
-Status: ???
-According to: ???

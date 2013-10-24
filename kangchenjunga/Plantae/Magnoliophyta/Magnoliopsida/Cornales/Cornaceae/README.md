@@ -1,4 +1,0 @@
-FAMILY Cornaceae
-=======
-Status: ???
-According to: ???

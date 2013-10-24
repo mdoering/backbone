@@ -1,4 +1,0 @@
-FAMILY Loganiaceae
-=======
-Status: ???
-According to: ???

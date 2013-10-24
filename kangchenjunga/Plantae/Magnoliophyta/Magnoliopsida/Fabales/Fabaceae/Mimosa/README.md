@@ -1,4 +1,0 @@
-GENUS Mimosa
-=======
-Status: ???
-According to: ???

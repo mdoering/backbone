@@ -1,4 +1,0 @@
-FAMILY Myricaceae
-=======
-Status: ???
-According to: ???

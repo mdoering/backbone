@@ -1,4 +1,0 @@
-GENUS Senecio
-=======
-Status: ???
-According to: ???

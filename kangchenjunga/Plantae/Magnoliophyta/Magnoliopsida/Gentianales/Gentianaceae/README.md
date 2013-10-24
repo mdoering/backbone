@@ -1,4 +1,0 @@
-FAMILY Gentianaceae
-=======
-Status: ???
-According to: ???

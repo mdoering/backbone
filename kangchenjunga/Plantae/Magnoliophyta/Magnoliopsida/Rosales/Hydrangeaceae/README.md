@@ -1,4 +1,0 @@
-FAMILY Hydrangeaceae
-=======
-Status: ???
-According to: ???

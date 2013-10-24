@@ -1,4 +1,0 @@
-FAMILY Campanulaceae
-=======
-Status: ???
-According to: ???

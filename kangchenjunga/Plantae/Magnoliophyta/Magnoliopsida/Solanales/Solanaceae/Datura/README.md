@@ -1,4 +1,0 @@
-GENUS Datura
-=======
-Status: ???
-According to: ???

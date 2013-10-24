@@ -1,4 +1,0 @@
-GENUS Acorus
-=======
-Status: ???
-According to: ???

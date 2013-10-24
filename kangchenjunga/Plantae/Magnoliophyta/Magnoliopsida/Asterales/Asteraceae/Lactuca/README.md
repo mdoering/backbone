@@ -1,4 +1,0 @@
-GENUS Lactuca
-=======
-Status: ???
-According to: ???

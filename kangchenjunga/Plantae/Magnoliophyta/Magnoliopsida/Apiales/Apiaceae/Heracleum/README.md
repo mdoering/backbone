@@ -1,4 +1,0 @@
-GENUS Heracleum
-=======
-Status: ???
-According to: ???

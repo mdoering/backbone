@@ -1,4 +1,0 @@
-GENUS Lindera
-=======
-Status: ???
-According to: ???

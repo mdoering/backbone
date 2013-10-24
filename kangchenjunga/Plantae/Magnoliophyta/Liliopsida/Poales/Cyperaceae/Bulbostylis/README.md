@@ -1,4 +1,0 @@
-GENUS Bulbostylis
-=======
-Status: ???
-According to: ???

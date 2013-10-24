@@ -1,4 +1,0 @@
-GENUS Tsuga
-=======
-Status: ???
-According to: ???

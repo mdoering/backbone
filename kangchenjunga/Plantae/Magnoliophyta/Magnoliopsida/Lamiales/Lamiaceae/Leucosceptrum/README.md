@@ -1,4 +1,0 @@
-GENUS Leucosceptrum
-=======
-Status: ???
-According to: ???

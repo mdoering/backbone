@@ -1,4 +1,0 @@
-GENUS Cyrtococcum
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-FAMILY Zingiberaceae
-=======
-Status: ???
-According to: ???

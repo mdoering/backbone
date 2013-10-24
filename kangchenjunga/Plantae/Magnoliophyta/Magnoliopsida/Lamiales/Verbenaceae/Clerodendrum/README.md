@@ -1,4 +1,0 @@
-GENUS Clerodendrum
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Artocarpus
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Cirsium
-=======
-Status: ???
-According to: ???

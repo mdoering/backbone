@@ -1,4 +1,0 @@
-GENUS Pogostemon
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Conyza
-=======
-Status: ???
-According to: ???

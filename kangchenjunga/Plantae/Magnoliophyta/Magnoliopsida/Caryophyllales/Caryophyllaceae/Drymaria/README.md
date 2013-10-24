@@ -1,4 +1,0 @@
-GENUS Drymaria
-=======
-Status: ???
-According to: ???

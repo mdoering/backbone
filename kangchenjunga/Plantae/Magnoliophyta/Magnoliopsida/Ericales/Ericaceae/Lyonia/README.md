@@ -1,4 +1,0 @@
-GENUS Lyonia
-=======
-Status: ???
-According to: ???

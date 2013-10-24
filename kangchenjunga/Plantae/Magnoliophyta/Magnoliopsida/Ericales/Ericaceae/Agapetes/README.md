@@ -1,4 +1,0 @@
-GENUS Agapetes
-=======
-Status: ???
-According to: ???

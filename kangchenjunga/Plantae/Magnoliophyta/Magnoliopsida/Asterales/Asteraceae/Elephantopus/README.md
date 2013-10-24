@@ -1,4 +1,0 @@
-GENUS Elephantopus
-=======
-Status: ???
-According to: ???

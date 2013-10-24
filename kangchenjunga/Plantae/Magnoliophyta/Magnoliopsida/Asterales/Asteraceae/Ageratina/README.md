@@ -1,4 +1,0 @@
-GENUS Ageratina
-=======
-Status: ???
-According to: ???

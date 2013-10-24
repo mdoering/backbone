@@ -1,4 +1,0 @@
-FAMILY Acanthaceae
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Cassia
-=======
-Status: ???
-According to: ???

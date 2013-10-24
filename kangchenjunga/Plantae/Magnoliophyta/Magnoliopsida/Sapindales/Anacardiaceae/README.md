@@ -1,4 +1,0 @@
-FAMILY Anacardiaceae
-=======
-Status: ???
-According to: ???

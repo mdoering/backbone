@@ -1,4 +1,0 @@
-GENUS Pinus
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Macaranga
-=======
-Status: ???
-According to: ???

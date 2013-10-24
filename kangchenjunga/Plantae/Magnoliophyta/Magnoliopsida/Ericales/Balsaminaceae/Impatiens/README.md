@@ -1,4 +1,0 @@
-GENUS Impatiens
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Hydrangea
-=======
-Status: ???
-According to: ???

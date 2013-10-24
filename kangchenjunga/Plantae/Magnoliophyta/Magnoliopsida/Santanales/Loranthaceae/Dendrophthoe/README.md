@@ -1,4 +1,0 @@
-GENUS Dendrophthoe
-=======
-Status: ???
-According to: ???

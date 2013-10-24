@@ -1,4 +1,0 @@
-GENUS Magnolia
-=======
-Status: ???
-According to: ???

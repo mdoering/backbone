@@ -1,4 +1,0 @@
-GENUS Spilanthes
-=======
-Status: ???
-According to: ???

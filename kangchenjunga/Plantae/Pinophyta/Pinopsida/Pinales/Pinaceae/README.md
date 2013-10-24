@@ -1,4 +1,0 @@
-FAMILY Pinaceae
-=======
-Status: ???
-According to: ???

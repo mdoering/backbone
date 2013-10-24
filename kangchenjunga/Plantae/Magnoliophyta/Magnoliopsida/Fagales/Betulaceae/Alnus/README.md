@@ -1,4 +1,0 @@
-GENUS Alnus
-=======
-Status: ???
-According to: ???

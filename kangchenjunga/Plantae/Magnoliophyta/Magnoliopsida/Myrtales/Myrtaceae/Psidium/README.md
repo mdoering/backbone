@@ -1,4 +1,0 @@
-GENUS Psidium
-=======
-Status: ???
-According to: ???

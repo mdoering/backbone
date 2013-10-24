@@ -1,4 +1,0 @@
-PHYLUM Magnoliophyta
-=======
-Status: ???
-According to: ???

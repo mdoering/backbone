@@ -1,4 +1,0 @@
-GENUS Anaphalis
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Eleuthercoccus
-=======
-Status: ???
-According to: ???

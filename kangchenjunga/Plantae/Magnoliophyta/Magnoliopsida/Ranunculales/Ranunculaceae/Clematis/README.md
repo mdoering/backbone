@@ -1,4 +1,0 @@
-GENUS Clematis
-=======
-Status: ???
-According to: ???

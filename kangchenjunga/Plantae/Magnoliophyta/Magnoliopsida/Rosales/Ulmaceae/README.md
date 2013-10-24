@@ -1,4 +1,0 @@
-FAMILY Ulmaceae
-=======
-Status: ???
-According to: ???

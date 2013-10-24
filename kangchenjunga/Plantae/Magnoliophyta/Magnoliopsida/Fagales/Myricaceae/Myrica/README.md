@@ -1,4 +1,0 @@
-GENUS Myrica
-=======
-Status: ???
-According to: ???

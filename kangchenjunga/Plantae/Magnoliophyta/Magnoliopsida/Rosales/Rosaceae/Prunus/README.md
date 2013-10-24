@@ -1,4 +1,0 @@
-GENUS Prunus
-=======
-Status: ???
-According to: ???

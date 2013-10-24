@@ -1,4 +1,0 @@
-GENUS Hemiphragma
-=======
-Status: ???
-According to: ???

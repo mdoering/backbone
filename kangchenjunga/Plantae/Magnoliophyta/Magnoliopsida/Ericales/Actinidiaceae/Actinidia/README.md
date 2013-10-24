@@ -1,4 +1,0 @@
-GENUS Actinidia
-=======
-Status: ???
-According to: ???

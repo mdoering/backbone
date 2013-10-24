@@ -1,4 +1,0 @@
-GENUS Tupistra
-=======
-Status: ???
-According to: ???

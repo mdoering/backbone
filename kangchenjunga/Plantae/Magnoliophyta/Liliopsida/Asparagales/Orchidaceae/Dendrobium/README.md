@@ -1,4 +1,0 @@
-GENUS Dendrobium
-=======
-Status: ???
-According to: ???

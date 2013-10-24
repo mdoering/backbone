@@ -1,4 +1,0 @@
-FAMILY Oleaceae
-=======
-Status: ???
-According to: ???

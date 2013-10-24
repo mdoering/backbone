@@ -1,4 +1,0 @@
-GENUS Artemisia
-=======
-Status: ???
-According to: ???

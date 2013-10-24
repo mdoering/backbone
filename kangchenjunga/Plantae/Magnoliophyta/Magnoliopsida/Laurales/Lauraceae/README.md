@@ -1,4 +1,0 @@
-FAMILY Lauraceae
-=======
-Status: ???
-According to: ???

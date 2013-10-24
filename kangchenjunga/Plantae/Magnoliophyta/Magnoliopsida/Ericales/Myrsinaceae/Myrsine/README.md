@@ -1,4 +1,0 @@
-GENUS Myrsine
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Mucurna
-=======
-Status: ???
-According to: ???

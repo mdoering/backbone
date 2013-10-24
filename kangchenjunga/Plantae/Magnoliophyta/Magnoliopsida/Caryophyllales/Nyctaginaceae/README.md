@@ -1,4 +1,0 @@
-FAMILY Nyctaginaceae
-=======
-Status: ???
-According to: ???

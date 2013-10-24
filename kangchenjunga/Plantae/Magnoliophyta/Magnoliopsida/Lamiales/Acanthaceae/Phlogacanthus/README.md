@@ -1,4 +1,0 @@
-GENUS Phlogacanthus
-=======
-Status: ???
-According to: ???

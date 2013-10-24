@@ -1,4 +1,0 @@
-GENUS Mahonia
-=======
-Status: ???
-According to: ???

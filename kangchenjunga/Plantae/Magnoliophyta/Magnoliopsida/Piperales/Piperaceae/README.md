@@ -1,4 +1,0 @@
-FAMILY Piperaceae
-=======
-Status: ???
-According to: ???

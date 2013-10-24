@@ -1,4 +1,0 @@
-GENUS Sarcopyramis
-=======
-Status: ???
-According to: ???

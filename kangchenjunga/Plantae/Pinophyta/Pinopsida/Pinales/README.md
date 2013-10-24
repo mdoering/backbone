@@ -1,4 +1,0 @@
-ORDER Pinales
-=======
-Status: ???
-According to: ???

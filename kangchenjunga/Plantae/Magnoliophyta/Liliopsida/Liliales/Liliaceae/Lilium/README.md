@@ -1,4 +1,0 @@
-GENUS Lilium
-=======
-Status: ???
-According to: ???

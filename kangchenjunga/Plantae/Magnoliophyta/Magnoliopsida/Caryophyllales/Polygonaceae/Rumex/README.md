@@ -1,4 +1,0 @@
-GENUS Rumex
-=======
-Status: ???
-According to: ???

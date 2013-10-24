@@ -1,4 +1,0 @@
-GENUS Rhododendron
-=======
-Status: ???
-According to: ???

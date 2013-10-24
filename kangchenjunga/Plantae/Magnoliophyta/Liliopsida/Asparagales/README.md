@@ -1,4 +1,0 @@
-ORDER Asparagales
-=======
-Status: ???
-According to: ???

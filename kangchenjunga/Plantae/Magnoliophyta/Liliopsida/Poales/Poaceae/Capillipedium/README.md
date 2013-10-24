@@ -1,4 +1,0 @@
-GENUS Capillipedium
-=======
-Status: ???
-According to: ???

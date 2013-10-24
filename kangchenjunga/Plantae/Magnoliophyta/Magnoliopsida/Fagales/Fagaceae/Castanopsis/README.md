@@ -1,4 +1,0 @@
-GENUS Castanopsis
-=======
-Status: ???
-According to: ???

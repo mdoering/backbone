@@ -1,4 +1,0 @@
-GENUS Tagetes
-=======
-Status: ???
-According to: ???

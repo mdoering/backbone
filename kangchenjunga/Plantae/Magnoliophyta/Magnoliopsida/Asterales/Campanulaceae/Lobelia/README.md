@@ -1,4 +1,0 @@
-GENUS Lobelia
-=======
-Status: ???
-According to: ???

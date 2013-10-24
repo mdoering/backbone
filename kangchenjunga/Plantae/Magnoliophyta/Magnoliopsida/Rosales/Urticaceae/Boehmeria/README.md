@@ -1,4 +1,0 @@
-GENUS Boehmeria
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Rubus
-=======
-Status: ???
-According to: ???

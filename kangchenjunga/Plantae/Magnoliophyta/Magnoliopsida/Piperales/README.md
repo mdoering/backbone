@@ -1,4 +1,0 @@
-ORDER Piperales
-=======
-Status: ???
-According to: ???

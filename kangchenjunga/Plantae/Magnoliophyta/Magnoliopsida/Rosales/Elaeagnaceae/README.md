@@ -1,4 +1,0 @@
-FAMILY Elaeagnaceae
-=======
-Status: ???
-According to: ???

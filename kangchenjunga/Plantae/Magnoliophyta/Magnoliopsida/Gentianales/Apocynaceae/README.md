@@ -1,4 +1,0 @@
-FAMILY Apocynaceae
-=======
-Status: ???
-According to: ???

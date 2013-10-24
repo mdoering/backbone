@@ -1,4 +1,0 @@
-FAMILY Begoniaceae
-=======
-Status: ???
-According to: ???

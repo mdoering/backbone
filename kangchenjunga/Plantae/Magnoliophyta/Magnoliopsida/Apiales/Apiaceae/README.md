@@ -1,4 +1,0 @@
-FAMILY Apiaceae
-=======
-Status: ???
-According to: ???

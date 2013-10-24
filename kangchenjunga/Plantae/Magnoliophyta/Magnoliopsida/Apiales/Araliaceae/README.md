@@ -1,4 +1,0 @@
-FAMILY Araliaceae
-=======
-Status: ???
-According to: ???

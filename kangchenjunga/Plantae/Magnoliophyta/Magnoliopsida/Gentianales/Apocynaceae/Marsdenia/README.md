@@ -1,4 +1,0 @@
-GENUS Marsdenia
-=======
-Status: ???
-According to: ???

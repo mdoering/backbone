@@ -1,4 +1,0 @@
-GENUS Persicaria
-=======
-Status: ???
-According to: ???

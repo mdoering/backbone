@@ -1,4 +1,0 @@
-GENUS Leptodermis
-=======
-Status: ???
-According to: ???

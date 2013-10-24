@@ -1,4 +1,0 @@
-GENUS Clinopodium
-=======
-Status: ???
-According to: ???

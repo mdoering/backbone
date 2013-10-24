@@ -1,4 +1,0 @@
-GENUS Calotropis
-=======
-Status: ???
-According to: ???

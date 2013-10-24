@@ -1,4 +1,0 @@
-FAMILY Rhamnaceae
-=======
-Status: ???
-According to: ???

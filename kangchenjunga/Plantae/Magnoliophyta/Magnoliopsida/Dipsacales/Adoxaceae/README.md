@@ -1,4 +1,0 @@
-FAMILY Adoxaceae
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Vandopsis
-=======
-Status: ???
-According to: ???

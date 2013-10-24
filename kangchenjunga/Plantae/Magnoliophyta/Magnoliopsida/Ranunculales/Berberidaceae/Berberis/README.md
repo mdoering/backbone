@@ -1,4 +1,0 @@
-GENUS Berberis
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Osbeckia
-=======
-Status: ???
-According to: ???

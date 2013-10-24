@@ -1,4 +1,0 @@
-GENUS Erianthus
-=======
-Status: ???
-According to: ???

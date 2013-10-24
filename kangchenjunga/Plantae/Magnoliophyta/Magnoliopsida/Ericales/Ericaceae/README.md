@@ -1,4 +1,0 @@
-FAMILY Ericaceae
-=======
-Status: ???
-According to: ???

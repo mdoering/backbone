@@ -1,4 +1,0 @@
-GENUS Acer
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Scurrula
-=======
-Status: ???
-According to: ???

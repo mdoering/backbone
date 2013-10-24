@@ -1,4 +1,0 @@
-GENUS Lithocarpus
-=======
-Status: ???
-According to: ???

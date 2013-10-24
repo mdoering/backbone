@@ -1,4 +1,0 @@
-FAMILY Violaceae
-=======
-Status: ???
-According to: ???

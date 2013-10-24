@@ -1,4 +1,0 @@
-GENUS Eulophia
-=======
-Status: ???
-According to: ???

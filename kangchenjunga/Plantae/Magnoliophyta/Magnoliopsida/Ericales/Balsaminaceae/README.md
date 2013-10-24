@@ -1,4 +1,0 @@
-FAMILY Balsaminaceae
-=======
-Status: ???
-According to: ???

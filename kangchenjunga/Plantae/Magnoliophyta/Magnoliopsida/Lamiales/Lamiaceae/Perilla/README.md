@@ -1,4 +1,0 @@
-GENUS Perilla
-=======
-Status: ???
-According to: ???

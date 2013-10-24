@@ -1,4 +1,0 @@
-GENUS Ilex
-=======
-Status: ???
-According to: ???

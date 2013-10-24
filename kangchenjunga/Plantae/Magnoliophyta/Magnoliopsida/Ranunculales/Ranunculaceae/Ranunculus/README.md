@@ -1,4 +1,0 @@
-GENUS Ranunculus
-=======
-Status: ???
-According to: ???

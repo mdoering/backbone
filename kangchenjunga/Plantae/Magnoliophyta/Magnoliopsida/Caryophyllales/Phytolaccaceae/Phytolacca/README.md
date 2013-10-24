@@ -1,4 +1,0 @@
-GENUS Phytolacca
-=======
-Status: ???
-According to: ???

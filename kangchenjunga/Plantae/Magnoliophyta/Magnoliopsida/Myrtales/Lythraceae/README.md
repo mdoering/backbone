@@ -1,4 +1,0 @@
-FAMILY Lythraceae
-=======
-Status: ???
-According to: ???

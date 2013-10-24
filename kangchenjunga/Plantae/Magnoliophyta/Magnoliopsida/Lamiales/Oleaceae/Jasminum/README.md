@@ -1,4 +1,0 @@
-GENUS Jasminum
-=======
-Status: ???
-According to: ???

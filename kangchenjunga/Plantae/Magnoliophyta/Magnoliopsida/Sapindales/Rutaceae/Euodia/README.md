@@ -1,4 +1,0 @@
-GENUS Euodia
-=======
-Status: ???
-According to: ???

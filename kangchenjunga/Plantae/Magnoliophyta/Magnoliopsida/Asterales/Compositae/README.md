@@ -1,4 +1,0 @@
-FAMILY Compositae
-=======
-Status: ???
-According to: ???

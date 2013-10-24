@@ -1,4 +1,0 @@
-GENUS Saussurea
-=======
-Status: ???
-According to: ???

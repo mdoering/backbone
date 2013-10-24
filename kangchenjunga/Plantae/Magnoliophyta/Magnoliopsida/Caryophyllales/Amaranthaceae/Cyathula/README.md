@@ -1,4 +1,0 @@
-GENUS Cyathula
-=======
-Status: ???
-According to: ???

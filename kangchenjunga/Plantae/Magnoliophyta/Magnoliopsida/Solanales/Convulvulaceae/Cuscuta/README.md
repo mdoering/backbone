@@ -1,4 +1,0 @@
-GENUS Cuscuta
-=======
-Status: ???
-According to: ???

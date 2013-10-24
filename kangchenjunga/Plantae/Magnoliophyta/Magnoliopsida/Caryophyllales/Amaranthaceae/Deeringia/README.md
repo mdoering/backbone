@@ -1,4 +1,0 @@
-GENUS Deeringia
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-FAMILY Urticaceae
-=======
-Status: ???
-According to: ???

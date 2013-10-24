@@ -1,4 +1,0 @@
-FAMILY Solanaceae
-=======
-Status: ???
-According to: ???

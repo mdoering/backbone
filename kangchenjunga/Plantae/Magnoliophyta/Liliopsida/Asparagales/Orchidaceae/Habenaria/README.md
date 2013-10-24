@@ -1,4 +1,0 @@
-GENUS Habenaria
-=======
-Status: ???
-According to: ???

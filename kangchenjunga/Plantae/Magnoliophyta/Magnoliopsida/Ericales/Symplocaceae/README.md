@@ -1,4 +1,0 @@
-FAMILY Symplocaceae
-=======
-Status: ???
-According to: ???

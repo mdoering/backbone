@@ -1,4 +1,0 @@
-GENUS Galinsoga
-=======
-Status: ???
-According to: ???

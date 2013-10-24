@@ -1,4 +1,0 @@
-GENUS Gaultheria
-=======
-Status: ???
-According to: ???

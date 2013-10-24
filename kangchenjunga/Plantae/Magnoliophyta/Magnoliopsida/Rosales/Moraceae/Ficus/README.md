@@ -1,4 +1,0 @@
-GENUS Ficus
-=======
-Status: ???
-According to: ???

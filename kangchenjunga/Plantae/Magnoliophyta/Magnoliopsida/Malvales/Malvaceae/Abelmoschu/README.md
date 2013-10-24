@@ -1,4 +1,0 @@
-GENUS Abelmoschu
-=======
-Status: ???
-According to: ???

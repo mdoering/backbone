@@ -1,4 +1,0 @@
-FAMILY Taxaceae
-=======
-Status: ???
-According to: ???

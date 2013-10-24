@@ -1,4 +1,0 @@
-FAMILY Orchidaceae
-=======
-Status: ???
-According to: ???

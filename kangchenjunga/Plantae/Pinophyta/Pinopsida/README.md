@@ -1,4 +1,0 @@
-CLASS Pinopsida
-=======
-Status: ???
-According to: ???

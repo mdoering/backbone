@@ -1,4 +1,0 @@
-FAMILY Betulaceae
-=======
-Status: ???
-According to: ???

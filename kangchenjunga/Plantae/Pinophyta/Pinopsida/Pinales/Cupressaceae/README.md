@@ -1,4 +1,0 @@
-FAMILY Cupressaceae
-=======
-Status: ???
-According to: ???

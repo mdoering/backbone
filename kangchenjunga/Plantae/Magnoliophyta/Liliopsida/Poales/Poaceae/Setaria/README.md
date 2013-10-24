@@ -1,4 +1,0 @@
-GENUS Setaria
-=======
-Status: ???
-According to: ???

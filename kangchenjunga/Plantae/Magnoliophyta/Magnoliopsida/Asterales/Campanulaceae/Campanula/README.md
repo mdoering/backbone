@@ -1,4 +1,0 @@
-GENUS Campanula
-=======
-Status: ???
-According to: ???

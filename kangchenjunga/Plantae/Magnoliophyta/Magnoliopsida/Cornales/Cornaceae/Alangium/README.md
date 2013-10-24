@@ -1,4 +1,0 @@
-GENUS Alangium
-=======
-Status: ???
-According to: ???

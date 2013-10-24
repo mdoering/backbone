@@ -1,4 +1,0 @@
-GENUS Erigeron
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Edgaria
-=======
-Status: ???
-According to: ???

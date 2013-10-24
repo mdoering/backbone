@@ -1,4 +1,0 @@
-FAMILY Anthericaceae
-=======
-Status: ???
-According to: ???

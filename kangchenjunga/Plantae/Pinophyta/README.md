@@ -1,4 +1,0 @@
-PHYLUM Pinophyta
-=======
-Status: ???
-According to: ???

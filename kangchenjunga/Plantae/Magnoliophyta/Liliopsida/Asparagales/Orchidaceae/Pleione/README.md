@@ -1,4 +1,0 @@
-GENUS Pleione
-=======
-Status: ???
-According to: ???

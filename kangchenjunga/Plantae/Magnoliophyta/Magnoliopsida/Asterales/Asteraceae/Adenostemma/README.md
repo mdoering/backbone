@@ -1,4 +1,0 @@
-GENUS Adenostemma
-=======
-Status: ???
-According to: ???

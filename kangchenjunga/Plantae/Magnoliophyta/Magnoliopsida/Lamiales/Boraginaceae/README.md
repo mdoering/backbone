@@ -1,4 +1,0 @@
-FAMILY Boraginaceae
-=======
-Status: ???
-According to: ???

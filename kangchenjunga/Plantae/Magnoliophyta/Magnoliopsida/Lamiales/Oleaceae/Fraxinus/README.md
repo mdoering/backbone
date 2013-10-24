@@ -1,4 +1,0 @@
-GENUS Fraxinus
-=======
-Status: ???
-According to: ???

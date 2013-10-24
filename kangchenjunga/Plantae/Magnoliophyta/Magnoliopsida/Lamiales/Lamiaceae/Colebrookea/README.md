@@ -1,4 +1,0 @@
-GENUS Colebrookea
-=======
-Status: ???
-According to: ???

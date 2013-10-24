@@ -1,4 +1,0 @@
-GENUS Terminalia
-=======
-Status: ???
-According to: ???

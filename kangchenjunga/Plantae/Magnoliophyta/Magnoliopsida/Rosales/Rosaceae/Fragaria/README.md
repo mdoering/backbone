@@ -1,4 +1,0 @@
-GENUS Fragaria
-=======
-Status: ???
-According to: ???

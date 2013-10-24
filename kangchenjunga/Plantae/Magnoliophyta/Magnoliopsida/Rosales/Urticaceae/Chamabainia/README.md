@@ -1,4 +1,0 @@
-GENUS Chamabainia
-=======
-Status: ???
-According to: ???

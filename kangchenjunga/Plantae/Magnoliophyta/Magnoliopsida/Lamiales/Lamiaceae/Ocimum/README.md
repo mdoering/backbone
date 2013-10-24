@@ -1,4 +1,0 @@
-GENUS Ocimum
-=======
-Status: ???
-According to: ???

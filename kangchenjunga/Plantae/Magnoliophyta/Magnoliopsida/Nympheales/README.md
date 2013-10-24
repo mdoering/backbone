@@ -1,4 +1,0 @@
-ORDER Nympheales
-=======
-Status: ???
-According to: ???

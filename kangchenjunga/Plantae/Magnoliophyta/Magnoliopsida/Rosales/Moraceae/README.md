@@ -1,4 +1,0 @@
-FAMILY Moraceae
-=======
-Status: ???
-According to: ???

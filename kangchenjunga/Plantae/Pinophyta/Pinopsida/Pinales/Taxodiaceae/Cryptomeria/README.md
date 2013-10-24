@@ -1,4 +1,0 @@
-GENUS Cryptomeria
-=======
-Status: ???
-According to: ???

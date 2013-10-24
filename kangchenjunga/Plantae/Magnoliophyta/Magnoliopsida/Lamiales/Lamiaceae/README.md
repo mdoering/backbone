@@ -1,4 +1,0 @@
-FAMILY Lamiaceae
-=======
-Status: ???
-According to: ???

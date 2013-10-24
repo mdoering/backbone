@@ -1,4 +1,0 @@
-ORDER Ericales
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Myriactis
-=======
-Status: ???
-According to: ???

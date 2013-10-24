@@ -1,4 +1,0 @@
-GENUS Aralia
-=======
-Status: ???
-According to: ???

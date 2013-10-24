@@ -1,4 +1,0 @@
-GENUS Reinwardtia
-=======
-Status: ???
-According to: ???

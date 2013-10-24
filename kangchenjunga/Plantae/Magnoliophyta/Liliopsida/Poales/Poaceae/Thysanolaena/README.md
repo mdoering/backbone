@@ -1,4 +1,0 @@
-GENUS Thysanolaena
-=======
-Status: ???
-According to: ???

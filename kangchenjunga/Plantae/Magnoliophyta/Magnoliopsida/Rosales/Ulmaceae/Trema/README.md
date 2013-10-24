@@ -1,4 +1,0 @@
-GENUS Trema
-=======
-Status: ???
-According to: ???

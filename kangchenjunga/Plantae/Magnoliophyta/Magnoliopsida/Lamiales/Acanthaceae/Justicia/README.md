@@ -1,4 +1,0 @@
-GENUS Justicia
-=======
-Status: ???
-According to: ???

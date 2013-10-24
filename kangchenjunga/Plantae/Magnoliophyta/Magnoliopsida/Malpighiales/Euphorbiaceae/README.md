@@ -1,4 +1,0 @@
-FAMILY Euphorbiaceae
-=======
-Status: ???
-According to: ???

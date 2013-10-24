@@ -1,4 +1,0 @@
-GENUS Coelogyne
-=======
-Status: ???
-According to: ???

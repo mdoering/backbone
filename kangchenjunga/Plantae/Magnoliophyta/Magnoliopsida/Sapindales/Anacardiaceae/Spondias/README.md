@@ -1,4 +1,0 @@
-GENUS Spondias
-=======
-Status: ???
-According to: ???

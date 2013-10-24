@@ -1,4 +1,0 @@
-GENUS Codonopsis
-=======
-Status: ???
-According to: ???

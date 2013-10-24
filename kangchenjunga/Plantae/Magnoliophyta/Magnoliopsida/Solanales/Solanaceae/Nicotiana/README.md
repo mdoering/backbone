@@ -1,4 +1,0 @@
-GENUS Nicotiana
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Daphniphyllum
-=======
-Status: ???
-According to: ???

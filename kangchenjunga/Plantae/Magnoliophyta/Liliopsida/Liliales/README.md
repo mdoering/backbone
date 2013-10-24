@@ -1,4 +1,0 @@
-ORDER Liliales
-=======
-Status: ???
-According to: ???

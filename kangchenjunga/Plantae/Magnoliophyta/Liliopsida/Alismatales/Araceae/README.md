@@ -1,4 +1,0 @@
-FAMILY Araceae
-=======
-Status: ???
-According to: ???

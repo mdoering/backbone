@@ -1,4 +1,0 @@
-ORDER Malvales
-=======
-Status: ???
-According to: ???

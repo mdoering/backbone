@@ -1,4 +1,0 @@
-GENUS Achyranthes
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-ORDER Rosales
-=======
-Status: ???
-According to: ???

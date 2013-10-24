@@ -1,4 +1,0 @@
-FAMILY Celastraceae
-=======
-Status: ???
-According to: ???

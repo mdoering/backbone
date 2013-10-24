@@ -1,4 +1,0 @@
-GENUS Bombax
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Imperata
-=======
-Status: ???
-According to: ???

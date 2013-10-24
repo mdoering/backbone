@@ -1,4 +1,0 @@
-FAMILY Combretaceae
-=======
-Status: ???
-According to: ???

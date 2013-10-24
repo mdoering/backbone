@@ -1,4 +1,0 @@
-GENUS Piper
-=======
-Status: ???
-According to: ???

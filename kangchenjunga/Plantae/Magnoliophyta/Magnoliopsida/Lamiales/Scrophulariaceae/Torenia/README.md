@@ -1,4 +1,0 @@
-GENUS Torenia
-=======
-Status: ???
-According to: ???

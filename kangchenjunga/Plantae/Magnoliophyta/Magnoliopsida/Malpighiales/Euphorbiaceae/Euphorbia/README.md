@@ -1,4 +1,0 @@
-GENUS Euphorbia
-=======
-Status: ???
-According to: ???

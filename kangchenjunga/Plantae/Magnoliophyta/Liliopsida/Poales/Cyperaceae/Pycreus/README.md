@@ -1,4 +1,0 @@
-GENUS Pycreus
-=======
-Status: ???
-According to: ???

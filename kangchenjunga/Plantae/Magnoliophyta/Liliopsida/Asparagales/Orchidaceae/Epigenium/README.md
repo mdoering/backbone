@@ -1,4 +1,0 @@
-GENUS Epigenium
-=======
-Status: ???
-According to: ???

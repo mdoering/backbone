@@ -1,4 +1,0 @@
-GENUS Vitex
-=======
-Status: ???
-According to: ???

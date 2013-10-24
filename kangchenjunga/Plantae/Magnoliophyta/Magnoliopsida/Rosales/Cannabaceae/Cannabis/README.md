@@ -1,4 +1,0 @@
-GENUS Cannabis
-=======
-Status: ???
-According to: ???

@@ -1,4 +1,0 @@
-GENUS Arisaema
-=======
-Status: ???
-According to: ???
