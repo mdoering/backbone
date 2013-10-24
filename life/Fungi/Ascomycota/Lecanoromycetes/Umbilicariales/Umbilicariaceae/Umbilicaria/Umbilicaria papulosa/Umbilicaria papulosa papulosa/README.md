@@ -1,0 +1,16 @@
+# Umbilicaria papulosa f. papulosa (Ach.) Nyl. FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 107 (1857)
+
+#### Original name
+Umbilicaria papulosa f. papulosa (Ach.) Nyl.
+
+### Remarks
+null

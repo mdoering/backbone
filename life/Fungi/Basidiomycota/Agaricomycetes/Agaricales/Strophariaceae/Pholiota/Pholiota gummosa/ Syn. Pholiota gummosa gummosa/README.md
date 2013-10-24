@@ -1,0 +1,16 @@
+# Pholiota gummosa f. gummosa (Lasch) Singer, 1951 FORM
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Lilloa 22: 517 (1951)
+
+#### Original name
+Agaricus gummosus Lasch, 1828
+
+### Remarks
+null

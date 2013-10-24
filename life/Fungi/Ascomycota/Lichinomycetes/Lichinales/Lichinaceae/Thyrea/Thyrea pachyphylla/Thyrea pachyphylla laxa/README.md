@@ -1,0 +1,16 @@
+# Thyrea pachyphylla var. laxa (Müll. Arg.) Henssen VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+in Henssen & Jørgensen, Lichenologist 22(2): 146 (1990)
+
+#### Original name
+Omphalaria pulvinata var. laxa Müll. Arg.
+
+### Remarks
+null

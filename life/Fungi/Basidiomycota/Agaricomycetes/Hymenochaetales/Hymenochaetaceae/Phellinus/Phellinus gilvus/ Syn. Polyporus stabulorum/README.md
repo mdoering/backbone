@@ -1,0 +1,16 @@
+# Polyporus stabulorum (Pat.) Lloyd, 1915 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Mycol. Writ. 4 (Syn. Apus) 348 (1915)
+
+#### Original name
+Phellinus stabulorum Pat., 1907
+
+### Remarks
+null

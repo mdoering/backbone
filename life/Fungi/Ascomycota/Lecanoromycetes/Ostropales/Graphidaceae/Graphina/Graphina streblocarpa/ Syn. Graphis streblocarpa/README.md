@@ -1,0 +1,16 @@
+# Graphis streblocarpa (Bél.) Nyl. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Opegrapha streblocarpa Bél.
+
+### Remarks
+null

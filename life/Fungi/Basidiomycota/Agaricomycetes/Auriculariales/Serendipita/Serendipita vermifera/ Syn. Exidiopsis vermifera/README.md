@@ -1,0 +1,16 @@
+# Exidiopsis vermifera (Oberw.) Wojewoda, 1977 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Flora Polska, Grzyby (Mycota) 8: 100 (1977)
+
+#### Original name
+Sebacina vermifera Oberw., 1964
+
+### Remarks
+null

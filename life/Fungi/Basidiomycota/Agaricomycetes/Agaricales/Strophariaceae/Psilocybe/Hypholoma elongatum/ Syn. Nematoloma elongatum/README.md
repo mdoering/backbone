@@ -1,0 +1,16 @@
+# Nematoloma elongatum (Pers.) Konrad SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Agaricus elongatus Pers., 1798
+
+### Remarks
+null

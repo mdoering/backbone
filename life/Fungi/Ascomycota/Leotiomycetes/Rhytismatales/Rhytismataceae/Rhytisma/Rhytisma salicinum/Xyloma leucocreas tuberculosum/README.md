@@ -1,0 +1,16 @@
+# Xyloma leucocreas var. tuberculosum DC. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 6: 154 (1815)
+
+#### Original name
+Xyloma leucocreas var. tuberculosum DC.
+
+### Remarks
+null

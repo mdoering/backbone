@@ -1,0 +1,16 @@
+# Roesleria coniophaea (Norman) H. Magn. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Coniocybe coniophaea Norman
+
+### Remarks
+null

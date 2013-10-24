@@ -1,0 +1,16 @@
+# Conida pelvetii (Hepp) Arnaud SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Celidium pelvetii Hepp
+
+### Remarks
+null

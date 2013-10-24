@@ -1,0 +1,16 @@
+# Fuscoporia ferrea (Pers.) G. Cunn., 1948 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 73: 7 (1948)
+
+#### Original name
+Polyporus ferreus Pers., 1825
+
+### Remarks
+null

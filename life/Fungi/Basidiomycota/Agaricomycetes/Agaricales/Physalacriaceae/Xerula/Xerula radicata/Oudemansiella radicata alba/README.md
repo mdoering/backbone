@@ -1,0 +1,16 @@
+# Oudemansiella radicata var. alba (Dörfelt) Pegler & T.W.K. Young VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Trans. Br. mycol. Soc. 87(4): 596 (1987)
+
+#### Original name
+Xerula radicata var. alba Dörfelt
+
+### Remarks
+null

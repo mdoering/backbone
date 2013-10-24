@@ -1,0 +1,16 @@
+# Wardomycetaceae Locq. FAMILY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mycol. gén. struct. (Paris) 205 (1984)
+
+#### Original name
+Wardomycetaceae Locq.
+
+### Remarks
+null

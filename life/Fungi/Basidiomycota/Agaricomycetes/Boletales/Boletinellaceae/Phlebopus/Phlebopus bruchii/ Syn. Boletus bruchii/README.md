@@ -1,0 +1,16 @@
+# Boletus bruchii Speg., 1926 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Boletín de la Soc. Ciencias de Córdoba 28: 351 (1926)
+
+#### Original name
+Boletus bruchii Speg., 1926
+
+### Remarks
+null

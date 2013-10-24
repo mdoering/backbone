@@ -1,0 +1,16 @@
+# Cladonia furcata subsp. diffusa Stirt. SUBSPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cladonia furcata subsp. diffusa Stirt.
+
+### Remarks
+null

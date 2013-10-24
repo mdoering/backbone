@@ -1,0 +1,16 @@
+# Hypoxylon cubense Mont., 1840 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Annls Sci. Nat. , Bot. , sér. 2 13: 345 (1840)
+
+#### Original name
+Hypoxylon cubense Mont., 1840
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Elvela punctata Schaeff. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Elvela punctata Schaeff.
+
+### Remarks
+null

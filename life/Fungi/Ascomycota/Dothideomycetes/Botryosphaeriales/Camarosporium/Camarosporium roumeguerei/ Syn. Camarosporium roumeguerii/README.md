@@ -1,0 +1,16 @@
+# Camarosporium roumeguerii Sacc. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Camarosporium roumeguerii Sacc.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Calicium inquinans (Sm.) Schaer. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lichen inquinans Sm.
+
+### Remarks
+null

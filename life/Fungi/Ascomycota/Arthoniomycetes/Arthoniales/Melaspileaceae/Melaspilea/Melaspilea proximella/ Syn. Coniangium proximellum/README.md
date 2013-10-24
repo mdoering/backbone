@@ -1,0 +1,16 @@
+# Coniangium proximellum (Nyl.) Hellb. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Arthonia proximella Nyl.
+
+### Remarks
+null

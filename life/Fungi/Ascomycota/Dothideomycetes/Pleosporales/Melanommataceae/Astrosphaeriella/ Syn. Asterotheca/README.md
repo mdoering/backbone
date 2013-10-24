@@ -1,0 +1,16 @@
+# Asterotheca I. Hino GENUS
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+Bulletin Miyazaki Coll. Agric. Forest. 10: 57 (1938)
+
+#### Original name
+Asterotheca I. Hino
+
+### Remarks
+null

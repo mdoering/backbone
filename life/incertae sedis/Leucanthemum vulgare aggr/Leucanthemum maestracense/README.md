@@ -1,0 +1,16 @@
+# Leucanthemum maestracense Vogt & F. H. Hellw. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

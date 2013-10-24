@@ -1,0 +1,16 @@
+# Nectria cinnabarina var. oligocarpa Feltgen VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Nectria cinnabarina var. oligocarpa Feltgen
+
+### Remarks
+null

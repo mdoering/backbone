@@ -1,0 +1,16 @@
+# Microcollybia tuberosa (Bull.) Lennox, 1979 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Mycotaxon 9(1): 196 (1979)
+
+#### Original name
+Agaricus tuberosus Oeder, 1790
+
+### Remarks
+null

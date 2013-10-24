@@ -1,0 +1,16 @@
+# Zignoëlla corticola (Fuckel) Sacc., 1878 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Michelia 1(no. 3): 346 (1878)
+
+#### Original name
+Trematosphaeria corticola Fuckel, 1870
+
+### Remarks
+null

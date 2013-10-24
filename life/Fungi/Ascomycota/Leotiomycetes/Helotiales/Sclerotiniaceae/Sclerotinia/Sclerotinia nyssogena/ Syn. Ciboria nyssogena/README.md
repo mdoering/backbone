@@ -1,0 +1,16 @@
+# Ciboria nyssogena (Ellis) Sacc., 1889 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Syll. fung. (Abellini) 8: 207 (1889)
+
+#### Original name
+Helotium nyssogenum Ellis, 1881
+
+### Remarks
+null

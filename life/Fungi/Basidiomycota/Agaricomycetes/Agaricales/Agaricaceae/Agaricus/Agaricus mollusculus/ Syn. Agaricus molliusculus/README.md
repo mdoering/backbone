@@ -1,0 +1,16 @@
+# Agaricus molliusculus Sowerby SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Agaricus molliusculus Sowerby
+
+### Remarks
+null

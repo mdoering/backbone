@@ -1,0 +1,16 @@
+# Pyrenocollema strontianensis (Swinscow) R.C. Harris SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Verrucaria strontianensis Swinscow
+
+### Remarks
+null

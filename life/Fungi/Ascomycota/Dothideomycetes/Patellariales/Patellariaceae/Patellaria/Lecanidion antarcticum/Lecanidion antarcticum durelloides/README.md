@@ -1,0 +1,16 @@
+# Lecanidion antarcticum var. durelloides Speg. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Revta Fac. Agron. Vet. Univ. nac. La Plata 6(1): 132 (1910)
+
+#### Original name
+Lecanidion antarcticum var. durelloides Speg.
+
+### Remarks
+null

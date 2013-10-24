@@ -1,0 +1,16 @@
+# Phytoconis lobata (Redhead & Kuyper) Redhead & Kuyper, 1988 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Mycotaxon 31(1): 222 (1988)
+
+#### Original name
+Botrydina lobata Redhead & Kuyper, 1987
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Buellia protothallina var. protothallina VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Buellia protothallina var. protothallina
+
+### Remarks
+null

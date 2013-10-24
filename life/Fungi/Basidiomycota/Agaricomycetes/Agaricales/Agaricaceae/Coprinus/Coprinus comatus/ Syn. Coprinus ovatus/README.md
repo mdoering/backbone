@@ -1,0 +1,16 @@
+# Coprinus ovatus (Schaeff.) Fr., 1838 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Epicr. syst. mycol. (Upsaliae) 242 (1838)
+
+#### Original name
+Agaricus ovatus Schaeff., 1762
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Phlegmacium herpeticum var. fageticola M.M. Moser, 1960 VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Gatt. Phlegm. 358 (1960)
+
+#### Original name
+Phlegmacium herpeticum var. fageticola M.M. Moser, 1960
+
+### Remarks
+null

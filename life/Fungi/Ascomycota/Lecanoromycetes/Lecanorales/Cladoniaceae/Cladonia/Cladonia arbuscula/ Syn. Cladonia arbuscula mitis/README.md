@@ -1,0 +1,16 @@
+# Cladonia arbuscula var. mitis (Sandst.) Sipman VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cladonia mitis Sandst.
+
+### Remarks
+null

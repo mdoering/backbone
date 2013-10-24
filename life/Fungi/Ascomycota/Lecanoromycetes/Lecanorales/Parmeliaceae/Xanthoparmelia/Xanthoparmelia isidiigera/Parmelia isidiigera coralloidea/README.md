@@ -1,0 +1,16 @@
+# Parmelia isidiigera f. coralloidea (Hazsl.) Gyeln. FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Imbricaria conspersa f. coralloidea Hazsl.
+
+### Remarks
+null

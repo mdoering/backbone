@@ -1,0 +1,16 @@
+# Empusa apiculata var. major Thaxt., 1888 VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)
+
+#### Original name
+Empusa apiculata var. major Thaxt., 1888
+
+### Remarks
+null

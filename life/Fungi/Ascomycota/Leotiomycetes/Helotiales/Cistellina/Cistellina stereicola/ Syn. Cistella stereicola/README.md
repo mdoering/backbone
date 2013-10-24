@@ -1,0 +1,16 @@
+# Cistella stereicola (Cooke) Dennis, 1949 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Mycol. Pap. 32: 61 (1949)
+
+#### Original name
+Peziza stereicola Cooke
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Catillaria glomerella var. carbonicota (Vain.) Zahlbr. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Catillaria elachista var. carbonicola Vain.
+
+### Remarks
+null

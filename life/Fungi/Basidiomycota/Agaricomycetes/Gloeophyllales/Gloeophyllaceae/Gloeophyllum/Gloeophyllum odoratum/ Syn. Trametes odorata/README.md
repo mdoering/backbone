@@ -1,0 +1,16 @@
+# Trametes odorata (Wulfen) Fr., 1838 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Epicr. syst. mycol. (Upsaliae) 489 (1838)
+
+#### Original name
+Boletus odoratus Wulfen, 1788
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Cladotrichum nigrum (Link) Sacc., 1886 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Syll. fung. (Abellini) 4: 373 (1886)
+
+#### Original name
+Dactylium nigrum Link, 1824
+
+### Remarks
+null

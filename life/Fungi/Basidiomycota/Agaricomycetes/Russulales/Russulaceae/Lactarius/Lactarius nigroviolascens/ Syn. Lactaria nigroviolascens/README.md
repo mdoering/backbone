@@ -1,0 +1,16 @@
+# Lactaria nigroviolascens G.F. Atk. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lactaria nigroviolascens G.F. Atk.
+
+### Remarks
+null

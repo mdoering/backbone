@@ -1,0 +1,16 @@
+# Zygofabospora lodderae (Van der Walt & Tscheuschner) G.I. Naumov, 1987 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

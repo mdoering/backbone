@@ -1,0 +1,16 @@
+# Cladonia sparassa var. denticollis (Hoffm.) M. Choisy VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cladonia denticollis Hoffm.
+
+### Remarks
+null

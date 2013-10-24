@@ -1,0 +1,16 @@
+# Trametes tenuis var. micropora Corner VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Beih. Nova Hedwigia 97: 172 (1989)
+
+#### Original name
+Trametes tenuis var. micropora Corner
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Stegonsporium steganosporium Kalymb. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Stegonsporium steganosporium Kalymb.
+
+### Remarks
+null

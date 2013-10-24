@@ -1,0 +1,16 @@
+# Bolbitius callisteus (Peck) Watling SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Galera callista Peck
+
+### Remarks
+null

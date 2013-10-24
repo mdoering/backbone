@@ -1,0 +1,16 @@
+# Sphaeria nigrofactae Cooke SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Sphaeria nigrofactae Cooke
+
+### Remarks
+null

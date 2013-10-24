@@ -1,0 +1,16 @@
+# Erysiphe communis f. gei Jacz. FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Taschenbestimmb. f. Pilze 2, Erysiphaceen (1926)
+
+#### Original name
+Erysiphe communis f. gei Jacz.
+
+### Remarks
+null

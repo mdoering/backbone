@@ -1,0 +1,16 @@
+# Cantharellus lutescens f. schizocroica Cetto FORM
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cantharellus lutescens f. schizocroica Cetto
+
+### Remarks
+null

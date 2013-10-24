@@ -1,0 +1,16 @@
+# Megalocitosporides Wernicke GENUS
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Megalocitosporides Wernicke
+
+### Remarks
+null

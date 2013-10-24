@@ -1,0 +1,16 @@
+# Meliola citri (Briosi & Pass.) Sacc., 1882 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Apiosporium citri Briosi & Pass., 1882
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Parmelia saxatilis f. glomellifera Cromb. FORM
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Parmelia saxatilis f. glomellifera Cromb.
+
+### Remarks
+null

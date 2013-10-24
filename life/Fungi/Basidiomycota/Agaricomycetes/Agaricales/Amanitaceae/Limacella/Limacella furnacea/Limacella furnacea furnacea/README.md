@@ -1,0 +1,16 @@
+# Limacella furnacea f. furnacea (Letell.) E.-J. Gilbert FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Agaricus furnaceus Letell.
+
+### Remarks
+null

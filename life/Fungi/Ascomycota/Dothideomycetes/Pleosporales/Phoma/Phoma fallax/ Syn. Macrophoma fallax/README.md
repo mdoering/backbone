@@ -1,0 +1,16 @@
+# Macrophoma fallax (Berk.) Berl. & Voglino, 1886 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Phoma fallax Berk., 1855
+
+### Remarks
+null

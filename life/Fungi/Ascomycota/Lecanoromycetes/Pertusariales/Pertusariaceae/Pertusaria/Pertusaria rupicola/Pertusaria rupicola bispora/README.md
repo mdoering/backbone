@@ -1,0 +1,16 @@
+# Pertusaria rupicola var. bispora Werner VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pertusaria rupicola var. bispora Werner
+
+### Remarks
+null

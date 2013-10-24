@@ -1,0 +1,16 @@
+# Lecidea euphorea f. tabescens (Körb.) Vain. FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Biatora tabescens Körb.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Amauroderma avellaneum Murrill, 1908 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+N. Amer. Fl. (New York) 9(2): 116 (1908)
+
+#### Original name
+Amauroderma avellaneum Murrill, 1908
+
+### Remarks
+null

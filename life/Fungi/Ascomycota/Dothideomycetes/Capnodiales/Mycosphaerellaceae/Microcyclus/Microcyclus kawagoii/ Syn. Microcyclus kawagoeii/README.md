@@ -1,0 +1,16 @@
+# Microcyclus kawagoeii (Hara) M.E. Barr SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Polystomella kawagoii Hara
+
+### Remarks
+null

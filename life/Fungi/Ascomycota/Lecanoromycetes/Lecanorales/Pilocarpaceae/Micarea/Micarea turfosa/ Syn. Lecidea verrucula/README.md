@@ -1,0 +1,16 @@
+# Lecidea verrucula (Norman) Th. Fr. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Biatora turfosa var. verrucula Norman
+
+### Remarks
+null

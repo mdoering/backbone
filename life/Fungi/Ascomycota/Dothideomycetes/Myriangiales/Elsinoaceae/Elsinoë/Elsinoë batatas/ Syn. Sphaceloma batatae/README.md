@@ -1,0 +1,16 @@
+# Sphaceloma batatae Sawada SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Sphaceloma batatae Sawada
+
+### Remarks
+null

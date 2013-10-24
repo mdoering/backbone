@@ -1,0 +1,16 @@
+# Panellaceae Jülich FAMILY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Biblthca Mycol. 85: 382 (1982)
+
+#### Original name
+Panellaceae Jülich
+
+### Remarks
+null

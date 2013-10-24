@@ -1,0 +1,16 @@
+# Pseudocladosporium hachijoense (Matsush.) U. Braun, 1998 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 393 (1998)
+
+#### Original name
+Phaeoramularia hachijoensis Matsush., 1975
+
+### Remarks
+null

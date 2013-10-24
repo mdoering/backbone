@@ -1,0 +1,16 @@
+# Pyropolyporus extensus (Lév.) Murrill, 1908 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+N. Amer. Fl. (New York) 9(2): 110 (1908)
+
+#### Original name
+Polyporus extensus Lév., 1846
+
+### Remarks
+null

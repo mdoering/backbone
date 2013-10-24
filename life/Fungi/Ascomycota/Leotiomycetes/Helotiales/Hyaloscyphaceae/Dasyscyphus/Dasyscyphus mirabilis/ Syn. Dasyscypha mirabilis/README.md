@@ -1,0 +1,16 @@
+# Dasyscypha mirabilis Rehm SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Dasyscypha mirabilis Rehm
+
+### Remarks
+null

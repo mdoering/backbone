@@ -1,0 +1,16 @@
+# Caeoma pineum var. acicola Link VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(2): 66 (1825)
+
+#### Original name
+Caeoma pineum var. acicola Link
+
+### Remarks
+null

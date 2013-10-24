@@ -1,0 +1,16 @@
+# Clitocybe aggregata var. cinerescens (Bull.) Maire, 1933 VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Exassula Ehrenberg, 1872 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+Abh. Akad. Wiss. Berlin, 1871, 245.
+
+#### Original name
+null
+
+### Remarks
+null

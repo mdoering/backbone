@@ -1,0 +1,16 @@
+# Psathyrella corrugis f. substerilis Kits van Wav. FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Belgian Species List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

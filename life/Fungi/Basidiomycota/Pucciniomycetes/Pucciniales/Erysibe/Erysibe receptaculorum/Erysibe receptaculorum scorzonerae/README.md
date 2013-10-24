@@ -1,0 +1,16 @@
+# Erysibe receptaculorum var. scorzonerae Wallr. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Erysibe receptaculorum var. scorzonerae Wallr.
+
+### Remarks
+null

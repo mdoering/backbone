@@ -1,0 +1,16 @@
+# Macrophomina phaseoli var. indica VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Macrophomina phaseoli var. indica
+
+### Remarks
+null

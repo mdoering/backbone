@@ -1,0 +1,16 @@
+# Cintractia hyperborea (A. Blytt) Liro, 1935 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Ustilago hyperborea A. Blytt, 1896
+
+### Remarks
+null

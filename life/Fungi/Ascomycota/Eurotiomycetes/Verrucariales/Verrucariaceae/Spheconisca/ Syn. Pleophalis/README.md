@@ -1,0 +1,16 @@
+# Pleophalis Clem. GENUS
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+Gen. fung. (Minneapolis) 39, 173 (1909)
+
+#### Original name
+Pleophalis Clem.
+
+### Remarks
+null

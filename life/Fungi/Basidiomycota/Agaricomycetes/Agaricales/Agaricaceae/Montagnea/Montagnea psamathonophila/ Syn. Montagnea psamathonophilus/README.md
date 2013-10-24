@@ -1,0 +1,16 @@
+# Montagnea psamathonophilus (Speg.) Raithelh. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Coprinus psamathonophilus Speg.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Glomerella cingulata var. migrans Wollenw., 1949 VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Z. ParasitKde 14: 262 (1949)
+
+#### Original name
+Glomerella cingulata var. migrans Wollenw., 1949
+
+### Remarks
+null

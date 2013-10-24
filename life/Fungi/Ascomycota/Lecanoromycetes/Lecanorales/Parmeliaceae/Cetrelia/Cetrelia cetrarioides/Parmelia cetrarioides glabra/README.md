@@ -1,0 +1,16 @@
+# Parmelia cetrarioides f. glabra Sambo FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Parmelia cetrarioides f. glabra Sambo
+
+### Remarks
+null

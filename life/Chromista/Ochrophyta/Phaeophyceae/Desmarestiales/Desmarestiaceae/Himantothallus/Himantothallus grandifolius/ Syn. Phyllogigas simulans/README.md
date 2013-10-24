@@ -1,0 +1,16 @@
+# Phyllogigas simulans (A.Gepp & E.S.Gepp) A.Gepp & E.S.Gepp SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

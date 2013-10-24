@@ -1,0 +1,16 @@
+# Ochrolechia parella f. papillata Räsänen FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Ochrolechia parella f. papillata Räsänen
+
+### Remarks
+null

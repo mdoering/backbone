@@ -1,0 +1,16 @@
+# Elaphomyces variegatus Vittad., 1831 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Monogr. Tuberac. (Milano) 68 (1831)
+
+#### Original name
+Elaphomyces variegatus Vittad., 1831
+
+### Remarks
+null

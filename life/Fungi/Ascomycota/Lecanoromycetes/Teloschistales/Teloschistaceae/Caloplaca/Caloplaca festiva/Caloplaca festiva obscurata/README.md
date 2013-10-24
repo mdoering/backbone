@@ -1,0 +1,16 @@
+# Caloplaca festiva var. obscurata H. Magn. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Caloplaca festiva var. obscurata H. Magn.
+
+### Remarks
+null

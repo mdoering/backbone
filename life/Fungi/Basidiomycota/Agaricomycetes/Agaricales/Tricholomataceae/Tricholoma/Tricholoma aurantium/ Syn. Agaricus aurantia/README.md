@@ -1,0 +1,16 @@
+# Agaricus aurantia Schaeff. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Agaricus aurantia Schaeff.
+
+### Remarks
+null

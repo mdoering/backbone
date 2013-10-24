@@ -1,0 +1,16 @@
+# Hansenula euphorbiiphila Van der Walt, 1982 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Hansenula euphorbiiphila Van der Walt, 1982
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Nephrochytrium sexuale (Haskins) A. Batko, 1975 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Diplophlyctis sexualis Haskins, 1951
+
+### Remarks
+null

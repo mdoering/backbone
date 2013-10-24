@@ -1,0 +1,16 @@
+# Leveillula umbelliferarum f. seseli Golovin FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Leveillula umbelliferarum f. seseli Golovin
+
+### Remarks
+null

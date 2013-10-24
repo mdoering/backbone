@@ -1,0 +1,16 @@
+# Lentinaria Pilát GENUS
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lentinaria Pilát
+
+### Remarks
+null

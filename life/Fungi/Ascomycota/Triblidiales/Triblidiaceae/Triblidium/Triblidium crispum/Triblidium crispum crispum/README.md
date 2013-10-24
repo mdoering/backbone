@@ -1,0 +1,16 @@
+# Triblidium crispum var. crispum Pers. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mycol. eur. (Erlanga) 1: 332 (1822)
+
+#### Original name
+Triblidium crispum var. crispum Pers.
+
+### Remarks
+null

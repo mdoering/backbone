@@ -1,0 +1,16 @@
+# Cytidiella melzeri Pouzar, 1954 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Ceská Mykol. 8: 12 (1954)
+
+#### Original name
+Cytidiella melzeri Pouzar, 1954
+
+### Remarks
+null

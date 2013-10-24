@@ -1,0 +1,16 @@
+# Fusidium cavaracanum Jasevoli SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Fusidium cavaracanum Jasevoli
+
+### Remarks
+null

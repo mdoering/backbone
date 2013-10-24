@@ -1,0 +1,16 @@
+# Peyronellaea prunicola (Sacc.) Goid. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Depazea prunicola Sacc.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Melanopus squamosus var. lentus (Berk.) Bourdot & Galzin, 1925 VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Bull. trimest. Soc. mycol. Fr. 41: 109 (1925)
+
+#### Original name
+Polyporus lentus Berk., 1860
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Coprinus deliquescens (Bull.) Fr., 1838 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Epicr. syst. mycol. (Upsaliae) 249 (1838)
+
+#### Original name
+Agaricus deliquescens Bull., 1786
+
+### Remarks
+null

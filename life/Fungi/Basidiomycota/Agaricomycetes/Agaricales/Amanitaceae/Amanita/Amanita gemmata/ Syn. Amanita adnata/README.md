@@ -1,0 +1,16 @@
+# Amanita adnata (W.G. Sm.) Sacc., 1925 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Syll. fung. (Abellini) 23: 5 (1925)
+
+#### Original name
+Agaricus adnatus W.G. Sm., 1870
+
+### Remarks
+null

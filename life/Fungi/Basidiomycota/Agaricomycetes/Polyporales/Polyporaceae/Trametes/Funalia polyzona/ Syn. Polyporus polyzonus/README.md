@@ -1,0 +1,16 @@
+# Polyporus polyzonus Pers., 1827 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+in Gaud. , Voy. Aut. Monde 170 (1827)
+
+#### Original name
+Polyporus polyzonus Pers., 1827
+
+### Remarks
+null

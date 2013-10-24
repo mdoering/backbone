@@ -1,0 +1,16 @@
+# Clavaria neofossicola var. neofossicola Corner VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Trans. Br. mycol. Soc. 50: 38 (1967)
+
+#### Original name
+Clavaria neofossicola var. neofossicola Corner
+
+### Remarks
+null

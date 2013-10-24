@@ -1,0 +1,16 @@
+# Hendersonia septata var. foliicola Potebnia VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Hendersonia septata var. foliicola Potebnia
+
+### Remarks
+null

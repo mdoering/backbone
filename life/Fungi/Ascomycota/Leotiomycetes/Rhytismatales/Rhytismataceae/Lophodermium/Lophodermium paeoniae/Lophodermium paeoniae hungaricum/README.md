@@ -1,0 +1,16 @@
+# Lophodermium paeoniae var. hungaricum Bres. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Stud. Trent. 7(1): 66 (1926)
+
+#### Original name
+Lophodermium paeoniae var. hungaricum Bres.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Mycosphaerella hevicola Saccas SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Mycosphaerella hevicola Saccas
+
+### Remarks
+null

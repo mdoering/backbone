@@ -1,0 +1,16 @@
+# Phyllolecideaceae Elenkin FAMILY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Bull. Jard. Bot. Princip. de l'URSS 28(3-4): 267 (1929)
+
+#### Original name
+Phyllolecideaceae Elenkin
+
+### Remarks
+null

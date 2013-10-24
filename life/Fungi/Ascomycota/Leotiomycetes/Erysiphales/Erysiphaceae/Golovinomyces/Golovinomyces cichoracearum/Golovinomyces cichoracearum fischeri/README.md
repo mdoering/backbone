@@ -1,0 +1,16 @@
+# Golovinomyces cichoracearum var. fischeri (S. Blumer) U. Braun, 1999 VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Schlechtendalia 3: 51 (1999)
+
+#### Original name
+Erysiphe fischeri S. Blumer, 1933
+
+### Remarks
+null

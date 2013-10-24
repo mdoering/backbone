@@ -1,0 +1,16 @@
+# Tricholomopsis decora f. longispora A.N. Petrov FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mikol. Fitopatol. 17(1): 44 (1983)
+
+#### Original name
+Tricholomopsis decora f. longispora A.N. Petrov
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Pezizella leucostigmoides var. juncella Sacc. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pezizella leucostigmoides var. juncella Sacc.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Cystolepiota seminuda var. pusillomyces (Peck) H.V. Sm. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Agaricus pusillomyces Peck
+
+### Remarks
+null

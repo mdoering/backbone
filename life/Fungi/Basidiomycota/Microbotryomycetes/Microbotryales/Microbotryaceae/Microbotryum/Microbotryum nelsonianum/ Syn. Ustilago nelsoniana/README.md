@@ -1,0 +1,16 @@
+# Ustilago nelsoniana Savile, 1956 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Mycologia 48(4): 585 (1956)
+
+#### Original name
+Ustilago nelsoniana Savile, 1956
+
+### Remarks
+null

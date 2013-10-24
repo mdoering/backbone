@@ -1,0 +1,16 @@
+# Hypoxylon nectrioide Speg. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Hypoxylon nectrioide Speg.
+
+### Remarks
+null

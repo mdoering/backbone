@@ -1,0 +1,16 @@
+# Bulgaria urnalis Nyl., 1868 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Obs. Pez. Fenn. 73 (1868)
+
+#### Original name
+Bulgaria urnalis Nyl., 1868
+
+### Remarks
+null

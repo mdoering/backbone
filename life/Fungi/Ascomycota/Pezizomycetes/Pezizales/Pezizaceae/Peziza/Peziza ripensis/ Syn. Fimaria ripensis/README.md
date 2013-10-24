@@ -1,0 +1,16 @@
+# Fimaria ripensis (E.C. Hansen) Korf, 1971 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Phytologia 21(4): 203 (1971)
+
+#### Original name
+Peziza ripensis E.C. Hansen, 1877
+
+### Remarks
+null

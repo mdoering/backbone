@@ -1,0 +1,16 @@
+# Collodendrum Clem. GENUS
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+Gen. fung. (Minneapolis) 104 (1909)
+
+#### Original name
+Collodendrum Clem.
+
+### Remarks
+null

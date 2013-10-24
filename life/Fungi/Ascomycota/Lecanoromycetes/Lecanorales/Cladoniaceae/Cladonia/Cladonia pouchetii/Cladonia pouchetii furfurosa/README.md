@@ -1,0 +1,16 @@
+# Cladonia pouchetii f. furfurosa (Stirt.) M. Choisy FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cladonia subsquamosa f. furfurosa Stirt.
+
+### Remarks
+null

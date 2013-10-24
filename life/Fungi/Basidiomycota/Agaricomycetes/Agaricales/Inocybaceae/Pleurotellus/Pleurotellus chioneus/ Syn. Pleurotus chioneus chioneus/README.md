@@ -1,0 +1,16 @@
+# Pleurotus chioneus f. chioneus (Pers.) Gillet, 1876 FORM
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Hyménomycètes (Alençon) 336 (1876)
+
+#### Original name
+Agaricus variabilis chioneus Pers., 1828
+
+### Remarks
+null

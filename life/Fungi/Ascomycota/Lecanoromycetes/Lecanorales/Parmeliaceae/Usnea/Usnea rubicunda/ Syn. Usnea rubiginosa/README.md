@@ -1,0 +1,16 @@
+# Usnea rubiginosa SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Usnea rubiginosa
+
+### Remarks
+null

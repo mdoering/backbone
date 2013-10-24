@@ -1,0 +1,16 @@
+# Craterocolla lilacina (Wulfen) Sacc., 1888 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Syll. fung. (Abellini) 6: 779 (1888)
+
+#### Original name
+Helvella lilacina Wulfen, 1786
+
+### Remarks
+null

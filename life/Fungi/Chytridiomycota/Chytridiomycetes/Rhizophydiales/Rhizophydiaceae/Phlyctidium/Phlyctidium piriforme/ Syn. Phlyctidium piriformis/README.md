@@ -1,0 +1,16 @@
+# Phlyctidium piriformis (Fott) Sparrow SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Hapalopera piriformis Fott
+
+### Remarks
+null

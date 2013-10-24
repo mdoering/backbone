@@ -1,0 +1,16 @@
+# Polyporus igniarius (L.) Fr., 1821 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Syst. mycol. (Lundae) 1: 375 (1821)
+
+#### Original name
+Boletus igniarius L., 1753
+
+### Remarks
+null

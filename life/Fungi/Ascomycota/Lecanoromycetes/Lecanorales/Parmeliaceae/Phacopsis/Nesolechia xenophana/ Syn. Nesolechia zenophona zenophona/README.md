@@ -1,0 +1,16 @@
+# Nesolechia zenophona var. zenophona (Körb.) Vouaux VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Nesolechia zenophona var. zenophona (Körb.) Vouaux
+
+### Remarks
+null

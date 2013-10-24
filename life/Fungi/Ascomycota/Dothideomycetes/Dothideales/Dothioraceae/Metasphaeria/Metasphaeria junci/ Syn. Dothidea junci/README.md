@@ -1,0 +1,16 @@
+# Dothidea junci (Fr.) Fr. ex Rabenh., 1855 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Summa veg. Scand. (Stockholm), Section Post. 387 (1849)
+
+#### Original name
+Sphaeria striiformis var. junci Alb. & Schwein.
+
+### Remarks
+null

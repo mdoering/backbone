@@ -1,0 +1,16 @@
+# Podoconis cookei S. Hughes, 1953 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Naturalist, London 846: 121 (1953)
+
+#### Original name
+Podoconis cookei S. Hughes, 1953
+
+### Remarks
+null

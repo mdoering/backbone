@@ -1,0 +1,16 @@
+# Spermosporina alismatis (Oudem.) U. Braun, 1993 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Cryptog. bot. 4(1): 111 (1993)
+
+#### Original name
+Septoria alismatis Oudem., 1873
+
+### Remarks
+null

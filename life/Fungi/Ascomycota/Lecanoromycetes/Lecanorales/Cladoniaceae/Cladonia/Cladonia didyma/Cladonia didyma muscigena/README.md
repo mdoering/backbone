@@ -1,0 +1,16 @@
+# Cladonia didyma var. muscigena (Eschw.) Vain. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cladonia muscigena Eschw.
+
+### Remarks
+null

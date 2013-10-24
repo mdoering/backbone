@@ -1,0 +1,16 @@
+# Hymenochaete arida (P. Karst.) Sacc., 1891 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Syll. fung. (Abellini) 9: 228 (1891)
+
+#### Original name
+Hymenochaetella arida P. Karst., 1889
+
+### Remarks
+null

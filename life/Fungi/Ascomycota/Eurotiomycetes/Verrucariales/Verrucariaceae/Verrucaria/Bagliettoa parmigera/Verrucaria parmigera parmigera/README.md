@@ -1,0 +1,16 @@
+# Verrucaria parmigera var. parmigera VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Verrucaria parmigera var. parmigera
+
+### Remarks
+null

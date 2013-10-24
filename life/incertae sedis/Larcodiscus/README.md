@@ -1,0 +1,16 @@
+# Larcodiscus Tedeschi, 1895 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+Riv. Ital. Pal. , 1, 41.
+
+#### Original name
+null
+
+### Remarks
+null

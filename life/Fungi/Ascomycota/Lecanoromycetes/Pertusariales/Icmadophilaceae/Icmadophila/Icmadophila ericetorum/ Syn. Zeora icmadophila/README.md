@@ -1,0 +1,16 @@
+# Zeora icmadophila (L. f.) Flot. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lichen icmadophila L. f.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Lecanora dimidiata C. Bab. ex Leight. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Trans. Linn. Soc. London 25: 446 (1866)
+
+#### Original name
+Lecanora dimidiata C. Bab. ex Leight.
+
+### Remarks
+null

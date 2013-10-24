@@ -1,0 +1,16 @@
+# Lecanora galactina subsp. dissipata Nyl. SUBSPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lecanora galactina subsp. dissipata Nyl.
+
+### Remarks
+null

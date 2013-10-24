@@ -1,0 +1,16 @@
+# Gloeosporium ampelophagum (Pass.) Sacc., 1878 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Michelia 1(no. 2): 217 (1878)
+
+#### Original name
+Ramularia ampelophaga Pass., 1876
+
+### Remarks
+null
