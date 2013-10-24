@@ -1,5 +1,4 @@
-Diexallophasis gotlandica Cramer, 1970 ex Fensome et al., 1990 SPECIES
-=======
+# Diexallophasis gotlandica Cramer, 1970 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

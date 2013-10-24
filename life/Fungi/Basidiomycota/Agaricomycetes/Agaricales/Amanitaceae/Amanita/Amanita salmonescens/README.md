@@ -1,5 +1,4 @@
-Amanita salmonescens Tulloss SPECIES
-=======
+# Amanita salmonescens Tulloss SPECIES
 
 #### Status
 ACCEPTED

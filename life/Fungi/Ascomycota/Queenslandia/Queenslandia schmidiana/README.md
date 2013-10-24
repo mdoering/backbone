@@ -1,5 +1,4 @@
-Queenslandia schmidiana var. major Bat. & H. Maia VARIETY
-=======
+# Queenslandia schmidiana Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Publções Inst. Micol. Recife 208: 10 (1960)
+Publções Inst. Micol. Recife 208: 7 (1960)
 
 #### Original name
-Queenslandia schmidiana var. major Bat. & H. Maia
+Queenslandia schmidiana Bat. & H. Maia
 
 ### Remarks
 null

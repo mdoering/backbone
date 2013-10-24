@@ -1,5 +1,4 @@
-Phanerochaete lamprocystidiata Sheng H. Wu SPECIES
-=======
+# Phanerochaete lamprocystidiata Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

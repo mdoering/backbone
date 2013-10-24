@@ -1,5 +1,4 @@
-Trichopeziza belladonae Losa SPECIES
-=======
+# Trichopeziza belladonae Losa SPECIES
 
 #### Status
 ACCEPTED

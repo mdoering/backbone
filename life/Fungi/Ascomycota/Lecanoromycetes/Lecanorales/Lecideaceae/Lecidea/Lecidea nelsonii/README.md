@@ -1,5 +1,4 @@
-Lecidea nelsonii C.W. Dodge SPECIES
-=======
+# Lecidea nelsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

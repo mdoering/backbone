@@ -1,5 +1,4 @@
-Sphaerobolus brunneocarneus Rick SPECIES
-=======
+# Sphaerobolus brunneocarneus Rick SPECIES
 
 #### Status
 ACCEPTED

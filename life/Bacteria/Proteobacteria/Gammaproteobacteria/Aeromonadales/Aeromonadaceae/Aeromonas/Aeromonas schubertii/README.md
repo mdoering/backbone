@@ -1,5 +1,4 @@
-Aeromonas schubertii Hickman-Brenner et al., 1989 SPECIES
-=======
+# Aeromonas schubertii Hickman-Brenner et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

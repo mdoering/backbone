@@ -1,11 +1,10 @@
-Polystomella oceanensis d'Orbigny, 1826 SPECIES
-=======
+# Elphidium oceanensis (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

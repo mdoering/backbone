@@ -1,14 +1,13 @@
-Nummularia memorabilis Rehm, 1916 SPECIES
-=======
+# Nemania memorabilis (Rehm) Y.M. Ju & J.D. Rogers, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leafl. of Philipp. Bot. 8: 2960 (1916)
+Mycotaxon 73: 381 (1999)
 
 #### Original name
 Nummularia memorabilis Rehm, 1916

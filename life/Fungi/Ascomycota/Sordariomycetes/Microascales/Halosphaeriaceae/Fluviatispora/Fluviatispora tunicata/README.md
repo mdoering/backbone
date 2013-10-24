@@ -1,5 +1,4 @@
-Fluviatispora tunicata K.D. Hyde, 1994 SPECIES
-=======
+# Fluviatispora tunicata K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermus brockianus Williams et al., 1995 SPECIES
-=======
+# Thermus brockianus Williams et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

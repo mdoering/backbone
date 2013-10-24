@@ -1,5 +1,4 @@
-Buchinia variabilis Volkova, 1990 SPECIES
-=======
+# Buchinia variabilis Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

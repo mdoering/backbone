@@ -1,5 +1,4 @@
-Bacidia pacifica (Müll. Arg.) SPECIES
-=======
+# Bacidia pacifica (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kruphaiomyces Thaxt. GENUS
-=======
+# Kruphaiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

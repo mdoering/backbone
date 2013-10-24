@@ -1,5 +1,4 @@
-Usnea reticulata Du Rietz SPECIES
-=======
+# Usnea reticulata Du Rietz SPECIES
 
 #### Status
 ACCEPTED

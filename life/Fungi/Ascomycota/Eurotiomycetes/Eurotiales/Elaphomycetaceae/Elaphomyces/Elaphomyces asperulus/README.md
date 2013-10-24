@@ -1,5 +1,4 @@
-Elaphomyces asperulus Vittad. SPECIES
-=======
+# Elaphomyces asperulus Vittad. SPECIES
 
 #### Status
 ACCEPTED

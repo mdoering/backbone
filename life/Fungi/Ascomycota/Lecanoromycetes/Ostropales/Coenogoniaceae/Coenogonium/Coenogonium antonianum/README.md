@@ -1,5 +1,4 @@
-Coenogonium antonianum Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium antonianum Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

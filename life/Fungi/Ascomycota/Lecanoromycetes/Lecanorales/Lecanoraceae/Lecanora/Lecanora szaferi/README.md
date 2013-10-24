@@ -1,5 +1,4 @@
-Lecanora szaferi Motyka SPECIES
-=======
+# Lecanora szaferi Motyka SPECIES
 
 #### Status
 ACCEPTED

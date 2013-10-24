@@ -1,5 +1,4 @@
-Trypethelium macrosporum Makhija & Patw. SPECIES
-=======
+# Trypethelium macrosporum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

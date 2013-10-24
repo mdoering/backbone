@@ -1,5 +1,4 @@
-Peziza calopus Fr. SPECIES
-=======
+# Peziza calopus Fr. SPECIES
 
 #### Status
 ACCEPTED

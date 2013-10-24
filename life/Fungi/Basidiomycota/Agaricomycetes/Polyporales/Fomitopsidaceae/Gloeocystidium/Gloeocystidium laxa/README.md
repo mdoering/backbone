@@ -1,5 +1,4 @@
-Gloeocystidium laxa Bourdot & Galzin SPECIES
-=======
+# Gloeocystidium laxa Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria verrucosareolata (Schaer.) Nyl. SPECIES
-=======
+# Verrucaria verrucosareolata (Schaer.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsis bicolor (Tuck.) B. de Lesd. SPECIES
-=======
+# Placopsis bicolor (Tuck.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

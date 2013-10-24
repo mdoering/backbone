@@ -1,5 +1,4 @@
-Trichometasphaeria pentamera Munk SPECIES
-=======
+# Trichometasphaeria pentamera Munk SPECIES
 
 #### Status
 ACCEPTED

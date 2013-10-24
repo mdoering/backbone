@@ -1,5 +1,4 @@
-Nectria fibriseda (Schwein.) Sacc. SPECIES
-=======
+# Nectria fibriseda (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

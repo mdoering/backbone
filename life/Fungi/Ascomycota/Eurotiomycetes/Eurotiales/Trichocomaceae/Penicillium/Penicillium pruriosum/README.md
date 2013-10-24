@@ -1,5 +1,4 @@
-Penicillium pruriosum G. Salisb. SPECIES
-=======
+# Penicillium pruriosum G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

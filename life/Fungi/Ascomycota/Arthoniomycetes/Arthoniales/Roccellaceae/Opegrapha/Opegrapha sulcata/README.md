@@ -1,5 +1,4 @@
-Opegrapha sulcata Pers. SPECIES
-=======
+# Opegrapha sulcata Pers. SPECIES
 
 #### Status
 ACCEPTED

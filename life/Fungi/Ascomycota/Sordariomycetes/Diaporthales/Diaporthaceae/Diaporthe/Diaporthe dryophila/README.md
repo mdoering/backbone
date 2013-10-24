@@ -1,5 +1,4 @@
-Diaporthe dryophila (Niessl) Sacc. SPECIES
-=======
+# Diaporthe dryophila (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

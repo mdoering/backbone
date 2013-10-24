@@ -1,14 +1,13 @@
-Cladina stygia (Fr.) Ahti SPECIES
-=======
+# Cladonia stygia (Fr.) Ruoss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Helv. 95(2): 241 (1985)
 
 #### Original name
 Cladonia rangiferina f. stygia Fr.

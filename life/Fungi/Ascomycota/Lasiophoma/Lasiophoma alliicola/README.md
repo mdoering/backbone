@@ -1,5 +1,4 @@
-Lasiophoma alliicola (Tassi) Speg., 1918 SPECIES
-=======
+# Lasiophoma alliicola (Tassi) Speg., 1918 SPECIES
 
 #### Status
 ACCEPTED

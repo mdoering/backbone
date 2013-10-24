@@ -1,5 +1,4 @@
-Helicoverpa peltigera Npv SPECIES
-=======
+# Helicoverpa peltigera Npv SPECIES
 
 #### Status
 ACCEPTED

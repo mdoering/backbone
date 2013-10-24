@@ -1,5 +1,4 @@
-Mannheimia Angen et al., 1999 GENUS
-=======
+# Mannheimia Angen et al., 1999 GENUS
 
 #### Status
 ACCEPTED

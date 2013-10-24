@@ -1,5 +1,4 @@
-Chloridella polychloris H. Ettl SPECIES
-=======
+# Chloridella polychloris H. Ettl SPECIES
 
 #### Status
 ACCEPTED

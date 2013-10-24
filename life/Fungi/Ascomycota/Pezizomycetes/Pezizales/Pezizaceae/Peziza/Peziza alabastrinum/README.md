@@ -1,5 +1,4 @@
-Peziza alabastrinum Fr. SPECIES
-=======
+# Peziza alabastrinum Fr. SPECIES
 
 #### Status
 ACCEPTED

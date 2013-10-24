@@ -1,5 +1,4 @@
-Calicium chlorinum var. chlorinum VARIETY
-=======
+# Calicium chlorinum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium chlorinum var. chlorinum
+null
 
 ### Remarks
 null

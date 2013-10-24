@@ -1,5 +1,4 @@
-Tremellodendron tenue Burt SPECIES
-=======
+# Tremellodendron tenue Burt SPECIES
 
 #### Status
 ACCEPTED

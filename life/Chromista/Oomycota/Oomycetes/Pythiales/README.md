@@ -1,5 +1,4 @@
-Pythiales M.W. Dick ORDER
-=======
+# Pythiales M.W. Dick ORDER
 
 #### Status
 ACCEPTED

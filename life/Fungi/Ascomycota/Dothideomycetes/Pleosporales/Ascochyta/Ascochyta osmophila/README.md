@@ -1,5 +1,4 @@
-Ascochyta osmophila (Davis) G.Z. Lu & J.K. Bai SPECIES
-=======
+# Ascochyta osmophila (Davis) G.Z. Lu & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudocercospora violaecola X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora violicola X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 6(4): 222 (1987)
 
 #### Original name
-Pseudocercospora violaecola X.J. Liu & Y.L. Guo
+Pseudocercospora violicola X.J. Liu & Y.L. Guo
 
 ### Remarks
 null

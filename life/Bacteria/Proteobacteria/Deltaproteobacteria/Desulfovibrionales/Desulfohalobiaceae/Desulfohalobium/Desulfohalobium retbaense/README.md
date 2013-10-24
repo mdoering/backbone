@@ -1,5 +1,4 @@
-Desulfohalobium retbaense Ollivier et al., 1991 SPECIES
-=======
+# Desulfohalobium retbaense Ollivier et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

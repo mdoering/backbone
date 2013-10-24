@@ -1,5 +1,4 @@
-Polystictus collistens Syd. SPECIES
-=======
+# Polystictus collistens Syd. SPECIES
 
 #### Status
 ACCEPTED

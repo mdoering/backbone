@@ -1,5 +1,4 @@
-Lecanora baranowii Poelt SPECIES
-=======
+# Lecanora baranowii Poelt SPECIES
 
 #### Status
 ACCEPTED

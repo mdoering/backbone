@@ -1,5 +1,4 @@
-Harpidium nashii Scheid. SPECIES
-=======
+# Harpidium nashii Scheid. SPECIES
 
 #### Status
 ACCEPTED

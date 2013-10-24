@@ -1,5 +1,4 @@
-Elphidium halickii Brodniewicz, 1972 SPECIES
-=======
+# Elphidium halickii Brodniewicz, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicosphaera rosacea J. Lecal SPECIES
-=======
+# Umbilicosphaera rosacea J. Lecal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella gyrocarpa (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella gyrocarpa (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

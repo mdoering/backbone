@@ -1,14 +1,13 @@
-Dendryphion harknessii var. leptaleum Ellis, 1881 VARIETY
-=======
+# Septonema leptaleum (Ellis) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 8: 27 (1881)
+Can. J. Bot. 31: 585 (1953)
 
 #### Original name
 Dendryphion harknessii var. leptaleum Ellis, 1881

@@ -1,5 +1,4 @@
-Sporidesmium effusum Henn. SPECIES
-=======
+# Sporidesmium effusum Henn. SPECIES
 
 #### Status
 ACCEPTED

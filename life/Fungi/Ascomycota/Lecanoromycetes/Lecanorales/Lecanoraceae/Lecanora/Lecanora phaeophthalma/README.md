@@ -1,5 +1,4 @@
-Lecanora phaeophthalma Nyl. SPECIES
-=======
+# Lecanora phaeophthalma Nyl. SPECIES
 
 #### Status
 ACCEPTED

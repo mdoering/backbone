@@ -1,5 +1,4 @@
-Striodiplodia striata (Tassi) Zambett. SPECIES
-=======
+# Striodiplodia striata (Tassi) Zambett. SPECIES
 
 #### Status
 ACCEPTED

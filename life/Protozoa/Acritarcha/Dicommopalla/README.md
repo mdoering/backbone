@@ -1,5 +1,4 @@
-Dicommopalla A.R. Loeblich Jr., 1970 GENUS
-=======
+# Dicommopalla A.R. Loeblich Jr., 1970 GENUS
 
 #### Status
 ACCEPTED

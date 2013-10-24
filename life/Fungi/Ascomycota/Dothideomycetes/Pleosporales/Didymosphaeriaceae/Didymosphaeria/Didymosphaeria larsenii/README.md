@@ -1,5 +1,4 @@
-Didymosphaeria larsenii Munk SPECIES
-=======
+# Didymosphaeria larsenii Munk SPECIES
 
 #### Status
 ACCEPTED

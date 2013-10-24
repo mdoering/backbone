@@ -1,5 +1,4 @@
-Sphaerella granulata Ellis & Everh. SPECIES
-=======
+# Sphaerella granulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

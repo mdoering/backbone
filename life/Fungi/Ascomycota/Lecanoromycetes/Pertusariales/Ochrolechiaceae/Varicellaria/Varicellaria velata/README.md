@@ -1,17 +1,16 @@
-Pertusaria velata f. velata FORM
-=======
+# Varicellaria velata (Turner) Schmitt & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 179 (1861)
+null
 
 #### Original name
-Pertusaria velata f. velata
+null
 
 ### Remarks
 null

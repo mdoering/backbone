@@ -1,5 +1,4 @@
-Goesella rotundata (Cushman, 1913) SPECIES
-=======
+# Goesella rotundata (Cushman, 1913) SPECIES
 
 #### Status
 ACCEPTED

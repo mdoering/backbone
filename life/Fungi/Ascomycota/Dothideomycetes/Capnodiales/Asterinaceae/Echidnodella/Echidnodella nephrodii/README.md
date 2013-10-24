@@ -1,5 +1,4 @@
-Echidnodella nephrodii (Racib.) Bat. & I.H. Lima SPECIES
-=======
+# Echidnodella nephrodii (Racib.) Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

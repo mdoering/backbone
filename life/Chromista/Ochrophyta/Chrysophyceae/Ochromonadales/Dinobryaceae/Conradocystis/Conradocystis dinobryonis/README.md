@@ -1,8 +1,7 @@
-Chrysococcocystis dinobryonis W. Conrad SPECIES
-=======
+# Conradocystis dinobryonis (W. Conrad) A. Hollande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

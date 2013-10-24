@@ -1,5 +1,4 @@
-Colletotrichum acalyphae G.W. Wilson SPECIES
-=======
+# Colletotrichum acalyphae G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

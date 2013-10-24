@@ -1,5 +1,4 @@
-Anakrusa Nazarov, 1977 GENUS
-=======
+# Anakrusa Nazarov, 1977 GENUS
 
 #### Status
 ACCEPTED

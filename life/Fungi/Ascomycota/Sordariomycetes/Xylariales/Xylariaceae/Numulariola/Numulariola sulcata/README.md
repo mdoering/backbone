@@ -1,5 +1,4 @@
-Numulariola sulcata (Starbäck) P.M.D. Martin SPECIES
-=======
+# Numulariola sulcata (Starbäck) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

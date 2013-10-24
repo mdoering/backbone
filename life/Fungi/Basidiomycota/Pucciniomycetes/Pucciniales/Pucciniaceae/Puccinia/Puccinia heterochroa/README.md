@@ -1,5 +1,4 @@
-Puccinia heterochroa Roberge ex Desm. SPECIES
-=======
+# Puccinia heterochroa Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

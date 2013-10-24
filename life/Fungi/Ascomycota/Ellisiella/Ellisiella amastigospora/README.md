@@ -1,5 +1,4 @@
-Ellisiella amastigospora Sousa da Câmara SPECIES
-=======
+# Ellisiella amastigospora Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

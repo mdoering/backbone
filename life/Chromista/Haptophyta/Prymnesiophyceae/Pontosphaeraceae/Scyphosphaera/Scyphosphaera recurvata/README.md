@@ -1,5 +1,4 @@
-Scyphosphaera recurvata Deflandre, 1942 SPECIES
-=======
+# Scyphosphaera recurvata Deflandre, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium pandani (Corda) Sacc. SPECIES
-=======
+# Fusarium pandani (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

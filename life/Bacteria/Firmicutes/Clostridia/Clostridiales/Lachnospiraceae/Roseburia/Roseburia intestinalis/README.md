@@ -1,5 +1,4 @@
-Roseburia intestinalis Duncan et al., 2002 SPECIES
-=======
+# Roseburia intestinalis Duncan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta angulata Wenzl, 1936 SPECIES
-=======
+# Phyllosticta angulata Wenzl, 1936 SPECIES
 
 #### Status
 ACCEPTED

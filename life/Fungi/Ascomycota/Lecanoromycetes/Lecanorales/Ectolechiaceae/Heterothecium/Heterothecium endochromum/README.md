@@ -1,5 +1,4 @@
-Heterothecium endochromum (Fée) Flotow SPECIES
-=======
+# Heterothecium endochromum (Fée) Flotow SPECIES
 
 #### Status
 ACCEPTED

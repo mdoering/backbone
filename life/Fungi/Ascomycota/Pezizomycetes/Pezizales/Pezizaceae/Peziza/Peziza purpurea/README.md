@@ -1,5 +1,4 @@
-Peziza purpurea Fr. SPECIES
-=======
+# Peziza purpurea Fr. SPECIES
 
 #### Status
 ACCEPTED

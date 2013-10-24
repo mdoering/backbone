@@ -1,5 +1,4 @@
-Parmelia conspicua var. conspicua VARIETY
-=======
+# Parmelia conspicua Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia conspicua var. conspicua
+Parmelia conspicua Hue
 
 ### Remarks
 null

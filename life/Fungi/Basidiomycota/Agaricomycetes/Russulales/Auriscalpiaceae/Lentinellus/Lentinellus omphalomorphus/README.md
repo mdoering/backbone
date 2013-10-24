@@ -1,14 +1,13 @@
-Pocillaria omphalomorpha (Bertero & Mont.) Kuntze, 1891 SPECIES
-=======
+# Lentinellus omphalomorphus (Bertero & Mont.) Singer, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Beih. Nova Hedwigia 29: 377 (1969)
 
 #### Original name
 Agaricus omphalomorphus Bertero & Mont., 1837

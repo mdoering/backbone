@@ -1,5 +1,4 @@
-Marasmius vitreus Velen. SPECIES
-=======
+# Marasmius vitreus Velen. SPECIES
 
 #### Status
 ACCEPTED

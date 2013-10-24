@@ -1,5 +1,4 @@
-Caloplaca filsonii Hafellner, S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca filsonii Hafellner, S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

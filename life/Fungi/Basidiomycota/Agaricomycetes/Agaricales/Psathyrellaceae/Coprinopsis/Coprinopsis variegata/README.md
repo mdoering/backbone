@@ -1,5 +1,4 @@
-Coprinopsis variegata (Peck) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis variegata (Peck) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

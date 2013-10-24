@@ -1,5 +1,4 @@
-Cortinarius tenebricus J. Favre SPECIES
-=======
+# Cortinarius tenebricus J. Favre SPECIES
 
 #### Status
 ACCEPTED

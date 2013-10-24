@@ -1,5 +1,4 @@
-Xylaria laevis Lloyd SPECIES
-=======
+# Xylaria laevis Lloyd SPECIES
 
 #### Status
 ACCEPTED

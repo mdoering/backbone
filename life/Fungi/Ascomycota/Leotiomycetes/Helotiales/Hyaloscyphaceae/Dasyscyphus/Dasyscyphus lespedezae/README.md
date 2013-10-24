@@ -1,5 +1,4 @@
-Dasyscyphus lespedezae Raitv. SPECIES
-=======
+# Dasyscyphus lespedezae Raitv. SPECIES
 
 #### Status
 ACCEPTED

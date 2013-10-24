@@ -1,5 +1,4 @@
-Sphacelotheca serrulati-magna Vánky & Oberw., 1994 SPECIES
-=======
+# Sphacelotheca serrulati-magna Vánky & Oberw., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thigmogaster nanus Song & Wilbert, 1989 SPECIES
-=======
+# Thigmogaster nanus Song & Wilbert, 1989 SPECIES
 
 #### Status
 ACCEPTED

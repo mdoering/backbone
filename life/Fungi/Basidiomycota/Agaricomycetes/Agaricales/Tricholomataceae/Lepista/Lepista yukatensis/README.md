@@ -1,5 +1,4 @@
-Lepista yukatensis Guzmán & Bon SPECIES
-=======
+# Lepista yukatensis Guzmán & Bon SPECIES
 
 #### Status
 ACCEPTED

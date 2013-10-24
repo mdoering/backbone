@@ -1,5 +1,4 @@
-Chalara eucalypti Z.Q. Yuan & Kile SPECIES
-=======
+# Chalara eucalypti Z.Q. Yuan & Kile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora eremosparti Szembel SPECIES
-=======
+# Pleospora eremosparti Szembel SPECIES
 
 #### Status
 ACCEPTED

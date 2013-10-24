@@ -1,8 +1,7 @@
-Aplosporella zizyphisativae S. Ahmad SPECIES
-=======
+# Aplosporella ziziphi-sativae S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aplosporella zizyphisativae S. Ahmad
+Aplosporella ziziphi-sativae S. Ahmad
 
 ### Remarks
 null

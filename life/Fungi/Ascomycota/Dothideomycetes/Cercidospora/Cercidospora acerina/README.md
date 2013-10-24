@@ -1,5 +1,4 @@
-Cercidospora acerina (Fabre) Kuntze SPECIES
-=======
+# Cercidospora acerina (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

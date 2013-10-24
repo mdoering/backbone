@@ -1,5 +1,4 @@
-Aplanosporites bharwainensis H.P. Singh & R.K. Saxena SPECIES
-=======
+# Aplanosporites bharwainensis H.P. Singh & R.K. Saxena SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria combretiana Cejp SPECIES
-=======
+# Septoria combretiana Cejp SPECIES
 
 #### Status
 ACCEPTED

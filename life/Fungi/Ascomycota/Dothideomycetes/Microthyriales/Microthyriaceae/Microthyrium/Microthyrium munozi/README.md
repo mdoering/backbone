@@ -1,5 +1,4 @@
-Microthyrium munozi Toro SPECIES
-=======
+# Microthyrium munozi Toro SPECIES
 
 #### Status
 ACCEPTED

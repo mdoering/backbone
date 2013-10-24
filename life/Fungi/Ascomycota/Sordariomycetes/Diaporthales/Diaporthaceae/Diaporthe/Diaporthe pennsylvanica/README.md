@@ -1,5 +1,4 @@
-Diaporthe pennsylvanica (Berk. & M.A. Curtis) Wehm. SPECIES
-=======
+# Diaporthe pennsylvanica (Berk. & M.A. Curtis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

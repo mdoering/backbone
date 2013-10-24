@@ -1,5 +1,4 @@
-Arthonia submersa (Eitner) Zahlbr. SPECIES
-=======
+# Arthonia submersa (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

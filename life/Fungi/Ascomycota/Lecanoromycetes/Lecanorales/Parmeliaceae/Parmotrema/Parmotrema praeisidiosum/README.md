@@ -1,5 +1,4 @@
-Parmotrema praeisidiosum Fleig SPECIES
-=======
+# Parmotrema praeisidiosum Fleig SPECIES
 
 #### Status
 ACCEPTED

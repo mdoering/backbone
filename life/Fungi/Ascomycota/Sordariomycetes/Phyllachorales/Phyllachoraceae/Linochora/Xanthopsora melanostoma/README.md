@@ -1,5 +1,4 @@
-Xanthopsora melanostoma Speg. SPECIES
-=======
+# Xanthopsora melanostoma Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrulina angusta (Egger, 1857) SPECIES
-=======
+# Pyrulina angusta (Egger, 1857) SPECIES
 
 #### Status
 ACCEPTED

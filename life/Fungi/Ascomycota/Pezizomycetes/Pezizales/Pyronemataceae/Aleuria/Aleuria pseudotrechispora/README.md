@@ -1,5 +1,4 @@
-Aleuria pseudotrechispora Höhn. SPECIES
-=======
+# Aleuria pseudotrechispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

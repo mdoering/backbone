@@ -1,5 +1,4 @@
-Sphaerulina iwatensis Sawada SPECIES
-=======
+# Sphaerulina iwatensis Sawada SPECIES
 
 #### Status
 ACCEPTED

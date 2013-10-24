@@ -1,5 +1,4 @@
-Aspergillus peyronelii Sappa, 1955 SPECIES
-=======
+# Aspergillus peyronelii Sappa, 1955 SPECIES
 
 #### Status
 ACCEPTED

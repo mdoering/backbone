@@ -1,5 +1,4 @@
-Corticocolpoda Foissner, 1993 GENUS
-=======
+# Corticocolpoda Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

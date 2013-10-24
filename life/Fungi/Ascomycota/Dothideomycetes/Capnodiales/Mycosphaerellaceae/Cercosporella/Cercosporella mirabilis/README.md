@@ -1,5 +1,4 @@
-Cercosporella mirabilis Peck SPECIES
-=======
+# Cercosporella mirabilis Peck SPECIES
 
 #### Status
 ACCEPTED

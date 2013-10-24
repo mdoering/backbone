@@ -1,5 +1,4 @@
-Trypethelium floridanum (Zahlbr. ex M. Choisy) R.C. Harris SPECIES
-=======
+# Trypethelium floridanum (Zahlbr. ex M. Choisy) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

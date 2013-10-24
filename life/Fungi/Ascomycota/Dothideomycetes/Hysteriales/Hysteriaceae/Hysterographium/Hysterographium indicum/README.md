@@ -1,5 +1,4 @@
-Hysterographium indicum A. Pande SPECIES
-=======
+# Hysterographium indicum A. Pande SPECIES
 
 #### Status
 ACCEPTED

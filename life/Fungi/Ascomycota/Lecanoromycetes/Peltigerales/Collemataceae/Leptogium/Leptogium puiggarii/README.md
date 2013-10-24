@@ -1,5 +1,4 @@
-Leptogium puiggarii Müll. Arg. SPECIES
-=======
+# Leptogium puiggarii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

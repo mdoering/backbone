@@ -1,5 +1,4 @@
-Scopulariopsis arnoldii (L. Mangin & Pat.) Vuill. SPECIES
-=======
+# Scopulariopsis arnoldii (L. Mangin & Pat.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

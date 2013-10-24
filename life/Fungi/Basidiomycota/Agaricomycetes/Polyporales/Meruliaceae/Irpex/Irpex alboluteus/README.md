@@ -1,5 +1,4 @@
-Irpex alboluteus Rick SPECIES
-=======
+# Irpex alboluteus Rick SPECIES
 
 #### Status
 ACCEPTED

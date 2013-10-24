@@ -1,5 +1,4 @@
-Pseudocercospora hibisci-cannabini (Sawada) Deighton SPECIES
-=======
+# Pseudocercospora hibisci-cannabini (Sawada) Deighton SPECIES
 
 #### Status
 ACCEPTED

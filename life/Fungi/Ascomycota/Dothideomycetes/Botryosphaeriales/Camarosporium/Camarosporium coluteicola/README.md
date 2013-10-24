@@ -1,5 +1,4 @@
-Camarosporium coluteicola N.F. Buchw. SPECIES
-=======
+# Camarosporium coluteicola N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuraspis Haeckel, 1881 GENUS
-=======
+# Pleuraspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

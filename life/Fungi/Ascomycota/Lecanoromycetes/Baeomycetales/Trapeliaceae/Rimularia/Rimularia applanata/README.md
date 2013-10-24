@@ -1,5 +1,4 @@
-Rimularia applanata Kantvilas & Coppins SPECIES
-=======
+# Rimularia applanata Kantvilas & Coppins SPECIES
 
 #### Status
 ACCEPTED

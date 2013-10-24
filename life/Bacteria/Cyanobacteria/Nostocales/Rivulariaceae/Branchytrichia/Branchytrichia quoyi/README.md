@@ -1,5 +1,4 @@
-Branchytrichia quoyi (C. Agardh) Born. & Flah. SPECIES
-=======
+# Branchytrichia quoyi (C. Agardh) Born. & Flah. SPECIES
 
 #### Status
 ACCEPTED

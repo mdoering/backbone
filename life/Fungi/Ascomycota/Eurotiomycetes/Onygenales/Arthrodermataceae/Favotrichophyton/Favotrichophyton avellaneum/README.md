@@ -1,5 +1,4 @@
-Favotrichophyton avellaneum C.W. Dodge SPECIES
-=======
+# Favotrichophyton avellaneum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

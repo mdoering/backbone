@@ -1,17 +1,16 @@
-Polyporus vaporarius f. vaporarius FORM
-=======
+# Hyphodontia radula (Pers.) Langer & Vesterh., 1996 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 260 (1818)
+in Knudsen & Hansen, Nordic Jl Bot. 16(2): 212 (1996)
 
 #### Original name
-Polyporus vaporarius f. vaporarius
+Poria radula Pers., 1800
 
 ### Remarks
 null

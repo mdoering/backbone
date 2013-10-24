@@ -1,5 +1,4 @@
-Blastenia sandwicensis H. Magn. SPECIES
-=======
+# Blastenia sandwicensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

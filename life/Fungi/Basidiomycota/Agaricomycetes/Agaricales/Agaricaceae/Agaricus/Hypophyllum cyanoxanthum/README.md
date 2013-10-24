@@ -1,5 +1,4 @@
-Hypophyllum cyanoxanthum Paulet SPECIES
-=======
+# Hypophyllum cyanoxanthum Paulet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus ligneus Berk. & M.A. Curtis SPECIES
-=======
+# Paxillus ligneus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

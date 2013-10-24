@@ -1,5 +1,4 @@
-Leptostroma laricinum Fuckel SPECIES
-=======
+# Leptostroma laricinum Fuckel SPECIES
 
 #### Status
 ACCEPTED

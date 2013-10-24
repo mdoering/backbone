@@ -1,5 +1,4 @@
-Conocybe papillata Hauskn. & L. Nagy SPECIES
-=======
+# Conocybe papillata Hauskn. & L. Nagy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen velleiformis Bellardi SPECIES
-=======
+# Lichen velleiformis Bellardi SPECIES
 
 #### Status
 ACCEPTED

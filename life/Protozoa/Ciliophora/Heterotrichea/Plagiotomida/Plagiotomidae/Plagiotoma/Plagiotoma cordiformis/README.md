@@ -1,5 +1,4 @@
-Plagiotoma cordiformis SPECIES
-=======
+# Plagiotoma cordiformis SPECIES
 
 #### Status
 ACCEPTED

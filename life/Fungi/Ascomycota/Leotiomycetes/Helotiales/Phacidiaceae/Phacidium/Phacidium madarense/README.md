@@ -1,5 +1,4 @@
-Phacidium madarense SPECIES
-=======
+# Phacidium madarense SPECIES
 
 #### Status
 ACCEPTED

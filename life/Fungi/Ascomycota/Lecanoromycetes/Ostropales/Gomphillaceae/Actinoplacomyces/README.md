@@ -1,5 +1,4 @@
-Actinoplacomyces GENUS
-=======
+# Actinoplacomyces GENUS
 
 #### Status
 ACCEPTED

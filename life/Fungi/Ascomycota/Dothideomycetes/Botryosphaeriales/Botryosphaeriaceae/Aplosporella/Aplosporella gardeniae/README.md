@@ -1,5 +1,4 @@
-Aplosporella gardeniae J.V. Kachroo SPECIES
-=======
+# Aplosporella gardeniae J.V. Kachroo SPECIES
 
 #### Status
 ACCEPTED

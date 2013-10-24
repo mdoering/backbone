@@ -1,5 +1,4 @@
-Clitocybe revoluta Peck SPECIES
-=======
+# Clitocybe revoluta Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Althornia crouchii E.B.G. Jones & Alderman, 1972 SPECIES
-=======
+# Althornia crouchii E.B.G. Jones & Alderman, 1972 SPECIES
 
 #### Status
 ACCEPTED

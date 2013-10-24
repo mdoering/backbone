@@ -1,5 +1,4 @@
-Eurotium verruculosum Vuill. SPECIES
-=======
+# Eurotium verruculosum Vuill. SPECIES
 
 #### Status
 ACCEPTED

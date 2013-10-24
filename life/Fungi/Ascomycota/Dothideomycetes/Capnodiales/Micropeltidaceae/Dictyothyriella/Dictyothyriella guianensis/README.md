@@ -1,5 +1,4 @@
-Dictyothyriella guianensis F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella guianensis F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

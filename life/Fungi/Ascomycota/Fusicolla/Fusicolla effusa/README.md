@@ -1,5 +1,4 @@
-Fusicolla effusa P. Karst. SPECIES
-=======
+# Fusicolla effusa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

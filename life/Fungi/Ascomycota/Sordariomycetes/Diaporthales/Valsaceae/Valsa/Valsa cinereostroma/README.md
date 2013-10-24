@@ -1,5 +1,4 @@
-Valsa cinereostroma G.C. Adams & M.J. Wingf. SPECIES
-=======
+# Valsa cinereostroma G.C. Adams & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

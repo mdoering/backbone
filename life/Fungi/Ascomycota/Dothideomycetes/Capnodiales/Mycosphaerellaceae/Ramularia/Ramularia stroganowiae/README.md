@@ -1,17 +1,16 @@
-Ramularia strogonoviae Annal. SPECIES
-=======
+# Ramularia stroganowiae Annal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nauch. Dokl. Vysshei Shkoly, Biologicheskie Nauki 65 (1972)
 
 #### Original name
-Ramularia strogonoviae Annal.
+Ramularia stroganowiae Annal.
 
 ### Remarks
 null

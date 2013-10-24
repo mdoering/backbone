@@ -1,5 +1,4 @@
-Aplosporella camerunensis Henn. SPECIES
-=======
+# Aplosporella camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

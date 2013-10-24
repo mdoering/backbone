@@ -1,5 +1,4 @@
-Auliscus punctatus Bailey, 1854 SPECIES
-=======
+# Auliscus punctatus Bailey, 1854 SPECIES
 
 #### Status
 ACCEPTED

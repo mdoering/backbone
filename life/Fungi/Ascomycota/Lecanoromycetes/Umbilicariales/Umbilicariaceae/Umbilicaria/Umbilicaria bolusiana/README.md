@@ -1,5 +1,4 @@
-Umbilicaria bolusiana Frey SPECIES
-=======
+# Umbilicaria bolusiana Frey SPECIES
 
 #### Status
 ACCEPTED

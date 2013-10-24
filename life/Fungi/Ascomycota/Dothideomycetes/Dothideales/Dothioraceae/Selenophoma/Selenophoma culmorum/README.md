@@ -1,5 +1,4 @@
-Selenophoma culmorum (Grove) Luc SPECIES
-=======
+# Selenophoma culmorum (Grove) Luc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Corynebacterium suis Soltys & Spratling, 1957 SPECIES
-=======
+# Actinobaculum suis (Wegienek & Reddy, 1982) Lawson et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

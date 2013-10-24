@@ -1,5 +1,4 @@
-Polyedrina magnifica de Quadros, 1986 SPECIES
-=======
+# Polyedrina magnifica de Quadros, 1986 SPECIES
 
 #### Status
 ACCEPTED

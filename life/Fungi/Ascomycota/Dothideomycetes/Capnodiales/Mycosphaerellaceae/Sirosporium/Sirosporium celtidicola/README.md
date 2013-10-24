@@ -1,5 +1,4 @@
-Sirosporium celtidicola M.B. Ellis SPECIES
-=======
+# Sirosporium celtidicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta obstrudens (Tassi) Allesch. SPECIES
-=======
+# Phyllosticta obstrudens (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

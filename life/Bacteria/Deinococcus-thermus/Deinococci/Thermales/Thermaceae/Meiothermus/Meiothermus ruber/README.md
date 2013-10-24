@@ -1,8 +1,7 @@
-Thermus ruber (ex Loginova et al., 1975) Loginova et al., 1984 SPECIES
-=======
+# Meiothermus ruber (Loginova et al., 1984) Nobre et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

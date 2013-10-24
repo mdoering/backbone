@@ -1,5 +1,4 @@
-Scolicotrichum barringtoniae Vienn.-Bourg. SPECIES
-=======
+# Scolicotrichum barringtoniae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

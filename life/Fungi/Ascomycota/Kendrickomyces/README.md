@@ -1,5 +1,4 @@
-Kendrickomyces B. Sutton, V.G. Rao & Mhaskar GENUS
-=======
+# Kendrickomyces B. Sutton, V.G. Rao & Mhaskar GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca stipitata Wetmore SPECIES
-=======
+# Caloplaca stipitata Wetmore SPECIES
 
 #### Status
 ACCEPTED

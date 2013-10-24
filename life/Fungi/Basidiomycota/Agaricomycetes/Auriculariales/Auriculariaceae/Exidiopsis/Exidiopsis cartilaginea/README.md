@@ -1,5 +1,4 @@
-Exidiopsis cartilaginea Rick SPECIES
-=======
+# Exidiopsis cartilaginea Rick SPECIES
 
 #### Status
 ACCEPTED

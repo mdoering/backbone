@@ -1,5 +1,4 @@
-Coenogonium kalbii Aptroot, Lücking & Umaña SPECIES
-=======
+# Coenogonium kalbii Aptroot, Lücking & Umaña SPECIES
 
 #### Status
 ACCEPTED

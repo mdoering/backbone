@@ -1,5 +1,4 @@
-Polycystis lolii Westend. SPECIES
-=======
+# Polycystis lolii Westend. SPECIES
 
 #### Status
 ACCEPTED

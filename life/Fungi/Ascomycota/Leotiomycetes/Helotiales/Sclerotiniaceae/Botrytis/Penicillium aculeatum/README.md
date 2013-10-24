@@ -1,5 +1,4 @@
-Penicillium aculeatum Raper & Fennell, 1948 SPECIES
-=======
+# Penicillium aculeatum Raper & Fennell, 1948 SPECIES
 
 #### Status
 DOUBTFUL

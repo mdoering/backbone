@@ -1,5 +1,4 @@
-Lepra obscura DC. SPECIES
-=======
+# Lepra obscura DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Davisiella Petrak, 1924 GENUS
-=======
+# Davisiella Petrak, 1924 GENUS
 
 #### Status
 ACCEPTED

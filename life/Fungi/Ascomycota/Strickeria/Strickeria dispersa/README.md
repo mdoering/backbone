@@ -1,5 +1,4 @@
-Strickeria dispersa Kirschst. SPECIES
-=======
+# Strickeria dispersa Kirschst. SPECIES
 
 #### Status
 ACCEPTED

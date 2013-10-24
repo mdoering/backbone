@@ -1,5 +1,4 @@
-Diplotomma nubila (Norman) Szatala SPECIES
-=======
+# Diplotomma nubila (Norman) Szatala SPECIES
 
 #### Status
 ACCEPTED

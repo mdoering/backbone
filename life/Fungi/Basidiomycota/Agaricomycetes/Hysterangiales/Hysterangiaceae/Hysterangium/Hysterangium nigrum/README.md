@@ -1,5 +1,4 @@
-Hysterangium nigrum Lloyd SPECIES
-=======
+# Hysterangium nigrum Lloyd SPECIES
 
 #### Status
 ACCEPTED

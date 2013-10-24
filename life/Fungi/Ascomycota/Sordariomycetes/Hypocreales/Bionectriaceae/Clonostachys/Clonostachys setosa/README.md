@@ -1,14 +1,13 @@
-Sesquicillium setosum Vittal, 1974 SPECIES
-=======
+# Clonostachys setosa (Vittal) Schroers, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 2: 46 (1974)
+Stud. Mycol. 46: 195 (2001)
 
 #### Original name
 Sesquicillium setosum Vittal, 1974

@@ -1,5 +1,4 @@
-Phoma roripae Baudy & Picb. SPECIES
-=======
+# Phoma roripae Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

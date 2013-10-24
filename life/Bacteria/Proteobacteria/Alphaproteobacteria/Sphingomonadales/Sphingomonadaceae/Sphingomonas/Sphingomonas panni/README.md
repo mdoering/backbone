@@ -1,5 +1,4 @@
-Sphingomonas panni Busse et al., 2005 SPECIES
-=======
+# Sphingomonas panni Busse et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porosia Jung, 1942 GENUS
-=======
+# Porosia Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

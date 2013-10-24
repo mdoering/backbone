@@ -1,5 +1,4 @@
-Rhizoctonia strobi E. Scholz SPECIES
-=======
+# Rhizoctonia strobi E. Scholz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stypella grandinia Rick SPECIES
-=======
+# Stypella grandinia Rick SPECIES
 
 #### Status
 ACCEPTED

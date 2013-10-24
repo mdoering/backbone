@@ -1,5 +1,4 @@
-Uromyces planiusculus (Mont.) Jørst. SPECIES
-=======
+# Uromyces planiusculus (Mont.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

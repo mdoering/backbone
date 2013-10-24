@@ -1,5 +1,4 @@
-Pilobolus umbonata Van Tieghem SPECIES
-=======
+# Pilobolus umbonata Van Tieghem SPECIES
 
 #### Status
 ACCEPTED

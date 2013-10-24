@@ -1,5 +1,4 @@
-Hadena basilinea GV SPECIES
-=======
+# Hadena basilinea GV SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula avellaneiceps Fatto SPECIES
-=======
+# Russula avellaneiceps Fatto SPECIES
 
 #### Status
 ACCEPTED

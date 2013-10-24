@@ -1,5 +1,4 @@
-Pestalozziella andersonii Ellis & Everh. SPECIES
-=======
+# Pestalozziella andersonii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

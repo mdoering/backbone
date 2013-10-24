@@ -1,5 +1,4 @@
-Pyrolobus fumarii Blöchl et al., 1999 SPECIES
-=======
+# Pyrolobus fumarii Blöchl et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

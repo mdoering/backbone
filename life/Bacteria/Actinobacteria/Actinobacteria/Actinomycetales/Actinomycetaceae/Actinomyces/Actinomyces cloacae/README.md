@@ -1,5 +1,4 @@
-Actinomyces cloacae Brussoff {?} SPECIES
-=======
+# Actinomyces cloacae Brussoff {?} SPECIES
 
 #### Status
 ACCEPTED

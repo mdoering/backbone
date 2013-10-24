@@ -1,5 +1,4 @@
-Tricholoma unakense (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma unakense (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

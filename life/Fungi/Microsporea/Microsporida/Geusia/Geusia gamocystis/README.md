@@ -1,5 +1,4 @@
-Geusia gamocystis Rühl & Korn SPECIES
-=======
+# Geusia gamocystis Rühl & Korn SPECIES
 
 #### Status
 ACCEPTED

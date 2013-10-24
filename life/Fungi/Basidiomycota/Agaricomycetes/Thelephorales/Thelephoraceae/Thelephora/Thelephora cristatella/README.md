@@ -1,5 +1,4 @@
-Thelephora cristatella Berk. & Broome SPECIES
-=======
+# Thelephora cristatella Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

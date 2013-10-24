@@ -1,5 +1,4 @@
-Pentactinocapsa Dumitrica, 1978 GENUS
-=======
+# Pentactinocapsa Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

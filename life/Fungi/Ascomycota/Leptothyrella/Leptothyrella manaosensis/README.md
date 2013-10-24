@@ -1,8 +1,7 @@
-Leptothyrella manaoensis Henn. SPECIES
-=======
+# Leptothyrella manaosensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptothyrella manaoensis Henn.
+Leptothyrella manaosensis Henn.
 
 ### Remarks
 null

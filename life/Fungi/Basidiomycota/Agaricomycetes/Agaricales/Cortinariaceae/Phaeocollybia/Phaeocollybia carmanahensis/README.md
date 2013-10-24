@@ -1,5 +1,4 @@
-Phaeocollybia carmanahensis Redhead & Norvell SPECIES
-=======
+# Phaeocollybia carmanahensis Redhead & Norvell SPECIES
 
 #### Status
 ACCEPTED

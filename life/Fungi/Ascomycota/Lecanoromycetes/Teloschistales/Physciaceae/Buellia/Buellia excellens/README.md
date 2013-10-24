@@ -1,5 +1,4 @@
-Buellia excellens H. Magn. SPECIES
-=======
+# Buellia excellens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ochracea (Schaer.) Nyl. SPECIES
-=======
+# Lecanora ochracea (Schaer.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

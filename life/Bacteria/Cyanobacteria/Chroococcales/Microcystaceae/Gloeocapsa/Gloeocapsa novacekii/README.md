@@ -1,5 +1,4 @@
-Gloeocapsa novacekii Komárek & Anagnotidis SPECIES
-=======
+# Gloeocapsa novacekii Komárek & Anagnotidis SPECIES
 
 #### Status
 ACCEPTED

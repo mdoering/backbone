@@ -1,5 +1,4 @@
-Trichodytes Kleb. GENUS
-=======
+# Trichodytes Kleb. GENUS
 
 #### Status
 ACCEPTED

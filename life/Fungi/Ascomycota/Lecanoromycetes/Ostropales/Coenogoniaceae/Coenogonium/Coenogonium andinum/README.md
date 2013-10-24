@@ -1,5 +1,4 @@
-Coenogonium andinum P. Karst. SPECIES
-=======
+# Coenogonium andinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylina Sydow, 1921 GENUS
-=======
+# Stylina Sydow, 1921 GENUS
 
 #### Status
 ACCEPTED

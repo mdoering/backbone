@@ -1,5 +1,4 @@
-Volutella pulchra Berk. & M.A. Curtis SPECIES
-=======
+# Volutella pulchra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

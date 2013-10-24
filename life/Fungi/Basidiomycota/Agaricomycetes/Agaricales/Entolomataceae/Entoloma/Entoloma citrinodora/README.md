@@ -1,5 +1,4 @@
-Entoloma citrinodora Largent SPECIES
-=======
+# Entoloma citrinodora Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicomina triseptata (Hol.-Jech.) R.F. Castañeda, Guarro & Saikawa SPECIES
-=======
+# Helicomina triseptata (Hol.-Jech.) R.F. Castañeda, Guarro & Saikawa SPECIES
 
 #### Status
 ACCEPTED

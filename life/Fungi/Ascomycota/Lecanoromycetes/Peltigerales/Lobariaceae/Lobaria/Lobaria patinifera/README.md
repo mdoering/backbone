@@ -1,14 +1,13 @@
-Ricasolia patinifera (Taylor) Müll. Arg. SPECIES
-=======
+# Lobaria patinifera (Taylor) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nouvelles archives du Museum d'Histoire Naturelle, Paris, 4 Série 3: 29 (1901)
 
 #### Original name
 Parmelia patinifera Taylor

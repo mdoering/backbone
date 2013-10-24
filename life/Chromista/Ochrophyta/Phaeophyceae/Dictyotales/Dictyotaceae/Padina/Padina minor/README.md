@@ -1,5 +1,4 @@
-Padina minor Yamada SPECIES
-=======
+# Padina minor Yamada SPECIES
 
 #### Status
 ACCEPTED

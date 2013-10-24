@@ -1,5 +1,4 @@
-Pleospora fibrillosa Berl. SPECIES
-=======
+# Pleospora fibrillosa Berl. SPECIES
 
 #### Status
 ACCEPTED

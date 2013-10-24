@@ -1,5 +1,4 @@
-Sphaeria rizophila Berk. SPECIES
-=======
+# Sphaeria rizophila Berk. SPECIES
 
 #### Status
 ACCEPTED

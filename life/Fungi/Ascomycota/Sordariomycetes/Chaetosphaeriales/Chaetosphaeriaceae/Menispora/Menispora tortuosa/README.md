@@ -1,14 +1,13 @@
-Eriomenella tortuosa (Corda) Peyronel, 1918 SPECIES
-=======
+# Menispora tortuosa Corda, 1839 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 25: 447 (1918)
+Icon. fung. 3: 8 (1850)
 
 #### Original name
 Menispora tortuosa Corda, 1839

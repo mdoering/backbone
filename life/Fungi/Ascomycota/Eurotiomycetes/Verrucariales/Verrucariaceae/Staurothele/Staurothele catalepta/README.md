@@ -1,5 +1,4 @@
-Staurothele catalepta f. catalepta FORM
-=======
+# Staurothele catalepta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele catalepta f. catalepta
+null
 
 ### Remarks
 null

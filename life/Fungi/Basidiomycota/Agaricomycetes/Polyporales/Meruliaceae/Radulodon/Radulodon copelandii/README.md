@@ -1,14 +1,13 @@
-Mycoacia copelandii (Pat.) Aoshima & H. Furuk., 1966 SPECIES
-=======
+# Radulodon copelandii (Pat.) N. Maek., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 7(2,3): 136 (1966)
+Rep. Tottori Mycol. Inst. 31: 93 (1993)
 
 #### Original name
 Hydnum copelandii Pat., 1914

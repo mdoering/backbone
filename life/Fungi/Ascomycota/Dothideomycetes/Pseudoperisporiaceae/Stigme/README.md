@@ -1,5 +1,4 @@
-Stigme GENUS
-=======
+# Stigme GENUS
 
 #### Status
 ACCEPTED

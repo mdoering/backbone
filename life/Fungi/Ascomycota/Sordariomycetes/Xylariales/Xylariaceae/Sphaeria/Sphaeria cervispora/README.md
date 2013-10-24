@@ -1,5 +1,4 @@
-Sphaeria cervispora Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria cervispora Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

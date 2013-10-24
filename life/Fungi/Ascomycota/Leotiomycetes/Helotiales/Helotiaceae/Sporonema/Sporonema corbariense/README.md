@@ -1,5 +1,4 @@
-Sporonema corbariense Durrieu SPECIES
-=======
+# Sporonema corbariense Durrieu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Absidia padeni (Hesselt. & J.J. Ellis) Milko SPECIES
-=======
+# Chlamydoabsidia padenii Hesselt. & J.J. Ellis, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 58(5): 763 (1966)
 
 #### Original name
 Chlamydoabsidia padenii Hesselt. & J.J. Ellis, 1966

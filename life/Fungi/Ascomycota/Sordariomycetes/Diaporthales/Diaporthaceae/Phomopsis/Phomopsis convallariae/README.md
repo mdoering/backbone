@@ -1,5 +1,4 @@
-Phomopsis convallariae (Westend.) Grove SPECIES
-=======
+# Phomopsis convallariae (Westend.) Grove SPECIES
 
 #### Status
 ACCEPTED

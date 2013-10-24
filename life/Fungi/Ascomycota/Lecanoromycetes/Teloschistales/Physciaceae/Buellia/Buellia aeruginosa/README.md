@@ -1,5 +1,4 @@
-Buellia aeruginosa A. Nordin, Owe-Larsson & Elix SPECIES
-=======
+# Buellia aeruginosa A. Nordin, Owe-Larsson & Elix SPECIES
 
 #### Status
 ACCEPTED

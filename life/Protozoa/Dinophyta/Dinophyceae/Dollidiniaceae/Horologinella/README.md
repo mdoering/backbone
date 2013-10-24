@@ -1,5 +1,4 @@
-Horologinella I.C. Cookson & A. Eisenack, 1962 GENUS
-=======
+# Horologinella I.C. Cookson & A. Eisenack, 1962 GENUS
 
 #### Status
 ACCEPTED

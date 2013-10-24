@@ -1,5 +1,4 @@
-Milesina hashiokai Hirats. SPECIES
-=======
+# Milesina hashiokai Hirats. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia pergranulosa (Räsänen) Verseghy SPECIES
-=======
+# Ochrolechia pergranulosa (Räsänen) Verseghy SPECIES
 
 #### Status
 ACCEPTED

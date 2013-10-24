@@ -1,5 +1,4 @@
-Haynesina Banner & Culver, 1978 GENUS
-=======
+# Haynesina Banner & Culver, 1978 GENUS
 
 #### Status
 ACCEPTED

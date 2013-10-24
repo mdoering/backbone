@@ -1,5 +1,4 @@
-Marasmius nephelogenes Singer SPECIES
-=======
+# Marasmius nephelogenes Singer SPECIES
 
 #### Status
 ACCEPTED

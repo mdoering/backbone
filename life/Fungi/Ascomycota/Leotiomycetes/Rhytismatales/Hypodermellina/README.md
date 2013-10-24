@@ -1,5 +1,4 @@
-Hypodermellina Höhn. GENUS
-=======
+# Hypodermellina Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cucurbitaria gibberellodes (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cucurbitaria gibberelloides (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 461 (1898)
 
 #### Original name
 Dialonectria gibberelloides Ellis & Everh.

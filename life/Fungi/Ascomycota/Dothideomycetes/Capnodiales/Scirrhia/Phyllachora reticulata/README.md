@@ -1,5 +1,4 @@
-Phyllachora reticulata P.F. Cannon & H.C. Evans, 1999 SPECIES
-=======
+# Phyllachora reticulata P.F. Cannon & H.C. Evans, 1999 SPECIES
 
 #### Status
 DOUBTFUL

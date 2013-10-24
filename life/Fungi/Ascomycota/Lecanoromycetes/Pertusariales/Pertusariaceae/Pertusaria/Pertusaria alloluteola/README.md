@@ -1,5 +1,4 @@
-Pertusaria alloluteola A. W. Archer & Elix SPECIES
-=======
+# Pertusaria alloluteola A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

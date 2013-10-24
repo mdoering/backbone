@@ -1,5 +1,4 @@
-Camarosporium castaneae Woron. SPECIES
-=======
+# Camarosporium castaneae Woron. SPECIES
 
 #### Status
 ACCEPTED

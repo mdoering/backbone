@@ -1,5 +1,4 @@
-Lecidea permixta Nyl. SPECIES
-=======
+# Lecidea permixta Nyl. SPECIES
 
 #### Status
 ACCEPTED

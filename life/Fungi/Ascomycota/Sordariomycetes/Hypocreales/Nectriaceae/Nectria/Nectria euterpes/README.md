@@ -1,5 +1,4 @@
-Nectria euterpes Möller SPECIES
-=======
+# Nectria euterpes Möller SPECIES
 
 #### Status
 ACCEPTED

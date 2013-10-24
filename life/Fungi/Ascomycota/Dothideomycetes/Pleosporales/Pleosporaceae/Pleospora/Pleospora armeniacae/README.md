@@ -1,5 +1,4 @@
-Pleospora armeniacae McAlpine SPECIES
-=======
+# Pleospora armeniacae McAlpine SPECIES
 
 #### Status
 ACCEPTED

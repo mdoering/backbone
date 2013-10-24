@@ -1,5 +1,4 @@
-Phloeospora acerina (Pass.) Petr. SPECIES
-=======
+# Phloeospora acerina (Pass.) Petr. SPECIES
 
 #### Status
 ACCEPTED

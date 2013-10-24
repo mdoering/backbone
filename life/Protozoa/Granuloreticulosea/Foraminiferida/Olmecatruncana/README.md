@@ -1,5 +1,4 @@
-Olmecatruncana Soto-Jaramillo & Zamudio-Angeles, 1987 GENUS
-=======
+# Olmecatruncana Soto-Jaramillo & Zamudio-Angeles, 1987 GENUS
 
 #### Status
 ACCEPTED

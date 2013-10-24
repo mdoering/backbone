@@ -1,14 +1,13 @@
-Stilbella byssina (Pers.) Lindau, 1908 SPECIES
-=======
+# Dendrostilbella byssina (Pers.) Höhn., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(9): 301 (1908)
+Annls mycol. 3(6): 558 (1906)
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Dionysia Arnaud, 1952 GENUS
-=======
+# Candelabrum Van Beverwijk, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 68: 212 (1952)
+Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 17: 283 (1951)
 
 #### Original name
-Dionysia Arnaud, 1952
+Candelabrum Van Beverwijk, 1951
 
 ### Remarks
 null

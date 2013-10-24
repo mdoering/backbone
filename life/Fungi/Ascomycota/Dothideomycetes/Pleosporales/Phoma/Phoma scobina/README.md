@@ -1,5 +1,4 @@
-Phoma scobina Cooke, 1885 SPECIES
-=======
+# Phoma scobina Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

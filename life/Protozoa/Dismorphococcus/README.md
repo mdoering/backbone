@@ -1,5 +1,4 @@
-Dismorphococcus GENUS
-=======
+# Dismorphococcus GENUS
 
 #### Status
 ACCEPTED

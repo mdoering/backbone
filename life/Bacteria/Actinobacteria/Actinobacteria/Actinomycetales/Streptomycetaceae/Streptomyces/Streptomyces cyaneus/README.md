@@ -1,11 +1,10 @@
-Actinomyces cyaneus Krasil'nikov, 1941 SPECIES
-=======
+# Streptomyces cyaneus (Krasil'nikov, 1941) Waksman, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Lactifluus impolitus (Fr.) Kuntze SPECIES
-=======
+# Lactifluus impolitus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

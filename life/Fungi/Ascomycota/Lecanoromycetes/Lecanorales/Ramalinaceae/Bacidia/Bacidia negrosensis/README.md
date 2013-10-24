@@ -1,5 +1,4 @@
-Bacidia negrosensis Herre SPECIES
-=======
+# Bacidia negrosensis Herre SPECIES
 
 #### Status
 ACCEPTED

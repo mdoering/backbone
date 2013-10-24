@@ -1,5 +1,4 @@
-Actinomyces georgiae Johnson et al., 1990 SPECIES
-=======
+# Actinomyces georgiae Johnson et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia arjonae (Speg.) Liro SPECIES
-=======
+# Tuburcinia arjonae (Speg.) Liro SPECIES
 
 #### Status
 ACCEPTED

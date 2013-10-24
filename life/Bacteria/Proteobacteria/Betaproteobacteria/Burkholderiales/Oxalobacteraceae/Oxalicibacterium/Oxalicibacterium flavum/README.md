@@ -1,5 +1,4 @@
-Oxalicibacterium flavum Tamer et al., 2003 SPECIES
-=======
+# Oxalicibacterium flavum Tamer et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria atriella Cooke & Ellis SPECIES
-=======
+# Sphaeria atriella Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

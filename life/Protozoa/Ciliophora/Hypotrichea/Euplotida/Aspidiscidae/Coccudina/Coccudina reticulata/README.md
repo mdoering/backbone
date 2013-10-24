@@ -1,5 +1,4 @@
-Coccudina reticulata Dujardin, 1841 SPECIES
-=======
+# Coccudina reticulata Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

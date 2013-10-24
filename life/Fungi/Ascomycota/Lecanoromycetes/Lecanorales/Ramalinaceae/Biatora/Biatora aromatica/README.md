@@ -1,5 +1,4 @@
-Biatora aromatica (Turner) Hepp SPECIES
-=======
+# Biatora aromatica (Turner) Hepp SPECIES
 
 #### Status
 ACCEPTED

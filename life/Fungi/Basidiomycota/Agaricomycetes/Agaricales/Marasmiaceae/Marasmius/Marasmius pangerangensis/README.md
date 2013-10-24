@@ -1,5 +1,4 @@
-Marasmius pangerangensis Henn. SPECIES
-=======
+# Marasmius pangerangensis Henn. SPECIES
 
 #### Status
 ACCEPTED

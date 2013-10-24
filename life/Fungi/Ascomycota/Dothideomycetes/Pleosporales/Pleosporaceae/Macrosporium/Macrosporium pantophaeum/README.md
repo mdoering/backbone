@@ -1,5 +1,4 @@
-Macrosporium pantophaeum Sacc. SPECIES
-=======
+# Macrosporium pantophaeum Sacc. SPECIES
 
 #### Status
 ACCEPTED

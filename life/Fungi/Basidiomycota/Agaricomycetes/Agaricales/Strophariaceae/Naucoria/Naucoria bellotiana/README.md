@@ -1,5 +1,4 @@
-Naucoria bellotiana Berk. SPECIES
-=======
+# Naucoria bellotiana Berk. SPECIES
 
 #### Status
 ACCEPTED

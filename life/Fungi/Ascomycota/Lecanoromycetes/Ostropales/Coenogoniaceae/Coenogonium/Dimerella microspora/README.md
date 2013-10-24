@@ -1,5 +1,4 @@
-Dimerella microspora Müll. Arg. SPECIES
-=======
+# Dimerella microspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

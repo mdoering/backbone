@@ -1,5 +1,4 @@
-Golbergiidae FAMILY
-=======
+# Golbergiidae FAMILY
 
 #### Status
 ACCEPTED

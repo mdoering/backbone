@@ -1,5 +1,4 @@
-Aglaospora xanthoxyli (Peck) Kuntze SPECIES
-=======
+# Aglaospora xanthoxyli (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

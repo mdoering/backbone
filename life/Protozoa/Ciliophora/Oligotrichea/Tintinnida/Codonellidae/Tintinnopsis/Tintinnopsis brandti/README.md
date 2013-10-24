@@ -1,5 +1,4 @@
-Tintinnopsis brandti Nordqvist, 1890 SPECIES
-=======
+# Tintinnopsis brandti Nordqvist, 1890 SPECIES
 
 #### Status
 ACCEPTED

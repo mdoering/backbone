@@ -1,5 +1,4 @@
-Stegonsporium kravtzevii Schwarzman SPECIES
-=======
+# Stegonsporium kravtzevii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

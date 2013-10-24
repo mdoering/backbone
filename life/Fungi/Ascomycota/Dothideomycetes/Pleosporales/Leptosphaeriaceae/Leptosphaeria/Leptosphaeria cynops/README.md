@@ -1,5 +1,4 @@
-Leptosphaeria cynops Fabre SPECIES
-=======
+# Leptosphaeria cynops Fabre SPECIES
 
 #### Status
 ACCEPTED

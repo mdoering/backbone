@@ -1,5 +1,4 @@
-Hypoxylon ovinum Berk. SPECIES
-=======
+# Hypoxylon ovinum Berk. SPECIES
 
 #### Status
 ACCEPTED

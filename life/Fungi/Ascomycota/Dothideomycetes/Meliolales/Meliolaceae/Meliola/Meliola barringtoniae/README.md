@@ -1,5 +1,4 @@
-Meliola barringtoniae H.S. Yates SPECIES
-=======
+# Meliola barringtoniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

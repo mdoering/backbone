@@ -1,5 +1,4 @@
-Lactarius corrugis Peck SPECIES
-=======
+# Lactarius corrugis Peck SPECIES
 
 #### Status
 ACCEPTED

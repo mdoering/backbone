@@ -1,5 +1,4 @@
-Anthostomella spirilla Panwar & S.J. Kaur SPECIES
-=======
+# Anthostomella spirilla Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

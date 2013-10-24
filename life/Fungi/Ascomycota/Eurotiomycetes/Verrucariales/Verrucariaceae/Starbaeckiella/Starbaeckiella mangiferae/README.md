@@ -1,5 +1,4 @@
-Starbaeckiella mangiferae (Syd.) Syd. SPECIES
-=======
+# Starbaeckiella mangiferae (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

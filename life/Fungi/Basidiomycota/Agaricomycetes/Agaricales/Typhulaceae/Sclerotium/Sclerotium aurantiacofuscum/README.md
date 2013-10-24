@@ -1,5 +1,4 @@
-Sclerotium aurantiacofuscum Rabenh. SPECIES
-=======
+# Sclerotium aurantiacofuscum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

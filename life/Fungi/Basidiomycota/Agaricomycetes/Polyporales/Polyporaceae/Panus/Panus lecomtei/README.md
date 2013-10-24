@@ -1,5 +1,4 @@
-Panus lecomtei (Fr.) Corner SPECIES
-=======
+# Panus lecomtei (Fr.) Corner SPECIES
 
 #### Status
 ACCEPTED

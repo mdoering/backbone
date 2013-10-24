@@ -1,5 +1,4 @@
-Discophrya Lachmann, 1859 GENUS
-=======
+# Discophrya Lachmann, 1859 GENUS
 
 #### Status
 ACCEPTED

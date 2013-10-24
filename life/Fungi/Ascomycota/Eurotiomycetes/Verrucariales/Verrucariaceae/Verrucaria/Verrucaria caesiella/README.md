@@ -1,5 +1,4 @@
-Verrucaria caesiella Servít SPECIES
-=======
+# Verrucaria caesiella Servít SPECIES
 
 #### Status
 ACCEPTED

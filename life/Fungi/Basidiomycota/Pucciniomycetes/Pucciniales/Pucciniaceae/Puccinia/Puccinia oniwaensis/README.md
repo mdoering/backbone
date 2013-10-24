@@ -1,5 +1,4 @@
-Puccinia oniwaensis Hirats. f. & S. Sato SPECIES
-=======
+# Puccinia oniwaensis Hirats. f. & S. Sato SPECIES
 
 #### Status
 ACCEPTED

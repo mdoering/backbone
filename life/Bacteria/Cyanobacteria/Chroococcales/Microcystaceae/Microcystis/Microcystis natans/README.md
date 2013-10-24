@@ -1,5 +1,4 @@
-Microcystis natans Lemmermann ex Skuja SPECIES
-=======
+# Microcystis natans Lemmermann ex Skuja SPECIES
 
 #### Status
 ACCEPTED

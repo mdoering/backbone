@@ -1,5 +1,4 @@
-Eutypella terminaliae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
-=======
+# Eutypella terminaliae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

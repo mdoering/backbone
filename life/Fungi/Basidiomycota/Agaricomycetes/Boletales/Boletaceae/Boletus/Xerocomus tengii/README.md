@@ -1,5 +1,4 @@
-Xerocomus tengii M. Zang, J.T. Lin & N.L. Huang SPECIES
-=======
+# Xerocomus tengii M. Zang, J.T. Lin & N.L. Huang SPECIES
 
 #### Status
 ACCEPTED

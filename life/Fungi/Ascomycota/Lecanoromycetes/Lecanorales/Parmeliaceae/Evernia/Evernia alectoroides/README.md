@@ -1,5 +1,4 @@
-Evernia alectoroides (Motyka) M. Choisy SPECIES
-=======
+# Evernia alectoroides (Motyka) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

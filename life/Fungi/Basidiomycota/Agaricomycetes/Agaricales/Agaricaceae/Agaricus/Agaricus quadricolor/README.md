@@ -1,5 +1,4 @@
-Agaricus quadricolor Scop. SPECIES
-=======
+# Agaricus quadricolor Scop. SPECIES
 
 #### Status
 ACCEPTED

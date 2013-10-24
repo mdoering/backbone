@@ -1,5 +1,4 @@
-Coniosporium arnicae Lib. SPECIES
-=======
+# Coniosporium arnicae Lib. SPECIES
 
 #### Status
 ACCEPTED

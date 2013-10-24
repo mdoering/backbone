@@ -1,5 +1,4 @@
-Callopisma erythranthum f. erythranthum FORM
-=======
+# Callopisma erythranthum (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

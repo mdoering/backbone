@@ -1,5 +1,4 @@
-Diplodia gongrogena Temme SPECIES
-=======
+# Diplodia gongrogena Temme SPECIES
 
 #### Status
 ACCEPTED

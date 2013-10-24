@@ -1,17 +1,16 @@
-Dentiscutata cerradensis (Spain & J. Miranda) Sieverd., F.A. Souza & Oehl, 2008 SPECIES
-=======
+# Scutellospora cerradensis Spain & J. Miranda, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 60: 130 (1996)
 
 #### Original name
-null
+Scutellospora cerradensis Spain & J. Miranda, 1996
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hendersonia aesculicola Berl. SPECIES
-=======
+# Hendersonia aesculicola Berl. SPECIES
 
 #### Status
 ACCEPTED

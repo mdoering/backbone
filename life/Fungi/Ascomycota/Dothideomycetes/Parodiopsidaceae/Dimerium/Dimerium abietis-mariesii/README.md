@@ -1,5 +1,4 @@
-Dimerium abietis-mariesii Sawada SPECIES
-=======
+# Dimerium abietis-mariesii Sawada SPECIES
 
 #### Status
 ACCEPTED

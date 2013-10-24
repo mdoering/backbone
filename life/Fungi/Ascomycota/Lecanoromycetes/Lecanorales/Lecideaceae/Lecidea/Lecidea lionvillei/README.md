@@ -1,5 +1,4 @@
-Lecidea lionvillei Hue SPECIES
-=======
+# Lecidea lionvillei Hue SPECIES
 
 #### Status
 ACCEPTED

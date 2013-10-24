@@ -1,5 +1,4 @@
-Coleosporium telekiae Thüm., 1873 SPECIES
-=======
+# Coleosporium telekiae Thüm., 1873 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paraparmelia huttonii Louwhoff & Elix SPECIES
-=======
+# Xanthoparmelia huttonii (Louwhoff & Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 68: 439 (1998)
+Mycotaxon 87: 399 (2003)
 
 #### Original name
 Paraparmelia huttonii Louwhoff & Elix

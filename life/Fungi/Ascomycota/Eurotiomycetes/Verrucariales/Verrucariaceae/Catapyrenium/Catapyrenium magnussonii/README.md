@@ -1,5 +1,4 @@
-Catapyrenium magnussonii (Werner) SPECIES
-=======
+# Catapyrenium magnussonii (Werner) SPECIES
 
 #### Status
 ACCEPTED

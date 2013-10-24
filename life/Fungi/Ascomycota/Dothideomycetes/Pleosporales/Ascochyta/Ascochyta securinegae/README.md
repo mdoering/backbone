@@ -1,5 +1,4 @@
-Ascochyta securinegae Jenkina SPECIES
-=======
+# Ascochyta securinegae Jenkina SPECIES
 
 #### Status
 ACCEPTED

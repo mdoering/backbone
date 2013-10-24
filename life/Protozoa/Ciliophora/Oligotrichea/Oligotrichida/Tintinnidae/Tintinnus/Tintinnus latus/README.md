@@ -1,5 +1,4 @@
-Tintinnus latus Jörgensen, 1924 SPECIES
-=======
+# Tintinnus latus Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

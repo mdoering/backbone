@@ -1,5 +1,4 @@
-Cladococcus scoparius Haeckel, 1887 SPECIES
-=======
+# Cladococcus scoparius Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

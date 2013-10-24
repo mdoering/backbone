@@ -1,5 +1,4 @@
-Mycena perturbata Raithelh. SPECIES
-=======
+# Mycena perturbata Raithelh. SPECIES
 
 #### Status
 ACCEPTED

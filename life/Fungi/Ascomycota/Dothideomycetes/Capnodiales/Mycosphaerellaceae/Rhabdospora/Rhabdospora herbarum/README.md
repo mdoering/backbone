@@ -1,5 +1,4 @@
-Rhabdospora herbarum (Preuss) Sacc. SPECIES
-=======
+# Rhabdospora herbarum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

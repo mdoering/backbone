@@ -1,5 +1,4 @@
-Lecidea geomea Röhling SPECIES
-=======
+# Lecidea geomea Röhling SPECIES
 
 #### Status
 ACCEPTED

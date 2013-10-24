@@ -1,5 +1,4 @@
-Hydnum murashkinskyi Burt SPECIES
-=======
+# Hydnum murashkinskyi Burt SPECIES
 
 #### Status
 ACCEPTED

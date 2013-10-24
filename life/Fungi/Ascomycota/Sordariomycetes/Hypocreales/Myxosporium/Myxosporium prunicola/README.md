@@ -1,5 +1,4 @@
-Myxosporium prunicola Sacc. & Roum. SPECIES
-=======
+# Myxosporium prunicola Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

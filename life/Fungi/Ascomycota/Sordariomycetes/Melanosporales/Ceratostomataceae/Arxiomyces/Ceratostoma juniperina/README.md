@@ -1,5 +1,4 @@
-Ceratostoma juniperina Ellis & Everh. SPECIES
-=======
+# Ceratostoma juniperina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

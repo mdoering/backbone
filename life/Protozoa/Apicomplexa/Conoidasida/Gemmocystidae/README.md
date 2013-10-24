@@ -1,5 +1,4 @@
-Gemmocystidae Upton & Peters, 1986 FAMILY
-=======
+# Gemmocystidae Upton & Peters, 1986 FAMILY
 
 #### Status
 ACCEPTED

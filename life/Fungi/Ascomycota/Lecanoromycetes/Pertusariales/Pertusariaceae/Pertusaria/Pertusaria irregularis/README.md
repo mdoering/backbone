@@ -1,5 +1,4 @@
-Pertusaria irregularis Müll. Arg. SPECIES
-=======
+# Pertusaria irregularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

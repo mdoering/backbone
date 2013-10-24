@@ -1,5 +1,4 @@
-Helotium angolense Starbäck SPECIES
-=======
+# Helotium angolense Starbäck SPECIES
 
 #### Status
 ACCEPTED

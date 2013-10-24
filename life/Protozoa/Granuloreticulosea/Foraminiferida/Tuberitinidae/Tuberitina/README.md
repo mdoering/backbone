@@ -1,5 +1,4 @@
-Tuberitina Galloway & Harlton, 1928 GENUS
-=======
+# Tuberitina Galloway & Harlton, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster quadramus Bukry, 1973 SPECIES
-=======
+# Discoaster quadramus Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

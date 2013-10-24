@@ -1,5 +1,4 @@
-Verrucaria subvariolosa C. Knight SPECIES
-=======
+# Verrucaria subvariolosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

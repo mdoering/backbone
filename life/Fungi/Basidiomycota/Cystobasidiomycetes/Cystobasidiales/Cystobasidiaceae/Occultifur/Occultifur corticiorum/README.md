@@ -1,5 +1,4 @@
-Occultifur corticiorum P. Roberts, 1997 SPECIES
-=======
+# Occultifur corticiorum P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

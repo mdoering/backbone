@@ -1,5 +1,4 @@
-Cordyceps pleuricapitata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps pleuricapitata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

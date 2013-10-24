@@ -1,5 +1,4 @@
-Daldinia barkalovii Lar.N. Vassiljeva & M. Stadler, 2008 SPECIES
-=======
+# Daldinia barkalovii Lar.N. Vassiljeva & M. Stadler, 2008 SPECIES
 
 #### Status
 ACCEPTED

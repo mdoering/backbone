@@ -1,17 +1,16 @@
-Colletotrichum sativum N.L. Horn, 1952 SPECIES
-=======
+# Colletotrichum destructivum O'Gara, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 42: 673 (1952)
+Mycologia 7(1): 38 (1915)
 
 #### Original name
-Colletotrichum sativum N.L. Horn, 1952
+Colletotrichum destructivum O'Gara, 1915
 
 ### Remarks
 null

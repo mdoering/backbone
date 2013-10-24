@@ -1,5 +1,4 @@
-Graphis haleana R.C. Harris SPECIES
-=======
+# Graphis haleana R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Athabascaella maculosa Yin Leiming, 1995 SPECIES
-=======
+# Athabascaella maculosa Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrostilbum Pat. GENUS
-=======
+# Macrostilbum Pat. GENUS
 
 #### Status
 ACCEPTED

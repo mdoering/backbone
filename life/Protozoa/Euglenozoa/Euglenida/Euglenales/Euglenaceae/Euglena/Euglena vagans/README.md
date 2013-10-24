@@ -1,5 +1,4 @@
-Euglena vagans var. parva Chrystiuk VARIETY
-=======
+# Euglena vagans Deflandre SPECIES
 
 #### Status
 ACCEPTED

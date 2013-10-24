@@ -1,5 +1,4 @@
-Karsella Sirel, 1997 GENUS
-=======
+# Karsella Sirel, 1997 GENUS
 
 #### Status
 ACCEPTED

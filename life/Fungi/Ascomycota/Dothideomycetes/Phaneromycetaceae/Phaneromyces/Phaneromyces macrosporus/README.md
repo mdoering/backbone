@@ -1,14 +1,13 @@
-Belonidium macrosporum (Boud.) Sacc. SPECIES
-=======
+# Phaneromyces macrosporus (Boud.) Speg., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 27 (1892)
+Revue mycol. , Toulouse 11: 93 (1889)
 
 #### Original name
 Niptera macrospora Boud., 1883

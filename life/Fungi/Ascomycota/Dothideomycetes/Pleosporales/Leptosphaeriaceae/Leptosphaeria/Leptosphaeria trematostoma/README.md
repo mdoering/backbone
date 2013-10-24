@@ -1,5 +1,4 @@
-Leptosphaeria trematostoma Feltgen SPECIES
-=======
+# Leptosphaeria trematostoma Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe rufolutea J. Favre SPECIES
-=======
+# Inocybe rufolutea J. Favre SPECIES
 
 #### Status
 ACCEPTED

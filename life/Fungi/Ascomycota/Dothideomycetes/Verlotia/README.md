@@ -1,5 +1,4 @@
-Verlotia GENUS
-=======
+# Verlotia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sublecanorina (Nyl.) Vain. SPECIES
-=======
+# Lecidea sublecanorina (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

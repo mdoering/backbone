@@ -1,5 +1,4 @@
-Candelariella cerebriformis C.W. Dodge SPECIES
-=======
+# Candelariella cerebriformis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

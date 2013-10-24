@@ -1,5 +1,4 @@
-Uromyces jacksonii Arthur & Fromme SPECIES
-=======
+# Uromyces jacksonii Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

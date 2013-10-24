@@ -1,5 +1,4 @@
-Leiogramma obtusatum G. Mey. SPECIES
-=======
+# Leiogramma obtusatum G. Mey. SPECIES
 
 #### Status
 ACCEPTED

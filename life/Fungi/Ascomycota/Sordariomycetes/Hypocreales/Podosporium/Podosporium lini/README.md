@@ -1,5 +1,4 @@
-Podosporium lini Lév. SPECIES
-=======
+# Podosporium lini Lév. SPECIES
 
 #### Status
 ACCEPTED

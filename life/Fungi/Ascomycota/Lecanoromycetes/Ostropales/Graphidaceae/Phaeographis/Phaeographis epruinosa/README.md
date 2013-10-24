@@ -1,5 +1,4 @@
-Phaeographis epruinosa (Redinger) Staiger SPECIES
-=======
+# Phaeographis epruinosa (Redinger) Staiger SPECIES
 
 #### Status
 ACCEPTED

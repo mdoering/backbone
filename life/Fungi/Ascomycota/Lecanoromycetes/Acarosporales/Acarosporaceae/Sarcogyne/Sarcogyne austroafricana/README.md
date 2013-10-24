@@ -1,5 +1,4 @@
-Sarcogyne austroafricana (Zahlbr.) H. Magn. SPECIES
-=======
+# Sarcogyne austroafricana (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

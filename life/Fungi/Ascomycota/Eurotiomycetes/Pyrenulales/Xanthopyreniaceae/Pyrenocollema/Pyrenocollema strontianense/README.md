@@ -1,14 +1,13 @@
-Verrucaria strontianensis Swinscow SPECIES
-=======
+# Pyrenocollema strontianense (Swinscow) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Egan, Bryologist 90(2): 164 (1987)
 
 #### Original name
 Verrucaria strontianensis Swinscow

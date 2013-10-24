@@ -1,5 +1,4 @@
-Ascobolus aglaosporus Heimerl SPECIES
-=======
+# Ascobolus aglaosporus Heimerl SPECIES
 
 #### Status
 ACCEPTED

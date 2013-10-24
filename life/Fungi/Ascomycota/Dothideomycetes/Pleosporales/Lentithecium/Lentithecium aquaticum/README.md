@@ -1,5 +1,4 @@
-Lentithecium aquaticum Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
-=======
+# Lentithecium aquaticum Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

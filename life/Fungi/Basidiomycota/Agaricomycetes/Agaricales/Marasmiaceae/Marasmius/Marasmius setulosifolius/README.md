@@ -1,5 +1,4 @@
-Marasmius setulosifolius Singer SPECIES
-=======
+# Marasmius setulosifolius Singer SPECIES
 
 #### Status
 ACCEPTED

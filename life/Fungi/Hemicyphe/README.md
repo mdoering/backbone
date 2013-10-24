@@ -1,5 +1,4 @@
-Hemicyphe Corda GENUS
-=======
+# Hemicyphe Corda GENUS
 
 #### Status
 ACCEPTED

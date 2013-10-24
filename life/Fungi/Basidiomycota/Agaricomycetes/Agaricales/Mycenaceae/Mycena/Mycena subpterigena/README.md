@@ -1,5 +1,4 @@
-Mycena subpterigena Métrod SPECIES
-=======
+# Mycena subpterigena Métrod SPECIES
 
 #### Status
 ACCEPTED

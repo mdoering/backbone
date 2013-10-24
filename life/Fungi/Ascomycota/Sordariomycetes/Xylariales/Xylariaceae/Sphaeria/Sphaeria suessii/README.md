@@ -1,5 +1,4 @@
-Sphaeria suessii Ettingsh. SPECIES
-=======
+# Sphaeria suessii Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

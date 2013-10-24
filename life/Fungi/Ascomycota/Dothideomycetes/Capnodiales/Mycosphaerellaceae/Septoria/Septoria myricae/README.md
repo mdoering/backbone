@@ -1,5 +1,4 @@
-Septoria myricae Ellis & Everh., 1897 SPECIES
-=======
+# Septoria myricae Ellis & Everh., 1897 SPECIES
 
 #### Status
 ACCEPTED

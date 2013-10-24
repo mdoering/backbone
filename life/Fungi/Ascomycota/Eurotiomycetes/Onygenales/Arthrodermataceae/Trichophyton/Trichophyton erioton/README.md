@@ -1,5 +1,4 @@
-Trichophyton erioton Cazalbou SPECIES
-=======
+# Trichophyton erioton Cazalbou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella subtilis (Fr. Fr.) Dennis SPECIES
-=======
+# Pezizella subtilis (Fr. Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

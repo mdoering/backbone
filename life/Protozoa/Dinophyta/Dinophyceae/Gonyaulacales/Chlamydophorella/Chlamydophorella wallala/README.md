@@ -1,5 +1,4 @@
-Chlamydophorella wallala Cookson & Eisenack SPECIES
-=======
+# Chlamydophorella wallala Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

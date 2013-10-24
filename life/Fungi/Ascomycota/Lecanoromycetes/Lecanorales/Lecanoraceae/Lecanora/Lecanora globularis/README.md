@@ -1,5 +1,4 @@
-Lecanora globularis Kremp. SPECIES
-=======
+# Lecanora globularis Kremp. SPECIES
 
 #### Status
 ACCEPTED

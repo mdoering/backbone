@@ -1,5 +1,4 @@
-Lecidea cyanoglauca Nyl. SPECIES
-=======
+# Lecidea cyanoglauca Nyl. SPECIES
 
 #### Status
 ACCEPTED

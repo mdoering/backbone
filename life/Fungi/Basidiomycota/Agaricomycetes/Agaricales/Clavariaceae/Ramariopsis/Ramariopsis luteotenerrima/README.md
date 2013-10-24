@@ -1,17 +1,16 @@
-Clavaria luteotenerrima var. borealis Leathers VARIETY
-=======
+# Ramariopsis luteotenerrima (Overeem) R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 48: 285 (1956)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 236: 129 (1988)
 
 #### Original name
-Clavaria luteotenerrima var. borealis Leathers
+Clavaria luteotenerrima Overeem, 1923
 
 ### Remarks
 null

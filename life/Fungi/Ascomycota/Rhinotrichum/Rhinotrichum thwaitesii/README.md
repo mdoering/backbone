@@ -1,17 +1,16 @@
-Rhinotrichum thwaitesii var. thwaitesii VARIETY
-=======
+# Rhinotrichum thwaitesii Berk. & Broome, 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Mag. nat. Hist. , Ser. 2 7: no. 542 (1851)
 
 #### Original name
-Rhinotrichum thwaitesii var. thwaitesii
+Rhinotrichum thwaitesii Berk. & Broome, 1851
 
 ### Remarks
 null

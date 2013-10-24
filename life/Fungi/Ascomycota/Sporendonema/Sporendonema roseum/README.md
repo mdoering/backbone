@@ -1,5 +1,4 @@
-Sporendonema roseum Grove SPECIES
-=======
+# Sporendonema roseum Grove SPECIES
 
 #### Status
 ACCEPTED

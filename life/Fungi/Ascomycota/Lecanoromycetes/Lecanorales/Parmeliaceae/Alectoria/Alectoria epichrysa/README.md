@@ -1,5 +1,4 @@
-Alectoria epichrysa Stirt. SPECIES
-=======
+# Alectoria epichrysa Stirt. SPECIES
 
 #### Status
 ACCEPTED

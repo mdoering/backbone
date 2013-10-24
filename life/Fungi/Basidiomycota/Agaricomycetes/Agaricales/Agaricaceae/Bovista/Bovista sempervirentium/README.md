@@ -1,5 +1,4 @@
-Bovista sempervirentium Kreisel SPECIES
-=======
+# Bovista sempervirentium Kreisel SPECIES
 
 #### Status
 ACCEPTED

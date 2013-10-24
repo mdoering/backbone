@@ -1,5 +1,4 @@
-Cortinarius lacus Rob. Henry SPECIES
-=======
+# Cortinarius lacus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

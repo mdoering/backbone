@@ -1,5 +1,4 @@
-Cortinarius modestus Peck SPECIES
-=======
+# Cortinarius modestus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina marginalis Petr. SPECIES
-=======
+# Asterina marginalis Petr. SPECIES
 
 #### Status
 ACCEPTED

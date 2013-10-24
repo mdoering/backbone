@@ -1,5 +1,4 @@
-Amanita illudens (Cooke & Massee) Sacc. SPECIES
-=======
+# Amanita illudens (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

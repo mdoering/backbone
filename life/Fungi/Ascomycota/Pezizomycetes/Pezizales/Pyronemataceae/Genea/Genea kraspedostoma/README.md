@@ -1,5 +1,4 @@
-Genea kraspedostoma (Gilkey) Trappe SPECIES
-=======
+# Genea kraspedostoma (Gilkey) Trappe SPECIES
 
 #### Status
 ACCEPTED

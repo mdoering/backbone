@@ -1,5 +1,4 @@
-Cryptomyces aureus (Sowerby) SPECIES
-=======
+# Cryptomyces aureus (Sowerby) SPECIES
 
 #### Status
 ACCEPTED

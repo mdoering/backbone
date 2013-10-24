@@ -1,5 +1,4 @@
-Agaricus polius Pers. SPECIES
-=======
+# Agaricus polius Pers. SPECIES
 
 #### Status
 ACCEPTED

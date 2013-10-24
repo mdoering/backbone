@@ -1,5 +1,4 @@
-Ochrobactrum gallinifaecis Kämpfer et al., 2003 SPECIES
-=======
+# Ochrobactrum gallinifaecis Kämpfer et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

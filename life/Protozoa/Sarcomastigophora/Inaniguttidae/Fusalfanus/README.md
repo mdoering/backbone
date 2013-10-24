@@ -1,5 +1,4 @@
-Fusalfanus Furutani, 1990 GENUS
-=======
+# Fusalfanus Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

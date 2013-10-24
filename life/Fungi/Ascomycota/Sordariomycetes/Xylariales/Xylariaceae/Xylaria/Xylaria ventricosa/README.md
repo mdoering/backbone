@@ -1,5 +1,4 @@
-Xylaria ventricosa Berk. SPECIES
-=======
+# Xylaria ventricosa Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria brenckleana Petr. SPECIES
-=======
+# Nectria brenckleana Petr. SPECIES
 
 #### Status
 ACCEPTED

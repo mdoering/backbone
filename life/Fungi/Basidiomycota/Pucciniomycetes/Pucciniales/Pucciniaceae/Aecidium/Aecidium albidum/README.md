@@ -1,5 +1,4 @@
-Aecidium albidum f. albidum Bonord. FORM
-=======
+# Aecidium albidum Bonord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium albidum f. albidum Bonord.
+Aecidium albidum Bonord.
 
 ### Remarks
 null

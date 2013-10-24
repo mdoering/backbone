@@ -1,5 +1,4 @@
-Sordaria botryosa Penz. & Sacc. SPECIES
-=======
+# Sordaria botryosa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

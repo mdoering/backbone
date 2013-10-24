@@ -1,17 +1,16 @@
-Brachysporium yamadaeanum Matsuura SPECIES
-=======
+# Brachysporium yamadanum Matsuura SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Byochu-gai Zasshi, [<i>Journal of Plant Protection, Tokyo</i>] 17: 419 (1931)
 
 #### Original name
-Brachysporium yamadaeanum Matsuura
+Brachysporium yamadanum Matsuura
 
 ### Remarks
 null

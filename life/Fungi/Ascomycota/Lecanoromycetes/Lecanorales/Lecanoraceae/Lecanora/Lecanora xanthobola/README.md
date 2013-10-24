@@ -1,5 +1,4 @@
-Lecanora xanthobola Kremp. SPECIES
-=======
+# Lecanora xanthobola Kremp. SPECIES
 
 #### Status
 ACCEPTED

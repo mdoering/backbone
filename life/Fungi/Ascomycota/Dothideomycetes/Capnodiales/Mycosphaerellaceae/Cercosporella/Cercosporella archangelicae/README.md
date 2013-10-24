@@ -1,5 +1,4 @@
-Cercosporella archangelicae Jaap SPECIES
-=======
+# Cercosporella archangelicae Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces caesalpiniae Arthur SPECIES
-=======
+# Uromyces caesalpiniae Arthur SPECIES
 
 #### Status
 ACCEPTED

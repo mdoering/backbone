@@ -1,5 +1,4 @@
-Arthrobotryum atrocephalum (Ellis) Sacc. SPECIES
-=======
+# Arthrobotryum atrocephalum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

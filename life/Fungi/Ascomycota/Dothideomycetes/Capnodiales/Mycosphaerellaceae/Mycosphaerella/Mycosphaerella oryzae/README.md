@@ -1,5 +1,4 @@
-Mycosphaerella oryzae (Garov. & Catt.) Jacz. SPECIES
-=======
+# Mycosphaerella oryzae (Garov. & Catt.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina lens (Speg.) Kuntze SPECIES
-=======
+# Calycina lens (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

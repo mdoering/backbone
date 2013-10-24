@@ -1,5 +1,4 @@
-Stephanopyxis defecta N. I. Strelnikova SPECIES
-=======
+# Stephanopyxis defecta N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

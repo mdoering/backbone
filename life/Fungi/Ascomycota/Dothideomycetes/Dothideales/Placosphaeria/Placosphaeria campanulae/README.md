@@ -1,14 +1,13 @@
-Phyllachora campanulae (DC.) Fuckel, 1870 SPECIES
-=======
+# Placosphaeria campanulae (DC.) Bäumler, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 219 (1870)
+Verh. Ver. Nat. , Heilk. Pressb. 15: 76 (1887)
 
 #### Original name
 Xyloma campanulae DC.

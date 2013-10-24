@@ -1,5 +1,4 @@
-Vorticella pulchella Sommer, 1951 SPECIES
-=======
+# Vorticella pulchella Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

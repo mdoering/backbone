@@ -1,5 +1,4 @@
-Stigmina vitis Dearn. & Barthol. SPECIES
-=======
+# Stigmina vitis Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

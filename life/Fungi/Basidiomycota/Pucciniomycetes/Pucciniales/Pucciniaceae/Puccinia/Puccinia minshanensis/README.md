@@ -1,5 +1,4 @@
-Puccinia minshanensis J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia minshanensis J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

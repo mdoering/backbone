@@ -1,5 +1,4 @@
-Vorticella macrocaulis Stokes, 1885 SPECIES
-=======
+# Vorticella macrocaulis Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

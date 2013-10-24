@@ -1,5 +1,4 @@
-Sleighophrys Foissner, 2005 GENUS
-=======
+# Sleighophrys Foissner, 2005 GENUS
 
 #### Status
 ACCEPTED

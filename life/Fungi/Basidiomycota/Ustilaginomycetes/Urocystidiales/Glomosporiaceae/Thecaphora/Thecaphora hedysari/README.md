@@ -1,5 +1,4 @@
-Thecaphora hedysari Vánky SPECIES
-=======
+# Thecaphora hedysari Vánky SPECIES
 
 #### Status
 ACCEPTED

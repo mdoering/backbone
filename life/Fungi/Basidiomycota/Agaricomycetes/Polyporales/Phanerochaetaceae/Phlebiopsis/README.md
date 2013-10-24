@@ -1,5 +1,4 @@
-Phlebiopsis Jülich, 1978 GENUS
-=======
+# Phlebiopsis Jülich, 1978 GENUS
 
 #### Status
 ACCEPTED

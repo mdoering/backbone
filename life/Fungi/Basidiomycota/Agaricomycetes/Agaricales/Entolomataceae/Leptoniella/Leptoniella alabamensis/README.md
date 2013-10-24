@@ -1,5 +1,4 @@
-Leptoniella alabamensis Murrill SPECIES
-=======
+# Leptoniella alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

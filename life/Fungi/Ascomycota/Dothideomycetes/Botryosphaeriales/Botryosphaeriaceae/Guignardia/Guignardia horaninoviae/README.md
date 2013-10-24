@@ -1,17 +1,16 @@
-Guignardia horaninowiae Nasyrov SPECIES
-=======
+# Guignardia horaninoviae Nasyrov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Griby Oazisov Vostochnoi Turkmenii (Ashkhabad) 300 (1965)
 
 #### Original name
-Guignardia horaninowiae Nasyrov
+Guignardia horaninoviae Nasyrov
 
 ### Remarks
 null

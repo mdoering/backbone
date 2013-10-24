@@ -1,14 +1,13 @@
-Microporus nothopus (Lév.) Kuntze SPECIES
-=======
+# Microporus notopus (Lév.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
 
 #### Original name
 Polyporus nothopus Lév.

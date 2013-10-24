@@ -1,5 +1,4 @@
-Lecanora vulcaniola SPECIES
-=======
+# Lecanora vulcaniola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria balatonica var. balatonica VARIETY
-=======
+# Squamaria balatonica Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria balatonica var. balatonica
+Squamaria balatonica Gyeln.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena straminella Maas Geest. & de Meijer SPECIES
-=======
+# Mycena straminella Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

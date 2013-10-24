@@ -1,5 +1,4 @@
-Darluca bauhiniicola Bat. & Peres SPECIES
-=======
+# Darluca bauhiniicola Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

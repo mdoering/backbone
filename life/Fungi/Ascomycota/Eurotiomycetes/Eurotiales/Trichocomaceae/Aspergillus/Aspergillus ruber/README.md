@@ -1,17 +1,16 @@
-Aspergillus sejunctus Bainier & Sartory, 1911 SPECIES
-=======
+# Aspergillus ruber Thom & Church, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27: 361-367 (1911)
+The Genus Aspergillus 112 (1926)
 
 #### Original name
-Aspergillus sejunctus Bainier & Sartory, 1911
+Aspergillus ruber Thom & Church, 1926
 
 ### Remarks
 null

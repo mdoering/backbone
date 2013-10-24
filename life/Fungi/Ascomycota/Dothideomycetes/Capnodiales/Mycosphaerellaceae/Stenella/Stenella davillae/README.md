@@ -1,5 +1,4 @@
-Stenella davillae R.F. Castañeda SPECIES
-=======
+# Stenella davillae R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

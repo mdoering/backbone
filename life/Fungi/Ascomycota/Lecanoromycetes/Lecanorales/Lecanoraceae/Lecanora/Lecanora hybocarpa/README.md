@@ -1,17 +1,16 @@
-Parmelia hybocarpa Tuck. SPECIES
-=======
+# Lecanora hybocarpa (Tuck.) Brodo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 134 (1984)
 
 #### Original name
-null
+Parmelia hybocarpa Tuck.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scutisporium GENUS
-=======
+# Scutisporium GENUS
 
 #### Status
 ACCEPTED

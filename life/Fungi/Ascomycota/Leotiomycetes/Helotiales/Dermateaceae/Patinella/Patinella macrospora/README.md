@@ -1,5 +1,4 @@
-Patinella macrospora Massee, 1893 SPECIES
-=======
+# Patinella macrospora Massee, 1893 SPECIES
 
 #### Status
 ACCEPTED

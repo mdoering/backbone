@@ -1,5 +1,4 @@
-Ophiobolus isiacus (Ces.) Sacc. SPECIES
-=======
+# Ophiobolus isiacus (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

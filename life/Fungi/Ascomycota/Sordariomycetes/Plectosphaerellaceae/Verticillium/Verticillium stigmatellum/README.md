@@ -1,5 +1,4 @@
-Verticillium stigmatellum Berk. & M.A. Curtis SPECIES
-=======
+# Verticillium stigmatellum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

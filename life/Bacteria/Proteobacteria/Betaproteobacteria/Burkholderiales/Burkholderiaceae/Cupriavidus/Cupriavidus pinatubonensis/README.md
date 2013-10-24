@@ -1,5 +1,4 @@
-Cupriavidus pinatubonensis Sato et al., 2006 SPECIES
-=======
+# Cupriavidus pinatubonensis Sato et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

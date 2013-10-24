@@ -1,5 +1,4 @@
-Cucurbitaria xanthostigma (Berk. & Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria xanthostigma (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

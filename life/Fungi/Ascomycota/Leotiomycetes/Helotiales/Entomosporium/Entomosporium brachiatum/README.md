@@ -1,5 +1,4 @@
-Entomosporium brachiatum Lév. SPECIES
-=======
+# Entomosporium brachiatum Lév. SPECIES
 
 #### Status
 ACCEPTED

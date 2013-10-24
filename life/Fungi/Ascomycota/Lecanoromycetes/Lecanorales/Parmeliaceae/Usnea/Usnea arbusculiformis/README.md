@@ -1,5 +1,4 @@
-Usnea arbusculiformis Motyka SPECIES
-=======
+# Usnea arbusculiformis Motyka SPECIES
 
 #### Status
 ACCEPTED

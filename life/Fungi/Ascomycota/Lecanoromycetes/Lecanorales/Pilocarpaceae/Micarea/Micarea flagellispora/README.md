@@ -1,5 +1,4 @@
-Micarea flagellispora Coppins & Kantvilas SPECIES
-=======
+# Micarea flagellispora Coppins & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astasia harrisii var. crassa Popova VARIETY
-=======
+# Astasia harrisii E. G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

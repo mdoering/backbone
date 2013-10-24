@@ -1,5 +1,4 @@
-Xiphothecaella brevicaudata SPECIES
-=======
+# Xiphothecaella brevicaudata SPECIES
 
 #### Status
 ACCEPTED

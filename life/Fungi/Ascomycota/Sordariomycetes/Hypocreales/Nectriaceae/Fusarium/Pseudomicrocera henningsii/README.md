@@ -1,5 +1,4 @@
-Pseudomicrocera henningsii (Koord.) Petch SPECIES
-=======
+# Pseudomicrocera henningsii (Koord.) Petch SPECIES
 
 #### Status
 ACCEPTED

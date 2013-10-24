@@ -1,5 +1,4 @@
-Myrmecomyces Jouvenaz & Kimbr. GENUS
-=======
+# Myrmecomyces Jouvenaz & Kimbr. GENUS
 
 #### Status
 ACCEPTED

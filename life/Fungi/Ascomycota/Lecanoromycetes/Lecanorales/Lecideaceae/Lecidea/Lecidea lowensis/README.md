@@ -1,5 +1,4 @@
-Lecidea lowensis H. Magn. SPECIES
-=======
+# Lecidea lowensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

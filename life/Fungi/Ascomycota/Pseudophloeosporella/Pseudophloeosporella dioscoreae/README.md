@@ -1,14 +1,13 @@
-Cylindrosporium dioscoreae Miyabe & S. Ito, 1912 SPECIES
-=======
+# Pseudophloeosporella dioscoreae (Miyabe & S. Ito) U. Braun, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Sapporo nat. Hist. Soc. 4: 10 (1912)
+Cryptog. bot. 4(1): 111 (1993)
 
 #### Original name
 Cylindrosporium dioscoreae Miyabe & S. Ito, 1912

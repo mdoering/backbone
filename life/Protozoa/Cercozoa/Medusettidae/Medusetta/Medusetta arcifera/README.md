@@ -1,5 +1,4 @@
-Medusetta arcifera Jørgensen, 1900 SPECIES
-=======
+# Medusetta arcifera Jørgensen, 1900 SPECIES
 
 #### Status
 ACCEPTED

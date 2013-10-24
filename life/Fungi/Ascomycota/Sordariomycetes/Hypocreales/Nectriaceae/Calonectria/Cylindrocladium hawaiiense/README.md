@@ -1,5 +1,4 @@
-Cylindrocladium hawaiiense Crous SPECIES
-=======
+# Cylindrocladium hawaiiense Crous SPECIES
 
 #### Status
 ACCEPTED

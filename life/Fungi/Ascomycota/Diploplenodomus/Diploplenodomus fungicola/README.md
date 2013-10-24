@@ -1,5 +1,4 @@
-Diploplenodomus fungicola Bonar SPECIES
-=======
+# Diploplenodomus fungicola Bonar SPECIES
 
 #### Status
 ACCEPTED

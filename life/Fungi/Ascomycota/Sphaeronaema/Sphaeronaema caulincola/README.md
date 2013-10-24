@@ -1,5 +1,4 @@
-Sphaeronaema caulincola Schwein. SPECIES
-=======
+# Sphaeronaema caulincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neobotrys Popofsky, 1913 GENUS
-=======
+# Neobotrys Popofsky, 1913 GENUS
 
 #### Status
 ACCEPTED

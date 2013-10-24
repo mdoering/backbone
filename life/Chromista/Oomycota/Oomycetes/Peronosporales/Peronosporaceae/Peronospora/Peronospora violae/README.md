@@ -1,5 +1,4 @@
-Peronospora violae de Bary, 1863 SPECIES
-=======
+# Peronospora violae de Bary, 1863 SPECIES
 
 #### Status
 ACCEPTED

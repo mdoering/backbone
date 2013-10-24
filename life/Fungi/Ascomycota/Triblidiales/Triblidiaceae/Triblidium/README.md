@@ -1,17 +1,16 @@
-Phacidiopsis Hazslinszky, 1873 GENUS
-=======
+# Triblidium Rebentisch, 1804 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 23: 368 (1873)
+Prodr. fl. neomarch. (1804)
 
 #### Original name
-Phacidiopsis Hazslinszky, 1873
+Triblidium Rebentisch, 1804
 
 ### Remarks
 null

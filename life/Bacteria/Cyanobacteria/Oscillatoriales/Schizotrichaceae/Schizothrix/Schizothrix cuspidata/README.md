@@ -1,5 +1,4 @@
-Schizothrix cuspidata West & G.S. West SPECIES
-=======
+# Schizothrix cuspidata West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

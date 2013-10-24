@@ -1,5 +1,4 @@
-Trachysphaeridium hyalinum Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Trachysphaeridium hyalinum Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

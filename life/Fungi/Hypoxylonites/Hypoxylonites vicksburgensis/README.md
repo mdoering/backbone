@@ -1,5 +1,4 @@
-Hypoxylonites vicksburgensis Elsik SPECIES
-=======
+# Hypoxylonites vicksburgensis Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeriella tetrorchidii Hansf. SPECIES
-=======
+# Dimeriella tetrorchidii Hansf. SPECIES
 
 #### Status
 ACCEPTED

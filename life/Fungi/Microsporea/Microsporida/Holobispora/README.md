@@ -1,5 +1,4 @@
-Holobispora Voronin GENUS
-=======
+# Holobispora Voronin GENUS
 
 #### Status
 ACCEPTED

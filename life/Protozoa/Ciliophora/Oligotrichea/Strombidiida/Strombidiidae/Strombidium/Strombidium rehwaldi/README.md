@@ -1,5 +1,4 @@
-Strombidium rehwaldi Petz & Foissner, 1992 SPECIES
-=======
+# Strombidium rehwaldi Petz & Foissner, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protostegia pusilla Speg. SPECIES
-=======
+# Protostegia pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

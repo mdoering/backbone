@@ -1,5 +1,4 @@
-Cryptothecia pertenuis Groenh. SPECIES
-=======
+# Cryptothecia pertenuis Groenh. SPECIES
 
 #### Status
 ACCEPTED

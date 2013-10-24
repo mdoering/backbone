@@ -1,5 +1,4 @@
-Pharcidia calcariae f. calcariae FORM
-=======
+# Pharcidia calcariae (Flagey) Vouaux SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pharcidia calcariae f. calcariae
+Arthopyrenia calcariae Flagey
 
 ### Remarks
 null

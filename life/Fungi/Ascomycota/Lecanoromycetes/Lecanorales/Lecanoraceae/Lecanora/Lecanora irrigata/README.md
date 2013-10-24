@@ -1,5 +1,4 @@
-Lecanora irrigata Motyka SPECIES
-=======
+# Lecanora irrigata Motyka SPECIES
 
 #### Status
 ACCEPTED

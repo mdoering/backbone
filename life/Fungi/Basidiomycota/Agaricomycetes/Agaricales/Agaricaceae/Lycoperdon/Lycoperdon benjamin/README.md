@@ -1,5 +1,4 @@
-Lycoperdon benjamin Rick SPECIES
-=======
+# Lycoperdon benjamin Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype webberi Ellis & Everh. SPECIES
-=======
+# Diatrype webberi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

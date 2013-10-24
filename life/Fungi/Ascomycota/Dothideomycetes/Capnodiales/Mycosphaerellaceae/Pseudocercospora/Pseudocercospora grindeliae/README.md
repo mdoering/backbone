@@ -1,5 +1,4 @@
-Pseudocercospora grindeliae U. Braun, Delhey & Kiehr SPECIES
-=======
+# Pseudocercospora grindeliae U. Braun, Delhey & Kiehr SPECIES
 
 #### Status
 ACCEPTED

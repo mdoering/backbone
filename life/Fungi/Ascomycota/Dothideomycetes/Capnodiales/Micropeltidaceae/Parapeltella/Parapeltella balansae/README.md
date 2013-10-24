@@ -1,5 +1,4 @@
-Parapeltella balansae (Speg.) Bat. SPECIES
-=======
+# Parapeltella balansae (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

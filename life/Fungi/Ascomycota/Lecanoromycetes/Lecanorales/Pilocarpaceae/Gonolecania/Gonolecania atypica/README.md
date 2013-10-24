@@ -1,5 +1,4 @@
-Gonolecania atypica (Vain.) Zahlbr. SPECIES
-=======
+# Gonolecania atypica (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

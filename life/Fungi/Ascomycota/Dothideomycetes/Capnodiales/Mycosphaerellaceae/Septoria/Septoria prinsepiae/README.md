@@ -1,5 +1,4 @@
-Septoria prinsepiae Muthumary SPECIES
-=======
+# Septoria prinsepiae Muthumary SPECIES
 
 #### Status
 ACCEPTED

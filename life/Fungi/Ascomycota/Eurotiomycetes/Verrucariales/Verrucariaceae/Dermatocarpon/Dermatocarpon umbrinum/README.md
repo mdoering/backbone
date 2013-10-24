@@ -1,5 +1,4 @@
-Dermatocarpon umbrinum Servít SPECIES
-=======
+# Dermatocarpon umbrinum Servít SPECIES
 
 #### Status
 ACCEPTED

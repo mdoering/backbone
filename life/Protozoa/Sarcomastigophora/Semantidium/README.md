@@ -1,5 +1,4 @@
-Semantidium Haeckel, 1887 GENUS
-=======
+# Semantidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

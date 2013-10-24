@@ -1,5 +1,4 @@
-Chamaeceras guyanensis (Mont.) Kuntze SPECIES
-=======
+# Chamaeceras guyanensis (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

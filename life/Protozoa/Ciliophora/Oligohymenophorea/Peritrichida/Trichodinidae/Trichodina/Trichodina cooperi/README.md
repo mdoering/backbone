@@ -1,5 +1,4 @@
-Trichodina cooperi Poynton & Lom, 1989 SPECIES
-=======
+# Trichodina cooperi Poynton & Lom, 1989 SPECIES
 
 #### Status
 ACCEPTED

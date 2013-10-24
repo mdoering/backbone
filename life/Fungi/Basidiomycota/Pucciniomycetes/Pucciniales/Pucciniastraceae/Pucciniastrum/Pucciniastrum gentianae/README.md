@@ -1,5 +1,4 @@
-Pucciniastrum gentianae Hirats. f. & Hashioka SPECIES
-=======
+# Pucciniastrum gentianae Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

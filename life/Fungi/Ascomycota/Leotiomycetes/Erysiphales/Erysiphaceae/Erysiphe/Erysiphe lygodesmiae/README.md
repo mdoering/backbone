@@ -1,5 +1,4 @@
-Erysiphe lygodesmiae (Ellis & Everh.) Theiss. SPECIES
-=======
+# Erysiphe lygodesmiae (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

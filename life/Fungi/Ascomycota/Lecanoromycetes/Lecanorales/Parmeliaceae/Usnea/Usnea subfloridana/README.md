@@ -1,17 +1,16 @@
-Usnea subfloridana var. subfloridana VARIETY
-=======
+# Usnea subfloridana Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. Natural. 6: 294 (1882)
 
 #### Original name
-null
+Usnea subfloridana Stirt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lampromitra cachoni Petrushevskaya, 1979 SPECIES
-=======
+# Lampromitra cachoni Petrushevskaya, 1979 SPECIES
 
 #### Status
 ACCEPTED

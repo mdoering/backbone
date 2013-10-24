@@ -1,5 +1,4 @@
-Coenogonium cancellatum var. cancellatum VARIETY
-=======
+# Coenogonium cancellatum Leight. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coenogonium cancellatum var. cancellatum
+Coenogonium cancellatum Leight.
 
 ### Remarks
 null

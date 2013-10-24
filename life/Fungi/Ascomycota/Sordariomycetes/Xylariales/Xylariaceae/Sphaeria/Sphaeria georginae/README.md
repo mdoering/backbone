@@ -1,5 +1,4 @@
-Sphaeria georginae Fuckel SPECIES
-=======
+# Sphaeria georginae Fuckel SPECIES
 
 #### Status
 ACCEPTED

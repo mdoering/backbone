@@ -1,5 +1,4 @@
-Hypocrea puiggarii Speg. SPECIES
-=======
+# Hypocrea puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

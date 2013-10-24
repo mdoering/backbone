@@ -1,5 +1,4 @@
-Marasmiellus fusicystis Manim. & Leelav. SPECIES
-=======
+# Marasmiellus fusicystis Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

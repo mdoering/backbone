@@ -1,5 +1,4 @@
-Leptolyngbya submonilifera (Frémy) P. A. C. Senna & P. Compère SPECIES
-=======
+# Leptolyngbya submonilifera (Frémy) P. A. C. Senna & P. Compère SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cardinium GENUS
-=======
+# Cardinium GENUS
 
 #### Status
 ACCEPTED

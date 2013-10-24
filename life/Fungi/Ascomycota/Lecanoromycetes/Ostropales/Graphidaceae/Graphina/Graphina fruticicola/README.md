@@ -1,5 +1,4 @@
-Graphina fruticicola (Vain.) Zahlbr. SPECIES
-=======
+# Graphina fruticicola (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

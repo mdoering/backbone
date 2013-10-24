@@ -1,5 +1,4 @@
-Ascochyta lupinicola Petr. SPECIES
-=======
+# Ascochyta lupinicola Petr. SPECIES
 
 #### Status
 ACCEPTED

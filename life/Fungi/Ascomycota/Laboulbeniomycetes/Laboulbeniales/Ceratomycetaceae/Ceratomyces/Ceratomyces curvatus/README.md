@@ -1,5 +1,4 @@
-Ceratomyces curvatus Thaxt. SPECIES
-=======
+# Ceratomyces curvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

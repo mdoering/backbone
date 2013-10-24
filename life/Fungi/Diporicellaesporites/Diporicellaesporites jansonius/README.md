@@ -1,5 +1,4 @@
-Diporicellaesporites jansonius Kalgutkar SPECIES
-=======
+# Diporicellaesporites jansonius Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

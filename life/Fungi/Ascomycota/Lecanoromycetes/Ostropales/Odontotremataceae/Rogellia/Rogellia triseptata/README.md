@@ -1,5 +1,4 @@
-Rogellia triseptata Döbbeler SPECIES
-=======
+# Rogellia triseptata Döbbeler SPECIES
 
 #### Status
 ACCEPTED

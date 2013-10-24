@@ -1,5 +1,4 @@
-Anthophysis St. Vincent, 1822 GENUS
-=======
+# Anthophysis St. Vincent, 1822 GENUS
 
 #### Status
 ACCEPTED

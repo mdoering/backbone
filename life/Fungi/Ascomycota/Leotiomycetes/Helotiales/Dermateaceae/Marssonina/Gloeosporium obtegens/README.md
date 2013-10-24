@@ -1,5 +1,4 @@
-Gloeosporium obtegens Syd. & P. Syd. SPECIES
-=======
+# Gloeosporium obtegens Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

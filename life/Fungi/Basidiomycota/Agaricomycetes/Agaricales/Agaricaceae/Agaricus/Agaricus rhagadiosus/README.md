@@ -1,5 +1,4 @@
-Agaricus rhagadiosus Fr. SPECIES
-=======
+# Agaricus rhagadiosus Fr. SPECIES
 
 #### Status
 ACCEPTED

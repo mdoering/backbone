@@ -1,5 +1,4 @@
-Botrytis fallax Desm. SPECIES
-=======
+# Botrytis fallax Desm. SPECIES
 
 #### Status
 ACCEPTED

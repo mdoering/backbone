@@ -1,5 +1,4 @@
-Crepidotus subepibryus Pilát SPECIES
-=======
+# Crepidotus subepibryus Pilát SPECIES
 
 #### Status
 ACCEPTED

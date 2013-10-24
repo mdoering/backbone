@@ -1,5 +1,4 @@
-Leptosphaeria yerbae Speg. SPECIES
-=======
+# Leptosphaeria yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

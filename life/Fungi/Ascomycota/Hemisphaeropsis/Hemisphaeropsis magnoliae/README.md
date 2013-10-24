@@ -1,5 +1,4 @@
-Hemisphaeropsis magnoliae Petr., 1947 SPECIES
-=======
+# Hemisphaeropsis magnoliae Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium cephalixum var. cephalixum VARIETY
-=======
+# Phlegmacium cephalixum (Secr. ex Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Die Gattung Phlegmacium (Schleimköpfe). Die Pilze Mitteleuropas 4 168 (1960)
 
 #### Original name
-Phlegmacium cephalixum var. cephalixum
+Agaricus cephalixus Secr. ex Fr.
 
 ### Remarks
 null

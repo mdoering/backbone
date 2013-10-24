@@ -1,5 +1,4 @@
-Bacidia thallincola H. Magn. SPECIES
-=======
+# Bacidia thallincola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

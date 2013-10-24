@@ -1,5 +1,4 @@
-Buellia arcularum (Harm.) Lettau SPECIES
-=======
+# Buellia arcularum (Harm.) Lettau SPECIES
 
 #### Status
 ACCEPTED

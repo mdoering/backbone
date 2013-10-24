@@ -1,5 +1,4 @@
-Pseudohauerinella McCulloch, 1981 GENUS
-=======
+# Pseudohauerinella McCulloch, 1981 GENUS
 
 #### Status
 ACCEPTED

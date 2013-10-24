@@ -1,5 +1,4 @@
-Tricholoma cremeogriseum (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Tricholoma cremeogriseum (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

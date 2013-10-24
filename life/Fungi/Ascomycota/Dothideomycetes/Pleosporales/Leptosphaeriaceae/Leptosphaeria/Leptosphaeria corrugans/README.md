@@ -1,5 +1,4 @@
-Leptosphaeria corrugans Rehm SPECIES
-=======
+# Leptosphaeria corrugans Rehm SPECIES
 
 #### Status
 ACCEPTED

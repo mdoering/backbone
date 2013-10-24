@@ -1,5 +1,4 @@
-Sciniatosporium crossopterygis (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium crossopterygis (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

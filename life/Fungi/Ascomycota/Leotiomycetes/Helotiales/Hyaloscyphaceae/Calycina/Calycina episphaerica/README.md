@@ -1,5 +1,4 @@
-Calycina episphaerica (Peck) Kuntze SPECIES
-=======
+# Calycina episphaerica (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichia caesalpiniae (Doidge) Sivan. SPECIES
-=======
+# Herpotrichia caesalpiniae (Doidge) Sivan. SPECIES
 
 #### Status
 ACCEPTED

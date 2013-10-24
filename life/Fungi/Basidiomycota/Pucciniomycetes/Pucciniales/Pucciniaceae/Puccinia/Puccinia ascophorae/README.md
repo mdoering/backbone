@@ -1,5 +1,4 @@
-Puccinia ascophorae Corda SPECIES
-=======
+# Puccinia ascophorae Corda SPECIES
 
 #### Status
 ACCEPTED

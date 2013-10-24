@@ -1,5 +1,4 @@
-Astasia inflata Dujardin SPECIES
-=======
+# Astasia inflata Dujardin SPECIES
 
 #### Status
 ACCEPTED

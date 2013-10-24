@@ -1,5 +1,4 @@
-Microdiplodia imperialis SPECIES
-=======
+# Microdiplodia imperialis SPECIES
 
 #### Status
 ACCEPTED

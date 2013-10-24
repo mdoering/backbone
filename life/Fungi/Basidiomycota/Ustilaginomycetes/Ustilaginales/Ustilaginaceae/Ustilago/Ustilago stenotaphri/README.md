@@ -1,5 +1,4 @@
-Ustilago stenotaphri Henn. SPECIES
-=======
+# Ustilago stenotaphri Henn. SPECIES
 
 #### Status
 ACCEPTED

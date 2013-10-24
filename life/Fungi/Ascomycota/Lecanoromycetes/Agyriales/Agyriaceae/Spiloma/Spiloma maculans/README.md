@@ -1,5 +1,4 @@
-Spiloma maculans Ach. SPECIES
-=======
+# Spiloma maculans Ach. SPECIES
 
 #### Status
 ACCEPTED

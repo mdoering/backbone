@@ -1,5 +1,4 @@
-Coprinus leviceps Massee SPECIES
-=======
+# Coprinus leviceps Massee SPECIES
 
 #### Status
 ACCEPTED

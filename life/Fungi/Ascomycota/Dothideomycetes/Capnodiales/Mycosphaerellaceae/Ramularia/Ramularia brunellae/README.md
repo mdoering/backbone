@@ -1,5 +1,4 @@
-Ramularia brunellae Ellis & Everh. SPECIES
-=======
+# Ramularia brunellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

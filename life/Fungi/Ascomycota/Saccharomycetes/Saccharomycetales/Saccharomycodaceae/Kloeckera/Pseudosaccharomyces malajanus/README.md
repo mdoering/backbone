@@ -1,5 +1,4 @@
-Pseudosaccharomyces malajanus Klöcker SPECIES
-=======
+# Pseudosaccharomyces malajanus Klöcker SPECIES
 
 #### Status
 ACCEPTED

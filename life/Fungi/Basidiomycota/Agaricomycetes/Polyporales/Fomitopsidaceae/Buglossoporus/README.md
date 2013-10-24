@@ -1,5 +1,4 @@
-Buglossoporus Kotl. & Pouzar GENUS
-=======
+# Buglossoporus Kotl. & Pouzar GENUS
 
 #### Status
 ACCEPTED

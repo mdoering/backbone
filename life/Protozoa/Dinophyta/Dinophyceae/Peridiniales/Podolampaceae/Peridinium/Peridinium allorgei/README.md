@@ -1,5 +1,4 @@
-Peridinium allorgei Lefèvre SPECIES
-=======
+# Peridinium allorgei Lefèvre SPECIES
 
 #### Status
 ACCEPTED

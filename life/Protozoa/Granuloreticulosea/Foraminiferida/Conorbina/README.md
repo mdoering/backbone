@@ -1,5 +1,4 @@
-Conorbina Brotzen, 1936 GENUS
-=======
+# Conorbina Brotzen, 1936 GENUS
 
 #### Status
 ACCEPTED

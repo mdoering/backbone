@@ -1,5 +1,4 @@
-Triceratium antillarum Cleve, 1878 SPECIES
-=======
+# Triceratium antillarum Cleve, 1878 SPECIES
 
 #### Status
 ACCEPTED

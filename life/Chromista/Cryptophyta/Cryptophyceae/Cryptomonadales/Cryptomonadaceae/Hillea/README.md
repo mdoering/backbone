@@ -1,5 +1,4 @@
-Hillea Schiller, 1925 GENUS
-=======
+# Hillea Schiller, 1925 GENUS
 
 #### Status
 ACCEPTED

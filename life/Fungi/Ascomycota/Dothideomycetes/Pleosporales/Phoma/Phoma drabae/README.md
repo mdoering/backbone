@@ -1,5 +1,4 @@
-Phoma drabae Fuckel SPECIES
-=======
+# Phoma drabae Fuckel SPECIES
 
 #### Status
 ACCEPTED

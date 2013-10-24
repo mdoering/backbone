@@ -1,5 +1,4 @@
-Lycoperdon submontanum Velen. SPECIES
-=======
+# Lycoperdon submontanum Velen. SPECIES
 
 #### Status
 ACCEPTED

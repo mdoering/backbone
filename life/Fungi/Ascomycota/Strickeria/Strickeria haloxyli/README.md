@@ -1,5 +1,4 @@
-Strickeria haloxyli Kravtzev SPECIES
-=======
+# Strickeria haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

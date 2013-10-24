@@ -1,5 +1,4 @@
-Prunulus leaianus Murrill SPECIES
-=======
+# Prunulus leaianus Murrill SPECIES
 
 #### Status
 ACCEPTED

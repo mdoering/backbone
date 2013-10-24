@@ -1,5 +1,4 @@
-Menezesia Torrend GENUS
-=======
+# Menezesia Torrend GENUS
 
 #### Status
 ACCEPTED

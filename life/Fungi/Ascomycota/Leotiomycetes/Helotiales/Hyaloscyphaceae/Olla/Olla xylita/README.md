@@ -1,5 +1,4 @@
-Olla xylita var. xylita VARIETY
-=======
+# Olla xylita (P. Karst.) Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 287 (1934)
 
 #### Original name
-Olla xylita var. xylita
+Pezizella xylita P. Karst.
 
 ### Remarks
 null

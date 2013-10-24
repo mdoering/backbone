@@ -1,5 +1,4 @@
-Stagonospora intermixta (Cooke) Sacc. SPECIES
-=======
+# Stagonospora intermixta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

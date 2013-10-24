@@ -1,5 +1,4 @@
-Farysia chardoniana Zundel SPECIES
-=======
+# Farysia chardoniana Zundel SPECIES
 
 #### Status
 ACCEPTED

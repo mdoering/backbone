@@ -1,5 +1,4 @@
-Physoderma pulposum Wallr., 1833 SPECIES
-=======
+# Physoderma pulposum Wallr., 1833 SPECIES
 
 #### Status
 ACCEPTED

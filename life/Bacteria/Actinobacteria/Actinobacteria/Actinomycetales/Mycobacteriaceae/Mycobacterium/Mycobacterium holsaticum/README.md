@@ -1,5 +1,4 @@
-Mycobacterium holsaticum Richter et al., 2002 SPECIES
-=======
+# Mycobacterium holsaticum Richter et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

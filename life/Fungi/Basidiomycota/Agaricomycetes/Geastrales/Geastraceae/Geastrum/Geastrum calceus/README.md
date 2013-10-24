@@ -1,8 +1,7 @@
-Geaster calceus Lloyd SPECIES
-=======
+# Geastrum calceus Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster calceus Lloyd
+Geastrum calceus Lloyd
 
 ### Remarks
 null

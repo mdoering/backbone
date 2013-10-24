@@ -1,5 +1,4 @@
-Stilbum mycetophilum S. Ahmad SPECIES
-=======
+# Stilbum mycetophilum S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

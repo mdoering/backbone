@@ -1,5 +1,4 @@
-Lethariopsis wandelensis (Hue) Zahlbr. SPECIES
-=======
+# Lethariopsis wandelensis (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pausiaca Buyck SPECIES
-=======
+# Russula pausiaca Buyck SPECIES
 
 #### Status
 ACCEPTED

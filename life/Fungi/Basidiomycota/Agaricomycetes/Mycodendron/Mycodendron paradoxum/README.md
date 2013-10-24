@@ -1,5 +1,4 @@
-Mycodendron paradoxum Massee SPECIES
-=======
+# Mycodendron paradoxum Massee SPECIES
 
 #### Status
 ACCEPTED

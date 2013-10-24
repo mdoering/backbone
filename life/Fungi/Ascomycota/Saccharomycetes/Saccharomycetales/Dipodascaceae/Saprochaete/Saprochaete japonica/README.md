@@ -1,5 +1,4 @@
-Saprochaete japonica de Hoog & M.T. Sm., 2004 SPECIES
-=======
+# Saprochaete japonica de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
 ACCEPTED

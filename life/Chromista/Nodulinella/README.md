@@ -1,5 +1,4 @@
-Nodulinella GENUS
-=======
+# Nodulinella GENUS
 
 #### Status
 ACCEPTED

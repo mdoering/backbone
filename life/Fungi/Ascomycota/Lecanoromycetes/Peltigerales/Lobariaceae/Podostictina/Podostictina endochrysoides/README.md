@@ -1,5 +1,4 @@
-Podostictina endochrysoides (Müll. Arg.) Clem. SPECIES
-=======
+# Podostictina endochrysoides (Müll. Arg.) Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocadus celtidis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Sporocadus celtidis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

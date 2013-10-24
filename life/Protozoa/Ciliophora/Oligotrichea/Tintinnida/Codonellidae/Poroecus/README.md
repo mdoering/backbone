@@ -1,17 +1,16 @@
-Porella Cleve, 1900 GENUS
-=======
+# Poroecus Cleve, 1902 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Ofvers. VetenskAkad. Förh. Stockholm, 56, 1899, no. 10, 973.
+Göteborg. VetenskSamh. Handl. , (4) 4 (1), 15.
 
 #### Original name
-null
+Porella Cleve, 1900
 
 ### Remarks
 null

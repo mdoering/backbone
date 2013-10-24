@@ -1,5 +1,4 @@
-Uredo hyperici-mysorensis Petch SPECIES
-=======
+# Uredo hyperici-mysorensis Petch SPECIES
 
 #### Status
 ACCEPTED

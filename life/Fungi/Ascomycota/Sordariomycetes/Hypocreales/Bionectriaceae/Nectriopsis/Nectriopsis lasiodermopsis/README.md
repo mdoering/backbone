@@ -1,5 +1,4 @@
-Nectriopsis lasiodermopsis Samuels, 1988 SPECIES
-=======
+# Nectriopsis lasiodermopsis Samuels, 1988 SPECIES
 
 #### Status
 ACCEPTED

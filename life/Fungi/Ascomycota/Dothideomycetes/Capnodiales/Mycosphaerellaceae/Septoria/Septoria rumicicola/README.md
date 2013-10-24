@@ -1,5 +1,4 @@
-Septoria rumicicola Allesch. SPECIES
-=======
+# Septoria rumicicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

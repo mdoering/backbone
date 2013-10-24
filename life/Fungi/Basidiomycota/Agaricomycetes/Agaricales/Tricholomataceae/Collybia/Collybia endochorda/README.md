@@ -1,5 +1,4 @@
-Collybia endochorda Berk. & Broome SPECIES
-=======
+# Collybia endochorda Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

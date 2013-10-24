@@ -1,5 +1,4 @@
-Flagellipodium Bovee, 1970 GENUS
-=======
+# Flagellipodium Bovee, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora aberiae Henn., 1908 SPECIES
-=======
+# Phyllachora aberiae Henn., 1908 SPECIES
 
 #### Status
 ACCEPTED

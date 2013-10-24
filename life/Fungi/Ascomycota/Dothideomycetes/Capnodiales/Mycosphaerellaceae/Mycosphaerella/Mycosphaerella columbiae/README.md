@@ -1,5 +1,4 @@
-Mycosphaerella columbiae Syd. SPECIES
-=======
+# Mycosphaerella columbiae Syd. SPECIES
 
 #### Status
 ACCEPTED

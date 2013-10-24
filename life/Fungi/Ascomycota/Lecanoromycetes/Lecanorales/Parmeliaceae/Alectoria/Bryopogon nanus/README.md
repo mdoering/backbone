@@ -1,5 +1,4 @@
-Bryopogon nanus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon nanus (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe flexuosa Raithelh. SPECIES
-=======
+# Clitocybe flexuosa Raithelh. SPECIES
 
 #### Status
 ACCEPTED

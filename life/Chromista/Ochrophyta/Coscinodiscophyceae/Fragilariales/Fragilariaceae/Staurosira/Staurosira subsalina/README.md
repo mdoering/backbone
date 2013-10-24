@@ -1,5 +1,4 @@
-Staurosira subsalina (Hustedt) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
-=======
+# Staurosira subsalina (Hustedt) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

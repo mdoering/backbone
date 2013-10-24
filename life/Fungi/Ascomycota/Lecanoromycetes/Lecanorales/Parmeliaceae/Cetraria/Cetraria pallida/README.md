@@ -1,5 +1,4 @@
-Cetraria pallida D. D. Awasthi SPECIES
-=======
+# Cetraria pallida D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

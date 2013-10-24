@@ -1,5 +1,4 @@
-Inocybe albovelata Reumaux SPECIES
-=======
+# Inocybe albovelata Reumaux SPECIES
 
 #### Status
 ACCEPTED

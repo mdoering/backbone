@@ -1,5 +1,4 @@
-Trichoderma sympodianum Kulik SPECIES
-=======
+# Trichoderma sympodianum Kulik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoleiosphaeridium conglutinatum Timofeev, 1959 ex Timofeev, 1960 SPECIES
-=======
+# Protoleiosphaeridium conglutinatum Timofeev, 1959 ex Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia isidiosa (Kurok.) Kurok. SPECIES
-=======
+# Heterodermia isidiosa (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

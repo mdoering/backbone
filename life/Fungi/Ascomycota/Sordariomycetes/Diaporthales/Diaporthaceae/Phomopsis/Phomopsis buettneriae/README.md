@@ -1,5 +1,4 @@
-Phomopsis buettneriae Bond.-Mont. SPECIES
-=======
+# Phomopsis buettneriae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

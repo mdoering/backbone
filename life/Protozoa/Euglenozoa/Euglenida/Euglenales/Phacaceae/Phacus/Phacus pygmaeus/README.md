@@ -1,5 +1,4 @@
-Phacus pygmaeus Pochmann SPECIES
-=======
+# Phacus pygmaeus Pochmann SPECIES
 
 #### Status
 ACCEPTED

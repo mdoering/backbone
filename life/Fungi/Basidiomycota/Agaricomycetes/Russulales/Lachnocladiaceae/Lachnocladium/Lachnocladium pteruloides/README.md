@@ -1,5 +1,4 @@
-Lachnocladium pteruloides Henn. SPECIES
-=======
+# Lachnocladium pteruloides Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia kamtczatica (Savicz) Trass SPECIES
-=======
+# Ochrolechia kamtczatica (Savicz) Trass SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza punicea Batsch SPECIES
-=======
+# Peziza punicea Batsch SPECIES
 
 #### Status
 ACCEPTED

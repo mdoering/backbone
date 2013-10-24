@@ -1,5 +1,4 @@
-Graphina valvulascens (Fée) Müll. Arg. SPECIES
-=======
+# Graphina valvulascens (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurosirella ansata (M. H. Hohn & J. Hellerman) J. C. Kingston SPECIES
-=======
+# Staurosirella ansata (M. H. Hohn & J. Hellerman) J. C. Kingston SPECIES
 
 #### Status
 ACCEPTED

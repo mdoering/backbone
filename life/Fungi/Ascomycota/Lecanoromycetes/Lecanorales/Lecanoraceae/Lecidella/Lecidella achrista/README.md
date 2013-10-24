@@ -1,5 +1,4 @@
-Lecidella achrista (Sommerf.) Britzelm. SPECIES
-=======
+# Lecidella achrista (Sommerf.) Britzelm. SPECIES
 
 #### Status
 ACCEPTED

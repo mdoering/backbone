@@ -1,5 +1,4 @@
-Ghoshia bifurcata J. Mandal & P. K. Maithy SPECIES
-=======
+# Ghoshia bifurcata J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

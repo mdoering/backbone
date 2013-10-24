@@ -1,5 +1,4 @@
-Actinomma medianum Nigrini, 1967 SPECIES
-=======
+# Actinomma medianum Nigrini, 1967 SPECIES
 
 #### Status
 ACCEPTED

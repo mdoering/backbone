@@ -1,5 +1,4 @@
-Micarea submoestula (Nyl.) Coppins SPECIES
-=======
+# Micarea submoestula (Nyl.) Coppins SPECIES
 
 #### Status
 ACCEPTED

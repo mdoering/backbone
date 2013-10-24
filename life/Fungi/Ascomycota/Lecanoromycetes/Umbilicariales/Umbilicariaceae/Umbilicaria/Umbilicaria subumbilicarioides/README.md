@@ -1,5 +1,4 @@
-Umbilicaria subumbilicarioides J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Umbilicaria subumbilicarioides J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

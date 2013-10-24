@@ -1,5 +1,4 @@
-Coprinus subangularis Thiers SPECIES
-=======
+# Coprinus subangularis Thiers SPECIES
 
 #### Status
 ACCEPTED

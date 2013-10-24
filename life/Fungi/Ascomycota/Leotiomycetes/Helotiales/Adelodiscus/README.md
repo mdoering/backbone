@@ -1,5 +1,4 @@
-Adelodiscus Syd. GENUS
-=======
+# Adelodiscus Syd. GENUS
 
 #### Status
 ACCEPTED

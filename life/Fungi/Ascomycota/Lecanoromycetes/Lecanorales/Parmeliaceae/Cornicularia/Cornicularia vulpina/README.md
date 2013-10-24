@@ -1,5 +1,4 @@
-Cornicularia vulpina (L.) DC. SPECIES
-=======
+# Cornicularia vulpina (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

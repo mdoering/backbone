@@ -1,5 +1,4 @@
-Gerronema subpallidum Singer SPECIES
-=======
+# Gerronema subpallidum Singer SPECIES
 
 #### Status
 ACCEPTED

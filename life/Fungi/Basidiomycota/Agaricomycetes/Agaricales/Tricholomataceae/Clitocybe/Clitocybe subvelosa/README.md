@@ -1,5 +1,4 @@
-Clitocybe subvelosa A.H. Sm. & D.E. Stuntz SPECIES
-=======
+# Clitocybe subvelosa A.H. Sm. & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

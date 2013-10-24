@@ -1,5 +1,4 @@
-Septoria posoniensis Bäumler, 1885 SPECIES
-=======
+# Septoria posoniensis Bäumler, 1885 SPECIES
 
 #### Status
 ACCEPTED

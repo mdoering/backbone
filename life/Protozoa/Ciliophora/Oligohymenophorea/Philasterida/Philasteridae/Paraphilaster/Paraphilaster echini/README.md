@@ -1,5 +1,4 @@
-Paraphilaster echini Grolière, de Puytorac & Grain, 1980 SPECIES
-=======
+# Paraphilaster echini Grolière, de Puytorac & Grain, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tropidoatractus acuminatus Levander, 1894 SPECIES
-=======
+# Tropidoatractus acuminatus Levander, 1894 SPECIES
 
 #### Status
 ACCEPTED

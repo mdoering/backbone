@@ -1,5 +1,4 @@
-Transeptaesporites ovalis (Sheffy & Dilcher) V.S. Ediger SPECIES
-=======
+# Transeptaesporites ovalis (Sheffy & Dilcher) V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pentactinosphaera Nagata & Nishimura in Nakaseko, Nagata & Nishimura, 1983 GENUS
-=======
+# Pentactinosphaera Nagata & Nishimura in Nakaseko, Nagata & Nishimura, 1983 GENUS
 
 #### Status
 ACCEPTED

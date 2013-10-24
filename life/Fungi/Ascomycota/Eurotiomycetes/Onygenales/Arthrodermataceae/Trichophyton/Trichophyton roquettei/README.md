@@ -1,5 +1,4 @@
-Trichophyton roquettei (Fonseca) Nann. SPECIES
-=======
+# Trichophyton roquettei (Fonseca) Nann. SPECIES
 
 #### Status
 ACCEPTED

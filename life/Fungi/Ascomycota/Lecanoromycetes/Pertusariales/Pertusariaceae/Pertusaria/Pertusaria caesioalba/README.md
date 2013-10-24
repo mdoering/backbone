@@ -1,5 +1,4 @@
-Pertusaria caesioalba (Flot.) Nyl. SPECIES
-=======
+# Pertusaria caesioalba (Flot.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

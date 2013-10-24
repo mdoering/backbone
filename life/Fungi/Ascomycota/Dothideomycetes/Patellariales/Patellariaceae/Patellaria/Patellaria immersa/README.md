@@ -1,5 +1,4 @@
-Patellaria immersa (Sowerby) Gray SPECIES
-=======
+# Patellaria immersa (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

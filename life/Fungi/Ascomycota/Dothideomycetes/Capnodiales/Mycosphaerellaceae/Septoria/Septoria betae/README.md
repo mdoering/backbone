@@ -1,5 +1,4 @@
-Septoria betae Westend., 1851 SPECIES
-=======
+# Septoria betae Westend., 1851 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria quercina (Willd.) P. Gaertn., G. Mey. & Scherb. SPECIES
-=======
+# Lobaria quercina (Willd.) P. Gaertn., G. Mey. & Scherb. SPECIES
 
 #### Status
 ACCEPTED

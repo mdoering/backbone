@@ -1,5 +1,4 @@
-Entopeltis hendrickxii Hansf. SPECIES
-=======
+# Entopeltis hendrickxii Hansf. SPECIES
 
 #### Status
 ACCEPTED

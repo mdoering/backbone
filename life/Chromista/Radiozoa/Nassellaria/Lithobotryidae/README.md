@@ -1,5 +1,4 @@
-Lithobotryidae FAMILY
-=======
+# Lithobotryidae FAMILY
 
 #### Status
 ACCEPTED

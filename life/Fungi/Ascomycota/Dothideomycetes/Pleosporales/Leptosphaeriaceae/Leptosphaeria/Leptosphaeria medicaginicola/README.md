@@ -1,5 +1,4 @@
-Leptosphaeria medicaginicola Karimov SPECIES
-=======
+# Leptosphaeria medicaginicola Karimov SPECIES
 
 #### Status
 ACCEPTED

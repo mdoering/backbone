@@ -1,5 +1,4 @@
-Ceratophyton spinuconum Zang Wen-long in Gravestock et al., 2001 SPECIES
-=======
+# Ceratophyton spinuconum Zang Wen-long in Gravestock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

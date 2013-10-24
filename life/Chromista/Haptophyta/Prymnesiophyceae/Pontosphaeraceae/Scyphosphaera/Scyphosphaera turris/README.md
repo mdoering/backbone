@@ -1,5 +1,4 @@
-Scyphosphaera turris Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera turris Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

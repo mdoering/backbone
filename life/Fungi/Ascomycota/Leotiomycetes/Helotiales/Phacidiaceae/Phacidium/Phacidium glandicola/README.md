@@ -1,5 +1,4 @@
-Phacidium glandicola Schwein. SPECIES
-=======
+# Phacidium glandicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

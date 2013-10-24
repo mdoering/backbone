@@ -1,5 +1,4 @@
-Lachnea austrogeaster (Rodway) Sacc. SPECIES
-=======
+# Lachnea austrogeaster (Rodway) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pyricularia caffera Matsush. SPECIES
-=======
+# Pyricularia caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 23 (1996)
 
 #### Original name
-Pyricularia caffera Matsush.
+Pyricularia caffra Matsush.
 
 ### Remarks
 null

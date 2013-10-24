@@ -1,5 +1,4 @@
-Asteridium eucalypti Sacc. SPECIES
-=======
+# Asteridium eucalypti Sacc. SPECIES
 
 #### Status
 ACCEPTED

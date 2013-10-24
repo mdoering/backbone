@@ -1,5 +1,4 @@
-Thelotrema verrucosarareolatum (Schaer.) Anzi SPECIES
-=======
+# Thelotrema verrucosarareolatum (Schaer.) Anzi SPECIES
 
 #### Status
 ACCEPTED

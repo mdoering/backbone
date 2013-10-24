@@ -1,5 +1,4 @@
-Caulobacterales ORDER
-=======
+# Caulobacterales ORDER
 
 #### Status
 ACCEPTED

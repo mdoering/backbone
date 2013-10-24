@@ -1,5 +1,4 @@
-Boletus conglobatus Blagaic SPECIES
-=======
+# Boletus conglobatus Blagaic SPECIES
 
 #### Status
 ACCEPTED

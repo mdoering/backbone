@@ -1,5 +1,4 @@
-Meliola loropetalicola Y.X. Hu & Ouyang SPECIES
-=======
+# Meliola loropetalicola Y.X. Hu & Ouyang SPECIES
 
 #### Status
 ACCEPTED

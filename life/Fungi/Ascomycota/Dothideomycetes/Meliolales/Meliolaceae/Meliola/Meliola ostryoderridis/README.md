@@ -1,5 +1,4 @@
-Meliola ostryoderridis var. ostryoderridis VARIETY
-=======
+# Meliola ostryoderridis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 34 (1948)
 
 #### Original name
-Meliola ostryoderridis var. ostryoderridis
+Meliola ostryoderridis Hansf. & Deighton
 
 ### Remarks
 null

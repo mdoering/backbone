@@ -1,5 +1,4 @@
-Microporellus ellipsosporus Decock & Ryvarden, 2002 SPECIES
-=======
+# Microporellus ellipsosporus Decock & Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

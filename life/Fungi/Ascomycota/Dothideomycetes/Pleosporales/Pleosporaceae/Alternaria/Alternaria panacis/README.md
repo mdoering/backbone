@@ -1,5 +1,4 @@
-Alternaria panacis Whetzel SPECIES
-=======
+# Alternaria panacis Whetzel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina guianensis R.W. Ryan SPECIES
-=======
+# Asterina guianensis R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

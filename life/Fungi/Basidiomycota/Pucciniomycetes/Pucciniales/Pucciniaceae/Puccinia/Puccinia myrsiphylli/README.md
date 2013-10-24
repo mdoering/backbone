@@ -1,14 +1,13 @@
-Dicaeoma myrsiphylli (Thüm.) Kuntze, 1898 SPECIES
-=======
+# Puccinia myrsiphylli (Thüm.) G. Winter, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Flora, Jena 68: 261 (1884)
 
 #### Original name
 Uredo myrsiphylli Thüm., 1877

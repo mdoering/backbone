@@ -1,5 +1,4 @@
-Diatrype tumidella Peck SPECIES
-=======
+# Diatrype tumidella Peck SPECIES
 
 #### Status
 ACCEPTED

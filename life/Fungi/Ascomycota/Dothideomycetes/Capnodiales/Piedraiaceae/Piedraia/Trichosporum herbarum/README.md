@@ -1,5 +1,4 @@
-Trichosporum herbarum Jaap SPECIES
-=======
+# Trichosporum herbarum Jaap SPECIES
 
 #### Status
 ACCEPTED

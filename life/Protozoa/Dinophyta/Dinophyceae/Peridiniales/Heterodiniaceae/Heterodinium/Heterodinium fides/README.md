@@ -1,5 +1,4 @@
-Heterodinium fides Kofoid, 1907 SPECIES
-=======
+# Heterodinium fides Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

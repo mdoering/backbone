@@ -1,5 +1,4 @@
-Neoeponides coryelli (Palmer, 1945) SPECIES
-=======
+# Neoeponides coryelli (Palmer, 1945) SPECIES
 
 #### Status
 ACCEPTED

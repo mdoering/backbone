@@ -1,5 +1,4 @@
-Lecidea solorinicola Vain. SPECIES
-=======
+# Lecidea solorinicola Vain. SPECIES
 
 #### Status
 ACCEPTED

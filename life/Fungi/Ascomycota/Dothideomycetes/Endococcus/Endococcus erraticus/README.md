@@ -1,5 +1,4 @@
-Endococcus erraticus Nyl. SPECIES
-=======
+# Endococcus erraticus Nyl. SPECIES
 
 #### Status
 ACCEPTED

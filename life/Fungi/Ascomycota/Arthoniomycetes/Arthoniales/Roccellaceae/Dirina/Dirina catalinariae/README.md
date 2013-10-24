@@ -1,17 +1,16 @@
-Dirina catalinariae f. sorediata Tehler FORM
-=======
+# Dirina catalinariae Hasse SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Op. bot. 70: 36 (1983)
+null
 
 #### Original name
-Dirina catalinariae f. sorediata Tehler
+Dirina catalinariae Hasse
 
 ### Remarks
 null

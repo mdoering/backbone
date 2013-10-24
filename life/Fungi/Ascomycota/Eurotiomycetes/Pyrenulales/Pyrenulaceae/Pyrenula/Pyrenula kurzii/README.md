@@ -1,5 +1,4 @@
-Pyrenula kurzii Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula kurzii Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

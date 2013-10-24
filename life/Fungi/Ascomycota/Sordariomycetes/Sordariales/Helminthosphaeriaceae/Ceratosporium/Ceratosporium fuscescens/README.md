@@ -1,5 +1,4 @@
-Ceratosporium fuscescens Schwein., 1832 SPECIES
-=======
+# Ceratosporium fuscescens Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

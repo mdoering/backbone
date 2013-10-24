@@ -1,5 +1,4 @@
-Botryodiplodia mali Brunaud SPECIES
-=======
+# Botryodiplodia mali Brunaud SPECIES
 
 #### Status
 ACCEPTED

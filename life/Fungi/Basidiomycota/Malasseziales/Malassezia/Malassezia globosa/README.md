@@ -1,5 +1,4 @@
-Malassezia globosa Midgley, E. Guého & J. Guillot, 1996 SPECIES
-=======
+# Malassezia globosa Midgley, E. Guého & J. Guillot, 1996 SPECIES
 
 #### Status
 ACCEPTED

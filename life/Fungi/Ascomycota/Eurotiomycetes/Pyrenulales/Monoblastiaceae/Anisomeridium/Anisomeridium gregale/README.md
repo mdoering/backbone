@@ -1,5 +1,4 @@
-Anisomeridium gregale R. C. Harris SPECIES
-=======
+# Anisomeridium gregale R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

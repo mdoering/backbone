@@ -1,5 +1,4 @@
-Crepidotus xerotoides Speg. SPECIES
-=======
+# Crepidotus xerotoides Speg. SPECIES
 
 #### Status
 ACCEPTED

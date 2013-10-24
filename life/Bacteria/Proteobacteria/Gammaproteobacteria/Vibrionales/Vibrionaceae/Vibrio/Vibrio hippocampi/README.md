@@ -1,5 +1,4 @@
-Vibrio hippocampi Balcazar, Pintado & Planas, 2010 SPECIES
-=======
+# Vibrio hippocampi Balcazar, Pintado & Planas, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia rhypara (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia rhypara (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

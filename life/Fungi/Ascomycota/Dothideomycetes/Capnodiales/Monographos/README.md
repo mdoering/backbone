@@ -1,5 +1,4 @@
-Monographos GENUS
-=======
+# Monographos GENUS
 
 #### Status
 ACCEPTED

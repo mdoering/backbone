@@ -1,5 +1,4 @@
-Cintractia densa McAlpine SPECIES
-=======
+# Cintractia densa McAlpine SPECIES
 
 #### Status
 ACCEPTED

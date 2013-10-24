@@ -1,5 +1,4 @@
-Didymella dryadis Speg. SPECIES
-=======
+# Didymella dryadis Speg. SPECIES
 
 #### Status
 ACCEPTED

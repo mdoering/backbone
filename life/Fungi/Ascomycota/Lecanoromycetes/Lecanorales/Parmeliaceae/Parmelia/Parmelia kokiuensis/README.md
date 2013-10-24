@@ -1,5 +1,4 @@
-Parmelia kokiuensis J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
-=======
+# Parmelia kokiuensis J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
 
 #### Status
 ACCEPTED

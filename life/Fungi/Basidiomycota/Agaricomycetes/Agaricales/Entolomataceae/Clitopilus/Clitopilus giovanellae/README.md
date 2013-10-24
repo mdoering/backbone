@@ -1,5 +1,4 @@
-Clitopilus giovanellae (Bres.) Joss. SPECIES
-=======
+# Clitopilus giovanellae (Bres.) Joss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia brassicae Gonz. Frag. SPECIES
-=======
+# Diplodia brassicae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

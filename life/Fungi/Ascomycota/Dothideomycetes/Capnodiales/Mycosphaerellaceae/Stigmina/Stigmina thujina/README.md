@@ -1,5 +1,4 @@
-Stigmina thujina (Dearn.) B. Sutton, 1972 SPECIES
-=======
+# Stigmina thujina (Dearn.) B. Sutton, 1972 SPECIES
 
 #### Status
 ACCEPTED

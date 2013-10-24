@@ -1,5 +1,4 @@
-Puccinia glechonis Speg. SPECIES
-=======
+# Puccinia glechonis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus proditor Speg. SPECIES
-=======
+# Polyporus proditor Speg. SPECIES
 
 #### Status
 ACCEPTED

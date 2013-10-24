@@ -1,5 +1,4 @@
-Penicillium castellonense C. Ramírez & A.T. Martínez, 1981 SPECIES
-=======
+# Penicillium castellonense C. Ramírez & A.T. Martínez, 1981 SPECIES
 
 #### Status
 DOUBTFUL

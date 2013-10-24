@@ -1,5 +1,4 @@
-Dicaeoma globosipes (Peck) Kuntze SPECIES
-=======
+# Dicaeoma globosipes (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

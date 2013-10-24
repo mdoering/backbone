@@ -1,5 +1,4 @@
-Sphacelotheca flagellata (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca flagellata (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidium cerastiorum Wallr. SPECIES
-=======
+# Phlyctidium cerastiorum Wallr. SPECIES
 
 #### Status
 ACCEPTED

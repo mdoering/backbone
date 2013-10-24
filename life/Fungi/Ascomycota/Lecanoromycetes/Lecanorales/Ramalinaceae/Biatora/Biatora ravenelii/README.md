@@ -1,5 +1,4 @@
-Biatora ravenelii Tuck. SPECIES
-=======
+# Biatora ravenelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

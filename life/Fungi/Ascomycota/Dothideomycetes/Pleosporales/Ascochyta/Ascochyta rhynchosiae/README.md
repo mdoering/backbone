@@ -1,5 +1,4 @@
-Ascochyta rhynchosiae (Thüm.) Sacc. SPECIES
-=======
+# Ascochyta rhynchosiae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

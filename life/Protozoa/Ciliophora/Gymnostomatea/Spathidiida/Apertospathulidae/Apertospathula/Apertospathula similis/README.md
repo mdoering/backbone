@@ -1,5 +1,4 @@
-Apertospathula similis Foissner & Xu, 2007 SPECIES
-=======
+# Apertospathula similis Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

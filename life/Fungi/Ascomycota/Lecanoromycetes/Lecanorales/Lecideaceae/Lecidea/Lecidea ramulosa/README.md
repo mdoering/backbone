@@ -1,5 +1,4 @@
-Lecidea ramulosa Th. Fr. SPECIES
-=======
+# Lecidea ramulosa Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

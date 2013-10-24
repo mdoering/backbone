@@ -1,5 +1,4 @@
-Polyporus apophysatus Rostk. SPECIES
-=======
+# Polyporus apophysatus Rostk. SPECIES
 
 #### Status
 ACCEPTED

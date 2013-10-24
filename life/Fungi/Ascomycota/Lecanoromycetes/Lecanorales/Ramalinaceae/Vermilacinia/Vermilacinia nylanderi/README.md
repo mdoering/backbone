@@ -1,5 +1,4 @@
-Vermilacinia nylanderi Spjut SPECIES
-=======
+# Vermilacinia nylanderi Spjut SPECIES
 
 #### Status
 ACCEPTED

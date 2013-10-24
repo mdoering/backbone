@@ -1,5 +1,4 @@
-Amphitholonium Haeckel, 1887 GENUS
-=======
+# Amphitholonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

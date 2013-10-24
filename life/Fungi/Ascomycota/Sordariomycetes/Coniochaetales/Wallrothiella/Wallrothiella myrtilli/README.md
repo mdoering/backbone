@@ -1,5 +1,4 @@
-Wallrothiella myrtilli Feltgen SPECIES
-=======
+# Wallrothiella myrtilli Feltgen SPECIES
 
 #### Status
 ACCEPTED

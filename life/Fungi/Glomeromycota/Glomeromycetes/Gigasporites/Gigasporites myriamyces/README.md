@@ -1,5 +1,4 @@
-Gigasporites myriamyces Carlie J. Phipps & T.N. Taylor SPECIES
-=======
+# Gigasporites myriamyces Carlie J. Phipps & T.N. Taylor SPECIES
 
 #### Status
 ACCEPTED

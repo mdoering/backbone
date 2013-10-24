@@ -1,5 +1,4 @@
-Tricholoma pergamenum (Cooke) A. Pearson & Dennis SPECIES
-=======
+# Tricholoma pergamenum (Cooke) A. Pearson & Dennis SPECIES
 
 #### Status
 ACCEPTED

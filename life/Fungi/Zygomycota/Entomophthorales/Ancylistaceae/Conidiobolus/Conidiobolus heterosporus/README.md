@@ -1,5 +1,4 @@
-Conidiobolus heterosporus Drechsler, 1953 SPECIES
-=======
+# Conidiobolus heterosporus Drechsler, 1953 SPECIES
 
 #### Status
 ACCEPTED

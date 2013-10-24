@@ -1,5 +1,4 @@
-Schizocystia Cookson & Eisenack, 1962 GENUS
-=======
+# Schizocystia Cookson & Eisenack, 1962 GENUS
 
 #### Status
 ACCEPTED

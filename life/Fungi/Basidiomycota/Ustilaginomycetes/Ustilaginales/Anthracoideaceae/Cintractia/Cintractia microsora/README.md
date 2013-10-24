@@ -1,5 +1,4 @@
-Cintractia microsora Syd. SPECIES
-=======
+# Cintractia microsora Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria vulgaris anon. SPECIES
-=======
+# Sphaeria vulgaris anon. SPECIES
 
 #### Status
 ACCEPTED

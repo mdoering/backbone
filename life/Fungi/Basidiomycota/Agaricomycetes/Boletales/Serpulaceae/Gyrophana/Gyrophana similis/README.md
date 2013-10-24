@@ -1,5 +1,4 @@
-Gyrophana similis (Berk. & Broome) Pat. SPECIES
-=======
+# Gyrophana similis (Berk. & Broome) Pat. SPECIES
 
 #### Status
 ACCEPTED

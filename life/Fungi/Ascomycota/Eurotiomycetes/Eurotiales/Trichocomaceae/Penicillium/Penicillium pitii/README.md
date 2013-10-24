@@ -1,5 +1,4 @@
-Penicillium pitii SPECIES
-=======
+# Penicillium pitii SPECIES
 
 #### Status
 ACCEPTED

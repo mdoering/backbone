@@ -1,5 +1,4 @@
-Cortinarius malenconii Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius malenconii Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

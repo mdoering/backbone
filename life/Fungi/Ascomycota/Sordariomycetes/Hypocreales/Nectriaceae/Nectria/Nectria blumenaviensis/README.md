@@ -1,5 +1,4 @@
-Nectria blumenaviensis Henn. SPECIES
-=======
+# Nectria blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

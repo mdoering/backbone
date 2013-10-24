@@ -1,5 +1,4 @@
-Synchytrium alpinum F. Thomas SPECIES
-=======
+# Synchytrium alpinum F. Thomas SPECIES
 
 #### Status
 ACCEPTED

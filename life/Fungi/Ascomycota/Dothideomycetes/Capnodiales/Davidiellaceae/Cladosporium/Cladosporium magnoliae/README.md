@@ -1,5 +1,4 @@
-Cladosporium magnoliae J. Lindau SPECIES
-=======
+# Cladosporium magnoliae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

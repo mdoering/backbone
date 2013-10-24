@@ -1,5 +1,4 @@
-Scytalidium terminale G.V. Rao & de Hoog, 1975 SPECIES
-=======
+# Scytalidium terminale G.V. Rao & de Hoog, 1975 SPECIES
 
 #### Status
 ACCEPTED

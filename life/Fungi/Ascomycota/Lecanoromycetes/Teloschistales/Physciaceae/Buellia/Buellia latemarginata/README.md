@@ -1,5 +1,4 @@
-Buellia latemarginata Darb. SPECIES
-=======
+# Buellia latemarginata Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia steineriana Keissl. SPECIES
-=======
+# Rosellinia steineriana Keissl. SPECIES
 
 #### Status
 ACCEPTED

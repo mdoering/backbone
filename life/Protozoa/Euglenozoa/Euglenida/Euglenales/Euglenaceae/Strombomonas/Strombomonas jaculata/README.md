@@ -1,8 +1,7 @@
-Trachelomonas jaculata (Palmer) Deflandre SPECIES
-=======
+# Strombomonas jaculata (Palmer) Deflandre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Gnomoniella tenella Ellis & Everh. SPECIES
-=======
+# Gnomoniella tenella Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

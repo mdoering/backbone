@@ -1,5 +1,4 @@
-Chiodecton intercedens Müll. Arg. SPECIES
-=======
+# Chiodecton intercedens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

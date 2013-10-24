@@ -1,5 +1,4 @@
-Asterina lawsoniicola B. Song SPECIES
-=======
+# Asterina lawsoniicola B. Song SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeohiratsukaea expansa Udagawa & Iwatsu, 1990 SPECIES
-=======
+# Phaeohiratsukaea expansa Udagawa & Iwatsu, 1990 SPECIES
 
 #### Status
 ACCEPTED

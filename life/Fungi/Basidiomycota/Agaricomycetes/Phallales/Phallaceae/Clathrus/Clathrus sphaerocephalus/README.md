@@ -1,5 +1,4 @@
-Clathrus sphaerocephalus Relhan SPECIES
-=======
+# Clathrus sphaerocephalus Relhan SPECIES
 
 #### Status
 ACCEPTED

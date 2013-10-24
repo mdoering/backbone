@@ -1,5 +1,4 @@
-Hypomyces robledoi K. Põldmaa SPECIES
-=======
+# Hypomyces robledoi K. Põldmaa SPECIES
 
 #### Status
 ACCEPTED

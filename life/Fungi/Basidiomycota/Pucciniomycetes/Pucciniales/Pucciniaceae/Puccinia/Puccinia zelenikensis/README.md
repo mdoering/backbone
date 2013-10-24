@@ -1,5 +1,4 @@
-Puccinia zelenikensis Poeverl. SPECIES
-=======
+# Puccinia zelenikensis Poeverl. SPECIES
 
 #### Status
 ACCEPTED

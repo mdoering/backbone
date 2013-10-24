@@ -1,5 +1,4 @@
-Globomyces Letcher GENUS
-=======
+# Globomyces Letcher GENUS
 
 #### Status
 ACCEPTED

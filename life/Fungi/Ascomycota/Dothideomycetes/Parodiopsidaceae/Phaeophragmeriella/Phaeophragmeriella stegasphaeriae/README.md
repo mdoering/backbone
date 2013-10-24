@@ -1,5 +1,4 @@
-Phaeophragmeriella stegasphaeriae Hansf. SPECIES
-=======
+# Phaeophragmeriella stegasphaeriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

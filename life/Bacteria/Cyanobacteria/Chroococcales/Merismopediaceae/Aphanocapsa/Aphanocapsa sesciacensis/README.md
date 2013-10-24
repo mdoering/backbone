@@ -1,5 +1,4 @@
-Aphanocapsa sesciacensis Frémy SPECIES
-=======
+# Aphanocapsa sesciacensis Frémy SPECIES
 
 #### Status
 ACCEPTED

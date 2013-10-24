@@ -1,5 +1,4 @@
-Clostridium pascui Wilde et al., 1997 SPECIES
-=======
+# Clostridium pascui Wilde et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

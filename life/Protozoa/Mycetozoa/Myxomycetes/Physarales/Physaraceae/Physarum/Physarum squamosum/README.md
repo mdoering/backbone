@@ -1,5 +1,4 @@
-Physarum squamosum Flatau & Schirmer, 2004 SPECIES
-=======
+# Physarum squamosum Flatau & Schirmer, 2004 SPECIES
 
 #### Status
 ACCEPTED

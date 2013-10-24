@@ -1,5 +1,4 @@
-Eomerismopedia maureeniae Foster, Wicander & Playford, 2002 SPECIES
-=======
+# Eomerismopedia maureeniae Foster, Wicander & Playford, 2002 SPECIES
 
 #### Status
 ACCEPTED

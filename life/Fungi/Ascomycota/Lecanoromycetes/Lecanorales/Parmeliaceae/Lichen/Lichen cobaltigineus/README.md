@@ -1,5 +1,4 @@
-Lichen cobaltigineus (Wulfen) Ach. SPECIES
-=======
+# Lichen cobaltigineus (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

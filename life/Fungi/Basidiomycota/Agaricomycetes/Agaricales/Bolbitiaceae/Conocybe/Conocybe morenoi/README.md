@@ -1,5 +1,4 @@
-Conocybe morenoi Raithelh. SPECIES
-=======
+# Conocybe morenoi Raithelh. SPECIES
 
 #### Status
 ACCEPTED

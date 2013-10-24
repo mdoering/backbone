@@ -1,5 +1,4 @@
-Pronectria protopannariae Zhurb. SPECIES
-=======
+# Pronectria protopannariae Zhurb. SPECIES
 
 #### Status
 ACCEPTED

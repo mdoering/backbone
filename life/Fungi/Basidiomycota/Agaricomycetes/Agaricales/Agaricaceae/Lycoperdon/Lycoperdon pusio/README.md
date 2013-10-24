@@ -1,5 +1,4 @@
-Lycoperdon pusio Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon pusio Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

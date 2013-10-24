@@ -1,5 +1,4 @@
-Rhodophyllus salmoneus (Peck) Singer SPECIES
-=======
+# Rhodophyllus salmoneus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

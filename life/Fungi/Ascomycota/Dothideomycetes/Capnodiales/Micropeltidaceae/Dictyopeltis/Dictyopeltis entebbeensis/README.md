@@ -1,5 +1,4 @@
-Dictyopeltis entebbeensis Hansf. SPECIES
-=======
+# Dictyopeltis entebbeensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

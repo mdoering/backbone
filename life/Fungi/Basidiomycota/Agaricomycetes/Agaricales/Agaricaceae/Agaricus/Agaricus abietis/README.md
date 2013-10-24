@@ -1,5 +1,4 @@
-Agaricus abietis J.F. Gmel. SPECIES
-=======
+# Agaricus abietis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

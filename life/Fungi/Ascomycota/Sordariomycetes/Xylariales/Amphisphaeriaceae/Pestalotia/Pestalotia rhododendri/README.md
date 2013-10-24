@@ -1,14 +1,13 @@
-Pestalotia versicolor var. rhododendri D. Sacc. VARIETY
-=======
+# Pestalotia rhododendri (D. Sacc.) Guba, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 19: 215 (1929)
 
 #### Original name
 Pestalotia versicolor var. rhododendri D. Sacc.

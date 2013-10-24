@@ -1,5 +1,4 @@
-Xylodon rudis (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
-=======
+# Xylodon rudis (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

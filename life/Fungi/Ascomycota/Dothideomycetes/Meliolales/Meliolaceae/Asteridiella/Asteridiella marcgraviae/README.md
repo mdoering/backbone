@@ -1,5 +1,4 @@
-Asteridiella marcgraviae Henn. SPECIES
-=======
+# Asteridiella marcgraviae Henn. SPECIES
 
 #### Status
 ACCEPTED

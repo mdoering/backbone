@@ -1,5 +1,4 @@
-Aecidium bouvardiae Dietel & Holw. SPECIES
-=======
+# Aecidium bouvardiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

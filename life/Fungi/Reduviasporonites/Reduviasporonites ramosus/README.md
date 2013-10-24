@@ -1,5 +1,4 @@
-Reduviasporonites ramosus Kalgutkar SPECIES
-=======
+# Reduviasporonites ramosus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

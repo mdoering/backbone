@@ -1,5 +1,4 @@
-Mycena bambusae-pygmaeae Robich SPECIES
-=======
+# Mycena bambusae-pygmaeae Robich SPECIES
 
 #### Status
 ACCEPTED

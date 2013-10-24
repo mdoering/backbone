@@ -1,5 +1,4 @@
-Pervosphaeridium H.-S. Yun, 1981 GENUS
-=======
+# Pervosphaeridium H.-S. Yun, 1981 GENUS
 
 #### Status
 ACCEPTED

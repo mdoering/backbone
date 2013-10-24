@@ -1,5 +1,4 @@
-Dimerium nobile Petr. SPECIES
-=======
+# Dimerium nobile Petr. SPECIES
 
 #### Status
 ACCEPTED

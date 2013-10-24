@@ -1,17 +1,16 @@
-Lecidea aglaea var. aglaea VARIETY
-=======
+# Calvitimela aglaea (Sommerf.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stapfia 76: 151 (2001)
 
 #### Original name
-Lecidea aglaea var. aglaea
+Lecidea aglaea Sommerf.
 
 ### Remarks
 null

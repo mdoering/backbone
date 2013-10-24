@@ -1,5 +1,4 @@
-Rhodophyllus whiteae (Murrill) R. Heim & Romagn. SPECIES
-=======
+# Rhodophyllus whiteae (Murrill) R. Heim & Romagn. SPECIES
 
 #### Status
 ACCEPTED

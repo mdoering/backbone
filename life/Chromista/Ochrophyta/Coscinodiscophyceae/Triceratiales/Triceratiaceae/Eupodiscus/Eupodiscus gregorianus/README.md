@@ -1,5 +1,4 @@
-Eupodiscus gregorianus Brébisson SPECIES
-=======
+# Eupodiscus gregorianus Brébisson SPECIES
 
 #### Status
 ACCEPTED

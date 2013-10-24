@@ -1,5 +1,4 @@
-Microdiplodia poincianae Gucevic SPECIES
-=======
+# Microdiplodia poincianae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus xanthoporus Ryvarden, 1999 SPECIES
-=======
+# Inonotus xanthoporus Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthurus surinamensis E. Fisch. SPECIES
-=======
+# Anthurus surinamensis E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

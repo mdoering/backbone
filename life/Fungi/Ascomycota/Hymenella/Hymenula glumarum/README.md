@@ -1,5 +1,4 @@
-Hymenula glumarum Cooke & Harkn. SPECIES
-=======
+# Hymenula glumarum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

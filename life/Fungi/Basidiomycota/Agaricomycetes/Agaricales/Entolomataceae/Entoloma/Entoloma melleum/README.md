@@ -1,5 +1,4 @@
-Entoloma melleum E. Horak, 1973 SPECIES
-=======
+# Entoloma melleum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

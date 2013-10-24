@@ -1,5 +1,4 @@
-Dialonectria minutissima (Rehm) Cooke SPECIES
-=======
+# Dialonectria minutissima (Rehm) Cooke SPECIES
 
 #### Status
 ACCEPTED

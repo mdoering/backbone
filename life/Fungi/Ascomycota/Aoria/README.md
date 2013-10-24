@@ -1,5 +1,4 @@
-Aoria Ciferri, 1962 GENUS
-=======
+# Aoria Ciferri, 1962 GENUS
 
 #### Status
 ACCEPTED

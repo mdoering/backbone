@@ -1,5 +1,4 @@
-Ammodiscidae Reuss, 1862 FAMILY
-=======
+# Ammodiscidae Reuss, 1862 FAMILY
 
 #### Status
 ACCEPTED

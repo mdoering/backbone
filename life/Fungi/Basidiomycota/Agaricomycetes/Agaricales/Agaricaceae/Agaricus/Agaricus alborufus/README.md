@@ -1,5 +1,4 @@
-Agaricus alborufus Pers. SPECIES
-=======
+# Agaricus alborufus Pers. SPECIES
 
 #### Status
 ACCEPTED

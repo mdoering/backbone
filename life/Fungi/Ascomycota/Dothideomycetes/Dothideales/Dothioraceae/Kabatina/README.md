@@ -1,5 +1,4 @@
-Kabatina R. Schneider & Arx, 1966 GENUS
-=======
+# Kabatina R. Schneider & Arx, 1966 GENUS
 
 #### Status
 ACCEPTED

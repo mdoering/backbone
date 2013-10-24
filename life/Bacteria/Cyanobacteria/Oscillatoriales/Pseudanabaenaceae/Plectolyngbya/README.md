@@ -1,5 +1,4 @@
-Plectolyngbya Taton, Wilmotte, Smarda, Elster & Komárek, 2011 GENUS
-=======
+# Plectolyngbya Taton, Wilmotte, Smarda, Elster & Komárek, 2011 GENUS
 
 #### Status
 ACCEPTED

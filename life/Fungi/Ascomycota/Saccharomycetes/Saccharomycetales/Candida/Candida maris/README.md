@@ -1,14 +1,13 @@
-Torulopsis maris Uden & Zobell, 1962 SPECIES
-=======
+# Candida maris (Uden & Zobell) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leeuwenhoek ned. Tidjdschr. 28: 281 (1962)
+in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 613 (1978)
 
 #### Original name
 Torulopsis maris Uden & Zobell, 1962

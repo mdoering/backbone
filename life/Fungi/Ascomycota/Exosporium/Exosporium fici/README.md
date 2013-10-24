@@ -1,5 +1,4 @@
-Exosporium fici Payak & Thirum. SPECIES
-=======
+# Exosporium fici Payak & Thirum. SPECIES
 
 #### Status
 ACCEPTED

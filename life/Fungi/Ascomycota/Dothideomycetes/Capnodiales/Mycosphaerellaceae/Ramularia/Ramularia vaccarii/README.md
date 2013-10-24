@@ -1,5 +1,4 @@
-Ramularia vaccarii Ferraris SPECIES
-=======
+# Ramularia vaccarii Ferraris SPECIES
 
 #### Status
 ACCEPTED

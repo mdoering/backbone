@@ -1,5 +1,4 @@
-Pertusaria asterella Aptroot SPECIES
-=======
+# Pertusaria asterella Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra superba var. robusta (Ralfs in Pritch.) Grunow VARIETY
-=======
+# Synedra superba Kützing SPECIES
 
 #### Status
 ACCEPTED

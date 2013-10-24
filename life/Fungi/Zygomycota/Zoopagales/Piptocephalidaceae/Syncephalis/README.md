@@ -1,17 +1,16 @@
-Syncephalidium Badura GENUS
-=======
+# Syncephalis Van Tieghem & G. Le Monnier, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Allionia 9: 179 (1963)
+null
 
 #### Original name
-Syncephalidium Badura
+null
 
 ### Remarks
 null

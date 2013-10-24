@@ -1,5 +1,4 @@
-Gymnopus piceipes T. Miyam. & Igarashi SPECIES
-=======
+# Gymnopus piceipes T. Miyam. & Igarashi SPECIES
 
 #### Status
 ACCEPTED

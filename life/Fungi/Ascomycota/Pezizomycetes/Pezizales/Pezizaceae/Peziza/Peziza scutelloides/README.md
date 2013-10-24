@@ -1,5 +1,4 @@
-Peziza scutelloides Torrend SPECIES
-=======
+# Peziza scutelloides Torrend SPECIES
 
 #### Status
 ACCEPTED

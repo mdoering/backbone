@@ -1,5 +1,4 @@
-Clypeophialophora erythroxyli Bat. & Peres, 1962 SPECIES
-=======
+# Clypeophialophora erythroxyli Bat. & Peres, 1962 SPECIES
 
 #### Status
 ACCEPTED

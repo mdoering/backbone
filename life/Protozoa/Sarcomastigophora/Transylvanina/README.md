@@ -1,5 +1,4 @@
-Transylvanina Gheorghian, Iva & Gheorghian, 1968 GENUS
-=======
+# Transylvanina Gheorghian, Iva & Gheorghian, 1968 GENUS
 
 #### Status
 ACCEPTED

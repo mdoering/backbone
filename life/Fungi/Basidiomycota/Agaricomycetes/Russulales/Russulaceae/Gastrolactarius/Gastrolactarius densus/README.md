@@ -1,5 +1,4 @@
-Gastrolactarius densus (R. Heim) J.M. Vidal SPECIES
-=======
+# Gastrolactarius densus (R. Heim) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

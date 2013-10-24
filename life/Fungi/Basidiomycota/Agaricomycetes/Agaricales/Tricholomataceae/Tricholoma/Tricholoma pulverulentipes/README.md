@@ -1,5 +1,4 @@
-Tricholoma pulverulentipes (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma pulverulentipes (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

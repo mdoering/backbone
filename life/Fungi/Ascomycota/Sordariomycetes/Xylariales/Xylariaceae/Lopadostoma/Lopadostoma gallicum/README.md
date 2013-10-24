@@ -1,5 +1,4 @@
-Lopadostoma gallicum Sacc. SPECIES
-=======
+# Lopadostoma gallicum Sacc. SPECIES
 
 #### Status
 ACCEPTED

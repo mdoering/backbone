@@ -1,5 +1,4 @@
-Valsa decidua Cooke & Ellis SPECIES
-=======
+# Valsa decidua Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

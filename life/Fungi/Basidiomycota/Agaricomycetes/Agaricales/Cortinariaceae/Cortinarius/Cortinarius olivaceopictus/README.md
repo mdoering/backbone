@@ -1,5 +1,4 @@
-Cortinarius olivaceopictus Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius olivaceopictus Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces pallidus Niessl SPECIES
-=======
+# Uromyces pallidus Niessl SPECIES
 
 #### Status
 ACCEPTED

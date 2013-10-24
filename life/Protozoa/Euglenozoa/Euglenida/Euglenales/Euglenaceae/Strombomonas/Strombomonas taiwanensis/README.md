@@ -1,5 +1,4 @@
-Strombomonas taiwanensis var. bigeonii Y. Thérézien VARIETY
-=======
+# Strombomonas taiwanensis T. Yamagishi & A. Couté SPECIES
 
 #### Status
 ACCEPTED

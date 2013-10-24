@@ -1,5 +1,4 @@
-Hygrocybe subpapillata Kühner, 1979 SPECIES
-=======
+# Hygrocybe subpapillata Kühner, 1979 SPECIES
 
 #### Status
 ACCEPTED

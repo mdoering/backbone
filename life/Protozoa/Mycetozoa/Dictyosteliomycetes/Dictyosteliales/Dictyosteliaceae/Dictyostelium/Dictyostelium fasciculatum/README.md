@@ -1,5 +1,4 @@
-Dictyostelium fasciculatum Traub, M. Hohl & Cavender, 1981 SPECIES
-=======
+# Dictyostelium fasciculatum Traub, M. Hohl & Cavender, 1981 SPECIES
 
 #### Status
 ACCEPTED

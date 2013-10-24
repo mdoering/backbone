@@ -1,5 +1,4 @@
-Asterinella leptotheca (Speg.) Theiss. SPECIES
-=======
+# Asterinella leptotheca (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

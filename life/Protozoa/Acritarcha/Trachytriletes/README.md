@@ -1,5 +1,4 @@
-Trachytriletes Naumova, 1939 GENUS
-=======
+# Trachytriletes Naumova, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia fuscoatra Pat. SPECIES
-=======
+# Laschia fuscoatra Pat. SPECIES
 
 #### Status
 ACCEPTED

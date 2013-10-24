@@ -1,5 +1,4 @@
-Cyphellopsis subglobispora D.A. Reid SPECIES
-=======
+# Cyphellopsis subglobispora D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boedijnopeziza GENUS
-=======
+# Boedijnopeziza GENUS
 
 #### Status
 ACCEPTED

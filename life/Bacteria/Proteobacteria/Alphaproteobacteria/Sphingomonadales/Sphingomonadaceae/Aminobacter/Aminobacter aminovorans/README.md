@@ -1,5 +1,4 @@
-Aminobacter aminovorans (den Dooren de Jong, 1926) Urakami et al., 1992 SPECIES
-=======
+# Aminobacter aminovorans (den Dooren de Jong, 1926) Urakami et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

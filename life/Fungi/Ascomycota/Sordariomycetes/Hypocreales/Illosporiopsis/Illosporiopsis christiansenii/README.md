@@ -1,5 +1,4 @@
-Illosporiopsis christiansenii (B.L. Brady & D. Hawksw.) D. Hawksw., 2001 SPECIES
-=======
+# Illosporiopsis christiansenii (B.L. Brady & D. Hawksw.) D. Hawksw., 2001 SPECIES
 
 #### Status
 ACCEPTED

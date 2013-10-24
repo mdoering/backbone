@@ -1,5 +1,4 @@
-Bolbitius brunneus (Murrill) Watling SPECIES
-=======
+# Bolbitius brunneus (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

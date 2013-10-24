@@ -1,5 +1,4 @@
-Lecidea sarcogynella Nádv. SPECIES
-=======
+# Lecidea sarcogynella Nádv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha occulta Huhtinen SPECIES
-=======
+# Hyaloscypha occulta Huhtinen SPECIES
 
 #### Status
 ACCEPTED

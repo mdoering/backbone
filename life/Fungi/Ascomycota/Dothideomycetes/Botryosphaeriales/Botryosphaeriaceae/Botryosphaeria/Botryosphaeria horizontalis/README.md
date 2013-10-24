@@ -1,5 +1,4 @@
-Botryosphaeria horizontalis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Botryosphaeria horizontalis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

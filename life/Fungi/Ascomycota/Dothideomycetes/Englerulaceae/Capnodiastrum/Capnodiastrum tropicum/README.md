@@ -1,5 +1,4 @@
-Capnodiastrum tropicum Speg. SPECIES
-=======
+# Capnodiastrum tropicum Speg. SPECIES
 
 #### Status
 ACCEPTED

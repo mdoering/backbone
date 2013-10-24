@@ -1,5 +1,4 @@
-Gymnopilus humicola Harding ex Singer SPECIES
-=======
+# Gymnopilus humicola Harding ex Singer SPECIES
 
 #### Status
 ACCEPTED

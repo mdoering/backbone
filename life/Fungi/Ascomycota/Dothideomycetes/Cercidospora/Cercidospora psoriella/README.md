@@ -1,5 +1,4 @@
-Cercidospora psoriella (Cooke) Kuntze SPECIES
-=======
+# Cercidospora psoriella (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

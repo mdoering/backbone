@@ -1,5 +1,4 @@
-Puccinia aspiliae Dietel SPECIES
-=======
+# Puccinia aspiliae Dietel SPECIES
 
 #### Status
 ACCEPTED

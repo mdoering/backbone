@@ -1,5 +1,4 @@
-Arkoola J. Walker & Stovold GENUS
-=======
+# Arkoola J. Walker & Stovold GENUS
 
 #### Status
 ACCEPTED

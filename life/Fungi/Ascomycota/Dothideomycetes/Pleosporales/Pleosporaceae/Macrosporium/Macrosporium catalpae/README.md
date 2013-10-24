@@ -1,5 +1,4 @@
-Macrosporium catalpae Ellis & G. Martin SPECIES
-=======
+# Macrosporium catalpae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

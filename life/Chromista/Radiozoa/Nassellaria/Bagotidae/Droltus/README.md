@@ -1,5 +1,4 @@
-Droltus Pessagno & Whalen, 1982 GENUS
-=======
+# Droltus Pessagno & Whalen, 1982 GENUS
 
 #### Status
 ACCEPTED

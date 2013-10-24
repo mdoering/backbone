@@ -1,5 +1,4 @@
-Fimetariella dolichopoda J.C. Krug SPECIES
-=======
+# Fimetariella dolichopoda J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

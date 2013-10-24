@@ -1,5 +1,4 @@
-Ocellularia subcrassa SPECIES
-=======
+# Ocellularia subcrassa SPECIES
 
 #### Status
 ACCEPTED

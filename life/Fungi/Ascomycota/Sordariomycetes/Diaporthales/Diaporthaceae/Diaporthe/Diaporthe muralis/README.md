@@ -1,5 +1,4 @@
-Diaporthe muralis Speg. SPECIES
-=======
+# Diaporthe muralis Speg. SPECIES
 
 #### Status
 ACCEPTED

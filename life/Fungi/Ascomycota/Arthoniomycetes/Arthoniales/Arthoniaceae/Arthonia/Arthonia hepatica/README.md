@@ -1,5 +1,4 @@
-Arthonia hepatica Meyen & Flot. SPECIES
-=======
+# Arthonia hepatica Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

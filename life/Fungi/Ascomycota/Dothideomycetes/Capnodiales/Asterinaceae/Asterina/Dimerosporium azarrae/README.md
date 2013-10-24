@@ -1,5 +1,4 @@
-Dimerosporium azarrae (Lév.) G. Arnaud SPECIES
-=======
+# Dimerosporium azarrae (Lév.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

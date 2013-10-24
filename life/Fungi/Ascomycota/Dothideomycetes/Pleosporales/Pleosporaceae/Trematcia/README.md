@@ -1,5 +1,4 @@
-Trematcia GENUS
-=======
+# Trematcia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menoidium distractum Wermel SPECIES
-=======
+# Menoidium distractum Wermel SPECIES
 
 #### Status
 ACCEPTED

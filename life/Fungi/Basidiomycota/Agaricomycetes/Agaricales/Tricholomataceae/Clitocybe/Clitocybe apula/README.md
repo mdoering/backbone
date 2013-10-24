@@ -1,5 +1,4 @@
-Clitocybe apula (Comes) Sacc. SPECIES
-=======
+# Clitocybe apula (Comes) Sacc. SPECIES
 
 #### Status
 ACCEPTED

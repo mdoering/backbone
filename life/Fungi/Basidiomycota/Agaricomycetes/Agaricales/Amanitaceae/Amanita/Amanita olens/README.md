@@ -1,5 +1,4 @@
-Amanita olens (Britzelm.) Sacc. SPECIES
-=======
+# Amanita olens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

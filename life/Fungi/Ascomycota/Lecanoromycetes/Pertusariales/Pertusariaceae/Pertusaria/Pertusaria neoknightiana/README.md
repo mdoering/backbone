@@ -1,5 +1,4 @@
-Pertusaria neoknightiana Jariangpr. SPECIES
-=======
+# Pertusaria neoknightiana Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora setigera Niessl SPECIES
-=======
+# Pleospora setigera Niessl SPECIES
 
 #### Status
 ACCEPTED

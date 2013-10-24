@@ -1,5 +1,4 @@
-Nectria stilbosporae Tul. & C. Tul. SPECIES
-=======
+# Nectria stilbosporae Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

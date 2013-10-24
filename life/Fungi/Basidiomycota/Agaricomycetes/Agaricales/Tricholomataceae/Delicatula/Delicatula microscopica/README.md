@@ -1,5 +1,4 @@
-Delicatula microscopica (Wirtg.) Pat. SPECIES
-=======
+# Delicatula microscopica (Wirtg.) Pat. SPECIES
 
 #### Status
 ACCEPTED

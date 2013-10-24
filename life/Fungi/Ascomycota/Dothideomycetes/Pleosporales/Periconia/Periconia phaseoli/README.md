@@ -1,5 +1,4 @@
-Periconia phaseoli Rivolta SPECIES
-=======
+# Periconia phaseoli Rivolta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merismoarcus Hindák, 1988 GENUS
-=======
+# Merismoarcus Hindák, 1988 GENUS
 
 #### Status
 ACCEPTED

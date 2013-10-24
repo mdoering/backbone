@@ -1,5 +1,4 @@
-Lecidea leucophyllina Nyl. SPECIES
-=======
+# Lecidea leucophyllina Nyl. SPECIES
 
 #### Status
 ACCEPTED

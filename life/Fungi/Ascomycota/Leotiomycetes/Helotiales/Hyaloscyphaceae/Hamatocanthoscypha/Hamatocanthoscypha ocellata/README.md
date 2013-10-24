@@ -1,5 +1,4 @@
-Hamatocanthoscypha ocellata Huhtinen, 1990 SPECIES
-=======
+# Hamatocanthoscypha ocellata Huhtinen, 1990 SPECIES
 
 #### Status
 ACCEPTED

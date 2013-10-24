@@ -1,5 +1,4 @@
-Lippsina Haman, 1985 GENUS
-=======
+# Lippsina Haman, 1985 GENUS
 
 #### Status
 ACCEPTED

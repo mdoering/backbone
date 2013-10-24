@@ -1,5 +1,4 @@
-Tripartiella lata Lom, 1963 SPECIES
-=======
+# Tripartiella lata Lom, 1963 SPECIES
 
 #### Status
 ACCEPTED

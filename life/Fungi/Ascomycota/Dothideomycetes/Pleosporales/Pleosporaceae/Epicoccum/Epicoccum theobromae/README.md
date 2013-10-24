@@ -1,5 +1,4 @@
-Epicoccum theobromae Petch SPECIES
-=======
+# Epicoccum theobromae Petch SPECIES
 
 #### Status
 ACCEPTED

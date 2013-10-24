@@ -1,5 +1,4 @@
-Achlya oligacantha de Bary SPECIES
-=======
+# Achlya oligacantha de Bary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Andrewsiella fossilis (Grunow ex Pantocsek) T. Jurkschat SPECIES
-=======
+# Andrewsiella fossilis (Grunow ex Pantocsek) T. Jurkschat SPECIES
 
 #### Status
 ACCEPTED

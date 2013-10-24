@@ -1,5 +1,4 @@
-Parasaccharomyces taticei C.W. Dodge SPECIES
-=======
+# Parasaccharomyces taticei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina carveri Jenkins SPECIES
-=======
+# Taphrina carveri Jenkins SPECIES
 
 #### Status
 ACCEPTED

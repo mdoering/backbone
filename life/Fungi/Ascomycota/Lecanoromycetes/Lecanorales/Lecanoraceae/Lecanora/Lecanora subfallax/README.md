@@ -1,5 +1,4 @@
-Lecanora subfallax Motyka SPECIES
-=======
+# Lecanora subfallax Motyka SPECIES
 
 #### Status
 ACCEPTED

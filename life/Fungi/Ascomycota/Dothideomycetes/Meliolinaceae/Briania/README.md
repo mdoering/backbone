@@ -1,5 +1,4 @@
-Briania D.R. Reynolds, 1989 GENUS
-=======
+# Briania D.R. Reynolds, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticholonche zanclea Hertwig, 1877 SPECIES
-=======
+# Sticholonche zanclea Hertwig, 1877 SPECIES
 
 #### Status
 ACCEPTED

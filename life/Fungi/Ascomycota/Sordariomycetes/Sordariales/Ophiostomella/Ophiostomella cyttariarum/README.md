@@ -1,5 +1,4 @@
-Ophiostomella cyttariarum Butin & Arx SPECIES
-=======
+# Ophiostomella cyttariarum Butin & Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema obscurum Hoffm. SPECIES
-=======
+# Collema obscurum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

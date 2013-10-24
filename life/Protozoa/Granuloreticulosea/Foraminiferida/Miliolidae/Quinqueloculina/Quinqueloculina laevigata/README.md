@@ -1,5 +1,4 @@
-Quinqueloculina laevigata SPECIES
-=======
+# Quinqueloculina laevigata SPECIES
 
 #### Status
 ACCEPTED

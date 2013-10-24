@@ -1,5 +1,4 @@
-Cosmetophilus Cokendolpher, 1991 GENUS
-=======
+# Cosmetophilus Cokendolpher, 1991 GENUS
 
 #### Status
 ACCEPTED

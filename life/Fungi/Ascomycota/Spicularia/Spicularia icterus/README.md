@@ -1,5 +1,4 @@
-Spicularia icterus Fuckel SPECIES
-=======
+# Spicularia icterus Fuckel SPECIES
 
 #### Status
 ACCEPTED

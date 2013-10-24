@@ -1,14 +1,13 @@
-Eleutheromyces mycophilus (Höhn.) Nag Raj, 1993 SPECIES
-=======
+# Eleutheromycella mycophila Höhn., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 345 (1993)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 117: 1023 (1908)
 
 #### Original name
 Eleutheromycella mycophila Höhn., 1908

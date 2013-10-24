@@ -1,5 +1,4 @@
-Collema blepharophorum Bél. SPECIES
-=======
+# Collema blepharophorum Bél. SPECIES
 
 #### Status
 ACCEPTED

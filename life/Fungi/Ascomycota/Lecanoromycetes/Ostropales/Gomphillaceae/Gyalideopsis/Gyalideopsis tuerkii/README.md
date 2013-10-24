@@ -1,5 +1,4 @@
-Gyalideopsis tuerkii Vezda SPECIES
-=======
+# Gyalideopsis tuerkii Vezda SPECIES
 
 #### Status
 ACCEPTED

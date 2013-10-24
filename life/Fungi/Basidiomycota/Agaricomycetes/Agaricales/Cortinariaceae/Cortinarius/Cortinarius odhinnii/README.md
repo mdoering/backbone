@@ -1,5 +1,4 @@
-Cortinarius odhinnii Melot SPECIES
-=======
+# Cortinarius odhinnii Melot SPECIES
 
 #### Status
 ACCEPTED

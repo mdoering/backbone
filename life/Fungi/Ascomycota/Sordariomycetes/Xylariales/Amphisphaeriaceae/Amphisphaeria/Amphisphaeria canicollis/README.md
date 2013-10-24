@@ -1,5 +1,4 @@
-Amphisphaeria canicollis P. Karst. SPECIES
-=======
+# Amphisphaeria canicollis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Meliola cyclobalanopsicola (W. Yamam.) Cif. SPECIES
-=======
+# Meliola cyclobalanopsidicola (W. Yamam.) Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 88 (1954)
 
 #### Original name
 Irenina cyclobalanopsidicola W. Yamam.

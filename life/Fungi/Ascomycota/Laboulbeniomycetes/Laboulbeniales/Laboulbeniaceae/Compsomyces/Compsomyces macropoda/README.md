@@ -1,5 +1,4 @@
-Compsomyces macropoda Speg., 1931 SPECIES
-=======
+# Compsomyces macropoda Speg., 1931 SPECIES
 
 #### Status
 ACCEPTED

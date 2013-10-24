@@ -1,5 +1,4 @@
-Ramularia urticae Ces., 1863 SPECIES
-=======
+# Ramularia urticae Ces., 1863 SPECIES
 
 #### Status
 ACCEPTED

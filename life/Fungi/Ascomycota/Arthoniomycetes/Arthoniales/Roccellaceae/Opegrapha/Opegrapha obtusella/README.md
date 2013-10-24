@@ -1,5 +1,4 @@
-Opegrapha obtusella Nyl. SPECIES
-=======
+# Opegrapha obtusella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta solani-pseudocapsici Roum. SPECIES
-=======
+# Phyllosticta solani-pseudocapsici Roum. SPECIES
 
 #### Status
 ACCEPTED

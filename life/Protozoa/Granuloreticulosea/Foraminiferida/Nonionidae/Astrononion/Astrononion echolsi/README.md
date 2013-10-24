@@ -1,5 +1,4 @@
-Astrononion echolsi Kennett, 1967 SPECIES
-=======
+# Astrononion echolsi Kennett, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucorites Meschinelli, 1898 GENUS
-=======
+# Mucorites Meschinelli, 1898 GENUS
 
 #### Status
 ACCEPTED

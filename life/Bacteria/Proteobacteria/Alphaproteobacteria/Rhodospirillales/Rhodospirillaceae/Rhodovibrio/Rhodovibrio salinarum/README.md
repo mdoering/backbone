@@ -1,8 +1,7 @@
-Rhodospirillum salinarum Nissen & Dundas, 1985 SPECIES
-=======
+# Rhodovibrio salinarum (Nissen & Dundas, 1985) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Allocetraria flavonigrescens A. Thell & Randlane SPECIES
-=======
+# Allocetraria flavonigrescens A. Thell & Randlane SPECIES
 
 #### Status
 ACCEPTED

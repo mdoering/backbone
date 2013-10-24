@@ -1,5 +1,4 @@
-Dimeromyces gyrophaeniae Thaxt. SPECIES
-=======
+# Dimeromyces gyrophaeniae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

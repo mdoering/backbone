@@ -1,5 +1,4 @@
-Parmotrema compositum (Hale) Hale SPECIES
-=======
+# Parmotrema compositum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

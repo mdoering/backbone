@@ -1,5 +1,4 @@
-Septoria hellebori Thüm. SPECIES
-=======
+# Septoria hellebori Thüm. SPECIES
 
 #### Status
 ACCEPTED

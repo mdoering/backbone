@@ -1,5 +1,4 @@
-Caloplaca mauiensis H. Magn. SPECIES
-=======
+# Caloplaca mauiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

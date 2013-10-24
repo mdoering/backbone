@@ -1,5 +1,4 @@
-Amanita subglobosa Zhu L. Yang SPECIES
-=======
+# Amanita subglobosa Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

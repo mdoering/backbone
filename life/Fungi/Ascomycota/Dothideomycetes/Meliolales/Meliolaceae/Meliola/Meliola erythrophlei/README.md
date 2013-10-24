@@ -1,5 +1,4 @@
-Meliola erythrophlei Hansf. & Deighton SPECIES
-=======
+# Meliola erythrophlei Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

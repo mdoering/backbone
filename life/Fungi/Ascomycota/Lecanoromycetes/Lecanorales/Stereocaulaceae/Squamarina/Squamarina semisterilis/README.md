@@ -1,5 +1,4 @@
-Squamarina semisterilis (H. Magn.) J.C. Wei SPECIES
-=======
+# Squamarina semisterilis (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

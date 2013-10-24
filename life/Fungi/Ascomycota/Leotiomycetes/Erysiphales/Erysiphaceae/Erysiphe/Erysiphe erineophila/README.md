@@ -1,5 +1,4 @@
-Erysiphe erineophila (Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe erineophila (Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

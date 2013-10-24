@@ -1,5 +1,4 @@
-Cercospora pariensis Chupp SPECIES
-=======
+# Cercospora pariensis Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neobryophyllum paucistriatum (Foissner, Agatha & Berger, 2002) Foissner, 2004 SPECIES
-=======
+# Neobryophyllum paucistriatum (Foissner, Agatha & Berger, 2002) Foissner, 2004 SPECIES
 
 #### Status
 ACCEPTED

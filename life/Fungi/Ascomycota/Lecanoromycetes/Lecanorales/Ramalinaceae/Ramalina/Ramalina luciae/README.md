@@ -1,14 +1,13 @@
-Ramalina nervulosa var. luciae (Molho, Brodo, W.L. Culb. & C.F. Culb.) G.N. Stevens VARIETY
-=======
+# Ramalina luciae Molho, Brodo, W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 15(3): 227 (1983)
+Bryologist 84(3): 396 (1981)
 
 #### Original name
 Ramalina luciae Molho, Brodo, W.L. Culb. & C.F. Culb.

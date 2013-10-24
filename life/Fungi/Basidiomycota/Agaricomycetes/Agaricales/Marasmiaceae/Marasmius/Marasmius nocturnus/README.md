@@ -1,5 +1,4 @@
-Marasmius nocturnus Har. Takah. SPECIES
-=======
+# Marasmius nocturnus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

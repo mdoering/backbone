@@ -1,5 +1,4 @@
-Krombholziella variobrunnea (E.A. Dick & Snell) utara SPECIES
-=======
+# Krombholziella variobrunnea (E.A. Dick & Snell) utara SPECIES
 
 #### Status
 ACCEPTED

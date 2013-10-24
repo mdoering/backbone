@@ -1,5 +1,4 @@
-Parmelia cochleata Zahlbr. SPECIES
-=======
+# Parmelia cochleata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

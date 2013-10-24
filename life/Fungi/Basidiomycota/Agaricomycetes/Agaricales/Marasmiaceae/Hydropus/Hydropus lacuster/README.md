@@ -1,5 +1,4 @@
-Hydropus lacuster var. lacuster VARIETY
-=======
+# Hydropus lacuster Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 29(1-2): 36 (1977)
 
 #### Original name
-Hydropus lacuster var. lacuster
+Hydropus lacuster Singer
 
 ### Remarks
 null

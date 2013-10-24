@@ -1,5 +1,4 @@
-Volutella hyacinthorum Berk. SPECIES
-=======
+# Volutella hyacinthorum Berk. SPECIES
 
 #### Status
 ACCEPTED

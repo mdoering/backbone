@@ -1,5 +1,4 @@
-Pertusaria kurchiensis Vain. SPECIES
-=======
+# Pertusaria kurchiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

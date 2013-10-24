@@ -1,5 +1,4 @@
-Ascochyta elaeagni Sacc. SPECIES
-=======
+# Ascochyta elaeagni Sacc. SPECIES
 
 #### Status
 ACCEPTED

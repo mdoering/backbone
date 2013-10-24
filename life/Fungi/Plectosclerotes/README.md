@@ -1,5 +1,4 @@
-Plectosclerotes Stach & Pickh. GENUS
-=======
+# Plectosclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

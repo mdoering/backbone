@@ -1,5 +1,4 @@
-Filaspora conii (Fautrey & F. Lamb.) Kuntze SPECIES
-=======
+# Filaspora conii (Fautrey & F. Lamb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

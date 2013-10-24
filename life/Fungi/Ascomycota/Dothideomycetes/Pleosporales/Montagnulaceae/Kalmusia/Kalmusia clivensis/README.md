@@ -1,14 +1,13 @@
-Sphaeria clivensis Berk. & Broome, 1852 SPECIES
-=======
+# Kalmusia clivensis (Berk. & Broome) M.E. Barr, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 9: 379 (1852)
+Mycotaxon 29: 504 (1987)
 
 #### Original name
 Sphaeria clivensis Berk. & Broome, 1852

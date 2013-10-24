@@ -1,5 +1,4 @@
-Sphacelaria novae-caledoniae Savageau SPECIES
-=======
+# Sphacelaria novae-caledoniae Savageau SPECIES
 
 #### Status
 ACCEPTED

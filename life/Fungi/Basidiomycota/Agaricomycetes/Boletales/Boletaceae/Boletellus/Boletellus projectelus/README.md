@@ -1,5 +1,4 @@
-Boletellus projectelus (Forst) Gibert SPECIES
-=======
+# Boletellus projectelus (Forst) Gibert SPECIES
 
 #### Status
 ACCEPTED

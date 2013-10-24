@@ -1,5 +1,4 @@
-Corethromyces sigmoideus Thaxt. SPECIES
-=======
+# Corethromyces sigmoideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

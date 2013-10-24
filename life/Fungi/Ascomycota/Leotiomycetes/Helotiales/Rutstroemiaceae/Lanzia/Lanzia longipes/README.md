@@ -1,5 +1,4 @@
-Lanzia longipes (Cooke & Peck) Dumont & Korf SPECIES
-=======
+# Lanzia longipes (Cooke & Peck) Dumont & Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia paradoxa (Körb.) Zahlbr. SPECIES
-=======
+# Arthonia paradoxa (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

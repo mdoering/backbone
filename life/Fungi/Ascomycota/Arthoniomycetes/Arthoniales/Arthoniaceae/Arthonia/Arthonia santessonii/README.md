@@ -1,5 +1,4 @@
-Arthonia santessonii Matzer SPECIES
-=======
+# Arthonia santessonii Matzer SPECIES
 
 #### Status
 ACCEPTED

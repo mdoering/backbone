@@ -1,5 +1,4 @@
-Meliola ditricha (Kalchbr. & Cooke) Doidge SPECIES
-=======
+# Meliola ditricha (Kalchbr. & Cooke) Doidge SPECIES
 
 #### Status
 ACCEPTED

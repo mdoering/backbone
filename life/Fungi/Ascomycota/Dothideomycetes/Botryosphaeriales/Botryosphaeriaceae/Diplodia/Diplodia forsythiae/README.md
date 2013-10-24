@@ -1,5 +1,4 @@
-Diplodia forsythiae Hollós SPECIES
-=======
+# Diplodia forsythiae Hollós SPECIES
 
 #### Status
 ACCEPTED

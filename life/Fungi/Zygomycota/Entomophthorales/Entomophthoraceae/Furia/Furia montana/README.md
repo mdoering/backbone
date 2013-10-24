@@ -1,14 +1,13 @@
-Entomophthora montana (Thaxt.) Sacc. & Traverso, 1891 SPECIES
-=======
+# Furia montana (Thaxt.) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 353 (1891)
+Mycotaxon 34(2): 451 (1989)
 
 #### Original name
 Empusa montana Thaxt., 1888

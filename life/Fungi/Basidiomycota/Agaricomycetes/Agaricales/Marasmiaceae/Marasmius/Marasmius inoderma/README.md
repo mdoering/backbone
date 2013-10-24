@@ -1,5 +1,4 @@
-Marasmius inoderma Berk. SPECIES
-=======
+# Marasmius inoderma Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia compressa Thaxt. SPECIES
-=======
+# Laboulbenia compressa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

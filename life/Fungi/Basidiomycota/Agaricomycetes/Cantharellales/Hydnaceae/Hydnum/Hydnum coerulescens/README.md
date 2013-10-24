@@ -1,5 +1,4 @@
-Hydnum coerulescens Raf. SPECIES
-=======
+# Hydnum coerulescens Raf. SPECIES
 
 #### Status
 ACCEPTED

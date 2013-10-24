@@ -1,5 +1,4 @@
-Galerina sequoiae Singer SPECIES
-=======
+# Galerina sequoiae Singer SPECIES
 
 #### Status
 ACCEPTED

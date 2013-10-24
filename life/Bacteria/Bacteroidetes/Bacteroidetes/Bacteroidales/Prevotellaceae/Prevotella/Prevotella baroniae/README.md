@@ -1,5 +1,4 @@
-Prevotella baroniae Downes et al., 2005 SPECIES
-=======
+# Prevotella baroniae Downes et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus consobrinus Speg. SPECIES
-=======
+# Polyporus consobrinus Speg. SPECIES
 
 #### Status
 ACCEPTED

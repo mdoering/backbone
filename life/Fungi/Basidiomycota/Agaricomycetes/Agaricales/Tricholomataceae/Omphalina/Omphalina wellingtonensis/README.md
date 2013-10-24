@@ -1,5 +1,4 @@
-Omphalina wellingtonensis G. Stev., 1964 SPECIES
-=======
+# Omphalina wellingtonensis G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

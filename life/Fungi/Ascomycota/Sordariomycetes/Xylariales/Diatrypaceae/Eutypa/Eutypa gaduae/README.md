@@ -1,5 +1,4 @@
-Eutypa gaduae Henn. SPECIES
-=======
+# Eutypa gaduae Henn. SPECIES
 
 #### Status
 ACCEPTED

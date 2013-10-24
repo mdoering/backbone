@@ -1,5 +1,4 @@
-Microdiplodia alni Allesch. SPECIES
-=======
+# Microdiplodia alni Allesch. SPECIES
 
 #### Status
 ACCEPTED

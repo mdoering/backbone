@@ -1,17 +1,16 @@
-Heterosporium ornithogali var. minus Bäumler VARIETY
-=======
+# Heterosporium ornithogali Klotzsch, 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cooke, Grevillea 5(no. 35): 123 (1877)
 
 #### Original name
-Heterosporium ornithogali var. minus Bäumler
+Heterosporium ornithogali Klotzsch, 1877
 
 ### Remarks
 null

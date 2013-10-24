@@ -1,5 +1,4 @@
-Burseolina palmerae SPECIES
-=======
+# Burseolina palmerae SPECIES
 
 #### Status
 ACCEPTED

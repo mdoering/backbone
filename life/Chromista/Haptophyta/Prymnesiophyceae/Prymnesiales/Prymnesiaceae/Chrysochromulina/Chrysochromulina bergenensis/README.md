@@ -1,5 +1,4 @@
-Chrysochromulina bergenensis Leadbeater, 1972 SPECIES
-=======
+# Chrysochromulina bergenensis Leadbeater, 1972 SPECIES
 
 #### Status
 ACCEPTED

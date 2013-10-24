@@ -1,5 +1,4 @@
-Thelephora radiatorimosa Grev. SPECIES
-=======
+# Thelephora radiatorimosa Grev. SPECIES
 
 #### Status
 ACCEPTED

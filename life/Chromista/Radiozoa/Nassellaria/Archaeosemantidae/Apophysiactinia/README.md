@@ -1,5 +1,4 @@
-Apophysiactinia Won, 1997 GENUS
-=======
+# Apophysiactinia Won, 1997 GENUS
 
 #### Status
 ACCEPTED

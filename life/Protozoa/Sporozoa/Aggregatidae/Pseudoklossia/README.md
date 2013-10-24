@@ -1,14 +1,13 @@
-Margolistella Desser & Bower, 1997 GENUS
-=======
+# Pseudoklossia Léger & Duboscq, 1915 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Arch. Zool. exp. gén. Paris, 55, Notes et Revue, 7.
 
 #### Original name
 null

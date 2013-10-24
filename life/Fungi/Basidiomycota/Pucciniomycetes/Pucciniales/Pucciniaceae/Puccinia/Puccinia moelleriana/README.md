@@ -1,5 +1,4 @@
-Puccinia moelleriana Henn. SPECIES
-=======
+# Puccinia moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

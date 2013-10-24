@@ -1,5 +1,4 @@
-Lecidea phacodoides (Anzi) Jatta SPECIES
-=======
+# Lecidea phacodoides (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

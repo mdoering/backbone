@@ -1,5 +1,4 @@
-Mycena costaricensis Singer SPECIES
-=======
+# Mycena costaricensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia lygei (Rabenh.) Maire SPECIES
-=======
+# Cintractia lygei (Rabenh.) Maire SPECIES
 
 #### Status
 ACCEPTED

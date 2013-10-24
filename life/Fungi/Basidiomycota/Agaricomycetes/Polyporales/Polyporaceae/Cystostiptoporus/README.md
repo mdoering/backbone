@@ -1,5 +1,4 @@
-Cystostiptoporus GENUS
-=======
+# Cystostiptoporus GENUS
 
 #### Status
 ACCEPTED

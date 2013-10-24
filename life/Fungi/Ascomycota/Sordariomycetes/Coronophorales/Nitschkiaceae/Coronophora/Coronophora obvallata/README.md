@@ -1,5 +1,4 @@
-Coronophora obvallata (G.H. Otth) Sacc. & P. Syd. SPECIES
-=======
+# Coronophora obvallata (G.H. Otth) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

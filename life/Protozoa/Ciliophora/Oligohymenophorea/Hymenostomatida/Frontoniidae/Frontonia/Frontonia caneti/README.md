@@ -1,5 +1,4 @@
-Frontonia caneti Dragesco, 1960 SPECIES
-=======
+# Frontonia caneti Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

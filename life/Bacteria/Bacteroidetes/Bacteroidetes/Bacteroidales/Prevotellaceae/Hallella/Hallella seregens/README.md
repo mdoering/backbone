@@ -1,5 +1,4 @@
-Hallella seregens Moore & Moore, 1994 SPECIES
-=======
+# Hallella seregens Moore & Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

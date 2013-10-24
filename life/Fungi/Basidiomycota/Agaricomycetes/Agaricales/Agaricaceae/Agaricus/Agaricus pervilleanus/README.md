@@ -1,5 +1,4 @@
-Agaricus pervilleanus Lév. SPECIES
-=======
+# Agaricus pervilleanus Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomarasmius littoralis Singer SPECIES
-=======
+# Phaeomarasmius littoralis Singer SPECIES
 
 #### Status
 ACCEPTED

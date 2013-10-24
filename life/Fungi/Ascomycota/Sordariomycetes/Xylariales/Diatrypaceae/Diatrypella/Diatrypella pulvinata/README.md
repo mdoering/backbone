@@ -1,17 +1,16 @@
-Diatrype pulvinata (Nitschke) Cooke, 1886 SPECIES
-=======
+# Diatrypella pulvinata Nitschke, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 1: 72 (1867)
 
 #### Original name
-null
+Diatrypella pulvinata Nitschke, 1867
 
 ### Remarks
 null

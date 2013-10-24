@@ -1,5 +1,4 @@
-Niscometes GENUS
-=======
+# Niscometes GENUS
 
 #### Status
 ACCEPTED

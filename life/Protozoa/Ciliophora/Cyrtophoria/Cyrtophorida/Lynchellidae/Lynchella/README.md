@@ -1,5 +1,4 @@
-Lynchella Kahl in Jankowski, 1968 GENUS
-=======
+# Lynchella Kahl in Jankowski, 1968 GENUS
 
 #### Status
 ACCEPTED

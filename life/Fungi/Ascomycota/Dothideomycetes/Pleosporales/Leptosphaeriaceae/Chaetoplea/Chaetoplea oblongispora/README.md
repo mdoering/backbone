@@ -1,5 +1,4 @@
-Chaetoplea oblongispora (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea oblongispora (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

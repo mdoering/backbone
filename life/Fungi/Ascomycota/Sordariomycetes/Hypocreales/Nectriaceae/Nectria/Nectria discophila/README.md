@@ -1,5 +1,4 @@
-Nectria discophila Rogerson & Samuels SPECIES
-=======
+# Nectria discophila Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

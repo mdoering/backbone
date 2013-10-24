@@ -1,5 +1,4 @@
-Entoloma parvulum Murrill SPECIES
-=======
+# Entoloma parvulum Murrill SPECIES
 
 #### Status
 ACCEPTED

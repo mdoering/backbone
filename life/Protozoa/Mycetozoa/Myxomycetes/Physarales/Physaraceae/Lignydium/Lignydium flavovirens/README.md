@@ -1,5 +1,4 @@
-Lignydium flavovirens (Alb. & Schwein.) Kuntze SPECIES
-=======
+# Lignydium flavovirens (Alb. & Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beltraniella aethiopica Bhat & B. Sutton SPECIES
-=======
+# Beltraniella aethiopica Bhat & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius acutoides Peck SPECIES
-=======
+# Cortinarius acutoides Peck SPECIES
 
 #### Status
 ACCEPTED

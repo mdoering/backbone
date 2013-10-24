@@ -1,5 +1,4 @@
-Dictyocha eocaenica (A. I. Krotov) S. Locker & E. Martini SPECIES
-=======
+# Dictyocha eocaenica (A. I. Krotov) S. Locker & E. Martini SPECIES
 
 #### Status
 ACCEPTED

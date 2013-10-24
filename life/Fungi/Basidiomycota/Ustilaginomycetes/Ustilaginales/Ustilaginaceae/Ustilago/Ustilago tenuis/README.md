@@ -1,5 +1,4 @@
-Ustilago tenuis Syd. & P. Syd. SPECIES
-=======
+# Ustilago tenuis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

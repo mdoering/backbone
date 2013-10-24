@@ -1,5 +1,4 @@
-Filisphaeridium inaffectilumium (Loeblich, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium inaffectilumium (Loeblich, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

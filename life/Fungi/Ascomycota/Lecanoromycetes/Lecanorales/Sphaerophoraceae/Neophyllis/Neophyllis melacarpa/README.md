@@ -1,17 +1,16 @@
-Phyllopsora melacarpa (F. Wilson) Müll. Arg. SPECIES
-=======
+# Neophyllis melacarpa (F. Wilson) F. Wilson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 28: 372 (1891)
 
 #### Original name
-null
+Neophyllis melacarpa (F. Wilson) F. Wilson
 
 ### Remarks
 null

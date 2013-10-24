@@ -1,5 +1,4 @@
-Boletellus purpurascens Heinem. SPECIES
-=======
+# Boletellus purpurascens Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasallia dilacerata (Frey) Llano SPECIES
-=======
+# Lasallia dilacerata (Frey) Llano SPECIES
 
 #### Status
 ACCEPTED

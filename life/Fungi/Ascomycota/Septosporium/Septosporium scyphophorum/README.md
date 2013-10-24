@@ -1,5 +1,4 @@
-Septosporium scyphophorum Cooke & Harkn. SPECIES
-=======
+# Septosporium scyphophorum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

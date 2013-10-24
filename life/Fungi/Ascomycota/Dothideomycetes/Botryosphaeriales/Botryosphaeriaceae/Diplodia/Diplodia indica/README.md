@@ -1,5 +1,4 @@
-Diplodia indica Died. SPECIES
-=======
+# Diplodia indica Died. SPECIES
 
 #### Status
 ACCEPTED

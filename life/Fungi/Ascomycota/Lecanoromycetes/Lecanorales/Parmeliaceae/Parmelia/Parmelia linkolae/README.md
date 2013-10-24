@@ -1,5 +1,4 @@
-Parmelia linkolae Gyeln. SPECIES
-=======
+# Parmelia linkolae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

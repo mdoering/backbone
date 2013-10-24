@@ -1,5 +1,4 @@
-Tricholoma indetritum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma indetritum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

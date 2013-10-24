@@ -1,5 +1,4 @@
-Polycephalum aurantiacum Kalchbr. & Cooke SPECIES
-=======
+# Polycephalum aurantiacum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

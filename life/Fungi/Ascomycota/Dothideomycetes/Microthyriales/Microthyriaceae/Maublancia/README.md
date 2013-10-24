@@ -1,5 +1,4 @@
-Maublancia G. Arnaud, 1918 GENUS
-=======
+# Maublancia G. Arnaud, 1918 GENUS
 
 #### Status
 ACCEPTED

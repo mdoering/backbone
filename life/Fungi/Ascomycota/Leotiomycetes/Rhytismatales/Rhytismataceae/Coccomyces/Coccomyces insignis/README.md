@@ -1,5 +1,4 @@
-Coccomyces insignis P. Karst., 1888 SPECIES
-=======
+# Coccomyces insignis P. Karst., 1888 SPECIES
 
 #### Status
 ACCEPTED

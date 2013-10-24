@@ -1,5 +1,4 @@
-Glomospira irregularis SPECIES
-=======
+# Glomospira irregularis SPECIES
 
 #### Status
 ACCEPTED

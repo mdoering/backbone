@@ -1,5 +1,4 @@
-Areoligera coronata (O. Wetzel, 1933) Lejeune-Carpentier SPECIES
-=======
+# Areoligera coronata (O. Wetzel, 1933) Lejeune-Carpentier SPECIES
 
 #### Status
 ACCEPTED

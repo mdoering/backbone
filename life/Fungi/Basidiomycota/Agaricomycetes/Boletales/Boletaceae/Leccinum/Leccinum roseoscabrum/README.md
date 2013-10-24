@@ -1,5 +1,4 @@
-Leccinum roseoscabrum Singer & R. Williams SPECIES
-=======
+# Leccinum roseoscabrum Singer & R. Williams SPECIES
 
 #### Status
 ACCEPTED

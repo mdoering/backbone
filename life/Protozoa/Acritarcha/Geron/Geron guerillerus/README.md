@@ -1,5 +1,4 @@
-Geron guerillerus Cramer, 1966 ex. Cramer, 1969 SPECIES
-=======
+# Geron guerillerus Cramer, 1966 ex. Cramer, 1969 SPECIES
 
 #### Status
 ACCEPTED

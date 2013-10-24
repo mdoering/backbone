@@ -1,5 +1,4 @@
-Chroococcidiopsis indica Desikachary SPECIES
-=======
+# Chroococcidiopsis indica Desikachary SPECIES
 
 #### Status
 ACCEPTED

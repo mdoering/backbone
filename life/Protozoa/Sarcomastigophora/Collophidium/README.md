@@ -1,5 +1,4 @@
-Collophidium Haeckel, 1887 GENUS
-=======
+# Collophidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

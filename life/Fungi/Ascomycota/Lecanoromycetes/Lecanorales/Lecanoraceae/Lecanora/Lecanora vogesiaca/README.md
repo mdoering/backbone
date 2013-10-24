@@ -1,5 +1,4 @@
-Lecanora vogesiaca Duby SPECIES
-=======
+# Lecanora vogesiaca Duby SPECIES
 
 #### Status
 ACCEPTED

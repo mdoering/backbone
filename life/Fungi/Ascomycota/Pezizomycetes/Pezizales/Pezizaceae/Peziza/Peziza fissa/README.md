@@ -1,5 +1,4 @@
-Peziza fissa Fr. SPECIES
-=======
+# Peziza fissa Fr. SPECIES
 
 #### Status
 ACCEPTED

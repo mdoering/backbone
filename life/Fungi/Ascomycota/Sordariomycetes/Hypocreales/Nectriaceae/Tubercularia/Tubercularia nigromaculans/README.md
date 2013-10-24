@@ -1,5 +1,4 @@
-Tubercularia nigromaculans Petch SPECIES
-=======
+# Tubercularia nigromaculans Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sadasivanella Agnihothr. GENUS
-=======
+# Neottiosporina Subram. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian Acad. Sci. , Sect. B 60: 81 (1964)
+Proc. Natl. Inst. Sci. India, B, Biol. Sci. 27: 238 (1961)
 
 #### Original name
-Sadasivanella Agnihothr.
+Neottiosporina Subram.
 
 ### Remarks
 null

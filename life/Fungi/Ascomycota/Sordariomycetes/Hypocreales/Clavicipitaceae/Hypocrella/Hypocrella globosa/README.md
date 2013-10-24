@@ -1,5 +1,4 @@
-Hypocrella globosa Syd. & P. Syd. SPECIES
-=======
+# Hypocrella globosa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

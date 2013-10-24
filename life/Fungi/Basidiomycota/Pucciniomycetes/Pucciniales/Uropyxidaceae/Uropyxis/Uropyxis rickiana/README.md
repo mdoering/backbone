@@ -1,17 +1,16 @@
-Uropyxis reticulata Cummins, 1939 SPECIES
-=======
+# Uropyxis rickiana Magnus, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31: 171 (1939)
+Hedwigia 45: 176 (1906)
 
 #### Original name
-Uropyxis reticulata Cummins, 1939
+Uropyxis rickiana Magnus, 1906
 
 ### Remarks
 null

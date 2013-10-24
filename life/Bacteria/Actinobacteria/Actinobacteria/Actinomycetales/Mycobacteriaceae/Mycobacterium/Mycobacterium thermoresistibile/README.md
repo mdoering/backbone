@@ -1,5 +1,4 @@
-Mycobacterium thermoresistibile Tsukamura, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium thermoresistibile Tsukamura, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

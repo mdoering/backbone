@@ -1,5 +1,4 @@
-Clitocybe alkaliviolascens Bellù SPECIES
-=======
+# Clitocybe alkaliviolascens Bellù SPECIES
 
 #### Status
 ACCEPTED

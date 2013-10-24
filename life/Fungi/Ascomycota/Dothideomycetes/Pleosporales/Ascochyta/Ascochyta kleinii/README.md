@@ -1,5 +1,4 @@
-Ascochyta kleinii Bubák, 1907 SPECIES
-=======
+# Ascochyta kleinii Bubák, 1907 SPECIES
 
 #### Status
 ACCEPTED

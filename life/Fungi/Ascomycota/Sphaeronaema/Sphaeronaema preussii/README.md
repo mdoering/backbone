@@ -1,5 +1,4 @@
-Sphaeronaema preussii Sacc. SPECIES
-=======
+# Sphaeronaema preussii Sacc. SPECIES
 
 #### Status
 ACCEPTED

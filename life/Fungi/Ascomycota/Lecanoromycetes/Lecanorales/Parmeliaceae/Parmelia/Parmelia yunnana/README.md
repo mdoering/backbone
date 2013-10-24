@@ -1,5 +1,4 @@
-Parmelia yunnana var. yunnana VARIETY
-=======
+# Parmelia yunnana Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia yunnana var. yunnana
+Parmelia yunnana Hue
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agrocybe recalva (Lasch) Singer SPECIES
-=======
+# Agrocybe recalva (Lasch) Singer SPECIES
 
 #### Status
 ACCEPTED

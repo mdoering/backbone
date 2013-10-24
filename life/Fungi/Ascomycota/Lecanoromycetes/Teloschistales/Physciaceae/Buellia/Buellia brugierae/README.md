@@ -1,5 +1,4 @@
-Buellia brugierae Vain. SPECIES
-=======
+# Buellia brugierae Vain. SPECIES
 
 #### Status
 ACCEPTED

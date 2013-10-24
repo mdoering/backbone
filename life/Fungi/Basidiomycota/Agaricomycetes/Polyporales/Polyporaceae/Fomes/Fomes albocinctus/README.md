@@ -1,5 +1,4 @@
-Fomes albocinctus Pat. SPECIES
-=======
+# Fomes albocinctus Pat. SPECIES
 
 #### Status
 ACCEPTED

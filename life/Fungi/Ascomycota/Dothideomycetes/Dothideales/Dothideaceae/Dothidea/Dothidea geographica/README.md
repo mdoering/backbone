@@ -1,5 +1,4 @@
-Dothidea geographica Sacc. SPECIES
-=======
+# Dothidea geographica Sacc. SPECIES
 
 #### Status
 ACCEPTED

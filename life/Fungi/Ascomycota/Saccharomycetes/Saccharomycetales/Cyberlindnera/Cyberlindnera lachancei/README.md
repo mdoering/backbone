@@ -1,8 +1,7 @@
-Lindnera lachancei (Phaff, Starmer & Kurtzman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Cyberlindnera lachancei (Phaff, Starmer & Kurtzman) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pichia lachancei Phaff, Starmer & Kurtzman, 1999
 
 ### Remarks
 null

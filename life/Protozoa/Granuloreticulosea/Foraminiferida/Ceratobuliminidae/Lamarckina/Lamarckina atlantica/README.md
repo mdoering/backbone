@@ -1,5 +1,4 @@
-Lamarckina atlantica SPECIES
-=======
+# Lamarckina atlantica SPECIES
 
 #### Status
 ACCEPTED

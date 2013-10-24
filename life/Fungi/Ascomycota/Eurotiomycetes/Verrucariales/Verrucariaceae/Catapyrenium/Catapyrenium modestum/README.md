@@ -1,5 +1,4 @@
-Catapyrenium modestum (H. Magn.) J.C. Wei SPECIES
-=======
+# Catapyrenium modestum (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

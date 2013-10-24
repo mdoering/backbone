@@ -1,5 +1,4 @@
-Helvella ludovicae J. Kickx f. SPECIES
-=======
+# Helvella ludovicae J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

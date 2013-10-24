@@ -1,5 +1,4 @@
-Galerina hypnicola (P. Karst.) A.H. Sm. & Singer SPECIES
-=======
+# Galerina hypnicola (P. Karst.) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

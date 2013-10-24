@@ -1,5 +1,4 @@
-Puccinia arthrocnemi Hansf. SPECIES
-=======
+# Puccinia arthrocnemi Hansf. SPECIES
 
 #### Status
 ACCEPTED

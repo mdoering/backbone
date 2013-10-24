@@ -1,5 +1,4 @@
-Hydropus arenarius (A.H. Sm.) Singer SPECIES
-=======
+# Hydropus arenarius (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

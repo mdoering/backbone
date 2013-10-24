@@ -1,5 +1,4 @@
-Uredo dioscoreae-pentaphyllae Petch SPECIES
-=======
+# Uredo dioscoreae-pentaphyllae Petch SPECIES
 
 #### Status
 ACCEPTED

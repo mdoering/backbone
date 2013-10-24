@@ -1,5 +1,4 @@
-Bubakia ehretiae (Hirats. f.) Ito SPECIES
-=======
+# Bubakia ehretiae (Hirats. f.) Ito SPECIES
 
 #### Status
 ACCEPTED

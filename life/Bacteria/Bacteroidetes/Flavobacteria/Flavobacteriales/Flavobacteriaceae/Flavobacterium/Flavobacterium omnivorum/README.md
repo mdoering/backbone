@@ -1,5 +1,4 @@
-Flavobacterium omnivorum Zhu et al., 2003 SPECIES
-=======
+# Flavobacterium omnivorum Zhu et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

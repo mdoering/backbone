@@ -1,5 +1,4 @@
-Bactrospora denticulata (Vain.) Egea & Torrente SPECIES
-=======
+# Bactrospora denticulata (Vain.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

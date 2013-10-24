@@ -1,5 +1,4 @@
-Spondylocladiella indica K.A. Reddy & V.G. Rao SPECIES
-=======
+# Spondylocladiella indica K.A. Reddy & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

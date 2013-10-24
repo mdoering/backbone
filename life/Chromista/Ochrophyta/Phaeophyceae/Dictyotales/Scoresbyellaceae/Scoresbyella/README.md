@@ -1,5 +1,4 @@
-Scoresbyella Womersley, 1987 GENUS
-=======
+# Scoresbyella Womersley, 1987 GENUS
 
 #### Status
 ACCEPTED

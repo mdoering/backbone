@@ -1,17 +1,16 @@
-Asterina meliosmaticola Petr. & Cif. SPECIES
-=======
+# Asterina meliosmicola Petr. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 30(3/4): 155 (1932)
 
 #### Original name
-Asterina meliosmaticola Petr. & Cif.
+Asterina meliosmicola Petr. & Cif.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Navisporus ortizii S. Herrera & Bondartseva, 1989 SPECIES
-=======
+# Navisporus ortizii S. Herrera & Bondartseva, 1989 SPECIES
 
 #### Status
 ACCEPTED

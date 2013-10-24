@@ -1,5 +1,4 @@
-Niptera subturbinata Rehm SPECIES
-=======
+# Niptera subturbinata Rehm SPECIES
 
 #### Status
 ACCEPTED

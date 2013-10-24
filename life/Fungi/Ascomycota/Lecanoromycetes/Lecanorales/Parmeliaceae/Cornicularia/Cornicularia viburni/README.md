@@ -1,5 +1,4 @@
-Cornicularia viburni Sacc. SPECIES
-=======
+# Cornicularia viburni Sacc. SPECIES
 
 #### Status
 ACCEPTED

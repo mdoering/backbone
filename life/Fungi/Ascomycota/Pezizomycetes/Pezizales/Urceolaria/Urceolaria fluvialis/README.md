@@ -1,5 +1,4 @@
-Urceolaria fluvialis (Körb.) Motyka SPECIES
-=======
+# Urceolaria fluvialis (Körb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

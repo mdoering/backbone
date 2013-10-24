@@ -1,5 +1,4 @@
-Lasiobelonium hooglandii (Dennis) Spooner SPECIES
-=======
+# Lasiobelonium hooglandii (Dennis) Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxotrichum unicolor (Ehrenb.) Fr. SPECIES
-=======
+# Myxotrichum unicolor (Ehrenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

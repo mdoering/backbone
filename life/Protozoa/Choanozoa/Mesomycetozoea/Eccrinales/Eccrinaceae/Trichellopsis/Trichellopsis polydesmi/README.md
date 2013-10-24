@@ -1,5 +1,4 @@
-Trichellopsis polydesmi Maessen SPECIES
-=======
+# Trichellopsis polydesmi Maessen SPECIES
 
 #### Status
 ACCEPTED

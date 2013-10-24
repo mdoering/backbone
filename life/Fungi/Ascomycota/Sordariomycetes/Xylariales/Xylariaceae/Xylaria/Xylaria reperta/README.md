@@ -1,5 +1,4 @@
-Xylaria reperta Bat. & A.F. Vital SPECIES
-=======
+# Xylaria reperta Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

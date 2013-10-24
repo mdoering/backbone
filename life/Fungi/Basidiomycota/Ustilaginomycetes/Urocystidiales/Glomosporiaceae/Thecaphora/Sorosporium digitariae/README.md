@@ -1,5 +1,4 @@
-Sorosporium digitariae (Kunze) Padwick SPECIES
-=======
+# Sorosporium digitariae (Kunze) Padwick SPECIES
 
 #### Status
 ACCEPTED

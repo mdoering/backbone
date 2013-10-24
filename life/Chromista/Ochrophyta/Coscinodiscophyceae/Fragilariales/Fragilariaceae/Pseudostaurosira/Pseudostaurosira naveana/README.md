@@ -1,5 +1,4 @@
-Pseudostaurosira naveana (Morales & Edlund) Le Cohu SPECIES
-=======
+# Pseudostaurosira naveana (Morales & Edlund) Le Cohu SPECIES
 
 #### Status
 ACCEPTED

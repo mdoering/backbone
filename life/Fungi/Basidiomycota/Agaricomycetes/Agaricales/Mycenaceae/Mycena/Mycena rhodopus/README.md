@@ -1,5 +1,4 @@
-Mycena rhodopus Rick SPECIES
-=======
+# Mycena rhodopus Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podolampas spinifera Okamura SPECIES
-=======
+# Podolampas spinifera Okamura SPECIES
 
 #### Status
 ACCEPTED

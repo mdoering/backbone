@@ -1,5 +1,4 @@
-Lophodermium hauturuanum P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium hauturuanum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

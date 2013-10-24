@@ -1,5 +1,4 @@
-Pleatospora Sultanpurker & Amoji, 1985 GENUS
-=======
+# Pleatospora Sultanpurker & Amoji, 1985 GENUS
 
 #### Status
 ACCEPTED

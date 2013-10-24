@@ -1,5 +1,4 @@
-Cortinarius auroripes Carteret & Reumaux SPECIES
-=======
+# Cortinarius auroripes Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma yatay Speg. SPECIES
-=======
+# Anthostoma yatay Speg. SPECIES
 
 #### Status
 ACCEPTED

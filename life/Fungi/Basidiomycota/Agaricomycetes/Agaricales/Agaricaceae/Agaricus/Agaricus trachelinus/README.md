@@ -1,5 +1,4 @@
-Agaricus trachelinus Fr. SPECIES
-=======
+# Agaricus trachelinus Fr. SPECIES
 
 #### Status
 ACCEPTED

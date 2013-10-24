@@ -1,5 +1,4 @@
-Dothiorella pinea (Pass.) Petr. & Syd. SPECIES
-=======
+# Dothiorella pinea (Pass.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

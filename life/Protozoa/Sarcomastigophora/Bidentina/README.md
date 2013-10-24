@@ -1,5 +1,4 @@
-Bidentina Mikhalevich, 1988 GENUS
-=======
+# Bidentina Mikhalevich, 1988 GENUS
 
 #### Status
 ACCEPTED

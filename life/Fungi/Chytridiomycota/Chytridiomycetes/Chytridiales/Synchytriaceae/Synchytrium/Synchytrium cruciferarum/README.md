@@ -1,5 +1,4 @@
-Synchytrium cruciferarum Speg. SPECIES
-=======
+# Synchytrium cruciferarum Speg. SPECIES
 
 #### Status
 ACCEPTED

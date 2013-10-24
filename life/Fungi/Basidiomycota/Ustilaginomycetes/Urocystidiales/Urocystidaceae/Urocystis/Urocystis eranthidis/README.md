@@ -1,14 +1,13 @@
-Tuburcinia eranthidis (Pass.) Liro, 1922 SPECIES
-=======
+# Urocystis eranthidis (Pass.) Ainsw. & Sampson, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Smut Fungi (Ustilaginales) 96 (1950)
 
 #### Original name
 Urocystis pompholygodes var. eranthidis (Pass.) Pass., 1877

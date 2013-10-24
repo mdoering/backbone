@@ -1,5 +1,4 @@
-Recurvoidatus parcus Saidova, 1970 SPECIES
-=======
+# Recurvoidatus parcus Saidova, 1970 SPECIES
 
 #### Status
 ACCEPTED

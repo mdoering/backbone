@@ -1,5 +1,4 @@
-Archaeodiscina retiformie N. Umnova, 1975 SPECIES
-=======
+# Archaeodiscina retiformie N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inanibigutta Nazarov & Ormiston, 1990 GENUS
-=======
+# Inanibigutta Nazarov & Ormiston, 1990 GENUS
 
 #### Status
 ACCEPTED

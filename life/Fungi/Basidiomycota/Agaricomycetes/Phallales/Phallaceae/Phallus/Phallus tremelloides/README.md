@@ -1,5 +1,4 @@
-Phallus tremelloides Vent. SPECIES
-=======
+# Phallus tremelloides Vent. SPECIES
 
 #### Status
 ACCEPTED

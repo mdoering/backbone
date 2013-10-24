@@ -1,5 +1,4 @@
-Trachelomonas orenburgica Svirenko SPECIES
-=======
+# Trachelomonas orenburgica Svirenko SPECIES
 
 #### Status
 ACCEPTED

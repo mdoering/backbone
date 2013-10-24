@@ -1,5 +1,4 @@
-Endopyrenium cinereofuscescens (Vain.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium cinereofuscescens (Vain.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

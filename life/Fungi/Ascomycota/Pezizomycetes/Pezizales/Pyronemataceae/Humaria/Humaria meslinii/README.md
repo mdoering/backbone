@@ -1,5 +1,4 @@
-Humaria meslinii Le Gal SPECIES
-=======
+# Humaria meslinii Le Gal SPECIES
 
 #### Status
 ACCEPTED

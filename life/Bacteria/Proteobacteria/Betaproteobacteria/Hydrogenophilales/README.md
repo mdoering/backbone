@@ -1,5 +1,4 @@
-Hydrogenophilales ORDER
-=======
+# Hydrogenophilales ORDER
 
 #### Status
 ACCEPTED

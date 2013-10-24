@@ -1,5 +1,4 @@
-Terana muscigena (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana muscigena (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

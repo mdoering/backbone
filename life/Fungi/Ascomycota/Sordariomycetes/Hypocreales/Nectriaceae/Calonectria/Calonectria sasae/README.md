@@ -1,5 +1,4 @@
-Calonectria sasae Hara SPECIES
-=======
+# Calonectria sasae Hara SPECIES
 
 #### Status
 ACCEPTED

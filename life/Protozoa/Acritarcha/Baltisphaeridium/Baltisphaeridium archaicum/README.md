@@ -1,5 +1,4 @@
-Baltisphaeridium archaicum Cramer & Díez, 1972 SPECIES
-=======
+# Baltisphaeridium archaicum Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

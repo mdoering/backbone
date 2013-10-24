@@ -1,8 +1,7 @@
-Metasphaeria adianthi Urries SPECIES
-=======
+# Metasphaeria adianti Urries SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria adianthi Urries
+Metasphaeria adianti Urries
 
 ### Remarks
 null

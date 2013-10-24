@@ -1,5 +1,4 @@
-Hygrophorus earlei Murrill SPECIES
-=======
+# Hygrophorus earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

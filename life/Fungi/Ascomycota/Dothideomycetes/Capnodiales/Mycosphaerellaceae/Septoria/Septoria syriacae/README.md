@@ -1,5 +1,4 @@
-Septoria syriacae Kabát & Bubák SPECIES
-=======
+# Septoria syriacae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

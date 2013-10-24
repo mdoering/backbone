@@ -1,5 +1,4 @@
-Aplosporella lagerstroemiae Mhaiskar SPECIES
-=======
+# Aplosporella lagerstroemiae Mhaiskar SPECIES
 
 #### Status
 ACCEPTED

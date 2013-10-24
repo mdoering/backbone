@@ -1,5 +1,4 @@
-Dasyscyphus albocitrina (Cooke) Sacc. SPECIES
-=======
+# Dasyscyphus albocitrina (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

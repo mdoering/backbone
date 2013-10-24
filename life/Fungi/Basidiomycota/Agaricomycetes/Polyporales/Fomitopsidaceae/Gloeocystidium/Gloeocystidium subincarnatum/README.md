@@ -1,5 +1,4 @@
-Gloeocystidium subincarnatum Rick SPECIES
-=======
+# Gloeocystidium subincarnatum Rick SPECIES
 
 #### Status
 ACCEPTED

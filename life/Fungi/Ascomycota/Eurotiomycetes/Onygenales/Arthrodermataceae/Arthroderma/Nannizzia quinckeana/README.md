@@ -1,5 +1,4 @@
-Nannizzia quinckeana Balab. & G. Schick SPECIES
-=======
+# Nannizzia quinckeana Balab. & G. Schick SPECIES
 
 #### Status
 ACCEPTED

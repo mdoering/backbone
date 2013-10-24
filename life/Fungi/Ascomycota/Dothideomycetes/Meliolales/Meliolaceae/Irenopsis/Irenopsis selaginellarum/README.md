@@ -1,5 +1,4 @@
-Irenopsis selaginellarum (Cif.) Hansf. SPECIES
-=======
+# Irenopsis selaginellarum (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

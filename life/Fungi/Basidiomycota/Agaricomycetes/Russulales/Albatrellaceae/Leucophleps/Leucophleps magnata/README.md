@@ -1,14 +1,13 @@
-Corditubera magnata (Harkn.) Malençon, 1983 SPECIES
-=======
+# Leucophleps magnata Harkn., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 4(1): 5 (1983)
+Proc. Calif. Acad. Sci. , Ser. 3, Bot. 1: 257 (1899)
 
 #### Original name
 Leucophleps magnata Harkn., 1899

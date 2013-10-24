@@ -1,5 +1,4 @@
-Actidium pulchellum Rick SPECIES
-=======
+# Actidium pulchellum Rick SPECIES
 
 #### Status
 ACCEPTED

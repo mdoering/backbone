@@ -1,5 +1,4 @@
-Chamaeceras alutaceus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras alutaceus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon ciliare Grev. SPECIES
-=======
+# Hypoxylon ciliare Grev. SPECIES
 
 #### Status
 ACCEPTED

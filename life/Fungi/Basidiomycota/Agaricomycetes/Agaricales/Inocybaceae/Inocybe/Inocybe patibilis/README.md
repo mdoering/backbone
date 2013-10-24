@@ -1,5 +1,4 @@
-Inocybe patibilis Reumaux SPECIES
-=======
+# Inocybe patibilis Reumaux SPECIES
 
 #### Status
 ACCEPTED

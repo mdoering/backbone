@@ -1,5 +1,4 @@
-Haplodothella GENUS
-=======
+# Haplodothella GENUS
 
 #### Status
 ACCEPTED

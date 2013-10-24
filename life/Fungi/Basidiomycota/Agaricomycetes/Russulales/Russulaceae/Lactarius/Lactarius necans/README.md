@@ -1,5 +1,4 @@
-Lactarius necans Gray SPECIES
-=======
+# Lactarius necans Gray SPECIES
 
 #### Status
 ACCEPTED

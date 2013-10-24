@@ -1,5 +1,4 @@
-Biatora lygaeoides Anzi SPECIES
-=======
+# Biatora lygaeoides Anzi SPECIES
 
 #### Status
 ACCEPTED

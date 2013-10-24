@@ -1,5 +1,4 @@
-Papularia lineolata (Sacc.) Petr. SPECIES
-=======
+# Papularia lineolata (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

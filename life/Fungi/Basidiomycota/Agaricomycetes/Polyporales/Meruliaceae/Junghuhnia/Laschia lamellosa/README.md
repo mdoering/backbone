@@ -1,5 +1,4 @@
-Laschia lamellosa Pat. & Gaillard SPECIES
-=======
+# Laschia lamellosa Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Deleya halophila Quesada et al., 1984 SPECIES
-=======
+# Halomonas halophila (Quesada et al., 1984) Dobson & Franzmann, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Phaeocalicium gracile Titov SPECIES
-=======
+# Phaeocalicium gracile Titov SPECIES
 
 #### Status
 ACCEPTED

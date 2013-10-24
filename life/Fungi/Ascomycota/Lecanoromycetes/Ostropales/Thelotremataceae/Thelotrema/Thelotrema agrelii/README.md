@@ -1,5 +1,4 @@
-Thelotrema agrelii G. Salisb. SPECIES
-=======
+# Thelotrema agrelii G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

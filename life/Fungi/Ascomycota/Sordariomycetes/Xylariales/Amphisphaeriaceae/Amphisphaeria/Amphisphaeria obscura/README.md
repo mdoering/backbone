@@ -1,5 +1,4 @@
-Amphisphaeria obscura Sacc. SPECIES
-=======
+# Amphisphaeria obscura Sacc. SPECIES
 
 #### Status
 ACCEPTED

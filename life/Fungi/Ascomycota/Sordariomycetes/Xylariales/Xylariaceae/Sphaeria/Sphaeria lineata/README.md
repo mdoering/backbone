@@ -1,5 +1,4 @@
-Sphaeria lineata Alb. & Schwein. SPECIES
-=======
+# Sphaeria lineata Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

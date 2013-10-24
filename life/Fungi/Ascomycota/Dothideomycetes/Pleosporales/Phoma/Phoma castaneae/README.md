@@ -1,5 +1,4 @@
-Phoma castaneae House SPECIES
-=======
+# Phoma castaneae House SPECIES
 
 #### Status
 ACCEPTED

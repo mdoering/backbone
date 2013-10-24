@@ -1,5 +1,4 @@
-Hubbsia W.A. Weber GENUS
-=======
+# Hubbsia W.A. Weber GENUS
 
 #### Status
 ACCEPTED

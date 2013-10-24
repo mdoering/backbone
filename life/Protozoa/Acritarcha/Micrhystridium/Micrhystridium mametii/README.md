@@ -1,5 +1,4 @@
-Micrhystridium mametii Stockmans & Willière, 1974 SPECIES
-=======
+# Micrhystridium mametii Stockmans & Willière, 1974 SPECIES
 
 #### Status
 ACCEPTED

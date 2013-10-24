@@ -1,5 +1,4 @@
-Glomus corymbiforme Blaszk., 1995 SPECIES
-=======
+# Glomus corymbiforme Blaszk., 1995 SPECIES
 
 #### Status
 ACCEPTED

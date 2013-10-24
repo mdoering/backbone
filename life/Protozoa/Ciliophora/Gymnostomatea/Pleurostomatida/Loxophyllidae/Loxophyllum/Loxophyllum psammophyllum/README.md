@@ -1,8 +1,7 @@
-Loxophyllum psammophyllus Dragesco, 1954 SPECIES
-=======
+# Loxophyllum psammophyllum Dragesco, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

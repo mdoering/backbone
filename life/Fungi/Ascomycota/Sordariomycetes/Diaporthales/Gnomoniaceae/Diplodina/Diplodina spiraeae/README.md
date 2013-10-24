@@ -1,5 +1,4 @@
-Diplodina spiraeae Pass. SPECIES
-=======
+# Diplodina spiraeae Pass. SPECIES
 
 #### Status
 ACCEPTED

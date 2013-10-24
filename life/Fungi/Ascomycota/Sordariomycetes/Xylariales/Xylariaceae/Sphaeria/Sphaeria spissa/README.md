@@ -1,5 +1,4 @@
-Sphaeria spissa Schwein. SPECIES
-=======
+# Sphaeria spissa Schwein. SPECIES
 
 #### Status
 ACCEPTED

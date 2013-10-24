@@ -1,5 +1,4 @@
-Polyperibola Liska, 1980 GENUS
-=======
+# Polyperibola Liska, 1980 GENUS
 
 #### Status
 ACCEPTED

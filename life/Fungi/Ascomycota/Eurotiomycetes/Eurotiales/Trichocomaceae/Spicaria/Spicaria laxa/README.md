@@ -1,5 +1,4 @@
-Spicaria laxa Petch SPECIES
-=======
+# Spicaria laxa Petch SPECIES
 
 #### Status
 ACCEPTED

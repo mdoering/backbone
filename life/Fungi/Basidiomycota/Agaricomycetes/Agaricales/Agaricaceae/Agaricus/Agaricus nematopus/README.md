@@ -1,5 +1,4 @@
-Agaricus nematopus Pers. SPECIES
-=======
+# Agaricus nematopus Pers. SPECIES
 
 #### Status
 ACCEPTED

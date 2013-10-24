@@ -1,5 +1,4 @@
-Camarosporium macluricola Koshk. & Frolov SPECIES
-=======
+# Camarosporium macluricola Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

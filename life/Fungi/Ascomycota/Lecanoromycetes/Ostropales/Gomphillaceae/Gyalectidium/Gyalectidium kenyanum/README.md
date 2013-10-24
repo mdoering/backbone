@@ -1,5 +1,4 @@
-Gyalectidium kenyanum Lücking & Kalb SPECIES
-=======
+# Gyalectidium kenyanum Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

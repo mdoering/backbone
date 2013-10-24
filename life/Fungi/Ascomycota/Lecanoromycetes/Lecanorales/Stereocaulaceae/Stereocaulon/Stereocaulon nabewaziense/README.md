@@ -1,5 +1,4 @@
-Stereocaulon nabewaziense Yasuda SPECIES
-=======
+# Stereocaulon nabewaziense Yasuda SPECIES
 
 #### Status
 ACCEPTED

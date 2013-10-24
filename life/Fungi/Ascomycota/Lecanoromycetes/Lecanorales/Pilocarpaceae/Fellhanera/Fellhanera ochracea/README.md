@@ -1,5 +1,4 @@
-Fellhanera ochracea Sparrius & Aptroot SPECIES
-=======
+# Fellhanera ochracea Sparrius & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia grandispora Speg. SPECIES
-=======
+# Sporormia grandispora Speg. SPECIES
 
 #### Status
 ACCEPTED

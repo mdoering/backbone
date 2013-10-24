@@ -1,5 +1,4 @@
-Agaricus spodophorus Berk. & Broome SPECIES
-=======
+# Agaricus spodophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

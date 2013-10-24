@@ -1,14 +1,13 @@
-Helotium juncisedum Velen., 1934 SPECIES
-=======
+# Cudoniella junciseda (Velen.) Dennis, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 201 (1934)
+British Ascomycetes 121 (1968)
 
 #### Original name
 Helotium juncisedum Velen., 1934

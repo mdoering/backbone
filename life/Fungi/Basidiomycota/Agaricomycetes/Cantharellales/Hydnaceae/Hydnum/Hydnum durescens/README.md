@@ -1,5 +1,4 @@
-Hydnum durescens Cooke SPECIES
-=======
+# Hydnum durescens Cooke SPECIES
 
 #### Status
 ACCEPTED

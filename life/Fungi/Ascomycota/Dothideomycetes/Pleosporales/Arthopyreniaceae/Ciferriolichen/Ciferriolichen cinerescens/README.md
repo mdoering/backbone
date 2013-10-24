@@ -1,5 +1,4 @@
-Ciferriolichen cinerescens (A. Massal.) Tomas. SPECIES
-=======
+# Ciferriolichen cinerescens (A. Massal.) Tomas. SPECIES
 
 #### Status
 ACCEPTED

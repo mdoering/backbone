@@ -1,5 +1,4 @@
-Melanochaeta taitensis Mugambi & Huhndorf SPECIES
-=======
+# Melanochaeta taitensis Mugambi & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

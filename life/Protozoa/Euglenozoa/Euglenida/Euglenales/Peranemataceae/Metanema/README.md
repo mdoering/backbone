@@ -1,5 +1,4 @@
-Metanema (Klebs) Senn in Engler & Prantl, 1900 GENUS
-=======
+# Metanema (Klebs) Senn in Engler & Prantl, 1900 GENUS
 
 #### Status
 ACCEPTED

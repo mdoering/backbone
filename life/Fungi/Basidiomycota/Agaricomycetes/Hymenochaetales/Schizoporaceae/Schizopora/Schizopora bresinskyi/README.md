@@ -1,5 +1,4 @@
-Schizopora bresinskyi Langer SPECIES
-=======
+# Schizopora bresinskyi Langer SPECIES
 
 #### Status
 ACCEPTED

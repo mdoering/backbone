@@ -1,5 +1,4 @@
-Midotis boedijnii Cif. SPECIES
-=======
+# Midotis boedijnii Cif. SPECIES
 
 #### Status
 ACCEPTED

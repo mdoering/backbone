@@ -1,5 +1,4 @@
-Paspalomyces Linder GENUS
-=======
+# Paspalomyces Linder GENUS
 
 #### Status
 ACCEPTED

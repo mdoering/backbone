@@ -1,5 +1,4 @@
-Sphaeria dichroa Durieu & Mont. SPECIES
-=======
+# Sphaeria dichroa Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

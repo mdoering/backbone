@@ -1,5 +1,4 @@
-Steigerina McCulloch, 1977 GENUS
-=======
+# Steigerina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

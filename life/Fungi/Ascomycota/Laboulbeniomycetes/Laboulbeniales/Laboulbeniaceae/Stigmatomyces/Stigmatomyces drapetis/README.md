@@ -1,5 +1,4 @@
-Stigmatomyces drapetis Thaxt. SPECIES
-=======
+# Stigmatomyces drapetis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

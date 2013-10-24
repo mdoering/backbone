@@ -1,14 +1,13 @@
-Spragueola vitellina (Bres.) Nannf., 1942 SPECIES
-=======
+# Neolecta vitellina (Bres.) Korf & J.K. Rogers, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 21(21): 204 (1971)
 
 #### Original name
 Geoglossum vitellinum Bres., 1881

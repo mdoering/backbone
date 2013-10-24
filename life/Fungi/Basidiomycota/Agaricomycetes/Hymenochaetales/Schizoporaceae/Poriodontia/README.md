@@ -1,5 +1,4 @@
-Poriodontia Parmasto GENUS
-=======
+# Poriodontia Parmasto GENUS
 
 #### Status
 ACCEPTED

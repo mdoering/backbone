@@ -1,5 +1,4 @@
-Amanita curta (Cooke & Massee) E.-J. Gilbert SPECIES
-=======
+# Amanita curta (Cooke & Massee) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

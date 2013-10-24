@@ -1,5 +1,4 @@
-Clathroporina japonica Zahlbr. SPECIES
-=======
+# Clathroporina japonica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

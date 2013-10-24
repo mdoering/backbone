@@ -1,5 +1,4 @@
-Lactarius imaianus Singer SPECIES
-=======
+# Lactarius imaianus Singer SPECIES
 
 #### Status
 ACCEPTED

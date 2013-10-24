@@ -1,5 +1,4 @@
-Leptothyrium zeae G.L. Stout SPECIES
-=======
+# Leptothyrium zeae G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

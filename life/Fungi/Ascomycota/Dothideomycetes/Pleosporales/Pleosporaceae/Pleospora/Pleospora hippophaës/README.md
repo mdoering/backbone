@@ -1,5 +1,4 @@
-Pleospora hippophaës P. Larsen SPECIES
-=======
+# Pleospora hippophaës P. Larsen SPECIES
 
 #### Status
 ACCEPTED

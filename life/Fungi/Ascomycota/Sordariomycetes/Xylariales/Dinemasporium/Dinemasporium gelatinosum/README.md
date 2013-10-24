@@ -1,5 +1,4 @@
-Dinemasporium gelatinosum Berk. & Broome SPECIES
-=======
+# Dinemasporium gelatinosum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

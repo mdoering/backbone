@@ -1,5 +1,4 @@
-Collybia distortiformis (Singer) Singer SPECIES
-=======
+# Collybia distortiformis (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena griseorete Singer SPECIES
-=======
+# Mycena griseorete Singer SPECIES
 
 #### Status
 ACCEPTED

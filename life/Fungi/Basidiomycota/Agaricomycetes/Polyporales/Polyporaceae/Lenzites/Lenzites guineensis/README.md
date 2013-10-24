@@ -1,5 +1,4 @@
-Lenzites guineensis Fr. SPECIES
-=======
+# Lenzites guineensis Fr. SPECIES
 
 #### Status
 ACCEPTED

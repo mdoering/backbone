@@ -1,5 +1,4 @@
-Cucujomyces stipatus Thaxt., 1917 SPECIES
-=======
+# Cucujomyces stipatus Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

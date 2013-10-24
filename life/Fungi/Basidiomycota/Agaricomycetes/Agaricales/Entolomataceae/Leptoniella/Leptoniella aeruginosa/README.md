@@ -1,5 +1,4 @@
-Leptoniella aeruginosa (Peck) Murrill SPECIES
-=======
+# Leptoniella aeruginosa (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

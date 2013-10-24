@@ -1,5 +1,4 @@
-Thelotrema lockeanum Müll. Arg. SPECIES
-=======
+# Thelotrema lockeanum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

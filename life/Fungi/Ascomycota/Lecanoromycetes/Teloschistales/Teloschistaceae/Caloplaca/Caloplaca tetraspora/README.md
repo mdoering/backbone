@@ -1,17 +1,16 @@
-Blastenia tetraspora (Nyl.) Rehm SPECIES
-=======
+# Caloplaca tetraspora (Nyl.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Imp. Sci. Nat. Cherbourg 37: 140 (1909)
 
 #### Original name
-null
+Lecanora tetraspora H. Magn.
 
 ### Remarks
 null

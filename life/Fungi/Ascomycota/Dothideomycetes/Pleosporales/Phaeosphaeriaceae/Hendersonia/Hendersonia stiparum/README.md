@@ -1,5 +1,4 @@
-Hendersonia stiparum (Speg.) Petr. & Syd. SPECIES
-=======
+# Hendersonia stiparum (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

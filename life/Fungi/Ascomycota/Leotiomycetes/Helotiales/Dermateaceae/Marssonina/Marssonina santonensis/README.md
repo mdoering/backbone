@@ -1,5 +1,4 @@
-Marssonina santonensis (Pass.) Magnus SPECIES
-=======
+# Marssonina santonensis (Pass.) Magnus SPECIES
 
 #### Status
 ACCEPTED

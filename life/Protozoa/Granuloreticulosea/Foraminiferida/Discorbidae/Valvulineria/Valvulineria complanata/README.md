@@ -1,5 +1,4 @@
-Valvulineria complanata (d'Orbigny, 1846) SPECIES
-=======
+# Valvulineria complanata (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

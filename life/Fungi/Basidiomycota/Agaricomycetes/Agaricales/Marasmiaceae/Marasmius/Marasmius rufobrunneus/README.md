@@ -1,5 +1,4 @@
-Marasmius rufobrunneus Henn. SPECIES
-=======
+# Marasmius rufobrunneus Henn. SPECIES
 
 #### Status
 ACCEPTED

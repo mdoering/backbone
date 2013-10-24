@@ -1,5 +1,4 @@
-Heterosphaeria morthieri Fuckel SPECIES
-=======
+# Heterosphaeria morthieri Fuckel SPECIES
 
 #### Status
 ACCEPTED

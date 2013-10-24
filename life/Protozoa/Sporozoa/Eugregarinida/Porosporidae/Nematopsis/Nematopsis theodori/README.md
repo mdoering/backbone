@@ -1,8 +1,7 @@
-Porospora theodori Vivares, 1972 SPECIES
-=======
+# Nematopsis theodori Vivares, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

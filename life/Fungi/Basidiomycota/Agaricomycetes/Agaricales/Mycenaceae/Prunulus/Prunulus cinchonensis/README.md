@@ -1,5 +1,4 @@
-Prunulus cinchonensis Murrill SPECIES
-=======
+# Prunulus cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

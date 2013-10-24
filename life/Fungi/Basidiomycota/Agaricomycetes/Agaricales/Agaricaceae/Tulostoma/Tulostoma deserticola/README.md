@@ -1,5 +1,4 @@
-Tulostoma deserticola W. Phillips SPECIES
-=======
+# Tulostoma deserticola W. Phillips SPECIES
 
 #### Status
 ACCEPTED

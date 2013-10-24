@@ -1,5 +1,4 @@
-Cribraria lepida Meyl., 1927 SPECIES
-=======
+# Cribraria lepida Meyl., 1927 SPECIES
 
 #### Status
 ACCEPTED

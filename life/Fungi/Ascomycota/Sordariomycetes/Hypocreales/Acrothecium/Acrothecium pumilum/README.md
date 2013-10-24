@@ -1,5 +1,4 @@
-Acrothecium pumilum Sacc. SPECIES
-=======
+# Acrothecium pumilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

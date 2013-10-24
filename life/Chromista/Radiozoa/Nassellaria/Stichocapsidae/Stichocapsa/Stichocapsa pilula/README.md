@@ -1,5 +1,4 @@
-Stichocapsa pilula SPECIES
-=======
+# Stichocapsa pilula SPECIES
 
 #### Status
 ACCEPTED

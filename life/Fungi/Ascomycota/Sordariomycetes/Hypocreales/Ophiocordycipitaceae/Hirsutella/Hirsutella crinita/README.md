@@ -1,5 +1,4 @@
-Hirsutella crinita Z.Q. Liang SPECIES
-=======
+# Hirsutella crinita Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

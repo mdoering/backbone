@@ -1,5 +1,4 @@
-Helotium crassum Velen. SPECIES
-=======
+# Helotium crassum Velen. SPECIES
 
 #### Status
 ACCEPTED

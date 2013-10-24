@@ -1,5 +1,4 @@
-Gnomonia lirelliformis Pass. SPECIES
-=======
+# Gnomonia lirelliformis Pass. SPECIES
 
 #### Status
 ACCEPTED

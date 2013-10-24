@@ -1,5 +1,4 @@
-Cladosporium sparsum Schwein. SPECIES
-=======
+# Cladosporium sparsum Schwein. SPECIES
 
 #### Status
 ACCEPTED

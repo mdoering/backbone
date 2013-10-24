@@ -1,5 +1,4 @@
-Cercosporella thespesiae Thirum. & Naras. SPECIES
-=======
+# Cercosporella thespesiae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

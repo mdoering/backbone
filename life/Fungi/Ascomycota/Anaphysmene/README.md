@@ -1,17 +1,16 @@
-Wakefieldia G. Arnaud GENUS
-=======
+# Anaphysmene Bubák GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 69: 303 (1954)
+Annls mycol. 4(2): 124 (1906)
 
 #### Original name
-Wakefieldia G. Arnaud
+Anaphysmene Bubák
 
 ### Remarks
 null

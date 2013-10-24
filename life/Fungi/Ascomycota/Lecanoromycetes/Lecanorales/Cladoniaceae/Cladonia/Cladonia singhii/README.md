@@ -1,5 +1,4 @@
-Cladonia singhii Ahti & P.K. Dixit SPECIES
-=======
+# Cladonia singhii Ahti & P.K. Dixit SPECIES
 
 #### Status
 ACCEPTED

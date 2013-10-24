@@ -1,5 +1,4 @@
-Torrentispora fusiformis Fryar & K.D. Hyde, 2004 SPECIES
-=======
+# Torrentispora fusiformis Fryar & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

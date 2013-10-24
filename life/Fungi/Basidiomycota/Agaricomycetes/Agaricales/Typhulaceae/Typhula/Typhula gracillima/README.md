@@ -1,5 +1,4 @@
-Typhula gracillima Berk. & Broome SPECIES
-=======
+# Typhula gracillima Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

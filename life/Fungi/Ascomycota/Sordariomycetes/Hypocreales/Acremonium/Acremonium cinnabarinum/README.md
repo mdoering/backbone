@@ -1,5 +1,4 @@
-Acremonium cinnabarinum Sartory & R. Sartory, 1943 SPECIES
-=======
+# Acremonium cinnabarinum Sartory & R. Sartory, 1943 SPECIES
 
 #### Status
 ACCEPTED

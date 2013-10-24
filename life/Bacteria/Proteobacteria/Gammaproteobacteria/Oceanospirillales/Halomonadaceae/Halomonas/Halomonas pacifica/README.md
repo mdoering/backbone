@@ -1,11 +1,10 @@
-Alcaligenes pacificus Baumann et al., 1972 SPECIES
-=======
+# Halomonas pacifica (Baumann et al., 1972) Dobson & Franzmann, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

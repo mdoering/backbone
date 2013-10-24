@@ -1,5 +1,4 @@
-Entoloma rimulosum Noordel. SPECIES
-=======
+# Entoloma rimulosum Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium lobeznum Cramer, 1964 SPECIES
-=======
+# Baltisphaeridium lobeznum Cramer, 1964 SPECIES
 
 #### Status
 ACCEPTED

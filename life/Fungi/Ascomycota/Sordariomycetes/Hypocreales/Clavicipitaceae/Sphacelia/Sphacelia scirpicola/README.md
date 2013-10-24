@@ -1,5 +1,4 @@
-Sphacelia scirpicola Ferd. & Winge SPECIES
-=======
+# Sphacelia scirpicola Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

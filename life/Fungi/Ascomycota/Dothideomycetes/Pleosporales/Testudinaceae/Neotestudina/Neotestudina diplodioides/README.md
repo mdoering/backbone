@@ -1,5 +1,4 @@
-Neotestudina diplodioides M.E. Barr, 1987 SPECIES
-=======
+# Neotestudina diplodioides M.E. Barr, 1987 SPECIES
 
 #### Status
 ACCEPTED

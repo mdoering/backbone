@@ -1,5 +1,4 @@
-Katagnymene pelagica Lemmermann SPECIES
-=======
+# Katagnymene pelagica Lemmermann SPECIES
 
 #### Status
 ACCEPTED

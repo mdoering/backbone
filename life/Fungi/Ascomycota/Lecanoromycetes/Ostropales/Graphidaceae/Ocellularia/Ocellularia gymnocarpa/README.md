@@ -1,14 +1,13 @@
-Thelotrema gymnocarpum Nyl. SPECIES
-=======
+# Ocellularia gymnocarpa (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 7: 317 (1867)
+Cat. Lich. Univers. 2: 592 (1923)
 
 #### Original name
 Thelotrema gymnocarpum Nyl.

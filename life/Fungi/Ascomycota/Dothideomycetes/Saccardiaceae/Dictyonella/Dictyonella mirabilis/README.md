@@ -1,5 +1,4 @@
-Dictyonella mirabilis (Syd. & P. Syd.) Arx, 1963 SPECIES
-=======
+# Dictyonella mirabilis (Syd. & P. Syd.) Arx, 1963 SPECIES
 
 #### Status
 ACCEPTED

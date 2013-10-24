@@ -1,5 +1,4 @@
-Macrosporium leptotrichum Cooke & Ellis SPECIES
-=======
+# Macrosporium leptotrichum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

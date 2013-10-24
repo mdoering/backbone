@@ -1,5 +1,4 @@
-Dyadosporites denticulatus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites denticulatus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

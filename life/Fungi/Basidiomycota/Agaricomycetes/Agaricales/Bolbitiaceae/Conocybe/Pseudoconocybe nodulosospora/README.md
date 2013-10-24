@@ -1,5 +1,4 @@
-Pseudoconocybe nodulosospora Hongo SPECIES
-=======
+# Pseudoconocybe nodulosospora Hongo SPECIES
 
 #### Status
 ACCEPTED

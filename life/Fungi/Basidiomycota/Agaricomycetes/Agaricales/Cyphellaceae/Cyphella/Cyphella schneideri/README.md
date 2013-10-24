@@ -1,5 +1,4 @@
-Cyphella schneideri Berk. & Broome SPECIES
-=======
+# Cyphella schneideri Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

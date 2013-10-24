@@ -1,5 +1,4 @@
-Microthelia knightiana Müll. Arg. SPECIES
-=======
+# Microthelia knightiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

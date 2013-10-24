@@ -1,5 +1,4 @@
-Lenzites kusanoi (Murrill) Teng SPECIES
-=======
+# Lenzites kusanoi (Murrill) Teng SPECIES
 
 #### Status
 ACCEPTED

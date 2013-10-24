@@ -1,5 +1,4 @@
-Sphacelaria bornetii Hariot SPECIES
-=======
+# Sphacelaria bornetii Hariot SPECIES
 
 #### Status
 ACCEPTED

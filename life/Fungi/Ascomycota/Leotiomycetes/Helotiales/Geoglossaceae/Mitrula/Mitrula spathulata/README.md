@@ -1,5 +1,4 @@
-Mitrula spathulata Fr. SPECIES
-=======
+# Mitrula spathulata Fr. SPECIES
 
 #### Status
 ACCEPTED

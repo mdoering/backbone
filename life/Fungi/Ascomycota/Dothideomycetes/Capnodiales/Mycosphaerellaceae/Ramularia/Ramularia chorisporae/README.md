@@ -1,5 +1,4 @@
-Ramularia chorisporae Lobik SPECIES
-=======
+# Ramularia chorisporae Lobik SPECIES
 
 #### Status
 ACCEPTED

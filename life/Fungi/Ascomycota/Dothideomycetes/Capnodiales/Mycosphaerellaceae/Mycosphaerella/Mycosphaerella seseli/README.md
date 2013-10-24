@@ -1,5 +1,4 @@
-Mycosphaerella seseli Gucevic SPECIES
-=======
+# Mycosphaerella seseli Gucevic SPECIES
 
 #### Status
 ACCEPTED

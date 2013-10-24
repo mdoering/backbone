@@ -1,5 +1,4 @@
-Nitrospira Watson et al., 1986 GENUS
-=======
+# Nitrospira Watson et al., 1986 GENUS
 
 #### Status
 ACCEPTED

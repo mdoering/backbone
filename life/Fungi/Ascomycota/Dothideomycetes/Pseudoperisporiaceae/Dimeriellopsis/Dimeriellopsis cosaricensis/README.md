@@ -1,5 +1,4 @@
-Dimeriellopsis cosaricensis F. Stevens SPECIES
-=======
+# Dimeriellopsis cosaricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

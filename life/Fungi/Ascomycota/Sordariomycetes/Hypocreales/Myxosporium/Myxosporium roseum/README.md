@@ -1,5 +1,4 @@
-Myxosporium roseum Dearn. & Barthol. SPECIES
-=======
+# Myxosporium roseum Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

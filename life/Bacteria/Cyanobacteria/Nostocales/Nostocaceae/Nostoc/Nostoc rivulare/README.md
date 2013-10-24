@@ -1,5 +1,4 @@
-Nostoc rivulare Kützing SPECIES
-=======
+# Nostoc rivulare Kützing SPECIES
 
 #### Status
 ACCEPTED

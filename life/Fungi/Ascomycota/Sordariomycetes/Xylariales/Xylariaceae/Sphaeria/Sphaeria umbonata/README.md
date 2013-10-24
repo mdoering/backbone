@@ -1,5 +1,4 @@
-Sphaeria umbonata Fr. SPECIES
-=======
+# Sphaeria umbonata Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterotrichia ocellata (Kützing) Meneghini SPECIES
-=======
+# Asterotrichia ocellata (Kützing) Meneghini SPECIES
 
 #### Status
 ACCEPTED

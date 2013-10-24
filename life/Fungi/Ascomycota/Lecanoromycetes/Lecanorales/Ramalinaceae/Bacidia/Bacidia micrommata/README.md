@@ -1,14 +1,13 @@
-Lecania micrommata (Kremp.) Müll. Arg. SPECIES
-=======
+# Bacidia micrommata (Kremp.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 12(no. 1): 459 (1952)
 
 #### Original name
 Lecanora micrommata Kremp.

@@ -1,5 +1,4 @@
-Ustilago reessiana J.G. Kühn SPECIES
-=======
+# Ustilago reessiana J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

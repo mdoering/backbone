@@ -1,5 +1,4 @@
-Amanita ochreata Peck SPECIES
-=======
+# Amanita ochreata Peck SPECIES
 
 #### Status
 ACCEPTED

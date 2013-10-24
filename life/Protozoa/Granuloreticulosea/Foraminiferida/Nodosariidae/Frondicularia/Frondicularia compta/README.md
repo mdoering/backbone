@@ -1,5 +1,4 @@
-Frondicularia compta var. villosa Heron-Allen & Earland, 1924 VARIETY
-=======
+# Frondicularia compta Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

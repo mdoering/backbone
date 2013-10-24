@@ -1,5 +1,4 @@
-Pannaria porriginosa Vain. SPECIES
-=======
+# Pannaria porriginosa Vain. SPECIES
 
 #### Status
 ACCEPTED

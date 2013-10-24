@@ -1,5 +1,4 @@
-Hysterium dimorphum (Nyl.) Dufour SPECIES
-=======
+# Hysterium dimorphum (Nyl.) Dufour SPECIES
 
 #### Status
 ACCEPTED

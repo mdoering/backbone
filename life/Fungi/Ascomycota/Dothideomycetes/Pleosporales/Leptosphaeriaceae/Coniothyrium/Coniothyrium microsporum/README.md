@@ -1,5 +1,4 @@
-Coniothyrium microsporum Tassi SPECIES
-=======
+# Coniothyrium microsporum Tassi SPECIES
 
 #### Status
 ACCEPTED

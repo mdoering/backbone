@@ -1,5 +1,4 @@
-Uromyces sublevis Tranzschel SPECIES
-=======
+# Uromyces sublevis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

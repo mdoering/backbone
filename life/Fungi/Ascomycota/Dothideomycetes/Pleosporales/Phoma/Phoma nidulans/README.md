@@ -1,5 +1,4 @@
-Phoma nidulans Grognot ex Sacc. SPECIES
-=======
+# Phoma nidulans Grognot ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

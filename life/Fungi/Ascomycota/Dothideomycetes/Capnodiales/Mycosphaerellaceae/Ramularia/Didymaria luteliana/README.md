@@ -1,5 +1,4 @@
-Didymaria luteliana Sacc. SPECIES
-=======
+# Didymaria luteliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streblonema minutulum Heydrich SPECIES
-=======
+# Streblonema minutulum Heydrich SPECIES
 
 #### Status
 ACCEPTED

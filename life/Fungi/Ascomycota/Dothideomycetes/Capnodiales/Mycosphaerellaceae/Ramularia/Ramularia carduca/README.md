@@ -1,5 +1,4 @@
-Ramularia carduca SPECIES
-=======
+# Ramularia carduca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trabutia pittospori (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora pittospori Henn., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 350 (1915)
+Bull. Herb. Boissier 1: 119 (1893)
 
 #### Original name
 Phyllachora pittospori Henn., 1893

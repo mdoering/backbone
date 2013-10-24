@@ -1,5 +1,4 @@
-Edenia gomezpompae M.C. González, Anaya, Glenn, Saucedo & Hanlin, 2007 SPECIES
-=======
+# Edenia gomezpompae M.C. González, Anaya, Glenn, Saucedo & Hanlin, 2007 SPECIES
 
 #### Status
 ACCEPTED

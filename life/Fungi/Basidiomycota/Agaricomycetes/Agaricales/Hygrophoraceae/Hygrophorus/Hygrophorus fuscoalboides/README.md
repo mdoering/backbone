@@ -1,5 +1,4 @@
-Hygrophorus fuscoalboides Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus fuscoalboides Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

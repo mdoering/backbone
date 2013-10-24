@@ -1,5 +1,4 @@
-Leucoagaricus subpudicus Bon SPECIES
-=======
+# Leucoagaricus subpudicus Bon SPECIES
 
 #### Status
 ACCEPTED

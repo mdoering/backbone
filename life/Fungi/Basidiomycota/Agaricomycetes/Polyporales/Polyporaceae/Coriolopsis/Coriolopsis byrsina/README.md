@@ -1,17 +1,16 @@
-Polystictus byrsinus f. byrsinus FORM
-=======
+# Coriolopsis byrsina (Mont.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 19: 230 (1972)
 
 #### Original name
-Polystictus byrsinus f. byrsinus
+Polyporus byrsinus Mont., 1842
 
 ### Remarks
 null

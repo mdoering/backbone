@@ -1,5 +1,4 @@
-Collybia brunneosetosa Dennis SPECIES
-=======
+# Collybia brunneosetosa Dennis SPECIES
 
 #### Status
 ACCEPTED

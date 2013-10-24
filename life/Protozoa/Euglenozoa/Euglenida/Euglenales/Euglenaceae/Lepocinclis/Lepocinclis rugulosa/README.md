@@ -1,5 +1,4 @@
-Lepocinclis rugulosa Playfair SPECIES
-=======
+# Lepocinclis rugulosa Playfair SPECIES
 
 #### Status
 ACCEPTED

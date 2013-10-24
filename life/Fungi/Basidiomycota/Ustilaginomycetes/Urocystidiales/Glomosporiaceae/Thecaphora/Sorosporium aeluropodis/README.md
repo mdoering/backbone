@@ -1,5 +1,4 @@
-Sorosporium aeluropodis S. Ahmad SPECIES
-=======
+# Sorosporium aeluropodis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

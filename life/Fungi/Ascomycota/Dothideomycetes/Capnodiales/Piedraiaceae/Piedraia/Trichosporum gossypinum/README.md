@@ -1,5 +1,4 @@
-Trichosporum gossypinum Pat. SPECIES
-=======
+# Trichosporum gossypinum Pat. SPECIES
 
 #### Status
 ACCEPTED

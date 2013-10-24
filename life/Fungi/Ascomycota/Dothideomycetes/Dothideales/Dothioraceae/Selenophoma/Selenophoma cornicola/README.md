@@ -1,5 +1,4 @@
-Selenophoma cornicola Kusnezowa SPECIES
-=======
+# Selenophoma cornicola Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

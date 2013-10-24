@@ -1,5 +1,4 @@
-Xylaria nodulosa Lloyd SPECIES
-=======
+# Xylaria nodulosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

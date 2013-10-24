@@ -1,8 +1,7 @@
-Geaster atratus F. marda SPECIES
-=======
+# Geastrum atratus F. marda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster atratus F. marda
+Geastrum atratus F. marda
 
 ### Remarks
 null

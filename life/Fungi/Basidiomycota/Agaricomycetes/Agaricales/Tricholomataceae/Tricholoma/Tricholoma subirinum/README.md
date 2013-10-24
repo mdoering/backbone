@@ -1,5 +1,4 @@
-Tricholoma subirinum Contu SPECIES
-=======
+# Tricholoma subirinum Contu SPECIES
 
 #### Status
 ACCEPTED

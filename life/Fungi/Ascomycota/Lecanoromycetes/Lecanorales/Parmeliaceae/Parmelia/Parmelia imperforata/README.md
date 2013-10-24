@@ -1,5 +1,4 @@
-Parmelia imperforata Nyl. SPECIES
-=======
+# Parmelia imperforata Nyl. SPECIES
 
 #### Status
 ACCEPTED

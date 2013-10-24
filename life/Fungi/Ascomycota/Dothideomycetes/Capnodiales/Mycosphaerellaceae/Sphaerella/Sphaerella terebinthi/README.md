@@ -1,5 +1,4 @@
-Sphaerella terebinthi Pass. SPECIES
-=======
+# Sphaerella terebinthi Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria caricicola R. Sprague SPECIES
-=======
+# Aposphaeria caricicola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eribotrys Foreman, 1968 GENUS
-=======
+# Eribotrys Foreman, 1968 GENUS
 
 #### Status
 ACCEPTED

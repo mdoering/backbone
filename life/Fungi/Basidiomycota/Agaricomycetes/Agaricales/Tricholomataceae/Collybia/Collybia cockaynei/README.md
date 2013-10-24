@@ -1,14 +1,13 @@
-Collybiopsis cockaynei (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Collybia cockaynei (G. Stev.) Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 9(3): 413 (1971)
+Biblthca Mycol. 168: 139 (1997)
 
 #### Original name
 Marasmius cockaynei G. Stev., 1964

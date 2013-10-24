@@ -1,5 +1,4 @@
-Dateriocradus josefae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Dateriocradus josefae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

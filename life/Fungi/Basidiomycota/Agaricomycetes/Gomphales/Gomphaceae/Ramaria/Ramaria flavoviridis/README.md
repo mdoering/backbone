@@ -1,5 +1,4 @@
-Ramaria flavoviridis Corner & K.S. Thind, 1961 SPECIES
-=======
+# Ramaria flavoviridis Corner & K.S. Thind, 1961 SPECIES
 
 #### Status
 ACCEPTED

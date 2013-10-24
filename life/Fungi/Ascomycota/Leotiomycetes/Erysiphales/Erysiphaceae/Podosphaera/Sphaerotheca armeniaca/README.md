@@ -1,5 +1,4 @@
-Sphaerotheca armeniaca Puzari & A.K. Sarbhoy SPECIES
-=======
+# Sphaerotheca armeniaca Puzari & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

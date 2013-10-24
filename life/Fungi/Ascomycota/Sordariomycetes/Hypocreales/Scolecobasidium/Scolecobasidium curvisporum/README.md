@@ -1,5 +1,4 @@
-Scolecobasidium curvisporum Matsush. SPECIES
-=======
+# Scolecobasidium curvisporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma luminatum Schwein. SPECIES
-=======
+# Caeoma luminatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

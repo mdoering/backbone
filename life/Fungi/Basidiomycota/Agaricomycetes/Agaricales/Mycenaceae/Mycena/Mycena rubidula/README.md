@@ -1,5 +1,4 @@
-Mycena rubidula Bres. SPECIES
-=======
+# Mycena rubidula Bres. SPECIES
 
 #### Status
 ACCEPTED

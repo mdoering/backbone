@@ -1,5 +1,4 @@
-Pleurochloris commutata Pascher SPECIES
-=======
+# Pleurochloris commutata Pascher SPECIES
 
 #### Status
 ACCEPTED

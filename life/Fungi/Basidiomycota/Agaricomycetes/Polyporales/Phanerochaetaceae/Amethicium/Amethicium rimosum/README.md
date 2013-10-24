@@ -1,5 +1,4 @@
-Amethicium rimosum Hjortstam, 1983 SPECIES
-=======
+# Amethicium rimosum Hjortstam, 1983 SPECIES
 
 #### Status
 ACCEPTED

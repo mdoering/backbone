@@ -1,5 +1,4 @@
-Phyllosticta punctata Ellis & Dearn. SPECIES
-=======
+# Phyllosticta punctata Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea mulenkoi Piatek SPECIES
-=======
+# Anthracoidea mulenkoi Piatek SPECIES
 
 #### Status
 ACCEPTED

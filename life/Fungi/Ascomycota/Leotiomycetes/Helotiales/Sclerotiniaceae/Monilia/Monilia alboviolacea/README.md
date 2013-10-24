@@ -1,17 +1,16 @@
-Monilia albo-violacea Panas. SPECIES
-=======
+# Monilia alboviolacea Panas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 56(6): 806 (1965)
 
 #### Original name
-Monilia albo-violacea Panas.
+Monilia alboviolacea Panas.
 
 ### Remarks
 null

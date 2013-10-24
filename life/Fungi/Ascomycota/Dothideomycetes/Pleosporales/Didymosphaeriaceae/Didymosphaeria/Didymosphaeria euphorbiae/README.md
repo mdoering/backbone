@@ -1,5 +1,4 @@
-Didymosphaeria euphorbiae Parisi SPECIES
-=======
+# Didymosphaeria euphorbiae Parisi SPECIES
 
 #### Status
 ACCEPTED

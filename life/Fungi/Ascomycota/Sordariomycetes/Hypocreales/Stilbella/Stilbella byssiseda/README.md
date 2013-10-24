@@ -1,14 +1,13 @@
-Polycephalomyces orbicularis (Berk. & Broome) Ing SPECIES
-=======
+# Stilbella byssiseda (Pers.) Seifert, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 27: 61 (1985)
 
 #### Original name
 null

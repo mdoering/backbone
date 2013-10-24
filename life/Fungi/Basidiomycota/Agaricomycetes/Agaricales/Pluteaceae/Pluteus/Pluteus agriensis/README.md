@@ -1,5 +1,4 @@
-Pluteus agriensis Singer SPECIES
-=======
+# Pluteus agriensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Maublancomyces fastigiata (Krombh.) Herter SPECIES
-=======
+# Maublancomyces fastigiatus (Krombh.) Herter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

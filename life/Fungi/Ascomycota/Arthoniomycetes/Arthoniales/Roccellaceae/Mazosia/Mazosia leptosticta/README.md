@@ -1,5 +1,4 @@
-Mazosia leptosticta (Nyl.) Sparrius SPECIES
-=======
+# Mazosia leptosticta (Nyl.) Sparrius SPECIES
 
 #### Status
 ACCEPTED

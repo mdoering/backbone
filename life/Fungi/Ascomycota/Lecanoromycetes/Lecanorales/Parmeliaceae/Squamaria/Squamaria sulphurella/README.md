@@ -1,5 +1,4 @@
-Squamaria sulphurella (Körb.) H. Olivier SPECIES
-=======
+# Squamaria sulphurella (Körb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfovibrio cuneatus Sass et al., 1998 SPECIES
-=======
+# Desulfovibrio cuneatus Sass et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

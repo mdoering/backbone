@@ -1,5 +1,4 @@
-Platygrapha homoeoides Nyl. SPECIES
-=======
+# Platygrapha homoeoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

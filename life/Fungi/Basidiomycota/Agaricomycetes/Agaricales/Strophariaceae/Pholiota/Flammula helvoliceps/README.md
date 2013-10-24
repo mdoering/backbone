@@ -1,5 +1,4 @@
-Flammula helvoliceps (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Flammula helvoliceps (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

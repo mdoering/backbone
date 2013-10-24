@@ -1,17 +1,16 @@
-Nephromopsis pallescens subsp. pallescens SUBSPECIES
-=======
+# Nephromopsis pallescens (Schaer.) Y.S. Park SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bryologist 93(2): 122 (1990)
 
 #### Original name
-null
+Cetraria pallescens Schaer.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypoxylonsporites P. Kumar GENUS
-=======
+# Hypoxylonsporites P. Kumar GENUS
 
 #### Status
 ACCEPTED

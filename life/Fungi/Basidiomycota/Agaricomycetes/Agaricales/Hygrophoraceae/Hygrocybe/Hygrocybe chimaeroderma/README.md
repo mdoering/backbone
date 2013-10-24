@@ -1,5 +1,4 @@
-Hygrocybe chimaeroderma S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe chimaeroderma S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

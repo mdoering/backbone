@@ -1,5 +1,4 @@
-Glomulina rotiensis Loeblich & Tappan, 1994 SPECIES
-=======
+# Glomulina rotiensis Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

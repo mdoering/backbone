@@ -1,5 +1,4 @@
-Planctomycetes Fukunaga, Kurahashi, Sakiyama, Ohuchi, Yokota & Harayama, 2009 PHYLUM
-=======
+# Planctomycetes Fukunaga, Kurahashi, Sakiyama, Ohuchi, Yokota & Harayama, 2009 PHYLUM
 
 #### Status
 ACCEPTED

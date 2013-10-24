@@ -1,17 +1,16 @@
-Nectria diploa var. diminuta Berk. & M.A. Curtis VARIETY
-=======
+# Nectria diploa Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fung. no. 818 (1875)
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 378 (1868)
 
 #### Original name
-Nectria diploa var. diminuta Berk. & M.A. Curtis
+Nectria diploa Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

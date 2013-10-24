@@ -1,5 +1,4 @@
-Vaucheria medusa T.A. Christensen SPECIES
-=======
+# Vaucheria medusa T.A. Christensen SPECIES
 
 #### Status
 ACCEPTED

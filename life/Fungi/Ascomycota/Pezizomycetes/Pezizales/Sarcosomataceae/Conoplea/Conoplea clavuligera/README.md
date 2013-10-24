@@ -1,5 +1,4 @@
-Conoplea clavuligera Link SPECIES
-=======
+# Conoplea clavuligera Link SPECIES
 
 #### Status
 ACCEPTED

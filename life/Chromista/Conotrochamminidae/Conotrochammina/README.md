@@ -1,5 +1,4 @@
-Conotrochammina Finlay, 1940 GENUS
-=======
+# Conotrochammina Finlay, 1940 GENUS
 
 #### Status
 ACCEPTED

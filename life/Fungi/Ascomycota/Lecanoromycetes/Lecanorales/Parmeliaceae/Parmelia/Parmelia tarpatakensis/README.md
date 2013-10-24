@@ -1,5 +1,4 @@
-Parmelia tarpatakensis Gyeln. SPECIES
-=======
+# Parmelia tarpatakensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

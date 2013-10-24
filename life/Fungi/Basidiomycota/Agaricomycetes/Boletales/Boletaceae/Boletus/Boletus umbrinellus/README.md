@@ -1,5 +1,4 @@
-Boletus umbrinellus Pat. & C.F. Baker SPECIES
-=======
+# Boletus umbrinellus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

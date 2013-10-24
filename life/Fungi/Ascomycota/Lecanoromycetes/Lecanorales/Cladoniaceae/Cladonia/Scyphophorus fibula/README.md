@@ -1,5 +1,4 @@
-Scyphophorus fibula Sommerf. SPECIES
-=======
+# Scyphophorus fibula Sommerf. SPECIES
 
 #### Status
 ACCEPTED

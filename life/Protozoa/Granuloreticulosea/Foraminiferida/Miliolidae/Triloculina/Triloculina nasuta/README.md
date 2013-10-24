@@ -1,5 +1,4 @@
-Triloculina nasuta SPECIES
-=======
+# Triloculina nasuta SPECIES
 
 #### Status
 ACCEPTED

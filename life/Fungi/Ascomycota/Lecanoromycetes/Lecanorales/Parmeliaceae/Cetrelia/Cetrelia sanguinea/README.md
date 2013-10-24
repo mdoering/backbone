@@ -1,17 +1,16 @@
-Cetraria sanguinea f. sanguinea FORM
-=======
+# Cetrelia sanguinea (Schaer.) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cetraria sanguinea f. sanguinea
+Cetraria sanguinea Schaer.
 
 ### Remarks
 null

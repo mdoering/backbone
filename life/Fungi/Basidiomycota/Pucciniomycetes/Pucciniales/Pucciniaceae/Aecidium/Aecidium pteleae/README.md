@@ -1,5 +1,4 @@
-Aecidium pteleae Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium pteleae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

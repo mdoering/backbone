@@ -1,5 +1,4 @@
-Pelagothrix Schmidt, 1902 GENUS
-=======
+# Pelagothrix Schmidt, 1902 GENUS
 
 #### Status
 ACCEPTED

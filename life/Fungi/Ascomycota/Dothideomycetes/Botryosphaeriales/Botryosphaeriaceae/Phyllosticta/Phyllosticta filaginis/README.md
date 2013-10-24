@@ -1,5 +1,4 @@
-Phyllosticta filaginis (Westend.) Allesch. SPECIES
-=======
+# Phyllosticta filaginis (Westend.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius aroostookensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius aroostookensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

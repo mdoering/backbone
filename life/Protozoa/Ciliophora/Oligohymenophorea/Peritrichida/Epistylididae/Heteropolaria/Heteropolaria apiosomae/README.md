@@ -1,8 +1,7 @@
-Epistylis apiosomae Scheubel, 1973 SPECIES
-=======
+# Heteropolaria apiosomae (Scheubel, 1973) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

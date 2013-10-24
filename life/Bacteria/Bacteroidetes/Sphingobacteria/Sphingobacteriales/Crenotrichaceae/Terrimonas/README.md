@@ -1,5 +1,4 @@
-Terrimonas Xie & Yokota, 2006 GENUS
-=======
+# Terrimonas Xie & Yokota, 2006 GENUS
 
 #### Status
 ACCEPTED

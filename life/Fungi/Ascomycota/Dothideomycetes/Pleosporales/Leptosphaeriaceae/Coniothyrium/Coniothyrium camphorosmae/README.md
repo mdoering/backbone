@@ -1,5 +1,4 @@
-Coniothyrium camphorosmae Lobik SPECIES
-=======
+# Coniothyrium camphorosmae Lobik SPECIES
 
 #### Status
 ACCEPTED

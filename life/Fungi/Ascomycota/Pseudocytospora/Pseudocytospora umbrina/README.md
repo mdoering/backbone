@@ -1,5 +1,4 @@
-Pseudocytospora umbrina (Bonord.) Moesz & Smarods SPECIES
-=======
+# Pseudocytospora umbrina (Bonord.) Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

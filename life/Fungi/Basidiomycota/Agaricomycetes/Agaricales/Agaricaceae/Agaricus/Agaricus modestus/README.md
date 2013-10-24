@@ -1,5 +1,4 @@
-Agaricus modestus Berk. SPECIES
-=======
+# Agaricus modestus Berk. SPECIES
 
 #### Status
 ACCEPTED

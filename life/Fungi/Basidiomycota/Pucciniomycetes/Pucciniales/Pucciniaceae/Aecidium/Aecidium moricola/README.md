@@ -1,5 +1,4 @@
-Aecidium moricola Henn. SPECIES
-=======
+# Aecidium moricola Henn. SPECIES
 
 #### Status
 ACCEPTED

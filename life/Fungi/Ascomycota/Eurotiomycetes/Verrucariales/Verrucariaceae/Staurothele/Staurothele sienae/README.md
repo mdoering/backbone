@@ -1,5 +1,4 @@
-Staurothele sienae B. de Lesd. SPECIES
-=======
+# Staurothele sienae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

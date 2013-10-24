@@ -1,5 +1,4 @@
-Ammonia papillosa (Brady) SPECIES
-=======
+# Ammonia papillosa (Brady) SPECIES
 
 #### Status
 ACCEPTED

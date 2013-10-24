@@ -1,14 +1,13 @@
-Nephromium tangeriense Maheu & A. Gillet SPECIES
-=======
+# Nephroma tangeriense (Maheu & A. Gillet) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 72: 869 (1925)
+Cat. Lich. Univers. 8: 317 (1932)
 
 #### Original name
 Nephromium tangeriense Maheu & A. Gillet

@@ -1,5 +1,4 @@
-Puccinia peperomiae J.C. Lindq. SPECIES
-=======
+# Puccinia peperomiae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

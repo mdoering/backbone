@@ -1,5 +1,4 @@
-Aecidium aesculi Ellis & Kellerm. SPECIES
-=======
+# Aecidium aesculi Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

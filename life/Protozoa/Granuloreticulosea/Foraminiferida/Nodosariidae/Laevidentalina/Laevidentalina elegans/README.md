@@ -1,8 +1,7 @@
-Dentalina subemaciata Parr, 1950 SPECIES
-=======
+# Laevidentalina elegans (d’Orbigny, 1846) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

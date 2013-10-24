@@ -1,5 +1,4 @@
-Septogloeum japonicum B. Sutton & J. Webster SPECIES
-=======
+# Septogloeum japonicum B. Sutton & J. Webster SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictina graminis S. Ahmad SPECIES
-=======
+# Phyllostictina graminis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

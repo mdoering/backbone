@@ -1,5 +1,4 @@
-Holophrya simplex Schewiakoff, 1893 SPECIES
-=======
+# Holophrya simplex Schewiakoff, 1893 SPECIES
 
 #### Status
 ACCEPTED

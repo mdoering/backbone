@@ -1,5 +1,4 @@
-Graphis adscribens Nyl. SPECIES
-=======
+# Graphis adscribens Nyl. SPECIES
 
 #### Status
 ACCEPTED

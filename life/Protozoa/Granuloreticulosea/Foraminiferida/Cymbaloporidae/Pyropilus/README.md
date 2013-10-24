@@ -1,5 +1,4 @@
-Pyropilus Cushman, 1934 GENUS
-=======
+# Pyropilus Cushman, 1934 GENUS
 
 #### Status
 ACCEPTED

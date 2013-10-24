@@ -1,5 +1,4 @@
-Boletus stejskalii Bres. SPECIES
-=======
+# Boletus stejskalii Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus dualis Peck SPECIES
-=======
+# Polyporus dualis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mansurkella A.G. Vologdin, 1962 GENUS
-=======
+# Mansurkella A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

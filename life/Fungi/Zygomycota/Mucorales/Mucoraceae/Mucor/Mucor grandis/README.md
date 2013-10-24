@@ -1,5 +1,4 @@
-Mucor grandis Schipper & Samson, 1994 SPECIES
-=======
+# Mucor grandis Schipper & Samson, 1994 SPECIES
 
 #### Status
 ACCEPTED

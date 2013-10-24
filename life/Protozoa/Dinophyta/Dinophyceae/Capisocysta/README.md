@@ -1,5 +1,4 @@
-Capisocysta Warny & Wrenn, 1997 GENUS
-=======
+# Capisocysta Warny & Wrenn, 1997 GENUS
 
 #### Status
 ACCEPTED

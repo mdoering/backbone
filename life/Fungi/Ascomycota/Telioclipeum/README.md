@@ -1,5 +1,4 @@
-Telioclipeum Viégas GENUS
-=======
+# Telioclipeum Viégas GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoramularia macrospora R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
-=======
+# Phaeoramularia macrospora R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria cathartica Pass. SPECIES
-=======
+# Septoria cathartica Pass. SPECIES
 
 #### Status
 ACCEPTED

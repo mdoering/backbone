@@ -1,5 +1,4 @@
-Chytridium heliomorphum P.A. Dang. SPECIES
-=======
+# Chytridium heliomorphum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peltella bakeriana (Rehm) F. Stevens, 1939 SPECIES
-=======
+# Haplopeltis bakeriana (Rehm) Theiss., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brotéria, sér. bot. (1914)
 
 #### Original name
-null
+Muyocopron bakerianum Rehm, 1913
 
 ### Remarks
 null

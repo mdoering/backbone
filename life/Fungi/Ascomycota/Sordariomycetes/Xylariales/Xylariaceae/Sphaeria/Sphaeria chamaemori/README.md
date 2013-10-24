@@ -1,5 +1,4 @@
-Sphaeria chamaemori Fr. SPECIES
-=======
+# Sphaeria chamaemori Fr. SPECIES
 
 #### Status
 ACCEPTED

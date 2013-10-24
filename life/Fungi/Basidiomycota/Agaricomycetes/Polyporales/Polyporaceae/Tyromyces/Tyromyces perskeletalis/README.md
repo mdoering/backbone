@@ -1,5 +1,4 @@
-Tyromyces perskeletalis Corner SPECIES
-=======
+# Tyromyces perskeletalis Corner SPECIES
 
 #### Status
 ACCEPTED

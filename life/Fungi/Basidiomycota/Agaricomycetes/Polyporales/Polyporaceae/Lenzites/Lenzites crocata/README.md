@@ -1,5 +1,4 @@
-Lenzites crocata (Sacc.) SPECIES
-=======
+# Lenzites crocata (Sacc.) SPECIES
 
 #### Status
 ACCEPTED

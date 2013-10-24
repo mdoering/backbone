@@ -1,5 +1,4 @@
-Asterina fuchsiae Syd. SPECIES
-=======
+# Asterina fuchsiae Syd. SPECIES
 
 #### Status
 ACCEPTED

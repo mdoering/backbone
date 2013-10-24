@@ -1,5 +1,4 @@
-Pachyphiale lecanorina J. Steiner SPECIES
-=======
+# Pachyphiale lecanorina J. Steiner SPECIES
 
 #### Status
 ACCEPTED

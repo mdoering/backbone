@@ -1,5 +1,4 @@
-Oxydothis nypicola K.D. Hyde, 1994 SPECIES
-=======
+# Oxydothis nypicola K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

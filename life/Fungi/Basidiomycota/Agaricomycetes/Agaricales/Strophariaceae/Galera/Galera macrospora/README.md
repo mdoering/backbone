@@ -1,5 +1,4 @@
-Galera macrospora Velen. SPECIES
-=======
+# Galera macrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

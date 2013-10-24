@@ -1,5 +1,4 @@
-Heliosphaeridium bellulum Moczydlowska, 1998 SPECIES
-=======
+# Heliosphaeridium bellulum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria subconoidea E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Didymosphaeria subconoidea E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium rosae-abyssinicae Henn. SPECIES
-=======
+# Aecidium rosae-abyssinicae Henn. SPECIES
 
 #### Status
 ACCEPTED

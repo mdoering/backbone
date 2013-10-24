@@ -1,8 +1,7 @@
-Erwinia quercina Hildebrand and Schroth, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Brenneria quercina (Hildebrand & Schroth, 1967) Hauben et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

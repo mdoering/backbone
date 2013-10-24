@@ -1,5 +1,4 @@
-Marasmius vinosus Speg. SPECIES
-=======
+# Marasmius vinosus Speg. SPECIES
 
 #### Status
 ACCEPTED

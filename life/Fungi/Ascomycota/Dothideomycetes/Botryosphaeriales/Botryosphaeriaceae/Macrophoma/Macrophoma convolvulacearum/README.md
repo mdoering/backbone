@@ -1,5 +1,4 @@
-Macrophoma convolvulacearum Lacy & Thirum. SPECIES
-=======
+# Macrophoma convolvulacearum Lacy & Thirum. SPECIES
 
 #### Status
 ACCEPTED

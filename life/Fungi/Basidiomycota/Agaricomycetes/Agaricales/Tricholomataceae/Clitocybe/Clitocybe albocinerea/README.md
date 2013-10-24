@@ -1,5 +1,4 @@
-Clitocybe albocinerea SPECIES
-=======
+# Clitocybe albocinerea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paratetrahymena Thompson, 1963 GENUS
-=======
+# Paratetrahymena Thompson, 1963 GENUS
 
 #### Status
 ACCEPTED

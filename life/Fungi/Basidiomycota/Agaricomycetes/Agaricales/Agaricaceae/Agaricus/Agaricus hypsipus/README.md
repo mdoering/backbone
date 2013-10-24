@@ -1,5 +1,4 @@
-Agaricus hypsipus Fr. SPECIES
-=======
+# Agaricus hypsipus Fr. SPECIES
 
 #### Status
 ACCEPTED

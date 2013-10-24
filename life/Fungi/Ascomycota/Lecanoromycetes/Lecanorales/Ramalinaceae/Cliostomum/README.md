@@ -1,5 +1,4 @@
-Cliostomum Fr. GENUS
-=======
+# Cliostomum Fr. GENUS
 
 #### Status
 ACCEPTED

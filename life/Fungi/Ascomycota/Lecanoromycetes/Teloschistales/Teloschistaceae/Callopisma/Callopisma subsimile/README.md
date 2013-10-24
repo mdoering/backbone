@@ -1,5 +1,4 @@
-Callopisma subsimile (Th. Fr.) Bagl. SPECIES
-=======
+# Callopisma subsimile (Th. Fr.) Bagl. SPECIES
 
 #### Status
 ACCEPTED

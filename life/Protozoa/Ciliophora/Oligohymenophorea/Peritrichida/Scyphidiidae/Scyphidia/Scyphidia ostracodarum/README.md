@@ -1,5 +1,4 @@
-Scyphidia ostracodarum Nenninger, 1948 SPECIES
-=======
+# Scyphidia ostracodarum Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

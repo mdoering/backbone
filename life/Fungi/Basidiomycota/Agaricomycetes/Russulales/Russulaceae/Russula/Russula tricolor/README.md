@@ -1,5 +1,4 @@
-Russula tricolor Murrill SPECIES
-=======
+# Russula tricolor Murrill SPECIES
 
 #### Status
 ACCEPTED

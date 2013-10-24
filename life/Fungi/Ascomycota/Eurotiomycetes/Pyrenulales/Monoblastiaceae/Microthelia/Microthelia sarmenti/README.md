@@ -1,5 +1,4 @@
-Microthelia sarmenti (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Microthelia sarmenti (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

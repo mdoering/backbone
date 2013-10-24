@@ -1,5 +1,4 @@
-Sporocybe geophila (Peck) Sacc. SPECIES
-=======
+# Sporocybe geophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

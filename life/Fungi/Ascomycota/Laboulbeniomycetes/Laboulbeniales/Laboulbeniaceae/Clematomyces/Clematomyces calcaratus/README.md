@@ -1,14 +1,13 @@
-Schizomeromyces calcaratus Thaxt., 1931 SPECIES
-=======
+# Clematomyces calcaratus (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 314 (1931)
+Mycol. Mem. 9: 170 (1985)
 
 #### Original name
 Schizomeromyces calcaratus Thaxt., 1931

@@ -1,5 +1,4 @@
-Sticta obvoluta Delise SPECIES
-=======
+# Sticta obvoluta Delise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chaetopteris suhrii J. Agardh SPECIES
-=======
+# Phloiocaulon suhrii (J. Agardh) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hendersonia opizii (Peyl) Sacc. & Traverso SPECIES
-=======
+# Hendersonia opizii (Peyl) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

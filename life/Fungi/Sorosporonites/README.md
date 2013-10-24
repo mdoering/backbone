@@ -1,5 +1,4 @@
-Sorosporonites X. Mu GENUS
-=======
+# Sorosporonites X. Mu GENUS
 
 #### Status
 ACCEPTED

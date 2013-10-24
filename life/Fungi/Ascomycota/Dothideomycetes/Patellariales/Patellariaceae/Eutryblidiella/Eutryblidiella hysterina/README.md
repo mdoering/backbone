@@ -1,8 +1,7 @@
-Triblidium hysterinum Dufour, 1828 SPECIES
-=======
+# Eutryblidiella hysterina (Dufour) Petr., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Triblidium hysterinum Dufour, 1828
+null
 
 ### Remarks
 null

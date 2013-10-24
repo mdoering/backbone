@@ -1,5 +1,4 @@
-Agaricus rhachoderma Berk. & Broome SPECIES
-=======
+# Agaricus rhachoderma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria oxystoma (Sacc.) Cooke SPECIES
-=======
+# Strickeria oxystoma (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

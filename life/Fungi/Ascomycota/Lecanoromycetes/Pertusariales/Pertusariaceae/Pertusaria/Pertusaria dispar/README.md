@@ -1,5 +1,4 @@
-Pertusaria dispar J. Steiner SPECIES
-=======
+# Pertusaria dispar J. Steiner SPECIES
 
 #### Status
 ACCEPTED

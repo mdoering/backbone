@@ -1,5 +1,4 @@
-Stagonospora procerula Petr., 1950 SPECIES
-=======
+# Stagonospora procerula Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

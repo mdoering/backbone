@@ -1,17 +1,16 @@
-Antigonigeppia Kuntze, 1893 GENUS
-=======
+# Lycogala Pers. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Gen. Plant. , 3, 443.
+Neues Mag. Bot. 1: 87 (1794)
 
 #### Original name
-null
+Lycogala Pers.
 
 ### Remarks
 null

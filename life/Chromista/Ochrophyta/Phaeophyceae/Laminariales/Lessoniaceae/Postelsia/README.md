@@ -1,5 +1,4 @@
-Postelsia Ruprecht, 1852 GENUS
-=======
+# Postelsia Ruprecht, 1852 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora pachyrrhizi Sawada SPECIES
-=======
+# Cercospora pachyrrhizi Sawada SPECIES
 
 #### Status
 ACCEPTED

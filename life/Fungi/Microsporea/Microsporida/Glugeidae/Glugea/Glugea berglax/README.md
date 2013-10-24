@@ -1,5 +1,4 @@
-Glugea berglax Lom & Laird, 1976 SPECIES
-=======
+# Glugea berglax Lom & Laird, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonium spermatoideum Strasser SPECIES
-=======
+# Belonium spermatoideum Strasser SPECIES
 
 #### Status
 ACCEPTED

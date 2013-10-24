@@ -1,5 +1,4 @@
-Darluca bivonae Fuckel SPECIES
-=======
+# Darluca bivonae Fuckel SPECIES
 
 #### Status
 ACCEPTED

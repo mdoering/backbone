@@ -1,5 +1,4 @@
-Uromyces caricis-schmidtii Tomilin SPECIES
-=======
+# Uromyces caricis-schmidtii Tomilin SPECIES
 
 #### Status
 ACCEPTED

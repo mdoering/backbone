@@ -1,5 +1,4 @@
-Emarcea castanopsidicola Duong, Jeewon & K.D. Hyde, 2004 SPECIES
-=======
+# Emarcea castanopsidicola Duong, Jeewon & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

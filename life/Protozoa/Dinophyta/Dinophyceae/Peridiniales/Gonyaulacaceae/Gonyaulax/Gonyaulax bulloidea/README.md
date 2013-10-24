@@ -1,5 +1,4 @@
-Gonyaulax bulloidea Cookson & Eisenack SPECIES
-=======
+# Gonyaulax bulloidea Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

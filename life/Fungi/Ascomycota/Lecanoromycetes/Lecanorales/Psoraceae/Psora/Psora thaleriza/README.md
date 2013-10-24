@@ -1,5 +1,4 @@
-Psora thaleriza (Stirt.) C.W. Dodge SPECIES
-=======
+# Psora thaleriza (Stirt.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

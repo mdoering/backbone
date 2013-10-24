@@ -1,5 +1,4 @@
-Laboulbenia coptoderae Thaxt. SPECIES
-=======
+# Laboulbenia coptoderae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

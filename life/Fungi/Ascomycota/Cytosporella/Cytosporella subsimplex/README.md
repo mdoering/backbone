@@ -1,5 +1,4 @@
-Cytosporella subsimplex Berl. & Bres. SPECIES
-=======
+# Cytosporella subsimplex Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

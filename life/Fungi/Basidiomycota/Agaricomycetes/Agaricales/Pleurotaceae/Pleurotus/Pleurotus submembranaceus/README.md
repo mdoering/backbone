@@ -1,14 +1,13 @@
-Pocillaria submembranacea (Berk.) Kuntze, 1891 SPECIES
-=======
+# Pleurotus submembranaceus (Berk.) Pegler, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Kew Bull. 43(3): 463 (1988)
 
 #### Original name
 Lentinus submembranaceus Berk., 1843

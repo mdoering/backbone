@@ -1,5 +1,4 @@
-Cercospora porrigo Speg. SPECIES
-=======
+# Cercospora porrigo Speg. SPECIES
 
 #### Status
 ACCEPTED

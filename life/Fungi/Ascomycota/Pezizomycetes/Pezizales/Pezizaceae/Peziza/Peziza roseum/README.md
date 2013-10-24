@@ -1,5 +1,4 @@
-Peziza roseum Rehm SPECIES
-=======
+# Peziza roseum Rehm SPECIES
 
 #### Status
 ACCEPTED

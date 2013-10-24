@@ -1,5 +1,4 @@
-Crypticola Humber, Frances & A.W. Sweeney GENUS
-=======
+# Crypticola Humber, Frances & A.W. Sweeney GENUS
 
 #### Status
 ACCEPTED

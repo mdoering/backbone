@@ -1,5 +1,4 @@
-Boletus longisporus (J. Blum & Perr.-Bertr.) J. Blum SPECIES
-=======
+# Boletus longisporus (J. Blum & Perr.-Bertr.) J. Blum SPECIES
 
 #### Status
 ACCEPTED

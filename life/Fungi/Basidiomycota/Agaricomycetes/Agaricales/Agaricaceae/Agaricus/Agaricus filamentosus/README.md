@@ -1,5 +1,4 @@
-Agaricus filamentosus subsp. filamentosus SUBSPECIES
-=======
+# Agaricus filamentosus Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Fl. Angl. , Edn 2 2: 615 (1778)
+Fl. carniol. (Wien), Edn 2 2: 441 (no 1520) (1772)
 
 #### Original name
-Agaricus filamentosus subsp. filamentosus
+Agaricus filamentosus Schaeff.
 
 ### Remarks
 null

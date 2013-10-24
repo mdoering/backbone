@@ -1,5 +1,4 @@
-Phoma sambuci-pubescentis Gonz. Frag. SPECIES
-=======
+# Phoma sambuci-pubescentis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

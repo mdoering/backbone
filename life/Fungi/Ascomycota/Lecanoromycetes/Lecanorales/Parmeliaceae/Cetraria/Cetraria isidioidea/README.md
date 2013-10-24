@@ -1,5 +1,4 @@
-Cetraria isidioidea (Räsänen) D.D. Awasthi SPECIES
-=======
+# Cetraria isidioidea (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

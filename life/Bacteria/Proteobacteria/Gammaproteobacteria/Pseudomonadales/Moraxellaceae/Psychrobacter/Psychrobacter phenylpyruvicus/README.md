@@ -1,11 +1,10 @@
-Moraxella polymorpha Flamm, 1957 SPECIES
-=======
+# Psychrobacter phenylpyruvicus (Bøvre & Henriksen, 1967) Bowman et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

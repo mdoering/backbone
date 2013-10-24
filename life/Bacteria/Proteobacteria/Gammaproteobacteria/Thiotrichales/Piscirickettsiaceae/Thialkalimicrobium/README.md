@@ -1,5 +1,4 @@
-Thialkalimicrobium GENUS
-=======
+# Thialkalimicrobium GENUS
 
 #### Status
 ACCEPTED

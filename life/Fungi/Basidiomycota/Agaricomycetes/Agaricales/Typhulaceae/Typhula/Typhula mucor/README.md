@@ -1,5 +1,4 @@
-Typhula mucor Pat. SPECIES
-=======
+# Typhula mucor Pat. SPECIES
 
 #### Status
 ACCEPTED

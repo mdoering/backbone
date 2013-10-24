@@ -1,5 +1,4 @@
-Colletogloeum simmondsii B. Sutton & H.J. Swart SPECIES
-=======
+# Colletogloeum simmondsii B. Sutton & H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

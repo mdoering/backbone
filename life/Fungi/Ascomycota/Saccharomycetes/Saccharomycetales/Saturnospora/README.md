@@ -1,5 +1,4 @@
-Saturnospora Z.W. Liu & C.P. Kurtzman, 1991 GENUS
-=======
+# Saturnospora Z.W. Liu & C.P. Kurtzman, 1991 GENUS
 
 #### Status
 ACCEPTED

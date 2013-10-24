@@ -1,5 +1,4 @@
-Chitonomyces aethiopicus Thaxt. SPECIES
-=======
+# Chitonomyces aethiopicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

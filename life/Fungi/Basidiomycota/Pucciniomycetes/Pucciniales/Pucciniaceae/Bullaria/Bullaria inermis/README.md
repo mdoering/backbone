@@ -1,5 +1,4 @@
-Bullaria inermis (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria inermis (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

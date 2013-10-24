@@ -1,5 +1,4 @@
-Spinidinium boydii Morgan, 1975 SPECIES
-=======
+# Spinidinium boydii Morgan, 1975 SPECIES
 
 #### Status
 ACCEPTED

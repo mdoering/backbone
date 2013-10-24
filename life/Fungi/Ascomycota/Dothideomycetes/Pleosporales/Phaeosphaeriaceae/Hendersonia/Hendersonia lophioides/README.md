@@ -1,5 +1,4 @@
-Hendersonia lophioides Sacc. SPECIES
-=======
+# Hendersonia lophioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

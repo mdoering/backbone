@@ -1,5 +1,4 @@
-Phyllosticta platani-acerifoliae Gonz. Frag. SPECIES
-=======
+# Phyllosticta platani-acerifoliae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

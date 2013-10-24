@@ -1,5 +1,4 @@
-Septoria chanousii Ferraris SPECIES
-=======
+# Septoria chanousii Ferraris SPECIES
 
 #### Status
 ACCEPTED

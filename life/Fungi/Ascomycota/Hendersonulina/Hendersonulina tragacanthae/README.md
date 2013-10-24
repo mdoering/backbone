@@ -1,5 +1,4 @@
-Hendersonulina tragacanthae (Delacr.) Tassi SPECIES
-=======
+# Hendersonulina tragacanthae (Delacr.) Tassi SPECIES
 
 #### Status
 ACCEPTED

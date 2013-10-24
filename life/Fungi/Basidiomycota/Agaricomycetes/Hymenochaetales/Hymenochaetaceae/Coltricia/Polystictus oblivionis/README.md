@@ -1,5 +1,4 @@
-Polystictus oblivionis Lloyd SPECIES
-=======
+# Polystictus oblivionis Lloyd SPECIES
 
 #### Status
 ACCEPTED

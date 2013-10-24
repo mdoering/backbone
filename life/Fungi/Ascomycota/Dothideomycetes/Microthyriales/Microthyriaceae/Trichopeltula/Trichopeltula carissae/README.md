@@ -1,5 +1,4 @@
-Trichopeltula carissae Doidge SPECIES
-=======
+# Trichopeltula carissae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella biformis (Schulzer) Sacc. SPECIES
-=======
+# Psathyrella biformis (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

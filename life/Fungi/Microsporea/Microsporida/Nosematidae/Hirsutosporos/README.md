@@ -1,5 +1,4 @@
-Hirsutosporos B.S. Batson GENUS
-=======
+# Hirsutosporos B.S. Batson GENUS
 
 #### Status
 ACCEPTED

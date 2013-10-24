@@ -1,17 +1,16 @@
-Hypoxylon smilacicolum Howe SPECIES
-=======
+# Hypoxylon smilacicola Howe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 6: 31 (1875)
 
 #### Original name
-Hypoxylon smilacicolum Howe
+Hypoxylon smilacicola Howe
 
 ### Remarks
 null

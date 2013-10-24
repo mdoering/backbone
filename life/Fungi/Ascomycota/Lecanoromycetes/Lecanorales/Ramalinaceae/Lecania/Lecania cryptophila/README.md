@@ -1,5 +1,4 @@
-Lecania cryptophila (Th. Fr.) SPECIES
-=======
+# Lecania cryptophila (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

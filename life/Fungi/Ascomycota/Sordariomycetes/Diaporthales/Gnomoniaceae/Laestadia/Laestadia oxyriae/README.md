@@ -1,5 +1,4 @@
-Laestadia oxyriae Rostr. SPECIES
-=======
+# Laestadia oxyriae Rostr. SPECIES
 
 #### Status
 ACCEPTED

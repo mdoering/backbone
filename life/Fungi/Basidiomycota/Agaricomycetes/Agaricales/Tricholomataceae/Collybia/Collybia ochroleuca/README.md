@@ -1,5 +1,4 @@
-Collybia ochroleuca Peck SPECIES
-=======
+# Collybia ochroleuca Peck SPECIES
 
 #### Status
 ACCEPTED

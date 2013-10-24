@@ -1,5 +1,4 @@
-Marasmius megistus Singer SPECIES
-=======
+# Marasmius megistus Singer SPECIES
 
 #### Status
 ACCEPTED

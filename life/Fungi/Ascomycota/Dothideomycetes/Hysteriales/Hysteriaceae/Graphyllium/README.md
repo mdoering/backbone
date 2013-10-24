@@ -1,5 +1,4 @@
-Graphyllium Clem. GENUS
-=======
+# Graphyllium Clem. GENUS
 
 #### Status
 ACCEPTED

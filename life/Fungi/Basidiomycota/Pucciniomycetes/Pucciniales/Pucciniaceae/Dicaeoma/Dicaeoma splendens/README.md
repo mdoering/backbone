@@ -1,5 +1,4 @@
-Dicaeoma splendens (Vize) Kuntze SPECIES
-=======
+# Dicaeoma splendens (Vize) Kuntze SPECIES
 
 #### Status
 ACCEPTED

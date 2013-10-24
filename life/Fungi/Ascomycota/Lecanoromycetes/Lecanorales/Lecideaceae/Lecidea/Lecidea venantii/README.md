@@ -1,5 +1,4 @@
-Lecidea venantii SPECIES
-=======
+# Lecidea venantii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cissi-japonicae Hori SPECIES
-=======
+# Cercospora cissi-japonicae Hori SPECIES
 
 #### Status
 ACCEPTED

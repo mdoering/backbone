@@ -1,5 +1,4 @@
-Coprinus subdomesticus Murrill SPECIES
-=======
+# Coprinus subdomesticus Murrill SPECIES
 
 #### Status
 ACCEPTED

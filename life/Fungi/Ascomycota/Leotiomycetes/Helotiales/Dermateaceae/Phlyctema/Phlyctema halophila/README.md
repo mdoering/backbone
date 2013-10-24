@@ -1,5 +1,4 @@
-Phlyctema halophila Speg. SPECIES
-=======
+# Phlyctema halophila Speg. SPECIES
 
 #### Status
 ACCEPTED

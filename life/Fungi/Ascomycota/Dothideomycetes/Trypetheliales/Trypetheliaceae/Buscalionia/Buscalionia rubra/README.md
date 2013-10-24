@@ -1,5 +1,4 @@
-Buscalionia rubra Sambo SPECIES
-=======
+# Buscalionia rubra Sambo SPECIES
 
 #### Status
 ACCEPTED

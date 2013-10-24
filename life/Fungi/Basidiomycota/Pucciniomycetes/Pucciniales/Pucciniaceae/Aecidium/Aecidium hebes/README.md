@@ -1,5 +1,4 @@
-Aecidium hebes G. Cunn., 1928 SPECIES
-=======
+# Aecidium hebes G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

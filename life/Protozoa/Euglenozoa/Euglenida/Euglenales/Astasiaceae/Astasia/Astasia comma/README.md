@@ -1,5 +1,4 @@
-Astasia comma E.G. Pringsheim SPECIES
-=======
+# Astasia comma E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

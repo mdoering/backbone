@@ -1,5 +1,4 @@
-Diaporthe sphingiophora (Oudem.) Sacc. SPECIES
-=======
+# Diaporthe sphingiophora (Oudem.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

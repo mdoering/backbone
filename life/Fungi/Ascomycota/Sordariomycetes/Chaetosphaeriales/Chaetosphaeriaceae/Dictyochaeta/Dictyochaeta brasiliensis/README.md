@@ -1,5 +1,4 @@
-Dictyochaeta brasiliensis ined. SPECIES
-=======
+# Dictyochaeta brasiliensis ined. SPECIES
 
 #### Status
 ACCEPTED

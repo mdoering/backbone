@@ -1,5 +1,4 @@
-Lichen corticola SPECIES
-=======
+# Lichen corticola SPECIES
 
 #### Status
 ACCEPTED

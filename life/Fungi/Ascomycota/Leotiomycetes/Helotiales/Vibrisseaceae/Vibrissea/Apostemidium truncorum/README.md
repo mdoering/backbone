@@ -1,5 +1,4 @@
-Apostemidium truncorum anon. SPECIES
-=======
+# Apostemidium truncorum anon. SPECIES
 
 #### Status
 ACCEPTED

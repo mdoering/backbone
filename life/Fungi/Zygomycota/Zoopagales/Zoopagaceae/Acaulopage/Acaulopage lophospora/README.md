@@ -1,5 +1,4 @@
-Acaulopage lophospora Drechsler, 1946 SPECIES
-=======
+# Acaulopage lophospora Drechsler, 1946 SPECIES
 
 #### Status
 ACCEPTED

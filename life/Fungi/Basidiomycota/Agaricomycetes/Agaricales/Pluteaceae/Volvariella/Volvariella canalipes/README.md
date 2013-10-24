@@ -1,5 +1,4 @@
-Volvariella canalipes (Murrill) Shaffer SPECIES
-=======
+# Volvariella canalipes (Murrill) Shaffer SPECIES
 
 #### Status
 ACCEPTED

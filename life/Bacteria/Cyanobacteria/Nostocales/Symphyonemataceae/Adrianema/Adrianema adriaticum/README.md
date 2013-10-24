@@ -1,5 +1,4 @@
-Adrianema adriaticum (Ercegovic) De Toni, 1936 SPECIES
-=======
+# Adrianema adriaticum (Ercegovic) De Toni, 1936 SPECIES
 
 #### Status
 ACCEPTED

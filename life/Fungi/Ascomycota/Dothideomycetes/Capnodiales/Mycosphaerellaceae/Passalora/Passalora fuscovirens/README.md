@@ -1,5 +1,4 @@
-Passalora fuscovirens (Sacc.) U. Braun & Crous SPECIES
-=======
+# Passalora fuscovirens (Sacc.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavaria fusiformis var. fusiformis VARIETY
-=======
+# Clavulinopsis fusiformis (Sowerby) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. 2: 98 (1799)
+Ann. Bot. Mem. 1: 367 (1950)
 
 #### Original name
-Clavaria fusiformis var. fusiformis
+Clavaria fusiformis Sowerby, 1799
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Fomitiporia uncinata (Rajchenb.) G. Coelho, Guerrero & Rajchenb., 2009 SPECIES
-=======
+# Phellinus uncinatus Rajchenb., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 28(1): 114 (1987)
 
 #### Original name
-null
+Phellinus uncinatus Rajchenb., 1987
 
 ### Remarks
 null

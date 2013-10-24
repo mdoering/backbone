@@ -1,5 +1,4 @@
-Mycobacterium bolletii Adékambi et al., 2006 SPECIES
-=======
+# Mycobacterium bolletii Adékambi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

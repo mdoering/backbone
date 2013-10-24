@@ -1,5 +1,4 @@
-Sphaeronaema cinctum Corda SPECIES
-=======
+# Sphaeronaema cinctum Corda SPECIES
 
 #### Status
 ACCEPTED

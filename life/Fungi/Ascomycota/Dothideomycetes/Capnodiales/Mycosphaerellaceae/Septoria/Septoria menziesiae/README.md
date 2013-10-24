@@ -1,5 +1,4 @@
-Septoria menziesiae Unamuno SPECIES
-=======
+# Septoria menziesiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

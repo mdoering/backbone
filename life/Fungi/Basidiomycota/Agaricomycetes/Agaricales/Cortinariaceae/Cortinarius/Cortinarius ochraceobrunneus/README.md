@@ -1,5 +1,4 @@
-Cortinarius ochraceobrunneus Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius ochraceobrunneus Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

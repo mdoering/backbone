@@ -1,5 +1,4 @@
-Pseudodidymaria clematidis U. Braun & Rogerson, 1994 SPECIES
-=======
+# Pseudodidymaria clematidis U. Braun & Rogerson, 1994 SPECIES
 
 #### Status
 ACCEPTED

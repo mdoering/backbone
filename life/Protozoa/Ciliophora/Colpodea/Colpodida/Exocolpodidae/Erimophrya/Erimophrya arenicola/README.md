@@ -1,5 +1,4 @@
-Erimophrya arenicola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Erimophrya arenicola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

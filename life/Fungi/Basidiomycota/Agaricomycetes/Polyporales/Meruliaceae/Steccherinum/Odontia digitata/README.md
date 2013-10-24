@@ -1,5 +1,4 @@
-Odontia digitata Bres. SPECIES
-=======
+# Odontia digitata Bres. SPECIES
 
 #### Status
 ACCEPTED

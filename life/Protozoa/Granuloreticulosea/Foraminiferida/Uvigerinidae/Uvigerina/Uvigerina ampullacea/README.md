@@ -1,5 +1,4 @@
-Uvigerina ampullacea SPECIES
-=======
+# Uvigerina ampullacea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma collinum var. collinum VARIETY
-=======
+# Lophiostoma collinum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 5): 468 (1879)
 
 #### Original name
-Lophiostoma collinum var. collinum
+Lophiostoma collinum Speg.
 
 ### Remarks
 null

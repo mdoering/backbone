@@ -1,5 +1,4 @@
-Alectoria funiformis B. de Lesd. SPECIES
-=======
+# Alectoria funiformis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

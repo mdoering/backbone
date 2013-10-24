@@ -1,5 +1,4 @@
-Clavaria occidentalis Zeller SPECIES
-=======
+# Clavaria occidentalis Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechiaceae R.C. Harris ex Lumbsch & I. Schmitt FAMILY
-=======
+# Ochrolechiaceae R.C. Harris ex Lumbsch & I. Schmitt FAMILY
 
 #### Status
 ACCEPTED

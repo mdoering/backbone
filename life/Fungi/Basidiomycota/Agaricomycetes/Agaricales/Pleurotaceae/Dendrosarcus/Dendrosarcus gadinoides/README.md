@@ -1,14 +1,13 @@
-Dendrosarcus gadinodes (W.G. Sm.) Kuntze SPECIES
-=======
+# Dendrosarcus gadinoides (W.G. Sm.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 464 (1898)
 
 #### Original name
 Agaricus gadinoides W.G. Sm.

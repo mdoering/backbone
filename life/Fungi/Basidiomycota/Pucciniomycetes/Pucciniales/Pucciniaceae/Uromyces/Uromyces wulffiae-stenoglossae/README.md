@@ -1,5 +1,4 @@
-Uromyces wulffiae-stenoglossae Dietel SPECIES
-=======
+# Uromyces wulffiae-stenoglossae Dietel SPECIES
 
 #### Status
 ACCEPTED

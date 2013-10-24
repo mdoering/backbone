@@ -1,5 +1,4 @@
-Tremella salicum Ditmar SPECIES
-=======
+# Tremella salicum Ditmar SPECIES
 
 #### Status
 ACCEPTED

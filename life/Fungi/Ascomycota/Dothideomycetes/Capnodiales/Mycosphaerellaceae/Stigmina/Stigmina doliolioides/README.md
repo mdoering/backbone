@@ -1,5 +1,4 @@
-Stigmina doliolioides (Sousa da Câmara) B. Sutton SPECIES
-=======
+# Stigmina doliolioides (Sousa da Câmara) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

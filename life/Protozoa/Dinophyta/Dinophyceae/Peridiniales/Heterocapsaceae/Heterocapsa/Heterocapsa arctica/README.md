@@ -1,5 +1,4 @@
-Heterocapsa arctica Horiguchi SPECIES
-=======
+# Heterocapsa arctica Horiguchi SPECIES
 
 #### Status
 ACCEPTED

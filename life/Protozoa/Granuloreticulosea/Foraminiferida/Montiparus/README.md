@@ -1,5 +1,4 @@
-Montiparus Rozovskaja, 1948 GENUS
-=======
+# Montiparus Rozovskaja, 1948 GENUS
 
 #### Status
 ACCEPTED

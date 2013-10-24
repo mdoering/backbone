@@ -1,5 +1,4 @@
-Boletus paradisiacus R. Heim, 1951 SPECIES
-=======
+# Boletus paradisiacus R. Heim, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanopus latiporus Pat. SPECIES
-=======
+# Melanopus latiporus Pat. SPECIES
 
 #### Status
 ACCEPTED

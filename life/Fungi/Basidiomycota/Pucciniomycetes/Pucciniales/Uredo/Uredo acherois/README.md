@@ -1,5 +1,4 @@
-Uredo acherois Spreng. SPECIES
-=======
+# Uredo acherois Spreng. SPECIES
 
 #### Status
 ACCEPTED

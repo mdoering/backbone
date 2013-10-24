@@ -1,5 +1,4 @@
-Streptomyces acidiscabies Lambert & Loria, 1989 SPECIES
-=======
+# Streptomyces acidiscabies Lambert & Loria, 1989 SPECIES
 
 #### Status
 ACCEPTED

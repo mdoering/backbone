@@ -1,5 +1,4 @@
-Ionaspis tropica Riddle SPECIES
-=======
+# Ionaspis tropica Riddle SPECIES
 
 #### Status
 ACCEPTED

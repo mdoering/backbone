@@ -1,5 +1,4 @@
-Cenangium mutatum Fuckel SPECIES
-=======
+# Cenangium mutatum Fuckel SPECIES
 
 #### Status
 ACCEPTED

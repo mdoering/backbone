@@ -1,5 +1,4 @@
-Desulfuromusa kysingii Liesack & Finster, 1994 SPECIES
-=======
+# Desulfuromusa kysingii Liesack & Finster, 1994 SPECIES
 
 #### Status
 ACCEPTED

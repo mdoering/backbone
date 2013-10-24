@@ -1,5 +1,4 @@
-Skeletocutis percandida (Malençon & Bertault) Jean Keller SPECIES
-=======
+# Skeletocutis percandida (Malençon & Bertault) Jean Keller SPECIES
 
 #### Status
 ACCEPTED

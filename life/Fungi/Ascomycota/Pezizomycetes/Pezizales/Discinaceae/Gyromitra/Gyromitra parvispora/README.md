@@ -1,5 +1,4 @@
-Gyromitra parvispora (Trigaux) Harmaja SPECIES
-=======
+# Gyromitra parvispora (Trigaux) Harmaja SPECIES
 
 #### Status
 ACCEPTED

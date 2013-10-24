@@ -1,5 +1,4 @@
-Peronospora lathyri-verni A. Gustavsson SPECIES
-=======
+# Peronospora lathyri-verni A. Gustavsson SPECIES
 
 #### Status
 ACCEPTED

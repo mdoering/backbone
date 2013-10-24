@@ -1,5 +1,4 @@
-Agaricus columbarius Bull. SPECIES
-=======
+# Agaricus columbarius Bull. SPECIES
 
 #### Status
 ACCEPTED

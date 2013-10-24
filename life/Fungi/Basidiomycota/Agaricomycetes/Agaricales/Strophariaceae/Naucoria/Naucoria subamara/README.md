@@ -1,5 +1,4 @@
-Naucoria subamara Murrill SPECIES
-=======
+# Naucoria subamara Murrill SPECIES
 
 #### Status
 ACCEPTED

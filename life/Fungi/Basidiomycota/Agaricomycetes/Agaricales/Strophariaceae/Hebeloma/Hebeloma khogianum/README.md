@@ -1,5 +1,4 @@
-Hebeloma khogianum Bresinsky SPECIES
-=======
+# Hebeloma khogianum Bresinsky SPECIES
 
 #### Status
 ACCEPTED

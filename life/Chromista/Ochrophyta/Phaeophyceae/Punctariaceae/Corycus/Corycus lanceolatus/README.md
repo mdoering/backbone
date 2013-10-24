@@ -1,8 +1,7 @@
-Corycus prolifer (Hariot) Kjellman SPECIES
-=======
+# Corycus lanceolatus (Kützing) Skottsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

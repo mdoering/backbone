@@ -1,5 +1,4 @@
-Dicaeoma macclatchieanum (Dietel & Holw.) Arthur SPECIES
-=======
+# Dicaeoma macclatchieanum (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schulzeria sierraleonis Beeli SPECIES
-=======
+# Schulzeria sierraleonis Beeli SPECIES
 
 #### Status
 ACCEPTED

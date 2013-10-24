@@ -1,5 +1,4 @@
-Uredo polylepidis (Arthur) Sacc. & Trotter SPECIES
-=======
+# Uredo polylepidis (Arthur) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

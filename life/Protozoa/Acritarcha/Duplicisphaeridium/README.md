@@ -1,5 +1,4 @@
-Duplicisphaeridium H. Górka, 1980 GENUS
-=======
+# Duplicisphaeridium H. Górka, 1980 GENUS
 
 #### Status
 ACCEPTED

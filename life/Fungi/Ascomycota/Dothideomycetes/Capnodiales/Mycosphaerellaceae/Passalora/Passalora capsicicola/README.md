@@ -1,17 +1,16 @@
-Cercospora capsicicola Vassiljevsky, 1937 SPECIES
-=======
+# Passalora capsicicola (Vassiljevsky) U. Braun & F.O. Freire, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Imperfecti Parasitici (Hyphomycetes) 344 (1937)
+Cryptog. Mycol. 23(4): 299 (2003)
 
 #### Original name
-Cercospora capsici Heald & F.A. Wolf, 1911
+Cercospora capsicicola Vassiljevsky, 1937
 
 ### Remarks
 null

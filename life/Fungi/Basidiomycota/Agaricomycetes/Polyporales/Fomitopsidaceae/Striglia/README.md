@@ -1,5 +1,4 @@
-Striglia GENUS
-=======
+# Striglia GENUS
 
 #### Status
 ACCEPTED

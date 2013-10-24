@@ -1,5 +1,4 @@
-Eccilia parvula Murrill SPECIES
-=======
+# Eccilia parvula Murrill SPECIES
 
 #### Status
 ACCEPTED

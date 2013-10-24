@@ -1,5 +1,4 @@
-Mollisia cruenta (Bong.) Sacc. SPECIES
-=======
+# Mollisia cruenta (Bong.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ophryoscolex janus Dogiel, 1923 SPECIES
-=======
+# Opisthotrichum janus (Dogiel, 1923) Dogiel, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

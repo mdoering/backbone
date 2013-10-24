@@ -1,5 +1,4 @@
-Ovularia vitis Richon SPECIES
-=======
+# Ovularia vitis Richon SPECIES
 
 #### Status
 ACCEPTED

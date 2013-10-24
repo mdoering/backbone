@@ -1,5 +1,4 @@
-Stromatoscypha defibulata Agerer SPECIES
-=======
+# Stromatoscypha defibulata Agerer SPECIES
 
 #### Status
 ACCEPTED

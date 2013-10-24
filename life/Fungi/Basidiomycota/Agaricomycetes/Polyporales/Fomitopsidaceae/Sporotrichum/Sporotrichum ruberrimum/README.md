@@ -1,5 +1,4 @@
-Sporotrichum ruberrimum Fr. SPECIES
-=======
+# Sporotrichum ruberrimum Fr. SPECIES
 
 #### Status
 ACCEPTED

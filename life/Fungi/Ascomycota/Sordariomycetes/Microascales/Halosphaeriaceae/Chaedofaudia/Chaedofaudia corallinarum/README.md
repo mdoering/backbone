@@ -1,5 +1,4 @@
-Chaedofaudia corallinarum (P. Crouan & H.E. Mull.) Arx, 1973 SPECIES
-=======
+# Chaedofaudia corallinarum (P. Crouan & H.E. Mull.) Arx, 1973 SPECIES
 
 #### Status
 ACCEPTED

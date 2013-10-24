@@ -1,5 +1,4 @@
-Elphidium reticulosum Cushman, 1933 SPECIES
-=======
+# Elphidium reticulosum Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

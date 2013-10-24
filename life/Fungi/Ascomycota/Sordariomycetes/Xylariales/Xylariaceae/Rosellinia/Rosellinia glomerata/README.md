@@ -1,5 +1,4 @@
-Rosellinia glomerata (Viala) Sacc. & Traverso SPECIES
-=======
+# Rosellinia glomerata (Viala) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

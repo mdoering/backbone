@@ -1,5 +1,4 @@
-Parmotrema subrigidum Egan SPECIES
-=======
+# Parmotrema subrigidum Egan SPECIES
 
 #### Status
 ACCEPTED

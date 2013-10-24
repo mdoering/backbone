@@ -1,5 +1,4 @@
-Himantia fuscopallida Jungh. SPECIES
-=======
+# Himantia fuscopallida Jungh. SPECIES
 
 #### Status
 ACCEPTED

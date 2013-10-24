@@ -1,5 +1,4 @@
-Rinodina efflorescens Malme SPECIES
-=======
+# Rinodina efflorescens Malme SPECIES
 
 #### Status
 ACCEPTED

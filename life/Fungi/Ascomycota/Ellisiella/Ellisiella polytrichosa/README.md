@@ -1,5 +1,4 @@
-Ellisiella polytrichosa Sousa da Câmara SPECIES
-=======
+# Ellisiella polytrichosa Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

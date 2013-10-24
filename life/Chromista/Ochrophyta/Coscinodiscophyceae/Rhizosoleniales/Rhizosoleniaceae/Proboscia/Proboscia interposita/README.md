@@ -1,5 +1,4 @@
-Proboscia interposita (M. Hajós) R. W. Jordan & J. Priddle SPECIES
-=======
+# Proboscia interposita (M. Hajós) R. W. Jordan & J. Priddle SPECIES
 
 #### Status
 ACCEPTED

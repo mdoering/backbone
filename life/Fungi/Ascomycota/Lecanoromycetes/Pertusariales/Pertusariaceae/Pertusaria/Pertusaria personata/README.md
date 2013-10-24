@@ -1,5 +1,4 @@
-Pertusaria personata Müll. Arg. SPECIES
-=======
+# Pertusaria personata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

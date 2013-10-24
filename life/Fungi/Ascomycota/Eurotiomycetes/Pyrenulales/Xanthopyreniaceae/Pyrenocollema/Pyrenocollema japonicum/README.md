@@ -1,5 +1,4 @@
-Pyrenocollema japonicum H. Harada SPECIES
-=======
+# Pyrenocollema japonicum H. Harada SPECIES
 
 #### Status
 ACCEPTED

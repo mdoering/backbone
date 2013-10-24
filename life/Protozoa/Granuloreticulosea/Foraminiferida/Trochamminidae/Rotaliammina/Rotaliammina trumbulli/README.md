@@ -1,5 +1,4 @@
-Rotaliammina trumbulli Seiglie & Bermúdez, 1977 SPECIES
-=======
+# Rotaliammina trumbulli Seiglie & Bermúdez, 1977 SPECIES
 
 #### Status
 ACCEPTED

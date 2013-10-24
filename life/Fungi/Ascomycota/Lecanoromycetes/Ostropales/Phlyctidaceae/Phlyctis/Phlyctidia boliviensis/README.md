@@ -1,5 +1,4 @@
-Phlyctidia boliviensis (Nyl.) Müll. Arg. SPECIES
-=======
+# Phlyctidia boliviensis (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

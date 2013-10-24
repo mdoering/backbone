@@ -1,5 +1,4 @@
-Entoloma assularum (Berk. & M.A. Curtis) Hesler SPECIES
-=======
+# Entoloma assularum (Berk. & M.A. Curtis) Hesler SPECIES
 
 #### Status
 ACCEPTED

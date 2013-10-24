@@ -1,5 +1,4 @@
-Inocybe subignobilis (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe subignobilis (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

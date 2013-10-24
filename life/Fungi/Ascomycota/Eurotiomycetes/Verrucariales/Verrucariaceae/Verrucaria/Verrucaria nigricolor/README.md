@@ -1,5 +1,4 @@
-Verrucaria nigricolor Arnold SPECIES
-=======
+# Verrucaria nigricolor Arnold SPECIES
 
 #### Status
 ACCEPTED

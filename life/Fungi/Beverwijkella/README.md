@@ -1,5 +1,4 @@
-Beverwijkella GENUS
-=======
+# Beverwijkella GENUS
 
 #### Status
 DOUBTFUL

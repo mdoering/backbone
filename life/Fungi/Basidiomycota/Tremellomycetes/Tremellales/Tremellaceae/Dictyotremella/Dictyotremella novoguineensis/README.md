@@ -1,5 +1,4 @@
-Dictyotremella novoguineensis Kobayasi, 1971 SPECIES
-=======
+# Dictyotremella novoguineensis Kobayasi, 1971 SPECIES
 
 #### Status
 ACCEPTED

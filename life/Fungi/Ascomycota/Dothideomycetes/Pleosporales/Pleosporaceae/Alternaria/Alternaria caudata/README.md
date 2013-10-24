@@ -1,5 +1,4 @@
-Alternaria caudata (Cooke & Ellis) E.G. Simmons SPECIES
-=======
+# Alternaria caudata (Cooke & Ellis) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

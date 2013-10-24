@@ -1,5 +1,4 @@
-Lophidium calligoni Frolov SPECIES
-=======
+# Lophidium calligoni Frolov SPECIES
 
 #### Status
 ACCEPTED

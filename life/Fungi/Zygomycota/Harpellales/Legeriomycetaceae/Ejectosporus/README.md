@@ -1,5 +1,4 @@
-Ejectosporus S.W. Peterson, Lichtw. & M.C. Williams GENUS
-=======
+# Ejectosporus S.W. Peterson, Lichtw. & M.C. Williams GENUS
 
 #### Status
 ACCEPTED

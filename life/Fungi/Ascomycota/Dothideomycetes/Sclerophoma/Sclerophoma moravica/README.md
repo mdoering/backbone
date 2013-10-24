@@ -1,5 +1,4 @@
-Sclerophoma moravica Petr. SPECIES
-=======
+# Sclerophoma moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

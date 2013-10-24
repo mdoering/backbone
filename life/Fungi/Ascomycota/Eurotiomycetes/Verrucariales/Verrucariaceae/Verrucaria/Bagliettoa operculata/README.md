@@ -1,17 +1,16 @@
-Verrucaria operculata P. M. McCarthy SPECIES
-=======
+# Bagliettoa operculata (P. M. McCarthy) P. M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Australasian Lichenology 63: 18 (2008)
 
 #### Original name
-null
+Verrucaria operculata P. M. McCarthy
 
 ### Remarks
 null

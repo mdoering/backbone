@@ -1,5 +1,4 @@
-Marasmiellus stenophylloides f. stenophylloides FORM
-=======
+# Marasmiellus stenophylloides (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. , Addit. Ser. 3: 31 (1970)
 
 #### Original name
-Marasmiellus stenophylloides f. stenophylloides
+Crinipellis stenophylloides Dennis
 
 ### Remarks
 null

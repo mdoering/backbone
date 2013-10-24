@@ -1,5 +1,4 @@
-Cercospora gentianicola Ellis & Everh. SPECIES
-=======
+# Cercospora gentianicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

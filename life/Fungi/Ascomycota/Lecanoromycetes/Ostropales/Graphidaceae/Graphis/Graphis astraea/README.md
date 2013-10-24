@@ -1,5 +1,4 @@
-Graphis astraea Tuck. SPECIES
-=======
+# Graphis astraea Tuck. SPECIES
 
 #### Status
 ACCEPTED

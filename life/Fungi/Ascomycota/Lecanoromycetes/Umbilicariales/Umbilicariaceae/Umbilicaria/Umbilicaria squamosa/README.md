@@ -1,5 +1,4 @@
-Umbilicaria squamosa J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Umbilicaria squamosa J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

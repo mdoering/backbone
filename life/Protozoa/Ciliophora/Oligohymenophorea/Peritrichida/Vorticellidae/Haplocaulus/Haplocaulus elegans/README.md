@@ -1,5 +1,4 @@
-Haplocaulus elegans (Nenninger, 1948) Sommer, 1951 SPECIES
-=======
+# Haplocaulus elegans (Nenninger, 1948) Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

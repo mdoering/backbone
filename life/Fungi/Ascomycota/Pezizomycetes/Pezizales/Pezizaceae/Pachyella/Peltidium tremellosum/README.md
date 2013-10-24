@@ -1,5 +1,4 @@
-Peltidium tremellosum Hazsl. SPECIES
-=======
+# Peltidium tremellosum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

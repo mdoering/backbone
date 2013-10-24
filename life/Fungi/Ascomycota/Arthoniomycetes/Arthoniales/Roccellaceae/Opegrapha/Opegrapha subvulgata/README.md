@@ -1,5 +1,4 @@
-Opegrapha subvulgata Nyl. SPECIES
-=======
+# Opegrapha subvulgata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Metasphaeria molleriana (Niessl) Berl. & Voglino SPECIES
-=======
+# Metasphaeria moelleriana (Niessl) Berl. & Voglino SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini), Addit. 157 (1886)
 
 #### Original name
 Leptosphaeria moelleriana Niessl

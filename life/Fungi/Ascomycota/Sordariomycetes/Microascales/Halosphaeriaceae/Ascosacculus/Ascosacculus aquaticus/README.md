@@ -1,14 +1,13 @@
-Halosarpheia aquatica K.D. Hyde, 1992 SPECIES
-=======
+# Ascosacculus aquaticus (K.D. Hyde) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. Syst. Bot. 5(4): 407 (1992)
+Mycologia 95(3): 545 (2003)
 
 #### Original name
 Halosarpheia aquatica K.D. Hyde, 1992

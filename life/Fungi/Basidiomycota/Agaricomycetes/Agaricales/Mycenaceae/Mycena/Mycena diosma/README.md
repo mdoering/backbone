@@ -1,5 +1,4 @@
-Mycena diosma Krieglst. & Schwöbel, 1982 SPECIES
-=======
+# Mycena diosma Krieglst. & Schwöbel, 1982 SPECIES
 
 #### Status
 ACCEPTED

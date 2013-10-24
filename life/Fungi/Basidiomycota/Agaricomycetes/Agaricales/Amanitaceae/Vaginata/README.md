@@ -1,5 +1,4 @@
-Vaginata GENUS
-=======
+# Vaginata GENUS
 
 #### Status
 ACCEPTED

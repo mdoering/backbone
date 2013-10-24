@@ -1,5 +1,4 @@
-Chilodon aplanata SPECIES
-=======
+# Chilodon aplanata SPECIES
 
 #### Status
 ACCEPTED

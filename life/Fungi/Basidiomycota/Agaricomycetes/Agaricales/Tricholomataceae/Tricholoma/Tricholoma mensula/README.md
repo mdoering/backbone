@@ -1,5 +1,4 @@
-Tricholoma mensula Corner SPECIES
-=======
+# Tricholoma mensula Corner SPECIES
 
 #### Status
 ACCEPTED

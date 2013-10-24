@@ -1,5 +1,4 @@
-Triacutus subcuticularis G.L. Barron & Tzean, 1981 SPECIES
-=======
+# Triacutus subcuticularis G.L. Barron & Tzean, 1981 SPECIES
 
 #### Status
 ACCEPTED

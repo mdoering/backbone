@@ -1,5 +1,4 @@
-Rhodophyllus hirtellus Romagn. SPECIES
-=======
+# Rhodophyllus hirtellus Romagn. SPECIES
 
 #### Status
 ACCEPTED

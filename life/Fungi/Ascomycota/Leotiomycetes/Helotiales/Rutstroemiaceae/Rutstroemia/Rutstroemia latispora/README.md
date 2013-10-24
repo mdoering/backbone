@@ -1,5 +1,4 @@
-Rutstroemia latispora K.S. Thind & Saini SPECIES
-=======
+# Rutstroemia latispora K.S. Thind & Saini SPECIES
 
 #### Status
 ACCEPTED

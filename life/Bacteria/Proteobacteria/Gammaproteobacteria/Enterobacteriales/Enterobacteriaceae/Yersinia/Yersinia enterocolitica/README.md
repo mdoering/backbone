@@ -1,5 +1,4 @@
-Yersinia enterocolitica subsp. enterocolitica SUBSPECIES
-=======
+# Yersinia enterocolitica (Schleifstein & Coleman, 1939) Frederiksen, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma actinidiae Ablak. SPECIES
-=======
+# Macrophoma actinidiae Ablak. SPECIES
 
 #### Status
 ACCEPTED

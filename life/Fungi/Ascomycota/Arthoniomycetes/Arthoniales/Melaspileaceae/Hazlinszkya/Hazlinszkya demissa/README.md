@@ -1,5 +1,4 @@
-Hazlinszkya demissa (Tuck.) A. Schneid. SPECIES
-=======
+# Hazlinszkya demissa (Tuck.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

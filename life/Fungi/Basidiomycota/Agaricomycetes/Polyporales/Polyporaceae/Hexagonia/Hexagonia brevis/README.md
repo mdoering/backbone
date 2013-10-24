@@ -1,5 +1,4 @@
-Hexagonia brevis Berk. SPECIES
-=======
+# Hexagonia brevis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nereiospora E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
-=======
+# Nereiospora E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

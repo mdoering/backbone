@@ -1,5 +1,4 @@
-Aphanoascus verrucosus Cano & Guarro, 1990 SPECIES
-=======
+# Aphanoascus verrucosus Cano & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

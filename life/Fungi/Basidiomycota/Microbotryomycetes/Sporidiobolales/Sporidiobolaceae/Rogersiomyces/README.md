@@ -1,5 +1,4 @@
-Rogersiomyces J.L. Crane & Schokn. GENUS
-=======
+# Rogersiomyces J.L. Crane & Schokn. GENUS
 
 #### Status
 ACCEPTED

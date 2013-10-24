@@ -1,5 +1,4 @@
-Buellia retrovertens Tuck. SPECIES
-=======
+# Buellia retrovertens Tuck. SPECIES
 
 #### Status
 ACCEPTED

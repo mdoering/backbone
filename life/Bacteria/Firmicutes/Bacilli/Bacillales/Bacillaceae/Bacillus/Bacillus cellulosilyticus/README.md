@@ -1,5 +1,4 @@
-Bacillus cellulosilyticus Nogi et al., 2005 SPECIES
-=======
+# Bacillus cellulosilyticus Nogi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leidyana Watson, 1915 GENUS
-=======
+# Leidyana Watson, 1915 GENUS
 
 #### Status
 ACCEPTED

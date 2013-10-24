@@ -1,5 +1,4 @@
-Matruchotia riograndensis Rick, 1934 SPECIES
-=======
+# Matruchotia riograndensis Rick, 1934 SPECIES
 
 #### Status
 ACCEPTED

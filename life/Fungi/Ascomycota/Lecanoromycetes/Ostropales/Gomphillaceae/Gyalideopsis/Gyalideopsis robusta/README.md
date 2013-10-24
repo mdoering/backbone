@@ -1,5 +1,4 @@
-Gyalideopsis robusta Kalb & Vezda SPECIES
-=======
+# Gyalideopsis robusta Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

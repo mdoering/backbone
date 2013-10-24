@@ -1,5 +1,4 @@
-Rhizosolenia bulbosa H.J. Schrader SPECIES
-=======
+# Rhizosolenia bulbosa H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

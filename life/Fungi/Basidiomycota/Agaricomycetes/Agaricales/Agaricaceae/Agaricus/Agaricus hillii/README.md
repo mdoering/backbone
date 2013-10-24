@@ -1,5 +1,4 @@
-Agaricus hillii Murrill SPECIES
-=======
+# Agaricus hillii Murrill SPECIES
 
 #### Status
 ACCEPTED

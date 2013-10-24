@@ -1,5 +1,4 @@
-Polythyrium ixoricola (S. Hughes) Bat. SPECIES
-=======
+# Polythyrium ixoricola (S. Hughes) Bat. SPECIES
 
 #### Status
 ACCEPTED

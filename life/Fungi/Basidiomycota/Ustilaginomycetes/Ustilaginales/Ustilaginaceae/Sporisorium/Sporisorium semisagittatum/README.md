@@ -1,5 +1,4 @@
-Sporisorium semisagittatum (Thirum. & Pavgi) Vánky SPECIES
-=======
+# Sporisorium semisagittatum (Thirum. & Pavgi) Vánky SPECIES
 
 #### Status
 ACCEPTED

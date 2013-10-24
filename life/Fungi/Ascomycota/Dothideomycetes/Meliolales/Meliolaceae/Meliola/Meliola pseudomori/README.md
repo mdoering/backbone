@@ -1,5 +1,4 @@
-Meliola pseudomori Hansf. SPECIES
-=======
+# Meliola pseudomori Hansf. SPECIES
 
 #### Status
 ACCEPTED

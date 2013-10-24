@@ -1,5 +1,4 @@
-Sebacina peritricha Bourdot & Galzin SPECIES
-=======
+# Sebacina peritricha Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

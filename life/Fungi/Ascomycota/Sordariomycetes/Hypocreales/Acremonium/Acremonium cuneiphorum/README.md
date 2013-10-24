@@ -1,5 +1,4 @@
-Acremonium cuneiphorum Matsush., 1989 SPECIES
-=======
+# Acremonium cuneiphorum Matsush., 1989 SPECIES
 
 #### Status
 ACCEPTED

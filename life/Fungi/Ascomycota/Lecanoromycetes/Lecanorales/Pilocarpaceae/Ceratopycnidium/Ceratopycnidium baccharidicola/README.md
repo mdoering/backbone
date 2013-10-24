@@ -1,5 +1,4 @@
-Ceratopycnidium baccharidicola M.D. Bertoni & Cabral SPECIES
-=======
+# Ceratopycnidium baccharidicola M.D. Bertoni & Cabral SPECIES
 
 #### Status
 ACCEPTED

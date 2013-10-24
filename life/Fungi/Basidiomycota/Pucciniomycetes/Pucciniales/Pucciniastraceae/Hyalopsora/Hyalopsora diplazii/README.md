@@ -1,5 +1,4 @@
-Hyalopsora diplazii Hirats. f. SPECIES
-=======
+# Hyalopsora diplazii Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula echinosperma R. Heim & Gilles SPECIES
-=======
+# Russula echinosperma R. Heim & Gilles SPECIES
 
 #### Status
 ACCEPTED

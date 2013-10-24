@@ -1,5 +1,4 @@
-Ophiocytium lagerheimii Lemmermann SPECIES
-=======
+# Ophiocytium lagerheimii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

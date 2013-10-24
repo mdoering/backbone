@@ -1,5 +1,4 @@
-Opegrapha quadriseptata Nyl. SPECIES
-=======
+# Opegrapha quadriseptata Nyl. SPECIES
 
 #### Status
 ACCEPTED

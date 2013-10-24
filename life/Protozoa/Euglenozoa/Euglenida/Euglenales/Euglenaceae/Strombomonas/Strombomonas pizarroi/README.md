@@ -1,5 +1,4 @@
-Strombomonas pizarroi Y. Zalocar de Domitrovic SPECIES
-=======
+# Strombomonas pizarroi Y. Zalocar de Domitrovic SPECIES
 
 #### Status
 ACCEPTED

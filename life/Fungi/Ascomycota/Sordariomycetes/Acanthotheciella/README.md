@@ -1,17 +1,16 @@
-Acanthotheca Clem. & Shear GENUS
-=======
+# Acanthotheciella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 75, 276 (1931)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 120: 451 (1911)
 
 #### Original name
-Acanthotheca Clem. & Shear
+Acanthotheciella Höhn.
 
 ### Remarks
 null

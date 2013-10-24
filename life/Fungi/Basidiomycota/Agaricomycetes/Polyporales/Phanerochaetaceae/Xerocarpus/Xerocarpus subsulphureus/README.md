@@ -1,5 +1,4 @@
-Xerocarpus subsulphureus P. Karst. SPECIES
-=======
+# Xerocarpus subsulphureus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephroma africanum Gyeln. SPECIES
-=======
+# Nephroma africanum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

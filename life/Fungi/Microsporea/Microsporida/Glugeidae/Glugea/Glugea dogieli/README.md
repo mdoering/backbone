@@ -1,8 +1,7 @@
-Glugea luciopercae Dogiel & Bychowsky, 1939 SPECIES
-=======
+# Glugea dogieli Gasimagomedov & Issi, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

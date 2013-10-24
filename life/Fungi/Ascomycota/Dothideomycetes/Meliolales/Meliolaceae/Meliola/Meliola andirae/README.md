@@ -1,5 +1,4 @@
-Meliola andirae var. andirae VARIETY
-=======
+# Meliola andirae Earle SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bulletin of the New York Botanical Garden 3(11): 303 (1905)
 
 #### Original name
-Meliola andirae var. andirae
+Meliola andirae Earle
 
 ### Remarks
 null

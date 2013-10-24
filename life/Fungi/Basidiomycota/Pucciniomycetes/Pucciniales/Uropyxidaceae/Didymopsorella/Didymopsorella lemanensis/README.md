@@ -1,14 +1,13 @@
-Puccinia lemanensis Doidge, 1926 SPECIES
-=======
+# Didymopsorella lemanensis (Doidge) Hirats., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 2(1a): 95 (1926)
+null
 
 #### Original name
 Puccinia lemanensis Doidge, 1926

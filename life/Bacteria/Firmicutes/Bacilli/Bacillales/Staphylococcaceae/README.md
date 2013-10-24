@@ -1,5 +1,4 @@
-Staphylococcaceae FAMILY
-=======
+# Staphylococcaceae FAMILY
 
 #### Status
 ACCEPTED

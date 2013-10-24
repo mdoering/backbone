@@ -1,5 +1,4 @@
-Phyllachora pipericola Chardón, 1934 SPECIES
-=======
+# Phyllachora pipericola Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

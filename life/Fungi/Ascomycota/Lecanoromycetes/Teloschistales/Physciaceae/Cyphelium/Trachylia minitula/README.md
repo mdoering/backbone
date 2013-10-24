@@ -1,5 +1,4 @@
-Trachylia minitula Stizenb. SPECIES
-=======
+# Trachylia minitula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

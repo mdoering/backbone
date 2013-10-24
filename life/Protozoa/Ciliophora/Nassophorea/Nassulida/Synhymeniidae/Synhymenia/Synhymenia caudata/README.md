@@ -1,5 +1,4 @@
-Synhymenia caudata (Kahl, 1933) Jankowski, 1992 SPECIES
-=======
+# Synhymenia caudata (Kahl, 1933) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

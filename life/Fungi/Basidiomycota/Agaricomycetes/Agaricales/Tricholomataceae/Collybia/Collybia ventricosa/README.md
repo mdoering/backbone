@@ -1,5 +1,4 @@
-Collybia ventricosa var. ventricosa VARIETY
-=======
+# Collybia ventricosa (Bull.) Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hyménomycètes (Alençon) 324 (1876)
 
 #### Original name
-Collybia ventricosa var. ventricosa
+Agaricus ventricosus Massee, 1892
 
 ### Remarks
 null

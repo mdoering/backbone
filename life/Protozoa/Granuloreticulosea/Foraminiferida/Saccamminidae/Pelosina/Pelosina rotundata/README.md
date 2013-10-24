@@ -1,5 +1,4 @@
-Pelosina rotundata Brady, 1879 SPECIES
-=======
+# Pelosina rotundata Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

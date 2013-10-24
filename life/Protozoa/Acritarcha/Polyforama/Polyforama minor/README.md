@@ -1,5 +1,4 @@
-Polyforama minor Pykhova, 1969 SPECIES
-=======
+# Polyforama minor Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

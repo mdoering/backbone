@@ -1,5 +1,4 @@
-Cladonia leptopoda SPECIES
-=======
+# Cladonia leptopoda SPECIES
 
 #### Status
 ACCEPTED

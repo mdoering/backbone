@@ -1,5 +1,4 @@
-Lepiota colliquensis Garrido SPECIES
-=======
+# Lepiota colliquensis Garrido SPECIES
 
 #### Status
 ACCEPTED

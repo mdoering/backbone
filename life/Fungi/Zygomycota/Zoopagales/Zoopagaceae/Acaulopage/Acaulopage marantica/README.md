@@ -1,5 +1,4 @@
-Acaulopage marantica Drechsler, 1939 SPECIES
-=======
+# Acaulopage marantica Drechsler, 1939 SPECIES
 
 #### Status
 ACCEPTED

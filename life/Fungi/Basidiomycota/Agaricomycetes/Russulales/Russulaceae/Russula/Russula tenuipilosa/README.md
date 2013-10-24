@@ -1,5 +1,4 @@
-Russula tenuipilosa Buyck SPECIES
-=======
+# Russula tenuipilosa Buyck SPECIES
 
 #### Status
 ACCEPTED

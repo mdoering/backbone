@@ -1,5 +1,4 @@
-Rosellinia palustris J. Schröt. SPECIES
-=======
+# Rosellinia palustris J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

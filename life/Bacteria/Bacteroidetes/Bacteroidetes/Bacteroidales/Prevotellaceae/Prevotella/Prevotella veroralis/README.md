@@ -1,8 +1,7 @@
-Bacteroides veroralis Watabe et al., 1983 SPECIES
-=======
+# Prevotella veroralis (Watabe et al., 1983) Shah & Collins, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

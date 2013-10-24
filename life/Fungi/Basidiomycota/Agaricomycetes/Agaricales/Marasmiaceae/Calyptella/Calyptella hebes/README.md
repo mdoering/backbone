@@ -1,14 +1,13 @@
-Lachnella hebes (G. Cunn.) G. Cunn., 1963 SPECIES
-=======
+# Calyptella hebes (G. Cunn.) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 317 (1963)
+Beih. Sydowia 4: 39 (1961)
 
 #### Original name
 Cyphella hebes G. Cunn., 1953

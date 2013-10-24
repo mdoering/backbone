@@ -1,5 +1,4 @@
-Corethromyces catalinae (Thaxt.) I.I. Tav. SPECIES
-=======
+# Corethromyces catalinae (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

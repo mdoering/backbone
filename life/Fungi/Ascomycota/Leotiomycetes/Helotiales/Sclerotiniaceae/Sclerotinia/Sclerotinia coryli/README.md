@@ -1,5 +1,4 @@
-Sclerotinia coryli Schellenb. SPECIES
-=======
+# Sclerotinia coryli Schellenb. SPECIES
 
 #### Status
 ACCEPTED

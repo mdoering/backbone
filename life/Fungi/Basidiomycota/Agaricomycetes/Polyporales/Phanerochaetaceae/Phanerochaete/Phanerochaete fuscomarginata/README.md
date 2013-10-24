@@ -1,5 +1,4 @@
-Phanerochaete fuscomarginata (Burt) Gilb. SPECIES
-=======
+# Phanerochaete fuscomarginata (Burt) Gilb. SPECIES
 
 #### Status
 ACCEPTED

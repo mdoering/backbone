@@ -1,5 +1,4 @@
-Syncladium nietneri Rabenh., 1859 SPECIES
-=======
+# Syncladium nietneri Rabenh., 1859 SPECIES
 
 #### Status
 ACCEPTED

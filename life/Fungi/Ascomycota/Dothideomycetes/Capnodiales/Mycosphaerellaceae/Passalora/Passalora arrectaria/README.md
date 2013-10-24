@@ -1,5 +1,4 @@
-Passalora arrectaria (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora arrectaria (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

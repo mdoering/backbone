@@ -1,5 +1,4 @@
-Inocybe rivularis Jacobsson & Vauras SPECIES
-=======
+# Inocybe rivularis Jacobsson & Vauras SPECIES
 
 #### Status
 ACCEPTED

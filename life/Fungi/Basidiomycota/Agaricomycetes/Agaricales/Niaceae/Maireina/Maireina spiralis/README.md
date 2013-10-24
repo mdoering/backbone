@@ -1,5 +1,4 @@
-Maireina spiralis (Coker) W.B. Cooke SPECIES
-=======
+# Maireina spiralis (Coker) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

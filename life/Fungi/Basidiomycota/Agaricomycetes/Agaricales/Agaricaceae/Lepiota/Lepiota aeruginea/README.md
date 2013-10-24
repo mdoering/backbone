@@ -1,5 +1,4 @@
-Lepiota aeruginea Murrill SPECIES
-=======
+# Lepiota aeruginea Murrill SPECIES
 
 #### Status
 ACCEPTED

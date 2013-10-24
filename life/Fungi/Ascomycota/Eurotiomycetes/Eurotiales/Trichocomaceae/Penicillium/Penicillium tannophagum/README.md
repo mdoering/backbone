@@ -1,5 +1,4 @@
-Penicillium tannophagum Stapp & Bortels SPECIES
-=======
+# Penicillium tannophagum Stapp & Bortels SPECIES
 
 #### Status
 ACCEPTED

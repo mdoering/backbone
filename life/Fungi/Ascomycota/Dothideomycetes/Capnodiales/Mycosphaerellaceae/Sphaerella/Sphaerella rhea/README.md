@@ -1,5 +1,4 @@
-Sphaerella rhea Fautrey SPECIES
-=======
+# Sphaerella rhea Fautrey SPECIES
 
 #### Status
 ACCEPTED

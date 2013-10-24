@@ -1,5 +1,4 @@
-Mycena lilacifolia (Peck) A.H. Sm. SPECIES
-=======
+# Mycena lilacifolia (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

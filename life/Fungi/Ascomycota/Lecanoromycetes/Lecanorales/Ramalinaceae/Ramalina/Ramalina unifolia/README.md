@@ -1,5 +1,4 @@
-Ramalina unifolia J.W. Thomson SPECIES
-=======
+# Ramalina unifolia J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

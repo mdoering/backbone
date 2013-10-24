@@ -1,8 +1,7 @@
-Rinodina darrovii E.D. Rudolph SPECIES
-=======
+# Rinodina darrowii E.D. Rudolph SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina darrovii E.D. Rudolph
+Rinodina darrowii E.D. Rudolph
 
 ### Remarks
 null

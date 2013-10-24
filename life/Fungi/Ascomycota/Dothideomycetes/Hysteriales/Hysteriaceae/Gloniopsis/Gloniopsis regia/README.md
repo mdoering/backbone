@@ -1,5 +1,4 @@
-Gloniopsis regia Rehm SPECIES
-=======
+# Gloniopsis regia Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula olivaceoviolascens Gillet SPECIES
-=======
+# Russula olivaceoviolascens Gillet SPECIES
 
 #### Status
 ACCEPTED

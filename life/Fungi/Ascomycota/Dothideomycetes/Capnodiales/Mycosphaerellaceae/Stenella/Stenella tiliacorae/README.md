@@ -1,17 +1,16 @@
-Stenella tiliacori Sarbajna SPECIES
-=======
+# Stenella tiliacorae Sarbajna SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 14(2): 491 (1990)
 
 #### Original name
-Stenella tiliacori Sarbajna
+Stenella tiliacorae Sarbajna
 
 ### Remarks
 null

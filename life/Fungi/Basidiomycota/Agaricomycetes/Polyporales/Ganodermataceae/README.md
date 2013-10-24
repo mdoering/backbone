@@ -1,5 +1,4 @@
-Ganodermataceae FAMILY
-=======
+# Ganodermataceae FAMILY
 
 #### Status
 ACCEPTED

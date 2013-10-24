@@ -1,5 +1,4 @@
-Schinzia leguminosarum A.B. Frank SPECIES
-=======
+# Schinzia leguminosarum A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

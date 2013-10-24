@@ -1,5 +1,4 @@
-Puccinia afra G. Winter SPECIES
-=======
+# Puccinia afra G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma baldratiana Sacc. SPECIES
-=======
+# Tricholoma baldratiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

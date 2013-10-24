@@ -1,5 +1,4 @@
-Agaricus xuchilensis Murrill SPECIES
-=======
+# Agaricus xuchilensis Murrill SPECIES
 
 #### Status
 ACCEPTED

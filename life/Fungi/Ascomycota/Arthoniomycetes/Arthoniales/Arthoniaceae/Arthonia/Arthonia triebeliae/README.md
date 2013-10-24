@@ -1,5 +1,4 @@
-Arthonia triebeliae Zhurb. SPECIES
-=======
+# Arthonia triebeliae Zhurb. SPECIES
 
 #### Status
 ACCEPTED

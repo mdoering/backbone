@@ -1,5 +1,4 @@
-Nyctotherus pintoi Carini, 1933 SPECIES
-=======
+# Nyctotherus pintoi Carini, 1933 SPECIES
 
 #### Status
 ACCEPTED

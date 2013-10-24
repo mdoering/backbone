@@ -1,5 +1,4 @@
-Adelosina longirostra var. striata Wiesner, 1923 VARIETY
-=======
+# Adelosina longirostra (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

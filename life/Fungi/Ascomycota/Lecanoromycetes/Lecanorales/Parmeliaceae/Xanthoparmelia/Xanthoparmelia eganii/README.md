@@ -1,5 +1,4 @@
-Xanthoparmelia eganii Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia eganii Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

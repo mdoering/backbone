@@ -1,5 +1,4 @@
-Mycena viridivisci anon. SPECIES
-=======
+# Mycena viridivisci anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurostomella acuminata SPECIES
-=======
+# Pleurostomella acuminata SPECIES
 
 #### Status
 ACCEPTED

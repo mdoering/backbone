@@ -1,5 +1,4 @@
-Arcyria similis Racib. SPECIES
-=======
+# Arcyria similis Racib. SPECIES
 
 #### Status
 ACCEPTED

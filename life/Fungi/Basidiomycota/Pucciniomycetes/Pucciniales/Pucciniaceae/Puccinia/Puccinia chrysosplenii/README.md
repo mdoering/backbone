@@ -1,14 +1,13 @@
-Dicaeoma chrysosplenii (Grev.) Kuntze, 1898 SPECIES
-=======
+# Puccinia chrysosplenii Grev., 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+Smith's English Flora (London) 5: 367 (1836)
 
 #### Original name
 Puccinia chrysosplenii Grev., 1836

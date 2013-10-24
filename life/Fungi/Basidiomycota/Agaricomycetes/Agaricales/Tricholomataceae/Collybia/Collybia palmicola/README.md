@@ -1,5 +1,4 @@
-Collybia palmicola Berk. & M.A. Curtis SPECIES
-=======
+# Collybia palmicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

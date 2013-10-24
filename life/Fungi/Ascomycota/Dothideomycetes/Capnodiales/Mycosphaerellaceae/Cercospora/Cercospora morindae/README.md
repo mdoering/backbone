@@ -1,5 +1,4 @@
-Cercospora morindae Syd. SPECIES
-=======
+# Cercospora morindae Syd. SPECIES
 
 #### Status
 ACCEPTED

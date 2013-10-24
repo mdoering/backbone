@@ -1,5 +1,4 @@
-Lecidea evansii H. Magn. SPECIES
-=======
+# Lecidea evansii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

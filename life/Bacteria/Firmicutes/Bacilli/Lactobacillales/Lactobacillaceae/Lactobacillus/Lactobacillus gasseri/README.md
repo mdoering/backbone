@@ -1,5 +1,4 @@
-Lactobacillus gasseri Lauer & Kandler, 1980 SPECIES
-=======
+# Lactobacillus gasseri Lauer & Kandler, 1980 SPECIES
 
 #### Status
 ACCEPTED

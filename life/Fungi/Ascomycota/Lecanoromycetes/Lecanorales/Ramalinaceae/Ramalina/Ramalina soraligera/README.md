@@ -1,5 +1,4 @@
-Ramalina soraligera H. Magn. SPECIES
-=======
+# Ramalina soraligera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

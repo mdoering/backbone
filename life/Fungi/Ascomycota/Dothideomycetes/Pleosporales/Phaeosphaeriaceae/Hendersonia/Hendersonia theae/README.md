@@ -1,5 +1,4 @@
-Hendersonia theae Hara SPECIES
-=======
+# Hendersonia theae Hara SPECIES
 
 #### Status
 ACCEPTED

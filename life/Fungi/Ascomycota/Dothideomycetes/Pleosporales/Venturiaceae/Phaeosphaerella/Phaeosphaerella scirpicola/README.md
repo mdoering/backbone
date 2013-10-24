@@ -1,5 +1,4 @@
-Phaeosphaerella scirpicola Earle SPECIES
-=======
+# Phaeosphaerella scirpicola Earle SPECIES
 
 #### Status
 ACCEPTED

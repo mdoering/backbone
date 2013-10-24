@@ -1,5 +1,4 @@
-Microthyriella paulliniae Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella paulliniae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

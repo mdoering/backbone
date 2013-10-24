@@ -1,5 +1,4 @@
-Colacium elongatum Playfair SPECIES
-=======
+# Colacium elongatum Playfair SPECIES
 
 #### Status
 ACCEPTED

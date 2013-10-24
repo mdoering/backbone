@@ -1,5 +1,4 @@
-Coprinopsis xenobia (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis xenobia (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

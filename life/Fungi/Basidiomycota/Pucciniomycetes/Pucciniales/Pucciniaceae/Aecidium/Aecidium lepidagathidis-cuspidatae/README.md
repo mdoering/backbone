@@ -1,5 +1,4 @@
-Aecidium lepidagathidis-cuspidatae P.B. Chavan SPECIES
-=======
+# Aecidium lepidagathidis-cuspidatae P.B. Chavan SPECIES
 
 #### Status
 ACCEPTED

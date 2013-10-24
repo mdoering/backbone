@@ -1,5 +1,4 @@
-Porina chloroterodes Vain. SPECIES
-=======
+# Porina chloroterodes Vain. SPECIES
 
 #### Status
 ACCEPTED

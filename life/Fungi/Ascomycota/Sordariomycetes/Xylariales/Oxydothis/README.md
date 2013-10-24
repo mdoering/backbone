@@ -1,17 +1,16 @@
-Plagiothecium Schrantz GENUS
-=======
+# Oxydothis Penz. & Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 76: 335 (1961)
+Malpighia 11: 505 (1898)
 
 #### Original name
-Plagiothecium Schrantz
+Oxydothis Penz. & Sacc.
 
 ### Remarks
 null

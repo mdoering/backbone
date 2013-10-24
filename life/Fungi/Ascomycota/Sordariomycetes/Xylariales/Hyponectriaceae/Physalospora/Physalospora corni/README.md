@@ -1,8 +1,7 @@
-Sphaeria corniella Cooke SPECIES
-=======
+# Physalospora corni Ellis & Everh., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Sphaeria corniella Cooke
+Physalospora corni Ellis & Everh., 1878
 
 ### Remarks
 null

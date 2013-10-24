@@ -1,5 +1,4 @@
-Alectoria japonica Tuck. SPECIES
-=======
+# Alectoria japonica Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium africanum Zahlbr. SPECIES
-=======
+# Leptogium africanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

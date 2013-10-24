@@ -1,5 +1,4 @@
-Tintinnopsis illinoisensis Hempel, 1896 SPECIES
-=======
+# Tintinnopsis illinoisensis Hempel, 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jumillera albida J.D. Rogers, Y.M. Ju & F. San Martín, 1997 SPECIES
-=======
+# Jumillera albida J.D. Rogers, Y.M. Ju & F. San Martín, 1997 SPECIES
 
 #### Status
 ACCEPTED

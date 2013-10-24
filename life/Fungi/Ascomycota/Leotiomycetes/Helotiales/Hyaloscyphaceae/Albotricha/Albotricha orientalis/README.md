@@ -1,5 +1,4 @@
-Albotricha orientalis var. orientalis VARIETY
-=======
+# Albotricha orientalis Raitv. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 41 (1970)
 
 #### Original name
-Albotricha orientalis var. orientalis
+Albotricha orientalis Raitv.
 
 ### Remarks
 null

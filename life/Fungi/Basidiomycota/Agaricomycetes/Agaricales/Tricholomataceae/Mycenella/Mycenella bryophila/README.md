@@ -1,14 +1,13 @@
-Mycena bryophila Voglino, 1886 SPECIES
-=======
+# Mycenella bryophila (Voglino) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti 4: 617 (1886)
+Lilloa 22: 291 (1951)
 
 #### Original name
 Mycena bryophila Voglino, 1886

@@ -1,5 +1,4 @@
-Ceratocystis angusticoolis E.F. Wright & H.D. Griffin SPECIES
-=======
+# Ceratocystis angusticoolis E.F. Wright & H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

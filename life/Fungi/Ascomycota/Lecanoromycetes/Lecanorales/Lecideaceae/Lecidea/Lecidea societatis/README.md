@@ -1,5 +1,4 @@
-Lecidea societatis Vain. SPECIES
-=======
+# Lecidea societatis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe caelatoidea Dennis SPECIES
-=======
+# Rhodocybe caelatoidea Dennis SPECIES
 
 #### Status
 ACCEPTED

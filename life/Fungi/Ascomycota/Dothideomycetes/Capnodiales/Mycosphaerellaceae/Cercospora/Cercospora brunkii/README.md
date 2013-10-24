@@ -1,5 +1,4 @@
-Cercospora brunkii Ellis & Galloway SPECIES
-=======
+# Cercospora brunkii Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

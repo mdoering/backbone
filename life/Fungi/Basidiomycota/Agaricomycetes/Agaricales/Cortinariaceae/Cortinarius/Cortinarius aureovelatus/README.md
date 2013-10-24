@@ -1,5 +1,4 @@
-Cortinarius aureovelatus Bendiksen, K. Bendiksen & H. Lindstr. SPECIES
-=======
+# Cortinarius aureovelatus Bendiksen, K. Bendiksen & H. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

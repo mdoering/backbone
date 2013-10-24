@@ -1,5 +1,4 @@
-Cytospora mougesti Lév. SPECIES
-=======
+# Cytospora mougesti Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Articulina crespinae Cushman SPECIES
-=======
+# Articulina crespinae Cushman SPECIES
 
 #### Status
 ACCEPTED

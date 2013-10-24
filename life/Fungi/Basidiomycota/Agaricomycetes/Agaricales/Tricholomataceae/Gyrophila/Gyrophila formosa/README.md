@@ -1,5 +1,4 @@
-Gyrophila formosa Quél. SPECIES
-=======
+# Gyrophila formosa Quél. SPECIES
 
 #### Status
 ACCEPTED

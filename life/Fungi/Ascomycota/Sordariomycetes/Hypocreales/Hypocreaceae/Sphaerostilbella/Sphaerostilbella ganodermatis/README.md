@@ -1,5 +1,4 @@
-Sphaerostilbella ganodermatis K. Põldmaa & Samuels SPECIES
-=======
+# Sphaerostilbella ganodermatis K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

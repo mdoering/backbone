@@ -1,5 +1,4 @@
-Hypholoma hymenocephalum Peck SPECIES
-=======
+# Hypholoma hymenocephalum Peck SPECIES
 
 #### Status
 ACCEPTED

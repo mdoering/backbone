@@ -1,5 +1,4 @@
-Camarophyllus olidus Pegler SPECIES
-=======
+# Camarophyllus olidus Pegler SPECIES
 
 #### Status
 ACCEPTED

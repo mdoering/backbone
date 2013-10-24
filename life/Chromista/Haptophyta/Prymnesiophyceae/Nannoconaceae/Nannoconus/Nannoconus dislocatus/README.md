@@ -1,5 +1,4 @@
-Nannoconus dislocatus SPECIES
-=======
+# Nannoconus dislocatus SPECIES
 
 #### Status
 ACCEPTED

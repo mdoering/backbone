@@ -1,5 +1,4 @@
-Rhizophlyctis spirogyrae De Wild. SPECIES
-=======
+# Rhizophlyctis spirogyrae De Wild. SPECIES
 
 #### Status
 ACCEPTED

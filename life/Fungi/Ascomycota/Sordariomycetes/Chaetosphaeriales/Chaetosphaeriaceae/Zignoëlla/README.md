@@ -1,5 +1,4 @@
-Zignoëlla Saccardo, 1878 GENUS
-=======
+# Zignoëlla Saccardo, 1878 GENUS
 
 #### Status
 ACCEPTED

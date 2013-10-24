@@ -1,5 +1,4 @@
-Arthopyrenia excaecariae (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia excaecariae (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

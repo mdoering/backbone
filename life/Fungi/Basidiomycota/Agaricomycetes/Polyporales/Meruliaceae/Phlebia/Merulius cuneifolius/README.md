@@ -1,5 +1,4 @@
-Merulius cuneifolius G. Mey. SPECIES
-=======
+# Merulius cuneifolius G. Mey. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humarina wisconsinensis (Rehm) Seaver SPECIES
-=======
+# Humarina wisconsinensis (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia macularis Zahlbr. SPECIES
-=======
+# Buellia macularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

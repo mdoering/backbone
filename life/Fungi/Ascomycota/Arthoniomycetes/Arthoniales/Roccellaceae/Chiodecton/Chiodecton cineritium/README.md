@@ -1,5 +1,4 @@
-Chiodecton cineritium var. cineritium VARIETY
-=======
+# Chiodecton cineritium (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chiodecton cineritium var. cineritium
+null
 
 ### Remarks
 null

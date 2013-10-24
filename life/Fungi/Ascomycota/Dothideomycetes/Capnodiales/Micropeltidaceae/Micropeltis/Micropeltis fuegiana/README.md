@@ -1,5 +1,4 @@
-Micropeltis fuegiana (Speg.) Theiss. SPECIES
-=======
+# Micropeltis fuegiana (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

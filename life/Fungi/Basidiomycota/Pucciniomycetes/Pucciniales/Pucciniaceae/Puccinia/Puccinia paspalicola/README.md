@@ -1,5 +1,4 @@
-Puccinia paspalicola Arthur SPECIES
-=======
+# Puccinia paspalicola Arthur SPECIES
 
 #### Status
 ACCEPTED

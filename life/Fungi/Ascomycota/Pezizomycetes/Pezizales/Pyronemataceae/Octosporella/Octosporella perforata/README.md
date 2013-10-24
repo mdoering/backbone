@@ -1,5 +1,4 @@
-Octosporella perforata (Döbbeler) Döbbeler, 1980 SPECIES
-=======
+# Octosporella perforata (Döbbeler) Döbbeler, 1980 SPECIES
 
 #### Status
 ACCEPTED

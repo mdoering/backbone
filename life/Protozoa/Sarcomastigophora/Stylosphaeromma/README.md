@@ -1,5 +1,4 @@
-Stylosphaeromma Haeckel, 1887 GENUS
-=======
+# Stylosphaeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia liabicola F. Kern & Thurst. SPECIES
-=======
+# Puccinia liabicola F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

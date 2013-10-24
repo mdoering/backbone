@@ -1,5 +1,4 @@
-Conchophthirius metchnicoffi SPECIES
-=======
+# Conchophthirius metchnicoffi SPECIES
 
 #### Status
 ACCEPTED

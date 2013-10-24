@@ -1,5 +1,4 @@
-Aderkomyces testaceus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces testaceus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

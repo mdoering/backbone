@@ -1,5 +1,4 @@
-Hypholoma longinqua (Singer) E. Horak SPECIES
-=======
+# Hypholoma longinqua (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

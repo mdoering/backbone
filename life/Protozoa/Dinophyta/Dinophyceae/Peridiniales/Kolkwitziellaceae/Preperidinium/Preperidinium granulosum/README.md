@@ -1,11 +1,10 @@
-Diplopeltopsis granulosa Balech SPECIES
-=======
+# Preperidinium granulosum (Balech, 1958) Elbrächter, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

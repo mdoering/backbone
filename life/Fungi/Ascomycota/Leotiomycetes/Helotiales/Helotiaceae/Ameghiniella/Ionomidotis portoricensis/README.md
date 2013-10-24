@@ -1,5 +1,4 @@
-Ionomidotis portoricensis Seaver SPECIES
-=======
+# Ionomidotis portoricensis Seaver SPECIES
 
 #### Status
 ACCEPTED

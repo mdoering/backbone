@@ -1,5 +1,4 @@
-Bacidia xanthoblephara (Müll. Arg.) SPECIES
-=======
+# Bacidia xanthoblephara (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

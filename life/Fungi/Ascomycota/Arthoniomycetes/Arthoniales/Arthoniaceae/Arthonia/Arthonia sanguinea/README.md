@@ -1,5 +1,4 @@
-Arthonia sanguinea Willey SPECIES
-=======
+# Arthonia sanguinea Willey SPECIES
 
 #### Status
 ACCEPTED

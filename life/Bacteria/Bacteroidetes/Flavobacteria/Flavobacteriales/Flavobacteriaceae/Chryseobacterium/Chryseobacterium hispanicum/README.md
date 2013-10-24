@@ -1,5 +1,4 @@
-Chryseobacterium hispanicum Gallego et al., 2006 SPECIES
-=======
+# Chryseobacterium hispanicum Gallego et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

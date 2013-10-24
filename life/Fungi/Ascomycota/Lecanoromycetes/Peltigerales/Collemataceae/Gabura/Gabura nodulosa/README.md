@@ -1,5 +1,4 @@
-Gabura nodulosa (Nyl.) Kuntze SPECIES
-=======
+# Gabura nodulosa (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

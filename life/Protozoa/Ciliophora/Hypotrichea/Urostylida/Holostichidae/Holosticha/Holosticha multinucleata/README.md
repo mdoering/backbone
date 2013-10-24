@@ -1,5 +1,4 @@
-Holosticha multinucleata Maupas, 1883 SPECIES
-=======
+# Holosticha multinucleata Maupas, 1883 SPECIES
 
 #### Status
 ACCEPTED

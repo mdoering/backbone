@@ -1,5 +1,4 @@
-Cucurbitaria pulveracea P. Karst., 1873 SPECIES
-=======
+# Cucurbitaria pulveracea P. Karst., 1873 SPECIES
 
 #### Status
 ACCEPTED

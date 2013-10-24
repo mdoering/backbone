@@ -1,5 +1,4 @@
-Collybia talpina Berk. & M.A. Curtis SPECIES
-=======
+# Collybia talpina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena epigeios Velen. SPECIES
-=======
+# Mycena epigeios Velen. SPECIES
 
 #### Status
 ACCEPTED

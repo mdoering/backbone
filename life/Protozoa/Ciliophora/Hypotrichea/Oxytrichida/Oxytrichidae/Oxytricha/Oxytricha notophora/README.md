@@ -1,5 +1,4 @@
-Oxytricha notophora Stokes, 1885 SPECIES
-=======
+# Oxytricha notophora Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

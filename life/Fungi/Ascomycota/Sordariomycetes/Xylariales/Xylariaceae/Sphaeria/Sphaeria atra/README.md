@@ -1,5 +1,4 @@
-Sphaeria atra Lév. SPECIES
-=======
+# Sphaeria atra Lév. SPECIES
 
 #### Status
 ACCEPTED

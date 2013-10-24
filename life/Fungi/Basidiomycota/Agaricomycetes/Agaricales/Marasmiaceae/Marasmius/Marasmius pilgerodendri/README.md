@@ -1,5 +1,4 @@
-Marasmius pilgerodendri Singer SPECIES
-=======
+# Marasmius pilgerodendri Singer SPECIES
 
 #### Status
 ACCEPTED

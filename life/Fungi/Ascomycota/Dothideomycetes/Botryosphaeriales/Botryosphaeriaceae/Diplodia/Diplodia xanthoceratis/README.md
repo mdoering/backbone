@@ -1,5 +1,4 @@
-Diplodia xanthoceratis Gucevic SPECIES
-=======
+# Diplodia xanthoceratis Gucevic SPECIES
 
 #### Status
 ACCEPTED

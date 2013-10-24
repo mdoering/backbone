@@ -1,5 +1,4 @@
-Marasmiellus columbianus Singer SPECIES
-=======
+# Marasmiellus columbianus Singer SPECIES
 
 #### Status
 ACCEPTED

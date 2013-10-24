@@ -1,5 +1,4 @@
-Psathyrella mucrocystis A.H. Sm., 1972 SPECIES
-=======
+# Psathyrella mucrocystis A.H. Sm., 1972 SPECIES
 
 #### Status
 ACCEPTED

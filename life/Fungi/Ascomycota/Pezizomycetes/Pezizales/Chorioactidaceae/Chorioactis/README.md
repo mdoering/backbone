@@ -1,5 +1,4 @@
-Chorioactis Kupfer ex Eckblad, 1968 GENUS
-=======
+# Chorioactis Kupfer ex Eckblad, 1968 GENUS
 
 #### Status
 ACCEPTED

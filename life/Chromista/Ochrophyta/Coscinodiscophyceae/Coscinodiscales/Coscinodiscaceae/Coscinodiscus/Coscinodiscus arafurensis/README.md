@@ -1,5 +1,4 @@
-Coscinodiscus arafurensis O'Meara, 1877 SPECIES
-=======
+# Coscinodiscus arafurensis O'Meara, 1877 SPECIES
 
 #### Status
 ACCEPTED

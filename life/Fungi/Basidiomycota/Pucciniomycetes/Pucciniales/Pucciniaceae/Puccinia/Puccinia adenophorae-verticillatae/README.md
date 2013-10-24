@@ -1,5 +1,4 @@
-Puccinia adenophorae-verticillatae Ito {?} & Terui SPECIES
-=======
+# Puccinia adenophorae-verticillatae Ito {?} & Terui SPECIES
 
 #### Status
 ACCEPTED

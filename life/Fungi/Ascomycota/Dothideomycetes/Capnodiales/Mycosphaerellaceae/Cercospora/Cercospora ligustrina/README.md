@@ -1,5 +1,4 @@
-Cercospora ligustrina Boerema, 1962 SPECIES
-=======
+# Cercospora ligustrina Boerema, 1962 SPECIES
 
 #### Status
 ACCEPTED

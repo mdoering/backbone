@@ -1,5 +1,4 @@
-Monandromyces protuberans R.K. Benj., 1999 SPECIES
-=======
+# Monandromyces protuberans R.K. Benj., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menegazzia physodes (L.) Navás SPECIES
-=======
+# Menegazzia physodes (L.) Navás SPECIES
 
 #### Status
 ACCEPTED

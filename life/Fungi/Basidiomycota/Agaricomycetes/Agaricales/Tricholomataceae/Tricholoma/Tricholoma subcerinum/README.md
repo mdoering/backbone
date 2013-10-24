@@ -1,5 +1,4 @@
-Tricholoma subcerinum A.H. Sm. SPECIES
-=======
+# Tricholoma subcerinum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

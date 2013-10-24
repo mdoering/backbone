@@ -1,5 +1,4 @@
-Micropeltidium rechingeri (Höhn.) Bat. SPECIES
-=======
+# Micropeltidium rechingeri (Höhn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

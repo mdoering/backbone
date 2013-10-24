@@ -1,5 +1,4 @@
-Pleospora freticola Speg. SPECIES
-=======
+# Pleospora freticola Speg. SPECIES
 
 #### Status
 ACCEPTED

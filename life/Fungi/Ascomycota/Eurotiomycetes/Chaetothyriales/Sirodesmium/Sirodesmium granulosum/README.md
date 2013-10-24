@@ -1,5 +1,4 @@
-Sirodesmium granulosum Sacc. SPECIES
-=======
+# Sirodesmium granulosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

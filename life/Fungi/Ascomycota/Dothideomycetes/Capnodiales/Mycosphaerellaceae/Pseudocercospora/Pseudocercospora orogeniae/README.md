@@ -1,5 +1,4 @@
-Pseudocercospora orogeniae (W.B. Cooke & C.G. Shaw) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora orogeniae (W.B. Cooke & C.G. Shaw) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

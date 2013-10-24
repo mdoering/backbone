@@ -1,5 +1,4 @@
-Dothiorella saccharina S. Ahmad SPECIES
-=======
+# Dothiorella saccharina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

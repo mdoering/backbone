@@ -1,5 +1,4 @@
-Quinqueloculina compta SPECIES
-=======
+# Quinqueloculina compta SPECIES
 
 #### Status
 ACCEPTED

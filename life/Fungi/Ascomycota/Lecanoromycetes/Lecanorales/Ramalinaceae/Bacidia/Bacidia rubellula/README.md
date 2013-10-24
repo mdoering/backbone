@@ -1,5 +1,4 @@
-Bacidia rubellula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia rubellula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

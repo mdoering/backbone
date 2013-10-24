@@ -1,5 +1,4 @@
-Schubertia Silvestri, 1912 GENUS
-=======
+# Schubertia Silvestri, 1912 GENUS
 
 #### Status
 ACCEPTED

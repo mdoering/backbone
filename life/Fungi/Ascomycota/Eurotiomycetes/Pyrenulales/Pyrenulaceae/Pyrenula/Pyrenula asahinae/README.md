@@ -1,5 +1,4 @@
-Pyrenula asahinae (Kashiw. & Kurok.) H. Harada SPECIES
-=======
+# Pyrenula asahinae (Kashiw. & Kurok.) H. Harada SPECIES
 
 #### Status
 ACCEPTED

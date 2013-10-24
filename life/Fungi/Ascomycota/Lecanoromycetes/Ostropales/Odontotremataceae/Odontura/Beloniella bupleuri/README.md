@@ -1,5 +1,4 @@
-Beloniella bupleuri Velen. SPECIES
-=======
+# Beloniella bupleuri Velen. SPECIES
 
 #### Status
 ACCEPTED

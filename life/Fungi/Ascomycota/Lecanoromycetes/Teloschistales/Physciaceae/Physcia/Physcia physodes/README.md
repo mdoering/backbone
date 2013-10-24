@@ -1,5 +1,4 @@
-Physcia physodes (L.) Frege SPECIES
-=======
+# Physcia physodes (L.) Frege SPECIES
 
 #### Status
 ACCEPTED

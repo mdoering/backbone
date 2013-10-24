@@ -1,8 +1,7 @@
-Alcaligenes denitrificans (ex Leifson & Hugh, 1954) Rüger & Tan, 1983 SPECIES
-=======
+# Achromobacter denitrificans (Rüger & Tan, 1983) Coenye et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

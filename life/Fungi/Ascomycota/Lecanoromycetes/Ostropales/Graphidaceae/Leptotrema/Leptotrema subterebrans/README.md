@@ -1,5 +1,4 @@
-Leptotrema subterebrans (Nyl.) Zahlbr. SPECIES
-=======
+# Leptotrema subterebrans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

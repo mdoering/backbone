@@ -1,5 +1,4 @@
-Septoria consocia Peck SPECIES
-=======
+# Septoria consocia Peck SPECIES
 
 #### Status
 ACCEPTED

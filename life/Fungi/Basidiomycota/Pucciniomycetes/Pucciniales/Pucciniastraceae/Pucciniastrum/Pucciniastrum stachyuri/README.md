@@ -1,5 +1,4 @@
-Pucciniastrum stachyuri Hirats. f. & Yoshin. SPECIES
-=======
+# Pucciniastrum stachyuri Hirats. f. & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

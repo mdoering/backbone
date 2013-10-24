@@ -1,5 +1,4 @@
-Amanita demissa Corner & Bas SPECIES
-=======
+# Amanita demissa Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

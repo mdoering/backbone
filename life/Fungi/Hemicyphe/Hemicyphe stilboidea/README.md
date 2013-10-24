@@ -1,5 +1,4 @@
-Hemicyphe stilboidea Corda SPECIES
-=======
+# Hemicyphe stilboidea Corda SPECIES
 
 #### Status
 ACCEPTED

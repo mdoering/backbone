@@ -1,5 +1,4 @@
-Auroria Poyarkov, 1968 GENUS
-=======
+# Auroria Poyarkov, 1968 GENUS
 
 #### Status
 ACCEPTED

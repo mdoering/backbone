@@ -1,5 +1,4 @@
-Microdiplodia sambucicola (Fautrey) Tassi SPECIES
-=======
+# Microdiplodia sambucicola (Fautrey) Tassi SPECIES
 
 #### Status
 ACCEPTED

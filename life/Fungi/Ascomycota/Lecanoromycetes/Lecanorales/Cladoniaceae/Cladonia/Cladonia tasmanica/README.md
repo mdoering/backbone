@@ -1,14 +1,13 @@
-Cladina tasmanica (Ahti) Ahti SPECIES
-=======
+# Cladonia tasmanica Ahti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 79: 40 (1984)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 32: 30 (1961)
 
 #### Original name
 Cladonia tasmanica Ahti

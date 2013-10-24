@@ -1,5 +1,4 @@
-Adlerocystis parkeri Feldm.-Muhs. & Havivi SPECIES
-=======
+# Adlerocystis parkeri Feldm.-Muhs. & Havivi SPECIES
 
 #### Status
 ACCEPTED

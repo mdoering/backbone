@@ -1,5 +1,4 @@
-Tomaselliellomyces galactitis Cif. SPECIES
-=======
+# Tomaselliellomyces galactitis Cif. SPECIES
 
 #### Status
 ACCEPTED

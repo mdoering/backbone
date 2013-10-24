@@ -1,5 +1,4 @@
-Lichenodiplis hawksworthii F. Berger & Diederich SPECIES
-=======
+# Lichenodiplis hawksworthii F. Berger & Diederich SPECIES
 
 #### Status
 ACCEPTED

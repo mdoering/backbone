@@ -1,5 +1,4 @@
-Lecidea scalaris f. scalaris FORM
-=======
+# Hypocenomyce scalaris (Ach. ex Lilj.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Method. Lich. 78 (1803)
+Bull. mens. Soc. linn. Lyon 20: 133 (1951)
 
 #### Original name
-Lecidea scalaris f. scalaris
+Lichen scalaris Ach. ex Lilj.
 
 ### Remarks
 null

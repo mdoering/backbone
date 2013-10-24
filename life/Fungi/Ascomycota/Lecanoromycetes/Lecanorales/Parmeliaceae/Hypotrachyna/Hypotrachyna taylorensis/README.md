@@ -1,17 +1,16 @@
-Parmelia revoluta var. rugosa Cromb. VARIETY
-=======
+# Hypotrachyna taylorensis (M. E. Mitch.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 75): 75 (1887)
+Phytologia 28(4): 342 (1975)
 
 #### Original name
-Parmelia revoluta var. rugosa Cromb.
+Parmelia taylorensis M. E. Mitch.
 
 ### Remarks
 null

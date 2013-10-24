@@ -1,5 +1,4 @@
-Phyllachora neurophila Syd., 1939 SPECIES
-=======
+# Phyllachora neurophila Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

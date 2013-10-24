@@ -1,14 +1,13 @@
-Clavaria setulosa Berk., 1845 SPECIES
-=======
+# Lachnocladium setulosum (Berk.) Sacc., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 4: 61 (1845)
+Syll. fung. (Abellini) 6: 740 (1888)
 
 #### Original name
 Clavaria setulosa Berk., 1845

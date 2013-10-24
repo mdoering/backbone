@@ -1,5 +1,4 @@
-Miliolinella californica SPECIES
-=======
+# Miliolinella californica SPECIES
 
 #### Status
 ACCEPTED

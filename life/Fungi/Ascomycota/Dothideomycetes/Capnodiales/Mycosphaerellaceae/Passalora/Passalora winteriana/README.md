@@ -1,5 +1,4 @@
-Passalora winteriana U. Braun SPECIES
-=======
+# Passalora winteriana U. Braun SPECIES
 
 #### Status
 ACCEPTED

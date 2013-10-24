@@ -1,5 +1,4 @@
-Mucor trichoides Sowerby SPECIES
-=======
+# Mucor trichoides Sowerby SPECIES
 
 #### Status
 ACCEPTED

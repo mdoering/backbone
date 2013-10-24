@@ -1,5 +1,4 @@
-Siphulastrum cladinoides C.W. Dodge SPECIES
-=======
+# Siphulastrum cladinoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

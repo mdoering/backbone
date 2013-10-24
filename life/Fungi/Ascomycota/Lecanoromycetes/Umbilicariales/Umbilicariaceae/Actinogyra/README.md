@@ -1,5 +1,4 @@
-Actinogyra GENUS
-=======
+# Actinogyra GENUS
 
 #### Status
 ACCEPTED

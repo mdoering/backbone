@@ -1,5 +1,4 @@
-Scandophycus A.G. Vologdin, 1962 GENUS
-=======
+# Scandophycus A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

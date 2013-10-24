@@ -1,5 +1,4 @@
-Trichobasis epilobii Berk. SPECIES
-=======
+# Trichobasis epilobii Berk. SPECIES
 
 #### Status
 ACCEPTED

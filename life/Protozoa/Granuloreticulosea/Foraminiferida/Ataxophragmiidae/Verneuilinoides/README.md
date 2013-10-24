@@ -1,5 +1,4 @@
-Verneuilinoides Loeblich & Tappan, 1949 GENUS
-=======
+# Verneuilinoides Loeblich & Tappan, 1949 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bartaliniopsis saksenaensis S.S. Singh SPECIES
-=======
+# Bartaliniopsis saksenaensis S.S. Singh SPECIES
 
 #### Status
 ACCEPTED

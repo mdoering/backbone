@@ -1,5 +1,4 @@
-Sporidesmium fragmentisporum Matsush. SPECIES
-=======
+# Sporidesmium fragmentisporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

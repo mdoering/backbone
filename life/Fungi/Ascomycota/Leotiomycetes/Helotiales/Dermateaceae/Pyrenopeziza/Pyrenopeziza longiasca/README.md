@@ -1,5 +1,4 @@
-Pyrenopeziza longiasca Cavara SPECIES
-=======
+# Pyrenopeziza longiasca Cavara SPECIES
 
 #### Status
 ACCEPTED

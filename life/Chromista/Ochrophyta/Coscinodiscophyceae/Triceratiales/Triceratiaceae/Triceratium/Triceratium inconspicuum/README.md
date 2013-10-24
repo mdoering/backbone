@@ -1,5 +1,4 @@
-Triceratium inconspicuum var. trilobatum J. Fenner VARIETY
-=======
+# Triceratium inconspicuum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corallomyces berolinensis Henn. SPECIES
-=======
+# Corallomyces berolinensis Henn. SPECIES
 
 #### Status
 ACCEPTED

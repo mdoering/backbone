@@ -1,5 +1,4 @@
-Placodium sphaeroideum Oxner SPECIES
-=======
+# Placodium sphaeroideum Oxner SPECIES
 
 #### Status
 ACCEPTED

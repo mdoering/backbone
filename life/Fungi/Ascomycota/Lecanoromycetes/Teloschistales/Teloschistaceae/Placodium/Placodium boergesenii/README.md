@@ -1,5 +1,4 @@
-Placodium boergesenii Vain. SPECIES
-=======
+# Placodium boergesenii Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solentia stratosa Ercegovic SPECIES
-=======
+# Solentia stratosa Ercegovic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea laurincola Rehm SPECIES
-=======
+# Stigmatea laurincola Rehm SPECIES
 
 #### Status
 ACCEPTED

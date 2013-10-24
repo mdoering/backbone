@@ -1,5 +1,4 @@
-Lithothelium australe Aptroot & H. Mayrhofer SPECIES
-=======
+# Lithothelium australe Aptroot & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

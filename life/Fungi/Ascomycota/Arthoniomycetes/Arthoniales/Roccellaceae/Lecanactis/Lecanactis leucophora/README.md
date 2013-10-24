@@ -1,5 +1,4 @@
-Lecanactis leucophora Nyl. SPECIES
-=======
+# Lecanactis leucophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

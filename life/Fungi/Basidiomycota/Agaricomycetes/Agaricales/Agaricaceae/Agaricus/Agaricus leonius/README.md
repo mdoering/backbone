@@ -1,5 +1,4 @@
-Agaricus leonius SPECIES
-=======
+# Agaricus leonius SPECIES
 
 #### Status
 ACCEPTED

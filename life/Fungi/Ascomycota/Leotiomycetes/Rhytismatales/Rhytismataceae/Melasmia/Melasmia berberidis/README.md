@@ -1,5 +1,4 @@
-Melasmia berberidis Thüm. & G. Winter SPECIES
-=======
+# Melasmia berberidis Thüm. & G. Winter SPECIES
 
 #### Status
 ACCEPTED

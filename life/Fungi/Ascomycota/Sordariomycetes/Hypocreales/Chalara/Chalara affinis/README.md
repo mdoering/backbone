@@ -1,5 +1,4 @@
-Chalara affinis Sacc. & Berl., 1885 SPECIES
-=======
+# Chalara affinis Sacc. & Berl., 1885 SPECIES
 
 #### Status
 ACCEPTED

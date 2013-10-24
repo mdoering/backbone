@@ -1,5 +1,4 @@
-Ustilago fischeri Pass. SPECIES
-=======
+# Ustilago fischeri Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoplophrya stromboides Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya stromboides Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

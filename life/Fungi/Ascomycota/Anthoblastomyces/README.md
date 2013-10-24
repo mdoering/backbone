@@ -1,5 +1,4 @@
-Anthoblastomyces Verona & Zardetta GENUS
-=======
+# Anthoblastomyces Verona & Zardetta GENUS
 
 #### Status
 ACCEPTED

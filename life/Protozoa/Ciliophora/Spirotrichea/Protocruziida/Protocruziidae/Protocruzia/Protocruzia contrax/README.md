@@ -1,5 +1,4 @@
-Protocruzia contrax Mansfeld, 1923 SPECIES
-=======
+# Protocruzia contrax Mansfeld, 1923 SPECIES
 
 #### Status
 ACCEPTED

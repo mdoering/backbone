@@ -1,5 +1,4 @@
-Physoderma polysporum J. Schröt. SPECIES
-=======
+# Physoderma polysporum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

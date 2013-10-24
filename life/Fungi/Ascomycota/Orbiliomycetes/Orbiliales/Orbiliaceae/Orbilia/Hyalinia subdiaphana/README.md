@@ -1,5 +1,4 @@
-Hyalinia subdiaphana (Sowerby) Boud., 1907 SPECIES
-=======
+# Hyalinia subdiaphana (Sowerby) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED

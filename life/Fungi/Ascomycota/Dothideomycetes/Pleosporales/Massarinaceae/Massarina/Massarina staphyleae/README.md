@@ -1,5 +1,4 @@
-Massarina staphyleae Petr. SPECIES
-=======
+# Massarina staphyleae Petr. SPECIES
 
 #### Status
 ACCEPTED

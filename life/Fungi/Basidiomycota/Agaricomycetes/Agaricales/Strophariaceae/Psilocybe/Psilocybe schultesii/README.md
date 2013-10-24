@@ -1,5 +1,4 @@
-Psilocybe schultesii Guzmán & S.H. Pollock SPECIES
-=======
+# Psilocybe schultesii Guzmán & S.H. Pollock SPECIES
 
 #### Status
 ACCEPTED

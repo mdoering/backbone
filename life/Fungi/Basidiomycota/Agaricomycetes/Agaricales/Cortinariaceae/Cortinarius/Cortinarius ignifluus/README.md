@@ -1,5 +1,4 @@
-Cortinarius ignifluus Bidaud SPECIES
-=======
+# Cortinarius ignifluus Bidaud SPECIES
 
 #### Status
 ACCEPTED

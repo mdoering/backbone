@@ -1,5 +1,4 @@
-Cercospora alstoniae Ts. Kobay. & E.D. Guzmán SPECIES
-=======
+# Cercospora alstoniae Ts. Kobay. & E.D. Guzmán SPECIES
 
 #### Status
 ACCEPTED

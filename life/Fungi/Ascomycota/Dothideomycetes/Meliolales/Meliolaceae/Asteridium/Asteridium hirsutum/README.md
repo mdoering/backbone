@@ -1,5 +1,4 @@
-Asteridium hirsutum Speg. SPECIES
-=======
+# Asteridium hirsutum Speg. SPECIES
 
 #### Status
 ACCEPTED

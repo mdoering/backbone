@@ -1,5 +1,4 @@
-Lycoperdon papillatum f. papillatum FORM
-=======
+# Lycoperdon papillatum Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fung. Bavar. Palat. 4: 127 (1774)
 
 #### Original name
-Lycoperdon papillatum f. papillatum
+Lycoperdon papillatum Schaeff.
 
 ### Remarks
 null

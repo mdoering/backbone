@@ -1,5 +1,4 @@
-Scutellinia jilinensis Z.H. Yu & W.Y. Zhuang SPECIES
-=======
+# Scutellinia jilinensis Z.H. Yu & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

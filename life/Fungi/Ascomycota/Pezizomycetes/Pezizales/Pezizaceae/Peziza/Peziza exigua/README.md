@@ -1,5 +1,4 @@
-Peziza exigua Cooke SPECIES
-=======
+# Peziza exigua Cooke SPECIES
 
 #### Status
 ACCEPTED

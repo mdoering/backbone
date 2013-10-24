@@ -1,5 +1,4 @@
-Phyllosticta gazaniae V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Phyllosticta gazaniae V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
 ACCEPTED

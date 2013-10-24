@@ -1,5 +1,4 @@
-Trichothyriomyces Bat. & H. Maia GENUS
-=======
+# Trichothyriomyces Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

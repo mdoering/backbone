@@ -1,5 +1,4 @@
-Isaria verticillata G.F. Atk. SPECIES
-=======
+# Isaria verticillata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

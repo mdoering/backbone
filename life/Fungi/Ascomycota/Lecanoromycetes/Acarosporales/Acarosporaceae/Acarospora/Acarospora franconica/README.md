@@ -1,5 +1,4 @@
-Acarospora franconica H. Magn. SPECIES
-=======
+# Acarospora franconica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

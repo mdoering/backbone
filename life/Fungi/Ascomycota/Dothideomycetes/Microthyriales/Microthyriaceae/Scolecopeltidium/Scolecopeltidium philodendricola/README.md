@@ -1,5 +1,4 @@
-Scolecopeltidium philodendricola Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium philodendricola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

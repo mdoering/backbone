@@ -1,5 +1,4 @@
-Phomatospora coprophila M.J. Richardson, 1972 SPECIES
-=======
+# Phomatospora coprophila M.J. Richardson, 1972 SPECIES
 
 #### Status
 ACCEPTED

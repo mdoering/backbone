@@ -1,17 +1,16 @@
-Passalora stepthaniae (Sawada) Poonam Srivast. SPECIES
-=======
+# Passalora stephaniae Goh & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Rep. China 4(2-3): 1-23 (1989)
 
 #### Original name
-Cercosporidium stephaniae Sawada
+Passalora stephaniae Goh & W.H. Hsieh
 
 ### Remarks
 null

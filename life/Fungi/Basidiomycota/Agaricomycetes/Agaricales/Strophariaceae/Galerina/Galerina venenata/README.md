@@ -1,5 +1,4 @@
-Galerina venenata A.H. Sm., 1953 SPECIES
-=======
+# Galerina venenata A.H. Sm., 1953 SPECIES
 
 #### Status
 ACCEPTED

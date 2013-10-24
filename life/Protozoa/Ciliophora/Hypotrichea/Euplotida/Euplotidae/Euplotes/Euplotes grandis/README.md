@@ -1,5 +1,4 @@
-Euplotes grandis Fromentel, 1876 SPECIES
-=======
+# Euplotes grandis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

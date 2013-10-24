@@ -1,17 +1,16 @@
-Pleurotus applicatus f. applicatus FORM
-=======
+# Resupinatus applicatus (Batsch) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 105 (1871)
+Nat. Arr. Brit. Pl. (London) 1: 617 (1821)
 
 #### Original name
-Pleurotus applicatus f. applicatus
+Agaricus applicatus Batsch, 1786
 
 ### Remarks
 null

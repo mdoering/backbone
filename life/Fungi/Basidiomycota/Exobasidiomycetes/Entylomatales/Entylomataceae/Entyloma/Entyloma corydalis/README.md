@@ -1,5 +1,4 @@
-Entyloma corydalis de Bary SPECIES
-=======
+# Entyloma corydalis de Bary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma scrupososporum Altés, G. Moreno & Hauskn. SPECIES
-=======
+# Tulostoma scrupososporum Altés, G. Moreno & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

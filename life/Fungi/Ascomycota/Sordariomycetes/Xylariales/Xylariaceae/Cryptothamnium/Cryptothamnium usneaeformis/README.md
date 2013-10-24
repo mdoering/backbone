@@ -1,5 +1,4 @@
-Cryptothamnium usneaeformis Wallr. SPECIES
-=======
+# Cryptothamnium usneaeformis Wallr. SPECIES
 
 #### Status
 ACCEPTED

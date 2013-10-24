@@ -1,5 +1,4 @@
-Septoria albomaculans Syd. {?} SPECIES
-=======
+# Septoria albomaculans Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

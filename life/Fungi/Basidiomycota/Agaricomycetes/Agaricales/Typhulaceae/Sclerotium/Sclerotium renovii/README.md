@@ -1,5 +1,4 @@
-Sclerotium renovii Roberge SPECIES
-=======
+# Sclerotium renovii Roberge SPECIES
 
 #### Status
 ACCEPTED

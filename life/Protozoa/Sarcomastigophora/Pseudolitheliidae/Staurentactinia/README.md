@@ -1,5 +1,4 @@
-Staurentactinia Schwartzapfel & Holdsworth, 1996 GENUS
-=======
+# Staurentactinia Schwartzapfel & Holdsworth, 1996 GENUS
 
 #### Status
 ACCEPTED

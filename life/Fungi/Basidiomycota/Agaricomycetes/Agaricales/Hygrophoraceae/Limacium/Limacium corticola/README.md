@@ -1,5 +1,4 @@
-Limacium corticola Feltgen SPECIES
-=======
+# Limacium corticola Feltgen SPECIES
 
 #### Status
 ACCEPTED

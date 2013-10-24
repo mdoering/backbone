@@ -1,5 +1,4 @@
-Cetraria melanothrix (Mont.) Mont. SPECIES
-=======
+# Cetraria melanothrix (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

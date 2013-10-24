@@ -1,5 +1,4 @@
-Isaria thelephoroides Bres. SPECIES
-=======
+# Isaria thelephoroides Bres. SPECIES
 
 #### Status
 ACCEPTED

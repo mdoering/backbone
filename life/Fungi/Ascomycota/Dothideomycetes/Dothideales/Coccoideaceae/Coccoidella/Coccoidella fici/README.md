@@ -1,5 +1,4 @@
-Coccoidella fici (Henn.) Theiss. & Syd. SPECIES
-=======
+# Coccoidella fici (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

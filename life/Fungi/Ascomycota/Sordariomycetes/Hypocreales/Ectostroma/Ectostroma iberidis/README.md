@@ -1,5 +1,4 @@
-Ectostroma iberidis Klotzsch SPECIES
-=======
+# Ectostroma iberidis Klotzsch SPECIES
 
 #### Status
 ACCEPTED

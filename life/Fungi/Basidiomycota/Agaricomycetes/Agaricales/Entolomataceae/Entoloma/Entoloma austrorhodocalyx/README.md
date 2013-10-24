@@ -1,5 +1,4 @@
-Entoloma austrorhodocalyx G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma austrorhodocalyx G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohydnum guepinioides Rick SPECIES
-=======
+# Pseudohydnum guepinioides Rick SPECIES
 
 #### Status
 ACCEPTED

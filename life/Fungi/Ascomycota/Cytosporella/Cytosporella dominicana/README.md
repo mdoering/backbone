@@ -1,5 +1,4 @@
-Cytosporella dominicana (Cif. & Gonz. Frag.) Cif. SPECIES
-=======
+# Cytosporella dominicana (Cif. & Gonz. Frag.) Cif. SPECIES
 
 #### Status
 ACCEPTED

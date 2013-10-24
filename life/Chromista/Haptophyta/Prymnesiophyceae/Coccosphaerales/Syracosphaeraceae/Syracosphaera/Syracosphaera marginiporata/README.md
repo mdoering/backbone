@@ -1,5 +1,4 @@
-Syracosphaera marginiporata M. Knappertsbusch SPECIES
-=======
+# Syracosphaera marginiporata M. Knappertsbusch SPECIES
 
 #### Status
 ACCEPTED

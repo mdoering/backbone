@@ -1,5 +1,4 @@
-Volvariella perciliata Courtec. SPECIES
-=======
+# Volvariella perciliata Courtec. SPECIES
 
 #### Status
 ACCEPTED

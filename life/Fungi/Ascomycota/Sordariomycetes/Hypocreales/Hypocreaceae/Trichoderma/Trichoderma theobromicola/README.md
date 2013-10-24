@@ -1,5 +1,4 @@
-Trichoderma theobromicola Samuels & H.C. Evans SPECIES
-=======
+# Trichoderma theobromicola Samuels & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

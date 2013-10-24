@@ -1,5 +1,4 @@
-Torula culmicola Corda SPECIES
-=======
+# Torula culmicola Corda SPECIES
 
 #### Status
 ACCEPTED

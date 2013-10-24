@@ -1,5 +1,4 @@
-Mycena jalapensis Murrill SPECIES
-=======
+# Mycena jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

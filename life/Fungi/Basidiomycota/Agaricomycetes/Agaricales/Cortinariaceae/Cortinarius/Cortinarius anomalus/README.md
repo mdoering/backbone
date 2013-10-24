@@ -1,17 +1,16 @@
-Cortinarius epsomiensis var. epsomiensis VARIETY
-=======
+# Cortinarius anomalus (Pers.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist, Leeds 147 (1958)
+in Bidaud, Henry, Moënne-Loccoz & Reumaux, Epicr. syst. mycol. (Upsaliae) 286 (1838)
 
 #### Original name
-Cortinarius epsomiensis var. epsomiensis
+Agaricus anomalus Pers., 1796
 
 ### Remarks
 null

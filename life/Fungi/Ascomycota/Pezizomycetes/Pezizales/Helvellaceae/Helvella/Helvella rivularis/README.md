@@ -1,5 +1,4 @@
-Helvella rivularis Dissing & Sivertsen SPECIES
-=======
+# Helvella rivularis Dissing & Sivertsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora micrura (Speg.) Niessl SPECIES
-=======
+# Podospora micrura (Speg.) Niessl SPECIES
 
 #### Status
 ACCEPTED

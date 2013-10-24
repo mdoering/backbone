@@ -1,5 +1,4 @@
-Coscinopeltis argentinensis Speg. SPECIES
-=======
+# Coscinopeltis argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

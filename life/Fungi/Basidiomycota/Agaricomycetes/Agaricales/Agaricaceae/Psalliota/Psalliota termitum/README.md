@@ -1,5 +1,4 @@
-Psalliota termitum L.M. Dufour SPECIES
-=======
+# Psalliota termitum L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

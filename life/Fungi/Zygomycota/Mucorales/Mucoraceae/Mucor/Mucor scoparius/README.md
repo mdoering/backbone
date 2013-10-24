@@ -1,5 +1,4 @@
-Mucor scoparius Retz. SPECIES
-=======
+# Mucor scoparius Retz. SPECIES
 
 #### Status
 ACCEPTED

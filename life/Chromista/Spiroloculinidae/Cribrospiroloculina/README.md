@@ -1,5 +1,4 @@
-Cribrospiroloculina McCulloch, 1977 GENUS
-=======
+# Cribrospiroloculina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

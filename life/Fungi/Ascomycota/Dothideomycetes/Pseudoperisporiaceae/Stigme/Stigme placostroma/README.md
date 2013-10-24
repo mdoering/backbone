@@ -1,5 +1,4 @@
-Stigme placostroma Viégas SPECIES
-=======
+# Stigme placostroma Viégas SPECIES
 
 #### Status
 ACCEPTED

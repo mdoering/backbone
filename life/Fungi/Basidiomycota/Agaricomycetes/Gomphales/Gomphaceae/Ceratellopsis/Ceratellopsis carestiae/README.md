@@ -1,5 +1,4 @@
-Ceratellopsis carestiae (Ces. ex Bres. & Sacc.) Corner SPECIES
-=======
+# Ceratellopsis carestiae (Ces. ex Bres. & Sacc.) Corner SPECIES
 
 #### Status
 ACCEPTED

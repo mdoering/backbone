@@ -1,5 +1,4 @@
-Diplodina patouillardii Sacc. & P. Syd. SPECIES
-=======
+# Diplodina patouillardii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

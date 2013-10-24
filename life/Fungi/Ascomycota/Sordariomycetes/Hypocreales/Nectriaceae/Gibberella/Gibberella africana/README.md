@@ -1,5 +1,4 @@
-Gibberella africana Saccas SPECIES
-=======
+# Gibberella africana Saccas SPECIES
 
 #### Status
 ACCEPTED

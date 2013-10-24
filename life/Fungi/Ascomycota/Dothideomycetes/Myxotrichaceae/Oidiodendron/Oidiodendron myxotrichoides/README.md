@@ -1,5 +1,4 @@
-Oidiodendron myxotrichoides M. Calduch, Gené & Guarro, 2002 SPECIES
-=======
+# Oidiodendron myxotrichoides M. Calduch, Gené & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

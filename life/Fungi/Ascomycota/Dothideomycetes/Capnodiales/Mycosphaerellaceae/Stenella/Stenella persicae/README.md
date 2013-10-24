@@ -1,5 +1,4 @@
-Stenella persicae T. Yokoy. & Nasu SPECIES
-=======
+# Stenella persicae T. Yokoy. & Nasu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia cercidia SPECIES
-=======
+# Parmelia cercidia SPECIES
 
 #### Status
 ACCEPTED

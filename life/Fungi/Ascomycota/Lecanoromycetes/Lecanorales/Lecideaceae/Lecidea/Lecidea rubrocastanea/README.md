@@ -1,5 +1,4 @@
-Lecidea rubrocastanea T. Sprib. & Printzen SPECIES
-=======
+# Lecidea rubrocastanea T. Sprib. & Printzen SPECIES
 
 #### Status
 ACCEPTED

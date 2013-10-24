@@ -1,5 +1,4 @@
-Laestadia tuscula Pass. SPECIES
-=======
+# Laestadia tuscula Pass. SPECIES
 
 #### Status
 ACCEPTED

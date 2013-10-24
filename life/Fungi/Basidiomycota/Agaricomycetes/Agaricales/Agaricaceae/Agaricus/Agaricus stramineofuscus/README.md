@@ -1,5 +1,4 @@
-Agaricus stramineofuscus Secr. SPECIES
-=======
+# Agaricus stramineofuscus Secr. SPECIES
 
 #### Status
 ACCEPTED

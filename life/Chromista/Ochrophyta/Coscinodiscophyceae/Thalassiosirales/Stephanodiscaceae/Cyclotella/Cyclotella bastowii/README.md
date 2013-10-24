@@ -1,5 +1,4 @@
-Cyclotella bastowii J.R.Carter SPECIES
-=======
+# Cyclotella bastowii J.R.Carter SPECIES
 
 #### Status
 ACCEPTED

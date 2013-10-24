@@ -1,5 +1,4 @@
-Puccinia loudetiae Wakef. & Hansf. SPECIES
-=======
+# Puccinia loudetiae Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

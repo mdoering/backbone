@@ -1,5 +1,4 @@
-Karstenula americana (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Karstenula americana (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pseudovulgaris Velen. SPECIES
-=======
+# Mycena pseudovulgaris Velen. SPECIES
 
 #### Status
 ACCEPTED

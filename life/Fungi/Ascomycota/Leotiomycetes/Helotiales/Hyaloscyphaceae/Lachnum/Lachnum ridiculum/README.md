@@ -1,5 +1,4 @@
-Lachnum ridiculum Kirschst. SPECIES
-=======
+# Lachnum ridiculum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

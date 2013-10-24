@@ -1,5 +1,4 @@
-Agaricus plancus Fr. SPECIES
-=======
+# Agaricus plancus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium pruni Hollós SPECIES
-=======
+# Gloeosporium pruni Hollós SPECIES
 
 #### Status
 ACCEPTED

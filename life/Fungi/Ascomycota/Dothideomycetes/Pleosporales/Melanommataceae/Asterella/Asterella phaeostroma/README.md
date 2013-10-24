@@ -1,5 +1,4 @@
-Asterella phaeostroma (Cooke) Sacc. SPECIES
-=======
+# Asterella phaeostroma (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

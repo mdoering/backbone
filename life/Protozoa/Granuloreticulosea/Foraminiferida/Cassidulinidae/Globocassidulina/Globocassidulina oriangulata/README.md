@@ -1,5 +1,4 @@
-Globocassidulina oriangulata Belford, 1966 SPECIES
-=======
+# Globocassidulina oriangulata Belford, 1966 SPECIES
 
 #### Status
 ACCEPTED

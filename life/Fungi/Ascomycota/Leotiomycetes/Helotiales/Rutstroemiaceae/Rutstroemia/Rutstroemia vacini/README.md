@@ -1,5 +1,4 @@
-Rutstroemia vacini Velen. SPECIES
-=======
+# Rutstroemia vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

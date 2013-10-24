@@ -1,5 +1,4 @@
-Cycloclasticus Dyksterhouse, Gray, Herwig, Lara & Staley, 1995 GENUS
-=======
+# Cycloclasticus Dyksterhouse, Gray, Herwig, Lara & Staley, 1995 GENUS
 
 #### Status
 ACCEPTED

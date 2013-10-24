@@ -1,5 +1,4 @@
-Cothurnia triangula Precht, 1935 SPECIES
-=======
+# Cothurnia triangula Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synnemadiplodia marantae (Speg.) Zambett. SPECIES
-=======
+# Synnemadiplodia marantae (Speg.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

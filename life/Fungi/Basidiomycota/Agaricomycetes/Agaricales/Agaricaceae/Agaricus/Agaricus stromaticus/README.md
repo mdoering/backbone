@@ -1,5 +1,4 @@
-Agaricus stromaticus Cooke & Massee SPECIES
-=======
+# Agaricus stromaticus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

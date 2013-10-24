@@ -1,5 +1,4 @@
-Nosema lutzi SPECIES
-=======
+# Nosema lutzi SPECIES
 
 #### Status
 ACCEPTED

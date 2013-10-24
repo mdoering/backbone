@@ -1,5 +1,4 @@
-Leucocoprinus affinis (Velen.) Locq. SPECIES
-=======
+# Leucocoprinus affinis (Velen.) Locq. SPECIES
 
 #### Status
 ACCEPTED

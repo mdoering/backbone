@@ -1,5 +1,4 @@
-Meliola rosae (Hansf.) Cif. SPECIES
-=======
+# Meliola rosae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

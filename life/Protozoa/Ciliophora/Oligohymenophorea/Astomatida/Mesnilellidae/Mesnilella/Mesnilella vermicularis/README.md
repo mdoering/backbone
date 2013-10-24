@@ -1,5 +1,4 @@
-Mesnilella vermicularis SPECIES
-=======
+# Mesnilella vermicularis SPECIES
 
 #### Status
 ACCEPTED

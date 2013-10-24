@@ -1,5 +1,4 @@
-Cercospora consociata G. Winter SPECIES
-=======
+# Cercospora consociata G. Winter SPECIES
 
 #### Status
 ACCEPTED

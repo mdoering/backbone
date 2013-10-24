@@ -1,5 +1,4 @@
-Psathyrella circellatipes var. circellatipes VARIETY
-=======
+# Psathyrella circellatipes Benoist SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 15: 163 (1889)
 
 #### Original name
-Psathyrella circellatipes var. circellatipes
+Psathyrella circellatipes Benoist
 
 ### Remarks
 null

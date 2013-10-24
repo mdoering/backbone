@@ -1,5 +1,4 @@
-Conida caerulescens (Almq.) Zopf SPECIES
-=======
+# Conida caerulescens (Almq.) Zopf SPECIES
 
 #### Status
 ACCEPTED

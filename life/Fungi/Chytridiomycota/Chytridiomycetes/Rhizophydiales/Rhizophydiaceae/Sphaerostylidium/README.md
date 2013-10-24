@@ -1,5 +1,4 @@
-Sphaerostylidium GENUS
-=======
+# Sphaerostylidium GENUS
 
 #### Status
 ACCEPTED

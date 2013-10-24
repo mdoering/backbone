@@ -1,17 +1,16 @@
-Boletus rostkovii Fr. SPECIES
-=======
+# Boletus rostkowii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hymenomyc. eur. (Upsaliae) 521 (1874)
 
 #### Original name
-Boletus rostkovii Fr.
+Boletus rostkowii Fr.
 
 ### Remarks
 null

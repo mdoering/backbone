@@ -1,5 +1,4 @@
-Asterostomella combreti Bat. & Cif. SPECIES
-=======
+# Asterostomella combreti Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

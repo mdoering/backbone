@@ -1,5 +1,4 @@
-Omphalia novissima Speg. SPECIES
-=======
+# Omphalia novissima Speg. SPECIES
 
 #### Status
 ACCEPTED

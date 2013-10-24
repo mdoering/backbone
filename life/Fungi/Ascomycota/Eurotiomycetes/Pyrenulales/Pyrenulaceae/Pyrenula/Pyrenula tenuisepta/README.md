@@ -1,5 +1,4 @@
-Pyrenula tenuisepta R. C. Harris SPECIES
-=======
+# Pyrenula tenuisepta R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

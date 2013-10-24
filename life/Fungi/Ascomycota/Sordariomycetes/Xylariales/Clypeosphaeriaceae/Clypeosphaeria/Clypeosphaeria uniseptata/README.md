@@ -1,5 +1,4 @@
-Clypeosphaeria uniseptata K.M. Tsui, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Clypeosphaeria uniseptata K.M. Tsui, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

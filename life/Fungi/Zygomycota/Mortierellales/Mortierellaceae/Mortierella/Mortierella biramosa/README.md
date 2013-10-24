@@ -1,5 +1,4 @@
-Mortierella biramosa Tiegh., 1875 SPECIES
-=======
+# Mortierella biramosa Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textulariopsis Banner & Pereira, 1981 GENUS
-=======
+# Textulariopsis Banner & Pereira, 1981 GENUS
 
 #### Status
 ACCEPTED

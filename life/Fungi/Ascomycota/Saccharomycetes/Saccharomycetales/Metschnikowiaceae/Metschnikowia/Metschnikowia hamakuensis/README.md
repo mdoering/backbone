@@ -1,5 +1,4 @@
-Metschnikowia hamakuensis Lachance, 2005 SPECIES
-=======
+# Metschnikowia hamakuensis Lachance, 2005 SPECIES
 
 #### Status
 ACCEPTED

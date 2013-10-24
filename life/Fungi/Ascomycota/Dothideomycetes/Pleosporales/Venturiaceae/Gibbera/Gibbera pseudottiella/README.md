@@ -1,5 +1,4 @@
-Gibbera pseudottiella Sivan. SPECIES
-=======
+# Gibbera pseudottiella Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nitschkia rugulosa (Rick) Höhn. SPECIES
-=======
+# Nitschkia rugulosa (Rick) Höhn. SPECIES
 
 #### Status
 ACCEPTED

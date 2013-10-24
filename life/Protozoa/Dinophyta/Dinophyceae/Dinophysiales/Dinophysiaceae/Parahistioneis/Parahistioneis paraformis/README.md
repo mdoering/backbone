@@ -1,5 +1,4 @@
-Parahistioneis paraformis Kofoid & Skogsberg SPECIES
-=======
+# Parahistioneis paraformis Kofoid & Skogsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sepultaria grisea Clem. SPECIES
-=======
+# Sepultaria grisea Clem. SPECIES
 
 #### Status
 ACCEPTED

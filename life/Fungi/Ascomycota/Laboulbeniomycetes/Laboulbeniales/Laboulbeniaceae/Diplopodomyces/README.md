@@ -1,5 +1,4 @@
-Diplopodomyces W. Rossi & Balazuc GENUS
-=======
+# Diplopodomyces W. Rossi & Balazuc GENUS
 
 #### Status
 ACCEPTED

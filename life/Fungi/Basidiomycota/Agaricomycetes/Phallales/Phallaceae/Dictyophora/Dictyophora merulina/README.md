@@ -1,5 +1,4 @@
-Dictyophora merulina Berk. SPECIES
-=======
+# Dictyophora merulina Berk. SPECIES
 
 #### Status
 ACCEPTED

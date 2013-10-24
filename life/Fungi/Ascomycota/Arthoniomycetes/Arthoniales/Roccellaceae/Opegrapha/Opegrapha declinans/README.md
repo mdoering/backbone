@@ -1,5 +1,4 @@
-Opegrapha declinans Müll. Arg. SPECIES
-=======
+# Opegrapha declinans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

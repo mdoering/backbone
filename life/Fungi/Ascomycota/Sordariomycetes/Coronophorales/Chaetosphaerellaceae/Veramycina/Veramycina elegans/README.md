@@ -1,17 +1,16 @@
-Veramyces elagans Subram. SPECIES
-=======
+# Veramycina elegans Subram., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 20/21(1-2): 58 (1995)
 
 #### Original name
-Veramyces elagans Subram.
+Veramycina elegans Subram., 1995
 
 ### Remarks
 null

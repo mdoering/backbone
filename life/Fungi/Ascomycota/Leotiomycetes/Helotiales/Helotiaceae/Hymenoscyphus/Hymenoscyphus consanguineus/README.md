@@ -1,5 +1,4 @@
-Hymenoscyphus consanguineus (Ellis & Everh.) M.P. Sharma SPECIES
-=======
+# Hymenoscyphus consanguineus (Ellis & Everh.) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

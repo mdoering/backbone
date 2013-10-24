@@ -1,5 +1,4 @@
-Fuscoporia tenerrima (Berk. & Ravenel) Murrill SPECIES
-=======
+# Fuscoporia tenerrima (Berk. & Ravenel) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium depressulum (Servít) Servít SPECIES
-=======
+# Amphoridium depressulum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

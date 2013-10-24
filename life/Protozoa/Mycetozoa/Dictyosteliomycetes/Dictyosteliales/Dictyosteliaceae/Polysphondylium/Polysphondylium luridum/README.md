@@ -1,5 +1,4 @@
-Polysphondylium luridum G. Kauffman, Cavender & M. Hohl, 1988 SPECIES
-=======
+# Polysphondylium luridum G. Kauffman, Cavender & M. Hohl, 1988 SPECIES
 
 #### Status
 ACCEPTED

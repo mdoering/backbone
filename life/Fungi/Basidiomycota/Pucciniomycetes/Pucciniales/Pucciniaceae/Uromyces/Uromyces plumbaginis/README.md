@@ -1,5 +1,4 @@
-Uromyces plumbaginis W.G. Schneid. SPECIES
-=======
+# Uromyces plumbaginis W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

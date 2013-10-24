@@ -1,5 +1,4 @@
-Torula orthoclada Mont. SPECIES
-=======
+# Torula orthoclada Mont. SPECIES
 
 #### Status
 ACCEPTED

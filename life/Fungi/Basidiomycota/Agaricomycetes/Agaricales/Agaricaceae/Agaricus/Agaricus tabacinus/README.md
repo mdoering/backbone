@@ -1,5 +1,4 @@
-Agaricus tabacinus DC. ex Fr. SPECIES
-=======
+# Agaricus tabacinus DC. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

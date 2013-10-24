@@ -1,5 +1,4 @@
-Dothidea prostii Desm. SPECIES
-=======
+# Dothidea prostii Desm. SPECIES
 
 #### Status
 ACCEPTED

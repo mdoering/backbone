@@ -1,5 +1,4 @@
-Elaphomyces tuberculatus A S. Xu SPECIES
-=======
+# Elaphomyces tuberculatus A S. Xu SPECIES
 
 #### Status
 ACCEPTED

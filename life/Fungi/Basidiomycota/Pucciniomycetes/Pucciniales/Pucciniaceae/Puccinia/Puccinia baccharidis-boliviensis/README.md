@@ -1,5 +1,4 @@
-Puccinia baccharidis-boliviensis Berndt SPECIES
-=======
+# Puccinia baccharidis-boliviensis Berndt SPECIES
 
 #### Status
 ACCEPTED

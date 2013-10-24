@@ -1,5 +1,4 @@
-Cercosporella nicolai Bubák SPECIES
-=======
+# Cercosporella nicolai Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminaria sachalinensis (Miyabe) Miyabe SPECIES
-=======
+# Laminaria sachalinensis (Miyabe) Miyabe SPECIES
 
 #### Status
 ACCEPTED

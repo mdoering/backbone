@@ -1,5 +1,4 @@
-Catillaria alba Coppins & Vezda SPECIES
-=======
+# Catillaria alba Coppins & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongostaurus Swanberg, Anderson & Bennett, 1985 GENUS
-=======
+# Spongostaurus Swanberg, Anderson & Bennett, 1985 GENUS
 
 #### Status
 ACCEPTED

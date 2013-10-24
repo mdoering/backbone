@@ -1,5 +1,4 @@
-Dadayiella joergenseni Kofoid & Campbell, 1929 SPECIES
-=======
+# Dadayiella joergenseni Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

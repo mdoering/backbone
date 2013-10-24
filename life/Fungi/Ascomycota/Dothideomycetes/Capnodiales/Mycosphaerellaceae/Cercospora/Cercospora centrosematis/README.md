@@ -1,17 +1,16 @@
-Cercospora centrosemae Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora centrosematis Chupp & A.S. Mull. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Soc. Venez. Cienc. Nat. 8: 40 (1942)
 
 #### Original name
-Cercospora centrosemae Chupp & A.S. Mull.
+Cercospora centrosematis Chupp & A.S. Mull.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coenogonium isidiigerum (Vezda & Osorio) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium isidiigerum (Vezda & Osorio) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

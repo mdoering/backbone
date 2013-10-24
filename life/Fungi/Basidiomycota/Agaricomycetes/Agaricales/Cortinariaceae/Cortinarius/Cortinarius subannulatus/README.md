@@ -1,5 +1,4 @@
-Cortinarius subannulatus Jul. Schäff. & M.M. Moser SPECIES
-=======
+# Cortinarius subannulatus Jul. Schäff. & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

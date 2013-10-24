@@ -1,5 +1,4 @@
-Asteridium heteropteridis Henn. SPECIES
-=======
+# Asteridium heteropteridis Henn. SPECIES
 
 #### Status
 ACCEPTED

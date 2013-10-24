@@ -1,5 +1,4 @@
-Chaetomium undulatum Bainier SPECIES
-=======
+# Chaetomium undulatum Bainier SPECIES
 
 #### Status
 ACCEPTED

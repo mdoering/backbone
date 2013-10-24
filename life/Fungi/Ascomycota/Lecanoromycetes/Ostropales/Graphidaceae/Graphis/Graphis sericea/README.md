@@ -1,5 +1,4 @@
-Graphis sericea (Eschw.) Nyl. SPECIES
-=======
+# Graphis sericea (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium medium var. medium VARIETY
-=======
+# Leptothyrium medium SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Grevillea 13(no. 68): 98 (1885)
+null
 
 #### Original name
-Leptothyrium medium var. medium
+null
 
 ### Remarks
 null

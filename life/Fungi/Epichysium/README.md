@@ -1,5 +1,4 @@
-Epichysium Tode GENUS
-=======
+# Epichysium Tode GENUS
 
 #### Status
 ACCEPTED

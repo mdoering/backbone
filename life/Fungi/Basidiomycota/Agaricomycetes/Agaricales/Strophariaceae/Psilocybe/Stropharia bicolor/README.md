@@ -1,5 +1,4 @@
-Stropharia bicolor Pegler SPECIES
-=======
+# Stropharia bicolor Pegler SPECIES
 
 #### Status
 ACCEPTED

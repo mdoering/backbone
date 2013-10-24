@@ -1,5 +1,4 @@
-Camarosporulum trevoae Speg. SPECIES
-=======
+# Camarosporulum trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronophora thelcarpoidea Höhn. SPECIES
-=======
+# Coronophora thelcarpoidea Höhn. SPECIES
 
 #### Status
 ACCEPTED

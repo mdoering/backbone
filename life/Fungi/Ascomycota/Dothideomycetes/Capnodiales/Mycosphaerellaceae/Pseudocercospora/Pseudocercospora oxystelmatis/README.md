@@ -1,5 +1,4 @@
-Pseudocercospora oxystelmatis (S.A. Khan & M. Kamal) Kamal, A.N. Rai & A.S. Moses SPECIES
-=======
+# Pseudocercospora oxystelmatis (S.A. Khan & M. Kamal) Kamal, A.N. Rai & A.S. Moses SPECIES
 
 #### Status
 ACCEPTED

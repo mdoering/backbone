@@ -1,5 +1,4 @@
-Phyllachorella schistocarphae F. Stevens SPECIES
-=======
+# Phyllachorella schistocarphae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

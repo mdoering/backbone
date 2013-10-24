@@ -1,5 +1,4 @@
-Lambertella indica M.P. Sharma SPECIES
-=======
+# Lambertella indica M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

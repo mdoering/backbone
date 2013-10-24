@@ -1,5 +1,4 @@
-Graphina macella (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina macella (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

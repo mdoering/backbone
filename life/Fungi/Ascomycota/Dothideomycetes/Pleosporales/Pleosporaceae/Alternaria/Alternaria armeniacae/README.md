@@ -1,5 +1,4 @@
-Alternaria armeniacae T.Y. Zhang, M. Zhang & W.H. Yang SPECIES
-=======
+# Alternaria armeniacae T.Y. Zhang, M. Zhang & W.H. Yang SPECIES
 
 #### Status
 ACCEPTED

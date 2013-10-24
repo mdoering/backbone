@@ -1,5 +1,4 @@
-Trechispora canariensis Ryvarden & Liberta, 1978 SPECIES
-=======
+# Trechispora canariensis Ryvarden & Liberta, 1978 SPECIES
 
 #### Status
 ACCEPTED

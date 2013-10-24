@@ -1,5 +1,4 @@
-Acarospora rufa (Vain.) H. Magn. SPECIES
-=======
+# Acarospora rufa (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

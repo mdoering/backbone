@@ -1,5 +1,4 @@
-Podospora longispora (Bat. & Pontual) N. Lundq. SPECIES
-=======
+# Podospora longispora (Bat. & Pontual) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

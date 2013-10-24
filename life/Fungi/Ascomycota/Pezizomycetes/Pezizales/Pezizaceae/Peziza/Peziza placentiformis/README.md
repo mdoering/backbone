@@ -1,5 +1,4 @@
-Peziza placentiformis Niessl SPECIES
-=======
+# Peziza placentiformis Niessl SPECIES
 
 #### Status
 ACCEPTED

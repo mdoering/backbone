@@ -1,5 +1,4 @@
-Macrophoma pachysandrae W.G. Hutch. SPECIES
-=======
+# Macrophoma pachysandrae W.G. Hutch. SPECIES
 
 #### Status
 ACCEPTED

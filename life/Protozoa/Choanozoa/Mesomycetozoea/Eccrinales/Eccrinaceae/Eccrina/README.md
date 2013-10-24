@@ -1,5 +1,4 @@
-Eccrina GENUS
-=======
+# Eccrina GENUS
 
 #### Status
 ACCEPTED

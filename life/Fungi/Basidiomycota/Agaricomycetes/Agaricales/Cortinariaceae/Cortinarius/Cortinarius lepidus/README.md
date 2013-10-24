@@ -1,5 +1,4 @@
-Cortinarius lepidus Moënne-Locc., 1997 SPECIES
-=======
+# Cortinarius lepidus Moënne-Locc., 1997 SPECIES
 
 #### Status
 ACCEPTED

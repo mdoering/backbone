@@ -1,5 +1,4 @@
-Cladosporium apiculatum Berk. SPECIES
-=======
+# Cladosporium apiculatum Berk. SPECIES
 
 #### Status
 ACCEPTED

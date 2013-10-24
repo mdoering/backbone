@@ -1,5 +1,4 @@
-Mitrolithus G. Deflandre in G. Deflandre & C. Fert, 1954 GENUS
-=======
+# Mitrolithus G. Deflandre in G. Deflandre & C. Fert, 1954 GENUS
 
 #### Status
 ACCEPTED

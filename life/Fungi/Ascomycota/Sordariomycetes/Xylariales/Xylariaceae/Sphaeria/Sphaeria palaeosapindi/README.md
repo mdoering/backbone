@@ -1,5 +1,4 @@
-Sphaeria palaeosapindi Ettingsh. SPECIES
-=======
+# Sphaeria palaeosapindi Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia cretica Timdal SPECIES
-=======
+# Toninia cretica Timdal SPECIES
 
 #### Status
 ACCEPTED

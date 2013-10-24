@@ -1,5 +1,4 @@
-Asymmetricospora calamicola J. Fröhl. & K.D. Hyde, 1998 SPECIES
-=======
+# Asymmetricospora calamicola J. Fröhl. & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

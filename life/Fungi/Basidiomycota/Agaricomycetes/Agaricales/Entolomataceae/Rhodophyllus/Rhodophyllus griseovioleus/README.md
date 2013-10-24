@@ -1,5 +1,4 @@
-Rhodophyllus griseovioleus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus griseovioleus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

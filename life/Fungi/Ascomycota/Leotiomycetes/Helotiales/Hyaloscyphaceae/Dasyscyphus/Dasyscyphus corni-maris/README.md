@@ -1,8 +1,7 @@
-Dasyscypha corni-maris Höhn. SPECIES
-=======
+# Dasyscyphus corni-maris Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha corni-maris Höhn.
+Dasyscyphus corni-maris Höhn.
 
 ### Remarks
 null

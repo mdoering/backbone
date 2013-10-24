@@ -1,5 +1,4 @@
-Sphaerocongregus M. Moorman, 1974 GENUS
-=======
+# Sphaerocongregus M. Moorman, 1974 GENUS
 
 #### Status
 ACCEPTED

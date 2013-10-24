@@ -1,5 +1,4 @@
-Crocicreas corticola Bonord. SPECIES
-=======
+# Crocicreas corticola Bonord. SPECIES
 
 #### Status
 ACCEPTED

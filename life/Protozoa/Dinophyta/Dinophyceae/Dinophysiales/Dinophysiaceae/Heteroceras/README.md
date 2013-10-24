@@ -1,5 +1,4 @@
-Heteroceras Forti, 1901 GENUS
-=======
+# Heteroceras Forti, 1901 GENUS
 
 #### Status
 ACCEPTED

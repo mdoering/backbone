@@ -1,5 +1,4 @@
-Agaricus anthomyces Berk. & Broome SPECIES
-=======
+# Agaricus anthomyces Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

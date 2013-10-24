@@ -1,5 +1,4 @@
-Sporocybe pusilla Hallier SPECIES
-=======
+# Sporocybe pusilla Hallier SPECIES
 
 #### Status
 ACCEPTED

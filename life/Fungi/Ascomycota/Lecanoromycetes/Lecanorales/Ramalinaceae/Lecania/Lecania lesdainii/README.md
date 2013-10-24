@@ -1,5 +1,4 @@
-Lecania lesdainii (Samp.) Zahlbr. SPECIES
-=======
+# Lecania lesdainii (Samp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

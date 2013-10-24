@@ -1,5 +1,4 @@
-Pyrenopsis tenuatula Nyl. SPECIES
-=======
+# Pyrenopsis tenuatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

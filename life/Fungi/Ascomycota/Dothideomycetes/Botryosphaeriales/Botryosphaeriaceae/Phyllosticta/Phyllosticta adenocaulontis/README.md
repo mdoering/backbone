@@ -1,5 +1,4 @@
-Phyllosticta adenocaulontis Miura SPECIES
-=======
+# Phyllosticta adenocaulontis Miura SPECIES
 
 #### Status
 ACCEPTED

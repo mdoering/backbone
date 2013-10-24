@@ -1,5 +1,4 @@
-Aecidium tissae Ellis & Everh. SPECIES
-=======
+# Aecidium tissae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

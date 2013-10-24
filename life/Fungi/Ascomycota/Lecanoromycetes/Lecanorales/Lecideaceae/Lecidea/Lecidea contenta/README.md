@@ -1,5 +1,4 @@
-Lecidea contenta H. Magn. SPECIES
-=======
+# Lecidea contenta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

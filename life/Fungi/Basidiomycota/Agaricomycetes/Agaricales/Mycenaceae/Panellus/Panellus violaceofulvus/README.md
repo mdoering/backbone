@@ -1,8 +1,7 @@
-Scytinotus violaceofulvus (Batsch) Courtec., 2008 SPECIES
-=======
+# Panellus violaceofulvus (Batsch) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

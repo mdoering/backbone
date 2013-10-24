@@ -1,5 +1,4 @@
-Ramularia epilobii-palustris Allesch., 1893 SPECIES
-=======
+# Ramularia epilobii-palustris Allesch., 1893 SPECIES
 
 #### Status
 ACCEPTED

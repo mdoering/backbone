@@ -1,5 +1,4 @@
-Schizopeltis olivacea (Höhn.) Bat. SPECIES
-=======
+# Schizopeltis olivacea (Höhn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

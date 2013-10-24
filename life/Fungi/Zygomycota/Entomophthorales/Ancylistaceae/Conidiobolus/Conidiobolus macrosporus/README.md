@@ -1,5 +1,4 @@
-Conidiobolus macrosporus Sriniv. & Thirum. SPECIES
-=======
+# Conidiobolus macrosporus Sriniv. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

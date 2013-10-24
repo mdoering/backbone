@@ -1,5 +1,4 @@
-Cyrtohymena candens subsp. candens (Kahl, 1932) Foissner, 1989 SUBSPECIES
-=======
+# Cyrtohymena candens Kahl SPECIES
 
 #### Status
 ACCEPTED

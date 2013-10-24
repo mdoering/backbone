@@ -1,17 +1,16 @@
-Montoyella bodini Castell. & Chalm. SPECIES
-=======
+# Montoyella bodinii Castell. & Chalm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Manual of tropical medicine (London) 612 (1910)
 
 #### Original name
-Montoyella bodini Castell. & Chalm.
+Montoyella bodinii Castell. & Chalm.
 
 ### Remarks
 null

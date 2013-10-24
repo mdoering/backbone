@@ -1,5 +1,4 @@
-Lecanora nitens (Pers.) Ach. SPECIES
-=======
+# Lecanora nitens (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

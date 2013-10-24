@@ -1,5 +1,4 @@
-Micropuccinia xylorrhizae (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia xylorrhizae (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

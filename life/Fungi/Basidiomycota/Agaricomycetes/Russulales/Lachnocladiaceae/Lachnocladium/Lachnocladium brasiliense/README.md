@@ -1,14 +1,13 @@
-Lachnocladium brasiliensis (Lév.) Pat. SPECIES
-=======
+# Lachnocladium brasiliense (Lév.) Pat., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 29: 572 (1902)
 
 #### Original name
 Eriocladus brasiliensis Lév., 1846

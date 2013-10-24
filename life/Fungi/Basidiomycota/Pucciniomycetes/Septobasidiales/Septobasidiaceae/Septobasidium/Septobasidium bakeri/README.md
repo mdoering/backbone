@@ -1,5 +1,4 @@
-Septobasidium bakeri Pat. SPECIES
-=======
+# Septobasidium bakeri Pat. SPECIES
 
 #### Status
 ACCEPTED

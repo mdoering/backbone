@@ -1,5 +1,4 @@
-Ceraceopsis Hjortstam & Ryvarden, 2007 GENUS
-=======
+# Ceraceopsis Hjortstam & Ryvarden, 2007 GENUS
 
 #### Status
 ACCEPTED

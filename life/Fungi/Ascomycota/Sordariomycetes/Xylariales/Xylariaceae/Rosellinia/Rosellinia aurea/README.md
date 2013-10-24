@@ -1,5 +1,4 @@
-Rosellinia aurea McAlpine SPECIES
-=======
+# Rosellinia aurea McAlpine SPECIES
 
 #### Status
 ACCEPTED

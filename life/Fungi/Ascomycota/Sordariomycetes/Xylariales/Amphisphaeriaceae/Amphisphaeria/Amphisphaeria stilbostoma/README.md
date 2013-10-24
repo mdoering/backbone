@@ -1,5 +1,4 @@
-Amphisphaeria stilbostoma Niessl SPECIES
-=======
+# Amphisphaeria stilbostoma Niessl SPECIES
 
 #### Status
 ACCEPTED

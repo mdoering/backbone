@@ -1,5 +1,4 @@
-Phyllachora alamoi Chardón, 1934 SPECIES
-=======
+# Phyllachora alamoi Chardón, 1934 SPECIES
 
 #### Status
 DOUBTFUL

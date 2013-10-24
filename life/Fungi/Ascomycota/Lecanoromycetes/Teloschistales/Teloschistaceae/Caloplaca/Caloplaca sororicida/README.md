@@ -1,5 +1,4 @@
-Caloplaca sororicida M. Steiner & Poelt SPECIES
-=======
+# Caloplaca sororicida M. Steiner & Poelt SPECIES
 
 #### Status
 ACCEPTED

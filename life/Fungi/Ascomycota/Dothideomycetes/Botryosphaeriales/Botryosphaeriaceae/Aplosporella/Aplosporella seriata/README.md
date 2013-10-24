@@ -1,17 +1,16 @@
-Haplosporella seriata (Peck) Petr. & Syd. SPECIES
-=======
+# Aplosporella seriata Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Repert. Spec. Nov. Regni Veg. Beih. 42: 88 (1926)
 
 #### Original name
-null
+Aplosporella seriata Ellis & Everh.
 
 ### Remarks
 null

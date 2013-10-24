@@ -1,5 +1,4 @@
-Guepinia canaliculata Fr. SPECIES
-=======
+# Guepinia canaliculata Fr. SPECIES
 
 #### Status
 ACCEPTED

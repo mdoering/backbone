@@ -1,5 +1,4 @@
-Elphidium botanense Albani, 1981 SPECIES
-=======
+# Elphidium botanense Albani, 1981 SPECIES
 
 #### Status
 ACCEPTED

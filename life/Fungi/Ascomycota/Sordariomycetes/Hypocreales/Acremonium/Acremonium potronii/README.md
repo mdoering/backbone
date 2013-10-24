@@ -1,5 +1,4 @@
-Acremonium potronii Vuill., 1910 SPECIES
-=======
+# Acremonium potronii Vuill., 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella bacillifera P. Karst. SPECIES
-=======
+# Sphaerella bacillifera P. Karst. SPECIES
 
 #### Status
 ACCEPTED

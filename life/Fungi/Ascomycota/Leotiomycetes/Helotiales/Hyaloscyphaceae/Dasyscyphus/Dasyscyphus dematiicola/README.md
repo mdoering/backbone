@@ -1,5 +1,4 @@
-Dasyscyphus dematiicola (Berk. & Broome) SPECIES
-=======
+# Dasyscyphus dematiicola (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

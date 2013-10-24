@@ -1,5 +1,4 @@
-Trypethelium oligocarpum Müll. Arg. SPECIES
-=======
+# Trypethelium oligocarpum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxacium eburneum (Velen.) M.M. Moser SPECIES
-=======
+# Myxacium eburneum (Velen.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

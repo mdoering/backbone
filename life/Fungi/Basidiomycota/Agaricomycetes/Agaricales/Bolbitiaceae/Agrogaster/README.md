@@ -1,5 +1,4 @@
-Agrogaster D.A. Reid GENUS
-=======
+# Agrogaster D.A. Reid GENUS
 
 #### Status
 ACCEPTED

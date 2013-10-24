@@ -1,5 +1,4 @@
-Phallus cucullatus (Pat.) Kuntze SPECIES
-=======
+# Phallus cucullatus (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

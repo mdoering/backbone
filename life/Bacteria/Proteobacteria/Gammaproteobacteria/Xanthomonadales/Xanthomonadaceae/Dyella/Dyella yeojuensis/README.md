@@ -1,5 +1,4 @@
-Dyella yeojuensis Kim et al., 2006 SPECIES
-=======
+# Dyella yeojuensis Kim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

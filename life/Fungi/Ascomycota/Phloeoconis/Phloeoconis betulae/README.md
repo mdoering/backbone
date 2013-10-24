@@ -1,5 +1,4 @@
-Phloeoconis betulae Sacc. & Roum. SPECIES
-=======
+# Phloeoconis betulae Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

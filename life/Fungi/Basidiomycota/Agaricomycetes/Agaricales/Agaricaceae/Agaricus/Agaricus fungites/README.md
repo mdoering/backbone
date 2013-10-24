@@ -1,5 +1,4 @@
-Agaricus fungites Batsch SPECIES
-=======
+# Agaricus fungites Batsch SPECIES
 
 #### Status
 ACCEPTED

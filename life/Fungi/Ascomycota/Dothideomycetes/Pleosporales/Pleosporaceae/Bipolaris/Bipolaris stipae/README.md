@@ -1,5 +1,4 @@
-Bipolaris stipae (Trab.) Gornostai SPECIES
-=======
+# Bipolaris stipae (Trab.) Gornostai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ampliotrema dactylizum (Hale) Sipman, Lücking & Grube SPECIES
-=======
+# Ampliotrema dactylizum (Hale) Sipman, Lücking & Grube SPECIES
 
 #### Status
 ACCEPTED

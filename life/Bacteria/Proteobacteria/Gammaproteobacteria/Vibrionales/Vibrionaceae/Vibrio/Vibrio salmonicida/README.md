@@ -1,5 +1,4 @@
-Vibrio salmonicida Egidius et al., 1986 SPECIES
-=======
+# Vibrio salmonicida Egidius et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

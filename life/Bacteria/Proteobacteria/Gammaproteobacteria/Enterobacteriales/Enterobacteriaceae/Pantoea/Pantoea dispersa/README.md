@@ -1,5 +1,4 @@
-Pantoea dispersa Gavini et al., 1989 SPECIES
-=======
+# Pantoea dispersa Gavini et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

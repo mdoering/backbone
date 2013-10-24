@@ -1,5 +1,4 @@
-Hydnangium hinskyi SPECIES
-=======
+# Hydnangium hinskyi SPECIES
 
 #### Status
 ACCEPTED

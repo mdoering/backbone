@@ -1,5 +1,4 @@
-Chondrioderma leptotrichem SPECIES
-=======
+# Chondrioderma leptotrichem SPECIES
 
 #### Status
 ACCEPTED

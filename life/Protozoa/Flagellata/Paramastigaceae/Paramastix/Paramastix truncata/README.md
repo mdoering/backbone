@@ -1,5 +1,4 @@
-Paramastix truncata Skuja SPECIES
-=======
+# Paramastix truncata Skuja SPECIES
 
 #### Status
 ACCEPTED

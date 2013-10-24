@@ -1,5 +1,4 @@
-Trichothelium bussei F. Schill. SPECIES
-=======
+# Trichothelium bussei F. Schill. SPECIES
 
 #### Status
 ACCEPTED

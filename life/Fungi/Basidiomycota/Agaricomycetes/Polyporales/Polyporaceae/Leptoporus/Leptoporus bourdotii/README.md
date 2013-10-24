@@ -1,5 +1,4 @@
-Leptoporus bourdotii Pilát SPECIES
-=======
+# Leptoporus bourdotii Pilát SPECIES
 
 #### Status
 ACCEPTED

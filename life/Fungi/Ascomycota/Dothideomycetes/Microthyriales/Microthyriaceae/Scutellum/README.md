@@ -1,5 +1,4 @@
-Scutellum Spegazzini, 1881 GENUS
-=======
+# Scutellum Spegazzini, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Otidea papillata f. papillata FORM
-=======
+# Otidea papillata Harmaja SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Karstenia 15: 31 (1976)
 
 #### Original name
-null
+Otidea papillata Harmaja
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis endocarpa Fée SPECIES
-=======
+# Graphis endocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

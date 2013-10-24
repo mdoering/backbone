@@ -1,5 +1,4 @@
-Apiosporina morbosa (Schwein.) Arx, 1954 SPECIES
-=======
+# Apiosporina morbosa (Schwein.) Arx, 1954 SPECIES
 
 #### Status
 ACCEPTED

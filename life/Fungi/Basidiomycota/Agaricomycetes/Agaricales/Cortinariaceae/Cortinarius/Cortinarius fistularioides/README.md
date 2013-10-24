@@ -1,5 +1,4 @@
-Cortinarius fistularioides Reumaux, Bidaud & Fillion SPECIES
-=======
+# Cortinarius fistularioides Reumaux, Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

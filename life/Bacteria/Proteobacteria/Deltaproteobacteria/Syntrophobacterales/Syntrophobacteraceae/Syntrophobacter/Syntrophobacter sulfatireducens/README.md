@@ -1,5 +1,4 @@
-Syntrophobacter sulfatireducens Chen et al., 2005 SPECIES
-=======
+# Syntrophobacter sulfatireducens Chen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

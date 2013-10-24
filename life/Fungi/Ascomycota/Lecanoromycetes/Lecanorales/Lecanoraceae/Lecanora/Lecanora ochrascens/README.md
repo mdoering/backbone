@@ -1,5 +1,4 @@
-Lecanora ochrascens Zahlbr. SPECIES
-=======
+# Lecanora ochrascens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

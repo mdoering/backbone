@@ -1,5 +1,4 @@
-Amplectella Kofoid & Campbell, 1929 GENUS
-=======
+# Amplectella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

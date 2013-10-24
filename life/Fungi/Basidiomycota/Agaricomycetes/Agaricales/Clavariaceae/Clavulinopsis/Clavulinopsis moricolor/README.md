@@ -1,5 +1,4 @@
-Clavulinopsis moricolor Corner SPECIES
-=======
+# Clavulinopsis moricolor Corner SPECIES
 
 #### Status
 ACCEPTED

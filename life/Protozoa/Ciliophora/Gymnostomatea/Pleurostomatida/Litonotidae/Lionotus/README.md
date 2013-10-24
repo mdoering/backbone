@@ -1,5 +1,4 @@
-Lionotus GENUS
-=======
+# Lionotus GENUS
 
 #### Status
 ACCEPTED

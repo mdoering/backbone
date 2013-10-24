@@ -1,5 +1,4 @@
-Duebenia coccinea Fr. SPECIES
-=======
+# Duebenia coccinea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiosphaera subcorticalis (Fuckel) Trevis. SPECIES
-=======
+# Lophiosphaera subcorticalis (Fuckel) Trevis. SPECIES
 
 #### Status
 ACCEPTED

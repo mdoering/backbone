@@ -1,5 +1,4 @@
-Clitocybe subhirta Peck SPECIES
-=======
+# Clitocybe subhirta Peck SPECIES
 
 #### Status
 ACCEPTED

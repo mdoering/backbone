@@ -1,5 +1,4 @@
-Fellhanera viridisorediata Aptroot, M. Brand & Spier SPECIES
-=======
+# Fellhanera viridisorediata Aptroot, M. Brand & Spier SPECIES
 
 #### Status
 ACCEPTED

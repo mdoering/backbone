@@ -1,5 +1,4 @@
-Multicellaesporites bellus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites bellus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletochaete Singer GENUS
-=======
+# Boletochaete Singer GENUS
 
 #### Status
 ACCEPTED

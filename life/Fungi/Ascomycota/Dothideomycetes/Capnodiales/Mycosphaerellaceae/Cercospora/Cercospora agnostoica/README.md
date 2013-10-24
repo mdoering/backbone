@@ -1,5 +1,4 @@
-Cercospora agnostoica Speg. SPECIES
-=======
+# Cercospora agnostoica Speg. SPECIES
 
 #### Status
 ACCEPTED

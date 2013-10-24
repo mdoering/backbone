@@ -1,5 +1,4 @@
-Agaricus nicotianus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus nicotianus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

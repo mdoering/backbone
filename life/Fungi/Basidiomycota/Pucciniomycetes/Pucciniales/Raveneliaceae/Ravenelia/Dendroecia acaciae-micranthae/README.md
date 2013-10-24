@@ -1,5 +1,4 @@
-Dendroecia acaciae-micranthae (Dietel) Syd. {?} SPECIES
-=======
+# Dendroecia acaciae-micranthae (Dietel) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

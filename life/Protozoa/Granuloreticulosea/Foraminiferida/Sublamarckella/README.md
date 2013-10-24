@@ -1,5 +1,4 @@
-Sublamarckella GENUS
-=======
+# Sublamarckella GENUS
 
 #### Status
 ACCEPTED

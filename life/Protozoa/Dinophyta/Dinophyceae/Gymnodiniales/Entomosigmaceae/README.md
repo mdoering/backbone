@@ -1,5 +1,4 @@
-Entomosigmaceae FAMILY
-=======
+# Entomosigmaceae FAMILY
 
 #### Status
 ACCEPTED

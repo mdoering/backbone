@@ -1,5 +1,4 @@
-Pluteus variipes var. variipes VARIETY
-=======
+# Pluteus variipes Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pluteus variipes var. variipes
+Pluteus variipes Singer
 
 ### Remarks
 null

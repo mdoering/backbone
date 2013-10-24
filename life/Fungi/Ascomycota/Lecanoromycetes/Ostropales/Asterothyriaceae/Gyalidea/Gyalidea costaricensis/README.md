@@ -1,5 +1,4 @@
-Gyalidea costaricensis Vezda & Hafellner SPECIES
-=======
+# Gyalidea costaricensis Vezda & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina pulchella Müll. Arg. SPECIES
-=======
+# Porina pulchella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

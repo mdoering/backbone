@@ -1,5 +1,4 @@
-Vermicularia staphyleae Schwein. SPECIES
-=======
+# Vermicularia staphyleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

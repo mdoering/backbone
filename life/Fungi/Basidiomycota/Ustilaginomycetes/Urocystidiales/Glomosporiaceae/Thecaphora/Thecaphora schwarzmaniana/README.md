@@ -1,5 +1,4 @@
-Thecaphora schwarzmaniana Byzova SPECIES
-=======
+# Thecaphora schwarzmaniana Byzova SPECIES
 
 #### Status
 ACCEPTED

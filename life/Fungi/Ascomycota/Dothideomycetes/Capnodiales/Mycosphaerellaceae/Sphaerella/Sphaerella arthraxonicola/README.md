@@ -1,5 +1,4 @@
-Sphaerella arthraxonicola (Naumov) Sacc. SPECIES
-=======
+# Sphaerella arthraxonicola (Naumov) Sacc. SPECIES
 
 #### Status
 ACCEPTED

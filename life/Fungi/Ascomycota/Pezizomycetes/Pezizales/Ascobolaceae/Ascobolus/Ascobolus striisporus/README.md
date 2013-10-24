@@ -1,5 +1,4 @@
-Ascobolus striisporus (Ellis & Dearn.) Seaver SPECIES
-=======
+# Ascobolus striisporus (Ellis & Dearn.) Seaver SPECIES
 
 #### Status
 ACCEPTED

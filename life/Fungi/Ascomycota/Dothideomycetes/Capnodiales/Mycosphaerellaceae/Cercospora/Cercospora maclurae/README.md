@@ -1,5 +1,4 @@
-Cercospora maclurae Ellis & Everh. SPECIES
-=======
+# Cercospora maclurae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

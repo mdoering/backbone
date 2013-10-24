@@ -1,5 +1,4 @@
-Oospora ovicola (Zimm.) Sacc. & Traverso SPECIES
-=======
+# Oospora ovicola (Zimm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

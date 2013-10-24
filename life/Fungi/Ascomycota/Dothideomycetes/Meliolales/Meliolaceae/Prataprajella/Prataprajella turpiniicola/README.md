@@ -1,14 +1,13 @@
-Asteridiella turpiniicola Hosag., 1990 SPECIES
-=======
+# Prataprajella turpiniicola (Hosag.) Hosag., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hosagoudar & Goos, Mycotaxon 36(2): 341 (1989)
+Nova Hedwigia 55(1-2): 225 (1992)
 
 #### Original name
 Asteridiella turpiniicola Hosag., 1990

@@ -1,8 +1,7 @@
-Cystodinium gessneri (Baumeister) Bourelly SPECIES
-=======
+# Gymnodinium fuscum (Ehrenberg) F. Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

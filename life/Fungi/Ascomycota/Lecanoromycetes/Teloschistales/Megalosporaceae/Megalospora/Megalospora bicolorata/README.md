@@ -1,5 +1,4 @@
-Megalospora bicolorata (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora bicolorata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

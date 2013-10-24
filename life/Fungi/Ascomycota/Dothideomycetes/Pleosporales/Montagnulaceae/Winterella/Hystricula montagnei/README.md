@@ -1,5 +1,4 @@
-Hystricula montagnei Cooke SPECIES
-=======
+# Hystricula montagnei Cooke SPECIES
 
 #### Status
 ACCEPTED

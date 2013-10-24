@@ -1,5 +1,4 @@
-Tremella vinosotincta Rick SPECIES
-=======
+# Tremella vinosotincta Rick SPECIES
 
 #### Status
 ACCEPTED

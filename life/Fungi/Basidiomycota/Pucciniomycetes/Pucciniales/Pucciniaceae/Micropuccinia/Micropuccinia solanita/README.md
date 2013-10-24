@@ -1,5 +1,4 @@
-Micropuccinia solanita (Schwein.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia solanita (Schwein.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

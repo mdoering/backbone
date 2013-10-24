@@ -1,5 +1,4 @@
-Blepharisma truncatella SPECIES
-=======
+# Blepharisma truncatella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora amansii Brond. SPECIES
-=======
+# Thelephora amansii Brond. SPECIES
 
 #### Status
 ACCEPTED

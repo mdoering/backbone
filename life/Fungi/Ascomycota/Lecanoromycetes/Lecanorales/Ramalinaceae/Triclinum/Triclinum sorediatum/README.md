@@ -1,5 +1,4 @@
-Triclinum sorediatum Aptroot & Sparrius SPECIES
-=======
+# Triclinum sorediatum Aptroot & Sparrius SPECIES
 
 #### Status
 ACCEPTED

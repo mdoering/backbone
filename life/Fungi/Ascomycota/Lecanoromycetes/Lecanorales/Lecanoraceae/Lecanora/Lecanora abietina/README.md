@@ -1,5 +1,4 @@
-Lecanora abietina Motyka SPECIES
-=======
+# Lecanora abietina Motyka SPECIES
 
 #### Status
 ACCEPTED

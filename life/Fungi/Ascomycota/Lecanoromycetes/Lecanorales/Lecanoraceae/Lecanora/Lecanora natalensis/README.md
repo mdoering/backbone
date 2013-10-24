@@ -1,5 +1,4 @@
-Lecanora natalensis (Räsänen) Poelt SPECIES
-=======
+# Lecanora natalensis (Räsänen) Poelt SPECIES
 
 #### Status
 ACCEPTED

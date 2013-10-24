@@ -1,5 +1,4 @@
-Sphaeria glomus Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria glomus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

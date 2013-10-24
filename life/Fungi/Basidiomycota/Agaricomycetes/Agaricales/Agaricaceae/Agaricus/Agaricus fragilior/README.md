@@ -1,5 +1,4 @@
-Agaricus fragilior Peck SPECIES
-=======
+# Agaricus fragilior Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polythrincium lathyrinum Syd. SPECIES
-=======
+# Polythrincium lathyrinum Syd. SPECIES
 
 #### Status
 ACCEPTED

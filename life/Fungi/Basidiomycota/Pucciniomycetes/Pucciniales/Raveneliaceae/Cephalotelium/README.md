@@ -1,5 +1,4 @@
-Cephalotelium GENUS
-=======
+# Cephalotelium GENUS
 
 #### Status
 ACCEPTED

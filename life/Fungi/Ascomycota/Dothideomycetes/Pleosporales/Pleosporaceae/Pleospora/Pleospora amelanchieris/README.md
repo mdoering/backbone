@@ -1,5 +1,4 @@
-Pleospora amelanchieris Wehm. SPECIES
-=======
+# Pleospora amelanchieris Wehm. SPECIES
 
 #### Status
 ACCEPTED

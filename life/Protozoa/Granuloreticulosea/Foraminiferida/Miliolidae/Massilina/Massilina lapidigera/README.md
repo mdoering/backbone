@@ -1,5 +1,4 @@
-Massilina lapidigera (Howchin, W & Parr, W J) SPECIES
-=======
+# Massilina lapidigera (Howchin, W & Parr, W J) SPECIES
 
 #### Status
 ACCEPTED

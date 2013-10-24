@@ -1,5 +1,4 @@
-Helminthosporium ceibae Orillo SPECIES
-=======
+# Helminthosporium ceibae Orillo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium nipteroides (Speg.) Sacc. SPECIES
-=======
+# Pseudohelotium nipteroides (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

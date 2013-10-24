@@ -1,5 +1,4 @@
-Oligella Rossau et al., 1987 GENUS
-=======
+# Oligella Rossau et al., 1987 GENUS
 
 #### Status
 ACCEPTED

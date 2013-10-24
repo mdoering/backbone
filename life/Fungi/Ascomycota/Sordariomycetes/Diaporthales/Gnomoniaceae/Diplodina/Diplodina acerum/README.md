@@ -1,5 +1,4 @@
-Diplodina acerum Sacc. & Briard SPECIES
-=======
+# Diplodina acerum Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

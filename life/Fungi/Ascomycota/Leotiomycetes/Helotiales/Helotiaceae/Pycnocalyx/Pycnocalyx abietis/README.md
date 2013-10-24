@@ -1,5 +1,4 @@
-Pycnocalyx abietis Naumov SPECIES
-=======
+# Pycnocalyx abietis Naumov SPECIES
 
 #### Status
 ACCEPTED

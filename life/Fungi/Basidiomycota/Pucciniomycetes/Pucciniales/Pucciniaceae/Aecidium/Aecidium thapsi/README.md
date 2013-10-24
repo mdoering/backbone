@@ -1,5 +1,4 @@
-Aecidium thapsi Ces. SPECIES
-=======
+# Aecidium thapsi Ces. SPECIES
 
 #### Status
 ACCEPTED

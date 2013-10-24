@@ -1,17 +1,16 @@
-Gonohymenia sinaica Galun & Marton SPECIES
-=======
+# Lichinella sinaica (Galun & Marton) P. P. Moreno & Egea SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Bryol. -Lichénol. 13(3): 248 (1992)
 
 #### Original name
-null
+Gonohymenia sinaica Galun & Marton
 
 ### Remarks
 null

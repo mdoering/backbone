@@ -1,5 +1,4 @@
-Pseudarthopyrenia GENUS
-=======
+# Pseudarthopyrenia GENUS
 
 #### Status
 ACCEPTED

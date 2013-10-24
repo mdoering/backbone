@@ -1,5 +1,4 @@
-Parmelia subtinctina Werner SPECIES
-=======
+# Parmelia subtinctina Werner SPECIES
 
 #### Status
 ACCEPTED

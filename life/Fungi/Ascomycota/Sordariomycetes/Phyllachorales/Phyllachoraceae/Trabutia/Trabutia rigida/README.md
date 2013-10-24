@@ -1,5 +1,4 @@
-Trabutia rigida Berk. & Mont. SPECIES
-=======
+# Trabutia rigida Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

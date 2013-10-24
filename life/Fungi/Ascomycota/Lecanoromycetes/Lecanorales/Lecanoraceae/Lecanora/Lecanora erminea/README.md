@@ -1,5 +1,4 @@
-Lecanora erminea Hue SPECIES
-=======
+# Lecanora erminea Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza sepulchralis Rebent. SPECIES
-=======
+# Peziza sepulchralis Rebent. SPECIES
 
 #### Status
 ACCEPTED

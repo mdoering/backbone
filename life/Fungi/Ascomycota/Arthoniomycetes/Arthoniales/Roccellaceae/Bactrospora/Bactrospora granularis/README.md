@@ -1,5 +1,4 @@
-Bactrospora granularis Kantvilas SPECIES
-=======
+# Bactrospora granularis Kantvilas SPECIES
 
 #### Status
 ACCEPTED

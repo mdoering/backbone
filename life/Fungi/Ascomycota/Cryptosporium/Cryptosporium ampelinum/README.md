@@ -1,5 +1,4 @@
-Cryptosporium ampelinum Thüm. SPECIES
-=======
+# Cryptosporium ampelinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

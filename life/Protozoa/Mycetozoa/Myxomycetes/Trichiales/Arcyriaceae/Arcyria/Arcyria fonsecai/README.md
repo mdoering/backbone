@@ -1,5 +1,4 @@
-Arcyria fonsecai Hertel SPECIES
-=======
+# Arcyria fonsecai Hertel SPECIES
 
 #### Status
 ACCEPTED

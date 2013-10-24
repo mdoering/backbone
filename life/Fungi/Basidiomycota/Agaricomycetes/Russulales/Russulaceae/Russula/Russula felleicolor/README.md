@@ -1,5 +1,4 @@
-Russula felleicolor Bon & Jamoni SPECIES
-=======
+# Russula felleicolor Bon & Jamoni SPECIES
 
 #### Status
 ACCEPTED

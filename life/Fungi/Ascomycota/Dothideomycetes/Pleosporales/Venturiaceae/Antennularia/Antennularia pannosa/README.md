@@ -1,5 +1,4 @@
-Antennularia pannosa (Berk.) Rchb. SPECIES
-=======
+# Antennularia pannosa (Berk.) Rchb. SPECIES
 
 #### Status
 ACCEPTED

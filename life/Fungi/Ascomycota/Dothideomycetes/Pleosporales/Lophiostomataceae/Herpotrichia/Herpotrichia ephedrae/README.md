@@ -1,5 +1,4 @@
-Herpotrichia ephedrae Kuhnh.-Lord. SPECIES
-=======
+# Herpotrichia ephedrae Kuhnh.-Lord. SPECIES
 
 #### Status
 ACCEPTED

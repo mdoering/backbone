@@ -1,5 +1,4 @@
-Cladonia piedadensis Ahti SPECIES
-=======
+# Cladonia piedadensis Ahti SPECIES
 
 #### Status
 ACCEPTED

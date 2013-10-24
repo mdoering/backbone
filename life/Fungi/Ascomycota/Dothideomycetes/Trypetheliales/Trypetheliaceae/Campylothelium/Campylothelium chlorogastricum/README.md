@@ -1,5 +1,4 @@
-Campylothelium chlorogastricum (Müll. Arg.) Aptroot SPECIES
-=======
+# Campylothelium chlorogastricum (Müll. Arg.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

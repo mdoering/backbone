@@ -1,5 +1,4 @@
-Stereum nitidum Pers. SPECIES
-=======
+# Stereum nitidum Pers. SPECIES
 
 #### Status
 ACCEPTED

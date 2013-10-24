@@ -1,5 +1,4 @@
-Corollospora besarispora Sundari, 1996 SPECIES
-=======
+# Corollospora besarispora Sundari, 1996 SPECIES
 
 #### Status
 ACCEPTED

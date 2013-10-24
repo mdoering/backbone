@@ -1,5 +1,4 @@
-Helotium scutellatum Kalchbr. & Cooke SPECIES
-=======
+# Helotium scutellatum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

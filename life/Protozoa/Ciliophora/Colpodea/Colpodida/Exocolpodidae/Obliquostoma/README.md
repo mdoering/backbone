@@ -1,5 +1,4 @@
-Obliquostoma Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Obliquostoma Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

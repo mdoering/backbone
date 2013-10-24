@@ -1,5 +1,4 @@
-Ithyphallus jaczewskii Woronow SPECIES
-=======
+# Ithyphallus jaczewskii Woronow SPECIES
 
 #### Status
 ACCEPTED

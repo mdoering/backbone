@@ -1,5 +1,4 @@
-Cryptococcus pettitii (Hranova) Nann. SPECIES
-=======
+# Cryptococcus pettitii (Hranova) Nann. SPECIES
 
 #### Status
 ACCEPTED

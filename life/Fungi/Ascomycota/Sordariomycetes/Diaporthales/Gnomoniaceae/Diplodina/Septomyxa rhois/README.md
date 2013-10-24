@@ -1,5 +1,4 @@
-Septomyxa rhois (Sacc.) Died. SPECIES
-=======
+# Septomyxa rhois (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia rokuzyukeniensis Nakamura SPECIES
-=======
+# Textularia rokuzyukeniensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

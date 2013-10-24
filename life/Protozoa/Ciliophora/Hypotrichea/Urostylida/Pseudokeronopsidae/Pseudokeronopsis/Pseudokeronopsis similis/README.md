@@ -1,8 +1,7 @@
-Holosticha similis Stokes, 1886 SPECIES
-=======
+# Pseudokeronopsis similis Stokes, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Ascocorticium Bref. GENUS
-=======
+# Ascocorticium Bref. GENUS
 
 #### Status
 ACCEPTED

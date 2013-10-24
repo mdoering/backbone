@@ -1,5 +1,4 @@
-Histriculus erethesticus SPECIES
-=======
+# Histriculus erethesticus SPECIES
 
 #### Status
 ACCEPTED

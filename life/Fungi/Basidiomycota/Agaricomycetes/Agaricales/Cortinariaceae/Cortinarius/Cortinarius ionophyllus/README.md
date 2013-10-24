@@ -1,17 +1,16 @@
-Cortinarius scutulatus f. minima Nespiak FORM
-=======
+# Cortinarius ionophyllus M.M. Moser, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 14(2-4): 504 (1968)
 
 #### Original name
-Cortinarius scutulatus f. minima Nespiak
+Cortinarius ionophyllus M.M. Moser, 1968
 
 ### Remarks
 null

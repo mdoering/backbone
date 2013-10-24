@@ -1,5 +1,4 @@
-Buellia floccosa C.W. Dodge & G.E. Baker SPECIES
-=======
+# Buellia floccosa C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

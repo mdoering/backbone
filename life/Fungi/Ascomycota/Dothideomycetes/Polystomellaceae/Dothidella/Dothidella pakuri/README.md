@@ -1,5 +1,4 @@
-Dothidella pakuri Speg. SPECIES
-=======
+# Dothidella pakuri Speg. SPECIES
 
 #### Status
 ACCEPTED

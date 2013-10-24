@@ -1,5 +1,4 @@
-Ectosticta popowiae Bat. SPECIES
-=======
+# Ectosticta popowiae Bat. SPECIES
 
 #### Status
 ACCEPTED

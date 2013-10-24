@@ -1,5 +1,4 @@
-Peridermium magnusii Wagner SPECIES
-=======
+# Peridermium magnusii Wagner SPECIES
 
 #### Status
 ACCEPTED

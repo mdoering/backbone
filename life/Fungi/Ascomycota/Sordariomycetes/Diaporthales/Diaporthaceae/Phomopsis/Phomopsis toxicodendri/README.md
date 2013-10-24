@@ -1,5 +1,4 @@
-Phomopsis toxicodendri (Henn.) Died. SPECIES
-=======
+# Phomopsis toxicodendri (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

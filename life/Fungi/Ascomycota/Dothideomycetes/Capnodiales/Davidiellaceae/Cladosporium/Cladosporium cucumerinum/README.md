@@ -1,17 +1,16 @@
-Scolicotrichum melophthorum Prill. & Delacr., 1891 SPECIES
-=======
+# Cladosporium cucumerinum Ellis & Arthur, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 7(1): 219 (1891)
+Bulletin of the Indiana Agric. Stat. 19: 9 (1889)
 
 #### Original name
-Scolicotrichum melophthorum Prill. & Delacr., 1891
+Cladosporium cucumerinum Ellis & Arthur, 1889
 
 ### Remarks
 null

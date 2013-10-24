@@ -1,5 +1,4 @@
-Actinoscypha atopa Rehm SPECIES
-=======
+# Actinoscypha atopa Rehm SPECIES
 
 #### Status
 ACCEPTED

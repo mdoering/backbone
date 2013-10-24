@@ -1,17 +1,16 @@
-Pluteus leoninus var. leoninus (Schaeff.) P. Kumm. VARIETY
-=======
+# Pluteus leoninus (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Führ. Pilzk. (Zwickau) 98 (1871)
 
 #### Original name
-Pluteus leoninus var. leoninus (Schaeff.) P. Kumm.
+Agaricus leoninus Schaeff., 1774
 
 ### Remarks
 null

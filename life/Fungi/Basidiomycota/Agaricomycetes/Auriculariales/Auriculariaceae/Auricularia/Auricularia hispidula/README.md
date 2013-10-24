@@ -1,5 +1,4 @@
-Auricularia hispidula (Berk.) Farl. SPECIES
-=======
+# Auricularia hispidula (Berk.) Farl. SPECIES
 
 #### Status
 ACCEPTED

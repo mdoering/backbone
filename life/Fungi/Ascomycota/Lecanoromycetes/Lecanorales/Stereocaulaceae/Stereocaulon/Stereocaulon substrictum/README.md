@@ -1,5 +1,4 @@
-Stereocaulon substrictum Hue SPECIES
-=======
+# Stereocaulon substrictum Hue SPECIES
 
 #### Status
 ACCEPTED

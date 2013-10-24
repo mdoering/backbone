@@ -1,5 +1,4 @@
-Recticystis Schrank, 2003 GENUS
-=======
+# Recticystis Schrank, 2003 GENUS
 
 #### Status
 ACCEPTED

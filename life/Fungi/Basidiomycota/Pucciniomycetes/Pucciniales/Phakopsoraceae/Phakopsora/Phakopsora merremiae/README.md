@@ -1,5 +1,4 @@
-Phakopsora merremiae R. Berndt & F.O. Freire SPECIES
-=======
+# Phakopsora merremiae R. Berndt & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

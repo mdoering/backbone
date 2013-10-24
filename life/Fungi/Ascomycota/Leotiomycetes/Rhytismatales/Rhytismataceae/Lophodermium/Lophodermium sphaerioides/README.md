@@ -1,17 +1,16 @@
-Hypoderma sphaerioides var. sphaerioides VARIETY
-=======
+# Lophodermium sphaerioides (Alb. & Schwein.) Duby, 1862 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 56 (1862)
 
 #### Original name
-Hypoderma sphaerioides var. sphaerioides
+Hysterium sphaerioides Alb. & Schwein., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cordyceps podocreoides Höhn. SPECIES
-=======
+# Cordyceps podocreoides Höhn. SPECIES
 
 #### Status
 ACCEPTED

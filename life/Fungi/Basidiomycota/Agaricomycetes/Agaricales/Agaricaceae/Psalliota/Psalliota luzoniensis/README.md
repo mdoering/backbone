@@ -1,5 +1,4 @@
-Psalliota luzoniensis (P.W. Graff) Mend. {?} & Leus-Palo SPECIES
-=======
+# Psalliota luzoniensis (P.W. Graff) Mend. {?} & Leus-Palo SPECIES
 
 #### Status
 ACCEPTED

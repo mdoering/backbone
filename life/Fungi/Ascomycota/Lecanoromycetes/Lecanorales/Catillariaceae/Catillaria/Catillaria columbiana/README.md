@@ -1,5 +1,4 @@
-Catillaria columbiana (G. Merr.) W.J. Noble SPECIES
-=======
+# Catillaria columbiana (G. Merr.) W.J. Noble SPECIES
 
 #### Status
 ACCEPTED

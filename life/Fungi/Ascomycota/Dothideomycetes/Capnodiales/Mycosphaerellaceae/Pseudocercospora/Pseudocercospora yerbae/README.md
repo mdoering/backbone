@@ -1,5 +1,4 @@
-Pseudocercospora yerbae (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora yerbae (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

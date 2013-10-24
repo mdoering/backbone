@@ -1,5 +1,4 @@
-Sporormia herculea Ellis & Everh. SPECIES
-=======
+# Sporormia herculea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

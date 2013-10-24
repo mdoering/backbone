@@ -1,5 +1,4 @@
-Cassidulina obtusa Williamson, 1858 SPECIES
-=======
+# Cassidulina obtusa Williamson, 1858 SPECIES
 
 #### Status
 ACCEPTED

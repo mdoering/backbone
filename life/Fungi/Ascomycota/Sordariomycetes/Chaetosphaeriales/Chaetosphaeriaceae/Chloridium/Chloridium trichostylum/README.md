@@ -1,5 +1,4 @@
-Chloridium trichostylum (Corda) Sacc. SPECIES
-=======
+# Chloridium trichostylum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

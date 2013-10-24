@@ -1,5 +1,4 @@
-Septatium alneum Velen. SPECIES
-=======
+# Septatium alneum Velen. SPECIES
 
 #### Status
 ACCEPTED

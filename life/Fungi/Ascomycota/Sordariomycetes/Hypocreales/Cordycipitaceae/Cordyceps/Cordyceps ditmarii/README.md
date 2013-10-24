@@ -1,17 +1,16 @@
-Cordyceps dittmarii Quél. SPECIES
-=======
+# Cordyceps ditmarii Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 24: 330, XXXVII (1877)
 
 #### Original name
-Cordyceps dittmarii Quél.
+Cordyceps ditmarii Quél.
 
 ### Remarks
 null

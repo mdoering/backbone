@@ -1,5 +1,4 @@
-Parmelia imperfecta Kurok. SPECIES
-=======
+# Parmelia imperfecta Kurok. SPECIES
 
 #### Status
 ACCEPTED

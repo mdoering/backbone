@@ -1,5 +1,4 @@
-Neopycnodothis phyllostachydis Tak. Kobay. SPECIES
-=======
+# Neopycnodothis phyllostachydis Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

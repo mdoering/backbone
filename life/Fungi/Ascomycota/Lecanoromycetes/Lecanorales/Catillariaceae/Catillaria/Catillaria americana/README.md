@@ -1,5 +1,4 @@
-Catillaria americana Malme SPECIES
-=======
+# Catillaria americana Malme SPECIES
 
 #### Status
 ACCEPTED

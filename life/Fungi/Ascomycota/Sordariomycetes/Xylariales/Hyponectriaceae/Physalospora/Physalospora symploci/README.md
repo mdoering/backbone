@@ -1,5 +1,4 @@
-Physalospora symploci Racib. SPECIES
-=======
+# Physalospora symploci Racib. SPECIES
 
 #### Status
 ACCEPTED

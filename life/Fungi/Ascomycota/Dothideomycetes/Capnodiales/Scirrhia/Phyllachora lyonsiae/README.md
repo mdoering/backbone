@@ -1,5 +1,4 @@
-Phyllachora lyonsiae Syd., 1937 SPECIES
-=======
+# Phyllachora lyonsiae Syd., 1937 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Filisphaera filifera J. P. Bujak SPECIES
-=======
+# Filisphaera filifera J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

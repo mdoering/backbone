@@ -1,5 +1,4 @@
-Phyllosticta myrticola Speg. SPECIES
-=======
+# Phyllosticta myrticola Speg. SPECIES
 
 #### Status
 ACCEPTED

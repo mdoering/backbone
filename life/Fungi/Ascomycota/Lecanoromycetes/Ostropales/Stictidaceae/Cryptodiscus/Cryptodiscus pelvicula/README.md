@@ -1,5 +1,4 @@
-Cryptodiscus pelvicula (Pers.) Rabenh. SPECIES
-=======
+# Cryptodiscus pelvicula (Pers.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

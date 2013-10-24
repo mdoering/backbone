@@ -1,5 +1,4 @@
-Planotrillina Bignot & Strougo, 2002 GENUS
-=======
+# Planotrillina Bignot & Strougo, 2002 GENUS
 
 #### Status
 ACCEPTED

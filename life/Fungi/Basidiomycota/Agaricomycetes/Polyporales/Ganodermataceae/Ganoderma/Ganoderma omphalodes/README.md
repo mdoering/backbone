@@ -1,5 +1,4 @@
-Ganoderma omphalodes (Berk.) Pat. SPECIES
-=======
+# Ganoderma omphalodes (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

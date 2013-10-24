@@ -1,5 +1,4 @@
-Sphaeria baccharidis Cooke SPECIES
-=======
+# Sphaeria baccharidis Cooke SPECIES
 
 #### Status
 ACCEPTED

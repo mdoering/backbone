@@ -1,5 +1,4 @@
-Lecidea subternaria Vain. SPECIES
-=======
+# Lecidea subternaria Vain. SPECIES
 
 #### Status
 ACCEPTED

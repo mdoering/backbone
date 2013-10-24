@@ -1,5 +1,4 @@
-Pleurostomella delicata Nishimura et al., 1977 SPECIES
-=======
+# Pleurostomella delicata Nishimura et al., 1977 SPECIES
 
 #### Status
 ACCEPTED

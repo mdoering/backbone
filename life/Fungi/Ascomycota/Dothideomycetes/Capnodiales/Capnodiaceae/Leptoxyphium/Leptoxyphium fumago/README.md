@@ -1,17 +1,16 @@
-Fumago vagans f. chamaesyces Gonz. Frag. & Cif. FORM
-=======
+# Leptoxyphium fumago (Woron.) R.C. Srivast., 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. 125(1-4): 333 (1982)
 
 #### Original name
-Fumago vagans f. chamaesyces Gonz. Frag. & Cif.
+Caldariomyces fumago Woron., 1927
 
 ### Remarks
 null

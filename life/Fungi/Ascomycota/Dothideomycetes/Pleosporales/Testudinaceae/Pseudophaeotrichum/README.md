@@ -1,5 +1,4 @@
-Pseudophaeotrichum GENUS
-=======
+# Pseudophaeotrichum GENUS
 
 #### Status
 ACCEPTED

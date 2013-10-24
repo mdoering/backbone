@@ -1,5 +1,4 @@
-Hymenochaete cervinoidea J.C. Léger & Lanq., 1987 SPECIES
-=======
+# Hymenochaete cervinoidea J.C. Léger & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

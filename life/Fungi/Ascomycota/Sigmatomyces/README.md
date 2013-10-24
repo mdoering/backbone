@@ -1,5 +1,4 @@
-Sigmatomyces Sacc. & P. Syd. GENUS
-=======
+# Sigmatomyces Sacc. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

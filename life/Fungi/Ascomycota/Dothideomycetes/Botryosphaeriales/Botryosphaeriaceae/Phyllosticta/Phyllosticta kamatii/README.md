@@ -1,5 +1,4 @@
-Phyllosticta kamatii (Golatkar) Aa & Vanev SPECIES
-=======
+# Phyllosticta kamatii (Golatkar) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

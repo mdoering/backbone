@@ -1,5 +1,4 @@
-Peniophora ambiens Rick SPECIES
-=======
+# Peniophora ambiens Rick SPECIES
 
 #### Status
 ACCEPTED

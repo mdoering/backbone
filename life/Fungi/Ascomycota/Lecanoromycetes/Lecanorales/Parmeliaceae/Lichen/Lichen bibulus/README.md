@@ -1,5 +1,4 @@
-Lichen bibulus Vill. SPECIES
-=======
+# Lichen bibulus Vill. SPECIES
 
 #### Status
 ACCEPTED

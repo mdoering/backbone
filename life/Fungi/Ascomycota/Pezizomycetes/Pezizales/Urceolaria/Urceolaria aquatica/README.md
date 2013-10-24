@@ -1,5 +1,4 @@
-Urceolaria aquatica (Fr.) Motyka SPECIES
-=======
+# Urceolaria aquatica (Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

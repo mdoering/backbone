@@ -1,5 +1,4 @@
-Urceolaria segestria Flörke SPECIES
-=======
+# Urceolaria segestria Flörke SPECIES
 
 #### Status
 ACCEPTED

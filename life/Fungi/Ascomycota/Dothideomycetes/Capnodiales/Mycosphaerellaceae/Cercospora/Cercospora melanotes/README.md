@@ -1,5 +1,4 @@
-Cercospora melanotes Syd. SPECIES
-=======
+# Cercospora melanotes Syd. SPECIES
 
 #### Status
 ACCEPTED

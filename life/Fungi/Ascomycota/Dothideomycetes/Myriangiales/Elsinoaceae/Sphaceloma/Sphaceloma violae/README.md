@@ -1,5 +1,4 @@
-Sphaceloma violae Jenkins, 1935 SPECIES
-=======
+# Sphaceloma violae Jenkins, 1935 SPECIES
 
 #### Status
 ACCEPTED

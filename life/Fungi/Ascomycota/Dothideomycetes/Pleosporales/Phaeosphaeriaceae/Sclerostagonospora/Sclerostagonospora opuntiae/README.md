@@ -1,5 +1,4 @@
-Sclerostagonospora opuntiae (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Sclerostagonospora opuntiae (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

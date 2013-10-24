@@ -1,5 +1,4 @@
-Leptosphaeria eburnea Niessl SPECIES
-=======
+# Leptosphaeria eburnea Niessl SPECIES
 
 #### Status
 ACCEPTED

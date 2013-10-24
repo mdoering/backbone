@@ -1,5 +1,4 @@
-Peronospora agrorum Gäum. SPECIES
-=======
+# Peronospora agrorum Gäum. SPECIES
 
 #### Status
 ACCEPTED

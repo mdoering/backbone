@@ -1,5 +1,4 @@
-Vaginulina spinigera Brady SPECIES
-=======
+# Vaginulina spinigera Brady SPECIES
 
 #### Status
 ACCEPTED

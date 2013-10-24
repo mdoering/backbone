@@ -1,5 +1,4 @@
-Schizofusa appendiculata Yan Yuzhong, 1985 SPECIES
-=======
+# Schizofusa appendiculata Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

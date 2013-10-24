@@ -1,5 +1,4 @@
-Phyllachora halstediana Petr., 1934 SPECIES
-=======
+# Phyllachora halstediana Petr., 1934 SPECIES
 
 #### Status
 DOUBTFUL

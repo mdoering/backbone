@@ -1,5 +1,4 @@
-Tricholoma viscosum Peck SPECIES
-=======
+# Tricholoma viscosum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lingulina incisa Buchner, 1942 SPECIES
-=======
+# Lingulina incisa Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

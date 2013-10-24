@@ -1,5 +1,4 @@
-Scutellinia coccinea L. Remy SPECIES
-=======
+# Scutellinia coccinea L. Remy SPECIES
 
 #### Status
 ACCEPTED

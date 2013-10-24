@@ -1,5 +1,4 @@
-Opercularia stenostoma Stein, 1854 SPECIES
-=======
+# Opercularia stenostoma Stein, 1854 SPECIES
 
 #### Status
 ACCEPTED

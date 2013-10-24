@@ -1,5 +1,4 @@
-Coprinus maysoidisporus Redhead & Traquair SPECIES
-=======
+# Coprinus maysoidisporus Redhead & Traquair SPECIES
 
 #### Status
 ACCEPTED

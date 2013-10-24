@@ -1,5 +1,4 @@
-Phyllachora bella Syd., 1937 SPECIES
-=======
+# Phyllachora bella Syd., 1937 SPECIES
 
 #### Status
 DOUBTFUL

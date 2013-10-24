@@ -1,5 +1,4 @@
-Graphina pseudosophistica var. pseudosophistica VARIETY
-=======
+# Graphina pseudosophistica (Vain.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina pseudosophistica var. pseudosophistica
+Graphis pseudosophistica Vain.
 
 ### Remarks
 null

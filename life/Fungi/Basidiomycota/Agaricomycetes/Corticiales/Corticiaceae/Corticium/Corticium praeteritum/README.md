@@ -1,5 +1,4 @@
-Corticium praeteritum H.S. Jacks. & Dearden SPECIES
-=======
+# Corticium praeteritum H.S. Jacks. & Dearden SPECIES
 
 #### Status
 ACCEPTED

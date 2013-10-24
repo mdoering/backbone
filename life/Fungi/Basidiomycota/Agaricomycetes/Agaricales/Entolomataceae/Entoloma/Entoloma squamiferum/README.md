@@ -1,5 +1,4 @@
-Entoloma squamiferum E. Horak, 1973 SPECIES
-=======
+# Entoloma squamiferum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

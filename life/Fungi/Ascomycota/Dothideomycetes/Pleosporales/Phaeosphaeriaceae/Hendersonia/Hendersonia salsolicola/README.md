@@ -1,5 +1,4 @@
-Hendersonia salsolicola S. Ahmad SPECIES
-=======
+# Hendersonia salsolicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe novoxalapensis Guzmán & J.Q. Jacobs SPECIES
-=======
+# Psilocybe novoxalapensis Guzmán & J.Q. Jacobs SPECIES
 
 #### Status
 ACCEPTED

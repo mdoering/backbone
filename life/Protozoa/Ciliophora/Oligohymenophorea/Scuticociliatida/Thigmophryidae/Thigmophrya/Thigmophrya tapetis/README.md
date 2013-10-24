@@ -1,5 +1,4 @@
-Thigmophrya tapetis Kahl, 1926 SPECIES
-=======
+# Thigmophrya tapetis Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

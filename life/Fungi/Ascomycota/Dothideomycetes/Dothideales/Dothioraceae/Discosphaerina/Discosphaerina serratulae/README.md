@@ -1,5 +1,4 @@
-Discosphaerina serratulae Petr. SPECIES
-=======
+# Discosphaerina serratulae Petr. SPECIES
 
 #### Status
 ACCEPTED

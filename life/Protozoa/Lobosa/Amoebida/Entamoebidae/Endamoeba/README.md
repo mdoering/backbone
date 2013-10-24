@@ -1,5 +1,4 @@
-Endamoeba GENUS
-=======
+# Endamoeba GENUS
 
 #### Status
 ACCEPTED

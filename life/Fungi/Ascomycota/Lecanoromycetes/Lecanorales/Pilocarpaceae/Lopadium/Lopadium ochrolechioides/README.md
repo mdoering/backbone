@@ -1,5 +1,4 @@
-Lopadium ochrolechioides (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium ochrolechioides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

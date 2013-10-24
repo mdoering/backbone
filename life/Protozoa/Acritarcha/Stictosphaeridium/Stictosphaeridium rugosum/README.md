@@ -1,5 +1,4 @@
-Stictosphaeridium rugosum Yin Leiming, 1984 SPECIES
-=======
+# Stictosphaeridium rugosum Yin Leiming, 1984 SPECIES
 
 #### Status
 ACCEPTED

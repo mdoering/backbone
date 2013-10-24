@@ -1,5 +1,4 @@
-Stigmatomyces rampinii W. Rossi SPECIES
-=======
+# Stigmatomyces rampinii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

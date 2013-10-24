@@ -1,5 +1,4 @@
-Cercospora bocconiae Chupp SPECIES
-=======
+# Cercospora bocconiae Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phialetea Bat. & Nascim. GENUS
-=======
+# Grallomyces F. Stevens GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 1: 264 (1960)
+Bot. Gaz. 65(3): 245 (1918)
 
 #### Original name
-Phialetea Bat. & Nascim.
+Grallomyces F. Stevens
 
 ### Remarks
 null

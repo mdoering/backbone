@@ -1,5 +1,4 @@
-Dictyophora echinata Henn. & E. Nyman SPECIES
-=======
+# Dictyophora echinata Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

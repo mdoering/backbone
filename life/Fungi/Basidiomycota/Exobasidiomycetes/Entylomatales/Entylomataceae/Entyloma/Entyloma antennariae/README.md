@@ -1,5 +1,4 @@
-Entyloma antennariae Liro SPECIES
-=======
+# Entyloma antennariae Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stereum striatum var. ochraceoflavum (Schwein.) A.L. Welden, 1971 VARIETY
-=======
+# Stereum ochraceoflavum (Schwein.) Sacc., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 63(4): 797 (1971)
+Syll. fung. (Abellini) 6: 576 (1888)
 
 #### Original name
 Thelephora ochraceoflava Schwein., 1831

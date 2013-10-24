@@ -1,5 +1,4 @@
-Bathelium sphaericum (C.W. Dodge) R.C. Harris SPECIES
-=======
+# Bathelium sphaericum (C.W. Dodge) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

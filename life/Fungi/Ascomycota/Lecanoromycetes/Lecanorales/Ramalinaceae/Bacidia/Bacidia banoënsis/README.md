@@ -1,5 +1,4 @@
-Bacidia banoënsis Vain. SPECIES
-=======
+# Bacidia banoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Arthotheliomyces Cif. & Tomas. GENUS
-=======
+# Arthothelium A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 42, 68 (1953)
+Ric. auton. lich. crost. (Verona) 54 (1852)
 
 #### Original name
-Arthotheliomyces Cif. & Tomas.
+Arthothelium A. Massal.
 
 ### Remarks
 null

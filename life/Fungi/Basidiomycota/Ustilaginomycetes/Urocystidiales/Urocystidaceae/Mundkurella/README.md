@@ -1,5 +1,4 @@
-Mundkurella Thirum. GENUS
-=======
+# Mundkurella Thirum. GENUS
 
 #### Status
 ACCEPTED

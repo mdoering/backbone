@@ -1,5 +1,4 @@
-Cryptothecia subtecta Stirt. SPECIES
-=======
+# Cryptothecia subtecta Stirt. SPECIES
 
 #### Status
 ACCEPTED

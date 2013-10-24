@@ -1,5 +1,4 @@
-Ochromonas cylindracea Playfair SPECIES
-=======
+# Ochromonas cylindracea Playfair SPECIES
 
 #### Status
 ACCEPTED

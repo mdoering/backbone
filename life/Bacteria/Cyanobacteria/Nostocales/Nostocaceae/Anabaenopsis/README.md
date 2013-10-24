@@ -1,5 +1,4 @@
-Anabaenopsis Miller, 1923 GENUS
-=======
+# Anabaenopsis Miller, 1923 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sulfurovum Inagaki et al., 2004 GENUS
-=======
+# Sulfurovum Inagaki et al., 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora pyrenopsoides H. Magn. SPECIES
-=======
+# Acarospora pyrenopsoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

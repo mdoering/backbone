@@ -1,5 +1,4 @@
-Cephalotrichum bulbosum (Schwein.) Kuntze SPECIES
-=======
+# Cephalotrichum bulbosum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Titaeospora tremulae (Lib.) SPECIES
-=======
+# Titaeospora tremulae (Lib.) SPECIES
 
 #### Status
 ACCEPTED

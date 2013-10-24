@@ -1,14 +1,13 @@
-Lyophyllum ellisii (P.D. Orton) Consiglio & Contu, 2001 SPECIES
-=======
+# Tephrocybe ellisii P.D. Orton, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 30(no. 120): 45 (2001)
+Trans. Br. mycol. Soc. 91(4): 569 (1988)
 
 #### Original name
 Tephrocybe ellisii P.D. Orton, 1988

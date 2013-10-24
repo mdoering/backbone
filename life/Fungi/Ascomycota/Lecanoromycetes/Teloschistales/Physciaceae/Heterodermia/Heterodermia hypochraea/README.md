@@ -1,5 +1,4 @@
-Heterodermia hypochraea (Vain.) Swinscow & Krog SPECIES
-=======
+# Heterodermia hypochraea (Vain.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

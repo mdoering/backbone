@@ -1,5 +1,4 @@
-Scleroplea aurantiorum Rehm SPECIES
-=======
+# Scleroplea aurantiorum Rehm SPECIES
 
 #### Status
 ACCEPTED

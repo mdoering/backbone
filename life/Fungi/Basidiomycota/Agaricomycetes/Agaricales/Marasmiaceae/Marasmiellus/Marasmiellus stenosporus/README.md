@@ -1,5 +1,4 @@
-Marasmiellus stenosporus Singer SPECIES
-=======
+# Marasmiellus stenosporus Singer SPECIES
 
 #### Status
 ACCEPTED

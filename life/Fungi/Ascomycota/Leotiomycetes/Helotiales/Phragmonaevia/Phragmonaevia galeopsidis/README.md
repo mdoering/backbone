@@ -1,5 +1,4 @@
-Phragmonaevia galeopsidis (J. Schröt.) Höhn. SPECIES
-=======
+# Phragmonaevia galeopsidis (J. Schröt.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

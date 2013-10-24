@@ -1,5 +1,4 @@
-Dysteria marioni Gourret & Roeser, 1886 SPECIES
-=======
+# Dysteria marioni Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

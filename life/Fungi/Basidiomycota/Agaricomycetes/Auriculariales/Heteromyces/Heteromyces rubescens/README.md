@@ -1,5 +1,4 @@
-Heteromyces rubescens Müll. Arg. SPECIES
-=======
+# Heteromyces rubescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

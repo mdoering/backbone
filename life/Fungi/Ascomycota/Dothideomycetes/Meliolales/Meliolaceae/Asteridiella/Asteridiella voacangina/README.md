@@ -1,5 +1,4 @@
-Asteridiella voacangina Hansf. SPECIES
-=======
+# Asteridiella voacangina Hansf. SPECIES
 
 #### Status
 ACCEPTED

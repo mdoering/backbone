@@ -1,5 +1,4 @@
-Macrosporium melongenae Bouriquet SPECIES
-=======
+# Macrosporium melongenae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

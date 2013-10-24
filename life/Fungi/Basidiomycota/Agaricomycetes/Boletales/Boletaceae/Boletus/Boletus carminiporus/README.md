@@ -1,5 +1,4 @@
-Boletus carminiporus Bessette, Both & Dunaway SPECIES
-=======
+# Boletus carminiporus Bessette, Both & Dunaway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllotremella GENUS
-=======
+# Phyllotremella GENUS
 
 #### Status
 ACCEPTED

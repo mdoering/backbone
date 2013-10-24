@@ -1,5 +1,4 @@
-Balladyna philippinensis (Syd.) Arx SPECIES
-=======
+# Balladyna philippinensis (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

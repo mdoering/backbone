@@ -1,5 +1,4 @@
-Coronellaria acori Höhn. SPECIES
-=======
+# Coronellaria acori Höhn. SPECIES
 
 #### Status
 ACCEPTED

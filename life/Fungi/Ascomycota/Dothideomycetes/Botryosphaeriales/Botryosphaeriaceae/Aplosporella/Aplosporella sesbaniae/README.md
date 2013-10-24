@@ -1,5 +1,4 @@
-Aplosporella sesbaniae J.V. Kachroo SPECIES
-=======
+# Aplosporella sesbaniae J.V. Kachroo SPECIES
 
 #### Status
 ACCEPTED

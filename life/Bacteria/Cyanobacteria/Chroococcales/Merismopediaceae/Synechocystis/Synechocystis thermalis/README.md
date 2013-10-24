@@ -1,5 +1,4 @@
-Synechocystis thermalis Copeland SPECIES
-=======
+# Synechocystis thermalis Copeland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lemalis alismatis (Pers.) Fr. SPECIES
-=======
+# Lemalis alismatis (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

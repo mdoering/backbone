@@ -1,5 +1,4 @@
-Actinothecium chilense Speg. SPECIES
-=======
+# Actinothecium chilense Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosordaria australiensis Laessøe, C.A. Pearce & K.D. Hyde SPECIES
-=======
+# Podosordaria australiensis Laessøe, C.A. Pearce & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonium wagnerianum Rehm SPECIES
-=======
+# Belonium wagnerianum Rehm SPECIES
 
 #### Status
 ACCEPTED

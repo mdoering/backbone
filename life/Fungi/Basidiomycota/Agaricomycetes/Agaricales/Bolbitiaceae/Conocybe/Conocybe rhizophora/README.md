@@ -1,5 +1,4 @@
-Conocybe rhizophora Hauskn. SPECIES
-=======
+# Conocybe rhizophora Hauskn. SPECIES
 
 #### Status
 ACCEPTED

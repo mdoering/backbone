@@ -1,5 +1,4 @@
-Pluricellaesporites verrucatus H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
-=======
+# Pluricellaesporites verrucatus H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
 
 #### Status
 ACCEPTED

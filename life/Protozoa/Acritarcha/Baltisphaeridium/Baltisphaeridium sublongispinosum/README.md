@@ -1,5 +1,4 @@
-Baltisphaeridium sublongispinosum Grishina in Grishina & Klenina, 1981 SPECIES
-=======
+# Baltisphaeridium sublongispinosum Grishina in Grishina & Klenina, 1981 SPECIES
 
 #### Status
 ACCEPTED

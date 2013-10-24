@@ -1,5 +1,4 @@
-Trametes propinqua (Speg.) Rick SPECIES
-=======
+# Trametes propinqua (Speg.) Rick SPECIES
 
 #### Status
 ACCEPTED

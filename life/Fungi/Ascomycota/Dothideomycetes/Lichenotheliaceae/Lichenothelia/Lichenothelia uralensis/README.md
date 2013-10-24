@@ -1,5 +1,4 @@
-Lichenothelia uralensis Zhurb. SPECIES
-=======
+# Lichenothelia uralensis Zhurb. SPECIES
 
 #### Status
 ACCEPTED

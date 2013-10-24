@@ -1,5 +1,4 @@
-Ceuthospora phlomidis Bubák SPECIES
-=======
+# Ceuthospora phlomidis Bubák SPECIES
 
 #### Status
 ACCEPTED

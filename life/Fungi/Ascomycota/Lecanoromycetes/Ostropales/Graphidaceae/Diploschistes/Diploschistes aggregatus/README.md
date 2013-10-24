@@ -1,5 +1,4 @@
-Diploschistes aggregatus Vain. SPECIES
-=======
+# Diploschistes aggregatus Vain. SPECIES
 
 #### Status
 ACCEPTED

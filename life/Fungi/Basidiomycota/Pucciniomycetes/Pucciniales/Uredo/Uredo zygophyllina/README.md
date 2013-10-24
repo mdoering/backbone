@@ -1,5 +1,4 @@
-Uredo zygophyllina Sacc. SPECIES
-=======
+# Uredo zygophyllina Sacc. SPECIES
 
 #### Status
 ACCEPTED

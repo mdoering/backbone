@@ -1,5 +1,4 @@
-Lactifluus regalis (Peck) Kuntze SPECIES
-=======
+# Lactifluus regalis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

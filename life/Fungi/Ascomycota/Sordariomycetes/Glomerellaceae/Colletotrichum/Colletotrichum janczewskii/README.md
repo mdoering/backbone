@@ -1,5 +1,4 @@
-Colletotrichum janczewskii Namysl. SPECIES
-=======
+# Colletotrichum janczewskii Namysl. SPECIES
 
 #### Status
 ACCEPTED

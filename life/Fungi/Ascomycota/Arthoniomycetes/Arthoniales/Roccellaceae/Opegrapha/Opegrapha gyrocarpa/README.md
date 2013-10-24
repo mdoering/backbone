@@ -1,14 +1,13 @@
-Opegrapha saxicola var. gyrocarpa (Flot.) Stizenb. VARIETY
-=======
+# Opegrapha gyrocarpa Flot. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 8: 345 (1825)
 
 #### Original name
 Opegrapha gyrocarpa Flot.

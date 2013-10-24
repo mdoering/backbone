@@ -1,5 +1,4 @@
-Thiorhodococcus bheemlicus Anil Kumar, Sasi Jyothsna, Srinivas, Sasikala, Ramana & Imhoff, 2007 SPECIES
-=======
+# Thiorhodococcus bheemlicus Anil Kumar, Sasi Jyothsna, Srinivas, Sasikala, Ramana & Imhoff, 2007 SPECIES
 
 #### Status
 ACCEPTED

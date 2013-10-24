@@ -1,5 +1,4 @@
-Podospora venezuelensis Mirza & Cain SPECIES
-=======
+# Podospora venezuelensis Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

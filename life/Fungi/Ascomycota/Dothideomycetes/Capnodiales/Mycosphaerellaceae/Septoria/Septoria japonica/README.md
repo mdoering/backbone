@@ -1,5 +1,4 @@
-Septoria japonica Thüm. SPECIES
-=======
+# Septoria japonica Thüm. SPECIES
 
 #### Status
 ACCEPTED

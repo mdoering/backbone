@@ -1,5 +1,4 @@
-Ophiobolus implexus (Ellis & Everh.) Ellis & Everh. SPECIES
-=======
+# Ophiobolus implexus (Ellis & Everh.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

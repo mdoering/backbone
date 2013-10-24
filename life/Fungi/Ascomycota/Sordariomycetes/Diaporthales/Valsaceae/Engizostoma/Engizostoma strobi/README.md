@@ -1,5 +1,4 @@
-Engizostoma strobi (Pass.) Kuntze SPECIES
-=======
+# Engizostoma strobi (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

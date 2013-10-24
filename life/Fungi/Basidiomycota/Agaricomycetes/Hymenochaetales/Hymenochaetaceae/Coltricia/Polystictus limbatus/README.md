@@ -1,5 +1,4 @@
-Polystictus limbatus Fr. SPECIES
-=======
+# Polystictus limbatus Fr. SPECIES
 
 #### Status
 ACCEPTED

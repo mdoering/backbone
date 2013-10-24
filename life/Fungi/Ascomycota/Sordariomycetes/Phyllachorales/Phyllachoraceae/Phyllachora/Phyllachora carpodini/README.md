@@ -1,5 +1,4 @@
-Phyllachora carpodini S. Hughes, 1953 SPECIES
-=======
+# Phyllachora carpodini S. Hughes, 1953 SPECIES
 
 #### Status
 ACCEPTED

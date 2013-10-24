@@ -1,5 +1,4 @@
-Cordyceps aeruginosclerota Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps aeruginosclerota Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

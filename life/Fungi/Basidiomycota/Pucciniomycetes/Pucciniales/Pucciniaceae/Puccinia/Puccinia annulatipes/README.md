@@ -1,5 +1,4 @@
-Puccinia annulatipes Cummins SPECIES
-=======
+# Puccinia annulatipes Cummins SPECIES
 
 #### Status
 ACCEPTED

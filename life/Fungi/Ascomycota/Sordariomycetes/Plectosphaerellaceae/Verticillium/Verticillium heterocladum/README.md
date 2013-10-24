@@ -1,5 +1,4 @@
-Verticillium heterocladum H.S. Fawc. SPECIES
-=======
+# Verticillium heterocladum H.S. Fawc. SPECIES
 
 #### Status
 ACCEPTED

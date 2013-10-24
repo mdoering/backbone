@@ -1,5 +1,4 @@
-Pseudobaisalina Sosnina, 1983 GENUS
-=======
+# Pseudobaisalina Sosnina, 1983 GENUS
 
 #### Status
 ACCEPTED

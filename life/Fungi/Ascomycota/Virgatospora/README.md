@@ -1,5 +1,4 @@
-Virgatospora Finley GENUS
-=======
+# Virgatospora Finley GENUS
 
 #### Status
 ACCEPTED

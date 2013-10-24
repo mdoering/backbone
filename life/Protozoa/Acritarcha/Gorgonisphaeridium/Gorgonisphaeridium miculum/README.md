@@ -1,5 +1,4 @@
-Gorgonisphaeridium miculum Playford & Martin, 1984 SPECIES
-=======
+# Gorgonisphaeridium miculum Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria nigripes Schwein. SPECIES
-=======
+# Isaria nigripes Schwein. SPECIES
 
 #### Status
 ACCEPTED

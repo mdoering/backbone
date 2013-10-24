@@ -1,5 +1,4 @@
-Uredo commelinacea Ellis & Kelsey SPECIES
-=======
+# Uredo commelinacea Ellis & Kelsey SPECIES
 
 #### Status
 ACCEPTED

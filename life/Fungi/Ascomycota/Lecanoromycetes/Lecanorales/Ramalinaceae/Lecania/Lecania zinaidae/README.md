@@ -1,5 +1,4 @@
-Lecania zinaidae Oxner SPECIES
-=======
+# Lecania zinaidae Oxner SPECIES
 
 #### Status
 ACCEPTED

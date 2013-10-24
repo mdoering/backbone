@@ -1,5 +1,4 @@
-Pyrenophora hungarica Moesz SPECIES
-=======
+# Pyrenophora hungarica Moesz SPECIES
 
 #### Status
 ACCEPTED

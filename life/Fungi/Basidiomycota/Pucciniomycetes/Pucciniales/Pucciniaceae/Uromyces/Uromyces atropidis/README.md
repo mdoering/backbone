@@ -1,5 +1,4 @@
-Uromyces atropidis Tranzschel SPECIES
-=======
+# Uromyces atropidis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus rhagadioli Pass. SPECIES
-=======
+# Ophiobolus rhagadioli Pass. SPECIES
 
 #### Status
 ACCEPTED

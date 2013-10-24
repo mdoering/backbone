@@ -1,5 +1,4 @@
-Dokmaia monthadangi Promp., 2003 SPECIES
-=======
+# Dokmaia monthadangi Promp., 2003 SPECIES
 
 #### Status
 ACCEPTED

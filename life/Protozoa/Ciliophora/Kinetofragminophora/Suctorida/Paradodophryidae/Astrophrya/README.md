@@ -1,5 +1,4 @@
-Astrophrya Awerinzew, 1904 GENUS
-=======
+# Astrophrya Awerinzew, 1904 GENUS
 
 #### Status
 ACCEPTED

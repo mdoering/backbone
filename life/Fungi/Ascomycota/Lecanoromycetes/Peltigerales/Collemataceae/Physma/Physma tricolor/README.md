@@ -1,5 +1,4 @@
-Physma tricolor Zahlbr. SPECIES
-=======
+# Physma tricolor Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

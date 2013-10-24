@@ -1,5 +1,4 @@
-Peccania subnigra (B. de Lesd.) Wetmore SPECIES
-=======
+# Peccania subnigra (B. de Lesd.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

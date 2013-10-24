@@ -1,5 +1,4 @@
-Chlorostroma subcubisporum A.N. Mill., Lar.N. Vassiljeva & J.D. Rogers, 2007 SPECIES
-=======
+# Chlorostroma subcubisporum A.N. Mill., Lar.N. Vassiljeva & J.D. Rogers, 2007 SPECIES
 
 #### Status
 ACCEPTED

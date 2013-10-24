@@ -1,5 +1,4 @@
-Arthopyrenia tichothecioides Arnold SPECIES
-=======
+# Arthopyrenia tichothecioides Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha proximata Müll. Arg. SPECIES
-=======
+# Opegrapha proximata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

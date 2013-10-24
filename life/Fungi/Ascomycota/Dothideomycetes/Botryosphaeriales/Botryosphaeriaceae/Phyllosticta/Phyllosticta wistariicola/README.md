@@ -1,5 +1,4 @@
-Phyllosticta wistariicola Sawada SPECIES
-=======
+# Phyllosticta wistariicola Sawada SPECIES
 
 #### Status
 ACCEPTED

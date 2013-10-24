@@ -1,5 +1,4 @@
-Dicaeoma zeugitis (Arthur & Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma zeugitis (Arthur & Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

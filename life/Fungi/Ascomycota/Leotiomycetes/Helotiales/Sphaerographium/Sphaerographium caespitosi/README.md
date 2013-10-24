@@ -1,5 +1,4 @@
-Sphaerographium caespitosi Sacc. SPECIES
-=======
+# Sphaerographium caespitosi Sacc. SPECIES
 
 #### Status
 ACCEPTED

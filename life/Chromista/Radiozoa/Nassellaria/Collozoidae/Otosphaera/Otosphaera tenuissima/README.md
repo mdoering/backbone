@@ -1,5 +1,4 @@
-Otosphaera tenuissima Takahashi, 1991 SPECIES
-=======
+# Otosphaera tenuissima Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

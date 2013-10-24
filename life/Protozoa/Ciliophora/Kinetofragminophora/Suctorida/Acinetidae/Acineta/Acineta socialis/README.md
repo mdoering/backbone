@@ -1,5 +1,4 @@
-Acineta socialis SPECIES
-=======
+# Acineta socialis SPECIES
 
 #### Status
 ACCEPTED

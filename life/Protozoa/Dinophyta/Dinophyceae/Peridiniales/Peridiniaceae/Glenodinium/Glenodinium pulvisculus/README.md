@@ -1,5 +1,4 @@
-Glenodinium pulvisculus Stein SPECIES
-=======
+# Glenodinium pulvisculus Stein SPECIES
 
 #### Status
 ACCEPTED

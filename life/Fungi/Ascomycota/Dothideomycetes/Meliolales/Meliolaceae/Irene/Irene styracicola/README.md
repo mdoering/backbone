@@ -1,5 +1,4 @@
-Irene styracicola var. styracicola VARIETY
-=======
+# Irene styracicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irene styracicola var. styracicola
+Irene styracicola W. Yamam.
 
 ### Remarks
 null

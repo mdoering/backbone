@@ -1,5 +1,4 @@
-Aecidium atropae Mont. SPECIES
-=======
+# Aecidium atropae Mont. SPECIES
 
 #### Status
 ACCEPTED

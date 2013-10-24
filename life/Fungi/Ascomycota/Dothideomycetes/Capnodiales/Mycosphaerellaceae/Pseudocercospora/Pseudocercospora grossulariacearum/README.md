@@ -1,5 +1,4 @@
-Pseudocercospora grossulariacearum U. Braun & Crous SPECIES
-=======
+# Pseudocercospora grossulariacearum U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

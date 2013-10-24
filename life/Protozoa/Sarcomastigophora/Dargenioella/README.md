@@ -1,5 +1,4 @@
-Dargenioella de Castro, 1989 GENUS
-=======
+# Dargenioella de Castro, 1989 GENUS
 
 #### Status
 ACCEPTED

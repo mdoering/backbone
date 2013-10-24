@@ -1,17 +1,16 @@
-Limacinia tangensis Henn. SPECIES
-=======
+# Limacinia tangaensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notizbl. Bot. Gart. Berlin-Dahlem 80 (1903)
 
 #### Original name
-Limacinia tangensis Henn.
+Limacinia tangaensis Henn.
 
 ### Remarks
 null

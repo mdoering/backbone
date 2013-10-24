@@ -1,5 +1,4 @@
-Delicatula ramosa Velen. SPECIES
-=======
+# Delicatula ramosa Velen. SPECIES
 
 #### Status
 ACCEPTED

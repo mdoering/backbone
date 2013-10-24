@@ -1,5 +1,4 @@
-Hastigerina Thomson, 1876 GENUS
-=======
+# Hastigerina Thomson, 1876 GENUS
 
 #### Status
 ACCEPTED

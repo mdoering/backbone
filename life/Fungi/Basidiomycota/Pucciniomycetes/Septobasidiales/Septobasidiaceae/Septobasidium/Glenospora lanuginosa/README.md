@@ -1,17 +1,16 @@
-Blastomycoides lanuginosus Castell., 1930 SPECIES
-=======
+# Glenospora lanuginosa (Castell.) A. Agostini, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 4 3: 67 (1931)
 
 #### Original name
-null
+Blastomycoides lanuginosa Castell.
 
 ### Remarks
 null

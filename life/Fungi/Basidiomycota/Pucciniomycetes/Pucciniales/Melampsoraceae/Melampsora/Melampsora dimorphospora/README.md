@@ -1,5 +1,4 @@
-Melampsora dimorphospora S. Kaneko & Hirats. f. SPECIES
-=======
+# Melampsora dimorphospora S. Kaneko & Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

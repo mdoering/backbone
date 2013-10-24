@@ -1,5 +1,4 @@
-Phyllachora chusqueana Orejuela, 1941 SPECIES
-=======
+# Phyllachora chusqueana Orejuela, 1941 SPECIES
 
 #### Status
 DOUBTFUL

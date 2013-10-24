@@ -1,5 +1,4 @@
-Celothelium lutescens F. Berger & Aptroot SPECIES
-=======
+# Celothelium lutescens F. Berger & Aptroot SPECIES
 
 #### Status
 ACCEPTED

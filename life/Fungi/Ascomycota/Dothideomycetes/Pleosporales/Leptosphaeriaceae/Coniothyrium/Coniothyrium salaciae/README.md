@@ -1,5 +1,4 @@
-Coniothyrium salaciae Allesch. SPECIES
-=======
+# Coniothyrium salaciae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astacolus planulatus Galloway & Wissler SPECIES
-=======
+# Astacolus planulatus Galloway & Wissler SPECIES
 
 #### Status
 ACCEPTED

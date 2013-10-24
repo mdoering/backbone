@@ -1,5 +1,4 @@
-Ochromonas spherocystis Matvienko SPECIES
-=======
+# Ochromonas spherocystis Matvienko SPECIES
 
 #### Status
 ACCEPTED

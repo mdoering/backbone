@@ -1,5 +1,4 @@
-Lecidea phaeaspis (Tuck.) SPECIES
-=======
+# Lecidea phaeaspis (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Galera rubiginosa var. annulata J. Favre, 1955 VARIETY
-=======
+# Galerina annulata (J. Favre) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ergebn. wiss. Unters. schweiz. NatnParks 5: 33 (1955)
+Beih. Sydowia 7: 90 (1973)
 
 #### Original name
 Galera rubiginosa var. annulata J. Favre, 1955

@@ -1,5 +1,4 @@
-Roussoella bambusae (Pat.) M. Monod SPECIES
-=======
+# Roussoella bambusae (Pat.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

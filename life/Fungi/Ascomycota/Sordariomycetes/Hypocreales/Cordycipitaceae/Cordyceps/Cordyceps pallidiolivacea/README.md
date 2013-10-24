@@ -1,5 +1,4 @@
-Cordyceps pallidiolivacea Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps pallidiolivacea Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

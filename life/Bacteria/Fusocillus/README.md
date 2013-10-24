@@ -1,5 +1,4 @@
-Fusocillus GENUS
-=======
+# Fusocillus GENUS
 
 #### Status
 ACCEPTED

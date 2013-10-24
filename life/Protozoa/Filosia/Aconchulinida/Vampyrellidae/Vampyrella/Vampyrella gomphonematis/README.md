@@ -1,5 +1,4 @@
-Vampyrella gomphonematis Haeckel {?} SPECIES
-=======
+# Vampyrella gomphonematis Haeckel {?} SPECIES
 
 #### Status
 ACCEPTED

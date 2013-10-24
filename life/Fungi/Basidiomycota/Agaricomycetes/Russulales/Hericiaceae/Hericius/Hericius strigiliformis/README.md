@@ -1,5 +1,4 @@
-Hericius strigiliformis Dubois SPECIES
-=======
+# Hericius strigiliformis Dubois SPECIES
 
 #### Status
 ACCEPTED

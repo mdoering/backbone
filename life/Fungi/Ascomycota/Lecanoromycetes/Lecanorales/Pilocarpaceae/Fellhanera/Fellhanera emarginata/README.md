@@ -1,5 +1,4 @@
-Fellhanera emarginata Lücking SPECIES
-=======
+# Fellhanera emarginata Lücking SPECIES
 
 #### Status
 ACCEPTED

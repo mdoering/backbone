@@ -1,5 +1,4 @@
-Stereocaulon cupriniforme Nyl. SPECIES
-=======
+# Stereocaulon cupriniforme Nyl. SPECIES
 
 #### Status
 ACCEPTED

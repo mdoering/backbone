@@ -1,5 +1,4 @@
-Baltisphaeridium rugosus (Naumova, 1950) N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium rugosus (Naumova, 1950) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

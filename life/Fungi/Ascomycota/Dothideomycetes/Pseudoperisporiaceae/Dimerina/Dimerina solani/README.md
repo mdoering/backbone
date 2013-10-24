@@ -1,5 +1,4 @@
-Dimerina solani (Henn.) Theiss. SPECIES
-=======
+# Dimerina solani (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

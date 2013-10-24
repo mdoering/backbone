@@ -1,5 +1,4 @@
-Desulfuromonadales ORDER
-=======
+# Desulfuromonadales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria zenogensis Zschacke SPECIES
-=======
+# Verrucaria zenogensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

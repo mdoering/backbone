@@ -1,5 +1,4 @@
-Hymenopsis decipiens Pass. SPECIES
-=======
+# Hymenopsis decipiens Pass. SPECIES
 
 #### Status
 ACCEPTED

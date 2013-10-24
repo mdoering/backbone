@@ -1,5 +1,4 @@
-Botrytis cryptomeriae Kitaj., 1951 SPECIES
-=======
+# Botrytis cryptomeriae Kitaj., 1951 SPECIES
 
 #### Status
 ACCEPTED

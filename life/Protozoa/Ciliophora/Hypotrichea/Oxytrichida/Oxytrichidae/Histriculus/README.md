@@ -1,5 +1,4 @@
-Histriculus Corliss, 1960 GENUS
-=======
+# Histriculus Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thielavia pseudomaritima D.E. Davidson SPECIES
-=======
+# Thielavia pseudomaritima D.E. Davidson SPECIES
 
 #### Status
 ACCEPTED

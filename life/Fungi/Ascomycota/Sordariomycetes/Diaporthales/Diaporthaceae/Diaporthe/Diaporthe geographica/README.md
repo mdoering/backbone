@@ -1,5 +1,4 @@
-Diaporthe geographica Fuckel SPECIES
-=======
+# Diaporthe geographica Fuckel SPECIES
 
 #### Status
 ACCEPTED

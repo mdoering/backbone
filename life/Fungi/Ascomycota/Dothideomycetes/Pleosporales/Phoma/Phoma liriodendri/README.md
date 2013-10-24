@@ -1,5 +1,4 @@
-Phoma liriodendri Westend. SPECIES
-=======
+# Phoma liriodendri Westend. SPECIES
 
 #### Status
 ACCEPTED

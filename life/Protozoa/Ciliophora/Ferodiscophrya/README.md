@@ -1,5 +1,4 @@
-Ferodiscophrya Jankowski, 1981 GENUS
-=======
+# Ferodiscophrya Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

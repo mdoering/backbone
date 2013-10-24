@@ -1,5 +1,4 @@
-Clypeolinopsis caruaruensis Bat. SPECIES
-=======
+# Clypeolinopsis caruaruensis Bat. SPECIES
 
 #### Status
 ACCEPTED

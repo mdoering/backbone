@@ -1,17 +1,16 @@
-Pyronema confluens var. confluens VARIETY
-=======
+# Pyronema omphalodes (Bull.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 3: 197 (1865)
+Jb. nassau. Ver. Naturk. 23-24: 319 (1870)
 
 #### Original name
-Pyronema confluens var. confluens
+Peziza omphalodes Bull., 1791
 
 ### Remarks
 null

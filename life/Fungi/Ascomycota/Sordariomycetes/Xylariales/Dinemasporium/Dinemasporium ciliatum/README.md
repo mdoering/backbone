@@ -1,5 +1,4 @@
-Dinemasporium ciliatum (Bonord.) Sacc. SPECIES
-=======
+# Dinemasporium ciliatum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

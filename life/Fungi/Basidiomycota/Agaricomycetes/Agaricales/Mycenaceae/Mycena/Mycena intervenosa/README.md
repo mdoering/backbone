@@ -1,5 +1,4 @@
-Mycena intervenosa Métrod SPECIES
-=======
+# Mycena intervenosa Métrod SPECIES
 
 #### Status
 ACCEPTED

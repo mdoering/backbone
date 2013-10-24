@@ -1,17 +1,16 @@
-Phoma revellens Sacc., 1884 SPECIES
-=======
+# Diaporthe revellens Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 99 (1884)
+Pyrenomycetes Germanici 2: 302 (1870)
 
 #### Original name
-Phoma revellens Sacc., 1884
+Diaporthe revellens Nitschke, 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Benedekiella oxycocci Negru & Verona SPECIES
-=======
+# Benedekiella oxycocci Negru & Verona SPECIES
 
 #### Status
 ACCEPTED

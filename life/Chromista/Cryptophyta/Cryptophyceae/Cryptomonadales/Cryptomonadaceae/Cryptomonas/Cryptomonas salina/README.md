@@ -1,5 +1,4 @@
-Cryptomonas salina Wislouch SPECIES
-=======
+# Cryptomonas salina Wislouch SPECIES
 
 #### Status
 ACCEPTED

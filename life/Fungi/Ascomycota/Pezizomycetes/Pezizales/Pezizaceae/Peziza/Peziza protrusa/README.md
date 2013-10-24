@@ -1,5 +1,4 @@
-Peziza protrusa Berk. & M.A. Curtis SPECIES
-=======
+# Peziza protrusa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

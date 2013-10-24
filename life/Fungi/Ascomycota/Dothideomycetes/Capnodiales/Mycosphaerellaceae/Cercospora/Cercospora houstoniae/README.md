@@ -1,5 +1,4 @@
-Cercospora houstoniae Ellis & Everh. SPECIES
-=======
+# Cercospora houstoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

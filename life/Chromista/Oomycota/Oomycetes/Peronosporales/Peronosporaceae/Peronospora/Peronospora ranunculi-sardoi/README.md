@@ -1,5 +1,4 @@
-Peronospora ranunculi-sardoi Savul. & Rayss SPECIES
-=======
+# Peronospora ranunculi-sardoi Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

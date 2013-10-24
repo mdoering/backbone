@@ -1,5 +1,4 @@
-Fomes johnsonianus (Murrill) J. Lowe SPECIES
-=======
+# Fomes johnsonianus (Murrill) J. Lowe SPECIES
 
 #### Status
 ACCEPTED

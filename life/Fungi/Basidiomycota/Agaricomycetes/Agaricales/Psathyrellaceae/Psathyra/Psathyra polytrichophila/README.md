@@ -1,5 +1,4 @@
-Psathyra polytrichophila (Peck) Sacc. SPECIES
-=======
+# Psathyra polytrichophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

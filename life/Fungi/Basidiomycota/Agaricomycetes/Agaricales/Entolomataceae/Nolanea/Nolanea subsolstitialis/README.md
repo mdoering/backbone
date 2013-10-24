@@ -1,5 +1,4 @@
-Nolanea subsolstitialis Largent SPECIES
-=======
+# Nolanea subsolstitialis Largent SPECIES
 
 #### Status
 ACCEPTED

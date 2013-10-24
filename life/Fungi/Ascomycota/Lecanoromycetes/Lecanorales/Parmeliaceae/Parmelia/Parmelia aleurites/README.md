@@ -1,5 +1,4 @@
-Parmelia aleurites var. aleurites VARIETY
-=======
+# Parmelia aleurites Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia aleurites var. aleurites
+Parmelia aleurites Nyl.
 
 ### Remarks
 null

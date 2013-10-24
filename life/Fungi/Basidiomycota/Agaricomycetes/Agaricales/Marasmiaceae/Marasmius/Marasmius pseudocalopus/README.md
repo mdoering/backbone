@@ -1,5 +1,4 @@
-Marasmius pseudocalopus Henn. SPECIES
-=======
+# Marasmius pseudocalopus Henn. SPECIES
 
 #### Status
 ACCEPTED

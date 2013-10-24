@@ -1,5 +1,4 @@
-Hydrophora stercorea Tode SPECIES
-=======
+# Hydrophora stercorea Tode SPECIES
 
 #### Status
 ACCEPTED

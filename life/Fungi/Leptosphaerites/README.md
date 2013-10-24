@@ -1,5 +1,4 @@
-Leptosphaerites Richon, 1885 GENUS
-=======
+# Leptosphaerites Richon, 1885 GENUS
 
 #### Status
 ACCEPTED

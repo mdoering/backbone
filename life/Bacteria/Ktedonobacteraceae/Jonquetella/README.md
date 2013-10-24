@@ -1,5 +1,4 @@
-Jonquetella Jumas-Bilak et al., 2007 GENUS
-=======
+# Jonquetella Jumas-Bilak et al., 2007 GENUS
 
 #### Status
 ACCEPTED

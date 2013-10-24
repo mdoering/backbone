@@ -1,5 +1,4 @@
-Hypotrachyna habenula M. D. E. Knox SPECIES
-=======
+# Hypotrachyna habenula M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

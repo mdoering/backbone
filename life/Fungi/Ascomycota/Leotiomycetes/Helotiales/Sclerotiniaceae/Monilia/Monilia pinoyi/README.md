@@ -1,5 +1,4 @@
-Monilia pinoyi (Castell.) Castell. & Chalm. SPECIES
-=======
+# Monilia pinoyi (Castell.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

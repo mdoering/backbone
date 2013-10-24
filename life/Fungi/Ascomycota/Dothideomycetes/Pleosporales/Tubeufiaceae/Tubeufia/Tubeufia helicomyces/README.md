@@ -1,5 +1,4 @@
-Tubeufia helicomyces Höhn., 1909 SPECIES
-=======
+# Tubeufia helicomyces Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

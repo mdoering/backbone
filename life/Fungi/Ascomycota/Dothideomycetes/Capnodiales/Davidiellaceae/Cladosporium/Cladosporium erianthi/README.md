@@ -1,5 +1,4 @@
-Cladosporium erianthi Thüm., 1879 SPECIES
-=======
+# Cladosporium erianthi Thüm., 1879 SPECIES
 
 #### Status
 ACCEPTED

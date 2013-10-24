@@ -1,5 +1,4 @@
-Restiosporium meneyae Vánky, 2000 SPECIES
-=======
+# Restiosporium meneyae Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

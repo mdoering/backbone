@@ -1,5 +1,4 @@
-Diplodina duninii Babajan & Negru SPECIES
-=======
+# Diplodina duninii Babajan & Negru SPECIES
 
 #### Status
 ACCEPTED

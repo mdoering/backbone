@@ -1,5 +1,4 @@
-Agaricus cepaceus Fr. SPECIES
-=======
+# Agaricus cepaceus Fr. SPECIES
 
 #### Status
 ACCEPTED

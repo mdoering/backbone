@@ -1,5 +1,4 @@
-Cladonia kuringaiensis A. W. Archer SPECIES
-=======
+# Cladonia kuringaiensis A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

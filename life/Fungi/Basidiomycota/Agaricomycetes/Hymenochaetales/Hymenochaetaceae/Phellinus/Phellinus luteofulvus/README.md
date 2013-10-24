@@ -1,14 +1,13 @@
-Poria luteofulva Cleland & Rodway, 1928 SPECIES
-=======
+# Phellinus luteofulvus (Cleland & Rodway) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 42 (1928)
+Norw. Jl Bot. 19(3-4): 235 (1972)
 
 #### Original name
 Poria luteofulva Cleland & Rodway, 1928

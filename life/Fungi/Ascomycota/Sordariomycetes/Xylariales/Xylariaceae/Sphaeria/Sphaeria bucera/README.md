@@ -1,5 +1,4 @@
-Sphaeria bucera Cooke & Ellis SPECIES
-=======
+# Sphaeria bucera Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

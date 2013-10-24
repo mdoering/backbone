@@ -1,5 +1,4 @@
-Trachyarachnitum fusinum Fang Xiaosi, 1986 SPECIES
-=======
+# Trachyarachnitum fusinum Fang Xiaosi, 1986 SPECIES
 
 #### Status
 ACCEPTED

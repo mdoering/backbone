@@ -1,5 +1,4 @@
-Faecalibacterium Duncan, Hold, Harmsen, Stewart & Flint, 2002 GENUS
-=======
+# Faecalibacterium Duncan, Hold, Harmsen, Stewart & Flint, 2002 GENUS
 
 #### Status
 ACCEPTED

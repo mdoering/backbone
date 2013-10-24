@@ -1,5 +1,4 @@
-Ilsiella palustris Foissner, 1993 SPECIES
-=======
+# Ilsiella palustris Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

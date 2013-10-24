@@ -1,8 +1,7 @@
-Pyxine niveo-marginata B. de Lesd. SPECIES
-=======
+# Pyxine niveomarginata B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyxine niveo-marginata B. de Lesd.
+Pyxine niveomarginata B. de Lesd.
 
 ### Remarks
 null

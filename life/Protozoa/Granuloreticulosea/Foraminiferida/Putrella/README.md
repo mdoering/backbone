@@ -1,5 +1,4 @@
-Putrella GENUS
-=======
+# Putrella GENUS
 
 #### Status
 ACCEPTED

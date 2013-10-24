@@ -1,5 +1,4 @@
-Pleurotus kabulensis (Singer) Batyrova SPECIES
-=======
+# Pleurotus kabulensis (Singer) Batyrova SPECIES
 
 #### Status
 ACCEPTED

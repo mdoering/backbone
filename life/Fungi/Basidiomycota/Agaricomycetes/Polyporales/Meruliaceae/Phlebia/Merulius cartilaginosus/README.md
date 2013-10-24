@@ -1,5 +1,4 @@
-Merulius cartilaginosus Wettst. SPECIES
-=======
+# Merulius cartilaginosus Wettst. SPECIES
 
 #### Status
 ACCEPTED

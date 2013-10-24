@@ -1,5 +1,4 @@
-Stagonospora photiniae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Stagonospora photiniae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

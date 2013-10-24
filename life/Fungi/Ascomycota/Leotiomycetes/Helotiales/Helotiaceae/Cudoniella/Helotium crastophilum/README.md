@@ -1,5 +1,4 @@
-Helotium crastophilum Sacc. SPECIES
-=======
+# Helotium crastophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

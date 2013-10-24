@@ -1,5 +1,4 @@
-Phoma altipes Sacc. SPECIES
-=======
+# Phoma altipes Sacc. SPECIES
 
 #### Status
 ACCEPTED

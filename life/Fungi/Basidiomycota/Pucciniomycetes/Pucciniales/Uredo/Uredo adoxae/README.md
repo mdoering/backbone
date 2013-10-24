@@ -1,5 +1,4 @@
-Uredo adoxae Auersw. SPECIES
-=======
+# Uredo adoxae Auersw. SPECIES
 
 #### Status
 ACCEPTED

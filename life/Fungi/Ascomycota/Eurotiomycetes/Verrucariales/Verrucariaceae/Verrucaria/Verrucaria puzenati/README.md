@@ -1,5 +1,4 @@
-Verrucaria puzenati Werner SPECIES
-=======
+# Verrucaria puzenati Werner SPECIES
 
 #### Status
 ACCEPTED

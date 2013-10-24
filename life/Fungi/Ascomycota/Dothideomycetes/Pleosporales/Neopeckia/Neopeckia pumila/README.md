@@ -1,5 +1,4 @@
-Neopeckia pumila Penz. & Sacc. SPECIES
-=======
+# Neopeckia pumila Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epichloe festucae Leuchtm., Schardl & M.R. Siegel, 1995 SPECIES
-=======
+# Epichloe festucae Leuchtm., Schardl & M.R. Siegel, 1995 SPECIES
 
 #### Status
 ACCEPTED

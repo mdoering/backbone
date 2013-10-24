@@ -1,5 +1,4 @@
-Diatrype implicata (Lév.) Rappaz SPECIES
-=======
+# Diatrype implicata (Lév.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

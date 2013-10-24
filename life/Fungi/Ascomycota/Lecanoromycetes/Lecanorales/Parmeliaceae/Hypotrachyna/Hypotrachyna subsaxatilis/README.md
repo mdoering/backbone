@@ -1,17 +1,16 @@
-Parmelia subsaxatilis f. subsaxatilis FORM
-=======
+# Hypotrachyna subsaxatilis (B. de Lesd.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 68 (1975)
 
 #### Original name
-Parmelia subsaxatilis f. subsaxatilis
+Parmelia subsaxatilis B. de Lesd.
 
 ### Remarks
 null

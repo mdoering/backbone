@@ -1,5 +1,4 @@
-Cercospora plagiogyriae Sawada SPECIES
-=======
+# Cercospora plagiogyriae Sawada SPECIES
 
 #### Status
 ACCEPTED

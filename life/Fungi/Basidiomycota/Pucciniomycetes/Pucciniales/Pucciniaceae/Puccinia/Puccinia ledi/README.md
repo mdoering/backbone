@@ -1,5 +1,4 @@
-Puccinia ledi Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia ledi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

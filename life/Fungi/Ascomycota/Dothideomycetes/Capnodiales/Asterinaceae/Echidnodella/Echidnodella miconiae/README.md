@@ -1,5 +1,4 @@
-Echidnodella miconiae R.W. Ryan SPECIES
-=======
+# Echidnodella miconiae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

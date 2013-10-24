@@ -1,5 +1,4 @@
-Lachnella coccinea Kirschst. SPECIES
-=======
+# Lachnella coccinea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

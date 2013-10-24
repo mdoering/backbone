@@ -1,5 +1,4 @@
-Stictis hederae P. Crouan & H. Crouan SPECIES
-=======
+# Stictis hederae P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

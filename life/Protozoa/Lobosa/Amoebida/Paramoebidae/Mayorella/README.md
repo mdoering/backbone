@@ -1,5 +1,4 @@
-Mayorella Schaeffer, 1926 GENUS
-=======
+# Mayorella Schaeffer, 1926 GENUS
 
 #### Status
 ACCEPTED

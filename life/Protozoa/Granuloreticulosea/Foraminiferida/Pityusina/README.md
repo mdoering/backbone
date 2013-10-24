@@ -1,5 +1,4 @@
-Pityusina Rangheard & Colom, 1965 GENUS
-=======
+# Pityusina Rangheard & Colom, 1965 GENUS
 
 #### Status
 ACCEPTED

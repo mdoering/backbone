@@ -1,5 +1,4 @@
-Leiosphaeridia figurata Kiryanov, 1978 SPECIES
-=======
+# Leiosphaeridia figurata Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeomyces asteroxyli Kidst. & W.H. Lang SPECIES
-=======
+# Palaeomyces asteroxyli Kidst. & W.H. Lang SPECIES
 
 #### Status
 ACCEPTED

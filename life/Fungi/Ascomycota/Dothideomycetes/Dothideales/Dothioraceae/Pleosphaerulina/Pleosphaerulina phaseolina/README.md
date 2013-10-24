@@ -1,5 +1,4 @@
-Pleosphaerulina phaseolina Sawada SPECIES
-=======
+# Pleosphaerulina phaseolina Sawada SPECIES
 
 #### Status
 ACCEPTED

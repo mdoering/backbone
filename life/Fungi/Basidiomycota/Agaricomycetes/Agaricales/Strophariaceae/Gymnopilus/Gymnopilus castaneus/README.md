@@ -1,5 +1,4 @@
-Gymnopilus castaneus Murrill SPECIES
-=======
+# Gymnopilus castaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma felleum Murrill SPECIES
-=======
+# Entoloma felleum Murrill SPECIES
 
 #### Status
 ACCEPTED

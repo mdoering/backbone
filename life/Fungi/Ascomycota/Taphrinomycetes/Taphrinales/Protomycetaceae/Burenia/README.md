@@ -1,5 +1,4 @@
-Burenia Reddy & Kramer, 1975 GENUS
-=======
+# Burenia Reddy & Kramer, 1975 GENUS
 
 #### Status
 ACCEPTED

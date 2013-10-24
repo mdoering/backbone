@@ -1,5 +1,4 @@
-Thelotrema marginans Vain. SPECIES
-=======
+# Thelotrema marginans Vain. SPECIES
 
 #### Status
 ACCEPTED

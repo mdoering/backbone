@@ -1,5 +1,4 @@
-Glenodiniopsis pretiosa Lindemann SPECIES
-=======
+# Glenodiniopsis pretiosa Lindemann SPECIES
 
 #### Status
 ACCEPTED

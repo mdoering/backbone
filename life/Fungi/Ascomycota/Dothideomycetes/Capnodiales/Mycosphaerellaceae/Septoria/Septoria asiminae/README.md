@@ -1,5 +1,4 @@
-Septoria asiminae Ellis & Everh. SPECIES
-=======
+# Septoria asiminae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

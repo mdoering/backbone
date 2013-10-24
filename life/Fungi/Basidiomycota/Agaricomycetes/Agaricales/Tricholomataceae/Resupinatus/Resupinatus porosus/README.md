@@ -1,5 +1,4 @@
-Resupinatus porosus M.P. Martín, Lodge & Thorn SPECIES
-=======
+# Resupinatus porosus M.P. Martín, Lodge & Thorn SPECIES
 
 #### Status
 ACCEPTED

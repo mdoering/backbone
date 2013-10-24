@@ -1,5 +1,4 @@
-Puccinia tournefortiicola Speg. SPECIES
-=======
+# Puccinia tournefortiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

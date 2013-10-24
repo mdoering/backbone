@@ -1,5 +1,4 @@
-Porophora granulata Nyl. SPECIES
-=======
+# Porophora granulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

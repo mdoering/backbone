@@ -1,5 +1,4 @@
-Stigmatea pongamiae Racib. SPECIES
-=======
+# Stigmatea pongamiae Racib. SPECIES
 
 #### Status
 ACCEPTED

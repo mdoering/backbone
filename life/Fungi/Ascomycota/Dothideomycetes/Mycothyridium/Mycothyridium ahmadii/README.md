@@ -1,5 +1,4 @@
-Mycothyridium ahmadii (Petr.) S. Ahmad SPECIES
-=======
+# Mycothyridium ahmadii (Petr.) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

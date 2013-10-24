@@ -1,5 +1,4 @@
-Solenophrya calyciformis SPECIES
-=======
+# Solenophrya calyciformis SPECIES
 
 #### Status
 ACCEPTED

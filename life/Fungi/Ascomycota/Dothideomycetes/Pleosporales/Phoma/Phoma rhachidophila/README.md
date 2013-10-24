@@ -1,5 +1,4 @@
-Phoma rhachidophila Ferraris SPECIES
-=======
+# Phoma rhachidophila Ferraris SPECIES
 
 #### Status
 ACCEPTED

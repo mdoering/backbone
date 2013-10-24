@@ -1,5 +1,4 @@
-Microthelia fumosula Zahlbr. SPECIES
-=======
+# Microthelia fumosula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monodictys torulosa P.C. Misra & K.J. Srivast. SPECIES
-=======
+# Monodictys torulosa P.C. Misra & K.J. Srivast. SPECIES
 
 #### Status
 ACCEPTED

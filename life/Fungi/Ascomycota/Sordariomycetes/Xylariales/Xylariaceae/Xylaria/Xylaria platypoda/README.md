@@ -1,5 +1,4 @@
-Xylaria platypoda var. platypoda VARIETY
-=======
+# Xylaria platypoda (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria platypoda var. platypoda
+Cordyceps platypoda Lév.
 
 ### Remarks
 null

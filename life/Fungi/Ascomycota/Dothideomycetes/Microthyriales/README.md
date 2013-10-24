@@ -1,5 +1,4 @@
-Microthyriales G. Arnaud ORDER
-=======
+# Microthyriales G. Arnaud ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariopsis villosovolva (Lloyd) Murrill SPECIES
-=======
+# Volvariopsis villosovolva (Lloyd) Murrill SPECIES
 
 #### Status
 ACCEPTED

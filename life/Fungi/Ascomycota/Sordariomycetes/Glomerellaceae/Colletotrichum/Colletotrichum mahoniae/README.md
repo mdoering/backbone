@@ -1,5 +1,4 @@
-Colletotrichum mahoniae Fabric., 1950 SPECIES
-=======
+# Colletotrichum mahoniae Fabric., 1950 SPECIES
 
 #### Status
 ACCEPTED

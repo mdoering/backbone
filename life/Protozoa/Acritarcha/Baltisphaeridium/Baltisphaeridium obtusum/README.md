@@ -1,5 +1,4 @@
-Baltisphaeridium obtusum Sheshegova, 1975 SPECIES
-=======
+# Baltisphaeridium obtusum Sheshegova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdolithus decorus Deflandre SPECIES
-=======
+# Rhabdolithus decorus Deflandre SPECIES
 
 #### Status
 ACCEPTED

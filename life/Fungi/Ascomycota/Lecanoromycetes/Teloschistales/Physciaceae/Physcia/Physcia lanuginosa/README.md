@@ -1,5 +1,4 @@
-Physcia lanuginosa var. lanuginosa VARIETY
-=======
+# Physcia lanuginosa (Hoffm.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia lanuginosa var. lanuginosa
+null
 
 ### Remarks
 null

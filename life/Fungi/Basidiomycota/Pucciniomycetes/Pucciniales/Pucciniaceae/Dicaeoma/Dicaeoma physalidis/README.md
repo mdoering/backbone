@@ -1,5 +1,4 @@
-Dicaeoma physalidis (Peck) Kuntze SPECIES
-=======
+# Dicaeoma physalidis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma tephreum Hesler SPECIES
-=======
+# Entoloma tephreum Hesler SPECIES
 
 #### Status
 ACCEPTED

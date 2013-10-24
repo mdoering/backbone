@@ -1,5 +1,4 @@
-Lecanora justii Servít SPECIES
-=======
+# Lecanora justii Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora caesalpiniae Gucevic SPECIES
-=======
+# Pleospora caesalpiniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma campanulae Politis SPECIES
-=======
+# Phoma campanulae Politis SPECIES
 
 #### Status
 ACCEPTED

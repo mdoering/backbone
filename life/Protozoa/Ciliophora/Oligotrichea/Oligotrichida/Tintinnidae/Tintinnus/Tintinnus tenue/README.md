@@ -1,5 +1,4 @@
-Tintinnus tenue Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus tenue Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum circinatum Fr. SPECIES
-=======
+# Stereum circinatum Fr. SPECIES
 
 #### Status
 ACCEPTED

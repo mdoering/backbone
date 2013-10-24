@@ -1,5 +1,4 @@
-Polygonium latispinosum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium latispinosum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

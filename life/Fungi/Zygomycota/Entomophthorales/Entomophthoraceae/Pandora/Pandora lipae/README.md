@@ -1,5 +1,4 @@
-Pandora lipae (Balazy, Eilenberg & Papierok) S. Keller, 2005 SPECIES
-=======
+# Pandora lipae (Balazy, Eilenberg & Papierok) S. Keller, 2005 SPECIES
 
 #### Status
 ACCEPTED

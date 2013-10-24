@@ -1,5 +1,4 @@
-Pseudocercospora arachniodis Y.L. Guo SPECIES
-=======
+# Pseudocercospora arachniodis Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus alcalinus var. alcalinus VARIETY
-=======
+# Mycena alcalina (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 153 (1818)
+Führ. Pilzk. (Zwickau) 109 (1871)
 
 #### Original name
-Agaricus alcalinus var. alcalinus
+Agaricus alcalinus Fr., 1818
 
 ### Remarks
 null

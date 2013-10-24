@@ -1,5 +1,4 @@
-Septoria maculifera Sacc. SPECIES
-=======
+# Septoria maculifera Sacc. SPECIES
 
 #### Status
 ACCEPTED

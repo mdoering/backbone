@@ -1,5 +1,4 @@
-Porophora rufescens Zenker SPECIES
-=======
+# Porophora rufescens Zenker SPECIES
 
 #### Status
 ACCEPTED

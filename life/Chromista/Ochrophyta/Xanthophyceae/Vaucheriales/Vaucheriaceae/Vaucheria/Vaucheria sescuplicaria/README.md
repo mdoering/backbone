@@ -1,8 +1,7 @@
-Vaucheria dichotoma f. arternensis Rieth FORM
-=======
+# Vaucheria sescuplicaria T.A. Christensen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

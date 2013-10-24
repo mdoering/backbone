@@ -1,5 +1,4 @@
-Dimerella isidiigera Vezda & Osorio SPECIES
-=======
+# Dimerella isidiigera Vezda & Osorio SPECIES
 
 #### Status
 ACCEPTED

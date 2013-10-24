@@ -1,5 +1,4 @@
-Agaricus cremoraceus Peck SPECIES
-=======
+# Agaricus cremoraceus Peck SPECIES
 
 #### Status
 ACCEPTED

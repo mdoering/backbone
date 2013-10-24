@@ -1,5 +1,4 @@
-Spirolina semilituus (Linnaeus, 1758) SPECIES
-=======
+# Spirolina semilituus (Linnaeus, 1758) SPECIES
 
 #### Status
 ACCEPTED

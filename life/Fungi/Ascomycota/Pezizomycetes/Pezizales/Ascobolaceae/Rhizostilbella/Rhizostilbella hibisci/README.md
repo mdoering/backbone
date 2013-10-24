@@ -1,17 +1,16 @@
-Cephalosporium kashiense R.Y. Roy & G.N. Singh, 1968 SPECIES
-=======
+# Rhizostilbella hibisci (Pat.) Seifert, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 37: 535 (1968)
+Stud. Mycol. 27: 162 (1985)
 
 #### Original name
-Cephalosporium kashiense R.Y. Roy & G.N. Singh, 1968
+null
 
 ### Remarks
 null

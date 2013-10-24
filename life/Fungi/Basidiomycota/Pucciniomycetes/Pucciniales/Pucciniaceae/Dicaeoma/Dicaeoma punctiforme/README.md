@@ -1,5 +1,4 @@
-Dicaeoma punctiforme (Dietel & Holw.) Arthur SPECIES
-=======
+# Dicaeoma punctiforme (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

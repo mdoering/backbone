@@ -1,5 +1,4 @@
-Merulius affinis Jungh. SPECIES
-=======
+# Merulius affinis Jungh. SPECIES
 
 #### Status
 ACCEPTED

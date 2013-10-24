@@ -1,5 +1,4 @@
-Phacopsis varium Tul. SPECIES
-=======
+# Phacopsis varium Tul. SPECIES
 
 #### Status
 ACCEPTED

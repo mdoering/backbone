@@ -1,5 +1,4 @@
-Chytriomyces multioperculatus Sparrow & Dogma, 1973 SPECIES
-=======
+# Chytriomyces multioperculatus Sparrow & Dogma, 1973 SPECIES
 
 #### Status
 ACCEPTED

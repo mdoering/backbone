@@ -1,5 +1,4 @@
-Verrucaria arthonioides Eschw. SPECIES
-=======
+# Verrucaria arthonioides Eschw. SPECIES
 
 #### Status
 ACCEPTED

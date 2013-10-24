@@ -1,5 +1,4 @@
-Trogia perpusilla Corner SPECIES
-=======
+# Trogia perpusilla Corner SPECIES
 
 #### Status
 ACCEPTED

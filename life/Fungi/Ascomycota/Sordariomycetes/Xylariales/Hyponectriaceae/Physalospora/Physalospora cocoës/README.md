@@ -1,5 +1,4 @@
-Physalospora cocoës Caball. SPECIES
-=======
+# Physalospora cocoës Caball. SPECIES
 
 #### Status
 ACCEPTED

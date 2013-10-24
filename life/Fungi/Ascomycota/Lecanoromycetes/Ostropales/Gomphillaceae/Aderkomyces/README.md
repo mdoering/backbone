@@ -1,5 +1,4 @@
-Aderkomyces Bat. GENUS
-=======
+# Aderkomyces Bat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichlorobacter thiogenes De Wever et al., 2001 SPECIES
-=======
+# Trichlorobacter thiogenes De Wever et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

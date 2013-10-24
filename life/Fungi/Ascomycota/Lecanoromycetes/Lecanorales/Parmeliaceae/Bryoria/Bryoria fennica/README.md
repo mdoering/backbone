@@ -1,5 +1,4 @@
-Bryoria fennica Bystrek SPECIES
-=======
+# Bryoria fennica Bystrek SPECIES
 
 #### Status
 ACCEPTED

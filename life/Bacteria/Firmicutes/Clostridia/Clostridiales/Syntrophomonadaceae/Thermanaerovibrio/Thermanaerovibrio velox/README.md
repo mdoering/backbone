@@ -1,5 +1,4 @@
-Thermanaerovibrio velox Zavarzina et al., 2000 SPECIES
-=======
+# Thermanaerovibrio velox Zavarzina et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

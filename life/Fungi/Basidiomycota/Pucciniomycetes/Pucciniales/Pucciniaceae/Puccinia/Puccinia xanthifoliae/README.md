@@ -1,5 +1,4 @@
-Puccinia xanthifoliae Ellis & Everh. SPECIES
-=======
+# Puccinia xanthifoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

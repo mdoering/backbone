@@ -1,17 +1,16 @@
-Bacidia holomelaena var. holomelaena VARIETY
-=======
+# Scoliciosporum holomelaeum (Flörke) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 104 (1852)
 
 #### Original name
-null
+Lecidea holomelaena Flörke
 
 ### Remarks
 null

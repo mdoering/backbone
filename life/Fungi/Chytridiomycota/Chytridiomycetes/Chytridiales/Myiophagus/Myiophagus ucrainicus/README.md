@@ -1,17 +1,16 @@
-Olpidiopsis ucrainica Wize, 1904 SPECIES
-=======
+# Myiophagus ucrainicus (Wize) Sparrow, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 31: 443 (1939)
 
 #### Original name
-null
+Olpidiopsis ucranica Wize
 
 ### Remarks
 null

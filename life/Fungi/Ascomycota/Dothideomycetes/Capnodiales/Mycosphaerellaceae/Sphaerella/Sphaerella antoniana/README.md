@@ -1,5 +1,4 @@
-Sphaerella antoniana Unamuno SPECIES
-=======
+# Sphaerella antoniana Unamuno SPECIES
 
 #### Status
 ACCEPTED

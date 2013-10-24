@@ -1,5 +1,4 @@
-Polygonium polygonale (Eisenack, 1931 ex Eisenack, 1938) emend. Le Hérissé, 1989 SPECIES
-=======
+# Polygonium polygonale (Eisenack, 1931 ex Eisenack, 1938) emend. Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

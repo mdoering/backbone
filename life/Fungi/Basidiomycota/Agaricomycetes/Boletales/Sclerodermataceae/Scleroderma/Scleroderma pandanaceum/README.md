@@ -1,5 +1,4 @@
-Scleroderma pandanaceum F. Muell. SPECIES
-=======
+# Scleroderma pandanaceum F. Muell. SPECIES
 
 #### Status
 ACCEPTED

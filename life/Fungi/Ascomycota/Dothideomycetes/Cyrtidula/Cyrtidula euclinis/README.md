@@ -1,5 +1,4 @@
-Cyrtidula euclinis (Nyl.) Minks SPECIES
-=======
+# Cyrtidula euclinis (Nyl.) Minks SPECIES
 
 #### Status
 ACCEPTED

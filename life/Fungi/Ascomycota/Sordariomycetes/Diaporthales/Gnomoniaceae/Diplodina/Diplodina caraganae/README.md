@@ -1,5 +1,4 @@
-Diplodina caraganae Vestergr. SPECIES
-=======
+# Diplodina caraganae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

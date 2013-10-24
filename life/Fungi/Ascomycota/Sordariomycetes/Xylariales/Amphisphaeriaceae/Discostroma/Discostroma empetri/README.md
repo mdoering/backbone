@@ -1,5 +1,4 @@
-Discostroma empetri M.E. Barr SPECIES
-=======
+# Discostroma empetri M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena discophora Corner SPECIES
-=======
+# Mycena discophora Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria brunneipes R.H. Petersen & M. Zang, 1989 SPECIES
-=======
+# Ramaria brunneipes R.H. Petersen & M. Zang, 1989 SPECIES
 
 #### Status
 ACCEPTED

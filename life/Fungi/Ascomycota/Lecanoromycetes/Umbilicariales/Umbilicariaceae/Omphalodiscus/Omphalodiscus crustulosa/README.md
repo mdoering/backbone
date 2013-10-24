@@ -1,5 +1,4 @@
-Omphalodiscus crustulosa SPECIES
-=======
+# Omphalodiscus crustulosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria polycocca I.M. Lamb SPECIES
-=======
+# Verrucaria polycocca I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

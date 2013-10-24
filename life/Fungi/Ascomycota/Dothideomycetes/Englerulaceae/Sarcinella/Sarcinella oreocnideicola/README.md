@@ -1,17 +1,16 @@
-Sarcinella oreocnidecola Hosag. SPECIES
-=======
+# Sarcinella oreocnideicola Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar & Biju, Journal of Mycopathological Research 44(1): 47 (2006)
 
 #### Original name
-Sarcinella oreocnidecola Hosag.
+Sarcinella oreocnideicola Hosag.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lentinus subtilis Berk. SPECIES
-=======
+# Lentinus subtilis Berk. SPECIES
 
 #### Status
 ACCEPTED

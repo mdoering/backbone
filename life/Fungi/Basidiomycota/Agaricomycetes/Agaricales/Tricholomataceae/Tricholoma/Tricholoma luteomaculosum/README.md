@@ -1,5 +1,4 @@
-Tricholoma luteomaculosum A.H. Sm. SPECIES
-=======
+# Tricholoma luteomaculosum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

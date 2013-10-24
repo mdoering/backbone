@@ -1,5 +1,4 @@
-Calloria oregonensis Kanouse SPECIES
-=======
+# Calloria oregonensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium microsphaerae-alni Griffon & Maubl. SPECIES
-=======
+# Oidium microsphaerae-alni Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

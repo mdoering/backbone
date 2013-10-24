@@ -1,14 +1,13 @@
-Calocera albipedi (Mont.) Berk. & M.A. Curtis SPECIES
-=======
+# Calocera albipes (Mont.) Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 2(no. 14): 18 (1873)
 
 #### Original name
 Clavaria albipes Mont.

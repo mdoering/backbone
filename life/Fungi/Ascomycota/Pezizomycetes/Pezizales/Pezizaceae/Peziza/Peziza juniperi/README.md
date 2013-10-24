@@ -1,5 +1,4 @@
-Peziza juniperi Kirchn. SPECIES
-=======
+# Peziza juniperi Kirchn. SPECIES
 
 #### Status
 ACCEPTED

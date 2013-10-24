@@ -1,5 +1,4 @@
-Leptocucurthis Aptroot GENUS
-=======
+# Leptocucurthis Aptroot GENUS
 
 #### Status
 ACCEPTED

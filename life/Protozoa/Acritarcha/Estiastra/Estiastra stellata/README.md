@@ -1,5 +1,4 @@
-Estiastra stellata Loeblich, 1970 SPECIES
-=======
+# Estiastra stellata Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

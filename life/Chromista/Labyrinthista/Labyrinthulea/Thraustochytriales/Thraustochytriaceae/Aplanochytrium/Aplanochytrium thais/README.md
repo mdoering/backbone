@@ -1,14 +1,13 @@
-Aplanochytrium thaisii (B.A. Cox & Mackin) C.A. Leander & D. Porter SPECIES
-=======
+# Aplanochytrium thais (B.A. Cox & Mackin) C.A. Leander & D. Porter, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 76: 442 (2000)
 
 #### Original name
 Labyrinthula thais B.A. Cox & Mackin, 1974

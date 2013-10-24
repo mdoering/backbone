@@ -1,5 +1,4 @@
-Omphalina lilacifolia (Peck) Murrill SPECIES
-=======
+# Omphalina lilacifolia (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

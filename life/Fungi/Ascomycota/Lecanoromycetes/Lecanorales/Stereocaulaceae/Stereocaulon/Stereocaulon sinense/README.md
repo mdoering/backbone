@@ -1,5 +1,4 @@
-Stereocaulon sinense Hue SPECIES
-=======
+# Stereocaulon sinense Hue SPECIES
 
 #### Status
 ACCEPTED

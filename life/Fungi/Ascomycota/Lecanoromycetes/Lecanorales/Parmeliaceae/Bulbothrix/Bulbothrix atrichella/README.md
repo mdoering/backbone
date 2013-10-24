@@ -1,17 +1,16 @@
-Parmelia atrichella Nyl. SPECIES
-=======
+# Bulbothrix atrichella (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 480 (1974)
 
 #### Original name
-null
+Parmelia atrichella Nyl.
 
 ### Remarks
 null

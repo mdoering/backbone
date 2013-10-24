@@ -1,14 +1,13 @@
-Bodinia glabra (Sabour.) M. Ota & Langeron, 1923 SPECIES
-=======
+# Trichophyton glabrum Sabour., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Parasit. hum. comp. 1: 329 (1923)
+Les Teignes 313 (1910)
 
 #### Original name
 Trichophyton glabrum Sabour., 1910

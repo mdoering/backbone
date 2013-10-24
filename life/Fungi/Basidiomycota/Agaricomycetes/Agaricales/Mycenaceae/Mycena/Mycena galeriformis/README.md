@@ -1,5 +1,4 @@
-Mycena galeriformis Velen. SPECIES
-=======
+# Mycena galeriformis Velen. SPECIES
 
 #### Status
 ACCEPTED

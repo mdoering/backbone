@@ -1,5 +1,4 @@
-Inocybe saliceticola Vauras & Kokkonen SPECIES
-=======
+# Inocybe saliceticola Vauras & Kokkonen SPECIES
 
 #### Status
 ACCEPTED

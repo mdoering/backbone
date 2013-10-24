@@ -1,5 +1,4 @@
-Heterococcus dissociatus Lokhorst SPECIES
-=======
+# Heterococcus dissociatus Lokhorst SPECIES
 
 #### Status
 ACCEPTED

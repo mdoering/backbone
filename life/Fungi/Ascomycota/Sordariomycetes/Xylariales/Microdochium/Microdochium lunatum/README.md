@@ -1,5 +1,4 @@
-Microdochium lunatum (Ellis & Everh.) Arx SPECIES
-=======
+# Microdochium lunatum (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

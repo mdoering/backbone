@@ -1,5 +1,4 @@
-Gnomonia cylindrospora E. Müll. SPECIES
-=======
+# Gnomonia cylindrospora E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Melampsora mundkuri Thirum. SPECIES
-=======
+# Melampsora mundkurii Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melampsora mundkuri Thirum.
+Melampsora mundkurii Thirum.
 
 ### Remarks
 null

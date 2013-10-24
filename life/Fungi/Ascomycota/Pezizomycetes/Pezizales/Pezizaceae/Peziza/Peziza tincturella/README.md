@@ -1,5 +1,4 @@
-Peziza tincturella Cooke & Sacc. SPECIES
-=======
+# Peziza tincturella Cooke & Sacc. SPECIES
 
 #### Status
 ACCEPTED

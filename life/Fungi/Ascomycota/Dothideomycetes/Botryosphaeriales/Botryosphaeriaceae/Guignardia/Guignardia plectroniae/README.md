@@ -1,5 +1,4 @@
-Guignardia plectroniae Syd. SPECIES
-=======
+# Guignardia plectroniae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium montanum E.J. Butler SPECIES
-=======
+# Aecidium montanum E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

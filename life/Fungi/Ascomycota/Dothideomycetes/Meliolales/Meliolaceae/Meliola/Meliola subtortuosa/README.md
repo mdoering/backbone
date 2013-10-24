@@ -1,5 +1,4 @@
-Meliola subtortuosa Rehm SPECIES
-=======
+# Meliola subtortuosa Rehm SPECIES
 
 #### Status
 ACCEPTED

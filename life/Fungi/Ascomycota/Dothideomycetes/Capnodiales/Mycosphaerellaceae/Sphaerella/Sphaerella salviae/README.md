@@ -1,5 +1,4 @@
-Sphaerella salviae Strasser SPECIES
-=======
+# Sphaerella salviae Strasser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryoascus GENUS
-=======
+# Botryoascus GENUS
 
 #### Status
 ACCEPTED

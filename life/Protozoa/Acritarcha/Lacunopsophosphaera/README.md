@@ -1,5 +1,4 @@
-Lacunopsophosphaera N.G. Pychova in A.Y. Rozanov et al., 1969 GENUS
-=======
+# Lacunopsophosphaera N.G. Pychova in A.Y. Rozanov et al., 1969 GENUS
 
 #### Status
 ACCEPTED

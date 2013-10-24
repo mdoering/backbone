@@ -1,5 +1,4 @@
-Psora lactea (L.) Gärtner, Mey. {?} & Scherb. SPECIES
-=======
+# Psora lactea (L.) Gärtner, Mey. {?} & Scherb. SPECIES
 
 #### Status
 ACCEPTED

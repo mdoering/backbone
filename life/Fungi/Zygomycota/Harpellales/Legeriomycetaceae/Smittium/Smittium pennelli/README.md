@@ -1,5 +1,4 @@
-Smittium pennelli Lichtw., 1984 SPECIES
-=======
+# Smittium pennelli Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

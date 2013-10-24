@@ -1,5 +1,4 @@
-Agaricus dyspines Berk. & Broome SPECIES
-=======
+# Agaricus dyspines Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

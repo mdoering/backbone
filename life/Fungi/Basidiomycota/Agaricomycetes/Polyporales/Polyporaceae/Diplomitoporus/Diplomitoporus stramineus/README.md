@@ -1,5 +1,4 @@
-Diplomitoporus stramineus Ryvarden & Iturr., 2003 SPECIES
-=======
+# Diplomitoporus stramineus Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

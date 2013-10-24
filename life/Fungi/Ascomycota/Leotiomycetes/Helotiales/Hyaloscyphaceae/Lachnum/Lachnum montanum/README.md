@@ -1,5 +1,4 @@
-Lachnum montanum W.Y. Zhuang & M. Ye SPECIES
-=======
+# Lachnum montanum W.Y. Zhuang & M. Ye SPECIES
 
 #### Status
 ACCEPTED

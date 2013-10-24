@@ -1,5 +1,4 @@
-Thelohania penaei Sprague SPECIES
-=======
+# Thelohania penaei Sprague SPECIES
 
 #### Status
 ACCEPTED

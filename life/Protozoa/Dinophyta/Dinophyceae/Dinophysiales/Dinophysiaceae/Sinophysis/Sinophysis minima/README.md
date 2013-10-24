@@ -1,5 +1,4 @@
-Sinophysis minima Selina & Hoppenrath SPECIES
-=======
+# Sinophysis minima Selina & Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

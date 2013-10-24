@@ -1,5 +1,4 @@
-Phloeospora microspora Miura SPECIES
-=======
+# Phloeospora microspora Miura SPECIES
 
 #### Status
 ACCEPTED

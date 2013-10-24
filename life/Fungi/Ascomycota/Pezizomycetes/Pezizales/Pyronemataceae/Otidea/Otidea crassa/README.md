@@ -1,5 +1,4 @@
-Otidea crassa W.Y. Zhuang SPECIES
-=======
+# Otidea crassa W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

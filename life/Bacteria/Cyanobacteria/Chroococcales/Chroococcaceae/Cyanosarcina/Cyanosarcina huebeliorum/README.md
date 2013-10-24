@@ -1,5 +1,4 @@
-Cyanosarcina huebeliorum Komárek & Anagnostidis SPECIES
-=======
+# Cyanosarcina huebeliorum Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

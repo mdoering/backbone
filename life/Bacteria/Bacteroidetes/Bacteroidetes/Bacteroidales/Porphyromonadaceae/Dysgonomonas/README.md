@@ -1,5 +1,4 @@
-Dysgonomonas Hofstad, Olsen, Eribe, Falsen, Collins & Lawson, 2000 GENUS
-=======
+# Dysgonomonas Hofstad, Olsen, Eribe, Falsen, Collins & Lawson, 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zythia iranica Petr. SPECIES
-=======
+# Zythia iranica Petr. SPECIES
 
 #### Status
 ACCEPTED

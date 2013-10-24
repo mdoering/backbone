@@ -1,5 +1,4 @@
-Vitellibacter vladivostokensis Nedashkovskaya et al., 2003 SPECIES
-=======
+# Vitellibacter vladivostokensis Nedashkovskaya et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

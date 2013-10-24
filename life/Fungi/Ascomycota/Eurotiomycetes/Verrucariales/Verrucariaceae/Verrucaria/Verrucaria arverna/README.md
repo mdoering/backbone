@@ -1,5 +1,4 @@
-Verrucaria arverna Nyl. SPECIES
-=======
+# Verrucaria arverna Nyl. SPECIES
 
 #### Status
 ACCEPTED

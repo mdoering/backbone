@@ -1,5 +1,4 @@
-Phallus rubicundus (Bosc) Fr. SPECIES
-=======
+# Phallus rubicundus (Bosc) Fr. SPECIES
 
 #### Status
 ACCEPTED

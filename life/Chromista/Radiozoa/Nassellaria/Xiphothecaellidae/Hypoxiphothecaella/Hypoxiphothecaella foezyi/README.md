@@ -1,5 +1,4 @@
-Hypoxiphothecaella foezyi SPECIES
-=======
+# Hypoxiphothecaella foezyi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces minor L. Engel SPECIES
-=======
+# Saccharomyces minor L. Engel SPECIES
 
 #### Status
 ACCEPTED

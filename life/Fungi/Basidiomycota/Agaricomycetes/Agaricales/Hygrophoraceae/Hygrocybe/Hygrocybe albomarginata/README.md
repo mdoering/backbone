@@ -1,5 +1,4 @@
-Hygrocybe albomarginata S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe albomarginata S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

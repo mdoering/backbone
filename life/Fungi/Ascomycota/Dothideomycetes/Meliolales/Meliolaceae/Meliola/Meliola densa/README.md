@@ -1,5 +1,4 @@
-Meliola densa Cooke SPECIES
-=======
+# Meliola densa Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium ellisii (G. Winter) M. Piepenbr. SPECIES
-=======
+# Sporisorium ellisii (G. Winter) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

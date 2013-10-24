@@ -1,5 +1,4 @@
-Clitocybe incisa H.E. Bigelow SPECIES
-=======
+# Clitocybe incisa H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

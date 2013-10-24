@@ -1,5 +1,4 @@
-Uredo falcariae Spreng. SPECIES
-=======
+# Uredo falcariae Spreng. SPECIES
 
 #### Status
 ACCEPTED

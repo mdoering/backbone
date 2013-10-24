@@ -1,5 +1,4 @@
-Pseudocercospora cryptolepidis (Pandotra & Ganguly) Deighton SPECIES
-=======
+# Pseudocercospora cryptolepidis (Pandotra & Ganguly) Deighton SPECIES
 
 #### Status
 ACCEPTED

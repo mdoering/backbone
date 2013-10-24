@@ -1,5 +1,4 @@
-Collybia violacella Speg. SPECIES
-=======
+# Collybia violacella Speg. SPECIES
 
 #### Status
 ACCEPTED

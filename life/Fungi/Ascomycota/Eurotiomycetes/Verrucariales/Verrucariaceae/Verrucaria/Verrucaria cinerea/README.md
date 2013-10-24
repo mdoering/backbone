@@ -1,5 +1,4 @@
-Verrucaria cinerea var. cinerea Pers. VARIETY
-=======
+# Verrucaria cinerea Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria cinerea var. cinerea Pers.
+Verrucaria cinerea Taylor
 
 ### Remarks
 null

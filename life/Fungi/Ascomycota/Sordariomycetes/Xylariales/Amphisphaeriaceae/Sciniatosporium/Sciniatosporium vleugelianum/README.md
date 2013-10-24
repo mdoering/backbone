@@ -1,5 +1,4 @@
-Sciniatosporium vleugelianum (Bubák) Morgan-Jones SPECIES
-=======
+# Sciniatosporium vleugelianum (Bubák) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

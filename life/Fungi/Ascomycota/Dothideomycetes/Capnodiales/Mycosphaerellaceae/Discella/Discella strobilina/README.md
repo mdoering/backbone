@@ -1,5 +1,4 @@
-Discella strobilina var. strobilina VARIETY
-=======
+# Discella strobilina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Krypt. -Fl. Brandenburg augr. Gebiete 9(4): 752 (1914)
+null
 
 #### Original name
-Discella strobilina var. strobilina
+null
 
 ### Remarks
 null

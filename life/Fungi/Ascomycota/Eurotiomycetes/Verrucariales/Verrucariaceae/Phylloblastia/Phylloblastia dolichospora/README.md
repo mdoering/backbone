@@ -1,17 +1,16 @@
-Phylloblastia dolichophora Vain. SPECIES
-=======
+# Phylloblastia dolichospora Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. , Ser. A 15: 323 (1921)
 
 #### Original name
-Phylloblastia dolichophora Vain.
+Phylloblastia dolichospora Vain.
 
 ### Remarks
 null

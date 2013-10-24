@@ -1,5 +1,4 @@
-Pertusaria syncarpa Mudd SPECIES
-=======
+# Pertusaria syncarpa Mudd SPECIES
 
 #### Status
 ACCEPTED

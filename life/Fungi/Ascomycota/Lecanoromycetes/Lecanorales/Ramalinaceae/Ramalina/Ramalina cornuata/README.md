@@ -1,5 +1,4 @@
-Ramalina cornuata (Ach.) Motyka SPECIES
-=======
+# Ramalina cornuata (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

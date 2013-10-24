@@ -1,5 +1,4 @@
-Entomophthora colorata Sorokin SPECIES
-=======
+# Entomophthora colorata Sorokin SPECIES
 
 #### Status
 ACCEPTED

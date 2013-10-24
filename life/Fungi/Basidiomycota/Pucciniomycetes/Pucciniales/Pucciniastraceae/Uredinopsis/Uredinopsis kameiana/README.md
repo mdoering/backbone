@@ -1,5 +1,4 @@
-Uredinopsis kameiana Faull SPECIES
-=======
+# Uredinopsis kameiana Faull SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granopsophosphaera Naumova, 1964 GENUS
-=======
+# Granopsophosphaera Naumova, 1964 GENUS
 
 #### Status
 ACCEPTED

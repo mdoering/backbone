@@ -1,5 +1,4 @@
-Idiomarinaceae FAMILY
-=======
+# Idiomarinaceae FAMILY
 
 #### Status
 ACCEPTED

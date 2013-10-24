@@ -1,5 +1,4 @@
-Cercospora coronillae C. Massal. SPECIES
-=======
+# Cercospora coronillae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

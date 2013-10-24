@@ -1,5 +1,4 @@
-Pseudocercospora heteromelis (Harkn.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora heteromelis (Harkn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

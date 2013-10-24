@@ -1,5 +1,4 @@
-Amphimorphina tenuistriata Cushman & Bermudez SPECIES
-=======
+# Amphimorphina tenuistriata Cushman & Bermudez SPECIES
 
 #### Status
 ACCEPTED

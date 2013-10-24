@@ -1,5 +1,4 @@
-Cladopyramis Haeckel, 1881 GENUS
-=======
+# Cladopyramis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

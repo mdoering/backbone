@@ -1,17 +1,16 @@
-Hydnum ferrugineum var. ferrugineum VARIETY
-=======
+# Hydnellum ferrugineum (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 5: 41 (1879)
 
 #### Original name
-null
+Hydnum ferrugineum Fr., 1815
 
 ### Remarks
 null

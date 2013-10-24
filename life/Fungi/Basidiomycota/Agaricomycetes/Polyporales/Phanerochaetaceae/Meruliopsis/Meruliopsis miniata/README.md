@@ -1,14 +1,13 @@
-Merulius miniatus Wakef., 1931 SPECIES
-=======
+# Meruliopsis miniata (Wakef.) Ginns, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 201 (1931)
+Can. J. Bot. 54(1-2): 136 (1976)
 
 #### Original name
 Merulius miniatus Wakef., 1931

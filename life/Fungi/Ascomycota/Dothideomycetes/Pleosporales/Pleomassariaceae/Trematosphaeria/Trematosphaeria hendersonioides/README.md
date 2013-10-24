@@ -1,5 +1,4 @@
-Trematosphaeria hendersonioides Oudem. SPECIES
-=======
+# Trematosphaeria hendersonioides Oudem. SPECIES
 
 #### Status
 ACCEPTED

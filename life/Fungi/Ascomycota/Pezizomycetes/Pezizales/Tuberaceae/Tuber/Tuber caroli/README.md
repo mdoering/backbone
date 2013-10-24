@@ -1,5 +1,4 @@
-Tuber caroli H. Bonnet SPECIES
-=======
+# Tuber caroli H. Bonnet SPECIES
 
 #### Status
 ACCEPTED

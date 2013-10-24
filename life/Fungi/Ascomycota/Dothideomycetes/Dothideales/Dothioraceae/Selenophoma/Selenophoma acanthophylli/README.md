@@ -1,5 +1,4 @@
-Selenophoma acanthophylli Kalymb. SPECIES
-=======
+# Selenophoma acanthophylli Kalymb. SPECIES
 
 #### Status
 ACCEPTED

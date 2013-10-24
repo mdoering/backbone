@@ -1,5 +1,4 @@
-Thermincola Sokolova, Kostrikina, Chernyh, Kolganova, Tourova & Bonch-Osmolovskaya, 2005 GENUS
-=======
+# Thermincola Sokolova, Kostrikina, Chernyh, Kolganova, Tourova & Bonch-Osmolovskaya, 2005 GENUS
 
 #### Status
 ACCEPTED

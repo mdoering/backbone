@@ -1,5 +1,4 @@
-Panaeolus fraxinophilus A.H. Sm. SPECIES
-=======
+# Panaeolus fraxinophilus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

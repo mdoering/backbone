@@ -1,5 +1,4 @@
-Nectria melanommatis Syd. SPECIES
-=======
+# Nectria melanommatis Syd. SPECIES
 
 #### Status
 ACCEPTED

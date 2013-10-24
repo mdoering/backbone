@@ -1,5 +1,4 @@
-Coccocarpia fineranii C.W. Dodge SPECIES
-=======
+# Coccocarpia fineranii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

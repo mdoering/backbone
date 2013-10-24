@@ -1,8 +1,7 @@
-Steinia torrenticola Srámek-Husek, 1957 SPECIES
-=======
+# Cyrtohymena torrenticola (Sramek-Husek, 1957) Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

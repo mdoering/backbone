@@ -1,5 +1,4 @@
-Paramecium polycarium Woodruff, 1923 SPECIES
-=======
+# Paramecium polycarium Woodruff, 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype afflata (Schwein.) Cooke SPECIES
-=======
+# Diatrype afflata (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

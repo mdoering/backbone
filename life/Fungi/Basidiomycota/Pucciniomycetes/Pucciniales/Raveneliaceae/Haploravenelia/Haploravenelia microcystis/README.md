@@ -1,5 +1,4 @@
-Haploravenelia microcystis (Pazschke) Syd. SPECIES
-=======
+# Haploravenelia microcystis (Pazschke) Syd. SPECIES
 
 #### Status
 ACCEPTED

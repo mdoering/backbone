@@ -1,5 +1,4 @@
-Ascosphaera flava D.L. Anderson & N.L. Gibson SPECIES
-=======
+# Ascosphaera flava D.L. Anderson & N.L. Gibson SPECIES
 
 #### Status
 ACCEPTED

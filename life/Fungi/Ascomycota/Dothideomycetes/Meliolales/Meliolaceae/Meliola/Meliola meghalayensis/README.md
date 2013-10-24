@@ -1,5 +1,4 @@
-Meliola meghalayensis Hosag., J. Thomas & P.J. Robin SPECIES
-=======
+# Meliola meghalayensis Hosag., J. Thomas & P.J. Robin SPECIES
 
 #### Status
 ACCEPTED

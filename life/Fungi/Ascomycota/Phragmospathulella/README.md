@@ -1,5 +1,4 @@
-Phragmospathulella J. Mena & Mercado GENUS
-=======
+# Phragmospathulella J. Mena & Mercado GENUS
 
 #### Status
 ACCEPTED

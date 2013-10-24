@@ -1,5 +1,4 @@
-Trametes karii Bose SPECIES
-=======
+# Trametes karii Bose SPECIES
 
 #### Status
 ACCEPTED

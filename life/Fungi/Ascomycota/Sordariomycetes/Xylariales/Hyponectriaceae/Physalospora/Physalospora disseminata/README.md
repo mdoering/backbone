@@ -1,5 +1,4 @@
-Physalospora disseminata Sacc. SPECIES
-=======
+# Physalospora disseminata Sacc. SPECIES
 
 #### Status
 ACCEPTED

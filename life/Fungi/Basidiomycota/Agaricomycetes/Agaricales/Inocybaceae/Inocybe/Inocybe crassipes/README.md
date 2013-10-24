@@ -1,5 +1,4 @@
-Inocybe crassipes (Cooke & Massee) Pegler SPECIES
-=======
+# Inocybe crassipes (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

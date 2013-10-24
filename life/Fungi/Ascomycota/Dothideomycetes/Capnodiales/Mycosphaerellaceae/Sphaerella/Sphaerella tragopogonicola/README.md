@@ -1,5 +1,4 @@
-Sphaerella tragopogonicola (Petr.) Kirschst. SPECIES
-=======
+# Sphaerella tragopogonicola (Petr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

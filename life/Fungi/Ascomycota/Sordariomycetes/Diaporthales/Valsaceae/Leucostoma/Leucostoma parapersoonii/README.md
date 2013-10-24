@@ -1,5 +1,4 @@
-Leucostoma parapersoonii G.C. Adams, Surve-Iyer & Iezzoni SPECIES
-=======
+# Leucostoma parapersoonii G.C. Adams, Surve-Iyer & Iezzoni SPECIES
 
 #### Status
 ACCEPTED

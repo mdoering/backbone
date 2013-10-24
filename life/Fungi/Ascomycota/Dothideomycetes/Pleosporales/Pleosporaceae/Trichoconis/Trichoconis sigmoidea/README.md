@@ -1,5 +1,4 @@
-Trichoconis sigmoidea Deighton & Piroz. SPECIES
-=======
+# Trichoconis sigmoidea Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium cryptogynum B. Paul SPECIES
-=======
+# Pythium cryptogynum B. Paul SPECIES
 
 #### Status
 ACCEPTED

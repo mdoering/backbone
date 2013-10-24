@@ -1,5 +1,4 @@
-Dinophysis gigantea (Kofoid & Michener) Balech SPECIES
-=======
+# Dinophysis gigantea (Kofoid & Michener) Balech SPECIES
 
 #### Status
 ACCEPTED

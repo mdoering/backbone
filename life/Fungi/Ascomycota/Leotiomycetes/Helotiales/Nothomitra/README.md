@@ -1,5 +1,4 @@
-Nothomitra Maas Geest. GENUS
-=======
+# Nothomitra Maas Geest. GENUS
 
 #### Status
 ACCEPTED

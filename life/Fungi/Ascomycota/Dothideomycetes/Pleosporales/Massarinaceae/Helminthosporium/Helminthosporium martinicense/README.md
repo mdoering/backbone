@@ -1,5 +1,4 @@
-Helminthosporium martinicense Thüm. SPECIES
-=======
+# Helminthosporium martinicense Thüm. SPECIES
 
 #### Status
 ACCEPTED

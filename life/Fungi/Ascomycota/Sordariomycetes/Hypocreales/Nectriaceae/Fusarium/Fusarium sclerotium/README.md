@@ -1,5 +1,4 @@
-Fusarium sclerotium Wollenw. SPECIES
-=======
+# Fusarium sclerotium Wollenw. SPECIES
 
 #### Status
 ACCEPTED

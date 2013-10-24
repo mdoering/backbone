@@ -1,5 +1,4 @@
-Myxosporium pruni (Peck) Dearn. & House SPECIES
-=======
+# Myxosporium pruni (Peck) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

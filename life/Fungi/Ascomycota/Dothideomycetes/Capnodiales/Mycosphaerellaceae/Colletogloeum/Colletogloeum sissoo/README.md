@@ -1,5 +1,4 @@
-Colletogloeum sissoo (Syd.) B. Sutton SPECIES
-=======
+# Colletogloeum sissoo (Syd.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

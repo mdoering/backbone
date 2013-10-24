@@ -1,5 +1,4 @@
-Phacidium affine Sacc. & Paol. SPECIES
-=======
+# Phacidium affine Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

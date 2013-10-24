@@ -1,5 +1,4 @@
-Mucor fumosus Naumov SPECIES
-=======
+# Mucor fumosus Naumov SPECIES
 
 #### Status
 ACCEPTED

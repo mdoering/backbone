@@ -1,5 +1,4 @@
-Tricholoma alboconicum (J.E. Lange) Clémençon SPECIES
-=======
+# Tricholoma alboconicum (J.E. Lange) Clémençon SPECIES
 
 #### Status
 ACCEPTED

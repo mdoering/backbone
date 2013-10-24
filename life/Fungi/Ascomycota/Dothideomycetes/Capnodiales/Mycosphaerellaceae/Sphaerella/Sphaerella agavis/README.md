@@ -1,5 +1,4 @@
-Sphaerella agavis C. Massal. SPECIES
-=======
+# Sphaerella agavis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

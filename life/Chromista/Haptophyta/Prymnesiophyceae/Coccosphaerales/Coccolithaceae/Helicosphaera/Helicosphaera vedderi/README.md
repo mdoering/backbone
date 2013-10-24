@@ -1,5 +1,4 @@
-Helicosphaera vedderi D. Bukry SPECIES
-=======
+# Helicosphaera vedderi D. Bukry SPECIES
 
 #### Status
 ACCEPTED

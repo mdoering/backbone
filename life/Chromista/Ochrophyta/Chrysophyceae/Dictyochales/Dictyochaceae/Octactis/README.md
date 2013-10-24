@@ -1,5 +1,4 @@
-Octactis J.Schiller, 1925 GENUS
-=======
+# Octactis J.Schiller, 1925 GENUS
 
 #### Status
 ACCEPTED

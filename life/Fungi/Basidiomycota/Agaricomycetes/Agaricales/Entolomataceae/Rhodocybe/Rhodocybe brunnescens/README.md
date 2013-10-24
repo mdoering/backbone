@@ -1,5 +1,4 @@
-Rhodocybe brunnescens T.J. Baroni & E. Horak SPECIES
-=======
+# Rhodocybe brunnescens T.J. Baroni & E. Horak SPECIES
 
 #### Status
 ACCEPTED

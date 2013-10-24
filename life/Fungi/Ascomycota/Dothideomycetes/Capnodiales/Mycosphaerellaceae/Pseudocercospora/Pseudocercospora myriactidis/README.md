@@ -1,5 +1,4 @@
-Pseudocercospora myriactidis Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora myriactidis Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

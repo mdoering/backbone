@@ -1,5 +1,4 @@
-Parmelinella Elix & Hale GENUS
-=======
+# Parmelinella Elix & Hale GENUS
 
 #### Status
 ACCEPTED

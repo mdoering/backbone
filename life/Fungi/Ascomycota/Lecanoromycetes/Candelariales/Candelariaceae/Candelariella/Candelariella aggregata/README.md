@@ -1,5 +1,4 @@
-Candelariella aggregata M. Westb. SPECIES
-=======
+# Candelariella aggregata M. Westb. SPECIES
 
 #### Status
 ACCEPTED

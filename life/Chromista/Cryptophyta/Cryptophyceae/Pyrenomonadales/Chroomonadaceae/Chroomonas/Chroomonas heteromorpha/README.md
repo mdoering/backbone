@@ -1,5 +1,4 @@
-Chroomonas heteromorpha R. W. Butcher SPECIES
-=======
+# Chroomonas heteromorpha R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

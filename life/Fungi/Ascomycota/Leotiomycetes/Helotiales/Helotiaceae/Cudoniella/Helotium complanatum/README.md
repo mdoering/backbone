@@ -1,5 +1,4 @@
-Helotium complanatum Fr. SPECIES
-=======
+# Helotium complanatum Fr. SPECIES
 
 #### Status
 ACCEPTED

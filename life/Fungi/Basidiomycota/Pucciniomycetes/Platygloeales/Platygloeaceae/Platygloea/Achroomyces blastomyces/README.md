@@ -1,5 +1,4 @@
-Achroomyces blastomyces (Möller) Wojewoda SPECIES
-=======
+# Achroomyces blastomyces (Möller) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

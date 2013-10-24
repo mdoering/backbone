@@ -1,5 +1,4 @@
-Degelia subcrustata P. M. Jørg. & Kantvilas SPECIES
-=======
+# Degelia subcrustata P. M. Jørg. & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

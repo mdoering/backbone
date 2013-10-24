@@ -1,5 +1,4 @@
-Cortinarius iaganicus (Speg.) E. Horak SPECIES
-=======
+# Cortinarius iaganicus (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

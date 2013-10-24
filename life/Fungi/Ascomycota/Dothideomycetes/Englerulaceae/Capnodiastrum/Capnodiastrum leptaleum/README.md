@@ -1,5 +1,4 @@
-Capnodiastrum leptaleum (Petr.) Petr. SPECIES
-=======
+# Capnodiastrum leptaleum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

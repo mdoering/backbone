@@ -1,17 +1,16 @@
-Collopezis Clem. GENUS
-=======
+# Platygloea J. Schröt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 103 (1909)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 384 (1887)
 
 #### Original name
-Collopezis Clem.
+Platygloea J. Schröt.
 
 ### Remarks
 null

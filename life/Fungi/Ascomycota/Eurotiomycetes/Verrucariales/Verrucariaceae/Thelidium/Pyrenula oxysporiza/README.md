@@ -1,8 +1,7 @@
-Pyrenula oxyspora Müll. Arg., 1895 SPECIES
-=======
+# Pyrenula oxysporiza Zahlbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

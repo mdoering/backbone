@@ -1,5 +1,4 @@
-Aspicilia quartzitica W.A. Weber SPECIES
-=======
+# Aspicilia quartzitica W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

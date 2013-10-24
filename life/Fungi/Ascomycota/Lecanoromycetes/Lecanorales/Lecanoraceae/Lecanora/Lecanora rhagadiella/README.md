@@ -1,5 +1,4 @@
-Lecanora rhagadiella Nyl. SPECIES
-=======
+# Lecanora rhagadiella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Angulospora Sv. Nilsson GENUS
-=======
+# Angulospora Sv. Nilsson GENUS
 
 #### Status
 ACCEPTED

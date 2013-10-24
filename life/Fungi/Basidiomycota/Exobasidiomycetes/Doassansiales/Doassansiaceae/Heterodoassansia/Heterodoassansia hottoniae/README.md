@@ -1,14 +1,13 @@
-Entyloma hottoniae Rostr., 1888 SPECIES
-=======
+# Heterodoassansia hottoniae (Rostr.) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Thumen, Mycotheca universalis no. 222 (1888)
+Mycotaxon 48: 28 (1993)
 
 #### Original name
 Entyloma hottoniae Rostr., 1888

@@ -1,5 +1,4 @@
-Lancisporomyces falcatus Strongman & M.M. White, 2006 SPECIES
-=======
+# Lancisporomyces falcatus Strongman & M.M. White, 2006 SPECIES
 
 #### Status
 ACCEPTED

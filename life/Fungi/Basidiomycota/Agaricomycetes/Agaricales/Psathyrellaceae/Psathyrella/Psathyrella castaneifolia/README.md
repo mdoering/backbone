@@ -1,5 +1,4 @@
-Psathyrella castaneifolia (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella castaneifolia (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

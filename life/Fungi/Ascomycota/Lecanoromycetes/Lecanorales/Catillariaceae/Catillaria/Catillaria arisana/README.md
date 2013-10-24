@@ -1,5 +1,4 @@
-Catillaria arisana Zahlbr. SPECIES
-=======
+# Catillaria arisana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

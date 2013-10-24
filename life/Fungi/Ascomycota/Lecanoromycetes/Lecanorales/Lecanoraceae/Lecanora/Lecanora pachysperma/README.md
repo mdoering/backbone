@@ -1,5 +1,4 @@
-Lecanora pachysperma Hue SPECIES
-=======
+# Lecanora pachysperma Hue SPECIES
 
 #### Status
 ACCEPTED

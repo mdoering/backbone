@@ -1,5 +1,4 @@
-Aecidium cerei Henn. SPECIES
-=======
+# Aecidium cerei Henn. SPECIES
 
 #### Status
 ACCEPTED

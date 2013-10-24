@@ -1,5 +1,4 @@
-Hypocrella aurantiaca (Petch) Mains SPECIES
-=======
+# Hypocrella aurantiaca (Petch) Mains SPECIES
 
 #### Status
 ACCEPTED

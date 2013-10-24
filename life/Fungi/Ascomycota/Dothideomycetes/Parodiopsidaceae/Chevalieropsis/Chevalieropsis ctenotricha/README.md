@@ -1,14 +1,13 @@
-Chevalieria ctenotricha (Pat. & Har.) G. Arnaud, 1920 SPECIES
-=======
+# Chevalieropsis ctenotricha (Pat. & Har.) G. Arnaud, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris (1920)
+Annls Épiphyt. 9: 2 (1923)
 
 #### Original name
 Dimerosporium ctenotrichum Pat. & Har., 1900

@@ -1,5 +1,4 @@
-Septomyxa vogelii Sacc. SPECIES
-=======
+# Septomyxa vogelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

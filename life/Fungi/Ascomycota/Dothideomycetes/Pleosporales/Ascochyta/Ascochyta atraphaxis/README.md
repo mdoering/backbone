@@ -1,14 +1,13 @@
-Ascochyta atraphaxidis (Kravtzev) Melnik SPECIES
-=======
+# Ascochyta atraphaxis (Kravtzev) Melnik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 8: 213 (1971)
 
 #### Original name
 Diplodia variispora Died.

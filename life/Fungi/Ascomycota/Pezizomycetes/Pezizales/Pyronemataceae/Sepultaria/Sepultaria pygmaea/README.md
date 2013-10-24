@@ -1,5 +1,4 @@
-Sepultaria pygmaea Clem. SPECIES
-=======
+# Sepultaria pygmaea Clem. SPECIES
 
 #### Status
 ACCEPTED

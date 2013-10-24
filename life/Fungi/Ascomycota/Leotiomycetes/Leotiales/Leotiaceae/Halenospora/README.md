@@ -1,5 +1,4 @@
-Halenospora E.B.G. Jones GENUS
-=======
+# Halenospora E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

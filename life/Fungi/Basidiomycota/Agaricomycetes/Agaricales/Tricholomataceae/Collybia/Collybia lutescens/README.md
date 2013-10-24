@@ -1,5 +1,4 @@
-Collybia lutescens Velen. SPECIES
-=======
+# Collybia lutescens Velen. SPECIES
 
 #### Status
 ACCEPTED

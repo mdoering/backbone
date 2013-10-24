@@ -1,5 +1,4 @@
-Aecidium warneckeanum Henn. SPECIES
-=======
+# Aecidium warneckeanum Henn. SPECIES
 
 #### Status
 ACCEPTED

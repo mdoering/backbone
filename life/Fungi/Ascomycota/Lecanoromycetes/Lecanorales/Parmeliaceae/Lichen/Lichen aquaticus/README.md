@@ -1,5 +1,4 @@
-Lichen aquaticus L. SPECIES
-=======
+# Lichen aquaticus L. SPECIES
 
 #### Status
 ACCEPTED

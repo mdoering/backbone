@@ -1,5 +1,4 @@
-Symphyosirinia galii E.A. Ellis, 1956 SPECIES
-=======
+# Symphyosirinia galii E.A. Ellis, 1956 SPECIES
 
 #### Status
 ACCEPTED

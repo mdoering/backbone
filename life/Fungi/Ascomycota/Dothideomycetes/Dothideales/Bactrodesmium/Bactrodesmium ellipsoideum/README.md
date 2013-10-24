@@ -1,5 +1,4 @@
-Bactrodesmium ellipsoideum P.Rag. Rao SPECIES
-=======
+# Bactrodesmium ellipsoideum P.Rag. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltis strauchii Doidge SPECIES
-=======
+# Scolecopeltis strauchii Doidge SPECIES
 
 #### Status
 ACCEPTED

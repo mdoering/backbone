@@ -1,5 +1,4 @@
-Entomophthora cimbicis Bubák SPECIES
-=======
+# Entomophthora cimbicis Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amauromyces Jülich GENUS
-=======
+# Amauromyces Jülich GENUS
 
 #### Status
 ACCEPTED

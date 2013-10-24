@@ -1,5 +1,4 @@
-Lycoperdon peipingense Teng SPECIES
-=======
+# Lycoperdon peipingense Teng SPECIES
 
 #### Status
 ACCEPTED

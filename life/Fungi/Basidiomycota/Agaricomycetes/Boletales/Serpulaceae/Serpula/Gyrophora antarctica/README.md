@@ -1,5 +1,4 @@
-Gyrophora antarctica (Frey & I.M. Lamb) N.S. Golubk. SPECIES
-=======
+# Gyrophora antarctica (Frey & I.M. Lamb) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

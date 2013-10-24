@@ -1,5 +1,4 @@
-Phlegmacium albidum SPECIES
-=======
+# Phlegmacium albidum SPECIES
 
 #### Status
 ACCEPTED

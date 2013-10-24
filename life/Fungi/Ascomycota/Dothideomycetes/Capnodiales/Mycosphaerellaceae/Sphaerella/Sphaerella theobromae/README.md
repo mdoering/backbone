@@ -1,5 +1,4 @@
-Sphaerella theobromae Faber SPECIES
-=======
+# Sphaerella theobromae Faber SPECIES
 
 #### Status
 ACCEPTED

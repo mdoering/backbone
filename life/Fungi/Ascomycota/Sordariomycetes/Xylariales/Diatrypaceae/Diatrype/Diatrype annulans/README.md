@@ -1,5 +1,4 @@
-Diatrype annulans (Schwein.) Cooke SPECIES
-=======
+# Diatrype annulans (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

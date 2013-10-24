@@ -1,5 +1,4 @@
-Leptogium rugosum Sierk SPECIES
-=======
+# Leptogium rugosum Sierk SPECIES
 
 #### Status
 ACCEPTED

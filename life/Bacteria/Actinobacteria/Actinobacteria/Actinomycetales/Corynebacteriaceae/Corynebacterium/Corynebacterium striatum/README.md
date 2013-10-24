@@ -1,5 +1,4 @@
-Corynebacterium striatum (Chester, 1901) Eberson, 1918 (Approved Lists, 1980) SPECIES
-=======
+# Corynebacterium striatum (Chester, 1901) Eberson, 1918 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

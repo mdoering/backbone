@@ -1,5 +1,4 @@
-Ascospora sclerotidea (Cooke) Kuntze SPECIES
-=======
+# Ascospora sclerotidea (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

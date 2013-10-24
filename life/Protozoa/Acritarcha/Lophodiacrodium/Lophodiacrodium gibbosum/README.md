@@ -1,5 +1,4 @@
-Lophodiacrodium gibbosum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium gibbosum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

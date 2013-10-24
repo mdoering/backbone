@@ -1,5 +1,4 @@
-Cladonia pseudalcicornis Asahina SPECIES
-=======
+# Cladonia pseudalcicornis Asahina SPECIES
 
 #### Status
 ACCEPTED

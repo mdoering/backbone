@@ -1,5 +1,4 @@
-Gasteroagaricoides ralstoniae D.A. Reid, 1986 SPECIES
-=======
+# Gasteroagaricoides ralstoniae D.A. Reid, 1986 SPECIES
 
 #### Status
 ACCEPTED

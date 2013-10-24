@@ -1,5 +1,4 @@
-Ophiobolus halimodendri Murashk. SPECIES
-=======
+# Ophiobolus halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

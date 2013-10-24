@@ -1,5 +1,4 @@
-Tuburcinia lithophragmatis var. lithophragmatis VARIETY
-=======
+# Tuburcinia lithophragmatis (Garrett) Liro SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): 87 (1922)
 
 #### Original name
-Tuburcinia lithophragmatis var. lithophragmatis
+Urocystis lithophragmae Garrett
 
 ### Remarks
 null

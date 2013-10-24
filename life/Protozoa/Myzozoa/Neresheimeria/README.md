@@ -1,5 +1,4 @@
-Neresheimeria Uebel GENUS
-=======
+# Neresheimeria Uebel GENUS
 
 #### Status
 ACCEPTED

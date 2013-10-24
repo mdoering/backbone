@@ -1,5 +1,4 @@
-Microporus gallo-pavonis (Berk. & Broome) Kuntze SPECIES
-=======
+# Microporus gallo-pavonis (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

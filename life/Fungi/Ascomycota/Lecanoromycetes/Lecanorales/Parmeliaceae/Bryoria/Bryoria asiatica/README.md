@@ -1,5 +1,4 @@
-Bryoria asiatica (Du Rietz) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria asiatica (Du Rietz) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

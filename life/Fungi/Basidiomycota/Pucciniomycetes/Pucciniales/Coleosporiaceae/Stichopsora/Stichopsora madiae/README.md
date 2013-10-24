@@ -1,5 +1,4 @@
-Stichopsora madiae (Cooke) Syd. {?} SPECIES
-=======
+# Stichopsora madiae (Cooke) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

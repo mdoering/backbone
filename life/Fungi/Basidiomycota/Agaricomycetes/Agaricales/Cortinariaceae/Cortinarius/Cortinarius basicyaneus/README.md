@@ -1,5 +1,4 @@
-Cortinarius basicyaneus Rob. Henry & Trescol ex Bidaud & Eyssart. SPECIES
-=======
+# Cortinarius basicyaneus Rob. Henry & Trescol ex Bidaud & Eyssart. SPECIES
 
 #### Status
 ACCEPTED

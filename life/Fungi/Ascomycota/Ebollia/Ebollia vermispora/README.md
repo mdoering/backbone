@@ -1,5 +1,4 @@
-Ebollia vermispora Nag Raj SPECIES
-=======
+# Ebollia vermispora Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea arctogena f. arctogena FORM
-=======
+# Lecidea arctogena Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea arctogena f. arctogena
+Lecidea arctogena Th. Fr.
 
 ### Remarks
 null

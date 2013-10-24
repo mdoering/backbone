@@ -1,5 +1,4 @@
-Encephalographa otagensis (Linds.) Müll. Arg., 1894 SPECIES
-=======
+# Encephalographa otagensis (Linds.) Müll. Arg., 1894 SPECIES
 
 #### Status
 ACCEPTED

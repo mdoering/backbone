@@ -1,5 +1,4 @@
-Rhabdospora oenotherae Kirschst. SPECIES
-=======
+# Rhabdospora oenotherae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

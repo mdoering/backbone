@@ -1,5 +1,4 @@
-Macrophoma filamentosa (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma filamentosa (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

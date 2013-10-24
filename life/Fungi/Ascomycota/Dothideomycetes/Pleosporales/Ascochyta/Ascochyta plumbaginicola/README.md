@@ -1,5 +1,4 @@
-Ascochyta plumbaginicola Henn. SPECIES
-=======
+# Ascochyta plumbaginicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tribolospora sycopsidis D.A. Reid, 1966 SPECIES
-=======
+# Tribolospora sycopsidis D.A. Reid, 1966 SPECIES
 
 #### Status
 ACCEPTED

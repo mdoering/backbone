@@ -1,5 +1,4 @@
-Dasyscyphella sulphuricolor (Peck) J.H. Haines SPECIES
-=======
+# Dasyscyphella sulphuricolor (Peck) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

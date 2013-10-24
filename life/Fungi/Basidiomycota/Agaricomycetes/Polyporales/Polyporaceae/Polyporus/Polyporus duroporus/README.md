@@ -1,5 +1,4 @@
-Polyporus duroporus Lloyd SPECIES
-=======
+# Polyporus duroporus Lloyd SPECIES
 
 #### Status
 ACCEPTED

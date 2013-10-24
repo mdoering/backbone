@@ -1,5 +1,4 @@
-Lecanora inornata (Arnold) SPECIES
-=======
+# Lecanora inornata (Arnold) SPECIES
 
 #### Status
 ACCEPTED

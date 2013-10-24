@@ -1,5 +1,4 @@
-Gerronema aconquijense (Singer) Singer SPECIES
-=======
+# Gerronema aconquijense (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

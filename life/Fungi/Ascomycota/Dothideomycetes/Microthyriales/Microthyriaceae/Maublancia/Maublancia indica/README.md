@@ -1,5 +1,4 @@
-Maublancia indica Patw. & A.K. Pande SPECIES
-=======
+# Maublancia indica Patw. & A.K. Pande SPECIES
 
 #### Status
 ACCEPTED

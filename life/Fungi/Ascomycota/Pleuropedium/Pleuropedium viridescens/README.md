@@ -1,5 +1,4 @@
-Pleuropedium viridescens anon. SPECIES
-=======
+# Pleuropedium viridescens anon. SPECIES
 
 #### Status
 ACCEPTED

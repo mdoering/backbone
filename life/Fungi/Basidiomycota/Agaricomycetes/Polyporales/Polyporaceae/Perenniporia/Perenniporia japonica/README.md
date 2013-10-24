@@ -1,5 +1,4 @@
-Perenniporia japonica (Yasuda) T. Hatt. & Ryvarden SPECIES
-=======
+# Perenniporia japonica (Yasuda) T. Hatt. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

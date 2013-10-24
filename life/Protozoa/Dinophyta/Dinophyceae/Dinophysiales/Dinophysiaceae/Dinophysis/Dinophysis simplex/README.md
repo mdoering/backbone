@@ -1,5 +1,4 @@
-Dinophysis simplex Böhm, 1933 SPECIES
-=======
+# Dinophysis simplex Böhm, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemithecium scariosum Makhija & Adaw. SPECIES
-=======
+# Hemithecium scariosum Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

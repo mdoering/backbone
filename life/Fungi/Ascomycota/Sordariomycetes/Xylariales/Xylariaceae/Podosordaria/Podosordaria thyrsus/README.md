@@ -1,5 +1,4 @@
-Podosordaria thyrsus (Berk.) P.M.D. Martin SPECIES
-=======
+# Podosordaria thyrsus (Berk.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

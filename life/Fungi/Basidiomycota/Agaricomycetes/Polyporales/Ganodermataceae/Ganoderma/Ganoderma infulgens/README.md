@@ -1,5 +1,4 @@
-Ganoderma infulgens (Torrend) Sacc. & Trotter SPECIES
-=======
+# Ganoderma infulgens (Torrend) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

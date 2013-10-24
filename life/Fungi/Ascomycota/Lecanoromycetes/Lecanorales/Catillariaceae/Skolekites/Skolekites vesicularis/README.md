@@ -1,5 +1,4 @@
-Skolekites vesicularis (Hoffm.) SPECIES
-=======
+# Skolekites vesicularis (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

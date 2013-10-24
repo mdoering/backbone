@@ -1,5 +1,4 @@
-Calostoma viride (Berk.) Massee SPECIES
-=======
+# Calostoma viride (Berk.) Massee SPECIES
 
 #### Status
 ACCEPTED

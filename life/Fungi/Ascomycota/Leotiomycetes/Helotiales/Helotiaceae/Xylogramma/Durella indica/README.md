@@ -1,5 +1,4 @@
-Durella indica Mhaskar & V.G. Rao SPECIES
-=======
+# Durella indica Mhaskar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

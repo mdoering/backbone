@@ -1,5 +1,4 @@
-Arcyria cylindrica Schumach. SPECIES
-=======
+# Arcyria cylindrica Schumach. SPECIES
 
 #### Status
 ACCEPTED

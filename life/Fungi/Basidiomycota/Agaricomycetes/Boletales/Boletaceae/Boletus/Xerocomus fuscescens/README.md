@@ -1,5 +1,4 @@
-Xerocomus fuscescens (Cleland) C.J. Sheph. & Totterdell SPECIES
-=======
+# Xerocomus fuscescens (Cleland) C.J. Sheph. & Totterdell SPECIES
 
 #### Status
 ACCEPTED

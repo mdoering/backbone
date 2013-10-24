@@ -1,5 +1,4 @@
-Speira dematophorae Viala SPECIES
-=======
+# Speira dematophorae Viala SPECIES
 
 #### Status
 ACCEPTED

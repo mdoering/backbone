@@ -1,5 +1,4 @@
-Melosira polaris Grunow, 1884 SPECIES
-=======
+# Melosira polaris Grunow, 1884 SPECIES
 
 #### Status
 ACCEPTED

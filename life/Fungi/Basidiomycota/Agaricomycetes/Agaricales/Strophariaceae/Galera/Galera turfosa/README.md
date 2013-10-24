@@ -1,5 +1,4 @@
-Galera turfosa Velen. SPECIES
-=======
+# Galera turfosa Velen. SPECIES
 
 #### Status
 ACCEPTED

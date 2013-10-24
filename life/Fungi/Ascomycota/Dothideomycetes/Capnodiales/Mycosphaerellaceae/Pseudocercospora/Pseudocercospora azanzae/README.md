@@ -1,5 +1,4 @@
-Pseudocercospora azanzae (Yadav) Deighton SPECIES
-=======
+# Pseudocercospora azanzae (Yadav) Deighton SPECIES
 
 #### Status
 ACCEPTED

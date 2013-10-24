@@ -1,5 +1,4 @@
-Pachydisca subturbinata Rehm ex Le Gal SPECIES
-=======
+# Pachydisca subturbinata Rehm ex Le Gal SPECIES
 
 #### Status
 ACCEPTED

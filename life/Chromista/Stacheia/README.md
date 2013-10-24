@@ -1,5 +1,4 @@
-Stacheia Brady, 1876 GENUS
-=======
+# Stacheia Brady, 1876 GENUS
 
 #### Status
 ACCEPTED

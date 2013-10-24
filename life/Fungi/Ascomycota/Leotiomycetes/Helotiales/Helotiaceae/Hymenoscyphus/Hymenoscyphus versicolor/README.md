@@ -1,5 +1,4 @@
-Hymenoscyphus versicolor (Quél.) Kuntze SPECIES
-=======
+# Hymenoscyphus versicolor (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

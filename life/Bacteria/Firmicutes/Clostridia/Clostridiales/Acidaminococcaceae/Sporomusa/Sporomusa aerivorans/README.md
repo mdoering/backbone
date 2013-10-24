@@ -1,5 +1,4 @@
-Sporomusa aerivorans Boga et al., 2003 SPECIES
-=======
+# Sporomusa aerivorans Boga et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

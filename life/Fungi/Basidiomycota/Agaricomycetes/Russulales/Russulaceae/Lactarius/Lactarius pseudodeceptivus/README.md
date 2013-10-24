@@ -1,5 +1,4 @@
-Lactarius pseudodeceptivus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pseudodeceptivus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

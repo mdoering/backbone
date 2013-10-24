@@ -1,5 +1,4 @@
-Stephanolithiaceae Black, 1968 FAMILY
-=======
+# Stephanolithiaceae Black, 1968 FAMILY
 
 #### Status
 ACCEPTED

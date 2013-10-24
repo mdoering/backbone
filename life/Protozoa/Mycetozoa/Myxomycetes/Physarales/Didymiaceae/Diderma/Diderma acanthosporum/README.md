@@ -1,5 +1,4 @@
-Diderma acanthosporum Estrada & Lado, 2001 SPECIES
-=======
+# Diderma acanthosporum Estrada & Lado, 2001 SPECIES
 
 #### Status
 ACCEPTED

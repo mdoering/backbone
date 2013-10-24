@@ -1,5 +1,4 @@
-Polyporus mesopus Saut. SPECIES
-=======
+# Polyporus mesopus Saut. SPECIES
 
 #### Status
 ACCEPTED

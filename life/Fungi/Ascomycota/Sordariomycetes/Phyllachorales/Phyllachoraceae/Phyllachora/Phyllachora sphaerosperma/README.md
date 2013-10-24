@@ -1,14 +1,13 @@
-Sphaerodothis sphaerosperma (G. Winter) F. Stevens & W.D. Moore, 1927 SPECIES
-=======
+# Phyllachora sphaerosperma G. Winter, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 195 (1927)
+Hedwigia 23: 170 (1884)
 
 #### Original name
 Phyllachora sphaerosperma G. Winter, 1884

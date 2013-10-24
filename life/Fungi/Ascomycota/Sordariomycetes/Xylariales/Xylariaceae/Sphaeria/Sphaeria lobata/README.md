@@ -1,5 +1,4 @@
-Sphaeria lobata Schwein. SPECIES
-=======
+# Sphaeria lobata Schwein. SPECIES
 
 #### Status
 ACCEPTED

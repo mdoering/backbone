@@ -1,5 +1,4 @@
-Holosticha aquarum subsp. aquarum SUBSPECIES
-=======
+# Holosticha aquarum SPECIES
 
 #### Status
 ACCEPTED

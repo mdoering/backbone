@@ -1,5 +1,4 @@
-Lecanoropsis subintricata SPECIES
-=======
+# Lecanoropsis subintricata SPECIES
 
 #### Status
 ACCEPTED

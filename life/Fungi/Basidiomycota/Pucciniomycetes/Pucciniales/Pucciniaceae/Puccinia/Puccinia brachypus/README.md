@@ -1,5 +1,4 @@
-Puccinia brachypus var. brachypus VARIETY
-=======
+# Puccinia brachypus Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 8(1): 61 (1902)
 
 #### Original name
-Puccinia brachypus var. brachypus
+Puccinia brachypus Speg.
 
 ### Remarks
 null

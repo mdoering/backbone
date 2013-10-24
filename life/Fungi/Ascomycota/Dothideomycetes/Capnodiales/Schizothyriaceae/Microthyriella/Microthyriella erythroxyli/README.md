@@ -1,5 +1,4 @@
-Microthyriella erythroxyli (Bat. & A.F. Vital) Bat. SPECIES
-=======
+# Microthyriella erythroxyli (Bat. & A.F. Vital) Bat. SPECIES
 
 #### Status
 ACCEPTED

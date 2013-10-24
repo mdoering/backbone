@@ -1,5 +1,4 @@
-Pertusaria discoidea f. discoidea FORM
-=======
+# Pertusaria discoidea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria discoidea f. discoidea
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chromulina minima Doflein, 1921 SPECIES
-=======
+# Chromulina minima Doflein, 1921 SPECIES
 
 #### Status
 ACCEPTED

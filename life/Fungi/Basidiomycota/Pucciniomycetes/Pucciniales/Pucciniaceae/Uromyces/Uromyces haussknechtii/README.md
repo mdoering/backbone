@@ -1,5 +1,4 @@
-Uromyces haussknechtii Tranzschel SPECIES
-=======
+# Uromyces haussknechtii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

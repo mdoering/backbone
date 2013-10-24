@@ -1,5 +1,4 @@
-Ommatocyrtis Haeckel, 1887 GENUS
-=======
+# Ommatocyrtis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calpionelloides GENUS
-=======
+# Calpionelloides GENUS
 
 #### Status
 ACCEPTED

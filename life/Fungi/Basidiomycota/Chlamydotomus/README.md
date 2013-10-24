@@ -1,5 +1,4 @@
-Chlamydotomus Trevis. GENUS
-=======
+# Chlamydotomus Trevis. GENUS
 
 #### Status
 ACCEPTED

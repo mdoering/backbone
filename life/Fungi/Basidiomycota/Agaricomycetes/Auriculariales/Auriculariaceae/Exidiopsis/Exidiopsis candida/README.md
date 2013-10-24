@@ -1,5 +1,4 @@
-Exidiopsis candida (L.S. Olive) K. Wells SPECIES
-=======
+# Exidiopsis candida (L.S. Olive) K. Wells SPECIES
 
 #### Status
 ACCEPTED

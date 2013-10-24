@@ -1,5 +1,4 @@
-Crepidotus berberidis Britzelm. SPECIES
-=======
+# Crepidotus berberidis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

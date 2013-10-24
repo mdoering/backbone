@@ -1,17 +1,16 @@
-Piminella G. Arnaud GENUS
-=======
+# Gonytrichum Nees & T. Nees, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 69: 281 (1954)
+null
 
 #### Original name
-Piminella G. Arnaud
+null
 
 ### Remarks
 null

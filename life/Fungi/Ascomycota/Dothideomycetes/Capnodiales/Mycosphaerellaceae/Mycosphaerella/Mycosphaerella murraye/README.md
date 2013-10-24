@@ -1,5 +1,4 @@
-Mycosphaerella murraye Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Mycosphaerella murraye Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

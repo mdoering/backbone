@@ -1,14 +1,13 @@
-Verticillium bactrosporum (Drechsler) Subram., 1977 SPECIES
-=======
+# Haptocillium bactrosporum (Drechsler) Glockling, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 5: 98 (1977)
+Mycologist 19(1): 3 (2005)
 
 #### Original name
 Acrostalagmus bactrosporus Drechsler, 1941

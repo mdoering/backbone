@@ -1,5 +1,4 @@
-Clathrobursa Haeckel, 1881 GENUS
-=======
+# Clathrobursa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

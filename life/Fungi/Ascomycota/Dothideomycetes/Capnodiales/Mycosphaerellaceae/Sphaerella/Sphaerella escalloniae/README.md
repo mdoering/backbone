@@ -1,5 +1,4 @@
-Sphaerella escalloniae Speg. SPECIES
-=======
+# Sphaerella escalloniae Speg. SPECIES
 
 #### Status
 ACCEPTED

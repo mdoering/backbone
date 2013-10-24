@@ -1,17 +1,16 @@
-Psalliota arvensis f. arvensis FORM
-=======
+# Agaricus arvensis Schaeff., 1774 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Les Hyménomycètes ou description de tous les champignons (fungi) qui croissent en France (Alençon) 139 (1878)
+Fung. Bavar. Palat. 4: 310 (1774)
 
 #### Original name
-Psalliota arvensis f. arvensis
+Agaricus arvensis Schaeff., 1774
 
 ### Remarks
 null

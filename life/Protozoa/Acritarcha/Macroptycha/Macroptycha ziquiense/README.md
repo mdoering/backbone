@@ -1,5 +1,4 @@
-Macroptycha ziquiense Xing Yusheng & Liu Guizhi, 1985 SPECIES
-=======
+# Macroptycha ziquiense Xing Yusheng & Liu Guizhi, 1985 SPECIES
 
 #### Status
 ACCEPTED

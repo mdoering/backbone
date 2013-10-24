@@ -1,5 +1,4 @@
-Coniocybe pistillaris Ohlert SPECIES
-=======
+# Coniocybe pistillaris Ohlert SPECIES
 
 #### Status
 ACCEPTED

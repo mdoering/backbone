@@ -1,5 +1,4 @@
-Ramularia lata Sacc. SPECIES
-=======
+# Ramularia lata Sacc. SPECIES
 
 #### Status
 ACCEPTED

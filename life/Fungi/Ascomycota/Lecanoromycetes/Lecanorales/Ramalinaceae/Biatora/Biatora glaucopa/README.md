@@ -1,5 +1,4 @@
-Biatora glaucopa var. glaucopa VARIETY
-=======
+# Biatora glaucopa (Hook. f. & Taylor) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2(1): 58 (1932)
 
 #### Original name
-Biatora glaucopa var. glaucopa
+Lecidea glaucopa Hook. f. & Taylor
 
 ### Remarks
 null

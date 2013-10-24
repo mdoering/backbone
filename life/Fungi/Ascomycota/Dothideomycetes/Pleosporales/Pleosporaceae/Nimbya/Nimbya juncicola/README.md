@@ -1,5 +1,4 @@
-Nimbya juncicola E.G. Simmons, 1989 SPECIES
-=======
+# Nimbya juncicola E.G. Simmons, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema georginae Corda SPECIES
-=======
+# Sphaeronaema georginae Corda SPECIES
 
 #### Status
 ACCEPTED

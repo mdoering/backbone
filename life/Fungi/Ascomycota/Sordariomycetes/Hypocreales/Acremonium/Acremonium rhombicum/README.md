@@ -1,14 +1,13 @@
-Cephalosporium rhombicum Matsush., 1971 SPECIES
-=======
+# Acremonium rhombicum (Matsush.) Matsush., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kobayasi et al. , Bull. natn. Sci. Mus. , Tokyo 14(3): 460 (1971)
+Matsush. Mycol. Mem. 7: 3 (1993)
 
 #### Original name
 Cephalosporium rhombicum Matsush., 1971

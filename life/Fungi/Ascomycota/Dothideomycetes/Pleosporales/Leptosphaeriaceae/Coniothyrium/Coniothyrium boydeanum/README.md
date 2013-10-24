@@ -1,5 +1,4 @@
-Coniothyrium boydeanum A.L. Sm., 1900 SPECIES
-=======
+# Coniothyrium boydeanum A.L. Sm., 1900 SPECIES
 
 #### Status
 ACCEPTED

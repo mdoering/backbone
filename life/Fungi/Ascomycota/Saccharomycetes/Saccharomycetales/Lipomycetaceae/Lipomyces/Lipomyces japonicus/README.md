@@ -1,5 +1,4 @@
-Lipomyces japonicus Van der Walt, M.T. Sm., Y. Yamada & Nakase, 1989 SPECIES
-=======
+# Lipomyces japonicus Van der Walt, M.T. Sm., Y. Yamada & Nakase, 1989 SPECIES
 
 #### Status
 ACCEPTED

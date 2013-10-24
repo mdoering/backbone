@@ -1,5 +1,4 @@
-Puccinia trachyderma Syd. SPECIES
-=======
+# Puccinia trachyderma Syd. SPECIES
 
 #### Status
 ACCEPTED

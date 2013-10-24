@@ -1,5 +1,4 @@
-Streptomyces glomeratus (ex Gauze & Sveshnikova) Gause & Preobrazhenskaya, 1986 SPECIES
-=======
+# Streptomyces glomeratus (ex Gauze & Sveshnikova) Gause & Preobrazhenskaya, 1986 SPECIES
 
 #### Status
 ACCEPTED

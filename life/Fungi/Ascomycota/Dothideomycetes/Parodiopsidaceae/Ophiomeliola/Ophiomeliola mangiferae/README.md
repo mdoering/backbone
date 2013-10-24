@@ -1,5 +1,4 @@
-Ophiomeliola mangiferae Bat. SPECIES
-=======
+# Ophiomeliola mangiferae Bat. SPECIES
 
 #### Status
 ACCEPTED

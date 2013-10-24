@@ -1,5 +1,4 @@
-Nectria nelumbicola Henn. SPECIES
-=======
+# Nectria nelumbicola Henn. SPECIES
 
 #### Status
 ACCEPTED

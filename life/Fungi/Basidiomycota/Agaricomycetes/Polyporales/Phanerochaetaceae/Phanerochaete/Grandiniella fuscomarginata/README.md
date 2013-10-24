@@ -1,5 +1,4 @@
-Grandiniella fuscomarginata (Burt) Burds. SPECIES
-=======
+# Grandiniella fuscomarginata (Burt) Burds. SPECIES
 
 #### Status
 ACCEPTED

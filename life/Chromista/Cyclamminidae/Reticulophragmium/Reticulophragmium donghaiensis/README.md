@@ -1,5 +1,4 @@
-Reticulophragmium donghaiensis Zheng & Fu, 2001 SPECIES
-=======
+# Reticulophragmium donghaiensis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

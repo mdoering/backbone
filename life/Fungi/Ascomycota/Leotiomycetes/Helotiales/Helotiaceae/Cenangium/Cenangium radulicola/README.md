@@ -1,5 +1,4 @@
-Cenangium radulicola Fuckel SPECIES
-=======
+# Cenangium radulicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

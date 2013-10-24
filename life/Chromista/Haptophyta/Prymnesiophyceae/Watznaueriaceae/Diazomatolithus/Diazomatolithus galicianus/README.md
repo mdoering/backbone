@@ -1,5 +1,4 @@
-Diazomatolithus galicianus SPECIES
-=======
+# Diazomatolithus galicianus SPECIES
 
 #### Status
 ACCEPTED

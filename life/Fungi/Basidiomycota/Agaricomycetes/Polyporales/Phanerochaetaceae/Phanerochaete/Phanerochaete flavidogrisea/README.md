@@ -1,5 +1,4 @@
-Phanerochaete flavidogrisea Sheng H. Wu SPECIES
-=======
+# Phanerochaete flavidogrisea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

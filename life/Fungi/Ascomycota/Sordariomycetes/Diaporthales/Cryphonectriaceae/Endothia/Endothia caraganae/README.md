@@ -1,5 +1,4 @@
-Endothia caraganae (Höhn.) Merezhko SPECIES
-=======
+# Endothia caraganae (Höhn.) Merezhko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma carteri (Berk. & Cooke) Berl. & Voglino SPECIES
-=======
+# Anthostoma carteri (Berk. & Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

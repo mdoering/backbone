@@ -1,5 +1,4 @@
-Thecentactinia Nazarov, 1975 GENUS
-=======
+# Thecentactinia Nazarov, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta abelmoschi Harter, 1918 SPECIES
-=======
+# Ascochyta abelmoschi Harter, 1918 SPECIES
 
 #### Status
 ACCEPTED

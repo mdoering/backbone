@@ -1,5 +1,4 @@
-Septoria pinithunbergii S. Kaneko, 1989 SPECIES
-=======
+# Septoria pinithunbergii S. Kaneko, 1989 SPECIES
 
 #### Status
 ACCEPTED

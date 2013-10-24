@@ -1,17 +1,16 @@
-Penicillium bacillosporum Swift SPECIES
-=======
+# Talaromyces bacillisporus (Swift) C.R. Benj., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Stolk & Samson, Stud. Mycol. 2: 42 (1972)
 
 #### Original name
-Penicillium bacillosporum Swift
+Talaromyces bacillisporus (Swift) C.R. Benj., 1955
 
 ### Remarks
 null

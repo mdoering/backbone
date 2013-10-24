@@ -1,5 +1,4 @@
-Bronnimannia palmerae SPECIES
-=======
+# Bronnimannia palmerae SPECIES
 
 #### Status
 ACCEPTED

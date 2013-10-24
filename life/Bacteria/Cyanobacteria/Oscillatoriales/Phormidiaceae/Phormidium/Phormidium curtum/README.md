@@ -1,5 +1,4 @@
-Phormidium curtum Hollerbach SPECIES
-=======
+# Phormidium curtum Hollerbach SPECIES
 
 #### Status
 ACCEPTED

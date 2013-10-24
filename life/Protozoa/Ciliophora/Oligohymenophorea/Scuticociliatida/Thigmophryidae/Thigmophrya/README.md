@@ -1,5 +1,4 @@
-Thigmophrya Chatton & Lwoff, 1923 GENUS
-=======
+# Thigmophrya Chatton & Lwoff, 1923 GENUS
 
 #### Status
 ACCEPTED

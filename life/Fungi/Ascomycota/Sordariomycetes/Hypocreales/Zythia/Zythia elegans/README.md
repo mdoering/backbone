@@ -1,5 +1,4 @@
-Zythia elegans (De Not.) Fr. SPECIES
-=======
+# Zythia elegans (De Not.) Fr. SPECIES
 
 #### Status
 ACCEPTED

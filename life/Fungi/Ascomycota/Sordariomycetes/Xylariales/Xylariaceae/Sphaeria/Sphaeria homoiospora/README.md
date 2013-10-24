@@ -1,5 +1,4 @@
-Sphaeria homoiospora Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria homoiospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

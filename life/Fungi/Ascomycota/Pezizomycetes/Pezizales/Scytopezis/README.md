@@ -1,5 +1,4 @@
-Scytopezis Clem. GENUS
-=======
+# Scytopezis Clem. GENUS
 
 #### Status
 ACCEPTED

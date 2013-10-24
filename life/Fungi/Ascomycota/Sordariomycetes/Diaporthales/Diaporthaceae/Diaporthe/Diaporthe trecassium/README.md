@@ -1,5 +1,4 @@
-Diaporthe trecassium Sacc. & Briard SPECIES
-=======
+# Diaporthe trecassium Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces teodorescui Rayss SPECIES
-=======
+# Uromyces teodorescui Rayss SPECIES
 
 #### Status
 ACCEPTED

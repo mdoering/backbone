@@ -1,5 +1,4 @@
-Urceolaria elongata Fenchel, 1965 SPECIES
-=======
+# Urceolaria elongata Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

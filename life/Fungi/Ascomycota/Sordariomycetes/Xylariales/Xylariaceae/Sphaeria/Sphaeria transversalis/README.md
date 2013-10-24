@@ -1,5 +1,4 @@
-Sphaeria transversalis Schwein. SPECIES
-=======
+# Sphaeria transversalis Schwein. SPECIES
 
 #### Status
 ACCEPTED

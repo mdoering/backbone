@@ -1,5 +1,4 @@
-Naucoria olivacea Velen. SPECIES
-=======
+# Naucoria olivacea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monodictys nigriglobulosa G.Z. Zhao & T.Y. Zhang SPECIES
-=======
+# Monodictys nigriglobulosa G.Z. Zhao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

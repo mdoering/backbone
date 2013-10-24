@@ -1,5 +1,4 @@
-Lachnum relicinum (Fr.) P. Karst. SPECIES
-=======
+# Lachnum relicinum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

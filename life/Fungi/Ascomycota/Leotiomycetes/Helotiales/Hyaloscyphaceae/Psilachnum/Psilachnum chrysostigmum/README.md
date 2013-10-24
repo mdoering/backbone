@@ -1,5 +1,4 @@
-Psilachnum chrysostigmum var. chrysostigmum VARIETY
-=======
+# Psilachnum chrysostigmum (Fr.) Raitv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 104 (1970)
 
 #### Original name
-Psilachnum chrysostigmum var. chrysostigmum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arecomyces dicksonii K.D. Hyde SPECIES
-=======
+# Arecomyces dicksonii K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

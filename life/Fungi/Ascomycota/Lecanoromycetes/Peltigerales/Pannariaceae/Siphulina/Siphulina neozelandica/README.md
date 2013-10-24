@@ -1,5 +1,4 @@
-Siphulina neozelandica C.W. Dodge SPECIES
-=======
+# Siphulina neozelandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

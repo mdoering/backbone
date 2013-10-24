@@ -1,5 +1,4 @@
-Heterococcus papillosus Pitschmann SPECIES
-=======
+# Heterococcus papillosus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

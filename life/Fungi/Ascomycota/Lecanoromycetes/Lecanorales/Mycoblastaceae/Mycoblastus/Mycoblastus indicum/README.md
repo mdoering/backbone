@@ -1,5 +1,4 @@
-Mycoblastus indicum D.D. Awasthi & M.R. Agarwal SPECIES
-=======
+# Mycoblastus indicum D.D. Awasthi & M.R. Agarwal SPECIES
 
 #### Status
 ACCEPTED

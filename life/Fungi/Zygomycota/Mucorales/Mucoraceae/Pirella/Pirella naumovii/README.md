@@ -1,14 +1,13 @@
-Circinella naumovii Milko, 1970 SPECIES
-=======
+# Pirella naumovii (Milko) Benny & Schipper, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Systematicae Plantarum non Vascularium 6: 96 (1970)
+Mycologia 84(1): 55 (1992)
 
 #### Original name
 Circinella naumovii Milko, 1970

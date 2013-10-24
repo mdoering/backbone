@@ -1,5 +1,4 @@
-Sphaeromphale endoleuca (Fée) Trevis. SPECIES
-=======
+# Sphaeromphale endoleuca (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

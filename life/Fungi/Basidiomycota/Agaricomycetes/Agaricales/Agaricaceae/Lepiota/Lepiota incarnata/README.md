@@ -1,5 +1,4 @@
-Lepiota incarnata (Clem.) Sacc. SPECIES
-=======
+# Lepiota incarnata (Clem.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

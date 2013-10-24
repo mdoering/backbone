@@ -1,5 +1,4 @@
-Trochastrites bramlettei (Martini, 1958) Stradner, 1961 SPECIES
-=======
+# Trochastrites bramlettei (Martini, 1958) Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

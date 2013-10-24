@@ -1,5 +1,4 @@
-Marasmius praecox f. praecox FORM
-=======
+# Marasmius praecox Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 12: 140 (1959)
 
 #### Original name
-Marasmius praecox f. praecox
+Marasmius praecox Singer
 
 ### Remarks
 null

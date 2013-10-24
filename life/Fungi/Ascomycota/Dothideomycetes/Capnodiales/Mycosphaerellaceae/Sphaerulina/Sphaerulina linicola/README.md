@@ -1,5 +1,4 @@
-Sphaerulina linicola Bubák SPECIES
-=======
+# Sphaerulina linicola Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeopsophosphaera fragilis Lopukhin, 1974 SPECIES
-=======
+# Archaeopsophosphaera fragilis Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

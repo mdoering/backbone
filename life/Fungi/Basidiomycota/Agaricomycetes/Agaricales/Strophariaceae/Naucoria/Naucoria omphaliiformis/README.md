@@ -1,17 +1,16 @@
-Naucoria omphaliaeformis Velen. SPECIES
-=======
+# Naucoria omphaliiformis Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae Novissimae 64 (1947)
 
 #### Original name
-Naucoria omphaliaeformis Velen.
+Naucoria omphaliiformis Velen.
 
 ### Remarks
 null

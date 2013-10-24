@@ -1,5 +1,4 @@
-Stevensula GENUS
-=======
+# Stevensula GENUS
 
 #### Status
 ACCEPTED

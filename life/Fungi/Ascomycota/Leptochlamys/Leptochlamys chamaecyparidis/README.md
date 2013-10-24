@@ -1,5 +1,4 @@
-Leptochlamys chamaecyparidis Sawada SPECIES
-=======
+# Leptochlamys chamaecyparidis Sawada SPECIES
 
 #### Status
 ACCEPTED

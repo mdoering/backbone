@@ -1,5 +1,4 @@
-Cucurbitaria protracta (Nees) Fuckel SPECIES
-=======
+# Cucurbitaria protracta (Nees) Fuckel SPECIES
 
 #### Status
 ACCEPTED

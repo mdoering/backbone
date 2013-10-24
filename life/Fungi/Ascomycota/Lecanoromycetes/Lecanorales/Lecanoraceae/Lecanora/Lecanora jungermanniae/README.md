@@ -1,5 +1,4 @@
-Lecanora jungermanniae (Vahl) Nyl. SPECIES
-=======
+# Lecanora jungermanniae (Vahl) Nyl. SPECIES
 
 #### Status
 ACCEPTED

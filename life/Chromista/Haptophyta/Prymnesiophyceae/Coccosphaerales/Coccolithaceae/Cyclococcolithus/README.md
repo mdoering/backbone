@@ -1,5 +1,4 @@
-Cyclococcolithus Kamptner, 1954 GENUS
-=======
+# Cyclococcolithus Kamptner, 1954 GENUS
 
 #### Status
 ACCEPTED

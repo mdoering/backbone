@@ -1,5 +1,4 @@
-Rhizophydium ubiquetum Canter, 1961 SPECIES
-=======
+# Rhizophydium ubiquetum Canter, 1961 SPECIES
 
 #### Status
 ACCEPTED

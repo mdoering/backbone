@@ -1,5 +1,4 @@
-Lichenopeltella heterodermiae Diederich SPECIES
-=======
+# Lichenopeltella heterodermiae Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius pseudohysginus J. Blum SPECIES
-=======
+# Lactarius pseudohysginus J. Blum SPECIES
 
 #### Status
 ACCEPTED

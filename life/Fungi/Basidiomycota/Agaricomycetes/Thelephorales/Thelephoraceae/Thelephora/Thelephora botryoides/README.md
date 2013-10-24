@@ -1,5 +1,4 @@
-Thelephora botryoides Schwein. SPECIES
-=======
+# Thelephora botryoides Schwein. SPECIES
 
 #### Status
 ACCEPTED

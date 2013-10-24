@@ -1,5 +1,4 @@
-Cyclotella gamma Sovereign SPECIES
-=======
+# Cyclotella gamma Sovereign SPECIES
 
 #### Status
 ACCEPTED

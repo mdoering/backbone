@@ -1,5 +1,4 @@
-Nephroma skottsbergii F. J. White & P. James SPECIES
-=======
+# Nephroma skottsbergii F. J. White & P. James SPECIES
 
 #### Status
 ACCEPTED

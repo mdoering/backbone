@@ -1,5 +1,4 @@
-Clavaria leucotephra Berk. & M.A. Curtis SPECIES
-=======
+# Clavaria leucotephra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

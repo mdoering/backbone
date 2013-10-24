@@ -1,8 +1,7 @@
-Laminaria sessilis C. Agardh SPECIES
-=======
+# Hedophyllum sessile (C. Agardh) Setchell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

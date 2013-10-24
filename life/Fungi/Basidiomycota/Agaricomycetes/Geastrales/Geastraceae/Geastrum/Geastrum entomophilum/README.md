@@ -1,5 +1,4 @@
-Geastrum entomophilum Fazolino, Calonge & Baseia SPECIES
-=======
+# Geastrum entomophilum Fazolino, Calonge & Baseia SPECIES
 
 #### Status
 ACCEPTED

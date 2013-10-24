@@ -1,5 +1,4 @@
-Holosticha gracilis Kahl, 1932 SPECIES
-=======
+# Holosticha gracilis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

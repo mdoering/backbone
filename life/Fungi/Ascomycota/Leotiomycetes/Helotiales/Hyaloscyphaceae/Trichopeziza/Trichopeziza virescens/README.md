@@ -1,5 +1,4 @@
-Trichopeziza virescens (Schumach.) Sacc. SPECIES
-=======
+# Trichopeziza virescens (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

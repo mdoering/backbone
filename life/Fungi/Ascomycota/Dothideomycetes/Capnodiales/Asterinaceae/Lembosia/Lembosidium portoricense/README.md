@@ -1,5 +1,4 @@
-Lembosidium portoricense Speg. SPECIES
-=======
+# Lembosidium portoricense Speg. SPECIES
 
 #### Status
 ACCEPTED

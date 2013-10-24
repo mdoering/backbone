@@ -1,5 +1,4 @@
-Histophilus Angen et al., 2003 GENUS
-=======
+# Histophilus Angen et al., 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia undulata (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei SPECIES
-=======
+# Heterodermia undulata (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

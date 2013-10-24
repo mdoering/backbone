@@ -1,5 +1,4 @@
-Hemitrichia rubrobrunnea Rammeloo, 1978 SPECIES
-=======
+# Hemitrichia rubrobrunnea Rammeloo, 1978 SPECIES
 
 #### Status
 ACCEPTED

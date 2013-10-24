@@ -1,5 +1,4 @@
-Lecidella aeruginosa Stein SPECIES
-=======
+# Lecidella aeruginosa Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenotryma Foreman, 1968 GENUS
-=======
+# Solenotryma Foreman, 1968 GENUS
 
 #### Status
 ACCEPTED

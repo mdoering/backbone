@@ -1,5 +1,4 @@
-Puccinia oldenlandiae Henn. SPECIES
-=======
+# Puccinia oldenlandiae Henn. SPECIES
 
 #### Status
 ACCEPTED

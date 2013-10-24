@@ -1,5 +1,4 @@
-Lecidea improvisula Nyl. SPECIES
-=======
+# Lecidea improvisula Nyl. SPECIES
 
 #### Status
 ACCEPTED

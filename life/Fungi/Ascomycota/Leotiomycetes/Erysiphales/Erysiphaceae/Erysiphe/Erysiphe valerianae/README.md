@@ -1,14 +1,13 @@
-Erysiphe cichoracearum f. valerianae Jacz., 1927 FORM
-=======
+# Erysiphe valerianae (Jacz.) S. Blumer, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Taschenbestimmb. f. Pilze 2, Erysiphaceen 227 (1926)
+Beitr. Kryptfl. Schweiz 7(no. 1): 264 (1933)
 
 #### Original name
 Erysiphe cichoracearum f. valerianae Jacz., 1927

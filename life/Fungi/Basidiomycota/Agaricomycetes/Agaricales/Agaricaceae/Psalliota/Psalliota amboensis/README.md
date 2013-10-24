@@ -1,5 +1,4 @@
-Psalliota amboensis Fayod SPECIES
-=======
+# Psalliota amboensis Fayod SPECIES
 
 #### Status
 ACCEPTED

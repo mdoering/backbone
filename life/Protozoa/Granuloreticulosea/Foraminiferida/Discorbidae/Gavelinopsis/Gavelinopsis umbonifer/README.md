@@ -1,5 +1,4 @@
-Gavelinopsis umbonifer (Parr, 1950) SPECIES
-=======
+# Gavelinopsis umbonifer (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

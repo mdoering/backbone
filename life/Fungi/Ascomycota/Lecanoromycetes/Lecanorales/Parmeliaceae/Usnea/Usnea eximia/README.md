@@ -1,5 +1,4 @@
-Usnea eximia Motyka SPECIES
-=======
+# Usnea eximia Motyka SPECIES
 
 #### Status
 ACCEPTED

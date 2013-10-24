@@ -1,17 +1,16 @@
-Cymbella crouani Pat. SPECIES
-=======
+# Cymbella crouanii Pat. & Doass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patouillard, Tabl. analyt. Fung. France (Paris) 5: 204 (1886)
 
 #### Original name
-Cymbella crouani Pat.
+Cyphella abieticola P. Karst., 1870
 
 ### Remarks
 null

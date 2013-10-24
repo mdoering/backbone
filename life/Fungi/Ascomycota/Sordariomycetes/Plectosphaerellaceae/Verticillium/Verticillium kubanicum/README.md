@@ -1,5 +1,4 @@
-Verticillium kubanicum Shcherb.-Parf. SPECIES
-=======
+# Verticillium kubanicum Shcherb.-Parf. SPECIES
 
 #### Status
 ACCEPTED

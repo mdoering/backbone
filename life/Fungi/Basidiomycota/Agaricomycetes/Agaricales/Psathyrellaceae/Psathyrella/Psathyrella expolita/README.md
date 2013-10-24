@@ -1,5 +1,4 @@
-Psathyrella expolita (Fr.) Sacc. SPECIES
-=======
+# Psathyrella expolita (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

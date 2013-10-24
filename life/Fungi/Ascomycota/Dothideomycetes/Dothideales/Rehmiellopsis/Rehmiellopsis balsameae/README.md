@@ -1,5 +1,4 @@
-Rehmiellopsis balsameae Waterman SPECIES
-=======
+# Rehmiellopsis balsameae Waterman SPECIES
 
 #### Status
 ACCEPTED

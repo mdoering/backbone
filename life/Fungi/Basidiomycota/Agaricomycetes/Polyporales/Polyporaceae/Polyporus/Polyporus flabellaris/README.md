@@ -1,5 +1,4 @@
-Polyporus flabellaris Lloyd SPECIES
-=======
+# Polyporus flabellaris Lloyd SPECIES
 
 #### Status
 ACCEPTED

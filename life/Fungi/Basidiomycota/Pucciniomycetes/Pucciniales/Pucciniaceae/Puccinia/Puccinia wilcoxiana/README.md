@@ -1,5 +1,4 @@
-Puccinia wilcoxiana Thüm. SPECIES
-=======
+# Puccinia wilcoxiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

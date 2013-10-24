@@ -1,5 +1,4 @@
-Laschia bispora (Holterm.) Sacc. & Traverso SPECIES
-=======
+# Laschia bispora (Holterm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

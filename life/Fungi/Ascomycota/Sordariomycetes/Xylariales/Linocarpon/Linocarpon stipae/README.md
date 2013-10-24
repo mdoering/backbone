@@ -1,5 +1,4 @@
-Linocarpon stipae Hansf. SPECIES
-=======
+# Linocarpon stipae Hansf. SPECIES
 
 #### Status
 ACCEPTED

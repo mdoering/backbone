@@ -1,14 +1,13 @@
-Graphis albonitens Müll. Arg. SPECIES
-=======
+# Fissurina albonitens (Müll. Arg.) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 30: 53 (1891)
+Telopea 11(1): 71 (2005)
 
 #### Original name
 Graphis albonitens Müll. Arg.

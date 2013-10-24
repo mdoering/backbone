@@ -1,14 +1,13 @@
-Nectria multiloculata Samuels, 1978 SPECIES
-=======
+# Hydropisphaera multiloculata (Samuels) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 16(1): 78 (1978)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 31 (1999)
 
 #### Original name
 Nectria multiloculata Samuels, 1978

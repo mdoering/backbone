@@ -1,5 +1,4 @@
-Septoria corcontica Kabát & Bubák SPECIES
-=======
+# Septoria corcontica Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

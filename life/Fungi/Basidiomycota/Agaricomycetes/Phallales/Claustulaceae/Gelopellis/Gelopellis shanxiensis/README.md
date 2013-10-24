@@ -1,5 +1,4 @@
-Gelopellis shanxiensis B. Liu & K. Tao, 1988 SPECIES
-=======
+# Gelopellis shanxiensis B. Liu & K. Tao, 1988 SPECIES
 
 #### Status
 ACCEPTED

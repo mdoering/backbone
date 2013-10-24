@@ -1,5 +1,4 @@
-Phytophthora bishii Abad, J.A. Abad & Louws SPECIES
-=======
+# Phytophthora bishii Abad, J.A. Abad & Louws SPECIES
 
 #### Status
 ACCEPTED

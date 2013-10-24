@@ -1,5 +1,4 @@
-Asterella patelloides Ellis & G. Martin SPECIES
-=======
+# Asterella patelloides Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

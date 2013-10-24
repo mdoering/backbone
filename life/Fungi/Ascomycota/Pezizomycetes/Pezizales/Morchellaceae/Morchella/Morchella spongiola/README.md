@@ -1,5 +1,4 @@
-Morchella spongiola var. spongiola VARIETY
-=======
+# Morchella spongiola Boud. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 13: 138 (1897)
 
 #### Original name
-Morchella spongiola var. spongiola
+Morchella spongiola Boud.
 
 ### Remarks
 null

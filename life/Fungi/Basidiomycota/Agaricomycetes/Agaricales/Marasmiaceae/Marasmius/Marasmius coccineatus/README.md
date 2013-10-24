@@ -1,5 +1,4 @@
-Marasmius coccineatus Bat. SPECIES
-=======
+# Marasmius coccineatus Bat. SPECIES
 
 #### Status
 ACCEPTED

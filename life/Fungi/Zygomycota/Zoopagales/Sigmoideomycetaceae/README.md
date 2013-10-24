@@ -1,5 +1,4 @@
-Sigmoideomycetaceae Benny, R.K. Benj. & P.M. Kirk FAMILY
-=======
+# Sigmoideomycetaceae Benny, R.K. Benj. & P.M. Kirk FAMILY
 
 #### Status
 ACCEPTED

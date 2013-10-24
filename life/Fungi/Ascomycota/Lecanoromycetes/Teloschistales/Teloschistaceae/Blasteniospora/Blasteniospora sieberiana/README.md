@@ -1,5 +1,4 @@
-Blasteniospora sieberiana (Laurer) Trevis. SPECIES
-=======
+# Blasteniospora sieberiana (Laurer) Trevis. SPECIES
 
 #### Status
 ACCEPTED

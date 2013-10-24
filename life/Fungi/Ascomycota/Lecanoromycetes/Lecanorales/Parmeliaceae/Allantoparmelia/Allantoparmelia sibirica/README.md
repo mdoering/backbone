@@ -1,5 +1,4 @@
-Allantoparmelia sibirica (Zahlbr.) Essl. SPECIES
-=======
+# Allantoparmelia sibirica (Zahlbr.) Essl. SPECIES
 
 #### Status
 ACCEPTED

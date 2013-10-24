@@ -1,5 +1,4 @@
-Inocybe multicoronata A.H. Sm. SPECIES
-=======
+# Inocybe multicoronata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

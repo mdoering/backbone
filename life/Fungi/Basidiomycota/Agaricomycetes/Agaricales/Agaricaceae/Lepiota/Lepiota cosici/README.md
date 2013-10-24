@@ -1,5 +1,4 @@
-Lepiota cosici Velen. SPECIES
-=======
+# Lepiota cosici Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhytisma leucothoës Henn. SPECIES
-=======
+# Rhytisma leucothoes Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhytisma leucothoës Henn.
+Rhytisma leucothoes Henn.
 
 ### Remarks
 null

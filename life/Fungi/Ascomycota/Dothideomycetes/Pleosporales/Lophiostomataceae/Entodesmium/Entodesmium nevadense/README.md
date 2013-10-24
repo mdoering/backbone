@@ -1,5 +1,4 @@
-Entodesmium nevadense Petr. SPECIES
-=======
+# Entodesmium nevadense Petr. SPECIES
 
 #### Status
 ACCEPTED

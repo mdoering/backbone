@@ -1,5 +1,4 @@
-Torula suganii Okun. SPECIES
-=======
+# Torula suganii Okun. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium catamarcense Speg. SPECIES
-=======
+# Cladosporium catamarcense Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia eumecaspora SPECIES
-=======
+# Polyblastia eumecaspora SPECIES
 
 #### Status
 ACCEPTED

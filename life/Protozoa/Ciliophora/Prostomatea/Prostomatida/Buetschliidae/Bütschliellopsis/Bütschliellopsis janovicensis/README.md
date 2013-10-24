@@ -1,5 +1,4 @@
-Bütschliellopsis janovicensis SPECIES
-=======
+# Bütschliellopsis janovicensis SPECIES
 
 #### Status
 ACCEPTED

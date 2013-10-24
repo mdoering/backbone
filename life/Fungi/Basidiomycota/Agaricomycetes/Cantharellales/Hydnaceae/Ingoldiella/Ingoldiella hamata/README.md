@@ -1,5 +1,4 @@
-Ingoldiella hamata D.E. Shaw, 1972 SPECIES
-=======
+# Ingoldiella hamata D.E. Shaw, 1972 SPECIES
 
 #### Status
 ACCEPTED

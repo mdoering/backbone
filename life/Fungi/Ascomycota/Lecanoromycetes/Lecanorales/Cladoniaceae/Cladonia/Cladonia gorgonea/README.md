@@ -1,5 +1,4 @@
-Cladonia gorgonea Eschw. SPECIES
-=======
+# Cladonia gorgonea Eschw. SPECIES
 
 #### Status
 ACCEPTED

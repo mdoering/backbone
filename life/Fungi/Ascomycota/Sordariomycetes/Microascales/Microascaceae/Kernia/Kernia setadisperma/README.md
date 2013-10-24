@@ -1,5 +1,4 @@
-Kernia setadisperma Locq.-Lin. SPECIES
-=======
+# Kernia setadisperma Locq.-Lin. SPECIES
 
 #### Status
 ACCEPTED

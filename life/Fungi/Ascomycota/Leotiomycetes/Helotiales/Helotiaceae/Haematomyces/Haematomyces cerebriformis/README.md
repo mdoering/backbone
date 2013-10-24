@@ -1,5 +1,4 @@
-Haematomyces cerebriformis Petch SPECIES
-=======
+# Haematomyces cerebriformis Petch SPECIES
 
 #### Status
 ACCEPTED

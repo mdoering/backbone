@@ -1,5 +1,4 @@
-Cyanisticta faveolata SPECIES
-=======
+# Cyanisticta faveolata SPECIES
 
 #### Status
 ACCEPTED

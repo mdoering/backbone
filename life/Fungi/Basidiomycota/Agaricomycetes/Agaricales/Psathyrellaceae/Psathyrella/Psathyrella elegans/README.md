@@ -1,5 +1,4 @@
-Psathyrella elegans (Romagn.) Bon SPECIES
-=======
+# Psathyrella elegans (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

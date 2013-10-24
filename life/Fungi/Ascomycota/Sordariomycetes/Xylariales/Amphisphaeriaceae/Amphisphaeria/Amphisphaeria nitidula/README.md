@@ -1,5 +1,4 @@
-Amphisphaeria nitidula Höhn. SPECIES
-=======
+# Amphisphaeria nitidula Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia adenophorae Dietel SPECIES
-=======
+# Puccinia adenophorae Dietel SPECIES
 
 #### Status
 ACCEPTED

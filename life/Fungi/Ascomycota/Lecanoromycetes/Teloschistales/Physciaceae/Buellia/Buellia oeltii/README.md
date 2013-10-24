@@ -1,5 +1,4 @@
-Buellia oeltii T. Schauer SPECIES
-=======
+# Buellia oeltii T. Schauer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ledicola Peck SPECIES
-=======
+# Uredo ledicola Peck SPECIES
 
 #### Status
 ACCEPTED

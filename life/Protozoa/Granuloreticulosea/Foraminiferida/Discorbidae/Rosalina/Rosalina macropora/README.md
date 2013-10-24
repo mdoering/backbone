@@ -1,5 +1,4 @@
-Rosalina macropora (Hofker, 1951) SPECIES
-=======
+# Rosalina macropora (Hofker, 1951) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia pustulenscens Kurok. SPECIES
-=======
+# Parmelia pustulenscens Kurok. SPECIES
 
 #### Status
 ACCEPTED

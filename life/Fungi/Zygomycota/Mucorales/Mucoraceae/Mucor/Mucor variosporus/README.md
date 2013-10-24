@@ -1,17 +1,16 @@
-Mucor variosporus var. aurantiacus K.Q. Pei VARIETY
-=======
+# Mucor variosporus Schipper, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycosystema 19(1): 11 (2000)
+Stud. Mycol. 17: 11 (1978)
 
 #### Original name
-Mucor variosporus var. aurantiacus K.Q. Pei
+Mucor variosporus Schipper, 1978
 
 ### Remarks
 null

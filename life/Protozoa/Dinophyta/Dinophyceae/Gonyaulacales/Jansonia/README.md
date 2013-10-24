@@ -1,5 +1,4 @@
-Jansonia S.A.J. Pocock, 1972 GENUS
-=======
+# Jansonia S.A.J. Pocock, 1972 GENUS
 
 #### Status
 ACCEPTED

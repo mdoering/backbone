@@ -1,5 +1,4 @@
-Agaricus bonii Wasser SPECIES
-=======
+# Agaricus bonii Wasser SPECIES
 
 #### Status
 ACCEPTED

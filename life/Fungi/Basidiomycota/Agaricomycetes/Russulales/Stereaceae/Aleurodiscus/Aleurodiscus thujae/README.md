@@ -1,5 +1,4 @@
-Aleurodiscus thujae Ginns, 1990 SPECIES
-=======
+# Aleurodiscus thujae Ginns, 1990 SPECIES
 
 #### Status
 ACCEPTED

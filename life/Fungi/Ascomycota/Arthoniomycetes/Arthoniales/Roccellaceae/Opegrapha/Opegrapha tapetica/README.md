@@ -1,5 +1,4 @@
-Opegrapha tapetica Zahlbr. SPECIES
-=======
+# Opegrapha tapetica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

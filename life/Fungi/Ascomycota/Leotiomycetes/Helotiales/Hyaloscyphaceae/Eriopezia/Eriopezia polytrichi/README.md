@@ -1,5 +1,4 @@
-Eriopezia polytrichi Velen. SPECIES
-=======
+# Eriopezia polytrichi Velen. SPECIES
 
 #### Status
 ACCEPTED

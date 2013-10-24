@@ -1,5 +1,4 @@
-Eriopeziza caesia (Pers.) Rehm SPECIES
-=======
+# Eriopeziza caesia (Pers.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopus caucasicus SPECIES
-=======
+# Metopus caucasicus SPECIES
 
 #### Status
 ACCEPTED

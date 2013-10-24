@@ -1,5 +1,4 @@
-Corynespora inversa (Sacc.) S. Hughes SPECIES
-=======
+# Corynespora inversa (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

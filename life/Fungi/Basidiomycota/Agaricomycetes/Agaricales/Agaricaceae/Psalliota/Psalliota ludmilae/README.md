@@ -1,5 +1,4 @@
-Psalliota ludmilae Velen. SPECIES
-=======
+# Psalliota ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

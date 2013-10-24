@@ -1,5 +1,4 @@
-Sphaceloma murrayae Grodz. & Jenkins, 1943 SPECIES
-=======
+# Sphaceloma murrayae Grodz. & Jenkins, 1943 SPECIES
 
 #### Status
 ACCEPTED

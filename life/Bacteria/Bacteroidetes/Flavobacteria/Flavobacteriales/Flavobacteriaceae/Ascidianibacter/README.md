@@ -1,5 +1,4 @@
-Ascidianibacter GENUS
-=======
+# Ascidianibacter GENUS
 
 #### Status
 ACCEPTED

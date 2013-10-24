@@ -1,5 +1,4 @@
-Coccostromopsis bambusae Sawada, 1959 SPECIES
-=======
+# Coccostromopsis bambusae Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

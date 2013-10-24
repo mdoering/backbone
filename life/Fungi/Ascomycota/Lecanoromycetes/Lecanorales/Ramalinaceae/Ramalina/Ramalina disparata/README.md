@@ -1,5 +1,4 @@
-Ramalina disparata Krog & Swinscow SPECIES
-=======
+# Ramalina disparata Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

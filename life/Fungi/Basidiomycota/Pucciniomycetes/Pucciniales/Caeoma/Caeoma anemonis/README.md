@@ -1,5 +1,4 @@
-Caeoma anemonis Schwein. SPECIES
-=======
+# Caeoma anemonis Schwein. SPECIES
 
 #### Status
 ACCEPTED

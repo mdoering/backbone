@@ -1,5 +1,4 @@
-Ectostroma corni Castagne SPECIES
-=======
+# Ectostroma corni Castagne SPECIES
 
 #### Status
 ACCEPTED

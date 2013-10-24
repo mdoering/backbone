@@ -1,5 +1,4 @@
-Plenodomus gentianae (Moesz) Petr. SPECIES
-=======
+# Plenodomus gentianae (Moesz) Petr. SPECIES
 
 #### Status
 ACCEPTED

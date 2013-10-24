@@ -1,5 +1,4 @@
-Metasphaeria inulina (Durieu & Mont.) Sacc. SPECIES
-=======
+# Metasphaeria inulina (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

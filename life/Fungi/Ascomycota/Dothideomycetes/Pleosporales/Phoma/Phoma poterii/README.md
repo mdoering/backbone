@@ -1,5 +1,4 @@
-Phoma poterii Fautrey SPECIES
-=======
+# Phoma poterii Fautrey SPECIES
 
 #### Status
 ACCEPTED

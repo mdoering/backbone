@@ -1,5 +1,4 @@
-Foveodiporites gunniae (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites gunniae (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

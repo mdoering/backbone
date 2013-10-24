@@ -1,17 +1,16 @@
-Articulis Clem. & Shear GENUS
-=======
+# Microstoma Bernstein, 1852 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 22, 406 (1931)
+Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. Dresden 23: 649 (1852)
 
 #### Original name
-Articulis Clem. & Shear
+Microstoma Bernstein, 1852
 
 ### Remarks
 null

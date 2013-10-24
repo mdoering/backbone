@@ -1,5 +1,4 @@
-Cryptodiaporthe comptoniae (Schwein.) M.E. Barr SPECIES
-=======
+# Cryptodiaporthe comptoniae (Schwein.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota luxurians (Fr.) Sacc. SPECIES
-=======
+# Pholiota luxurians (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

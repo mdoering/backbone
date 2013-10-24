@@ -1,5 +1,4 @@
-Rinodinella stenospora (H. Magn.) H. Mayrhofer SPECIES
-=======
+# Rinodinella stenospora (H. Magn.) H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium elasticae Koord. SPECIES
-=======
+# Coremium elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

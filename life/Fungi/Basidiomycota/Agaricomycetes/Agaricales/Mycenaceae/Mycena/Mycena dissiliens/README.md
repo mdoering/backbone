@@ -1,5 +1,4 @@
-Mycena dissiliens (Fr.) Quél. SPECIES
-=======
+# Mycena dissiliens (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

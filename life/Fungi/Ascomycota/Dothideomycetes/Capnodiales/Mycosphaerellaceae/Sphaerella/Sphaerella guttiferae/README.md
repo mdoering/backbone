@@ -1,5 +1,4 @@
-Sphaerella guttiferae (Miles) Sacc. SPECIES
-=======
+# Sphaerella guttiferae (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

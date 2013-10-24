@@ -1,5 +1,4 @@
-Aegerita caesia Pers. SPECIES
-=======
+# Aegerita caesia Pers. SPECIES
 
 #### Status
 ACCEPTED

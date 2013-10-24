@@ -1,5 +1,4 @@
-Charonnautes Strelkow, 1939 GENUS
-=======
+# Charonnautes Strelkow, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus spissii Eichelb. SPECIES
-=======
+# Polyporus spissii Eichelb. SPECIES
 
 #### Status
 ACCEPTED

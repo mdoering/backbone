@@ -1,5 +1,4 @@
-Heimiomyces cespitosus E. Horak SPECIES
-=======
+# Heimiomyces cespitosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

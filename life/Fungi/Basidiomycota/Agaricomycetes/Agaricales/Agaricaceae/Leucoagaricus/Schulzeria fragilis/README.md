@@ -1,5 +1,4 @@
-Schulzeria fragilis Beeli SPECIES
-=======
+# Schulzeria fragilis Beeli SPECIES
 
 #### Status
 ACCEPTED

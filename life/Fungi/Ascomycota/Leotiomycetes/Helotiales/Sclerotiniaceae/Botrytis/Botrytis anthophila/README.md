@@ -1,5 +1,4 @@
-Botrytis anthophila Bondartsev, 1913 SPECIES
-=======
+# Botrytis anthophila Bondartsev, 1913 SPECIES
 
 #### Status
 ACCEPTED

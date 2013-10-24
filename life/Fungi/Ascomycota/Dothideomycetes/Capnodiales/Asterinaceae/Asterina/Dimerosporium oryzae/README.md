@@ -1,5 +1,4 @@
-Dimerosporium oryzae I. Miyake SPECIES
-=======
+# Dimerosporium oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

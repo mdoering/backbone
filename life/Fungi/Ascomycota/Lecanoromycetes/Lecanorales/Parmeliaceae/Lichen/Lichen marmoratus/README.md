@@ -1,5 +1,4 @@
-Lichen marmoratus J.F. Gmel. SPECIES
-=======
+# Lichen marmoratus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

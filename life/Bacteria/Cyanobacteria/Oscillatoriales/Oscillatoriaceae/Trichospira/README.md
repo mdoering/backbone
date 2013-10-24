@@ -1,5 +1,4 @@
-Trichospira E.M. McNeill, 1948 GENUS
-=======
+# Trichospira E.M. McNeill, 1948 GENUS
 
 #### Status
 ACCEPTED

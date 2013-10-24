@@ -1,5 +1,4 @@
-Hendersonia micheliae Gucevic SPECIES
-=======
+# Hendersonia micheliae Gucevic SPECIES
 
 #### Status
 ACCEPTED

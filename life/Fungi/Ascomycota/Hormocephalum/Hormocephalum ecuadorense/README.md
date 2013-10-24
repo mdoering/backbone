@@ -1,5 +1,4 @@
-Hormocephalum ecuadorense Syd., 1939 SPECIES
-=======
+# Hormocephalum ecuadorense Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

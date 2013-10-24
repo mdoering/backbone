@@ -1,5 +1,4 @@
-Baumanniella togoensis Henn. SPECIES
-=======
+# Baumanniella togoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

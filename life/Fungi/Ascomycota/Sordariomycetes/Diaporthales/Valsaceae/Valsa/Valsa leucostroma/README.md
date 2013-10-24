@@ -1,5 +1,4 @@
-Valsa leucostroma Mont. SPECIES
-=======
+# Valsa leucostroma Mont. SPECIES
 
 #### Status
 ACCEPTED

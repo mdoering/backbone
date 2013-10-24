@@ -1,5 +1,4 @@
-Arthonia adhaerens Müll. Arg. SPECIES
-=======
+# Arthonia adhaerens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

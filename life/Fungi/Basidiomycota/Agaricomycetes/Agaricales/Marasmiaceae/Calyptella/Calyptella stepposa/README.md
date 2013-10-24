@@ -1,5 +1,4 @@
-Calyptella stepposa (Pilát) W.B. Cooke SPECIES
-=======
+# Calyptella stepposa (Pilát) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

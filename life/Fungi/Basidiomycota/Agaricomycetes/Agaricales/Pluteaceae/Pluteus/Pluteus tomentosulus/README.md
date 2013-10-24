@@ -1,5 +1,4 @@
-Pluteus tomentosulus Peck SPECIES
-=======
+# Pluteus tomentosulus Peck SPECIES
 
 #### Status
 ACCEPTED

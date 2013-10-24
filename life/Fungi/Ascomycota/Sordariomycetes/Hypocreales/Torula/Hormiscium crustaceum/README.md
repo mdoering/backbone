@@ -1,5 +1,4 @@
-Hormiscium crustaceum P. Karst. SPECIES
-=======
+# Hormiscium crustaceum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytrella argentea Kirschst. SPECIES
-=======
+# Chytrella argentea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

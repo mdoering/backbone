@@ -1,11 +1,10 @@
-Reichenbachia Nedashkovskaya et al., 2003 GENUS
-=======
+# Reichenbachiella Nedashkovskaya, Kim, Suzuki, Shevchenko, Lee, Lee, Park, Frolova, Oh, Bae, Park & Mikhailov, 2005 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

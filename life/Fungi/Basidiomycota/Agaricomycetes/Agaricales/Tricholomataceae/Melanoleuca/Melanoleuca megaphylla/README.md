@@ -1,5 +1,4 @@
-Melanoleuca megaphylla (Boud.) SPECIES
-=======
+# Melanoleuca megaphylla (Boud.) SPECIES
 
 #### Status
 ACCEPTED

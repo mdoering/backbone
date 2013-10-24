@@ -1,5 +1,4 @@
-Didymosphaeria brasiliensis (Höhn.) E. Müll. SPECIES
-=======
+# Didymosphaeria brasiliensis (Höhn.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

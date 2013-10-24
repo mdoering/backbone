@@ -1,8 +1,7 @@
-Apodachlya pyrifera var. pyrifera Zopf VARIETY
-=======
+# Apodachlya pyrifera Zopf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Acta Acad. Leop. Carol. Ac. Naturf. Fo. 52: 367 (1888)
 
 #### Original name
-Apodachlya pyrifera var. pyrifera Zopf
+Apodachlya pyrifera Zopf
 
 ### Remarks
 null

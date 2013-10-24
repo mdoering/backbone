@@ -1,5 +1,4 @@
-Stigmatomyces monspeliensis H.L. Dainat & J. Dainat SPECIES
-=======
+# Stigmatomyces monspeliensis H.L. Dainat & J. Dainat SPECIES
 
 #### Status
 ACCEPTED

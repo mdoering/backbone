@@ -1,5 +1,4 @@
-Strigula minuta Lücking SPECIES
-=======
+# Strigula minuta Lücking SPECIES
 
 #### Status
 ACCEPTED

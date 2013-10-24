@@ -1,14 +1,13 @@
-Acanthocystis longipes (Boud.) J. Favre, 1948 SPECIES
-=======
+# Hohenbuehelia longipes (Boud.) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 10(no. 3): 59 (1948)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 108 (1967)
 
 #### Original name
 Pleurotus longipes Boud., 1905

@@ -1,5 +1,4 @@
-Napamichum cellatum E.K.C. Bylén & J.I.R. Larsson SPECIES
-=======
+# Napamichum cellatum E.K.C. Bylén & J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

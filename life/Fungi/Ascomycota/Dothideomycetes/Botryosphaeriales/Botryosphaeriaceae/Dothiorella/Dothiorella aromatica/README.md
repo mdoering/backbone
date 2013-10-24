@@ -1,5 +1,4 @@
-Dothiorella aromatica (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella aromatica (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

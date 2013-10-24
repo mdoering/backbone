@@ -1,5 +1,4 @@
-Myelochroa sikkimensis Divakar, Upreti, G. P. Sinha & Elix SPECIES
-=======
+# Myelochroa sikkimensis Divakar, Upreti, G. P. Sinha & Elix SPECIES
 
 #### Status
 ACCEPTED

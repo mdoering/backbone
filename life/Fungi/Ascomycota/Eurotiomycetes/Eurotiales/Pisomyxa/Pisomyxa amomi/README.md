@@ -1,5 +1,4 @@
-Pisomyxa amomi Berk. & Broome SPECIES
-=======
+# Pisomyxa amomi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

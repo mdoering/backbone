@@ -1,5 +1,4 @@
-Eucaryphalus GENUS
-=======
+# Eucaryphalus GENUS
 
 #### Status
 ACCEPTED

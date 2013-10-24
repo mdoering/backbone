@@ -1,5 +1,4 @@
-Tuburcinia tessellata Liro SPECIES
-=======
+# Tuburcinia tessellata Liro SPECIES
 
 #### Status
 ACCEPTED

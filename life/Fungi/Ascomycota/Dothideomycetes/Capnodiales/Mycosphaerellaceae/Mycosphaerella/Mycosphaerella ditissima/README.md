@@ -1,5 +1,4 @@
-Mycosphaerella ditissima Syd. & P. Syd. SPECIES
-=======
+# Mycosphaerella ditissima Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya tarda Quennerstedt, 1869 SPECIES
-=======
+# Holophrya tarda Quennerstedt, 1869 SPECIES
 
 #### Status
 ACCEPTED

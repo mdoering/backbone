@@ -1,5 +1,4 @@
-Mycocalicium anomalum Tibell SPECIES
-=======
+# Mycocalicium anomalum Tibell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Absidia idahoensis var. idahoensis VARIETY
-=======
+# Absidia idahoensis Hesselt., M.K. Mahoney & S.W. Peterson, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 82(4): 523 (1990)
 
 #### Original name
-Absidia idahoensis var. idahoensis
+Absidia idahoensis Hesselt., M.K. Mahoney & S.W. Peterson, 1990
 
 ### Remarks
 null

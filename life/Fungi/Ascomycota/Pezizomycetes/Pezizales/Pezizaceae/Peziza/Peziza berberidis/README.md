@@ -1,5 +1,4 @@
-Peziza berberidis Pers. SPECIES
-=======
+# Peziza berberidis Pers. SPECIES
 
 #### Status
 ACCEPTED

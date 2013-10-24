@@ -1,5 +1,4 @@
-Junghuhnia globospora Iturr. & Ryvarden, 2010 SPECIES
-=======
+# Junghuhnia globospora Iturr. & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

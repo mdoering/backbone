@@ -1,5 +1,4 @@
-Aecidium dubitabile J.C. Lindq. SPECIES
-=======
+# Aecidium dubitabile J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

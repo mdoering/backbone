@@ -1,14 +1,13 @@
-Entomophthora tetranychii (Weiser) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Neozygites tetranychi (Weiser) Remaud. & S. Keller, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 11(1): 332 (1980)
 
 #### Original name
 Triplosporium tetranychi Weiser, 1968

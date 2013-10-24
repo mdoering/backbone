@@ -1,5 +1,4 @@
-Alternaria lallemantiae (Khokhr.) E.G. Simmons SPECIES
-=======
+# Alternaria lallemantiae (Khokhr.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

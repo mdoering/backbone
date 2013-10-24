@@ -1,5 +1,4 @@
-Loricophrya multitentaculata (Sand, 1895) Matthes, 1956 SPECIES
-=======
+# Loricophrya multitentaculata (Sand, 1895) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

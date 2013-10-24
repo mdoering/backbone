@@ -1,5 +1,4 @@
-Tricladiomyces Nawawi GENUS
-=======
+# Tricladiomyces Nawawi GENUS
 
 #### Status
 ACCEPTED

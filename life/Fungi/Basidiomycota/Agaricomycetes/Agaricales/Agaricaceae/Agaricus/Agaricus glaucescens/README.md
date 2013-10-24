@@ -1,5 +1,4 @@
-Agaricus glaucescens Kalchbr. SPECIES
-=======
+# Agaricus glaucescens Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

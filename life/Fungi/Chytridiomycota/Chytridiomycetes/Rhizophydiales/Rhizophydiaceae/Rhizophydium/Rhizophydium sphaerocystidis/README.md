@@ -1,5 +1,4 @@
-Rhizophydium sphaerocystidis Canter SPECIES
-=======
+# Rhizophydium sphaerocystidis Canter SPECIES
 
 #### Status
 ACCEPTED

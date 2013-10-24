@@ -1,5 +1,4 @@
-Pseudolithraphidites quattuorbacillatus Keupp, 1976 SPECIES
-=======
+# Pseudolithraphidites quattuorbacillatus Keupp, 1976 SPECIES
 
 #### Status
 ACCEPTED

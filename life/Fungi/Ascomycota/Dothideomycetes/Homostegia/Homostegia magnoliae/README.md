@@ -1,14 +1,13 @@
-Phyllachora magnoliae (Cooke) Cooke, 1885 SPECIES
-=======
+# Homostegia magnoliae (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Syll. fung. (Abellini) 2: 650 (1883)
 
 #### Original name
 Dothidea magnoliae Cooke, 1878

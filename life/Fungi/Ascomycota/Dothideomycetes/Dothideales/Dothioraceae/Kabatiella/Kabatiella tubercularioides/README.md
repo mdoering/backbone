@@ -1,14 +1,13 @@
-Kabatiella tubercularioidea (Sacc.) Moesz SPECIES
-=======
+# Kabatiella tubercularioides (Sacc.) Moesz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Közl. 17: 68 (1918)
 
 #### Original name
 Gloeosporium tubercularioides Sacc.

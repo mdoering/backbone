@@ -1,5 +1,4 @@
-Peziza blumenaviensis (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Peziza blumenaviensis (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

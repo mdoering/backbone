@@ -1,5 +1,4 @@
-Favolaschia nipponica Kobayasi, 1952 SPECIES
-=======
+# Favolaschia nipponica Kobayasi, 1952 SPECIES
 
 #### Status
 ACCEPTED

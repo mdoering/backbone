@@ -1,5 +1,4 @@
-Caldicellulosiruptor kristjanssonii Bredholt et al., 1999 SPECIES
-=======
+# Caldicellulosiruptor kristjanssonii Bredholt et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

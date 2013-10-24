@@ -1,5 +1,4 @@
-Aregma GENUS
-=======
+# Aregma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium guaraniticum Speg. SPECIES
-=======
+# Macrosporium guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

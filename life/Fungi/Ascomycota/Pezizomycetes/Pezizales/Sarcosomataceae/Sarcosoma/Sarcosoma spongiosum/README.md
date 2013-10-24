@@ -1,5 +1,4 @@
-Sarcosoma spongiosum (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Sarcosoma spongiosum (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sulcatosphaeridium minutum N. Umnova in N. Umnova & Fanderflit, 1971 SPECIES
-=======
+# Sulcatosphaeridium minutum N. Umnova in N. Umnova & Fanderflit, 1971 SPECIES
 
 #### Status
 ACCEPTED

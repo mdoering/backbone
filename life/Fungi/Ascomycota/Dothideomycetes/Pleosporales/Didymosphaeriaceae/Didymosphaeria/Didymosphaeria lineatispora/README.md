@@ -1,5 +1,4 @@
-Didymosphaeria lineatispora Nograsek SPECIES
-=======
+# Didymosphaeria lineatispora Nograsek SPECIES
 
 #### Status
 ACCEPTED

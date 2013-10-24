@@ -1,5 +1,4 @@
-Tilletia aegopogonis Durán SPECIES
-=======
+# Tilletia aegopogonis Durán SPECIES
 
 #### Status
 ACCEPTED

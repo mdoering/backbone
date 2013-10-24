@@ -1,5 +1,4 @@
-Leucopaxillus compactus (Fr.) Neuhoff SPECIES
-=======
+# Leucopaxillus compactus (Fr.) Neuhoff SPECIES
 
 #### Status
 ACCEPTED

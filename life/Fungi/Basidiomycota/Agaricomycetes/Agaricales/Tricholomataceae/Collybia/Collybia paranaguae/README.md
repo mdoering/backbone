@@ -1,5 +1,4 @@
-Collybia paranaguae Singer SPECIES
-=======
+# Collybia paranaguae Singer SPECIES
 
 #### Status
 ACCEPTED

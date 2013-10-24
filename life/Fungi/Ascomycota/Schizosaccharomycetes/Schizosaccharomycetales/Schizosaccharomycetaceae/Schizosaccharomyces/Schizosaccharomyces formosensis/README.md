@@ -1,5 +1,4 @@
-Schizosaccharomyces formosensis var. formosensis VARIETY
-=======
+# Schizosaccharomyces formosensis anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Schizosaccharomyces formosensis var. formosensis
+Schizosaccharomyces formosensis anon.
 
 ### Remarks
 null

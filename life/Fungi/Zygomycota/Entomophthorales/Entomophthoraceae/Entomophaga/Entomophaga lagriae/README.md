@@ -1,5 +1,4 @@
-Entomophaga lagriae Balazy, 1993 SPECIES
-=======
+# Entomophaga lagriae Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

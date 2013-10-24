@@ -1,5 +1,4 @@
-Leptosphaeria maydis G.L. Stout SPECIES
-=======
+# Leptosphaeria maydis G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

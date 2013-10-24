@@ -1,5 +1,4 @@
-Marasmius siccus (Schwein.) Fr. SPECIES
-=======
+# Marasmius siccus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

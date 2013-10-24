@@ -1,5 +1,4 @@
-Hypoxylon obovatum Mont. SPECIES
-=======
+# Hypoxylon obovatum Mont. SPECIES
 
 #### Status
 ACCEPTED

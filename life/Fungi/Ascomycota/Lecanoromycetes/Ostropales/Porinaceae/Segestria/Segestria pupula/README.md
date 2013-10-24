@@ -1,5 +1,4 @@
-Segestria pupula (Ach.) Trevis. SPECIES
-=======
+# Segestria pupula (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

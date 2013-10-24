@@ -1,5 +1,4 @@
-Phomopsis adansoniae Li Ma, P.K. Chi & Z.D. Jiang SPECIES
-=======
+# Phomopsis adansoniae Li Ma, P.K. Chi & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

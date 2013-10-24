@@ -1,5 +1,4 @@
-Sarcostroma coryneoideum (Harkn.) Nag Raj SPECIES
-=======
+# Sarcostroma coryneoideum (Harkn.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

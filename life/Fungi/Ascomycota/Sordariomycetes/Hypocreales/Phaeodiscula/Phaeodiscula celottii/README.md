@@ -1,5 +1,4 @@
-Phaeodiscula celottii Cub., 1891 SPECIES
-=======
+# Phaeodiscula celottii Cub., 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthomyces reukaufii Grüss SPECIES
-=======
+# Anthomyces reukaufii Grüss SPECIES
 
 #### Status
 ACCEPTED

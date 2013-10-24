@@ -1,5 +1,4 @@
-Entoloma melleicolor Murrill SPECIES
-=======
+# Entoloma melleicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

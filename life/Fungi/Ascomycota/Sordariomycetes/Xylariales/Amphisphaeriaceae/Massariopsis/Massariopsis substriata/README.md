@@ -1,5 +1,4 @@
-Massariopsis substriata Höhn. SPECIES
-=======
+# Massariopsis substriata Höhn. SPECIES
 
 #### Status
 ACCEPTED

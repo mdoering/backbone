@@ -1,5 +1,4 @@
-Spiroplectinella pseudocarinata (Cushman, 1921) SPECIES
-=======
+# Spiroplectinella pseudocarinata (Cushman, 1921) SPECIES
 
 #### Status
 ACCEPTED

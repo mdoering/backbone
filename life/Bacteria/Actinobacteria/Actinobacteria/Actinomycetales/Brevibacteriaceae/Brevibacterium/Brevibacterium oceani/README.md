@@ -1,5 +1,4 @@
-Brevibacterium oceani Bhadra, Raghukumar, Pindi & Shivaji, 2008 SPECIES
-=======
+# Brevibacterium oceani Bhadra, Raghukumar, Pindi & Shivaji, 2008 SPECIES
 
 #### Status
 ACCEPTED

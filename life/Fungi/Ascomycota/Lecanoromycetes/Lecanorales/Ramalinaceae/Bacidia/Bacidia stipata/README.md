@@ -1,5 +1,4 @@
-Bacidia stipata I.M. Lamb SPECIES
-=======
+# Bacidia stipata I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

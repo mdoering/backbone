@@ -1,5 +1,4 @@
-Fusarium pseudonectria Speg. SPECIES
-=======
+# Fusarium pseudonectria Speg. SPECIES
 
 #### Status
 ACCEPTED

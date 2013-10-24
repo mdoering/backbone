@@ -1,5 +1,4 @@
-Galerina hypsizyga Singer SPECIES
-=======
+# Galerina hypsizyga Singer SPECIES
 
 #### Status
 ACCEPTED

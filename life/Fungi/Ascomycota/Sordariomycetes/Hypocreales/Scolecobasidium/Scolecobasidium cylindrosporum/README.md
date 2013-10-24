@@ -1,5 +1,4 @@
-Scolecobasidium cylindrosporum J.L. Crane & Schokn. SPECIES
-=======
+# Scolecobasidium cylindrosporum J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

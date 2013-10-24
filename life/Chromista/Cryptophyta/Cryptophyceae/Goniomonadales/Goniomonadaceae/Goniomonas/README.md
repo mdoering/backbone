@@ -1,5 +1,4 @@
-Goniomonas Stein, 1878 GENUS
-=======
+# Goniomonas Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

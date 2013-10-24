@@ -1,8 +1,7 @@
-Pseudoglandulina japonica Asano, 1956 SPECIES
-=======
+# Pyramidulina japonica (Asano, 1956) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

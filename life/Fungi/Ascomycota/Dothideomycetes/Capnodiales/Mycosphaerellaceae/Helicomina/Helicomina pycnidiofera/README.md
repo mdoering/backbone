@@ -1,5 +1,4 @@
-Helicomina pycnidiofera K. Matsush. & Matsush. SPECIES
-=======
+# Helicomina pycnidiofera K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

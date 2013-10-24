@@ -1,5 +1,4 @@
-Merulius densus Rick SPECIES
-=======
+# Merulius densus Rick SPECIES
 
 #### Status
 ACCEPTED

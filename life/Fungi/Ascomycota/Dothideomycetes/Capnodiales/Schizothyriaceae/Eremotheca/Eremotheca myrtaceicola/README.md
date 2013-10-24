@@ -1,5 +1,4 @@
-Eremotheca myrtaceicola Bat. & H. Maia SPECIES
-=======
+# Eremotheca myrtaceicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

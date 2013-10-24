@@ -1,5 +1,4 @@
-Scytinostroma decidens Boidin, Gilles & Lanq., 1987 SPECIES
-=======
+# Scytinostroma decidens Boidin, Gilles & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeothece cystifera (Hassall) Rabenhorst SPECIES
-=======
+# Gloeothece cystifera (Hassall) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

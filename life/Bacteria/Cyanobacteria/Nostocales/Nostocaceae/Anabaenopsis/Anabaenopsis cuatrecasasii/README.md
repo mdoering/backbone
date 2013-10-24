@@ -1,5 +1,4 @@
-Anabaenopsis cuatrecasasii P. González SPECIES
-=======
+# Anabaenopsis cuatrecasasii P. González SPECIES
 
 #### Status
 ACCEPTED

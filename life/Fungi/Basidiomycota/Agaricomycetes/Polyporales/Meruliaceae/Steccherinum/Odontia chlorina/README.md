@@ -1,5 +1,4 @@
-Odontia chlorina (Cooke) Rick SPECIES
-=======
+# Odontia chlorina (Cooke) Rick SPECIES
 
 #### Status
 ACCEPTED

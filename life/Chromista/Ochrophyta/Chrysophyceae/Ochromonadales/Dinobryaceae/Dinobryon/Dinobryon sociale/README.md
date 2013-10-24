@@ -1,11 +1,10 @@
-Dinobryon sociale var. sociale VARIETY
-=======
+# Dinobryon sociale Ehrenberg SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

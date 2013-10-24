@@ -1,5 +1,4 @@
-Difficilina Simdyanov, 2009 GENUS
-=======
+# Difficilina Simdyanov, 2009 GENUS
 
 #### Status
 ACCEPTED

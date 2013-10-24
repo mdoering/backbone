@@ -1,14 +1,13 @@
-Coryneum kunzei var. japonicum Sacc., 1917 VARIETY
-=======
+# Coryneum japonicum (Sacc.) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 138(33): 1975 (1975)
 
 #### Original name
 Coryneum kunzei var. japonicum Sacc., 1917

@@ -1,5 +1,4 @@
-Spicaria carnosa J.H. Mill., Giddens & A.A. Foster SPECIES
-=======
+# Spicaria carnosa J.H. Mill., Giddens & A.A. Foster SPECIES
 
 #### Status
 ACCEPTED

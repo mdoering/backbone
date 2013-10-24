@@ -1,5 +1,4 @@
-Hypocrea hypoxyloides Henn. SPECIES
-=======
+# Hypocrea hypoxyloides Henn. SPECIES
 
 #### Status
 ACCEPTED

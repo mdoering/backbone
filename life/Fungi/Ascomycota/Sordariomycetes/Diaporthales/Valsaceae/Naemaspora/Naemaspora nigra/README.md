@@ -1,5 +1,4 @@
-Naemaspora nigra Rebent. SPECIES
-=======
+# Naemaspora nigra Rebent. SPECIES
 
 #### Status
 ACCEPTED

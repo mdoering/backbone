@@ -1,17 +1,16 @@
-Coprinus miser var. miser VARIETY
-=======
+# Parasola misera (P. Karst.) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. mycol. fenn. 9: 61 (1882)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 236 (2001)
 
 #### Original name
-Coprinus miser var. miser
+Coprinus miser P. Karst., 1882
 
 ### Remarks
 null

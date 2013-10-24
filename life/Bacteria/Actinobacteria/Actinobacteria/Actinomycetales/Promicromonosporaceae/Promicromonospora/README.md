@@ -1,5 +1,4 @@
-Promicromonospora Krassiln., Kalakout. & Kirillova GENUS
-=======
+# Promicromonospora Krassiln., Kalakout. & Kirillova GENUS
 
 #### Status
 ACCEPTED

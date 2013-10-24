@@ -1,17 +1,16 @@
-Lachnum nidulum var. nidulum VARIETY
-=======
+# Lasiobelonium nidulum (J.C. Schmidt & Kunze) Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 576 (1987)
 
 #### Original name
-Lachnum nidulum var. nidulum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microthelia stereocaulicola Linds. SPECIES
-=======
+# Microthelia stereocaulicola Linds. SPECIES
 
 #### Status
 ACCEPTED

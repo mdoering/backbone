@@ -1,5 +1,4 @@
-Usnea arboricola Jatta SPECIES
-=======
+# Usnea arboricola Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acladium curvatum Bonord. SPECIES
-=======
+# Acladium curvatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

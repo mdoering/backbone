@@ -1,5 +1,4 @@
-Polystictus rugosissimus Torrend SPECIES
-=======
+# Polystictus rugosissimus Torrend SPECIES
 
 #### Status
 ACCEPTED

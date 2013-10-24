@@ -1,5 +1,4 @@
-Mellitiosporium pteridium (W. Phillips & Buckn.) Sacc. SPECIES
-=======
+# Mellitiosporium pteridium (W. Phillips & Buckn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

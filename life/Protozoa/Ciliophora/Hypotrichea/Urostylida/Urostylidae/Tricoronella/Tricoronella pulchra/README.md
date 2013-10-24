@@ -1,5 +1,4 @@
-Tricoronella pulchra Blatterer & Foissner, 1988 SPECIES
-=======
+# Tricoronella pulchra Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

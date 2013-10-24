@@ -1,5 +1,4 @@
-Scolecotheca cornuta Søchting & B. Sutton, 1997 SPECIES
-=======
+# Scolecotheca cornuta Søchting & B. Sutton, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplasma leucomae Oduori et al., 2005 SPECIES
-=======
+# Spiroplasma leucomae Oduori et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

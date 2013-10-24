@@ -1,5 +1,4 @@
-Cortinarius ionodactylus Knutsson & Soop SPECIES
-=======
+# Cortinarius ionodactylus Knutsson & Soop SPECIES
 
 #### Status
 ACCEPTED

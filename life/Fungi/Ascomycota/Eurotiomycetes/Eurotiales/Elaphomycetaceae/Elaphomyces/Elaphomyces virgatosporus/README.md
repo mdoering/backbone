@@ -1,5 +1,4 @@
-Elaphomyces virgatosporus Hollós SPECIES
-=======
+# Elaphomyces virgatosporus Hollós SPECIES
 
 #### Status
 ACCEPTED

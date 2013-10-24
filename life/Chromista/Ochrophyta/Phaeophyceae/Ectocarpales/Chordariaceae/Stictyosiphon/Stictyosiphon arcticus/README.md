@@ -1,5 +1,4 @@
-Stictyosiphon arcticus Pedersen & Kristiansen SPECIES
-=======
+# Stictyosiphon arcticus Pedersen & Kristiansen SPECIES
 
 #### Status
 ACCEPTED

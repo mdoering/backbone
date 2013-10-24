@@ -1,5 +1,4 @@
-Mycena gilvipes M. Villarreal, Heykoop & Maas Geest. SPECIES
-=======
+# Mycena gilvipes M. Villarreal, Heykoop & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius rhyssophyllus Mont. ex Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius rhyssophyllus Mont. ex Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

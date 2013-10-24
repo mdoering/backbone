@@ -1,5 +1,4 @@
-Octospora paradoxa R. Hedw. SPECIES
-=======
+# Octospora paradoxa R. Hedw. SPECIES
 
 #### Status
 ACCEPTED

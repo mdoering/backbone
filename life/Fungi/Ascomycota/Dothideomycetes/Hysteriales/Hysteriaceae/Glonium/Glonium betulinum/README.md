@@ -1,5 +1,4 @@
-Glonium betulinum Rostr. SPECIES
-=======
+# Glonium betulinum Rostr. SPECIES
 
 #### Status
 ACCEPTED

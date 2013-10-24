@@ -1,5 +1,4 @@
-Heimatomyces hyalinus Thaxt. SPECIES
-=======
+# Heimatomyces hyalinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torulomyces laevis K. Ando & Manoch SPECIES
-=======
+# Torulomyces laevis K. Ando & Manoch SPECIES
 
 #### Status
 ACCEPTED

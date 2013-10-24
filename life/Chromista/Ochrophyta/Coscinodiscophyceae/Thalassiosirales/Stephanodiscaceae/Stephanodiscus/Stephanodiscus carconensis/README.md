@@ -1,5 +1,4 @@
-Stephanodiscus carconensis var. pusilla Grunow VARIETY
-=======
+# Stephanodiscus carconensis Grunow SPECIES
 
 #### Status
 ACCEPTED

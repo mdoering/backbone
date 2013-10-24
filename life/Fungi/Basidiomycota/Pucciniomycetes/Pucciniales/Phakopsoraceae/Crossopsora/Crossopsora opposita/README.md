@@ -1,5 +1,4 @@
-Crossopsora opposita Syd. SPECIES
-=======
+# Crossopsora opposita Syd. SPECIES
 
 #### Status
 ACCEPTED

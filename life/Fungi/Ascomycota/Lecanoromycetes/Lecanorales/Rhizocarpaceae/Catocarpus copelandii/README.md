@@ -1,5 +1,4 @@
-Catocarpus copelandii Arnold SPECIES
-=======
+# Catocarpus copelandii Arnold SPECIES
 
 #### Status
 ACCEPTED

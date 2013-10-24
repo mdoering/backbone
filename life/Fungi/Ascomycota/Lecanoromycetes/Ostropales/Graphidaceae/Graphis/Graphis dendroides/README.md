@@ -1,5 +1,4 @@
-Graphis dendroides Syd. SPECIES
-=======
+# Graphis dendroides Syd. SPECIES
 
 #### Status
 ACCEPTED

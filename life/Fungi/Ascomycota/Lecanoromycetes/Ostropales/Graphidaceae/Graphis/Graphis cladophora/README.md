@@ -1,5 +1,4 @@
-Graphis cladophora Vain. SPECIES
-=======
+# Graphis cladophora Vain. SPECIES
 
 #### Status
 ACCEPTED

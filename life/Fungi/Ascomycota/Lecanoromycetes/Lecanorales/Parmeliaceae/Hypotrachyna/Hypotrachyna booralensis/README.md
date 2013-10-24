@@ -1,5 +1,4 @@
-Hypotrachyna booralensis Elix SPECIES
-=======
+# Hypotrachyna booralensis Elix SPECIES
 
 #### Status
 ACCEPTED

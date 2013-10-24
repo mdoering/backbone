@@ -1,5 +1,4 @@
-Cortinarius phaleratus (Fr.) Peintner, M.M. Moser, E. Horak & Vilgalys SPECIES
-=======
+# Cortinarius phaleratus (Fr.) Peintner, M.M. Moser, E. Horak & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

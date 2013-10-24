@@ -1,5 +1,4 @@
-Thermococcus litoralis Neuner et al., 2001 SPECIES
-=======
+# Thermococcus litoralis Neuner et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

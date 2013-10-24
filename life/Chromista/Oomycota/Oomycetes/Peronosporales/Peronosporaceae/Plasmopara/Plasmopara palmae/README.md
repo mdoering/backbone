@@ -1,5 +1,4 @@
-Plasmopara palmae L. Campb. SPECIES
-=======
+# Plasmopara palmae L. Campb. SPECIES
 
 #### Status
 ACCEPTED

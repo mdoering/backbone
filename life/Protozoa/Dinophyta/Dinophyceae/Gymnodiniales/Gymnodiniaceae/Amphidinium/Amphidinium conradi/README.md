@@ -1,5 +1,4 @@
-Amphidinium conradi SPECIES
-=======
+# Amphidinium conradi SPECIES
 
 #### Status
 ACCEPTED

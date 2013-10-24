@@ -1,5 +1,4 @@
-Caloplaca cardinalis Zahlbr. SPECIES
-=======
+# Caloplaca cardinalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

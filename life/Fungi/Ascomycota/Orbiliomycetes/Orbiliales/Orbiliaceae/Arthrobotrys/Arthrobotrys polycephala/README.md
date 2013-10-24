@@ -1,5 +1,4 @@
-Arthrobotrys polycephala (Drechsler) Rifai, 1968 SPECIES
-=======
+# Arthrobotrys polycephala (Drechsler) Rifai, 1968 SPECIES
 
 #### Status
 ACCEPTED

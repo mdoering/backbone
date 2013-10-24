@@ -1,5 +1,4 @@
-Thelephora robusta Corner, 1976 SPECIES
-=======
+# Thelephora robusta Corner, 1976 SPECIES
 
 #### Status
 ACCEPTED

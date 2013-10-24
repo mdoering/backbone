@@ -1,17 +1,16 @@
-Chaetothyrium guaranticum Speg. SPECIES
-=======
+# Chaetothyrium guaraniticum Speg., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 26(1): 46 [no. 123] (1888)
 
 #### Original name
-Chaetothyrium guaranticum Speg.
+Chaetothyrium guaraniticum Speg., 1888
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corticium leprosum Bres. SPECIES
-=======
+# Corticium leprosum Bres. SPECIES
 
 #### Status
 ACCEPTED

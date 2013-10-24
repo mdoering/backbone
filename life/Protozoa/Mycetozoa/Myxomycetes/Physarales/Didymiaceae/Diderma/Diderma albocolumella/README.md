@@ -1,5 +1,4 @@
-Diderma albocolumella A.C.C. Bezerra & L.H. Cavalc., 2010 SPECIES
-=======
+# Diderma albocolumella A.C.C. Bezerra & L.H. Cavalc., 2010 SPECIES
 
 #### Status
 ACCEPTED

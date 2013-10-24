@@ -1,5 +1,4 @@
-Puccinia medusa Speg. SPECIES
-=======
+# Puccinia medusa Speg. SPECIES
 
 #### Status
 ACCEPTED

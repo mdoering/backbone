@@ -1,5 +1,4 @@
-Duportella miranda Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Duportella miranda Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

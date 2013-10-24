@@ -1,5 +1,4 @@
-Limacium laricinum Velen. SPECIES
-=======
+# Limacium laricinum Velen. SPECIES
 
 #### Status
 ACCEPTED

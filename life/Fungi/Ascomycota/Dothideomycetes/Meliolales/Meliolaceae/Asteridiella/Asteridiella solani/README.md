@@ -1,5 +1,4 @@
-Asteridiella solani McAlpine, 1897 SPECIES
-=======
+# Asteridiella solani McAlpine, 1897 SPECIES
 
 #### Status
 ACCEPTED

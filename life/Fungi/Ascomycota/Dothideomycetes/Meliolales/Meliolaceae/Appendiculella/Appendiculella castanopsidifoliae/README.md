@@ -1,8 +1,7 @@
-Appendiculella castanopsifoliae (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella castanopsidifoliae (W. Yamam.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irene castanopsisifoliae W. Yamam.
+Irene castanopsidifoliae W. Yamam.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Platygrapha conspersula Stirt. SPECIES
-=======
+# Platygrapha conspersula Stirt. SPECIES
 
 #### Status
 ACCEPTED

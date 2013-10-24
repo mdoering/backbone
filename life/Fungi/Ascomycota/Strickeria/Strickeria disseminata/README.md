@@ -1,14 +1,13 @@
-Strickera disseminata (Berk. & Cooke) Kuntze SPECIES
-=======
+# Strickeria disseminata (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 534 (1898)
 
 #### Original name
 Sphaeria disseminata Berk. & M.A. Curtis

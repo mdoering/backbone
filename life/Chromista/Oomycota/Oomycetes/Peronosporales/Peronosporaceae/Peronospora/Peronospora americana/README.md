@@ -1,5 +1,4 @@
-Peronospora americana Gäum. SPECIES
-=======
+# Peronospora americana Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxina dupainii (Boud.) Seaver SPECIES
-=======
+# Paxina dupainii (Boud.) Seaver SPECIES
 
 #### Status
 ACCEPTED

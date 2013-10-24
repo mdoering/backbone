@@ -1,5 +1,4 @@
-Pyrotheca E. Hesse GENUS
-=======
+# Pyrotheca E. Hesse GENUS
 
 #### Status
 ACCEPTED

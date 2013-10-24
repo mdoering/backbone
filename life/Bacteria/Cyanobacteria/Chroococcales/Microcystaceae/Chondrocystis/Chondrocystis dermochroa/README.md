@@ -1,8 +1,7 @@
-Gloeocapsa dermochroa Nägeli SPECIES
-=======
+# Chondrocystis dermochroa (Nägeli) Komàrek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

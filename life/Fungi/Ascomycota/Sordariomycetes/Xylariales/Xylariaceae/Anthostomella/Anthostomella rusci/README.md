@@ -1,5 +1,4 @@
-Anthostomella rusci Fabre SPECIES
-=======
+# Anthostomella rusci Fabre SPECIES
 
 #### Status
 ACCEPTED

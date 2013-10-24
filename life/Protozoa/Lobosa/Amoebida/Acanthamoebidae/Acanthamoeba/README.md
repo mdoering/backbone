@@ -1,14 +1,13 @@
-Comandonia Pernin & Pussard, 1979 GENUS
-=======
+# Acanthamoeba Sawyer & Griffin, 1975 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Protistologica 15 (1): 88.
+null
 
 #### Original name
 null

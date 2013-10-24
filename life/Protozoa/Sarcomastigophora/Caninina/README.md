@@ -1,5 +1,4 @@
-Caninina Vyalov, 1977 GENUS
-=======
+# Caninina Vyalov, 1977 GENUS
 
 #### Status
 ACCEPTED

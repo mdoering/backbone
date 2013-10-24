@@ -1,5 +1,4 @@
-Ceratium petersii Nielsen SPECIES
-=======
+# Ceratium petersii Nielsen SPECIES
 
 #### Status
 ACCEPTED

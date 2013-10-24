@@ -1,5 +1,4 @@
-Leiosphaeridia oelandica Eisenack, 1962 SPECIES
-=======
+# Leiosphaeridia oelandica Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zanclospora S. Hughes & W.B. Kendr. GENUS
-=======
+# Zanclospora S. Hughes & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

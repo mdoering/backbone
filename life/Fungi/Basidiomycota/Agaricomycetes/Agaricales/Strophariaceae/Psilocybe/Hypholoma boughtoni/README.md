@@ -1,5 +1,4 @@
-Hypholoma boughtoni Peck SPECIES
-=======
+# Hypholoma boughtoni Peck SPECIES
 
 #### Status
 ACCEPTED

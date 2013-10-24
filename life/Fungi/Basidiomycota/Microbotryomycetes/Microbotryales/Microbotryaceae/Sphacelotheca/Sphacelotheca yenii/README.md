@@ -1,5 +1,4 @@
-Sphacelotheca yenii Zundel SPECIES
-=======
+# Sphacelotheca yenii Zundel SPECIES
 
 #### Status
 ACCEPTED

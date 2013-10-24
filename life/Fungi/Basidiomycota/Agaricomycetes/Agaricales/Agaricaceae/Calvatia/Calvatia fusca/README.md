@@ -1,5 +1,4 @@
-Calvatia fusca (G. Cunn.) Grgur. SPECIES
-=======
+# Calvatia fusca (G. Cunn.) Grgur. SPECIES
 
 #### Status
 ACCEPTED

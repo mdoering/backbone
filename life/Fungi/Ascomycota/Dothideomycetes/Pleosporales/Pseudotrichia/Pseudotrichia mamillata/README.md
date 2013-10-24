@@ -1,5 +1,4 @@
-Pseudotrichia mamillata M.E. Barr SPECIES
-=======
+# Pseudotrichia mamillata M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

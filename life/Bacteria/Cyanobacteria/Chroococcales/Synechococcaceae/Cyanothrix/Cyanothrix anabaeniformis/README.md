@@ -1,5 +1,4 @@
-Cyanothrix anabaeniformis Kiselev SPECIES
-=======
+# Cyanothrix anabaeniformis Kiselev SPECIES
 
 #### Status
 ACCEPTED

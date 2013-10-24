@@ -1,5 +1,4 @@
-Lophiostoma imperfectum Ellis & Fairm. SPECIES
-=======
+# Lophiostoma imperfectum Ellis & Fairm. SPECIES
 
 #### Status
 ACCEPTED

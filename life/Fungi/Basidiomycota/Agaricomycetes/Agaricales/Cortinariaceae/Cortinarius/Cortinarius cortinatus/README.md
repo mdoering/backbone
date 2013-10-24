@@ -1,5 +1,4 @@
-Cortinarius cortinatus Rob. Henry SPECIES
-=======
+# Cortinarius cortinatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

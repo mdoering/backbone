@@ -1,5 +1,4 @@
-Geobacter grbiciae Coates et al., 2001 SPECIES
-=======
+# Geobacter grbiciae Coates et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

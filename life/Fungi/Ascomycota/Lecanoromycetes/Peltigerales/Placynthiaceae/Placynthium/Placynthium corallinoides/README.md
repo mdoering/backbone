@@ -1,5 +1,4 @@
-Placynthium corallinoides (Schaer.) Jatta SPECIES
-=======
+# Placynthium corallinoides (Schaer.) Jatta SPECIES
 
 #### Status
 ACCEPTED

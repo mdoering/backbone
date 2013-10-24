@@ -1,5 +1,4 @@
-Stilbum spegazzinianum Sacc. SPECIES
-=======
+# Stilbum spegazzinianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

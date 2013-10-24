@@ -1,5 +1,4 @@
-Phyllosticta uvariae (Berk.) Sacc. SPECIES
-=======
+# Phyllosticta uvariae (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

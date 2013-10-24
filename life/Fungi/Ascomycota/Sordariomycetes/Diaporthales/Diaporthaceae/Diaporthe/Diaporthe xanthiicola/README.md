@@ -1,5 +1,4 @@
-Diaporthe xanthiicola Speg. SPECIES
-=======
+# Diaporthe xanthiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

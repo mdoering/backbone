@@ -1,5 +1,4 @@
-Mycena canescens (Weinm.) Gillet SPECIES
-=======
+# Mycena canescens (Weinm.) Gillet SPECIES
 
 #### Status
 ACCEPTED

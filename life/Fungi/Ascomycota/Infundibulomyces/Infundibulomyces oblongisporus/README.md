@@ -1,5 +1,4 @@
-Infundibulomyces oblongisporus Somrith. SPECIES
-=======
+# Infundibulomyces oblongisporus Somrith. SPECIES
 
 #### Status
 ACCEPTED

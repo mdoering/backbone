@@ -1,5 +1,4 @@
-Entoloma incertum (Romagn.) E. Horak SPECIES
-=======
+# Entoloma incertum (Romagn.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

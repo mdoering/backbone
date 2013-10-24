@@ -1,5 +1,4 @@
-Hypogymnia sachalinensis Tchaban. & McCune SPECIES
-=======
+# Hypogymnia sachalinensis Tchaban. & McCune SPECIES
 
 #### Status
 ACCEPTED

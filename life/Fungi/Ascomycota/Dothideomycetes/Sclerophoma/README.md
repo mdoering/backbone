@@ -1,5 +1,4 @@
-Sclerophoma von Höhnel, 1909 GENUS
-=======
+# Sclerophoma von Höhnel, 1909 GENUS
 
 #### Status
 ACCEPTED

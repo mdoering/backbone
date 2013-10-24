@@ -1,5 +1,4 @@
-Graphis celtidis Müll. Arg. SPECIES
-=======
+# Graphis celtidis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

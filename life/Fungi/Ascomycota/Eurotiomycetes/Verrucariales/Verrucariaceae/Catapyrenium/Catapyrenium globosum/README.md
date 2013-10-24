@@ -1,5 +1,4 @@
-Catapyrenium globosum J.W. Thomson SPECIES
-=======
+# Catapyrenium globosum J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

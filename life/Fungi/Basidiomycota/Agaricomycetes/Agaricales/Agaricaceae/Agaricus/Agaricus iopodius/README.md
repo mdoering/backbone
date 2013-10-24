@@ -1,5 +1,4 @@
-Agaricus iopodius Secr. SPECIES
-=======
+# Agaricus iopodius Secr. SPECIES
 
 #### Status
 ACCEPTED

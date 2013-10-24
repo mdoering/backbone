@@ -1,5 +1,4 @@
-Earlmyersia punctata f. liliputana Rhumbler, 1938 FORM
-=======
+# Earlmyersia punctata (d’Orbigny) SPECIES
 
 #### Status
 ACCEPTED

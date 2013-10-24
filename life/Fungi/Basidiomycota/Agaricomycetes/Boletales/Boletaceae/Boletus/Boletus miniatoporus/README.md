@@ -1,5 +1,4 @@
-Boletus miniatoporus anon. SPECIES
-=======
+# Boletus miniatoporus anon. SPECIES
 
 #### Status
 ACCEPTED

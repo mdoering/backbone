@@ -1,5 +1,4 @@
-Cecidioskyttea osorioi Etayo SPECIES
-=======
+# Cecidioskyttea osorioi Etayo SPECIES
 
 #### Status
 ACCEPTED

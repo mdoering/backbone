@@ -1,5 +1,4 @@
-Penicillium hanzawanum Y.K. Shih SPECIES
-=======
+# Penicillium hanzawanum Y.K. Shih SPECIES
 
 #### Status
 ACCEPTED

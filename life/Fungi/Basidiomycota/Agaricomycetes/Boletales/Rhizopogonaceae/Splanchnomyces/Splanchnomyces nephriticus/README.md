@@ -1,5 +1,4 @@
-Splanchnomyces nephriticus Corda SPECIES
-=======
+# Splanchnomyces nephriticus Corda SPECIES
 
 #### Status
 ACCEPTED

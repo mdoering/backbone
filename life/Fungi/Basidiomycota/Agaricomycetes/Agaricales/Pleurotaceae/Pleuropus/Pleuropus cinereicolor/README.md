@@ -1,5 +1,4 @@
-Pleuropus cinereicolor Murrill SPECIES
-=======
+# Pleuropus cinereicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

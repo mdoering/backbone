@@ -1,17 +1,16 @@
-Asterothyrites nilssonioptericola Krassilov SPECIES
-=======
+# Asterothyrites nilssoniopteridicola Krassilov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rannemelovaya Flora Yuzhnogo Primor'ya (Moscow), i Ee Znachenie Dlya Stratigrafii 93 + pl. 2, figs 4, 5 (1967)
 
 #### Original name
-Asterothyrites nilssonioptericola Krassilov
+Asterothyrites nilssoniopteridicola Krassilov
 
 ### Remarks
 null

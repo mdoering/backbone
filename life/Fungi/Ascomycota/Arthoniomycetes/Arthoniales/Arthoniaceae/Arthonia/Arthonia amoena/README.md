@@ -1,5 +1,4 @@
-Arthonia amoena Müll. Arg. SPECIES
-=======
+# Arthonia amoena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

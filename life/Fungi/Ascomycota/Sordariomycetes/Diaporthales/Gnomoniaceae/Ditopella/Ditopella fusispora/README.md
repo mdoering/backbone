@@ -1,5 +1,4 @@
-Ditopella fusispora De Not., 1863 SPECIES
-=======
+# Ditopella fusispora De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED

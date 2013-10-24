@@ -1,5 +1,4 @@
-Mitsuokella Shah & Collins, 1983 GENUS
-=======
+# Mitsuokella Shah & Collins, 1983 GENUS
 
 #### Status
 ACCEPTED

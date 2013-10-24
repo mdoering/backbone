@@ -1,5 +1,4 @@
-Marssonia sorbi Magnus SPECIES
-=======
+# Marssonia sorbi Magnus SPECIES
 
 #### Status
 ACCEPTED

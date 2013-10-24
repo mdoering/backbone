@@ -1,5 +1,4 @@
-Tremella brunnea Opiz SPECIES
-=======
+# Tremella brunnea Opiz SPECIES
 
 #### Status
 ACCEPTED

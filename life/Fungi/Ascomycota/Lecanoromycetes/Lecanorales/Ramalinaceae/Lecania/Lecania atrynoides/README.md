@@ -1,5 +1,4 @@
-Lecania atrynoides M. Knowles SPECIES
-=======
+# Lecania atrynoides M. Knowles SPECIES
 
 #### Status
 ACCEPTED

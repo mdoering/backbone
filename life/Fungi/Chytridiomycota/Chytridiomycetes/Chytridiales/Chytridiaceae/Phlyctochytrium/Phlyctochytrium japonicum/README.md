@@ -1,5 +1,4 @@
-Phlyctochytrium japonicum (Kobayasi & M. Ôkubo) Sparrow SPECIES
-=======
+# Phlyctochytrium japonicum (Kobayasi & M. Ôkubo) Sparrow SPECIES
 
 #### Status
 ACCEPTED

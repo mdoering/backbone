@@ -1,5 +1,4 @@
-Dictyota phlyctaenodes Montagne, 1852 SPECIES
-=======
+# Dictyota phlyctaenodes Montagne, 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota vinacea Cleland SPECIES
-=======
+# Psalliota vinacea Cleland SPECIES
 
 #### Status
 ACCEPTED

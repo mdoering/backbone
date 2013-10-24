@@ -1,5 +1,4 @@
-Leptosphaerulina platycodonis J.F. Lue & P.K. Chi SPECIES
-=======
+# Leptosphaerulina platycodonis J.F. Lue & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

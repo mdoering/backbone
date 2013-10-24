@@ -1,5 +1,4 @@
-Volvariella terastia (Berk. & Broome) Singer SPECIES
-=======
+# Volvariella terastia (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

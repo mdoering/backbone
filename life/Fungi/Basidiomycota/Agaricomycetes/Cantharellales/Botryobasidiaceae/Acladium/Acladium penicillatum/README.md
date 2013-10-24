@@ -1,5 +1,4 @@
-Acladium penicillatum Wallr. SPECIES
-=======
+# Acladium penicillatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

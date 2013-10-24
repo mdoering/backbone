@@ -1,5 +1,4 @@
-Phlebia heterocystidia Sheng H. Wu SPECIES
-=======
+# Phlebia heterocystidia Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

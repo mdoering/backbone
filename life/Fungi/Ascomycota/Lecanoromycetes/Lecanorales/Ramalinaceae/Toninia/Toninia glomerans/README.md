@@ -1,5 +1,4 @@
-Toninia glomerans (Nyl.) Boistel SPECIES
-=======
+# Toninia glomerans (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

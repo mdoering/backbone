@@ -1,5 +1,4 @@
-Halothrix Reinke, 1888 GENUS
-=======
+# Halothrix Reinke, 1888 GENUS
 
 #### Status
 ACCEPTED

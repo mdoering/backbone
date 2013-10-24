@@ -1,5 +1,4 @@
-Coniothyrium armeniacae Hollós SPECIES
-=======
+# Coniothyrium armeniacae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista albosquamosa Kreisel SPECIES
-=======
+# Bovista albosquamosa Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria strobilina (Alb. & Schwein.) Sacc. SPECIES
-=======
+# Ciboria strobilina (Alb. & Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

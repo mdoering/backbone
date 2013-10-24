@@ -1,5 +1,4 @@
-Cortinarius lundellii (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius lundellii (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

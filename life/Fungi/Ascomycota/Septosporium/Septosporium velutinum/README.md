@@ -1,5 +1,4 @@
-Septosporium velutinum Cooke & Ellis SPECIES
-=======
+# Septosporium velutinum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocapsa fulginosa Hauck SPECIES
-=======
+# Pleurocapsa fulginosa Hauck SPECIES
 
 #### Status
 ACCEPTED

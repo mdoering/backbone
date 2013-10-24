@@ -1,5 +1,4 @@
-Ophiobolus galii Richon SPECIES
-=======
+# Ophiobolus galii Richon SPECIES
 
 #### Status
 ACCEPTED

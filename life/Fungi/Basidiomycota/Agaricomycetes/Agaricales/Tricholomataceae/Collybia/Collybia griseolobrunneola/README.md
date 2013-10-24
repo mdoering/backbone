@@ -1,5 +1,4 @@
-Collybia griseolobrunneola (Singer) Singer SPECIES
-=======
+# Collybia griseolobrunneola (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

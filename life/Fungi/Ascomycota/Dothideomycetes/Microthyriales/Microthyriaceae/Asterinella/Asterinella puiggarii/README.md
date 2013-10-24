@@ -1,14 +1,13 @@
-Asterina puiggarii Speg., 1881 SPECIES
-=======
+# Asterinella puiggarii (Speg.) Theiss., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 12(3): 99 [no. 114] (1881)
+Brotéria, sér. bot. 10(2): 116 (1912)
 
 #### Original name
 Asterina puiggarii Speg., 1881

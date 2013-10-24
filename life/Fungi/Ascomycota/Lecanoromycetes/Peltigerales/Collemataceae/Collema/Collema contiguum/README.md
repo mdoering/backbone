@@ -1,5 +1,4 @@
-Collema contiguum C. Knight & Mitt. SPECIES
-=======
+# Collema contiguum C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

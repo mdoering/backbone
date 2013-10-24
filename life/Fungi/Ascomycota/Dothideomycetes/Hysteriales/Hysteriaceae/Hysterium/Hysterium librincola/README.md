@@ -1,5 +1,4 @@
-Hysterium librincola Schwein., 1832 SPECIES
-=======
+# Hysterium librincola Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

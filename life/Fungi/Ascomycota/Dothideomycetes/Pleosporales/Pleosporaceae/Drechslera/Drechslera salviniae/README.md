@@ -1,14 +1,13 @@
-Bipolaris salviniae (J.J. Muchovej) Alcorn, 1991 SPECIES
-=======
+# Drechslera salviniae J.J. Muchovej, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 41(2): 331 (1991)
+Trans. Br. mycol. Soc. 72(2): 331 (1979)
 
 #### Original name
 Drechslera salviniae J.J. Muchovej, 1979

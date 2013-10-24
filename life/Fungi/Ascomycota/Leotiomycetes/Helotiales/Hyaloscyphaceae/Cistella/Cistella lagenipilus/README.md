@@ -1,5 +1,4 @@
-Cistella lagenipilus Spooner, 1984 SPECIES
-=======
+# Cistella lagenipilus Spooner, 1984 SPECIES
 
 #### Status
 ACCEPTED

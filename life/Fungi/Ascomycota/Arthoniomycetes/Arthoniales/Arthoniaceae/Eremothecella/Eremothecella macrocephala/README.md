@@ -1,14 +1,13 @@
-Stirtonia macrocephala R. Sant. SPECIES
-=======
+# Eremothecella macrocephala (R. Sant.) G. Thor, Sérus., Lücking & Tat. Matsumoto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Symb. bot. upsal. 12(no. 1): 61 (1952)
+in Thor, Lücking & Matsumoto, Symb. bot. upsal. 32(no. 3): 39 (2000)
 
 #### Original name
 Stirtonia macrocephala R. Sant.

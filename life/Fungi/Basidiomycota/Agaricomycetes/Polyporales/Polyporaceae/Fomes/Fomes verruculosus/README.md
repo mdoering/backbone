@@ -1,5 +1,4 @@
-Fomes verruculosus (G. Mey.) Sacc. SPECIES
-=======
+# Fomes verruculosus (G. Mey.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

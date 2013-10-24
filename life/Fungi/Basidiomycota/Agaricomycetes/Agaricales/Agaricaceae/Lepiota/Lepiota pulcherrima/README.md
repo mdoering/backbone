@@ -1,5 +1,4 @@
-Lepiota pulcherrima P.W. Graff SPECIES
-=======
+# Lepiota pulcherrima P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

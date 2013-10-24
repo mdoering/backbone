@@ -1,5 +1,4 @@
-Pestalotia celastri Tassi SPECIES
-=======
+# Pestalotia celastri Tassi SPECIES
 
 #### Status
 ACCEPTED

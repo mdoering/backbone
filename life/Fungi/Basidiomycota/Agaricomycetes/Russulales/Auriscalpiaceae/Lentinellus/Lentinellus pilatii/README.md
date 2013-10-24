@@ -1,17 +1,16 @@
-Lentinellus pilati Herink SPECIES
-=======
+# Lentinellus pilatii Herink SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 7: 162 (1953)
 
 #### Original name
-Lentinellus pilati Herink
+Lentinellus pilatii Herink
 
 ### Remarks
 null

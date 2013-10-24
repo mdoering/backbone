@@ -1,5 +1,4 @@
-Didymellina lethalis (R. Stone) Höhn. SPECIES
-=======
+# Didymellina lethalis (R. Stone) Höhn. SPECIES
 
 #### Status
 ACCEPTED

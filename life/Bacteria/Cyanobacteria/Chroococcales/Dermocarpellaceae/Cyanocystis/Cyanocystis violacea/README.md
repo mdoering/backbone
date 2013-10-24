@@ -1,8 +1,7 @@
-Dermocarpa violacea P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Cyanocystis violacea (P.L. Crouan & H.M. Crouan) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

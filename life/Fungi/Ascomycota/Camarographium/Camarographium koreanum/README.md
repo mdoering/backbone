@@ -1,5 +1,4 @@
-Camarographium koreanum Verkley, Melnik & Crous SPECIES
-=======
+# Camarographium koreanum Verkley, Melnik & Crous SPECIES
 
 #### Status
 ACCEPTED

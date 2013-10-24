@@ -1,5 +1,4 @@
-Coniothyrium salvadorina S. Ahmad SPECIES
-=======
+# Coniothyrium salvadorina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

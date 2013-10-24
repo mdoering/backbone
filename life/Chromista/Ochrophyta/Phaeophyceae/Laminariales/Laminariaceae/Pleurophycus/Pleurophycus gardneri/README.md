@@ -1,5 +1,4 @@
-Pleurophycus gardneri Setchell & Saunders ex Tilden SPECIES
-=======
+# Pleurophycus gardneri Setchell & Saunders ex Tilden SPECIES
 
 #### Status
 ACCEPTED

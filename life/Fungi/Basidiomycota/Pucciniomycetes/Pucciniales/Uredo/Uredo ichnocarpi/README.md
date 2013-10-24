@@ -1,5 +1,4 @@
-Uredo ichnocarpi Barclay SPECIES
-=======
+# Uredo ichnocarpi Barclay SPECIES
 
 #### Status
 ACCEPTED

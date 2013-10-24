@@ -1,5 +1,4 @@
-Tuburcinia oxalidis (Pazschke) Liro SPECIES
-=======
+# Tuburcinia oxalidis (Pazschke) Liro SPECIES
 
 #### Status
 ACCEPTED

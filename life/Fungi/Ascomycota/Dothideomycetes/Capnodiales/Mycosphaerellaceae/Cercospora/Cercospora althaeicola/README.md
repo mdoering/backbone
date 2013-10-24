@@ -1,5 +1,4 @@
-Cercospora althaeicola J.M. Yen & S.K. Sun SPECIES
-=======
+# Cercospora althaeicola J.M. Yen & S.K. Sun SPECIES
 
 #### Status
 ACCEPTED

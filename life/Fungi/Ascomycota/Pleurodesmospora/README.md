@@ -1,5 +1,4 @@
-Pleurodesmospora Samson, W. Gams & H.C. Evans GENUS
-=======
+# Pleurodesmospora Samson, W. Gams & H.C. Evans GENUS
 
 #### Status
 ACCEPTED

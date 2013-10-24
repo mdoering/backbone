@@ -1,14 +1,13 @@
-Pleospora maritima Rehm, 1896 SPECIES
-=======
+# Pleospora triglochinicola J. Webster, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 53(3): 481 (1969)
 
 #### Original name
 Pleospora maritima Rehm, 1896

@@ -1,5 +1,4 @@
-Physcia terebrata (Hoffm.) Frege SPECIES
-=======
+# Physcia terebrata (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

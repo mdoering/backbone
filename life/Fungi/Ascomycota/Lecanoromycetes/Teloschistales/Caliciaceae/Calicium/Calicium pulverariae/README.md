@@ -1,5 +1,4 @@
-Calicium pulverariae Auersw. SPECIES
-=======
+# Calicium pulverariae Auersw. SPECIES
 
 #### Status
 ACCEPTED

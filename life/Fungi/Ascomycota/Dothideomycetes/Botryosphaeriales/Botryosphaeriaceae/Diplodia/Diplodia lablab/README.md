@@ -1,5 +1,4 @@
-Diplodia lablab Sacc. SPECIES
-=======
+# Diplodia lablab Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis rosetta R. Prasad & B.S. Mehrotra SPECIES
-=======
+# Syncephalis rosetta R. Prasad & B.S. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacteroides salivosus Love et al., 1987 SPECIES
-=======
+# Porphyromonas salivosa (Love et al., 1987) Love et al., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

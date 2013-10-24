@@ -1,5 +1,4 @@
-Pichia marconia Sacch. SPECIES
-=======
+# Pichia marconia Sacch. SPECIES
 
 #### Status
 ACCEPTED

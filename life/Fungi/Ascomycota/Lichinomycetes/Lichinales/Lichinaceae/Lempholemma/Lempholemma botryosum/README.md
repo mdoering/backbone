@@ -1,14 +1,13 @@
-Anema botyosum (A. Massal.) Flagey SPECIES
-=======
+# Lempholemma botryosum (A. Massal.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 3: 20 (1924)
 
 #### Original name
 Arnoldia botryosa A. Massal.

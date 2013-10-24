@@ -1,5 +1,4 @@
-Crocynia zonata Nearing SPECIES
-=======
+# Crocynia zonata Nearing SPECIES
 
 #### Status
 ACCEPTED

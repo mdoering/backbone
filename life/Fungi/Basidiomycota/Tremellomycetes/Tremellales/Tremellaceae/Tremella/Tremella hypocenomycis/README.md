@@ -1,5 +1,4 @@
-Tremella hypocenomycis Diederich SPECIES
-=======
+# Tremella hypocenomycis Diederich SPECIES
 
 #### Status
 ACCEPTED

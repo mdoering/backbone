@@ -1,5 +1,4 @@
-Asterina mischocarpi Ouyang & Y.X. Hu SPECIES
-=======
+# Asterina mischocarpi Ouyang & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

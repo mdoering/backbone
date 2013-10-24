@@ -1,5 +1,4 @@
-Verrucaria sbarbaronis f. sbarbaronis FORM
-=======
+# Verrucaria sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria sbarbaronis f. sbarbaronis
+Verrucaria sbarbaronis B. de Lesd.
 
 ### Remarks
 null

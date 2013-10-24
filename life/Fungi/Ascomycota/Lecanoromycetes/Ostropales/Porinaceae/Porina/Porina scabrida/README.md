@@ -1,5 +1,4 @@
-Porina scabrida R. C. Harris SPECIES
-=======
+# Porina scabrida R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

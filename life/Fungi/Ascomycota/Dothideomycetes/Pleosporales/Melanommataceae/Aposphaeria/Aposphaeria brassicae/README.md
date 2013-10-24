@@ -1,5 +1,4 @@
-Aposphaeria brassicae Thüm. SPECIES
-=======
+# Aposphaeria brassicae Thüm. SPECIES
 
 #### Status
 ACCEPTED

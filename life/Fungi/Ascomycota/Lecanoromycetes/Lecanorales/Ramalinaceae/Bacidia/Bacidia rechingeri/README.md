@@ -1,5 +1,4 @@
-Bacidia rechingeri Zahlbr. SPECIES
-=======
+# Bacidia rechingeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

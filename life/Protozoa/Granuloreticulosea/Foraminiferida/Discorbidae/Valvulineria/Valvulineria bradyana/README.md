@@ -1,5 +1,4 @@
-Valvulineria bradyana (Fornasini, 1900) SPECIES
-=======
+# Valvulineria bradyana (Fornasini, 1900) SPECIES
 
 #### Status
 ACCEPTED

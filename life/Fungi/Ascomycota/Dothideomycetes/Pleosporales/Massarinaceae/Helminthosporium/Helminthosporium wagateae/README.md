@@ -1,5 +1,4 @@
-Helminthosporium wagateae Thirum. & Naras. SPECIES
-=======
+# Helminthosporium wagateae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

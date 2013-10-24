@@ -1,5 +1,4 @@
-Dothidea coluteae Berk. & M.A. Curtis SPECIES
-=======
+# Dothidea coluteae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

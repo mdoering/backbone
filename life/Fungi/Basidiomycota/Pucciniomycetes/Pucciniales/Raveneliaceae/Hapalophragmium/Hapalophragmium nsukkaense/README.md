@@ -1,17 +1,16 @@
-Hapalophragmium nsukkaensis Eboh SPECIES
-=======
+# Hapalophragmium nsukkaense Eboh, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 75(1): 167 (1983)
 
 #### Original name
-Hapalophragmium nsukkaensis Eboh
+Hapalophragmium nsukkaense Eboh, 1983
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora gyrophorina Poelt & Zhurb. SPECIES
-=======
+# Lecanora gyrophorina Poelt & Zhurb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neta mexicana R.F. Castañeda, Heredia & R.M. Arias SPECIES
-=======
+# Neta mexicana R.F. Castañeda, Heredia & R.M. Arias SPECIES
 
 #### Status
 ACCEPTED

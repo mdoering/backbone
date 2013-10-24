@@ -1,5 +1,4 @@
-Hexapyle Haeckel, 1881 GENUS
-=======
+# Hexapyle Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

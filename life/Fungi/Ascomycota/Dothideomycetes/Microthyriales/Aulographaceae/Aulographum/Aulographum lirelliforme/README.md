@@ -1,5 +1,4 @@
-Aulographum lirelliforme Cooke SPECIES
-=======
+# Aulographum lirelliforme Cooke SPECIES
 
 #### Status
 ACCEPTED

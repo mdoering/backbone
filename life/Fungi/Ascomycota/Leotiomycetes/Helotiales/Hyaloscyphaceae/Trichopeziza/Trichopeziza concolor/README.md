@@ -1,5 +1,4 @@
-Trichopeziza concolor (Speg.) Sacc. SPECIES
-=======
+# Trichopeziza concolor (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

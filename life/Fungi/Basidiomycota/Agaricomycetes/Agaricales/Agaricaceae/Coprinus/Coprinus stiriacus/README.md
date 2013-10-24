@@ -1,5 +1,4 @@
-Coprinus stiriacus Knoll {?} SPECIES
-=======
+# Coprinus stiriacus Knoll {?} SPECIES
 
 #### Status
 ACCEPTED

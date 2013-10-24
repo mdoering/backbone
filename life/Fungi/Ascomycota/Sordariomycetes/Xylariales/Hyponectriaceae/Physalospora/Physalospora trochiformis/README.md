@@ -1,5 +1,4 @@
-Physalospora trochiformis (Preuss) Sacc. SPECIES
-=======
+# Physalospora trochiformis (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

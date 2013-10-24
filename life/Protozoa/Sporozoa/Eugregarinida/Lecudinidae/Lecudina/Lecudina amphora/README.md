@@ -1,5 +1,4 @@
-Lecudina amphora H. Hoshide, 1958 SPECIES
-=======
+# Lecudina amphora H. Hoshide, 1958 SPECIES
 
 #### Status
 ACCEPTED

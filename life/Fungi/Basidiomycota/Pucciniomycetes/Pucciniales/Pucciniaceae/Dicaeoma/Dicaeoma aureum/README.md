@@ -1,5 +1,4 @@
-Dicaeoma aureum (G. Winter) Kuntze SPECIES
-=======
+# Dicaeoma aureum (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

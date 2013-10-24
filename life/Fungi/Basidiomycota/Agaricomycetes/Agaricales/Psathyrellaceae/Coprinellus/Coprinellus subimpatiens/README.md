@@ -1,17 +1,16 @@
-Coprinus subimpatiens var. subimpatiens M. Lange & A.H. Sm. VARIETY
-=======
+# Coprinellus subimpatiens (M. Lange & A.H. Sm.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 45: 772 (1953)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
-Coprinus subimpatiens var. subimpatiens M. Lange & A.H. Sm.
+Coprinus subimpatiens M. Lange & A.H. Sm., 1953
 
 ### Remarks
 null

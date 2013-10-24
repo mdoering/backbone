@@ -1,5 +1,4 @@
-Sporidesmium coprophilum Matsush. SPECIES
-=======
+# Sporidesmium coprophilum Matsush. SPECIES
 
 #### Status
 ACCEPTED

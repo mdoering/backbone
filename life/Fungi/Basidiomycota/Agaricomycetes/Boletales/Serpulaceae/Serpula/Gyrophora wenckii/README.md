@@ -1,5 +1,4 @@
-Gyrophora wenckii Müll. Arg. SPECIES
-=======
+# Gyrophora wenckii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Anisolpidium stigeoclonii (De Wild.) Canter, 1951 SPECIES
-=======
+# Canteriomyces stigeoclonii (De Wild.) Sparrow, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 33: 343 (1950)
+Aquatic Phycomycetes (Ann Arbor), Edn 2 750 (1960)
 
 #### Original name
 Olpidium stigeoclonii De Wild., 1900

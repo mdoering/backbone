@@ -1,5 +1,4 @@
-Aecidium nairobianum Cummins SPECIES
-=======
+# Aecidium nairobianum Cummins SPECIES
 
 #### Status
 ACCEPTED

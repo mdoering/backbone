@@ -1,5 +1,4 @@
-Sebacina dendroidea (Berk. & M.A. Curtis) Lloyd SPECIES
-=======
+# Sebacina dendroidea (Berk. & M.A. Curtis) Lloyd SPECIES
 
 #### Status
 ACCEPTED

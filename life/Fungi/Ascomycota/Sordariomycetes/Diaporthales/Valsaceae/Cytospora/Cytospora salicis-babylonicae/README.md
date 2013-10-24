@@ -1,5 +1,4 @@
-Cytospora salicis-babylonicae R. Schulz SPECIES
-=======
+# Cytospora salicis-babylonicae R. Schulz SPECIES
 
 #### Status
 ACCEPTED

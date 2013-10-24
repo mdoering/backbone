@@ -1,5 +1,4 @@
-Exserticlava globosa V. Rao & de Hoog SPECIES
-=======
+# Exserticlava globosa V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

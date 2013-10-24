@@ -1,5 +1,4 @@
-Hyaloscypha paludicola (Huhtinen) Raitv. SPECIES
-=======
+# Hyaloscypha paludicola (Huhtinen) Raitv. SPECIES
 
 #### Status
 ACCEPTED

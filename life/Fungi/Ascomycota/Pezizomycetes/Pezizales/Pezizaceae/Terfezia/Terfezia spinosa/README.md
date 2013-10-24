@@ -1,5 +1,4 @@
-Terfezia spinosa Harkn. SPECIES
-=======
+# Terfezia spinosa Harkn. SPECIES
 
 #### Status
 ACCEPTED

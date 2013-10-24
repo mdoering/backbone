@@ -1,5 +1,4 @@
-Anteholosticha sphagni Groliere, 1975 SPECIES
-=======
+# Anteholosticha sphagni Groliere, 1975 SPECIES
 
 #### Status
 ACCEPTED

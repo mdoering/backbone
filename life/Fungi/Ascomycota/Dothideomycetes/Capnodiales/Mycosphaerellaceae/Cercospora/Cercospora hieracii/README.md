@@ -1,5 +1,4 @@
-Cercospora hieracii Ellis & Everh. SPECIES
-=======
+# Cercospora hieracii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

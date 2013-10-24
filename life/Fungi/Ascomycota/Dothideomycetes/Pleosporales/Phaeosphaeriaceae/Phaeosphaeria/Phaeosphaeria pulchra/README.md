@@ -1,5 +1,4 @@
-Phaeosphaeria pulchra Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria pulchra Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

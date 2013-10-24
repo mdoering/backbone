@@ -1,5 +1,4 @@
-Amepiospora macrospora Sal.-Cheb. & Locq. SPECIES
-=======
+# Amepiospora macrospora Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

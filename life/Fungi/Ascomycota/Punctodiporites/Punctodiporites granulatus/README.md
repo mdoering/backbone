@@ -1,5 +1,4 @@
-Punctodiporites granulatus (Rouse) G. Norris SPECIES
-=======
+# Punctodiporites granulatus (Rouse) G. Norris SPECIES
 
 #### Status
 ACCEPTED

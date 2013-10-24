@@ -1,5 +1,4 @@
-Methanococcoides methylutens Sowers & Ferry, 1985 SPECIES
-=======
+# Methanococcoides methylutens Sowers & Ferry, 1985 SPECIES
 
 #### Status
 ACCEPTED

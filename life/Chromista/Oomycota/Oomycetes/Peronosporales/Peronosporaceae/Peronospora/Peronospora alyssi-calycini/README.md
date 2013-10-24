@@ -1,5 +1,4 @@
-Peronospora alyssi-calycini Gäum. SPECIES
-=======
+# Peronospora alyssi-calycini Gäum. SPECIES
 
 #### Status
 ACCEPTED

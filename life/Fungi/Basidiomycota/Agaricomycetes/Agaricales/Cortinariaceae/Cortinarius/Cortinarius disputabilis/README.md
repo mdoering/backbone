@@ -1,5 +1,4 @@
-Cortinarius disputabilis Britzelm. SPECIES
-=======
+# Cortinarius disputabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

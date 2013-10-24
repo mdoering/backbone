@@ -1,5 +1,4 @@
-Leciophysma arctophila (Th. Fr.) SPECIES
-=======
+# Leciophysma arctophila (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

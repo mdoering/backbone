@@ -1,5 +1,4 @@
-Lecidea leprodea Nyl. SPECIES
-=======
+# Lecidea leprodea Nyl. SPECIES
 
 #### Status
 ACCEPTED

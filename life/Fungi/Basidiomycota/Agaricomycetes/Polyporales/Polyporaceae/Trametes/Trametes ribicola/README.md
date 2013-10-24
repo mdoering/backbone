@@ -1,5 +1,4 @@
-Trametes ribicola P. Karst. SPECIES
-=======
+# Trametes ribicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

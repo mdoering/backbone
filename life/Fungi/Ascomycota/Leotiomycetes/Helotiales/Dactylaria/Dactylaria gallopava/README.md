@@ -1,14 +1,13 @@
-Ochroconis gallopavum (W.B. Cooke) de Hoog SPECIES
-=======
+# Dactylaria gallopava (W.B. Cooke) G.C. Bhatt & W.B. Kendr., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Stolk & Hennebert, Can. J. Bot. 46: 1257 (1968)
 
 #### Original name
 Diplorhinotrichum gallopavum W.B. Cooke, 1964

@@ -1,5 +1,4 @@
-Lepra viridis (Schreb.) Willd. SPECIES
-=======
+# Lepra viridis (Schreb.) Willd. SPECIES
 
 #### Status
 ACCEPTED

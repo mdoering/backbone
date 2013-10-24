@@ -1,5 +1,4 @@
-Aspergillus olivascens Sacc. SPECIES
-=======
+# Aspergillus olivascens Sacc. SPECIES
 
 #### Status
 ACCEPTED

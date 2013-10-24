@@ -1,5 +1,4 @@
-Micropeltis leucoptera Penz. & Sacc. SPECIES
-=======
+# Micropeltis leucoptera Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

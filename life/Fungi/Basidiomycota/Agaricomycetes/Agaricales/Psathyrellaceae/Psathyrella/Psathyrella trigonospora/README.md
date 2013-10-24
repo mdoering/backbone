@@ -1,5 +1,4 @@
-Psathyrella trigonospora Dennis SPECIES
-=======
+# Psathyrella trigonospora Dennis SPECIES
 
 #### Status
 ACCEPTED

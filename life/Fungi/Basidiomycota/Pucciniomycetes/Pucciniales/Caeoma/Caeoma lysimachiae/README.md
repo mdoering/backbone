@@ -1,5 +1,4 @@
-Caeoma lysimachiae Schltdl. SPECIES
-=======
+# Caeoma lysimachiae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

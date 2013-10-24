@@ -1,5 +1,4 @@
-Fungus umbonatescens (Peck) Kuntze SPECIES
-=======
+# Fungus umbonatescens (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

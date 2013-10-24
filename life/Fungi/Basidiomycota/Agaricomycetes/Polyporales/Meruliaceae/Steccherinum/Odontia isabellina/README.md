@@ -1,5 +1,4 @@
-Odontia isabellina Rick SPECIES
-=======
+# Odontia isabellina Rick SPECIES
 
 #### Status
 ACCEPTED

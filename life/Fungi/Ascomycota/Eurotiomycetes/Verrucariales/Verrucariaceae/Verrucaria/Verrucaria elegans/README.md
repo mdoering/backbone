@@ -1,5 +1,4 @@
-Verrucaria elegans Wallr. SPECIES
-=======
+# Verrucaria elegans Wallr. SPECIES
 
 #### Status
 ACCEPTED

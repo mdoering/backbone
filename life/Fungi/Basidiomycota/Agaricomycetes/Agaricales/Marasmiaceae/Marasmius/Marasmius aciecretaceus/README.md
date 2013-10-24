@@ -1,5 +1,4 @@
-Marasmius aciecretaceus Corner SPECIES
-=======
+# Marasmius aciecretaceus Corner SPECIES
 
 #### Status
 ACCEPTED

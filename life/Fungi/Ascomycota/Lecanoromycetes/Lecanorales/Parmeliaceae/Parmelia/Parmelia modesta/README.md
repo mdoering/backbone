@@ -1,5 +1,4 @@
-Parmelia modesta Hue SPECIES
-=======
+# Parmelia modesta Hue SPECIES
 
 #### Status
 ACCEPTED

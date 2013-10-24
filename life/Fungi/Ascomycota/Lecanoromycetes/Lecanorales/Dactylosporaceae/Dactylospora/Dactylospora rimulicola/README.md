@@ -1,5 +1,4 @@
-Dactylospora rimulicola (Müll. Arg.) Hafellner SPECIES
-=======
+# Dactylospora rimulicola (Müll. Arg.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon tephrogleba K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon tephrogleba K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

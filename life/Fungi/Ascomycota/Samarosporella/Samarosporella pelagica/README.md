@@ -1,5 +1,4 @@
-Samarosporella pelagica Linder SPECIES
-=======
+# Samarosporella pelagica Linder SPECIES
 
 #### Status
 ACCEPTED

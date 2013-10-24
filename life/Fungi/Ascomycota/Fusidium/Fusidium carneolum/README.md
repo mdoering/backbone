@@ -1,5 +1,4 @@
-Fusidium carneolum (Sacc.) Sacc. SPECIES
-=======
+# Fusidium carneolum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

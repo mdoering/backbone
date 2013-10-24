@@ -1,17 +1,16 @@
-Tarichium lavrovium Gukasjan SPECIES
-=======
+# Tarichium lavrovii Gukasjan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Gukasyan (Ed. ), Mikroorganizmy v Boryabe s Vreditelyami lesnogo Khozyatstva [Microorganisms in the control of pests in forestry] (Moscow) 202 (1966)
 
 #### Original name
-Tarichium lavrovium Gukasjan
+Tarichium lavrovii Gukasjan
 
 ### Remarks
 null

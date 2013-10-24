@@ -1,5 +1,4 @@
-Hypocrella disjuncta Seaver SPECIES
-=======
+# Hypocrella disjuncta Seaver SPECIES
 
 #### Status
 ACCEPTED

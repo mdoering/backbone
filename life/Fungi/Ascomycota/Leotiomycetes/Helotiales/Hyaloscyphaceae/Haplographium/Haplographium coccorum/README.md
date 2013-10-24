@@ -1,5 +1,4 @@
-Haplographium coccorum Petch SPECIES
-=======
+# Haplographium coccorum Petch SPECIES
 
 #### Status
 ACCEPTED

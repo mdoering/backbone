@@ -1,5 +1,4 @@
-Phyllosticta grandii Shreem. SPECIES
-=======
+# Phyllosticta grandii Shreem. SPECIES
 
 #### Status
 ACCEPTED

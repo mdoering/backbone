@@ -1,5 +1,4 @@
-Tolypothrix letestui Frémy SPECIES
-=======
+# Tolypothrix letestui Frémy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromycopsis mirabilis Canter SPECIES
-=======
+# Micromycopsis mirabilis Canter SPECIES
 
 #### Status
 ACCEPTED

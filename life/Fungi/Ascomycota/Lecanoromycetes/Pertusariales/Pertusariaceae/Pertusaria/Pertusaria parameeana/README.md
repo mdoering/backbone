@@ -1,5 +1,4 @@
-Pertusaria parameeana Jariangpr. SPECIES
-=======
+# Pertusaria parameeana Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

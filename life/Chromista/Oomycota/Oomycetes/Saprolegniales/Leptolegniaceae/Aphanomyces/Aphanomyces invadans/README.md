@@ -1,17 +1,16 @@
-Aphanomyces invaderis Willoughby, R.J. Roberts & Chinabut SPECIES
-=======
+# Aphanomyces invadans Willoughby, R.J. Roberts & Chinabut SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Fish Diseases 18(3): 273 (1995)
 
 #### Original name
-Aphanomyces invaderis Willoughby, R.J. Roberts & Chinabut
+Aphanomyces invadans Willoughby, R.J. Roberts & Chinabut
 
 ### Remarks
 null

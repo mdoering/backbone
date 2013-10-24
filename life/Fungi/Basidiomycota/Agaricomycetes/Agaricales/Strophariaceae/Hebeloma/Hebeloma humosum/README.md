@@ -1,5 +1,4 @@
-Hebeloma humosum S. Imai SPECIES
-=======
+# Hebeloma humosum S. Imai SPECIES
 
 #### Status
 ACCEPTED

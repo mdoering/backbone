@@ -1,5 +1,4 @@
-Cladosporium brassiciola Sawada SPECIES
-=======
+# Cladosporium brassiciola Sawada SPECIES
 
 #### Status
 ACCEPTED

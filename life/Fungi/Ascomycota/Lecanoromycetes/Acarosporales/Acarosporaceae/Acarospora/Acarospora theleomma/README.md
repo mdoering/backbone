@@ -1,5 +1,4 @@
-Acarospora theleomma I.M. Lamb SPECIES
-=======
+# Acarospora theleomma I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

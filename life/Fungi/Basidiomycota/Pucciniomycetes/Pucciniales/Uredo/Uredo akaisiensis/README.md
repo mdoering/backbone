@@ -1,5 +1,4 @@
-Uredo akaisiensis Hara SPECIES
-=======
+# Uredo akaisiensis Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmocapsa gelatinosa Pascher SPECIES
-=======
+# Desmocapsa gelatinosa Pascher SPECIES
 
 #### Status
 ACCEPTED

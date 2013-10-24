@@ -1,5 +1,4 @@
-Fucus articulatus S.G. Gmelin SPECIES
-=======
+# Fucus articulatus S.G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

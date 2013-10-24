@@ -1,5 +1,4 @@
-Clitocybe hydrophora Pegler SPECIES
-=======
+# Clitocybe hydrophora Pegler SPECIES
 
 #### Status
 ACCEPTED

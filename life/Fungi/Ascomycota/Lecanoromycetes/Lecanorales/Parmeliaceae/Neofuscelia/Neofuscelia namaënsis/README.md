@@ -1,5 +1,4 @@
-Neofuscelia namaënsis (J. Steiner & Zahlbr.) Essl. SPECIES
-=======
+# Neofuscelia namaënsis (J. Steiner & Zahlbr.) Essl. SPECIES
 
 #### Status
 ACCEPTED

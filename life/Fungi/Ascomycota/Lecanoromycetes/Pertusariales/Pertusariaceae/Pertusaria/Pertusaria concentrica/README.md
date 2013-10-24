@@ -1,5 +1,4 @@
-Pertusaria concentrica Erichsen SPECIES
-=======
+# Pertusaria concentrica Erichsen SPECIES
 
 #### Status
 ACCEPTED

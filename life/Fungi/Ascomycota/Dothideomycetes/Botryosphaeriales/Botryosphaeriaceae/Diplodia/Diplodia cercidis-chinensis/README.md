@@ -1,17 +1,16 @@
-Diplodia cerci-chinensis Togashi & Tsukam. SPECIES
-=======
+# Diplodia cercidis-chinensis Togashi & Tsukam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Tsukamoto, Ann. phytopath. Soc. Japan 17: 122 (1953)
 
 #### Original name
-Diplodia cerci-chinensis Togashi & Tsukam.
+Diplodia cercidis-chinensis Togashi & Tsukam.
 
 ### Remarks
 null

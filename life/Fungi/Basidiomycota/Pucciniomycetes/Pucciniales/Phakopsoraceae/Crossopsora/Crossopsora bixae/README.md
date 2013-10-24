@@ -1,5 +1,4 @@
-Crossopsora bixae Buriticá, 1978 SPECIES
-=======
+# Crossopsora bixae Buriticá, 1978 SPECIES
 
 #### Status
 ACCEPTED

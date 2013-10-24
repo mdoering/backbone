@@ -1,5 +1,4 @@
-Glomulina fistulescens Rhumbler, 1936 SPECIES
-=======
+# Glomulina fistulescens Rhumbler, 1936 SPECIES
 
 #### Status
 ACCEPTED

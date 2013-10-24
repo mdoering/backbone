@@ -1,5 +1,4 @@
-Frondicularia goldfussi Reuss SPECIES
-=======
+# Frondicularia goldfussi Reuss SPECIES
 
 #### Status
 ACCEPTED

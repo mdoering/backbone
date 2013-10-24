@@ -1,5 +1,4 @@
-Anthracoidea caricis-dioicae (Lehtola) Zambett. SPECIES
-=======
+# Anthracoidea caricis-dioicae (Lehtola) Zambett. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina reichei Werderm. SPECIES
-=======
+# Taphrina reichei Werderm. SPECIES
 
 #### Status
 ACCEPTED

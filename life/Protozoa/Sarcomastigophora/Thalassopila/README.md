@@ -1,5 +1,4 @@
-Thalassopila Haeckel, 1881 GENUS
-=======
+# Thalassopila Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

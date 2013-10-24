@@ -1,5 +1,4 @@
-Flammula californica Earle SPECIES
-=======
+# Flammula californica Earle SPECIES
 
 #### Status
 ACCEPTED

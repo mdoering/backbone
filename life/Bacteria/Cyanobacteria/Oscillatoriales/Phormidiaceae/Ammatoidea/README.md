@@ -1,14 +1,13 @@
-Hammatoidea H. Bachmann, 1921 GENUS
-=======
+# Ammatoidea W. & G. S. West, 1897 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Roy. Microsc. Soc. London 1897: 506.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Selinia intermedia Speg. SPECIES
-=======
+# Selinia intermedia Speg. SPECIES
 
 #### Status
 ACCEPTED

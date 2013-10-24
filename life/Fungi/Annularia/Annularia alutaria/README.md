@@ -1,5 +1,4 @@
-Annularia alutaria (Pers.) Fr. SPECIES
-=======
+# Annularia alutaria (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jarxia ilicicola R. C. Harris SPECIES
-=======
+# Jarxia ilicicola R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

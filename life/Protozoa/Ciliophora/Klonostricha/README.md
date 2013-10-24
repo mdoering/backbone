@@ -1,5 +1,4 @@
-Klonostricha Vuxanovici, 1963 GENUS
-=======
+# Klonostricha Vuxanovici, 1963 GENUS
 
 #### Status
 ACCEPTED

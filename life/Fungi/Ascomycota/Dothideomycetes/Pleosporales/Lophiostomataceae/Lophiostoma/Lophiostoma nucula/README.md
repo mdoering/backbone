@@ -1,14 +1,13 @@
-Lophiosphaera nucula (Fr.) Cooke SPECIES
-=======
+# Lophiostoma nucula (Fr.) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schem. di Classif. Sferiacei 46 (1863)
 
 #### Original name
 Sphaeria nucula Fr., 1823

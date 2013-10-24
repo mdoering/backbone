@@ -1,5 +1,4 @@
-Pyxine desudans Kalb SPECIES
-=======
+# Pyxine desudans Kalb SPECIES
 
 #### Status
 ACCEPTED

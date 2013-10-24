@@ -1,5 +1,4 @@
-Diplozythiella Died. GENUS
-=======
+# Diplozythiella Died. GENUS
 
 #### Status
 ACCEPTED

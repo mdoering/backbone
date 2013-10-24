@@ -1,5 +1,4 @@
-Trogia latifolia Corner SPECIES
-=======
+# Trogia latifolia Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis japonica (Henn.) L. Ling SPECIES
-=======
+# Urocystis japonica (Henn.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

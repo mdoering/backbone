@@ -1,5 +1,4 @@
-Corethromyces pygiphilus Speg. SPECIES
-=======
+# Corethromyces pygiphilus Speg. SPECIES
 
 #### Status
 ACCEPTED

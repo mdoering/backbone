@@ -1,5 +1,4 @@
-Rinodina phaeocarpa f. phaeocarpa FORM
-=======
+# Rinodina phaeocarpa (Sommerf.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina phaeocarpa f. phaeocarpa
+null
 
 ### Remarks
 null

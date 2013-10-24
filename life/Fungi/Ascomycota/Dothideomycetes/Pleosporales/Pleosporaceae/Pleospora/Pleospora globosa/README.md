@@ -1,5 +1,4 @@
-Pleospora globosa Drechsler SPECIES
-=======
+# Pleospora globosa Drechsler SPECIES
 
 #### Status
 ACCEPTED

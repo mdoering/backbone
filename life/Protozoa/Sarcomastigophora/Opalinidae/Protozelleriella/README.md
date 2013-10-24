@@ -1,5 +1,4 @@
-Protozelleriella Delvinquier, Markus & Passmore, 1991 GENUS
-=======
+# Protozelleriella Delvinquier, Markus & Passmore, 1991 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia hormospora (Stizenb.) Lettau SPECIES
-=======
+# Bacidia hormospora (Stizenb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

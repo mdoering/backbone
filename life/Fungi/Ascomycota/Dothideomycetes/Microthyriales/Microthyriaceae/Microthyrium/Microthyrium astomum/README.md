@@ -1,5 +1,4 @@
-Microthyrium astomum Speg. SPECIES
-=======
+# Microthyrium astomum Speg. SPECIES
 
 #### Status
 ACCEPTED

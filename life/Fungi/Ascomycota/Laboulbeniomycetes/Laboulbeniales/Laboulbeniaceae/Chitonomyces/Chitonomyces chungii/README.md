@@ -1,5 +1,4 @@
-Chitonomyces chungii Thaxt. SPECIES
-=======
+# Chitonomyces chungii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

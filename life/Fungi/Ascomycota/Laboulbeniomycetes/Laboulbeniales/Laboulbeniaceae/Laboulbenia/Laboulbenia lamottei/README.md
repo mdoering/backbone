@@ -1,5 +1,4 @@
-Laboulbenia lamottei Balazuc SPECIES
-=======
+# Laboulbenia lamottei Balazuc SPECIES
 
 #### Status
 ACCEPTED

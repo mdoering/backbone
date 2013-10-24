@@ -1,5 +1,4 @@
-Penicillium nepalense Takada & Udagawa, 1983 SPECIES
-=======
+# Penicillium nepalense Takada & Udagawa, 1983 SPECIES
 
 #### Status
 ACCEPTED

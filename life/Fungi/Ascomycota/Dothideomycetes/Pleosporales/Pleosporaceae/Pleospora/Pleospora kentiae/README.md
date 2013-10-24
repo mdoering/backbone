@@ -1,5 +1,4 @@
-Pleospora kentiae Maubl. SPECIES
-=======
+# Pleospora kentiae Maubl. SPECIES
 
 #### Status
 ACCEPTED

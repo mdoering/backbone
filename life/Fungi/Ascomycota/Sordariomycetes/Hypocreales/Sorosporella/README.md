@@ -1,5 +1,4 @@
-Sorosporella Sorokin GENUS
-=======
+# Sorosporella Sorokin GENUS
 
 #### Status
 ACCEPTED

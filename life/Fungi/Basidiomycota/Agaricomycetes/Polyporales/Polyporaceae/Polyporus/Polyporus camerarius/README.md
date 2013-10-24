@@ -1,5 +1,4 @@
-Polyporus camerarius Berk. SPECIES
-=======
+# Polyporus camerarius Berk. SPECIES
 
 #### Status
 ACCEPTED

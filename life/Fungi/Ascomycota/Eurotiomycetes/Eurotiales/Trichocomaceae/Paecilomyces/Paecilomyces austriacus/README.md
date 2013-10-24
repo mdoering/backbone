@@ -1,5 +1,4 @@
-Paecilomyces austriacus Svilv. SPECIES
-=======
+# Paecilomyces austriacus Svilv. SPECIES
 
 #### Status
 ACCEPTED

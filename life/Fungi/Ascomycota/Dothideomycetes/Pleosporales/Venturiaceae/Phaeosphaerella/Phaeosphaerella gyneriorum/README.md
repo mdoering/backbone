@@ -1,5 +1,4 @@
-Phaeosphaerella gyneriorum Speg. SPECIES
-=======
+# Phaeosphaerella gyneriorum Speg. SPECIES
 
 #### Status
 ACCEPTED

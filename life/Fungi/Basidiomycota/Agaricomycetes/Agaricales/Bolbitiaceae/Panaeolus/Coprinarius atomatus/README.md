@@ -1,5 +1,4 @@
-Coprinarius atomatus (Fr.) Quél. SPECIES
-=======
+# Coprinarius atomatus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora petalina N.S. Golubk. & Savicz SPECIES
-=======
+# Acarospora petalina N.S. Golubk. & Savicz SPECIES
 
 #### Status
 ACCEPTED

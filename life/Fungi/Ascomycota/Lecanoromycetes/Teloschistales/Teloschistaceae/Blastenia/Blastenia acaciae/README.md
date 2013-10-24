@@ -1,5 +1,4 @@
-Blastenia acaciae (Vain.) Zahlbr. SPECIES
-=======
+# Blastenia acaciae (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

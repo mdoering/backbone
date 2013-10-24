@@ -1,17 +1,16 @@
-Crinipellis africanus Pat. SPECIES
-=======
+# Crinipellis africana Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 8(2): 52 (1892)
 
 #### Original name
-Crinipellis africanus Pat.
+Crinipellis africana Pat.
 
 ### Remarks
 null

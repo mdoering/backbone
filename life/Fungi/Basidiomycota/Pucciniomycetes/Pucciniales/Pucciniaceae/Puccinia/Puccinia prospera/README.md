@@ -1,5 +1,4 @@
-Puccinia prospera Arthur SPECIES
-=======
+# Puccinia prospera Arthur SPECIES
 
 #### Status
 ACCEPTED

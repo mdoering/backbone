@@ -1,5 +1,4 @@
-Epitea miniata Fr. SPECIES
-=======
+# Epitea miniata Fr. SPECIES
 
 #### Status
 ACCEPTED

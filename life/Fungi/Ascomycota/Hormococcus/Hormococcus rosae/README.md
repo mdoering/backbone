@@ -1,5 +1,4 @@
-Hormococcus rosae Preuss SPECIES
-=======
+# Hormococcus rosae Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta yatabeana Müll. Arg. SPECIES
-=======
+# Sticta yatabeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

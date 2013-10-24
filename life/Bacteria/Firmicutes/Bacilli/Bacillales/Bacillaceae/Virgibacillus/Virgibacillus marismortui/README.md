@@ -1,8 +1,7 @@
-Bacillus marismortui Arahal et al., 1999 SPECIES
-=======
+# Virgibacillus marismortui (Arahal et al., 1999) Heyrman et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

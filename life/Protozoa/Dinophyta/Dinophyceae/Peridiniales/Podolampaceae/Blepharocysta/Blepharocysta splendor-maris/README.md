@@ -1,8 +1,7 @@
-Peridinium splendor-maris Ehrenberg SPECIES
-=======
+# Blepharocysta splendor-maris (Ehrenberg) Ehrenberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

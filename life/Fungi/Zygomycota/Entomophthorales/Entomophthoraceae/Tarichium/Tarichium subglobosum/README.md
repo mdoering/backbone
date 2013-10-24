@@ -1,5 +1,4 @@
-Tarichium subglobosum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium subglobosum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

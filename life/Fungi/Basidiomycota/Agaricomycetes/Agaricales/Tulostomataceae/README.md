@@ -1,5 +1,4 @@
-Tulostomataceae E. Fisch. FAMILY
-=======
+# Tulostomataceae E. Fisch. FAMILY
 
 #### Status
 ACCEPTED

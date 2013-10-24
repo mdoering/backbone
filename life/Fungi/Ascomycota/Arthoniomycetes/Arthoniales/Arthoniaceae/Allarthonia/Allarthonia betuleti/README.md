@@ -1,5 +1,4 @@
-Allarthonia betuleti (Nyl.) Zahlbr. SPECIES
-=======
+# Allarthonia betuleti (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

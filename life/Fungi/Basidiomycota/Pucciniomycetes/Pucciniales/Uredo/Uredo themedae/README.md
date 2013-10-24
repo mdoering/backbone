@@ -1,5 +1,4 @@
-Uredo themedae Dietel SPECIES
-=======
+# Uredo themedae Dietel SPECIES
 
 #### Status
 ACCEPTED

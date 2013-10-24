@@ -1,5 +1,4 @@
-Bovista aenea Kreisel SPECIES
-=======
+# Bovista aenea Kreisel SPECIES
 
 #### Status
 ACCEPTED

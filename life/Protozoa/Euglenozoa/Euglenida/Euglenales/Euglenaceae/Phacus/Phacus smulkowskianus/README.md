@@ -1,5 +1,4 @@
-Phacus smulkowskianus (B. Zakrys) W.-H. Kusber SPECIES
-=======
+# Phacus smulkowskianus (B. Zakrys) W.-H. Kusber SPECIES
 
 #### Status
 ACCEPTED

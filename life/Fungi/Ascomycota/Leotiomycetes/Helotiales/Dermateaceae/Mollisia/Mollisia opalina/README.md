@@ -1,5 +1,4 @@
-Mollisia opalina (Quél.) SPECIES
-=======
+# Mollisia opalina (Quél.) SPECIES
 
 #### Status
 ACCEPTED

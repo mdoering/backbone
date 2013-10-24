@@ -1,5 +1,4 @@
-Dyadobacter crusticola Reddy & Garcia-Pichel, 2005 SPECIES
-=======
+# Dyadobacter crusticola Reddy & Garcia-Pichel, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas rosa Takeuchi et al., 1995 SPECIES
-=======
+# Sphingomonas rosa Takeuchi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

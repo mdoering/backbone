@@ -1,5 +1,4 @@
-Galerina vesiculosa A.E. Wood SPECIES
-=======
+# Galerina vesiculosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

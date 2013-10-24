@@ -1,5 +1,4 @@
-Lichenochora epifulgens Nav.-Ros. & Cl. Roux, 1998 SPECIES
-=======
+# Lichenochora epifulgens Nav.-Ros. & Cl. Roux, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum unicum Lloyd SPECIES
-=======
+# Stereum unicum Lloyd SPECIES
 
 #### Status
 ACCEPTED

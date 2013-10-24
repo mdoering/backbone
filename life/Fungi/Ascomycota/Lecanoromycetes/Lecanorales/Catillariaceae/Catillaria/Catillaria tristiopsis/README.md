@@ -1,5 +1,4 @@
-Catillaria tristiopsis Zahlbr. SPECIES
-=======
+# Catillaria tristiopsis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

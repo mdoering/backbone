@@ -1,5 +1,4 @@
-Arthonia trailii Stirt. SPECIES
-=======
+# Arthonia trailii Stirt. SPECIES
 
 #### Status
 ACCEPTED

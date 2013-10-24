@@ -1,5 +1,4 @@
-Phyllosticta hederacea (Arcang.) Allesch. SPECIES
-=======
+# Phyllosticta hederacea (Arcang.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

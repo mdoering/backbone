@@ -1,5 +1,4 @@
-Hormoscilla xishaensis (M. Hua) K. Anagnostidis & J. Komárek SPECIES
-=======
+# Hormoscilla xishaensis (M. Hua) K. Anagnostidis & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

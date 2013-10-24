@@ -1,14 +1,13 @@
-Ceratocystis triangulospora (Butin) H.P. Upadhyay, 1981 SPECIES
-=======
+# Ophiostoma triangulosporum Butin, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Ceratocystis and Ceratocystiopsis (Athens) 62 (1981)
+Phytopath. Z. 91(3): 230 (1978)
 
 #### Original name
 Ophiostoma triangulosporum Butin, 1978

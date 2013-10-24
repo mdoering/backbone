@@ -1,5 +1,4 @@
-Comasphaeridium longistipitatum (Cramer & Díez, 1977) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Comasphaeridium longistipitatum (Cramer & Díez, 1977) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

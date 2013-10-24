@@ -1,5 +1,4 @@
-Pseudocercospora atrofiliformis (J.M. Yen, T.C. Lo & C.C. Chi) J.M. Yen SPECIES
-=======
+# Pseudocercospora atrofiliformis (J.M. Yen, T.C. Lo & C.C. Chi) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

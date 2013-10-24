@@ -1,5 +1,4 @@
-Agaricus striatellus Batsch SPECIES
-=======
+# Agaricus striatellus Batsch SPECIES
 
 #### Status
 ACCEPTED

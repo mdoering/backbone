@@ -1,5 +1,4 @@
-Auricularia affinis (Jungh.) J.M. Mend. SPECIES
-=======
+# Auricularia affinis (Jungh.) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

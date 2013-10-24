@@ -1,5 +1,4 @@
-Lepadolemma diploloma (Mont.) Trevis. SPECIES
-=======
+# Lepadolemma diploloma (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

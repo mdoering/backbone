@@ -1,5 +1,4 @@
-Lecidea violaceofuliginea Vain. SPECIES
-=======
+# Lecidea violaceofuliginea Vain. SPECIES
 
 #### Status
 ACCEPTED

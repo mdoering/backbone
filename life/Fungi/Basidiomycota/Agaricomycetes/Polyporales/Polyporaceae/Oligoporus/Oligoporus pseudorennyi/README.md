@@ -1,5 +1,4 @@
-Oligoporus pseudorennyi Spirin SPECIES
-=======
+# Oligoporus pseudorennyi Spirin SPECIES
 
 #### Status
 ACCEPTED

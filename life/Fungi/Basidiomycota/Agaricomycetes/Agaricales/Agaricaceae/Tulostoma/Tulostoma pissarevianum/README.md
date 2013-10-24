@@ -1,5 +1,4 @@
-Tulostoma pissarevianum Schwarzman & Philimonova SPECIES
-=======
+# Tulostoma pissarevianum Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

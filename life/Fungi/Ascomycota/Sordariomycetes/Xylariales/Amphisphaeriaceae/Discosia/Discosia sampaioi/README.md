@@ -1,5 +1,4 @@
-Discosia sampaioi Gonz. Frag. SPECIES
-=======
+# Discosia sampaioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

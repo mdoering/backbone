@@ -1,5 +1,4 @@
-Lecanora exspergens Nyl. SPECIES
-=======
+# Lecanora exspergens Nyl. SPECIES
 
 #### Status
 ACCEPTED

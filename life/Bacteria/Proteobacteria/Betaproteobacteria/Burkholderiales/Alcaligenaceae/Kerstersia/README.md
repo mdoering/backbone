@@ -1,5 +1,4 @@
-Kerstersia Coenye et al., 2003 GENUS
-=======
+# Kerstersia Coenye et al., 2003 GENUS
 
 #### Status
 ACCEPTED

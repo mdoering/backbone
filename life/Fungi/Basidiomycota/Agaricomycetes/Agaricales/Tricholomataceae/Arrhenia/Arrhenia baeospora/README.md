@@ -1,5 +1,4 @@
-Arrhenia baeospora (Singer) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia baeospora (Singer) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

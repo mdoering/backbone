@@ -1,5 +1,4 @@
-Aecidium schizophragmatis J.Y. Zhuang SPECIES
-=======
+# Aecidium schizophragmatis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

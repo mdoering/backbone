@@ -1,5 +1,4 @@
-Gnomonia bullata B.J. Murray SPECIES
-=======
+# Gnomonia bullata B.J. Murray SPECIES
 
 #### Status
 ACCEPTED

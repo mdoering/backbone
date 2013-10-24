@@ -1,5 +1,4 @@
-Neta compacta de Hoog, 1985 SPECIES
-=======
+# Neta compacta de Hoog, 1985 SPECIES
 
 #### Status
 ACCEPTED

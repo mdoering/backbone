@@ -1,5 +1,4 @@
-Laboulbenia leucophaea Thaxt. SPECIES
-=======
+# Laboulbenia leucophaea Thaxt. SPECIES
 
 #### Status
 ACCEPTED

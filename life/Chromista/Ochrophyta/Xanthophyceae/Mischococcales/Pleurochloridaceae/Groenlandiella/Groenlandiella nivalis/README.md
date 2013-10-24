@@ -1,5 +1,4 @@
-Groenlandiella nivalis Kol SPECIES
-=======
+# Groenlandiella nivalis Kol SPECIES
 
 #### Status
 ACCEPTED

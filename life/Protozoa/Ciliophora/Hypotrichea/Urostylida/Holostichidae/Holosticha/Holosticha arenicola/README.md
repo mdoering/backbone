@@ -1,5 +1,4 @@
-Holosticha arenicola Kahl, 1932 SPECIES
-=======
+# Holosticha arenicola Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

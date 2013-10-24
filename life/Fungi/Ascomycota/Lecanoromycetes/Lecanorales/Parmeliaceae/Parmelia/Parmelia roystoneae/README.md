@@ -1,5 +1,4 @@
-Parmelia roystoneae Vicente & L. Xavier SPECIES
-=======
+# Parmelia roystoneae Vicente & L. Xavier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lecidea britzelmayri Hue SPECIES
-=======
+# Lecidea britzelmayrii Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea britzelmayri Hue
+Lecidea britzelmayrii Hue
 
 ### Remarks
 null

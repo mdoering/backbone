@@ -1,17 +1,16 @@
-Triposporium foliicolum Gamundí, Aramb. & Giaiotti SPECIES
-=======
+# Triposporium foliicola Gamundí, Aramb. & Giaiotti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Darwiniana 21(1): 91 (1978)
 
 #### Original name
-Triposporium foliicolum Gamundí, Aramb. & Giaiotti
+Triposporium foliicola Gamundí, Aramb. & Giaiotti
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus perobscurus Kerrigan SPECIES
-=======
+# Agaricus perobscurus Kerrigan SPECIES
 
 #### Status
 ACCEPTED

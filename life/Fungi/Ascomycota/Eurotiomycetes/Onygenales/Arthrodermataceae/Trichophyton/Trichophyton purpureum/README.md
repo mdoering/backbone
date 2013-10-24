@@ -1,5 +1,4 @@
-Trichophyton purpureum H. Bang SPECIES
-=======
+# Trichophyton purpureum H. Bang SPECIES
 
 #### Status
 ACCEPTED

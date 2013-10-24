@@ -1,5 +1,4 @@
-Diplodia rudis Desm. & J. Kickx f., 1849 SPECIES
-=======
+# Diplodia rudis Desm. & J. Kickx f., 1849 SPECIES
 
 #### Status
 ACCEPTED

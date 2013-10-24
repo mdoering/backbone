@@ -1,5 +1,4 @@
-Helvella brassicae Hoffm. SPECIES
-=======
+# Helvella brassicae Hoffm. SPECIES
 
 #### Status
 ACCEPTED

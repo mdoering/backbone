@@ -1,5 +1,4 @@
-Fragilaria intermedia var. continua Mayer VARIETY
-=======
+# Fragilaria intermedia Grunow SPECIES
 
 #### Status
 ACCEPTED

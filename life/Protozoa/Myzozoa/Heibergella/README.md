@@ -1,5 +1,4 @@
-Heibergella J.P.Bujak & Fisher GENUS
-=======
+# Heibergella J.P.Bujak & Fisher GENUS
 
 #### Status
 ACCEPTED

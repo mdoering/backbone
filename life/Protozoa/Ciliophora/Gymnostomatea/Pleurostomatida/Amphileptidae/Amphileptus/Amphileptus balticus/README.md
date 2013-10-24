@@ -1,8 +1,7 @@
-Hemiophrys baltica Fenchel, 1965 SPECIES
-=======
+# Amphileptus balticus (Fenchel, 1965) Jankowski, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

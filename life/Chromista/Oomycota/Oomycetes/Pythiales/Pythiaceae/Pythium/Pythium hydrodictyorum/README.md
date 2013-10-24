@@ -1,5 +1,4 @@
-Pythium hydrodictyorum De Wild. SPECIES
-=======
+# Pythium hydrodictyorum De Wild. SPECIES
 
 #### Status
 ACCEPTED

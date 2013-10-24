@@ -1,5 +1,4 @@
-Cenangium opulinum Kirschst. SPECIES
-=======
+# Cenangium opulinum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

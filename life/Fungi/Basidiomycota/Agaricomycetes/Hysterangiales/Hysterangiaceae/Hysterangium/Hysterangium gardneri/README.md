@@ -1,5 +1,4 @@
-Hysterangium gardneri E. Fisch. SPECIES
-=======
+# Hysterangium gardneri E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

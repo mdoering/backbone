@@ -1,5 +1,4 @@
-Microphoma spiraeae N.F. Buchw. SPECIES
-=======
+# Microphoma spiraeae N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

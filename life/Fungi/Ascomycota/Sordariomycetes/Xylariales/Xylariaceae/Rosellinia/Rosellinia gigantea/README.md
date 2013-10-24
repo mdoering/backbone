@@ -1,5 +1,4 @@
-Rosellinia gigantea Ellis & Everh. SPECIES
-=======
+# Rosellinia gigantea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

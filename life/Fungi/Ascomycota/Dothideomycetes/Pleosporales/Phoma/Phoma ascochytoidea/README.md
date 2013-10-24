@@ -1,5 +1,4 @@
-Phoma ascochytoidea Alcalde SPECIES
-=======
+# Phoma ascochytoidea Alcalde SPECIES
 
 #### Status
 ACCEPTED

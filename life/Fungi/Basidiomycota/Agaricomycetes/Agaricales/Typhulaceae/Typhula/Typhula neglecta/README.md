@@ -1,5 +1,4 @@
-Typhula neglecta Pat. SPECIES
-=======
+# Typhula neglecta Pat. SPECIES
 
 #### Status
 ACCEPTED

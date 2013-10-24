@@ -1,5 +1,4 @@
-Cladonia atlantica A. Evans SPECIES
-=======
+# Cladonia atlantica A. Evans SPECIES
 
 #### Status
 ACCEPTED

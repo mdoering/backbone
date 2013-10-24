@@ -1,5 +1,4 @@
-Degelia sorediata Aptroot SPECIES
-=======
+# Degelia sorediata Aptroot SPECIES
 
 #### Status
 ACCEPTED

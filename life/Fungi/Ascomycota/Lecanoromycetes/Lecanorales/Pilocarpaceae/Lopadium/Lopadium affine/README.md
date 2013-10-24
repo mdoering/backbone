@@ -1,5 +1,4 @@
-Lopadium affine Zahlbr. SPECIES
-=======
+# Lopadium affine Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

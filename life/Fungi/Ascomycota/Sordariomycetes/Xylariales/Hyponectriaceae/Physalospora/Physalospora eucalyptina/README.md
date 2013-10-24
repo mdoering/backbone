@@ -1,5 +1,4 @@
-Physalospora eucalyptina Fairm. SPECIES
-=======
+# Physalospora eucalyptina Fairm. SPECIES
 
 #### Status
 ACCEPTED

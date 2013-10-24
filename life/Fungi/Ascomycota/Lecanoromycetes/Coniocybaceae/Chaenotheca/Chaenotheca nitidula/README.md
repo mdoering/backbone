@@ -1,5 +1,4 @@
-Chaenotheca nitidula Tibell SPECIES
-=======
+# Chaenotheca nitidula Tibell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protograndinia cinerea Rick SPECIES
-=======
+# Protograndinia cinerea Rick SPECIES
 
 #### Status
 ACCEPTED

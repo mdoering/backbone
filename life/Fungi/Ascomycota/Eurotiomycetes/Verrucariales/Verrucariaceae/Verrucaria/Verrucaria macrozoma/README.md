@@ -1,5 +1,4 @@
-Verrucaria macrozoma Fée SPECIES
-=======
+# Verrucaria macrozoma Fée SPECIES
 
 #### Status
 ACCEPTED

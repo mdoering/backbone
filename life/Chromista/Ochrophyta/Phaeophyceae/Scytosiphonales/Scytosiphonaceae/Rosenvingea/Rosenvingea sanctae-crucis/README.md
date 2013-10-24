@@ -1,5 +1,4 @@
-Rosenvingea sanctae-crucis var. scytosiphonoides Islam VARIETY
-=======
+# Rosenvingea sanctae-crucis Børgesen SPECIES
 
 #### Status
 ACCEPTED

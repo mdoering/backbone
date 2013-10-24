@@ -1,5 +1,4 @@
-Melosira laevissima Grunow SPECIES
-=======
+# Melosira laevissima Grunow SPECIES
 
 #### Status
 ACCEPTED

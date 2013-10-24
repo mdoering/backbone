@@ -1,5 +1,4 @@
-Aecidium blasdaleanum Dietel & Holw. SPECIES
-=======
+# Aecidium blasdaleanum Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

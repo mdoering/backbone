@@ -1,5 +1,4 @@
-Cyphoderia compressa Golemansky, 1979 SPECIES
-=======
+# Cyphoderia compressa Golemansky, 1979 SPECIES
 
 #### Status
 ACCEPTED

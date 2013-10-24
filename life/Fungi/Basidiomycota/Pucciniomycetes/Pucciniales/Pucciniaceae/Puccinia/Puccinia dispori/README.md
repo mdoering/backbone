@@ -1,5 +1,4 @@
-Puccinia dispori Syd. SPECIES
-=======
+# Puccinia dispori Syd. SPECIES
 
 #### Status
 ACCEPTED

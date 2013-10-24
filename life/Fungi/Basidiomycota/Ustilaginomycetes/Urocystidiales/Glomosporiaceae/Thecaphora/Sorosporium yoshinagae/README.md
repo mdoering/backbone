@@ -1,5 +1,4 @@
-Sorosporium yoshinagae Zundel SPECIES
-=======
+# Sorosporium yoshinagae Zundel SPECIES
 
 #### Status
 ACCEPTED

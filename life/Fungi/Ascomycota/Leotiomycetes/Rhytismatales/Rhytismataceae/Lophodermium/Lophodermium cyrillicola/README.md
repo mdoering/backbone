@@ -1,5 +1,4 @@
-Lophodermium cyrillicola Tracy & Earle SPECIES
-=======
+# Lophodermium cyrillicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

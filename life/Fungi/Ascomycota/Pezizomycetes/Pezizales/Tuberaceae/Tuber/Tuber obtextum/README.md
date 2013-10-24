@@ -1,5 +1,4 @@
-Tuber obtextum Spreng. SPECIES
-=======
+# Tuber obtextum Spreng. SPECIES
 
 #### Status
 ACCEPTED

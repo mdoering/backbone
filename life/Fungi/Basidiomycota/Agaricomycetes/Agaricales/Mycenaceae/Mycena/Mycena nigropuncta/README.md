@@ -1,5 +1,4 @@
-Mycena nigropuncta Métrod SPECIES
-=======
+# Mycena nigropuncta Métrod SPECIES
 
 #### Status
 ACCEPTED

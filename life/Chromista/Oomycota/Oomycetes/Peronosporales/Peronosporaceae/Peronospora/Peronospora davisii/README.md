@@ -1,5 +1,4 @@
-Peronospora davisii C.G. Shaw SPECIES
-=======
+# Peronospora davisii C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

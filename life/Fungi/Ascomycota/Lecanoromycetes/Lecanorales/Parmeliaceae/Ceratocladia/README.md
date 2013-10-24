@@ -1,5 +1,4 @@
-Ceratocladia GENUS
-=======
+# Ceratocladia GENUS
 
 #### Status
 ACCEPTED

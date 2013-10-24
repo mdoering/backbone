@@ -1,5 +1,4 @@
-Pseudocercospora sagarensis Firdousi, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Pseudocercospora sagarensis Firdousi, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora scrophularicola Gucevic SPECIES
-=======
+# Pleospora scrophulariicola Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 8: 118 (1971)
 
 #### Original name
-Pleospora scrophularicola Gucevic
+Pleospora scrophulariicola Gucevic
 
 ### Remarks
 null

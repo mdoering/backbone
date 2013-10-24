@@ -1,5 +1,4 @@
-Pseudopeziza saginae Hood & Dickson {?} SPECIES
-=======
+# Pseudopeziza saginae Hood & Dickson {?} SPECIES
 
 #### Status
 ACCEPTED

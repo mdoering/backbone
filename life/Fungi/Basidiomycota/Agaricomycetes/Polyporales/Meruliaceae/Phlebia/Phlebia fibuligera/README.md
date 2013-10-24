@@ -1,5 +1,4 @@
-Phlebia fibuligera (K.S. Thind & S.S. Rattan) Hjortstam SPECIES
-=======
+# Phlebia fibuligera (K.S. Thind & S.S. Rattan) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

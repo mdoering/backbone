@@ -1,5 +1,4 @@
-Chaetostroma holoschoeni Pass. SPECIES
-=======
+# Chaetostroma holoschoeni Pass. SPECIES
 
 #### Status
 ACCEPTED

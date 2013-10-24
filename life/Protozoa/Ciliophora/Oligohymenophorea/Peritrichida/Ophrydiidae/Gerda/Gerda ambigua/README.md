@@ -1,5 +1,4 @@
-Gerda ambigua SPECIES
-=======
+# Gerda ambigua SPECIES
 
 #### Status
 ACCEPTED

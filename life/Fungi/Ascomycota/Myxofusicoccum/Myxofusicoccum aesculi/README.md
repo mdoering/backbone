@@ -1,5 +1,4 @@
-Myxofusicoccum aesculi Petr. SPECIES
-=======
+# Myxofusicoccum aesculi Petr. SPECIES
 
 #### Status
 ACCEPTED

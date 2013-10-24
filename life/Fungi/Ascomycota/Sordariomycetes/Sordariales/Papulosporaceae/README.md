@@ -1,5 +1,4 @@
-Papulosporaceae Winka & O.E. Erikss. FAMILY
-=======
+# Papulosporaceae Winka & O.E. Erikss. FAMILY
 
 #### Status
 ACCEPTED

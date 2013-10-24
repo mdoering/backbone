@@ -1,5 +1,4 @@
-Hygrophorus graciae D.E. Stuntz SPECIES
-=======
+# Hygrophorus graciae D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeolina cubensis Speg., 1924 SPECIES
-=======
+# Clypeolina cubensis Speg., 1924 SPECIES
 
 #### Status
 ACCEPTED

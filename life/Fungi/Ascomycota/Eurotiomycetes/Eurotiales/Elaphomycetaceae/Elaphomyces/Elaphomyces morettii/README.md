@@ -1,17 +1,16 @@
-Elaphomyces morettii var. morettii VARIETY
-=======
+# Elaphomyces morettii Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 71 (1831)
 
 #### Original name
-null
+Elaphomyces morettii Vittad., 1831
 
 ### Remarks
 null

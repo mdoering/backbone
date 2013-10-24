@@ -1,5 +1,4 @@
-Pannaria dissecta P.M. Jørg. SPECIES
-=======
+# Pannaria dissecta P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

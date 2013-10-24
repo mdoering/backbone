@@ -1,5 +1,4 @@
-Placosphaeria missionum Speg. SPECIES
-=======
+# Placosphaeria missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

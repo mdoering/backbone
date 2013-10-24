@@ -1,14 +1,13 @@
-Diplodia fraxini Fr., 1849 SPECIES
-=======
+# Botryodiplodia fraxini (Fr.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 417 (1849)
+Syll. fung. (Abellini) 3: 378 (1884)
 
 #### Original name
 Diplodia fraxini Fr., 1849

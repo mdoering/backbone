@@ -1,5 +1,4 @@
-Scopulariella Gjaerum GENUS
-=======
+# Scopulariella Gjaerum GENUS
 
 #### Status
 ACCEPTED

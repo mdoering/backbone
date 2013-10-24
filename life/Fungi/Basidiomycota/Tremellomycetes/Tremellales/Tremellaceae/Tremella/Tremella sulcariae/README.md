@@ -1,5 +1,4 @@
-Tremella sulcariae Diederich & M.S. Christ. SPECIES
-=======
+# Tremella sulcariae Diederich & M.S. Christ. SPECIES
 
 #### Status
 ACCEPTED

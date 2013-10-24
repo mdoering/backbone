@@ -1,5 +1,4 @@
-Melanopsamma borealis var. borealis VARIETY
-=======
+# Melanopsamma borealis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Melanopsamma borealis var. borealis
+Melanopsamma borealis Ellis & Everh.
 
 ### Remarks
 null

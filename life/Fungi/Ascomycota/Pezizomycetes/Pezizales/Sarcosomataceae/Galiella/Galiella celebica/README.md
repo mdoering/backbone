@@ -1,5 +1,4 @@
-Galiella celebica (Henn.) Nannf. SPECIES
-=======
+# Galiella celebica (Henn.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

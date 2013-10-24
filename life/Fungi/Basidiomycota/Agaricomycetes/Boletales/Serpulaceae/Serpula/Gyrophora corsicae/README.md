@@ -1,5 +1,4 @@
-Gyrophora corsicae (Frey) Schol. SPECIES
-=======
+# Gyrophora corsicae (Frey) Schol. SPECIES
 
 #### Status
 ACCEPTED

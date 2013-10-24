@@ -1,5 +1,4 @@
-Phialophora geniculata Emden, 1975 SPECIES
-=======
+# Phialophora geniculata Emden, 1975 SPECIES
 
 #### Status
 ACCEPTED

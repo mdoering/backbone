@@ -1,5 +1,4 @@
-Septoria leveillei Sacc. SPECIES
-=======
+# Septoria leveillei Sacc. SPECIES
 
 #### Status
 ACCEPTED

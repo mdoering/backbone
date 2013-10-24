@@ -1,5 +1,4 @@
-Helotium stigmaion var. stigmaion VARIETY
-=======
+# Helotium stigmaion Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helotium stigmaion var. stigmaion
+Helotium stigmaion Rehm
 
 ### Remarks
 null

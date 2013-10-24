@@ -1,5 +1,4 @@
-Lecanora membranifera SPECIES
-=======
+# Lecanora membranifera SPECIES
 
 #### Status
 ACCEPTED

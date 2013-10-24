@@ -1,8 +1,7 @@
-Secotium michailowskjanum Bucholtz SPECIES
-=======
+# Secotium michailowskoanum Bucholtz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Secotium michailowskjanum Bucholtz
+Secotium michailowskoanum Bucholtz
 
 ### Remarks
 null

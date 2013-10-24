@@ -1,5 +1,4 @@
-Erysiphe weigelae-decorae U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe weigelae-decorae U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

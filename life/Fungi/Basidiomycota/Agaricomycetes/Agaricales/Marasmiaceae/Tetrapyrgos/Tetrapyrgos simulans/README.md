@@ -1,17 +1,16 @@
-Campanella simulans var. simulans VARIETY
-=======
+# Tetrapyrgos simulans (Pat.) E. Horak, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 8: 194 (1945)
+Sydowia 39: 102 (1987)
 
 #### Original name
-Campanella simulans var. simulans
+Laschia simulans Pat., 1914
 
 ### Remarks
 null

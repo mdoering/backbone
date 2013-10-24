@@ -1,5 +1,4 @@
-Botrytis martii (Link) Sacc. SPECIES
-=======
+# Botrytis martii (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

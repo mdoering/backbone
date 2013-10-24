@@ -1,5 +1,4 @@
-Sporidesmium phytolaccae Thüm. SPECIES
-=======
+# Sporidesmium phytolaccae Thüm. SPECIES
 
 #### Status
 ACCEPTED

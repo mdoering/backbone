@@ -1,5 +1,4 @@
-Sphacelotheca benguetensis Zundel SPECIES
-=======
+# Sphacelotheca benguetensis Zundel SPECIES
 
 #### Status
 ACCEPTED

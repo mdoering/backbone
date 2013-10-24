@@ -1,5 +1,4 @@
-Hydnum cuneatum Lloyd SPECIES
-=======
+# Hydnum cuneatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

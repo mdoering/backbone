@@ -1,5 +1,4 @@
-Thraustotheca Humphrey, 1893 GENUS
-=======
+# Thraustotheca Humphrey, 1893 GENUS
 
 #### Status
 ACCEPTED

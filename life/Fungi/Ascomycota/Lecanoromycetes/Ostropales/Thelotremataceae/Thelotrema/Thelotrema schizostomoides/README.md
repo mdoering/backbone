@@ -1,5 +1,4 @@
-Thelotrema schizostomoides Zahlbr. SPECIES
-=======
+# Thelotrema schizostomoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

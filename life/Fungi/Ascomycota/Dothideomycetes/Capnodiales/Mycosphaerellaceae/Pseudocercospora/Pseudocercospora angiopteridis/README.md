@@ -1,5 +1,4 @@
-Pseudocercospora angiopteridis Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora angiopteridis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

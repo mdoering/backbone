@@ -1,5 +1,4 @@
-Stereocaulon cymosum Cromb. SPECIES
-=======
+# Stereocaulon cymosum Cromb. SPECIES
 
 #### Status
 ACCEPTED

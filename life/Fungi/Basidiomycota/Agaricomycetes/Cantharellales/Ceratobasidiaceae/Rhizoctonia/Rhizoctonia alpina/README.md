@@ -1,5 +1,4 @@
-Rhizoctonia alpina E. Castell., 1935 SPECIES
-=======
+# Rhizoctonia alpina E. Castell., 1935 SPECIES
 
 #### Status
 ACCEPTED

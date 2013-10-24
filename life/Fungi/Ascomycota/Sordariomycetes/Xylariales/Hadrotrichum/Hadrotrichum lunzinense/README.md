@@ -1,5 +1,4 @@
-Hadrotrichum lunzinense Svilv. SPECIES
-=======
+# Hadrotrichum lunzinense Svilv. SPECIES
 
 #### Status
 ACCEPTED

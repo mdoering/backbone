@@ -1,5 +1,4 @@
-Lecanora stella-petraea (Poelt) Werner SPECIES
-=======
+# Lecanora stella-petraea (Poelt) Werner SPECIES
 
 #### Status
 ACCEPTED

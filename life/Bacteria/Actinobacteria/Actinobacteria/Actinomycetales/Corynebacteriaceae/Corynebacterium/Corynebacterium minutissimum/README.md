@@ -1,5 +1,4 @@
-Corynebacterium minutissimum (ex Sarkany et al., 1962) Collins & Jones, 1983 SPECIES
-=======
+# Corynebacterium minutissimum (ex Sarkany et al., 1962) Collins & Jones, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nothopanus panelloides (Dennis) Singer SPECIES
-=======
+# Nothopanus panelloides (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

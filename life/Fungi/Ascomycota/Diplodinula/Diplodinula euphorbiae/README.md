@@ -1,5 +1,4 @@
-Diplodinula euphorbiae (Tassi) Tassi SPECIES
-=======
+# Diplodinula euphorbiae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

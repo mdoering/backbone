@@ -1,5 +1,4 @@
-Porina wahlenbergerii Sommerf. SPECIES
-=======
+# Porina wahlenbergerii Sommerf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora nandinae Nagat., 1932 SPECIES
-=======
+# Pseudocercospora nandinae (Nagat.) X.J. Liu & Y.L. Guo, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Materials for Education, Kyoto Pref. 3: no. 3 (1932)
+Acta Mycol. Sin. 11(4): 297 (1992)
 
 #### Original name
 Cercospora nandinae Nagat., 1932

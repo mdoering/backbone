@@ -1,5 +1,4 @@
-Bulimina simpsoni Earland & Heron-Allen SPECIES
-=======
+# Bulimina simpsoni Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

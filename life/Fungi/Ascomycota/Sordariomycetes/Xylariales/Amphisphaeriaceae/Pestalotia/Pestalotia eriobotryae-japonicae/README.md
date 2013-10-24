@@ -1,5 +1,4 @@
-Pestalotia eriobotryae-japonicae Sawada SPECIES
-=======
+# Pestalotia eriobotryae-japonicae Sawada SPECIES
 
 #### Status
 ACCEPTED

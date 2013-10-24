@@ -1,5 +1,4 @@
-Leucoagaricus pleurocystidiatus Migl. & Testoni SPECIES
-=======
+# Leucoagaricus pleurocystidiatus Migl. & Testoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina scoparia Vain. SPECIES
-=======
+# Ramalina scoparia Vain. SPECIES
 
 #### Status
 ACCEPTED

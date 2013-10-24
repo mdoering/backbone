@@ -1,5 +1,4 @@
-Discosia petrakii Vanev SPECIES
-=======
+# Discosia petrakii Vanev SPECIES
 
 #### Status
 ACCEPTED

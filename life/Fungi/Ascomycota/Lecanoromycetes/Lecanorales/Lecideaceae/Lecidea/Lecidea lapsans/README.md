@@ -1,5 +1,4 @@
-Lecidea lapsans Nyl. SPECIES
-=======
+# Lecidea lapsans Nyl. SPECIES
 
 #### Status
 ACCEPTED

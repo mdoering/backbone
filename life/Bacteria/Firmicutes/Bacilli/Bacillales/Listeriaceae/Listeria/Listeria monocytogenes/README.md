@@ -1,5 +1,4 @@
-Listeria monocytogenes (Murray et al., 1926) Pirie, 1940 (Approved Lists, 1980) SPECIES
-=======
+# Listeria monocytogenes (Murray et al., 1926) Pirie, 1940 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

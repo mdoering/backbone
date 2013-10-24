@@ -1,5 +1,4 @@
-Cellularia platypoda (Lév.) Kuntze SPECIES
-=======
+# Cellularia platypoda (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

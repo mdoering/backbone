@@ -1,5 +1,4 @@
-Hendersonia juglandina Speg. SPECIES
-=======
+# Hendersonia juglandina Speg. SPECIES
 
 #### Status
 ACCEPTED

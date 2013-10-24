@@ -1,5 +1,4 @@
-Phakopsora odinae Mundk. SPECIES
-=======
+# Phakopsora odinae Mundk. SPECIES
 
 #### Status
 ACCEPTED

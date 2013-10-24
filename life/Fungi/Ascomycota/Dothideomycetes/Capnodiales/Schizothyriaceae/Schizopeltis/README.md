@@ -1,5 +1,4 @@
-Schizopeltis GENUS
-=======
+# Schizopeltis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pseudonapus M.M. Moser SPECIES
-=======
+# Cortinarius pseudonapus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

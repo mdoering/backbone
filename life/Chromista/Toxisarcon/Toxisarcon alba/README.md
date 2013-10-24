@@ -1,5 +1,4 @@
-Toxisarcon alba Wilding, 2002 SPECIES
-=======
+# Toxisarcon alba Wilding, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Biatoridina Schczedr. GENUS
-=======
+# Epithyrium (Saccardo) Trotter, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Botanicheskii Zhurnal 49: 1315 (1964)
+null
 
 #### Original name
-Biatoridina Schczedr.
+null
 
 ### Remarks
 null

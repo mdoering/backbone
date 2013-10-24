@@ -1,5 +1,4 @@
-Pseudocercospora melanotes (Syd.) U. Braun SPECIES
-=======
+# Pseudocercospora melanotes (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

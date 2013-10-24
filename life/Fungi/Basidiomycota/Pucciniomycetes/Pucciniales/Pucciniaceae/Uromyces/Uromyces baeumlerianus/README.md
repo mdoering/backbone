@@ -1,5 +1,4 @@
-Uromyces baeumlerianus Bubák SPECIES
-=======
+# Uromyces baeumlerianus Bubák SPECIES
 
 #### Status
 ACCEPTED

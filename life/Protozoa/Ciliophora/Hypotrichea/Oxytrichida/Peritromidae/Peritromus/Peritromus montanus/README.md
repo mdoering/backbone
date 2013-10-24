@@ -1,5 +1,4 @@
-Peritromus montanus Kahl, 1928 SPECIES
-=======
+# Peritromus montanus Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

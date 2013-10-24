@@ -1,5 +1,4 @@
-Helotiella ebulicola Maire SPECIES
-=======
+# Helotiella ebulicola Maire SPECIES
 
 #### Status
 ACCEPTED

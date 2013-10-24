@@ -1,5 +1,4 @@
-Asteromella cephalariae (G. Winter) Aa SPECIES
-=======
+# Asteromella cephalariae (G. Winter) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvaria cubensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Volvaria cubensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

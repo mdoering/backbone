@@ -1,5 +1,4 @@
-Prosthemiella africana Torrend SPECIES
-=======
+# Prosthemiella africana Torrend SPECIES
 
 #### Status
 ACCEPTED

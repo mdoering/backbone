@@ -1,5 +1,4 @@
-Chiajaea rhodomela (Fr.) Höhn. SPECIES
-=======
+# Chiajaea rhodomela (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

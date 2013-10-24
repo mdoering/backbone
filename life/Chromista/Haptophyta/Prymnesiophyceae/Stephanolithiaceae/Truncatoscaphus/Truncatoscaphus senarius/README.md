@@ -1,5 +1,4 @@
-Truncatoscaphus senarius (Wind & Wise in Wise & Wind, 1977) Perch-Nielsen, 1984 SPECIES
-=======
+# Truncatoscaphus senarius (Wind & Wise in Wise & Wind, 1977) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

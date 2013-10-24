@@ -1,5 +1,4 @@
-Melanopsamma texensis (Cooke) Sacc. SPECIES
-=======
+# Melanopsamma texensis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

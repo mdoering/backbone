@@ -1,5 +1,4 @@
-Peridion Vuxanovici, 1962 GENUS
-=======
+# Peridion Vuxanovici, 1962 GENUS
 
 #### Status
 ACCEPTED

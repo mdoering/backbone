@@ -1,5 +1,4 @@
-Arenogaudryina graniformis Zheng & Fu, 2001 SPECIES
-=======
+# Arenogaudryina graniformis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

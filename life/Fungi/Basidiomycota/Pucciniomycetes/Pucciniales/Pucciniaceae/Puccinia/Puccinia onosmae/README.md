@@ -1,17 +1,16 @@
-Puccinia onosmatis Gjaerum & Bahç. SPECIES
-=======
+# Puccinia onosmae Gjaerum & Bahç. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bahçecioglu & Gjærum, Mycotaxon 85: 167 (2003)
 
 #### Original name
-Puccinia onosmatis Gjaerum & Bahç.
+Puccinia onosmae Gjaerum & Bahç.
 
 ### Remarks
 null

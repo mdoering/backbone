@@ -1,17 +1,16 @@
-Strickera catalinae Fairm. SPECIES
-=======
+# Strickeria catalinae Fairm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Millspaugh & Nuttall, Publications of the Field Museum of Natural History, Botany Series 5(no. 212): 346 (1923)
 
 #### Original name
-Strickera catalinae Fairm.
+Strickeria catalinae Fairm.
 
 ### Remarks
 null

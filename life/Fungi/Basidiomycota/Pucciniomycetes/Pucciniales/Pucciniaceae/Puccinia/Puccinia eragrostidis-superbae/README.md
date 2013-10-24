@@ -1,5 +1,4 @@
-Puccinia eragrostidis-superbae Doidge SPECIES
-=======
+# Puccinia eragrostidis-superbae Doidge SPECIES
 
 #### Status
 ACCEPTED

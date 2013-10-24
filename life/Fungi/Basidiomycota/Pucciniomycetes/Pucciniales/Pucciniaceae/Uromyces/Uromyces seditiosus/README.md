@@ -1,5 +1,4 @@
-Uromyces seditiosus F. Kern SPECIES
-=======
+# Uromyces seditiosus F. Kern SPECIES
 
 #### Status
 ACCEPTED

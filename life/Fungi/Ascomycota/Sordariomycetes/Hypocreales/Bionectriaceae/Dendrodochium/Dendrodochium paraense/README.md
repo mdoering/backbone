@@ -1,5 +1,4 @@
-Dendrodochium paraense Vincens SPECIES
-=======
+# Dendrodochium paraense Vincens SPECIES
 
 #### Status
 ACCEPTED

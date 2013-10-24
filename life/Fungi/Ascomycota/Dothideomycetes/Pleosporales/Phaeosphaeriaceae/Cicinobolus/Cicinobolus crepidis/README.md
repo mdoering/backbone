@@ -1,17 +1,16 @@
-Cicinnobolus crepidis Losa SPECIES
-=======
+# Cicinobolus crepidis Losa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+An. Jard. bot. Madr. 4: 207 (1944)
 
 #### Original name
-Cicinnobolus crepidis Losa
+Cicinobolus crepidis Losa
 
 ### Remarks
 null

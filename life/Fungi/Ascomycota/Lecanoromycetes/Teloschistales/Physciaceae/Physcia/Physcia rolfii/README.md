@@ -1,5 +1,4 @@
-Physcia rolfii Moberg SPECIES
-=======
+# Physcia rolfii Moberg SPECIES
 
 #### Status
 ACCEPTED

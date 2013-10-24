@@ -1,5 +1,4 @@
-Bolivinita granttaylori Vella, 1957 SPECIES
-=======
+# Bolivinita granttaylori Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

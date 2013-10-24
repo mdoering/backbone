@@ -1,5 +1,4 @@
-Laestadia rehmii Sacc. & P. Syd. SPECIES
-=======
+# Laestadia rehmii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

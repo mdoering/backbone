@@ -1,5 +1,4 @@
-Rhopalastromma Haeckel, 1887 GENUS
-=======
+# Rhopalastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

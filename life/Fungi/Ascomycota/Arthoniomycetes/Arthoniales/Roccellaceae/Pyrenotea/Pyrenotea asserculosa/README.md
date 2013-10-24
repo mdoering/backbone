@@ -1,5 +1,4 @@
-Pyrenotea asserculosa SPECIES
-=======
+# Pyrenotea asserculosa SPECIES
 
 #### Status
 ACCEPTED

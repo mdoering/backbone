@@ -1,5 +1,4 @@
-Diplodiella oryzae I. Miyake SPECIES
-=======
+# Diplodiella oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

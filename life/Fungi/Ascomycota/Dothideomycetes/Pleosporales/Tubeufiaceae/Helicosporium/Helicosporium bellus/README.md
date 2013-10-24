@@ -1,5 +1,4 @@
-Helicosporium bellus Kuthub. SPECIES
-=======
+# Helicosporium bellus Kuthub. SPECIES
 
 #### Status
 ACCEPTED

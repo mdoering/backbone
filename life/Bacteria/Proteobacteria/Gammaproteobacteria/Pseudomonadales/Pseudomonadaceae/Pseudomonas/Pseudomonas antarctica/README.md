@@ -1,5 +1,4 @@
-Pseudomonas antarctica Reddy et al., 2004 SPECIES
-=======
+# Pseudomonas antarctica Reddy et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

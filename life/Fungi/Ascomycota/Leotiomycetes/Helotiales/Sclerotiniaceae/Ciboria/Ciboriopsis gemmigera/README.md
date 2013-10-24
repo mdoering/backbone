@@ -1,5 +1,4 @@
-Ciboriopsis gemmigera Svrcek SPECIES
-=======
+# Ciboriopsis gemmigera Svrcek SPECIES
 
 #### Status
 ACCEPTED

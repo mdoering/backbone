@@ -1,5 +1,4 @@
-Depazea bifrons var. bifrons VARIETY
-=======
+# Depazea bifrons J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. Crypt. Louvain 123 (1835)
 
 #### Original name
-Depazea bifrons var. bifrons
+Depazea bifrons J. Kickx f.
 
 ### Remarks
 null

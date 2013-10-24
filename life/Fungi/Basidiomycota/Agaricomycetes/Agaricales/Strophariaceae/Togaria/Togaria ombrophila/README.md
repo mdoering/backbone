@@ -1,5 +1,4 @@
-Togaria ombrophila (Weinm.) W.G. Sm. SPECIES
-=======
+# Togaria ombrophila (Weinm.) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

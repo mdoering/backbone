@@ -1,5 +1,4 @@
-Macrosporium iridicola Ellis & Everh. SPECIES
-=======
+# Macrosporium iridicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

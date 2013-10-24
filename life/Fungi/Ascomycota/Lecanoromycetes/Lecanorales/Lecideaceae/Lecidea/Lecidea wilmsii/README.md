@@ -1,5 +1,4 @@
-Lecidea wilmsii C.W. Dodge SPECIES
-=======
+# Lecidea wilmsii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

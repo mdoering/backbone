@@ -1,5 +1,4 @@
-Pyrgillus albopunctatus B. de Lesd. SPECIES
-=======
+# Pyrgillus albopunctatus B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

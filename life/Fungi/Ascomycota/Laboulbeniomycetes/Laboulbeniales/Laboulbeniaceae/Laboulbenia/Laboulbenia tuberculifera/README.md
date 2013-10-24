@@ -1,5 +1,4 @@
-Laboulbenia tuberculifera Thaxt. SPECIES
-=======
+# Laboulbenia tuberculifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

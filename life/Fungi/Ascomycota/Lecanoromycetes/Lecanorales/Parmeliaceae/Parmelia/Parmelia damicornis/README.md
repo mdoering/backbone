@@ -1,8 +1,7 @@
-Parmelia damaecornis (Sw.) Eschw. SPECIES
-=======
+# Parmelia damicornis (Sw.) Eschw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

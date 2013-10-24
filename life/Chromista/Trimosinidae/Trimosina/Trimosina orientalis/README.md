@@ -1,5 +1,4 @@
-Trimosina orientalis Cushman, 1933 SPECIES
-=======
+# Trimosina orientalis Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

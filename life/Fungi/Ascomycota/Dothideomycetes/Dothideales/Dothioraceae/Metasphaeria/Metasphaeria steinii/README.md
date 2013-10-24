@@ -1,5 +1,4 @@
-Metasphaeria steinii (Körb.) J. Schröt. SPECIES
-=======
+# Metasphaeria steinii (Körb.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

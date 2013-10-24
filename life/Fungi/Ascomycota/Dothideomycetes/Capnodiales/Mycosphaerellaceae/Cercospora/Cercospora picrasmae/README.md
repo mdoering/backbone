@@ -1,5 +1,4 @@
-Cercospora picrasmae Togashi & Katsuki SPECIES
-=======
+# Cercospora picrasmae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

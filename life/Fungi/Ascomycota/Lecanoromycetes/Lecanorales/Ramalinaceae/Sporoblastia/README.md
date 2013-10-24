@@ -1,5 +1,4 @@
-Sporoblastia GENUS
-=======
+# Sporoblastia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kushanella Leven & Davydov, 2001 GENUS
-=======
+# Kushanella Leven & Davydov, 2001 GENUS
 
 #### Status
 ACCEPTED

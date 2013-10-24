@@ -1,5 +1,4 @@
-Dactylaria costi Sawada SPECIES
-=======
+# Dactylaria costi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena heterotrama Singer SPECIES
-=======
+# Mycena heterotrama Singer SPECIES
 
 #### Status
 ACCEPTED

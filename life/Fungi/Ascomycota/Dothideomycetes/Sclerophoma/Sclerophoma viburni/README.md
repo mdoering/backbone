@@ -1,5 +1,4 @@
-Sclerophoma viburni (Fautrey) Höhn. SPECIES
-=======
+# Sclerophoma viburni (Fautrey) Höhn. SPECIES
 
 #### Status
 ACCEPTED

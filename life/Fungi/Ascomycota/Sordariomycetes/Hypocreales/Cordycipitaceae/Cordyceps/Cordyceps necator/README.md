@@ -1,5 +1,4 @@
-Cordyceps necator Pat. & Har. SPECIES
-=======
+# Cordyceps necator Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

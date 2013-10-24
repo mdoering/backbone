@@ -1,5 +1,4 @@
-Arthonia lilacina (Ach.) Körb. SPECIES
-=======
+# Arthonia lilacina (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

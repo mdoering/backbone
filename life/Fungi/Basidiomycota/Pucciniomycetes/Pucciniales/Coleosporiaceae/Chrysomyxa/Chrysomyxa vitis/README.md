@@ -1,5 +1,4 @@
-Chrysomyxa vitis E.J. Butler SPECIES
-=======
+# Chrysomyxa vitis E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora subfuscescens (Nyl.) H. Magn. SPECIES
-=======
+# Acarospora subfuscescens (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium strigosum Wallr. SPECIES
-=======
+# Chaetomium strigosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplophragmoides rigens SPECIES
-=======
+# Haplophragmoides rigens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosporomyces prolifer Nawawi, J. Webster & R.A. Davey, 1977 SPECIES
-=======
+# Dendrosporomyces prolifer Nawawi, J. Webster & R.A. Davey, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema microporellum (Nyl.) Hale SPECIES
-=======
+# Myriotrema microporellum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

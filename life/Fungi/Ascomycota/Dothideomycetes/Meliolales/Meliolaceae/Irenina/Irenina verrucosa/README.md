@@ -1,5 +1,4 @@
-Irenina verrucosa (Pat.) F. Stevens SPECIES
-=======
+# Irenina verrucosa (Pat.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

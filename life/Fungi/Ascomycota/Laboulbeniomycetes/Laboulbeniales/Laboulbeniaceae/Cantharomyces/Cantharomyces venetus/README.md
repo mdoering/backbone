@@ -1,5 +1,4 @@
-Cantharomyces venetus Speg. SPECIES
-=======
+# Cantharomyces venetus Speg. SPECIES
 
 #### Status
 ACCEPTED

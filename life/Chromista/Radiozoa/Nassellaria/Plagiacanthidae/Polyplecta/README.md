@@ -1,5 +1,4 @@
-Polyplecta Haeckel, 1887 GENUS
-=======
+# Polyplecta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

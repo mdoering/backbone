@@ -1,5 +1,4 @@
-Phoma tipuanae Tassi SPECIES
-=======
+# Phoma tipuanae Tassi SPECIES
 
 #### Status
 ACCEPTED

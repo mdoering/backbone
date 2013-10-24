@@ -1,14 +1,13 @@
-Gyalideopsis aterrima Vezda & Poelt SPECIES
-=======
+# Lithogyalideopsis aterrima (Vezda & Poelt) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Herzogia 2(4): 473 (1973)
+Lichenologist 37(2): 165 (2005)
 
 #### Original name
 Gyalideopsis aterrima Vezda & Poelt

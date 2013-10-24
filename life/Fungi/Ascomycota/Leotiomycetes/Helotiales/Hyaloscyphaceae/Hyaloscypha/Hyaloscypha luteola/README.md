@@ -1,5 +1,4 @@
-Hyaloscypha luteola S. Ahmad SPECIES
-=======
+# Hyaloscypha luteola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

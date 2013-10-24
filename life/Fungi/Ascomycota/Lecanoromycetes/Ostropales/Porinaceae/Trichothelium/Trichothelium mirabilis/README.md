@@ -1,5 +1,4 @@
-Trichothelium mirabilis (Rehm) Höhn. SPECIES
-=======
+# Trichothelium mirabilis (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostomella leptorrhyncha (Durieu & Mont.) Sacc. SPECIES
-=======
+# Ceratostomella leptorrhyncha (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

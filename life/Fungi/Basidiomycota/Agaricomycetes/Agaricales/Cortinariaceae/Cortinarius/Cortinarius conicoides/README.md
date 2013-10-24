@@ -1,5 +1,4 @@
-Cortinarius conicoides Bidaud SPECIES
-=======
+# Cortinarius conicoides Bidaud SPECIES
 
 #### Status
 ACCEPTED

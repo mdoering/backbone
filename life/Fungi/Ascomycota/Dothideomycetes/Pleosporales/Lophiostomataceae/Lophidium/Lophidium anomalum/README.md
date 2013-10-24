@@ -1,5 +1,4 @@
-Lophidium anomalum G.F. Atk. SPECIES
-=======
+# Lophidium anomalum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placidium velebiticum (Zahlbr.) Breuss SPECIES
-=======
+# Placidium velebiticum (Zahlbr.) Breuss SPECIES
 
 #### Status
 ACCEPTED

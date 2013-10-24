@@ -1,5 +1,4 @@
-Dictyota tournefortiana Lamouroux SPECIES
-=======
+# Dictyota tournefortiana Lamouroux SPECIES
 
 #### Status
 ACCEPTED

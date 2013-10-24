@@ -1,5 +1,4 @@
-Tomentella kootenaiensis M.J. Larsen, 1975 SPECIES
-=======
+# Tomentella kootenaiensis M.J. Larsen, 1975 SPECIES
 
 #### Status
 ACCEPTED

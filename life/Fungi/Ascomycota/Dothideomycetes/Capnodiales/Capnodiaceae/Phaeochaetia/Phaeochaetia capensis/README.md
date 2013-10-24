@@ -1,5 +1,4 @@
-Phaeochaetia capensis (Doidge) Bat. SPECIES
-=======
+# Phaeochaetia capensis (Doidge) Bat. SPECIES
 
 #### Status
 ACCEPTED

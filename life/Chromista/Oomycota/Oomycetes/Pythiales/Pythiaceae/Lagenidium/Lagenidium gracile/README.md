@@ -1,5 +1,4 @@
-Lagenidium gracile Zopf SPECIES
-=======
+# Lagenidium gracile Zopf SPECIES
 
 #### Status
 ACCEPTED

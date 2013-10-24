@@ -1,5 +1,4 @@
-Pholiota marthae Singer SPECIES
-=======
+# Pholiota marthae Singer SPECIES
 
 #### Status
 ACCEPTED

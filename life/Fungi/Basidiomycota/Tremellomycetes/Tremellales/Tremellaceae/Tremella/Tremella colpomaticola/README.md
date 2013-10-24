@@ -1,5 +1,4 @@
-Tremella colpomaticola Hauerslev SPECIES
-=======
+# Tremella colpomaticola Hauerslev SPECIES
 
 #### Status
 ACCEPTED

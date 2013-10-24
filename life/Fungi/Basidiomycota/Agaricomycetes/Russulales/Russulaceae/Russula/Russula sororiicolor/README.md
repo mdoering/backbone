@@ -1,5 +1,4 @@
-Russula sororiicolor Singer SPECIES
-=======
+# Russula sororiicolor Singer SPECIES
 
 #### Status
 ACCEPTED

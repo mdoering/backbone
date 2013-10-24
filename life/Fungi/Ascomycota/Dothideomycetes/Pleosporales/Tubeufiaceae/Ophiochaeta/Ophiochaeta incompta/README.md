@@ -1,5 +1,4 @@
-Ophiochaeta incompta Sacc. SPECIES
-=======
+# Ophiochaeta incompta Sacc. SPECIES
 
 #### Status
 ACCEPTED

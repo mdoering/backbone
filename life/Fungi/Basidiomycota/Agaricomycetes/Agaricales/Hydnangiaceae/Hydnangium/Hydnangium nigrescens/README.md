@@ -1,5 +1,4 @@
-Hydnangium nigrescens Zeller SPECIES
-=======
+# Hydnangium nigrescens Zeller SPECIES
 
 #### Status
 ACCEPTED

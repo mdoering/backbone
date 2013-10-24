@@ -1,5 +1,4 @@
-Tyromyces pseudohoehnelii Bondartsev & Komarova SPECIES
-=======
+# Tyromyces pseudohoehnelii Bondartsev & Komarova SPECIES
 
 #### Status
 ACCEPTED

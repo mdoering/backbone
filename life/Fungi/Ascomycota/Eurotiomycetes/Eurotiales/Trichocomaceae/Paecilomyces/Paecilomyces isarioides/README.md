@@ -1,5 +1,4 @@
-Paecilomyces isarioides N. Inagaki SPECIES
-=======
+# Paecilomyces isarioides N. Inagaki SPECIES
 
 #### Status
 ACCEPTED

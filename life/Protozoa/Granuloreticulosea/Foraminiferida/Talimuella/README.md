@@ -1,5 +1,4 @@
-Talimuella Zeng & Li in Hao, Zeng & Li, 1982 GENUS
-=======
+# Talimuella Zeng & Li in Hao, Zeng & Li, 1982 GENUS
 
 #### Status
 ACCEPTED

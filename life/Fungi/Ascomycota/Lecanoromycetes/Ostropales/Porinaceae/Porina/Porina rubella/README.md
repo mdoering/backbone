@@ -1,5 +1,4 @@
-Porina rubella (Malcolm & Vezda) Lücking SPECIES
-=======
+# Porina rubella (Malcolm & Vezda) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus bicolor (Peck) Cetto SPECIES
-=======
+# Xerocomus bicolor (Peck) Cetto SPECIES
 
 #### Status
 ACCEPTED

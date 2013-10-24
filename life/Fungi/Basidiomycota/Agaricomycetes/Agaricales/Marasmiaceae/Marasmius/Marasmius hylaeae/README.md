@@ -1,5 +1,4 @@
-Marasmius hylaeae var. hylaeae VARIETY
-=======
+# Marasmius hylaeae Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 17: 230 (1976)
 
 #### Original name
-Marasmius hylaeae var. hylaeae
+Marasmius hylaeae Singer
 
 ### Remarks
 null

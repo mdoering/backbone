@@ -1,5 +1,4 @@
-Megalospora allanii Zahlbr. SPECIES
-=======
+# Megalospora allanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

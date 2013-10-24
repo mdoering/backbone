@@ -1,14 +1,13 @@
-Hormococcus olivascens Sacc., 1877 SPECIES
-=======
+# Trullula olivascens (Sacc.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 1): 94 (1877)
+Syll. fung. (Abellini) 3: 731 (1884)
 
 #### Original name
 Hormococcus olivascens Sacc., 1877

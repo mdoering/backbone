@@ -1,5 +1,4 @@
-Phlebia pithelioides P. Roberts SPECIES
-=======
+# Phlebia pithelioides P. Roberts SPECIES
 
 #### Status
 ACCEPTED

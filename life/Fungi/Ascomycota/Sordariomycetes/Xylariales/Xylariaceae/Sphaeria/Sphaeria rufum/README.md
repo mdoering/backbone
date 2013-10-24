@@ -1,5 +1,4 @@
-Sphaeria rufum Fr. SPECIES
-=======
+# Sphaeria rufum Fr. SPECIES
 
 #### Status
 ACCEPTED

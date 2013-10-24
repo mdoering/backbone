@@ -1,5 +1,4 @@
-Ramaria roellinii Schild, 1978 SPECIES
-=======
+# Ramaria roellinii Schild, 1978 SPECIES
 
 #### Status
 ACCEPTED

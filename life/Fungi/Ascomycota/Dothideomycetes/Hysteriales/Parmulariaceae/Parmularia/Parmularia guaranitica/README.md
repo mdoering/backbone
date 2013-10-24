@@ -1,5 +1,4 @@
-Parmularia guaranitica (Speg.) Henn. SPECIES
-=======
+# Parmularia guaranitica (Speg.) Henn. SPECIES
 
 #### Status
 ACCEPTED

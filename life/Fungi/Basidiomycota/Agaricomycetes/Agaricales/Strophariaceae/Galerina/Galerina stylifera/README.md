@@ -1,17 +1,16 @@
-Galerina stylifera var. caespitosa A.H. Sm. & Singer VARIETY
-=======
+# Galerina stylifera (G.F. Atk.) A.H. Sm. & Singer, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 11: 449 (1958)
 
 #### Original name
-Galerina stylifera var. caespitosa A.H. Sm. & Singer
+Galerula stylifera G.F. Atk., 1918
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphinomyces anguinae Cif. & Tomas. SPECIES
-=======
+# Graphinomyces anguinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

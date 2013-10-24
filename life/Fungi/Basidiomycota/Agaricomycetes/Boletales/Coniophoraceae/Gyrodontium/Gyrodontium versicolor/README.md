@@ -1,14 +1,13 @@
-Hydnum versicolor Berk. & Broome, 1875 SPECIES
-=======
+# Gyrodontium versicolor (Berk. & Broome) Maas Geest., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 59 (1875)
+Persoonia 3(2): 190 (1964)
 
 #### Original name
 Hydnum versicolor Berk. & Broome, 1875

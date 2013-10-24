@@ -1,5 +1,4 @@
-Boletus guatemalensis R. Flores & Simonini SPECIES
-=======
+# Boletus guatemalensis R. Flores & Simonini SPECIES
 
 #### Status
 ACCEPTED

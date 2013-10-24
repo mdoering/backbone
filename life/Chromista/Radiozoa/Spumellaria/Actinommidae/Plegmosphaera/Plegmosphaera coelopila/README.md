@@ -1,5 +1,4 @@
-Plegmosphaera coelopila Haeckel, 1887 SPECIES
-=======
+# Plegmosphaera coelopila Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

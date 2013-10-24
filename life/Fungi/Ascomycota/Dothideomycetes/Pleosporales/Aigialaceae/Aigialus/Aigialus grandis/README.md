@@ -1,5 +1,4 @@
-Aigialus grandis Kohlm. & S. Schatz, 1986 SPECIES
-=======
+# Aigialus grandis Kohlm. & S. Schatz, 1986 SPECIES
 
 #### Status
 ACCEPTED

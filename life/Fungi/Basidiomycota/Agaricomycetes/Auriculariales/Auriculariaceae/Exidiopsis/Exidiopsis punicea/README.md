@@ -1,5 +1,4 @@
-Exidiopsis punicea K. Wells & Bandoni SPECIES
-=======
+# Exidiopsis punicea K. Wells & Bandoni SPECIES
 
 #### Status
 ACCEPTED

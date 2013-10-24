@@ -1,5 +1,4 @@
-Labrospira involuta Zheng & Fu, 2001 SPECIES
-=======
+# Labrospira involuta Zheng & Fu, 2001 SPECIES
 
 #### Status
 DOUBTFUL

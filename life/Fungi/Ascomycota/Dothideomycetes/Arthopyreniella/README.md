@@ -1,5 +1,4 @@
-Arthopyreniella GENUS
-=======
+# Arthopyreniella GENUS
 
 #### Status
 ACCEPTED

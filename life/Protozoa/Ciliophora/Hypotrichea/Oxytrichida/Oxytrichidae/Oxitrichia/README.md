@@ -1,5 +1,4 @@
-Oxitrichia GENUS
-=======
+# Oxitrichia GENUS
 
 #### Status
 ACCEPTED

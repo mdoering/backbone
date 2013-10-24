@@ -1,5 +1,4 @@
-Corticium helvolum (P. Karst.) Sacc. SPECIES
-=======
+# Corticium helvolum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

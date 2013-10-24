@@ -1,5 +1,4 @@
-Aessosporon Van der Walt, 1970 GENUS
-=======
+# Aessosporon Van der Walt, 1970 GENUS
 
 #### Status
 ACCEPTED

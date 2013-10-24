@@ -1,5 +1,4 @@
-Asterina maublancii (G. Arnaud) Maubl. SPECIES
-=======
+# Asterina maublancii (G. Arnaud) Maubl. SPECIES
 
 #### Status
 ACCEPTED

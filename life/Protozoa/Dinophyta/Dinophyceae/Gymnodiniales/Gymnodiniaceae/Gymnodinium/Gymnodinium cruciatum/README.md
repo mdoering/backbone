@@ -1,5 +1,4 @@
-Gymnodinium cruciatum J. Massart SPECIES
-=======
+# Gymnodinium cruciatum J. Massart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula amygdaloides Kauffman SPECIES
-=======
+# Russula amygdaloides Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota zamurensis Pat. & Gaillard SPECIES
-=======
+# Lepiota zamurensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

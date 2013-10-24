@@ -1,5 +1,4 @@
-Allothyriella tecleae Bat. & Nascim. SPECIES
-=======
+# Allothyriella tecleae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

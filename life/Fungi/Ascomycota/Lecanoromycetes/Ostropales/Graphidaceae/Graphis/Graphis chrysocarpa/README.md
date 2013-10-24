@@ -1,5 +1,4 @@
-Graphis chrysocarpa (Raddi) Spreng. SPECIES
-=======
+# Graphis chrysocarpa (Raddi) Spreng. SPECIES
 
 #### Status
 ACCEPTED

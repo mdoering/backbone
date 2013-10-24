@@ -1,5 +1,4 @@
-Lepiota neglecta Hongo SPECIES
-=======
+# Lepiota neglecta Hongo SPECIES
 
 #### Status
 ACCEPTED

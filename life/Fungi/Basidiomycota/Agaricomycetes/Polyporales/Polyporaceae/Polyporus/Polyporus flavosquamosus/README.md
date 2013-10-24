@@ -1,5 +1,4 @@
-Polyporus flavosquamosus Underw. SPECIES
-=======
+# Polyporus flavosquamosus Underw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea nidulifera Motyka SPECIES
-=======
+# Usnea nidulifera Motyka SPECIES
 
 #### Status
 ACCEPTED

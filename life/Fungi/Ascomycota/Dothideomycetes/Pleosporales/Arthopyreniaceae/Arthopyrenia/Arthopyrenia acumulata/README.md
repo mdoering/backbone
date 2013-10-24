@@ -1,5 +1,4 @@
-Arthopyrenia acumulata (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia acumulata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

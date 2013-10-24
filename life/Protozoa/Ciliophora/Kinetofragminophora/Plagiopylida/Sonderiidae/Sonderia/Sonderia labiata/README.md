@@ -1,5 +1,4 @@
-Sonderia labiata Fauré-Fremiet & Tuffrau, 1955 SPECIES
-=======
+# Sonderia labiata Fauré-Fremiet & Tuffrau, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyscytalum fecundissimum Riess, 1853 SPECIES
-=======
+# Polyscytalum fecundissimum Riess, 1853 SPECIES
 
 #### Status
 ACCEPTED

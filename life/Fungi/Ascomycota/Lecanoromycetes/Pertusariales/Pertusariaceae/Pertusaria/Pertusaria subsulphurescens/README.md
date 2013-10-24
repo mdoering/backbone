@@ -1,5 +1,4 @@
-Pertusaria subsulphurescens Malme SPECIES
-=======
+# Pertusaria subsulphurescens Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Baeomyces rubescens Vain. SPECIES
-=======
+# Phyllobaeis rubescens (Vain.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7: 4 (1890)
+Herzogia 9(3-4): 610 (1993)
 
 #### Original name
 Baeomyces rubescens Vain.

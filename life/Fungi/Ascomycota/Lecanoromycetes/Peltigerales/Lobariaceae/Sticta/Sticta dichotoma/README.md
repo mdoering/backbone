@@ -1,5 +1,4 @@
-Sticta dichotoma Bory SPECIES
-=======
+# Sticta dichotoma Bory SPECIES
 
 #### Status
 ACCEPTED

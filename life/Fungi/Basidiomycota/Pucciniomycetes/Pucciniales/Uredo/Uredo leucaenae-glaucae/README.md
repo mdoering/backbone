@@ -1,5 +1,4 @@
-Uredo leucaenae-glaucae Hirats. f. & Hashioka SPECIES
-=======
+# Uredo leucaenae-glaucae Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

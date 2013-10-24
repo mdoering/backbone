@@ -1,5 +1,4 @@
-Ascospora vibratilis Bonord. SPECIES
-=======
+# Ascospora vibratilis Bonord. SPECIES
 
 #### Status
 ACCEPTED

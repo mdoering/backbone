@@ -1,5 +1,4 @@
-Thielaviopsis musarum (R.S. Mitchell) Riedl SPECIES
-=======
+# Thielaviopsis musarum (R.S. Mitchell) Riedl SPECIES
 
 #### Status
 ACCEPTED

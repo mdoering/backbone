@@ -1,5 +1,4 @@
-Ramularia campanularum Karak. SPECIES
-=======
+# Ramularia campanularum Karak. SPECIES
 
 #### Status
 ACCEPTED

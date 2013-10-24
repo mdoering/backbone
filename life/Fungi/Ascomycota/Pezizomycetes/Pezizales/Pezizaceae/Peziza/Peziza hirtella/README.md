@@ -1,5 +1,4 @@
-Peziza hirtella subsp. hirtella SUBSPECIES
-=======
+# Peziza hirtella (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Ascobolus hirtellus P. Karst.
 
 ### Remarks
 null

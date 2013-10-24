@@ -1,5 +1,4 @@
-Inocybe subhirsuta Kühner SPECIES
-=======
+# Inocybe subhirsuta Kühner SPECIES
 
 #### Status
 ACCEPTED

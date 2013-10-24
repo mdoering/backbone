@@ -1,5 +1,4 @@
-Dolgenia Kemper, 1995 GENUS
-=======
+# Dolgenia Kemper, 1995 GENUS
 
 #### Status
 ACCEPTED

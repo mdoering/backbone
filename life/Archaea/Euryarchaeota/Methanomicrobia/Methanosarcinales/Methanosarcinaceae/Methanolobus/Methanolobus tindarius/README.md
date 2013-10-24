@@ -1,5 +1,4 @@
-Methanolobus tindarius König & Stetter, 1983 SPECIES
-=======
+# Methanolobus tindarius König & Stetter, 1983 SPECIES
 
 #### Status
 ACCEPTED

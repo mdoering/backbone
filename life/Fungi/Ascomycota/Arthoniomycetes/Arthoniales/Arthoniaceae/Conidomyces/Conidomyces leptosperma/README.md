@@ -1,5 +1,4 @@
-Conidomyces leptosperma (Müll. Arg.) Bat. SPECIES
-=======
+# Conidomyces leptosperma (Müll. Arg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

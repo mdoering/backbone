@@ -1,5 +1,4 @@
-Parmotrema indicum Hale SPECIES
-=======
+# Parmotrema indicum Hale SPECIES
 
 #### Status
 ACCEPTED

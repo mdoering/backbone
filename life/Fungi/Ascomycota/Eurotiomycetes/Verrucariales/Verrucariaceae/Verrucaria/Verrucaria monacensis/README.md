@@ -1,5 +1,4 @@
-Verrucaria monacensis Servít SPECIES
-=======
+# Verrucaria monacensis Servít SPECIES
 
 #### Status
 ACCEPTED

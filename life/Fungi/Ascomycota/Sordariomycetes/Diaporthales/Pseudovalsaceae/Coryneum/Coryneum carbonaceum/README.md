@@ -1,5 +1,4 @@
-Coryneum carbonaceum Kabát & Bubák SPECIES
-=======
+# Coryneum carbonaceum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

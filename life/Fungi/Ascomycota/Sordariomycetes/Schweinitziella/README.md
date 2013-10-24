@@ -1,17 +1,16 @@
-Ophiotexis Theiss. GENUS
-=======
+# Schweinitziella Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 46: 345 (1916)
+Anal. Soc. cient. argent. 26(1): 45 (1888)
 
 #### Original name
-Ophiotexis Theiss.
+Schweinitziella Speg.
 
 ### Remarks
 null

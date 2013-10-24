@@ -1,5 +1,4 @@
-Lycoperdon caffrorum Kalchbr. & Cooke SPECIES
-=======
+# Lycoperdon caffrorum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

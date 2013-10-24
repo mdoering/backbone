@@ -1,5 +1,4 @@
-Hyphochytrium Zopf GENUS
-=======
+# Hyphochytrium Zopf GENUS
 
 #### Status
 ACCEPTED

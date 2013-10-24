@@ -1,5 +1,4 @@
-Luzfridiella R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Luzfridiella R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

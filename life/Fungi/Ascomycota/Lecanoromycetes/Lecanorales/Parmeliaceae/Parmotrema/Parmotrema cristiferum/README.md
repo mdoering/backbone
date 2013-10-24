@@ -1,17 +1,16 @@
-Parmelia cristifera var. cristifera VARIETY
-=======
+# Parmotrema cristiferum (Taylor) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 6: 165 (1847)
+Phytologia 28: 335 (1974)
 
 #### Original name
-Parmelia cristifera var. cristifera
+Parmelia cristifera Taylor
 
 ### Remarks
 null

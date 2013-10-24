@@ -1,5 +1,4 @@
-Umbellomyces GENUS
-=======
+# Umbellomyces GENUS
 
 #### Status
 ACCEPTED

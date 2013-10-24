@@ -1,5 +1,4 @@
-Nautilia nitratireducens Perez-Rodriguez, Ricci, Voordeckers, Starovoytov & Vetriani, 2009 SPECIES
-=======
+# Nautilia nitratireducens Perez-Rodriguez, Ricci, Voordeckers, Starovoytov & Vetriani, 2009 SPECIES
 
 #### Status
 ACCEPTED

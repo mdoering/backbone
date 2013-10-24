@@ -1,5 +1,4 @@
-Volvariella nigrodisca Shaffer SPECIES
-=======
+# Volvariella nigrodisca Shaffer SPECIES
 
 #### Status
 ACCEPTED

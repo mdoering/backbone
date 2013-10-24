@@ -1,5 +1,4 @@
-Eriopezia paludosa Velen. SPECIES
-=======
+# Eriopezia paludosa Velen. SPECIES
 
 #### Status
 ACCEPTED

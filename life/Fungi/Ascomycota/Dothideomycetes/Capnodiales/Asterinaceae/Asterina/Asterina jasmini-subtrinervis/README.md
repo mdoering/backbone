@@ -1,5 +1,4 @@
-Asterina jasmini-subtrinervis W. Yamam. SPECIES
-=======
+# Asterina jasmini-subtrinervis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium ellipticum Fr. SPECIES
-=======
+# Hysterium ellipticum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe fasciata Hongo SPECIES
-=======
+# Psilocybe fasciata Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenotila Lagerh. GENUS
-=======
+# Selenotila Lagerh. GENUS
 
 #### Status
 ACCEPTED

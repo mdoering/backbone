@@ -1,5 +1,4 @@
-Didymosphaeria prosopidis Bubák SPECIES
-=======
+# Didymosphaeria prosopidis Bubák SPECIES
 
 #### Status
 ACCEPTED

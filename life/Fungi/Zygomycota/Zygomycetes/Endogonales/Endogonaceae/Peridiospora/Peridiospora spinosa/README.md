@@ -1,5 +1,4 @@
-Peridiospora spinosa Wu & Lin SPECIES
-=======
+# Peridiospora spinosa Wu & Lin SPECIES
 
 #### Status
 ACCEPTED

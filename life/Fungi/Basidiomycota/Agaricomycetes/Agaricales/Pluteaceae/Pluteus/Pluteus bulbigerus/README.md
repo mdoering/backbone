@@ -1,5 +1,4 @@
-Pluteus bulbigerus E. Horak SPECIES
-=======
+# Pluteus bulbigerus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta moravica (Petr.) Aa SPECIES
-=======
+# Phyllosticta moravica (Petr.) Aa SPECIES
 
 #### Status
 ACCEPTED

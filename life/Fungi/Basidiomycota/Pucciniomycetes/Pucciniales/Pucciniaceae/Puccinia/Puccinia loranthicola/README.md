@@ -1,5 +1,4 @@
-Puccinia loranthicola McAlpine SPECIES
-=======
+# Puccinia loranthicola McAlpine SPECIES
 
 #### Status
 ACCEPTED

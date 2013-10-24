@@ -1,5 +1,4 @@
-Peltistromella Höhn. GENUS
-=======
+# Peltistromella Höhn. GENUS
 
 #### Status
 ACCEPTED

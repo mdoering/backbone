@@ -1,5 +1,4 @@
-Xylaria comosa Mont. SPECIES
-=======
+# Xylaria comosa Mont. SPECIES
 
 #### Status
 ACCEPTED

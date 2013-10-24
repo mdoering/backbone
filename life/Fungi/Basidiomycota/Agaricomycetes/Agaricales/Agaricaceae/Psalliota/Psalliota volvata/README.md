@@ -1,5 +1,4 @@
-Psalliota volvata A. Pearson SPECIES
-=======
+# Psalliota volvata A. Pearson SPECIES
 
 #### Status
 ACCEPTED

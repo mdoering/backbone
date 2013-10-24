@@ -1,5 +1,4 @@
-Vermicularia jatrophae Speg. SPECIES
-=======
+# Vermicularia jatrophae Speg. SPECIES
 
 #### Status
 ACCEPTED

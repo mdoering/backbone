@@ -1,5 +1,4 @@
-Mesnilella elongata SPECIES
-=======
+# Mesnilella elongata SPECIES
 
 #### Status
 ACCEPTED

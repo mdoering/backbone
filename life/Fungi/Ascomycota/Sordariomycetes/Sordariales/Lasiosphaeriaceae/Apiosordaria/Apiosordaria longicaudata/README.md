@@ -1,14 +1,13 @@
-Lacunospora longicaudata Furuya & Udagawa, 1978 SPECIES
-=======
+# Apiosordaria longicaudata (Furuya & Udagawa) J.C. Krug, Udagawa & Jeng, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 19(3): 269 (1978)
+Mycotaxon 17: 546 (1983)
 
 #### Original name
 Lacunospora longicaudata Furuya & Udagawa, 1978

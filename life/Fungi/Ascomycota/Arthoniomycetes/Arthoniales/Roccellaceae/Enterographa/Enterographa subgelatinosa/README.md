@@ -1,14 +1,13 @@
-Platygrapha subgelatinosa Stirt. SPECIES
-=======
+# Enterographa subgelatinosa (Stirt.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Proc. Phil. Soc. Glasgow 10: 301 (1877)
+Repert. Spec. Nov. Regni Veg. 43: 66 (1938)
 
 #### Original name
 Platygrapha subgelatinosa Stirt.

@@ -1,5 +1,4 @@
-Phacus chloroplastes f. incisa Prescott FORM
-=======
+# Phacus chloroplastes Prescott SPECIES
 
 #### Status
 ACCEPTED

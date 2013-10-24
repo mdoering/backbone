@@ -1,5 +1,4 @@
-Ecchyna poricola (Richon) Richon SPECIES
-=======
+# Ecchyna poricola (Richon) Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocybe alneti Singer SPECIES
-=======
+# Calocybe alneti Singer SPECIES
 
 #### Status
 ACCEPTED

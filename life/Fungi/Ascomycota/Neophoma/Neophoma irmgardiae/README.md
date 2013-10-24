@@ -1,5 +1,4 @@
-Neophoma irmgardiae Petr. SPECIES
-=======
+# Neophoma irmgardiae Petr. SPECIES
 
 #### Status
 ACCEPTED

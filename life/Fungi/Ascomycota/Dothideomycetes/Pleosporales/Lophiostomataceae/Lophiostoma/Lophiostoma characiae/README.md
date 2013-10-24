@@ -1,5 +1,4 @@
-Lophiostoma characiae Fabre SPECIES
-=======
+# Lophiostoma characiae Fabre SPECIES
 
 #### Status
 ACCEPTED

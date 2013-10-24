@@ -1,5 +1,4 @@
-Puccinia torosa Thüm. SPECIES
-=======
+# Puccinia torosa Thüm. SPECIES
 
 #### Status
 ACCEPTED

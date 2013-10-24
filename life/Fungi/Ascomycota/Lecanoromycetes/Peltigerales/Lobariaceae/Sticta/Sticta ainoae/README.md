@@ -1,5 +1,4 @@
-Sticta ainoae D. J. Galloway & J. Pickering SPECIES
-=======
+# Sticta ainoae D. J. Galloway & J. Pickering SPECIES
 
 #### Status
 ACCEPTED

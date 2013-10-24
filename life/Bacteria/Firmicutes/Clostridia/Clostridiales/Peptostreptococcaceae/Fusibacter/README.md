@@ -1,5 +1,4 @@
-Fusibacter Ravot et al., 1999 GENUS
-=======
+# Fusibacter Ravot et al., 1999 GENUS
 
 #### Status
 ACCEPTED

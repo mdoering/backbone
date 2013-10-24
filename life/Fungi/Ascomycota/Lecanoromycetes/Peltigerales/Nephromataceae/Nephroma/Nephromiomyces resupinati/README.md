@@ -1,5 +1,4 @@
-Nephromiomyces resupinati E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Nephromiomyces resupinati E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

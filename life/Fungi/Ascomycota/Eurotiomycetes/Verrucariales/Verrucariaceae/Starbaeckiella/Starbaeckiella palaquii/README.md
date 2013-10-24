@@ -1,5 +1,4 @@
-Starbaeckiella palaquii (Ricker) Syd. SPECIES
-=======
+# Starbaeckiella palaquii (Ricker) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Callopisma rubens Müll. Arg. SPECIES
-=======
+# Caloplaca rubens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 23: 389 (1891)
+Cat. Lich. Univers. 7: 160 (1930)
 
 #### Original name
 Callopisma rubens Müll. Arg.

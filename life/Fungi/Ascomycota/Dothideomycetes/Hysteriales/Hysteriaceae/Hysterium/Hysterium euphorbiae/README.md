@@ -1,5 +1,4 @@
-Hysterium euphorbiae Duby SPECIES
-=======
+# Hysterium euphorbiae Duby SPECIES
 
 #### Status
 ACCEPTED

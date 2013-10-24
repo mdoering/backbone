@@ -1,5 +1,4 @@
-Sphaeria transiens Nees SPECIES
-=======
+# Sphaeria transiens Nees SPECIES
 
 #### Status
 ACCEPTED

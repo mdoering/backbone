@@ -1,5 +1,4 @@
-Dimerosporium ovoideum Speg. SPECIES
-=======
+# Dimerosporium ovoideum Speg. SPECIES
 
 #### Status
 ACCEPTED

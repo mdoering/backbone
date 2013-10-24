@@ -1,5 +1,4 @@
-Aleurodiscus cremeus Pat. SPECIES
-=======
+# Aleurodiscus cremeus Pat. SPECIES
 
 #### Status
 ACCEPTED

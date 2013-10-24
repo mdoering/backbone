@@ -1,5 +1,4 @@
-Parmelia segreganda Abbayes SPECIES
-=======
+# Parmelia segreganda Abbayes SPECIES
 
 #### Status
 ACCEPTED

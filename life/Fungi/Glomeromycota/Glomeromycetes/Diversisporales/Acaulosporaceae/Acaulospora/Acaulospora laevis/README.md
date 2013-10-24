@@ -1,5 +1,4 @@
-Acaulospora laevis Gerd. & Trappe, 1974 SPECIES
-=======
+# Acaulospora laevis Gerd. & Trappe, 1974 SPECIES
 
 #### Status
 ACCEPTED

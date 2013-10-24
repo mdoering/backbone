@@ -1,5 +1,4 @@
-Paxillus revolutus Cooke SPECIES
-=======
+# Paxillus revolutus Cooke SPECIES
 
 #### Status
 ACCEPTED

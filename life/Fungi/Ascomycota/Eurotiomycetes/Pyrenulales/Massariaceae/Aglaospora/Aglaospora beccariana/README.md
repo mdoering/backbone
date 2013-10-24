@@ -1,5 +1,4 @@
-Aglaospora beccariana Ces. SPECIES
-=======
+# Aglaospora beccariana Ces. SPECIES
 
 #### Status
 ACCEPTED

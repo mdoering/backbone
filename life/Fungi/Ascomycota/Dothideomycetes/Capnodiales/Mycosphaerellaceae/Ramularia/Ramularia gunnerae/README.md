@@ -1,14 +1,13 @@
-Ovularia gunnerae Speg., 1910 SPECIES
-=======
+# Ramularia gunnerae (Speg.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Vet. Univ. nac. La Plata, Ser. 2 6(1): 180 (1910)
+Mycotaxon 51: 58 (1994)
 
 #### Original name
 Ovularia gunnerae Speg., 1910

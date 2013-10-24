@@ -1,5 +1,4 @@
-Lepiota subnivosa Murrill SPECIES
-=======
+# Lepiota subnivosa Murrill SPECIES
 
 #### Status
 ACCEPTED

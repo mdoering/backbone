@@ -1,5 +1,4 @@
-Phyllosticta pteridina M.S. Ali & Saikia SPECIES
-=======
+# Phyllosticta pteridina M.S. Ali & Saikia SPECIES
 
 #### Status
 ACCEPTED

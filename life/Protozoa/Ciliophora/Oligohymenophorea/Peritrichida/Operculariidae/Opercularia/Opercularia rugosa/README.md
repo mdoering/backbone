@@ -1,5 +1,4 @@
-Opercularia rugosa Kellicott, 1884 SPECIES
-=======
+# Opercularia rugosa Kellicott, 1884 SPECIES
 
 #### Status
 ACCEPTED

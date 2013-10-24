@@ -1,5 +1,4 @@
-Clavaria minima Corner SPECIES
-=======
+# Clavaria minima Corner SPECIES
 
 #### Status
 ACCEPTED

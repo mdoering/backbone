@@ -1,5 +1,4 @@
-Naucoria xuchilensis Murrill SPECIES
-=======
+# Naucoria xuchilensis Murrill SPECIES
 
 #### Status
 ACCEPTED

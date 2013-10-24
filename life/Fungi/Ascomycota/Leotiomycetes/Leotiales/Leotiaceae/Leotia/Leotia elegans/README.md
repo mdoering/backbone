@@ -1,5 +1,4 @@
-Leotia elegans Berk. SPECIES
-=======
+# Leotia elegans Berk. SPECIES
 
 #### Status
 ACCEPTED

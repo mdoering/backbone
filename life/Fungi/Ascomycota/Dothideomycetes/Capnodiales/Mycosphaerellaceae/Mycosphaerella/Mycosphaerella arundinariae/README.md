@@ -1,5 +1,4 @@
-Mycosphaerella arundinariae (G.F. Atk.) Earle SPECIES
-=======
+# Mycosphaerella arundinariae (G.F. Atk.) Earle SPECIES
 
 #### Status
 ACCEPTED

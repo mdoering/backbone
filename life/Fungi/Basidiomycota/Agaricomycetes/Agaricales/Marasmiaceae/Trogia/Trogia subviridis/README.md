@@ -1,5 +1,4 @@
-Trogia subviridis Corner SPECIES
-=======
+# Trogia subviridis Corner SPECIES
 
 #### Status
 ACCEPTED

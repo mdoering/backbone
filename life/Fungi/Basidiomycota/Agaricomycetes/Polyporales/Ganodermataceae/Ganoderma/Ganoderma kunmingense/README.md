@@ -1,5 +1,4 @@
-Ganoderma kunmingense J.D. Zhao, 1989 SPECIES
-=======
+# Ganoderma kunmingense J.D. Zhao, 1989 SPECIES
 
 #### Status
 ACCEPTED

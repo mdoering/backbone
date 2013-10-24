@@ -1,5 +1,4 @@
-Cleistophoma Petrak & Sydow, 1927 GENUS
-=======
+# Cleistophoma Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus inebriatus Berk. & Broome SPECIES
-=======
+# Agaricus inebriatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

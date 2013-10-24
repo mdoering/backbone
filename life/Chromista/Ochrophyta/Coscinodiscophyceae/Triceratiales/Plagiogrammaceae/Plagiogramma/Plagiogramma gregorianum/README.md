@@ -1,5 +1,4 @@
-Plagiogramma gregorianum Greville SPECIES
-=======
+# Plagiogramma gregorianum Greville SPECIES
 
 #### Status
 ACCEPTED

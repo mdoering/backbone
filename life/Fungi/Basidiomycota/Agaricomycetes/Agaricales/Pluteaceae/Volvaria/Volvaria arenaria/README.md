@@ -1,5 +1,4 @@
-Volvaria arenaria G.H. Otth SPECIES
-=======
+# Volvaria arenaria G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

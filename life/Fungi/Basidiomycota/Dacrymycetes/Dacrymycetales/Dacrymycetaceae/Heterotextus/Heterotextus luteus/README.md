@@ -1,14 +1,13 @@
-Gloeocystidium luteum (Bres.) Höhn. & Litsch., 1908 SPECIES
-=======
+# Heterotextus luteus (Bres.) McNabb, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 117: 1085 (1908)
+N. Z. Jl Bot. 3(3): 221 (1965)
 
 #### Original name
 null

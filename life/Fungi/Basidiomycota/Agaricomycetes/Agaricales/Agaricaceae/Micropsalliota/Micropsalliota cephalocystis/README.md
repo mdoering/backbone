@@ -1,5 +1,4 @@
-Micropsalliota cephalocystis (Heinem.) Heinem. SPECIES
-=======
+# Micropsalliota cephalocystis (Heinem.) Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatosphaeridium algerense Cramer & Díez, 1976 SPECIES
-=======
+# Schismatosphaeridium algerense Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

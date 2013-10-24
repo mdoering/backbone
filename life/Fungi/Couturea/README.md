@@ -1,5 +1,4 @@
-Couturea Castagne, 1845 GENUS
-=======
+# Couturea Castagne, 1845 GENUS
 
 #### Status
 ACCEPTED

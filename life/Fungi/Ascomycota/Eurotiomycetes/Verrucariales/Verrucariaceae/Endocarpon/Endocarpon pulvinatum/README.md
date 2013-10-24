@@ -1,5 +1,4 @@
-Endocarpon pulvinatum Th. Fr. SPECIES
-=======
+# Endocarpon pulvinatum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

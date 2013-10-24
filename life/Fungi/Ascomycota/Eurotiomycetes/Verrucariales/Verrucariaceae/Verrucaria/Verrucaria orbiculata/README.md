@@ -1,5 +1,4 @@
-Verrucaria orbiculata (Schreb.) Hoffm. SPECIES
-=======
+# Verrucaria orbiculata (Schreb.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

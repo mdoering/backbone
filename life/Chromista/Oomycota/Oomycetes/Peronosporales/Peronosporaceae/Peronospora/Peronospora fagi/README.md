@@ -1,5 +1,4 @@
-Peronospora fagi R. Hartig SPECIES
-=======
+# Peronospora fagi R. Hartig SPECIES
 
 #### Status
 ACCEPTED

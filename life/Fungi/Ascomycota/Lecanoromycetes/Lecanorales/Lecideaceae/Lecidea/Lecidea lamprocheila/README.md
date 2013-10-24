@@ -1,5 +1,4 @@
-Lecidea lamprocheila (DC.) Hue SPECIES
-=======
+# Lecidea lamprocheila (DC.) Hue SPECIES
 
 #### Status
 ACCEPTED

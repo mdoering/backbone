@@ -1,5 +1,4 @@
-Buergenerula Syd. GENUS
-=======
+# Buergenerula Syd. GENUS
 
 #### Status
 ACCEPTED

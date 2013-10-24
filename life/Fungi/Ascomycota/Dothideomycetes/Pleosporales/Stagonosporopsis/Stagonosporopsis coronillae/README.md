@@ -1,5 +1,4 @@
-Stagonosporopsis coronillae Lebedeva SPECIES
-=======
+# Stagonosporopsis coronillae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

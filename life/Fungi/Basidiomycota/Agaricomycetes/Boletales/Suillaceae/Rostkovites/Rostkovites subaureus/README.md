@@ -1,5 +1,4 @@
-Rostkovites subaureus (Peck) Murrill SPECIES
-=======
+# Rostkovites subaureus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

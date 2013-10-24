@@ -1,5 +1,4 @@
-Syracosphaera halldalii K. R. Gaarder ex R. W. Jordan & J. C. Green SPECIES
-=======
+# Syracosphaera halldalii K. R. Gaarder ex R. W. Jordan & J. C. Green SPECIES
 
 #### Status
 ACCEPTED

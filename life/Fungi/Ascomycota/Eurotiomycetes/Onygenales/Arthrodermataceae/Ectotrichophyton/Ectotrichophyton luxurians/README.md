@@ -1,5 +1,4 @@
-Ectotrichophyton luxurians (Brault & A. Vig.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton luxurians (Brault & A. Vig.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

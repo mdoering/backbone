@@ -1,5 +1,4 @@
-Psilocybe mescaleroensis Guzmán, Walstad, E. Gándara & Ram.-Guill. SPECIES
-=======
+# Psilocybe mescaleroensis Guzmán, Walstad, E. Gándara & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sclerotium scirpicolum Speg. SPECIES
-=======
+# Sclerotium scirpicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 13: 62 (1882)
 
 #### Original name
-Sclerotium scirpicolum Speg.
+Sclerotium scirpicola Speg.
 
 ### Remarks
 null

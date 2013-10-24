@@ -1,5 +1,4 @@
-Trachyoligotriletes planus Timofeev, 1958 ex Timofeev, 1960 SPECIES
-=======
+# Trachyoligotriletes planus Timofeev, 1958 ex Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

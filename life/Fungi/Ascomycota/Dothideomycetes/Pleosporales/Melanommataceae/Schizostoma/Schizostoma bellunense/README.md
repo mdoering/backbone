@@ -1,5 +1,4 @@
-Schizostoma bellunense Speg. SPECIES
-=======
+# Schizostoma bellunense Speg. SPECIES
 
 #### Status
 ACCEPTED

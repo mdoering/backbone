@@ -1,5 +1,4 @@
-Catillaria epigena (Nyl.) H. Olivier SPECIES
-=======
+# Catillaria epigena (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

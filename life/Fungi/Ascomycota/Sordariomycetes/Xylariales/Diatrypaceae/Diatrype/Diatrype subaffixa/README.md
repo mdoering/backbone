@@ -1,5 +1,4 @@
-Diatrype subaffixa (Schwein.) Cooke SPECIES
-=======
+# Diatrype subaffixa (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

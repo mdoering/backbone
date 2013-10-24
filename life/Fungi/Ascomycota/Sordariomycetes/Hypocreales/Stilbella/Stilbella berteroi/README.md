@@ -1,5 +1,4 @@
-Stilbella berteroi (Lév.) J.A. Stev. SPECIES
-=======
+# Stilbella berteroi (Lév.) J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

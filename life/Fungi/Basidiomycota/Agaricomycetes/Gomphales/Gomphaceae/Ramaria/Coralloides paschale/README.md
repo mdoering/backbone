@@ -1,5 +1,4 @@
-Coralloides paschale Hoffm. SPECIES
-=======
+# Coralloides paschale Hoffm. SPECIES
 
 #### Status
 ACCEPTED

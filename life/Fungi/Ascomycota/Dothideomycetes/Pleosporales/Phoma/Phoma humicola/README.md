@@ -1,5 +1,4 @@
-Phoma humicola J.C. Gilman & E.V. Abbott, 1927 SPECIES
-=======
+# Phoma humicola J.C. Gilman & E.V. Abbott, 1927 SPECIES
 
 #### Status
 ACCEPTED

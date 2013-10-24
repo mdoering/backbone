@@ -1,5 +1,4 @@
-Anthostomella sepelibilis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Anthostomella sepelibilis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

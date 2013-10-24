@@ -1,5 +1,4 @@
-Candida ergatensis Santa María, 1971 SPECIES
-=======
+# Candida ergatensis Santa María, 1971 SPECIES
 
 #### Status
 ACCEPTED

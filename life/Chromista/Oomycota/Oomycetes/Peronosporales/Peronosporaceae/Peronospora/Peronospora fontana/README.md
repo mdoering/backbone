@@ -1,5 +1,4 @@
-Peronospora fontana A. Gustavsson SPECIES
-=======
+# Peronospora fontana A. Gustavsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalobelemnospora Matsush. GENUS
-=======
+# Hyalobelemnospora Matsush. GENUS
 
 #### Status
 ACCEPTED

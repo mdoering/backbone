@@ -1,5 +1,4 @@
-Gerdiocysta M. Liengjarern, L. Costa & C. Downie, 1980 GENUS
-=======
+# Gerdiocysta M. Liengjarern, L. Costa & C. Downie, 1980 GENUS
 
 #### Status
 ACCEPTED

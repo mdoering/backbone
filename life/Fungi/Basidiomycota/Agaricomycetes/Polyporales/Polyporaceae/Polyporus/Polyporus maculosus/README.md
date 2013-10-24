@@ -1,5 +1,4 @@
-Polyporus maculosus Murrill SPECIES
-=======
+# Polyporus maculosus Murrill SPECIES
 
 #### Status
 ACCEPTED

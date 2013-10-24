@@ -1,5 +1,4 @@
-Rhachomyces tenenbaumi J. Siemaszko & Siemaszko SPECIES
-=======
+# Rhachomyces tenenbaumi J. Siemaszko & Siemaszko SPECIES
 
 #### Status
 ACCEPTED

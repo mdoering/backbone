@@ -1,5 +1,4 @@
-Arnium ovale Cain & J.H. Mirza SPECIES
-=======
+# Arnium ovale Cain & J.H. Mirza SPECIES
 
 #### Status
 ACCEPTED

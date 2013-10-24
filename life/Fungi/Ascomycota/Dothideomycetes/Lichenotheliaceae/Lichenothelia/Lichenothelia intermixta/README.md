@@ -1,5 +1,4 @@
-Lichenothelia intermixta Henssen SPECIES
-=======
+# Lichenothelia intermixta Henssen SPECIES
 
 #### Status
 ACCEPTED

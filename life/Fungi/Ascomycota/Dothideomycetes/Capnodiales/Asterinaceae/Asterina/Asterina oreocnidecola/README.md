@@ -1,5 +1,4 @@
-Asterina oreocnidecola Hosag., N.P. Balakr. & Goos SPECIES
-=======
+# Asterina oreocnidecola Hosag., N.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

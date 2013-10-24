@@ -1,5 +1,4 @@
-Coccolithus gelidus K. R. Geitzenauer SPECIES
-=======
+# Coccolithus gelidus K. R. Geitzenauer SPECIES
 
 #### Status
 ACCEPTED

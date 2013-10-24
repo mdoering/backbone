@@ -1,5 +1,4 @@
-Ophryoglena ovata Stokes, 1885 SPECIES
-=======
+# Ophryoglena ovata Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

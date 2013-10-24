@@ -1,5 +1,4 @@
-Diphratora cesatii (A. Massal.) Jatta SPECIES
-=======
+# Diphratora cesatii (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

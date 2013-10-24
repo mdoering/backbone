@@ -1,5 +1,4 @@
-Neohendersonia Petr. GENUS
-=======
+# Neohendersonia Petr. GENUS
 
 #### Status
 ACCEPTED

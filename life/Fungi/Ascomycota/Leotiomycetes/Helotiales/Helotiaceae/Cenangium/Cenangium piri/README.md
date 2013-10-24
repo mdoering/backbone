@@ -1,5 +1,4 @@
-Cenangium piri Ludw. {?} SPECIES
-=======
+# Cenangium piri Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

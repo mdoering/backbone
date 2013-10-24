@@ -1,5 +1,4 @@
-Entoloma cystopodum Berk. SPECIES
-=======
+# Entoloma cystopodum Berk. SPECIES
 
 #### Status
 ACCEPTED

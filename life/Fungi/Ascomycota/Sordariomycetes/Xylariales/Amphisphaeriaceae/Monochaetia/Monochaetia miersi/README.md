@@ -1,5 +1,4 @@
-Monochaetia miersi Speg. SPECIES
-=======
+# Monochaetia miersi Speg. SPECIES
 
 #### Status
 ACCEPTED

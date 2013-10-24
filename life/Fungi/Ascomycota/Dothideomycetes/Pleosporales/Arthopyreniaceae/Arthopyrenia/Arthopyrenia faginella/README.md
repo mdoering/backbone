@@ -1,5 +1,4 @@
-Arthopyrenia faginella (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia faginella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

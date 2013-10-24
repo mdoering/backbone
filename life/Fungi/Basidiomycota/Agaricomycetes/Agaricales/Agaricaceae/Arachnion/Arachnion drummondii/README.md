@@ -1,5 +1,4 @@
-Arachnion drummondii Berk. SPECIES
-=======
+# Arachnion drummondii Berk. SPECIES
 
 #### Status
 ACCEPTED

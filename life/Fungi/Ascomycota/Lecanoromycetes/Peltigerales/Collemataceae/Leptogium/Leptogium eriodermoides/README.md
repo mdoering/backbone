@@ -1,5 +1,4 @@
-Leptogium eriodermoides Arv. & P. M. Jørg. SPECIES
-=======
+# Leptogium eriodermoides Arv. & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

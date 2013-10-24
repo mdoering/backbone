@@ -1,5 +1,4 @@
-Poria nigropurpurea (Schwein.) Sacc. SPECIES
-=======
+# Poria nigropurpurea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

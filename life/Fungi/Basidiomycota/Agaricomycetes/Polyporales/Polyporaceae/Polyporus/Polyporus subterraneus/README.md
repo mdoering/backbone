@@ -1,5 +1,4 @@
-Polyporus subterraneus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polyporus subterraneus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

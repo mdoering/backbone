@@ -1,5 +1,4 @@
-Graphina subelmeri A.W. Archer SPECIES
-=======
+# Graphina subelmeri A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

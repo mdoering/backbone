@@ -1,5 +1,4 @@
-Aecidium bupleuri-sachalinensis I. Miyake SPECIES
-=======
+# Aecidium bupleuri-sachalinensis I. Miyake SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo piperis Henn. SPECIES
-=======
+# Uredo piperis Henn. SPECIES
 
 #### Status
 ACCEPTED

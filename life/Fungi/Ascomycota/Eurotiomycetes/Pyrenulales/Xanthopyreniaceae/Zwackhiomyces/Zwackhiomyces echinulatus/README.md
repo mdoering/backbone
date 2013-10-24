@@ -1,5 +1,4 @@
-Zwackhiomyces echinulatus Brackel SPECIES
-=======
+# Zwackhiomyces echinulatus Brackel SPECIES
 
 #### Status
 ACCEPTED

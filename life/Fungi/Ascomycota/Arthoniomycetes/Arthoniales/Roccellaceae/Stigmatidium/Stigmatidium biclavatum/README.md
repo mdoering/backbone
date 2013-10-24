@@ -1,5 +1,4 @@
-Stigmatidium biclavatum (Müll. Arg.) Stizenb. SPECIES
-=======
+# Stigmatidium biclavatum (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fissurina fasciata SPECIES
-=======
+# Fissurina fasciata SPECIES
 
 #### Status
 ACCEPTED

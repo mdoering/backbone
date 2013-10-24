@@ -1,5 +1,4 @@
-Deightoniella rugosa F.R. Barbosa, Gusmão & R.F. Castañeda SPECIES
-=======
+# Deightoniella rugosa F.R. Barbosa, Gusmão & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tholomyces Matsush. GENUS
-=======
+# Tholomyces Matsush. GENUS
 
 #### Status
 ACCEPTED

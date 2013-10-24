@@ -1,5 +1,4 @@
-Oxydothis hongkongensis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis hongkongensis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina ramulorum Ellis & Everh. SPECIES
-=======
+# Diplodina ramulorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

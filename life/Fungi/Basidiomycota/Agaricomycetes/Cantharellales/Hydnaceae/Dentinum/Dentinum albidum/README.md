@@ -1,5 +1,4 @@
-Dentinum albidum (Peck) Snell SPECIES
-=======
+# Dentinum albidum (Peck) Snell SPECIES
 
 #### Status
 ACCEPTED

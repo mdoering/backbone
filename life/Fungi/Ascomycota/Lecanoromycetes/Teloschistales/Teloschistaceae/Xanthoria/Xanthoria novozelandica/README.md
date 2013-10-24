@@ -1,5 +1,4 @@
-Xanthoria novozelandica Hillmann SPECIES
-=======
+# Xanthoria novozelandica Hillmann SPECIES
 
 #### Status
 ACCEPTED

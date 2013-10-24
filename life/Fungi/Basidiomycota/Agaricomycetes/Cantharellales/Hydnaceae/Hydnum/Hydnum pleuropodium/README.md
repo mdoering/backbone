@@ -1,5 +1,4 @@
-Hydnum pleuropodium Lloyd SPECIES
-=======
+# Hydnum pleuropodium Lloyd SPECIES
 
 #### Status
 ACCEPTED

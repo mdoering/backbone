@@ -1,5 +1,4 @@
-Hygrocybe diversicolor (Petch) Pegler SPECIES
-=======
+# Hygrocybe diversicolor (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

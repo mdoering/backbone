@@ -1,5 +1,4 @@
-Septoria cerealis Pass. SPECIES
-=======
+# Septoria cerealis Pass. SPECIES
 
 #### Status
 ACCEPTED

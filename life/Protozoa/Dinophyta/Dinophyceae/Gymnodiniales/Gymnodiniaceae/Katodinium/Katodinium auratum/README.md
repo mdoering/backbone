@@ -1,5 +1,4 @@
-Katodinium auratum Bursa, 1970 SPECIES
-=======
+# Katodinium auratum Bursa, 1970 SPECIES
 
 #### Status
 ACCEPTED

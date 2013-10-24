@@ -1,5 +1,4 @@
-Sphacelotheca algeriensis (Pat.) Cif. SPECIES
-=======
+# Sphacelotheca algeriensis (Pat.) Cif. SPECIES
 
 #### Status
 ACCEPTED

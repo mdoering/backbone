@@ -1,5 +1,4 @@
-Spicaria nivea Harz SPECIES
-=======
+# Spicaria nivea Harz SPECIES
 
 #### Status
 ACCEPTED

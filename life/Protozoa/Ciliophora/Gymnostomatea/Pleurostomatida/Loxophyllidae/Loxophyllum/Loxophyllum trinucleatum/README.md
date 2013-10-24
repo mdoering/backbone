@@ -1,5 +1,4 @@
-Loxophyllum trinucleatum Mansfeld, 1923 SPECIES
-=======
+# Loxophyllum trinucleatum Mansfeld, 1923 SPECIES
 
 #### Status
 ACCEPTED

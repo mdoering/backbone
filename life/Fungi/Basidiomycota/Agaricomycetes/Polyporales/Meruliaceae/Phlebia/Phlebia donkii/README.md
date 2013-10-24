@@ -1,5 +1,4 @@
-Phlebia donkii Bourdot, 1930 SPECIES
-=======
+# Phlebia donkii Bourdot, 1930 SPECIES
 
 #### Status
 ACCEPTED

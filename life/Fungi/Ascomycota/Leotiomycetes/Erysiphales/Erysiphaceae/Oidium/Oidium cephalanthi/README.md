@@ -1,5 +1,4 @@
-Oidium cephalanthi Sawada SPECIES
-=======
+# Oidium cephalanthi Sawada SPECIES
 
 #### Status
 ACCEPTED

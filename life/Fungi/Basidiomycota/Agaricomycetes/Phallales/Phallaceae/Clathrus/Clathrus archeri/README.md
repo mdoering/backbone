@@ -1,14 +1,13 @@
-Lysurus archeri Berk., 1859 SPECIES
-=======
+# Clathrus archeri (Berk.) Dring, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Flora Tasman. , Fungi 2: 264 (1859)
+Kew Bull. 35(1): 29 (1980)
 
 #### Original name
 Lysurus archeri Berk., 1859

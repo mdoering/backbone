@@ -1,5 +1,4 @@
-Spirorutilus Hofker, 1976 GENUS
-=======
+# Spirorutilus Hofker, 1976 GENUS
 
 #### Status
 ACCEPTED

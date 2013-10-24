@@ -1,5 +1,4 @@
-Opegrapha fusca Opiz SPECIES
-=======
+# Opegrapha fusca Opiz SPECIES
 
 #### Status
 ACCEPTED

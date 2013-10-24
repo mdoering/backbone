@@ -1,5 +1,4 @@
-Inocybe nigrescentipes Reumaux SPECIES
-=======
+# Inocybe nigrescentipes Reumaux SPECIES
 
 #### Status
 ACCEPTED

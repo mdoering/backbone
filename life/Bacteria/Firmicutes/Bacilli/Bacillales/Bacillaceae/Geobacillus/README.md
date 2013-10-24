@@ -1,5 +1,4 @@
-Geobacillus Nazina, Tourova, Poltaraus, Novikova, Grigoryan, Ivanova, Lysenko, Petrunyaka, Osipov, Belyaev & Ivanov, 2001 GENUS
-=======
+# Geobacillus Nazina, Tourova, Poltaraus, Novikova, Grigoryan, Ivanova, Lysenko, Petrunyaka, Osipov, Belyaev & Ivanov, 2001 GENUS
 
 #### Status
 ACCEPTED

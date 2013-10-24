@@ -1,5 +1,4 @@
-Marasmiellus epochnous (Berk. & Broome) Singer SPECIES
-=======
+# Marasmiellus epochnous (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis coronata Tiegh. SPECIES
-=======
+# Sterigmatocystis coronata Tiegh. SPECIES
 
 #### Status
 ACCEPTED

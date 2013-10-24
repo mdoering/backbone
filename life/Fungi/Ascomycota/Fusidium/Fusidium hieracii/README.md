@@ -1,5 +1,4 @@
-Fusidium hieracii Thüm. SPECIES
-=======
+# Fusidium hieracii Thüm. SPECIES
 
 #### Status
 ACCEPTED

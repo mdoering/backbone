@@ -1,5 +1,4 @@
-Vermilacinia rosei Spjut SPECIES
-=======
+# Vermilacinia rosei Spjut SPECIES
 
 #### Status
 ACCEPTED

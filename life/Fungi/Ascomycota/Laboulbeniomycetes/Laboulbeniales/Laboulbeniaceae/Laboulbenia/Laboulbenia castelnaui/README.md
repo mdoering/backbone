@@ -1,5 +1,4 @@
-Laboulbenia castelnaui Speg. SPECIES
-=======
+# Laboulbenia castelnaui Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hemiarcyria lejocarpa Rostaf. SPECIES
-=======
+# Hemitrichia leiocarpa (Cooke) Lister, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Mycetozoa (London) 544 (1894)
 
 #### Original name
-Hemiarcyria lejocarpa Rostaf.
+Hemiarcyria leiocarpa Cooke, 1877
 
 ### Remarks
 null

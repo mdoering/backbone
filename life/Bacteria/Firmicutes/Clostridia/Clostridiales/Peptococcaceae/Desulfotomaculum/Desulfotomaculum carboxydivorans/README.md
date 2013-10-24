@@ -1,5 +1,4 @@
-Desulfotomaculum carboxydivorans Parshina et al., 2005 SPECIES
-=======
+# Desulfotomaculum carboxydivorans Parshina et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

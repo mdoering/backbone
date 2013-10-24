@@ -1,5 +1,4 @@
-Synedra lanceolata f. curvata Pantocsek FORM
-=======
+# Synedra lanceolata Kützing SPECIES
 
 #### Status
 ACCEPTED

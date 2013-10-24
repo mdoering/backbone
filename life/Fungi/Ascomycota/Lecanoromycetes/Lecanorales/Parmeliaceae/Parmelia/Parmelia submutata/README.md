@@ -1,5 +1,4 @@
-Parmelia submutata Hue SPECIES
-=======
+# Parmelia submutata Hue SPECIES
 
 #### Status
 ACCEPTED

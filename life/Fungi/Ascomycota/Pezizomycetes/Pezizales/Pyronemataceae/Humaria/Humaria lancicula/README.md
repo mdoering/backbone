@@ -1,5 +1,4 @@
-Humaria lancicula (Rebent.) Sacc. SPECIES
-=======
+# Humaria lancicula (Rebent.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

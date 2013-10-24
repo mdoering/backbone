@@ -1,11 +1,10 @@
-Trachelius apicaulatus Perty, 1852 SPECIES
-=======
+# Trachelophyllum apiculatum (Perty, 1852) Claparède & Lachmann, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

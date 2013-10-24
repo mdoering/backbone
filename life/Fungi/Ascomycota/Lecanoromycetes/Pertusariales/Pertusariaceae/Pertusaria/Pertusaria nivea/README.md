@@ -1,5 +1,4 @@
-Pertusaria nivea G. Merr. SPECIES
-=======
+# Pertusaria nivea G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annellodentimyces Matsush. GENUS
-=======
+# Annellodentimyces Matsush. GENUS
 
 #### Status
 ACCEPTED

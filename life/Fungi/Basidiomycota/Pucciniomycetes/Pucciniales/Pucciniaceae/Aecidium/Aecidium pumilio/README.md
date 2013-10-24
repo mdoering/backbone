@@ -1,5 +1,4 @@
-Aecidium pumilio Kunze SPECIES
-=======
+# Aecidium pumilio Kunze SPECIES
 
 #### Status
 ACCEPTED

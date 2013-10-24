@@ -1,14 +1,13 @@
-Pleuroceras lirellaeformis (Pass.) M.E. Barr SPECIES
-=======
+# Pleuroceras lirelliformis (Pass.) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Mem. 7: 120 (1978)
 
 #### Original name
 Gnomonia lirelliformis Pass.

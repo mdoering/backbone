@@ -1,8 +1,7 @@
-Dilophus decumbens R.W.Ricker SPECIES
-=======
+# Dictyota decumbens (R.W.Ricker), comb. ined. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

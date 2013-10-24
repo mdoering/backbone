@@ -1,5 +1,4 @@
-Phoma zopfii Allesch., 1894 SPECIES
-=======
+# Phoma zopfii Allesch., 1894 SPECIES
 
 #### Status
 ACCEPTED

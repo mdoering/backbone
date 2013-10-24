@@ -1,5 +1,4 @@
-Leucogomphidius subroseus (Kauffman) Kotl. & Pouzar SPECIES
-=======
+# Leucogomphidius subroseus (Kauffman) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

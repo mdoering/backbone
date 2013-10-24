@@ -1,5 +1,4 @@
-Cyclographa interposita Vain. SPECIES
-=======
+# Cyclographa interposita Vain. SPECIES
 
 #### Status
 ACCEPTED

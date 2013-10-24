@@ -1,5 +1,4 @@
-Arthopyrenia neesii Körb. SPECIES
-=======
+# Arthopyrenia neesii Körb. SPECIES
 
 #### Status
 ACCEPTED

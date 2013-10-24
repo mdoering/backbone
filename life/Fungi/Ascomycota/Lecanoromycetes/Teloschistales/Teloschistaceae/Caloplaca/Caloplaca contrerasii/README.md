@@ -1,5 +1,4 @@
-Caloplaca contrerasii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca contrerasii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

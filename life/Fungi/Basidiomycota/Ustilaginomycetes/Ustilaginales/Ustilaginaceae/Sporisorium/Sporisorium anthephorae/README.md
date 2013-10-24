@@ -1,5 +1,4 @@
-Sporisorium anthephorae (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium anthephorae (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

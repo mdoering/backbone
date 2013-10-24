@@ -1,5 +1,4 @@
-Tremella caulicola Kobayasi SPECIES
-=======
+# Tremella caulicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

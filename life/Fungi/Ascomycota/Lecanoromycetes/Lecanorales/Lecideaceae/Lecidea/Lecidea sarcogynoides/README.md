@@ -1,17 +1,16 @@
-Lecidea sarcogynoides var. sarcogynoides VARIETY
-=======
+# Lecidea sarcogynoides Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. lich. germ. (Breslau) 252 (1855)
 
 #### Original name
-Lecidea sarcogynoides var. sarcogynoides
+Lecidea sarcogynoides Körb.
 
 ### Remarks
 null

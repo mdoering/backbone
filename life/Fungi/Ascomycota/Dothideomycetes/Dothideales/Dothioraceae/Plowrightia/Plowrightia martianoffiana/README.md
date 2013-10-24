@@ -1,5 +1,4 @@
-Plowrightia martianoffiana (Niessl & Thüm.) Sacc. SPECIES
-=======
+# Plowrightia martianoffiana (Niessl & Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

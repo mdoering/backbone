@@ -1,5 +1,4 @@
-Scoliolegnia centrica Khulbe, 1983 SPECIES
-=======
+# Scoliolegnia centrica Khulbe, 1983 SPECIES
 
 #### Status
 ACCEPTED

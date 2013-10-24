@@ -1,5 +1,4 @@
-Boletus pseudoloosii De Kesel, Codjia & Yourou SPECIES
-=======
+# Boletus pseudoloosii De Kesel, Codjia & Yourou SPECIES
 
 #### Status
 ACCEPTED

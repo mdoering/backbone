@@ -1,5 +1,4 @@
-Verrucaria cinchonae Fée SPECIES
-=======
+# Verrucaria cinchonae Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena biornata var. biornata VARIETY
-=======
+# Mycena biornata Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 7: 38 (1973)
 
 #### Original name
-Mycena biornata var. biornata
+Mycena biornata Singer
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Cortinarius nigrobtusus Moënne-Locc. SPECIES
-=======
+# Cortinarius nigro-obtusus Moënne-Locc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Carteret, Eyssartier, Moënne-Loccoz & Reumaux, Atlas des Cortinaires (Meyzieu) 14: 907 (2004)
 
 #### Original name
-Cortinarius nigrobtusus Moënne-Locc.
+Cortinarius nigro-obtusus Moënne-Locc.
 
 ### Remarks
 null

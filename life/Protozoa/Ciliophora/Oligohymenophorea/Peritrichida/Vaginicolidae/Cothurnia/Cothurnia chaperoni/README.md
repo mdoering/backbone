@@ -1,5 +1,4 @@
-Cothurnia chaperoni SPECIES
-=======
+# Cothurnia chaperoni SPECIES
 
 #### Status
 ACCEPTED

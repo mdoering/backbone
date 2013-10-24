@@ -1,5 +1,4 @@
-Xylaria bambooensis Lloyd SPECIES
-=======
+# Xylaria bambooensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

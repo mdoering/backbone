@@ -1,5 +1,4 @@
-Pharcidia glebarum (Arnaud) Sacc. & D. Sacc. SPECIES
-=======
+# Pharcidia glebarum (Arnaud) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

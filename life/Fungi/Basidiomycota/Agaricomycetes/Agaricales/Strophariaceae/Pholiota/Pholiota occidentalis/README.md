@@ -1,5 +1,4 @@
-Pholiota occidentalis var. occidentalis VARIETY
-=======
+# Pholiota occidentalis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 The North American species of Pholiota 271 (1968)
 
 #### Original name
-Pholiota occidentalis var. occidentalis
+Pholiota occidentalis A.H. Sm. & Hesler
 
 ### Remarks
 null

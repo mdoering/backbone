@@ -1,5 +1,4 @@
-Goidanichia GENUS
-=======
+# Goidanichia GENUS
 
 #### Status
 ACCEPTED

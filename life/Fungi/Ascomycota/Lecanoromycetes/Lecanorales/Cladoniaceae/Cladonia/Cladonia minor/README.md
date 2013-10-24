@@ -1,5 +1,4 @@
-Cladonia minor var. minor VARIETY
-=======
+# Cladonia minor (K.G. Hagen) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia minor var. minor
+null
 
 ### Remarks
 null

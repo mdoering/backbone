@@ -1,14 +1,13 @@
-Caeomurus diploglottidis (Cooke & Massee) Kuntze, 1898 SPECIES
-=======
+# Skierka diploglottidis (Cooke & Massee) Mains, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Mycologia 31: 184 (1939)
 
 #### Original name
 Uromyces diploglottidis Cooke & Massee, 1889

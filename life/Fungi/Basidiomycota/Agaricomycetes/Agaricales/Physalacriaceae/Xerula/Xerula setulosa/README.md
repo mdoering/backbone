@@ -1,17 +1,16 @@
-Oudemansiella pilosa (Singer) Singer, 1962 SPECIES
-=======
+# Xerula setulosa (Murrill) R.H. Petersen & T.J. Baroni, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 59 (1962)
+Mycotaxon 101: 114 (2007)
 
 #### Original name
-Xerula pilosa Singer, 1953
+Gymnopus setulosus Murrill, 1916
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhachomyces orotrechorum W. Rossi & Cesari SPECIES
-=======
+# Rhachomyces orotrechorum W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

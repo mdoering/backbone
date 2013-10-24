@@ -1,5 +1,4 @@
-Pleuropus micropus (Peck) Murrill SPECIES
-=======
+# Pleuropus micropus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

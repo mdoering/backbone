@@ -1,5 +1,4 @@
-Hexalithus gardetiae SPECIES
-=======
+# Hexalithus gardetiae SPECIES
 
 #### Status
 ACCEPTED

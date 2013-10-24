@@ -1,14 +1,13 @@
-Myriotrema mammilare (Hale) Hale SPECIES
-=======
+# Myriotrema mammillare (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 11(1): 134 (1980)
 
 #### Original name
 Phaeotrema mammillare Hale

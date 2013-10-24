@@ -1,14 +1,13 @@
-Hymenoscyphus tuberosus (Bull.) W. Phillips, 1887 SPECIES
-=======
+# Dumontinia tuberosa (Bull.) L.M. Kohn, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 113 (1887)
+Mycotaxon 9(2): 432 (1979)
 
 #### Original name
 null

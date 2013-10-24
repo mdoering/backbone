@@ -1,5 +1,4 @@
-Cercospora marmorata Tranzschel SPECIES
-=======
+# Cercospora marmorata Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subalpicola Nyl. SPECIES
-=======
+# Lecidea subalpicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

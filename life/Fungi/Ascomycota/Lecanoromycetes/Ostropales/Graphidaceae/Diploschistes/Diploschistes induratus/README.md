@@ -1,5 +1,4 @@
-Diploschistes induratus (Vain.) Zahlbr. SPECIES
-=======
+# Diploschistes induratus (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

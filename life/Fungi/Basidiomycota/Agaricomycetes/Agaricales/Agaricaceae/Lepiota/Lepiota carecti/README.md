@@ -1,5 +1,4 @@
-Lepiota carecti (Britzelm.) Sacc. SPECIES
-=======
+# Lepiota carecti (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

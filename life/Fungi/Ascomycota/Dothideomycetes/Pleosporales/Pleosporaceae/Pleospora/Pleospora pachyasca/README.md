@@ -1,5 +1,4 @@
-Pleospora pachyasca Auersw. SPECIES
-=======
+# Pleospora pachyasca Auersw. SPECIES
 
 #### Status
 ACCEPTED

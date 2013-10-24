@@ -1,5 +1,4 @@
-Malbranchea circinata Sigler & J.W. Carmich., 1976 SPECIES
-=======
+# Malbranchea circinata Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
 ACCEPTED

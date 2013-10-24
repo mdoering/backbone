@@ -1,5 +1,4 @@
-Arthonia subpolymorpha Nyl. SPECIES
-=======
+# Arthonia subpolymorpha Nyl. SPECIES
 
 #### Status
 ACCEPTED

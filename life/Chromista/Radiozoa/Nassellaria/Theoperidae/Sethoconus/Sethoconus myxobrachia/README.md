@@ -1,5 +1,4 @@
-Sethoconus myxobrachia Strelkov, 1959 SPECIES
-=======
+# Sethoconus myxobrachia Strelkov, 1959 SPECIES
 
 #### Status
 ACCEPTED

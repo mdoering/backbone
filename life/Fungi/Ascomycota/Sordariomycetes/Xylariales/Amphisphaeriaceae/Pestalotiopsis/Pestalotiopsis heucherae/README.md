@@ -1,5 +1,4 @@
-Pestalotiopsis heucherae (Tehon & E.Y. Daniels) Ts. Kobay. & E.D. Guzmán SPECIES
-=======
+# Pestalotiopsis heucherae (Tehon & E.Y. Daniels) Ts. Kobay. & E.D. Guzmán SPECIES
 
 #### Status
 ACCEPTED

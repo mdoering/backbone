@@ -1,5 +1,4 @@
-Chryseobacterium vrystaatense de Beer et al., 2005 SPECIES
-=======
+# Chryseobacterium vrystaatense de Beer et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

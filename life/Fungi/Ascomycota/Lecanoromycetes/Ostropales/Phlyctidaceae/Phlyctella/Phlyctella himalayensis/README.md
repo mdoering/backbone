@@ -1,5 +1,4 @@
-Phlyctella himalayensis Nyl. SPECIES
-=======
+# Phlyctella himalayensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

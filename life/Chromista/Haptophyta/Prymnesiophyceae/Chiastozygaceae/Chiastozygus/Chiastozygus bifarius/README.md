@@ -1,5 +1,4 @@
-Chiastozygus bifarius Bukry, 1969 SPECIES
-=======
+# Chiastozygus bifarius Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

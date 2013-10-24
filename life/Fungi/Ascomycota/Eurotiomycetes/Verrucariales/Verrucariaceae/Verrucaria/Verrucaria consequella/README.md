@@ -1,5 +1,4 @@
-Verrucaria consequella Nyl. SPECIES
-=======
+# Verrucaria consequella Nyl. SPECIES
 
 #### Status
 ACCEPTED

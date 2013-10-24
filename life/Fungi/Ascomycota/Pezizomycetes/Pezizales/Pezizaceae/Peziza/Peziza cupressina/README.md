@@ -1,5 +1,4 @@
-Peziza cupressina Fr. SPECIES
-=======
+# Peziza cupressina Fr. SPECIES
 
 #### Status
 ACCEPTED

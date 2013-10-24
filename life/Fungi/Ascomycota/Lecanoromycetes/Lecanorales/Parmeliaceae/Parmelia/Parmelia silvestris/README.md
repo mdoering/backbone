@@ -1,5 +1,4 @@
-Parmelia silvestris Degel. SPECIES
-=======
+# Parmelia silvestris Degel. SPECIES
 
 #### Status
 ACCEPTED

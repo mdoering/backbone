@@ -1,5 +1,4 @@
-Boletus dissiliens Corner SPECIES
-=======
+# Boletus dissiliens Corner SPECIES
 
 #### Status
 ACCEPTED

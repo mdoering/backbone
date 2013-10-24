@@ -1,5 +1,4 @@
-Diplocalyx calotermitidis (ex Gharagozlou, 1968) Bermudes et al., 1988 SPECIES
-=======
+# Diplocalyx calotermitidis (ex Gharagozlou, 1968) Bermudes et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

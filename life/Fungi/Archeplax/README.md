@@ -1,5 +1,4 @@
-Archeplax Locq. GENUS
-=======
+# Archeplax Locq. GENUS
 
 #### Status
 ACCEPTED

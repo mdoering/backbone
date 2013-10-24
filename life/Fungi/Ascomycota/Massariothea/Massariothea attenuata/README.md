@@ -1,5 +1,4 @@
-Massariothea attenuata B. Sutton & Alcorn, 1985 SPECIES
-=======
+# Massariothea attenuata B. Sutton & Alcorn, 1985 SPECIES
 
 #### Status
 ACCEPTED

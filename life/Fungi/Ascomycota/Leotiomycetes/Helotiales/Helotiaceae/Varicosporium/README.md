@@ -1,5 +1,4 @@
-Varicosporium W. Kegel, 1906 GENUS
-=======
+# Varicosporium W. Kegel, 1906 GENUS
 
 #### Status
 ACCEPTED

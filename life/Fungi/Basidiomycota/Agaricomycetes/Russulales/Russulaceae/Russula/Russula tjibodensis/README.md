@@ -1,5 +1,4 @@
-Russula tjibodensis (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Russula tjibodensis (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

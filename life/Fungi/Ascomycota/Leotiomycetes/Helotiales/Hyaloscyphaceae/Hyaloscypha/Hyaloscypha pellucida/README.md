@@ -1,5 +1,4 @@
-Hyaloscypha pellucida Velen., 1934 SPECIES
-=======
+# Hyaloscypha pellucida Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

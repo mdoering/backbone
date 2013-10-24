@@ -1,5 +1,4 @@
-Rhopaliophora palmata (Combaz & Peniguel, 1972) emend. Playford & Martin, 1984 SPECIES
-=======
+# Rhopaliophora palmata (Combaz & Peniguel, 1972) emend. Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius echinatus Thiers SPECIES
-=======
+# Lactarius echinatus Thiers SPECIES
 
 #### Status
 ACCEPTED

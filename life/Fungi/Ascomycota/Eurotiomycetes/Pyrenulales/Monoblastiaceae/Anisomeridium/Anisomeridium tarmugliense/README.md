@@ -1,5 +1,4 @@
-Anisomeridium tarmugliense (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Anisomeridium tarmugliense (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

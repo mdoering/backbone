@@ -1,5 +1,4 @@
-Tetrarchiplagia Dumitrica, 1982 GENUS
-=======
+# Tetrarchiplagia Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema nigrum Petch SPECIES
-=======
+# Sphaeronaema nigrum Petch SPECIES
 
 #### Status
 ACCEPTED

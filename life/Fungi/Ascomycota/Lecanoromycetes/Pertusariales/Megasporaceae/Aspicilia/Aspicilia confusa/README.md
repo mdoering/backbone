@@ -1,5 +1,4 @@
-Aspicilia confusa Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia confusa Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

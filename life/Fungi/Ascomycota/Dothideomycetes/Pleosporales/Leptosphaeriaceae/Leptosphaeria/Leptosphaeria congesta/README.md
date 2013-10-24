@@ -1,5 +1,4 @@
-Leptosphaeria congesta M.T. Lucas, 1963 SPECIES
-=======
+# Leptosphaeria congesta M.T. Lucas, 1963 SPECIES
 
 #### Status
 ACCEPTED

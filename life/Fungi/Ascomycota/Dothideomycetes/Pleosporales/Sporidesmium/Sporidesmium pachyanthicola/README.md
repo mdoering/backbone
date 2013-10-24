@@ -1,5 +1,4 @@
-Sporidesmium pachyanthicola R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Sporidesmium pachyanthicola R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

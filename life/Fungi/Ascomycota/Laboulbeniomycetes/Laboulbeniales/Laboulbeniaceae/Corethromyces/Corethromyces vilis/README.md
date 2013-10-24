@@ -1,5 +1,4 @@
-Corethromyces vilis Thaxt. SPECIES
-=======
+# Corethromyces vilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nassula picta Greeff, 1888 SPECIES
-=======
+# Nassulides pictus (Greeff, 1888) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

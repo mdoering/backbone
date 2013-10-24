@@ -1,5 +1,4 @@
-Coniella miniata B. Sutton & Thaung SPECIES
-=======
+# Coniella miniata B. Sutton & Thaung SPECIES
 
 #### Status
 ACCEPTED

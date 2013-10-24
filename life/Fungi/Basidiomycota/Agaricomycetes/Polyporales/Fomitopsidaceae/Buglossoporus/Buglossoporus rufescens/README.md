@@ -1,5 +1,4 @@
-Buglossoporus rufescens Corner, 1984 SPECIES
-=======
+# Buglossoporus rufescens Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

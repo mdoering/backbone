@@ -1,5 +1,4 @@
-Cephalotheca clarkii Dennis, 1974 SPECIES
-=======
+# Cephalotheca clarkii Dennis, 1974 SPECIES
 
 #### Status
 ACCEPTED

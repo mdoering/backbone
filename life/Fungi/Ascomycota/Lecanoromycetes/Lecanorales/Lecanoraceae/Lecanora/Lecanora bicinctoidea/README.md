@@ -1,5 +1,4 @@
-Lecanora bicinctoidea Blaha & Grube SPECIES
-=======
+# Lecanora bicinctoidea Blaha & Grube SPECIES
 
 #### Status
 ACCEPTED

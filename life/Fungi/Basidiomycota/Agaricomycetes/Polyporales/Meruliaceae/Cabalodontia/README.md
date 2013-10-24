@@ -1,5 +1,4 @@
-Cabalodontia Piatek GENUS
-=======
+# Cabalodontia Piatek GENUS
 
 #### Status
 ACCEPTED

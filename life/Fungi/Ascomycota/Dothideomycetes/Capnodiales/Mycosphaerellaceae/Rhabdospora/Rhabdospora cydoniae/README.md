@@ -1,5 +1,4 @@
-Rhabdospora cydoniae Pass. SPECIES
-=======
+# Rhabdospora cydoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchodiplodia ursusiformae Zambett. & Nicot, 1958 SPECIES
-=======
+# Rhynchodiplodia ursusiformae Zambett. & Nicot, 1958 SPECIES
 
 #### Status
 ACCEPTED

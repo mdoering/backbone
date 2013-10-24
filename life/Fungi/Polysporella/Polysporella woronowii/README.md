@@ -1,5 +1,4 @@
-Polysporella woronowii Woron. SPECIES
-=======
+# Polysporella woronowii Woron. SPECIES
 
 #### Status
 ACCEPTED

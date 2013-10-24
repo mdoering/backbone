@@ -1,5 +1,4 @@
-Physoderma majus (J. Schröt.) Karling SPECIES
-=======
+# Physoderma majus (J. Schröt.) Karling SPECIES
 
 #### Status
 ACCEPTED

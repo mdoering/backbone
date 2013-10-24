@@ -1,5 +1,4 @@
-Marasmius pseudosetosus C. Puccin. & Capelari SPECIES
-=======
+# Marasmius pseudosetosus C. Puccin. & Capelari SPECIES
 
 #### Status
 ACCEPTED

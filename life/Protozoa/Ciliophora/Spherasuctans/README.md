@@ -1,5 +1,4 @@
-Spherasuctans Puytorac, 1952 GENUS
-=======
+# Spherasuctans Puytorac, 1952 GENUS
 
 #### Status
 ACCEPTED

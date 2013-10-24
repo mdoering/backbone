@@ -1,5 +1,4 @@
-Pseudocubus obeliscus Haeckel, 1887 SPECIES
-=======
+# Pseudocubus obeliscus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

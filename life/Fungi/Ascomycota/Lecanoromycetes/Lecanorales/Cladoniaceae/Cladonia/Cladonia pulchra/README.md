@@ -1,5 +1,4 @@
-Cladonia pulchra S. Hammer SPECIES
-=======
+# Cladonia pulchra S. Hammer SPECIES
 
 #### Status
 ACCEPTED

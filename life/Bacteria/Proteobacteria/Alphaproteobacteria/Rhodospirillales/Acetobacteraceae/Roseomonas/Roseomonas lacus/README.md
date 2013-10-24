@@ -1,5 +1,4 @@
-Roseomonas lacus Jiang et al., 2006 SPECIES
-=======
+# Roseomonas lacus Jiang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

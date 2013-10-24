@@ -1,5 +1,4 @@
-Merulius armeniacus Bres. SPECIES
-=======
+# Merulius armeniacus Bres. SPECIES
 
 #### Status
 ACCEPTED

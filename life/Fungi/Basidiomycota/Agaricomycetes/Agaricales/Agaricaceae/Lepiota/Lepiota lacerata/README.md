@@ -1,5 +1,4 @@
-Lepiota lacerata Velen. SPECIES
-=======
+# Lepiota lacerata Velen. SPECIES
 
 #### Status
 ACCEPTED

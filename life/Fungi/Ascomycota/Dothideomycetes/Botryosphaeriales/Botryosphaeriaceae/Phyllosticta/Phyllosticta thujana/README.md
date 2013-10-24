@@ -1,5 +1,4 @@
-Phyllosticta thujana (Thüm.) Oudem. SPECIES
-=======
+# Phyllosticta thujana (Thüm.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

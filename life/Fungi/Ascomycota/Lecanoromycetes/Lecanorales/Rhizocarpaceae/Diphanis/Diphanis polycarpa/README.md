@@ -1,5 +1,4 @@
-Diphanis polycarpa (Hepp) Clem. SPECIES
-=======
+# Diphanis polycarpa (Hepp) Clem. SPECIES
 
 #### Status
 ACCEPTED

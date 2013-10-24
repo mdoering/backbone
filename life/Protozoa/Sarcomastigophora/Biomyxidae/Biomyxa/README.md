@@ -1,5 +1,4 @@
-Biomyxa Leidy GENUS
-=======
+# Biomyxa Leidy GENUS
 
 #### Status
 ACCEPTED

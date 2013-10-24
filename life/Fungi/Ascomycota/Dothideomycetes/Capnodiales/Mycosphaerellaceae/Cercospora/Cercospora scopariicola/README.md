@@ -1,5 +1,4 @@
-Cercospora scopariicola J.M. Yen SPECIES
-=======
+# Cercospora scopariicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

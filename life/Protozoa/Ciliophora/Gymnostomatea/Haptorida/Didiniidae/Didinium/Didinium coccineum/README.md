@@ -1,5 +1,4 @@
-Didinium coccineum SPECIES
-=======
+# Didinium coccineum SPECIES
 
 #### Status
 ACCEPTED

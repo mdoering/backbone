@@ -1,5 +1,4 @@
-Lecanora mesoxanthoides Vain. SPECIES
-=======
+# Lecanora mesoxanthoides Vain. SPECIES
 
 #### Status
 ACCEPTED

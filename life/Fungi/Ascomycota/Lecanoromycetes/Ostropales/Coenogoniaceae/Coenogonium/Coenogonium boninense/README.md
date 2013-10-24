@@ -1,5 +1,4 @@
-Coenogonium boninense M. Satô SPECIES
-=======
+# Coenogonium boninense M. Satô SPECIES
 
 #### Status
 ACCEPTED

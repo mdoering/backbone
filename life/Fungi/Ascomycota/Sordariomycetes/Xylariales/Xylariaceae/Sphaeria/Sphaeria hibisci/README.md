@@ -1,5 +1,4 @@
-Sphaeria hibisci Berk. SPECIES
-=======
+# Sphaeria hibisci Berk. SPECIES
 
 #### Status
 ACCEPTED

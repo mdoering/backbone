@@ -1,5 +1,4 @@
-Dialonectria daldiniana (Ces. & De Not.) Cooke SPECIES
-=======
+# Dialonectria daldiniana (Ces. & De Not.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rizalia glaziovii (Pat.) Piroz. SPECIES
-=======
+# Rizalia glaziovii (Pat.) Piroz. SPECIES
 
 #### Status
 ACCEPTED

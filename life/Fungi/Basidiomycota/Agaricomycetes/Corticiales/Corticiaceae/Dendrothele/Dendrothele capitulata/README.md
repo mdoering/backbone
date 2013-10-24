@@ -1,5 +1,4 @@
-Dendrothele capitulata Boidin & Lanq., 1996 SPECIES
-=======
+# Dendrothele capitulata Boidin & Lanq., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius atrostramineus Torrend SPECIES
-=======
+# Merulius atrostramineus Torrend SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samara atropunctata Arn. SPECIES
-=======
+# Samara atropunctata Arn. SPECIES
 
 #### Status
 ACCEPTED

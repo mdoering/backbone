@@ -1,5 +1,4 @@
-Russula solitaria McNabb, 1973 SPECIES
-=======
+# Russula solitaria McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

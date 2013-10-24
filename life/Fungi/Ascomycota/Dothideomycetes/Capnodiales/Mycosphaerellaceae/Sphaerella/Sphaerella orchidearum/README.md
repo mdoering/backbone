@@ -1,5 +1,4 @@
-Sphaerella orchidearum P. Karst. SPECIES
-=======
+# Sphaerella orchidearum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

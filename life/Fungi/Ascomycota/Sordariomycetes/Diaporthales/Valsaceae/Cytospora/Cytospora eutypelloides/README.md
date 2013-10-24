@@ -1,5 +1,4 @@
-Cytospora eutypelloides Sacc., 1910 SPECIES
-=======
+# Cytospora eutypelloides Sacc., 1910 SPECIES
 
 #### Status
 ACCEPTED

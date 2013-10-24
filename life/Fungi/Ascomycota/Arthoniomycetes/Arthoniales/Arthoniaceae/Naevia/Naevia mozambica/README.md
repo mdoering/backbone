@@ -1,5 +1,4 @@
-Naevia mozambica var. mozambica VARIETY
-=======
+# Naevia mozambica Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naevia mozambica var. mozambica
+Naevia mozambica Vain.
 
 ### Remarks
 null

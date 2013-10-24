@@ -1,5 +1,4 @@
-Pseudocercospora asiatica H.S.G. Rao, Arch. Singh & Kamal SPECIES
-=======
+# Pseudocercospora asiatica H.S.G. Rao, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

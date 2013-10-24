@@ -1,5 +1,4 @@
-Belonia vezdana Malcolm & Coppins SPECIES
-=======
+# Belonia vezdana Malcolm & Coppins SPECIES
 
 #### Status
 ACCEPTED

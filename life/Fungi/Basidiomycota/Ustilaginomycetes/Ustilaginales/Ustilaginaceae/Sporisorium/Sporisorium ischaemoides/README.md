@@ -1,5 +1,4 @@
-Sporisorium ischaemoides (Henn.) Vánky SPECIES
-=======
+# Sporisorium ischaemoides (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

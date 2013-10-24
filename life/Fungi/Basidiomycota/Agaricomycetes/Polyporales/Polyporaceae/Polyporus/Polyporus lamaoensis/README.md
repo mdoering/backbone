@@ -1,14 +1,13 @@
-Polyporus lamaensis (Murrill) Bres. SPECIES
-=======
+# Polyporus lamaoensis (Murrill) Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 18: 69 (1920)
 
 #### Original name
 Pyropolyporus lamaoensis Murrill

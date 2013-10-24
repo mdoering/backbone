@@ -1,5 +1,4 @@
-Rivularia haematites (De Candolle) Bornet & Flahault SPECIES
-=======
+# Rivularia haematites (De Candolle) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

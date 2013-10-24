@@ -1,5 +1,4 @@
-Ancalochloris GENUS
-=======
+# Ancalochloris GENUS
 
 #### Status
 ACCEPTED

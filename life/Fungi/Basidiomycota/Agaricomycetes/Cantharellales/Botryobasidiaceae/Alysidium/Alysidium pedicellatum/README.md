@@ -1,5 +1,4 @@
-Alysidium pedicellatum (Preuss) Kuntze SPECIES
-=======
+# Alysidium pedicellatum (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

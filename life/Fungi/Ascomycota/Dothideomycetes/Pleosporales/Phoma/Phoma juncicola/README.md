@@ -1,5 +1,4 @@
-Phoma juncicola Brunaud SPECIES
-=======
+# Phoma juncicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

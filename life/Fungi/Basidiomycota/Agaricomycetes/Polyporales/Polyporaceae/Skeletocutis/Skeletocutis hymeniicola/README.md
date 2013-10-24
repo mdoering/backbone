@@ -1,5 +1,4 @@
-Skeletocutis hymeniicola (Murrill) Niemelä SPECIES
-=======
+# Skeletocutis hymeniicola (Murrill) Niemelä SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gymnosporangium distortum Arthur & Cummins, 1933 SPECIES
-=======
+# Roestelia distorta (Arthur & Cummins) F. Kern, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 25: 400 (1933)
+Revised Taxonomic Account of Gymnosporangium (Univ. Park & London) 85 (1973)
 
 #### Original name
 Gymnosporangium distortum Arthur & Cummins, 1933

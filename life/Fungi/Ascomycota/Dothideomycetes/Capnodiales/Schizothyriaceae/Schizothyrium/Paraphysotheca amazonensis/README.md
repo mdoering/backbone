@@ -1,5 +1,4 @@
-Paraphysotheca amazonensis Bat. & J.A. Lima SPECIES
-=======
+# Paraphysotheca amazonensis Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

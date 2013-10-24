@@ -1,5 +1,4 @@
-Byssoloma farkasiae Sipman SPECIES
-=======
+# Byssoloma farkasiae Sipman SPECIES
 
 #### Status
 ACCEPTED

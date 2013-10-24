@@ -1,17 +1,16 @@
-Malmella C.W. Dodge GENUS
-=======
+# Erioderma Fée GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 20: 447 (1933)
+Essai Crypt. Exot. (Paris) 1: 145 (1825)
 
 #### Original name
-Malmella C.W. Dodge
+Erioderma Fée
 
 ### Remarks
 null

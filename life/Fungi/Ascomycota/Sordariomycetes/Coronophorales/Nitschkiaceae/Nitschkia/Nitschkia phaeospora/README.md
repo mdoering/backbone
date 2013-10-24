@@ -1,5 +1,4 @@
-Nitschkia phaeospora W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Nitschkia phaeospora W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

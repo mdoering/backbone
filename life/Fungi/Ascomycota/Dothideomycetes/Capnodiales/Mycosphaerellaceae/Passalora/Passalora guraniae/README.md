@@ -1,5 +1,4 @@
-Passalora guraniae R. Kirschner SPECIES
-=======
+# Passalora guraniae R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

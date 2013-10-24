@@ -1,5 +1,4 @@
-Cortinarius verrucisporus Thiers & A.H. Sm. SPECIES
-=======
+# Cortinarius verrucisporus Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

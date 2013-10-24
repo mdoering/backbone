@@ -1,5 +1,4 @@
-Craterellus caespitosus Peck SPECIES
-=======
+# Craterellus caespitosus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goidanichiella cylindrospora D.W. Li & G.H. Zhao, 2009 SPECIES
-=======
+# Goidanichiella cylindrospora D.W. Li & G.H. Zhao, 2009 SPECIES
 
 #### Status
 ACCEPTED

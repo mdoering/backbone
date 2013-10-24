@@ -1,5 +1,4 @@
-Sphaeronaema ovoideum Durieu & Mont. SPECIES
-=======
+# Sphaeronaema ovoideum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

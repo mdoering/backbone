@@ -1,17 +1,16 @@
-Agaricus pascuus costatus Fr., 1821 INFRASPECIFIC_NAME
-=======
+# Entoloma costatum (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 98 (1871)
 
 #### Original name
-null
+Agaricus pascuus Pers., 1800
 
 ### Remarks
 null

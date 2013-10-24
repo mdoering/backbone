@@ -1,5 +1,4 @@
-Lobarina awasthiana Räsänen SPECIES
-=======
+# Lobarina awasthiana Räsänen SPECIES
 
 #### Status
 ACCEPTED

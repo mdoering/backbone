@@ -1,5 +1,4 @@
-Kirschsteiniothelia smilacis Chi Y. Chen, C.L. Wang & J.W. Huang, 2006 SPECIES
-=======
+# Kirschsteiniothelia smilacis Chi Y. Chen, C.L. Wang & J.W. Huang, 2006 SPECIES
 
 #### Status
 ACCEPTED

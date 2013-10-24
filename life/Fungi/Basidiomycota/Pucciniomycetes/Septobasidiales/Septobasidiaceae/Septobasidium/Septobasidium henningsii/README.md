@@ -1,5 +1,4 @@
-Septobasidium henningsii Pat. SPECIES
-=======
+# Septobasidium henningsii Pat. SPECIES
 
 #### Status
 ACCEPTED

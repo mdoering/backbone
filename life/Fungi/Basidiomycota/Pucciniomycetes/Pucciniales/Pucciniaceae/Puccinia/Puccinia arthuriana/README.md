@@ -1,5 +1,4 @@
-Puccinia arthuriana H.S. Jacks. SPECIES
-=======
+# Puccinia arthuriana H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

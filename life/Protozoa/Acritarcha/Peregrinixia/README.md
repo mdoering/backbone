@@ -1,5 +1,4 @@
-Peregrinixia Habib & Knapp, 1982 GENUS
-=======
+# Peregrinixia Habib & Knapp, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon cleptophilum Alstrup & E.S. Hansen SPECIES
-=======
+# Rhizocarpon cleptophilum Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

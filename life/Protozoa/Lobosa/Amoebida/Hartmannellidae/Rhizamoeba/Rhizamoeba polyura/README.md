@@ -1,5 +1,4 @@
-Rhizamoeba polyura Page, 1972 SPECIES
-=======
+# Rhizamoeba polyura Page, 1972 SPECIES
 
 #### Status
 ACCEPTED

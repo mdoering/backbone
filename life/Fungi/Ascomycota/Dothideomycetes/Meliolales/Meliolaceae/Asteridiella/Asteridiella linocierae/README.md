@@ -1,5 +1,4 @@
-Asteridiella linocierae (Syd.) Hansf. SPECIES
-=======
+# Asteridiella linocierae (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosiphon giraudyi J. Agardh SPECIES
-=======
+# Cladosiphon giraudyi J. Agardh SPECIES
 
 #### Status
 ACCEPTED

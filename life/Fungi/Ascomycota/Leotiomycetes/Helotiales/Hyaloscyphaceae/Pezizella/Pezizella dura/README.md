@@ -1,5 +1,4 @@
-Pezizella dura Velen. SPECIES
-=======
+# Pezizella dura Velen. SPECIES
 
 #### Status
 ACCEPTED

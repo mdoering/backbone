@@ -1,5 +1,4 @@
-Polioma Arthur GENUS
-=======
+# Polioma Arthur GENUS
 
 #### Status
 ACCEPTED

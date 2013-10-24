@@ -1,5 +1,4 @@
-Diatrype puiggarii Speg. SPECIES
-=======
+# Diatrype puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

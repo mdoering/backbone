@@ -1,5 +1,4 @@
-Lecanora pachycheila Hue SPECIES
-=======
+# Lecanora pachycheila Hue SPECIES
 
 #### Status
 ACCEPTED

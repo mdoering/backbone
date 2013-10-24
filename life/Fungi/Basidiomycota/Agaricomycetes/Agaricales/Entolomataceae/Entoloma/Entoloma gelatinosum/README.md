@@ -1,5 +1,4 @@
-Entoloma gelatinosum E. Horak, 1973 SPECIES
-=======
+# Entoloma gelatinosum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

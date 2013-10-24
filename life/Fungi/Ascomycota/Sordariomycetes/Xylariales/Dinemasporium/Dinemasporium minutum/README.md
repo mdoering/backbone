@@ -1,5 +1,4 @@
-Dinemasporium minutum Bat., J.L. Bezerra & Peres SPECIES
-=======
+# Dinemasporium minutum Bat., J.L. Bezerra & Peres SPECIES
 
 #### Status
 ACCEPTED

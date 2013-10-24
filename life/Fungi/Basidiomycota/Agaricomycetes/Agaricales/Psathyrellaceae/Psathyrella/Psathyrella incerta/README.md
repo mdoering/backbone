@@ -1,17 +1,16 @@
-Hypholoma incertum var. sylvestris Kauffman VARIETY
-=======
+# Psathyrella incerta (Peck) A.H. Sm., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 86 (1972)
 
 #### Original name
-Hypholoma incertum var. sylvestris Kauffman
+Agaricus incertus Peck, 1898
 
 ### Remarks
 null

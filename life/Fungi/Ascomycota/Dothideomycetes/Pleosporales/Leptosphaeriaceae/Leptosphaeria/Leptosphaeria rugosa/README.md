@@ -1,5 +1,4 @@
-Leptosphaeria rugosa Dearn. & Bisby SPECIES
-=======
+# Leptosphaeria rugosa Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

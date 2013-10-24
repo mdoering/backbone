@@ -1,11 +1,10 @@
-Parahistioneis acuta Böhm, 1931 in Schiller, 1933 SPECIES
-=======
+# Histioneis paraformis (Kofoid & Skogsberg) Balech, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

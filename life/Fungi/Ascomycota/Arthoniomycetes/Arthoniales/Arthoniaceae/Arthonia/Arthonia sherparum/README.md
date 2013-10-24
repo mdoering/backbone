@@ -1,5 +1,4 @@
-Arthonia sherparum Grube & Matzer SPECIES
-=======
+# Arthonia sherparum Grube & Matzer SPECIES
 
 #### Status
 ACCEPTED

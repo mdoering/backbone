@@ -1,5 +1,4 @@
-Thalassiosira californica Y. Tanimura SPECIES
-=======
+# Thalassiosira californica Y. Tanimura SPECIES
 
 #### Status
 ACCEPTED

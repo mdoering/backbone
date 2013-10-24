@@ -1,5 +1,4 @@
-Epichloea Giard GENUS
-=======
+# Epichloea Giard GENUS
 
 #### Status
 ACCEPTED

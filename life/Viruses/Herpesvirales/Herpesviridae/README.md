@@ -1,5 +1,4 @@
-Herpesviridae FAMILY
-=======
+# Herpesviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis lyonsiae Petr. SPECIES
-=======
+# Phomopsis lyonsiae Petr. SPECIES
 
 #### Status
 ACCEPTED

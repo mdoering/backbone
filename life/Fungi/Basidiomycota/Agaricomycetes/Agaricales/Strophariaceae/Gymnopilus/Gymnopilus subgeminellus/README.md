@@ -1,5 +1,4 @@
-Gymnopilus subgeminellus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus subgeminellus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

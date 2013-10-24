@@ -1,5 +1,4 @@
-Martinotiella GENUS
-=======
+# Martinotiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleorinis polyspora (Th. Fr.) Clem. SPECIES
-=======
+# Pleorinis polyspora (Th. Fr.) Clem. SPECIES
 
 #### Status
 ACCEPTED

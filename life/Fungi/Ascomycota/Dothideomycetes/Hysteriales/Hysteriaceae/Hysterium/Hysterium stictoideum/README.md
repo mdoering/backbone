@@ -1,5 +1,4 @@
-Hysterium stictoideum Cooke & Ellis SPECIES
-=======
+# Hysterium stictoideum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

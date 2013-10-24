@@ -1,5 +1,4 @@
-Colletotrichum urenae Petch SPECIES
-=======
+# Colletotrichum urenae Petch SPECIES
 
 #### Status
 ACCEPTED

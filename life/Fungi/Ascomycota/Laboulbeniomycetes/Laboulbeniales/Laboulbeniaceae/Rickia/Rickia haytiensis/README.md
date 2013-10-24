@@ -1,5 +1,4 @@
-Rickia haytiensis Thaxt. SPECIES
-=======
+# Rickia haytiensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

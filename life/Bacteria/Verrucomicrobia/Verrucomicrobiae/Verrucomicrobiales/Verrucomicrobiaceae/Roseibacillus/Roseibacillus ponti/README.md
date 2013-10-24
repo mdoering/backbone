@@ -1,5 +1,4 @@
-Roseibacillus ponti Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
-=======
+# Roseibacillus ponti Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

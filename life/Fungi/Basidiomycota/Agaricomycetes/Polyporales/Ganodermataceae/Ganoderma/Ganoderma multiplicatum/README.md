@@ -1,17 +1,16 @@
-Ganoderma subamboinense var. subamboinense VARIETY
-=======
+# Ganoderma multiplicatum (Mont.) Pat., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. (Oslo) 11: 82 (1997)
+Bull. Soc. mycol. Fr. 5(2,3): 74 (1889)
 
 #### Original name
-Ganoderma subamboinense var. subamboinense
+Polyporus multiplicatus Mont., 1854
 
 ### Remarks
 null

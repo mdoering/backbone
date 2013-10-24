@@ -1,5 +1,4 @@
-Pleurotus magnificus Rick SPECIES
-=======
+# Pleurotus magnificus Rick SPECIES
 
 #### Status
 ACCEPTED

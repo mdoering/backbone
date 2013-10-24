@@ -1,5 +1,4 @@
-Diatrype rimosa Fuckel SPECIES
-=======
+# Diatrype rimosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

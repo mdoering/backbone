@@ -1,5 +1,4 @@
-Pyrenula alutacea (Wallr.) Schaer. SPECIES
-=======
+# Pyrenula alutacea (Wallr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

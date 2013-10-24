@@ -1,5 +1,4 @@
-Mycovellosiella micranthae (A.S. Mull. & Chupp) Dianese & Furlan. SPECIES
-=======
+# Mycovellosiella micranthae (A.S. Mull. & Chupp) Dianese & Furlan. SPECIES
 
 #### Status
 ACCEPTED

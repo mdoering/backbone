@@ -1,8 +1,7 @@
-Trichophrya lycoperdon Penard, 1920 SPECIES
-=======
+# Brachyosoma lycoperdon Penard, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

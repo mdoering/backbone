@@ -1,5 +1,4 @@
-Pertusaria sublaeviganda Vain. SPECIES
-=======
+# Pertusaria sublaeviganda Vain. SPECIES
 
 #### Status
 ACCEPTED

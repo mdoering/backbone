@@ -1,8 +1,7 @@
-Amphistegina radiata var. papillosa Said, 1949 VARIETY
-=======
+# Amphistegina papillosa Said, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

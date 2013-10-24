@@ -1,5 +1,4 @@
-Vesonyctus GENUS
-=======
+# Vesonyctus GENUS
 
 #### Status
 ACCEPTED

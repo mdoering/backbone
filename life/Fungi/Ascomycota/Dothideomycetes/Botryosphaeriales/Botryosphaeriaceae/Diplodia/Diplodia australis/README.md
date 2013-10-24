@@ -1,5 +1,4 @@
-Diplodia australis Pass. SPECIES
-=======
+# Diplodia australis Pass. SPECIES
 
 #### Status
 ACCEPTED

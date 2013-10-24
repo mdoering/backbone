@@ -1,5 +1,4 @@
-Valsaria lignicola Teng & S.H. Ou SPECIES
-=======
+# Valsaria lignicola Teng & S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

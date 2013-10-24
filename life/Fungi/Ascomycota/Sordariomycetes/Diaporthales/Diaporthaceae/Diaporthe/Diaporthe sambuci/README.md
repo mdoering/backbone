@@ -1,5 +1,4 @@
-Diaporthe sambuci Ellis & Everh. SPECIES
-=======
+# Diaporthe sambuci Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

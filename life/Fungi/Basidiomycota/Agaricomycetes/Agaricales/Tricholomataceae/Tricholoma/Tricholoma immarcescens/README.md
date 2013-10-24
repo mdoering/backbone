@@ -1,5 +1,4 @@
-Tricholoma immarcescens (Britzelm.) Sacc. & Trotter SPECIES
-=======
+# Tricholoma immarcescens (Britzelm.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

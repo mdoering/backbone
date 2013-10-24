@@ -1,5 +1,4 @@
-Erysiphe circinata (Cooke & Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe circinata (Cooke & Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

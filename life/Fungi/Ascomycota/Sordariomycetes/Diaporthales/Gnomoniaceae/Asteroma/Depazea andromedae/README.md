@@ -1,5 +1,4 @@
-Depazea andromedae Saporta SPECIES
-=======
+# Depazea andromedae Saporta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria erumpens Schwein. SPECIES
-=======
+# Sphaeria erumpens Schwein. SPECIES
 
 #### Status
 ACCEPTED

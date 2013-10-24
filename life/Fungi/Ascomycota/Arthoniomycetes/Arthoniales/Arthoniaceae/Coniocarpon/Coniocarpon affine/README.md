@@ -1,5 +1,4 @@
-Coniocarpon affine A. Massal. SPECIES
-=======
+# Coniocarpon affine A. Massal. SPECIES
 
 #### Status
 ACCEPTED

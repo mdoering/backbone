@@ -1,5 +1,4 @@
-Myriotrema thwaitesii Hale SPECIES
-=======
+# Myriotrema thwaitesii Hale SPECIES
 
 #### Status
 ACCEPTED

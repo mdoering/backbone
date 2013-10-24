@@ -1,5 +1,4 @@
-Dothidella thoracella (Rutstr.) Sacc. SPECIES
-=======
+# Dothidella thoracella (Rutstr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

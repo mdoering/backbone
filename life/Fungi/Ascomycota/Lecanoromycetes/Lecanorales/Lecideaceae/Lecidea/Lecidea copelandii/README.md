@@ -1,5 +1,4 @@
-Lecidea copelandii Stizenb. SPECIES
-=======
+# Lecidea copelandii Stizenb. SPECIES
 
 #### Status
 ACCEPTED

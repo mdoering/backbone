@@ -1,5 +1,4 @@
-Strobilomyces giganteus M. Zang SPECIES
-=======
+# Strobilomyces giganteus M. Zang SPECIES
 
 #### Status
 ACCEPTED

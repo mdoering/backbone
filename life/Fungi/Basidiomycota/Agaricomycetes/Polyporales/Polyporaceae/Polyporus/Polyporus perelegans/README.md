@@ -1,5 +1,4 @@
-Polyporus perelegans Lloyd SPECIES
-=======
+# Polyporus perelegans Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium lomatophorum Ellis & Everh. SPECIES
-=======
+# Asteridium lomatophorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

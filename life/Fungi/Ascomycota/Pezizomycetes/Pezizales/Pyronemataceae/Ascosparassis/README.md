@@ -1,5 +1,4 @@
-Ascosparassis Kobayasi GENUS
-=======
+# Ascosparassis Kobayasi GENUS
 
 #### Status
 ACCEPTED

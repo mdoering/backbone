@@ -1,5 +1,4 @@
-Lambertella subrenispora Korf & W.Y. Zhuang, 1985 SPECIES
-=======
+# Lambertella subrenispora Korf & W.Y. Zhuang, 1985 SPECIES
 
 #### Status
 ACCEPTED

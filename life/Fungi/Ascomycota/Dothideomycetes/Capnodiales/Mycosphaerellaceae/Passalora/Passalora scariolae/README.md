@@ -1,5 +1,4 @@
-Passalora scariolae (Syd.) Poonam Srivast. SPECIES
-=======
+# Passalora scariolae (Syd.) Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

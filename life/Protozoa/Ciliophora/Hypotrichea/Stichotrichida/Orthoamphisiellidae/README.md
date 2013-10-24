@@ -1,5 +1,4 @@
-Orthoamphisiellidae FAMILY
-=======
+# Orthoamphisiellidae FAMILY
 
 #### Status
 ACCEPTED

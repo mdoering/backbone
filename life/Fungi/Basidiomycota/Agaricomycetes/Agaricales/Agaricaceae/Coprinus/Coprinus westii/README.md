@@ -1,5 +1,4 @@
-Coprinus westii Murrill SPECIES
-=======
+# Coprinus westii Murrill SPECIES
 
 #### Status
 ACCEPTED

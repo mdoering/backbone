@@ -1,17 +1,16 @@
-Tubaria embolus var. embolus (Fr.) Sacc. VARIETY
-=======
+# Galerina embolus (Fr.) P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 176 (1960)
 
 #### Original name
-Tubaria embolus var. embolus (Fr.) Sacc.
+Agaricus embolus Fr., 1838
 
 ### Remarks
 null

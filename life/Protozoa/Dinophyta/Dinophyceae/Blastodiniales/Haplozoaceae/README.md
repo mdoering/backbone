@@ -1,5 +1,4 @@
-Haplozoaceae FAMILY
-=======
+# Haplozoaceae FAMILY
 
 #### Status
 ACCEPTED

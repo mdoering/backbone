@@ -1,5 +1,4 @@
-Corynascus sexualis Stchigel, Cano & Guarro SPECIES
-=======
+# Corynascus sexualis Stchigel, Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

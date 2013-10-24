@@ -1,5 +1,4 @@
-Puccinia inopinata Syd. SPECIES
-=======
+# Puccinia inopinata Syd. SPECIES
 
 #### Status
 ACCEPTED

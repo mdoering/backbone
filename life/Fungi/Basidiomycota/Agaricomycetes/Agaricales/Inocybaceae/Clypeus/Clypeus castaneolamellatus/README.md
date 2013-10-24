@@ -1,5 +1,4 @@
-Clypeus castaneolamellatus Britzelm. SPECIES
-=======
+# Clypeus castaneolamellatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

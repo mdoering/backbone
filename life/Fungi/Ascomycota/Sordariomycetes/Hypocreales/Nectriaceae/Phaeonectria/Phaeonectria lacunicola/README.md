@@ -1,5 +1,4 @@
-Phaeonectria lacunicola Kirschst. SPECIES
-=======
+# Phaeonectria lacunicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

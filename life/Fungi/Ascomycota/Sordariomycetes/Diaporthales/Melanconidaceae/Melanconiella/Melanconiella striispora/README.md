@@ -1,5 +1,4 @@
-Melanconiella striispora Saccas SPECIES
-=======
+# Melanconiella striispora Saccas SPECIES
 
 #### Status
 ACCEPTED

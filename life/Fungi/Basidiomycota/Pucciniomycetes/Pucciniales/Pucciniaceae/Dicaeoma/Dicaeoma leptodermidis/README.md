@@ -1,5 +1,4 @@
-Dicaeoma leptodermidis (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma leptodermidis (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

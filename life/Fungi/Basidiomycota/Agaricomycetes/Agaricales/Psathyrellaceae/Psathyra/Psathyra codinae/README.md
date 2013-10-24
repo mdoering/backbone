@@ -1,5 +1,4 @@
-Psathyra codinae Singer SPECIES
-=======
+# Psathyra codinae Singer SPECIES
 
 #### Status
 ACCEPTED

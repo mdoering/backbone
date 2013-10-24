@@ -1,5 +1,4 @@
-Physcia brevior (Nyl.) Vain. SPECIES
-=======
+# Physcia brevior (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

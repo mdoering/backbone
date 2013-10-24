@@ -1,5 +1,4 @@
-Boletus striatus Humb. SPECIES
-=======
+# Boletus striatus Humb. SPECIES
 
 #### Status
 ACCEPTED

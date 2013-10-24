@@ -1,5 +1,4 @@
-Tectoglobigerina Fuchs, 1973 GENUS
-=======
+# Tectoglobigerina Fuchs, 1973 GENUS
 
 #### Status
 ACCEPTED

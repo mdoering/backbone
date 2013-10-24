@@ -1,5 +1,4 @@
-Clisosporium biforme (G. Winter) Kuntze SPECIES
-=======
+# Clisosporium biforme (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

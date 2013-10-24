@@ -1,5 +1,4 @@
-Peziza albicans (Fuckel) Cooke SPECIES
-=======
+# Peziza albicans (Fuckel) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerium melicola (Petr.) Hansf. SPECIES
-=======
+# Dimerium melicola (Petr.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

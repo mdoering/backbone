@@ -1,5 +1,4 @@
-Gymnopilus naucorioides Hesler SPECIES
-=======
+# Gymnopilus naucorioides Hesler SPECIES
 
 #### Status
 ACCEPTED

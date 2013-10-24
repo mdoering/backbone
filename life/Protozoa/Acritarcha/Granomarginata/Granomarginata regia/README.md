@@ -1,5 +1,4 @@
-Granomarginata regia Salujha, Rehman & Arora, 1972 SPECIES
-=======
+# Granomarginata regia Salujha, Rehman & Arora, 1972 SPECIES
 
 #### Status
 ACCEPTED

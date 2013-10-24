@@ -1,5 +1,4 @@
-Camposporidium cristatum Nawawi & Kuthub., 1988 SPECIES
-=======
+# Camposporidium cristatum Nawawi & Kuthub., 1988 SPECIES
 
 #### Status
 ACCEPTED

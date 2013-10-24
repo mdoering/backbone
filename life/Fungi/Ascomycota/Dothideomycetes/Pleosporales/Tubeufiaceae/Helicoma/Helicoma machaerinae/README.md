@@ -1,5 +1,4 @@
-Helicoma machaerinae Goos SPECIES
-=======
+# Helicoma machaerinae Goos SPECIES
 
 #### Status
 ACCEPTED

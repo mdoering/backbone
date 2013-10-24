@@ -1,5 +1,4 @@
-Naucoria adnata Velen. SPECIES
-=======
+# Naucoria adnata Velen. SPECIES
 
 #### Status
 ACCEPTED

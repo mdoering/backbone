@@ -1,5 +1,4 @@
-Phyllachora rickiana Theiss., 1918 SPECIES
-=======
+# Phyllachora rickiana Theiss., 1918 SPECIES
 
 #### Status
 DOUBTFUL

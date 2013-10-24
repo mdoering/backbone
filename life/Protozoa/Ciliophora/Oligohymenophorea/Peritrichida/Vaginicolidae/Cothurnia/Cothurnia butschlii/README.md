@@ -1,5 +1,4 @@
-Cothurnia butschlii Zelinka, 1913 SPECIES
-=======
+# Cothurnia butschlii Zelinka, 1913 SPECIES
 
 #### Status
 ACCEPTED

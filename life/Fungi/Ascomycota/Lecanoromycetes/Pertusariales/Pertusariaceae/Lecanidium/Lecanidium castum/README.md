@@ -1,5 +1,4 @@
-Lecanidium castum (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Lecanidium castum (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

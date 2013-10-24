@@ -1,5 +1,4 @@
-Diploceras muehlenbeckiae (McAlpine) Nag Raj SPECIES
-=======
+# Diploceras muehlenbeckiae (McAlpine) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

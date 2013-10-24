@@ -1,5 +1,4 @@
-Graphiola thaxteri E. Fisch. SPECIES
-=======
+# Graphiola thaxteri E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

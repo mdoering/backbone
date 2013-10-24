@@ -1,5 +1,4 @@
-Thelotrema laemense Homchant. & Coppins SPECIES
-=======
+# Thelotrema laemense Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium confluentis Kirschner et al., 1992 SPECIES
-=======
+# Mycobacterium confluentis Kirschner et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

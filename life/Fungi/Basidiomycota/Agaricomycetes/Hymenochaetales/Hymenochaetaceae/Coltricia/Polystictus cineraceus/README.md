@@ -1,5 +1,4 @@
-Polystictus cineraceus (Lév.) Cooke SPECIES
-=======
+# Polystictus cineraceus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

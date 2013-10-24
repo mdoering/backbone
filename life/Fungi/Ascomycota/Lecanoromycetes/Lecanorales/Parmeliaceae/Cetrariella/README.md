@@ -1,5 +1,4 @@
-Cetrariella Kärnefelt & A. Thell GENUS
-=======
+# Cetrariella Kärnefelt & A. Thell GENUS
 
 #### Status
 ACCEPTED

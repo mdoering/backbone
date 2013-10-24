@@ -1,5 +1,4 @@
-Mycena pachyderma Kühner SPECIES
-=======
+# Mycena pachyderma Kühner SPECIES
 
 #### Status
 ACCEPTED

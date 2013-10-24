@@ -1,5 +1,4 @@
-Embolidium populneum (Duby) Vain. SPECIES
-=======
+# Embolidium populneum (Duby) Vain. SPECIES
 
 #### Status
 ACCEPTED

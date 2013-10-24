@@ -1,5 +1,4 @@
-Xylaria chordalis (Fr.) Sacc. SPECIES
-=======
+# Xylaria chordalis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

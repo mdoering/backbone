@@ -1,5 +1,4 @@
-Phyllachora subcuticularis (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora subcuticularis (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

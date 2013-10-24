@@ -1,8 +1,7 @@
-Stentor andreseni Nilsson, 1986 SPECIES
-=======
+# Stentor tartari Narayana Murthy & Kasturi Bai, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

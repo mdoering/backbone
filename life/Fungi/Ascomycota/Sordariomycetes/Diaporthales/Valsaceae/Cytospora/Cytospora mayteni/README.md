@@ -1,5 +1,4 @@
-Cytospora mayteni Speg. SPECIES
-=======
+# Cytospora mayteni Speg. SPECIES
 
 #### Status
 ACCEPTED

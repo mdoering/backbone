@@ -1,5 +1,4 @@
-Uvigerina russelli Howe SPECIES
-=======
+# Uvigerina russelli Howe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridiopsis socius Schneider SPECIES
-=======
+# Chytridiopsis socius Schneider SPECIES
 
 #### Status
 ACCEPTED

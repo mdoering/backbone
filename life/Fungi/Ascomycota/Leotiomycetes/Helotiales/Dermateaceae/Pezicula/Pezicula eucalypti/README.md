@@ -1,5 +1,4 @@
-Pezicula eucalypti Korf & Iturr. SPECIES
-=======
+# Pezicula eucalypti Korf & Iturr. SPECIES
 
 #### Status
 ACCEPTED

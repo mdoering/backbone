@@ -1,5 +1,4 @@
-Thermotogae PHYLUM
-=======
+# Thermotogae PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asperisporium peucedani (Ellis & Holw.) Maubl. SPECIES
-=======
+# Asperisporium peucedani (Ellis & Holw.) Maubl. SPECIES
 
 #### Status
 ACCEPTED

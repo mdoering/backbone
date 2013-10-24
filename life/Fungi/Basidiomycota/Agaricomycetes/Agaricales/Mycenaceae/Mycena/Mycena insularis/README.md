@@ -1,5 +1,4 @@
-Mycena insularis Speg. SPECIES
-=======
+# Mycena insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

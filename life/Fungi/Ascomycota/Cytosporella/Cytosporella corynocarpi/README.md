@@ -1,5 +1,4 @@
-Cytosporella corynocarpi Gutner SPECIES
-=======
+# Cytosporella corynocarpi Gutner SPECIES
 
 #### Status
 ACCEPTED

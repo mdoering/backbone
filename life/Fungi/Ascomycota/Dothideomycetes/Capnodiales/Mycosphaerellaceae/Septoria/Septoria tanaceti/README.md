@@ -1,5 +1,4 @@
-Septoria tanaceti Niessl, 1865 SPECIES
-=======
+# Septoria tanaceti Niessl, 1865 SPECIES
 
 #### Status
 ACCEPTED

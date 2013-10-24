@@ -1,5 +1,4 @@
-Sphaeria mureti Heer SPECIES
-=======
+# Sphaeria mureti Heer SPECIES
 
 #### Status
 ACCEPTED

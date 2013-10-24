@@ -1,5 +1,4 @@
-Anthostoma insidiosum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Anthostoma insidiosum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

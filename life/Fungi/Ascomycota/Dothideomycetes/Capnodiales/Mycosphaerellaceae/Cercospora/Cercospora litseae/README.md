@@ -1,5 +1,4 @@
-Cercospora litseae Henn. SPECIES
-=======
+# Cercospora litseae Henn. SPECIES
 
 #### Status
 ACCEPTED

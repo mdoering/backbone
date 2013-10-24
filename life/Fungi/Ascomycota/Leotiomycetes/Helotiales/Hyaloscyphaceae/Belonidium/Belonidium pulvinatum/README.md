@@ -1,5 +1,4 @@
-Belonidium pulvinatum Boud. SPECIES
-=======
+# Belonidium pulvinatum Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora toreniae (Henn.) Deighton SPECIES
-=======
+# Pseudocercospora toreniae (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

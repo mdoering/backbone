@@ -1,5 +1,4 @@
-Graphis schmidtii Vain. SPECIES
-=======
+# Graphis schmidtii Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum stanhopeae Henn. SPECIES
-=======
+# Colletotrichum stanhopeae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysamoebidales ORDER
-=======
+# Chrysamoebidales ORDER
 
 #### Status
 ACCEPTED

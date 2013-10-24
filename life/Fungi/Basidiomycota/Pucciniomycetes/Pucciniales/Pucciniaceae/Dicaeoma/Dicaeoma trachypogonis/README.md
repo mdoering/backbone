@@ -1,5 +1,4 @@
-Dicaeoma trachypogonis (Speg.) Syd. SPECIES
-=======
+# Dicaeoma trachypogonis (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

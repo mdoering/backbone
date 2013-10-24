@@ -1,5 +1,4 @@
-Amanita albogrisescens Contu SPECIES
-=======
+# Amanita albogrisescens Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora cordiae (P. Kumar & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora cordiae (P. Kumar & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

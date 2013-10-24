@@ -1,5 +1,4 @@
-Ustilago cariciphila Speg. SPECIES
-=======
+# Ustilago cariciphila Speg. SPECIES
 
 #### Status
 ACCEPTED

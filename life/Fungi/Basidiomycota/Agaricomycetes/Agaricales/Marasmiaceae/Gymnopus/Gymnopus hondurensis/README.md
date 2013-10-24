@@ -1,5 +1,4 @@
-Gymnopus hondurensis (Murrill) J.L. Mata SPECIES
-=======
+# Gymnopus hondurensis (Murrill) J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

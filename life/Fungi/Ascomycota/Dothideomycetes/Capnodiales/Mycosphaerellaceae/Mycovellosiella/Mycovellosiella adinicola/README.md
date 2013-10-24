@@ -1,5 +1,4 @@
-Mycovellosiella adinicola Bhalla & A.K. Sarbhoy SPECIES
-=======
+# Mycovellosiella adinicola Bhalla & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

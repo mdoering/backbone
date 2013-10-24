@@ -1,5 +1,4 @@
-Lepiota armillarioides Dennis SPECIES
-=======
+# Lepiota armillarioides Dennis SPECIES
 
 #### Status
 ACCEPTED

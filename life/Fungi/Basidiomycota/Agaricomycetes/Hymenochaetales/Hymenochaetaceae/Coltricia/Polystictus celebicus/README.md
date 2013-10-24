@@ -1,5 +1,4 @@
-Polystictus celebicus Henn. SPECIES
-=======
+# Polystictus celebicus Henn. SPECIES
 
 #### Status
 ACCEPTED

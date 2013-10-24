@@ -1,14 +1,13 @@
-Xenasmatella nastii (Boidin & Gilles) Stalpers SPECIES
-=======
+# Xenasmatella nasti (Boidin & Gilles) Stalpers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 40: 37 (1996)
 
 #### Original name
 Phlebiella nasti Boidin & Gilles, 1989

@@ -1,5 +1,4 @@
-Galerina vexans A.H. Sm. & Singer SPECIES
-=======
+# Galerina vexans A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

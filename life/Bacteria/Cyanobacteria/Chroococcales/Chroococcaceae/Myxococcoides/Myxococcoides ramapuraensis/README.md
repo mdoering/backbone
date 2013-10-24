@@ -1,5 +1,4 @@
-Myxococcoides ramapuraensis P. K. Maithy & M. Shukla SPECIES
-=======
+# Myxococcoides ramapuraensis P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

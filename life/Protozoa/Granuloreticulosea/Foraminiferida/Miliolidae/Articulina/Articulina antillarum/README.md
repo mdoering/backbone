@@ -1,5 +1,4 @@
-Articulina antillarum SPECIES
-=======
+# Articulina antillarum SPECIES
 
 #### Status
 ACCEPTED

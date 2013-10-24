@@ -1,5 +1,4 @@
-Antradiella formosana T. T. Chang & W. N. Chou, 1998 SPECIES
-=======
+# Antradiella formosana T. T. Chang & W. N. Chou, 1998 SPECIES
 
 #### Status
 ACCEPTED

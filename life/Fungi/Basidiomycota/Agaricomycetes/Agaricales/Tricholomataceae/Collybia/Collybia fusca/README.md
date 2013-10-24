@@ -1,5 +1,4 @@
-Collybia fusca Cleland SPECIES
-=======
+# Collybia fusca Cleland SPECIES
 
 #### Status
 ACCEPTED

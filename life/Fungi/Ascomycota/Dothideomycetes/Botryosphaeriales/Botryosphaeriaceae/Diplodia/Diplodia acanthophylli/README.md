@@ -1,5 +1,4 @@
-Diplodia acanthophylli Kalymb. SPECIES
-=======
+# Diplodia acanthophylli Kalymb. SPECIES
 
 #### Status
 ACCEPTED

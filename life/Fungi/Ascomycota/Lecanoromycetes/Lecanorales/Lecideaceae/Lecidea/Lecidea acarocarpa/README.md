@@ -1,5 +1,4 @@
-Lecidea acarocarpa SPECIES
-=======
+# Lecidea acarocarpa SPECIES
 
 #### Status
 ACCEPTED

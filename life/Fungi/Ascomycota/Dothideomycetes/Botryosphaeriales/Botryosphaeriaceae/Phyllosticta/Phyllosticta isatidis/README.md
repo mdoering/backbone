@@ -1,5 +1,4 @@
-Phyllosticta isatidis Annal. SPECIES
-=======
+# Phyllosticta isatidis Annal. SPECIES
 
 #### Status
 ACCEPTED

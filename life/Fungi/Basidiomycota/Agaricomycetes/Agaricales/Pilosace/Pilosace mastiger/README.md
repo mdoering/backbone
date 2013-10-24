@@ -1,5 +1,4 @@
-Pilosace mastiger (Berk. & Broome) Kuntze SPECIES
-=======
+# Pilosace mastiger (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cleistotheca lagerstroemiae Gucevic SPECIES
-=======
+# Cleistotheca lagerstroemiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

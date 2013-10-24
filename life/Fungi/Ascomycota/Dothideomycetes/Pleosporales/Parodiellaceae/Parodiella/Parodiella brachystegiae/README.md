@@ -1,5 +1,4 @@
-Parodiella brachystegiae Henn. SPECIES
-=======
+# Parodiella brachystegiae Henn. SPECIES
 
 #### Status
 ACCEPTED

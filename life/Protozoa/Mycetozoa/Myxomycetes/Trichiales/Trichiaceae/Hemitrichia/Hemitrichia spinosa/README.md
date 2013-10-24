@@ -1,5 +1,4 @@
-Hemitrichia spinosa H. Neubert & Nann.-Bremek., 1977 SPECIES
-=======
+# Hemitrichia spinosa H. Neubert & Nann.-Bremek., 1977 SPECIES
 
 #### Status
 ACCEPTED

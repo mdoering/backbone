@@ -1,5 +1,4 @@
-Gloeoporus tienmuensis (Teng) Teng SPECIES
-=======
+# Gloeoporus tienmuensis (Teng) Teng SPECIES
 
 #### Status
 ACCEPTED

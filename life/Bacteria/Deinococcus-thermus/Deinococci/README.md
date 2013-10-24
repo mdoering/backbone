@@ -1,5 +1,4 @@
-Deinococci Garrity & Holt, 2002 CLASS
-=======
+# Deinococci Garrity & Holt, 2002 CLASS
 
 #### Status
 ACCEPTED

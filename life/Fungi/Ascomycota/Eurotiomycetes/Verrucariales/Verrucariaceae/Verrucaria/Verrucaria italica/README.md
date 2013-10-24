@@ -1,5 +1,4 @@
-Verrucaria italica (B. de Lesd.) Servít SPECIES
-=======
+# Verrucaria italica (B. de Lesd.) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus subpunctipes Peck SPECIES
-=======
+# Boletus subpunctipes Peck SPECIES
 
 #### Status
 ACCEPTED

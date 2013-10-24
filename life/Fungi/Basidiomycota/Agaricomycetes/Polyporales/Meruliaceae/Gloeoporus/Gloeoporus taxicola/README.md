@@ -1,17 +1,16 @@
-Poria sorbicola (Fr.) Sacc., 1888 SPECIES
-=======
+# Gloeoporus taxicola (Pers.) Gilb. & Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 309 (1888)
+Mycotaxon 22(2): 364 (1985)
 
 #### Original name
-Polyporus sorbicola Fr., 1874
+Xylomyzon taxicola Pers., 1825
 
 ### Remarks
 null

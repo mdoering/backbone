@@ -1,5 +1,4 @@
-Mucor prolificus Bainier SPECIES
-=======
+# Mucor prolificus Bainier SPECIES
 
 #### Status
 ACCEPTED

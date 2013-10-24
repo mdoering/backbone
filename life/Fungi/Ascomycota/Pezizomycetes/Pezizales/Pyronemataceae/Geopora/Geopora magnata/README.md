@@ -1,5 +1,4 @@
-Geopora magnata Harkn. SPECIES
-=======
+# Geopora magnata Harkn. SPECIES
 
 #### Status
 ACCEPTED

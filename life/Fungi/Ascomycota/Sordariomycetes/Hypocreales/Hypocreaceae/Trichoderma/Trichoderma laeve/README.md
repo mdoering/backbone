@@ -1,5 +1,4 @@
-Trichoderma laeve Pers. SPECIES
-=======
+# Trichoderma laeve Pers. SPECIES
 
 #### Status
 ACCEPTED

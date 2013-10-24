@@ -1,5 +1,4 @@
-Passalora ibatiae U. Braun & Crous SPECIES
-=======
+# Passalora ibatiae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

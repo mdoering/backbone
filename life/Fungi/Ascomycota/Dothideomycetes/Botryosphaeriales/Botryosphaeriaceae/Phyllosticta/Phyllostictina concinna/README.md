@@ -1,5 +1,4 @@
-Phyllostictina concinna Syd. SPECIES
-=======
+# Phyllostictina concinna Syd. SPECIES
 
 #### Status
 ACCEPTED

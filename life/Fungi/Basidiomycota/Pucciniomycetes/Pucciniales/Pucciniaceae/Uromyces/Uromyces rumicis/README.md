@@ -1,17 +1,16 @@
-Uromyces rumicis f. sp FORM
-=======
+# Uromyces rumicis (Schumach.) G. Winter, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pilze Deutschl. 145 (1884)
 
 #### Original name
-Uromyces rumicis f. sp
+Uredo rumicis Schumach., 1803
 
 ### Remarks
 null

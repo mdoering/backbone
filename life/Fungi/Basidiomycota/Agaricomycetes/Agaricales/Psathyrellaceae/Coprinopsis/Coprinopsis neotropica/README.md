@@ -1,5 +1,4 @@
-Coprinopsis neotropica (Redhead & Pegler) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis neotropica (Redhead & Pegler) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

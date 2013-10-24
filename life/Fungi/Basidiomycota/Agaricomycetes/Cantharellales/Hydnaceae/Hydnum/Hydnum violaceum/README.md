@@ -1,5 +1,4 @@
-Hydnum violaceum Thore SPECIES
-=======
+# Hydnum violaceum Thore SPECIES
 
 #### Status
 ACCEPTED

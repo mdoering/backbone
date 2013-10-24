@@ -1,5 +1,4 @@
-Didymopsamma moravica Petr. SPECIES
-=======
+# Didymopsamma moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

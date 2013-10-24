@@ -1,5 +1,4 @@
-Victivallis Zoetendal, Plugge, Akkermans & de Vos, 2003 GENUS
-=======
+# Victivallis Zoetendal, Plugge, Akkermans & de Vos, 2003 GENUS
 
 #### Status
 ACCEPTED

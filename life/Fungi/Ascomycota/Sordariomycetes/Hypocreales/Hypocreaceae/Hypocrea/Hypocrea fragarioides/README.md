@@ -1,5 +1,4 @@
-Hypocrea fragarioides Henn. SPECIES
-=======
+# Hypocrea fragarioides Henn. SPECIES
 
 #### Status
 ACCEPTED

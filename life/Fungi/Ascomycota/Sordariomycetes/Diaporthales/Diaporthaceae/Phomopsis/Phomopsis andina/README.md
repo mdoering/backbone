@@ -1,5 +1,4 @@
-Phomopsis andina Petr., 1950 SPECIES
-=======
+# Phomopsis andina Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

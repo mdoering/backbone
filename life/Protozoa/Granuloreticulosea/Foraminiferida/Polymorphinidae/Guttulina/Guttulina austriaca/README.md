@@ -1,5 +1,4 @@
-Guttulina austriaca d'Orbigny SPECIES
-=======
+# Guttulina austriaca d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria rothomagensis Roum. SPECIES
-=======
+# Metasphaeria rothomagensis Roum. SPECIES
 
 #### Status
 ACCEPTED

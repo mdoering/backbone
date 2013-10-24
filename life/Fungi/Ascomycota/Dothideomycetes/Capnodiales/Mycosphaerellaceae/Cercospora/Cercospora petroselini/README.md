@@ -1,5 +1,4 @@
-Cercospora petroselini Sacc. SPECIES
-=======
+# Cercospora petroselini Sacc. SPECIES
 
 #### Status
 ACCEPTED

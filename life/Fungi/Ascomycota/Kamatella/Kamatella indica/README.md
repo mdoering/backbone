@@ -1,5 +1,4 @@
-Kamatella indica Anahosur, 1969 SPECIES
-=======
+# Kamatella indica Anahosur, 1969 SPECIES
 
 #### Status
 ACCEPTED

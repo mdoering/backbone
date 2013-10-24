@@ -1,5 +1,4 @@
-Stereum incrustans Ehrenb. SPECIES
-=======
+# Stereum incrustans Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

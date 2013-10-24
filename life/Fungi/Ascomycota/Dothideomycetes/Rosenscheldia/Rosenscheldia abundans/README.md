@@ -1,14 +1,13 @@
-Naumovia abundans Dobrozr., 1928 SPECIES
-=======
+# Rosenscheldia abundans (Dobrozr.) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bolezni rastenii 16(3-4): 198 (1928)
+Annls mycol. 39: 266 (1941)
 
 #### Original name
 Naumovia abundans Dobrozr., 1928

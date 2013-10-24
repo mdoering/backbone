@@ -1,5 +1,4 @@
-Uredo echinosperma Speg. SPECIES
-=======
+# Uredo echinosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

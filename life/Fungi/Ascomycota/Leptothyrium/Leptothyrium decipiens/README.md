@@ -1,5 +1,4 @@
-Leptothyrium decipiens Berk. SPECIES
-=======
+# Leptothyrium decipiens Berk. SPECIES
 
 #### Status
 ACCEPTED

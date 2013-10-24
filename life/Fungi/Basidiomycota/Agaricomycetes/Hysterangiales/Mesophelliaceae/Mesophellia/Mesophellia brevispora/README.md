@@ -1,5 +1,4 @@
-Mesophellia brevispora Trappe & Castellano, 1996 SPECIES
-=======
+# Mesophellia brevispora Trappe & Castellano, 1996 SPECIES
 
 #### Status
 ACCEPTED

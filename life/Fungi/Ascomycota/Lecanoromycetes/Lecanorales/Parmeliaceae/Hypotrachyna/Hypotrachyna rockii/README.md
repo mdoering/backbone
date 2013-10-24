@@ -1,17 +1,16 @@
-Parmelia rocki Zahlbr. SPECIES
-=======
+# Hypotrachyna rockii (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 62 (1975)
 
 #### Original name
-Parmelia rocki Zahlbr.
+Parmelia rockii Zahlbr.
 
 ### Remarks
 null

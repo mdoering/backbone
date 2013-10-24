@@ -1,5 +1,4 @@
-Placoasterella rehmii (Henn.) Theiss. & Syd. SPECIES
-=======
+# Placoasterella rehmii (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

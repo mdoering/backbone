@@ -1,5 +1,4 @@
-Hygrophorus vignolius Panizzi SPECIES
-=======
+# Hygrophorus vignolius Panizzi SPECIES
 
 #### Status
 ACCEPTED

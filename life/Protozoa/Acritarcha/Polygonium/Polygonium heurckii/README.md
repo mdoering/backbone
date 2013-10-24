@@ -1,5 +1,4 @@
-Polygonium heurckii (Stockmans & Willière, 1962) Sarjeant & Srancliffe, 1994 SPECIES
-=======
+# Polygonium heurckii (Stockmans & Willière, 1962) Sarjeant & Srancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

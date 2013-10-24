@@ -1,5 +1,4 @@
-Calculites anfractus SPECIES
-=======
+# Calculites anfractus SPECIES
 
 #### Status
 ACCEPTED

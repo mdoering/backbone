@@ -1,5 +1,4 @@
-Rhabdospora magnoliae (Thüm.) Sacc. SPECIES
-=======
+# Rhabdospora magnoliae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

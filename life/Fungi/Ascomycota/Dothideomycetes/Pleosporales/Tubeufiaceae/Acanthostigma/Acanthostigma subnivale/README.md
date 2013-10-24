@@ -1,5 +1,4 @@
-Acanthostigma subnivale Rehm SPECIES
-=======
+# Acanthostigma subnivale Rehm SPECIES
 
 #### Status
 ACCEPTED

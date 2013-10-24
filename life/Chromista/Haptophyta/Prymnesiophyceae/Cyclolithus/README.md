@@ -1,5 +1,4 @@
-Cyclolithus GENUS
-=======
+# Cyclolithus GENUS
 
 #### Status
 ACCEPTED

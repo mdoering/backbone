@@ -1,5 +1,4 @@
-Lagena alcocki White SPECIES
-=======
+# Lagena alcocki White SPECIES
 
 #### Status
 ACCEPTED

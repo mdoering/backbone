@@ -1,5 +1,4 @@
-Clavochytridium stomophilum Couch & H.T. Cox SPECIES
-=======
+# Clavochytridium stomophilum Couch & H.T. Cox SPECIES
 
 #### Status
 ACCEPTED

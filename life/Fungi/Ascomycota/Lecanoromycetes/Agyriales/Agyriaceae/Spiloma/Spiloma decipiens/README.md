@@ -1,5 +1,4 @@
-Spiloma decipiens SPECIES
-=======
+# Spiloma decipiens SPECIES
 
 #### Status
 ACCEPTED

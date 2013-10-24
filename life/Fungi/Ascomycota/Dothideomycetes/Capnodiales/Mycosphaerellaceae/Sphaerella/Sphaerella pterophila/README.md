@@ -1,5 +1,4 @@
-Sphaerella pterophila Pass. SPECIES
-=======
+# Sphaerella pterophila Pass. SPECIES
 
 #### Status
 ACCEPTED

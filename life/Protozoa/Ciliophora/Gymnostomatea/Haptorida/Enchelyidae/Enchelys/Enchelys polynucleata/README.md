@@ -1,8 +1,7 @@
-Enchelydium polynucleatum Foissner, 1984 SPECIES
-=======
+# Enchelys polynucleata (Foissner, 1984) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

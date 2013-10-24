@@ -1,5 +1,4 @@
-Peziza hyalinula Nyl. SPECIES
-=======
+# Peziza hyalinula Nyl. SPECIES
 
 #### Status
 ACCEPTED

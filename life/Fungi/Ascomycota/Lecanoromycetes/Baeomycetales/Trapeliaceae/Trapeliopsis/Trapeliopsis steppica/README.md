@@ -1,5 +1,4 @@
-Trapeliopsis steppica McCune & F.J. Camacho SPECIES
-=======
+# Trapeliopsis steppica McCune & F.J. Camacho SPECIES
 
 #### Status
 ACCEPTED

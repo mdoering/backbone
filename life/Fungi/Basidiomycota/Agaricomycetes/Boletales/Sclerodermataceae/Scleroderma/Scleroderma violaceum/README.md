@@ -1,5 +1,4 @@
-Scleroderma violaceum Lloyd SPECIES
-=======
+# Scleroderma violaceum Lloyd SPECIES
 
 #### Status
 ACCEPTED

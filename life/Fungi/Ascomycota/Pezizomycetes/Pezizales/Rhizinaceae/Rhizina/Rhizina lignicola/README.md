@@ -1,5 +1,4 @@
-Rhizina lignicola Rodway SPECIES
-=======
+# Rhizina lignicola Rodway SPECIES
 
 #### Status
 ACCEPTED

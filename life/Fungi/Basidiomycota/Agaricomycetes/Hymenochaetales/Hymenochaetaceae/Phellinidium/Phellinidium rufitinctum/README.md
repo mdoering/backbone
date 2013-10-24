@@ -1,5 +1,4 @@
-Phellinidium rufitinctum (Berk. & M.A. Curtis ex Cooke) Bondartseva & S. Herrera SPECIES
-=======
+# Phellinidium rufitinctum (Berk. & M.A. Curtis ex Cooke) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

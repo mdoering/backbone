@@ -1,5 +1,4 @@
-Polyangiaceae FAMILY
-=======
+# Polyangiaceae FAMILY
 
 #### Status
 ACCEPTED

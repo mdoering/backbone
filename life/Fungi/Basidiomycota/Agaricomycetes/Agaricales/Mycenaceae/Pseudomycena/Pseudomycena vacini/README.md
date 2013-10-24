@@ -1,5 +1,4 @@
-Pseudomycena vacini Velen. SPECIES
-=======
+# Pseudomycena vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

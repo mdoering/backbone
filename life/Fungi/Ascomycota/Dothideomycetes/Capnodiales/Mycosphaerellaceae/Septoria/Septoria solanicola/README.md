@@ -1,5 +1,4 @@
-Septoria solanicola Grove SPECIES
-=======
+# Septoria solanicola Grove SPECIES
 
 #### Status
 ACCEPTED

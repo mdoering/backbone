@@ -1,5 +1,4 @@
-Nectria tornensis Subhedar & V.G. Rao SPECIES
-=======
+# Nectria tornensis Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

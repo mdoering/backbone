@@ -1,5 +1,4 @@
-Eriopezia loti Velen. SPECIES
-=======
+# Eriopezia loti Velen. SPECIES
 
 #### Status
 ACCEPTED

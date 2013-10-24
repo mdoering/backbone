@@ -1,5 +1,4 @@
-Peziza psittacina Quél. SPECIES
-=======
+# Peziza psittacina Quél. SPECIES
 
 #### Status
 ACCEPTED

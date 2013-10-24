@@ -1,5 +1,4 @@
-Thielavia achromatica Subrahm. SPECIES
-=======
+# Thielavia achromatica Subrahm. SPECIES
 
 #### Status
 ACCEPTED

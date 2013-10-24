@@ -1,5 +1,4 @@
-Acarospora tominiana H. Magn. SPECIES
-=======
+# Acarospora tominiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

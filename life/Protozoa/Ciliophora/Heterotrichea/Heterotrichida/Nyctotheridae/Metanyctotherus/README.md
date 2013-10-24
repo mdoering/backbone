@@ -1,5 +1,4 @@
-Metanyctotherus Albaret, 1970 GENUS
-=======
+# Metanyctotherus Albaret, 1970 GENUS
 
 #### Status
 ACCEPTED

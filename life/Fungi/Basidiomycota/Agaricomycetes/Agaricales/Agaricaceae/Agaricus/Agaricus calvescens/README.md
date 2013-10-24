@@ -1,5 +1,4 @@
-Agaricus calvescens Berk. SPECIES
-=======
+# Agaricus calvescens Berk. SPECIES
 
 #### Status
 ACCEPTED

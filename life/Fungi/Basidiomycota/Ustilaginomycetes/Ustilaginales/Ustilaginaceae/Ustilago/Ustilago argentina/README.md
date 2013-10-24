@@ -1,5 +1,4 @@
-Ustilago argentina (Speg.) Speg. SPECIES
-=======
+# Ustilago argentina (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

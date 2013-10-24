@@ -1,5 +1,4 @@
-Amphisphaeria pseudoumbrina Sacc. SPECIES
-=======
+# Amphisphaeria pseudoumbrina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Talaromyces austrocalifornicus Yaguchi & Udagawa, 1993 SPECIES
-=======
+# Talaromyces austrocalifornicus Yaguchi & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

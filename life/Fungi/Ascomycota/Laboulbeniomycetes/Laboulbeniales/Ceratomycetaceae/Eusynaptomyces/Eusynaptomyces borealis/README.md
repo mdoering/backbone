@@ -1,5 +1,4 @@
-Eusynaptomyces borealis Thaxt., 1931 SPECIES
-=======
+# Eusynaptomyces borealis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

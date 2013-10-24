@@ -1,5 +1,4 @@
-Dichlaena lentisci Mont. & Durieu, 1849 SPECIES
-=======
+# Dichlaena lentisci Mont. & Durieu, 1849 SPECIES
 
 #### Status
 ACCEPTED

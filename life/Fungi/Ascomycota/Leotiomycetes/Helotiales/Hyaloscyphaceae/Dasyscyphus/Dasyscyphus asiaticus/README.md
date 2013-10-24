@@ -1,5 +1,4 @@
-Dasyscyphus asiaticus Y. Otani SPECIES
-=======
+# Dasyscyphus asiaticus Y. Otani SPECIES
 
 #### Status
 ACCEPTED

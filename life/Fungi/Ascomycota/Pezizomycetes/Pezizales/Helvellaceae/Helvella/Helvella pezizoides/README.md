@@ -1,17 +1,16 @@
-Helvella pezizoides var. pezizoides VARIETY
-=======
+# Helvella pezizoides Afzel., 1783 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Vet. Akad. Handl. 308 (1783)
 
 #### Original name
-Helvella pezizoides var. pezizoides
+Helvella pezizoides Afzel., 1783
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola edanoana F. Stevens ex Hansf. SPECIES
-=======
+# Meliola edanoana F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

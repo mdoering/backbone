@@ -1,5 +1,4 @@
-Blastosporella T.J. Baroni & Franco-Mol. GENUS
-=======
+# Blastosporella T.J. Baroni & Franco-Mol. GENUS
 
 #### Status
 ACCEPTED

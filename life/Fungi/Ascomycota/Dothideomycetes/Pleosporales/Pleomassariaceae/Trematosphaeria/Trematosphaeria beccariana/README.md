@@ -1,5 +1,4 @@
-Trematosphaeria beccariana Pass. SPECIES
-=======
+# Trematosphaeria beccariana Pass. SPECIES
 
 #### Status
 ACCEPTED

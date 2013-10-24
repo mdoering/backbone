@@ -1,5 +1,4 @@
-Stysanus berkeleyi (Mont.) Sacc. SPECIES
-=======
+# Stysanus berkeleyi (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

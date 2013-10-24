@@ -1,5 +1,4 @@
-Voeltzkowiella madagascariensis Henn. SPECIES
-=======
+# Voeltzkowiella madagascariensis Henn. SPECIES
 
 #### Status
 ACCEPTED

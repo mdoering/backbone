@@ -1,5 +1,4 @@
-Chrysosporium serratum Dominik SPECIES
-=======
+# Chrysosporium serratum Dominik SPECIES
 
 #### Status
 ACCEPTED

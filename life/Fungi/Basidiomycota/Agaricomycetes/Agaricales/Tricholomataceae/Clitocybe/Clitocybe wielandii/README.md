@@ -1,5 +1,4 @@
-Clitocybe wielandii Raithelh. SPECIES
-=======
+# Clitocybe wielandii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

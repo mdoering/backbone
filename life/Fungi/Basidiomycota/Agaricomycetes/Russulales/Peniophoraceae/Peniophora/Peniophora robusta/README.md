@@ -1,5 +1,4 @@
-Peniophora robusta Parmasto, 1968 SPECIES
-=======
+# Peniophora robusta Parmasto, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota parmata Britzelm. SPECIES
-=======
+# Lepiota parmata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

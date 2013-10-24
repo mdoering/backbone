@@ -1,5 +1,4 @@
-Periconiella mesoneuri-cuculati Arch. Singh, Bhalla & S.K. Singh SPECIES
-=======
+# Periconiella mesoneuri-cuculati Arch. Singh, Bhalla & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

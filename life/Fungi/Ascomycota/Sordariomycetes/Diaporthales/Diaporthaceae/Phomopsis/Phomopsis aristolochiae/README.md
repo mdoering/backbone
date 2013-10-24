@@ -1,5 +1,4 @@
-Phomopsis aristolochiae Grove SPECIES
-=======
+# Phomopsis aristolochiae Grove SPECIES
 
 #### Status
 ACCEPTED

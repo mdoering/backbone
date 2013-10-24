@@ -1,5 +1,4 @@
-Trichophyton crateriformis Sabour. SPECIES
-=======
+# Trichophyton crateriformis Sabour. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropus auriscalpium Fr. SPECIES
-=======
+# Pleuropus auriscalpium Fr. SPECIES
 
 #### Status
 ACCEPTED

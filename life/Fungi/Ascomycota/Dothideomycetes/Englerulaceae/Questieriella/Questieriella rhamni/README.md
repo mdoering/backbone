@@ -1,5 +1,4 @@
-Questieriella rhamni Hosag., K. Ravik. & Archana SPECIES
-=======
+# Questieriella rhamni Hosag., K. Ravik. & Archana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerella persooniae (Henn.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Anthracostroma persooniae (Henn.) Petr., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 8: 97 (1954)
 
 #### Original name
 Mycosphaerella persooniae Henn., 1903

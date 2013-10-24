@@ -1,5 +1,4 @@
-Placidiopsis crenulata (Nyl.) Zschacke SPECIES
-=======
+# Placidiopsis crenulata (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

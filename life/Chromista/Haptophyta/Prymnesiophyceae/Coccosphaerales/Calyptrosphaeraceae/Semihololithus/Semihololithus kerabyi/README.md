@@ -1,5 +1,4 @@
-Semihololithus kerabyi Perch-Nielsen, 1971 SPECIES
-=======
+# Semihololithus kerabyi Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

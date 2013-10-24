@@ -1,5 +1,4 @@
-Fomitopsis scalaris (Berk.) Ryvarden SPECIES
-=======
+# Fomitopsis scalaris (Berk.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

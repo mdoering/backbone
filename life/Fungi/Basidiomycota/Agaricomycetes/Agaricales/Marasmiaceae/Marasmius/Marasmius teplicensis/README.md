@@ -1,5 +1,4 @@
-Marasmius teplicensis Antonín & Skála SPECIES
-=======
+# Marasmius teplicensis Antonín & Skála SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea olivascens Th. Fr. SPECIES
-=======
+# Lecidea olivascens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

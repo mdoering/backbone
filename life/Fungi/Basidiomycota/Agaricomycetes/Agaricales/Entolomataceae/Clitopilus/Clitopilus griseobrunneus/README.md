@@ -1,5 +1,4 @@
-Clitopilus griseobrunneus T.J. Baroni & Halling SPECIES
-=======
+# Clitopilus griseobrunneus T.J. Baroni & Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopogon minuta Lei, Xu & Song, 1999 SPECIES
-=======
+# Stephanopogon minuta Lei, Xu & Song, 1999 SPECIES
 
 #### Status
 ACCEPTED

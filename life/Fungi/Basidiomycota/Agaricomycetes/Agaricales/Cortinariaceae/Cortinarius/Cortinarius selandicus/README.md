@@ -1,5 +1,4 @@
-Cortinarius selandicus Frøslev & T.S. Jeppesen SPECIES
-=======
+# Cortinarius selandicus Frøslev & T.S. Jeppesen SPECIES
 
 #### Status
 ACCEPTED

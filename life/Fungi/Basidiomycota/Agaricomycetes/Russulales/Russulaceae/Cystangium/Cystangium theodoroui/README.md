@@ -1,5 +1,4 @@
-Cystangium theodoroui T. Lebel, 2003 SPECIES
-=======
+# Cystangium theodoroui T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

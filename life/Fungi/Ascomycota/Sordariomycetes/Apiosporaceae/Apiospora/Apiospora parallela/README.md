@@ -1,5 +1,4 @@
-Apiospora parallela (P. Karst.) Sacc. SPECIES
-=======
+# Apiospora parallela (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

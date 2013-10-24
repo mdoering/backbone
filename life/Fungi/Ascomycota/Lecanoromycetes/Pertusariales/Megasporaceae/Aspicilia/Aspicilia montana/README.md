@@ -1,5 +1,4 @@
-Aspicilia montana (H. Magn.) Hav. SPECIES
-=======
+# Aspicilia montana (H. Magn.) Hav. SPECIES
 
 #### Status
 ACCEPTED

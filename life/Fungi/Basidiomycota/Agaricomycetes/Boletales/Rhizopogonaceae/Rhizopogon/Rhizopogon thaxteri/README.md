@@ -1,5 +1,4 @@
-Rhizopogon thaxteri Zeller SPECIES
-=======
+# Rhizopogon thaxteri Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium hiroshii Kurok. SPECIES
-=======
+# Lopadium hiroshii Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria conglomerata Hoffm. SPECIES
-=======
+# Verrucaria conglomerata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

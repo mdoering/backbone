@@ -1,5 +1,4 @@
-Arthonia pertenera Vain. SPECIES
-=======
+# Arthonia pertenera Vain. SPECIES
 
 #### Status
 ACCEPTED

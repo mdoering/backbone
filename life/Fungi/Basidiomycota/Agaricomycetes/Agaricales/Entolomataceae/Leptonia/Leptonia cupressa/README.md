@@ -1,5 +1,4 @@
-Leptonia cupressa Largent SPECIES
-=======
+# Leptonia cupressa Largent SPECIES
 
 #### Status
 ACCEPTED

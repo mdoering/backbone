@@ -1,5 +1,4 @@
-Buellia galbula SPECIES
-=======
+# Buellia galbula SPECIES
 
 #### Status
 ACCEPTED

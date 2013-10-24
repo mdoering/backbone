@@ -1,5 +1,4 @@
-Ramariopsis aurantio-olivacea R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis aurantio-olivacea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

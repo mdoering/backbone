@@ -1,5 +1,4 @@
-Botrytites Mesch. GENUS
-=======
+# Botrytites Mesch. GENUS
 
 #### Status
 ACCEPTED

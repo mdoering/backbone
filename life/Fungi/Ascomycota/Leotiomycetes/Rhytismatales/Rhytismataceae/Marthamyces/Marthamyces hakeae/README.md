@@ -1,5 +1,4 @@
-Marthamyces hakeae P.R. Johnst., 2006 SPECIES
-=======
+# Marthamyces hakeae P.R. Johnst., 2006 SPECIES
 
 #### Status
 ACCEPTED

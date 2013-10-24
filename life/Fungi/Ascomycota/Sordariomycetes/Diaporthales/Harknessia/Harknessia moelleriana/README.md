@@ -1,8 +1,7 @@
-Harknessia molleriana G. Winter SPECIES
-=======
+# Harknessia moelleriana G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Harknessia molleriana G. Winter
+Harknessia moelleriana G. Winter
 
 ### Remarks
 null

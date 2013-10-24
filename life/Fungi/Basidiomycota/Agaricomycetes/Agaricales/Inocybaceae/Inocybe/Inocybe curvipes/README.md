@@ -1,17 +1,16 @@
-Inocybe curvipes var. ionipes (Boud.) Enderle & Stangl VARIETY
-=======
+# Inocybe curvipes P. Karst., 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 29: 176 (1890)
 
 #### Original name
-null
+Inocybe curvipes P. Karst., 1890
 
 ### Remarks
 null

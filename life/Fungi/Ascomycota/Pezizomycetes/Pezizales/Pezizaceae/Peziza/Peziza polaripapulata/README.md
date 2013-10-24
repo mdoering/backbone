@@ -1,5 +1,4 @@
-Peziza polaripapulata (J. Moravec) K. Hansen SPECIES
-=======
+# Peziza polaripapulata (J. Moravec) K. Hansen SPECIES
 
 #### Status
 ACCEPTED

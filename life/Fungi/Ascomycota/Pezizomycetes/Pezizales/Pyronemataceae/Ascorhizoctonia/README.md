@@ -1,5 +1,4 @@
-Ascorhizoctonia Chin S. Yang & Korf, 1985 GENUS
-=======
+# Ascorhizoctonia Chin S. Yang & Korf, 1985 GENUS
 
 #### Status
 ACCEPTED

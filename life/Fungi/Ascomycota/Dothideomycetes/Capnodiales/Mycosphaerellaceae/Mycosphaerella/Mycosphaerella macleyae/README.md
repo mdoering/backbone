@@ -1,5 +1,4 @@
-Mycosphaerella macleyae Shirai & Hara SPECIES
-=======
+# Mycosphaerella macleyae Shirai & Hara SPECIES
 
 #### Status
 ACCEPTED

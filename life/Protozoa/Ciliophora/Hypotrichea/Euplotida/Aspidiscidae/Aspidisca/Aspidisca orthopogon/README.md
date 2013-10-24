@@ -1,5 +1,4 @@
-Aspidisca orthopogon Deroux & Tuffrau, 1965 SPECIES
-=======
+# Aspidisca orthopogon Deroux & Tuffrau, 1965 SPECIES
 
 #### Status
 ACCEPTED

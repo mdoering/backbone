@@ -1,5 +1,4 @@
-Lecanora araneosa (C. Bab.) Nyl. SPECIES
-=======
+# Lecanora araneosa (C. Bab.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

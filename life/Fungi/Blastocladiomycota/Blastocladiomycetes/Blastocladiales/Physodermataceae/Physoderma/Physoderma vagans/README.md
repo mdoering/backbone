@@ -1,5 +1,4 @@
-Physoderma vagans J. Schröt. SPECIES
-=======
+# Physoderma vagans J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium sorbi Arthur SPECIES
-=======
+# Aecidium sorbi Arthur SPECIES
 
 #### Status
 ACCEPTED

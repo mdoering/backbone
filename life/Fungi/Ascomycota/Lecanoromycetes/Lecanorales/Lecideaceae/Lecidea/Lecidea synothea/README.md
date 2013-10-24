@@ -1,5 +1,4 @@
-Lecidea synothea Ach. SPECIES
-=======
+# Lecidea synothea Ach. SPECIES
 
 #### Status
 ACCEPTED

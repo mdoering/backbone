@@ -1,5 +1,4 @@
-Cylindrobasidium argenteum (Kobayasi) N. Maek. SPECIES
-=======
+# Cylindrobasidium argenteum (Kobayasi) N. Maek. SPECIES
 
 #### Status
 ACCEPTED

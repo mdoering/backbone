@@ -1,5 +1,4 @@
-Sphenomonadidae FAMILY
-=======
+# Sphenomonadidae FAMILY
 
 #### Status
 SYNONYM

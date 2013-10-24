@@ -1,5 +1,4 @@
-Chiodecton mycelioides Vain. SPECIES
-=======
+# Chiodecton mycelioides Vain. SPECIES
 
 #### Status
 ACCEPTED

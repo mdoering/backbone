@@ -1,5 +1,4 @@
-Haliangium Fudou et al., 2002 GENUS
-=======
+# Haliangium Fudou et al., 2002 GENUS
 
 #### Status
 ACCEPTED

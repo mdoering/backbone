@@ -1,5 +1,4 @@
-Tertoniidae Dumitrica & Zügel, 2003 FAMILY
-=======
+# Tertoniidae Dumitrica & Zügel, 2003 FAMILY
 
 #### Status
 ACCEPTED

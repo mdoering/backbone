@@ -1,17 +1,16 @@
-Ascocorticium albidum var. albidum VARIETY
-=======
+# Ascocorticium anomalum (Ellis & Harkn.) J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Unters. Gesammtgeb. Mykol. 9: 145 (1891)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 161 (1894)
 
 #### Original name
-Ascocorticium albidum var. albidum
+Ascomyces anomalus Ellis & Harkn., 1881
 
 ### Remarks
 null

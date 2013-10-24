@@ -1,5 +1,4 @@
-Lecanactis vestita (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanactis vestita (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

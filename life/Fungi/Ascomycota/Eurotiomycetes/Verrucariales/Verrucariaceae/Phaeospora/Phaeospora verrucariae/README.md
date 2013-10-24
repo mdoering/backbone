@@ -1,5 +1,4 @@
-Phaeospora verrucariae Alstrup & E.S. Hansen SPECIES
-=======
+# Phaeospora verrucariae Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma stenostomum Ellis & Everh. SPECIES
-=======
+# Lophiostoma stenostomum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

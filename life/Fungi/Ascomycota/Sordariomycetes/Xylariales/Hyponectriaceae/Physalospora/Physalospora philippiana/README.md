@@ -1,5 +1,4 @@
-Physalospora philippiana G. Winter SPECIES
-=======
+# Physalospora philippiana G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striatotheca trapeziformis Burmann, 1970 SPECIES
-=======
+# Striatotheca trapeziformis Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

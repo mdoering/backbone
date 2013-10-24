@@ -1,8 +1,7 @@
-Pleurotricha echinata Stein, 1859 SPECIES
-=======
+# Tachysoma pellionellum (Müller, 1773) Borror, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

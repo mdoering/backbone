@@ -1,5 +1,4 @@
-Phaeomarasmius eucalypti (Earle) Singer SPECIES
-=======
+# Phaeomarasmius eucalypti (Earle) Singer SPECIES
 
 #### Status
 ACCEPTED

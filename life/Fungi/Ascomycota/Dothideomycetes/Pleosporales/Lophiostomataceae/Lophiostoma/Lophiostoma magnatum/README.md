@@ -1,5 +1,4 @@
-Lophiostoma magnatum Cooke & Peck SPECIES
-=======
+# Lophiostoma magnatum Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

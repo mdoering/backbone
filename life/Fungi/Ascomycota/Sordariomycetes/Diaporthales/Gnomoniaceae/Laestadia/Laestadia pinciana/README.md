@@ -1,5 +1,4 @@
-Laestadia pinciana Pass. SPECIES
-=======
+# Laestadia pinciana Pass. SPECIES
 
 #### Status
 ACCEPTED

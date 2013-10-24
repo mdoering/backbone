@@ -1,5 +1,4 @@
-Biatora carneoalbida (Müll. Arg.) Coppins, 1992 SPECIES
-=======
+# Biatora carneoalbida (Müll. Arg.) Coppins, 1992 SPECIES
 
 #### Status
 DOUBTFUL

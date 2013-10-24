@@ -1,5 +1,4 @@
-Laboulbenia subbituberculata Speg. SPECIES
-=======
+# Laboulbenia subbituberculata Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Iodophanus kimbroughii K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Iodophanus kimbroughii K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

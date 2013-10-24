@@ -1,5 +1,4 @@
-Caloplaca pyropoeciloides Zahlbr. SPECIES
-=======
+# Caloplaca pyropoeciloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Togninia griseo-olivacea Damm, L. Mostert & Crous SPECIES
-=======
+# Togninia griseo-olivacea Damm, L. Mostert & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia roigii Singer SPECIES
-=======
+# Hohenbuehelia roigii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia callistephi Savul. SPECIES
-=======
+# Puccinia callistephi Savul. SPECIES
 
 #### Status
 ACCEPTED

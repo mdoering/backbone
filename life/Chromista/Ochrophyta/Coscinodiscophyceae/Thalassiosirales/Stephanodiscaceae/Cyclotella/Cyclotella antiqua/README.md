@@ -1,11 +1,10 @@
-Cyclotella operculata var. antiqua W. Sm. VARIETY
-=======
+# Cyclotella antiqua W. Smith SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

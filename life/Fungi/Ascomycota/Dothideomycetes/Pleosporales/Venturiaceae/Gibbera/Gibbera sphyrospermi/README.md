@@ -1,5 +1,4 @@
-Gibbera sphyrospermi Samuels, M.E. Barr & Rogerson SPECIES
-=======
+# Gibbera sphyrospermi Samuels, M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterolibacterium denitrificans Tarlera & Denner, 2003 SPECIES
-=======
+# Sterolibacterium denitrificans Tarlera & Denner, 2003 SPECIES
 
 #### Status
 ACCEPTED

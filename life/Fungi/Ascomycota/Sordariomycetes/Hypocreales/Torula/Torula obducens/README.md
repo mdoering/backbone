@@ -1,5 +1,4 @@
-Torula obducens P. Karst. SPECIES
-=======
+# Torula obducens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

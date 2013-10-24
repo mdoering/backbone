@@ -1,5 +1,4 @@
-Sterigmatocystis phaeocephala (Durieu & Mont.) Sacc. SPECIES
-=======
+# Sterigmatocystis phaeocephala (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

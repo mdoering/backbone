@@ -1,5 +1,4 @@
-Psidimobipiospora clarkii Sal.-Cheb. & Locq. SPECIES
-=======
+# Psidimobipiospora clarkii Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

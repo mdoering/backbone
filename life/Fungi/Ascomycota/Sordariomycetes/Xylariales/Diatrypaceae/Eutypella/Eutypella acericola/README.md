@@ -1,5 +1,4 @@
-Eutypella acericola (Sacc.) Berl., 1902 SPECIES
-=======
+# Eutypella acericola (Sacc.) Berl., 1902 SPECIES
 
 #### Status
 ACCEPTED

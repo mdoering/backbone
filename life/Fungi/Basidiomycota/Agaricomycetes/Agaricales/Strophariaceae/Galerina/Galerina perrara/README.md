@@ -1,5 +1,4 @@
-Galerina perrara Singer SPECIES
-=======
+# Galerina perrara Singer SPECIES
 
 #### Status
 ACCEPTED

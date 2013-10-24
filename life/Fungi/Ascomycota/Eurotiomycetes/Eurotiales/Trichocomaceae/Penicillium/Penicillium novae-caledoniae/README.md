@@ -1,17 +1,16 @@
-Penicillium novae-caledoniae var. novae-caledoniae VARIETY
-=======
+# Penicillium novae-caledoniae G. Sm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 48(2): 273 (1965)
 
 #### Original name
-null
+Penicillium novae-caledoniae G. Sm.
 
 ### Remarks
 null

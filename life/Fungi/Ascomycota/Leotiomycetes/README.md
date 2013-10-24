@@ -1,5 +1,4 @@
-Leotiomycetes O.E. Erikss. & Winka CLASS
-=======
+# Leotiomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

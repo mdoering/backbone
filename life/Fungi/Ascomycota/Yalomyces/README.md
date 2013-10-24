@@ -1,5 +1,4 @@
-Yalomyces Nag Raj GENUS
-=======
+# Yalomyces Nag Raj GENUS
 
 #### Status
 ACCEPTED

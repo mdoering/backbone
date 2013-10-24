@@ -1,5 +1,4 @@
-Oedocephalum macrosporum Penz. & Sacc. SPECIES
-=======
+# Oedocephalum macrosporum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

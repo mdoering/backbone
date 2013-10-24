@@ -1,5 +1,4 @@
-Ascochyta decipiens Trail SPECIES
-=======
+# Ascochyta decipiens Trail SPECIES
 
 #### Status
 ACCEPTED

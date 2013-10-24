@@ -1,5 +1,4 @@
-Puccinia rhei-palmati B. Li SPECIES
-=======
+# Puccinia rhei-palmati B. Li SPECIES
 
 #### Status
 ACCEPTED

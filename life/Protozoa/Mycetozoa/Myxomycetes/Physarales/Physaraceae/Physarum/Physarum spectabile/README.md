@@ -1,5 +1,4 @@
-Physarum spectabile Nann.-Bremek., Lado & G. Moreno, 1984 SPECIES
-=======
+# Physarum spectabile Nann.-Bremek., Lado & G. Moreno, 1984 SPECIES
 
 #### Status
 ACCEPTED

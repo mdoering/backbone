@@ -1,5 +1,4 @@
-Janetia salicis Li Xu & Y.L. Guo SPECIES
-=======
+# Janetia salicis Li Xu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

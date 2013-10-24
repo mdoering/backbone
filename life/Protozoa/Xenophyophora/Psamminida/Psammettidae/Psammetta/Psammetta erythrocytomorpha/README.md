@@ -1,5 +1,4 @@
-Psammetta erythrocytomorpha Schultze, 1907 SPECIES
-=======
+# Psammetta erythrocytomorpha Schultze, 1907 SPECIES
 
 #### Status
 ACCEPTED

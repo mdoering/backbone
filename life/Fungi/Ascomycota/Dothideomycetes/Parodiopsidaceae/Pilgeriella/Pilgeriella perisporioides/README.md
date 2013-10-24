@@ -1,5 +1,4 @@
-Pilgeriella perisporioides Henn., 1900 SPECIES
-=======
+# Pilgeriella perisporioides Henn., 1900 SPECIES
 
 #### Status
 ACCEPTED

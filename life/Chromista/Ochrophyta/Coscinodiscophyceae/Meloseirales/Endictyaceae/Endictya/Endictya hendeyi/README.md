@@ -1,5 +1,4 @@
-Endictya hendeyi E. Hemphill-Haley & A. D. Mahood SPECIES
-=======
+# Endictya hendeyi E. Hemphill-Haley & A. D. Mahood SPECIES
 
 #### Status
 ACCEPTED

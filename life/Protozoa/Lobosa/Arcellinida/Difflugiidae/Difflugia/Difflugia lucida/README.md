@@ -1,5 +1,4 @@
-Difflugia lucida Penard, 1890 SPECIES
-=======
+# Difflugia lucida Penard, 1890 SPECIES
 
 #### Status
 ACCEPTED

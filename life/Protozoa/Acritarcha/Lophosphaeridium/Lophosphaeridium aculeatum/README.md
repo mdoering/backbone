@@ -1,5 +1,4 @@
-Lophosphaeridium aculeatum Uutela & Tynni, 1991 SPECIES
-=======
+# Lophosphaeridium aculeatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urobacillus GENUS
-=======
+# Urobacillus GENUS
 
 #### Status
 ACCEPTED

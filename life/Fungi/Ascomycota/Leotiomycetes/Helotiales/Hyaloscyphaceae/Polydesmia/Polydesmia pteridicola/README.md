@@ -1,5 +1,4 @@
-Polydesmia pteridicola W.Y. Zhuang SPECIES
-=======
+# Polydesmia pteridicola W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha ovalis Kahl, 1932 SPECIES
-=======
+# Holosticha ovalis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

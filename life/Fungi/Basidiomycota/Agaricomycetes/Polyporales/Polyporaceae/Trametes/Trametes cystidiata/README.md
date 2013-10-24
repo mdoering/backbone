@@ -1,5 +1,4 @@
-Trametes cystidiata I. Lindblad & Ryvarden, 1999 SPECIES
-=======
+# Trametes cystidiata I. Lindblad & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

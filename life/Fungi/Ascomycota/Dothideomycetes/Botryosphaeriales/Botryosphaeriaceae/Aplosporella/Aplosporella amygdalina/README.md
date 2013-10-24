@@ -1,5 +1,4 @@
-Aplosporella amygdalina Dearn. & Barthol. SPECIES
-=======
+# Aplosporella amygdalina Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

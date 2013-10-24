@@ -1,5 +1,4 @@
-Xenococcus yellowstonensis Copeland SPECIES
-=======
+# Xenococcus yellowstonensis Copeland SPECIES
 
 #### Status
 ACCEPTED

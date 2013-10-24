@@ -1,5 +1,4 @@
-Cyphella furcata Berk. & M.A. Curtis SPECIES
-=======
+# Cyphella furcata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

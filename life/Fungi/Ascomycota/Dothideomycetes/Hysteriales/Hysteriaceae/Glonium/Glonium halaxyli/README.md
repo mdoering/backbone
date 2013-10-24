@@ -1,5 +1,4 @@
-Glonium halaxyli Kravtzev SPECIES
-=======
+# Glonium halaxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

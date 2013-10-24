@@ -1,5 +1,4 @@
-Diplodina tatarica Allesch. SPECIES
-=======
+# Diplodina tatarica Allesch. SPECIES
 
 #### Status
 ACCEPTED

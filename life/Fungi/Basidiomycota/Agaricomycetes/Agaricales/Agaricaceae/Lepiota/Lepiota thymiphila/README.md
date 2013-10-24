@@ -1,5 +1,4 @@
-Lepiota thymiphila Velen. SPECIES
-=======
+# Lepiota thymiphila Velen. SPECIES
 
 #### Status
 ACCEPTED

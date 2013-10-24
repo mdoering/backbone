@@ -1,5 +1,4 @@
-Horakomyces inocyboides (Singer) Raithelh. SPECIES
-=======
+# Horakomyces inocyboides (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

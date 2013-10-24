@@ -1,5 +1,4 @@
-Asterina alchorneae-javanensis Hansf. SPECIES
-=======
+# Asterina alchorneae-javanensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermatodium fumago (Wallr.) Trevis. SPECIES
-=======
+# Spermatodium fumago (Wallr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

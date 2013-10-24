@@ -1,5 +1,4 @@
-Sorosporium californicum Harkn. SPECIES
-=======
+# Sorosporium californicum Harkn. SPECIES
 
 #### Status
 ACCEPTED

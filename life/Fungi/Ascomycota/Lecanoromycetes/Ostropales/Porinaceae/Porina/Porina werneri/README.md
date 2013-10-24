@@ -1,5 +1,4 @@
-Porina werneri (M. Choisy) Zahlbr. SPECIES
-=======
+# Porina werneri (M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

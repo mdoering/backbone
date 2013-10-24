@@ -1,17 +1,16 @@
-Phaeotrema jamaicense Müll. Arg. SPECIES
-=======
+# Phaeotrema jamaicensis Müll. Arg., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 69: 311 (1886)
 
 #### Original name
-Phaeotrema jamaicense Müll. Arg.
+Phaeotrema jamaicensis Müll. Arg., 1886
 
 ### Remarks
 null

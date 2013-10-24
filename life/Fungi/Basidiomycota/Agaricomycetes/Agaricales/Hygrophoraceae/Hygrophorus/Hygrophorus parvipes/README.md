@@ -1,5 +1,4 @@
-Hygrophorus parvipes Britzelm. SPECIES
-=======
+# Hygrophorus parvipes Britzelm. SPECIES
 
 #### Status
 ACCEPTED

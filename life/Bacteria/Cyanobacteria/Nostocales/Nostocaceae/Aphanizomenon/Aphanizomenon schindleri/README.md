@@ -1,5 +1,4 @@
-Aphanizomenon schindleri Kling, Findlay & Komarek, 1994 SPECIES
-=======
+# Aphanizomenon schindleri Kling, Findlay & Komarek, 1994 SPECIES
 
 #### Status
 ACCEPTED

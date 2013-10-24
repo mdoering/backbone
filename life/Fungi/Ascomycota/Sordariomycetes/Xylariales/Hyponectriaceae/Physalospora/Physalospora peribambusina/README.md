@@ -1,5 +1,4 @@
-Physalospora peribambusina Rehm SPECIES
-=======
+# Physalospora peribambusina Rehm SPECIES
 
 #### Status
 ACCEPTED

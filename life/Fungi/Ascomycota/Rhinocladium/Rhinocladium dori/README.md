@@ -1,5 +1,4 @@
-Rhinocladium dori (Beurm. & Gougerot) Neveu-Lem. SPECIES
-=======
+# Rhinocladium dori (Beurm. & Gougerot) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

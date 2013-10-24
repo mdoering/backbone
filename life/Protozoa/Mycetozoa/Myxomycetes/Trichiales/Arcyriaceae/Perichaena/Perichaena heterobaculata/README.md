@@ -1,5 +1,4 @@
-Perichaena heterobaculata Rammeloo, 1981 SPECIES
-=======
+# Perichaena heterobaculata Rammeloo, 1981 SPECIES
 
 #### Status
 ACCEPTED

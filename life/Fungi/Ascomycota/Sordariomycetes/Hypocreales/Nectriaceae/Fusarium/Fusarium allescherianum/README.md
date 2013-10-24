@@ -1,5 +1,4 @@
-Fusarium allescherianum Henn. SPECIES
-=======
+# Fusarium allescherianum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cylindrosporium eryngiicola Vassiljevsky SPECIES
-=======
+# Cylindrosporium eryngicola Vassiljevsky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi Imperfecti Parasitici 2: 584 (1950)
 
 #### Original name
-Cylindrosporium eryngiicola Vassiljevsky
+Cylindrosporium eryngicola Vassiljevsky
 
 ### Remarks
 null

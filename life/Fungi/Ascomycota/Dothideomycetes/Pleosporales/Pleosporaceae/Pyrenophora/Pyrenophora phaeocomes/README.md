@@ -1,17 +1,16 @@
-Ceuthospora phaeocomes (Rebent.) Fr., 1825 SPECIES
-=======
+# Pyrenophora phaeocomes (Rebent.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 397 (1849)
 
 #### Original name
-null
+Sphaeria phaeocomes Rebent., 1804
 
 ### Remarks
 null

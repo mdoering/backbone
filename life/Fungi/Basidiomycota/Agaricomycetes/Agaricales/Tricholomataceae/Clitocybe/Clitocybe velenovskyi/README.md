@@ -1,5 +1,4 @@
-Clitocybe velenovskyi Singer SPECIES
-=======
+# Clitocybe velenovskyi Singer SPECIES
 
 #### Status
 ACCEPTED

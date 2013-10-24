@@ -1,5 +1,4 @@
-Inocybe chalcodoxantha Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe chalcodoxantha Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

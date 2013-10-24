@@ -1,5 +1,4 @@
-Hypocrea substipitata (Seaver) P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea substipitata (Seaver) P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

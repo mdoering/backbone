@@ -1,5 +1,4 @@
-Phoma rhododendri Cooke SPECIES
-=======
+# Phoma rhododendri Cooke SPECIES
 
 #### Status
 ACCEPTED

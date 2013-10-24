@@ -1,5 +1,4 @@
-Acanthostigma spectabile Syd. SPECIES
-=======
+# Acanthostigma spectabile Syd. SPECIES
 
 #### Status
 ACCEPTED

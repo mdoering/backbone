@@ -1,5 +1,4 @@
-Gorgonisphaeridium lewisii (Deunff, 1954) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium lewisii (Deunff, 1954) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

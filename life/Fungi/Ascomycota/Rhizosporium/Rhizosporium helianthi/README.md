@@ -1,5 +1,4 @@
-Rhizosporium helianthi (Wallr.) Rabenh. SPECIES
-=======
+# Rhizosporium helianthi (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia rubi Syd. & P. Syd. SPECIES
-=======
+# Botryodiplodia rubi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

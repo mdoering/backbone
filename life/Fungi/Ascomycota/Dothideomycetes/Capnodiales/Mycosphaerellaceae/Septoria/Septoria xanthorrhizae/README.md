@@ -1,5 +1,4 @@
-Septoria xanthorrhizae Moesz SPECIES
-=======
+# Septoria xanthorrhizae Moesz SPECIES
 
 #### Status
 ACCEPTED

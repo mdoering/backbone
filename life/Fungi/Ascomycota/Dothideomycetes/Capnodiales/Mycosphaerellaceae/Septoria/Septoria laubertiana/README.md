@@ -1,5 +1,4 @@
-Septoria laubertiana Teterevn. SPECIES
-=======
+# Septoria laubertiana Teterevn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza macrochaeta Fr. SPECIES
-=======
+# Peziza macrochaeta Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ulanisphaeridium A. McMinn, 1982 GENUS
-=======
+# Ulanisphaeridium A. McMinn, 1982 GENUS
 
 #### Status
 ACCEPTED

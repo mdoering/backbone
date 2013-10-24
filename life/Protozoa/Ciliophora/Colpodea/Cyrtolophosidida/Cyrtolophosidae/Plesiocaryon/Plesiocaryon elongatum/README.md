@@ -1,8 +1,7 @@
-Balantiophorus elongata Schewiakoff, 1892 SPECIES
-=======
+# Plesiocaryon elongatum (Schewiakoff, 1892) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

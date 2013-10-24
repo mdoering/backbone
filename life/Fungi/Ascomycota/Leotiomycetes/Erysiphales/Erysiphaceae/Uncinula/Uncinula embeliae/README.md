@@ -1,5 +1,4 @@
-Uncinula embeliae R.K. Verma, Chand & Kamal SPECIES
-=======
+# Uncinula embeliae R.K. Verma, Chand & Kamal SPECIES
 
 #### Status
 ACCEPTED

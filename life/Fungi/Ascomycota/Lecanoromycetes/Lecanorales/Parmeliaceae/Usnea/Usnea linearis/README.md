@@ -1,5 +1,4 @@
-Usnea linearis Schneid. SPECIES
-=======
+# Usnea linearis Schneid. SPECIES
 
 #### Status
 ACCEPTED

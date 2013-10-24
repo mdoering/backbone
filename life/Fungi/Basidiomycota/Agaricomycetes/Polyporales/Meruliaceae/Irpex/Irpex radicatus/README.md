@@ -1,5 +1,4 @@
-Irpex radicatus Fuckel SPECIES
-=======
+# Irpex radicatus Fuckel SPECIES
 
 #### Status
 ACCEPTED

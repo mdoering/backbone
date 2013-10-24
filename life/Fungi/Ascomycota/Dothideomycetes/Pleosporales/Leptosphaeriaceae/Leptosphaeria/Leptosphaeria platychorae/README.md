@@ -1,5 +1,4 @@
-Leptosphaeria platychorae E. Müll. SPECIES
-=======
+# Leptosphaeria platychorae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

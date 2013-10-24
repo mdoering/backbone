@@ -1,5 +1,4 @@
-Coscinodiscus exiguus Rattray, 1890 SPECIES
-=======
+# Coscinodiscus exiguus Rattray, 1890 SPECIES
 
 #### Status
 ACCEPTED

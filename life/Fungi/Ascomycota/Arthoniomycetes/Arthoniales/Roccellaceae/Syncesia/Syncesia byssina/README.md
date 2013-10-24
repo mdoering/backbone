@@ -1,5 +1,4 @@
-Syncesia byssina (Vain.) Tehler SPECIES
-=======
+# Syncesia byssina (Vain.) Tehler SPECIES
 
 #### Status
 ACCEPTED

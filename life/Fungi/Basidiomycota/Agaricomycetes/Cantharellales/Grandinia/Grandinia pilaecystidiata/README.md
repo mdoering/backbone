@@ -1,5 +1,4 @@
-Grandinia pilaecystidiata (S. Lundell) Jülich SPECIES
-=======
+# Grandinia pilaecystidiata (S. Lundell) Jülich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia lygaeodes Körb. SPECIES
-=======
+# Buellia lygaeodes Körb. SPECIES
 
 #### Status
 ACCEPTED

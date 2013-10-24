@@ -1,5 +1,4 @@
-Myrmaecium penicillariae Speg. SPECIES
-=======
+# Myrmaecium penicillariae Speg. SPECIES
 
 #### Status
 ACCEPTED

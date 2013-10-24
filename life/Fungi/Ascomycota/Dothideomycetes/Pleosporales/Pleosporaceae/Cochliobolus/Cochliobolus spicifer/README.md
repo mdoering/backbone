@@ -1,17 +1,16 @@
-Brachycladium spiciferum Bainier, 1908 SPECIES
-=======
+# Cochliobolus spicifer R.R. Nelson, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 24(1): 81 (1908)
+Mycologia 56: 198 (1964)
 
 #### Original name
-Brachycladium spiciferum Bainier, 1908
+Cochliobolus spicifer R.R. Nelson, 1964
 
 ### Remarks
 null

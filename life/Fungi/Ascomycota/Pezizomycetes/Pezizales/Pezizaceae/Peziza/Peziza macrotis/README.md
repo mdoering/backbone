@@ -1,5 +1,4 @@
-Peziza macrotis Berk. SPECIES
-=======
+# Peziza macrotis Berk. SPECIES
 
 #### Status
 ACCEPTED

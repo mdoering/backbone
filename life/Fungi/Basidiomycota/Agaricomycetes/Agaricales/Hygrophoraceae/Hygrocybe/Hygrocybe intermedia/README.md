@@ -1,17 +1,16 @@
-Godfrinia intermedia var. citrina Herink VARIETY
-=======
+# Hygrocybe intermedia (Pass.) Fayod, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sborník severoceského Musea, Historia Naturalis 1: 67 (1958)
+Annls Sci. Nat. , Bot. , sér. 7 9: 309 (1889)
 
 #### Original name
-Godfrinia intermedia var. citrina Herink
+Hygrophorus intermedius Pass., 1872
 
 ### Remarks
 null

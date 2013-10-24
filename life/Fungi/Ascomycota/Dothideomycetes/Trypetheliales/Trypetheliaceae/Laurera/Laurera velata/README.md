@@ -1,5 +1,4 @@
-Laurera velata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera velata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

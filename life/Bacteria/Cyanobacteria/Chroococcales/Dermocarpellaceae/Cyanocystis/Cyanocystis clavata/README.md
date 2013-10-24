@@ -1,5 +1,4 @@
-Cyanocystis clavata (Setchell & Gardner) G. Hällfors SPECIES
-=======
+# Cyanocystis clavata (Setchell & Gardner) G. Hällfors SPECIES
 
 #### Status
 ACCEPTED

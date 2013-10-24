@@ -1,5 +1,4 @@
-Acaricomes Pukall et al., 2006 GENUS
-=======
+# Acaricomes Pukall et al., 2006 GENUS
 
 #### Status
 ACCEPTED

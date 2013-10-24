@@ -1,5 +1,4 @@
-Graphina balfourii Müll. Arg. SPECIES
-=======
+# Graphina balfourii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

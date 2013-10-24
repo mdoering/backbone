@@ -1,5 +1,4 @@
-Mastigosporium kitzebergense U. Schlöss., 1970 SPECIES
-=======
+# Mastigosporium kitzebergense U. Schlöss., 1970 SPECIES
 
 #### Status
 ACCEPTED

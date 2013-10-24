@@ -1,5 +1,4 @@
-Macrosporium savulescui Tóth SPECIES
-=======
+# Macrosporium savulescui Tóth SPECIES
 
 #### Status
 ACCEPTED

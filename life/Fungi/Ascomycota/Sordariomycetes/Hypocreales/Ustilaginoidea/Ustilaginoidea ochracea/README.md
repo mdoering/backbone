@@ -1,5 +1,4 @@
-Ustilaginoidea ochracea Henn. SPECIES
-=======
+# Ustilaginoidea ochracea Henn. SPECIES
 
 #### Status
 ACCEPTED

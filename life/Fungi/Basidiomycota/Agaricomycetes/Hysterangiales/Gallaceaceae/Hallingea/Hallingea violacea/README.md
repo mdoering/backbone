@@ -1,14 +1,13 @@
-Hallingea violaceus (E. Horak) Castellano SPECIES
-=======
+# Hallingea violacea (E. Horak) Castellano, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Castellano & Muchovej, Mycotaxon 57: 343 (1996)
 
 #### Original name
 Hysterangium violaceum E. Horak, 1964

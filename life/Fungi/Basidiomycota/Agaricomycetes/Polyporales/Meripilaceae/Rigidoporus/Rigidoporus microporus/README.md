@@ -1,17 +1,16 @@
-Rigidoporus microporus var. microporus VARIETY
-=======
+# Rigidoporus microporus (Sw.) Overeem, 1924 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Icon. Fung. Malay. 5: 1 (1924)
 
 #### Original name
-Rigidoporus microporus var. microporus
+Boletus microporus Sw., 1806
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myxobotrys GENUS
-=======
+# Myxobotrys GENUS
 
 #### Status
 ACCEPTED

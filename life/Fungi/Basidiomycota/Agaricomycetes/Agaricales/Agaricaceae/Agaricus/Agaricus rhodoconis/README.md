@@ -1,5 +1,4 @@
-Agaricus rhodoconis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus rhodoconis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

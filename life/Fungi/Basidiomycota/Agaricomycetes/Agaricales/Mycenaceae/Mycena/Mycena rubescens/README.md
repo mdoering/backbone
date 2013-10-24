@@ -1,5 +1,4 @@
-Mycena rubescens M. Villarreal, Esteve-Rav., Heykoop & Maas Geest. SPECIES
-=======
+# Mycena rubescens M. Villarreal, Esteve-Rav., Heykoop & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

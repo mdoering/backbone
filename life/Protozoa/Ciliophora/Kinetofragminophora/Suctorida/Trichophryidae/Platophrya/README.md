@@ -1,5 +1,4 @@
-Platophrya Gönnert, 1935 GENUS
-=======
+# Platophrya Gönnert, 1935 GENUS
 
 #### Status
 ACCEPTED

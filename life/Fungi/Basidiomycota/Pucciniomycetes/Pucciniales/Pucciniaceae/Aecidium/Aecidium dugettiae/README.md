@@ -1,5 +1,4 @@
-Aecidium dugettiae Har. SPECIES
-=======
+# Aecidium dugettiae Har. SPECIES
 
 #### Status
 ACCEPTED

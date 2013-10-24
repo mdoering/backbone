@@ -1,5 +1,4 @@
-Dangeardia appendiculata Zopf SPECIES
-=======
+# Dangeardia appendiculata Zopf SPECIES
 
 #### Status
 ACCEPTED

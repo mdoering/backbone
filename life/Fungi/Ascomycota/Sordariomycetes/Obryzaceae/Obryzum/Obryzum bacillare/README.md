@@ -1,5 +1,4 @@
-Obryzum bacillare (Wallr.) Körb. SPECIES
-=======
+# Obryzum bacillare (Wallr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

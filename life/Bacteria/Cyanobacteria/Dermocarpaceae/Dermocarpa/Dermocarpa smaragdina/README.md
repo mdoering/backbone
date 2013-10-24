@@ -1,5 +1,4 @@
-Dermocarpa smaragdina (Reinsch) Tilden SPECIES
-=======
+# Dermocarpa smaragdina (Reinsch) Tilden SPECIES
 
 #### Status
 ACCEPTED

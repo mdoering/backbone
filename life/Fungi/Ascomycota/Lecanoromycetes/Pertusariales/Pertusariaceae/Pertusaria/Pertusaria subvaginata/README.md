@@ -1,5 +1,4 @@
-Pertusaria subvaginata Nyl. SPECIES
-=======
+# Pertusaria subvaginata Nyl. SPECIES
 
 #### Status
 ACCEPTED

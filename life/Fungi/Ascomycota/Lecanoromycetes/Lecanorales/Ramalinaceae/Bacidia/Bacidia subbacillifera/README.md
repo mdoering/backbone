@@ -1,5 +1,4 @@
-Bacidia subbacillifera (Nyl.) SPECIES
-=======
+# Bacidia subbacillifera (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

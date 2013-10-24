@@ -1,5 +1,4 @@
-Phyllachora hendrickxii Hansf., 1947 SPECIES
-=======
+# Phyllachora hendrickxii Hansf., 1947 SPECIES
 
 #### Status
 ACCEPTED

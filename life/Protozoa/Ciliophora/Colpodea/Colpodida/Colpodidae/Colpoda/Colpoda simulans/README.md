@@ -1,5 +1,4 @@
-Colpoda simulans Kahl, 1931 SPECIES
-=======
+# Colpoda simulans Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

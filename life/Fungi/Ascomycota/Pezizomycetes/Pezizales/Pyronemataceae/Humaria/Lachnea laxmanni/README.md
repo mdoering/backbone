@@ -1,5 +1,4 @@
-Lachnea laxmanni (Weinm.) Sacc. SPECIES
-=======
+# Lachnea laxmanni (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

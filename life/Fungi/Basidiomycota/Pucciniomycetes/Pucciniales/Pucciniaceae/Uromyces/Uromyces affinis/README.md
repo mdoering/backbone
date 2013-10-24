@@ -1,5 +1,4 @@
-Uromyces affinis G. Winter SPECIES
-=======
+# Uromyces affinis G. Winter SPECIES
 
 #### Status
 ACCEPTED

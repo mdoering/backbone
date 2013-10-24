@@ -1,5 +1,4 @@
-Psilocybe kramburkicola Grgur. SPECIES
-=======
+# Psilocybe kramburkicola Grgur. SPECIES
 
 #### Status
 ACCEPTED

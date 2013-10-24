@@ -1,5 +1,4 @@
-Phyllosticta althaeicola Pass. SPECIES
-=======
+# Phyllosticta althaeicola Pass. SPECIES
 
 #### Status
 ACCEPTED

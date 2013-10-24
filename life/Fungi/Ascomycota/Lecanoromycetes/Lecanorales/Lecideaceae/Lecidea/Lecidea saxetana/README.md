@@ -1,5 +1,4 @@
-Lecidea saxetana Ach. SPECIES
-=======
+# Lecidea saxetana Ach. SPECIES
 
 #### Status
 ACCEPTED

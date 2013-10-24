@@ -1,5 +1,4 @@
-Amphoridium cinereoviridescens (Zschacke) Servít SPECIES
-=======
+# Amphoridium cinereoviridescens (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

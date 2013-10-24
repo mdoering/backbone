@@ -1,5 +1,4 @@
-Penicillium roseololilacinum Novobr. SPECIES
-=======
+# Penicillium roseololilacinum Novobr. SPECIES
 
 #### Status
 ACCEPTED

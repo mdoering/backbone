@@ -1,5 +1,4 @@
-Articularia von Höhnel, 1909 GENUS
-=======
+# Articularia von Höhnel, 1909 GENUS
 
 #### Status
 ACCEPTED

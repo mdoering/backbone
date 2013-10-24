@@ -1,5 +1,4 @@
-Usnea subtorulosa (Zahlbr.) Motyka SPECIES
-=======
+# Usnea subtorulosa (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

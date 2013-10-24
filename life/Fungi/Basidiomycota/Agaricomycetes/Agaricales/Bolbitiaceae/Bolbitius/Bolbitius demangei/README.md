@@ -1,5 +1,4 @@
-Bolbitius demangei (Quél.) Sacc. & D. Sacc. SPECIES
-=======
+# Bolbitius demangei (Quél.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

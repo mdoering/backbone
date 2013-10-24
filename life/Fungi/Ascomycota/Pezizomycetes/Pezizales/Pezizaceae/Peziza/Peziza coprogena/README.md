@@ -1,5 +1,4 @@
-Peziza coprogena Berk. & Broome SPECIES
-=======
+# Peziza coprogena Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

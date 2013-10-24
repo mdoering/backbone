@@ -1,5 +1,4 @@
-Cladonia squamulosa f. squamulosa FORM
-=======
+# Cladonia squamulosa anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia squamulosa f. squamulosa
+Cladonia squamulosa anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia seymouriana Arthur SPECIES
-=======
+# Puccinia seymouriana Arthur SPECIES
 
 #### Status
 ACCEPTED

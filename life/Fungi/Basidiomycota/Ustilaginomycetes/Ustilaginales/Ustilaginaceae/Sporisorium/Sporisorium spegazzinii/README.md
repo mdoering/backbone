@@ -1,5 +1,4 @@
-Sporisorium spegazzinii Vánky SPECIES
-=======
+# Sporisorium spegazzinii Vánky SPECIES
 
 #### Status
 ACCEPTED

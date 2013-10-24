@@ -1,5 +1,4 @@
-Isaria basili (Taylor) Kobayasi SPECIES
-=======
+# Isaria basili (Taylor) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

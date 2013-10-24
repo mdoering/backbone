@@ -1,5 +1,4 @@
-Sclerotium hesperidum Sacc. SPECIES
-=======
+# Sclerotium hesperidum Sacc. SPECIES
 
 #### Status
 ACCEPTED

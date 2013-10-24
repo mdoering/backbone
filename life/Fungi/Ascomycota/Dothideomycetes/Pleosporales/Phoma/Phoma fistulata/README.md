@@ -1,5 +1,4 @@
-Phoma fistulata Etayo & Osorio SPECIES
-=======
+# Phoma fistulata Etayo & Osorio SPECIES
 
 #### Status
 ACCEPTED

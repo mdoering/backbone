@@ -1,5 +1,4 @@
-Leptonia marginata Peck ex Sacc. SPECIES
-=======
+# Leptonia marginata Peck ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

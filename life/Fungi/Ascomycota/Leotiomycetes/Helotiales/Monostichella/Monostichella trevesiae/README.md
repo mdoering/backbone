@@ -1,5 +1,4 @@
-Monostichella trevesiae Keissl. SPECIES
-=======
+# Monostichella trevesiae Keissl. SPECIES
 
 #### Status
 ACCEPTED

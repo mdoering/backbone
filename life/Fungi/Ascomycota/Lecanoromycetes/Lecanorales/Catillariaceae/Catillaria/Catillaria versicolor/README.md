@@ -1,5 +1,4 @@
-Catillaria versicolor G. Pant & D. D. Awasthi SPECIES
-=======
+# Catillaria versicolor G. Pant & D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

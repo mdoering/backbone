@@ -1,5 +1,4 @@
-Phomopsis amazonica (Syd. & P. Syd.) Aa SPECIES
-=======
+# Phomopsis amazonica (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

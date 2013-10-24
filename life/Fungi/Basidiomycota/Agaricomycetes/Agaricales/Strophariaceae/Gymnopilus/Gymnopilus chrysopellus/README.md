@@ -1,14 +1,13 @@
-Flammula chrysopella (Berk. & M.A. Curtis) Pat., 1903 SPECIES
-=======
+# Gymnopilus chrysopellus (Berk. & M.A. Curtis) Murrill, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 54 (1903)
+Mycologia 5(1): 23 (1913)
 
 #### Original name
 Agaricus chrysopellus Berk. & M.A. Curtis, 1868

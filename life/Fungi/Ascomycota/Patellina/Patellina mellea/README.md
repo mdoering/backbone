@@ -1,5 +1,4 @@
-Patellina mellea E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Patellina mellea E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

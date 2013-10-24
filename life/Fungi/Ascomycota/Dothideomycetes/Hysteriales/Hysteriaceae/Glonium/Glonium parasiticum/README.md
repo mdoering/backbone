@@ -1,5 +1,4 @@
-Glonium parasiticum Speer SPECIES
-=======
+# Glonium parasiticum Speer SPECIES
 
 #### Status
 ACCEPTED

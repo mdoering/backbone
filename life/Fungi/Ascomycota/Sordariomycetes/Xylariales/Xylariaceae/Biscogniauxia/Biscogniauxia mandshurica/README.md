@@ -1,5 +1,4 @@
-Biscogniauxia mandshurica Lar.N. Vassiljeva SPECIES
-=======
+# Biscogniauxia mandshurica Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

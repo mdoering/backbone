@@ -1,5 +1,4 @@
-Paenibacillus elgii Kim et al., 2004 SPECIES
-=======
+# Paenibacillus elgii Kim et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

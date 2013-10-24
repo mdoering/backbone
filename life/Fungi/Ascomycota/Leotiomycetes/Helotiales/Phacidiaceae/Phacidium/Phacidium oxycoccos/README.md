@@ -1,5 +1,4 @@
-Phacidium oxycoccos Fr. SPECIES
-=======
+# Phacidium oxycoccos Fr. SPECIES
 
 #### Status
 ACCEPTED

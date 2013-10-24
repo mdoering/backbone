@@ -1,5 +1,4 @@
-Phanerococcus GENUS
-=======
+# Phanerococcus GENUS
 
 #### Status
 ACCEPTED

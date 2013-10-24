@@ -1,5 +1,4 @@
-Didymosphaeria gynerii Speg. SPECIES
-=======
+# Didymosphaeria gynerii Speg. SPECIES
 
 #### Status
 ACCEPTED

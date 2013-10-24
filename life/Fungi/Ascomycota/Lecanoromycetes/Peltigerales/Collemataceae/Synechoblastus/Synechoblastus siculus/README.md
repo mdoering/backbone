@@ -1,5 +1,4 @@
-Synechoblastus siculus Borzí SPECIES
-=======
+# Synechoblastus siculus Borzí SPECIES
 
 #### Status
 ACCEPTED

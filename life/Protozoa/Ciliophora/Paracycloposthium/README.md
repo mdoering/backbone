@@ -1,5 +1,4 @@
-Paracycloposthium Grain, 1994 GENUS
-=======
+# Paracycloposthium Grain, 1994 GENUS
 
 #### Status
 ACCEPTED

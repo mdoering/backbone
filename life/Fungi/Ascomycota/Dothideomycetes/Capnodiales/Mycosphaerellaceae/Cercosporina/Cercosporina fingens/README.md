@@ -1,5 +1,4 @@
-Cercosporina fingens (Davis) Sacc. SPECIES
-=======
+# Cercosporina fingens (Davis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

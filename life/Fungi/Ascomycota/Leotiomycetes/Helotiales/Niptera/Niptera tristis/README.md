@@ -1,5 +1,4 @@
-Niptera tristis Starbäck SPECIES
-=======
+# Niptera tristis Starbäck SPECIES
 
 #### Status
 ACCEPTED

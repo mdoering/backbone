@@ -1,5 +1,4 @@
-Puccinia corylopsidis Cummins SPECIES
-=======
+# Puccinia corylopsidis Cummins SPECIES
 
 #### Status
 ACCEPTED

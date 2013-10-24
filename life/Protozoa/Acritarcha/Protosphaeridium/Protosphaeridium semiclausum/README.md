@@ -1,5 +1,4 @@
-Protosphaeridium semiclausum Andreeva, 1973 SPECIES
-=======
+# Protosphaeridium semiclausum Andreeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

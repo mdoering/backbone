@@ -1,17 +1,16 @@
-Sphacelotheca panici-miliacei var. panici-miliacei VARIETY
-=======
+# Sporisorium destruens (Schltdl.) Vánky, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Houb. Cesk. Dil 27, fig. 11 (1912)
+Symb. bot. upsal. 24(no. 2): 115 (1985)
 
 #### Original name
-Sphacelotheca panici-miliacei var. panici-miliacei
+Caeoma destruens Schltdl., 1824
 
 ### Remarks
 null

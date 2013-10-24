@@ -1,17 +1,16 @@
-Hypocrea pezizaeformis Speg. SPECIES
-=======
+# Hypocrea peziziformis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 26(1): 35 [no. 92] (1888)
 
 #### Original name
-Hypocrea pezizaeformis Speg.
+Hypocrea peziziformis Speg.
 
 ### Remarks
 null

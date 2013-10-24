@@ -1,5 +1,4 @@
-Helicosporium polysporum (Morgan) Sacc. SPECIES
-=======
+# Helicosporium polysporum (Morgan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

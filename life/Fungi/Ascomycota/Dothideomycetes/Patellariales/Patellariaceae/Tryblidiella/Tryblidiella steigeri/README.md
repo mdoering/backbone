@@ -1,5 +1,4 @@
-Tryblidiella steigeri (Duby) Rehm SPECIES
-=======
+# Tryblidiella steigeri (Duby) Rehm SPECIES
 
 #### Status
 ACCEPTED

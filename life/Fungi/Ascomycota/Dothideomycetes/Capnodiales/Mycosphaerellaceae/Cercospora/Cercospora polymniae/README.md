@@ -1,5 +1,4 @@
-Cercospora polymniae Chupp SPECIES
-=======
+# Cercospora polymniae Chupp SPECIES
 
 #### Status
 ACCEPTED

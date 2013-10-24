@@ -1,5 +1,4 @@
-Quinqueloculina angulostriata Cushman & Valentine, 1930 SPECIES
-=======
+# Quinqueloculina angulostriata Cushman & Valentine, 1930 SPECIES
 
 #### Status
 ACCEPTED

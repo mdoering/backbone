@@ -1,5 +1,4 @@
-Sporonema wallrothii Mont. SPECIES
-=======
+# Sporonema wallrothii Mont. SPECIES
 
 #### Status
 ACCEPTED

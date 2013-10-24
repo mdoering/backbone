@@ -1,5 +1,4 @@
-Gelatinopsis hysteropatellae Baral & G. Marson SPECIES
-=======
+# Gelatinopsis hysteropatellae Baral & G. Marson SPECIES
 
 #### Status
 ACCEPTED

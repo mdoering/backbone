@@ -1,5 +1,4 @@
-Ceraceomerulius GENUS
-=======
+# Ceraceomerulius GENUS
 
 #### Status
 ACCEPTED

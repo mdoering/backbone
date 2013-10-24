@@ -1,14 +1,13 @@
-Alnicola clavuligera Romagn., 1944 SPECIES
-=======
+# Galerina clavuligera (Romagn.) P.-A. Moreau, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 58: 148 (1944)
+Fungal Diversity 20: 133 (2005)
 
 #### Original name
 Alnicola clavuligera Romagn., 1944

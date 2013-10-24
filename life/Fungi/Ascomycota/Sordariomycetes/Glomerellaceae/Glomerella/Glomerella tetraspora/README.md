@@ -1,5 +1,4 @@
-Glomerella tetraspora (Seaver) Aptroot SPECIES
-=======
+# Glomerella tetraspora (Seaver) Aptroot SPECIES
 
 #### Status
 ACCEPTED

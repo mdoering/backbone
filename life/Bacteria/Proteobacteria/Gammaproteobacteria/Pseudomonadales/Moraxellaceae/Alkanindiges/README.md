@@ -1,5 +1,4 @@
-Alkanindiges Bogan, Sullivan, Kayser, Derr, Aldrich & Paterek, 2003 GENUS
-=======
+# Alkanindiges Bogan, Sullivan, Kayser, Derr, Aldrich & Paterek, 2003 GENUS
 
 #### Status
 ACCEPTED

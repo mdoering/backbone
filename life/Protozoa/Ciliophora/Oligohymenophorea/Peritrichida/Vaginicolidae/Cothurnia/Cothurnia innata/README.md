@@ -1,8 +1,7 @@
-Vaginicola innata (Müller, 1786) Lamarck, 1816 SPECIES
-=======
+# Cothurnia innata (Müller, 1786) Ehrenberg, 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Peziza paludicola (Boud.) Sacc. & Traverso SPECIES
-=======
+# Peziza paludicola (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia kampalensis Cummins SPECIES
-=======
+# Puccinia kampalensis Cummins SPECIES
 
 #### Status
 ACCEPTED

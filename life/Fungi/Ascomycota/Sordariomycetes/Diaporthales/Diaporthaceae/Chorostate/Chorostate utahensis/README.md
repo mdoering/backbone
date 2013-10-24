@@ -1,5 +1,4 @@
-Chorostate utahensis Sacc. SPECIES
-=======
+# Chorostate utahensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

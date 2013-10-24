@@ -1,17 +1,16 @@
-Disperma Theissen, 1916 GENUS
-=======
+# Dicarpella Sydow & P. Sydow, 1921 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 66: 390 (1916)
+Annls mycol. 18(4/6): 181 (1921)
 
 #### Original name
-Disperma Theissen, 1916
+Dicarpella Sydow & P. Sydow, 1921
 
 ### Remarks
 null

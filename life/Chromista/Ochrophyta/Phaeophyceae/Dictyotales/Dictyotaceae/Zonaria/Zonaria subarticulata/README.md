@@ -1,8 +1,7 @@
-Zonaria cuneata (Kützing) Papenfuss SPECIES
-=======
+# Zonaria subarticulata (J.V. Lamouroux) Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

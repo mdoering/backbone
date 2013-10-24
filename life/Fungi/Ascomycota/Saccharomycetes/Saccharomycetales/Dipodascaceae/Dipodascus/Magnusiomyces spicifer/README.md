@@ -1,14 +1,13 @@
-Dipodascus spicifer de Hoog, M.T. Sm. & E. Guého, 1986 SPECIES
-=======
+# Magnusiomyces spicifer (de Hoog, M.T. Sm. & E. Guého) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 29: 60 (1986)
+Stud. Mycol. 50(2): 508 (2004)
 
 #### Original name
 Dipodascus spicifer de Hoog, M.T. Sm. & E. Guého, 1986

@@ -1,5 +1,4 @@
-Filaspora epidermidis (Fautrey) Kuntze SPECIES
-=======
+# Filaspora epidermidis (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

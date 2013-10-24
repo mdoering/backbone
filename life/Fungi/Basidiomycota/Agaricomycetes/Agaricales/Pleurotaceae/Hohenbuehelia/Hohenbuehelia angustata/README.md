@@ -1,17 +1,16 @@
-Acanthocystis stratosus (G.F. Atk.) Singer SPECIES
-=======
+# Hohenbuehelia angustata (Berk.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 255 (1951)
 
 #### Original name
-Pleurotus stratosus G.F. Atk., 1902
+Panus angustatus Berk., 1847
 
 ### Remarks
 null

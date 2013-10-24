@@ -1,5 +1,4 @@
-Dimerosporina GENUS
-=======
+# Dimerosporina GENUS
 
 #### Status
 ACCEPTED

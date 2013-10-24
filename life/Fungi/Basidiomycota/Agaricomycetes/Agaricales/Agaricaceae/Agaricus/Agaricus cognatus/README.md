@@ -1,5 +1,4 @@
-Agaricus cognatus Weinm. SPECIES
-=======
+# Agaricus cognatus Weinm. SPECIES
 
 #### Status
 ACCEPTED

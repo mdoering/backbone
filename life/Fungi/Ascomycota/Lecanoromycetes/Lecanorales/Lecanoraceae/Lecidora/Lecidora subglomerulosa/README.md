@@ -1,5 +1,4 @@
-Lecidora subglomerulosa (H. Magn.) Motyka SPECIES
-=======
+# Lecidora subglomerulosa (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

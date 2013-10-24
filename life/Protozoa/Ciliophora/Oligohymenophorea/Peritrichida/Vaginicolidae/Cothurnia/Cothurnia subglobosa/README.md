@@ -1,5 +1,4 @@
-Cothurnia subglobosa (Daday) Warren & Paynter, 1991 SPECIES
-=======
+# Cothurnia subglobosa (Daday) Warren & Paynter, 1991 SPECIES
 
 #### Status
 ACCEPTED

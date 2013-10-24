@@ -1,5 +1,4 @@
-Hymenochaete burdsallii Parmasto, 2001 SPECIES
-=======
+# Hymenochaete burdsallii Parmasto, 2001 SPECIES
 
 #### Status
 ACCEPTED

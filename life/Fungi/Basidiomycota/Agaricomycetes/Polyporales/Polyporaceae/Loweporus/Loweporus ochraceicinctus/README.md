@@ -1,5 +1,4 @@
-Loweporus ochraceicinctus Corner, 1989 SPECIES
-=======
+# Loweporus ochraceicinctus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria ludwigiae Cooke SPECIES
-=======
+# Sphaeria ludwigiae Cooke SPECIES
 
 #### Status
 ACCEPTED

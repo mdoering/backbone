@@ -1,5 +1,4 @@
-Rhodobaca bogoriensis Milford et al., 2001 SPECIES
-=======
+# Rhodobaca bogoriensis Milford et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

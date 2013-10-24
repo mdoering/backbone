@@ -1,5 +1,4 @@
-Sarcographa dilatescens (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa dilatescens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

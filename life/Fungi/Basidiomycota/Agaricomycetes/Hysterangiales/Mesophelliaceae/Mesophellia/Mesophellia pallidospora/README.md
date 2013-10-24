@@ -1,5 +1,4 @@
-Mesophellia pallidospora Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia pallidospora Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

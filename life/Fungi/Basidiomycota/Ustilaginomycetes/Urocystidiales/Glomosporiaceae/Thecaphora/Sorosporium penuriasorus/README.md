@@ -1,5 +1,4 @@
-Sorosporium penuriasorus Durán SPECIES
-=======
+# Sorosporium penuriasorus Durán SPECIES
 
 #### Status
 ACCEPTED

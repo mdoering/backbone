@@ -1,5 +1,4 @@
-Mycosphaerella aethiops (Fuckel) Lindau SPECIES
-=======
+# Mycosphaerella aethiops (Fuckel) Lindau SPECIES
 
 #### Status
 ACCEPTED

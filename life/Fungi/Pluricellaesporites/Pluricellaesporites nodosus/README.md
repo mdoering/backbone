@@ -1,5 +1,4 @@
-Pluricellaesporites nodosus S.K. Srivast. SPECIES
-=======
+# Pluricellaesporites nodosus S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Angioridium valvatum Fr. SPECIES
-=======
+# Angioridium valvatum Fr. SPECIES
 
 #### Status
 ACCEPTED

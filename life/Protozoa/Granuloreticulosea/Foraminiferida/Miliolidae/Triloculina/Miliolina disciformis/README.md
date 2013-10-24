@@ -1,8 +1,7 @@
-Miliolina disciformis var. trigonina Wiesner, 1923 VARIETY
-=======
+# Miliolina disciformis Terquem SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

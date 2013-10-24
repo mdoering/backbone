@@ -1,5 +1,4 @@
-Phascolodon elongatus SPECIES
-=======
+# Phascolodon elongatus SPECIES
 
 #### Status
 ACCEPTED

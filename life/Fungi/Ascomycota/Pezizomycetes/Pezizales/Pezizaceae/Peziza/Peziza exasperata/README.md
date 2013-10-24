@@ -1,5 +1,4 @@
-Peziza exasperata Berk. & M.A. Curtis SPECIES
-=======
+# Peziza exasperata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria globularis (Batsch) Seaver SPECIES
-=======
+# Lasiosphaeria globularis (Batsch) Seaver SPECIES
 
 #### Status
 ACCEPTED

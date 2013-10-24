@@ -1,5 +1,4 @@
-Umbilicaria atropruinosa var. atropruinosa VARIETY
-=======
+# Umbilicaria atropruinosa Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria atropruinosa var. atropruinosa
+Umbilicaria atropruinosa Schaer.
 
 ### Remarks
 null

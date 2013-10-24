@@ -1,14 +1,13 @@
-Ecteinomyces perpusillus Speg., 1917 SPECIES
-=======
+# Aporomyces perpusillus (Speg.) I.I. Tav., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 12(2): 440 (1981)
 
 #### Original name
 Ecteinomyces perpusillus Speg., 1917

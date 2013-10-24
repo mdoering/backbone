@@ -1,5 +1,4 @@
-Trinacrium gracile Matsush. SPECIES
-=======
+# Trinacrium gracile Matsush. SPECIES
 
 #### Status
 ACCEPTED

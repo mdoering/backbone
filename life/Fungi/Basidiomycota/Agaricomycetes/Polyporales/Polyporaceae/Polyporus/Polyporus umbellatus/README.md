@@ -1,17 +1,16 @@
-Boletus ramosissimus var. ramosissimus VARIETY
-=======
+# Polyporus umbellatus (Pers.) Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. carniol. (Wien), Edn 2 2: 470 (1772)
+Syst. mycol. (Lundae) 1: 354 (1821)
 
 #### Original name
-Boletus ramosissimus var. ramosissimus
+Polyporus umbellatus (Pers.) Fr., 1821
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Platysma wallichianum (Taylor) Nyl. SPECIES
-=======
+# Cetrariopsis wallichiana (Taylor) Kurok. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of the National Science Museum, Tokyo 13: 140 (1980)
 
 #### Original name
 Sticta wallichiana Taylor

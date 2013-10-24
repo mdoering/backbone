@@ -1,5 +1,4 @@
-Agaricus incarnatoviolaceus J. Otto SPECIES
-=======
+# Agaricus incarnatoviolaceus J. Otto SPECIES
 
 #### Status
 ACCEPTED

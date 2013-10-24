@@ -1,5 +1,4 @@
-Hymenelia similis (A. Massal.) M. Choisy SPECIES
-=======
+# Hymenelia similis (A. Massal.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

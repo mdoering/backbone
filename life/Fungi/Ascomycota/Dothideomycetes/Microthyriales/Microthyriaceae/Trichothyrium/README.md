@@ -1,17 +1,16 @@
-Trichopeltopsis Höhn. GENUS
-=======
+# Trichothyrium Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 861 (1909)
+Boln Acad. nac. Cienc. Córdoba 11: 555 (1889)
 
 #### Original name
-Trichopeltopsis Höhn.
+Trichothyrium Speg.
 
 ### Remarks
 null

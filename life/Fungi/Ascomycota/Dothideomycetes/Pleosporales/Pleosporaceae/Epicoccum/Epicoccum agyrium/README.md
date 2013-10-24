@@ -1,5 +1,4 @@
-Epicoccum agyrium Corda SPECIES
-=======
+# Epicoccum agyrium Corda SPECIES
 
 #### Status
 ACCEPTED

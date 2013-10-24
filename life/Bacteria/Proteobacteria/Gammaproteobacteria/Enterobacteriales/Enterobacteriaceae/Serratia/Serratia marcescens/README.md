@@ -1,5 +1,4 @@
-Serratia marcescens subsp. marcescens SUBSPECIES
-=======
+# Serratia marcescens Bizio, 1823 SPECIES
 
 #### Status
 ACCEPTED

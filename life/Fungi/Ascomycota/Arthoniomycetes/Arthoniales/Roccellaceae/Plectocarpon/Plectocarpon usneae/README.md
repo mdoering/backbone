@@ -1,5 +1,4 @@
-Plectocarpon usneae Diederich & Etayo SPECIES
-=======
+# Plectocarpon usneae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

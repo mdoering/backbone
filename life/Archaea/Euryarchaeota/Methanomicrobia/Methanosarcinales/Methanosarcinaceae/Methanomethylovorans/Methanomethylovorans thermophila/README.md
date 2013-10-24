@@ -1,5 +1,4 @@
-Methanomethylovorans thermophila Jiang et al., 2005 SPECIES
-=======
+# Methanomethylovorans thermophila Jiang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

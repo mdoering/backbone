@@ -1,5 +1,4 @@
-Cyphella lacera (Pers.) Fr. SPECIES
-=======
+# Cyphella lacera (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

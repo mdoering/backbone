@@ -1,5 +1,4 @@
-Segestria retrospiciens (Stirt.) Hellb. SPECIES
-=======
+# Segestria retrospiciens (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

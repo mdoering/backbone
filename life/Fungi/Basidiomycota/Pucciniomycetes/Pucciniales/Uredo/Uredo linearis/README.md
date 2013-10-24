@@ -1,5 +1,4 @@
-Uredo linearis var. linearis Pers. VARIETY
-=======
+# Uredo linearis a linearis Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 230 (1803)
 
 #### Original name
-Uredo linearis var. linearis Pers.
+Uredo linearis a linearis Pers.
 
 ### Remarks
 null

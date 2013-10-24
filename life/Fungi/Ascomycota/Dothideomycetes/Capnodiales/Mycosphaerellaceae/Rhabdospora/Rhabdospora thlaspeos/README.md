@@ -1,5 +1,4 @@
-Rhabdospora thlaspeos I.E. Brezhnev SPECIES
-=======
+# Rhabdospora thlaspeos I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

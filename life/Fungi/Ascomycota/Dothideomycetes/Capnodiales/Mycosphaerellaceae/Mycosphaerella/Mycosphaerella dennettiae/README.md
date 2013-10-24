@@ -1,5 +1,4 @@
-Mycosphaerella dennettiae Sivan. & Okpala SPECIES
-=======
+# Mycosphaerella dennettiae Sivan. & Okpala SPECIES
 
 #### Status
 ACCEPTED

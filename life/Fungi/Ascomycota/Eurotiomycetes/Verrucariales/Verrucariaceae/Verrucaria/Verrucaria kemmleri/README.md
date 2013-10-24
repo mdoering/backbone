@@ -1,5 +1,4 @@
-Verrucaria kemmleri Servít SPECIES
-=======
+# Verrucaria kemmleri Servít SPECIES
 
 #### Status
 ACCEPTED

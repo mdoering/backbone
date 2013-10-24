@@ -1,17 +1,16 @@
-Chaetospora Faurel & Schotter GENUS
-=======
+# Neochaetospora B. Sutton & Sankaran GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 30(3): 149 (1965)
+Mycol. Res. 95(6): 768 (1991)
 
 #### Original name
-Chaetospora Faurel & Schotter
+Neochaetospora B. Sutton & Sankaran
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria suboxyspora Lobik SPECIES
-=======
+# Septoria suboxyspora Lobik SPECIES
 
 #### Status
 ACCEPTED

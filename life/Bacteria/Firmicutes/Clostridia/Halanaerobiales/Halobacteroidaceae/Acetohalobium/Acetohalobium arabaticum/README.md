@@ -1,5 +1,4 @@
-Acetohalobium arabaticum Zhilina & Zavarzin, 1990 SPECIES
-=======
+# Acetohalobium arabaticum Zhilina & Zavarzin, 1990 SPECIES
 
 #### Status
 ACCEPTED

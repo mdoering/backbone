@@ -1,5 +1,4 @@
-Staurosphaeria rosarum Westend. SPECIES
-=======
+# Staurosphaeria rosarum Westend. SPECIES
 
 #### Status
 ACCEPTED

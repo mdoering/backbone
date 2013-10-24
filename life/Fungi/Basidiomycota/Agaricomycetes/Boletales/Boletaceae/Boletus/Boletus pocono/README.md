@@ -1,5 +1,4 @@
-Boletus pocono Schwein. SPECIES
-=======
+# Boletus pocono Schwein. SPECIES
 
 #### Status
 ACCEPTED

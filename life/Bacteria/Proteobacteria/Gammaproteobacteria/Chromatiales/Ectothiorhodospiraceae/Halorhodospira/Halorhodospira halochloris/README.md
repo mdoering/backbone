@@ -1,8 +1,7 @@
-Ectothiorhodospira halochloris Imhoff and Trüper, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Halorhodospira halochloris (Imhoff & Trüper, 1979) Imhoff & Süling, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

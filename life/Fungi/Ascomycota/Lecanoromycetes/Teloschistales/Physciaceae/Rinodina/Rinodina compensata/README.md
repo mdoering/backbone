@@ -1,14 +1,13 @@
-Arthonia compensata Nyl. SPECIES
-=======
+# Rinodina compensata (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 499 (1931)
 
 #### Original name
 Arthonia compensata Nyl.

@@ -1,5 +1,4 @@
-Kotlabaea macrospora Benkert SPECIES
-=======
+# Kotlabaea macrospora Benkert SPECIES
 
 #### Status
 ACCEPTED

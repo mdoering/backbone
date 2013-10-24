@@ -1,5 +1,4 @@
-Chiodecton strigulinum (Nyl.) Vain. SPECIES
-=======
+# Chiodecton strigulinum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

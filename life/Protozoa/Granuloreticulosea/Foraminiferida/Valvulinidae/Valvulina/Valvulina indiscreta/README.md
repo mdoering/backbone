@@ -1,5 +1,4 @@
-Valvulina indiscreta Brady, 1881 SPECIES
-=======
+# Valvulina indiscreta Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

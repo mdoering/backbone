@@ -1,5 +1,4 @@
-Chapeckia M.E. Barr GENUS
-=======
+# Chapeckia M.E. Barr GENUS
 
 #### Status
 ACCEPTED

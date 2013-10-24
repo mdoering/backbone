@@ -1,17 +1,16 @@
-Tandonella zizyphi S.S. Prasad & R.A.B. Verma SPECIES
-=======
+# Tandonella ziziphi S.S. Prasad & R.A.B. Verma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 23(1): 112 (1970)
 
 #### Original name
-Tandonella zizyphi S.S. Prasad & R.A.B. Verma
+Tandonella ziziphi S.S. Prasad & R.A.B. Verma
 
 ### Remarks
 null

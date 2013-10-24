@@ -1,14 +1,13 @@
-Ramicola austrorubi (E. Horak) T.W. May & A.E. Wood, 1995 SPECIES
-=======
+# Simocybe austrorubi E. Horak, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 149 (1995)
+N. Z. Jl Bot. 18(2): 194 (1980)
 
 #### Original name
 Simocybe austrorubi E. Horak, 1980

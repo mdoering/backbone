@@ -1,5 +1,4 @@
-Ceuthospora gaeumannii Nag Raj SPECIES
-=======
+# Ceuthospora gaeumannii Nag Raj SPECIES
 
 #### Status
 ACCEPTED

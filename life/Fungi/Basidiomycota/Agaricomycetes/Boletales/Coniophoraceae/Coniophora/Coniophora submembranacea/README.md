@@ -1,17 +1,16 @@
-Coniophora inflata Burt, 1917 SPECIES
-=======
+# Coniophora submembranacea (Berk. & Broome) Cooke, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 4: 247 (1917)
+Syll. fung. (Abellini) 6: 649 (1888)
 
 #### Original name
-Coniophora inflata Burt, 1917
+Thelephora submembranacea Berk. & Broome, 1875
 
 ### Remarks
 null

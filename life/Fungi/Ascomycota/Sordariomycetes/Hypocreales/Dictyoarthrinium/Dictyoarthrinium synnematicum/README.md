@@ -1,5 +1,4 @@
-Dictyoarthrinium synnematicum Somrith. SPECIES
-=======
+# Dictyoarthrinium synnematicum Somrith. SPECIES
 
 #### Status
 ACCEPTED

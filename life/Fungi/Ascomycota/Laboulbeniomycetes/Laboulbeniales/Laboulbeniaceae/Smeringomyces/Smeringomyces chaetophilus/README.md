@@ -1,14 +1,13 @@
-Corethromyces chaetophilus Thaxt., 1931 SPECIES
-=======
+# Smeringomyces chaetophilus (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 191 (1931)
+Mycol. Mem. 9: 317 (1985)
 
 #### Original name
 Corethromyces chaetophilus Thaxt., 1931

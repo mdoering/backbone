@@ -1,5 +1,4 @@
-Laboulbenia subinflata Thaxt. SPECIES
-=======
+# Laboulbenia subinflata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

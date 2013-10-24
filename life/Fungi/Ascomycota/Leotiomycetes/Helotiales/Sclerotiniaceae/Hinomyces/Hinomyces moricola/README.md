@@ -1,14 +1,13 @@
-Botrytis moricola I. Hino SPECIES
-=======
+# Hinomyces moricola (I. Hino) Narumi & Y. Harada, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Narumi-Saito, Hosoya, Sano & Harada, Mycoscience 47(6): 357 (2006)
 
 #### Original name
 Botrytis moricola I. Hino

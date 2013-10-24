@@ -1,17 +1,16 @@
-Zymodebaryomyces dekkerae (Mrak et al.) E.K. Novák & Zsolt, 1961 SPECIES
-=======
+# Torulaspora delbrueckii (Lindner) E.K. Novák & Zsolt, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta bot. hung. 7: 113 (1961)
 
 #### Original name
-null
+Saccharomyces delbrueckii Lindner, 1895
 
 ### Remarks
 null

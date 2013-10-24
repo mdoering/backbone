@@ -1,5 +1,4 @@
-Vararia strictospora Boidin & Lanq. SPECIES
-=======
+# Vararia strictospora Boidin & Lanq. SPECIES
 
 #### Status
 ACCEPTED

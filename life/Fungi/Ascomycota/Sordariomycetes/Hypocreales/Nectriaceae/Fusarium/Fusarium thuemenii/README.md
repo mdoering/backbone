@@ -1,5 +1,4 @@
-Fusarium thuemenii Sacc. SPECIES
-=======
+# Fusarium thuemenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

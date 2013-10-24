@@ -1,5 +1,4 @@
-Neodiplodina Petr. GENUS
-=======
+# Neodiplodina Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella myrtillina Pass. SPECIES
-=======
+# Sphaerella myrtillina Pass. SPECIES
 
 #### Status
 ACCEPTED

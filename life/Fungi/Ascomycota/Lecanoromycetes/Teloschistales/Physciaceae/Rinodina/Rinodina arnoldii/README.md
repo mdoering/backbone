@@ -1,5 +1,4 @@
-Rinodina arnoldii H. Mayrhofer & Poelt SPECIES
-=======
+# Rinodina arnoldii H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

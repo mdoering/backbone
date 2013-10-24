@@ -1,5 +1,4 @@
-Parmotrema reticulatum (Taylor) M. Choisy SPECIES
-=======
+# Parmotrema reticulatum (Taylor) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alysidium parallelum (Preuss) Kuntze SPECIES
-=======
+# Alysidium parallelum (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

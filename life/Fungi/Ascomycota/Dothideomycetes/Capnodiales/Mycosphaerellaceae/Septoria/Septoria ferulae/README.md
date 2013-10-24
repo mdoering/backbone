@@ -1,5 +1,4 @@
-Septoria ferulae Jacz. SPECIES
-=======
+# Septoria ferulae Jacz. SPECIES
 
 #### Status
 ACCEPTED

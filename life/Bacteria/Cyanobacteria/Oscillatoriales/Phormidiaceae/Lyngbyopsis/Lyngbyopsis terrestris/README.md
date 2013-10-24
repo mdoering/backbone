@@ -1,5 +1,4 @@
-Lyngbyopsis terrestris M. T. P. Azevedo SPECIES
-=======
+# Lyngbyopsis terrestris M. T. P. Azevedo SPECIES
 
 #### Status
 ACCEPTED

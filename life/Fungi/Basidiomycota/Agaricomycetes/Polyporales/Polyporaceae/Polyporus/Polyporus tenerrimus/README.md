@@ -1,5 +1,4 @@
-Polyporus tenerrimus Berk. & Ravenel SPECIES
-=======
+# Polyporus tenerrimus Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

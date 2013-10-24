@@ -1,5 +1,4 @@
-Phyllosticta chorisiae Viégas SPECIES
-=======
+# Phyllosticta chorisiae Viégas SPECIES
 
 #### Status
 ACCEPTED

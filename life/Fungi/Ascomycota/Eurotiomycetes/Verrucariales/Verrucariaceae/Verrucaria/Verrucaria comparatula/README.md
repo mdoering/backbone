@@ -1,5 +1,4 @@
-Verrucaria comparatula Nyl. SPECIES
-=======
+# Verrucaria comparatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

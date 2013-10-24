@@ -1,5 +1,4 @@
-Puccinia tatarica Tranzschel SPECIES
-=======
+# Puccinia tatarica Tranzschel SPECIES
 
 #### Status
 ACCEPTED

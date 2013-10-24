@@ -1,5 +1,4 @@
-Speiropsis rogergoosensis T.S.K. Prasad & Bhat SPECIES
-=======
+# Speiropsis rogergoosensis T.S.K. Prasad & Bhat SPECIES
 
 #### Status
 ACCEPTED

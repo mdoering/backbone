@@ -1,5 +1,4 @@
-Sporidesmiella longissima P.M. Kirk, 1982 SPECIES
-=======
+# Sporidesmiella longissima P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

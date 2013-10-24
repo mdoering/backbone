@@ -1,5 +1,4 @@
-Prachtflorella GENUS
-=======
+# Prachtflorella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sethosphaera Haeckel, 1881 GENUS
-=======
+# Sethosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

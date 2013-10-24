@@ -1,5 +1,4 @@
-Chaenothecopsis thujae Rikkinen SPECIES
-=======
+# Chaenothecopsis thujae Rikkinen SPECIES
 
 #### Status
 ACCEPTED

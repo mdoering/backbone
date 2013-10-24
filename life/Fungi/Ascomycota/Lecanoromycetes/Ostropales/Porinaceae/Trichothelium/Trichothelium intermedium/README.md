@@ -1,5 +1,4 @@
-Trichothelium intermedium Lücking SPECIES
-=======
+# Trichothelium intermedium Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium typhinum (Wallr.) Sacc. SPECIES
-=======
+# Graphium typhinum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

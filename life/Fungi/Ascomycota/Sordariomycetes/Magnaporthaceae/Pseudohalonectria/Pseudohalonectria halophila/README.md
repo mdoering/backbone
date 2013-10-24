@@ -1,5 +1,4 @@
-Pseudohalonectria halophila Kohlm. & Volkm.-Kohlm., 2005 SPECIES
-=======
+# Pseudohalonectria halophila Kohlm. & Volkm.-Kohlm., 2005 SPECIES
 
 #### Status
 ACCEPTED

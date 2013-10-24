@@ -1,5 +1,4 @@
-Leptorhaphis dominicana Vain. SPECIES
-=======
+# Leptorhaphis dominicana Vain. SPECIES
 
 #### Status
 ACCEPTED

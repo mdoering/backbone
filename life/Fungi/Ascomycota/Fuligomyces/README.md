@@ -1,5 +1,4 @@
-Fuligomyces Morgan-Jones & Kamal GENUS
-=======
+# Fuligomyces Morgan-Jones & Kamal GENUS
 
 #### Status
 ACCEPTED

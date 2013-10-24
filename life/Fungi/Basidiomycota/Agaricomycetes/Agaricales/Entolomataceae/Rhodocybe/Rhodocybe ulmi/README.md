@@ -1,5 +1,4 @@
-Rhodocybe ulmi Lj.N. Vassiljeva SPECIES
-=======
+# Rhodocybe ulmi Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

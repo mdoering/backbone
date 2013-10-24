@@ -1,5 +1,4 @@
-Parmelia endorosea Zahlbr. SPECIES
-=======
+# Parmelia endorosea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

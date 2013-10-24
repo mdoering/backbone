@@ -1,5 +1,4 @@
-Polyporus illudens Overh. SPECIES
-=======
+# Polyporus illudens Overh. SPECIES
 
 #### Status
 ACCEPTED

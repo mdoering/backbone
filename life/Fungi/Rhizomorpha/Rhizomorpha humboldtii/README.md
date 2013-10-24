@@ -1,5 +1,4 @@
-Rhizomorpha humboldtii Wallr. SPECIES
-=======
+# Rhizomorpha humboldtii Wallr. SPECIES
 
 #### Status
 ACCEPTED

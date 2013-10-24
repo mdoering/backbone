@@ -1,5 +1,4 @@
-Stropharia aculeata Quél. SPECIES
-=======
+# Stropharia aculeata Quél. SPECIES
 
 #### Status
 ACCEPTED

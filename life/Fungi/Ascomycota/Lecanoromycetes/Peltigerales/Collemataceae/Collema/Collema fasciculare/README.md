@@ -1,5 +1,4 @@
-Collema fasciculare (L.) Weber ex F.H. Wigg. SPECIES
-=======
+# Collema fasciculare (L.) Weber ex F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

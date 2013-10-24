@@ -1,5 +1,4 @@
-Graphis abscripturiens Nyl. SPECIES
-=======
+# Graphis abscripturiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cicinobolus cesatii f. cesatii FORM
-=======
+# Ampelomyces quisqualis Ces., 1852 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. senckenb. naturforsch. Ges. 7: 431 (1870)
+Bot. Ztg. 10: 301 (1852)
 
 #### Original name
-Cicinobolus cesatii f. cesatii
+Ampelomyces quisqualis Ces., 1852
 
 ### Remarks
 null

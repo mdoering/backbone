@@ -1,5 +1,4 @@
-Litharchaeocystis udintsevii K. Perch-Nielsen SPECIES
-=======
+# Litharchaeocystis udintsevii K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

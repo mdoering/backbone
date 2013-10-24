@@ -1,5 +1,4 @@
-Physarum obpyriforme C.H. Liu & Y.F. Chen, 1998 SPECIES
-=======
+# Physarum obpyriforme C.H. Liu & Y.F. Chen, 1998 SPECIES
 
 #### Status
 ACCEPTED

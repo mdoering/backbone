@@ -1,5 +1,4 @@
-Stilbella albocitrina (Ellis & Everh.) Seifert, 1985 SPECIES
-=======
+# Stilbella albocitrina (Ellis & Everh.) Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED

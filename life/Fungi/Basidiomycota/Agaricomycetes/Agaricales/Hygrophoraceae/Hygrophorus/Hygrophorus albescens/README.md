@@ -1,5 +1,4 @@
-Hygrophorus albescens (Viv.) Traverso SPECIES
-=======
+# Hygrophorus albescens (Viv.) Traverso SPECIES
 
 #### Status
 ACCEPTED

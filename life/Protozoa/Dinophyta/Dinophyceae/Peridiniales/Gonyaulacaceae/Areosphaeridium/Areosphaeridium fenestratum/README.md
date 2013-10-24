@@ -1,5 +1,4 @@
-Areosphaeridium fenestratum Bujak, 1976 SPECIES
-=======
+# Areosphaeridium fenestratum Bujak, 1976 SPECIES
 
 #### Status
 ACCEPTED

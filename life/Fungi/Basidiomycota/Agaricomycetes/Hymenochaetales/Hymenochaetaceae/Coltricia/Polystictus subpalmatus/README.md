@@ -1,5 +1,4 @@
-Polystictus subpalmatus Sacc. SPECIES
-=======
+# Polystictus subpalmatus Sacc. SPECIES
 
 #### Status
 ACCEPTED

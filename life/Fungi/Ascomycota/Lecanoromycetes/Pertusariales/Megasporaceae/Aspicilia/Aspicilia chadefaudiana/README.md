@@ -1,5 +1,4 @@
-Aspicilia chadefaudiana Cl. Roux SPECIES
-=======
+# Aspicilia chadefaudiana Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

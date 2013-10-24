@@ -1,5 +1,4 @@
-Balantidium geimani Earl, 1973 SPECIES
-=======
+# Balantidium geimani Earl, 1973 SPECIES
 
 #### Status
 ACCEPTED

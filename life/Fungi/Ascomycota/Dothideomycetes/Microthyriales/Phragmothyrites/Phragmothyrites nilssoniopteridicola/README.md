@@ -1,14 +1,13 @@
-Phragmothyrites nilssonioptericola (Krassilov) Kalgutkar & Janson. SPECIES
-=======
+# Phragmothyrites nilssoniopteridicola (Krassilov) Kalgutkar & Janson. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+AASP Contributions Series (Dallas) 39: 232 (2000)
 
 #### Original name
 Asterothyrites nilssoniopteridicola Krassilov

@@ -1,5 +1,4 @@
-Asterina aesculi Desm. SPECIES
-=======
+# Asterina aesculi Desm. SPECIES
 
 #### Status
 ACCEPTED

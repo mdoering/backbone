@@ -1,5 +1,4 @@
-Chlamydonella alpestris Foissner, 1979 SPECIES
-=======
+# Chlamydonella alpestris Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

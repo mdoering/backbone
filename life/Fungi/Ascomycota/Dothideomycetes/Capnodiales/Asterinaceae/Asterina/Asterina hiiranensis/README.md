@@ -1,5 +1,4 @@
-Asterina hiiranensis W. Yamam. SPECIES
-=======
+# Asterina hiiranensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

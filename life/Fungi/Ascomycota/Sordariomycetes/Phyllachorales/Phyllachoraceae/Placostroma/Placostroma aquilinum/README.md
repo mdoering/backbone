@@ -1,5 +1,4 @@
-Placostroma aquilinum (Fr.) Höhn. SPECIES
-=======
+# Placostroma aquilinum (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

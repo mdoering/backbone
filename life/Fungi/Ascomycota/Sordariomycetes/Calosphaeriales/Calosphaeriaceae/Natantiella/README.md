@@ -1,5 +1,4 @@
-Natantiella GENUS
-=======
+# Natantiella GENUS
 
 #### Status
 ACCEPTED

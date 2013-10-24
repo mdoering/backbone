@@ -1,5 +1,4 @@
-Inonotus brevisporus (K.S. Thind & Chatr.) J.R. Sharma SPECIES
-=======
+# Inonotus brevisporus (K.S. Thind & Chatr.) J.R. Sharma SPECIES
 
 #### Status
 ACCEPTED

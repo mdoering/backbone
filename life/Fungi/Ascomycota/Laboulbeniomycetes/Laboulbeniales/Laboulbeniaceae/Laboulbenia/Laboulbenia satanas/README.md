@@ -1,5 +1,4 @@
-Laboulbenia satanas Balazuc SPECIES
-=======
+# Laboulbenia satanas Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella rugosa (Lynge) Zahlbr. SPECIES
-=======
+# Biatorella rugosa (Lynge) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

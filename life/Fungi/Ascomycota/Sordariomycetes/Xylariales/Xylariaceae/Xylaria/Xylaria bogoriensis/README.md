@@ -1,5 +1,4 @@
-Xylaria bogoriensis Lloyd SPECIES
-=======
+# Xylaria bogoriensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

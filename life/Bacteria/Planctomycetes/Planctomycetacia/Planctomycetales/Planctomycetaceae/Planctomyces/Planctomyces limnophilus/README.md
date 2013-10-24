@@ -1,5 +1,4 @@
-Planctomyces limnophilus Hirsch & Müller, 1986 SPECIES
-=======
+# Planctomyces limnophilus Hirsch & Müller, 1986 SPECIES
 
 #### Status
 ACCEPTED

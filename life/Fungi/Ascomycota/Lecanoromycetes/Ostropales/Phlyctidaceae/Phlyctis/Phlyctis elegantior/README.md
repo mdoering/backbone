@@ -1,5 +1,4 @@
-Phlyctis elegantior Nyl. SPECIES
-=======
+# Phlyctis elegantior Nyl. SPECIES
 
 #### Status
 ACCEPTED

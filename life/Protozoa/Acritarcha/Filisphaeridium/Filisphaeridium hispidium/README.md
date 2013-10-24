@@ -1,5 +1,4 @@
-Filisphaeridium hispidium (de Coninck, 1969) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium hispidium (de Coninck, 1969) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

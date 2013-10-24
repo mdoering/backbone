@@ -1,5 +1,4 @@
-Sphaeria liquidambaris Schwein. SPECIES
-=======
+# Sphaeria liquidambaris Schwein. SPECIES
 
 #### Status
 ACCEPTED

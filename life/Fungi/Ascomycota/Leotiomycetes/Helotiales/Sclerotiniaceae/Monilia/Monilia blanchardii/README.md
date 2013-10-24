@@ -1,14 +1,13 @@
-Monilia blanchardi (Castell.) Castell. & Chalm. SPECIES
-=======
+# Monilia blanchardii (Castell.) Castell. & Chalm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Manual of tropical medicine (London), Edn 2 829 (1913)
 
 #### Original name
 Endomyces blanchardii Castell.

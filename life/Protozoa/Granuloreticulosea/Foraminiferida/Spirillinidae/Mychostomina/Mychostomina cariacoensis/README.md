@@ -1,5 +1,4 @@
-Mychostomina cariacoensis SPECIES
-=======
+# Mychostomina cariacoensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus conicodiffractus (Rick) Raithelh. SPECIES
-=======
+# Panaeolus conicodiffractus (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

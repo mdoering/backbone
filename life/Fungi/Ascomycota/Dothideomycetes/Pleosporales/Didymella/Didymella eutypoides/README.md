@@ -1,5 +1,4 @@
-Didymella eutypoides Rehm SPECIES
-=======
+# Didymella eutypoides Rehm SPECIES
 
 #### Status
 ACCEPTED

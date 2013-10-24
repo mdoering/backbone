@@ -1,5 +1,4 @@
-Leiopsophosphaera rotunda Pykhova, 1967 SPECIES
-=======
+# Leiopsophosphaera rotunda Pykhova, 1967 SPECIES
 
 #### Status
 ACCEPTED

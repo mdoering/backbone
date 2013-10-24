@@ -1,5 +1,4 @@
-Stereum curtum (Fr.) Fr. SPECIES
-=======
+# Stereum curtum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

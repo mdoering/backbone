@@ -1,5 +1,4 @@
-Diplodinula grossulariae (Sacc. & Briard) Tassi SPECIES
-=======
+# Diplodinula grossulariae (Sacc. & Briard) Tassi SPECIES
 
 #### Status
 ACCEPTED

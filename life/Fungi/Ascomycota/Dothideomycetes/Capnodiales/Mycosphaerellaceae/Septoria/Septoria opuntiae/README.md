@@ -1,5 +1,4 @@
-Septoria opuntiae Voglino SPECIES
-=======
+# Septoria opuntiae Voglino SPECIES
 
 #### Status
 ACCEPTED

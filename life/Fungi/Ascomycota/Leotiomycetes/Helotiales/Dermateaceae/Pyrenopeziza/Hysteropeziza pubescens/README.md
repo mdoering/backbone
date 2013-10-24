@@ -1,5 +1,4 @@
-Hysteropeziza pubescens B. Hein & Scheuer SPECIES
-=======
+# Hysteropeziza pubescens B. Hein & Scheuer SPECIES
 
 #### Status
 ACCEPTED

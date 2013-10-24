@@ -1,5 +1,4 @@
-Pleospora conglutinata Goeb. {?} SPECIES
-=======
+# Pleospora conglutinata Goeb. {?} SPECIES
 
 #### Status
 ACCEPTED

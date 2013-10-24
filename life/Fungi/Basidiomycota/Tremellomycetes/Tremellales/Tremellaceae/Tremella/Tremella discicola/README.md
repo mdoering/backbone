@@ -1,5 +1,4 @@
-Tremella discicola Van de Put, 2004 SPECIES
-=======
+# Tremella discicola Van de Put, 2004 SPECIES
 
 #### Status
 ACCEPTED

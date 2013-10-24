@@ -1,5 +1,4 @@
-Rayella Dasgupta, 1967 GENUS
-=======
+# Rayella Dasgupta, 1967 GENUS
 
 #### Status
 ACCEPTED

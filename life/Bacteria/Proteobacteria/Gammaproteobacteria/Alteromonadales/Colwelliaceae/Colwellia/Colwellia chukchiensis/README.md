@@ -1,5 +1,4 @@
-Colwellia chukchiensis Yong, Hui-Rong, Yin-Xin, 2011 SPECIES
-=======
+# Colwellia chukchiensis Yong, Hui-Rong, Yin-Xin, 2011 SPECIES
 
 #### Status
 ACCEPTED

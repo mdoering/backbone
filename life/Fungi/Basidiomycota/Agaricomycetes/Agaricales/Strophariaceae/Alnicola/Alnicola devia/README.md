@@ -1,5 +1,4 @@
-Alnicola devia Singer SPECIES
-=======
+# Alnicola devia Singer SPECIES
 
 #### Status
 ACCEPTED

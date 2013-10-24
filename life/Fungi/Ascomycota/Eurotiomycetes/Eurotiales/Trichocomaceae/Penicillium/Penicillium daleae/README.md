@@ -1,17 +1,16 @@
-Penicillium daliae K.M. Zalessky SPECIES
-=======
+# Penicillium daleae K.M. Zalessky, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 495 (1927)
 
 #### Original name
-Penicillium daliae K.M. Zalessky
+Penicillium daleae K.M. Zalessky, 1927
 
 ### Remarks
 null

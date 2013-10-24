@@ -1,5 +1,4 @@
-Rhopalostroma kanyae Whalley & Thienh., 1996 SPECIES
-=======
+# Rhopalostroma kanyae Whalley & Thienh., 1996 SPECIES
 
 #### Status
 ACCEPTED

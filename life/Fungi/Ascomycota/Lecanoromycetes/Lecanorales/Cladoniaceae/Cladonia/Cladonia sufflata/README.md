@@ -1,5 +1,4 @@
-Cladonia sufflata Ahti SPECIES
-=======
+# Cladonia sufflata Ahti SPECIES
 
 #### Status
 ACCEPTED

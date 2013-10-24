@@ -1,5 +1,4 @@
-Peronospora gaumannii Mundk. SPECIES
-=======
+# Peronospora gaumannii Mundk. SPECIES
 
 #### Status
 ACCEPTED

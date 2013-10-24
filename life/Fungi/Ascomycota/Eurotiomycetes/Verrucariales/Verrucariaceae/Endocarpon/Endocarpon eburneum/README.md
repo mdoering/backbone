@@ -1,5 +1,4 @@
-Endocarpon eburneum DC. SPECIES
-=======
+# Endocarpon eburneum DC. SPECIES
 
 #### Status
 ACCEPTED

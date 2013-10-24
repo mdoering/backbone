@@ -1,5 +1,4 @@
-Sphinctrina gomphilloides Nyl. SPECIES
-=======
+# Sphinctrina gomphilloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

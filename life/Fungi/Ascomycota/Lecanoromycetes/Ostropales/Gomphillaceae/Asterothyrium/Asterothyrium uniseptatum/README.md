@@ -1,5 +1,4 @@
-Asterothyrium uniseptatum Lücking SPECIES
-=======
+# Asterothyrium uniseptatum Lücking SPECIES
 
 #### Status
 ACCEPTED

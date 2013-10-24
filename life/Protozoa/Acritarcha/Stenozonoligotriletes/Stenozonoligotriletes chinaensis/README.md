@@ -1,5 +1,4 @@
-Stenozonoligotriletes chinaensis Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes chinaensis Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

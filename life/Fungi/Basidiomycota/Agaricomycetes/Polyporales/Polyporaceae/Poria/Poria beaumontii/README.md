@@ -1,5 +1,4 @@
-Poria beaumontii Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Poria beaumontii Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clavariadelphus pistillaris var. americanus Corner, 1950 VARIETY
-=======
+# Clavariadelphus americanus (Corner) Methven, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. Mem. 1: 692 (1950)
+Mycotaxon 34(1): 154 (1989)
 
 #### Original name
 Clavariadelphus pistillaris var. americanus Corner, 1950

@@ -1,5 +1,4 @@
-Chaetoceros muellerii var. subsalsum J.R.Johans. & Rushforth VARIETY
-=======
+# Chaetoceros muellerii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

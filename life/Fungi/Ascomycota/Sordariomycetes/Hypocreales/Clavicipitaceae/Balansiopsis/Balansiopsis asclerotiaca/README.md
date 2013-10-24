@@ -1,14 +1,13 @@
-Balansiopsis ascelerotiaca (Henn.) Diehl SPECIES
-=======
+# Balansiopsis asclerotiaca (Henn.) Diehl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agric. Monogr. U. S. D. A. 4: 58 (1950)
 
 #### Original name
 Balansia asclerotiaca Henn.

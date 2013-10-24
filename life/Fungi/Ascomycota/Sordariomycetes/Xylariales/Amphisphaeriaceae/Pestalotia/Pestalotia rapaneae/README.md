@@ -1,5 +1,4 @@
-Pestalotia rapaneae Laughton SPECIES
-=======
+# Pestalotia rapaneae Laughton SPECIES
 
 #### Status
 ACCEPTED

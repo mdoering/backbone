@@ -1,17 +1,16 @@
-Trichobasis lynchii Berk., 1877 SPECIES
-=======
+# Uredo oncidii Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gard. Chron. , London 8: 242 (1877)
+Hedwigia 41: 15 (1902)
 
 #### Original name
-Trichobasis lynchii Berk., 1877
+Uredo oncidii Henn., 1902
 
 ### Remarks
 null

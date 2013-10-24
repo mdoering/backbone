@@ -1,5 +1,4 @@
-Theocapsilla Haeckel, 1887 GENUS
-=======
+# Theocapsilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

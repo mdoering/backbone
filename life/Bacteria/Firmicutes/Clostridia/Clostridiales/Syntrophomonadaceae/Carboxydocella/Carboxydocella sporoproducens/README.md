@@ -1,5 +1,4 @@
-Carboxydocella sporoproducens Slepova et al., 2006 SPECIES
-=======
+# Carboxydocella sporoproducens Slepova et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

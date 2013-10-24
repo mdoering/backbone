@@ -1,5 +1,4 @@
-Conqueria Gooday & Pawlowski, 2004 GENUS
-=======
+# Conqueria Gooday & Pawlowski, 2004 GENUS
 
 #### Status
 ACCEPTED

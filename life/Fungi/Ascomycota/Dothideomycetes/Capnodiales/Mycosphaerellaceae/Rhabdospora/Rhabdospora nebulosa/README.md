@@ -1,5 +1,4 @@
-Rhabdospora nebulosa (Desm.) Sacc. SPECIES
-=======
+# Rhabdospora nebulosa (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen cinchonae Willd. SPECIES
-=======
+# Lichen cinchonae Willd. SPECIES
 
 #### Status
 ACCEPTED

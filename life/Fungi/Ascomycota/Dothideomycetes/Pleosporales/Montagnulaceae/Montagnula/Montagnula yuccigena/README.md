@@ -1,5 +1,4 @@
-Montagnula yuccigena A.W. Ramaley & M.E. Barr SPECIES
-=======
+# Montagnula yuccigena A.W. Ramaley & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

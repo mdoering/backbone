@@ -1,5 +1,4 @@
-Aulosira terrestre SPECIES
-=======
+# Aulosira terrestre SPECIES
 
 #### Status
 ACCEPTED

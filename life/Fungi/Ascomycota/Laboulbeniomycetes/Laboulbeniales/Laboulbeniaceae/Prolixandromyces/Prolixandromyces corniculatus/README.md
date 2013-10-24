@@ -1,5 +1,4 @@
-Prolixandromyces corniculatus R.K. Benj., 1970 SPECIES
-=======
+# Prolixandromyces corniculatus R.K. Benj., 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium inclusum P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium inclusum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

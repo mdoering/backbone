@@ -1,5 +1,4 @@
-Phoma harmalae Hazsl. SPECIES
-=======
+# Phoma harmalae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

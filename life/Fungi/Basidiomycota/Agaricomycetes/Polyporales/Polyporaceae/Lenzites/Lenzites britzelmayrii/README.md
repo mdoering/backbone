@@ -1,17 +1,16 @@
-Lenzites britzelmayri Killerm. SPECIES
-=======
+# Lenzites britzelmayrii Killerm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Denkschr. Königl. -Baier. Bot. Ges. Regensburg 16: 31 (1925)
 
 #### Original name
-Lenzites britzelmayri Killerm.
+Lenzites britzelmayrii Killerm.
 
 ### Remarks
 null

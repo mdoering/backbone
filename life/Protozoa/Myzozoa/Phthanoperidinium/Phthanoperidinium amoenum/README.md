@@ -1,5 +1,4 @@
-Phthanoperidinium amoenum Drugg & Loeblich Jr, 1967 SPECIES
-=======
+# Phthanoperidinium amoenum Drugg & Loeblich Jr, 1967 SPECIES
 
 #### Status
 ACCEPTED

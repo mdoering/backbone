@@ -1,5 +1,4 @@
-Septobasidium stratiferum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium stratiferum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

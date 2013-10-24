@@ -1,5 +1,4 @@
-Medusetta inflata Borgert SPECIES
-=======
+# Medusetta inflata Borgert SPECIES
 
 #### Status
 ACCEPTED

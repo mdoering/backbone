@@ -1,5 +1,4 @@
-Mucor papulaeformis Relhan SPECIES
-=======
+# Mucor papulaeformis Relhan SPECIES
 
 #### Status
 ACCEPTED

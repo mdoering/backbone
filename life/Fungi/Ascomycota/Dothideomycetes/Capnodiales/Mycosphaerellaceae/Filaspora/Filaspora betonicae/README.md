@@ -1,5 +1,4 @@
-Filaspora betonicae (Briard & Sacc.) Kuntze SPECIES
-=======
+# Filaspora betonicae (Briard & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

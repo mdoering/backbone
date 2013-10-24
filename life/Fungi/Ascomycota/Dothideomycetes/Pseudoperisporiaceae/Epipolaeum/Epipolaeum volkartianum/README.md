@@ -1,5 +1,4 @@
-Epipolaeum volkartianum (E. Müll.) E. Müll. SPECIES
-=======
+# Epipolaeum volkartianum (E. Müll.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

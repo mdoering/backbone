@@ -1,5 +1,4 @@
-Lecidea seriata Bagl. & Carestia SPECIES
-=======
+# Lecidea seriata Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

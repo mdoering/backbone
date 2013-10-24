@@ -1,17 +1,16 @@
-Trichomerium coffeicola var. coffeicola VARIETY
-=======
+# Trichomerium coffeicola (Puttemans) Speg., 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Physis, Buenos Aires (1918)
 
 #### Original name
-Trichomerium coffeicola var. coffeicola
+Limacinia coffeicola Puttemans, 1904
 
 ### Remarks
 null

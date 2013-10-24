@@ -1,5 +1,4 @@
-Lyophyllum fragile Jul. Schäff. SPECIES
-=======
+# Lyophyllum fragile Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

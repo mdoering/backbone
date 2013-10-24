@@ -1,5 +1,4 @@
-Paracoccidioides tenuis M. Moore SPECIES
-=======
+# Paracoccidioides tenuis M. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria recessa Cooke & Peck SPECIES
-=======
+# Sphaeria recessa Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

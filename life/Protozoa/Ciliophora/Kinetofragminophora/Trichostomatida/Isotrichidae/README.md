@@ -1,5 +1,4 @@
-Isotrichidae FAMILY
-=======
+# Isotrichidae FAMILY
 
 #### Status
 ACCEPTED

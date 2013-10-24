@@ -1,5 +1,4 @@
-Stagonospora heliconiae (Mont.) Sacc. SPECIES
-=======
+# Stagonospora heliconiae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

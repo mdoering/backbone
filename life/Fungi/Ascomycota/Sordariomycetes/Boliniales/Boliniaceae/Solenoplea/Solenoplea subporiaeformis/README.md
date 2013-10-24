@@ -1,5 +1,4 @@
-Solenoplea subporiaeformis Burt SPECIES
-=======
+# Solenoplea subporiaeformis Burt SPECIES
 
 #### Status
 ACCEPTED

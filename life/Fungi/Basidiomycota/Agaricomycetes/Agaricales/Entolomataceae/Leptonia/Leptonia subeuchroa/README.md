@@ -1,5 +1,4 @@
-Leptonia subeuchroa Kauffman SPECIES
-=======
+# Leptonia subeuchroa Kauffman SPECIES
 
 #### Status
 ACCEPTED

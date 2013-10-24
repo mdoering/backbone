@@ -1,5 +1,4 @@
-Cetraria hypotrachyna Müll. Arg. SPECIES
-=======
+# Cetraria hypotrachyna Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

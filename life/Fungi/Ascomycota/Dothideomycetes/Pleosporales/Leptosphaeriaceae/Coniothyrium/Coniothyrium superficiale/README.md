@@ -1,5 +1,4 @@
-Coniothyrium superficiale Tassi SPECIES
-=======
+# Coniothyrium superficiale Tassi SPECIES
 
 #### Status
 ACCEPTED

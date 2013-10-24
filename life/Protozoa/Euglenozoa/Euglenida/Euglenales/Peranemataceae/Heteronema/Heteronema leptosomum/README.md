@@ -1,5 +1,4 @@
-Heteronema leptosomum Skuja, 1939 SPECIES
-=======
+# Heteronema leptosomum Skuja, 1939 SPECIES
 
 #### Status
 ACCEPTED

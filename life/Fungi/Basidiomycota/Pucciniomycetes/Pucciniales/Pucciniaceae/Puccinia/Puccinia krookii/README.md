@@ -1,5 +1,4 @@
-Puccinia krookii Henn. SPECIES
-=======
+# Puccinia krookii Henn. SPECIES
 
 #### Status
 ACCEPTED

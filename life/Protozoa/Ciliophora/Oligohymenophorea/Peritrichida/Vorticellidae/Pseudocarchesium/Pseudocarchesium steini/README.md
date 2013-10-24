@@ -1,8 +1,7 @@
-Carchesium steini Precht, 1935 SPECIES
-=======
+# Pseudocarchesium steini (Precht, 1935) Sommer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

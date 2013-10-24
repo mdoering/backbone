@@ -1,5 +1,4 @@
-Puccinia subtecta Rostr. SPECIES
-=======
+# Puccinia subtecta Rostr. SPECIES
 
 #### Status
 ACCEPTED

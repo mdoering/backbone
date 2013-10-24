@@ -1,14 +1,13 @@
-Thelotrema cavatum var. confertum Nyl. VARIETY
-=======
+# Ocellularia conferta (Nyl.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 19: 245 (1965)
 
 #### Original name
 Thelotrema cavatum var. confertum Nyl.

@@ -1,14 +1,13 @@
-Didymosporium pezizoideum Schwein., 1832 SPECIES
-=======
+# Epiclinium pezizoideum (Schwein.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 475 (1849)
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Cercospora trinctatis Pass., 1954 SPECIES
-=======
+# Cercospora violae Sacc., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 8: 187 (1876)
 
 #### Original name
-null
+Cercospora violae Sacc., 1876
 
 ### Remarks
 null

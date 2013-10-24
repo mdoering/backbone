@@ -1,5 +1,4 @@
-Marinobacter sediminum Romanenko et al., 2005 SPECIES
-=======
+# Marinobacter sediminum Romanenko et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

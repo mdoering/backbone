@@ -1,5 +1,4 @@
-Coriolus sinulosus (Klotzsch) G. Cunn. SPECIES
-=======
+# Coriolus sinulosus (Klotzsch) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

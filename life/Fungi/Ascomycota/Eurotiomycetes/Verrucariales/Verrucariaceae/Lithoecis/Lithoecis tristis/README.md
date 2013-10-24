@@ -1,5 +1,4 @@
-Lithoecis tristis (A. Massal.) Clem. SPECIES
-=======
+# Lithoecis tristis (A. Massal.) Clem. SPECIES
 
 #### Status
 ACCEPTED

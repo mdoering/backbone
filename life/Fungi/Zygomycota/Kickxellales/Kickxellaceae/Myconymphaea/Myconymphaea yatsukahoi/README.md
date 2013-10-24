@@ -1,5 +1,4 @@
-Myconymphaea yatsukahoi Kurihara, Degawa & Tokum., 2001 SPECIES
-=======
+# Myconymphaea yatsukahoi Kurihara, Degawa & Tokum., 2001 SPECIES
 
 #### Status
 ACCEPTED

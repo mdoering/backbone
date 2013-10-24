@@ -1,5 +1,4 @@
-Amphiloma beccarii Bagl. SPECIES
-=======
+# Amphiloma beccarii Bagl. SPECIES
 
 #### Status
 ACCEPTED

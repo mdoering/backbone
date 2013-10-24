@@ -1,5 +1,4 @@
-Lecanora romeana SPECIES
-=======
+# Lecanora romeana SPECIES
 
 #### Status
 ACCEPTED

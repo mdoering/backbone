@@ -1,17 +1,16 @@
-Meliola melaneae F. Stevens & Tehon SPECIES
-=======
+# Meliola malaneae F. Stevens & Tehon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 18(1): 17 (1926)
 
 #### Original name
-Meliola melaneae F. Stevens & Tehon
+Meliola malaneae F. Stevens & Tehon
 
 ### Remarks
 null

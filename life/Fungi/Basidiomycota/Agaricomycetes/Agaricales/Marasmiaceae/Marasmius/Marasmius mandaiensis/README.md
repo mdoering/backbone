@@ -1,5 +1,4 @@
-Marasmius mandaiensis Corner SPECIES
-=======
+# Marasmius mandaiensis Corner SPECIES
 
 #### Status
 ACCEPTED

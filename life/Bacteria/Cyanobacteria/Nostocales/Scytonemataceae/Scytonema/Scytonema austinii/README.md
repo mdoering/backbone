@@ -1,5 +1,4 @@
-Scytonema austinii Wood SPECIES
-=======
+# Scytonema austinii Wood SPECIES
 
 #### Status
 ACCEPTED

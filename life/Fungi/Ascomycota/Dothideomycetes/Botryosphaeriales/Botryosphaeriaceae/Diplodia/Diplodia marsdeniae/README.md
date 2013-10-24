@@ -1,5 +1,4 @@
-Diplodia marsdeniae Cooke & Massee SPECIES
-=======
+# Diplodia marsdeniae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

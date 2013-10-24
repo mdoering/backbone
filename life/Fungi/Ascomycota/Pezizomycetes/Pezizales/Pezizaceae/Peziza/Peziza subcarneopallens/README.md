@@ -1,5 +1,4 @@
-Peziza subcarneopallens Alb. & Schwein. SPECIES
-=======
+# Peziza subcarneopallens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

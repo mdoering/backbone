@@ -1,5 +1,4 @@
-Lasallia daliensis var. daliensis VARIETY
-=======
+# Lasallia daliensis J.C. Wei SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Mycol. Sin. 1(1): 21 (1982)
 
 #### Original name
-Lasallia daliensis var. daliensis
+Lasallia daliensis J.C. Wei
 
 ### Remarks
 null

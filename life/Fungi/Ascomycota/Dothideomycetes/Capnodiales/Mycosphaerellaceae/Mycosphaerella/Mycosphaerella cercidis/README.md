@@ -1,5 +1,4 @@
-Mycosphaerella cercidis (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella cercidis (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ugymyia sericariae Npv SPECIES
-=======
+# Ugymyia sericariae Npv SPECIES
 
 #### Status
 ACCEPTED

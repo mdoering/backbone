@@ -1,5 +1,4 @@
-Scytinopogon robustus (Rick) Corner SPECIES
-=======
+# Scytinopogon robustus (Rick) Corner SPECIES
 
 #### Status
 ACCEPTED

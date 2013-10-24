@@ -1,5 +1,4 @@
-Melanospora camelina Faurel & Schotter SPECIES
-=======
+# Melanospora camelina Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

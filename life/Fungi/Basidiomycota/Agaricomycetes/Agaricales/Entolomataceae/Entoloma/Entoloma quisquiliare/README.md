@@ -1,5 +1,4 @@
-Entoloma quisquiliare P. Karst. SPECIES
-=======
+# Entoloma quisquiliare P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina rhodiensis SPECIES
-=======
+# Quinqueloculina rhodiensis SPECIES
 
 #### Status
 ACCEPTED

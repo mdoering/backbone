@@ -1,5 +1,4 @@
-Pleospora ceanothi (Dearn. & House) Dearn. SPECIES
-=======
+# Pleospora ceanothi (Dearn. & House) Dearn. SPECIES
 
 #### Status
 ACCEPTED

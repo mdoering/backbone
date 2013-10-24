@@ -1,5 +1,4 @@
-Trypethelium subsulphureum (Vain.) Zahlbr. SPECIES
-=======
+# Trypethelium subsulphureum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

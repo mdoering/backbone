@@ -1,5 +1,4 @@
-Bullaria espinosarum (Dietel & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria espinosarum (Dietel & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

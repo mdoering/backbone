@@ -1,5 +1,4 @@
-Calocybe pseudoflammula (J.E. Lange) M. Lange SPECIES
-=======
+# Calocybe pseudoflammula (J.E. Lange) M. Lange SPECIES
 
 #### Status
 ACCEPTED

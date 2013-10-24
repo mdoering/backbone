@@ -1,5 +1,4 @@
-Russula subcompacta Britzelm. SPECIES
-=======
+# Russula subcompacta Britzelm. SPECIES
 
 #### Status
 ACCEPTED

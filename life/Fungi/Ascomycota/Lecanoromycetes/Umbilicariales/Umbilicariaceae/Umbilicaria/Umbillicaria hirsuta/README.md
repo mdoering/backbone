@@ -1,5 +1,4 @@
-Umbillicaria hirsuta (Sw. ex Westr.) Hoffm. SPECIES
-=======
+# Umbillicaria hirsuta (Sw. ex Westr.) Hoffm. SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Anaptychia awasthii Kurok. SPECIES
-=======
+# Anaptychia awasthii Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora repens (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora repens (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

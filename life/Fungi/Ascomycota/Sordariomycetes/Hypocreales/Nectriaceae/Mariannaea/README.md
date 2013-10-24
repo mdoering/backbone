@@ -1,5 +1,4 @@
-Mariannaea G. Arnaud ex Samson, 1974 GENUS
-=======
+# Mariannaea G. Arnaud ex Samson, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annularia congolensis Beeli SPECIES
-=======
+# Annularia congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

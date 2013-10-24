@@ -1,5 +1,4 @@
-Aecidium strobilanthis Barclay SPECIES
-=======
+# Aecidium strobilanthis Barclay SPECIES
 
 #### Status
 ACCEPTED

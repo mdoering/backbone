@@ -1,5 +1,4 @@
-Mycena shoreinotans Corner SPECIES
-=======
+# Mycena shoreinotans Corner SPECIES
 
 #### Status
 ACCEPTED

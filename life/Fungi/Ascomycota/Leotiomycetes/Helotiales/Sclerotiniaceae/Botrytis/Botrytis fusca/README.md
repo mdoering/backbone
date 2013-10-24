@@ -1,5 +1,4 @@
-Botrytis fusca (Cooke) Sacc. SPECIES
-=======
+# Botrytis fusca (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

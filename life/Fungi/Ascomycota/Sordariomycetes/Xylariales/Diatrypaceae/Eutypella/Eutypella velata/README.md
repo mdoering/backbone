@@ -1,5 +1,4 @@
-Eutypella velata (Rehm) Rappaz SPECIES
-=======
+# Eutypella velata (Rehm) Rappaz SPECIES
 
 #### Status
 ACCEPTED

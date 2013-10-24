@@ -1,5 +1,4 @@
-Epistylis articulata Fromentel, 1876 SPECIES
-=======
+# Epistylis articulata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

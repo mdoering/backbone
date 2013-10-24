@@ -1,5 +1,4 @@
-Bulimina patagonica d'Orbigny SPECIES
-=======
+# Bulimina patagonica d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

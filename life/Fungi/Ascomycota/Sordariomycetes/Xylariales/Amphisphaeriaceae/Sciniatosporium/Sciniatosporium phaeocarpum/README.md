@@ -1,5 +1,4 @@
-Sciniatosporium phaeocarpum (Mitter) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium phaeocarpum (Mitter) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

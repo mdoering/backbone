@@ -1,5 +1,4 @@
-Verrucula clauzadaria Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula clauzadaria Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

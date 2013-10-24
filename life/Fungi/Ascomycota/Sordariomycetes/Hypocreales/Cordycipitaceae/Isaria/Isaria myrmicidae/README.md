@@ -1,5 +1,4 @@
-Isaria myrmicidae Lloyd SPECIES
-=======
+# Isaria myrmicidae Lloyd SPECIES
 
 #### Status
 ACCEPTED

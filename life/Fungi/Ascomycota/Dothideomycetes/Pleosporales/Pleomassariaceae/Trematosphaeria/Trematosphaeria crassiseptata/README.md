@@ -1,5 +1,4 @@
-Trematosphaeria crassiseptata Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
-=======
+# Trematosphaeria crassiseptata Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetothyrium setosum (Zimm.) Hansf. SPECIES
-=======
+# Chaetothyrium setosum (Zimm.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

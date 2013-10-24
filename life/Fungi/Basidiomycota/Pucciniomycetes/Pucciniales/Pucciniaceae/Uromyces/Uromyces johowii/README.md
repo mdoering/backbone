@@ -1,5 +1,4 @@
-Uromyces johowii Dietel & Neger SPECIES
-=======
+# Uromyces johowii Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

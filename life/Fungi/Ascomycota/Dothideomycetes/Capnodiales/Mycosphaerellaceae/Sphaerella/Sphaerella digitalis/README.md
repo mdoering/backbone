@@ -1,5 +1,4 @@
-Sphaerella digitalis Ferraris SPECIES
-=======
+# Sphaerella digitalis Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placidium pusillum (Körb.) Kremp. SPECIES
-=======
+# Placidium pusillum (Körb.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora aquilegiae Kellerm. & Swingle SPECIES
-=======
+# Cercospora aquilegiae Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

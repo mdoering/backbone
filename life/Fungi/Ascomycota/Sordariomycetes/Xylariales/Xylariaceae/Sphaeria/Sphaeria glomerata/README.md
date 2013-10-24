@@ -1,5 +1,4 @@
-Sphaeria glomerata Engelhard SPECIES
-=======
+# Sphaeria glomerata Engelhard SPECIES
 
 #### Status
 ACCEPTED

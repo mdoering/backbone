@@ -1,5 +1,4 @@
-Loxophyllum qiuianum Lin, Song, Wilbert & Warren, 2005 SPECIES
-=======
+# Loxophyllum qiuianum Lin, Song, Wilbert & Warren, 2005 SPECIES
 
 #### Status
 ACCEPTED

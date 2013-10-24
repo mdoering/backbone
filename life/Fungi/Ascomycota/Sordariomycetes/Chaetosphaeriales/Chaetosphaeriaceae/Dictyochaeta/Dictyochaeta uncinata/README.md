@@ -1,5 +1,4 @@
-Dictyochaeta uncinata R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dictyochaeta uncinata R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

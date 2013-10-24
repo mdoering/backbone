@@ -1,5 +1,4 @@
-Lecanora musiva Zschacke SPECIES
-=======
+# Lecanora musiva Zschacke SPECIES
 
 #### Status
 ACCEPTED

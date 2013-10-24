@@ -1,5 +1,4 @@
-Hemimyriangium betulae J. Reid & Piroz. SPECIES
-=======
+# Hemimyriangium betulae J. Reid & Piroz. SPECIES
 
 #### Status
 ACCEPTED

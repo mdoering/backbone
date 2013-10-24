@@ -1,5 +1,4 @@
-Hydrurus foelidus Dai SPECIES
-=======
+# Hydrurus foelidus Dai SPECIES
 
 #### Status
 ACCEPTED

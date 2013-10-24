@@ -1,5 +1,4 @@
-Asterina pluripora R.W. Ryan SPECIES
-=======
+# Asterina pluripora R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

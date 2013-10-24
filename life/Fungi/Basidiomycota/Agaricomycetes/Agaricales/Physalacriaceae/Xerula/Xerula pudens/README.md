@@ -1,17 +1,16 @@
-Marasmius longipes var. longipes VARIETY
-=======
+# Xerula pudens (Pers.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 289 (1951)
 
 #### Original name
-Marasmius longipes var. longipes
+Agaricus pudens (Pers.) Pers., 1828
 
 ### Remarks
 null

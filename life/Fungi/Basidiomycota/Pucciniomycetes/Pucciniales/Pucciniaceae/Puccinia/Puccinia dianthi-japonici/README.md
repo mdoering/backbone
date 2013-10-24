@@ -1,5 +1,4 @@
-Puccinia dianthi-japonici Henn. SPECIES
-=======
+# Puccinia dianthi-japonici Henn. SPECIES
 
 #### Status
 ACCEPTED

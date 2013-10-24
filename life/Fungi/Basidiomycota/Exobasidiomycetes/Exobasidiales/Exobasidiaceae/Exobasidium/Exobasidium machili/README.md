@@ -1,5 +1,4 @@
-Exobasidium machili Sawada SPECIES
-=======
+# Exobasidium machili Sawada SPECIES
 
 #### Status
 ACCEPTED

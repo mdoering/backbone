@@ -1,14 +1,13 @@
-Leptosphaeria salebricola E. Bommer & M. Rousseau SPECIES
-=======
+# Phaeosphaeria salebricola (E. Bommer, M. Rousseau & Sacc.) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 156 (1984)
 
 #### Original name
 Leptosphaeria salebricola E. Bommer & M. Rousseau

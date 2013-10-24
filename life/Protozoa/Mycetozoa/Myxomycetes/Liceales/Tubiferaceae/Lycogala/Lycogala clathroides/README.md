@@ -1,5 +1,4 @@
-Lycogala clathroides Scop. SPECIES
-=======
+# Lycogala clathroides Scop. SPECIES
 
 #### Status
 ACCEPTED

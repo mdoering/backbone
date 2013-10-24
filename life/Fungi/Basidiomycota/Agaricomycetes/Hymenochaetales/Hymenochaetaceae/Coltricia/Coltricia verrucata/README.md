@@ -1,5 +1,4 @@
-Coltricia verrucata Aime, T.W. Henkel & Ryvarden, 2003 SPECIES
-=======
+# Coltricia verrucata Aime, T.W. Henkel & Ryvarden, 2003 SPECIES
 
 #### Status
 ACCEPTED

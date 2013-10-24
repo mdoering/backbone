@@ -1,5 +1,4 @@
-Placus eforianus Tucolesco, 1962 SPECIES
-=======
+# Placus eforianus Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

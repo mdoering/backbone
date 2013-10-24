@@ -1,5 +1,4 @@
-Eucapsis Clements & Shantz GENUS
-=======
+# Eucapsis Clements & Shantz GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora amiantina Motyka SPECIES
-=======
+# Lecanora amiantina Motyka SPECIES
 
 #### Status
 ACCEPTED

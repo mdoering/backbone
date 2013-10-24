@@ -1,5 +1,4 @@
-Puccinia albula H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia albula H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

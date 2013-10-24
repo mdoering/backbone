@@ -1,5 +1,4 @@
-Xylaria exalbida Bat. & A.F. Vital SPECIES
-=======
+# Xylaria exalbida Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dileptus binucleatus Kahl, 1931 SPECIES
-=======
+# Rimaleptus binucleatus (Kahl, 1931) Foissner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

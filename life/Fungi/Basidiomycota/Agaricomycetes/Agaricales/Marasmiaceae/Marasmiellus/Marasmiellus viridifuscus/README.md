@@ -1,5 +1,4 @@
-Marasmiellus viridifuscus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus viridifuscus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

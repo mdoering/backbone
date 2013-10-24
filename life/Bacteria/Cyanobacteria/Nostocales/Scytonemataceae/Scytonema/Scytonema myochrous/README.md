@@ -1,5 +1,4 @@
-Scytonema myochrous (Dillwyn) C. Agardh ex Bornet & Flahault SPECIES
-=======
+# Scytonema myochrous (Dillwyn) C. Agardh ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Plicaria fulva R. Schneid., 1954 SPECIES
-=======
+# Peziza ostracoderma Korf, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 108: 147 (1954)
+Mycologia 52(4): 650 (1961)
 
 #### Original name
-Plicaria fulva R. Schneid., 1954
+Peziza ostracoderma Korf, 1961
 
 ### Remarks
 null

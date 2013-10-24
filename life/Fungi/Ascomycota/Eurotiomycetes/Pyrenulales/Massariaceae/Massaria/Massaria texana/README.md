@@ -1,5 +1,4 @@
-Massaria texana Rehm SPECIES
-=======
+# Massaria texana Rehm SPECIES
 
 #### Status
 ACCEPTED

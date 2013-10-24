@@ -1,5 +1,4 @@
-Leiosphaeridia nelliae Lindgren, 1982 SPECIES
-=======
+# Leiosphaeridia nelliae Lindgren, 1982 SPECIES
 
 #### Status
 ACCEPTED

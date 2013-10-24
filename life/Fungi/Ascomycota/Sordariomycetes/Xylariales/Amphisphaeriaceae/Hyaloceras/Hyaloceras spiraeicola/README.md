@@ -1,17 +1,16 @@
-Hyaloceras spiraeicolum Died. SPECIES
-=======
+# Hyaloceras spiraeicola Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 880 (1915)
 
 #### Original name
-Hyaloceras spiraeicolum Died.
+Hyaloceras spiraeicola Died.
 
 ### Remarks
 null

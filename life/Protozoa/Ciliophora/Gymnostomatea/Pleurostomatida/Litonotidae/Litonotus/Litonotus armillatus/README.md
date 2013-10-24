@@ -1,5 +1,4 @@
-Litonotus armillatus SPECIES
-=======
+# Litonotus armillatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium verticillioides New. {?} SPECIES
-=======
+# Penicillium verticillioides New. {?} SPECIES
 
 #### Status
 ACCEPTED

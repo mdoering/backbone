@@ -1,5 +1,4 @@
-Hebeloma bulbosum Romagn. SPECIES
-=======
+# Hebeloma bulbosum Romagn. SPECIES
 
 #### Status
 ACCEPTED

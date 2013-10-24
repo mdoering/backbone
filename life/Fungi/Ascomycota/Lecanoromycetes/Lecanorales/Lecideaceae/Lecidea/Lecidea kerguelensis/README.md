@@ -1,5 +1,4 @@
-Lecidea kerguelensis B. de Lesd. SPECIES
-=======
+# Lecidea kerguelensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

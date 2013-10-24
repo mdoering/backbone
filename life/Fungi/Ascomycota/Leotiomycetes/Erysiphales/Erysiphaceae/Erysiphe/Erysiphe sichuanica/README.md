@@ -1,5 +1,4 @@
-Erysiphe sichuanica (Y.N. Yu) U. Braun & Tanda SPECIES
-=======
+# Erysiphe sichuanica (Y.N. Yu) U. Braun & Tanda SPECIES
 
 #### Status
 ACCEPTED

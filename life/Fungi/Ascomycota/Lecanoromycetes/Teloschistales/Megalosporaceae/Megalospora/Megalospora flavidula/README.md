@@ -1,5 +1,4 @@
-Megalospora flavidula Groenh. SPECIES
-=======
+# Megalospora flavidula Groenh. SPECIES
 
 #### Status
 ACCEPTED

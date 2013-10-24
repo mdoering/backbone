@@ -1,5 +1,4 @@
-Cassidulinoides mexicana SPECIES
-=======
+# Cassidulinoides mexicana SPECIES
 
 #### Status
 ACCEPTED

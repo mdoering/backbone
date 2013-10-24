@@ -1,5 +1,4 @@
-Cymbosphaeridium molyneuxii Richards & Mullins, 2003 SPECIES
-=======
+# Cymbosphaeridium molyneuxii Richards & Mullins, 2003 SPECIES
 
 #### Status
 ACCEPTED

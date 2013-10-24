@@ -1,5 +1,4 @@
-Rhizomorpha angulosa Ach. SPECIES
-=======
+# Rhizomorpha angulosa Ach. SPECIES
 
 #### Status
 ACCEPTED

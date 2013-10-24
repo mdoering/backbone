@@ -1,14 +1,13 @@
-Dicyma aurea (Subram. & Lodha) Arx, 1981 SPECIES
-=======
+# Basifimbria aurea Subram. & Lodha, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 316 (1981)
+Curr. Sci. 37: 247 (1968)
 
 #### Original name
 Basifimbria aurea Subram. & Lodha, 1968

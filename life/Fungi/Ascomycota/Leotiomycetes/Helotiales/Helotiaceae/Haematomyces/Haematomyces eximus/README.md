@@ -1,5 +1,4 @@
-Haematomyces eximus Lloyd SPECIES
-=======
+# Haematomyces eximus Lloyd SPECIES
 
 #### Status
 ACCEPTED

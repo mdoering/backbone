@@ -1,5 +1,4 @@
-Dimeriella cordiicola (Henn.) Hansf. SPECIES
-=======
+# Dimeriella cordiicola (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

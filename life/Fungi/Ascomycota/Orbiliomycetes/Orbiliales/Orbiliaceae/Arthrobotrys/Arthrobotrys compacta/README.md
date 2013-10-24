@@ -1,5 +1,4 @@
-Arthrobotrys compacta Mekht. SPECIES
-=======
+# Arthrobotrys compacta Mekht. SPECIES
 
 #### Status
 ACCEPTED

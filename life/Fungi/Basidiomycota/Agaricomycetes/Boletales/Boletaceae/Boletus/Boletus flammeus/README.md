@@ -1,5 +1,4 @@
-Boletus flammeus R. Heim SPECIES
-=======
+# Boletus flammeus R. Heim SPECIES
 
 #### Status
 ACCEPTED

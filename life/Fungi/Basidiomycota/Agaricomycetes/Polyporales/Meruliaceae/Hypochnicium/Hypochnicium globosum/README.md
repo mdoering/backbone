@@ -1,5 +1,4 @@
-Hypochnicium globosum Sheng H. Wu, 1990 SPECIES
-=======
+# Hypochnicium globosum Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

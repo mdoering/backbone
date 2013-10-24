@@ -1,5 +1,4 @@
-Mycosphaerella sophorae (G. Winter) Tomilin SPECIES
-=======
+# Mycosphaerella sophorae (G. Winter) Tomilin SPECIES
 
 #### Status
 ACCEPTED

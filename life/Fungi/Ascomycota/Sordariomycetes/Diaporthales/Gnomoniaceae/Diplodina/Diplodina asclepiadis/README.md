@@ -1,5 +1,4 @@
-Diplodina asclepiadis J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Diplodina asclepiadis J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

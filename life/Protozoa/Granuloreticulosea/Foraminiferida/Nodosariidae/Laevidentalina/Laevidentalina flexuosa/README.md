@@ -1,5 +1,4 @@
-Laevidentalina flexuosa (Reuss, 1866) SPECIES
-=======
+# Laevidentalina flexuosa (Reuss, 1866) SPECIES
 
 #### Status
 ACCEPTED

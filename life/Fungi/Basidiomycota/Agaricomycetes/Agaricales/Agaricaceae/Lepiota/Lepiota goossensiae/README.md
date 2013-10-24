@@ -1,5 +1,4 @@
-Lepiota goossensiae Beeli SPECIES
-=======
+# Lepiota goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

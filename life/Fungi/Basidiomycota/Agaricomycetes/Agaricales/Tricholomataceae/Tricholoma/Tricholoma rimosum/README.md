@@ -1,5 +1,4 @@
-Tricholoma rimosum Velen. SPECIES
-=======
+# Tricholoma rimosum Velen. SPECIES
 
 #### Status
 ACCEPTED

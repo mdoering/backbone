@@ -1,5 +1,4 @@
-Astrosporina matrisdei (Singer) Raithelh. SPECIES
-=======
+# Astrosporina matrisdei (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

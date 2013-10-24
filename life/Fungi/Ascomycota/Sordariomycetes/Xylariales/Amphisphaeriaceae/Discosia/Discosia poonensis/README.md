@@ -1,5 +1,4 @@
-Discosia poonensis Kalani SPECIES
-=======
+# Discosia poonensis Kalani SPECIES
 
 #### Status
 ACCEPTED

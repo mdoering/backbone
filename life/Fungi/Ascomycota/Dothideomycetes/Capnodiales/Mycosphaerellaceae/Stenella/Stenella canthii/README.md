@@ -1,5 +1,4 @@
-Stenella canthii J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Stenella canthii J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

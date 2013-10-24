@@ -1,5 +1,4 @@
-Pedilospora dactylopaga Drechsler SPECIES
-=======
+# Pedilospora dactylopaga Drechsler SPECIES
 
 #### Status
 ACCEPTED

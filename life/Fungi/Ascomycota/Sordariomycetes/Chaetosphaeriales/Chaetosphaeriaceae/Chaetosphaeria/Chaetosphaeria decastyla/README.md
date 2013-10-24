@@ -1,5 +1,4 @@
-Chaetosphaeria decastyla (Cooke) Réblová & W. Gams SPECIES
-=======
+# Chaetosphaeria decastyla (Cooke) Réblová & W. Gams SPECIES
 
 #### Status
 ACCEPTED

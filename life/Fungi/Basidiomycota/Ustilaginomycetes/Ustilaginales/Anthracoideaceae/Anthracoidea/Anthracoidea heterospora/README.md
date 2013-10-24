@@ -1,17 +1,16 @@
-Cintractia carpophila var. carpophila VARIETY
-=======
+# Anthracoidea heterospora (B. Lindeb.) Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 42: 27 (1935)
+Suomal. elain-ja kasvit. Seur. van. kasvit. Julk. 34(3): 63 (1963)
 
 #### Original name
-Cintractia carpophila var. carpophila
+Cintractia heterospora B. Lindeb., 1957
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stephanoeca complexes SPECIES
-=======
+# Stephanoeca complexes SPECIES
 
 #### Status
 ACCEPTED

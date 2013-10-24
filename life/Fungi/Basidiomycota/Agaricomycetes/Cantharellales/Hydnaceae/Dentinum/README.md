@@ -1,5 +1,4 @@
-Dentinum GENUS
-=======
+# Dentinum GENUS
 
 #### Status
 ACCEPTED

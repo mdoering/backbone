@@ -1,5 +1,4 @@
-Placosphaeria cynodontis Brunaud SPECIES
-=======
+# Placosphaeria cynodontis Brunaud SPECIES
 
 #### Status
 ACCEPTED

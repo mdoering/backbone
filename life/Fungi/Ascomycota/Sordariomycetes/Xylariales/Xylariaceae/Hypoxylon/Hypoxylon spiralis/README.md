@@ -1,5 +1,4 @@
-Hypoxylon spiralis R.K. Verma & N. Sharma SPECIES
-=======
+# Hypoxylon spiralis R.K. Verma & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

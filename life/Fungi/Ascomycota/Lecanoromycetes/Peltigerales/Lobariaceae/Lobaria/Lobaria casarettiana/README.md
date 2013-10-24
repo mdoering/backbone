@@ -1,5 +1,4 @@
-Lobaria casarettiana (De Not.) Trevis. SPECIES
-=======
+# Lobaria casarettiana (De Not.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma filaginis-arvensis Petrov {?} SPECIES
-=======
+# Phoma filaginis-arvensis Petrov {?} SPECIES
 
 #### Status
 ACCEPTED

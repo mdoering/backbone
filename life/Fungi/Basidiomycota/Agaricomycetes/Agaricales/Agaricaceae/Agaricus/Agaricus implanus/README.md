@@ -1,5 +1,4 @@
-Agaricus implanus Berk. SPECIES
-=======
+# Agaricus implanus Berk. SPECIES
 
 #### Status
 ACCEPTED

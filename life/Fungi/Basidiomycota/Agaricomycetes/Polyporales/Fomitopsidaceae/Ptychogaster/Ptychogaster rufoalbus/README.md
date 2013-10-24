@@ -1,5 +1,4 @@
-Ptychogaster rufoalbus Bres. & Pat. SPECIES
-=======
+# Ptychogaster rufoalbus Bres. & Pat. SPECIES
 
 #### Status
 ACCEPTED

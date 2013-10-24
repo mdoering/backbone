@@ -1,5 +1,4 @@
-Chaenothecopsis tristis (Körb.) Titov SPECIES
-=======
+# Chaenothecopsis tristis (Körb.) Titov SPECIES
 
 #### Status
 ACCEPTED

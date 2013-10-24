@@ -1,5 +1,4 @@
-Aecidium avocense Cummins & H.C. Greene SPECIES
-=======
+# Aecidium avocense Cummins & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

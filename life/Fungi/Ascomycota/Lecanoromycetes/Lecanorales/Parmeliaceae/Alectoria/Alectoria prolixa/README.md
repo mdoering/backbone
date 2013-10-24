@@ -1,5 +1,4 @@
-Alectoria prolixa SPECIES
-=======
+# Alectoria prolixa SPECIES
 
 #### Status
 ACCEPTED

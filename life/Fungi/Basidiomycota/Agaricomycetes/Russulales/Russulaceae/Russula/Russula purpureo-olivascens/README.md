@@ -1,17 +1,16 @@
-Russula purpurolivascens Carteret & Reumaux SPECIES
-=======
+# Russula purpureo-olivascens Carteret & Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 121(3 & 4): 252 (2006)
 
 #### Original name
-Russula purpurolivascens Carteret & Reumaux
+Russula purpureo-olivascens Carteret & Reumaux
 
 ### Remarks
 null

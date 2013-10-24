@@ -1,5 +1,4 @@
-Peziza rhizomorpha Cooke & Ellis SPECIES
-=======
+# Peziza rhizomorpha Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

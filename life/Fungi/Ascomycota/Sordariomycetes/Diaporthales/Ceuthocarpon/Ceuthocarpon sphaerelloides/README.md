@@ -1,5 +1,4 @@
-Ceuthocarpon sphaerelloides Rehm SPECIES
-=======
+# Ceuthocarpon sphaerelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

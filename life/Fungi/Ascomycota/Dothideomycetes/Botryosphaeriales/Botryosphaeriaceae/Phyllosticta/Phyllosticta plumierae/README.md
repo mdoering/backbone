@@ -1,5 +1,4 @@
-Phyllosticta plumierae Tassi SPECIES
-=======
+# Phyllosticta plumierae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orthokreyella Foissner, 1984 GENUS
-=======
+# Orthokreyella Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

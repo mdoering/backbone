@@ -1,5 +1,4 @@
-Cortinarius pseudogracilior Reumaux SPECIES
-=======
+# Cortinarius pseudogracilior Reumaux SPECIES
 
 #### Status
 ACCEPTED

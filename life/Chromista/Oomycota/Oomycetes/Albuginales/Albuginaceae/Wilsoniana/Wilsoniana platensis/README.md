@@ -1,14 +1,13 @@
-Cystopus platensis Speg., 1891 SPECIES
-=======
+# Wilsoniana platensis (Speg.) Thines, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Argent. Hist. Nat. 1: 32 (1891)
+Mycotaxon 92: 456 (2005)
 
 #### Original name
 Cystopus platensis Speg., 1891

@@ -1,5 +1,4 @@
-Delitschia tetraspora S.I. Ahmed & Asad SPECIES
-=======
+# Delitschia tetraspora S.I. Ahmed & Asad SPECIES
 
 #### Status
 ACCEPTED

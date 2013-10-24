@@ -1,5 +1,4 @@
-Pseudopyrenula dubia Vain. SPECIES
-=======
+# Pseudopyrenula dubia Vain. SPECIES
 
 #### Status
 ACCEPTED

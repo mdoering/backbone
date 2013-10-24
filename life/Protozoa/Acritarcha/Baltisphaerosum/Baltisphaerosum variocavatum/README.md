@@ -1,5 +1,4 @@
-Baltisphaerosum variocavatum Playford & Martin, 1984 SPECIES
-=======
+# Baltisphaerosum variocavatum Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

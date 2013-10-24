@@ -1,5 +1,4 @@
-Cyclotella sevilleana Deby SPECIES
-=======
+# Cyclotella sevilleana Deby SPECIES
 
 #### Status
 ACCEPTED

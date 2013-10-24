@@ -1,5 +1,4 @@
-Massarina myricae (Peck) Berl. SPECIES
-=======
+# Massarina myricae (Peck) Berl. SPECIES
 
 #### Status
 ACCEPTED

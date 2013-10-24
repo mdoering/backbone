@@ -1,5 +1,4 @@
-Metopus musicola SPECIES
-=======
+# Metopus musicola SPECIES
 
 #### Status
 ACCEPTED

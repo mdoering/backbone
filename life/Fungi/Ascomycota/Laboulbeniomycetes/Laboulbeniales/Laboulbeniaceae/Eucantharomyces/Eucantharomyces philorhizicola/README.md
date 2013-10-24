@@ -1,5 +1,4 @@
-Eucantharomyces philorhizicola Santam. SPECIES
-=======
+# Eucantharomyces philorhizicola Santam. SPECIES
 
 #### Status
 ACCEPTED

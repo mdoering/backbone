@@ -1,5 +1,4 @@
-Lecanora byssulina Zahlbr. SPECIES
-=======
+# Lecanora byssulina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

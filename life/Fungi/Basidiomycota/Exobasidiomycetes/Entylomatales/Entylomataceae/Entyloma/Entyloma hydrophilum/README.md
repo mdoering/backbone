@@ -1,5 +1,4 @@
-Entyloma hydrophilum Sacc. & Paol. SPECIES
-=======
+# Entyloma hydrophilum Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthomarginata S.N. Naumova ex N.I. Umnova in N.I. Umnova & E.K. Vanderflit, 1971 GENUS
-=======
+# Acanthomarginata S.N. Naumova ex N.I. Umnova in N.I. Umnova & E.K. Vanderflit, 1971 GENUS
 
 #### Status
 ACCEPTED

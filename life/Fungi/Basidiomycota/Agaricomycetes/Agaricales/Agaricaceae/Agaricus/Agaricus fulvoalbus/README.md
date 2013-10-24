@@ -1,5 +1,4 @@
-Agaricus fulvoalbus Berk. & Broome SPECIES
-=======
+# Agaricus fulvoalbus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudokarschia triseptata Velen. SPECIES
-=======
+# Pseudokarschia triseptata Velen. SPECIES
 
 #### Status
 ACCEPTED

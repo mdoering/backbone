@@ -1,5 +1,4 @@
-Periconia madreeya Subram. SPECIES
-=======
+# Periconia madreeya Subram. SPECIES
 
 #### Status
 ACCEPTED

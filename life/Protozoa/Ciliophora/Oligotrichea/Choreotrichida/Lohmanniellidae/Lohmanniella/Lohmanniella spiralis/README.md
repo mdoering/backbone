@@ -1,5 +1,4 @@
-Lohmanniella spiralis Leegaard, 1915 SPECIES
-=======
+# Lohmanniella spiralis Leegaard, 1915 SPECIES
 
 #### Status
 ACCEPTED

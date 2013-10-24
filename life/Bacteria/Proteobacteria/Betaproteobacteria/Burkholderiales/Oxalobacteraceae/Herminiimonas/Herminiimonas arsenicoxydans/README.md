@@ -1,5 +1,4 @@
-Herminiimonas arsenicoxydans Muller et al., 2006 SPECIES
-=======
+# Herminiimonas arsenicoxydans Muller et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

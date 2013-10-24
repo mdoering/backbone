@@ -1,5 +1,4 @@
-Exobasidium cassandrae Peck SPECIES
-=======
+# Exobasidium cassandrae Peck SPECIES
 
 #### Status
 ACCEPTED

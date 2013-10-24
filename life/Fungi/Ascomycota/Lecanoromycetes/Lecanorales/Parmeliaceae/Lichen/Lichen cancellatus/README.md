@@ -1,5 +1,4 @@
-Lichen cancellatus Dubois SPECIES
-=======
+# Lichen cancellatus Dubois SPECIES
 
 #### Status
 ACCEPTED

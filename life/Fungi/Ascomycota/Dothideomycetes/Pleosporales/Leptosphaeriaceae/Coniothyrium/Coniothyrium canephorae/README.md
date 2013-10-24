@@ -1,5 +1,4 @@
-Coniothyrium canephorae Saccas SPECIES
-=======
+# Coniothyrium canephorae Saccas SPECIES
 
 #### Status
 ACCEPTED

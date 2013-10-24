@@ -1,5 +1,4 @@
-Chaetothyriopsis scutiae Hansf. SPECIES
-=======
+# Chaetothyriopsis scutiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

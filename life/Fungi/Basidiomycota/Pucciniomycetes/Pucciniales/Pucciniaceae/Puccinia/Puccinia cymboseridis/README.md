@@ -1,5 +1,4 @@
-Puccinia cymboseridis P. Syd. & Syd. SPECIES
-=======
+# Puccinia cymboseridis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

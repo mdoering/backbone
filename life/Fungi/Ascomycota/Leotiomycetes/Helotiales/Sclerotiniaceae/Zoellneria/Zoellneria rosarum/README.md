@@ -1,17 +1,16 @@
-Amerosporium patellarioides A.L. Sm. & Ramsb., 1918 SPECIES
-=======
+# Zoellneria rosarum Velen., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 298 (1934)
 
 #### Original name
-Amerosporium patellarioides A.L. Sm. & Ramsb., 1918
+Zoellneria rosarum Velen., 1934
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aminobacter niigataensis Urakami et al., 1992 SPECIES
-=======
+# Aminobacter niigataensis Urakami et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

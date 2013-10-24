@@ -1,5 +1,4 @@
-Rhizopogon aromaticus Calonge & M.P. Martín, 2000 SPECIES
-=======
+# Rhizopogon aromaticus Calonge & M.P. Martín, 2000 SPECIES
 
 #### Status
 ACCEPTED

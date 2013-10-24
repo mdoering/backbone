@@ -1,5 +1,4 @@
-Aspergillus sclerotioniger Samson & Frisvad SPECIES
-=======
+# Aspergillus sclerotioniger Samson & Frisvad SPECIES
 
 #### Status
 ACCEPTED

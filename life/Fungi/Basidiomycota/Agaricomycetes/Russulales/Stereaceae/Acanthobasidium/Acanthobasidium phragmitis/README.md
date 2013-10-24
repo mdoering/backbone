@@ -1,14 +1,13 @@
-Aleurodiscus phragmitis (Boidin, Lanq., Cand., Gilles & Hugueney) Núñez & Ryvarden, 1997 SPECIES
-=======
+# Acanthobasidium phragmitis Boidin, Lanq., Cand., Gilles & Hugueney, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Aleurodiscus (Basidiom. ) 123 (1997)
+in Boidin, Lanquetin, Gilles, Candoussau & Hugueney, Bull. trimest. Soc. mycol. Fr. 101(4): 345 (1986)
 
 #### Original name
 Acanthobasidium phragmitis Boidin, Lanq., Cand., Gilles & Hugueney, 1986

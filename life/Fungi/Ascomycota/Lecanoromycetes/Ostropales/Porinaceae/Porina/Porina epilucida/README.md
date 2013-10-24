@@ -1,5 +1,4 @@
-Porina epilucida Sipman SPECIES
-=======
+# Porina epilucida Sipman SPECIES
 
 #### Status
 ACCEPTED

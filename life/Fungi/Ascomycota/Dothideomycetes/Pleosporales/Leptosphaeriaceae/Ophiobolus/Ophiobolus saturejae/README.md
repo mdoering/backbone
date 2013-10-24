@@ -1,5 +1,4 @@
-Ophiobolus saturejae Dobrozr. SPECIES
-=======
+# Ophiobolus saturejae Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

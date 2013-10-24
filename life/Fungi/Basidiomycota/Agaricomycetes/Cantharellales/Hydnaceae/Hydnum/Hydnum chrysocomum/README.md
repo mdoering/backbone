@@ -1,5 +1,4 @@
-Hydnum chrysocomum Underw. SPECIES
-=======
+# Hydnum chrysocomum Underw. SPECIES
 
 #### Status
 ACCEPTED

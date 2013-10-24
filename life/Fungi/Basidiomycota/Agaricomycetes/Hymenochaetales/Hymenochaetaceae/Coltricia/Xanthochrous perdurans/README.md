@@ -1,5 +1,4 @@
-Xanthochrous perdurans (Kalchbr. & Cooke) Pat. SPECIES
-=======
+# Xanthochrous perdurans (Kalchbr. & Cooke) Pat. SPECIES
 
 #### Status
 ACCEPTED

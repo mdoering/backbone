@@ -1,5 +1,4 @@
-Seabrookia earlandi SPECIES
-=======
+# Seabrookia earlandi SPECIES
 
 #### Status
 ACCEPTED

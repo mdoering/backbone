@@ -1,17 +1,16 @@
-Agrestia J.W. Thomson GENUS
-=======
+# Aspicilia A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 63(4): 246 (1961)
+Ric. auton. lich. crost. (Verona) 36 (1852)
 
 #### Original name
-Agrestia J.W. Thomson
+Aspicilia A. Massal.
 
 ### Remarks
 null

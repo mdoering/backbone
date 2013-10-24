@@ -1,5 +1,4 @@
-Verrucaria hemisphaerica Servít SPECIES
-=======
+# Verrucaria hemisphaerica Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia fohsi Cushman & Ellisor SPECIES
-=======
+# Globorotalia fohsi Cushman & Ellisor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Yukonosphaeridium Awramik in Allison & Awramik, 1989 GENUS
-=======
+# Yukonosphaeridium Awramik in Allison & Awramik, 1989 GENUS
 
 #### Status
 ACCEPTED

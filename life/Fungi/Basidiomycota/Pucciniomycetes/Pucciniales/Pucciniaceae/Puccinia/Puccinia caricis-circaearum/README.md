@@ -1,5 +1,4 @@
-Puccinia caricis-circaearum Y. Harada SPECIES
-=======
+# Puccinia caricis-circaearum Y. Harada SPECIES
 
 #### Status
 ACCEPTED

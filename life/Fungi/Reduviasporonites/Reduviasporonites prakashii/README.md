@@ -1,5 +1,4 @@
-Reduviasporonites prakashii (Ambwani) Kalgutkar & Janson. SPECIES
-=======
+# Reduviasporonites prakashii (Ambwani) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

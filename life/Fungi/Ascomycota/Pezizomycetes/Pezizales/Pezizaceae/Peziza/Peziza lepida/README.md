@@ -1,5 +1,4 @@
-Peziza lepida Pers. SPECIES
-=======
+# Peziza lepida Pers. SPECIES
 
 #### Status
 ACCEPTED

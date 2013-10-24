@@ -1,5 +1,4 @@
-Boletus stellenbossiensis Van der Byl SPECIES
-=======
+# Boletus stellenbossiensis Van der Byl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta lignicola Sacc. SPECIES
-=======
+# Pyrenochaeta lignicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

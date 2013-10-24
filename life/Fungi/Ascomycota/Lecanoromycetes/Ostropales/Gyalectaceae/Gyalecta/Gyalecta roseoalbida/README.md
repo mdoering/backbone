@@ -1,5 +1,4 @@
-Gyalecta roseoalbida Vain. SPECIES
-=======
+# Gyalecta roseoalbida Vain. SPECIES
 
 #### Status
 ACCEPTED

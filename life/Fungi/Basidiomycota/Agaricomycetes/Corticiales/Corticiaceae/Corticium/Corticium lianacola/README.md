@@ -1,5 +1,4 @@
-Corticium lianacola SPECIES
-=======
+# Corticium lianacola SPECIES
 
 #### Status
 ACCEPTED

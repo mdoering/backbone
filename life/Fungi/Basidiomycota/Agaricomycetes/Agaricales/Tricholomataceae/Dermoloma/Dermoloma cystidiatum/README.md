@@ -1,5 +1,4 @@
-Dermoloma cystidiatum Manim. & Arnolds SPECIES
-=======
+# Dermoloma cystidiatum Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

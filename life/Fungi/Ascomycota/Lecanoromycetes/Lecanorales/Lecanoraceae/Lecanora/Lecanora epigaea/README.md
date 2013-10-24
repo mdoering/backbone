@@ -1,5 +1,4 @@
-Lecanora epigaea Ach. SPECIES
-=======
+# Lecanora epigaea Ach. SPECIES
 
 #### Status
 ACCEPTED

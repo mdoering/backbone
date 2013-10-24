@@ -1,17 +1,16 @@
-Aregma phragmidium subsp. phragmidium SUBSPECIES
-=======
+# Phragmidium mucronatum (Pers.) Schltdl., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 496 (1832)
+Fl. berol. (Berlin) 2: 156 (1824)
 
 #### Original name
-Aregma phragmidium subsp. phragmidium
+Puccinia mucronata Pers., 1794
 
 ### Remarks
 null

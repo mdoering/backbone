@@ -1,5 +1,4 @@
-Pseudohygrocybe miniata (Fr.) Kovalenko SPECIES
-=======
+# Pseudohygrocybe miniata (Fr.) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

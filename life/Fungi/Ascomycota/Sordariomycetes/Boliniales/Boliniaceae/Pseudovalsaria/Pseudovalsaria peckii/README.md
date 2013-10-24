@@ -1,5 +1,4 @@
-Pseudovalsaria peckii (Howe) M.E. Barr SPECIES
-=======
+# Pseudovalsaria peckii (Howe) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

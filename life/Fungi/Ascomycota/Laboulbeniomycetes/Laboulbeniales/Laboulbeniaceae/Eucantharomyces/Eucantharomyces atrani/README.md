@@ -1,5 +1,4 @@
-Eucantharomyces atrani Thaxt., 1895 SPECIES
-=======
+# Eucantharomyces atrani Thaxt., 1895 SPECIES
 
 #### Status
 ACCEPTED

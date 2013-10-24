@@ -1,5 +1,4 @@
-Bailikania antiqua Treshchetenkova in Akulcheva et al., 1981 SPECIES
-=======
+# Bailikania antiqua Treshchetenkova in Akulcheva et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

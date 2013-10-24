@@ -1,5 +1,4 @@
-Struvea Sonder, 1845 GENUS
-=======
+# Struvea Sonder, 1845 GENUS
 
 #### Status
 ACCEPTED

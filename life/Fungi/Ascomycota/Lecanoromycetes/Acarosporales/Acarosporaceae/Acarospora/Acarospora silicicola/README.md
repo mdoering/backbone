@@ -1,5 +1,4 @@
-Acarospora silicicola B. de Lesd. SPECIES
-=======
+# Acarospora silicicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

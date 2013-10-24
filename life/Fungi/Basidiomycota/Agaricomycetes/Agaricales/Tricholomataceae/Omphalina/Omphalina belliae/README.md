@@ -1,5 +1,4 @@
-Omphalina belliae (Johnst.) SPECIES
-=======
+# Omphalina belliae (Johnst.) SPECIES
 
 #### Status
 ACCEPTED

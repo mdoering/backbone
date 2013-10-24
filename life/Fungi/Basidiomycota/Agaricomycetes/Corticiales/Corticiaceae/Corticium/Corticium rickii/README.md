@@ -1,5 +1,4 @@
-Corticium rickii SPECIES
-=======
+# Corticium rickii SPECIES
 
 #### Status
 ACCEPTED

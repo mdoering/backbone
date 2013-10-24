@@ -1,5 +1,4 @@
-Cothurnia urceus SPECIES
-=======
+# Cothurnia urceus SPECIES
 
 #### Status
 ACCEPTED

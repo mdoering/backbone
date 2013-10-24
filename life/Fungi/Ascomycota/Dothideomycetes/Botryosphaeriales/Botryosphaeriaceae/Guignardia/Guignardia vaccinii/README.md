@@ -1,17 +1,16 @@
-Mycosphaerella oxycocci Dearn. & House, 1923 SPECIES
-=======
+# Guignardia vaccinii Shear, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 34: 316 (1907)
 
 #### Original name
-null
+Guignardia vaccinii Shear, 1907
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leiosphaeridia similis Cookson & Eisenack SPECIES
-=======
+# Leiosphaeridia similis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

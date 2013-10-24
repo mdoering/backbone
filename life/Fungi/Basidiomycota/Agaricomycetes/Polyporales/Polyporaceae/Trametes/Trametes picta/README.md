@@ -1,5 +1,4 @@
-Trametes picta f. obscurata Bres. FORM
-=======
+# Trametes picta Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls mycol. 9: 68 (1911)
+Trans. Linn. Soc. London, Bot. , Ser. 2 2: 61 (1882)
 
 #### Original name
-Trametes picta f. obscurata Bres.
+Trametes picta Berk.
 
 ### Remarks
 null

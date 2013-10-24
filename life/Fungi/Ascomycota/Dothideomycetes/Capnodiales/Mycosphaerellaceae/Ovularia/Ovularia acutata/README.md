@@ -1,5 +1,4 @@
-Ovularia acutata (Bonord.) Sacc. SPECIES
-=======
+# Ovularia acutata (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

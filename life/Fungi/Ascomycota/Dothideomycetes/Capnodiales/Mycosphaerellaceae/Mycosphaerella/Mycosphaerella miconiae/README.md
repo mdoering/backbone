@@ -1,5 +1,4 @@
-Mycosphaerella miconiae Syd. SPECIES
-=======
+# Mycosphaerella miconiae Syd. SPECIES
 
 #### Status
 ACCEPTED

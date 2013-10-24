@@ -1,5 +1,4 @@
-Usnea myrmaiacaina P. Clerc SPECIES
-=======
+# Usnea myrmaiacaina P. Clerc SPECIES
 
 #### Status
 ACCEPTED

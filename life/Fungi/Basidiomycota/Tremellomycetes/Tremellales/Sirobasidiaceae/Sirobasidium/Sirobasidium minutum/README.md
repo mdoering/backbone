@@ -1,5 +1,4 @@
-Sirobasidium minutum Kisim.-Hor., Oberw. & L.D. Gómez SPECIES
-=======
+# Sirobasidium minutum Kisim.-Hor., Oberw. & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

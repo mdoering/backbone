@@ -1,8 +1,7 @@
-Sphaerophrya soliformis Lauterborn, 1908 SPECIES
-=======
+# Parapodophrya soliformis (Lauterborn, 1908) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

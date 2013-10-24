@@ -1,5 +1,4 @@
-Geoglossum vleugelianum Nannf., 1942 SPECIES
-=======
+# Geoglossum vleugelianum Nannf., 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightoniella S. Hughes GENUS
-=======
+# Deightoniella S. Hughes GENUS
 
 #### Status
 ACCEPTED

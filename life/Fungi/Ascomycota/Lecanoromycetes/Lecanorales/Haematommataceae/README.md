@@ -1,5 +1,4 @@
-Haematommataceae Hafellner FAMILY
-=======
+# Haematommataceae Hafellner FAMILY
 
 #### Status
 ACCEPTED

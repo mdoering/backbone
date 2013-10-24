@@ -1,5 +1,4 @@
-Prorocentrum gibbosum (Schiller) Schiller SPECIES
-=======
+# Prorocentrum gibbosum (Schiller) Schiller SPECIES
 
 #### Status
 ACCEPTED

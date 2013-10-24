@@ -1,17 +1,16 @@
-Metasphaeria urostigymatis Speg. SPECIES
-=======
+# Metasphaeria urostigmatis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 23: 58 (1912)
 
 #### Original name
-Metasphaeria urostigymatis Speg.
+Metasphaeria urostigmatis Speg.
 
 ### Remarks
 null

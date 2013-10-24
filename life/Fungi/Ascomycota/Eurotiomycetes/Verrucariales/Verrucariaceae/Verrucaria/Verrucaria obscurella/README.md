@@ -1,5 +1,4 @@
-Verrucaria obscurella Servít SPECIES
-=======
+# Verrucaria obscurella Servít SPECIES
 
 #### Status
 ACCEPTED

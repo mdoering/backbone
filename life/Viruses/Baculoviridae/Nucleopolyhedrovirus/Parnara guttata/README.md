@@ -1,5 +1,4 @@
-Parnara guttata Npv SPECIES
-=======
+# Parnara guttata Npv SPECIES
 
 #### Status
 ACCEPTED

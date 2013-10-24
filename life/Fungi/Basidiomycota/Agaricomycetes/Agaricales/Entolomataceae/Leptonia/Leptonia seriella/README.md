@@ -1,5 +1,4 @@
-Leptonia seriella var. seriella VARIETY
-=======
+# Leptonia seriella anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptonia seriella var. seriella
+Leptonia seriella anon.
 
 ### Remarks
 null

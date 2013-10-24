@@ -1,5 +1,4 @@
-Dactylella alaskana Matsush. SPECIES
-=======
+# Dactylella alaskana Matsush. SPECIES
 
 #### Status
 ACCEPTED

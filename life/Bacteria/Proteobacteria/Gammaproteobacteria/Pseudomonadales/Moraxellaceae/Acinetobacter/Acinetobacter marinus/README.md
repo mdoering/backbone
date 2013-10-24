@@ -1,5 +1,4 @@
-Acinetobacter marinus Yoon, Kim & Oh, 2007 SPECIES
-=======
+# Acinetobacter marinus Yoon, Kim & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

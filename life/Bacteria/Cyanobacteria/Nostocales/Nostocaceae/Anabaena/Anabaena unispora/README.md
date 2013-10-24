@@ -1,5 +1,4 @@
-Anabaena unispora Gardner SPECIES
-=======
+# Anabaena unispora Gardner SPECIES
 
 #### Status
 ACCEPTED

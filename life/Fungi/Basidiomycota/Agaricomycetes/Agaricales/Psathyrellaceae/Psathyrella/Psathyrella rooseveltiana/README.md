@@ -1,5 +1,4 @@
-Psathyrella rooseveltiana Murrill SPECIES
-=======
+# Psathyrella rooseveltiana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe cortinata Heinem. SPECIES
-=======
+# Hygrocybe cortinata Heinem. SPECIES
 
 #### Status
 ACCEPTED

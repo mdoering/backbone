@@ -1,17 +1,16 @@
-Sphaeria sphinctrina Kunze, 1823 SPECIES
-=======
+# Anthostoma dryophilum (Curr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologische Hefte (Leipzig) 2: 48 (1823)
+Syll. fung. (Abellini) 1: 308 (1882)
 
 #### Original name
-Sphaeria sphinctrina Kunze, 1823
+Sphaeria dryophila Curr., 1859
 
 ### Remarks
 null

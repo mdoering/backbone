@@ -1,5 +1,4 @@
-Aristastoma minimum B. Sutton SPECIES
-=======
+# Aristastoma minimum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

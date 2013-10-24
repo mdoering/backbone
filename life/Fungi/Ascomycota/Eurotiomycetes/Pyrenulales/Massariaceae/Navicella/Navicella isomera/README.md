@@ -1,5 +1,4 @@
-Navicella isomera (Nitschke) Kuntze SPECIES
-=======
+# Navicella isomera (Nitschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

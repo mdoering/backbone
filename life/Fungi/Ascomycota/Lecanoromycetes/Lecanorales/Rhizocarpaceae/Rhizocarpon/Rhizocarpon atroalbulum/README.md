@@ -1,5 +1,4 @@
-Rhizocarpon atroalbulum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon atroalbulum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

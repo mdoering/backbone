@@ -1,5 +1,4 @@
-Lactarius normandensis SPECIES
-=======
+# Lactarius normandensis SPECIES
 
 #### Status
 ACCEPTED

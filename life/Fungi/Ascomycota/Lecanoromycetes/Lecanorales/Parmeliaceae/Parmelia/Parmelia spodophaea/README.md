@@ -1,5 +1,4 @@
-Parmelia spodophaea (Wahlenb.) Ach. SPECIES
-=======
+# Parmelia spodophaea (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

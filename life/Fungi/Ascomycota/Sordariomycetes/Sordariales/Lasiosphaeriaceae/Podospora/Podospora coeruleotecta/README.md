@@ -1,5 +1,4 @@
-Podospora coeruleotecta (Rehm) Cain SPECIES
-=======
+# Podospora coeruleotecta (Rehm) Cain SPECIES
 
 #### Status
 ACCEPTED

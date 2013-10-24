@@ -1,5 +1,4 @@
-Hypoxylon seperans Lloyd SPECIES
-=======
+# Hypoxylon seperans Lloyd SPECIES
 
 #### Status
 ACCEPTED

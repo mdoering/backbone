@@ -1,5 +1,4 @@
-Ochrolechia subrosella Z.F. Jia & Z.T. Zhao SPECIES
-=======
+# Ochrolechia subrosella Z.F. Jia & Z.T. Zhao SPECIES
 
 #### Status
 ACCEPTED

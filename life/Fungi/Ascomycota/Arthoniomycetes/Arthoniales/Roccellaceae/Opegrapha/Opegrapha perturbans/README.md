@@ -1,5 +1,4 @@
-Opegrapha perturbans Follmann SPECIES
-=======
+# Opegrapha perturbans Follmann SPECIES
 
 #### Status
 ACCEPTED

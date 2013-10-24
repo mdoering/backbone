@@ -1,5 +1,4 @@
-Leptodontidium de Hoog, 1979 GENUS
-=======
+# Leptodontidium de Hoog, 1979 GENUS
 
 #### Status
 ACCEPTED

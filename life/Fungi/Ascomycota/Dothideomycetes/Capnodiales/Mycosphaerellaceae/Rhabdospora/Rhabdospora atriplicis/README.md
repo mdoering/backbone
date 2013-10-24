@@ -1,5 +1,4 @@
-Rhabdospora atriplicis Bubák & Krieg. SPECIES
-=======
+# Rhabdospora atriplicis Bubák & Krieg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium medellinense Mayor SPECIES
-=======
+# Aecidium medellinense Mayor SPECIES
 
 #### Status
 ACCEPTED

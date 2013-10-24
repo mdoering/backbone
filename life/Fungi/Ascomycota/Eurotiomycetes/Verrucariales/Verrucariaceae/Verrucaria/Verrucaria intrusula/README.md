@@ -1,5 +1,4 @@
-Verrucaria intrusula Stirt. SPECIES
-=======
+# Verrucaria intrusula Stirt. SPECIES
 
 #### Status
 ACCEPTED

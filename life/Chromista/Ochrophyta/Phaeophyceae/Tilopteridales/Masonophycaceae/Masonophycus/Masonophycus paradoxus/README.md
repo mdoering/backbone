@@ -1,5 +1,4 @@
-Masonophycus paradoxus Setchell & N.L.Gardner, 1930 SPECIES
-=======
+# Masonophycus paradoxus Setchell & N.L.Gardner, 1930 SPECIES
 
 #### Status
 ACCEPTED

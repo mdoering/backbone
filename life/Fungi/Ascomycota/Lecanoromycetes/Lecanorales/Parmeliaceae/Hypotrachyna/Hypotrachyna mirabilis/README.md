@@ -1,5 +1,4 @@
-Hypotrachyna mirabilis C. H. Ribeiro & Marcelli SPECIES
-=======
+# Hypotrachyna mirabilis C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

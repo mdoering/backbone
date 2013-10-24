@@ -1,5 +1,4 @@
-Naucoria euthygramma (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Naucoria euthygramma (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

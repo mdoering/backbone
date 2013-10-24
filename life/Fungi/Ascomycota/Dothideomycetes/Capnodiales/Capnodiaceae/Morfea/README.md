@@ -1,5 +1,4 @@
-Morfea GENUS
-=======
+# Morfea GENUS
 
 #### Status
 ACCEPTED

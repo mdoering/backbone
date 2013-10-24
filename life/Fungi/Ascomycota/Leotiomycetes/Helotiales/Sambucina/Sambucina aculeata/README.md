@@ -1,5 +1,4 @@
-Sambucina aculeata Velen., 1947 SPECIES
-=======
+# Sambucina aculeata Velen., 1947 SPECIES
 
 #### Status
 ACCEPTED

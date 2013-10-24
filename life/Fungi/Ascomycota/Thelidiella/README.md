@@ -1,5 +1,4 @@
-Thelidiella Fink GENUS
-=======
+# Thelidiella Fink GENUS
 
 #### Status
 ACCEPTED

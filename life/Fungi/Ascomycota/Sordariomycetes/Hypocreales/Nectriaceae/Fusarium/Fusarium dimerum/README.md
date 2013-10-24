@@ -1,5 +1,4 @@
-Fusarium dimerum var. dimerum VARIETY
-=======
+# Fusarium dimerum Penzig SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 484 (1882)
+null
 
 #### Original name
-Fusarium dimerum var. dimerum
+null
 
 ### Remarks
 null

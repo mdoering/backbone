@@ -1,5 +1,4 @@
-Mycena subvestita A.H. Sm. SPECIES
-=======
+# Mycena subvestita A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

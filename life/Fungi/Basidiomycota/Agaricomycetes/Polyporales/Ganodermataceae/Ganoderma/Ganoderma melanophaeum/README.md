@@ -1,5 +1,4 @@
-Ganoderma melanophaeum Steyaert SPECIES
-=======
+# Ganoderma melanophaeum Steyaert SPECIES
 
 #### Status
 ACCEPTED

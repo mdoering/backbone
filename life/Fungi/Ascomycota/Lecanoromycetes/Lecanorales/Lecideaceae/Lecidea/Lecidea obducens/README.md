@@ -1,5 +1,4 @@
-Lecidea obducens J. Steiner SPECIES
-=======
+# Lecidea obducens J. Steiner SPECIES
 
 #### Status
 ACCEPTED

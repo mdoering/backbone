@@ -1,5 +1,4 @@
-Lambertella colombiana Cash & Whetzel SPECIES
-=======
+# Lambertella colombiana Cash & Whetzel SPECIES
 
 #### Status
 ACCEPTED

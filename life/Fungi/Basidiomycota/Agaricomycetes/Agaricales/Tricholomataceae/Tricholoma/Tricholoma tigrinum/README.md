@@ -1,5 +1,4 @@
-Tricholoma tigrinum (Schaeff.) Gillet, 1874 SPECIES
-=======
+# Tricholoma tigrinum (Schaeff.) Gillet, 1874 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma guizotiae Vánky, 2004 SPECIES
-=======
+# Entyloma guizotiae Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

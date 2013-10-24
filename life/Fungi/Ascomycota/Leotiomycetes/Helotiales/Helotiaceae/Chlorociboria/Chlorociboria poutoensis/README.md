@@ -1,5 +1,4 @@
-Chlorociboria poutoensis P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria poutoensis P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

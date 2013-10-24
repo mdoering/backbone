@@ -1,5 +1,4 @@
-Verrucaria pseudocatalepta Servít SPECIES
-=======
+# Verrucaria pseudocatalepta Servít SPECIES
 
 #### Status
 ACCEPTED

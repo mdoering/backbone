@@ -1,5 +1,4 @@
-Diplodia oryzae I. Miyake SPECIES
-=======
+# Diplodia oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

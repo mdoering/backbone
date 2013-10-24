@@ -1,5 +1,4 @@
-Seribiscutum bijugum Filewicz et al. in Wise & Wind, 1977 SPECIES
-=======
+# Seribiscutum bijugum Filewicz et al. in Wise & Wind, 1977 SPECIES
 
 #### Status
 ACCEPTED

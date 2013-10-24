@@ -1,5 +1,4 @@
-Collema leptalaeum Tuck. SPECIES
-=======
+# Collema leptalaeum Tuck. SPECIES
 
 #### Status
 ACCEPTED

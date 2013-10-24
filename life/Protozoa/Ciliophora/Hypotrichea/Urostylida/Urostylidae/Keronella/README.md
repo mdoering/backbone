@@ -1,5 +1,4 @@
-Keronella Wiackowski, 1985 GENUS
-=======
+# Keronella Wiackowski, 1985 GENUS
 
 #### Status
 ACCEPTED

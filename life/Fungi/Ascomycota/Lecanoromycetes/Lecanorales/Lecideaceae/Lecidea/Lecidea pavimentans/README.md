@@ -1,5 +1,4 @@
-Lecidea pavimentans f. pavimentans FORM
-=======
+# Lecidea pavimentans H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea pavimentans f. pavimentans
+Lecidea pavimentans H. Magn.
 
 ### Remarks
 null

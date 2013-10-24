@@ -1,5 +1,4 @@
-Lilliputia gaillardi Boud. & Pat. SPECIES
-=======
+# Lilliputia gaillardi Boud. & Pat. SPECIES
 
 #### Status
 ACCEPTED

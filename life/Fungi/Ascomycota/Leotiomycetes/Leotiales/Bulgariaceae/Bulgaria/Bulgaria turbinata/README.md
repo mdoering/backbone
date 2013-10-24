@@ -1,5 +1,4 @@
-Bulgaria turbinata Massee SPECIES
-=======
+# Bulgaria turbinata Massee SPECIES
 
 #### Status
 ACCEPTED

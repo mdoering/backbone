@@ -1,5 +1,4 @@
-Lentinus lunatus (Fr.) Henn. SPECIES
-=======
+# Lentinus lunatus (Fr.) Henn. SPECIES
 
 #### Status
 ACCEPTED

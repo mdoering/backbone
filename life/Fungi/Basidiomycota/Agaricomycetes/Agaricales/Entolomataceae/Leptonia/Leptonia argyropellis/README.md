@@ -1,5 +1,4 @@
-Leptonia argyropellis Pegler SPECIES
-=======
+# Leptonia argyropellis Pegler SPECIES
 
 #### Status
 ACCEPTED

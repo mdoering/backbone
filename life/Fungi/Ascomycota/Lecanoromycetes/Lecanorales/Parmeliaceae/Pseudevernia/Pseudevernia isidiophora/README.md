@@ -1,5 +1,4 @@
-Pseudevernia isidiophora (Zopf) Zopf SPECIES
-=======
+# Pseudevernia isidiophora (Zopf) Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium furcatispinosum Górka, 1969 SPECIES
-=======
+# Baltisphaeridium furcatispinosum Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

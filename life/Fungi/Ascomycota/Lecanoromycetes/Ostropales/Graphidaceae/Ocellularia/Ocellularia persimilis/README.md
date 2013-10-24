@@ -1,14 +1,13 @@
-Thelotrema persimile Kremp. SPECIES
-=======
+# Ocellularia persimilis (Kremp.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 19 (1875)
+Bull. Soc. R. Bot. Belg. 32: 146 (1893)
 
 #### Original name
 Thelotrema persimile Kremp.

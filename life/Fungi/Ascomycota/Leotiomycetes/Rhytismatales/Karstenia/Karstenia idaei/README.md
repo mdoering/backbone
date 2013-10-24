@@ -1,14 +1,13 @@
-Schizoxylon idaei Fuckel SPECIES
-=======
+# Karstenia idaei (Fuckel) Sherwood, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 251 (1870)
+Mycotaxon 5(1): 53 (1977)
 
 #### Original name
 Schizoxylon idaei Fuckel

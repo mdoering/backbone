@@ -1,5 +1,4 @@
-Omphalina globispora Raithelh. SPECIES
-=======
+# Omphalina globispora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

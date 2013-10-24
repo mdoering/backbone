@@ -1,5 +1,4 @@
-Uredo paspali-scrobiculati Syd. & P. Syd. SPECIES
-=======
+# Uredo paspali-scrobiculati Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

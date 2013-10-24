@@ -1,5 +1,4 @@
-Lycoperdon darjeelingense B.M. Sharma SPECIES
-=======
+# Lycoperdon darjeelingense B.M. Sharma SPECIES
 
 #### Status
 ACCEPTED

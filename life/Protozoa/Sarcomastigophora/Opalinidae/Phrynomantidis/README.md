@@ -1,5 +1,4 @@
-Phrynomantidis Amaro, 1966 GENUS
-=======
+# Phrynomantidis Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

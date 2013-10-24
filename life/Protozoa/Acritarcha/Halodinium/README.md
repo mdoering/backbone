@@ -1,5 +1,4 @@
-Halodinium J.P.Bujak, 1984 GENUS
-=======
+# Halodinium J.P.Bujak, 1984 GENUS
 
 #### Status
 ACCEPTED

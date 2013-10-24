@@ -1,5 +1,4 @@
-Phoma pallens Berk. & M.A. Curtis SPECIES
-=======
+# Phoma pallens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

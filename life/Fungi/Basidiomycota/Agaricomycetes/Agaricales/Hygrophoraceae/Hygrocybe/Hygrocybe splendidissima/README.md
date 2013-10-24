@@ -1,14 +1,13 @@
-Hygrocybe punicea f. splendidissima (P.D. Orton) D.A. Reid, 1972 FORM
-=======
+# Hygrocybe splendidissima (P.D. Orton) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungorum Rariorum Icones Coloratae 6: 1 (1972)
+Die Röhrlinge und Blätterpilze (Agaricales) 67 (1967)
 
 #### Original name
 Hygrophorus splendidissimus P.D. Orton, 1960

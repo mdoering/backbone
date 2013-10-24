@@ -1,8 +1,7 @@
-Amphidinium geitleri Huber-PeStalozzi SPECIES
-=======
+# Amphidinium amphidinioides (Geitler) Schiller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

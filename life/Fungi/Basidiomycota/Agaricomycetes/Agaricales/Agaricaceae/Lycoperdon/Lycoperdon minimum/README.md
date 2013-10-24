@@ -1,5 +1,4 @@
-Lycoperdon minimum Leers SPECIES
-=======
+# Lycoperdon minimum Leers SPECIES
 
 #### Status
 ACCEPTED

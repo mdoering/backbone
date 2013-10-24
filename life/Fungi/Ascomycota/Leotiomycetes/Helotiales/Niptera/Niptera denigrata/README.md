@@ -1,5 +1,4 @@
-Niptera denigrata Kunze SPECIES
-=======
+# Niptera denigrata Kunze SPECIES
 
 #### Status
 ACCEPTED

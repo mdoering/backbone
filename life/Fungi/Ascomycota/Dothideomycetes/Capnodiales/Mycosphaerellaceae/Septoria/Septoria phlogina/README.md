@@ -1,5 +1,4 @@
-Septoria phlogina Bondartsev SPECIES
-=======
+# Septoria phlogina Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula annae Sarnari SPECIES
-=======
+# Russula annae Sarnari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarinula barbieri (Westend.) Rehm SPECIES
-=======
+# Massarinula barbieri (Westend.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulasnellaceae FAMILY
-=======
+# Tulasnellaceae FAMILY
 
 #### Status
 ACCEPTED

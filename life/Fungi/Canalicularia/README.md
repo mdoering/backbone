@@ -1,5 +1,4 @@
-Canalicularia GENUS
-=======
+# Canalicularia GENUS
 
 #### Status
 ACCEPTED

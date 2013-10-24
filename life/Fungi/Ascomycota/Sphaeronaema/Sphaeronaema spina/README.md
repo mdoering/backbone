@@ -1,5 +1,4 @@
-Sphaeronaema spina Berk. & Ravenel SPECIES
-=======
+# Sphaeronaema spina Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

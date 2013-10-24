@@ -1,5 +1,4 @@
-Vulvulina spinosa Cushman, 1927 SPECIES
-=======
+# Vulvulina spinosa Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

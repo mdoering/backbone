@@ -1,5 +1,4 @@
-Diplodia opuntiae Sacc. SPECIES
-=======
+# Diplodia opuntiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

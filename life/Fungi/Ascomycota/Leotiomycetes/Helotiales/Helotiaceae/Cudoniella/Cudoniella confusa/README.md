@@ -1,5 +1,4 @@
-Cudoniella confusa (Bres.) SPECIES
-=======
+# Cudoniella confusa (Bres.) SPECIES
 
 #### Status
 ACCEPTED

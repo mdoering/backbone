@@ -1,5 +1,4 @@
-Lessonia trabeculata Villouta & Santelices SPECIES
-=======
+# Lessonia trabeculata Villouta & Santelices SPECIES
 
 #### Status
 ACCEPTED

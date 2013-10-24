@@ -1,5 +1,4 @@
-Lyngbya olivacea Dickie SPECIES
-=======
+# Lyngbya olivacea Dickie SPECIES
 
 #### Status
 ACCEPTED

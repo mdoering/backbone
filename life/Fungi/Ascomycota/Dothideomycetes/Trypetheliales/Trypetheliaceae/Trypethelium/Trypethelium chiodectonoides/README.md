@@ -1,5 +1,4 @@
-Trypethelium chiodectonoides Fée SPECIES
-=======
+# Trypethelium chiodectonoides Fée SPECIES
 
 #### Status
 ACCEPTED

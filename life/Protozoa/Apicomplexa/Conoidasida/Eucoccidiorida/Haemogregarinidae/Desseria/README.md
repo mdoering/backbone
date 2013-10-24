@@ -1,5 +1,4 @@
-Desseria Siddall, 1995 GENUS
-=======
+# Desseria Siddall, 1995 GENUS
 
 #### Status
 ACCEPTED

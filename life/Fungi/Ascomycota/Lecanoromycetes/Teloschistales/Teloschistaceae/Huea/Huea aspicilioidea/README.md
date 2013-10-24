@@ -1,14 +1,13 @@
-Huea aspicilioides (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Huea aspicilioidea (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 84 (1971)
 
 #### Original name
 Blastenia aspicilioidea Zahlbr.

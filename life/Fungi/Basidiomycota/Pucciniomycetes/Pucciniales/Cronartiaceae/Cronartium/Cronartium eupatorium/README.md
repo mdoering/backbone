@@ -1,5 +1,4 @@
-Cronartium eupatorium Speg. SPECIES
-=======
+# Cronartium eupatorium Speg. SPECIES
 
 #### Status
 ACCEPTED

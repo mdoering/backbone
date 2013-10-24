@@ -1,5 +1,4 @@
-Arthopyrenia texensis (Cooke) D. Hawksw. SPECIES
-=======
+# Arthopyrenia texensis (Cooke) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

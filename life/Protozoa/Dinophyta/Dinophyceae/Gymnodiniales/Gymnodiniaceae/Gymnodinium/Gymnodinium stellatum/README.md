@@ -1,5 +1,4 @@
-Gymnodinium stellatum Hulbult, 1957 SPECIES
-=======
+# Gymnodinium stellatum Hulbult, 1957 SPECIES
 
 #### Status
 ACCEPTED

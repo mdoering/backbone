@@ -1,5 +1,4 @@
-Sphacelaria harveyana Sauvageau SPECIES
-=======
+# Sphacelaria harveyana Sauvageau SPECIES
 
 #### Status
 ACCEPTED

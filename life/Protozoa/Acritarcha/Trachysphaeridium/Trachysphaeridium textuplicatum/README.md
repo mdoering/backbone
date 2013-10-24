@@ -1,5 +1,4 @@
-Trachysphaeridium textuplicatum Piskun, 1976 SPECIES
-=======
+# Trachysphaeridium textuplicatum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

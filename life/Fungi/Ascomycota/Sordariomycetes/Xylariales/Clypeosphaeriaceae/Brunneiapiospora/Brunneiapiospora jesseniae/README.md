@@ -1,5 +1,4 @@
-Brunneiapiospora jesseniae K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
-=======
+# Brunneiapiospora jesseniae K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
 
 #### Status
 ACCEPTED

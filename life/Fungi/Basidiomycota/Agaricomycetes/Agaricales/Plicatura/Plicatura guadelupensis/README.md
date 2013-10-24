@@ -1,5 +1,4 @@
-Plicatura guadelupensis (Pat.) Murrill SPECIES
-=======
+# Plicatura guadelupensis (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

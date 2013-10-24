@@ -1,5 +1,4 @@
-Sporotrichum alutaceum Schwein. SPECIES
-=======
+# Sporotrichum alutaceum Schwein. SPECIES
 
 #### Status
 ACCEPTED

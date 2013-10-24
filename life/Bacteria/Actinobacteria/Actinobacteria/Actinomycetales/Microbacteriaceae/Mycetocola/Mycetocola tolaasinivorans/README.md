@@ -1,5 +1,4 @@
-Mycetocola tolaasinivorans Tsukamoto et al., 2001 SPECIES
-=======
+# Mycetocola tolaasinivorans Tsukamoto et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

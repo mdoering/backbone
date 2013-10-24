@@ -1,5 +1,4 @@
-Pyriculariopsis miogae Matsush. SPECIES
-=======
+# Pyriculariopsis miogae Matsush. SPECIES
 
 #### Status
 ACCEPTED

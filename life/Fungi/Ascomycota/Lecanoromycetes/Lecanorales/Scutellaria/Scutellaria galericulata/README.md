@@ -1,5 +1,4 @@
-Scutellaria galericulata L. SPECIES
-=======
+# Scutellaria galericulata L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita centunculus Corner & Bas SPECIES
-=======
+# Amanita centunculus Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

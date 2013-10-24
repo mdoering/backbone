@@ -1,5 +1,4 @@
-Agaricus leptorhizus Pers. SPECIES
-=======
+# Agaricus leptorhizus Pers. SPECIES
 
 #### Status
 ACCEPTED

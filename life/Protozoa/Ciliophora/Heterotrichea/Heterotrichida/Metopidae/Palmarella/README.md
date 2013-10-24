@@ -1,5 +1,4 @@
-Palmarella Jankowski, 1975 GENUS
-=======
+# Palmarella Jankowski, 1975 GENUS
 
 #### Status
 ACCEPTED

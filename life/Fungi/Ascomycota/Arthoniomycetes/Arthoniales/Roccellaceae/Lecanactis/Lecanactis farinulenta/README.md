@@ -1,5 +1,4 @@
-Lecanactis farinulenta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis farinulenta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

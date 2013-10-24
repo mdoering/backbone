@@ -1,5 +1,4 @@
-Podospora filiformis Cailleux SPECIES
-=======
+# Podospora filiformis Cailleux SPECIES
 
 #### Status
 ACCEPTED

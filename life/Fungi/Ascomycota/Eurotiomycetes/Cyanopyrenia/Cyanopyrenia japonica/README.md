@@ -1,5 +1,4 @@
-Cyanopyrenia japonica H. Harada SPECIES
-=======
+# Cyanopyrenia japonica H. Harada SPECIES
 
 #### Status
 ACCEPTED

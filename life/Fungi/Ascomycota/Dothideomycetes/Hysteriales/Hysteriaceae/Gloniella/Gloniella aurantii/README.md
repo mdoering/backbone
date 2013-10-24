@@ -1,5 +1,4 @@
-Gloniella aurantii (Catt.) Sacc. SPECIES
-=======
+# Gloniella aurantii (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis malayensis Bat. SPECIES
-=======
+# Micropeltis malayensis Bat. SPECIES
 
 #### Status
 ACCEPTED

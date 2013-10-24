@@ -1,5 +1,4 @@
-Lactarius juniperi Smotl. SPECIES
-=======
+# Lactarius juniperi Smotl. SPECIES
 
 #### Status
 ACCEPTED

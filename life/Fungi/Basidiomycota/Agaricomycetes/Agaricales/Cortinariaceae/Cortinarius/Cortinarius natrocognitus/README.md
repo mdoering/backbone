@@ -1,5 +1,4 @@
-Cortinarius natrocognitus Rob. Henry SPECIES
-=======
+# Cortinarius natrocognitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seynesia Sacc. GENUS
-=======
+# Seynesia Sacc. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium yuccae Gutner SPECIES
-=======
+# Gloeosporium yuccae Gutner SPECIES
 
 #### Status
 ACCEPTED

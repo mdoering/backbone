@@ -1,5 +1,4 @@
-Sepedonium maheshwarianum Mukerji SPECIES
-=======
+# Sepedonium maheshwarianum Mukerji SPECIES
 
 #### Status
 ACCEPTED

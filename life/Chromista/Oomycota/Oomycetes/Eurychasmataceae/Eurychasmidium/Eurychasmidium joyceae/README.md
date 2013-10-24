@@ -1,14 +1,13 @@
-Eurychasma joyceae Sparrow, 1969 SPECIES
-=======
+# Eurychasmidium joyceae (Sparrow) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 66: 144 (1969)
+Straminipilous Fungi (Dordrecht) 366 (2001)
 
 #### Original name
 Eurychasma joyceae Sparrow, 1969

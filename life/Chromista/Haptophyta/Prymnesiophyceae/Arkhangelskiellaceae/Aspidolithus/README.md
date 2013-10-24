@@ -1,5 +1,4 @@
-Aspidolithus Noël GENUS
-=======
+# Aspidolithus Noël GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Sargassum linifolium var. salicifolium J.Agardh, 1848 VARIETY
-=======
+# Sargassum acinarium (Linnaeus) Setchell SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

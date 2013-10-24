@@ -1,5 +1,4 @@
-Puccinia cirsii-sempervirentis Gäum. SPECIES
-=======
+# Puccinia cirsii-sempervirentis Gäum. SPECIES
 
 #### Status
 ACCEPTED

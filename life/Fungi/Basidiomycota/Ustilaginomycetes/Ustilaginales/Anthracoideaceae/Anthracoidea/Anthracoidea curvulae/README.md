@@ -1,5 +1,4 @@
-Anthracoidea curvulae Vánky & Kukkonen, 1983 SPECIES
-=======
+# Anthracoidea curvulae Vánky & Kukkonen, 1983 SPECIES
 
 #### Status
 ACCEPTED

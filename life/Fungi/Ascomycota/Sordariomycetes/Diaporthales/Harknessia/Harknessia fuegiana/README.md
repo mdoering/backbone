@@ -1,5 +1,4 @@
-Harknessia fuegiana Speg. SPECIES
-=======
+# Harknessia fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

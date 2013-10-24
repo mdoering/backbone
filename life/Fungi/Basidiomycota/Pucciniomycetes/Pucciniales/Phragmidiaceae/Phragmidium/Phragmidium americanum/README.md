@@ -1,14 +1,13 @@
-Phragmidium mucronatum var. americanum Peck, 1876 VARIETY
-=======
+# Phragmidium americanum (Peck) Dietel, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 44: 124 (1905)
 
 #### Original name
 null

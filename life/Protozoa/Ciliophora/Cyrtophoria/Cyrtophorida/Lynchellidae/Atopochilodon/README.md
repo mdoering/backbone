@@ -1,14 +1,13 @@
-Atopchilodon GENUS
-=======
+# Atopochilodon Kahl, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Tierwelt der Nord- und Ostsee, 23, 29.
 
 #### Original name
 null

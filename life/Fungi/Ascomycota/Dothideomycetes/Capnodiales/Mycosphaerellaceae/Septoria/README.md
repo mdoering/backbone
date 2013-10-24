@@ -1,17 +1,16 @@
-Septaria E.M. Fries, 1821 GENUS
-=======
+# Septoria Saccardo, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novit. fl. svec. 78 (1819)
+Syll. fung. (Abellini) 3: 474 (1884)
 
 #### Original name
-Septaria E.M. Fries, 1821
+Septoria Saccardo, 1884
 
 ### Remarks
 null

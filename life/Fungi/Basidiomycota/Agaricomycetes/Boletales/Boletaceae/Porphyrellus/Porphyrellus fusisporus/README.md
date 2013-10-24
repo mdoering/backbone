@@ -1,5 +1,4 @@
-Porphyrellus fusisporus Kawam. ex Imazeki & Hongo SPECIES
-=======
+# Porphyrellus fusisporus Kawam. ex Imazeki & Hongo SPECIES
 
 #### Status
 ACCEPTED

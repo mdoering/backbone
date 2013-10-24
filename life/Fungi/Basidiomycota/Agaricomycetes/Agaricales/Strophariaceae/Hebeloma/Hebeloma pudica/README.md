@@ -1,5 +1,4 @@
-Hebeloma pudica Hruby SPECIES
-=======
+# Hebeloma pudica Hruby SPECIES
 
 #### Status
 ACCEPTED

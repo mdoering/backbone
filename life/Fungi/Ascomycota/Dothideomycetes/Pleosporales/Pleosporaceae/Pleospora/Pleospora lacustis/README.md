@@ -1,5 +1,4 @@
-Pleospora lacustis Feltgen SPECIES
-=======
+# Pleospora lacustis Feltgen SPECIES
 
 #### Status
 ACCEPTED

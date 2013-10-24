@@ -1,5 +1,4 @@
-Syngliocladium acridiorum var. acridiorum H.C. Evans & P.A. Shah, 2002 VARIETY
-=======
+# Syngliocladium acridiorum H.C. Evans & P.A. Shah SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycol. Res. 106(6): 741 (2002)
 
 #### Original name
-Syngliocladium acridiorum var. acridiorum H.C. Evans & P.A. Shah, 2002
+Syngliocladium acridiorum H.C. Evans & P.A. Shah
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Melophia anonae Speg. SPECIES
-=======
+# Melophia annonae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melophia anonae Speg.
+Melophia annonae Speg.
 
 ### Remarks
 null

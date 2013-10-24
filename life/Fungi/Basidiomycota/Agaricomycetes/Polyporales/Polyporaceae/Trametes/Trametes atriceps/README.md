@@ -1,5 +1,4 @@
-Trametes atriceps Corner SPECIES
-=======
+# Trametes atriceps Corner SPECIES
 
 #### Status
 ACCEPTED

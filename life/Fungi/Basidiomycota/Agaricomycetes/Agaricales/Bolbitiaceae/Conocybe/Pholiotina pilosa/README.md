@@ -1,5 +1,4 @@
-Pholiotina pilosa E. Horak, Hauskn. & Desjardin SPECIES
-=======
+# Pholiotina pilosa E. Horak, Hauskn. & Desjardin SPECIES
 
 #### Status
 ACCEPTED

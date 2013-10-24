@@ -1,5 +1,4 @@
-Parmeliella crassa P.M. Jørg. & D.J. Galloway SPECIES
-=======
+# Parmeliella crassa P.M. Jørg. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

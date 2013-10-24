@@ -1,5 +1,4 @@
-Collybia foetidissima Gillet SPECIES
-=======
+# Collybia foetidissima Gillet SPECIES
 
 #### Status
 ACCEPTED

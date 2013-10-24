@@ -1,5 +1,4 @@
-Pleospora incarvilleae Byzova SPECIES
-=======
+# Pleospora incarvilleae Byzova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thamnidium nigricans (Tiegh.) Mig., 1910 SPECIES
-=======
+# Thamnostylum nigricans (Tiegh.) Benny & R.K. Benj., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Deutschl. , Deutsch-Oesterreich und der Schweiz 3(1): 207 (1910)
+Aliso 8(3): 312 (1975)
 
 #### Original name
 Helicostylum nigricans Tiegh., 1878

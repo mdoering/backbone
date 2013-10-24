@@ -1,5 +1,4 @@
-Kluyveromyces penaeid S.L. Tong & H.Z. Miao SPECIES
-=======
+# Kluyveromyces penaeid S.L. Tong & H.Z. Miao SPECIES
 
 #### Status
 ACCEPTED

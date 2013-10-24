@@ -1,5 +1,4 @@
-Subulispora Tubaki, 1971 GENUS
-=======
+# Subulispora Tubaki, 1971 GENUS
 
 #### Status
 ACCEPTED

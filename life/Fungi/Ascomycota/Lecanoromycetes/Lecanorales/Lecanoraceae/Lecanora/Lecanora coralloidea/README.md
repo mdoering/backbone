@@ -1,5 +1,4 @@
-Lecanora coralloidea Fée SPECIES
-=======
+# Lecanora coralloidea Fée SPECIES
 
 #### Status
 ACCEPTED

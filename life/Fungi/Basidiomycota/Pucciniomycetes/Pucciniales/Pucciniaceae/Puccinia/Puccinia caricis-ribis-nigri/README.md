@@ -1,5 +1,4 @@
-Puccinia caricis-ribis-nigri f. sp FORM
-=======
+# Puccinia caricis-ribis-nigri Erikss. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia caricis-ribis-nigri f. sp
+Puccinia caricis-ribis-nigri Erikss.
 
 ### Remarks
 null

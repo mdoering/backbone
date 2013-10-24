@@ -1,5 +1,4 @@
-Uredo alstroemeriae Dietel SPECIES
-=======
+# Uredo alstroemeriae Dietel SPECIES
 
 #### Status
 ACCEPTED

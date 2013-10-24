@@ -1,8 +1,7 @@
-Tintinnidium inquilinus Müller, 1776 SPECIES
-=======
+# Tintinnus inquilinus (Müller, 1776) Schrank, 1803 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

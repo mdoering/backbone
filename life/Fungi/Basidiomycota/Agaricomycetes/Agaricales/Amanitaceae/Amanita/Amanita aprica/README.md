@@ -1,5 +1,4 @@
-Amanita aprica J. Lindgr. & Tulloss SPECIES
-=======
+# Amanita aprica J. Lindgr. & Tulloss SPECIES
 
 #### Status
 ACCEPTED

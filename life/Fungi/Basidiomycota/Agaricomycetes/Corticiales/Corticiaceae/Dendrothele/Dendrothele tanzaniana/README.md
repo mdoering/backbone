@@ -1,5 +1,4 @@
-Dendrothele tanzaniana Nakasone, 2006 SPECIES
-=======
+# Dendrothele tanzaniana Nakasone, 2006 SPECIES
 
 #### Status
 ACCEPTED

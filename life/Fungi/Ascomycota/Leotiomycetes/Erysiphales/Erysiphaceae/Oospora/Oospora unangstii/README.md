@@ -1,5 +1,4 @@
-Oospora unangstii (Sumst.) Sacc. SPECIES
-=======
+# Oospora unangstii (Sumst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

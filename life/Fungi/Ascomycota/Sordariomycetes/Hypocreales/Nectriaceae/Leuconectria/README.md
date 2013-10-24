@@ -1,5 +1,4 @@
-Leuconectria Rossman, Samuels & Lowen GENUS
-=======
+# Leuconectria Rossman, Samuels & Lowen GENUS
 
 #### Status
 ACCEPTED

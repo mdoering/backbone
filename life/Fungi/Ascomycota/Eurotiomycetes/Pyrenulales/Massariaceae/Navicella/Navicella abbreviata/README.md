@@ -1,5 +1,4 @@
-Navicella abbreviata (Schwein.) Kuntze SPECIES
-=======
+# Navicella abbreviata (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

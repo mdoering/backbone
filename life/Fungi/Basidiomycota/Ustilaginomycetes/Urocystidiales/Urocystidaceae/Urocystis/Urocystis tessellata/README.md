@@ -1,5 +1,4 @@
-Urocystis tessellata (Liro) Zundel SPECIES
-=======
+# Urocystis tessellata (Liro) Zundel SPECIES
 
 #### Status
 ACCEPTED

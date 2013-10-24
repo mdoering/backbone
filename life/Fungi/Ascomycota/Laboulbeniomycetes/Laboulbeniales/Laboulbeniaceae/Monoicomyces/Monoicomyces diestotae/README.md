@@ -1,5 +1,4 @@
-Monoicomyces diestotae Thaxt. SPECIES
-=======
+# Monoicomyces diestotae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

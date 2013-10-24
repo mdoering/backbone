@@ -1,5 +1,4 @@
-Amphicampha hemicyclus (Ehrenberg) Karsten SPECIES
-=======
+# Amphicampha hemicyclus (Ehrenberg) Karsten SPECIES
 
 #### Status
 ACCEPTED

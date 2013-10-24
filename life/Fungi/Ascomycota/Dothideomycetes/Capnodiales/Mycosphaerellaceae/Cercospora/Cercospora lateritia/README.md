@@ -1,5 +1,4 @@
-Cercospora lateritia Ellis & Halst. SPECIES
-=======
+# Cercospora lateritia Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pfennigia Tindall, 1999 GENUS
-=======
+# Pfennigia Tindall, 1999 GENUS
 
 #### Status
 ACCEPTED

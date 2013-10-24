@@ -1,5 +1,4 @@
-Septogloeum bartholomaei (Peck) Wollenw. SPECIES
-=======
+# Septogloeum bartholomaei (Peck) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

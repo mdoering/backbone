@@ -1,5 +1,4 @@
-Mycovellosiella prenanthis (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Mycovellosiella prenanthis (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

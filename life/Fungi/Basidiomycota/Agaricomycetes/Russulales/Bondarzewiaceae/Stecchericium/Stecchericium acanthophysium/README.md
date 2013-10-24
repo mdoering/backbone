@@ -1,5 +1,4 @@
-Stecchericium acanthophysium T. Hatt. & Ryvarden, 1995 SPECIES
-=======
+# Stecchericium acanthophysium T. Hatt. & Ryvarden, 1995 SPECIES
 
 #### Status
 ACCEPTED

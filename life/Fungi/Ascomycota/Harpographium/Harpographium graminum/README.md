@@ -1,5 +1,4 @@
-Harpographium graminum Cooke & Massee, 1888 SPECIES
-=======
+# Harpographium graminum Cooke & Massee, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa scopulorum Nägeli SPECIES
-=======
+# Gloeocapsa scopulorum Nägeli SPECIES
 
 #### Status
 ACCEPTED

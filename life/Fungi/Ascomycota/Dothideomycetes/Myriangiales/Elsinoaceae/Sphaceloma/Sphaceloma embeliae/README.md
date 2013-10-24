@@ -1,5 +1,4 @@
-Sphaceloma embeliae Thirum. & Naras. SPECIES
-=======
+# Sphaceloma embeliae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

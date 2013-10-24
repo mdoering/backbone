@@ -1,5 +1,4 @@
-Batioladinium pomum R. J. Davey SPECIES
-=======
+# Batioladinium pomum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

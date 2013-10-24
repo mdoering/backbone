@@ -1,5 +1,4 @@
-Sphaerella myricariae (Fuckel) Sacc. SPECIES
-=======
+# Sphaerella myricariae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

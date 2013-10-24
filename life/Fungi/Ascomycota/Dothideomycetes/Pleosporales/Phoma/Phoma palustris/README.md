@@ -1,5 +1,4 @@
-Phoma palustris f. palustris FORM
-=======
+# Phoma palustris Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma palustris f. palustris
+Phoma palustris Brunaud
 
 ### Remarks
 null

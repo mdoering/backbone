@@ -1,17 +1,16 @@
-Fusarium ponceti Guiart SPECIES
-=======
+# Fusarium poncetii Guiart SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. Seanc. Soc. Biol. 73: 269 (1912)
 
 #### Original name
-Fusarium ponceti Guiart
+Fusarium poncetii Guiart
 
 ### Remarks
 null

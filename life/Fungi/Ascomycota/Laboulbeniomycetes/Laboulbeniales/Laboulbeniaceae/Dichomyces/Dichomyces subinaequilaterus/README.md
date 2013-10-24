@@ -1,5 +1,4 @@
-Dichomyces subinaequilaterus Speg. SPECIES
-=======
+# Dichomyces subinaequilaterus Speg. SPECIES
 
 #### Status
 ACCEPTED

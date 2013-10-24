@@ -1,5 +1,4 @@
-Ameson atlanticum Vivarès & Azevedo, 1988 SPECIES
-=======
+# Ameson atlanticum Vivarès & Azevedo, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathomastix Prowazek GENUS
-=======
+# Cyathomastix Prowazek GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula dimorpha (Nyl.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula dimorpha (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

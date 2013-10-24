@@ -1,5 +1,4 @@
-Phoma clematidis-terniflorae Allesch. SPECIES
-=======
+# Phoma clematidis-terniflorae Allesch. SPECIES
 
 #### Status
 ACCEPTED

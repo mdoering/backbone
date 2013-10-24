@@ -1,5 +1,4 @@
-Spirochaeta recta SPECIES
-=======
+# Spirochaeta recta SPECIES
 
 #### Status
 ACCEPTED

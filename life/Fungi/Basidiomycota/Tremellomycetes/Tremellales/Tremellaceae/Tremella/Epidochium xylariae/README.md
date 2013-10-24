@@ -1,17 +1,16 @@
-Epidochium xylariae var. microsporum Petch VARIETY
-=======
+# Epidochium xylariae Höhn., 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 7: 322 (1922)
+Fragm. Mykol. 45 (1903)
 
 #### Original name
-Epidochium xylariae var. microsporum Petch
+Epidochium xylariae Höhn., 1903
 
 ### Remarks
 null

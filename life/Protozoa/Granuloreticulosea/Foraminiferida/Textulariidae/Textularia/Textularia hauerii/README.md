@@ -1,5 +1,4 @@
-Textularia hauerii d'Orbigny SPECIES
-=======
+# Textularia hauerii d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

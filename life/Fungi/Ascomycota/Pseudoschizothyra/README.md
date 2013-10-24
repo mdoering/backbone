@@ -1,5 +1,4 @@
-Pseudoschizothyra Punith. GENUS
-=======
+# Pseudoschizothyra Punith. GENUS
 
 #### Status
 ACCEPTED

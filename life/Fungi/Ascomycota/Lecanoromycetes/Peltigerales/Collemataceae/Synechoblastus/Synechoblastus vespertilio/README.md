@@ -1,5 +1,4 @@
-Synechoblastus vespertilio var. vespertilio VARIETY
-=======
+# Synechoblastus vespertilio (Lightf.) Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Synechoblastus vespertilio var. vespertilio
+Lichen vespertilio Lightf.
 
 ### Remarks
 null

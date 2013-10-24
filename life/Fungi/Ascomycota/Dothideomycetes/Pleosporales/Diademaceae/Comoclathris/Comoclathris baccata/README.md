@@ -1,5 +1,4 @@
-Comoclathris baccata (Ellis) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris baccata (Ellis) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

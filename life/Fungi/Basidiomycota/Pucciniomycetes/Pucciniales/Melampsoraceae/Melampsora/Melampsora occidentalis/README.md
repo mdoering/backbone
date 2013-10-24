@@ -1,5 +1,4 @@
-Melampsora occidentalis H.S. Jacks., 1917 SPECIES
-=======
+# Melampsora occidentalis H.S. Jacks., 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium jebbi SPECIES
-=======
+# Corynebacterium jebbi SPECIES
 
 #### Status
 ACCEPTED

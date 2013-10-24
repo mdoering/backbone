@@ -1,5 +1,4 @@
-Dactylaria cazorlii Mercado, Gené & Guarro SPECIES
-=======
+# Dactylaria cazorlii Mercado, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

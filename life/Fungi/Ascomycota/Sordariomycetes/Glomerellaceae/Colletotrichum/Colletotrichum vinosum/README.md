@@ -1,5 +1,4 @@
-Colletotrichum vinosum Henn. SPECIES
-=======
+# Colletotrichum vinosum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helosphaeridium rarum Lu Lichang, 1987 SPECIES
-=======
+# Helosphaeridium rarum Lu Lichang, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterohormogonium schizodichotomum Copeland SPECIES
-=======
+# Heterohormogonium schizodichotomum Copeland SPECIES
 
 #### Status
 ACCEPTED

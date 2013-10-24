@@ -1,5 +1,4 @@
-Arthothelium sardoum Bagl. SPECIES
-=======
+# Arthothelium sardoum Bagl. SPECIES
 
 #### Status
 ACCEPTED

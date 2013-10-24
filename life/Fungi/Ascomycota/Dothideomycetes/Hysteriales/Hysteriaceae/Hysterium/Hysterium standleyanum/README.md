@@ -1,5 +1,4 @@
-Hysterium standleyanum Fairm. SPECIES
-=======
+# Hysterium standleyanum Fairm. SPECIES
 
 #### Status
 ACCEPTED

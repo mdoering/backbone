@@ -1,14 +1,13 @@
-Boletus costatisporus Beeli, 1927 SPECIES
-=======
+# Afroboletus costatisporus (Beeli) Watling, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 59: 162 (1927)
+Edinb. J. Bot. 49(3): 346 (1993)
 
 #### Original name
 Boletus costatisporus Beeli, 1927

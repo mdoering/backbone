@@ -1,5 +1,4 @@
-Infundibulicybe Harmaja GENUS
-=======
+# Infundibulicybe Harmaja GENUS
 
 #### Status
 ACCEPTED

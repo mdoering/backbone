@@ -1,5 +1,4 @@
-Entyloma sidae-rhombifoliae Cif. SPECIES
-=======
+# Entyloma sidae-rhombifoliae Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea confluescens Nyl. SPECIES
-=======
+# Lecidea confluescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

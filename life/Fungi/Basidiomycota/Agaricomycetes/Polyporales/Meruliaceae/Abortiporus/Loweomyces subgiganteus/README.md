@@ -1,5 +1,4 @@
-Loweomyces subgiganteus (Berk. & M.A. Curtis) Spirin SPECIES
-=======
+# Loweomyces subgiganteus (Berk. & M.A. Curtis) Spirin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erineum nervisequum Kunze & J.C. Schmidt SPECIES
-=======
+# Erineum nervisequum Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

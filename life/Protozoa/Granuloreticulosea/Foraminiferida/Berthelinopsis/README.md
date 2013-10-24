@@ -1,5 +1,4 @@
-Berthelinopsis Sliter, 1968 GENUS
-=======
+# Berthelinopsis Sliter, 1968 GENUS
 
 #### Status
 ACCEPTED

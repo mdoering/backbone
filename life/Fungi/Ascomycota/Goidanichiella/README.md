@@ -1,5 +1,4 @@
-Goidanichiella G.L. Barron ex W. Gams, 1990 GENUS
-=======
+# Goidanichiella G.L. Barron ex W. Gams, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora butleri (Syd.) U. Braun SPECIES
-=======
+# Pseudocercospora butleri (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

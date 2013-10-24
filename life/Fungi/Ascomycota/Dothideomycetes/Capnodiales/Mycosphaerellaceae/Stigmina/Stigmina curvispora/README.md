@@ -1,5 +1,4 @@
-Stigmina curvispora Crous & U. Braun SPECIES
-=======
+# Stigmina curvispora Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

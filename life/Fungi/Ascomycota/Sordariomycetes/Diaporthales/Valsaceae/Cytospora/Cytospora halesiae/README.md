@@ -1,5 +1,4 @@
-Cytospora halesiae Ellis & Everh. SPECIES
-=======
+# Cytospora halesiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

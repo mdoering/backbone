@@ -1,5 +1,4 @@
-Perisporiopsis portoricensis (F. Stevens) Arx SPECIES
-=======
+# Perisporiopsis portoricensis (F. Stevens) Arx SPECIES
 
 #### Status
 ACCEPTED

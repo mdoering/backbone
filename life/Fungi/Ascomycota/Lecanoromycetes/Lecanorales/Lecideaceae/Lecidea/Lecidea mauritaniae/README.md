@@ -1,5 +1,4 @@
-Lecidea mauritaniae Hue SPECIES
-=======
+# Lecidea mauritaniae Hue SPECIES
 
 #### Status
 ACCEPTED

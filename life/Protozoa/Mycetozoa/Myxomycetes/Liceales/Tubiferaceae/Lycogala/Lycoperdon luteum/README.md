@@ -1,5 +1,4 @@
-Lycoperdon luteum Schrank SPECIES
-=======
+# Lycoperdon luteum Schrank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaeceras exustus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras exustus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acineta acuminata Stokes, 1887 SPECIES
-=======
+# Acineta acuminata Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

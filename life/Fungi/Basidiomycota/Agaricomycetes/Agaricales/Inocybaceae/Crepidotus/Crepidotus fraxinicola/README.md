@@ -1,5 +1,4 @@
-Crepidotus fraxinicola Murrill SPECIES
-=======
+# Crepidotus fraxinicola Murrill SPECIES
 
 #### Status
 ACCEPTED

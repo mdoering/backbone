@@ -1,5 +1,4 @@
-Cortinarius collocandus Britzelm. SPECIES
-=======
+# Cortinarius collocandus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

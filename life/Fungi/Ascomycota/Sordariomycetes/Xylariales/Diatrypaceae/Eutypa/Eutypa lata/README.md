@@ -1,17 +1,16 @@
-Eutypa rhodi var. rhodi VARIETY
-=======
+# Eutypa lata (Pers.) Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+Select. fung. carpol. (Paris) 2: 56 (1863)
 
 #### Original name
-Eutypa rhodi var. rhodi
+Sphaeria lata Pers., 1796
 
 ### Remarks
 null

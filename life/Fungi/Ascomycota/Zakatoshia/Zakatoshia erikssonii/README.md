@@ -1,5 +1,4 @@
-Zakatoshia erikssonii W. Gams, 1986 SPECIES
-=======
+# Zakatoshia erikssonii W. Gams, 1986 SPECIES
 
 #### Status
 ACCEPTED

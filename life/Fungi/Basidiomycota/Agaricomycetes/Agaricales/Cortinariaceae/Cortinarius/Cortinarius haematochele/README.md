@@ -1,5 +1,4 @@
-Cortinarius haematochele Britzelm. SPECIES
-=======
+# Cortinarius haematochele Britzelm. SPECIES
 
 #### Status
 ACCEPTED

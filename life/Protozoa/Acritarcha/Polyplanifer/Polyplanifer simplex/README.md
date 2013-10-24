@@ -1,5 +1,4 @@
-Polyplanifer simplex Pöthé de Baldis, 1981 SPECIES
-=======
+# Polyplanifer simplex Pöthé de Baldis, 1981 SPECIES
 
 #### Status
 ACCEPTED

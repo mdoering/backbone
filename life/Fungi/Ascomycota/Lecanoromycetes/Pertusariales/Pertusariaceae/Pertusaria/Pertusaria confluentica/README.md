@@ -1,5 +1,4 @@
-Pertusaria confluentica Jariangpr. & Elix SPECIES
-=======
+# Pertusaria confluentica Jariangpr. & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria combreti Tilak & Srinivas. SPECIES
-=======
+# Patellaria combreti Tilak & Srinivas. SPECIES
 
 #### Status
 ACCEPTED

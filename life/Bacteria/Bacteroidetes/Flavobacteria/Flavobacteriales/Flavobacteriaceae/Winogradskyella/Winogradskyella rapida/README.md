@@ -1,5 +1,4 @@
-Winogradskyella rapida Pinhassi, Nedashkovskaya, Hagström & Vancanneyt, 2009 SPECIES
-=======
+# Winogradskyella rapida Pinhassi, Nedashkovskaya, Hagström & Vancanneyt, 2009 SPECIES
 
 #### Status
 ACCEPTED

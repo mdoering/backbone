@@ -1,5 +1,4 @@
-Xylaria microceras var. microceras VARIETY
-=======
+# Xylaria microceras (Mont.) Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 128 (1851)
 
 #### Original name
-Xylaria microceras var. microceras
+Hypoxylon microceras Mont.
 
 ### Remarks
 null

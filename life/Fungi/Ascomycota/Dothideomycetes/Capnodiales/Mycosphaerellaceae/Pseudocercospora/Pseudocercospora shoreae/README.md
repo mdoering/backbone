@@ -1,5 +1,4 @@
-Pseudocercospora shoreae (Thirum. & Chupp) Deighton SPECIES
-=======
+# Pseudocercospora shoreae (Thirum. & Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

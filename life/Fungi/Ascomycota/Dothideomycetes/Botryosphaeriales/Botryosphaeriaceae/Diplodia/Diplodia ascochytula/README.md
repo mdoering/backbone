@@ -1,5 +1,4 @@
-Diplodia ascochytula Sacc. SPECIES
-=======
+# Diplodia ascochytula Sacc. SPECIES
 
 #### Status
 ACCEPTED

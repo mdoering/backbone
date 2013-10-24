@@ -1,5 +1,4 @@
-Pycnociliospora belluciae Bat. & J.A. Lima SPECIES
-=======
+# Pycnociliospora belluciae Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

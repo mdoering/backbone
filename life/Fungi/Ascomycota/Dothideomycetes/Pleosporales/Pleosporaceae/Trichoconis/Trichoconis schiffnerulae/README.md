@@ -1,5 +1,4 @@
-Trichoconis schiffnerulae (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Trichoconis schiffnerulae (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

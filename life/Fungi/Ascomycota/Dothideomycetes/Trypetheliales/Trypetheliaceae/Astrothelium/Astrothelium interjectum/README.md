@@ -1,5 +1,4 @@
-Astrothelium interjectum R. C. Harris SPECIES
-=======
+# Astrothelium interjectum R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

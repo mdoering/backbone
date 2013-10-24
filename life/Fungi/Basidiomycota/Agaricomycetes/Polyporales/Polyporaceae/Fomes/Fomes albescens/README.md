@@ -1,5 +1,4 @@
-Fomes albescens (Lázaro Ibiza) Sacc. & Trotter SPECIES
-=======
+# Fomes albescens (Lázaro Ibiza) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

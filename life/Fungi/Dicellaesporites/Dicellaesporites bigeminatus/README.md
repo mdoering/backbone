@@ -1,5 +1,4 @@
-Dicellaesporites bigeminatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Dicellaesporites bigeminatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

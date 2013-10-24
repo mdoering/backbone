@@ -1,5 +1,4 @@
-Polygonium vulgare (Stockmans & Willière, 1962) Sarjeant & Stancliffe SPECIES
-=======
+# Polygonium vulgare (Stockmans & Willière, 1962) Sarjeant & Stancliffe SPECIES
 
 #### Status
 ACCEPTED

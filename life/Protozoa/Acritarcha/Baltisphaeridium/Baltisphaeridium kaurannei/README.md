@@ -1,5 +1,4 @@
-Baltisphaeridium kaurannei Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium kaurannei Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

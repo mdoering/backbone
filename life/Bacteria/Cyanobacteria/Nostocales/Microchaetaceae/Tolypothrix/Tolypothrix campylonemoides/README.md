@@ -1,5 +1,4 @@
-Tolypothrix campylonemoides S.L. Ghose SPECIES
-=======
+# Tolypothrix campylonemoides S.L. Ghose SPECIES
 
 #### Status
 ACCEPTED

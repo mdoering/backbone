@@ -1,5 +1,4 @@
-Pseudostaurastrum R.Chodat, 1921 GENUS
-=======
+# Pseudostaurastrum R.Chodat, 1921 GENUS
 
 #### Status
 ACCEPTED

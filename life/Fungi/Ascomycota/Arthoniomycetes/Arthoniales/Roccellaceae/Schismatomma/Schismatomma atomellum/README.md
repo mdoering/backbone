@@ -1,5 +1,4 @@
-Schismatomma atomellum (Stirt.) Zahlbr. SPECIES
-=======
+# Schismatomma atomellum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

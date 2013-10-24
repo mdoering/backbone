@@ -1,5 +1,4 @@
-Lauriomyces cylindricus Somrith. & E.B.G. Jones SPECIES
-=======
+# Lauriomyces cylindricus Somrith. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

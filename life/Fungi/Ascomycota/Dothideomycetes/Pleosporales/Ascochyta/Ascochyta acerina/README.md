@@ -1,5 +1,4 @@
-Ascochyta acerina Lév. SPECIES
-=======
+# Ascochyta acerina Lév. SPECIES
 
 #### Status
 ACCEPTED

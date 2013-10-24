@@ -1,5 +1,4 @@
-Buellia capitulata SPECIES
-=======
+# Buellia capitulata SPECIES
 
 #### Status
 ACCEPTED

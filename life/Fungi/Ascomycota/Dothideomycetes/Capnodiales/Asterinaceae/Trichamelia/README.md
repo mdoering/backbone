@@ -1,5 +1,4 @@
-Trichamelia Bat. GENUS
-=======
+# Trichamelia Bat. GENUS
 
 #### Status
 ACCEPTED

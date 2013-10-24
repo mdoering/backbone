@@ -1,14 +1,13 @@
-Sphaeria celata Curr., 1859 SPECIES
-=======
+# Didymosphaeria celata (Curr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 705 (1882)
 
 #### Original name
 Sphaeria celata Curr., 1859

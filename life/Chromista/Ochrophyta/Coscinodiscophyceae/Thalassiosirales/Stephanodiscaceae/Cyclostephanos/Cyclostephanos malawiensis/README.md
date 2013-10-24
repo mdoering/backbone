@@ -1,5 +1,4 @@
-Cyclostephanos malawiensis S. J. Casper & R. Klee SPECIES
-=======
+# Cyclostephanos malawiensis S. J. Casper & R. Klee SPECIES
 
 #### Status
 ACCEPTED

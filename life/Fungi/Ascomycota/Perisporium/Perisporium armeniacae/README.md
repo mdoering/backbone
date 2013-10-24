@@ -1,5 +1,4 @@
-Perisporium armeniacae Hollós SPECIES
-=======
+# Perisporium armeniacae Hollós SPECIES
 
 #### Status
 ACCEPTED

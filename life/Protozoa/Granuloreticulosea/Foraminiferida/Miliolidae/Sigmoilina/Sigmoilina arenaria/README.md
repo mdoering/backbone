@@ -1,5 +1,4 @@
-Sigmoilina arenaria (Brady) SPECIES
-=======
+# Sigmoilina arenaria (Brady) SPECIES
 
 #### Status
 ACCEPTED

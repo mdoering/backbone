@@ -1,17 +1,16 @@
-Usnea jubata var. jubata VARIETY
-=======
+# Usnea jubata (L.) F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Lichen jubatus L.
 
 ### Remarks
 null

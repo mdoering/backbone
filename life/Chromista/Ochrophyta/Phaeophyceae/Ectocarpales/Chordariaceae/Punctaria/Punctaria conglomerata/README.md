@@ -1,5 +1,4 @@
-Punctaria conglomerata Yamada & Iwamoto SPECIES
-=======
+# Punctaria conglomerata Yamada & Iwamoto SPECIES
 
 #### Status
 ACCEPTED

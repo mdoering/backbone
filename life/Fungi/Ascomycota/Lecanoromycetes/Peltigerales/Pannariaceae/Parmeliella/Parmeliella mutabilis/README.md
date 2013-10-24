@@ -1,5 +1,4 @@
-Parmeliella mutabilis Müll. Arg. SPECIES
-=======
+# Parmeliella mutabilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

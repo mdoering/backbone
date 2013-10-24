@@ -1,5 +1,4 @@
-Hygrophorus subacutus Hongo SPECIES
-=======
+# Hygrophorus subacutus Hongo SPECIES
 
 #### Status
 ACCEPTED

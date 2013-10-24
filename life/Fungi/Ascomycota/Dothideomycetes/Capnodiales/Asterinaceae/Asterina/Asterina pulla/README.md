@@ -1,5 +1,4 @@
-Asterina pulla Lév. SPECIES
-=======
+# Asterina pulla Lév. SPECIES
 
 #### Status
 ACCEPTED

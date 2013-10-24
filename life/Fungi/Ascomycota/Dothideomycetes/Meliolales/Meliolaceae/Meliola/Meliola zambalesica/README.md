@@ -1,5 +1,4 @@
-Meliola zambalesica Petr. SPECIES
-=======
+# Meliola zambalesica Petr. SPECIES
 
 #### Status
 ACCEPTED

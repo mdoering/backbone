@@ -1,17 +1,16 @@
-Niesslia tatjanae (S.Y. Kondr.) Etayo, 2008 SPECIES
-=======
+# Wentiomyces tatjanae S.Y. Kondr., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Muelleria 9: 96 (1996)
 
 #### Original name
-null
+Wentiomyces tatjanae S.Y. Kondr., 1996
 
 ### Remarks
 null

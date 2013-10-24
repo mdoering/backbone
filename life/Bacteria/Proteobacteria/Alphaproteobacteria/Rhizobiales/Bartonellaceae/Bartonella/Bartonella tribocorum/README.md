@@ -1,5 +1,4 @@
-Bartonella tribocorum Heller et al., 1998 SPECIES
-=======
+# Bartonella tribocorum Heller et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

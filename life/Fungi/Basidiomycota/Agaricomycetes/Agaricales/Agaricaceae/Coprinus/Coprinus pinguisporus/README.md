@@ -1,5 +1,4 @@
-Coprinus pinguisporus Bogart SPECIES
-=======
+# Coprinus pinguisporus Bogart SPECIES
 
 #### Status
 ACCEPTED

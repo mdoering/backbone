@@ -1,5 +1,4 @@
-Streptococcus lactis subsp. diacetilactis (ex Matuszewski et al., 1936) Garvie & Farrow, 1982 SUBSPECIES
-=======
+# Streptococcus lactis (Lister, 1873) Löhnis, 1909 SPECIES
 
 #### Status
 ACCEPTED

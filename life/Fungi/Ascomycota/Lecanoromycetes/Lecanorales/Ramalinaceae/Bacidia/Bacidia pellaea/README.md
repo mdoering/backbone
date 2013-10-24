@@ -1,5 +1,4 @@
-Bacidia pellaea (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia pellaea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

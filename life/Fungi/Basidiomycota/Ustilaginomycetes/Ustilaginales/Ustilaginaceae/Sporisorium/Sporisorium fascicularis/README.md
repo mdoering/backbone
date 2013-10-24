@@ -1,5 +1,4 @@
-Sporisorium fascicularis (Vánky) M. Stoll, Begerow & Oberw. SPECIES
-=======
+# Sporisorium fascicularis (Vánky) M. Stoll, Begerow & Oberw. SPECIES
 
 #### Status
 ACCEPTED

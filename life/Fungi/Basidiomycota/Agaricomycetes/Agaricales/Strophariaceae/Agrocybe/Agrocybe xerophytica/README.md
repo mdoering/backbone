@@ -1,5 +1,4 @@
-Agrocybe xerophytica Singer SPECIES
-=======
+# Agrocybe xerophytica Singer SPECIES
 
 #### Status
 ACCEPTED

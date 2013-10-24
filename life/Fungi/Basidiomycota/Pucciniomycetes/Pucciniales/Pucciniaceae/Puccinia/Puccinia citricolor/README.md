@@ -1,5 +1,4 @@
-Puccinia citricolor Cummins SPECIES
-=======
+# Puccinia citricolor Cummins SPECIES
 
 #### Status
 ACCEPTED

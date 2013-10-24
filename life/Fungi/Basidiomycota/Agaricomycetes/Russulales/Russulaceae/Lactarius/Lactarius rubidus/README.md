@@ -1,5 +1,4 @@
-Lactarius rubidus Arora SPECIES
-=======
+# Lactarius rubidus Arora SPECIES
 
 #### Status
 ACCEPTED

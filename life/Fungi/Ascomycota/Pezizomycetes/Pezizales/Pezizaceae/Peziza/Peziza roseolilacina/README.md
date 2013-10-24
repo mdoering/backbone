@@ -1,5 +1,4 @@
-Peziza roseolilacina Clem. SPECIES
-=======
+# Peziza roseolilacina Clem. SPECIES
 
 #### Status
 ACCEPTED

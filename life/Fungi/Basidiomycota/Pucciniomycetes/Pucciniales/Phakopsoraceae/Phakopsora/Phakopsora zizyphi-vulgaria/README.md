@@ -1,5 +1,4 @@
-Phakopsora zizyphi-vulgaria (Henn.) Diet. SPECIES
-=======
+# Phakopsora zizyphi-vulgaria (Henn.) Diet. SPECIES
 
 #### Status
 ACCEPTED

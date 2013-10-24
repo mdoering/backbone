@@ -1,5 +1,4 @@
-Macrophoma kalanchoes Bacc. SPECIES
-=======
+# Macrophoma kalanchoes Bacc. SPECIES
 
 #### Status
 ACCEPTED

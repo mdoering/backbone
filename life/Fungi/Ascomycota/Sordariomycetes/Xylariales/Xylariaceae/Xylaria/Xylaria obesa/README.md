@@ -1,5 +1,4 @@
-Xylaria obesa Syd. {?} SPECIES
-=======
+# Xylaria obesa Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

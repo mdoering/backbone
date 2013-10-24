@@ -1,14 +1,13 @@
-Tapesia aurelia (Pers.) W. Phillips, 1887 SPECIES
-=======
+# Arachnopeziza aurelia (Pers.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 280 (1887)
+Jb. nassau. Ver. Naturk. 23-24: 303 (1870)
 
 #### Original name
 null

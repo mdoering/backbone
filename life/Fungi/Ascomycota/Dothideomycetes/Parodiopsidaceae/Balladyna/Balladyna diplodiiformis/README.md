@@ -1,5 +1,4 @@
-Balladyna diplodiiformis Zambett. SPECIES
-=======
+# Balladyna diplodiiformis Zambett. SPECIES
 
 #### Status
 ACCEPTED

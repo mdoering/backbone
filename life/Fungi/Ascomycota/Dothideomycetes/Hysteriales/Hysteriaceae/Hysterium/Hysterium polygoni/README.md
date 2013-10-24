@@ -1,5 +1,4 @@
-Hysterium polygoni Fr. SPECIES
-=======
+# Hysterium polygoni Fr. SPECIES
 
 #### Status
 ACCEPTED

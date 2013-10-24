@@ -1,5 +1,4 @@
-Pezizasporites T.C. Huang GENUS
-=======
+# Pezizasporites T.C. Huang GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ptilophyton A.G. Vologdin, 1967 GENUS
-=======
+# Ptilophyton A.G. Vologdin, 1967 GENUS
 
 #### Status
 ACCEPTED

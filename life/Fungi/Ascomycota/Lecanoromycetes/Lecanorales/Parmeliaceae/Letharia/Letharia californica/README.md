@@ -1,5 +1,4 @@
-Letharia californica (Lév.) Hue SPECIES
-=======
+# Letharia californica (Lév.) Hue SPECIES
 
 #### Status
 ACCEPTED

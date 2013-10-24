@@ -1,5 +1,4 @@
-Cetraria clarkii Tuck. SPECIES
-=======
+# Cetraria clarkii Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia centaureae-scabiosae U. Braun SPECIES
-=======
+# Ramularia centaureae-scabiosae U. Braun SPECIES
 
 #### Status
 ACCEPTED

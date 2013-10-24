@@ -1,5 +1,4 @@
-Cladonia orientalis B. de Lesd. SPECIES
-=======
+# Cladonia orientalis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

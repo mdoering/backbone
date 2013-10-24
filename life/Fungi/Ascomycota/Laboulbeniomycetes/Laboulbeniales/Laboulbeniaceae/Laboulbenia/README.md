@@ -1,17 +1,16 @@
-Schizolaboulbenia Middelh. GENUS
-=======
+# Laboulbenia Montagne & C.P. Robin, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 27: 73 (1957)
+in Robin, Histoire naturelle des Vegetaux Parasites (Paris) 622 (1853)
 
 #### Original name
-Schizolaboulbenia Middelh.
+Laboulbenia Montagne & C.P. Robin, 1853
 
 ### Remarks
 null

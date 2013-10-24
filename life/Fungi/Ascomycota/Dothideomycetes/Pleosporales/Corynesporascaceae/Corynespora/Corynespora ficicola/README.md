@@ -1,5 +1,4 @@
-Corynespora ficicola Rao SPECIES
-=======
+# Corynespora ficicola Rao SPECIES
 
 #### Status
 ACCEPTED

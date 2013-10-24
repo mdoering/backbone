@@ -1,5 +1,4 @@
-Phlegmacium eufulmineum (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium eufulmineum (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

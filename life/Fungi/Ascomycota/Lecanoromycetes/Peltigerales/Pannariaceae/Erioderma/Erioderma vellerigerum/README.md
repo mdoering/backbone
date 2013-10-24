@@ -1,5 +1,4 @@
-Erioderma vellerigerum Nyl. SPECIES
-=======
+# Erioderma vellerigerum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea periclymeni Fuckel SPECIES
-=======
+# Dothidea periclymeni Fuckel SPECIES
 
 #### Status
 ACCEPTED

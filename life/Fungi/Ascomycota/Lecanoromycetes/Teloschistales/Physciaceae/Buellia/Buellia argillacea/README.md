@@ -1,5 +1,4 @@
-Buellia argillacea (Bellardi) Stein SPECIES
-=======
+# Buellia argillacea (Bellardi) Stein SPECIES
 
 #### Status
 ACCEPTED

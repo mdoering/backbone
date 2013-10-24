@@ -1,5 +1,4 @@
-Amphisphaeria lignicola (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Amphisphaeria lignicola (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

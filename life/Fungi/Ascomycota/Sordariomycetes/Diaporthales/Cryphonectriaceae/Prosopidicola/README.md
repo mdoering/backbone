@@ -1,5 +1,4 @@
-Prosopidicola Crous & C.L. Lennox GENUS
-=======
+# Prosopidicola Crous & C.L. Lennox GENUS
 
 #### Status
 ACCEPTED

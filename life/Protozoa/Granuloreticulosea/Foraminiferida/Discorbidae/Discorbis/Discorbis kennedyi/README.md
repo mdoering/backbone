@@ -1,5 +1,4 @@
-Discorbis kennedyi Parr, 1945 SPECIES
-=======
+# Discorbis kennedyi Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

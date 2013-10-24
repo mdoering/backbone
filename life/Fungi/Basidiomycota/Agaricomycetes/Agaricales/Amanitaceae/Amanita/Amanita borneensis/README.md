@@ -1,5 +1,4 @@
-Amanita borneensis Boedijn SPECIES
-=======
+# Amanita borneensis Boedijn SPECIES
 
 #### Status
 ACCEPTED

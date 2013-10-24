@@ -1,5 +1,4 @@
-Rehmiomyces pouroumae Henn. SPECIES
-=======
+# Rehmiomyces pouroumae Henn. SPECIES
 
 #### Status
 ACCEPTED

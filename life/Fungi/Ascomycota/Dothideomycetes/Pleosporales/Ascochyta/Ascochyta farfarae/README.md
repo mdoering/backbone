@@ -1,5 +1,4 @@
-Ascochyta farfarae Siemaszko SPECIES
-=======
+# Ascochyta farfarae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

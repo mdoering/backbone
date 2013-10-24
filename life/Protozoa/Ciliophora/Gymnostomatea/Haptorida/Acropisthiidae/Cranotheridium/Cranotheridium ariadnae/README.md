@@ -1,5 +1,4 @@
-Cranotheridium ariadnae Penard, 1922 SPECIES
-=======
+# Cranotheridium ariadnae Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria maquilingensis Vain. SPECIES
-=======
+# Catillaria maquilingensis Vain. SPECIES
 
 #### Status
 ACCEPTED

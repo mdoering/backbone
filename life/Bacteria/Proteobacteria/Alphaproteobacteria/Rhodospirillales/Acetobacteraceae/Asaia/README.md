@@ -1,5 +1,4 @@
-Asaia Yamada, Katsura, Kawasaki, Widyastuti, Saono, Seki, Uchimura & Komagata, 2000 GENUS
-=======
+# Asaia Yamada, Katsura, Kawasaki, Widyastuti, Saono, Seki, Uchimura & Komagata, 2000 GENUS
 
 #### Status
 ACCEPTED

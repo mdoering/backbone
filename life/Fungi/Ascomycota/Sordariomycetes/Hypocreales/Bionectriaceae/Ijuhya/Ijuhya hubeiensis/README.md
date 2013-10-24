@@ -1,5 +1,4 @@
-Ijuhya hubeiensis Y. Nong & W.Y. Zhuang SPECIES
-=======
+# Ijuhya hubeiensis Y. Nong & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

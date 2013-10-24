@@ -1,5 +1,4 @@
-Albatrossiella Kofoid & Campbell, 1929 GENUS
-=======
+# Albatrossiella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

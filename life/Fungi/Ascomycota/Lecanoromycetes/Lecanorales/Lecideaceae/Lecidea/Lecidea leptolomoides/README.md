@@ -1,5 +1,4 @@
-Lecidea leptolomoides Müll. Arg. SPECIES
-=======
+# Lecidea leptolomoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

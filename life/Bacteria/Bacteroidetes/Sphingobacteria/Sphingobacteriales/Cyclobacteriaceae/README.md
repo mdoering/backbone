@@ -1,5 +1,4 @@
-Cyclobacteriaceae FAMILY
-=======
+# Cyclobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

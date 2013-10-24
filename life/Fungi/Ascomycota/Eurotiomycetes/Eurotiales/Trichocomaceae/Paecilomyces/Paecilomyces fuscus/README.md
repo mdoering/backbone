@@ -1,5 +1,4 @@
-Paecilomyces fuscus (Bonord.) E.W. Mason SPECIES
-=======
+# Paecilomyces fuscus (Bonord.) E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium stellarie N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium stellarie N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

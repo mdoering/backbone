@@ -1,5 +1,4 @@
-Pseudonectria coffeicola Saccas SPECIES
-=======
+# Pseudonectria coffeicola Saccas SPECIES
 
 #### Status
 ACCEPTED

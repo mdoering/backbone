@@ -1,5 +1,4 @@
-Coniforma Pessagno, 1969 GENUS
-=======
+# Coniforma Pessagno, 1969 GENUS
 
 #### Status
 ACCEPTED

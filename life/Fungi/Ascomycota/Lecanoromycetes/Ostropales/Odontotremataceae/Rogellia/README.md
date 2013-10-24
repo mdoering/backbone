@@ -1,5 +1,4 @@
-Rogellia Döbbeler GENUS
-=======
+# Rogellia Döbbeler GENUS
 
 #### Status
 ACCEPTED

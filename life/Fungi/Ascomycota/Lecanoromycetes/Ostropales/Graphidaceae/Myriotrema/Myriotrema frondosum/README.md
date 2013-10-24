@@ -1,5 +1,4 @@
-Myriotrema frondosum Hale SPECIES
-=======
+# Myriotrema frondosum Hale SPECIES
 
 #### Status
 ACCEPTED

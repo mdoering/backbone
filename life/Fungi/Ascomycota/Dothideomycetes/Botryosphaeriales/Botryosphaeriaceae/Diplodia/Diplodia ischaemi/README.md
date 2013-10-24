@@ -1,5 +1,4 @@
-Diplodia ischaemi Pass. SPECIES
-=======
+# Diplodia ischaemi Pass. SPECIES
 
 #### Status
 ACCEPTED

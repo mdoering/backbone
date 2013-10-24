@@ -1,5 +1,4 @@
-Uvigerina bermudezi Acosta, 1940 SPECIES
-=======
+# Uvigerina bermudezi Acosta, 1940 SPECIES
 
 #### Status
 ACCEPTED

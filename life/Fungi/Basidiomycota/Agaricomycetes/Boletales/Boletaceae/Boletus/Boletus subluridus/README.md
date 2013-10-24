@@ -1,5 +1,4 @@
-Boletus subluridus (Murrill) Murrill SPECIES
-=======
+# Boletus subluridus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halococcus hamelinensis Goh et al., 2006 SPECIES
-=======
+# Halococcus hamelinensis Goh et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea piceicola Nyl. SPECIES
-=======
+# Lecidea piceicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

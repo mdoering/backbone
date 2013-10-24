@@ -1,5 +1,4 @@
-Puccinia clematidis-agropyri Ellis & Everh. SPECIES
-=======
+# Puccinia clematidis-agropyri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

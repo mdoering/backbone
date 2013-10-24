@@ -1,5 +1,4 @@
-Stictina cinereoglauca Hook. f. & Taylor SPECIES
-=======
+# Stictina cinereoglauca Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

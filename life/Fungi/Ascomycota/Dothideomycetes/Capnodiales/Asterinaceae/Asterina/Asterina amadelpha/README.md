@@ -1,5 +1,4 @@
-Asterina amadelpha Syd. SPECIES
-=======
+# Asterina amadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena alphitophora (Berk.) Sacc. SPECIES
-=======
+# Mycena alphitophora (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

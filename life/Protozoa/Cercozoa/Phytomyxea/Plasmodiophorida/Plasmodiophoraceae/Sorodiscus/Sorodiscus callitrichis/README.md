@@ -1,5 +1,4 @@
-Sorodiscus callitrichis Lagerh. & Winge, 1912 SPECIES
-=======
+# Sorodiscus callitrichis Lagerh. & Winge, 1912 SPECIES
 
 #### Status
 ACCEPTED

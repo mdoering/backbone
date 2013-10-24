@@ -1,5 +1,4 @@
-Oxydothis manokwariensis K.D. Hyde SPECIES
-=======
+# Oxydothis manokwariensis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

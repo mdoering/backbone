@@ -1,5 +1,4 @@
-Aulographum caespitosum Cooke SPECIES
-=======
+# Aulographum caespitosum Cooke SPECIES
 
 #### Status
 ACCEPTED

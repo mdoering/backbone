@@ -1,5 +1,4 @@
-Diplodia caulicola Fuckel SPECIES
-=======
+# Diplodia caulicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

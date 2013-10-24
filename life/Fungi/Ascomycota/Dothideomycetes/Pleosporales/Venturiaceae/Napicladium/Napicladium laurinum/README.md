@@ -1,5 +1,4 @@
-Napicladium laurinum Speg. SPECIES
-=======
+# Napicladium laurinum Speg. SPECIES
 
 #### Status
 ACCEPTED

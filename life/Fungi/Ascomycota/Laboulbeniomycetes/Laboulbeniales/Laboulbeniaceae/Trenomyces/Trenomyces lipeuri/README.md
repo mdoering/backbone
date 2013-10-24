@@ -1,5 +1,4 @@
-Trenomyces lipeuri Thaxt. SPECIES
-=======
+# Trenomyces lipeuri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

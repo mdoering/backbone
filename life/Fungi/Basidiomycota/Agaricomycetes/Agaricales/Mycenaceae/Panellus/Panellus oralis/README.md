@@ -1,5 +1,4 @@
-Panellus oralis Lib.-Barnes SPECIES
-=======
+# Panellus oralis Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

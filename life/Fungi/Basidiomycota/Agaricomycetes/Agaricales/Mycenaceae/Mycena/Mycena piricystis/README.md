@@ -1,5 +1,4 @@
-Mycena piricystis Métrod SPECIES
-=======
+# Mycena piricystis Métrod SPECIES
 
 #### Status
 ACCEPTED

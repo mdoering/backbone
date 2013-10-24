@@ -1,5 +1,4 @@
-Strumella acaciae Cooke & Harkn. SPECIES
-=======
+# Strumella acaciae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

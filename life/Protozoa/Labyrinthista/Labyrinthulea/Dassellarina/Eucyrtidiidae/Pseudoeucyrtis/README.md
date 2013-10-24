@@ -1,5 +1,4 @@
-Pseudoeucyrtis Pessagno, 1977 GENUS
-=======
+# Pseudoeucyrtis Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

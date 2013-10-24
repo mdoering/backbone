@@ -1,5 +1,4 @@
-Actinopelte psychotriae I. Hino & Katum. SPECIES
-=======
+# Actinopelte psychotriae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

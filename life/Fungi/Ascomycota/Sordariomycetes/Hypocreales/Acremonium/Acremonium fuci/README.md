@@ -1,5 +1,4 @@
-Acremonium fuci Summerb., Zuccaro & W. Gams, 2004 SPECIES
-=======
+# Acremonium fuci Summerb., Zuccaro & W. Gams, 2004 SPECIES
 
 #### Status
 ACCEPTED

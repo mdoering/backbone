@@ -1,5 +1,4 @@
-Gloeopeniophora aurantiaca Höhn. SPECIES
-=======
+# Gloeopeniophora aurantiaca Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylmonadaceae FAMILY
-=======
+# Methylmonadaceae FAMILY
 
 #### Status
 ACCEPTED

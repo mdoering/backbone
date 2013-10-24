@@ -1,5 +1,4 @@
-Palaeodiplodites Watanabe, H. Nishida & Kobayashi GENUS
-=======
+# Palaeodiplodites Watanabe, H. Nishida & Kobayashi GENUS
 
 #### Status
 ACCEPTED

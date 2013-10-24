@@ -1,5 +1,4 @@
-Parmelia nipponica Zahlbr. SPECIES
-=======
+# Parmelia nipponica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius eutactus Soop, 2005 SPECIES
-=======
+# Cortinarius eutactus Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

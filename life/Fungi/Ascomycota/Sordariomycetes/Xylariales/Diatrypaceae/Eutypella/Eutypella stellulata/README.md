@@ -1,17 +1,16 @@
-Eutypella stellulata var. stellulata VARIETY
-=======
+# Eutypella stellulata (Fr.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 1: 149 (1882)
 
 #### Original name
-Eutypella stellulata var. stellulata
+Sphaeria stellulata Fr., 1823
 
 ### Remarks
 null

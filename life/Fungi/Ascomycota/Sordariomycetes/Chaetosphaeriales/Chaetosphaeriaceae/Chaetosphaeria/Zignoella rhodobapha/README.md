@@ -1,5 +1,4 @@
-Zignoella rhodobapha (Berk. & Broome) Sacc., 1878 SPECIES
-=======
+# Zignoella rhodobapha (Berk. & Broome) Sacc., 1878 SPECIES
 
 #### Status
 DOUBTFUL

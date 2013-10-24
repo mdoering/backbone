@@ -1,5 +1,4 @@
-Boletus polychrous Corner SPECIES
-=======
+# Boletus polychrous Corner SPECIES
 
 #### Status
 ACCEPTED

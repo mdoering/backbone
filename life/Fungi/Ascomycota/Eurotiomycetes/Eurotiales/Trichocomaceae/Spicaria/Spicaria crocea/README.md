@@ -1,5 +1,4 @@
-Spicaria crocea (Kunze) Oudem. SPECIES
-=======
+# Spicaria crocea (Kunze) Oudem. SPECIES
 
 #### Status
 ACCEPTED

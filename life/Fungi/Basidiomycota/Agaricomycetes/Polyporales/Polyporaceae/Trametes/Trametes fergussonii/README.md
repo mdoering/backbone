@@ -1,8 +1,7 @@
-Trametes fergussoni Berk. SPECIES
-=======
+# Trametes fergussonii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trametes fergussoni Berk.
+Trametes fergussonii Berk.
 
 ### Remarks
 null

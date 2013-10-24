@@ -1,5 +1,4 @@
-Trimmatostroma quercinum (Hoffm.) Höhn. SPECIES
-=======
+# Trimmatostroma quercinum (Hoffm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

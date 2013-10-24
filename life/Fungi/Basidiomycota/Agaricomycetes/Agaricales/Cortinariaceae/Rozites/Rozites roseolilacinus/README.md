@@ -1,5 +1,4 @@
-Rozites roseolilacinus Bougher, Fuhrer & E. Horak SPECIES
-=======
+# Rozites roseolilacinus Bougher, Fuhrer & E. Horak SPECIES
 
 #### Status
 ACCEPTED

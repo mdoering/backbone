@@ -1,5 +1,4 @@
-Eimeria lairdi Lom & Dyková, 1981 SPECIES
-=======
+# Eimeria lairdi Lom & Dyková, 1981 SPECIES
 
 #### Status
 ACCEPTED

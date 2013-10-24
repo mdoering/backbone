@@ -1,5 +1,4 @@
-Eccilia flavida Peck SPECIES
-=======
+# Eccilia flavida Peck SPECIES
 
 #### Status
 ACCEPTED

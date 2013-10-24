@@ -1,5 +1,4 @@
-Graphis inversa R.C. Harris SPECIES
-=======
+# Graphis inversa R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

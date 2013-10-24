@@ -1,5 +1,4 @@
-Uredo tacita Arthur SPECIES
-=======
+# Uredo tacita Arthur SPECIES
 
 #### Status
 ACCEPTED

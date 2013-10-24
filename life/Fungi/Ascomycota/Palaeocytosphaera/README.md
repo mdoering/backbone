@@ -1,5 +1,4 @@
-Palaeocytosphaera R.B. Singh & G.V. Patil GENUS
-=======
+# Palaeocytosphaera R.B. Singh & G.V. Patil GENUS
 
 #### Status
 ACCEPTED

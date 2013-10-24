@@ -1,5 +1,4 @@
-Conotrochamminoides Zheng, 2001 GENUS
-=======
+# Conotrochamminoides Zheng, 2001 GENUS
 
 #### Status
 ACCEPTED

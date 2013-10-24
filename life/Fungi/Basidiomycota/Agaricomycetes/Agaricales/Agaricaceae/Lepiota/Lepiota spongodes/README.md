@@ -1,5 +1,4 @@
-Lepiota spongodes (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota spongodes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

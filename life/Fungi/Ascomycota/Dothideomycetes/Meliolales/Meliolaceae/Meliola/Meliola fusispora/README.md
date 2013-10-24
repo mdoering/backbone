@@ -1,5 +1,4 @@
-Meliola fusispora W. Yamam. SPECIES
-=======
+# Meliola fusispora W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

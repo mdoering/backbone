@@ -1,5 +1,4 @@
-Trachysphaeridium raryplicatum Sheshegova, 1984 SPECIES
-=======
+# Trachysphaeridium raryplicatum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia subcentripora Arthur & Cummins SPECIES
-=======
+# Puccinia subcentripora Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

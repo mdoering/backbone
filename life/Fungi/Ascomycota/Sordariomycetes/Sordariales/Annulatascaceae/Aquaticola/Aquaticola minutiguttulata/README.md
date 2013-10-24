@@ -1,5 +1,4 @@
-Aquaticola minutiguttulata K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
-=======
+# Aquaticola minutiguttulata K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

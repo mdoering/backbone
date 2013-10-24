@@ -1,5 +1,4 @@
-Spathidium depressum Kahl, 1930 SPECIES
-=======
+# Spathidium depressum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

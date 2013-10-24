@@ -1,5 +1,4 @@
-Uredo posita Davis ex Arthur SPECIES
-=======
+# Uredo posita Davis ex Arthur SPECIES
 
 #### Status
 ACCEPTED

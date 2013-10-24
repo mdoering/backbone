@@ -1,5 +1,4 @@
-Melanospora washingtonensis Nitzan, J.D. Rogers & D.A. Johnson SPECIES
-=======
+# Melanospora washingtonensis Nitzan, J.D. Rogers & D.A. Johnson SPECIES
 
 #### Status
 ACCEPTED

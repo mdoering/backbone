@@ -1,5 +1,4 @@
-Planulina ariminensis D'Orbigny SPECIES
-=======
+# Planulina ariminensis D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

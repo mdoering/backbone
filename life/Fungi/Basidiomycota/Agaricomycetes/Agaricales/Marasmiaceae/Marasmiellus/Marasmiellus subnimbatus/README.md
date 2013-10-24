@@ -1,5 +1,4 @@
-Marasmiellus subnimbatus (Rick) Singer SPECIES
-=======
+# Marasmiellus subnimbatus (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera chouardii Durrieu SPECIES
-=======
+# Microsphaera chouardii Durrieu SPECIES
 
 #### Status
 ACCEPTED

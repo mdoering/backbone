@@ -1,5 +1,4 @@
-Palacantholithus Deflandre, 1973 GENUS
-=======
+# Palacantholithus Deflandre, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinula E.M. Fries, 1821 GENUS
-=======
+# Crinula E.M. Fries, 1821 GENUS
 
 #### Status
 ACCEPTED

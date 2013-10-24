@@ -1,5 +1,4 @@
-Poria favescens (Schwein.) Cooke SPECIES
-=======
+# Poria favescens (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

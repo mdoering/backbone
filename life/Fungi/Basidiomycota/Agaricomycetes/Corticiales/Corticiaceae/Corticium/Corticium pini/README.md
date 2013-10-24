@@ -1,5 +1,4 @@
-Corticium pini (H.S. Jacks.) Boidin & Lanq., 1983 SPECIES
-=======
+# Corticium pini (H.S. Jacks.) Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa floriformis Ellis & Everh. SPECIES
-=======
+# Valsa floriformis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

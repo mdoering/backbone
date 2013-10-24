@@ -1,5 +1,4 @@
-Microcollybia conidiophora E. Horak SPECIES
-=======
+# Microcollybia conidiophora E. Horak SPECIES
 
 #### Status
 ACCEPTED

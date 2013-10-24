@@ -1,5 +1,4 @@
-Shimia Choi & Cho, 2006 GENUS
-=======
+# Shimia Choi & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

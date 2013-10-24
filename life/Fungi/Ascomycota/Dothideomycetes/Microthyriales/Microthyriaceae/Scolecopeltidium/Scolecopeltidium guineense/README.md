@@ -1,5 +1,4 @@
-Scolecopeltidium guineense C. Moreau & M. Moreau SPECIES
-=======
+# Scolecopeltidium guineense C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

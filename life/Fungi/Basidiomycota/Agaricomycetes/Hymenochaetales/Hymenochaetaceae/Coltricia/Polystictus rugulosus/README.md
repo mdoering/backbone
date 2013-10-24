@@ -1,5 +1,4 @@
-Polystictus rugulosus (Lasch) Sacc. SPECIES
-=======
+# Polystictus rugulosus (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

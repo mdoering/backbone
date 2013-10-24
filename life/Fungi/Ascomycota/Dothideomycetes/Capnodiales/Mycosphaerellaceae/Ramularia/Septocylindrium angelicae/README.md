@@ -1,5 +1,4 @@
-Septocylindrium angelicae Katsuki SPECIES
-=======
+# Septocylindrium angelicae Katsuki SPECIES
 
 #### Status
 ACCEPTED

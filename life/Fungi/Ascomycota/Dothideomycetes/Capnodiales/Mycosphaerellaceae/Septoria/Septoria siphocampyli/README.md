@@ -1,5 +1,4 @@
-Septoria siphocampyli Syd. SPECIES
-=======
+# Septoria siphocampyli Syd. SPECIES
 
 #### Status
 ACCEPTED

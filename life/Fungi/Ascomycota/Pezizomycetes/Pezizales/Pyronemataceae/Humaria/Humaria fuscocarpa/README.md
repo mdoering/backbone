@@ -1,5 +1,4 @@
-Humaria fuscocarpa (Ellis & Holw.) Morgan SPECIES
-=======
+# Humaria fuscocarpa (Ellis & Holw.) Morgan SPECIES
 
 #### Status
 ACCEPTED

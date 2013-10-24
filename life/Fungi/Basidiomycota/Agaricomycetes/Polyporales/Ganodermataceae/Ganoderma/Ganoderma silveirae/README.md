@@ -1,5 +1,4 @@
-Ganoderma silveirae Torrend SPECIES
-=======
+# Ganoderma silveirae Torrend SPECIES
 
 #### Status
 ACCEPTED

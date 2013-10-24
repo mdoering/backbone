@@ -1,5 +1,4 @@
-Chaetomium subaffine Sergeeva, 1961 SPECIES
-=======
+# Chaetomium subaffine Sergeeva, 1961 SPECIES
 
 #### Status
 ACCEPTED

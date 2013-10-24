@@ -1,5 +1,4 @@
-Inocybe malenconiana Bon SPECIES
-=======
+# Inocybe malenconiana Bon SPECIES
 
 #### Status
 ACCEPTED

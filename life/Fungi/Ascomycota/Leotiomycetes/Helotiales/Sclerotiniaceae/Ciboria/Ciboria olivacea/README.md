@@ -1,5 +1,4 @@
-Ciboria olivacea Rodway SPECIES
-=======
+# Ciboria olivacea Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya teres (Ehrenberg, 1834) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Holophrya teres (Ehrenberg, 1834) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

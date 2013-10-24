@@ -1,5 +1,4 @@
-Septoria negundinis Ellis & Everh., 1893 SPECIES
-=======
+# Septoria negundinis Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

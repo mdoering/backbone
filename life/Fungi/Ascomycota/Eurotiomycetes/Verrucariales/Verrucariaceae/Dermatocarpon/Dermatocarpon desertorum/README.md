@@ -1,5 +1,4 @@
-Dermatocarpon desertorum Tomin SPECIES
-=======
+# Dermatocarpon desertorum Tomin SPECIES
 
 #### Status
 ACCEPTED

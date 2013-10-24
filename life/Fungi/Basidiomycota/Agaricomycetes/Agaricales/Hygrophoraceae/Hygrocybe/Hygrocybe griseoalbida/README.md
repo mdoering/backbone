@@ -1,5 +1,4 @@
-Hygrocybe griseoalbida Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe griseoalbida Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

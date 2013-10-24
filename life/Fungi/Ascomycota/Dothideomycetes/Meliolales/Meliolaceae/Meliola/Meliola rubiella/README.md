@@ -1,5 +1,4 @@
-Meliola rubiella var. rubiella VARIETY
-=======
+# Meliola rubiella Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1957)
+Beih. Sydowia 1: 115 (1957)
 
 #### Original name
-Meliola rubiella var. rubiella
+Meliola rubiella Hansf.
 
 ### Remarks
 null

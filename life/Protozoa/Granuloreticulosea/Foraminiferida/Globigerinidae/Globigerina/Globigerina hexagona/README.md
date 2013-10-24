@@ -1,5 +1,4 @@
-Globigerina (Globorotaloides) hexagona Natland SPECIES
-=======
+# Globigerina (Globorotaloides) hexagona Natland SPECIES
 
 #### Status
 ACCEPTED

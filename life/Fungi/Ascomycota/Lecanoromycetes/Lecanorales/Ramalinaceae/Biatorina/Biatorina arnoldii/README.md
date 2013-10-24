@@ -1,5 +1,4 @@
-Biatorina arnoldii SPECIES
-=======
+# Biatorina arnoldii SPECIES
 
 #### Status
 ACCEPTED

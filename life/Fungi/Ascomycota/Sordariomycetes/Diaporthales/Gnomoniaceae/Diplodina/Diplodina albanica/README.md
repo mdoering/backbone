@@ -1,5 +1,4 @@
-Diplodina albanica Bubák SPECIES
-=======
+# Diplodina albanica Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum hamosum (Rabenh.) Sacc. SPECIES
-=======
+# Trichosporum hamosum (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella coryli (Ellis & Everh.) H. Ruppr. SPECIES
-=======
+# Aplosporella coryli (Ellis & Everh.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

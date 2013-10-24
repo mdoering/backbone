@@ -1,5 +1,4 @@
-Marasmius traganus Berk. & Cooke SPECIES
-=======
+# Marasmius traganus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

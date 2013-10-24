@@ -1,5 +1,4 @@
-Clypeolella dalhousieae Hansf. SPECIES
-=======
+# Clypeolella dalhousieae Hansf. SPECIES
 
 #### Status
 ACCEPTED

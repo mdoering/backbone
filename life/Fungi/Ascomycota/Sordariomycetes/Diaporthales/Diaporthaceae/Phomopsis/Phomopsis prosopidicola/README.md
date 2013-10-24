@@ -1,5 +1,4 @@
-Phomopsis prosopidicola (Speg.) Aa SPECIES
-=======
+# Phomopsis prosopidicola (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

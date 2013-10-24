@@ -1,5 +1,4 @@
-Dimastigosporium musimonum Faurel & Schotter, 1965 SPECIES
-=======
+# Dimastigosporium musimonum Faurel & Schotter, 1965 SPECIES
 
 #### Status
 ACCEPTED

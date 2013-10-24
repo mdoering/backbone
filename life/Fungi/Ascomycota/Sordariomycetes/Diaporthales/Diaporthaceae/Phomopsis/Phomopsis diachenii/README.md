@@ -1,5 +1,4 @@
-Phomopsis diachenii Sacc., 1915 SPECIES
-=======
+# Phomopsis diachenii Sacc., 1915 SPECIES
 
 #### Status
 ACCEPTED

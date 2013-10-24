@@ -1,5 +1,4 @@
-Pleurotus subviolaceus Corner, 1981 SPECIES
-=======
+# Pleurotus subviolaceus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

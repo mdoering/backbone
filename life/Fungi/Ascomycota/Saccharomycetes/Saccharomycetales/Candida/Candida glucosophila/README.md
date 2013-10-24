@@ -1,5 +1,4 @@
-Candida glucosophila Tokuoka, Ishit., Goto & Komag., 1987 SPECIES
-=======
+# Candida glucosophila Tokuoka, Ishit., Goto & Komag., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anatolinites thraceus (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Anatolinites thraceus (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria macrocyrtospora C. Knight SPECIES
-=======
+# Verrucaria macrocyrtospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

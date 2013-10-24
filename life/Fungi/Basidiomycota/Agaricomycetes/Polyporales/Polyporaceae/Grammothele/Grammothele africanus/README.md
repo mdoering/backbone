@@ -1,5 +1,4 @@
-Grammothele africanus Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Grammothele africanus Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

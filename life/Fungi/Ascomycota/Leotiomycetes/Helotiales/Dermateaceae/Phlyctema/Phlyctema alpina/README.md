@@ -1,5 +1,4 @@
-Phlyctema alpina Ferraris SPECIES
-=======
+# Phlyctema alpina Ferraris SPECIES
 
 #### Status
 ACCEPTED

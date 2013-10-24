@@ -1,5 +1,4 @@
-Tremella microspora Lloyd SPECIES
-=======
+# Tremella microspora Lloyd SPECIES
 
 #### Status
 ACCEPTED

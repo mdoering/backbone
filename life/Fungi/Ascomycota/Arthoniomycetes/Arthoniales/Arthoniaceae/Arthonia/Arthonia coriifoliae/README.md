@@ -1,5 +1,4 @@
-Arthonia coriifoliae Wedin & Hafellner SPECIES
-=======
+# Arthonia coriifoliae Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

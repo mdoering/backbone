@@ -1,5 +1,4 @@
-Russula fragaricolor Carteret & Reumaux SPECIES
-=======
+# Russula fragaricolor Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

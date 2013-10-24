@@ -1,5 +1,4 @@
-Tintinnopsis kofoidi Hada, 1932 SPECIES
-=======
+# Tintinnopsis kofoidi Hada, 1932 SPECIES
 
 #### Status
 ACCEPTED

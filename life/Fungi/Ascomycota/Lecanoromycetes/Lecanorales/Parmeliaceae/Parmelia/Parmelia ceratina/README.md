@@ -1,5 +1,4 @@
-Parmelia ceratina (Ach.) Spreng. SPECIES
-=======
+# Parmelia ceratina (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

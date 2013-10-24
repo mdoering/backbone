@@ -1,5 +1,4 @@
-Puccinia caricis-scabrifoliae Hirats. f. & Yoshin. SPECIES
-=======
+# Puccinia caricis-scabrifoliae Hirats. f. & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

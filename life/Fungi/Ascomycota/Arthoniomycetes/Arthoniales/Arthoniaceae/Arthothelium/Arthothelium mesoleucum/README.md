@@ -1,5 +1,4 @@
-Arthothelium mesoleucum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium mesoleucum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

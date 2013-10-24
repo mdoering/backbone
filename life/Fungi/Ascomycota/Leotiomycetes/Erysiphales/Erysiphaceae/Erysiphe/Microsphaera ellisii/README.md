@@ -1,5 +1,4 @@
-Microsphaera ellisii U. Braun SPECIES
-=======
+# Microsphaera ellisii U. Braun SPECIES
 
 #### Status
 ACCEPTED

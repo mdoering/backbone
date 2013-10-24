@@ -1,5 +1,4 @@
-Bacidia moreliiensis B. de Lesd. SPECIES
-=======
+# Bacidia moreliiensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

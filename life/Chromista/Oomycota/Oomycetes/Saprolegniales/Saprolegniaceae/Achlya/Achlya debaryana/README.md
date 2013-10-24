@@ -1,17 +1,16 @@
-Achlya debaryana var. intermedia Minden VARIETY
-=======
+# Achlya debaryana Humphrey, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Am. phil. Soc. , New Series 17: 117 (1893)
 
 #### Original name
-Achlya debaryana var. intermedia Minden
+Achlya debaryana Humphrey, 1893
 
 ### Remarks
 null

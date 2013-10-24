@@ -1,5 +1,4 @@
-Puccinia americana Lagerh. SPECIES
-=======
+# Puccinia americana Lagerh. SPECIES
 
 #### Status
 ACCEPTED

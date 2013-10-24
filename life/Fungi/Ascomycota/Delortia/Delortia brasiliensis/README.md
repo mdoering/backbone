@@ -1,5 +1,4 @@
-Delortia brasiliensis Rick SPECIES
-=======
+# Delortia brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

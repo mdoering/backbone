@@ -1,5 +1,4 @@
-Catarola Strand, 1929 GENUS
-=======
+# Catarola Strand, 1929 GENUS
 
 #### Status
 ACCEPTED

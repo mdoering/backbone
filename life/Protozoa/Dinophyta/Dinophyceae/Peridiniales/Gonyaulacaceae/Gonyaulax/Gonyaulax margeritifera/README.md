@@ -1,5 +1,4 @@
-Gonyaulax margeritifera Cookson & Eisenack SPECIES
-=======
+# Gonyaulax margeritifera Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

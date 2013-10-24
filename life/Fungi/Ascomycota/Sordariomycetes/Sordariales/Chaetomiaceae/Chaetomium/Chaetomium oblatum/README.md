@@ -1,5 +1,4 @@
-Chaetomium oblatum Dreyfuss & Arx, 1986 SPECIES
-=======
+# Chaetomium oblatum Dreyfuss & Arx, 1986 SPECIES
 
 #### Status
 ACCEPTED

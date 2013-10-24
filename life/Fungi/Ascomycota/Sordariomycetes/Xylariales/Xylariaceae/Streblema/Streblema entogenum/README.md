@@ -1,5 +1,4 @@
-Streblema entogenum Chevall. SPECIES
-=======
+# Streblema entogenum Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kingella potus Lawson et al., 2005 SPECIES
-=======
+# Kingella potus Lawson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon maravignae Tornab. SPECIES
-=======
+# Endocarpon maravignae Tornab. SPECIES
 
 #### Status
 ACCEPTED

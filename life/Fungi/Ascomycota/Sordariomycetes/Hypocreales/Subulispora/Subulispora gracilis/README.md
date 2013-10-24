@@ -1,5 +1,4 @@
-Subulispora gracilis (Matsush.) de Hoog SPECIES
-=======
+# Subulispora gracilis (Matsush.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

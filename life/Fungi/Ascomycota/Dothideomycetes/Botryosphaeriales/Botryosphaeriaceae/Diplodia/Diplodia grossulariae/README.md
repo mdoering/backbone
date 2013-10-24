@@ -1,5 +1,4 @@
-Diplodia grossulariae Sacc. & Schulzer SPECIES
-=======
+# Diplodia grossulariae Sacc. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus euchrous Pers., 1801 SPECIES
-=======
+# Entoloma euchroum (Pers.) Donk, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 343 (1801)
+Bull. bot. Gdns Buitenz. , Ser. III 18: 157 (1949)
 
 #### Original name
 Agaricus euchrous Pers., 1801

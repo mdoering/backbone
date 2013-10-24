@@ -1,8 +1,7 @@
-Stokeyia indica Thivy & Doshi SPECIES
-=======
+# Cystoseira indica (Thivy & Doshi) Mairh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

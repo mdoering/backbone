@@ -1,5 +1,4 @@
-Hypochnicium subrigescens Boidin, 1971 SPECIES
-=======
+# Hypochnicium subrigescens Boidin, 1971 SPECIES
 
 #### Status
 ACCEPTED

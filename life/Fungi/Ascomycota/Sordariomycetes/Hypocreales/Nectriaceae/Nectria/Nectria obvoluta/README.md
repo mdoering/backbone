@@ -1,5 +1,4 @@
-Nectria obvoluta P. Karst. SPECIES
-=======
+# Nectria obvoluta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

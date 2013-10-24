@@ -1,5 +1,4 @@
-Macrophoma graminicola S. Ahmad SPECIES
-=======
+# Macrophoma graminicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

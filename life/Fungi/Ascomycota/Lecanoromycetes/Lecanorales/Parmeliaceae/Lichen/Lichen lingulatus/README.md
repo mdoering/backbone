@@ -1,5 +1,4 @@
-Lichen lingulatus SPECIES
-=======
+# Lichen lingulatus SPECIES
 
 #### Status
 ACCEPTED

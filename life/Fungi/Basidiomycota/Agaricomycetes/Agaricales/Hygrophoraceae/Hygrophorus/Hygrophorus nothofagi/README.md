@@ -1,5 +1,4 @@
-Hygrophorus nothofagi Garrido SPECIES
-=======
+# Hygrophorus nothofagi Garrido SPECIES
 
 #### Status
 ACCEPTED

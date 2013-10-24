@@ -1,5 +1,4 @@
-Gymnozoum Meunier, 1910 GENUS
-=======
+# Gymnozoum Meunier, 1910 GENUS
 
 #### Status
 ACCEPTED

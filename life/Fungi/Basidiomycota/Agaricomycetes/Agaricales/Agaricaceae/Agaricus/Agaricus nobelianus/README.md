@@ -1,5 +1,4 @@
-Agaricus nobelianus A.E. Freeman SPECIES
-=======
+# Agaricus nobelianus A.E. Freeman SPECIES
 
 #### Status
 ACCEPTED

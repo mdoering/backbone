@@ -1,5 +1,4 @@
-Eccilia californica Murrill SPECIES
-=======
+# Eccilia californica Murrill SPECIES
 
 #### Status
 ACCEPTED

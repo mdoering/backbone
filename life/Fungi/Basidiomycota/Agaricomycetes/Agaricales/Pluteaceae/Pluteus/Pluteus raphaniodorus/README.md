@@ -1,5 +1,4 @@
-Pluteus raphaniodorus E. Horak SPECIES
-=======
+# Pluteus raphaniodorus E. Horak SPECIES
 
 #### Status
 ACCEPTED

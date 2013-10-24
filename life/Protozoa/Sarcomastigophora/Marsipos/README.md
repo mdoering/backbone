@@ -1,5 +1,4 @@
-Marsipos Medioli, Scott, Collins & Wall, 1990 GENUS
-=======
+# Marsipos Medioli, Scott, Collins & Wall, 1990 GENUS
 
 #### Status
 ACCEPTED

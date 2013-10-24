@@ -1,5 +1,4 @@
-Pleuropus nyssicola Murrill SPECIES
-=======
+# Pleuropus nyssicola Murrill SPECIES
 
 #### Status
 ACCEPTED

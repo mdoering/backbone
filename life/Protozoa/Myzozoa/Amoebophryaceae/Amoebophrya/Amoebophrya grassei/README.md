@@ -1,5 +1,4 @@
-Amoebophrya grassei Cachon SPECIES
-=======
+# Amoebophrya grassei Cachon SPECIES
 
 #### Status
 ACCEPTED

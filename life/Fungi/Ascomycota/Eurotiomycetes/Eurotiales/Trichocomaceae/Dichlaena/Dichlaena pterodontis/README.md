@@ -1,5 +1,4 @@
-Dichlaena pterodontis C. Ram SPECIES
-=======
+# Dichlaena pterodontis C. Ram SPECIES
 
 #### Status
 ACCEPTED

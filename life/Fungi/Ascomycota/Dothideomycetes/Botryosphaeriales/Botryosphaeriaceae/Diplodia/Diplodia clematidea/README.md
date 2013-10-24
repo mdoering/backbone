@@ -1,5 +1,4 @@
-Diplodia clematidea Sacc. SPECIES
-=======
+# Diplodia clematidea Sacc. SPECIES
 
 #### Status
 ACCEPTED

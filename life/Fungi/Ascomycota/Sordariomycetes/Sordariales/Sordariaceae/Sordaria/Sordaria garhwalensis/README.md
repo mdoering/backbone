@@ -1,5 +1,4 @@
-Sordaria garhwalensis S.L. Srivast. & S. Bisht SPECIES
-=======
+# Sordaria garhwalensis S.L. Srivast. & S. Bisht SPECIES
 
 #### Status
 ACCEPTED

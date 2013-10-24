@@ -1,5 +1,4 @@
-Lecidea moritzii B. de Lesd. SPECIES
-=======
+# Lecidea moritzii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

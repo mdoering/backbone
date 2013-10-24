@@ -1,5 +1,4 @@
-Protoentactinia Kozur, Mostler & Repetski, 1996 GENUS
-=======
+# Protoentactinia Kozur, Mostler & Repetski, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygodesmus tiliaceus Ellis & Everh. SPECIES
-=======
+# Zygodesmus tiliaceus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

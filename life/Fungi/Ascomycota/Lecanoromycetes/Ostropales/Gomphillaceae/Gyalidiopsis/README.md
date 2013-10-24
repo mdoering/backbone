@@ -1,5 +1,4 @@
-Gyalidiopsis GENUS
-=======
+# Gyalidiopsis GENUS
 
 #### Status
 ACCEPTED

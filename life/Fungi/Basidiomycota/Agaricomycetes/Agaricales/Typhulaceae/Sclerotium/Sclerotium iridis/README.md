@@ -1,5 +1,4 @@
-Sclerotium iridis Thüm. SPECIES
-=======
+# Sclerotium iridis Thüm. SPECIES
 
 #### Status
 ACCEPTED

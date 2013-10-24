@@ -1,5 +1,4 @@
-Bütschlia neglecta Schuberg, 1888 SPECIES
-=======
+# Bütschlia neglecta Schuberg, 1888 SPECIES
 
 #### Status
 ACCEPTED

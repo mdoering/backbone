@@ -1,17 +1,16 @@
-Leptina eryobotryae Bat. & Peres SPECIES
-=======
+# Leptina eriobotryae Bat. & Peres SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Saccardoa 1: 25 (1960)
 
 #### Original name
-Leptina eryobotryae Bat. & Peres
+Leptina eriobotryae Bat. & Peres
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Holleya Y. Yamada GENUS
-=======
+# Holleya Y. Yamada GENUS
 
 #### Status
 ACCEPTED

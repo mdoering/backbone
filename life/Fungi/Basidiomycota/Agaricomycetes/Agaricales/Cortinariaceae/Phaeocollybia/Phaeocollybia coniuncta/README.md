@@ -1,5 +1,4 @@
-Phaeocollybia coniuncta E. Horak SPECIES
-=======
+# Phaeocollybia coniuncta E. Horak SPECIES
 
 #### Status
 ACCEPTED

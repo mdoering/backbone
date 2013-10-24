@@ -1,5 +1,4 @@
-Nassula microstomata SPECIES
-=======
+# Nassula microstomata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria austroamericana (Speg.) Rossman SPECIES
-=======
+# Nectria austroamericana (Speg.) Rossman SPECIES
 
 #### Status
 ACCEPTED

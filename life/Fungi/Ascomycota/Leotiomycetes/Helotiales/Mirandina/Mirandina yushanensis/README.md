@@ -1,5 +1,4 @@
-Mirandina yushanensis Matsush. SPECIES
-=======
+# Mirandina yushanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

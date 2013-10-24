@@ -1,5 +1,4 @@
-Nodulisporium olivascens (P. Karst.) S. Hughes SPECIES
-=======
+# Nodulisporium olivascens (P. Karst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

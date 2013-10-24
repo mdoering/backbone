@@ -1,5 +1,4 @@
-Heterodinium schilleri Pavillard, 1932 SPECIES
-=======
+# Heterodinium schilleri Pavillard, 1932 SPECIES
 
 #### Status
 ACCEPTED

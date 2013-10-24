@@ -1,5 +1,4 @@
-Xanthoparmelia psoromica Hale SPECIES
-=======
+# Xanthoparmelia psoromica Hale SPECIES
 
 #### Status
 ACCEPTED

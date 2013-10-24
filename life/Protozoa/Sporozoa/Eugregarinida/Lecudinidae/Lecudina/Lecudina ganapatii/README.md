@@ -1,8 +1,7 @@
-Lecudina pellucida (von Kölliker, 1848) Mingazzini, 1891 SPECIES
-=======
+# Lecudina ganapatii Vivier, Ormieres & Tuzet, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

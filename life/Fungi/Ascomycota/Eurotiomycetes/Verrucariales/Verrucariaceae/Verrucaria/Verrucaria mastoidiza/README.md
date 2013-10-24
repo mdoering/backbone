@@ -1,5 +1,4 @@
-Verrucaria mastoidiza Nyl. SPECIES
-=======
+# Verrucaria mastoidiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps novae-zelandiae Dingley, 1953 SPECIES
-=======
+# Cordyceps novae-zelandiae Dingley, 1953 SPECIES
 
 #### Status
 ACCEPTED

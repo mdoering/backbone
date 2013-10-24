@@ -1,5 +1,4 @@
-Amanita fulvopulverulenta Beeli SPECIES
-=======
+# Amanita fulvopulverulenta Beeli SPECIES
 
 #### Status
 ACCEPTED

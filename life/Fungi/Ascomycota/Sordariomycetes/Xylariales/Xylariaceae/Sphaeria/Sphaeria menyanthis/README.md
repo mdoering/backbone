@@ -1,5 +1,4 @@
-Sphaeria menyanthis Kirchn. SPECIES
-=======
+# Sphaeria menyanthis Kirchn. SPECIES
 
 #### Status
 ACCEPTED

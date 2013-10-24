@@ -1,5 +1,4 @@
-Sirodesmium translucens (Cooke) Sacc. SPECIES
-=======
+# Sirodesmium translucens (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

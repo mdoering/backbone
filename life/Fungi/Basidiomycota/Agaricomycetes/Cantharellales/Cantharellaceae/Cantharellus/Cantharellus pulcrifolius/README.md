@@ -1,5 +1,4 @@
-Cantharellus pulcrifolius Peck SPECIES
-=======
+# Cantharellus pulcrifolius Peck SPECIES
 
 #### Status
 ACCEPTED

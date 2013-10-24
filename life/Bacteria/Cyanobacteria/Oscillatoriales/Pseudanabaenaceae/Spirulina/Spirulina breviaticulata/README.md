@@ -1,5 +1,4 @@
-Spirulina breviaticulata (Setchell & N.L. Gardner) Geitler, 1932 SPECIES
-=======
+# Spirulina breviaticulata (Setchell & N.L. Gardner) Geitler, 1932 SPECIES
 
 #### Status
 ACCEPTED

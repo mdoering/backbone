@@ -1,5 +1,4 @@
-Diophrys multicirratus SPECIES
-=======
+# Diophrys multicirratus SPECIES
 
 #### Status
 ACCEPTED

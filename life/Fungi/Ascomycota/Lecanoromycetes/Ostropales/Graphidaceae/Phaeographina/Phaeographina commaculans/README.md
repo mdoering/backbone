@@ -1,5 +1,4 @@
-Phaeographina commaculans (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina commaculans (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

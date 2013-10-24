@@ -1,5 +1,4 @@
-Candelariella andicola (Zahlbr.) Zahlbr. SPECIES
-=======
+# Candelariella andicola (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

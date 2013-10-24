@@ -1,5 +1,4 @@
-Phyllachora bauhiniae Sawada SPECIES
-=======
+# Phyllachora bauhiniae Sawada SPECIES
 
 #### Status
 ACCEPTED

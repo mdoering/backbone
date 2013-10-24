@@ -1,5 +1,4 @@
-Acrospermum laetum (Ehrenb.) Wallr. SPECIES
-=======
+# Acrospermum laetum (Ehrenb.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza myricacea Peck SPECIES
-=======
+# Peziza myricacea Peck SPECIES
 
 #### Status
 ACCEPTED

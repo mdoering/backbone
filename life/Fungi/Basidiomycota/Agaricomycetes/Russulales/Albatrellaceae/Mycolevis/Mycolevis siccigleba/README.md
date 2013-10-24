@@ -1,5 +1,4 @@
-Mycolevis siccigleba A.H. Sm., 1965 SPECIES
-=======
+# Mycolevis siccigleba A.H. Sm., 1965 SPECIES
 
 #### Status
 ACCEPTED

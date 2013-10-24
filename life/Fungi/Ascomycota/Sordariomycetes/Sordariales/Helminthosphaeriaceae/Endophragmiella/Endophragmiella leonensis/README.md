@@ -1,5 +1,4 @@
-Endophragmiella leonensis (M.B. Ellis) S. Hughes SPECIES
-=======
+# Endophragmiella leonensis (M.B. Ellis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

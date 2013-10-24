@@ -1,5 +1,4 @@
-Stigmatomyces carles-tolrae Santam. & W. Rossi SPECIES
-=======
+# Stigmatomyces carles-tolrae Santam. & W. Rossi SPECIES
 
 #### Status
 ACCEPTED

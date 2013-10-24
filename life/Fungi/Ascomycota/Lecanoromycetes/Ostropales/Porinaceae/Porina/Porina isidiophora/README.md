@@ -1,5 +1,4 @@
-Porina isidiophora Vain. SPECIES
-=======
+# Porina isidiophora Vain. SPECIES
 
 #### Status
 ACCEPTED

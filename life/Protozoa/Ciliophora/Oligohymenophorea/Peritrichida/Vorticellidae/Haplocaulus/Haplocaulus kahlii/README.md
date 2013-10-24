@@ -1,5 +1,4 @@
-Haplocaulus kahlii (Stiller, 1931) Sommer, 1951 SPECIES
-=======
+# Haplocaulus kahlii (Stiller, 1931) Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

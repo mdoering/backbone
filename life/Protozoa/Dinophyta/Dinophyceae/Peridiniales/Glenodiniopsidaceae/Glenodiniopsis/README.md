@@ -1,5 +1,4 @@
-Glenodiniopsis Woloszynska, 1916 GENUS
-=======
+# Glenodiniopsis Woloszynska, 1916 GENUS
 
 #### Status
 ACCEPTED

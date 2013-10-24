@@ -1,5 +1,4 @@
-Stenella dichanthii (S.A. Khan & Kamal) U. Braun & Crous SPECIES
-=======
+# Stenella dichanthii (S.A. Khan & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis dryophila Cooke & Ellis SPECIES
-=======
+# Stictis dryophila Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

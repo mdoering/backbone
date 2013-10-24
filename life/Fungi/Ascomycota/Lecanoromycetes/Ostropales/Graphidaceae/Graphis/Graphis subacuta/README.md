@@ -1,5 +1,4 @@
-Graphis subacuta Nyl. SPECIES
-=======
+# Graphis subacuta Nyl. SPECIES
 
 #### Status
 ACCEPTED

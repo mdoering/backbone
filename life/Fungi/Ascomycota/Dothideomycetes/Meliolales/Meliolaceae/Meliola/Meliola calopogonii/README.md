@@ -1,17 +1,16 @@
-Meliola caplopogonii Hosag. & Manojk. SPECIES
-=======
+# Meliola calopogonii F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 26(3/4): 255 (1928)
 
 #### Original name
-Meliola caplopogonii Hosag. & Manojk.
+Meliola calopogonii F. Stevens
 
 ### Remarks
 null

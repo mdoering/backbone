@@ -1,5 +1,4 @@
-Protoparmelia phaeonesos Poelt SPECIES
-=======
+# Protoparmelia phaeonesos Poelt SPECIES
 
 #### Status
 ACCEPTED

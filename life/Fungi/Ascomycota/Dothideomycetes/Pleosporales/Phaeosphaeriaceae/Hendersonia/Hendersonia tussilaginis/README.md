@@ -1,5 +1,4 @@
-Hendersonia tussilaginis Petr. SPECIES
-=======
+# Hendersonia tussilaginis Petr. SPECIES
 
 #### Status
 ACCEPTED

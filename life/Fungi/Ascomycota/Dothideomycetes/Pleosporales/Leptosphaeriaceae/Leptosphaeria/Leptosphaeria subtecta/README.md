@@ -1,5 +1,4 @@
-Leptosphaeria subtecta G. Winter SPECIES
-=======
+# Leptosphaeria subtecta G. Winter SPECIES
 
 #### Status
 ACCEPTED

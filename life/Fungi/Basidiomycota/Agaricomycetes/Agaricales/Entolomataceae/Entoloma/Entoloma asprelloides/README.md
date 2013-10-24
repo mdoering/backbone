@@ -1,5 +1,4 @@
-Entoloma asprelloides G. Stev., 1962 SPECIES
-=======
+# Entoloma asprelloides G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

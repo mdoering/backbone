@@ -1,5 +1,4 @@
-Botryosphaeria mascarensis (Mont.) Sacc. SPECIES
-=======
+# Botryosphaeria mascarensis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

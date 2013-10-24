@@ -1,5 +1,4 @@
-Dialonectria curtisii (Berk.) Cooke SPECIES
-=======
+# Dialonectria curtisii (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

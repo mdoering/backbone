@@ -1,5 +1,4 @@
-Sphaeria propendula P. Karst. SPECIES
-=======
+# Sphaeria propendula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

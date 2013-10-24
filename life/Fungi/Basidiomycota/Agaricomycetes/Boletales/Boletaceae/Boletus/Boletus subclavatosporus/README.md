@@ -1,5 +1,4 @@
-Boletus subclavatosporus Snell SPECIES
-=======
+# Boletus subclavatosporus Snell SPECIES
 
 #### Status
 ACCEPTED

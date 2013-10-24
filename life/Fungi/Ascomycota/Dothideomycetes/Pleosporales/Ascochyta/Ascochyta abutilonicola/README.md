@@ -1,5 +1,4 @@
-Ascochyta abutilonicola Massenot SPECIES
-=======
+# Ascochyta abutilonicola Massenot SPECIES
 
 #### Status
 ACCEPTED

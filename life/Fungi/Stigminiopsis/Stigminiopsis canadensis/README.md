@@ -1,5 +1,4 @@
-Stigminiopsis canadensis Dyko & B. Sutton SPECIES
-=======
+# Stigminiopsis canadensis Dyko & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

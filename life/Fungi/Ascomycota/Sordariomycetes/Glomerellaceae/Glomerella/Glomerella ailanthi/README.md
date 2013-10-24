@@ -1,5 +1,4 @@
-Glomerella ailanthi (Grove) Petr. & Syd. SPECIES
-=======
+# Glomerella ailanthi (Grove) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

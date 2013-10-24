@@ -1,5 +1,4 @@
-Ophryoglena flavicans Ehrenberg, 1831 SPECIES
-=======
+# Ophryoglena flavicans Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

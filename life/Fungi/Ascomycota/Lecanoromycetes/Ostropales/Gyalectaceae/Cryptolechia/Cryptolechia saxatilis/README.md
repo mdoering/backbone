@@ -1,5 +1,4 @@
-Cryptolechia saxatilis (Vezda) D. Hawksw. & Dibben SPECIES
-=======
+# Cryptolechia saxatilis (Vezda) D. Hawksw. & Dibben SPECIES
 
 #### Status
 ACCEPTED

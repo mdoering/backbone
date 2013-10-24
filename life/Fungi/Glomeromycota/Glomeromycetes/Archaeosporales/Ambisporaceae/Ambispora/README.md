@@ -1,5 +1,4 @@
-Ambispora C. Walker, Vestberg & A. Schüssler GENUS
-=======
+# Ambispora C. Walker, Vestberg & A. Schüssler GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus aurantiacus (ex Tsukamura & Mizuno, 1971) Tsukamura & Yano, 1985 SPECIES
-=======
+# Rhodococcus aurantiacus (ex Tsukamura & Mizuno, 1971) Tsukamura & Yano, 1985 SPECIES
 
 #### Status
 ACCEPTED

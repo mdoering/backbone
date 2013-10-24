@@ -1,5 +1,4 @@
-Lithocia hydreloides M. Choisy SPECIES
-=======
+# Lithocia hydreloides M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria vanvleckii (Schwein.) Sacc. SPECIES
-=======
+# Botryosphaeria vanvleckii (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

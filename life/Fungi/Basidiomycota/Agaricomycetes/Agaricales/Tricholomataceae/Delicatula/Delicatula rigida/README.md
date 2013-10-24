@@ -1,5 +1,4 @@
-Delicatula rigida Velen. SPECIES
-=======
+# Delicatula rigida Velen. SPECIES
 
 #### Status
 ACCEPTED

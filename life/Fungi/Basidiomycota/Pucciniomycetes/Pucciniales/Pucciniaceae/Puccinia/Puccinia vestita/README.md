@@ -1,5 +1,4 @@
-Puccinia vestita P. Syd. & Syd. SPECIES
-=======
+# Puccinia vestita P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

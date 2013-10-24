@@ -1,5 +1,4 @@
-Gyalecta herrei Vezda SPECIES
-=======
+# Gyalecta herrei Vezda SPECIES
 
 #### Status
 ACCEPTED

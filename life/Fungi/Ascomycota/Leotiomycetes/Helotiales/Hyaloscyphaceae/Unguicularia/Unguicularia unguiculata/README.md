@@ -1,14 +1,13 @@
-Hyalopeziza unguiculata (Höhn.) Korf & L.M. Kohn, 1980 SPECIES
-=======
+# Unguicularia unguiculata Höhn., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 10(2): 509 (1980)
+Annls mycol. 3: 404 (1905)
 
 #### Original name
 Unguicularia unguiculata Höhn., 1905

@@ -1,5 +1,4 @@
-Laeticorticium GENUS
-=======
+# Laeticorticium GENUS
 
 #### Status
 ACCEPTED

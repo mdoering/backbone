@@ -1,5 +1,4 @@
-Pestalotia tubericola Pass. SPECIES
-=======
+# Pestalotia tubericola Pass. SPECIES
 
 #### Status
 ACCEPTED

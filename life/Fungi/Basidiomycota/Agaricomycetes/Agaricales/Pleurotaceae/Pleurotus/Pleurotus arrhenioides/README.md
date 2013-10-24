@@ -1,5 +1,4 @@
-Pleurotus arrhenioides Henn. & E. Nyman SPECIES
-=======
+# Pleurotus arrhenioides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halomonas halocynthiae Romanenko et al., 2002 SPECIES
-=======
+# Halomonas halocynthiae Romanenko et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

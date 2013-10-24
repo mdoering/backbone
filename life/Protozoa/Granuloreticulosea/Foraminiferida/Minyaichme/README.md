@@ -1,5 +1,4 @@
-Minyaichme Loeblich & Tappan, 1982 GENUS
-=======
+# Minyaichme Loeblich & Tappan, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rusavskia capensis (Kärnefelt, Arup & L. Lindblom) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia capensis (Kärnefelt, Arup & L. Lindblom) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

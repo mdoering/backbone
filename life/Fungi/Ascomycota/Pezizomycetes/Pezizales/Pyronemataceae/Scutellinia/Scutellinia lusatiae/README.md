@@ -1,14 +1,13 @@
-Peziza lusatiae Cooke, 1876 SPECIES
-=======
+# Scutellinia lusatiae (Cooke) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes 1: 80 (1876)
+Revis. gen. pl. (Leipzig) 2: 869 (1891)
 
 #### Original name
 Peziza lusatiae Cooke, 1876

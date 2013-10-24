@@ -1,5 +1,4 @@
-Polyporus aesculi (Schwein.) Fr. SPECIES
-=======
+# Polyporus aesculi (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

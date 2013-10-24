@@ -1,5 +1,4 @@
-Thyrostroma ramoconidiiferum A.I. Romero SPECIES
-=======
+# Thyrostroma ramoconidiiferum A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

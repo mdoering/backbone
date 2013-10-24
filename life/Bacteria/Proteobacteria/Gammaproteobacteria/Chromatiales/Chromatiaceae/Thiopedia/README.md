@@ -1,5 +1,4 @@
-Thiopedia GENUS
-=======
+# Thiopedia GENUS
 
 #### Status
 ACCEPTED

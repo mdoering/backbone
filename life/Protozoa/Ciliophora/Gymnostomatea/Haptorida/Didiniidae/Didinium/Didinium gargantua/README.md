@@ -1,5 +1,4 @@
-Didinium gargantua Meunier, 1910 SPECIES
-=======
+# Didinium gargantua Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

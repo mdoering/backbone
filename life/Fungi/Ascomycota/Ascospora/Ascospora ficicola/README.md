@@ -1,5 +1,4 @@
-Ascospora ficicola Lév. SPECIES
-=======
+# Ascospora ficicola Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma aureum (Schaer.) Körb. SPECIES
-=======
+# Amphiloma aureum (Schaer.) Körb. SPECIES
 
 #### Status
 ACCEPTED

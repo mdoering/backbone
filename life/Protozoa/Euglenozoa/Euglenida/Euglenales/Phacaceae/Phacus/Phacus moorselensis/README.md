@@ -1,5 +1,4 @@
-Phacus moorselensis Conrad SPECIES
-=======
+# Phacus moorselensis Conrad SPECIES
 
 #### Status
 ACCEPTED

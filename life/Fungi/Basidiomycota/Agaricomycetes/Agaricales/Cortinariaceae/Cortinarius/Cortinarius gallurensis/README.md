@@ -1,17 +1,16 @@
-Cortinarius galluraensis Contu SPECIES
-=======
+# Cortinarius gallurensis D. Antonini, M. Antonini & Consiglio SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Consiglio, Antonini & Antonini, Il Genere Cortinarius in Italia 3: C101 (2005)
 
 #### Original name
-Cortinarius galluraensis Contu
+Cortinarius gallurensis D. Antonini, M. Antonini & Consiglio
 
 ### Remarks
 null

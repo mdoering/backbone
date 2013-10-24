@@ -1,5 +1,4 @@
-Puccinia kakamariensis Wakef. & Hansf. SPECIES
-=======
+# Puccinia kakamariensis Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

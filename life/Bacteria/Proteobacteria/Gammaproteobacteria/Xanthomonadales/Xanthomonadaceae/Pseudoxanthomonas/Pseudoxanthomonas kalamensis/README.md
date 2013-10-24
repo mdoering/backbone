@@ -1,5 +1,4 @@
-Pseudoxanthomonas kalamensis Harada et al., 2006 SPECIES
-=======
+# Pseudoxanthomonas kalamensis Harada et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

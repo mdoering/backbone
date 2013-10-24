@@ -1,5 +1,4 @@
-Synchytrium incrassans Maire SPECIES
-=======
+# Synchytrium incrassans Maire SPECIES
 
 #### Status
 ACCEPTED

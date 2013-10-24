@@ -1,5 +1,4 @@
-Cercospora tragiae-folii A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora tragiae-folii A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

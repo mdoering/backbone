@@ -1,5 +1,4 @@
-Englerula macarangae Henn., 1904 SPECIES
-=======
+# Englerula macarangae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

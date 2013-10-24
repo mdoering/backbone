@@ -1,5 +1,4 @@
-Luciotrichus R. Galán & Raitv. GENUS
-=======
+# Luciotrichus R. Galán & Raitv. GENUS
 
 #### Status
 ACCEPTED

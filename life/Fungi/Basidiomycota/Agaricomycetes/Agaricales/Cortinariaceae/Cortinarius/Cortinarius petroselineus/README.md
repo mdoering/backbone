@@ -1,5 +1,4 @@
-Cortinarius petroselineus var. petroselineus VARIETY
-=======
+# Cortinarius petroselineus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 12(no. 47): 59 (1982)
 
 #### Original name
-Cortinarius petroselineus var. petroselineus
+Cortinarius petroselineus Chevassut & Rob. Henry
 
 ### Remarks
 null

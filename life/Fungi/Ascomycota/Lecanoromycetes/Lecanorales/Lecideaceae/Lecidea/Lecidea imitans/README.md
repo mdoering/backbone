@@ -1,5 +1,4 @@
-Lecidea imitans (Nyl.) Nyl. SPECIES
-=======
+# Lecidea imitans (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

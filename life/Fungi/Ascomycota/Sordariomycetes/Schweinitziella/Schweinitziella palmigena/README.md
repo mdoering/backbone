@@ -1,5 +1,4 @@
-Schweinitziella palmigena F. Stevens SPECIES
-=======
+# Schweinitziella palmigena F. Stevens SPECIES
 
 #### Status
 ACCEPTED

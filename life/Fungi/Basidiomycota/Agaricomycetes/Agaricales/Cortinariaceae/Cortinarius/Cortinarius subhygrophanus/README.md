@@ -1,5 +1,4 @@
-Cortinarius subhygrophanus Bidaud SPECIES
-=======
+# Cortinarius subhygrophanus Bidaud SPECIES
 
 #### Status
 ACCEPTED

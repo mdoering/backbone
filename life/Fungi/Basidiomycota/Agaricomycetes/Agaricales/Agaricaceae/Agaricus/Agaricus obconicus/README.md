@@ -1,5 +1,4 @@
-Agaricus obconicus Schumach. SPECIES
-=======
+# Agaricus obconicus Schumach. SPECIES
 
 #### Status
 ACCEPTED

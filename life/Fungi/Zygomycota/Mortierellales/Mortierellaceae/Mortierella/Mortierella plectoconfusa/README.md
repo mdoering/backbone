@@ -1,5 +1,4 @@
-Mortierella plectoconfusa E. Wolf SPECIES
-=======
+# Mortierella plectoconfusa E. Wolf SPECIES
 
 #### Status
 ACCEPTED

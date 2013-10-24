@@ -1,5 +1,4 @@
-Anabaenopsis abijatae E. Kebede & E. Willén SPECIES
-=======
+# Anabaenopsis abijatae E. Kebede & E. Willén SPECIES
 
 #### Status
 ACCEPTED

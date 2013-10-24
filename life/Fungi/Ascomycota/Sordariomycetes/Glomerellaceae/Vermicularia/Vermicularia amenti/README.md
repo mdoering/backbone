@@ -1,5 +1,4 @@
-Vermicularia amenti P. Karst. SPECIES
-=======
+# Vermicularia amenti P. Karst. SPECIES
 
 #### Status
 ACCEPTED

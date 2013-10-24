@@ -1,5 +1,4 @@
-Polyporus coeruleus (Schumach.) Pers. SPECIES
-=======
+# Polyporus coeruleus (Schumach.) Pers. SPECIES
 
 #### Status
 ACCEPTED

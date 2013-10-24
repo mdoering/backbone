@@ -1,5 +1,4 @@
-Lecidea anisomera (Vain.) Hue SPECIES
-=======
+# Lecidea anisomera (Vain.) Hue SPECIES
 
 #### Status
 ACCEPTED

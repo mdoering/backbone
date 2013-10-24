@@ -1,5 +1,4 @@
-Crocynia cribrosa Hue SPECIES
-=======
+# Crocynia cribrosa Hue SPECIES
 
 #### Status
 ACCEPTED

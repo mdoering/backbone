@@ -1,17 +1,16 @@
-Strobilomyces strobilaceus var. strobilaceus VARIETY
-=======
+# Strobilomyces strobilaceus (Scop.) Berk., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hooker's J. Bot. Kew Gard. Misc. 78 (1860)
 
 #### Original name
-Strobilomyces strobilaceus var. strobilaceus
+Boletus strobilaceus Scop., 1772
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius opacus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius opacus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

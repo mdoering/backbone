@@ -1,5 +1,4 @@
-Sphaeria daturae Schwein. SPECIES
-=======
+# Sphaeria daturae Schwein. SPECIES
 
 #### Status
 ACCEPTED

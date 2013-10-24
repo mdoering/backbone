@@ -1,5 +1,4 @@
-Gyoerffyella oxalidis Vanev SPECIES
-=======
+# Gyoerffyella oxalidis Vanev SPECIES
 
 #### Status
 ACCEPTED

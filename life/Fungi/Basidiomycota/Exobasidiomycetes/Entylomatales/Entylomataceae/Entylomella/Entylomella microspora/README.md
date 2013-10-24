@@ -1,5 +1,4 @@
-Entylomella microspora Cif. SPECIES
-=======
+# Entylomella microspora Cif. SPECIES
 
 #### Status
 ACCEPTED

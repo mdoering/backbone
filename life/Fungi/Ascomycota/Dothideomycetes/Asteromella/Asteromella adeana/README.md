@@ -1,5 +1,4 @@
-Asteromella adeana Petr. SPECIES
-=======
+# Asteromella adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

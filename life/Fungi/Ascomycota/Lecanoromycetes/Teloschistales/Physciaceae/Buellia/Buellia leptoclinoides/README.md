@@ -1,14 +1,13 @@
-Lecidea leptoclinoides Nyl. SPECIES
-=======
+# Buellia leptoclinoides (Nyl.) J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 6: 311 (1872)
+Verh. zool. -bot. Ges. Wein 57: 357 (1907)
 
 #### Original name
 Lecidea leptoclinoides Nyl.

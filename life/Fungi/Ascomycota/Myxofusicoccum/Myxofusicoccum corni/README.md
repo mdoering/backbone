@@ -1,5 +1,4 @@
-Myxofusicoccum corni (Allesch.) Died. SPECIES
-=======
+# Myxofusicoccum corni (Allesch.) Died. SPECIES
 
 #### Status
 ACCEPTED

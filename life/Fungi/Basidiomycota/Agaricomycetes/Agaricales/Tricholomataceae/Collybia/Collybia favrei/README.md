@@ -1,5 +1,4 @@
-Collybia favrei Kühner & Romagn. SPECIES
-=======
+# Collybia favrei Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

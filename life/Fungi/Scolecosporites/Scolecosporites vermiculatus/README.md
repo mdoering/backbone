@@ -1,5 +1,4 @@
-Scolecosporites vermiculatus (P. Ke & Z.Y. Shi) Z.C. Song SPECIES
-=======
+# Scolecosporites vermiculatus (P. Ke & Z.Y. Shi) Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Milesina chikugoensis Hirats. f. SPECIES
-=======
+# Milesina chikugoensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

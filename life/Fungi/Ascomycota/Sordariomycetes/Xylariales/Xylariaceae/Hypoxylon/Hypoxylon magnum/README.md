@@ -1,5 +1,4 @@
-Hypoxylon magnum Möller SPECIES
-=======
+# Hypoxylon magnum Möller SPECIES
 
 #### Status
 ACCEPTED

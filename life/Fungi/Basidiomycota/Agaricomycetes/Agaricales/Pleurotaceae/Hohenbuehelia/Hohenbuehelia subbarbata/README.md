@@ -1,5 +1,4 @@
-Hohenbuehelia subbarbata (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Hohenbuehelia subbarbata (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

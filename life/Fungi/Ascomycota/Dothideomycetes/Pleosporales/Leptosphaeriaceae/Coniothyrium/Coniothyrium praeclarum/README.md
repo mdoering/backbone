@@ -1,5 +1,4 @@
-Coniothyrium praeclarum Fairm. SPECIES
-=======
+# Coniothyrium praeclarum Fairm. SPECIES
 
 #### Status
 ACCEPTED

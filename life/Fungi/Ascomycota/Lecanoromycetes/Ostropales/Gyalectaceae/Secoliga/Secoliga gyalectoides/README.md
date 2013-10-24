@@ -1,5 +1,4 @@
-Secoliga gyalectoides (A. Massal.) A. Massal. SPECIES
-=======
+# Secoliga gyalectoides (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

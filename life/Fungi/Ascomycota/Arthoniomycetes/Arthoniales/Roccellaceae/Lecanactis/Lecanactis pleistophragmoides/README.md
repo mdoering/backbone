@@ -1,5 +1,4 @@
-Lecanactis pleistophragmoides (Nyl.) Hellb. SPECIES
-=======
+# Lecanactis pleistophragmoides (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

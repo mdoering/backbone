@@ -1,5 +1,4 @@
-Sporisorium crypticum (Cooke & Massee) Vánky & M.S. Patil SPECIES
-=======
+# Sporisorium crypticum (Cooke & Massee) Vánky & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia mexicana Gyeln. SPECIES
-=======
+# Xanthoparmelia mexicana (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Repert. Spec. Nov. Regni Veg. 29: 281 (1931)
+Phytologia 28: 488 (1974)
 
 #### Original name
 Parmelia mexicana Gyeln.

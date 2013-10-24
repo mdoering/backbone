@@ -1,5 +1,4 @@
-Amauroderma parasiticum Corner, 1983 SPECIES
-=======
+# Amauroderma parasiticum Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scenidium unicolor (Fr.) Kuntze SPECIES
-=======
+# Scenidium unicolor (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniangium koerberi J. Lahm SPECIES
-=======
+# Coniangium koerberi J. Lahm SPECIES
 
 #### Status
 ACCEPTED

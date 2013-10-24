@@ -1,5 +1,4 @@
-Septoria candida (Fuckel) Sacc. SPECIES
-=======
+# Septoria candida (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

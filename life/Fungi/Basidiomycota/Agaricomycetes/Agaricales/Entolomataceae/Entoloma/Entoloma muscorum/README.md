@@ -1,5 +1,4 @@
-Entoloma muscorum Cleland SPECIES
-=======
+# Entoloma muscorum Cleland SPECIES
 
 #### Status
 ACCEPTED

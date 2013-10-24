@@ -1,5 +1,4 @@
-Clitocybe fellea Peck SPECIES
-=======
+# Clitocybe fellea Peck SPECIES
 
 #### Status
 ACCEPTED

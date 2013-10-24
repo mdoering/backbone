@@ -1,5 +1,4 @@
-Pseudopantanellium Yeh, 1987 GENUS
-=======
+# Pseudopantanellium Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

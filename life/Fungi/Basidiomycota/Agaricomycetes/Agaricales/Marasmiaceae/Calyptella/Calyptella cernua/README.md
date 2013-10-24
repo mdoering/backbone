@@ -1,5 +1,4 @@
-Calyptella cernua (Schumach.) W.B. Cooke SPECIES
-=======
+# Calyptella cernua (Schumach.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

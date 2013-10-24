@@ -1,5 +1,4 @@
-Exosporium maximum (Schwein.) Schwein. SPECIES
-=======
+# Exosporium maximum (Schwein.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

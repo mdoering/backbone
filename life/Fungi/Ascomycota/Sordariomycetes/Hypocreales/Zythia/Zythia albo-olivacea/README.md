@@ -1,5 +1,4 @@
-Zythia albo-olivacea Höhn. SPECIES
-=======
+# Zythia albo-olivacea Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania arenaria (Anzi) Flagey SPECIES
-=======
+# Lecania arenaria (Anzi) Flagey SPECIES
 
 #### Status
 ACCEPTED

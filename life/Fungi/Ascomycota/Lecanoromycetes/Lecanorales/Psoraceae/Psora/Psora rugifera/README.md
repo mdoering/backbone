@@ -1,5 +1,4 @@
-Psora rugifera (Vain.) Dombr. SPECIES
-=======
+# Psora rugifera (Vain.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

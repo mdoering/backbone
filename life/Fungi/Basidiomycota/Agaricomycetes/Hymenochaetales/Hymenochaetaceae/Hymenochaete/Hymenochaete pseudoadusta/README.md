@@ -1,5 +1,4 @@
-Hymenochaete pseudoadusta J.C. Léger & Lanq., 1992 SPECIES
-=======
+# Hymenochaete pseudoadusta J.C. Léger & Lanq., 1992 SPECIES
 
 #### Status
 ACCEPTED

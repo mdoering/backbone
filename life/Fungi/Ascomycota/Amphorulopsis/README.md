@@ -1,5 +1,4 @@
-Amphorulopsis Petr. GENUS
-=======
+# Amphorulopsis Petr. GENUS
 
 #### Status
 ACCEPTED

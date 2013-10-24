@@ -1,5 +1,4 @@
-Dermocystis pusula Pérez SPECIES
-=======
+# Dermocystis pusula Pérez SPECIES
 
 #### Status
 ACCEPTED

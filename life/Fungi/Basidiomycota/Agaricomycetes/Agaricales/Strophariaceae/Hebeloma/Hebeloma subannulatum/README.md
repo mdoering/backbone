@@ -1,5 +1,4 @@
-Hebeloma subannulatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma subannulatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

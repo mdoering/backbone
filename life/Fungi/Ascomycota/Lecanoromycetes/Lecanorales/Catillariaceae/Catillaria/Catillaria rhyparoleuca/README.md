@@ -1,5 +1,4 @@
-Catillaria rhyparoleuca A. Massal. SPECIES
-=======
+# Catillaria rhyparoleuca A. Massal. SPECIES
 
 #### Status
 ACCEPTED

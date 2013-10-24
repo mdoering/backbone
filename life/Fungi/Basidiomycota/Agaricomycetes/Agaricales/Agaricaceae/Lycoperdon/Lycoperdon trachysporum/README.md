@@ -1,5 +1,4 @@
-Lycoperdon trachysporum (Lloyd) S. Ahmad SPECIES
-=======
+# Lycoperdon trachysporum (Lloyd) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

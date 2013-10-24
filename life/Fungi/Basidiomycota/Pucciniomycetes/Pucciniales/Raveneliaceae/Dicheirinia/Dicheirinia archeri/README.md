@@ -1,5 +1,4 @@
-Dicheirinia archeri Cummins, 1937 SPECIES
-=======
+# Dicheirinia archeri Cummins, 1937 SPECIES
 
 #### Status
 ACCEPTED

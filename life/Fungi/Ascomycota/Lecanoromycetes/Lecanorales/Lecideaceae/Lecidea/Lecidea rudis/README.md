@@ -1,5 +1,4 @@
-Lecidea rudis Stizenb. SPECIES
-=======
+# Lecidea rudis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

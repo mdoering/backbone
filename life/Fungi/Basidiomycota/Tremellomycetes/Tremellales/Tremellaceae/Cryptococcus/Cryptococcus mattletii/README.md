@@ -1,5 +1,4 @@
-Cryptococcus mattletii Nann. SPECIES
-=======
+# Cryptococcus mattletii Nann. SPECIES
 
 #### Status
 ACCEPTED

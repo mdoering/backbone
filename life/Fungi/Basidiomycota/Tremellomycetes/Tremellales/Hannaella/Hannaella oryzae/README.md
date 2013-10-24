@@ -1,5 +1,4 @@
-Hannaella oryzae (Nakase & M. Suzuki) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Hannaella oryzae (Nakase & M. Suzuki) F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

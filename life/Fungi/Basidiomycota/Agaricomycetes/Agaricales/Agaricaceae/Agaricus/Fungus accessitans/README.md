@@ -1,5 +1,4 @@
-Fungus accessitans (Britzelm.) Kuntze SPECIES
-=======
+# Fungus accessitans (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

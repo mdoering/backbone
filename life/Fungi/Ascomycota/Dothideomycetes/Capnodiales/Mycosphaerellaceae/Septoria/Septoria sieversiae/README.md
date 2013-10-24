@@ -1,5 +1,4 @@
-Septoria sieversiae Savul. & Sandu SPECIES
-=======
+# Septoria sieversiae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

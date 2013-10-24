@@ -1,5 +1,4 @@
-Sphaeromphale silesiaca A. Massal. SPECIES
-=======
+# Sphaeromphale silesiaca A. Massal. SPECIES
 
 #### Status
 ACCEPTED

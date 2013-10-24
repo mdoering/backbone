@@ -1,5 +1,4 @@
-Bathystomum amblyosporum (Berk. & Broome) Füisting SPECIES
-=======
+# Bathystomum amblyosporum (Berk. & Broome) Füisting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladina transindica (Ahti) Ahti SPECIES
-=======
+# Cladina transindica (Ahti) Ahti SPECIES
 
 #### Status
 ACCEPTED

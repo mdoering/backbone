@@ -1,5 +1,4 @@
-Phialophora tracheiphila (Sacc. & D. Sacc.) Korf SPECIES
-=======
+# Phialophora tracheiphila (Sacc. & D. Sacc.) Korf SPECIES
 
 #### Status
 ACCEPTED

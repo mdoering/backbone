@@ -1,17 +1,16 @@
-Pseudocercospora brideligena H.S. Rao, Arch. Singh & Kamal SPECIES
-=======
+# Pseudocercospora brideliigena H.S. Rao, Arch. Singh & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 48(3): 255 (1996)
 
 #### Original name
-Pseudocercospora brideligena H.S. Rao, Arch. Singh & Kamal
+Pseudocercospora brideliigena H.S. Rao, Arch. Singh & Kamal
 
 ### Remarks
 null

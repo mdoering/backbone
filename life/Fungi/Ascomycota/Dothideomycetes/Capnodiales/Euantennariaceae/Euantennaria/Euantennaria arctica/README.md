@@ -1,5 +1,4 @@
-Euantennaria arctica (Woron.) S. Hughes SPECIES
-=======
+# Euantennaria arctica (Woron.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

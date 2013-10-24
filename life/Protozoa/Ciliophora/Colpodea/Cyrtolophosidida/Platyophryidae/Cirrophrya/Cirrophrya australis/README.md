@@ -1,5 +1,4 @@
-Cirrophrya australis Foissner, 1993 SPECIES
-=======
+# Cirrophrya australis Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

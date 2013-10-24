@@ -1,17 +1,16 @@
-Phloeogenaceae Gäum. FAMILY
-=======
+# Phleogenaceae FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Phloeogenaceae Gäum.
+null
 
 ### Remarks
 null

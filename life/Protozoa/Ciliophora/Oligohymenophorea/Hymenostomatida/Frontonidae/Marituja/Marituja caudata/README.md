@@ -1,5 +1,4 @@
-Marituja caudata SPECIES
-=======
+# Marituja caudata SPECIES
 
 #### Status
 ACCEPTED

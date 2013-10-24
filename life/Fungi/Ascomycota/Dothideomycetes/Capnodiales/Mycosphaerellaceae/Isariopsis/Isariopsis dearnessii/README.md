@@ -1,5 +1,4 @@
-Isariopsis dearnessii Bubák SPECIES
-=======
+# Isariopsis dearnessii Bubák SPECIES
 
 #### Status
 ACCEPTED

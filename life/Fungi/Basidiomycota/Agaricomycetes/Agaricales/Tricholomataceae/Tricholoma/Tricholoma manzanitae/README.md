@@ -1,5 +1,4 @@
-Tricholoma manzanitae T.J. Baroni & Ovrebo SPECIES
-=======
+# Tricholoma manzanitae T.J. Baroni & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

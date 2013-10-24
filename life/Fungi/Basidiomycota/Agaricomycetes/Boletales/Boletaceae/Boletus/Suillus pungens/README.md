@@ -1,5 +1,4 @@
-Suillus pungens Thiers & A.H. Sm., 1964 SPECIES
-=======
+# Suillus pungens Thiers & A.H. Sm., 1964 SPECIES
 
 #### Status
 DOUBTFUL

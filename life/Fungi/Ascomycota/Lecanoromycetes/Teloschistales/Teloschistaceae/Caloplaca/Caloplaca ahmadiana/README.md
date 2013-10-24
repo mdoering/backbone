@@ -1,5 +1,4 @@
-Caloplaca ahmadiana Poelt & Hinter. SPECIES
-=======
+# Caloplaca ahmadiana Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia sulcata Velen. SPECIES
-=======
+# Collybia sulcata Velen. SPECIES
 
 #### Status
 ACCEPTED

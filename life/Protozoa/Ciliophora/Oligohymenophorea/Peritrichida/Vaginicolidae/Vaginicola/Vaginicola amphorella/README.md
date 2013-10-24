@@ -1,5 +1,4 @@
-Vaginicola amphorella Maskell, 1888 SPECIES
-=======
+# Vaginicola amphorella Maskell, 1888 SPECIES
 
 #### Status
 ACCEPTED

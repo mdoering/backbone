@@ -1,5 +1,4 @@
-Galerina karstenii A.H. Sm. & Singer SPECIES
-=======
+# Galerina karstenii A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

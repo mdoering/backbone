@@ -1,5 +1,4 @@
-Myoviridae FAMILY
-=======
+# Myoviridae FAMILY
 
 #### Status
 ACCEPTED

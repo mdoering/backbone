@@ -1,5 +1,4 @@
-Entamoeba bovis (Liebetanz, 1905) SPECIES
-=======
+# Entamoeba bovis (Liebetanz, 1905) SPECIES
 
 #### Status
 ACCEPTED

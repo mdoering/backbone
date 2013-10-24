@@ -1,5 +1,4 @@
-Dactylaria indica G.P. Agarwal & Chowdhry SPECIES
-=======
+# Dactylaria indica G.P. Agarwal & Chowdhry SPECIES
 
 #### Status
 ACCEPTED

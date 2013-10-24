@@ -1,5 +1,4 @@
-Leptosphaeria medicaginis Sacc. SPECIES
-=======
+# Leptosphaeria medicaginis Sacc. SPECIES
 
 #### Status
 ACCEPTED

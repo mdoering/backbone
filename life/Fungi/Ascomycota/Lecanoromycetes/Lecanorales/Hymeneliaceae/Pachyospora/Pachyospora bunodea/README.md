@@ -1,5 +1,4 @@
-Pachyospora bunodea A. Massal. SPECIES
-=======
+# Pachyospora bunodea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

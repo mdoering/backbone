@@ -1,5 +1,4 @@
-Ceratium euarcuatum E.G. Jørgensen SPECIES
-=======
+# Ceratium euarcuatum E.G. Jørgensen SPECIES
 
 #### Status
 ACCEPTED

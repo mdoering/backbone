@@ -1,5 +1,4 @@
-Alliospora GENUS
-=======
+# Alliospora GENUS
 
 #### Status
 ACCEPTED

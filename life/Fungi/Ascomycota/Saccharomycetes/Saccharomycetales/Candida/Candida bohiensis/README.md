@@ -1,5 +1,4 @@
-Candida bohiensis S.O. Suh, N.H. Nguyen & M. Blackw. SPECIES
-=======
+# Candida bohiensis S.O. Suh, N.H. Nguyen & M. Blackw. SPECIES
 
 #### Status
 ACCEPTED

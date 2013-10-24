@@ -1,5 +1,4 @@
-Corethromyces argentinus Thaxt. SPECIES
-=======
+# Corethromyces argentinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

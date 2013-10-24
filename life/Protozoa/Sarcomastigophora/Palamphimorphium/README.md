@@ -1,5 +1,4 @@
-Palamphimorphium Ters & Deflandre, 1966 GENUS
-=======
+# Palamphimorphium Ters & Deflandre, 1966 GENUS
 
 #### Status
 ACCEPTED

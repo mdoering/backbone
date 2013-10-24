@@ -1,17 +1,16 @@
-Hormodochis Clem. GENUS
-=======
+# Trullula Cesati, 1852 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis) 163 (1909)
+null
 
 #### Original name
-Hormodochis Clem.
+null
 
 ### Remarks
 null

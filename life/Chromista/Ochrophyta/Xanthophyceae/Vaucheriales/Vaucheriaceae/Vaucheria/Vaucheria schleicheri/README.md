@@ -1,5 +1,4 @@
-Vaucheria schleicheri De Wildeman SPECIES
-=======
+# Vaucheria schleicheri De Wildeman SPECIES
 
 #### Status
 ACCEPTED

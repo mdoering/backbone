@@ -1,5 +1,4 @@
-Chaetomium spirochaete Palliser, 1910 SPECIES
-=======
+# Chaetomium spirochaete Palliser, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota subfulvastra Murrill SPECIES
-=======
+# Lepiota subfulvastra Murrill SPECIES
 
 #### Status
 ACCEPTED

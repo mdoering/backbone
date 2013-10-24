@@ -1,5 +1,4 @@
-Polyedryxium turritum Colbath, 1990 SPECIES
-=======
+# Polyedryxium turritum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

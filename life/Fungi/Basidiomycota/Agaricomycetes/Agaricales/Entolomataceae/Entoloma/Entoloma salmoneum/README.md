@@ -1,5 +1,4 @@
-Entoloma salmoneum (Peck) Sacc. SPECIES
-=======
+# Entoloma salmoneum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Natronolimnobius innermongolicus Itoh et al., 2005 SPECIES
-=======
+# Natronolimnobius innermongolicus Itoh et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

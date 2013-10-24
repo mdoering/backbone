@@ -1,5 +1,4 @@
-Pestalotia microsora Sacc. SPECIES
-=======
+# Pestalotia microsora Sacc. SPECIES
 
 #### Status
 ACCEPTED

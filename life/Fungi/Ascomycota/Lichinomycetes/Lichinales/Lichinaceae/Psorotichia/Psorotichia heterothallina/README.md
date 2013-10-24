@@ -1,5 +1,4 @@
-Psorotichia heterothallina Vain. SPECIES
-=======
+# Psorotichia heterothallina Vain. SPECIES
 
 #### Status
 ACCEPTED

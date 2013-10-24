@@ -1,5 +1,4 @@
-Septoria rumicis Trail SPECIES
-=======
+# Septoria rumicis Trail SPECIES
 
 #### Status
 ACCEPTED

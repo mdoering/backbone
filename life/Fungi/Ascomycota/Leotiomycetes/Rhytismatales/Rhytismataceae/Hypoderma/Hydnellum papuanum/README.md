@@ -1,5 +1,4 @@
-Hydnellum papuanum Maas Geest., 1971 SPECIES
-=======
+# Hydnellum papuanum Maas Geest., 1971 SPECIES
 
 #### Status
 DOUBTFUL

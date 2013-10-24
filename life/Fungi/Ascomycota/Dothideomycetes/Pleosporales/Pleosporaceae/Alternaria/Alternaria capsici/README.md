@@ -1,5 +1,4 @@
-Alternaria capsici E.G. Simmons SPECIES
-=======
+# Alternaria capsici E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

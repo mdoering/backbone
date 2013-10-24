@@ -1,5 +1,4 @@
-Peniophora frangulae (Bres.) Bourdot & Galzin SPECIES
-=======
+# Peniophora frangulae (Bres.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

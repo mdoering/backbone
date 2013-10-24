@@ -1,5 +1,4 @@
-Phlegmacium cumatile var. cumatile VARIETY
-=======
+# Phlegmacium cumatile (Fr.) Ricken SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium cumatile var. cumatile
+null
 
 ### Remarks
 null

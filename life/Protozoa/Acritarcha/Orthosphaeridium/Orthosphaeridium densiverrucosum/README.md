@@ -1,5 +1,4 @@
-Orthosphaeridium densiverrucosum Kjellström, 1971 SPECIES
-=======
+# Orthosphaeridium densiverrucosum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

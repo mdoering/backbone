@@ -1,5 +1,4 @@
-Verrucaria leptostegia C. Knight SPECIES
-=======
+# Verrucaria leptostegia C. Knight SPECIES
 
 #### Status
 ACCEPTED

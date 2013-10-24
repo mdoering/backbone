@@ -1,5 +1,4 @@
-Microcystis halophila var. macrococca (Hansgirg) P. Silva VARIETY
-=======
+# Microcystis halophila B. Martens & Pankow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella calycanthi Fairm. SPECIES
-=======
+# Aplosporella calycanthi Fairm. SPECIES
 
 #### Status
 ACCEPTED

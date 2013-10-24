@@ -1,5 +1,4 @@
-Pertusaria pachyplaca Nyl. SPECIES
-=======
+# Pertusaria pachyplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

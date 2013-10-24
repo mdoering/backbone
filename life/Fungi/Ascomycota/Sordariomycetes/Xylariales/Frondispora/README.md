@@ -1,5 +1,4 @@
-Frondispora K.D. Hyde GENUS
-=======
+# Frondispora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

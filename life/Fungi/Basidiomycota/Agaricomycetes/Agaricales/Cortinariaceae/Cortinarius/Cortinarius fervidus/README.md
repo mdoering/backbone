@@ -1,5 +1,4 @@
-Cortinarius fervidus P.D. Orton, 1964 SPECIES
-=======
+# Cortinarius fervidus P.D. Orton, 1964 SPECIES
 
 #### Status
 ACCEPTED

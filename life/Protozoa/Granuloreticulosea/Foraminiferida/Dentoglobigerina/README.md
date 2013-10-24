@@ -1,5 +1,4 @@
-Dentoglobigerina Blow, 1979 GENUS
-=======
+# Dentoglobigerina Blow, 1979 GENUS
 
 #### Status
 ACCEPTED

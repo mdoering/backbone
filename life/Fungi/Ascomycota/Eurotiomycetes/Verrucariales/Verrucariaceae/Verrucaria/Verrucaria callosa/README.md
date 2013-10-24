@@ -1,5 +1,4 @@
-Verrucaria callosa Kremp. SPECIES
-=======
+# Verrucaria callosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

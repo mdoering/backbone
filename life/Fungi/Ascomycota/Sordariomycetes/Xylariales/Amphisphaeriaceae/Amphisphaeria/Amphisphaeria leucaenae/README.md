@@ -1,5 +1,4 @@
-Amphisphaeria leucaenae Rehm SPECIES
-=======
+# Amphisphaeria leucaenae Rehm SPECIES
 
 #### Status
 ACCEPTED

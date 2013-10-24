@@ -1,5 +1,4 @@
-Caloplaca cirrochrooides (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca cirrochrooides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

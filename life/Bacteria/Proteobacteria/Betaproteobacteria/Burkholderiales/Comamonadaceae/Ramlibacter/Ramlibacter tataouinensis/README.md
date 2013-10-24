@@ -1,5 +1,4 @@
-Ramlibacter tataouinensis Heulin et al., 2003 SPECIES
-=======
+# Ramlibacter tataouinensis Heulin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

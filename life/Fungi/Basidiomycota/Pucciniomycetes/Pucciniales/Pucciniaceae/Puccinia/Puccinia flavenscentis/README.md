@@ -1,5 +1,4 @@
-Puccinia flavenscentis McAlpine SPECIES
-=======
+# Puccinia flavenscentis McAlpine SPECIES
 
 #### Status
 ACCEPTED

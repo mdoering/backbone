@@ -1,5 +1,4 @@
-Sydowiella juncina Spooner, 1984 SPECIES
-=======
+# Sydowiella juncina Spooner, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniocarpon torulosum (Fée) Fée SPECIES
-=======
+# Coniocarpon torulosum (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

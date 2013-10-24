@@ -1,5 +1,4 @@
-Porina sclerotium (Fée) Fée SPECIES
-=======
+# Porina sclerotium (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

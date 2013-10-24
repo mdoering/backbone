@@ -1,5 +1,4 @@
-Mycena strobilinoidea Peck SPECIES
-=======
+# Mycena strobilinoidea Peck SPECIES
 
 #### Status
 ACCEPTED

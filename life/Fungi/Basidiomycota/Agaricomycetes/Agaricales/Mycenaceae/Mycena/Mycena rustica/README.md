@@ -1,5 +1,4 @@
-Mycena rustica Corner SPECIES
-=======
+# Mycena rustica Corner SPECIES
 
 #### Status
 ACCEPTED

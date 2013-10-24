@@ -1,5 +1,4 @@
-Phoma rigida Penz. SPECIES
-=======
+# Phoma rigida Penz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otthia deviata Syd. SPECIES
-=======
+# Otthia deviata Syd. SPECIES
 
 #### Status
 ACCEPTED

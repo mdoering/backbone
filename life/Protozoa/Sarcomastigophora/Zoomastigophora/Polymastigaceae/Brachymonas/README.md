@@ -1,5 +1,4 @@
-Brachymonas Grassé, 1952 GENUS
-=======
+# Brachymonas Grassé, 1952 GENUS
 
 #### Status
 ACCEPTED

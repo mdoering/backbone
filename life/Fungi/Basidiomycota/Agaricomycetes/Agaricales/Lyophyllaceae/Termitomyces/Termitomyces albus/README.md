@@ -1,5 +1,4 @@
-Termitomyces albus (Peck) L.D. Gómez SPECIES
-=======
+# Termitomyces albus (Peck) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia erysibella (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia erysibella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

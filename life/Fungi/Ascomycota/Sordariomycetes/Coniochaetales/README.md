@@ -1,5 +1,4 @@
-Coniochaetales Huhndorf, A.N. Mill. & F.A. Fernández ORDER
-=======
+# Coniochaetales Huhndorf, A.N. Mill. & F.A. Fernández ORDER
 
 #### Status
 ACCEPTED

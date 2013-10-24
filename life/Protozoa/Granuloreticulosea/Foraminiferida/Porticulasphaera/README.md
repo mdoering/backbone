@@ -1,5 +1,4 @@
-Porticulasphaera Bolli, Loeblich & Tappan, 1957 GENUS
-=======
+# Porticulasphaera Bolli, Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

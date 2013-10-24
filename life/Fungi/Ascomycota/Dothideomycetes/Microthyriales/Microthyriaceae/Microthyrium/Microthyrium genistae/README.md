@@ -1,5 +1,4 @@
-Microthyrium genistae Niessl SPECIES
-=======
+# Microthyrium genistae Niessl SPECIES
 
 #### Status
 ACCEPTED

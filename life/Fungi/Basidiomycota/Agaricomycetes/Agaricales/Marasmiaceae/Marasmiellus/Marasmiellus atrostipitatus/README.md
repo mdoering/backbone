@@ -1,5 +1,4 @@
-Marasmiellus atrostipitatus Har. Takah. SPECIES
-=======
+# Marasmiellus atrostipitatus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

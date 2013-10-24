@@ -1,5 +1,4 @@
-Ustilago austro-africana Vánky & C. Vánky, 1999 SPECIES
-=======
+# Ustilago austro-africana Vánky & C. Vánky, 1999 SPECIES
 
 #### Status
 ACCEPTED

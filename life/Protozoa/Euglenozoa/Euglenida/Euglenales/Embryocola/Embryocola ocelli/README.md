@@ -1,5 +1,4 @@
-Embryocola ocelli Michajlow SPECIES
-=======
+# Embryocola ocelli Michajlow SPECIES
 
 #### Status
 ACCEPTED

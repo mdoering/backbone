@@ -1,11 +1,10 @@
-Usnea baileyi subsp. baileyi SUBSPECIES
-=======
+# Usnea baileyi (Stirt.) Zahlbr., 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

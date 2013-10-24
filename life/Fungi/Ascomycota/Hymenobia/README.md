@@ -1,17 +1,16 @@
-Hymenobiella Triebel GENUS
-=======
+# Hymenobia Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 35: 219 (1989)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 2: 338 (1854)
 
 #### Original name
-Hymenobiella Triebel
+Hymenobia Nyl.
 
 ### Remarks
 null

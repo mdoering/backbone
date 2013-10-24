@@ -1,5 +1,4 @@
-Clavaria militaris Batsch SPECIES
-=======
+# Clavaria militaris Batsch SPECIES
 
 #### Status
 ACCEPTED

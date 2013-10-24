@@ -1,5 +1,4 @@
-Amycolatopsis marina Bian, Li, Wang, Song, Liu, Dai, Ren, Gao, Hu, Liu, Li & Zhang, 2009 SPECIES
-=======
+# Amycolatopsis marina Bian, Li, Wang, Song, Liu, Dai, Ren, Gao, Hu, Liu, Li & Zhang, 2009 SPECIES
 
 #### Status
 ACCEPTED

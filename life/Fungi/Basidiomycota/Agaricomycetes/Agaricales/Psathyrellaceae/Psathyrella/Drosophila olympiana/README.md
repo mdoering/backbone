@@ -1,5 +1,4 @@
-Drosophila olympiana (A.H. Sm.) Kühner & Romagn. SPECIES
-=======
+# Drosophila olympiana (A.H. Sm.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina balanseana P. Karst. & Roum. SPECIES
-=======
+# Asterina balanseana P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

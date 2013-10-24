@@ -1,5 +1,4 @@
-Phyllosticta cryptocaryae Henn. SPECIES
-=======
+# Phyllosticta cryptocaryae Henn. SPECIES
 
 #### Status
 ACCEPTED

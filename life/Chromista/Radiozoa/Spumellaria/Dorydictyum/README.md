@@ -1,5 +1,4 @@
-Dorydictyum Hinde, 1890 GENUS
-=======
+# Dorydictyum Hinde, 1890 GENUS
 
 #### Status
 ACCEPTED

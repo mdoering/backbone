@@ -1,5 +1,4 @@
-Sclerotium hypnophilum Saut. SPECIES
-=======
+# Sclerotium hypnophilum Saut. SPECIES
 
 #### Status
 ACCEPTED

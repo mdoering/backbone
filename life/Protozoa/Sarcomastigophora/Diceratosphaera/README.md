@@ -1,5 +1,4 @@
-Diceratosphaera Cordey, 1998 GENUS
-=======
+# Diceratosphaera Cordey, 1998 GENUS
 
 #### Status
 ACCEPTED

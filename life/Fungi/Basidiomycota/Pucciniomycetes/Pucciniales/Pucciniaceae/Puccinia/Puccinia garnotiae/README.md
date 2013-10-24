@@ -1,5 +1,4 @@
-Puccinia garnotiae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Puccinia garnotiae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

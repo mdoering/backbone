@@ -1,5 +1,4 @@
-Prediscosphaera lata (Bukry, 1969) Bukry, 1973 SPECIES
-=======
+# Prediscosphaera lata (Bukry, 1969) Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

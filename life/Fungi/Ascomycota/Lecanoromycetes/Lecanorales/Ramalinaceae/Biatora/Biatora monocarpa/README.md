@@ -1,5 +1,4 @@
-Biatora monocarpa SPECIES
-=======
+# Biatora monocarpa SPECIES
 
 #### Status
 ACCEPTED

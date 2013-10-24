@@ -1,5 +1,4 @@
-Coniosporium notatum (Corda) Sacc. SPECIES
-=======
+# Coniosporium notatum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

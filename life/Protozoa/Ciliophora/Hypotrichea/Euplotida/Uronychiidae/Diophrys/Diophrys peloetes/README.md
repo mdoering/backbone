@@ -1,5 +1,4 @@
-Diophrys peloetes Borror, 1965 SPECIES
-=======
+# Diophrys peloetes Borror, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium fabae anon. SPECIES
-=======
+# Fusarium fabae anon. SPECIES
 
 #### Status
 ACCEPTED

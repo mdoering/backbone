@@ -1,5 +1,4 @@
-Buellia olivaceofusca (Anzi) Zahlbr. SPECIES
-=======
+# Buellia olivaceofusca (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas trueperi Kämpfer et al., 1997 SPECIES
-=======
+# Sphingomonas trueperi Kämpfer et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

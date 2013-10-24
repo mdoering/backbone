@@ -1,5 +1,4 @@
-Cephaloscypha Agerer GENUS
-=======
+# Cephaloscypha Agerer GENUS
 
 #### Status
 ACCEPTED

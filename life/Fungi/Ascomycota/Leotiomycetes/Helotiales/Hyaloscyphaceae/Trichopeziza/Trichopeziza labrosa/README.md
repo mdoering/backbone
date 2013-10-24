@@ -1,5 +1,4 @@
-Trichopeziza labrosa (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Trichopeziza labrosa (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia imbricata (Hook.) Kuntze SPECIES
-=======
+# Tubercularia imbricata (Hook.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium arcautei Unamuno SPECIES
-=======
+# Helminthosporium arcautei Unamuno SPECIES
 
 #### Status
 ACCEPTED

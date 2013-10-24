@@ -1,5 +1,4 @@
-Peziza riederi Weinm. SPECIES
-=======
+# Peziza riederi Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella nivalis R. Bauer SPECIES
-=======
+# Sphaerella nivalis R. Bauer SPECIES
 
 #### Status
 ACCEPTED

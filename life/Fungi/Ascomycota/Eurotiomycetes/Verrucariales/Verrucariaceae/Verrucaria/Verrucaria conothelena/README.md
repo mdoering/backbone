@@ -1,5 +1,4 @@
-Verrucaria conothelena Nyl. SPECIES
-=======
+# Verrucaria conothelena Nyl. SPECIES
 
 #### Status
 ACCEPTED

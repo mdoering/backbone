@@ -1,5 +1,4 @@
-Dicaeoma ruelleae (Berk. & Broome) Kuntze SPECIES
-=======
+# Dicaeoma ruelleae (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

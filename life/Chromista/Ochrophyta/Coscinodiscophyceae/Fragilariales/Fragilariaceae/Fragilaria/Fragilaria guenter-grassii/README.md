@@ -1,5 +1,4 @@
-Fragilaria guenter-grassii Witkowski & Lange-Bertalot SPECIES
-=======
+# Fragilaria guenter-grassii Witkowski & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

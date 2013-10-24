@@ -1,5 +1,4 @@
-Puccinia angustatoides R. Stone SPECIES
-=======
+# Puccinia angustatoides R. Stone SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora floridea Berk. & Broome SPECIES
-=======
+# Thelephora floridea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

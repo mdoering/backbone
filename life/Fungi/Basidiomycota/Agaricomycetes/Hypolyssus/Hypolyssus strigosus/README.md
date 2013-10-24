@@ -1,5 +1,4 @@
-Hypolyssus strigosus (Wallr.) Kuntze SPECIES
-=======
+# Hypolyssus strigosus (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella tiarella (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyrella tiarella (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gymnosporangium wenshanense F.L. Tai, 1947 SPECIES
-=======
+# Roestelia wenshanensis (F.L. Tai) F. Kern, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revised Taxonomic Account of Gymnosporangium (Univ. Park & London) 91 (1973)
 
 #### Original name
 Gymnosporangium wenshanense F.L. Tai, 1947

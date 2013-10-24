@@ -1,5 +1,4 @@
-Lepidosphaeria Parg.-Leduc GENUS
-=======
+# Lepidosphaeria Parg.-Leduc GENUS
 
 #### Status
 ACCEPTED

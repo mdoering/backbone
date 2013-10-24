@@ -1,5 +1,4 @@
-Craterolechia lanuginosa A. Massal. SPECIES
-=======
+# Craterolechia lanuginosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

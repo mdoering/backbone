@@ -1,5 +1,4 @@
-Phoma macrocapsa Trail, 1886 SPECIES
-=======
+# Phoma macrocapsa Trail, 1886 SPECIES
 
 #### Status
 ACCEPTED

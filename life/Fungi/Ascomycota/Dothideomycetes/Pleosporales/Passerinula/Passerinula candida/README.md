@@ -1,5 +1,4 @@
-Passerinula candida Sacc., 1875 SPECIES
-=======
+# Passerinula candida Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

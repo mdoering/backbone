@@ -1,5 +1,4 @@
-Cothurnia rheotypica Stiller, 1931 SPECIES
-=======
+# Cothurnia rheotypica Stiller, 1931 SPECIES
 
 #### Status
 ACCEPTED

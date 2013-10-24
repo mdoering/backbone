@@ -1,5 +1,4 @@
-Lithostrobus hexagonalis Haeckel, 1887 SPECIES
-=======
+# Lithostrobus hexagonalis Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

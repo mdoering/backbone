@@ -1,14 +1,13 @@
-Lepiota glabridisca Sundb., 1979 SPECIES
-=======
+# Leucoagaricus glabridiscus (Sundb.) Wuilb., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 8(2): 447 (1979)
+Docums Mycol. 17(no. 65): 46 (1986)
 
 #### Original name
 Lepiota glabridisca Sundb., 1979

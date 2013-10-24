@@ -1,5 +1,4 @@
-Acaulospora longula Spain & N.C. Schenck, 1984 SPECIES
-=======
+# Acaulospora longula Spain & N.C. Schenck, 1984 SPECIES
 
 #### Status
 ACCEPTED

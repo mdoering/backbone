@@ -1,5 +1,4 @@
-Retecapsa M.Black, 1971 GENUS
-=======
+# Retecapsa M.Black, 1971 GENUS
 
 #### Status
 ACCEPTED

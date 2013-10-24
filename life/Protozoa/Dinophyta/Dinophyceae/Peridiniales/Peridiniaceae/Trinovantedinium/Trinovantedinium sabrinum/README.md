@@ -1,5 +1,4 @@
-Trinovantedinium sabrinum P. C. Reid SPECIES
-=======
+# Trinovantedinium sabrinum P. C. Reid SPECIES
 
 #### Status
 ACCEPTED

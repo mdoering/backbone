@@ -1,5 +1,4 @@
-Ellisiopsis GENUS
-=======
+# Ellisiopsis GENUS
 
 #### Status
 ACCEPTED

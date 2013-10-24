@@ -1,5 +1,4 @@
-Monoicomyces plagiusae Thaxt. SPECIES
-=======
+# Monoicomyces plagiusae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

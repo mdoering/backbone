@@ -1,8 +1,7 @@
-Erythroconis litoralis Oersted SPECIES
-=======
+# Merismopedia litoralis (Oersted) Rabenhorst SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

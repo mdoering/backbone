@@ -1,5 +1,4 @@
-Torula fuckelii Sacc. SPECIES
-=======
+# Torula fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

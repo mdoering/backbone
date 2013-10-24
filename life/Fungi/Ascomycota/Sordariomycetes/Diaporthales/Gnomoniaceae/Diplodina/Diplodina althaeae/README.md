@@ -1,5 +1,4 @@
-Diplodina althaeae Hollós SPECIES
-=======
+# Diplodina althaeae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria bryophila (Roberge ex Desm.) Sacc. SPECIES
-=======
+# Nectria bryophila (Roberge ex Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

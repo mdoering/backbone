@@ -1,5 +1,4 @@
-Russula polychroma Singer ex Hora SPECIES
-=======
+# Russula polychroma Singer ex Hora SPECIES
 
 #### Status
 ACCEPTED

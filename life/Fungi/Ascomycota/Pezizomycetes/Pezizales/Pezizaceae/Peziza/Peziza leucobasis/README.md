@@ -1,5 +1,4 @@
-Peziza leucobasis Peck SPECIES
-=======
+# Peziza leucobasis Peck SPECIES
 
 #### Status
 ACCEPTED

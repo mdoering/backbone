@@ -1,5 +1,4 @@
-Coniochaeta cymbiformispora T. Yokoy. & Tad. Ito SPECIES
-=======
+# Coniochaeta cymbiformispora T. Yokoy. & Tad. Ito SPECIES
 
 #### Status
 ACCEPTED

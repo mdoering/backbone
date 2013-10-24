@@ -1,5 +1,4 @@
-Coelothauma Haeckel, 1879 GENUS
-=======
+# Coelothauma Haeckel, 1879 GENUS
 
 #### Status
 ACCEPTED

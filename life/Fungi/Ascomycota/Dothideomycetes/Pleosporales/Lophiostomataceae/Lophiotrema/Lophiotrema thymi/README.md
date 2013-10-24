@@ -1,5 +1,4 @@
-Lophiotrema thymi Fabre SPECIES
-=======
+# Lophiotrema thymi Fabre SPECIES
 
 #### Status
 ACCEPTED

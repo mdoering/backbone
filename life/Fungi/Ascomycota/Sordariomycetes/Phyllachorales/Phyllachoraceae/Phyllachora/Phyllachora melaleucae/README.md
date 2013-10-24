@@ -1,5 +1,4 @@
-Phyllachora melaleucae Syd. & P. Syd., 1904 SPECIES
-=======
+# Phyllachora melaleucae Syd. & P. Syd., 1904 SPECIES
 
 #### Status
 ACCEPTED

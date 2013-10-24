@@ -1,5 +1,4 @@
-Olpidiella GENUS
-=======
+# Olpidiella GENUS
 
 #### Status
 ACCEPTED

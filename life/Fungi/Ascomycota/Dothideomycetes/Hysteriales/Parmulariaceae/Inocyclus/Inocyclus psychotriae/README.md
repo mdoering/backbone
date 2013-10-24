@@ -1,17 +1,16 @@
-Hysterostomella psychotriae Syd. & P. Syd., 1913 SPECIES
-=======
+# Inocyclus psychotriae (Syd. & P. Syd.) Theiss. & Syd, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(3/4): 211 (1915)
 
 #### Original name
-null
+Inocyclus psychotriae (Syd. & P. Syd.) Theiss. & Syd, 1915
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acanthothecis aquilonia A. W. Archer & Elix SPECIES
-=======
+# Acanthothecis aquilonia A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

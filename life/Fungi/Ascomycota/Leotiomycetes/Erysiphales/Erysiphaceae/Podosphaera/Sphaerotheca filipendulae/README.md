@@ -1,5 +1,4 @@
-Sphaerotheca filipendulae Z.Y. Zhao SPECIES
-=======
+# Sphaerotheca filipendulae Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyochaeta illinoensis (Hewings & J.L. Crane) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta illinoensis (Hewings & J.L. Crane) Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

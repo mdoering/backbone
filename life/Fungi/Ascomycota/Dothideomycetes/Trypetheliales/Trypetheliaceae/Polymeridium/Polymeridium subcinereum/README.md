@@ -1,5 +1,4 @@
-Polymeridium subcinereum (Nyl.) R. C. Harris SPECIES
-=======
+# Polymeridium subcinereum (Nyl.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

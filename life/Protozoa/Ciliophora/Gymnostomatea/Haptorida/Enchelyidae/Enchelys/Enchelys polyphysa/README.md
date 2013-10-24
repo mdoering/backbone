@@ -1,5 +1,4 @@
-Enchelys polyphysa SPECIES
-=======
+# Enchelys polyphysa SPECIES
 
 #### Status
 ACCEPTED

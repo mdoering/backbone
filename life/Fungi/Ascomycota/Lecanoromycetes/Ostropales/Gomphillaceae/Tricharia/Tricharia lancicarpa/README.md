@@ -1,5 +1,4 @@
-Tricharia lancicarpa Kalb & Vezda SPECIES
-=======
+# Tricharia lancicarpa Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

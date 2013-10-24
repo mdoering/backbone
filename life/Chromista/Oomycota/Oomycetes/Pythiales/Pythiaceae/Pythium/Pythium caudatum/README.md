@@ -1,5 +1,4 @@
-Pythium caudatum (G.L. Barron) M.W. Dick, 2001 SPECIES
-=======
+# Pythium caudatum (G.L. Barron) M.W. Dick, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon inconspicuum Oxner SPECIES
-=======
+# Endocarpon inconspicuum Oxner SPECIES
 
 #### Status
 ACCEPTED

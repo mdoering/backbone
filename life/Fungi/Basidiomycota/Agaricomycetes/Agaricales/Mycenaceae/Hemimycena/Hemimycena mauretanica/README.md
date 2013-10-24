@@ -1,17 +1,16 @@
-Mycena mauretanica var. mauretanica VARIETY
-=======
+# Hemimycena mauretanica (Maire) Singer, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 639 (1938)
+Annls mycol. 41(1/3): 121 (1943)
 
 #### Original name
-Mycena mauretanica var. mauretanica
+Omphalia mauretanica Maire, 1928
 
 ### Remarks
 null

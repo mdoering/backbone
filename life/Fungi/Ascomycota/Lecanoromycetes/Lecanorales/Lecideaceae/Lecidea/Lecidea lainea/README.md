@@ -1,5 +1,4 @@
-Lecidea lainea SPECIES
-=======
+# Lecidea lainea SPECIES
 
 #### Status
 ACCEPTED

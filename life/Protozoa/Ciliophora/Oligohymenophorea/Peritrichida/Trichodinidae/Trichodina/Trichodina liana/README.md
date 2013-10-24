@@ -1,5 +1,4 @@
-Trichodina liana Xu, Song & Warren, 1999 SPECIES
-=======
+# Trichodina liana Xu, Song & Warren, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea apiculata Cooke & Peck SPECIES
-=======
+# Hypocrea apiculata Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

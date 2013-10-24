@@ -1,5 +1,4 @@
-Pleospora hesperidearum Catt. SPECIES
-=======
+# Pleospora hesperidearum Catt. SPECIES
 
 #### Status
 ACCEPTED

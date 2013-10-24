@@ -1,14 +1,13 @@
-Pleomassaria carpini (Fuckel) Sacc. SPECIES
-=======
+# Splanchnonema carpini (Fuckel) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 2: 240 (1883)
+Mycotaxon 49: 139 (1993)
 
 #### Original name
 null

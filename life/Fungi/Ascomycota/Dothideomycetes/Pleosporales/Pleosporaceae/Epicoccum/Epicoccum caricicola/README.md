@@ -1,5 +1,4 @@
-Epicoccum caricicola Schwein. SPECIES
-=======
+# Epicoccum caricicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

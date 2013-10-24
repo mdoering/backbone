@@ -1,5 +1,4 @@
-Loxophyllum compressum Dragesco, 1965 SPECIES
-=======
+# Loxophyllum compressum Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

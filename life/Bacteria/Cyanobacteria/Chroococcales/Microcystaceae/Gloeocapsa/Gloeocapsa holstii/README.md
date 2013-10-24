@@ -1,5 +1,4 @@
-Gloeocapsa holstii Hieronymus SPECIES
-=======
+# Gloeocapsa holstii Hieronymus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisia Sterki, 1878 GENUS
-=======
+# Amphisia Sterki, 1878 GENUS
 
 #### Status
 ACCEPTED

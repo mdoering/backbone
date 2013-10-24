@@ -1,5 +1,4 @@
-Bolivina rugosa Parr SPECIES
-=======
+# Bolivina rugosa Parr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia rhizomatophila Speg. SPECIES
-=======
+# Hendersonia rhizomatophila Speg. SPECIES
 
 #### Status
 ACCEPTED

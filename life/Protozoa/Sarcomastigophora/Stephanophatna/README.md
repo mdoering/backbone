@@ -1,5 +1,4 @@
-Stephanophatna Haeckel, 1881 GENUS
-=======
+# Stephanophatna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

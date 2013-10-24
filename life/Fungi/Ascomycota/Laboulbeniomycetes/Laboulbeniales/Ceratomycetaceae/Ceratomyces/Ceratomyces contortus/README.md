@@ -1,5 +1,4 @@
-Ceratomyces contortus Thaxt. SPECIES
-=======
+# Ceratomyces contortus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

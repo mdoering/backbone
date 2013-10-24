@@ -1,5 +1,4 @@
-Dictyostelium irregularis L.S. Olive, N. Nelson & Stoian. SPECIES
-=======
+# Dictyostelium irregularis L.S. Olive, N. Nelson & Stoian. SPECIES
 
 #### Status
 ACCEPTED

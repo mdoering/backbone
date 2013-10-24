@@ -1,5 +1,4 @@
-Phoma berteroae Hollós SPECIES
-=======
+# Phoma berteroae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus nebulosus Peck SPECIES
-=======
+# Boletus nebulosus Peck SPECIES
 
 #### Status
 ACCEPTED

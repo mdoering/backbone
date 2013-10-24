@@ -1,5 +1,4 @@
-Sentusidinium atlanticum (D. Habib) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Sentusidinium atlanticum (D. Habib) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

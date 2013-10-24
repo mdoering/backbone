@@ -1,5 +1,4 @@
-Balanion Wulff, 1919 GENUS
-=======
+# Balanion Wulff, 1919 GENUS
 
 #### Status
 ACCEPTED

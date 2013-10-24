@@ -1,5 +1,4 @@
-Psilocybe omiumsanctorum Singer SPECIES
-=======
+# Psilocybe omiumsanctorum Singer SPECIES
 
 #### Status
 ACCEPTED

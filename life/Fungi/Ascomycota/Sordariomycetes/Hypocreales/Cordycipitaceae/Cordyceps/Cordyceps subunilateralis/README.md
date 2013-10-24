@@ -1,5 +1,4 @@
-Cordyceps subunilateralis Henn. SPECIES
-=======
+# Cordyceps subunilateralis Henn. SPECIES
 
 #### Status
 ACCEPTED

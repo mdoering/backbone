@@ -1,5 +1,4 @@
-Wetzeliella gochtii Costa & Downie, 1976 SPECIES
-=======
+# Wetzeliella gochtii Costa & Downie, 1976 SPECIES
 
 #### Status
 ACCEPTED

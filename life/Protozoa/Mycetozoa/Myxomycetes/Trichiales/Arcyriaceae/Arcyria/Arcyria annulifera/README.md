@@ -1,5 +1,4 @@
-Arcyria annulifera G. Lister & Torrend, 1908 SPECIES
-=======
+# Arcyria annulifera G. Lister & Torrend, 1908 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia strobilina Spreng. SPECIES
-=======
+# Lecanora strobilina (Spreng.) Kieff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. veg. , Edn 16 4(1): 300 (1827)
+Bull. Soc. Hist. Nat. Metz 19: 74 (1895)
 
 #### Original name
 Parmelia strobilina Spreng.

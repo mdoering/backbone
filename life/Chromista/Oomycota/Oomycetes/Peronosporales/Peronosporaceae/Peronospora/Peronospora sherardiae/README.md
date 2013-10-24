@@ -1,14 +1,13 @@
-Peronospora calotheca var. sherardiae (Fuckel) de Bary, 1863 VARIETY
-=======
+# Peronospora sherardiae Fuckel, 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 20: 112 (1863)
+Fungi rhenani no. 31 (1863)
 
 #### Original name
 Peronospora sherardiae Fuckel, 1863

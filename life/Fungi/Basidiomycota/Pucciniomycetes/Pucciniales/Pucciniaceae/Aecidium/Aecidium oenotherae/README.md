@@ -1,5 +1,4 @@
-Aecidium oenotherae Mont. SPECIES
-=======
+# Aecidium oenotherae Mont. SPECIES
 
 #### Status
 ACCEPTED

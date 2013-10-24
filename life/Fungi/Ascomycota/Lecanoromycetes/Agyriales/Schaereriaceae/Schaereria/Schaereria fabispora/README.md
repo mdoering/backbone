@@ -1,5 +1,4 @@
-Schaereria fabispora Hertel & Zürn SPECIES
-=======
+# Schaereria fabispora Hertel & Zürn SPECIES
 
 #### Status
 ACCEPTED

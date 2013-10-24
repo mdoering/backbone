@@ -1,5 +1,4 @@
-Camarosporium hendersonioides Gonz. Frag. SPECIES
-=======
+# Camarosporium hendersonioides Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

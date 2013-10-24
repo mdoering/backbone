@@ -1,5 +1,4 @@
-Diaporthe ipomoeae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
-=======
+# Diaporthe ipomoeae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

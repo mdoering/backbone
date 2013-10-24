@@ -1,5 +1,4 @@
-Loflammiopsis Lücking & Kalb GENUS
-=======
+# Loflammiopsis Lücking & Kalb GENUS
 
 #### Status
 ACCEPTED

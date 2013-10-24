@@ -1,5 +1,4 @@
-Rosellinia seriata Hazsl. SPECIES
-=======
+# Rosellinia seriata Hazsl. SPECIES
 
 #### Status
 ACCEPTED

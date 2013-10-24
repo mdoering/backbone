@@ -1,5 +1,4 @@
-Bacidia carneorufa C. Knight SPECIES
-=======
+# Bacidia carneorufa C. Knight SPECIES
 
 #### Status
 ACCEPTED

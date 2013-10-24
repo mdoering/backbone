@@ -1,5 +1,4 @@
-Helotium platypus Hazsl. SPECIES
-=======
+# Helotium platypus Hazsl. SPECIES
 
 #### Status
 ACCEPTED

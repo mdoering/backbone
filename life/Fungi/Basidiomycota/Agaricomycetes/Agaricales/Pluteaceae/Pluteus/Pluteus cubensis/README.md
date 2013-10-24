@@ -1,5 +1,4 @@
-Pluteus cubensis (Murrill) Dennis SPECIES
-=======
+# Pluteus cubensis (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta heimiae Speg. SPECIES
-=======
+# Phyllosticta heimiae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe valparadisiensis Speg. SPECIES
-=======
+# Diaporthe valparadisiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

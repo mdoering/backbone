@@ -1,5 +1,4 @@
-Ophiobolus chilensis Speg. SPECIES
-=======
+# Ophiobolus chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

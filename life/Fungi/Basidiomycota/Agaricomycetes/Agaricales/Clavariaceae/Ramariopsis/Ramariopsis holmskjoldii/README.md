@@ -1,17 +1,16 @@
-Clavaria holmskioldii Oudem. SPECIES
-=======
+# Ramariopsis holmskjoldii (Oudem.) R.H. Petersen, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 70(3): 668 (1978)
 
 #### Original name
-Clavaria holmskioldii Oudem.
+Clavaria holmskjoldii Oudem., 1902
 
 ### Remarks
 null

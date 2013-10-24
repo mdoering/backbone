@@ -1,17 +1,16 @@
-Moniliella megachiliensis (Inglis & Sigler) Rosa & Lachance, 2009 SPECIES
-=======
+# Trichosporonoides megachiliensis G.D. Inglis & Sigler, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 84(4): 556 (1992)
 
 #### Original name
-null
+Trichosporonoides megachiliensis G.D. Inglis & Sigler, 1992
 
 ### Remarks
 null

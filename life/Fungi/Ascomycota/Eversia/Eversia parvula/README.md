@@ -1,5 +1,4 @@
-Eversia parvula Hol.-Jech. SPECIES
-=======
+# Eversia parvula Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

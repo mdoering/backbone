@@ -1,17 +1,16 @@
-Cercospora lecae-aecidicola Karan & Manohar. SPECIES
-=======
+# Cercospora leeae-aecidiicola Karan & Manohar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 7(4): 160 (1978)
 
 #### Original name
-Cercospora lecae-aecidicola Karan & Manohar.
+Cercospora leeae-aecidiicola Karan & Manohar.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Melanomphalia alpina (A.H. Sm.) Singer SPECIES
-=======
+# Melanomphalia alpina (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma coronariae Magnus SPECIES
-=======
+# Caeoma coronariae Magnus SPECIES
 
 #### Status
 ACCEPTED

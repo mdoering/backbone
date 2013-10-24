@@ -1,14 +1,13 @@
-Micropuccinia nova-zembliae (Jørst.) Arthur SPECIES
-=======
+# Micropuccinia novae-zembliae (Jørst.) Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7(12): 805 (1927)
 
 #### Original name
 Puccinia novae-zembliae Jørst.

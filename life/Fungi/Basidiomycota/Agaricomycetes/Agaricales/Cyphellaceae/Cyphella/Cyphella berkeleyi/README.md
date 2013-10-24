@@ -1,5 +1,4 @@
-Cyphella berkeleyi Fr. SPECIES
-=======
+# Cyphella berkeleyi Fr. SPECIES
 
 #### Status
 ACCEPTED

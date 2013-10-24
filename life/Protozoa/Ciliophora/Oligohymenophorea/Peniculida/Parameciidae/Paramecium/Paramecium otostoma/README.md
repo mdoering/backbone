@@ -1,5 +1,4 @@
-Paramecium otostoma SPECIES
-=======
+# Paramecium otostoma SPECIES
 
 #### Status
 ACCEPTED

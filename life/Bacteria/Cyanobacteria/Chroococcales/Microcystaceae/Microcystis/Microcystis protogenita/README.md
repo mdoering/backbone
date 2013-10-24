@@ -1,5 +1,4 @@
-Microcystis protogenita (Biasoletto) Cooke SPECIES
-=======
+# Microcystis protogenita (Biasoletto) Cooke SPECIES
 
 #### Status
 ACCEPTED

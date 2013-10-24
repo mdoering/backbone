@@ -1,5 +1,4 @@
-Valsa rostrupiana Munk SPECIES
-=======
+# Valsa rostrupiana Munk SPECIES
 
 #### Status
 ACCEPTED

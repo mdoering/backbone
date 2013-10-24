@@ -1,5 +1,4 @@
-Hexagonia amplexans Pat. SPECIES
-=======
+# Hexagonia amplexans Pat. SPECIES
 
 #### Status
 ACCEPTED

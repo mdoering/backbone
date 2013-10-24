@@ -1,17 +1,16 @@
-Puccinia caricissikokiana Morim. SPECIES
-=======
+# Puccinia caricis-sikokianae Morim. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 49(8): 228 (1974)
 
 #### Original name
-Puccinia caricissikokiana Morim.
+Puccinia caricis-sikokianae Morim.
 
 ### Remarks
 null

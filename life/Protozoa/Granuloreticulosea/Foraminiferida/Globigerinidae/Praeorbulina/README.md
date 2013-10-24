@@ -1,5 +1,4 @@
-Praeorbulina Olsson, 1964 GENUS
-=======
+# Praeorbulina Olsson, 1964 GENUS
 
 #### Status
 ACCEPTED

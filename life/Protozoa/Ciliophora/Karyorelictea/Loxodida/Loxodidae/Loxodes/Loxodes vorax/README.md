@@ -1,5 +1,4 @@
-Loxodes vorax Stokes, 1884 SPECIES
-=======
+# Loxodes vorax Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

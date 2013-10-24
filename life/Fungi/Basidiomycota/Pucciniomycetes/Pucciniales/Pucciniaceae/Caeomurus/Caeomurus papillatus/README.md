@@ -1,5 +1,4 @@
-Caeomurus papillatus (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Caeomurus papillatus (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

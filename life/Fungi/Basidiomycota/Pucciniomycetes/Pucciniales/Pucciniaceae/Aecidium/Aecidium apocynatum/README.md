@@ -1,5 +1,4 @@
-Aecidium apocynatum Schwein. SPECIES
-=======
+# Aecidium apocynatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

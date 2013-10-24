@@ -1,5 +1,4 @@
-Thelephora suberosa Durieu & Lév. SPECIES
-=======
+# Thelephora suberosa Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

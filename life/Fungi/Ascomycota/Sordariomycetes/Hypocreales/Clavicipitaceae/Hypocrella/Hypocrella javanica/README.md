@@ -1,5 +1,4 @@
-Hypocrella javanica (Penz. & Sacc.) Petch SPECIES
-=======
+# Hypocrella javanica (Penz. & Sacc.) Petch SPECIES
 
 #### Status
 ACCEPTED

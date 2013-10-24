@@ -1,5 +1,4 @@
-Acarospora islandica H. Magn. SPECIES
-=======
+# Acarospora islandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycocalicium pusiolum (Ach.) Räsänen SPECIES
-=======
+# Mycocalicium pusiolum (Ach.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus subcoprophilus Britzelm., 1891 SPECIES
-=======
+# Psilocybe subcoprophila (Britzelm.) Sacc., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. Südbayern 8: 9 (1891)
+Syll. fung. (Abellini) 11: 72 (1895)
 
 #### Original name
 Agaricus subcoprophilus Britzelm., 1891

@@ -1,5 +1,4 @@
-Atelocauda Arthur & Cummins GENUS
-=======
+# Atelocauda Arthur & Cummins GENUS
 
 #### Status
 ACCEPTED

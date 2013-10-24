@@ -1,17 +1,16 @@
-Cortinarius xantho-lilacinus Eyssart. & Reumaux SPECIES
-=======
+# Cortinarius xantholilacinus Eyssart. & Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atlas des Cortinaires (Meyzieu) 10: 494 (2000)
 
 #### Original name
-Cortinarius xantho-lilacinus Eyssart. & Reumaux
+Cortinarius xantholilacinus Eyssart. & Reumaux
 
 ### Remarks
 null

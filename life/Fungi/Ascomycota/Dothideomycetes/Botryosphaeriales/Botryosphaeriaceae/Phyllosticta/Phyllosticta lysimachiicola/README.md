@@ -1,5 +1,4 @@
-Phyllosticta lysimachiicola Miura SPECIES
-=======
+# Phyllosticta lysimachiicola Miura SPECIES
 
 #### Status
 ACCEPTED

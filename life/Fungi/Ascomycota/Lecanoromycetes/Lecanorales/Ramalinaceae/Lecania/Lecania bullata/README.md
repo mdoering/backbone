@@ -1,5 +1,4 @@
-Lecania bullata Oxner SPECIES
-=======
+# Lecania bullata Oxner SPECIES
 
 #### Status
 ACCEPTED

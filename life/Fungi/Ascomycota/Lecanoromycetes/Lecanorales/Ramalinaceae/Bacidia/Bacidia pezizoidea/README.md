@@ -1,5 +1,4 @@
-Bacidia pezizoidea (Naegeli) Anzi SPECIES
-=======
+# Bacidia pezizoidea (Naegeli) Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia singeri J.C. Lindq. SPECIES
-=======
+# Puccinia singeri J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

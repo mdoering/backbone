@@ -1,5 +1,4 @@
-Paecilomyces nostocoides M.T. Dunn, 1983 SPECIES
-=======
+# Paecilomyces nostocoides M.T. Dunn, 1983 SPECIES
 
 #### Status
 ACCEPTED

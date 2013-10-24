@@ -1,5 +1,4 @@
-Artica villica Npv SPECIES
-=======
+# Artica villica Npv SPECIES
 
 #### Status
 ACCEPTED

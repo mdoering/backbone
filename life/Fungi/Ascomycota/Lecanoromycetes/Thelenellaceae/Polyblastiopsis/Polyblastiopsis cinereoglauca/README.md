@@ -1,5 +1,4 @@
-Polyblastiopsis cinereoglauca SPECIES
-=======
+# Polyblastiopsis cinereoglauca SPECIES
 
 #### Status
 ACCEPTED

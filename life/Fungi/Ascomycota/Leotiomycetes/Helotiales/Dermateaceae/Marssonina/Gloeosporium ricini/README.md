@@ -1,5 +1,4 @@
-Gloeosporium ricini Maubl. SPECIES
-=======
+# Gloeosporium ricini Maubl. SPECIES
 
 #### Status
 ACCEPTED

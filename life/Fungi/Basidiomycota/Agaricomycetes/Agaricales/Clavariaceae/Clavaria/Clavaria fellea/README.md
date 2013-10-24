@@ -1,5 +1,4 @@
-Clavaria fellea Peck SPECIES
-=======
+# Clavaria fellea Peck SPECIES
 
 #### Status
 ACCEPTED

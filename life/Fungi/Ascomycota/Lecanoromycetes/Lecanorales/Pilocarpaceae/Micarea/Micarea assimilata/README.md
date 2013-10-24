@@ -1,17 +1,16 @@
-Lecidea assimilata f. assimilata FORM
-=======
+# Micarea assimilata (Nyl.) Coppins SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 221 (1861)
+Bull. Br. Mus. nat. Hist. , Bot. 11(2): 114 (1983)
 
 #### Original name
-Lecidea assimilata f. assimilata
+Lecidea assimilata Nyl.
 
 ### Remarks
 null

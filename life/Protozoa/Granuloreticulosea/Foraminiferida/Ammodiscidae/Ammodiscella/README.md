@@ -1,5 +1,4 @@
-Ammodiscella Ireland, 1956 GENUS
-=======
+# Ammodiscella Ireland, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophium elegans H. Zogg, 1954 SPECIES
-=======
+# Lophium elegans H. Zogg, 1954 SPECIES
 
 #### Status
 ACCEPTED

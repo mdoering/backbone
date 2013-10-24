@@ -1,5 +1,4 @@
-Arthonia ravenelii Tuck. SPECIES
-=======
+# Arthonia ravenelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

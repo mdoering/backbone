@@ -1,5 +1,4 @@
-Vorticella longiseta Dietz, 1964 SPECIES
-=======
+# Vorticella longiseta Dietz, 1964 SPECIES
 
 #### Status
 ACCEPTED

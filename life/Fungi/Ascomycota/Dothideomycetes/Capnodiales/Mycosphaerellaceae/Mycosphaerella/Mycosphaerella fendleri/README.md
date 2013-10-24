@@ -1,5 +1,4 @@
-Mycosphaerella fendleri Tracy & Earle SPECIES
-=======
+# Mycosphaerella fendleri Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

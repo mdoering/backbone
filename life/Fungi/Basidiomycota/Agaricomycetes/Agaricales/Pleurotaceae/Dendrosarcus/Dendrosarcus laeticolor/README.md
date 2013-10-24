@@ -1,5 +1,4 @@
-Dendrosarcus laeticolor (Kalchbr.) Kuntze SPECIES
-=======
+# Dendrosarcus laeticolor (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

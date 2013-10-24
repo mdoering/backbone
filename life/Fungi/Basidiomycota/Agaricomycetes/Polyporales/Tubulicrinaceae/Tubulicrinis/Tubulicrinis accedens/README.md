@@ -1,14 +1,13 @@
-Peniophora glebulosa subsp. accedens Bourdot & Galzin SUBSPECIES
-=======
+# Tubulicrinis accedens (Bourdot & Galzin) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 386 (1913)
+Fungus, Wageningen 26: 14 (1956)
 
 #### Original name
 Peniophora glebulosa subsp. accedens Bourdot & Galzin

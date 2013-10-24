@@ -1,5 +1,4 @@
-Russula cupreola Sarnari SPECIES
-=======
+# Russula cupreola Sarnari SPECIES
 
 #### Status
 ACCEPTED

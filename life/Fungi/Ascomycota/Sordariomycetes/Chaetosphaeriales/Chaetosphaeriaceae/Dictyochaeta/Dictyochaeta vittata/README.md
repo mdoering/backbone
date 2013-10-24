@@ -1,5 +1,4 @@
-Dictyochaeta vittata Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta vittata Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caryospora obclavata Raja & Shearer, 2008 SPECIES
-=======
+# Caryospora obclavata Raja & Shearer, 2008 SPECIES
 
 #### Status
 ACCEPTED

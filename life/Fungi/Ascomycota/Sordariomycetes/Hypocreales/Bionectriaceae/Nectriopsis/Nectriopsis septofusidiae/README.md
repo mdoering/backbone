@@ -1,5 +1,4 @@
-Nectriopsis septofusidiae Samuels, 1988 SPECIES
-=======
+# Nectriopsis septofusidiae Samuels, 1988 SPECIES
 
 #### Status
 ACCEPTED

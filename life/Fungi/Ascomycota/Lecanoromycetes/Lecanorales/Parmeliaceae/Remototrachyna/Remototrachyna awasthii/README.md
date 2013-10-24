@@ -1,5 +1,4 @@
-Remototrachyna awasthii (Hale & Patw.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna awasthii (Hale & Patw.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

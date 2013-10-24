@@ -1,5 +1,4 @@
-Parmotrema lacteum Marcelli & Spielmann SPECIES
-=======
+# Parmotrema lacteum Marcelli & Spielmann SPECIES
 
 #### Status
 ACCEPTED

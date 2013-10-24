@@ -1,5 +1,4 @@
-Sesia incarnata (Schwein.) Kuntze SPECIES
-=======
+# Sesia incarnata (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

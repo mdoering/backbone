@@ -1,5 +1,4 @@
-Galera japonica Berk. & M.A. Curtis SPECIES
-=======
+# Galera japonica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

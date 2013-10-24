@@ -1,5 +1,4 @@
-Pocillaria cubae Kuntze SPECIES
-=======
+# Pocillaria cubae Kuntze SPECIES
 
 #### Status
 ACCEPTED

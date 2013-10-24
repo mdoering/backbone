@@ -1,5 +1,4 @@
-Laboulbenia perigonae T. Majewski & K. Sugiy. SPECIES
-=======
+# Laboulbenia perigonae T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

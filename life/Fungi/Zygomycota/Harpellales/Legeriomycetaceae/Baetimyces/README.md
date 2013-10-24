@@ -1,5 +1,4 @@
-Baetimyces L.G. Valle & Santam. GENUS
-=======
+# Baetimyces L.G. Valle & Santam. GENUS
 
 #### Status
 ACCEPTED

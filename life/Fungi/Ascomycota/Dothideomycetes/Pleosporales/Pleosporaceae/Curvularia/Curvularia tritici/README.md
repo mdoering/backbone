@@ -1,5 +1,4 @@
-Curvularia tritici S.M. Kumar & Nema SPECIES
-=======
+# Curvularia tritici S.M. Kumar & Nema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora hyalopilosa (R. Stratton) Cain SPECIES
-=======
+# Podospora hyalopilosa (R. Stratton) Cain SPECIES
 
 #### Status
 ACCEPTED

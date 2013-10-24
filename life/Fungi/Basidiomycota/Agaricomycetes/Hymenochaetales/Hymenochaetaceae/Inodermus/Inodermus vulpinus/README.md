@@ -1,5 +1,4 @@
-Inodermus vulpinus (Fr.) Quél. SPECIES
-=======
+# Inodermus vulpinus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shuttleworthia satelles Downes et al., 2002 SPECIES
-=======
+# Shuttleworthia satelles Downes et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

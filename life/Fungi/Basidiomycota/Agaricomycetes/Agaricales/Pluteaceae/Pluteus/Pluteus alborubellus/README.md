@@ -1,5 +1,4 @@
-Pluteus alborubellus (Mont.) Pat. SPECIES
-=======
+# Pluteus alborubellus (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

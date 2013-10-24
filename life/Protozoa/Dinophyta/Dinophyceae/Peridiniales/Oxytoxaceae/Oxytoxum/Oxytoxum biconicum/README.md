@@ -1,11 +1,10 @@
-Murrayella kofoidii Gaarder, 1954 SPECIES
-=======
+# Oxytoxum biconicum (Kofoid, 1907) Dodge & Saunders, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

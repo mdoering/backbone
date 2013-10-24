@@ -1,5 +1,4 @@
-Tricholoma eosinobasis Babos, Bohus & Vasas SPECIES
-=======
+# Tricholoma eosinobasis Babos, Bohus & Vasas SPECIES
 
 #### Status
 ACCEPTED

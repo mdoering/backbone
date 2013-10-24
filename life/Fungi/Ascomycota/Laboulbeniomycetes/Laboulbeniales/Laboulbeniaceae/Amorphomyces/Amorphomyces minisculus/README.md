@@ -1,5 +1,4 @@
-Amorphomyces minisculus Thaxt., 1931 SPECIES
-=======
+# Amorphomyces minisculus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca helygeoides (Vain.) Dalla Torre & Sarnth. SPECIES
-=======
+# Caloplaca helygeoides (Vain.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physarella oblonga var. oblonga (Berk. & M.A. Curtis) Morgan VARIETY
-=======
+# Physarella oblonga (Berk. & M.A. Curtis) Morgan, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Physarella oblonga var. oblonga (Berk. & M.A. Curtis) Morgan
+Trichamphora oblonga Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

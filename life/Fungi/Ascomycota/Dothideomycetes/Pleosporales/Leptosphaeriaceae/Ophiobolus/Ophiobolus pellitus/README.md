@@ -1,5 +1,4 @@
-Ophiobolus pellitus (Fuckel) Sacc. SPECIES
-=======
+# Ophiobolus pellitus (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

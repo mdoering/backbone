@@ -1,17 +1,16 @@
-Conocybe juniana var. juniana VARIETY
-=======
+# Conocybe juniana (Velen.) Hauskn. & Svrcek, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hausknecht, Öst. Z. Pilzk. 8: 46 (1999)
+null
 
 #### Original name
-Conocybe juniana var. juniana
+null
 
 ### Remarks
 null

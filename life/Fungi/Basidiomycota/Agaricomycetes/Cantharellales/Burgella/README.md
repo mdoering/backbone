@@ -1,5 +1,4 @@
-Burgella Diederich & Lawrey GENUS
-=======
+# Burgella Diederich & Lawrey GENUS
 
 #### Status
 ACCEPTED

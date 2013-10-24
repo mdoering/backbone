@@ -1,14 +1,13 @@
-Ascidium croceum Kremp. SPECIES
-=======
+# Ocellularia crocea (Kremp.) Overeem & D. Overeem SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 25 (1875)
+Bull. Jard. Bot. Buitenz, 3 Sér. 4: 118 (1922)
 
 #### Original name
 Ascidium croceum Kremp.

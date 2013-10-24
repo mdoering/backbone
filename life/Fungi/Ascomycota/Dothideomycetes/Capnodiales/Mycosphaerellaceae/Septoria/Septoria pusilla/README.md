@@ -1,5 +1,4 @@
-Septoria pusilla (Trail) Bubák SPECIES
-=======
+# Septoria pusilla (Trail) Bubák SPECIES
 
 #### Status
 ACCEPTED

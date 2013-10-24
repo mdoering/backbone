@@ -1,5 +1,4 @@
-Nectria chilensis (Speg.) Sacc. & Trotter SPECIES
-=======
+# Nectria chilensis (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

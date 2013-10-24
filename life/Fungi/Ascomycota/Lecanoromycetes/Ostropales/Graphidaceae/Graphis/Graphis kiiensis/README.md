@@ -1,5 +1,4 @@
-Graphis kiiensis Vain. SPECIES
-=======
+# Graphis kiiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

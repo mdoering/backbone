@@ -1,5 +1,4 @@
-Mycosyrinx microspora Cant., 1948 SPECIES
-=======
+# Mycosyrinx microspora Cant., 1948 SPECIES
 
 #### Status
 ACCEPTED

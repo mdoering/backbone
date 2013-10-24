@@ -1,5 +1,4 @@
-Achroomyces opalinus (P.H.B. Talbot) Wojewoda SPECIES
-=======
+# Achroomyces opalinus (P.H.B. Talbot) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

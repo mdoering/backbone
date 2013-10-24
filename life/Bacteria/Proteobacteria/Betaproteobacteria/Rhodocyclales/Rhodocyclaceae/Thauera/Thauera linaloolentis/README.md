@@ -1,5 +1,4 @@
-Thauera linaloolentis Foss & Harder, 1999 SPECIES
-=======
+# Thauera linaloolentis Foss & Harder, 1999 SPECIES
 
 #### Status
 ACCEPTED

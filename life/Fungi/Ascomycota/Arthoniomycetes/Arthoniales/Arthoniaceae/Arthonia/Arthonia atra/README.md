@@ -1,17 +1,16 @@
-Opegrapha stenocarpa Ach. SPECIES
-=======
+# Arthonia atra (Pers.) A. Schneid. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-K. Vetensk-Acad. Nya Handl. 100 (1809)
+null
 
 #### Original name
-Opegrapha stenocarpa Ach.
+Opegrapha atra Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetasbolisia erysiphoides Griffon & Maubl., 1918 SPECIES
-=======
+# Chaetasbolisia erysiphoides Griffon & Maubl., 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Priscoidella Solovieva, 1996 GENUS
-=======
+# Priscoidella Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cudoniella jezoensis S. Imai, 1934 SPECIES
-=======
+# Neocudoniella jezoensis (S. Imai) S. Imai, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lecanora cariosa Hue SPECIES
-=======
+# Lecanora cariosa Hue SPECIES
 
 #### Status
 ACCEPTED

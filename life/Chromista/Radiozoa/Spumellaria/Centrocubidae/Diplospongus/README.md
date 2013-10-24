@@ -1,5 +1,4 @@
-Diplospongus Mast, 1910 GENUS
-=======
+# Diplospongus Mast, 1910 GENUS
 
 #### Status
 ACCEPTED

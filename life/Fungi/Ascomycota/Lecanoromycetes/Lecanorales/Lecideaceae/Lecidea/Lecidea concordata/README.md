@@ -1,5 +1,4 @@
-Lecidea concordata Nyl. SPECIES
-=======
+# Lecidea concordata Nyl. SPECIES
 
 #### Status
 ACCEPTED

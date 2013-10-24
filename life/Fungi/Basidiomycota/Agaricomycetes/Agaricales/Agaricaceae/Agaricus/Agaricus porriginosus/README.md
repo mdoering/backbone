@@ -1,5 +1,4 @@
-Agaricus porriginosus Fr. SPECIES
-=======
+# Agaricus porriginosus Fr. SPECIES
 
 #### Status
 ACCEPTED

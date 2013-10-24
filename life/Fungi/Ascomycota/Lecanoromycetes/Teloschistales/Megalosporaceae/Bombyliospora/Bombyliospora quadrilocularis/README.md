@@ -1,5 +1,4 @@
-Bombyliospora quadrilocularis (Nyl.) A. Massal. SPECIES
-=======
+# Bombyliospora quadrilocularis (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

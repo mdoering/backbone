@@ -1,5 +1,4 @@
-Pontogeneia calospora (Pat.) Kohlm., 1975 SPECIES
-=======
+# Pontogeneia calospora (Pat.) Kohlm., 1975 SPECIES
 
 #### Status
 ACCEPTED

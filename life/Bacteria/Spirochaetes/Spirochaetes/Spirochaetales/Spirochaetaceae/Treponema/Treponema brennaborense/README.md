@@ -1,5 +1,4 @@
-Treponema brennaborense Schrank et al., 1999 SPECIES
-=======
+# Treponema brennaborense Schrank et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

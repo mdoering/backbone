@@ -1,5 +1,4 @@
-Balansia asclerotiaca Henn. SPECIES
-=======
+# Balansia asclerotiaca Henn. SPECIES
 
 #### Status
 ACCEPTED

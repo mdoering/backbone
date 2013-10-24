@@ -1,5 +1,4 @@
-Diporicellaesporites segmentatus Rouse & Mustard SPECIES
-=======
+# Diporicellaesporites segmentatus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

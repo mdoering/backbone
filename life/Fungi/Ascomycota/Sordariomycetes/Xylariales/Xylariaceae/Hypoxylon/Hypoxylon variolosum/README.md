@@ -1,5 +1,4 @@
-Hypoxylon variolosum (L.) J. Kickx f. SPECIES
-=======
+# Hypoxylon variolosum (L.) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

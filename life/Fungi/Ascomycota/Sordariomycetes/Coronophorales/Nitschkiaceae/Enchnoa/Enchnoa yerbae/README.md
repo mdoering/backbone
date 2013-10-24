@@ -1,5 +1,4 @@
-Enchnoa yerbae Speg. SPECIES
-=======
+# Enchnoa yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

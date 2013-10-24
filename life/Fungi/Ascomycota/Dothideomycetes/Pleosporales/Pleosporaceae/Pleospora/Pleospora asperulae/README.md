@@ -1,5 +1,4 @@
-Pleospora asperulae Pass. SPECIES
-=======
+# Pleospora asperulae Pass. SPECIES
 
 #### Status
 ACCEPTED

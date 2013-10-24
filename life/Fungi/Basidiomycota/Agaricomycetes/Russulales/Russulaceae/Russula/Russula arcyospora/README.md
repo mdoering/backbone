@@ -1,5 +1,4 @@
-Russula arcyospora Singer SPECIES
-=======
+# Russula arcyospora Singer SPECIES
 
 #### Status
 ACCEPTED

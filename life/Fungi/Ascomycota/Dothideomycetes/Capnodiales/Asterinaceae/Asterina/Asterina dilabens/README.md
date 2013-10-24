@@ -1,17 +1,16 @@
-Asterina dilabens var. dilabens Syd. & P. Syd. VARIETY
-=======
+# Asterina dilabens Syd. & P. Syd., 1904 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 2: 168 (1904)
 
 #### Original name
-Asterina dilabens var. dilabens Syd. & P. Syd.
+Asterina dilabens Syd. & P. Syd., 1904
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Baltisphaeridium exoticum Deunff, 1967 SPECIES
-=======
+# Baltisphaeridium exoticum Deunff, 1967 SPECIES
 
 #### Status
 ACCEPTED

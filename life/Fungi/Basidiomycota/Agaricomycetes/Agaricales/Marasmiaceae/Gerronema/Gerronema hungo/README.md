@@ -1,5 +1,4 @@
-Gerronema hungo (Henn.) Degreef & Eyi SPECIES
-=======
+# Gerronema hungo (Henn.) Degreef & Eyi SPECIES
 
 #### Status
 ACCEPTED

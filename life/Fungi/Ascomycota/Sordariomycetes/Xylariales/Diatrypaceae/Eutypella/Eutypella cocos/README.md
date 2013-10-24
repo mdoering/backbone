@@ -1,5 +1,4 @@
-Eutypella cocos Ferd. & Winge SPECIES
-=======
+# Eutypella cocos Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

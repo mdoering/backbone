@@ -1,5 +1,4 @@
-Rimosicysta aspera Marshall, 1989 SPECIES
-=======
+# Rimosicysta aspera Marshall, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon sertularia Ach. SPECIES
-=======
+# Stereocaulon sertularia Ach. SPECIES
 
 #### Status
 ACCEPTED

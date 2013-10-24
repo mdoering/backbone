@@ -1,5 +1,4 @@
-Tricapsula Wu, 1986 GENUS
-=======
+# Tricapsula Wu, 1986 GENUS
 
 #### Status
 ACCEPTED

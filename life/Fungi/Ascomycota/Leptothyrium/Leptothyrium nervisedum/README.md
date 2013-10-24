@@ -1,5 +1,4 @@
-Leptothyrium nervisedum Cole SPECIES
-=======
+# Leptothyrium nervisedum Cole SPECIES
 
 #### Status
 ACCEPTED

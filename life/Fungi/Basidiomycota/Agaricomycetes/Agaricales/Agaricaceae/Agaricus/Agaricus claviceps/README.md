@@ -1,5 +1,4 @@
-Agaricus claviceps Fr. SPECIES
-=======
+# Agaricus claviceps Fr. SPECIES
 
 #### Status
 ACCEPTED

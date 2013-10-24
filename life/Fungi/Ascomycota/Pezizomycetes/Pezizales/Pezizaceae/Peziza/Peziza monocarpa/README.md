@@ -1,5 +1,4 @@
-Peziza monocarpa Schumach. SPECIES
-=======
+# Peziza monocarpa Schumach. SPECIES
 
 #### Status
 ACCEPTED

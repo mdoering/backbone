@@ -1,5 +1,4 @@
-Balneatrix Dauga et al., 1993 GENUS
-=======
+# Balneatrix Dauga et al., 1993 GENUS
 
 #### Status
 ACCEPTED

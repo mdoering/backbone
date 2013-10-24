@@ -1,5 +1,4 @@
-Bulgaria bicolor Peck SPECIES
-=======
+# Bulgaria bicolor Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria petersii (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Aposphaeria petersii (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

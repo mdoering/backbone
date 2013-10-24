@@ -1,5 +1,4 @@
-Passalora flemingiae (X.J. Liu & Y.L. Guo) U. Braun SPECIES
-=======
+# Passalora flemingiae (X.J. Liu & Y.L. Guo) U. Braun SPECIES
 
 #### Status
 ACCEPTED

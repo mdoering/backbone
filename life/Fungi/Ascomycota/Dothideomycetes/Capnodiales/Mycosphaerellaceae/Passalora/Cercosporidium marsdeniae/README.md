@@ -1,5 +1,4 @@
-Cercosporidium marsdeniae Punith. & H.C. Evans SPECIES
-=======
+# Cercosporidium marsdeniae Punith. & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

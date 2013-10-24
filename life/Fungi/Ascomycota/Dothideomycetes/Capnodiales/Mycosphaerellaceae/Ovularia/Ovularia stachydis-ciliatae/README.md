@@ -1,5 +1,4 @@
-Ovularia stachydis-ciliatae Peck SPECIES
-=======
+# Ovularia stachydis-ciliatae Peck SPECIES
 
 #### Status
 ACCEPTED

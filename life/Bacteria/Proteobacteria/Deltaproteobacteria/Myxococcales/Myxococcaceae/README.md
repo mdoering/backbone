@@ -1,5 +1,4 @@
-Myxococcaceae FAMILY
-=======
+# Myxococcaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen jamaicensis (Ach.) Lam. SPECIES
-=======
+# Lichen jamaicensis (Ach.) Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon lorenzianum Anders SPECIES
-=======
+# Dermatocarpon lorenzianum Anders SPECIES
 
 #### Status
 ACCEPTED

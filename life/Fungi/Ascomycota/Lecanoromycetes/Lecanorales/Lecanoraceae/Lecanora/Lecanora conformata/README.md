@@ -1,5 +1,4 @@
-Lecanora conformata Vain. SPECIES
-=======
+# Lecanora conformata Vain. SPECIES
 
 #### Status
 ACCEPTED

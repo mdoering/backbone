@@ -1,5 +1,4 @@
-Sargassum serratum Nguyen Huu Dai, 2004 SPECIES
-=======
+# Sargassum serratum Nguyen Huu Dai, 2004 SPECIES
 
 #### Status
 ACCEPTED

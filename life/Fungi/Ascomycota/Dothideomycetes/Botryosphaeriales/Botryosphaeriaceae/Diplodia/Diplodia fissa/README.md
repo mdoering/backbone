@@ -1,5 +1,4 @@
-Diplodia fissa Durieu & Mont. SPECIES
-=======
+# Diplodia fissa Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

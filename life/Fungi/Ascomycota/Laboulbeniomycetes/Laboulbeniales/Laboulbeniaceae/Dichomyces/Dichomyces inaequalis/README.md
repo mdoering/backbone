@@ -1,5 +1,4 @@
-Dichomyces inaequalis Thaxt., 1894 SPECIES
-=======
+# Dichomyces inaequalis Thaxt., 1894 SPECIES
 
 #### Status
 ACCEPTED

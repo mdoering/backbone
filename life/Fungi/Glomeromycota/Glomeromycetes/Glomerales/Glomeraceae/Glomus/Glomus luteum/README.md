@@ -1,5 +1,4 @@
-Glomus luteum L.J. Kenn., J.C. Stutz & J.B. Morton, 1999 SPECIES
-=======
+# Glomus luteum L.J. Kenn., J.C. Stutz & J.B. Morton, 1999 SPECIES
 
 #### Status
 ACCEPTED

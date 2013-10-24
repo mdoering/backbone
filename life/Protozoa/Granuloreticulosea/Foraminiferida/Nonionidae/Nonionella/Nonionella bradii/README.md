@@ -1,8 +1,7 @@
-Nonion scapha f. bradii Chapman, 1917 FORM
-=======
+# Nonionella bradii (Chapman, 1917) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

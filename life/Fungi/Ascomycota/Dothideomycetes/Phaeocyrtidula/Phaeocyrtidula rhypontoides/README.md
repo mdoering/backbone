@@ -1,5 +1,4 @@
-Phaeocyrtidula rhypontoides SPECIES
-=======
+# Phaeocyrtidula rhypontoides SPECIES
 
 #### Status
 ACCEPTED

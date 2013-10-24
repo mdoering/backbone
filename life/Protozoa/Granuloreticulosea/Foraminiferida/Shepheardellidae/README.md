@@ -1,5 +1,4 @@
-Shepheardellidae FAMILY
-=======
+# Shepheardellidae FAMILY
 
 #### Status
 ACCEPTED

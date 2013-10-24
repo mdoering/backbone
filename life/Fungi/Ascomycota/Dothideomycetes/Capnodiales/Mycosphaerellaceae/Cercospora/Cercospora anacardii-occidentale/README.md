@@ -1,5 +1,4 @@
-Cercospora anacardii-occidentale Rangasw., Seshadri, Lucy Chann., Swamin. & Raghun. SPECIES
-=======
+# Cercospora anacardii-occidentale Rangasw., Seshadri, Lucy Chann., Swamin. & Raghun. SPECIES
 
 #### Status
 ACCEPTED

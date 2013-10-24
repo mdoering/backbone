@@ -1,14 +1,13 @@
-Trigonapsis H.A. Thomsen, 1980 GENUS
-=======
+# Trigonaspis H.A. Thomsen, 1980 GENUS
 
 #### Status
 ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phycologia 19 (3): 219.
 
 #### Original name
 null

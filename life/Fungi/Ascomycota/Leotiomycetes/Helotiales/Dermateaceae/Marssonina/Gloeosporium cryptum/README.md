@@ -1,5 +1,4 @@
-Gloeosporium cryptum Petch SPECIES
-=======
+# Gloeosporium cryptum Petch SPECIES
 
 #### Status
 ACCEPTED

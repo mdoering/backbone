@@ -1,5 +1,4 @@
-Diaporthella sphendamnina (Berk. & M.A. Curtis) Wehm. SPECIES
-=======
+# Diaporthella sphendamnina (Berk. & M.A. Curtis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

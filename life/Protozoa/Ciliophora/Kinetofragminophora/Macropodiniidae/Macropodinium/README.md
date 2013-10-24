@@ -1,5 +1,4 @@
-Macropodinium Dehority, 1996 GENUS
-=======
+# Macropodinium Dehority, 1996 GENUS
 
 #### Status
 ACCEPTED

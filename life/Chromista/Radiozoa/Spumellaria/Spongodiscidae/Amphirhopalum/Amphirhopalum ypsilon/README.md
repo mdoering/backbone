@@ -1,5 +1,4 @@
-Amphirhopalum ypsilon Haeckel, 1887 SPECIES
-=======
+# Amphirhopalum ypsilon Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

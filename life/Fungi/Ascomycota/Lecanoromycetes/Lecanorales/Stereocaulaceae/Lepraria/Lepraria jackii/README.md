@@ -1,5 +1,4 @@
-Lepraria jackii Tønsberg SPECIES
-=======
+# Lepraria jackii Tønsberg SPECIES
 
 #### Status
 ACCEPTED

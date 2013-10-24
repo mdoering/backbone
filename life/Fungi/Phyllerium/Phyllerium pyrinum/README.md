@@ -1,5 +1,4 @@
-Phyllerium pyrinum Fr. SPECIES
-=======
+# Phyllerium pyrinum Fr. SPECIES
 
 #### Status
 ACCEPTED

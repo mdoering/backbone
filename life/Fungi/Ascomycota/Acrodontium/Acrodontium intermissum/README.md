@@ -1,5 +1,4 @@
-Acrodontium intermissum de Hoog & V. Rao, 1975 SPECIES
-=======
+# Acrodontium intermissum de Hoog & V. Rao, 1975 SPECIES
 
 #### Status
 ACCEPTED

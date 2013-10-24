@@ -1,17 +1,16 @@
-Parmelia ducalis Jatta SPECIES
-=======
+# Hypotrachyna ducalis (Jatta) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 33 (1975)
 
 #### Original name
-null
+Parmelia ducalis Jatta
 
 ### Remarks
 null

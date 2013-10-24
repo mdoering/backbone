@@ -1,5 +1,4 @@
-Cothurnia inflata Stokes, 1893 SPECIES
-=======
+# Cothurnia inflata Stokes, 1893 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca phacodes (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca phacodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

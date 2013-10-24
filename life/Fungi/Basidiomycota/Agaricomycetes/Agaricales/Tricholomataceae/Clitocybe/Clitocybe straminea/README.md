@@ -1,5 +1,4 @@
-Clitocybe straminea Métrod SPECIES
-=======
+# Clitocybe straminea Métrod SPECIES
 
 #### Status
 ACCEPTED

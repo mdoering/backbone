@@ -1,5 +1,4 @@
-Lachnella pollinaria (Cooke) Seaver SPECIES
-=======
+# Lachnella pollinaria (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

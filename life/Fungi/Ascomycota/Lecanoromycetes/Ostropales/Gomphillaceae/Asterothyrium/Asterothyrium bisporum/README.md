@@ -1,5 +1,4 @@
-Asterothyrium bisporum L.I. Ferraro & Lücking SPECIES
-=======
+# Asterothyrium bisporum L.I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

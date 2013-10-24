@@ -1,14 +1,13 @@
-Limnochilde Kützing, 1843 GENUS
-=======
+# Aphanizomenon A.Morren ex Bornet & Flahault, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Sci. Nat. Bot. , ser. 7, 7: 241.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Rhopographus palmarum Höhn. SPECIES
-=======
+# Rhopographus palmarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

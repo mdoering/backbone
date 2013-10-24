@@ -1,5 +1,4 @@
-Agaricus bambusophilus Heinem. SPECIES
-=======
+# Agaricus bambusophilus Heinem. SPECIES
 
 #### Status
 ACCEPTED

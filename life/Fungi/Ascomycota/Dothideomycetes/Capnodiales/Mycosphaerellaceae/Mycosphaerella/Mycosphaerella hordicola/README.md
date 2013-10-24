@@ -1,5 +1,4 @@
-Mycosphaerella hordicola Hara SPECIES
-=======
+# Mycosphaerella hordicola Hara SPECIES
 
 #### Status
 ACCEPTED

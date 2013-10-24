@@ -1,14 +1,13 @@
-Dematium hispidulum subsp. hispidulum SUBSPECIES
-=======
+# Periconia hispidula (Pers.) E.W. Mason & M.B. Ellis, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 365 (1832)
+Mycol. Pap. 56: 112 (1953)
 
 #### Original name
 Conoplea hispidula Alb. & Schwein.

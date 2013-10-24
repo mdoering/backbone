@@ -1,5 +1,4 @@
-Coreomyces argentinensis Speg. SPECIES
-=======
+# Coreomyces argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

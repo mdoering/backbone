@@ -1,5 +1,4 @@
-Aecidium adenocauli Syd. & P. Syd. SPECIES
-=======
+# Aecidium adenocauli Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

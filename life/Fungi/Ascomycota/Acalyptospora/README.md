@@ -1,5 +1,4 @@
-Acalyptospora Desm. GENUS
-=======
+# Acalyptospora Desm. GENUS
 
 #### Status
 ACCEPTED

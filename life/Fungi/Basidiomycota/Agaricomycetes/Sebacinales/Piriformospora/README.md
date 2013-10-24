@@ -1,5 +1,4 @@
-Piriformospora Sav. Verma, Aj. Varma, Rexer, G. Kost & P. Franken GENUS
-=======
+# Piriformospora Sav. Verma, Aj. Varma, Rexer, G. Kost & P. Franken GENUS
 
 #### Status
 ACCEPTED

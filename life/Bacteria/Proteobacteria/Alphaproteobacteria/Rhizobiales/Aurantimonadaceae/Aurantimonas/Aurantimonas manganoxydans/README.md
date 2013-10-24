@@ -1,5 +1,4 @@
-Aurantimonas manganoxydans Anderson, Dick, Chu, Brauer, Cho & Tebo, 2009 SPECIES
-=======
+# Aurantimonas manganoxydans Anderson, Dick, Chu, Brauer, Cho & Tebo, 2009 SPECIES
 
 #### Status
 ACCEPTED

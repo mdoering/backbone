@@ -1,5 +1,4 @@
-Piricauda scorobylos R.T. Moore SPECIES
-=======
+# Piricauda scorobylos R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

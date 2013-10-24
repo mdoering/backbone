@@ -1,5 +1,4 @@
-Euglena incurva Matvienko SPECIES
-=======
+# Euglena incurva Matvienko SPECIES
 
 #### Status
 ACCEPTED

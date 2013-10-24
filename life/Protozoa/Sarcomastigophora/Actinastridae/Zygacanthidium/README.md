@@ -1,5 +1,4 @@
-Zygacanthidium Haeckel, 1887 GENUS
-=======
+# Zygacanthidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

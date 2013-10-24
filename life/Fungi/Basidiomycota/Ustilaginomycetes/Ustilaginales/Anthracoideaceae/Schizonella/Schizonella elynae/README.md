@@ -1,17 +1,16 @@
-Schizonella melanogramma elynae A. Blytt INFRASPECIFIC_NAME
-=======
+# Schizonella elynae (A. Blytt) Liro, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. , Ser. A 42: 308 (1936)
 
 #### Original name
-null
+Schizonella melanogramma (DC.) J. Schröt., 1877
 
 ### Remarks
 null

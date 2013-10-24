@@ -1,5 +1,4 @@
-Godronia rhois J.W. Groves SPECIES
-=======
+# Godronia rhois J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

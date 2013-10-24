@@ -1,5 +1,4 @@
-Entoloma metale (Romagn.) Dennis SPECIES
-=======
+# Entoloma metale (Romagn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

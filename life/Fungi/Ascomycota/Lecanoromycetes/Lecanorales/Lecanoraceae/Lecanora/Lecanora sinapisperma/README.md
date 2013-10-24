@@ -1,5 +1,4 @@
-Lecanora sinapisperma (Lam.) Nyl. SPECIES
-=======
+# Lecanora sinapisperma (Lam.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

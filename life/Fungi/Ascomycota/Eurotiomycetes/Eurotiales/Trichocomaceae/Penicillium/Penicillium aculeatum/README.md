@@ -1,17 +1,16 @@
-Penicillium aculeatum var. aculeatum VARIETY
-=======
+# Penicillium aculeatum Raper & Fennell, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 40(5): 535 (1948)
 
 #### Original name
-Penicillium aculeatum var. aculeatum
+Penicillium aculeatum Raper & Fennell, 1948
 
 ### Remarks
 null

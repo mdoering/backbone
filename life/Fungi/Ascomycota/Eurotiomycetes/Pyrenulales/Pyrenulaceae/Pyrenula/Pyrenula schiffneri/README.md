@@ -1,5 +1,4 @@
-Pyrenula schiffneri (Zahlbr.) Aptroot SPECIES
-=======
+# Pyrenula schiffneri (Zahlbr.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ciboria pseudotuberosa Rehm, 1890 SPECIES
-=======
+# Ciboria batschiana (Zopf) N.F. Buchw., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Augsburg 6: 28 (1890)
+Friesia 3: 255 (1947)
 
 #### Original name
-Ciboria pseudotuberosa Rehm, 1890
+Sclerotinia batschiana Zopf, 1880
 
 ### Remarks
 null

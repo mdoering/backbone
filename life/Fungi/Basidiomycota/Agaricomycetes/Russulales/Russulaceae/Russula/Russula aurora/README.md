@@ -1,17 +1,16 @@
-Russula aurora subsp. aurora SUBSPECIES
-=======
+# Russula aurora (Krombh.) Bres., 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fung. trident. 2: 93 (1892)
 
 #### Original name
-Russula aurora subsp. aurora
+Agaricus aurora Krombh., 1836
 
 ### Remarks
 null

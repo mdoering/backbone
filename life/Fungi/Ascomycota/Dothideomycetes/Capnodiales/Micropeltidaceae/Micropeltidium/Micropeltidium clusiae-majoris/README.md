@@ -1,5 +1,4 @@
-Micropeltidium clusiae-majoris (Bat. & A.F. Vital) Bat. SPECIES
-=======
+# Micropeltidium clusiae-majoris (Bat. & A.F. Vital) Bat. SPECIES
 
 #### Status
 ACCEPTED

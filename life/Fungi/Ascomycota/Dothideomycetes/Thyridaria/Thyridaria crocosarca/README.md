@@ -1,5 +1,4 @@
-Thyridaria crocosarca (Berk. & Broome) Cooke SPECIES
-=======
+# Thyridaria crocosarca (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

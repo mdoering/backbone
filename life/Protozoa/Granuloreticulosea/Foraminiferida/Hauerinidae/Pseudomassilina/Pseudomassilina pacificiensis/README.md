@@ -1,5 +1,4 @@
-Pseudomassilina pacificiensis (Cushman, 1924) SPECIES
-=======
+# Pseudomassilina pacificiensis (Cushman, 1924) SPECIES
 
 #### Status
 ACCEPTED

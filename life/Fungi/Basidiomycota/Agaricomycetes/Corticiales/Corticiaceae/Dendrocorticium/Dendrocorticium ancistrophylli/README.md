@@ -1,17 +1,16 @@
-Dendrocorticium ancystrophylli Boidin & Gilles SPECIES
-=======
+# Dendrocorticium ancistrophylli Boidin & Gilles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 19(3): 185 (1998)
 
 #### Original name
-Dendrocorticium ancystrophylli Boidin & Gilles
+Dendrocorticium ancistrophylli Boidin & Gilles
 
 ### Remarks
 null

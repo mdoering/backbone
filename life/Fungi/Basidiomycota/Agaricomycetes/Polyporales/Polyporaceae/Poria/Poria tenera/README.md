@@ -1,5 +1,4 @@
-Poria tenera P. Karst. SPECIES
-=======
+# Poria tenera P. Karst. SPECIES
 
 #### Status
 ACCEPTED

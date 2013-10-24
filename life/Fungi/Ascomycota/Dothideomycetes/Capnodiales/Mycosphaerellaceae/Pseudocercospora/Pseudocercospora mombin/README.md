@@ -1,17 +1,16 @@
-Pseudocercospora mombin var. mombin VARIETY
-=======
+# Pseudocercospora mombin (Petr. & Cif.) Deighton, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 140: 148 (1976)
 
 #### Original name
-null
+Cercospora mombin Petr. & Cif., 1932
 
 ### Remarks
 null

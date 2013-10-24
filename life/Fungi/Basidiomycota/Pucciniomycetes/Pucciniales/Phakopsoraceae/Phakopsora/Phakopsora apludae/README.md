@@ -1,5 +1,4 @@
-Phakopsora apludae M.S. Patil SPECIES
-=======
+# Phakopsora apludae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiliospora elegans (Hepp) A. Massal. SPECIES
-=======
+# Chiliospora elegans (Hepp) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus santalinus Scop. SPECIES
-=======
+# Agaricus santalinus Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachybasium GENUS
-=======
+# Pachybasium GENUS
 
 #### Status
 ACCEPTED

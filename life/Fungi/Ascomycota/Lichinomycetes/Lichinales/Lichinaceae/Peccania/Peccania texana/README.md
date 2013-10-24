@@ -1,5 +1,4 @@
-Peccania texana (Tuck.) Wetmore SPECIES
-=======
+# Peccania texana (Tuck.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

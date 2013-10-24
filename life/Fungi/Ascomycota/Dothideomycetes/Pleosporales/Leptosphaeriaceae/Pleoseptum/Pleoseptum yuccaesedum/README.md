@@ -1,5 +1,4 @@
-Pleoseptum yuccaesedum A.W. Ramaley & M.E. Barr, 1995 SPECIES
-=======
+# Pleoseptum yuccaesedum A.W. Ramaley & M.E. Barr, 1995 SPECIES
 
 #### Status
 ACCEPTED

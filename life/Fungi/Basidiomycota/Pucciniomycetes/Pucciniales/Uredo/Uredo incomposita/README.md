@@ -1,5 +1,4 @@
-Uredo incomposita F. Kern SPECIES
-=======
+# Uredo incomposita F. Kern SPECIES
 
 #### Status
 ACCEPTED

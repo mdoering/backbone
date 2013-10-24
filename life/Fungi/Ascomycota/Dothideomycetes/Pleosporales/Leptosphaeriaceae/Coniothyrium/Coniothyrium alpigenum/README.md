@@ -1,5 +1,4 @@
-Coniothyrium alpigenum (Ellis & Everh.) Kuntze SPECIES
-=======
+# Coniothyrium alpigenum (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

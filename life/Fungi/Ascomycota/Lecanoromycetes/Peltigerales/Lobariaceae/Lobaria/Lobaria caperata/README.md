@@ -1,5 +1,4 @@
-Lobaria caperata (L.) Hoffm. SPECIES
-=======
+# Lobaria caperata (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus pelletieri Pat. SPECIES
-=======
+# Clitopilus pelletieri Pat. SPECIES
 
 #### Status
 ACCEPTED

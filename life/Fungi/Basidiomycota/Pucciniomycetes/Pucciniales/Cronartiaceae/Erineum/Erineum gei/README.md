@@ -1,5 +1,4 @@
-Erineum gei (Fr.) Pers. SPECIES
-=======
+# Erineum gei (Fr.) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepidopterella Shearer & J.L. Crane GENUS
-=======
+# Lepidopterella Shearer & J.L. Crane GENUS
 
 #### Status
 ACCEPTED

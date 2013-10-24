@@ -1,8 +1,7 @@
-Mycena permixta (Britzelm.) Saccardo SPECIES
-=======
+# Mycena megaspora Kauffman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

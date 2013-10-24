@@ -1,14 +1,13 @@
-Pleospora vagans var. spartinae J. Webster & M.T. Lucas, 1961 VARIETY
-=======
+# Pleospora spartinae (J. Webster & M.T. Lucas) Apinis & Chesters, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 44: 427 (1961)
+Trans. Br. mycol. Soc. 47: 432 (1964)
 
 #### Original name
 Pleospora vagans var. spartinae J. Webster & M.T. Lucas, 1961

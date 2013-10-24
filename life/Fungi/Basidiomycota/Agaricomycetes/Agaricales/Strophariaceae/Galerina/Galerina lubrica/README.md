@@ -1,5 +1,4 @@
-Galerina lubrica A.H. Sm. SPECIES
-=======
+# Galerina lubrica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius laricinus Velen. SPECIES
-=======
+# Marasmius laricinus Velen. SPECIES
 
 #### Status
 ACCEPTED

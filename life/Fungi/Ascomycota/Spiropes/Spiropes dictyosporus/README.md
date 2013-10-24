@@ -1,5 +1,4 @@
-Spiropes dictyosporus Seifert & S. Hughes, 2000 SPECIES
-=======
+# Spiropes dictyosporus Seifert & S. Hughes, 2000 SPECIES
 
 #### Status
 ACCEPTED

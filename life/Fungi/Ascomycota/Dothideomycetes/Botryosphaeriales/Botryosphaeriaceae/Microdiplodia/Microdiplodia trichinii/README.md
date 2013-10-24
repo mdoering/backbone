@@ -1,5 +1,4 @@
-Microdiplodia trichinii (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Microdiplodia trichinii (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

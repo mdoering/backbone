@@ -1,5 +1,4 @@
-Thermoascus isatschenkoi Malchevsk. SPECIES
-=======
+# Thermoascus isatschenkoi Malchevsk. SPECIES
 
 #### Status
 ACCEPTED

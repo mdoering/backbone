@@ -1,5 +1,4 @@
-Enchyleodon pellucidus SPECIES
-=======
+# Enchyleodon pellucidus SPECIES
 
 #### Status
 ACCEPTED

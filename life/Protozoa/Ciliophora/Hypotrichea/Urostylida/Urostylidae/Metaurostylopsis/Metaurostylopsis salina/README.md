@@ -1,5 +1,4 @@
-Metaurostylopsis salina Lei, Choi, Xu & Petz, 2005 SPECIES
-=======
+# Metaurostylopsis salina Lei, Choi, Xu & Petz, 2005 SPECIES
 
 #### Status
 ACCEPTED

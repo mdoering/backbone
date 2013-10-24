@@ -1,5 +1,4 @@
-Anthracothecium badioatrum Ajay Singh SPECIES
-=======
+# Anthracothecium badioatrum Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

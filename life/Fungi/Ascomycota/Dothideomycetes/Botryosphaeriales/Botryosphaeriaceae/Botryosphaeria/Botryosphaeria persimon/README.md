@@ -1,5 +1,4 @@
-Botryosphaeria persimon (Schwein.) Sacc. SPECIES
-=======
+# Botryosphaeria persimon (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

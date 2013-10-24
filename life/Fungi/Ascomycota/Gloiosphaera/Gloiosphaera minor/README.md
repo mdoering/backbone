@@ -1,5 +1,4 @@
-Gloiosphaera minor Höhn. SPECIES
-=======
+# Gloiosphaera minor Höhn. SPECIES
 
 #### Status
 ACCEPTED

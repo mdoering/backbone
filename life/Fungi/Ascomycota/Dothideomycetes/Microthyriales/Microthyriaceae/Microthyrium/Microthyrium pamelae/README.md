@@ -1,5 +1,4 @@
-Microthyrium pamelae L. Holm & K. Holm SPECIES
-=======
+# Microthyrium pamelae L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

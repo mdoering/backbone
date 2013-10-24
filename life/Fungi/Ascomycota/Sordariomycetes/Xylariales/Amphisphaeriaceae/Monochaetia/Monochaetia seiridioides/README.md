@@ -1,5 +1,4 @@
-Monochaetia seiridioides (Sacc.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia seiridioides (Sacc.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

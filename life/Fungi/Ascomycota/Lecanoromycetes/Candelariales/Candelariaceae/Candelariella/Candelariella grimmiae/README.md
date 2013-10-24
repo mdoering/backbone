@@ -1,5 +1,4 @@
-Candelariella grimmiae Poelt & Reddi SPECIES
-=======
+# Candelariella grimmiae Poelt & Reddi SPECIES
 
 #### Status
 ACCEPTED

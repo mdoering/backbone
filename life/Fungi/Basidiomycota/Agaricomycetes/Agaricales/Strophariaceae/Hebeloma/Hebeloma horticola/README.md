@@ -1,5 +1,4 @@
-Hebeloma horticola G.H. Otth SPECIES
-=======
+# Hebeloma horticola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

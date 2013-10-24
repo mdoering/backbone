@@ -1,5 +1,4 @@
-Restiosporium patei Vánky, 2006 SPECIES
-=======
+# Restiosporium patei Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

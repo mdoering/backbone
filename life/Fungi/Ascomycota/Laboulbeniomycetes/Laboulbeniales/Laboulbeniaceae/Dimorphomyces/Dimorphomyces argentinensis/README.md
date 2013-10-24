@@ -1,5 +1,4 @@
-Dimorphomyces argentinensis Speg. SPECIES
-=======
+# Dimorphomyces argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

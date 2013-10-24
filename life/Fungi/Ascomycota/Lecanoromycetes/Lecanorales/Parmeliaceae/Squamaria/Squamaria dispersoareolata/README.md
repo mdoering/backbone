@@ -1,5 +1,4 @@
-Squamaria dispersoareolata Schaer. SPECIES
-=======
+# Squamaria dispersoareolata Schaer. SPECIES
 
 #### Status
 ACCEPTED

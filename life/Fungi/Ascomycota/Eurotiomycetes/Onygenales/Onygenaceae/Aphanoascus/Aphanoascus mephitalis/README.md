@@ -1,5 +1,4 @@
-Aphanoascus mephitalis (Malloch & Cain) Cano & Guarro, 1990 SPECIES
-=======
+# Aphanoascus mephitalis (Malloch & Cain) Cano & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitremyces insignis Lloyd SPECIES
-=======
+# Mitremyces insignis Lloyd SPECIES
 
 #### Status
 ACCEPTED

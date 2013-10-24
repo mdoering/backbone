@@ -1,5 +1,4 @@
-Exoascus pseudoplatani C. Massal. SPECIES
-=======
+# Exoascus pseudoplatani C. Massal. SPECIES
 
 #### Status
 ACCEPTED

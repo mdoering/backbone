@@ -1,5 +1,4 @@
-Polyporus spongia Lloyd SPECIES
-=======
+# Polyporus spongia Lloyd SPECIES
 
 #### Status
 ACCEPTED

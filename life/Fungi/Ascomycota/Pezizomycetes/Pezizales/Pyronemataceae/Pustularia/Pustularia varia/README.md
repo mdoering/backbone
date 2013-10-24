@@ -1,5 +1,4 @@
-Pustularia varia Alb. & Schwein. SPECIES
-=======
+# Pustularia varia Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

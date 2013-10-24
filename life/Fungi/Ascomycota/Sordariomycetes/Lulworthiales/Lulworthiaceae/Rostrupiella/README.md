@@ -1,5 +1,4 @@
-Rostrupiella Jørg. Koch, K.L. Pang & E.B.G. Jones GENUS
-=======
+# Rostrupiella Jørg. Koch, K.L. Pang & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

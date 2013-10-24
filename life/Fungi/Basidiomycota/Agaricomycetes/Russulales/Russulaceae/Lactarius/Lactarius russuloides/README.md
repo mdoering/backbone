@@ -1,5 +1,4 @@
-Lactarius russuloides Z. Schaef. SPECIES
-=======
+# Lactarius russuloides Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

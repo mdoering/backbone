@@ -1,5 +1,4 @@
-Lecaniocola contei Brain SPECIES
-=======
+# Lecaniocola contei Brain SPECIES
 
 #### Status
 ACCEPTED

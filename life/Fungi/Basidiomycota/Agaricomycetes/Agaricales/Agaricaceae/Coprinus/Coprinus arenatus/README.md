@@ -1,5 +1,4 @@
-Coprinus arenatus Peck SPECIES
-=======
+# Coprinus arenatus Peck SPECIES
 
 #### Status
 ACCEPTED

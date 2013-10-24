@@ -1,5 +1,4 @@
-Nectriopsis cephalosporii (Hansf.) Samuels SPECIES
-=======
+# Nectriopsis cephalosporii (Hansf.) Samuels SPECIES
 
 #### Status
 ACCEPTED

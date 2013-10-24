@@ -1,5 +1,4 @@
-Clitocybe fasciata Velen. SPECIES
-=======
+# Clitocybe fasciata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora alpina var. alpina VARIETY
-=======
+# Physalospora alpina Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physalospora alpina var. alpina
+Physalospora alpina Speg.
 
 ### Remarks
 null

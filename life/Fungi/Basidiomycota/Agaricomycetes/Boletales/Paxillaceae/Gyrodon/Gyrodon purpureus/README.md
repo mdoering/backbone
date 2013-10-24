@@ -1,5 +1,4 @@
-Gyrodon purpureus (Beeli) Singer SPECIES
-=======
+# Gyrodon purpureus (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

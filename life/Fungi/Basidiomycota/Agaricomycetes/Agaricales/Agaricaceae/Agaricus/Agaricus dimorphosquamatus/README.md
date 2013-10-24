@@ -1,5 +1,4 @@
-Agaricus dimorphosquamatus Yu Li SPECIES
-=======
+# Agaricus dimorphosquamatus Yu Li SPECIES
 
 #### Status
 ACCEPTED

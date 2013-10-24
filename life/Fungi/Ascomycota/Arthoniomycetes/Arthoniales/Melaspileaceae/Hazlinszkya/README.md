@@ -1,5 +1,4 @@
-Hazlinszkya GENUS
-=======
+# Hazlinszkya GENUS
 
 #### Status
 ACCEPTED

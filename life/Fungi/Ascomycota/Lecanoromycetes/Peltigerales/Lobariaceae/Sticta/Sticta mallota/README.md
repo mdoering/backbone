@@ -1,5 +1,4 @@
-Sticta mallota (Tuck.) Zahlbr. SPECIES
-=======
+# Sticta mallota (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria schwarzmanniana Kazhieva {?} SPECIES
-=======
+# Patellaria schwarzmanniana Kazhieva {?} SPECIES
 
 #### Status
 ACCEPTED

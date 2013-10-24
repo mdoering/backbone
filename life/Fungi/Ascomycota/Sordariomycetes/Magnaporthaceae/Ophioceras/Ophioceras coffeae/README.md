@@ -1,5 +1,4 @@
-Ophioceras coffeae Saccas SPECIES
-=======
+# Ophioceras coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

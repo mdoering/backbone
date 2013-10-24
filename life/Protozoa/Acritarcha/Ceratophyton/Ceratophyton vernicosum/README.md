@@ -1,5 +1,4 @@
-Ceratophyton vernicosum Kiryanov in Volkova et al., 1979 SPECIES
-=======
+# Ceratophyton vernicosum Kiryanov in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

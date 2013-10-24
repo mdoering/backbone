@@ -1,5 +1,4 @@
-Strombidium oblongum Kell.-Pen. SPECIES
-=======
+# Strombidium oblongum Kell.-Pen. SPECIES
 
 #### Status
 ACCEPTED

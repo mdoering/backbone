@@ -1,5 +1,4 @@
-Phoma glandulosae Lobik SPECIES
-=======
+# Phoma glandulosae Lobik SPECIES
 
 #### Status
 ACCEPTED

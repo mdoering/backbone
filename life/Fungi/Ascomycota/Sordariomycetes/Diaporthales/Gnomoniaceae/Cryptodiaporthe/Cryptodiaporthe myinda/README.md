@@ -1,5 +1,4 @@
-Cryptodiaporthe myinda (Cooke & Ellis) Wehm. SPECIES
-=======
+# Cryptodiaporthe myinda (Cooke & Ellis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

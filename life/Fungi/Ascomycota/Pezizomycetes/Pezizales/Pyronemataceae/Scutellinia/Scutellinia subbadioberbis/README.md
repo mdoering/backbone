@@ -1,5 +1,4 @@
-Scutellinia subbadioberbis Le Gal, 1972 SPECIES
-=======
+# Scutellinia subbadioberbis Le Gal, 1972 SPECIES
 
 #### Status
 ACCEPTED

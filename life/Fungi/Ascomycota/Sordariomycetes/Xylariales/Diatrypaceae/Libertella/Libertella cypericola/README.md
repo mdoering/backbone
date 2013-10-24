@@ -1,5 +1,4 @@
-Libertella cypericola (Henn.) Wollenw. SPECIES
-=======
+# Libertella cypericola (Henn.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

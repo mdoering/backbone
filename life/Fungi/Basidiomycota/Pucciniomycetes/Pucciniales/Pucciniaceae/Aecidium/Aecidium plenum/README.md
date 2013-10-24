@@ -1,5 +1,4 @@
-Aecidium plenum Arthur SPECIES
-=======
+# Aecidium plenum Arthur SPECIES
 
 #### Status
 ACCEPTED

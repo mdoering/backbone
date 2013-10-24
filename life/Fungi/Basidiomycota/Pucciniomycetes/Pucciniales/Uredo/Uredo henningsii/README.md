@@ -1,5 +1,4 @@
-Uredo henningsii Sacc. & D. Sacc. SPECIES
-=======
+# Uredo henningsii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

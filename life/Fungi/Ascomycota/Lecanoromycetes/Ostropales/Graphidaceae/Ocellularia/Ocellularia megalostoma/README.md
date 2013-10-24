@@ -1,5 +1,4 @@
-Ocellularia megalostoma Müll. Arg. SPECIES
-=======
+# Ocellularia megalostoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

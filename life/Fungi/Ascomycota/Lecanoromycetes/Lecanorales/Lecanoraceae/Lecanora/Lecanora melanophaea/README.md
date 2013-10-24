@@ -1,5 +1,4 @@
-Lecanora melanophaea Jatta SPECIES
-=======
+# Lecanora melanophaea Jatta SPECIES
 
 #### Status
 ACCEPTED

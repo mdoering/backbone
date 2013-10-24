@@ -1,5 +1,4 @@
-Caloplaca rhinodinoides J. Steiner SPECIES
-=======
+# Caloplaca rhinodinoides J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichokolpoma Klumpp, 1953 GENUS
-=======
+# Hystrichokolpoma Klumpp, 1953 GENUS
 
 #### Status
 ACCEPTED

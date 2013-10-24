@@ -1,5 +1,4 @@
-Favolaschia antarctica (Speg.) Kuntze SPECIES
-=======
+# Favolaschia antarctica (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

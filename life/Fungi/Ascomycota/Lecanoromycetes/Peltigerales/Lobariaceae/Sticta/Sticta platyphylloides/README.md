@@ -1,5 +1,4 @@
-Sticta platyphylloides Nyl. SPECIES
-=======
+# Sticta platyphylloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

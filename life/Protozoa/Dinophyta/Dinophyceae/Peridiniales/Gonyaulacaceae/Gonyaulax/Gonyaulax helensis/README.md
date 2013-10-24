@@ -1,5 +1,4 @@
-Gonyaulax helensis Woloszynska, 1928 SPECIES
-=======
+# Gonyaulax helensis Woloszynska, 1928 SPECIES
 
 #### Status
 ACCEPTED

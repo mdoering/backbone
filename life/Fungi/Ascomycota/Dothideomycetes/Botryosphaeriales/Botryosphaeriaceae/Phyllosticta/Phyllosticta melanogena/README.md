@@ -1,5 +1,4 @@
-Phyllosticta melanogena Sacc. SPECIES
-=======
+# Phyllosticta melanogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

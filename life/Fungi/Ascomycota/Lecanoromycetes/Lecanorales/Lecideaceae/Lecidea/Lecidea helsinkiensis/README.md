@@ -1,5 +1,4 @@
-Lecidea helsinkiensis Vain. SPECIES
-=======
+# Lecidea helsinkiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus croceus (Bull.) SPECIES
-=======
+# Hygrophorus croceus (Bull.) SPECIES
 
 #### Status
 ACCEPTED

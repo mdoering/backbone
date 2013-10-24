@@ -1,5 +1,4 @@
-Granomarginata granulosa R.Y. Singh et al., 1978 SPECIES
-=======
+# Granomarginata granulosa R.Y. Singh et al., 1978 SPECIES
 
 #### Status
 ACCEPTED

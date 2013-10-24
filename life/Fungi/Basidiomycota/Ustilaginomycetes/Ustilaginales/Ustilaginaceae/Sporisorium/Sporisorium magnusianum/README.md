@@ -1,5 +1,4 @@
-Sporisorium magnusianum (A.A. Fisch. Waldh.) Vánky SPECIES
-=======
+# Sporisorium magnusianum (A.A. Fisch. Waldh.) Vánky SPECIES
 
 #### Status
 ACCEPTED

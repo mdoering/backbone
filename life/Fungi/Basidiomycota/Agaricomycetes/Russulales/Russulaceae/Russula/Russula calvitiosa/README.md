@@ -1,5 +1,4 @@
-Russula calvitiosa Kucera SPECIES
-=======
+# Russula calvitiosa Kucera SPECIES
 
 #### Status
 ACCEPTED

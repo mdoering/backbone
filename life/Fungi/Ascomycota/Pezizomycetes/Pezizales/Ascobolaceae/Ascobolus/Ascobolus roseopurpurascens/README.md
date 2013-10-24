@@ -1,5 +1,4 @@
-Ascobolus roseopurpurascens Rehm, 1896 SPECIES
-=======
+# Ascobolus roseopurpurascens Rehm, 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrioconium scirpi Syd. & P. Syd., 1912 SPECIES
-=======
+# Myrioconium scirpi Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

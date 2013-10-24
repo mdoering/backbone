@@ -1,5 +1,4 @@
-Omphalia subtricolor Rick SPECIES
-=======
+# Omphalia subtricolor Rick SPECIES
 
 #### Status
 ACCEPTED

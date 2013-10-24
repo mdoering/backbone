@@ -1,5 +1,4 @@
-Pseudomonas extremorientalis Ivanova et al., 2002 SPECIES
-=======
+# Pseudomonas extremorientalis Ivanova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

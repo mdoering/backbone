@@ -1,5 +1,4 @@
-Pleonectria guaranitica Speg. SPECIES
-=======
+# Pleonectria guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

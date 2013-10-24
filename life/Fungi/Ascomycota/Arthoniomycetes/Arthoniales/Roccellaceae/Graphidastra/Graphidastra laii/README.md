@@ -1,5 +1,4 @@
-Graphidastra laii Aptroot & Sparrius SPECIES
-=======
+# Graphidastra laii Aptroot & Sparrius SPECIES
 
 #### Status
 ACCEPTED

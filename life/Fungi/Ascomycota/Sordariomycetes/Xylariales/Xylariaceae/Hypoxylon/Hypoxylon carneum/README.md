@@ -1,5 +1,4 @@
-Hypoxylon carneum Petch, 1924 SPECIES
-=======
+# Hypoxylon carneum Petch, 1924 SPECIES
 
 #### Status
 ACCEPTED

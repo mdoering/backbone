@@ -1,5 +1,4 @@
-Collema flaccidulum (Flagey) Zahlbr. SPECIES
-=======
+# Collema flaccidulum (Flagey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

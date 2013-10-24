@@ -1,5 +1,4 @@
-Melanaspicilia crebra Vain. SPECIES
-=======
+# Melanaspicilia crebra Vain. SPECIES
 
 #### Status
 ACCEPTED

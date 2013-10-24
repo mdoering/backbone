@@ -1,5 +1,4 @@
-Thaxteriella corticola Petr., 1924 SPECIES
-=======
+# Thaxteriella corticola Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

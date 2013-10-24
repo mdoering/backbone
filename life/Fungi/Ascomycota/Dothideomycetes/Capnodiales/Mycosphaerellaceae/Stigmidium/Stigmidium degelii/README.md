@@ -1,5 +1,4 @@
-Stigmidium degelii R. Sant., 1993 SPECIES
-=======
+# Stigmidium degelii R. Sant., 1993 SPECIES
 
 #### Status
 ACCEPTED

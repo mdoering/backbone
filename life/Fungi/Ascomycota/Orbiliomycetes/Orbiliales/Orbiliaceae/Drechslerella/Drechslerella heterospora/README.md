@@ -1,5 +1,4 @@
-Drechslerella heterospora (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Drechslerella heterospora (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

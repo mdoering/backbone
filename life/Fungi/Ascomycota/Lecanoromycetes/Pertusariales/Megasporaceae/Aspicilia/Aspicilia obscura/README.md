@@ -1,5 +1,4 @@
-Aspicilia obscura (H. Magn.) T. Müll. SPECIES
-=======
+# Aspicilia obscura (H. Magn.) T. Müll. SPECIES
 
 #### Status
 ACCEPTED

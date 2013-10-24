@@ -1,5 +1,4 @@
-Hysterium truncatum Pers. SPECIES
-=======
+# Hysterium truncatum Pers. SPECIES
 
 #### Status
 ACCEPTED

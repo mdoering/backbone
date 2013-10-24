@@ -1,17 +1,16 @@
-Capnodenia (Sacc.) Theiss. & Syd. GENUS
-=======
+# Capnodium Mont. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 11: 233 (1848)
 
 #### Original name
-null
+Capnodium Mont.
 
 ### Remarks
 null

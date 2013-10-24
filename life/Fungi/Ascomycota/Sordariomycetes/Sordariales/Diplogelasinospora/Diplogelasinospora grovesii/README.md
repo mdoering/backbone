@@ -1,5 +1,4 @@
-Diplogelasinospora grovesii Udagawa & Y. Horie, 1972 SPECIES
-=======
+# Diplogelasinospora grovesii Udagawa & Y. Horie, 1972 SPECIES
 
 #### Status
 ACCEPTED

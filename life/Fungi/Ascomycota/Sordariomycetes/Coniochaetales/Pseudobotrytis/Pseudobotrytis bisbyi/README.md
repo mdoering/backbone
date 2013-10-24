@@ -1,5 +1,4 @@
-Pseudobotrytis bisbyi Timonin, 1961 SPECIES
-=======
+# Pseudobotrytis bisbyi Timonin, 1961 SPECIES
 
 #### Status
 ACCEPTED

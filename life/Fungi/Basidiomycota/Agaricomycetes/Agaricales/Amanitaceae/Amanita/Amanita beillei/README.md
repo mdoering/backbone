@@ -1,5 +1,4 @@
-Amanita beillei (Beauseign.) Mesplède SPECIES
-=======
+# Amanita beillei (Beauseign.) Mesplède SPECIES
 
 #### Status
 ACCEPTED

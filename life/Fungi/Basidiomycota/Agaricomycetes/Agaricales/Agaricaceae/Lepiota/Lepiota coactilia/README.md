@@ -1,5 +1,4 @@
-Lepiota coactilia Beeli SPECIES
-=======
+# Lepiota coactilia Beeli SPECIES
 
 #### Status
 ACCEPTED

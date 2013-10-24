@@ -1,5 +1,4 @@
-Chaetophoma atrella Cooke & Harkn. SPECIES
-=======
+# Chaetophoma atrella Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

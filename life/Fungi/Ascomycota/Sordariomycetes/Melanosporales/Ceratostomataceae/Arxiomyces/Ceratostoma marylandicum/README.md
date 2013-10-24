@@ -1,5 +1,4 @@
-Ceratostoma marylandicum Petr. SPECIES
-=======
+# Ceratostoma marylandicum Petr. SPECIES
 
 #### Status
 ACCEPTED

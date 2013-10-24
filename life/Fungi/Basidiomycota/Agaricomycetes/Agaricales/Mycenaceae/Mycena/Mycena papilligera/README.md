@@ -1,5 +1,4 @@
-Mycena papilligera Singer SPECIES
-=======
+# Mycena papilligera Singer SPECIES
 
 #### Status
 ACCEPTED

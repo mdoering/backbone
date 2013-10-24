@@ -1,5 +1,4 @@
-Elachopeltella Bat. & Cavalc. GENUS
-=======
+# Elachopeltella Bat. & Cavalc. GENUS
 
 #### Status
 ACCEPTED

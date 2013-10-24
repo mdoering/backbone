@@ -1,5 +1,4 @@
-Isariopsis tweediana Speg. SPECIES
-=======
+# Isariopsis tweediana Speg. SPECIES
 
 #### Status
 ACCEPTED

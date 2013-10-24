@@ -1,5 +1,4 @@
-Paramaecium microstomum SPECIES
-=======
+# Paramaecium microstomum SPECIES
 
 #### Status
 ACCEPTED

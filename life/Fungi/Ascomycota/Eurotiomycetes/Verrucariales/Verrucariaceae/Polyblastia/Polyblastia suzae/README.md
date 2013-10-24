@@ -1,5 +1,4 @@
-Polyblastia suzae f. suzae FORM
-=======
+# Polyblastia suzae Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia suzae f. suzae
+Polyblastia suzae Servít
 
 ### Remarks
 null

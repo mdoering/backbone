@@ -1,5 +1,4 @@
-Pararotalia stellata (de Ferussac, 1827) SPECIES
-=======
+# Pararotalia stellata (de Ferussac, 1827) SPECIES
 
 #### Status
 ACCEPTED

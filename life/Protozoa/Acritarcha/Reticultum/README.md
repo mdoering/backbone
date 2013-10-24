@@ -1,5 +1,4 @@
-Reticultum GENUS
-=======
+# Reticultum GENUS
 
 #### Status
 ACCEPTED

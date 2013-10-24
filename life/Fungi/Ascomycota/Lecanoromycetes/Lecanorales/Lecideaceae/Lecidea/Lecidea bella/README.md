@@ -1,5 +1,4 @@
-Lecidea bella Hertel SPECIES
-=======
+# Lecidea bella Hertel SPECIES
 
 #### Status
 ACCEPTED

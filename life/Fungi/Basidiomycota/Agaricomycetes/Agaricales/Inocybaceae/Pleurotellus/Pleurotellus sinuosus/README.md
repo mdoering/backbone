@@ -1,5 +1,4 @@
-Pleurotellus sinuosus Van der Meerssche & Imler SPECIES
-=======
+# Pleurotellus sinuosus Van der Meerssche & Imler SPECIES
 
 #### Status
 ACCEPTED

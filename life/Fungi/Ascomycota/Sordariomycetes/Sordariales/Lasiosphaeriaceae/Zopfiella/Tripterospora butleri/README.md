@@ -1,5 +1,4 @@
-Tripterospora butleri Pavgi & Ramadevi {?} ined. SPECIES
-=======
+# Tripterospora butleri Pavgi & Ramadevi {?} ined. SPECIES
 
 #### Status
 ACCEPTED

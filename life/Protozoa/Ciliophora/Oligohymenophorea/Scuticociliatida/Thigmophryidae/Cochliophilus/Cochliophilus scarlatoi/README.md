@@ -1,5 +1,4 @@
-Cochliophilus scarlatoi SPECIES
-=======
+# Cochliophilus scarlatoi SPECIES
 
 #### Status
 ACCEPTED

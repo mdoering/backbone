@@ -1,5 +1,4 @@
-Puccinia laserpitii Lindr. SPECIES
-=======
+# Puccinia laserpitii Lindr. SPECIES
 
 #### Status
 ACCEPTED

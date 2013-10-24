@@ -1,5 +1,4 @@
-Chaetostroma fulvum Lév. SPECIES
-=======
+# Chaetostroma fulvum Lév. SPECIES
 
 #### Status
 ACCEPTED

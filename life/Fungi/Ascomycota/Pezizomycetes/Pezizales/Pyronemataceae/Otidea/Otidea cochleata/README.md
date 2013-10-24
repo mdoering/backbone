@@ -1,17 +1,16 @@
-Peziza cochleata L., 1753 SPECIES
-=======
+# Otidea cochleata (Huds.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(1): 50 (1822)
+Jb. nassau. Ver. Naturk. 23-24: 329 (1870)
 
 #### Original name
-Peziza alutacea Pers., 1801
+Peziza cochleata L., 1753
 
 ### Remarks
 null

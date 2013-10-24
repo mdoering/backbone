@@ -1,5 +1,4 @@
-Cantharellus tuberculosporus M. Zang SPECIES
-=======
+# Cantharellus tuberculosporus M. Zang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora chardoni Orton SPECIES
-=======
+# Phyllachora paspalicola Henn., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 48: 106 (1908)
 
 #### Original name
-Phyllachora chardoni Orton
+Phyllachora paspalicola Henn., 1908
 
 ### Remarks
 null

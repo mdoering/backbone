@@ -1,5 +1,4 @@
-Protostelium L.S. Olive & Stoian. GENUS
-=======
+# Protostelium L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

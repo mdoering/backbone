@@ -1,5 +1,4 @@
-Bagnisiella tjampeana (Racib.) Sacc. & Trotter SPECIES
-=======
+# Bagnisiella tjampeana (Racib.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aggregata siedleckii Moroff, 1908 SPECIES
-=======
+# Aggregata siedleckii Moroff, 1908 SPECIES
 
 #### Status
 ACCEPTED

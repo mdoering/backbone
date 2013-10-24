@@ -1,5 +1,4 @@
-Phoma weldiana Fairm. SPECIES
-=======
+# Phoma weldiana Fairm. SPECIES
 
 #### Status
 ACCEPTED

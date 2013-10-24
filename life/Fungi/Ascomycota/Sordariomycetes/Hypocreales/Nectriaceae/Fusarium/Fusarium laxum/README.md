@@ -1,5 +1,4 @@
-Fusarium laxum Peck SPECIES
-=======
+# Fusarium laxum Peck SPECIES
 
 #### Status
 ACCEPTED

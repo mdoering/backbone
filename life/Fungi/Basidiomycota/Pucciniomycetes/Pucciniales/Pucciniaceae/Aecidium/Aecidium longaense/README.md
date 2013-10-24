@@ -1,5 +1,4 @@
-Aecidium longaense Henn. SPECIES
-=======
+# Aecidium longaense Henn. SPECIES
 
 #### Status
 ACCEPTED

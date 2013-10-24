@@ -1,5 +1,4 @@
-Entoloma albipes Hesler SPECIES
-=======
+# Entoloma albipes Hesler SPECIES
 
 #### Status
 ACCEPTED

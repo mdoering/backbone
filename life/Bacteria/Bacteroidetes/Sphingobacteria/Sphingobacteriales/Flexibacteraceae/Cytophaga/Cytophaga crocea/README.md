@@ -1,5 +1,4 @@
-Cytophaga crocea SPECIES
-=======
+# Cytophaga crocea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum styracifluum (Schwein.) Fr. SPECIES
-=======
+# Stereum styracifluum (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

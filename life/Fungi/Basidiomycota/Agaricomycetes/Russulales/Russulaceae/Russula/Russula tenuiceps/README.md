@@ -1,5 +1,4 @@
-Russula tenuiceps Kauffman SPECIES
-=======
+# Russula tenuiceps Kauffman SPECIES
 
 #### Status
 ACCEPTED

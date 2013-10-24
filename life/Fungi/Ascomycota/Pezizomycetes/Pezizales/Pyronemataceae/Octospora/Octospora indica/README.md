@@ -1,5 +1,4 @@
-Octospora indica (K.S. Thind, E.K. Cash & H. Singh) D.C. Pant & V.P. Tewari SPECIES
-=======
+# Octospora indica (K.S. Thind, E.K. Cash & H. Singh) D.C. Pant & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

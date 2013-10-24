@@ -1,5 +1,4 @@
-Pertusaria corrugata f. phaeizans Zahlbr. FORM
-=======
+# Pertusaria corrugata Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria corrugata f. phaeizans Zahlbr.
+Pertusaria corrugata Kremp.
 
 ### Remarks
 null

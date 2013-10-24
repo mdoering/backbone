@@ -1,5 +1,4 @@
-Diatrype eucalypti Cooke & Harkn. SPECIES
-=======
+# Diatrype eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

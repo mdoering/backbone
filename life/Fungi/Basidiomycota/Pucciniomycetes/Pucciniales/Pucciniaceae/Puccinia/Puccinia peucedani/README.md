@@ -1,5 +1,4 @@
-Puccinia peucedani Körn. SPECIES
-=======
+# Puccinia peucedani Körn. SPECIES
 
 #### Status
 ACCEPTED

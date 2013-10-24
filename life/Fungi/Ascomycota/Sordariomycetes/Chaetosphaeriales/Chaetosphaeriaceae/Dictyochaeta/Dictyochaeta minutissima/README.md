@@ -1,5 +1,4 @@
-Dictyochaeta minutissima A. Hern. Gut. & J. Mena SPECIES
-=======
+# Dictyochaeta minutissima A. Hern. Gut. & J. Mena SPECIES
 
 #### Status
 ACCEPTED

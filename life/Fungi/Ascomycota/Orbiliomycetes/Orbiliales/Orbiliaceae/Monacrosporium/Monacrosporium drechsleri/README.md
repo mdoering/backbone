@@ -1,14 +1,13 @@
-Dactylella drechsleri Tarjan, 1961 SPECIES
-=======
+# Monacrosporium drechsleri (Tarjan) R.C. Cooke & C.H. Dickinson, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 14: 143 (1961)
+Trans. Br. mycol. Soc. 48: 623 (1965)
 
 #### Original name
 Dactylella drechsleri Tarjan, 1961

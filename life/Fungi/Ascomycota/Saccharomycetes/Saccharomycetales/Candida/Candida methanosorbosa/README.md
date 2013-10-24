@@ -1,14 +1,13 @@
-Torulopsis nagoyaensis Asai & Makig., 1976 SPECIES
-=======
+# Candida methanosorbosa (S. Abe & Yokote) J.A. Barnett, R.W. Payne & Yarrow, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Yeasts: Characteristics and Identification (Cambridge) 732 (1983)
 
 #### Original name
 null

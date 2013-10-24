@@ -1,5 +1,4 @@
-Wolfkosia Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Wolfkosia Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

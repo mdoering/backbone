@@ -1,5 +1,4 @@
-Trametes albobadia (Lloyd) Corner SPECIES
-=======
+# Trametes albobadia (Lloyd) Corner SPECIES
 
 #### Status
 ACCEPTED

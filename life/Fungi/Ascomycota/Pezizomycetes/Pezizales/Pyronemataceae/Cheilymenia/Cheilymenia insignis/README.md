@@ -1,8 +1,7 @@
-Lachnea insignis (P. Crouan & H. Crouan) Sacc., 1889 SPECIES
-=======
+# Cheilymenia insignis (P. Crouan & H. Crouan) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

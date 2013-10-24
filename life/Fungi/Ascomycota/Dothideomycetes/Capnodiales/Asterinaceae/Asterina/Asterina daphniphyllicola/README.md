@@ -1,5 +1,4 @@
-Asterina daphniphyllicola B. Song, 2004 SPECIES
-=======
+# Asterina daphniphyllicola B. Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

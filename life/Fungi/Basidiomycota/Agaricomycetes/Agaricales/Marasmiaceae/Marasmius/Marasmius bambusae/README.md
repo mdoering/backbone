@@ -1,5 +1,4 @@
-Marasmius bambusae (Pat.) Sacc. & Trotter SPECIES
-=======
+# Marasmius bambusae (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

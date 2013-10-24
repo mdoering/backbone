@@ -1,5 +1,4 @@
-Rhizophydium asterosporum Scherff. SPECIES
-=======
+# Rhizophydium asterosporum Scherff. SPECIES
 
 #### Status
 ACCEPTED

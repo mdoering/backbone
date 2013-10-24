@@ -1,5 +1,4 @@
-Arachnospora R.F. Castañeda, Minter & Camino GENUS
-=======
+# Arachnospora R.F. Castañeda, Minter & Camino GENUS
 
 #### Status
 ACCEPTED

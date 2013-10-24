@@ -1,14 +1,13 @@
-Psathyrella fuscofolia (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella fuscifolia (Peck) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 362 (1972)
 
 #### Original name
 Psilocybe fuscifolia Peck

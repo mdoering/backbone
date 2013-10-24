@@ -1,5 +1,4 @@
-Typhula gilva Lasch SPECIES
-=======
+# Typhula gilva Lasch SPECIES
 
 #### Status
 ACCEPTED

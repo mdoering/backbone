@@ -1,5 +1,4 @@
-Agaricus usta Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus usta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

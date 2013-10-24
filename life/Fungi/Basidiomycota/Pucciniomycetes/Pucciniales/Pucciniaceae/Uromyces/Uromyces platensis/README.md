@@ -1,5 +1,4 @@
-Uromyces platensis Speg. SPECIES
-=======
+# Uromyces platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

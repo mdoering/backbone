@@ -1,5 +1,4 @@
-Guembelitriella graysonensis Tappan, 1940 SPECIES
-=======
+# Guembelitriella graysonensis Tappan, 1940 SPECIES
 
 #### Status
 ACCEPTED

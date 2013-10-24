@@ -1,5 +1,4 @@
-Fusarium luteum Clem. SPECIES
-=======
+# Fusarium luteum Clem. SPECIES
 
 #### Status
 ACCEPTED

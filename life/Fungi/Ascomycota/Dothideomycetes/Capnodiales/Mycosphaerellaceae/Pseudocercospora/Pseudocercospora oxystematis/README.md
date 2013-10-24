@@ -1,5 +1,4 @@
-Pseudocercospora oxystematis (S.A. Khan & M. Kamal) B. Sutton SPECIES
-=======
+# Pseudocercospora oxystematis (S.A. Khan & M. Kamal) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus similis E. Horak, 2008 SPECIES
-=======
+# Pluteus similis E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

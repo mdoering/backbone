@@ -1,5 +1,4 @@
-Gonohymenia schleicheri (Hepp) Henssen SPECIES
-=======
+# Gonohymenia schleicheri (Hepp) Henssen SPECIES
 
 #### Status
 ACCEPTED

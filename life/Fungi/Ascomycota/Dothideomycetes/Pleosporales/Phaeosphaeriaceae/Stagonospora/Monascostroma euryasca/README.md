@@ -1,5 +1,4 @@
-Monascostroma euryasca (Ellis & Galloway) M.E. Barr SPECIES
-=======
+# Monascostroma euryasca (Ellis & Galloway) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraedriella Pascher, 1930 GENUS
-=======
+# Tetraedriella Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

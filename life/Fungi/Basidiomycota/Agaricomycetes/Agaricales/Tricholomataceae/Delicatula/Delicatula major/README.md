@@ -1,5 +1,4 @@
-Delicatula major Velen. SPECIES
-=======
+# Delicatula major Velen. SPECIES
 
 #### Status
 ACCEPTED

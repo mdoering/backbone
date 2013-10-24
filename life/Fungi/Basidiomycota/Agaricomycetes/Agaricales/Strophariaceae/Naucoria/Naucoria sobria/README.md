@@ -1,5 +1,4 @@
-Naucoria sobria (Fr.) P. Kumm. SPECIES
-=======
+# Naucoria sobria (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Lactobacterium leichmannii (Henneberg, 1903) Krasil'nikov, 1949 SPECIES
-=======
+# Lactobacillus leichmannii (Henneberg, 1903) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

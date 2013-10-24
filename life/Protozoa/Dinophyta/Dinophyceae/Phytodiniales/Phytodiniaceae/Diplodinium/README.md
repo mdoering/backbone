@@ -1,5 +1,4 @@
-Diplodinium GENUS
-=======
+# Diplodinium GENUS
 
 #### Status
 ACCEPTED

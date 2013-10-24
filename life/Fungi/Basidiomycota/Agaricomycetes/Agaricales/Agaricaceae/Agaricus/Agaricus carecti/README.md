@@ -1,5 +1,4 @@
-Agaricus carecti Britzelm. SPECIES
-=======
+# Agaricus carecti Britzelm. SPECIES
 
 #### Status
 ACCEPTED

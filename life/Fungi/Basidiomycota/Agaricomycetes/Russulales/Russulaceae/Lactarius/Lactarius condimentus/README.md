@@ -1,5 +1,4 @@
-Lactarius condimentus Verbeken & E. Horak SPECIES
-=======
+# Lactarius condimentus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

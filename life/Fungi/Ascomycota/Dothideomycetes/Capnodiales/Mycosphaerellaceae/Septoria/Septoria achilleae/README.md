@@ -1,5 +1,4 @@
-Septoria achilleae H.C. Greene SPECIES
-=======
+# Septoria achilleae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

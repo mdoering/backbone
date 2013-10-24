@@ -1,14 +1,13 @@
-Pestalotiopsis alöes (Trinchieri) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis aloës (Trinchieri) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zhang, Xu & Ge, Mycotaxon 85: 91 (2003)
 
 #### Original name
 Pestalotia aloës Trinchieri

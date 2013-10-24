@@ -1,5 +1,4 @@
-Xylaria aphrodisiaca Welw. & Curr. SPECIES
-=======
+# Xylaria aphrodisiaca Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

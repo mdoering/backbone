@@ -1,14 +1,13 @@
-Actinodothidopsis nitida Petr., 1952 SPECIES
-=======
+# Venturia nitida (Petr.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(1-4): 242 (1952)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 411 (1962)
 
 #### Original name
 Actinodothidopsis nitida Petr., 1952

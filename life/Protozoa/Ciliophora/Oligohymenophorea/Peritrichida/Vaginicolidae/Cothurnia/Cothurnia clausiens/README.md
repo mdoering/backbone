@@ -1,5 +1,4 @@
-Cothurnia clausiens SPECIES
-=======
+# Cothurnia clausiens SPECIES
 
 #### Status
 ACCEPTED

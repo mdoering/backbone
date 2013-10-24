@@ -1,5 +1,4 @@
-Stagonospora juncicola Rostr. SPECIES
-=======
+# Stagonospora juncicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

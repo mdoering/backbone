@@ -1,5 +1,4 @@
-Coniothyrium rechingeri Petr. SPECIES
-=======
+# Coniothyrium rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

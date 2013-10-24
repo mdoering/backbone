@@ -1,5 +1,4 @@
-Asterina melastomatis-candidi W. Yamam. SPECIES
-=======
+# Asterina melastomatis-candidi W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

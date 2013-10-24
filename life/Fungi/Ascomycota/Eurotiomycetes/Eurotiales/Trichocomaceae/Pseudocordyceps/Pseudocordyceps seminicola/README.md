@@ -1,5 +1,4 @@
-Pseudocordyceps seminicola Hauman, 1936 SPECIES
-=======
+# Pseudocordyceps seminicola Hauman, 1936 SPECIES
 
 #### Status
 ACCEPTED

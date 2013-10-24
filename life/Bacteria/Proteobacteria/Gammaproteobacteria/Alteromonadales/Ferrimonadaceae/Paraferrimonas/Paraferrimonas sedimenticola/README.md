@@ -1,5 +1,4 @@
-Paraferrimonas sedimenticola Khan & Harayama, 2007 SPECIES
-=======
+# Paraferrimonas sedimenticola Khan & Harayama, 2007 SPECIES
 
 #### Status
 ACCEPTED

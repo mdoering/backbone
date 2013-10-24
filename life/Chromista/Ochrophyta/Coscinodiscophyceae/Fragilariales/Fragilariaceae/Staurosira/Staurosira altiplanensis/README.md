@@ -1,5 +1,4 @@
-Staurosira altiplanensis Lange-Bertalot & U.Rumrich SPECIES
-=======
+# Staurosira altiplanensis Lange-Bertalot & U.Rumrich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blyttiomyces laevis Sparrow SPECIES
-=======
+# Blyttiomyces laevis Sparrow SPECIES
 
 #### Status
 ACCEPTED

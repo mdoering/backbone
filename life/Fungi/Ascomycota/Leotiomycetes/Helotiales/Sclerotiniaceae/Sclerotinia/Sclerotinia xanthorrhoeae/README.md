@@ -1,5 +1,4 @@
-Sclerotinia xanthorrhoeae G.W. Beaton & Weste SPECIES
-=======
+# Sclerotinia xanthorrhoeae G.W. Beaton & Weste SPECIES
 
 #### Status
 ACCEPTED

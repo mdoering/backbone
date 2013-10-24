@@ -1,5 +1,4 @@
-Wawelia effusa N. Lundq. SPECIES
-=======
+# Wawelia effusa N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

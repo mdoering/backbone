@@ -1,5 +1,4 @@
-Pseudocercospora collinsiae (U. Braun & Rogerson) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora collinsiae (U. Braun & Rogerson) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Safirotheca Vavrdová, 1989 GENUS
-=======
+# Safirotheca Vavrdová, 1989 GENUS
 
 #### Status
 ACCEPTED

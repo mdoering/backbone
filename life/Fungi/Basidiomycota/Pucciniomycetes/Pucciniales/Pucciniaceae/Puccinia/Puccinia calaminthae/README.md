@@ -1,5 +1,4 @@
-Puccinia calaminthae Fuckel SPECIES
-=======
+# Puccinia calaminthae Fuckel SPECIES
 
 #### Status
 ACCEPTED

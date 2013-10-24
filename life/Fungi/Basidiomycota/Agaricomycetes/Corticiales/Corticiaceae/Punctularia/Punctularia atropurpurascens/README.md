@@ -1,17 +1,16 @@
-Corticium tuberculosum Pat., 1892 SPECIES
-=======
+# Punctularia atropurpurascens (Berk. & Broome) Petch, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 8: 118 (1892)
+Ann. R. bot. Gdns Peradeniya 6: 160 (1916)
 
 #### Original name
-Corticium tuberculosum Pat., 1892
+Thelephora atropurpurascens Berk. & Broome, 1875
 
 ### Remarks
 null

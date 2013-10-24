@@ -1,5 +1,4 @@
-Xanthoria boulyi Zahlbr. SPECIES
-=======
+# Xanthoria boulyi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

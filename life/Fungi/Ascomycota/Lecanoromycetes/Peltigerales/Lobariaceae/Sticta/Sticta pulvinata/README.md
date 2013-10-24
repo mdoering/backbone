@@ -1,5 +1,4 @@
-Sticta pulvinata var. pulvinata VARIETY
-=======
+# Sticta pulvinata (Meyen & Flot.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Philipp. J. Sci. , C, Bot. 8: 123 (1913)
 
 #### Original name
-Sticta pulvinata var. pulvinata
+Sticta filicina var. pulvinata Meyen & Flot.
 
 ### Remarks
 null

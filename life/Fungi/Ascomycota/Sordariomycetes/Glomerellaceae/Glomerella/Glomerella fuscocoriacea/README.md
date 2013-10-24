@@ -1,5 +1,4 @@
-Glomerella fuscocoriacea (Rehm) Petr. SPECIES
-=======
+# Glomerella fuscocoriacea (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticularia pusilla Fr. SPECIES
-=======
+# Reticularia pusilla Fr. SPECIES
 
 #### Status
 ACCEPTED

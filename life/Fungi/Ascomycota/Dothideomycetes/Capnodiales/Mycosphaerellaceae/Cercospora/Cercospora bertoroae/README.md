@@ -1,5 +1,4 @@
-Cercospora bertoroae Hollós SPECIES
-=======
+# Cercospora bertoroae Hollós SPECIES
 
 #### Status
 ACCEPTED

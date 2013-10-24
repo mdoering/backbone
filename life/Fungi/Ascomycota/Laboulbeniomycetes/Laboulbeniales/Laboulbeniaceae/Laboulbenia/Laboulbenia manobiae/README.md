@@ -1,5 +1,4 @@
-Laboulbenia manobiae Thaxt. SPECIES
-=======
+# Laboulbenia manobiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

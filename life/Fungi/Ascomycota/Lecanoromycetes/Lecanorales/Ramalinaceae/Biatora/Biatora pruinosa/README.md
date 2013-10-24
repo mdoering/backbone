@@ -1,5 +1,4 @@
-Biatora pruinosa (Körb.) Beltr. SPECIES
-=======
+# Biatora pruinosa (Körb.) Beltr. SPECIES
 
 #### Status
 ACCEPTED

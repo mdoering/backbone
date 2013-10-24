@@ -1,5 +1,4 @@
-Lichenothrix riddlei Henssen SPECIES
-=======
+# Lichenothrix riddlei Henssen SPECIES
 
 #### Status
 ACCEPTED

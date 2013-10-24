@@ -1,5 +1,4 @@
-Clisosporium microscopicum (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium microscopicum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

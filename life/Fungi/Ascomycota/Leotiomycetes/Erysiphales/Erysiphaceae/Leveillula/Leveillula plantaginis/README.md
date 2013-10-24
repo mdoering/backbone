@@ -1,5 +1,4 @@
-Leveillula plantaginis Golovin SPECIES
-=======
+# Leveillula plantaginis Golovin SPECIES
 
 #### Status
 ACCEPTED

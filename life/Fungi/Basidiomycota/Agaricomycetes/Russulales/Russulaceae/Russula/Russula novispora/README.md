@@ -1,5 +1,4 @@
-Russula novispora Murrill SPECIES
-=======
+# Russula novispora Murrill SPECIES
 
 #### Status
 ACCEPTED

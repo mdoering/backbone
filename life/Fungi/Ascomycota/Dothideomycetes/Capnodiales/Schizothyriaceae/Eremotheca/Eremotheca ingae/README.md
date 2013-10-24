@@ -1,5 +1,4 @@
-Eremotheca ingae Bat., Peres & O.M. Fonseca SPECIES
-=======
+# Eremotheca ingae Bat., Peres & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

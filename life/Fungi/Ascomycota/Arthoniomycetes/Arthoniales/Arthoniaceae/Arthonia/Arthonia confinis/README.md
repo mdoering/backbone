@@ -1,5 +1,4 @@
-Arthonia confinis Stizenb. SPECIES
-=======
+# Arthonia confinis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius symeae (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius symeae (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

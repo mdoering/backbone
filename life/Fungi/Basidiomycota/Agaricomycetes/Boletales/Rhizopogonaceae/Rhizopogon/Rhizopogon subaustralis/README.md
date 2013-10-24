@@ -1,5 +1,4 @@
-Rhizopogon subaustralis A.H. Sm. SPECIES
-=======
+# Rhizopogon subaustralis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

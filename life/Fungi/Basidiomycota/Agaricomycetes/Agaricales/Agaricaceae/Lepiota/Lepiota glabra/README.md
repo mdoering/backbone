@@ -1,5 +1,4 @@
-Lepiota glabra Velen. SPECIES
-=======
+# Lepiota glabra Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galwayella Patterson & Pettis, 1986 GENUS
-=======
+# Galwayella Patterson & Pettis, 1986 GENUS
 
 #### Status
 ACCEPTED

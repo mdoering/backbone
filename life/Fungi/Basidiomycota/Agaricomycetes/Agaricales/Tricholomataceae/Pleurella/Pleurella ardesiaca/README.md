@@ -1,14 +1,13 @@
-Hydropus ardesiacus (G. Stev. & G.M. Taylor) Singer, 1982 SPECIES
-=======
+# Pleurella ardesiaca (G. Stev. & G.M. Taylor) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Neotrop. , Monogr. 32: 38 (1982)
+N. Z. Jl Bot. 9(3): 477 (1971)
 
 #### Original name
 Leucopaxillus ardesiacus G. Stev. & G.M. Taylor, 1964

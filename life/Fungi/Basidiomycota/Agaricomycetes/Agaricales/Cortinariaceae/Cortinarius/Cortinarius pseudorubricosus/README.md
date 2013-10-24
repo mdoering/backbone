@@ -1,5 +1,4 @@
-Cortinarius pseudorubricosus Reumaux SPECIES
-=======
+# Cortinarius pseudorubricosus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrospermum cormatum Wood SPECIES
-=======
+# Cylindrospermum cormatum Wood SPECIES
 
 #### Status
 ACCEPTED

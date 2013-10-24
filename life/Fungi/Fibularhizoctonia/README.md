@@ -1,5 +1,4 @@
-Fibularhizoctonia G.C. Adams & B. Kropp, 1996 GENUS
-=======
+# Fibularhizoctonia G.C. Adams & B. Kropp, 1996 GENUS
 
 #### Status
 ACCEPTED

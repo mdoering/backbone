@@ -1,5 +1,4 @@
-Anixia parietina Lindau SPECIES
-=======
+# Anixia parietina Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium pachylepis (Anzi) Jatta SPECIES
-=======
+# Endopyrenium pachylepis (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

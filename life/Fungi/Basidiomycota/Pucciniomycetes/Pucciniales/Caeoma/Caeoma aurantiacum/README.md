@@ -1,5 +1,4 @@
-Caeoma aurantiacum Bonord. SPECIES
-=======
+# Caeoma aurantiacum Bonord. SPECIES
 
 #### Status
 ACCEPTED

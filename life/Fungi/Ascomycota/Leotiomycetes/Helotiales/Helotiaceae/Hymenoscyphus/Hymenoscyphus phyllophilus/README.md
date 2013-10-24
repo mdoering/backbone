@@ -1,14 +1,13 @@
-Helotium phyllophilum (Desm.) Sacc., 1889 SPECIES
-=======
+# Hymenoscyphus phyllophilus (Desm.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 254 (1889)
+Revis. gen. pl. (Leipzig) 3(2): (1898)
 
 #### Original name
 null

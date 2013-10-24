@@ -1,5 +1,4 @@
-Uromyces bethelii Arthur SPECIES
-=======
+# Uromyces bethelii Arthur SPECIES
 
 #### Status
 ACCEPTED

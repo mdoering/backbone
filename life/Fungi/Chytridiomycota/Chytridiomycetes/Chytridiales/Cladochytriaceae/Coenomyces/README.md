@@ -1,17 +1,16 @@
-Deckenbachia Jacz. GENUS
-=======
+# Coenomyces K.N. Deckenb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Key to Fungi, Perfectifungi, I. Phycomycetes 32 (1931)
+Bot. Zap. 19: 15 (1901)
 
 #### Original name
-Deckenbachia Jacz.
+Coenomyces K.N. Deckenb.
 
 ### Remarks
 null

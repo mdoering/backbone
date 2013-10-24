@@ -1,5 +1,4 @@
-Biatora exemptilis Arnold SPECIES
-=======
+# Biatora exemptilis Arnold SPECIES
 
 #### Status
 ACCEPTED

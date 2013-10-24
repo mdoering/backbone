@@ -1,5 +1,4 @@
-Gomphus mamorensis Singer, 1983 SPECIES
-=======
+# Gomphus mamorensis Singer, 1983 SPECIES
 
 #### Status
 ACCEPTED

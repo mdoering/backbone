@@ -1,5 +1,4 @@
-Hypholoma rubrococcineum (Balletto) Nonis SPECIES
-=======
+# Hypholoma rubrococcineum (Balletto) Nonis SPECIES
 
 #### Status
 ACCEPTED

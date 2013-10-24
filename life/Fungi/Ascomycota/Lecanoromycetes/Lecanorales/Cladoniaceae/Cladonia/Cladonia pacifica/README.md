@@ -1,5 +1,4 @@
-Cladonia pacifica Ahti SPECIES
-=======
+# Cladonia pacifica Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum ovale Unna ex Guég. SPECIES
-=======
+# Trichosporum ovale Unna ex Guég. SPECIES
 
 #### Status
 ACCEPTED

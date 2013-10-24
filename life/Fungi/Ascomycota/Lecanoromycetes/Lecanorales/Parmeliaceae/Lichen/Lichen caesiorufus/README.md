@@ -1,5 +1,4 @@
-Lichen caesiorufus Schrad. SPECIES
-=======
+# Lichen caesiorufus Schrad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidiphilium organovorum Lobos et al., 1986 SPECIES
-=======
+# Acidiphilium organovorum Lobos et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

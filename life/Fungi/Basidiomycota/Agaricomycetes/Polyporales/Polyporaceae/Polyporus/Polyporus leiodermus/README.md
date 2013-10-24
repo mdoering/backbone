@@ -1,17 +1,16 @@
-Polyporus lejodermus Speg. SPECIES
-=======
+# Polyporus leiodermus Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 1: 134 (1854)
 
 #### Original name
-Polyporus lejodermus Speg.
+Polyporus leiodermus Mont.
 
 ### Remarks
 null

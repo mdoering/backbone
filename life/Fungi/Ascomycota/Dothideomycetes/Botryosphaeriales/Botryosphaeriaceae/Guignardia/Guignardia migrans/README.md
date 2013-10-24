@@ -1,5 +1,4 @@
-Guignardia migrans (Rehm) K.D. Hyde SPECIES
-=======
+# Guignardia migrans (Rehm) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

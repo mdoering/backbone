@@ -1,5 +1,4 @@
-Fusarium rhoicola Fautrey SPECIES
-=======
+# Fusarium rhoicola Fautrey SPECIES
 
 #### Status
 ACCEPTED

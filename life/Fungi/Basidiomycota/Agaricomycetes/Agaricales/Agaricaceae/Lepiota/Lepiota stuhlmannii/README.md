@@ -1,17 +1,16 @@
-Lepiota stuhlmanni Henn. SPECIES
-=======
+# Lepiota stuhlmannii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 17: 36 (1893)
 
 #### Original name
-Lepiota stuhlmanni Henn.
+Lepiota stuhlmannii Henn.
 
 ### Remarks
 null

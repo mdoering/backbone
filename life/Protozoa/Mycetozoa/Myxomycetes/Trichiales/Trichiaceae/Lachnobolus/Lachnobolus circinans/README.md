@@ -1,5 +1,4 @@
-Lachnobolus circinans (Fr.) Fr. SPECIES
-=======
+# Lachnobolus circinans (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

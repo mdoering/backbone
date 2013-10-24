@@ -1,5 +1,4 @@
-Ramularia corcontica var. corcontica VARIETY
-=======
+# Ramularia corcontica Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sitzungsberichte der Königlichen Böhmischen Gesellschaft der Wissenschaften Prag. 2: 7 (1903)
 
 #### Original name
-Ramularia corcontica var. corcontica
+Ramularia corcontica Bubák & Kabát
 
 ### Remarks
 null

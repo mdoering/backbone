@@ -1,5 +1,4 @@
-Paratrochammina Brönnimann, 1979 GENUS
-=======
+# Paratrochammina Brönnimann, 1979 GENUS
 
 #### Status
 ACCEPTED

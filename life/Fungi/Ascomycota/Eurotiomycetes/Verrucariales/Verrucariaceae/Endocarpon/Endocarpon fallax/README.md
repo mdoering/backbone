@@ -1,5 +1,4 @@
-Endocarpon fallax Somerf. SPECIES
-=======
+# Endocarpon fallax Somerf. SPECIES
 
 #### Status
 ACCEPTED

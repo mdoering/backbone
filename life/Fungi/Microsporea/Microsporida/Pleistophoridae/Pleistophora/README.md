@@ -1,17 +1,16 @@
-Plistophora Gurley, 1893 GENUS
-=======
+# Pleistophora Gurley GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tierreich, 5, 108.
+Bull. U. S. Fish Comm. , 11, 410.
 
 #### Original name
-null
+Pleistophora Gurley
 
 ### Remarks
 null

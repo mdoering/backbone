@@ -1,5 +1,4 @@
-Brachysporisporites elongatus Z.C. Song SPECIES
-=======
+# Brachysporisporites elongatus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

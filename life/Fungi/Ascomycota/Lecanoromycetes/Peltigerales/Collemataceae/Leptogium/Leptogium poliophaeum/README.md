@@ -1,5 +1,4 @@
-Leptogium poliophaeum Verdon SPECIES
-=======
+# Leptogium poliophaeum Verdon SPECIES
 
 #### Status
 ACCEPTED

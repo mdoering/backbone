@@ -1,5 +1,4 @@
-Kopriimonas GENUS
-=======
+# Kopriimonas GENUS
 
 #### Status
 ACCEPTED

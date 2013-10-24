@@ -1,5 +1,4 @@
-Ligninicola laevis Hohnk, 1955 SPECIES
-=======
+# Ligninicola laevis Hohnk, 1955 SPECIES
 
 #### Status
 ACCEPTED

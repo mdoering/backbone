@@ -1,5 +1,4 @@
-Hymenoscyphus griseo-olivaceus Gamundí & Giaiotti SPECIES
-=======
+# Hymenoscyphus griseo-olivaceus Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

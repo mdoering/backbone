@@ -1,5 +1,4 @@
-Pertusaria wilmsii Stizenb. SPECIES
-=======
+# Pertusaria wilmsii Stizenb. SPECIES
 
 #### Status
 ACCEPTED

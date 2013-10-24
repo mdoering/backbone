@@ -1,5 +1,4 @@
-Petaloferidium S.R. Jacobson, 1978 GENUS
-=======
+# Petaloferidium S.R. Jacobson, 1978 GENUS
 
 #### Status
 ACCEPTED

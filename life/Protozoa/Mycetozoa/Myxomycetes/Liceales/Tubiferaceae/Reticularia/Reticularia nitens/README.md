@@ -1,5 +1,4 @@
-Reticularia nitens Morgan SPECIES
-=======
+# Reticularia nitens Morgan SPECIES
 
 #### Status
 ACCEPTED

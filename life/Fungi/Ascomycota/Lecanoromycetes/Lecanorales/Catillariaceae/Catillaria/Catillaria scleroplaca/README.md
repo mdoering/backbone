@@ -1,5 +1,4 @@
-Catillaria scleroplaca (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria scleroplaca (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

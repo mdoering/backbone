@@ -1,5 +1,4 @@
-Verpa candida Sw. SPECIES
-=======
+# Verpa candida Sw. SPECIES
 
 #### Status
 ACCEPTED

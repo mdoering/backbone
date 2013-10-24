@@ -1,5 +1,4 @@
-Paxillopsis GENUS
-=======
+# Paxillopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytophaga columnaris (ex Davis, 1922) Reichenbach, 1989 SPECIES
-=======
+# Cytophaga columnaris (ex Davis, 1922) Reichenbach, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus reversus Berk. & Broome SPECIES
-=======
+# Agaricus reversus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

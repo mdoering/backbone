@@ -1,5 +1,4 @@
-Diploöspora longispora var. longispora VARIETY
-=======
+# Diploöspora longispora Matsush. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Icon. microfung. Matsush. lect. (Kobe) 61 (1975)
 
 #### Original name
-Diploöspora longispora var. longispora
+Diploöspora longispora Matsush.
 
 ### Remarks
 null

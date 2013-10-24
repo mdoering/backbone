@@ -1,5 +1,4 @@
-Cortinarius anomalellus Soop SPECIES
-=======
+# Cortinarius anomalellus Soop SPECIES
 
 #### Status
 ACCEPTED

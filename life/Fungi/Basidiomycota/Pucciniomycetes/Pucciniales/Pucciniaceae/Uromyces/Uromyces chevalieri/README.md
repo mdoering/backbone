@@ -1,5 +1,4 @@
-Uromyces chevalieri A.L. Guyot SPECIES
-=======
+# Uromyces chevalieri A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus coronatus With. SPECIES
-=======
+# Agaricus coronatus With. SPECIES
 
 #### Status
 ACCEPTED

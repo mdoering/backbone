@@ -1,5 +1,4 @@
-Amphidinium vitreum E.C. Herdman SPECIES
-=======
+# Amphidinium vitreum E.C. Herdman SPECIES
 
 #### Status
 ACCEPTED

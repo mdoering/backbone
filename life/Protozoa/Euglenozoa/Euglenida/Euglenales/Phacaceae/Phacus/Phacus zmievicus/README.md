@@ -1,5 +1,4 @@
-Phacus zmievicus Dedusenko-Stregoleva SPECIES
-=======
+# Phacus zmievicus Dedusenko-Stregoleva SPECIES
 
 #### Status
 ACCEPTED

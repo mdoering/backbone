@@ -1,17 +1,16 @@
-Cryptothecia culbersonae Patw. & Makhija SPECIES
-=======
+# Cryptothecia culbersoniae Patw. & Makhija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 7(2): 125 (1981)
 
 #### Original name
-Cryptothecia culbersonae Patw. & Makhija
+Cryptothecia culbersoniae Patw. & Makhija
 
 ### Remarks
 null

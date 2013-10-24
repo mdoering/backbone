@@ -1,5 +1,4 @@
-Diatrype phaeosperma Ellis SPECIES
-=======
+# Diatrype phaeosperma Ellis SPECIES
 
 #### Status
 ACCEPTED

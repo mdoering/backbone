@@ -1,5 +1,4 @@
-Sphaerotheca voandzeiae Bouriquet SPECIES
-=======
+# Sphaerotheca voandzeiae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus purpureophyllus Jacobashch SPECIES
-=======
+# Coprinus purpureophyllus Jacobashch SPECIES
 
 #### Status
 ACCEPTED

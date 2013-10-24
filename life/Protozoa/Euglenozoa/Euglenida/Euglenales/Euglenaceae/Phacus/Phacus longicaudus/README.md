@@ -1,11 +1,10 @@
-Phacus longicaudus subsp. longicaudus SUBSPECIES
-=======
+# Phacus longicaudus (Ehrenberg) Dujardin SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The National Checklist of Taiwan
 
 #### Published in
 null

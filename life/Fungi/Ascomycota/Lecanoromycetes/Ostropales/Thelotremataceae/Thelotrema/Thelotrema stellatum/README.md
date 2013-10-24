@@ -1,14 +1,13 @@
-Leptotrema stellatum Hale SPECIES
-=======
+# Thelotrema stellatum (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 38: 54 (1978)
+Mycotaxon 11(1): 132 (1980)
 
 #### Original name
 Leptotrema stellatum Hale

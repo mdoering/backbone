@@ -1,5 +1,4 @@
-Lactifluus gerardii (Peck) Kuntze SPECIES
-=======
+# Lactifluus gerardii (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

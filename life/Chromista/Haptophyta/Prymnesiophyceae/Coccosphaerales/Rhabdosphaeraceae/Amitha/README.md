@@ -1,5 +1,4 @@
-Amitha Shafik, 1989 GENUS
-=======
+# Amitha Shafik, 1989 GENUS
 
 #### Status
 ACCEPTED

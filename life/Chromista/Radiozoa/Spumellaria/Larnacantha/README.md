@@ -1,5 +1,4 @@
-Larnacantha Haeckel, 1887 GENUS
-=======
+# Larnacantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

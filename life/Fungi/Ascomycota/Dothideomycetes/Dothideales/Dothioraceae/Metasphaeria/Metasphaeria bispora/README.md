@@ -1,5 +1,4 @@
-Metasphaeria bispora P. Larsen SPECIES
-=======
+# Metasphaeria bispora P. Larsen SPECIES
 
 #### Status
 ACCEPTED

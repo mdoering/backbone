@@ -1,5 +1,4 @@
-Anatolinites alternarioides Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites alternarioides Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
 ACCEPTED

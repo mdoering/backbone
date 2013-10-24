@@ -1,5 +1,4 @@
-Microeccrina parva Maessen SPECIES
-=======
+# Microeccrina parva Maessen SPECIES
 
 #### Status
 ACCEPTED

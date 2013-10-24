@@ -1,5 +1,4 @@
-Vialina radicicola Curzi SPECIES
-=======
+# Vialina radicicola Curzi SPECIES
 
 #### Status
 ACCEPTED

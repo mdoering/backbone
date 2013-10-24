@@ -1,5 +1,4 @@
-Hygrophorus inocyboides R. Heim SPECIES
-=======
+# Hygrophorus inocyboides R. Heim SPECIES
 
 #### Status
 ACCEPTED

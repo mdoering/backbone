@@ -1,5 +1,4 @@
-Rhynchosporium orthosporum Caldwell, 1937 SPECIES
-=======
+# Rhynchosporium orthosporum Caldwell, 1937 SPECIES
 
 #### Status
 ACCEPTED

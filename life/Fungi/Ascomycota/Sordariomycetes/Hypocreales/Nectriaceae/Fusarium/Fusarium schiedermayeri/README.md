@@ -1,5 +1,4 @@
-Fusarium schiedermayeri (Thüm.) Sacc. SPECIES
-=======
+# Fusarium schiedermayeri (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

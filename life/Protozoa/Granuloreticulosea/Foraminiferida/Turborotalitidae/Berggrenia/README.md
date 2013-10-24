@@ -1,5 +1,4 @@
-Berggrenia Parker, 1976 GENUS
-=======
+# Berggrenia Parker, 1976 GENUS
 
 #### Status
 ACCEPTED

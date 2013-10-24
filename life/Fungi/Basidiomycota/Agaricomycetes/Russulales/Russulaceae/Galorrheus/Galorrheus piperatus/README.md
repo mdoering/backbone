@@ -1,5 +1,4 @@
-Galorrheus piperatus (Scop.) P. Kumm. SPECIES
-=======
+# Galorrheus piperatus (Scop.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

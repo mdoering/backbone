@@ -1,5 +1,4 @@
-Leptonia straminea Rick SPECIES
-=======
+# Leptonia straminea Rick SPECIES
 
 #### Status
 ACCEPTED

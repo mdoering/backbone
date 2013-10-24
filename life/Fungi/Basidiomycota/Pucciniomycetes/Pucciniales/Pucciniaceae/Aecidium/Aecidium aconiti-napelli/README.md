@@ -1,5 +1,4 @@
-Aecidium aconiti-napelli (DC.) G. Winter SPECIES
-=======
+# Aecidium aconiti-napelli (DC.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

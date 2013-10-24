@@ -1,5 +1,4 @@
-Microdiplodia bryoniae (Zimm.) Sacc. & Trotter SPECIES
-=======
+# Microdiplodia bryoniae (Zimm.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

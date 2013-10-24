@@ -1,5 +1,4 @@
-Maravalia elata (Syd. & P. Syd.) Mains SPECIES
-=======
+# Maravalia elata (Syd. & P. Syd.) Mains SPECIES
 
 #### Status
 ACCEPTED

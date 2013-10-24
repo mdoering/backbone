@@ -1,5 +1,4 @@
-Oidium opuntiaeforme Ces. SPECIES
-=======
+# Oidium opuntiaeforme Ces. SPECIES
 
 #### Status
 ACCEPTED

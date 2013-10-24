@@ -1,5 +1,4 @@
-Nectriopsis oxyspora Samuels SPECIES
-=======
+# Nectriopsis oxyspora Samuels SPECIES
 
 #### Status
 ACCEPTED

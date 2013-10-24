@@ -1,5 +1,4 @@
-Ectocarpus acanthophorus Kützing SPECIES
-=======
+# Ectocarpus acanthophorus Kützing SPECIES
 
 #### Status
 ACCEPTED

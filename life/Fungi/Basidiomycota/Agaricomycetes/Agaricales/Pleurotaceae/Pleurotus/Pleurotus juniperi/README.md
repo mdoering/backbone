@@ -1,5 +1,4 @@
-Pleurotus juniperi Velen. SPECIES
-=======
+# Pleurotus juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

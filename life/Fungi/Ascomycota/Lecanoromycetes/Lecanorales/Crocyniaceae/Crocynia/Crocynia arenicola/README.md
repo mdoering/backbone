@@ -1,5 +1,4 @@
-Crocynia arenicola Hue SPECIES
-=======
+# Crocynia arenicola Hue SPECIES
 
 #### Status
 ACCEPTED

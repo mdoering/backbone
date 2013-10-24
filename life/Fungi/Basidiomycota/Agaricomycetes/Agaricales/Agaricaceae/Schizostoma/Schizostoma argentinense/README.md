@@ -1,5 +1,4 @@
-Schizostoma argentinense (Speg.) Long SPECIES
-=======
+# Schizostoma argentinense (Speg.) Long SPECIES
 
 #### Status
 ACCEPTED

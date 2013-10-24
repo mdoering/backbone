@@ -1,17 +1,16 @@
-Clitocybe subilludens Murrill, 1945 SPECIES
-=======
+# Omphalotus subilludens (Murrill) H.E. Bigelow, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Q. Jl Fla Acad. Sci. 8(2): 198 (1945)
+Sydowia 35: 67 (1982)
 
 #### Original name
-Clitocybe subilludens Murrill, 1945
+Monodelphus subilludens Murrill, 1945
 
 ### Remarks
 null

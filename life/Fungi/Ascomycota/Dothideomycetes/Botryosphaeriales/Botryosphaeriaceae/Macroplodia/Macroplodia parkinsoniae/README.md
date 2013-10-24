@@ -1,5 +1,4 @@
-Macroplodia parkinsoniae (Speg.) Kuntze SPECIES
-=======
+# Macroplodia parkinsoniae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

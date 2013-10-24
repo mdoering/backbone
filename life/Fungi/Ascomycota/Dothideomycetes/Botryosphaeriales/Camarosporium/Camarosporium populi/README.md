@@ -1,5 +1,4 @@
-Camarosporium populi Oudem. SPECIES
-=======
+# Camarosporium populi Oudem. SPECIES
 
 #### Status
 ACCEPTED

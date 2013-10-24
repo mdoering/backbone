@@ -1,5 +1,4 @@
-Nephrochytrium stellatum Couch SPECIES
-=======
+# Nephrochytrium stellatum Couch SPECIES
 
 #### Status
 ACCEPTED

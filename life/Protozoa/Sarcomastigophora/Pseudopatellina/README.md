@@ -1,5 +1,4 @@
-Pseudopatellina Kenawy & Nyiro, 1967 GENUS
-=======
+# Pseudopatellina Kenawy & Nyiro, 1967 GENUS
 
 #### Status
 ACCEPTED

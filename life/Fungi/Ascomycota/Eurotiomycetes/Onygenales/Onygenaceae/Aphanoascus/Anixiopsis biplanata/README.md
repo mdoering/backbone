@@ -1,5 +1,4 @@
-Anixiopsis biplanata E. Guého & De Vroey, 1986 SPECIES
-=======
+# Anixiopsis biplanata E. Guého & De Vroey, 1986 SPECIES
 
 #### Status
 ACCEPTED

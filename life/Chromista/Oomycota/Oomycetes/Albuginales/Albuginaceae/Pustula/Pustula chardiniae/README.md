@@ -1,5 +1,4 @@
-Pustula chardiniae (Bremer & Petr.) Thines, 2005 SPECIES
-=======
+# Pustula chardiniae (Bremer & Petr.) Thines, 2005 SPECIES
 
 #### Status
 ACCEPTED

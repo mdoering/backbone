@@ -1,5 +1,4 @@
-Phaeocystis cordata A. Zingone & M. J. Chrétiennot-Dinet SPECIES
-=======
+# Phaeocystis cordata A. Zingone & M. J. Chrétiennot-Dinet SPECIES
 
 #### Status
 ACCEPTED

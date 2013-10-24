@@ -1,5 +1,4 @@
-Trimyema echinometrae Groliere, Puytorac & Grain, 1980 SPECIES
-=======
+# Trimyema echinometrae Groliere, Puytorac & Grain, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epipolaeum petasitidis (Fuckel) E. Müll. SPECIES
-=======
+# Epipolaeum petasitidis (Fuckel) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

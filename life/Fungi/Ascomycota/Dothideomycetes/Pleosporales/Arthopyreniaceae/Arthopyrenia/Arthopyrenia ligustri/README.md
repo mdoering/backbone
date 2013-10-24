@@ -1,5 +1,4 @@
-Arthopyrenia ligustri A. Massal. SPECIES
-=======
+# Arthopyrenia ligustri A. Massal. SPECIES
 
 #### Status
 ACCEPTED

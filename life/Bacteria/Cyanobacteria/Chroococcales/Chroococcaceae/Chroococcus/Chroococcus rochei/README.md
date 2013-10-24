@@ -1,5 +1,4 @@
-Chroococcus rochei Virieux SPECIES
-=======
+# Chroococcus rochei Virieux SPECIES
 
 #### Status
 ACCEPTED

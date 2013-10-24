@@ -1,5 +1,4 @@
-Phacidium juglandis R. Ludw. SPECIES
-=======
+# Phacidium juglandis R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

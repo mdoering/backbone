@@ -1,5 +1,4 @@
-Revinotesta comosa (Vavrdová, 1984) Moczydlowska, 1998 SPECIES
-=======
+# Revinotesta comosa (Vavrdová, 1984) Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

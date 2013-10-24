@@ -1,5 +1,4 @@
-Metasphaeria seriata Ellis & Everh. SPECIES
-=======
+# Metasphaeria seriata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

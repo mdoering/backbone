@@ -1,5 +1,4 @@
-Meruliporia GENUS
-=======
+# Meruliporia GENUS
 
 #### Status
 ACCEPTED

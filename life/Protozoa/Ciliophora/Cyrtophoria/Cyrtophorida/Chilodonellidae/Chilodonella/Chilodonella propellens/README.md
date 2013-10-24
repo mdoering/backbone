@@ -1,8 +1,7 @@
-Chilodon propellens Gruber SPECIES
-=======
+# Chilodonella propellens Engelmann, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

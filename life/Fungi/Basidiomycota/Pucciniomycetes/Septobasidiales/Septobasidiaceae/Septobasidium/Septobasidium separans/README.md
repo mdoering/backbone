@@ -1,5 +1,4 @@
-Septobasidium separans Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium separans Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

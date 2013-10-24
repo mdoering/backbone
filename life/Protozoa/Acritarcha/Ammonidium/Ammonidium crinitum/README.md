@@ -1,5 +1,4 @@
-Ammonidium crinitum (Grishina in Grishina & Klenina, 1981) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Ammonidium crinitum (Grishina in Grishina & Klenina, 1981) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

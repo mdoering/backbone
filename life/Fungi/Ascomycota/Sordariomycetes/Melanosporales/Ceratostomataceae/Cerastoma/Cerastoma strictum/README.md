@@ -1,5 +1,4 @@
-Cerastoma strictum (Pers.) Quél. SPECIES
-=======
+# Cerastoma strictum (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

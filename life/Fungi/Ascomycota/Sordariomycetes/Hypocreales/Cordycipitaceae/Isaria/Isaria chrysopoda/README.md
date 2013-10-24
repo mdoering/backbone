@@ -1,5 +1,4 @@
-Isaria chrysopoda Bres. SPECIES
-=======
+# Isaria chrysopoda Bres. SPECIES
 
 #### Status
 ACCEPTED

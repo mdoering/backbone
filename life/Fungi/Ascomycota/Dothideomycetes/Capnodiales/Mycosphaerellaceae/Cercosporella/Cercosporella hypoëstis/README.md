@@ -1,5 +1,4 @@
-Cercosporella hypoëstis Hansf. SPECIES
-=======
+# Cercosporella hypoëstis Hansf. SPECIES
 
 #### Status
 ACCEPTED

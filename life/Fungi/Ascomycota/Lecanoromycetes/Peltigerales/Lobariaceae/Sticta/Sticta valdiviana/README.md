@@ -1,5 +1,4 @@
-Sticta valdiviana Nyl. SPECIES
-=======
+# Sticta valdiviana Nyl. SPECIES
 
 #### Status
 ACCEPTED

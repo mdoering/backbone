@@ -1,5 +1,4 @@
-Lancisporomyces Santam. GENUS
-=======
+# Lancisporomyces Santam. GENUS
 
 #### Status
 ACCEPTED

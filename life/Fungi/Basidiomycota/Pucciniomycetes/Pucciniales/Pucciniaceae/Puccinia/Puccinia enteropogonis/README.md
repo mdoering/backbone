@@ -1,5 +1,4 @@
-Puccinia enteropogonis P. Syd. & Syd. SPECIES
-=======
+# Puccinia enteropogonis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenotrochila phillyreae (Pass.) Höhn. SPECIES
-=======
+# Pyrenotrochila phillyreae (Pass.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

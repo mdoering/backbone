@@ -1,5 +1,4 @@
-Verrucaria helveticorum Zehetl. SPECIES
-=======
+# Verrucaria helveticorum Zehetl. SPECIES
 
 #### Status
 ACCEPTED

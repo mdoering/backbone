@@ -1,5 +1,4 @@
-Kriegella aquimaris Nedashkovskaya, Suzuki, Kim & Mikhailov, 2008 SPECIES
-=======
+# Kriegella aquimaris Nedashkovskaya, Suzuki, Kim & Mikhailov, 2008 SPECIES
 
 #### Status
 ACCEPTED

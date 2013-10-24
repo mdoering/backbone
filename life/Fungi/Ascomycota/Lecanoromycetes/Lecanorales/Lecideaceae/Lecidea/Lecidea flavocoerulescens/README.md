@@ -1,5 +1,4 @@
-Lecidea flavocoerulescens f. flavocoerulescens FORM
-=======
+# Lecidea flavocoerulescens Hornem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. lich. 23 (1810)
 
 #### Original name
-Lecidea flavocoerulescens f. flavocoerulescens
+Lecidea flavocoerulescens Hornem.
 
 ### Remarks
 null

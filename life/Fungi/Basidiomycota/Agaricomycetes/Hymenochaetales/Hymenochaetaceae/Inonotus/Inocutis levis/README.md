@@ -1,5 +1,4 @@
-Inocutis levis (P. Karst.) Y.C. Dai SPECIES
-=======
+# Inocutis levis (P. Karst.) Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

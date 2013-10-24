@@ -1,5 +1,4 @@
-Lachnocladium setosum (Peck) Sacc. SPECIES
-=======
+# Lachnocladium setosum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

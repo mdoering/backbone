@@ -1,5 +1,4 @@
-Aulographaceae Luttr. FAMILY
-=======
+# Aulographaceae Luttr. FAMILY
 
 #### Status
 ACCEPTED

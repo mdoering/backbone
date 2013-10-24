@@ -1,5 +1,4 @@
-Uromyces thwaitesii Berk. & Broome SPECIES
-=======
+# Uromyces thwaitesii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

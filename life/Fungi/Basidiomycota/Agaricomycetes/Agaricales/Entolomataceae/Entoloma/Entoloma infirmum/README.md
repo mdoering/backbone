@@ -1,5 +1,4 @@
-Entoloma infirmum E. Horak SPECIES
-=======
+# Entoloma infirmum E. Horak SPECIES
 
 #### Status
 ACCEPTED

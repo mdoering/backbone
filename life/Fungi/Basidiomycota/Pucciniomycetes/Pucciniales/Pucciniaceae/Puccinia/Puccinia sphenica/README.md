@@ -1,5 +1,4 @@
-Puccinia sphenica Arthur SPECIES
-=======
+# Puccinia sphenica Arthur SPECIES
 
 #### Status
 ACCEPTED

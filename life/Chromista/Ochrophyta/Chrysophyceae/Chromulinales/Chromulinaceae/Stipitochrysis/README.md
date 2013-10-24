@@ -1,5 +1,4 @@
-Stipitochrysis Korshikov, 1941 GENUS
-=======
+# Stipitochrysis Korshikov, 1941 GENUS
 
 #### Status
 ACCEPTED

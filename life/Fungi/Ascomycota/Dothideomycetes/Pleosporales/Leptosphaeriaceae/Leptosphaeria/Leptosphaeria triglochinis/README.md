@@ -1,5 +1,4 @@
-Leptosphaeria triglochinis J. Schröt. SPECIES
-=======
+# Leptosphaeria triglochinis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

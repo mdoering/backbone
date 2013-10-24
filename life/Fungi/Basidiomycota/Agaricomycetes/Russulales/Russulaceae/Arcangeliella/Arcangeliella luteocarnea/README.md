@@ -1,5 +1,4 @@
-Arcangeliella luteocarnea Lloyd SPECIES
-=======
+# Arcangeliella luteocarnea Lloyd SPECIES
 
 #### Status
 ACCEPTED

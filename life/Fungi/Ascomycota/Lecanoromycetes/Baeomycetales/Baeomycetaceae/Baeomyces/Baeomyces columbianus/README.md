@@ -1,5 +1,4 @@
-Baeomyces columbianus Vain. SPECIES
-=======
+# Baeomyces columbianus Vain. SPECIES
 
 #### Status
 ACCEPTED

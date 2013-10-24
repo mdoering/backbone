@@ -1,5 +1,4 @@
-Spongellipsidium Haeckel, 1887 GENUS
-=======
+# Spongellipsidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

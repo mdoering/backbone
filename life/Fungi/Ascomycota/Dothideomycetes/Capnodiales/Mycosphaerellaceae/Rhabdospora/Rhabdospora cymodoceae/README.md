@@ -1,5 +1,4 @@
-Rhabdospora cymodoceae Tassi SPECIES
-=======
+# Rhabdospora cymodoceae Tassi SPECIES
 
 #### Status
 ACCEPTED

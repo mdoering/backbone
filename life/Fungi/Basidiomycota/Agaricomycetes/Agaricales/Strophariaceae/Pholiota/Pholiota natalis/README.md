@@ -1,5 +1,4 @@
-Pholiota natalis Singer SPECIES
-=======
+# Pholiota natalis Singer SPECIES
 
 #### Status
 ACCEPTED

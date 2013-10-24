@@ -1,5 +1,4 @@
-Dictyoarthrinopsis kelleyi Dominik & Majchr. SPECIES
-=======
+# Dictyoarthrinopsis kelleyi Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

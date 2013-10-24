@@ -1,5 +1,4 @@
-Trichothyrium iquitosense Theiss. SPECIES
-=======
+# Trichothyrium iquitosense Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina endophragmia I.M. Lamb SPECIES
-=======
+# Rinodina endophragmia I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

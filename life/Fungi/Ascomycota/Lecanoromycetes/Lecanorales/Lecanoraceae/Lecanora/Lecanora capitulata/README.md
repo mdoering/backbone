@@ -1,5 +1,4 @@
-Lecanora capitulata Motyka SPECIES
-=======
+# Lecanora capitulata Motyka SPECIES
 
 #### Status
 ACCEPTED

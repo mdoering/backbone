@@ -1,5 +1,4 @@
-Aecidium cephalanthi-peruviani Henn. SPECIES
-=======
+# Aecidium cephalanthi-peruviani Henn. SPECIES
 
 #### Status
 ACCEPTED

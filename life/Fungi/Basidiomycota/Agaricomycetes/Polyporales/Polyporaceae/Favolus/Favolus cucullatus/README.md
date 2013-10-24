@@ -1,5 +1,4 @@
-Favolus cucullatus Mont. SPECIES
-=======
+# Favolus cucullatus Mont. SPECIES
 
 #### Status
 ACCEPTED

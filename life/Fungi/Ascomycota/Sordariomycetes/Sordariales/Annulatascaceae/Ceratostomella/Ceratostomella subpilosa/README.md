@@ -1,5 +1,4 @@
-Ceratostomella subpilosa (Fuckel) Sacc. SPECIES
-=======
+# Ceratostomella subpilosa (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe franklinensis A.M. Young & A.K. Mills SPECIES
-=======
+# Hygrocybe franklinensis A.M. Young & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

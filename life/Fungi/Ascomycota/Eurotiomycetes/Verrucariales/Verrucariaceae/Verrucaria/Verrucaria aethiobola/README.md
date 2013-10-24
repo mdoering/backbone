@@ -1,17 +1,16 @@
-Endocarpon cataleptum var. cataleptum VARIETY
-=======
+# Verrucaria aethiobola Wahlenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Acharius, Method. Lich. , Suppl. 17 (1803)
 
 #### Original name
-Endocarpon cataleptum var. cataleptum
+Verrucaria aethiobola Wahlenb.
 
 ### Remarks
 null

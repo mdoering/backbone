@@ -1,5 +1,4 @@
-Uromyces sophorae S. Ahmad SPECIES
-=======
+# Uromyces sophorae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

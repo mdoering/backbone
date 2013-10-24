@@ -1,5 +1,4 @@
-Usnea rachiata Stirt. SPECIES
-=======
+# Usnea rachiata Stirt. SPECIES
 
 #### Status
 ACCEPTED

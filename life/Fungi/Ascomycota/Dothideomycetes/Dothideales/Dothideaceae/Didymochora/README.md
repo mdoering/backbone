@@ -1,5 +1,4 @@
-Didymochora Höhn. GENUS
-=======
+# Didymochora Höhn. GENUS
 
 #### Status
 ACCEPTED

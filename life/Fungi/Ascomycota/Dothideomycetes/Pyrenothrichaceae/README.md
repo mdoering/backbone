@@ -1,5 +1,4 @@
-Pyrenothrichaceae FAMILY
-=======
+# Pyrenothrichaceae FAMILY
 
 #### Status
 ACCEPTED

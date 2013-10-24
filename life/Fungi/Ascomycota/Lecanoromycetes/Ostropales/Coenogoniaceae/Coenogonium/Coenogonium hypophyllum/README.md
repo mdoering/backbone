@@ -1,14 +1,13 @@
-Dimerella hypophylla Vezda SPECIES
-=======
+# Coenogonium hypophyllum (Vezda) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia geobot. phytotax. 10: 406 (1975)
+in Lücking & Kalb, Bot. Jb. 122(1): 32 (2000)
 
 #### Original name
 Dimerella hypophylla Vezda

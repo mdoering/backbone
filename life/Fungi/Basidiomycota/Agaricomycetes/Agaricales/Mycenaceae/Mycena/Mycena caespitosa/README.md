@@ -1,5 +1,4 @@
-Mycena caespitosa Velen. SPECIES
-=======
+# Mycena caespitosa Velen. SPECIES
 
 #### Status
 ACCEPTED

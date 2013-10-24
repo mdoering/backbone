@@ -1,5 +1,4 @@
-Melanotheca wrightii Müll. Arg. SPECIES
-=======
+# Melanotheca wrightii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

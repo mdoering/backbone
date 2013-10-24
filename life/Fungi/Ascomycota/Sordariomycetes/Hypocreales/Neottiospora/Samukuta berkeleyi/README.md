@@ -1,17 +1,16 @@
-Samukuta berkeleyii Subram. & K. Ramakr. SPECIES
-=======
+# Samukuta berkeleyi Subram. & K. Ramakr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 36: (1957)
 
 #### Original name
-Samukuta berkeleyii Subram. & K. Ramakr.
+Samukuta berkeleyi Subram. & K. Ramakr.
 
 ### Remarks
 null

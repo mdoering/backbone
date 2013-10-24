@@ -1,5 +1,4 @@
-Sticta poechii Zahlbr. SPECIES
-=======
+# Sticta poechii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

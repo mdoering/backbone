@@ -1,5 +1,4 @@
-Peziza coccinella P. Karst. SPECIES
-=======
+# Peziza coccinella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

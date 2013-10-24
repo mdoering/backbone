@@ -1,17 +1,16 @@
-Mortierella oblatispora W. Gams & G.J. Bollen SPECIES
-=======
+# Neolentinus schaefferi (Weinm.) Redhead & Ginns, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
-null
+Agaricus schaefferi Weinm., 1836
 
 ### Remarks
 null

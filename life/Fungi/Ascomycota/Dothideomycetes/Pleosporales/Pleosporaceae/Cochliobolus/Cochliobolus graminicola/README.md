@@ -1,5 +1,4 @@
-Cochliobolus graminicola Alcorn, 1998 SPECIES
-=======
+# Cochliobolus graminicola Alcorn, 1998 SPECIES
 
 #### Status
 ACCEPTED

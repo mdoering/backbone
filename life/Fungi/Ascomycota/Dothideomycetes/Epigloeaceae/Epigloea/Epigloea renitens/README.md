@@ -1,5 +1,4 @@
-Epigloea renitens (Grummann) Döbbeler SPECIES
-=======
+# Epigloea renitens (Grummann) Döbbeler SPECIES
 
 #### Status
 ACCEPTED

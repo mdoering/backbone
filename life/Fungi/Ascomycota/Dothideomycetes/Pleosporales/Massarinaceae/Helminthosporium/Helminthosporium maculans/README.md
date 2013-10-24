@@ -1,5 +1,4 @@
-Helminthosporium maculans Catt. SPECIES
-=======
+# Helminthosporium maculans Catt. SPECIES
 
 #### Status
 ACCEPTED

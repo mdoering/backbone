@@ -1,5 +1,4 @@
-Dimerosporium vaccinii Magnus SPECIES
-=======
+# Dimerosporium vaccinii Magnus SPECIES
 
 #### Status
 ACCEPTED

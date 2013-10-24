@@ -1,5 +1,4 @@
-Mogyorodia P. Palik, 1966 GENUS
-=======
+# Mogyorodia P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

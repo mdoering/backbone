@@ -1,5 +1,4 @@
-Dothidea arundinis Lév. SPECIES
-=======
+# Dothidea arundinis Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis scabra (Sacc.) Traverso SPECIES
-=======
+# Phomopsis scabra (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

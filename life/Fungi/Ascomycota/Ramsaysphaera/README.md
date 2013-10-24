@@ -1,5 +1,4 @@
-Ramsaysphaera H.D. Pflug GENUS
-=======
+# Ramsaysphaera H.D. Pflug GENUS
 
 #### Status
 ACCEPTED

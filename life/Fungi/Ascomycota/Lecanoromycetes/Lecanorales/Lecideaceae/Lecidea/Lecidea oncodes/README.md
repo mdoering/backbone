@@ -1,5 +1,4 @@
-Lecidea oncodes Tuck. SPECIES
-=======
+# Lecidea oncodes Tuck. SPECIES
 
 #### Status
 ACCEPTED

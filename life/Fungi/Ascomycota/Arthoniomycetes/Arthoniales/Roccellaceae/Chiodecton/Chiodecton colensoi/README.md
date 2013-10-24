@@ -1,14 +1,13 @@
-Stigmatidium capense (A. Massal.) Zahlbr. SPECIES
-=======
+# Chiodecton colensoi (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 474 (1923)
+Bull. Herb. Boissier 2(App. 1): 86 (1894)
 
 #### Original name
 Enterographa capensis A. Massal.

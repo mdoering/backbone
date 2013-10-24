@@ -1,5 +1,4 @@
-Nematostigma caudicium Syd. SPECIES
-=======
+# Nematostigma caudicium Syd. SPECIES
 
 #### Status
 ACCEPTED

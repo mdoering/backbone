@@ -1,5 +1,4 @@
-Boletus prolinius Grgur. SPECIES
-=======
+# Boletus prolinius Grgur. SPECIES
 
 #### Status
 ACCEPTED

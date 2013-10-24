@@ -1,5 +1,4 @@
-Peziza nigrocaesia Schumach. SPECIES
-=======
+# Peziza nigrocaesia Schumach. SPECIES
 
 #### Status
 ACCEPTED

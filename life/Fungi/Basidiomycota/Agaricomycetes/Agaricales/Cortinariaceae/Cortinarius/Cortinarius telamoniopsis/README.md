@@ -1,5 +1,4 @@
-Cortinarius telamoniopsis Rob. Henry SPECIES
-=======
+# Cortinarius telamoniopsis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

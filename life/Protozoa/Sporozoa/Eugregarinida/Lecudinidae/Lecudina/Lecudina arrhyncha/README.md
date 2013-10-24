@@ -1,5 +1,4 @@
-Lecudina arrhyncha Bogolepova, 1953 SPECIES
-=======
+# Lecudina arrhyncha Bogolepova, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligella ureolytica Rossau et al., 1987 SPECIES
-=======
+# Oligella ureolytica Rossau et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

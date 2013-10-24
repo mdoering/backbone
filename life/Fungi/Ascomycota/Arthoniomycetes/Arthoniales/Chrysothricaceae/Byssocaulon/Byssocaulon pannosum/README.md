@@ -1,5 +1,4 @@
-Byssocaulon pannosum Müll. Arg. SPECIES
-=======
+# Byssocaulon pannosum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

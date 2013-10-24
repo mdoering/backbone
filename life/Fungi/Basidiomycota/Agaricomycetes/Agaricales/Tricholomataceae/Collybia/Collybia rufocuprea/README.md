@@ -1,5 +1,4 @@
-Collybia rufocuprea Raithelh. SPECIES
-=======
+# Collybia rufocuprea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

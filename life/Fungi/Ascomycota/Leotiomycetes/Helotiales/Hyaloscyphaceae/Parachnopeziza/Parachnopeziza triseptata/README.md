@@ -1,14 +1,13 @@
-Calycellina triseptata Raschle, 1979 SPECIES
-=======
+# Parachnopeziza triseptata (Raschle) Korf & W.Y. Zhuang, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 30: 667 (1979)
+Mycotaxon 22(2): 487 (1985)
 
 #### Original name
 Calycellina triseptata Raschle, 1979

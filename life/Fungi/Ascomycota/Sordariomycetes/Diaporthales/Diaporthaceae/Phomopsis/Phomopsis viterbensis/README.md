@@ -1,5 +1,4 @@
-Phomopsis viterbensis Camici SPECIES
-=======
+# Phomopsis viterbensis Camici SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora billbergiae Verwoerd & Du Plessis SPECIES
-=======
+# Pleospora billbergiae Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

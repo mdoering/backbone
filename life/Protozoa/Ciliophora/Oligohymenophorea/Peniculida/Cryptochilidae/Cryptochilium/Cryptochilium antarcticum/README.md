@@ -1,5 +1,4 @@
-Cryptochilium antarcticum SPECIES
-=======
+# Cryptochilium antarcticum SPECIES
 
 #### Status
 ACCEPTED

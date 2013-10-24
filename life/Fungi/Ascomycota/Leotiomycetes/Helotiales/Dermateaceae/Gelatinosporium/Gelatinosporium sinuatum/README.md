@@ -1,5 +1,4 @@
-Gelatinosporium sinuatum A. Funk SPECIES
-=======
+# Gelatinosporium sinuatum A. Funk SPECIES
 
 #### Status
 ACCEPTED

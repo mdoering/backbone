@@ -1,5 +1,4 @@
-Puccinia jaliscana Arthur SPECIES
-=======
+# Puccinia jaliscana Arthur SPECIES
 
 #### Status
 ACCEPTED

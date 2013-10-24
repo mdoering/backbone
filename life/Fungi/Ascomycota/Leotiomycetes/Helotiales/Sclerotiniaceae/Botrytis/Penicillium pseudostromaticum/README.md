@@ -1,5 +1,4 @@
-Penicillium pseudostromaticum Hodges, G.M. Warner & Rogerson, 1971 SPECIES
-=======
+# Penicillium pseudostromaticum Hodges, G.M. Warner & Rogerson, 1971 SPECIES
 
 #### Status
 DOUBTFUL

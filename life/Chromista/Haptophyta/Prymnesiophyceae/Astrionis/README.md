@@ -1,5 +1,4 @@
-Astrionis Wilcoxon GENUS
-=======
+# Astrionis Wilcoxon GENUS
 
 #### Status
 ACCEPTED

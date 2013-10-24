@@ -1,5 +1,4 @@
-Psathyrella agrestis A.H. Sm. SPECIES
-=======
+# Psathyrella agrestis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

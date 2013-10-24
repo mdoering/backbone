@@ -1,5 +1,4 @@
-Mycoplasma mobile Kirchhoff et al., 1987 SPECIES
-=======
+# Mycoplasma mobile Kirchhoff et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

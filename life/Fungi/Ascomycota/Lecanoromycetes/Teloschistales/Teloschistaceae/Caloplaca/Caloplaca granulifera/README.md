@@ -1,5 +1,4 @@
-Caloplaca granulifera (Müll. Arg.) Jatta SPECIES
-=======
+# Caloplaca granulifera (Müll. Arg.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta bresadolae Sacc. & D. Sacc. SPECIES
-=======
+# Phyllosticta bresadolae Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

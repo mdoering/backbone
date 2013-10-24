@@ -1,5 +1,4 @@
-Gastroboletus suilloides Thiers SPECIES
-=======
+# Gastroboletus suilloides Thiers SPECIES
 
 #### Status
 ACCEPTED

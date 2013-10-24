@@ -1,5 +1,4 @@
-Aecidium brideliae Henn. & A. Evans SPECIES
-=======
+# Aecidium brideliae Henn. & A. Evans SPECIES
 
 #### Status
 ACCEPTED

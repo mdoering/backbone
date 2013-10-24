@@ -1,5 +1,4 @@
-Valsa perfodiens Nitschke SPECIES
-=======
+# Valsa perfodiens Nitschke SPECIES
 
 #### Status
 ACCEPTED

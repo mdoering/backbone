@@ -1,5 +1,4 @@
-Corticium calothrix Pat. SPECIES
-=======
+# Corticium calothrix Pat. SPECIES
 
 #### Status
 ACCEPTED

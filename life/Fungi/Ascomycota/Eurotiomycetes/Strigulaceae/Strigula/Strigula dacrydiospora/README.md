@@ -1,5 +1,4 @@
-Strigula dacrydiospora Zahlbr. SPECIES
-=======
+# Strigula dacrydiospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

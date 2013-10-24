@@ -1,5 +1,4 @@
-Mycena valida Maas Geest. & Münzmay SPECIES
-=======
+# Mycena valida Maas Geest. & Münzmay SPECIES
 
 #### Status
 ACCEPTED

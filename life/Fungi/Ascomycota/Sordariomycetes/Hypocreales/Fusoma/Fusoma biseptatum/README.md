@@ -1,5 +1,4 @@
-Fusoma biseptatum Sacc., 1893 SPECIES
-=======
+# Fusoma biseptatum Sacc., 1893 SPECIES
 
 #### Status
 ACCEPTED

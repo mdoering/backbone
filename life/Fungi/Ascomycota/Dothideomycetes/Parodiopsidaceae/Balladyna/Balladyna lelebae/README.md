@@ -1,5 +1,4 @@
-Balladyna lelebae W. Yamam. SPECIES
-=======
+# Balladyna lelebae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

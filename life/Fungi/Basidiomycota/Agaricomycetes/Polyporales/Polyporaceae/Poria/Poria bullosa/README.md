@@ -1,5 +1,4 @@
-Poria bullosa (Weinm.) Sacc. SPECIES
-=======
+# Poria bullosa (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

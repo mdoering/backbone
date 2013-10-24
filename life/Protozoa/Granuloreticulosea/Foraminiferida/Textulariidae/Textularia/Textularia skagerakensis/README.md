@@ -1,5 +1,4 @@
-Textularia skagerakensis Höglund, 1947 SPECIES
-=======
+# Textularia skagerakensis Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

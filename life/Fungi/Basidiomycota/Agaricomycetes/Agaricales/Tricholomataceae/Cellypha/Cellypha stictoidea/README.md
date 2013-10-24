@@ -1,14 +1,13 @@
-Resupinatus stictoideus (Speg.) Nakasone, 2008 SPECIES
-=======
+# Cellypha stictoidea (Speg.) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 29(3): 242 (2008)
+Beih. Sydowia 4: 57 (1961)
 
 #### Original name
 Cyphella stictoidea Speg., 1883

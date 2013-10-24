@@ -1,5 +1,4 @@
-Tricladium Ingold GENUS
-=======
+# Tricladium Ingold GENUS
 
 #### Status
 ACCEPTED

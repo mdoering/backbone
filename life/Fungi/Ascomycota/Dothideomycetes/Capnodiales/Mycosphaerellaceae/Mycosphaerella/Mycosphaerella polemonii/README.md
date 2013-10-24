@@ -1,5 +1,4 @@
-Mycosphaerella polemonii Lind SPECIES
-=======
+# Mycosphaerella polemonii Lind SPECIES
 
 #### Status
 ACCEPTED

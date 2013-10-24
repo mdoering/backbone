@@ -1,5 +1,4 @@
-Pediococcus damnosus Claussen, 1903 (Approved Lists, 1980) SPECIES
-=======
+# Pediococcus damnosus Claussen, 1903 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

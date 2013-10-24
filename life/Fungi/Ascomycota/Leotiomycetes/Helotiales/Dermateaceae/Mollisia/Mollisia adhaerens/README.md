@@ -1,5 +1,4 @@
-Mollisia adhaerens Feltgen SPECIES
-=======
+# Mollisia adhaerens Feltgen SPECIES
 
 #### Status
 ACCEPTED

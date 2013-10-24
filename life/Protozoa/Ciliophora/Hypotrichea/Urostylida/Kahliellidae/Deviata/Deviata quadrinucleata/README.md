@@ -1,5 +1,4 @@
-Deviata quadrinucleata Dragesco, 2003 SPECIES
-=======
+# Deviata quadrinucleata Dragesco, 2003 SPECIES
 
 #### Status
 ACCEPTED

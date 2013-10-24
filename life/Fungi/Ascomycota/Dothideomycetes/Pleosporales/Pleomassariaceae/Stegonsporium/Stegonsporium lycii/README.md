@@ -1,5 +1,4 @@
-Stegonsporium lycii Zerova SPECIES
-=======
+# Stegonsporium lycii Zerova SPECIES
 
 #### Status
 ACCEPTED

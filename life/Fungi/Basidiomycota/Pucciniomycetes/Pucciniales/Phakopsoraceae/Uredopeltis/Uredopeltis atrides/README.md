@@ -1,5 +1,4 @@
-Uredopeltis atrides (Syd. & P. Syd.) A.R. Wood SPECIES
-=======
+# Uredopeltis atrides (Syd. & P. Syd.) A.R. Wood SPECIES
 
 #### Status
 ACCEPTED

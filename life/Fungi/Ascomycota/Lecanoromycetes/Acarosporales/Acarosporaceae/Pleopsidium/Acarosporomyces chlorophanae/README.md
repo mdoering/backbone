@@ -1,5 +1,4 @@
-Acarosporomyces chlorophanae Cif. & Tomas. SPECIES
-=======
+# Acarosporomyces chlorophanae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

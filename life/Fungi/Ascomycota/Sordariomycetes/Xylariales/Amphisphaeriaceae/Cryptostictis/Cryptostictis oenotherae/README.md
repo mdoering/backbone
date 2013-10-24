@@ -1,5 +1,4 @@
-Cryptostictis oenotherae (Ellis & Barthol.) Guba SPECIES
-=======
+# Cryptostictis oenotherae (Ellis & Barthol.) Guba SPECIES
 
 #### Status
 ACCEPTED

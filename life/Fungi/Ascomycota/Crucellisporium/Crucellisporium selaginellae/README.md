@@ -1,5 +1,4 @@
-Crucellisporium selaginellae M.L. Farr, 1968 SPECIES
-=======
+# Crucellisporium selaginellae M.L. Farr, 1968 SPECIES
 
 #### Status
 ACCEPTED

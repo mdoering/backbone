@@ -1,5 +1,4 @@
-Puccinia gnidiae Doidge SPECIES
-=======
+# Puccinia gnidiae Doidge SPECIES
 
 #### Status
 ACCEPTED

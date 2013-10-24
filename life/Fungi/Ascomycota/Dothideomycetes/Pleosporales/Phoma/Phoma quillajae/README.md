@@ -1,5 +1,4 @@
-Phoma quillajae Henn. SPECIES
-=======
+# Phoma quillajae Henn. SPECIES
 
 #### Status
 ACCEPTED

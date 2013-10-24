@@ -1,5 +1,4 @@
-Cataspydrax GENUS
-=======
+# Cataspydrax GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winterina gallica Sacc. & Flageolet SPECIES
-=======
+# Winterina gallica Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

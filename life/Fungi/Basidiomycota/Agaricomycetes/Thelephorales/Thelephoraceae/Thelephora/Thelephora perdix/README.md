@@ -1,5 +1,4 @@
-Thelephora perdix R. Hartig SPECIES
-=======
+# Thelephora perdix R. Hartig SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces trycheri Thaxt. SPECIES
-=======
+# Dimeromyces trycheri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

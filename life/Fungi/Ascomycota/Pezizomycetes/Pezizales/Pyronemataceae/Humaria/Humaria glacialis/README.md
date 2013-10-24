@@ -1,5 +1,4 @@
-Humaria glacialis Rehm SPECIES
-=======
+# Humaria glacialis Rehm SPECIES
 
 #### Status
 ACCEPTED

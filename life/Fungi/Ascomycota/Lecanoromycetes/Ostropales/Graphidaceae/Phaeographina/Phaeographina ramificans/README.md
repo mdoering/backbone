@@ -1,5 +1,4 @@
-Phaeographina ramificans (Kremp.) Zahlbr. SPECIES
-=======
+# Phaeographina ramificans (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

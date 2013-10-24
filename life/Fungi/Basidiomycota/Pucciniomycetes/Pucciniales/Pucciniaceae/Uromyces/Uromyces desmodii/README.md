@@ -1,5 +1,4 @@
-Uromyces desmodii Cooke SPECIES
-=======
+# Uromyces desmodii Cooke SPECIES
 
 #### Status
 ACCEPTED

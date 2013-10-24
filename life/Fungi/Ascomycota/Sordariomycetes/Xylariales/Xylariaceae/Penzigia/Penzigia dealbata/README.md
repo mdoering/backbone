@@ -1,5 +1,4 @@
-Penzigia dealbata (Berk. & M.A. Curtis) Sacc. & Paol. SPECIES
-=======
+# Penzigia dealbata (Berk. & M.A. Curtis) Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

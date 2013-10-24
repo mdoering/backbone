@@ -1,17 +1,16 @@
-Penicillium candidum var. candidum VARIETY
-=======
+# Penicillium camemberti Thom, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the U. S. Department of Agriculture, Bureau Animal Industry 82: 50 (1906)
 
 #### Original name
-Penicillium candidum var. candidum
+Penicillium camemberti Thom, 1906
 
 ### Remarks
 null

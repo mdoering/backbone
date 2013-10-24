@@ -1,5 +1,4 @@
-Septobasidium heveae Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium heveae Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

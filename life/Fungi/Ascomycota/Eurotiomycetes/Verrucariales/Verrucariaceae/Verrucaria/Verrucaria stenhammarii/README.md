@@ -1,8 +1,7 @@
-Verrucaria stenhammari (Servít) Servít SPECIES
-=======
+# Verrucaria stenhammarii (Servít) Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

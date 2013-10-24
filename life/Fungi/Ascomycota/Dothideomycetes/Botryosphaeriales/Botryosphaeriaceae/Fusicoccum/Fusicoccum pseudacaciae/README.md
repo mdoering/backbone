@@ -1,5 +1,4 @@
-Fusicoccum pseudacaciae Ranoj. & Bubák SPECIES
-=======
+# Fusicoccum pseudacaciae Ranoj. & Bubák SPECIES
 
 #### Status
 ACCEPTED

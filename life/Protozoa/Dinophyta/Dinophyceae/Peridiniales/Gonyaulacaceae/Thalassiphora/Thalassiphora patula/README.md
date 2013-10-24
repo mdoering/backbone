@@ -1,5 +1,4 @@
-Thalassiphora patula (Williams & Downie, 1966) Stover & Evitt, 1978 SPECIES
-=======
+# Thalassiphora patula (Williams & Downie, 1966) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

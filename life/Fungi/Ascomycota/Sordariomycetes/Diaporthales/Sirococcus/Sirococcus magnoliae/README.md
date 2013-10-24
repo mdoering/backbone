@@ -1,5 +1,4 @@
-Sirococcus magnoliae R.X. Li, Y.Z. Shang & D.S. Wang SPECIES
-=======
+# Sirococcus magnoliae R.X. Li, Y.Z. Shang & D.S. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina interjecta (Müll. Arg.) H. Mayrhofer, Scheid. & Sheard SPECIES
-=======
+# Rinodina interjecta (Müll. Arg.) H. Mayrhofer, Scheid. & Sheard SPECIES
 
 #### Status
 ACCEPTED

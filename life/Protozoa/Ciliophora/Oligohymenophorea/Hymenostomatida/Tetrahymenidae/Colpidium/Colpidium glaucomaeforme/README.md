@@ -1,5 +1,4 @@
-Colpidium glaucomaeforme Gelei, 1935 SPECIES
-=======
+# Colpidium glaucomaeforme Gelei, 1935 SPECIES
 
 #### Status
 ACCEPTED

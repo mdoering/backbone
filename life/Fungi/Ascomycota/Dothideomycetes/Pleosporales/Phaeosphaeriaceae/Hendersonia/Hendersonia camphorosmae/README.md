@@ -1,5 +1,4 @@
-Hendersonia camphorosmae Mont. SPECIES
-=======
+# Hendersonia camphorosmae Mont. SPECIES
 
 #### Status
 ACCEPTED

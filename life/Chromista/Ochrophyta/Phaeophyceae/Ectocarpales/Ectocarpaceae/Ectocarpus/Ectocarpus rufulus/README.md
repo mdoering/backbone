@@ -1,5 +1,4 @@
-Ectocarpus rufulus Kützing SPECIES
-=======
+# Ectocarpus rufulus Kützing SPECIES
 
 #### Status
 ACCEPTED

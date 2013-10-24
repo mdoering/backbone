@@ -1,5 +1,4 @@
-Amphileptus folium SPECIES
-=======
+# Amphileptus folium SPECIES
 
 #### Status
 ACCEPTED

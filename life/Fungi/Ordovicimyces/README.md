@@ -1,5 +1,4 @@
-Ordovicimyces M.K. Elias GENUS
-=======
+# Ordovicimyces M.K. Elias GENUS
 
 #### Status
 ACCEPTED

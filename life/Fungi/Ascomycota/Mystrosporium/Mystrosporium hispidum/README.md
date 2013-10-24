@@ -1,5 +1,4 @@
-Mystrosporium hispidum Harz SPECIES
-=======
+# Mystrosporium hispidum Harz SPECIES
 
 #### Status
 ACCEPTED

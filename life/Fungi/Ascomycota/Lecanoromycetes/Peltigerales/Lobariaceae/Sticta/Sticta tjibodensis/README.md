@@ -1,5 +1,4 @@
-Sticta tjibodensis SPECIES
-=======
+# Sticta tjibodensis SPECIES
 
 #### Status
 ACCEPTED

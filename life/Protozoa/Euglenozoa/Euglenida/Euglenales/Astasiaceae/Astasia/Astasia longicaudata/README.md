@@ -1,5 +1,4 @@
-Astasia longicaudata Kufferath, 1950 SPECIES
-=======
+# Astasia longicaudata Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

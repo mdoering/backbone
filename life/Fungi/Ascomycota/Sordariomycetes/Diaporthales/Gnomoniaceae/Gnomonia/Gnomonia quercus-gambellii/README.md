@@ -1,5 +1,4 @@
-Gnomonia quercus-gambellii M. Monod SPECIES
-=======
+# Gnomonia quercus-gambellii M. Monod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia brachyspora (Sacc.) Sacc. SPECIES
-=======
+# Mollisia brachyspora (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

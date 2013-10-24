@@ -1,5 +1,4 @@
-Laboulbenia panagaei Thaxt. SPECIES
-=======
+# Laboulbenia panagaei Thaxt. SPECIES
 
 #### Status
 ACCEPTED

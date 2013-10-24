@@ -1,5 +1,4 @@
-Zosterodasys jankowski Aliev, 1990 SPECIES
-=======
+# Zosterodasys jankowski Aliev, 1990 SPECIES
 
 #### Status
 ACCEPTED

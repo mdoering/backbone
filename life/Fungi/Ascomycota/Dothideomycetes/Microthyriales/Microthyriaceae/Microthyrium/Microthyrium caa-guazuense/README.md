@@ -1,5 +1,4 @@
-Microthyrium caa-guazuense Speg. SPECIES
-=======
+# Microthyrium caa-guazuense Speg. SPECIES
 
 #### Status
 ACCEPTED

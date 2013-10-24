@@ -1,5 +1,4 @@
-Clavaria californica R.H. Petersen SPECIES
-=======
+# Clavaria californica R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

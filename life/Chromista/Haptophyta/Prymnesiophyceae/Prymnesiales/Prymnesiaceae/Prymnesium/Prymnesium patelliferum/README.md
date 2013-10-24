@@ -1,14 +1,13 @@
-Prymnesium patellifera Green, Hibberd & Pienaar, 1982 SPECIES
-=======
+# Prymnesium patelliferum J.C. Green, D.J. Hibberd & R.N. Pienaar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Green J. C. , Hibberd D. J. & Pienaar R. N. 1982. The taxonomy of Prymnesium (Prymnesiophyceae) including a description of a new cosmopolitan species, P. patellifera sp. nov. and further observations on P. parvum N. Carter. Brit. phycol. J. 17: 363-
 
 #### Original name
 null

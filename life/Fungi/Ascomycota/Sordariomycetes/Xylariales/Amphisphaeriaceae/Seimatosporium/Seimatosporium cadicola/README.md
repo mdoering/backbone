@@ -1,5 +1,4 @@
-Seimatosporium cadicola (B. Sutton) Shoemaker SPECIES
-=======
+# Seimatosporium cadicola (B. Sutton) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

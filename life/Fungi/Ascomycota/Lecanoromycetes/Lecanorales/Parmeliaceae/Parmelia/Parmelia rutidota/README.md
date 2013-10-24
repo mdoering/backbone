@@ -1,5 +1,4 @@
-Parmelia rutidota var. rutidota VARIETY
-=======
+# Parmelia rutidota SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-London J. Bot. 3: 645 (1844)
+null
 
 #### Original name
-Parmelia rutidota var. rutidota
+null
 
 ### Remarks
 null

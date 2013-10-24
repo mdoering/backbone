@@ -1,5 +1,4 @@
-Amanitopsis cygnea Schulzer SPECIES
-=======
+# Amanitopsis cygnea Schulzer SPECIES
 
 #### Status
 ACCEPTED

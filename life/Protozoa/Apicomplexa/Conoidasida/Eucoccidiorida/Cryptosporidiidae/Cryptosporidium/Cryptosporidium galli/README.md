@@ -1,8 +1,7 @@
-Cryptosporidium blagburni Morgan, Monis, Xiao, Limor, Sulaiman, Raidal, O'Donoghue, Gasser, Murray, Fayer, et al., 2001 SPECIES
-=======
+# Cryptosporidium galli Pavlásek, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

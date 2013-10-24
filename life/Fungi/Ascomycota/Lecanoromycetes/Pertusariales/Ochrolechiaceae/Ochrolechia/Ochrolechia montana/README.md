@@ -1,5 +1,4 @@
-Ochrolechia montana Brodo SPECIES
-=======
+# Ochrolechia montana Brodo SPECIES
 
 #### Status
 ACCEPTED

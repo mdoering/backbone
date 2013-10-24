@@ -1,5 +1,4 @@
-Phlyctema hyperici Hollós SPECIES
-=======
+# Phlyctema hyperici Hollós SPECIES
 
 #### Status
 ACCEPTED

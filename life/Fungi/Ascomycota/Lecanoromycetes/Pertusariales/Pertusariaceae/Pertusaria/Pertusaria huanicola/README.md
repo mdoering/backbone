@@ -1,5 +1,4 @@
-Pertusaria huanicola Messuti & A. W. Archer SPECIES
-=======
+# Pertusaria huanicola Messuti & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

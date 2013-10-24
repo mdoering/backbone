@@ -1,5 +1,4 @@
-Helminthosporium dendroideum Berk. & Broome SPECIES
-=======
+# Helminthosporium dendroideum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

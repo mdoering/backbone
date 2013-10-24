@@ -1,5 +1,4 @@
-Haplotrichum sphaerosporum (Linder) Hol.-Jech. SPECIES
-=======
+# Haplotrichum sphaerosporum (Linder) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

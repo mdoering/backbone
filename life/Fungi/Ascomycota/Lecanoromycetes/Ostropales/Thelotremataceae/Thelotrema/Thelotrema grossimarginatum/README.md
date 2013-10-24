@@ -1,5 +1,4 @@
-Thelotrema grossimarginatum Tat. Matsumoto SPECIES
-=======
+# Thelotrema grossimarginatum Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

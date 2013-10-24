@@ -1,5 +1,4 @@
-Sphacelotheca valentula (Syd.) J. Walker SPECIES
-=======
+# Sphacelotheca valentula (Syd.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

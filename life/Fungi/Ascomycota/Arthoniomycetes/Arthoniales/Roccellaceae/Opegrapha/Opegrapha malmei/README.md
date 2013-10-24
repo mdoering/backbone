@@ -1,5 +1,4 @@
-Opegrapha malmei Redinger SPECIES
-=======
+# Opegrapha malmei Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius carolinensis Hesler SPECIES
-=======
+# Lactarius carolinensis Hesler SPECIES
 
 #### Status
 ACCEPTED

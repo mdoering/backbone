@@ -1,5 +1,4 @@
-Ascochyta tussilaginis Oudem., 1898 SPECIES
-=======
+# Ascochyta tussilaginis Oudem., 1898 SPECIES
 
 #### Status
 ACCEPTED

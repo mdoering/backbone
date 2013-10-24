@@ -1,5 +1,4 @@
-Leporina multispora Velen. SPECIES
-=======
+# Leporina multispora Velen. SPECIES
 
 #### Status
 ACCEPTED

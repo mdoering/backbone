@@ -1,5 +1,4 @@
-Monka fulvocincta (Bres.) Kuntze SPECIES
-=======
+# Monka fulvocincta (Bres.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

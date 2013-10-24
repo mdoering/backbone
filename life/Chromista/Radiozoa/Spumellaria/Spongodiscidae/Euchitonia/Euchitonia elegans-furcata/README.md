@@ -1,5 +1,4 @@
-Euchitonia elegans-furcata SPECIES
-=======
+# Euchitonia elegans-furcata SPECIES
 
 #### Status
 DOUBTFUL

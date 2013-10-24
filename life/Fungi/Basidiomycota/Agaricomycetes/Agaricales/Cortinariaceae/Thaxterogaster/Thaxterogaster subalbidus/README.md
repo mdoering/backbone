@@ -1,5 +1,4 @@
-Thaxterogaster subalbidus A.H. Sm. SPECIES
-=======
+# Thaxterogaster subalbidus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria hookeri (Cooke) Berl. & Voglino SPECIES
-=======
+# Valsaria hookeri (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulgariastrum bullatum Doidge SPECIES
-=======
+# Bulgariastrum bullatum Doidge SPECIES
 
 #### Status
 ACCEPTED

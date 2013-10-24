@@ -1,5 +1,4 @@
-Badhamia macrospora H.Z. Li, 1989 SPECIES
-=======
+# Badhamia macrospora H.Z. Li, 1989 SPECIES
 
 #### Status
 ACCEPTED

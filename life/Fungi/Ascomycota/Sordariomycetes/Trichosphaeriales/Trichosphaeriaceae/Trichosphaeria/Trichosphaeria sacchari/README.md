@@ -1,5 +1,4 @@
-Trichosphaeria sacchari Massee SPECIES
-=======
+# Trichosphaeria sacchari Massee SPECIES
 
 #### Status
 ACCEPTED

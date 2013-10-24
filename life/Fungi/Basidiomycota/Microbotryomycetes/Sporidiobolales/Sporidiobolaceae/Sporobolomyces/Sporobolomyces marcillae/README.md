@@ -1,5 +1,4 @@
-Sporobolomyces marcillae Santa María SPECIES
-=======
+# Sporobolomyces marcillae Santa María SPECIES
 
 #### Status
 ACCEPTED

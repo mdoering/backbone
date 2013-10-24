@@ -1,5 +1,4 @@
-Ebria antiqua Schultze SPECIES
-=======
+# Ebria antiqua Schultze SPECIES
 
 #### Status
 ACCEPTED

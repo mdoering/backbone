@@ -1,14 +1,13 @@
-Collema subtorulosum Nyl. ex Stizenb. SPECIES
-=======
+# Leptogium subtorulosum (Nyl. ex Stizenb.) Degel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ber. Tät. St Gall. naturw. Ges. 265 (1882)
+Symb. bot. upsal. 13(no. 2): 465 (1954)
 
 #### Original name
 Collema subtorulosum Nyl. ex Stizenb.

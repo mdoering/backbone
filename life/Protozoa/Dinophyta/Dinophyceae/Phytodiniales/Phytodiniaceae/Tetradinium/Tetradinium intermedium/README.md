@@ -1,5 +1,4 @@
-Tetradinium intermedium Geitler SPECIES
-=======
+# Tetradinium intermedium Geitler SPECIES
 
 #### Status
 ACCEPTED

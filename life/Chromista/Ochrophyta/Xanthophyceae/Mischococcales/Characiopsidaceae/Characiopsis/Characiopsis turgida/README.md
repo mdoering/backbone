@@ -1,5 +1,4 @@
-Characiopsis turgida W. West & G.S. West SPECIES
-=======
+# Characiopsis turgida W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

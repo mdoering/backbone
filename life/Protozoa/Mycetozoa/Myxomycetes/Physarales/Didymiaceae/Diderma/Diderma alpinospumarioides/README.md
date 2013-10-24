@@ -1,5 +1,4 @@
-Diderma alpinospumarioides K.S. Thind, 1977 SPECIES
-=======
+# Diderma alpinospumarioides K.S. Thind, 1977 SPECIES
 
 #### Status
 ACCEPTED

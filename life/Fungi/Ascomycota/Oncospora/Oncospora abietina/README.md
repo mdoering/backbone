@@ -1,5 +1,4 @@
-Oncospora abietina Oudem. & Fautrey SPECIES
-=======
+# Oncospora abietina Oudem. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

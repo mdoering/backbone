@@ -1,5 +1,4 @@
-Clavariopsis pulchella SPECIES
-=======
+# Clavariopsis pulchella SPECIES
 
 #### Status
 ACCEPTED

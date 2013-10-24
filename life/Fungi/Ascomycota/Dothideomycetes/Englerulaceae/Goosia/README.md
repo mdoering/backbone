@@ -1,5 +1,4 @@
-Goosia B. Song GENUS
-=======
+# Goosia B. Song GENUS
 
 #### Status
 ACCEPTED

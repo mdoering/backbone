@@ -1,5 +1,4 @@
-Pleospora lantanae Jaap SPECIES
-=======
+# Pleospora lantanae Jaap SPECIES
 
 #### Status
 ACCEPTED

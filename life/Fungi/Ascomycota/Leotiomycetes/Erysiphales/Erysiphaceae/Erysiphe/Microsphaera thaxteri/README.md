@@ -1,5 +1,4 @@
-Microsphaera thaxteri Havryl. & U. Braun SPECIES
-=======
+# Microsphaera thaxteri Havryl. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

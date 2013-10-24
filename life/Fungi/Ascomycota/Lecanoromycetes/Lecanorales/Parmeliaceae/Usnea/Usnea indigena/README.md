@@ -1,5 +1,4 @@
-Usnea indigena Motyka SPECIES
-=======
+# Usnea indigena Motyka SPECIES
 
 #### Status
 ACCEPTED

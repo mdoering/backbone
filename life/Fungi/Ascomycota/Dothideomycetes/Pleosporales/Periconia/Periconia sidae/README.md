@@ -1,5 +1,4 @@
-Periconia sidae Bat. & J.L. Bezerra SPECIES
-=======
+# Periconia sidae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

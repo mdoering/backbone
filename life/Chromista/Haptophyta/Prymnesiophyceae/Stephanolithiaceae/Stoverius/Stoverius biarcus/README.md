@@ -1,5 +1,4 @@
-Stoverius biarcus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
-=======
+# Stoverius biarcus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

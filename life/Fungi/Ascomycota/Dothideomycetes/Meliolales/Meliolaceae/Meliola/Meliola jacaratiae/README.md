@@ -1,5 +1,4 @@
-Meliola jacaratiae Bat. & J.L. Bezerra SPECIES
-=======
+# Meliola jacaratiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

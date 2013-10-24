@@ -1,5 +1,4 @@
-Heptasporium gracile Bref. SPECIES
-=======
+# Heptasporium gracile Bref. SPECIES
 
 #### Status
 ACCEPTED

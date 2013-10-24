@@ -1,5 +1,4 @@
-Hypholoma elaeodes (Fr.) Gillet SPECIES
-=======
+# Hypholoma elaeodes (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

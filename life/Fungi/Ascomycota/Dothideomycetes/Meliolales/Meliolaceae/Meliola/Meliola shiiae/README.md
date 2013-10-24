@@ -1,5 +1,4 @@
-Meliola shiiae W. Yamam. SPECIES
-=======
+# Meliola shiiae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

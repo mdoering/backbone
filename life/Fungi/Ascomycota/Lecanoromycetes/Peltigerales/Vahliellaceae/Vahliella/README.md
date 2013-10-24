@@ -1,5 +1,4 @@
-Vahliella P.M. Jørg. GENUS
-=======
+# Vahliella P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

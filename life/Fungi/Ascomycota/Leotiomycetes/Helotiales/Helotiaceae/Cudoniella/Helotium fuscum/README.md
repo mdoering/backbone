@@ -1,5 +1,4 @@
-Helotium fuscum P. Crouan & H. Crouan SPECIES
-=======
+# Helotium fuscum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

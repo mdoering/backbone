@@ -1,11 +1,10 @@
-Globigerina woodi subsp. woodi SUBSPECIES
-=======
+# Globigerina woodi Jenkins SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Paleobiology Database
+The National Checklist of Taiwan
 
 #### Published in
 null

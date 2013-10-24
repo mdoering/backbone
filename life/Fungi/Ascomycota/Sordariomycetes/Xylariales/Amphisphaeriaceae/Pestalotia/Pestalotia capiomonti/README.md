@@ -1,5 +1,4 @@
-Pestalotia capiomonti Bainier & Sartory SPECIES
-=======
+# Pestalotia capiomonti Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

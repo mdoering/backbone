@@ -1,5 +1,4 @@
-Llanomyces radiosi Cif. & Tomas. SPECIES
-=======
+# Llanomyces radiosi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

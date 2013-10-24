@@ -1,5 +1,4 @@
-Puccinia sphaerospora Syd. & Henn. SPECIES
-=======
+# Puccinia sphaerospora Syd. & Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbulbifer hydrolyticus González et al., 1997 SPECIES
-=======
+# Microbulbifer hydrolyticus González et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

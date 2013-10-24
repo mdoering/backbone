@@ -1,5 +1,4 @@
-Didymosphaeria tamaricis Koshk. & Frolov SPECIES
-=======
+# Didymosphaeria tamaricis Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

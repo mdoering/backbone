@@ -1,5 +1,4 @@
-Hypholoma megapotamicum Speg. SPECIES
-=======
+# Hypholoma megapotamicum Speg. SPECIES
 
 #### Status
 ACCEPTED

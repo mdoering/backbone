@@ -1,5 +1,4 @@
-Macrosporium oleae Reichert SPECIES
-=======
+# Macrosporium oleae Reichert SPECIES
 
 #### Status
 ACCEPTED

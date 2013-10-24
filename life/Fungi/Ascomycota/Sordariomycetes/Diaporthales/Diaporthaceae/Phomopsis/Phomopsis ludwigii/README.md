@@ -1,5 +1,4 @@
-Phomopsis ludwigii Petr. SPECIES
-=======
+# Phomopsis ludwigii Petr. SPECIES
 
 #### Status
 ACCEPTED

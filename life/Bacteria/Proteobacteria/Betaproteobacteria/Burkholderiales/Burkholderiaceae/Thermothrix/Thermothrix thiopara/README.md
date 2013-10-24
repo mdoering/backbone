@@ -1,5 +1,4 @@
-Thermothrix thiopara Caldwell et al., 1981 SPECIES
-=======
+# Thermothrix thiopara Caldwell et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

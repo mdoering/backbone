@@ -1,5 +1,4 @@
-Kozurium Pessagno, 1977 GENUS
-=======
+# Kozurium Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

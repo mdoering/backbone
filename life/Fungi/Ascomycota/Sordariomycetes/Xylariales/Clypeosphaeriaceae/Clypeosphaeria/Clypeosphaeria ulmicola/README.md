@@ -1,5 +1,4 @@
-Clypeosphaeria ulmicola Ellis & Everh. SPECIES
-=======
+# Clypeosphaeria ulmicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

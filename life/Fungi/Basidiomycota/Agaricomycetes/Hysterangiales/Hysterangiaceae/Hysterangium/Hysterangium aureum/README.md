@@ -1,5 +1,4 @@
-Hysterangium aureum Zeller SPECIES
-=======
+# Hysterangium aureum Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina subfusispora (F.H. Møller) E. Horak SPECIES
-=======
+# Galerina subfusispora (F.H. Møller) E. Horak SPECIES
 
 #### Status
 ACCEPTED

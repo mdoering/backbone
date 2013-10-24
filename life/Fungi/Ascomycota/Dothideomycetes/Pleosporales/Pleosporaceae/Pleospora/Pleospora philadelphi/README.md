@@ -1,5 +1,4 @@
-Pleospora philadelphi Politis SPECIES
-=======
+# Pleospora philadelphi Politis SPECIES
 
 #### Status
 ACCEPTED

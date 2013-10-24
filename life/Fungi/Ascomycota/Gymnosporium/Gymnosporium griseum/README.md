@@ -1,5 +1,4 @@
-Gymnosporium griseum Corda SPECIES
-=======
+# Gymnosporium griseum Corda SPECIES
 
 #### Status
 ACCEPTED

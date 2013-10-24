@@ -1,5 +1,4 @@
-Lecidea trichiliae Zahlbr. SPECIES
-=======
+# Lecidea trichiliae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

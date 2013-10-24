@@ -1,5 +1,4 @@
-Hypocomatidium jarockii Chatton & Lwoff, 1950 SPECIES
-=======
+# Hypocomatidium jarockii Chatton & Lwoff, 1950 SPECIES
 
 #### Status
 ACCEPTED

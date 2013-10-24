@@ -1,5 +1,4 @@
-Vestergrenia indica Anahosur SPECIES
-=======
+# Vestergrenia indica Anahosur SPECIES
 
 #### Status
 ACCEPTED

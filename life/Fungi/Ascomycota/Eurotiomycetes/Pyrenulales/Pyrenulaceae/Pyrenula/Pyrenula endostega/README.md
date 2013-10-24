@@ -1,5 +1,4 @@
-Pyrenula endostega Müll. Arg. SPECIES
-=======
+# Pyrenula endostega Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cyclosperma Buyck SPECIES
-=======
+# Russula cyclosperma Buyck SPECIES
 
 #### Status
 ACCEPTED

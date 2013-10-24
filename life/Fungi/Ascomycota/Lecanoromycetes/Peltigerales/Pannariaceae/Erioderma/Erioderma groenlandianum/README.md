@@ -1,5 +1,4 @@
-Erioderma groenlandianum (Ach.) Hue SPECIES
-=======
+# Erioderma groenlandianum (Ach.) Hue SPECIES
 
 #### Status
 ACCEPTED

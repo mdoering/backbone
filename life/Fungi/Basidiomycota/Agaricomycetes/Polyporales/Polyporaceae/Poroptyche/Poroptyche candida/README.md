@@ -1,5 +1,4 @@
-Poroptyche candida Beck SPECIES
-=======
+# Poroptyche candida Beck SPECIES
 
 #### Status
 ACCEPTED

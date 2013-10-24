@@ -1,5 +1,4 @@
-Asterostomella indecora Syd. SPECIES
-=======
+# Asterostomella indecora Syd. SPECIES
 
 #### Status
 ACCEPTED

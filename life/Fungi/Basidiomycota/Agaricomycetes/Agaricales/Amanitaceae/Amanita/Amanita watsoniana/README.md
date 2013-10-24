@@ -1,5 +1,4 @@
-Amanita watsoniana (Murrill) Murrill SPECIES
-=======
+# Amanita watsoniana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Scopuloides magnacystidiata Gilb. & Nakasone SPECIES
-=======
+# Scopuloides magnicystidiata Gilb. & Nakasone, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 95(3): 472 (2003)
 
 #### Original name
-Scopuloides magnacystidiata Gilb. & Nakasone
+Scopuloides magnicystidiata Gilb. & Nakasone, 2003
 
 ### Remarks
 null

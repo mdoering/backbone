@@ -1,5 +1,4 @@
-Cercospora lepidagathidis Govindu & Thirum. SPECIES
-=======
+# Cercospora lepidagathidis Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arachniotus verrucosus (Eidam) Kuehn, G.F. Orr & Varsavsky, 1965 SPECIES
-=======
+# Amauroascus verrucosus (Eidam) J. Schröt., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Orr, Kuehn & Varsavsky, Mycopath. Mycol. appl. 25: 103 (1965)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(12): 211 (1893)
 
 #### Original name
 Gymnoascus verrucosus Eidam, 1893

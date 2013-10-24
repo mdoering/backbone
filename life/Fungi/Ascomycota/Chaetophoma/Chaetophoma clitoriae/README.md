@@ -1,5 +1,4 @@
-Chaetophoma clitoriae Bat. & Peres SPECIES
-=======
+# Chaetophoma clitoriae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotrys chazarica Mekht. SPECIES
-=======
+# Arthrobotrys chazarica Mekht. SPECIES
 
 #### Status
 ACCEPTED

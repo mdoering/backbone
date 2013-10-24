@@ -1,5 +1,4 @@
-Oogaster cerebriformis Corda SPECIES
-=======
+# Oogaster cerebriformis Corda SPECIES
 
 #### Status
 ACCEPTED

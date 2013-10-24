@@ -1,5 +1,4 @@
-Lycoperdon woodwardii Bryant SPECIES
-=======
+# Lycoperdon woodwardii Bryant SPECIES
 
 #### Status
 ACCEPTED

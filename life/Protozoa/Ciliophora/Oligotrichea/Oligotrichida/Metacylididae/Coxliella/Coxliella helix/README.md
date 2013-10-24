@@ -1,11 +1,10 @@
-Coxliella helix var. cochleata Brandt, 1907 VARIETY
-=======
+# Coxliella helix Claparède & Lachmann SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

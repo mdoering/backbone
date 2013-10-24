@@ -1,5 +1,4 @@
-Pellicularia bispora (J. Schröt.) SPECIES
-=======
+# Pellicularia bispora (J. Schröt.) SPECIES
 
 #### Status
 ACCEPTED

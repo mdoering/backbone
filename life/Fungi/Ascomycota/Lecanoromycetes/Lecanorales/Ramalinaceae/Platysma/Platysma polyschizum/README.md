@@ -1,17 +1,16 @@
-Platysma polyschizum var. polyschizum VARIETY
-=======
+# Platysma polyschizum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Platysma polyschizum var. polyschizum
+null
 
 ### Remarks
 null

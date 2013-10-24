@@ -1,5 +1,4 @@
-Acineta crater SPECIES
-=======
+# Acineta crater SPECIES
 
 #### Status
 ACCEPTED

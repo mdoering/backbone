@@ -1,5 +1,4 @@
-Pseudoreichelina Leven, 1970 GENUS
-=======
+# Pseudoreichelina Leven, 1970 GENUS
 
 #### Status
 ACCEPTED

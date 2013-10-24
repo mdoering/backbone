@@ -1,5 +1,4 @@
-Diplodinula empetri (Sacc.) Tassi SPECIES
-=======
+# Diplodinula empetri (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

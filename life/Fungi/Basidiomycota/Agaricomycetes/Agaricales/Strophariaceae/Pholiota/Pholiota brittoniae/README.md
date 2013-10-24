@@ -1,5 +1,4 @@
-Pholiota brittoniae Murrill SPECIES
-=======
+# Pholiota brittoniae Murrill SPECIES
 
 #### Status
 ACCEPTED

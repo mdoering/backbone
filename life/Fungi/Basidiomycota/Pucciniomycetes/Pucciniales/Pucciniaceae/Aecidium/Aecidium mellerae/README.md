@@ -1,5 +1,4 @@
-Aecidium mellerae Gjaerum SPECIES
-=======
+# Aecidium mellerae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

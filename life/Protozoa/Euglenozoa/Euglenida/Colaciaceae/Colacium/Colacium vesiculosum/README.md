@@ -1,5 +1,4 @@
-Colacium vesiculosum var. arbuscula VARIETY
-=======
+# Colacium vesiculosum Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

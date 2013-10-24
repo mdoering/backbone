@@ -1,5 +1,4 @@
-Hysterium pulchellum Fr. SPECIES
-=======
+# Hysterium pulchellum Fr. SPECIES
 
 #### Status
 ACCEPTED

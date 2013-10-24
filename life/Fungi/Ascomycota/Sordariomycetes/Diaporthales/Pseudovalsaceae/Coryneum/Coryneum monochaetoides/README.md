@@ -1,5 +1,4 @@
-Coryneum monochaetoides Speg. SPECIES
-=======
+# Coryneum monochaetoides Speg. SPECIES
 
 #### Status
 ACCEPTED

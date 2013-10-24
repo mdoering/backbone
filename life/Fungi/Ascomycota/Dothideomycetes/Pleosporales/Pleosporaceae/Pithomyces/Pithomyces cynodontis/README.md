@@ -1,5 +1,4 @@
-Pithomyces cynodontis M.B. Ellis, 1965 SPECIES
-=======
+# Pithomyces cynodontis M.B. Ellis, 1965 SPECIES
 
 #### Status
 ACCEPTED

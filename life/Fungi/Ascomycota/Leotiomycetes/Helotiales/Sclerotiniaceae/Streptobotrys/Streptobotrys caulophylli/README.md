@@ -1,5 +1,4 @@
-Streptobotrys caulophylli Hennebert, 1973 SPECIES
-=======
+# Streptobotrys caulophylli Hennebert, 1973 SPECIES
 
 #### Status
 ACCEPTED

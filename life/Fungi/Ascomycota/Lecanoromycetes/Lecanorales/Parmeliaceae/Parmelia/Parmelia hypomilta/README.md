@@ -1,5 +1,4 @@
-Parmelia hypomilta Fée SPECIES
-=======
+# Parmelia hypomilta Fée SPECIES
 
 #### Status
 ACCEPTED

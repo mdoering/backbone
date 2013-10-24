@@ -1,5 +1,4 @@
-Montcharmontia GENUS
-=======
+# Montcharmontia GENUS
 
 #### Status
 ACCEPTED

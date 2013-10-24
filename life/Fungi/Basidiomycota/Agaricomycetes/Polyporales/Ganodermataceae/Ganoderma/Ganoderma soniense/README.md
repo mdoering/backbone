@@ -1,5 +1,4 @@
-Ganoderma soniense Steyaert SPECIES
-=======
+# Ganoderma soniense Steyaert SPECIES
 
 #### Status
 ACCEPTED

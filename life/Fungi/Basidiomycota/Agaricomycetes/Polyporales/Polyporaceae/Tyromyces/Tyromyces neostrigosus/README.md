@@ -1,5 +1,4 @@
-Tyromyces neostrigosus Ryvarden & Iturr. SPECIES
-=======
+# Tyromyces neostrigosus Ryvarden & Iturr. SPECIES
 
 #### Status
 ACCEPTED

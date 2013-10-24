@@ -1,5 +1,4 @@
-Marasmius thwaitesii Berk. & Broome SPECIES
-=======
+# Marasmius thwaitesii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

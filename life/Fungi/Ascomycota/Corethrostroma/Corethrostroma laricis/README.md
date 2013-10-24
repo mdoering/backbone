@@ -1,5 +1,4 @@
-Corethrostroma laricis Kleb., 1933 SPECIES
-=======
+# Corethrostroma laricis Kleb., 1933 SPECIES
 
 #### Status
 ACCEPTED

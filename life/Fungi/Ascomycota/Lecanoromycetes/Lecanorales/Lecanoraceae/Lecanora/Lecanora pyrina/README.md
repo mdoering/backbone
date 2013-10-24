@@ -1,5 +1,4 @@
-Lecanora pyrina SPECIES
-=======
+# Lecanora pyrina SPECIES
 
 #### Status
 ACCEPTED

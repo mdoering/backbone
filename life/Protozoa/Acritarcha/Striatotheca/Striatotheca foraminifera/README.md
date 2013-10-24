@@ -1,5 +1,4 @@
-Striatotheca foraminifera P. Pittau SPECIES
-=======
+# Striatotheca foraminifera P. Pittau SPECIES
 
 #### Status
 ACCEPTED

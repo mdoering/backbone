@@ -1,8 +1,7 @@
-Aspicilia tromsoeensis (H. Magn.) Räsänen SPECIES
-=======
+# Aspicilia tromsoënsis (H. Magn.) Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

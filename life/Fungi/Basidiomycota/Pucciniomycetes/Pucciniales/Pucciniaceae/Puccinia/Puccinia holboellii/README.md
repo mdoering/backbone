@@ -1,5 +1,4 @@
-Puccinia holboellii (Hornem.) Rostr. SPECIES
-=======
+# Puccinia holboellii (Hornem.) Rostr. SPECIES
 
 #### Status
 ACCEPTED

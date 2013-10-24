@@ -1,5 +1,4 @@
-Limboria regularis Ach. SPECIES
-=======
+# Limboria regularis Ach. SPECIES
 
 #### Status
 ACCEPTED

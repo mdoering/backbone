@@ -1,5 +1,4 @@
-Coniothyrium decipiens Cooke & Harkn. SPECIES
-=======
+# Coniothyrium decipiens Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

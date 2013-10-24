@@ -1,5 +1,4 @@
-Dicaeoma miyoshianum (Dietel) Syd. SPECIES
-=======
+# Dicaeoma miyoshianum (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tephromela melaleuca (Sommerf.) Haugan & Timdal SPECIES
-=======
+# Calvitimela melaleuca (Sommerf.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Graphis Scripta 6(1): 21 (1994)
+in Santesson, Moberg, Nordin, Tønsberg & Vitikainen, Lichen-Forming and Lichenicolous Fungi of Fennoscandia 37 (2004)
 
 #### Original name
 Lecidea melaleuca Tuck.

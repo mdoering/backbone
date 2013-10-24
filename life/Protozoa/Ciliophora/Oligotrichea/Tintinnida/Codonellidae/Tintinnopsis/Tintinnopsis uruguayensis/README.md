@@ -1,5 +1,4 @@
-Tintinnopsis uruguayensis Balech, 1948 SPECIES
-=======
+# Tintinnopsis uruguayensis Balech, 1948 SPECIES
 
 #### Status
 ACCEPTED

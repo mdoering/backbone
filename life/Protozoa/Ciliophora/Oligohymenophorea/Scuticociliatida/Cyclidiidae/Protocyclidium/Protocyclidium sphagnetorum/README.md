@@ -1,8 +1,7 @@
-Cyclidium sphagnetorum Sramek-Husek SPECIES
-=======
+# Protocyclidium sphagnetorum (Sramek-Husek, 1949) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

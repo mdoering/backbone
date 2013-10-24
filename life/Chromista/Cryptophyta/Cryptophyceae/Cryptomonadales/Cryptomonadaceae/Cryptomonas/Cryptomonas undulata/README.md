@@ -1,5 +1,4 @@
-Cryptomonas undulata F. Gervais SPECIES
-=======
+# Cryptomonas undulata F. Gervais SPECIES
 
 #### Status
 ACCEPTED

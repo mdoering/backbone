@@ -1,14 +1,13 @@
-Ceratocystis narcissi (Limber) J. Hunt, 1956 SPECIES
-=======
+# Ophiostoma narcissi Limber, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 19: 50 (1956)
+Phytopathology 40(5): 493 (1950)
 
 #### Original name
 Ophiostoma narcissi Limber, 1950

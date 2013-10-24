@@ -1,5 +1,4 @@
-Nectria discicola Rogerson & Samuels SPECIES
-=======
+# Nectria discicola Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

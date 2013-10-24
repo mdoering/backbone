@@ -1,5 +1,4 @@
-Sphaeronaema eucalypti Cooke & Harkn. SPECIES
-=======
+# Sphaeronaema eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

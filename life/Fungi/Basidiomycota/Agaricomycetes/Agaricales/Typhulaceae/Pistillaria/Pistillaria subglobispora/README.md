@@ -1,5 +1,4 @@
-Pistillaria subglobispora Pilát SPECIES
-=======
+# Pistillaria subglobispora Pilát SPECIES
 
 #### Status
 ACCEPTED

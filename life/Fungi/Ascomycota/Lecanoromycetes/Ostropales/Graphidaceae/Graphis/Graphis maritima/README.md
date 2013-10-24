@@ -1,5 +1,4 @@
-Graphis maritima (A. W. Archer) A. W. Archer SPECIES
-=======
+# Graphis maritima (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

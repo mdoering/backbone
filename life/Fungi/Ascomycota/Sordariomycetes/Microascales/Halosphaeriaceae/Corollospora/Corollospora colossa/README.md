@@ -1,5 +1,4 @@
-Corollospora colossa Nakagiri & Tokura, 1988 SPECIES
-=======
+# Corollospora colossa Nakagiri & Tokura, 1988 SPECIES
 
 #### Status
 ACCEPTED

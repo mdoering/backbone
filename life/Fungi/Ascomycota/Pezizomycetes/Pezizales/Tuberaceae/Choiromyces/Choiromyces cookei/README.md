@@ -1,5 +1,4 @@
-Choiromyces cookei Gilkey SPECIES
-=======
+# Choiromyces cookei Gilkey SPECIES
 
 #### Status
 ACCEPTED

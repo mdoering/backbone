@@ -1,5 +1,4 @@
-Leptothyrium lactucae Dearn. & Barthol. SPECIES
-=======
+# Leptothyrium lactucae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

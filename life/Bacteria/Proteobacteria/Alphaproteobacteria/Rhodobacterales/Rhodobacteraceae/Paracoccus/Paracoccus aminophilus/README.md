@@ -1,5 +1,4 @@
-Paracoccus aminophilus Urakami et al., 1990 SPECIES
-=======
+# Paracoccus aminophilus Urakami et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cassiocarpa (Sacc.) Chupp SPECIES
-=======
+# Cercospora cassiocarpa (Sacc.) Chupp SPECIES
 
 #### Status
 ACCEPTED

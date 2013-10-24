@@ -1,5 +1,4 @@
-Hypocrea umbilicata Henn. SPECIES
-=======
+# Hypocrea umbilicata Henn. SPECIES
 
 #### Status
 ACCEPTED

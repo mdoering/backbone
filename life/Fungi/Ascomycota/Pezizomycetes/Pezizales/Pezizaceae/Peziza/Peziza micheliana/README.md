@@ -1,5 +1,4 @@
-Peziza micheliana Weinm. SPECIES
-=======
+# Peziza micheliana Weinm. SPECIES
 
 #### Status
 ACCEPTED

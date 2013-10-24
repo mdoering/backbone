@@ -1,5 +1,4 @@
-Hypoxylon gilbertsonii Y.M. Ju & J.D. Rogers, 1996 SPECIES
-=======
+# Hypoxylon gilbertsonii Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
 ACCEPTED

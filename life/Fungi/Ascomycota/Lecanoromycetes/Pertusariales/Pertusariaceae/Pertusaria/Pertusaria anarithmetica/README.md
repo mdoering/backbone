@@ -1,5 +1,4 @@
-Pertusaria anarithmetica Müll. Arg. SPECIES
-=======
+# Pertusaria anarithmetica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

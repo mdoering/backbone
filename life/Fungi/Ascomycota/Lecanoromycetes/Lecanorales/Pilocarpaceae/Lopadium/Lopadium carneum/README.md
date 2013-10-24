@@ -1,5 +1,4 @@
-Lopadium carneum Müll. Arg. SPECIES
-=======
+# Lopadium carneum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

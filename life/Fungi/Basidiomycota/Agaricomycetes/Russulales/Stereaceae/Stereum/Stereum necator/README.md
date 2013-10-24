@@ -1,5 +1,4 @@
-Stereum necator Viala SPECIES
-=======
+# Stereum necator Viala SPECIES
 
 #### Status
 ACCEPTED

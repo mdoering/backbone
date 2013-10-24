@@ -1,5 +1,4 @@
-Peronospora stellariae-aquaticae Sawada SPECIES
-=======
+# Peronospora stellariae-aquaticae Sawada SPECIES
 
 #### Status
 ACCEPTED

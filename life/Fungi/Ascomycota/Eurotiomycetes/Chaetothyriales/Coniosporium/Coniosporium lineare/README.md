@@ -1,5 +1,4 @@
-Coniosporium lineare (Berk. & Broome) Sacc. SPECIES
-=======
+# Coniosporium lineare (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

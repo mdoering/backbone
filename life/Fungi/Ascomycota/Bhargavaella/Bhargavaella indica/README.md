@@ -1,5 +1,4 @@
-Bhargavaella indica Suj. Singh & K.S. Srivast., 1980 SPECIES
-=======
+# Bhargavaella indica Suj. Singh & K.S. Srivast., 1980 SPECIES
 
 #### Status
 ACCEPTED

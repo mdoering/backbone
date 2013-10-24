@@ -1,5 +1,4 @@
-Xiphophaga minuta Goldstein, Habura, Richardson & Bowser, 2010 SPECIES
-=======
+# Xiphophaga minuta Goldstein, Habura, Richardson & Bowser, 2010 SPECIES
 
 #### Status
 ACCEPTED

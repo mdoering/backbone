@@ -1,5 +1,4 @@
-Berghophrya Foissner, 2003 GENUS
-=======
+# Berghophrya Foissner, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropus GENUS
-=======
+# Pleuropus GENUS
 
 #### Status
 ACCEPTED

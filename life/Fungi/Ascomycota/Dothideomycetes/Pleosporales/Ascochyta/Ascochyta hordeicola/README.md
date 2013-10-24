@@ -1,5 +1,4 @@
-Ascochyta hordeicola Punith., 1979 SPECIES
-=======
+# Ascochyta hordeicola Punith., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claudopus herbarum Velen. SPECIES
-=======
+# Claudopus herbarum Velen. SPECIES
 
 #### Status
 ACCEPTED

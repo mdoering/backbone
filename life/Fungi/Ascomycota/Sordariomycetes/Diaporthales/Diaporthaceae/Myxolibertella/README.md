@@ -1,5 +1,4 @@
-Myxolibertella GENUS
-=======
+# Myxolibertella GENUS
 
 #### Status
 ACCEPTED

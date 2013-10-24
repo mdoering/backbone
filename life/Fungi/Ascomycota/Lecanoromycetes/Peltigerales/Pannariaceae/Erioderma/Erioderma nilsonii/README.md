@@ -1,5 +1,4 @@
-Erioderma nilsonii P. M. Jørg. & Arv. SPECIES
-=======
+# Erioderma nilsonii P. M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

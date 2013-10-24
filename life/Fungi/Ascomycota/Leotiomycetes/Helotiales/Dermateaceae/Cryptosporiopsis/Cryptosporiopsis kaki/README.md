@@ -1,5 +1,4 @@
-Cryptosporiopsis kaki (Hara) Weindlm. SPECIES
-=======
+# Cryptosporiopsis kaki (Hara) Weindlm. SPECIES
 
 #### Status
 ACCEPTED

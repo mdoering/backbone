@@ -1,5 +1,4 @@
-Macmillanina deplanata (Fr.) Kuntze SPECIES
-=======
+# Macmillanina deplanata (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

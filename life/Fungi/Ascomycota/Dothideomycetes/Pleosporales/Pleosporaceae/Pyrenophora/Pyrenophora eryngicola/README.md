@@ -1,5 +1,4 @@
-Pyrenophora eryngicola Losa SPECIES
-=======
+# Pyrenophora eryngicola Losa SPECIES
 
 #### Status
 ACCEPTED

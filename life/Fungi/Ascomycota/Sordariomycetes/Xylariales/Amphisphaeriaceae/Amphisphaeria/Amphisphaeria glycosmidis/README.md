@@ -1,5 +1,4 @@
-Amphisphaeria glycosmidis Tilak & Srinivasulu SPECIES
-=======
+# Amphisphaeria glycosmidis Tilak & Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

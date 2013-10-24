@@ -1,5 +1,4 @@
-Cercospora ranumculi Ellis & Holw. SPECIES
-=======
+# Cercospora ranumculi Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

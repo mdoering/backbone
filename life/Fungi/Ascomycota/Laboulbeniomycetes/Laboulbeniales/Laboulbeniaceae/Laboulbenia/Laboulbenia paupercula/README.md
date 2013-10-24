@@ -1,5 +1,4 @@
-Laboulbenia paupercula Speg. SPECIES
-=======
+# Laboulbenia paupercula Speg. SPECIES
 
 #### Status
 ACCEPTED

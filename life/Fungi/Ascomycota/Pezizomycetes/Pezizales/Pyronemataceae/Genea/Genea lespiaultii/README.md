@@ -1,5 +1,4 @@
-Genea lespiaultii Corda SPECIES
-=======
+# Genea lespiaultii Corda SPECIES
 
 #### Status
 ACCEPTED

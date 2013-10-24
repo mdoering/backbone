@@ -1,5 +1,4 @@
-Gracilisphaeridium encantador Cramer, 1970 ex. Eisenack et al., 1973 SPECIES
-=======
+# Gracilisphaeridium encantador Cramer, 1970 ex. Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

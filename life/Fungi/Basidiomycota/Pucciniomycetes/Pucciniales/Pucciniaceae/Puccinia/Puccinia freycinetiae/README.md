@@ -1,5 +1,4 @@
-Puccinia freycinetiae McKenzie, 1988 SPECIES
-=======
+# Puccinia freycinetiae McKenzie, 1988 SPECIES
 
 #### Status
 ACCEPTED

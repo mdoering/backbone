@@ -1,5 +1,4 @@
-Stemastrum boscii Raf., 1808 SPECIES
-=======
+# Stemastrum boscii Raf., 1808 SPECIES
 
 #### Status
 ACCEPTED

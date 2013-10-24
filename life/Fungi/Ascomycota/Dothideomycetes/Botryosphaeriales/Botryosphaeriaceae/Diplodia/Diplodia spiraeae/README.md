@@ -1,5 +1,4 @@
-Diplodia spiraeae Thüm. SPECIES
-=======
+# Diplodia spiraeae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma variolosum Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Hyphoderma variolosum Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella taraxaci (P. Karst.) Lind SPECIES
-=======
+# Mycosphaerella taraxaci (P. Karst.) Lind SPECIES
 
 #### Status
 ACCEPTED

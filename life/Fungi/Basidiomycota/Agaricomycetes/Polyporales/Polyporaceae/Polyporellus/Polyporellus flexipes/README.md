@@ -1,5 +1,4 @@
-Polyporellus flexipes (Fr.) P. Karst. SPECIES
-=======
+# Polyporellus flexipes (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pistillaria quercicola (S. Imai) S. Ito SPECIES
-=======
+# Pistillaria quercicola (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

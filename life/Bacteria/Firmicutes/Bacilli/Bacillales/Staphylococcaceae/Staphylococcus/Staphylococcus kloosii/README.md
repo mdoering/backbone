@@ -1,5 +1,4 @@
-Staphylococcus kloosii Schleifer et al., 1985 SPECIES
-=======
+# Staphylococcus kloosii Schleifer et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

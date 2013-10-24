@@ -1,14 +1,13 @@
-Cintractia standleyana Zundel, 1943 SPECIES
-=======
+# Ustanciosporium standleyanum (Zundel) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(2): 171 (1943)
+Nova Hedwigia 70(3-4): 353 (2000)
 
 #### Original name
 Cintractia standleyana Zundel, 1943

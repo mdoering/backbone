@@ -1,5 +1,4 @@
-Umbilicaria microphylla (Laurer) A. Massal. SPECIES
-=======
+# Umbilicaria microphylla (Laurer) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

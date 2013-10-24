@@ -1,5 +1,4 @@
-Pseudomassaria necans (Rehm) Arx SPECIES
-=======
+# Pseudomassaria necans (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

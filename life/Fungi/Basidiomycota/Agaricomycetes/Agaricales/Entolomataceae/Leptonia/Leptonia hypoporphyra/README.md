@@ -1,5 +1,4 @@
-Leptonia hypoporphyra (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptonia hypoporphyra (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

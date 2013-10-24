@@ -1,5 +1,4 @@
-Sterigmatocystis delacroixii Sacc. SPECIES
-=======
+# Sterigmatocystis delacroixii Sacc. SPECIES
 
 #### Status
 ACCEPTED

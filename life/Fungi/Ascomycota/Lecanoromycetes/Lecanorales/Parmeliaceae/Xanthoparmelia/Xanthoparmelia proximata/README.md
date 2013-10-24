@@ -1,5 +1,4 @@
-Xanthoparmelia proximata Hale SPECIES
-=======
+# Xanthoparmelia proximata Hale SPECIES
 
 #### Status
 ACCEPTED

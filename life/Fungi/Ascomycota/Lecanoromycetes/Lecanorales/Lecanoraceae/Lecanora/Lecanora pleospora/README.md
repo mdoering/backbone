@@ -1,5 +1,4 @@
-Lecanora pleospora Müll. Arg. SPECIES
-=======
+# Lecanora pleospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

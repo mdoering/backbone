@@ -1,5 +1,4 @@
-Tryblidiella loranthi Henn. SPECIES
-=======
+# Tryblidiella loranthi Henn. SPECIES
 
 #### Status
 ACCEPTED

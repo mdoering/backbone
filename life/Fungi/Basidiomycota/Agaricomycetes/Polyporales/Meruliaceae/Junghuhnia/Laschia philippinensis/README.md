@@ -1,5 +1,4 @@
-Laschia philippinensis P.W. Graff SPECIES
-=======
+# Laschia philippinensis P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

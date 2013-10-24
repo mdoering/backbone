@@ -1,5 +1,4 @@
-Agaricus brunneostictus Heinem. SPECIES
-=======
+# Agaricus brunneostictus Heinem. SPECIES
 
 #### Status
 ACCEPTED

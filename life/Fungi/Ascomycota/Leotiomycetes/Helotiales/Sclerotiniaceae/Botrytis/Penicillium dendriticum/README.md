@@ -1,5 +1,4 @@
-Penicillium dendriticum Pitt, 1980 SPECIES
-=======
+# Penicillium dendriticum Pitt, 1980 SPECIES
 
 #### Status
 DOUBTFUL

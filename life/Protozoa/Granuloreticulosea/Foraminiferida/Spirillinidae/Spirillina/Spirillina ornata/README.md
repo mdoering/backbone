@@ -1,5 +1,4 @@
-Spirillina ornata Sidebottom, 1908 SPECIES
-=======
+# Spirillina ornata Sidebottom, 1908 SPECIES
 
 #### Status
 ACCEPTED

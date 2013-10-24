@@ -1,5 +1,4 @@
-Usnea igniaria Motyka SPECIES
-=======
+# Usnea igniaria Motyka SPECIES
 
 #### Status
 ACCEPTED

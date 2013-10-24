@@ -1,5 +1,4 @@
-Macroplodia asterina Cooke & Harkn. SPECIES
-=======
+# Macroplodia asterina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

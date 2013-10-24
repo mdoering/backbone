@@ -1,5 +1,4 @@
-Heppia stereocauloides C.W. Dodge SPECIES
-=======
+# Heppia stereocauloides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia moriana anon. SPECIES
-=======
+# Puccinia moriana anon. SPECIES
 
 #### Status
 ACCEPTED

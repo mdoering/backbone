@@ -1,5 +1,4 @@
-Sphaeria atomica Gaudich. SPECIES
-=======
+# Sphaeria atomica Gaudich. SPECIES
 
 #### Status
 ACCEPTED

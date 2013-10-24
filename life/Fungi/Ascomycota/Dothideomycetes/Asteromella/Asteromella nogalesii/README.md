@@ -1,5 +1,4 @@
-Asteromella nogalesii Urries SPECIES
-=======
+# Asteromella nogalesii Urries SPECIES
 
 #### Status
 ACCEPTED

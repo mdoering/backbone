@@ -1,5 +1,4 @@
-Orthoamphisiella stramenticola Eigner & Foissner, 1991 SPECIES
-=======
+# Orthoamphisiella stramenticola Eigner & Foissner, 1991 SPECIES
 
 #### Status
 ACCEPTED

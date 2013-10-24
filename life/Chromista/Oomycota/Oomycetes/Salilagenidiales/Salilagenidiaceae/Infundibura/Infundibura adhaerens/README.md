@@ -1,5 +1,4 @@
-Infundibura adhaerens Nag Raj & W.B. Kendr., 1981 SPECIES
-=======
+# Infundibura adhaerens Nag Raj & W.B. Kendr., 1981 SPECIES
 
 #### Status
 ACCEPTED

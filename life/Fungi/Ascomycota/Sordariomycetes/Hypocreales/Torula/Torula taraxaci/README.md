@@ -1,5 +1,4 @@
-Torula taraxaci Sacc. SPECIES
-=======
+# Torula taraxaci Sacc. SPECIES
 
 #### Status
 ACCEPTED

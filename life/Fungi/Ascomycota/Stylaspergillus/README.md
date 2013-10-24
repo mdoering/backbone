@@ -1,5 +1,4 @@
-Stylaspergillus B. Sutton, Alcorn & P.J. Fisher GENUS
-=======
+# Stylaspergillus B. Sutton, Alcorn & P.J. Fisher GENUS
 
 #### Status
 ACCEPTED

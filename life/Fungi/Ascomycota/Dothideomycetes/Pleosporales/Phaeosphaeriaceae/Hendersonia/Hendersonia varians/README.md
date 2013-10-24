@@ -1,5 +1,4 @@
-Hendersonia varians Cooke & Harkn. SPECIES
-=======
+# Hendersonia varians Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

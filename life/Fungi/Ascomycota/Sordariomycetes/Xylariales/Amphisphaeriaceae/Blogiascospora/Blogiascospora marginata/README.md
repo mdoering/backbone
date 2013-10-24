@@ -1,5 +1,4 @@
-Blogiascospora marginata (Fuckel) Shoemaker, E. Müll. & Morgan-Jones, 1966 SPECIES
-=======
+# Blogiascospora marginata (Fuckel) Shoemaker, E. Müll. & Morgan-Jones, 1966 SPECIES
 
 #### Status
 ACCEPTED

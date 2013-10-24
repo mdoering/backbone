@@ -1,5 +1,4 @@
-Macrophoma oblongata Tehon SPECIES
-=======
+# Macrophoma oblongata Tehon SPECIES
 
 #### Status
 ACCEPTED

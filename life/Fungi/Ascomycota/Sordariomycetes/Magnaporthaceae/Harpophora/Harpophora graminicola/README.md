@@ -1,14 +1,13 @@
-Phialophora radicicola var. graminicola Deacon, 1974 VARIETY
-=======
+# Harpophora graminicola (Deacon) W. Gams, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 63(2): 322 (1974)
+Stud. Mycol. 45: 192 (2000)
 
 #### Original name
 Phialophora radicicola var. graminicola Deacon, 1974

@@ -1,5 +1,4 @@
-Syracosphaera molischii J. Schiller SPECIES
-=======
+# Syracosphaera molischii J. Schiller SPECIES
 
 #### Status
 ACCEPTED

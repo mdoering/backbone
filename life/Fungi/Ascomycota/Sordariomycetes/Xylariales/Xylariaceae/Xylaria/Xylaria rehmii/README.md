@@ -1,5 +1,4 @@
-Xylaria rehmii (Theiss.) Höhn. SPECIES
-=======
+# Xylaria rehmii (Theiss.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

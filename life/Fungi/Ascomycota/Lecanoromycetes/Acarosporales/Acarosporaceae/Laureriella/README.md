@@ -1,5 +1,4 @@
-Laureriella GENUS
-=======
+# Laureriella GENUS
 
 #### Status
 ACCEPTED

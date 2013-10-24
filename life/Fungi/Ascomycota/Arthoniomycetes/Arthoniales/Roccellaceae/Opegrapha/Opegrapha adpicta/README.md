@@ -1,5 +1,4 @@
-Opegrapha adpicta Zahlbr. SPECIES
-=======
+# Opegrapha adpicta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

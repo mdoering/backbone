@@ -1,5 +1,4 @@
-Bramletteius S. Gartner, 1969 GENUS
-=======
+# Bramletteius S. Gartner, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium conyzae-colombiensis Pardo-Card. SPECIES
-=======
+# Aecidium conyzae-colombiensis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

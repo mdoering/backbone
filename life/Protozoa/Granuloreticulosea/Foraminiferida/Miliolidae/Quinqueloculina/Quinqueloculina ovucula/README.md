@@ -1,5 +1,4 @@
-Quinqueloculina ovucula Terquem, 1876 SPECIES
-=======
+# Quinqueloculina ovucula Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

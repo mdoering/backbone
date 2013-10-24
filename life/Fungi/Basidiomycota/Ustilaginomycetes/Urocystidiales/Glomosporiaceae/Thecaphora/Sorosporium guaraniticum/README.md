@@ -1,14 +1,13 @@
-Sorosporium guaranticum (Speg.) L. Ling SPECIES
-=======
+# Sorosporium guaraniticum (Speg.) L. Ling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 16: 190 (1953)
 
 #### Original name
 Ustilago guaranitica Speg.

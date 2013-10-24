@@ -1,5 +1,4 @@
-Scutuloris parri Collins, 1974 SPECIES
-=======
+# Scutuloris parri Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

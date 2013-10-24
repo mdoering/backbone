@@ -1,5 +1,4 @@
-Stagonospora anthoxanthi E. Castell. & Germano SPECIES
-=======
+# Stagonospora anthoxanthi E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

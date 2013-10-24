@@ -1,5 +1,4 @@
-Opisthotricha sphagni Kahl, 1932 SPECIES
-=======
+# Opisthotricha sphagni Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

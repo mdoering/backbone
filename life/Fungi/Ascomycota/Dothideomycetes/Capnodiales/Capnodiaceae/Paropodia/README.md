@@ -1,5 +1,4 @@
-Paropodia GENUS
-=======
+# Paropodia GENUS
 
 #### Status
 ACCEPTED

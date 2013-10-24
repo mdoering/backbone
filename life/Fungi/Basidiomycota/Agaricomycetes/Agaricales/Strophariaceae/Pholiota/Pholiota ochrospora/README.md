@@ -1,5 +1,4 @@
-Pholiota ochrospora Raithelh. SPECIES
-=======
+# Pholiota ochrospora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

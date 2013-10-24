@@ -1,5 +1,4 @@
-Licea confundens T.N. Lakh., Nann.-Bremek. & R.K. Chopra, 1990 SPECIES
-=======
+# Licea confundens T.N. Lakh., Nann.-Bremek. & R.K. Chopra, 1990 SPECIES
 
 #### Status
 ACCEPTED

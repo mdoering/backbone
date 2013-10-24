@@ -1,5 +1,4 @@
-Parmelia hirasakiensis SPECIES
-=======
+# Parmelia hirasakiensis SPECIES
 
 #### Status
 ACCEPTED

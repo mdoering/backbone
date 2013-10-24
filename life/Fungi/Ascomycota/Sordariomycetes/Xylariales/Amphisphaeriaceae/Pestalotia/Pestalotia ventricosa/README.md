@@ -1,5 +1,4 @@
-Pestalotia ventricosa Nann. SPECIES
-=======
+# Pestalotia ventricosa Nann. SPECIES
 
 #### Status
 ACCEPTED

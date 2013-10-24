@@ -1,5 +1,4 @@
-Myzocytiopsis osiris Glockling, 2001 SPECIES
-=======
+# Myzocytiopsis osiris Glockling, 2001 SPECIES
 
 #### Status
 ACCEPTED

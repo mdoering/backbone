@@ -1,5 +1,4 @@
-Phoma elongata (Berk. & Cooke) Sacc. SPECIES
-=======
+# Phoma elongata (Berk. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

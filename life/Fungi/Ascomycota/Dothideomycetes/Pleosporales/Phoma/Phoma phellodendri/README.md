@@ -1,5 +1,4 @@
-Phoma phellodendri Bres. SPECIES
-=======
+# Phoma phellodendri Bres. SPECIES
 
 #### Status
 ACCEPTED

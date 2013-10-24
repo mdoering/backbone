@@ -1,5 +1,4 @@
-Valsa radula (Pers.) Cooke SPECIES
-=======
+# Valsa radula (Pers.) Cooke SPECIES
 
 #### Status
 ACCEPTED

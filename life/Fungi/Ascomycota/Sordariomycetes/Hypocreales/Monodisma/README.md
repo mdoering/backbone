@@ -1,5 +1,4 @@
-Monodisma Alcorn GENUS
-=======
+# Monodisma Alcorn GENUS
 
 #### Status
 ACCEPTED

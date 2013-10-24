@@ -1,5 +1,4 @@
-Diplodia sahnii Singhai SPECIES
-=======
+# Diplodia sahnii Singhai SPECIES
 
 #### Status
 ACCEPTED

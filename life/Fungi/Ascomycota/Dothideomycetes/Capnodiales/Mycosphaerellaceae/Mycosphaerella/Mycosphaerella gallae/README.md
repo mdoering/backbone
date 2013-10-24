@@ -1,5 +1,4 @@
-Mycosphaerella gallae (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella gallae (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

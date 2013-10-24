@@ -1,5 +1,4 @@
-Pluteus squamosidiscus Murrill SPECIES
-=======
+# Pluteus squamosidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

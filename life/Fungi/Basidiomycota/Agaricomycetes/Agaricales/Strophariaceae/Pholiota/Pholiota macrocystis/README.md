@@ -1,5 +1,4 @@
-Pholiota macrocystis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota macrocystis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius cervinus Pers. SPECIES
-=======
+# Merulius cervinus Pers. SPECIES
 
 #### Status
 ACCEPTED

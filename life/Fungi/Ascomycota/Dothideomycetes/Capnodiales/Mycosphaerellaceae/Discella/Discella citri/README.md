@@ -1,5 +1,4 @@
-Discella citri Cooke SPECIES
-=======
+# Discella citri Cooke SPECIES
 
 #### Status
 ACCEPTED

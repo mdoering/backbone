@@ -1,5 +1,4 @@
-Stephanophaena Haeckel, 1887 GENUS
-=======
+# Stephanophaena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

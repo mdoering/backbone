@@ -1,5 +1,4 @@
-Ramularia allii Byzova SPECIES
-=======
+# Ramularia allii Byzova SPECIES
 
 #### Status
 ACCEPTED

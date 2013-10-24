@@ -1,5 +1,4 @@
-Schizoblastosporion tokioense (H. Fujii) C.W. Dodge SPECIES
-=======
+# Schizoblastosporion tokioense (H. Fujii) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

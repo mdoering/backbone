@@ -1,5 +1,4 @@
-Hymenula anthrisci Briard ex Sacc. SPECIES
-=======
+# Hymenula anthrisci Briard ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

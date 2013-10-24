@@ -1,5 +1,4 @@
-Libertiella didymospora D. Hawksw. & Miadl. SPECIES
-=======
+# Libertiella didymospora D. Hawksw. & Miadl. SPECIES
 
 #### Status
 ACCEPTED

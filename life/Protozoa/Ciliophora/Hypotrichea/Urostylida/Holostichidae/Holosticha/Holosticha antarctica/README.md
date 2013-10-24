@@ -1,5 +1,4 @@
-Holosticha antarctica Wilbert & Song, 2008 SPECIES
-=======
+# Holosticha antarctica Wilbert & Song, 2008 SPECIES
 
 #### Status
 ACCEPTED

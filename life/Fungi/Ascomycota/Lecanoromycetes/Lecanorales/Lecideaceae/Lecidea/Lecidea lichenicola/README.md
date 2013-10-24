@@ -1,14 +1,13 @@
-Nesolechia lichenicola (A.L. Sm. & Ramsb.) Keissl. SPECIES
-=======
+# Lecidea lichenicola (A.L. Sm. & Ramsb.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rabenhorst's Kryptogamen-Flora, Pilze - Die Flechtenparasiten 2(8): 141 (1930)
+Notes R. bot. Gdn Edinb. 36(1): 184 (1978)
 
 #### Original name
 Discocera lichenicola A.L. Sm. & Ramsb.

@@ -1,5 +1,4 @@
-Cytospora arundinis Caball. SPECIES
-=======
+# Cytospora arundinis Caball. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orona Haeckel, 1887 GENUS
-=======
+# Orona Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

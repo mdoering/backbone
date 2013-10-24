@@ -1,5 +1,4 @@
-Arctoparmelia Hale GENUS
-=======
+# Arctoparmelia Hale GENUS
 
 #### Status
 ACCEPTED

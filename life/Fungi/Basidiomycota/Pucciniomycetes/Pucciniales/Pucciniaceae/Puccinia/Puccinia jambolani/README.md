@@ -1,5 +1,4 @@
-Puccinia jambolani Rangel SPECIES
-=======
+# Puccinia jambolani Rangel SPECIES
 
 #### Status
 ACCEPTED

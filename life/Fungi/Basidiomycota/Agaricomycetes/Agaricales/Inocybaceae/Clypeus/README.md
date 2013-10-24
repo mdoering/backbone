@@ -1,5 +1,4 @@
-Clypeus GENUS
-=======
+# Clypeus GENUS
 
 #### Status
 ACCEPTED

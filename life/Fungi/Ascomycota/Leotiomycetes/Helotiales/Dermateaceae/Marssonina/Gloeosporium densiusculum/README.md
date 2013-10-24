@@ -1,5 +1,4 @@
-Gloeosporium densiusculum Bubák & Gonz. Frag. SPECIES
-=======
+# Gloeosporium densiusculum Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

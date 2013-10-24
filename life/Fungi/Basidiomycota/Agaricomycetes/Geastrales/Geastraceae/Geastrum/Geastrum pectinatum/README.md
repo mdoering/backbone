@@ -1,17 +1,16 @@
-Geaster pectinatus (Pers. Pers.) Lloyd SPECIES
-=======
+# Geastrum pectinatum Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 132 (1801)
 
 #### Original name
-null
+Geastrum pectinatum Pers., 1801
 
 ### Remarks
 null

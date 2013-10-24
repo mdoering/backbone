@@ -1,5 +1,4 @@
-Cortinarius bergeronii (Melot) Melot SPECIES
-=======
+# Cortinarius bergeronii (Melot) Melot SPECIES
 
 #### Status
 ACCEPTED

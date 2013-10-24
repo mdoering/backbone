@@ -1,5 +1,4 @@
-Vasicostella cranimorpha Clark, 1995 SPECIES
-=======
+# Vasicostella cranimorpha Clark, 1995 SPECIES
 
 #### Status
 ACCEPTED

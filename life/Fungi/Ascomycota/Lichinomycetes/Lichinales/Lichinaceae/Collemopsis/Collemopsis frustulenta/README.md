@@ -1,5 +1,4 @@
-Collemopsis frustulenta Nyl. SPECIES
-=======
+# Collemopsis frustulenta Nyl. SPECIES
 
 #### Status
 ACCEPTED

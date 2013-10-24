@@ -1,5 +1,4 @@
-Armophorida Jankowksi, 1964 ORDER
-=======
+# Armophorida Jankowksi, 1964 ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia mendax Maire SPECIES
-=======
+# Collybia mendax Maire SPECIES
 
 #### Status
 ACCEPTED

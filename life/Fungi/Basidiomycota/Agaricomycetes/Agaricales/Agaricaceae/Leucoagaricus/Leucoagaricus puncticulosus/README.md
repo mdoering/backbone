@@ -1,5 +1,4 @@
-Leucoagaricus puncticulosus Pegler SPECIES
-=======
+# Leucoagaricus puncticulosus Pegler SPECIES
 
 #### Status
 ACCEPTED

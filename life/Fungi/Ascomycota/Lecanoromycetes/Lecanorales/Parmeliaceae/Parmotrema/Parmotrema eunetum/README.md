@@ -1,5 +1,4 @@
-Parmotrema eunetum (Stirt.) Hale SPECIES
-=======
+# Parmotrema eunetum (Stirt.) Hale SPECIES
 
 #### Status
 ACCEPTED

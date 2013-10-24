@@ -1,5 +1,4 @@
-Puccinia majuscula H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia majuscula H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

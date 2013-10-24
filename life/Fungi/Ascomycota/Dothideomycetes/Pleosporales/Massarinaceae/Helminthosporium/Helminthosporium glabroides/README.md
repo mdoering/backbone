@@ -1,17 +1,16 @@
-Helmisporium glabroides F. Stevens SPECIES
-=======
+# Helminthosporium glabroides F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 65: 240 (1918)
 
 #### Original name
-Helmisporium glabroides F. Stevens
+Helminthosporium glabroides F. Stevens
 
 ### Remarks
 null

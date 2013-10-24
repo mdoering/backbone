@@ -1,5 +1,4 @@
-Agaricus gracillimus Weinm. SPECIES
-=======
+# Agaricus gracillimus Weinm. SPECIES
 
 #### Status
 ACCEPTED

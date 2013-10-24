@@ -1,5 +1,4 @@
-Smittium tynense Strongman, 2007 SPECIES
-=======
+# Smittium tynense Strongman, 2007 SPECIES
 
 #### Status
 ACCEPTED

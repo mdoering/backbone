@@ -1,5 +1,4 @@
-Gypsina plana (Carter, 1876) SPECIES
-=======
+# Gypsina plana (Carter, 1876) SPECIES
 
 #### Status
 ACCEPTED

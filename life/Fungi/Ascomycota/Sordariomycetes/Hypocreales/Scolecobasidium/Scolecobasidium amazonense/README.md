@@ -1,5 +1,4 @@
-Scolecobasidium amazonense Matsush. SPECIES
-=======
+# Scolecobasidium amazonense Matsush. SPECIES
 
 #### Status
 ACCEPTED

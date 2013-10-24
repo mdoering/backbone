@@ -1,5 +1,4 @@
-Strigula graminicola R. Sant. SPECIES
-=======
+# Strigula graminicola R. Sant. SPECIES
 
 #### Status
 ACCEPTED

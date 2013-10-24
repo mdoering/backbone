@@ -1,14 +1,13 @@
-Verrucaria leucoplaca Wallr. SPECIES
-=======
+# Eopyrenula leucoplaca (Wallr.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michigan Bot. 12(1): 19 (1973)
 
 #### Original name
 null

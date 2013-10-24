@@ -1,5 +1,4 @@
-Syntrophaceae FAMILY
-=======
+# Syntrophaceae FAMILY
 
 #### Status
 ACCEPTED

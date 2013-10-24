@@ -1,5 +1,4 @@
-Acrostaurus Deighton & Piroz. GENUS
-=======
+# Acrostaurus Deighton & Piroz. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea sinensis var. sinensis VARIETY
-=======
+# Usnea sinensis Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea sinensis var. sinensis
+Usnea sinensis Motyka
 
 ### Remarks
 null

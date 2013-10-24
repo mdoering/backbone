@@ -1,5 +1,4 @@
-Legionella santicrucis Brenner et al., 1985 SPECIES
-=======
+# Legionella santicrucis Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia endocrocea Pers. SPECIES
-=======
+# Parmelia endocrocea Pers. SPECIES
 
 #### Status
 ACCEPTED

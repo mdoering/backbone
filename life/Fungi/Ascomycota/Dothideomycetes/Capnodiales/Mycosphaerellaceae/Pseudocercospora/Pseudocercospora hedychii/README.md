@@ -1,5 +1,4 @@
-Pseudocercospora hedychii (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora hedychii (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

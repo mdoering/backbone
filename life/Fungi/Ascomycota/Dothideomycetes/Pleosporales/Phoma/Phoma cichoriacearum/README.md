@@ -1,5 +1,4 @@
-Phoma cichoriacearum Sacc. SPECIES
-=======
+# Phoma cichoriacearum Sacc. SPECIES
 
 #### Status
 ACCEPTED

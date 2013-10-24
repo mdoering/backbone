@@ -1,5 +1,4 @@
-Clavulina mexicana SPECIES
-=======
+# Clavulina mexicana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pardipes Rob. Henry SPECIES
-=======
+# Cortinarius pardipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia angulata Dietel & Neger SPECIES
-=======
+# Puccinia angulata Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

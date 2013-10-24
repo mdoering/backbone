@@ -1,5 +1,4 @@
-Meliola schwenkiicola Hansf. SPECIES
-=======
+# Meliola schwenkiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

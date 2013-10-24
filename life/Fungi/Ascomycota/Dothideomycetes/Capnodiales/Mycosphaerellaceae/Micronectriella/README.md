@@ -1,5 +1,4 @@
-Micronectriella GENUS
-=======
+# Micronectriella GENUS
 
 #### Status
 ACCEPTED

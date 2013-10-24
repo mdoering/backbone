@@ -1,5 +1,4 @@
-Uromyces shiraianus Dietel & P. Syd. SPECIES
-=======
+# Uromyces shiraianus Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

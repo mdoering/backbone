@@ -1,14 +1,13 @@
-Taphridium cicutae Lindr., 1903 SPECIES
-=======
+# Buerenia cicutae (Lindr.) M.S. Reddy & C.L. Kramer, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 3(1): 11 (1975)
 
 #### Original name
 Taphridium cicutae Lindr., 1903

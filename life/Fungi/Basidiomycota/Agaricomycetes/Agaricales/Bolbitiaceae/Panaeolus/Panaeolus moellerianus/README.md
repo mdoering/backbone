@@ -1,5 +1,4 @@
-Panaeolus moellerianus Singer SPECIES
-=======
+# Panaeolus moellerianus Singer SPECIES
 
 #### Status
 ACCEPTED

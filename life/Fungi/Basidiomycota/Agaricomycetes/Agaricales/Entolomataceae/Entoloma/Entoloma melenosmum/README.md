@@ -1,5 +1,4 @@
-Entoloma melenosmum Noordel. SPECIES
-=======
+# Entoloma melenosmum Noordel. SPECIES
 
 #### Status
 ACCEPTED

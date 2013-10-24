@@ -1,5 +1,4 @@
-Septoria eremostachydis M.N. Kusnezowa & Byzova SPECIES
-=======
+# Septoria eremostachydis M.N. Kusnezowa & Byzova SPECIES
 
 #### Status
 ACCEPTED

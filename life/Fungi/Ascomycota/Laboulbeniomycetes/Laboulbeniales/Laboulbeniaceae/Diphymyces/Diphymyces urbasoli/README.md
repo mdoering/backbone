@@ -1,5 +1,4 @@
-Diphymyces urbasoli Santam., 1993 SPECIES
-=======
+# Diphymyces urbasoli Santam., 1993 SPECIES
 
 #### Status
 ACCEPTED

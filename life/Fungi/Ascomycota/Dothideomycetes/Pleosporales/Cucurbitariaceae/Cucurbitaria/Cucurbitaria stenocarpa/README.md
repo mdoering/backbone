@@ -1,5 +1,4 @@
-Cucurbitaria stenocarpa Ellis & Everh. SPECIES
-=======
+# Cucurbitaria stenocarpa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

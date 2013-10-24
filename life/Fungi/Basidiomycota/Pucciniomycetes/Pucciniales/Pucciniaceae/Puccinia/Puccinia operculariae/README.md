@@ -1,5 +1,4 @@
-Puccinia operculariae (Morrison {?} ) P. Syd. & Syd. SPECIES
-=======
+# Puccinia operculariae (Morrison {?} ) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

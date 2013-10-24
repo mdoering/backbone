@@ -1,5 +1,4 @@
-Lautospora gigantea K.D. Hyde & E.B.G. Jones, 1989 SPECIES
-=======
+# Lautospora gigantea K.D. Hyde & E.B.G. Jones, 1989 SPECIES
 
 #### Status
 ACCEPTED

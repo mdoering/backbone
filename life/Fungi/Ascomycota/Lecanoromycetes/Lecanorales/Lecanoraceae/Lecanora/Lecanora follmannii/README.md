@@ -1,5 +1,4 @@
-Lecanora follmannii Klem. SPECIES
-=======
+# Lecanora follmannii Klem. SPECIES
 
 #### Status
 ACCEPTED

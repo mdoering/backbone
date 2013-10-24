@@ -1,5 +1,4 @@
-Teichospora mamodes Ellis & Everh. SPECIES
-=======
+# Teichospora mamodes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

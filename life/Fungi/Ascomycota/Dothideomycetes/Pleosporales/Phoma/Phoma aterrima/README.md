@@ -1,5 +1,4 @@
-Phoma aterrima Petch SPECIES
-=======
+# Phoma aterrima Petch SPECIES
 
 #### Status
 ACCEPTED

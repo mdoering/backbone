@@ -1,5 +1,4 @@
-Edgertonia floccula Tendal & Hessler, 1977 SPECIES
-=======
+# Edgertonia floccula Tendal & Hessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

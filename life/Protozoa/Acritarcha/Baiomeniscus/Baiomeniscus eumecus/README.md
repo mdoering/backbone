@@ -1,5 +1,4 @@
-Baiomeniscus eumecus Loeblich & Tappan, 1978 SPECIES
-=======
+# Baiomeniscus eumecus Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

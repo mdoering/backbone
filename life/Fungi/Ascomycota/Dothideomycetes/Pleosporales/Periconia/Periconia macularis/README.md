@@ -1,5 +1,4 @@
-Periconia macularis Schwein. SPECIES
-=======
+# Periconia macularis Schwein. SPECIES
 
 #### Status
 ACCEPTED

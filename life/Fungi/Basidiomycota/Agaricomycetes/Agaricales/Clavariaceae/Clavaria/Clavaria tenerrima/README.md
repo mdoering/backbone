@@ -1,5 +1,4 @@
-Clavaria tenerrima Massee & Crossl. SPECIES
-=======
+# Clavaria tenerrima Massee & Crossl. SPECIES
 
 #### Status
 ACCEPTED

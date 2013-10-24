@@ -1,5 +1,4 @@
-Amanita marmorata subsp. marmorata SUBSPECIES
-=======
+# Amanita marmorata Cleland & E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Iconogr. Mycol. 27(Suppl. 1): 329 (1941)
 
 #### Original name
-Amanita marmorata subsp. marmorata
+Amanita marmorata Cleland & E.-J. Gilbert
 
 ### Remarks
 null

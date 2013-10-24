@@ -1,5 +1,4 @@
-Pustularia sundaica Höhn. SPECIES
-=======
+# Pustularia sundaica Höhn. SPECIES
 
 #### Status
 ACCEPTED

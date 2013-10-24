@@ -1,5 +1,4 @@
-Diploplacosphaeria GENUS
-=======
+# Diploplacosphaeria GENUS
 
 #### Status
 ACCEPTED

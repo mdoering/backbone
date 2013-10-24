@@ -1,5 +1,4 @@
-Psilocybe andina Guzmán SPECIES
-=======
+# Psilocybe andina Guzmán SPECIES
 
 #### Status
 ACCEPTED

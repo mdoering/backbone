@@ -1,5 +1,4 @@
-Trichophyton bullosum Lebasque, 1933 SPECIES
-=======
+# Trichophyton bullosum Lebasque, 1933 SPECIES
 
 #### Status
 ACCEPTED

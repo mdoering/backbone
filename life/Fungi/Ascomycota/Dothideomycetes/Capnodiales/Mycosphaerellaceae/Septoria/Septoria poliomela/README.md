@@ -1,5 +1,4 @@
-Septoria poliomela Syd. SPECIES
-=======
+# Septoria poliomela Syd. SPECIES
 
 #### Status
 ACCEPTED

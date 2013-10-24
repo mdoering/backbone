@@ -1,5 +1,4 @@
-Spathidioides carinata Kahl, 1930 SPECIES
-=======
+# Spathidioides carinata Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

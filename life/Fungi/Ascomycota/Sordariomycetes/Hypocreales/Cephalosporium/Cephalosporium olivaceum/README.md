@@ -1,5 +1,4 @@
-Cephalosporium olivaceum Bonord. SPECIES
-=======
+# Cephalosporium olivaceum Bonord. SPECIES
 
 #### Status
 ACCEPTED

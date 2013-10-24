@@ -1,5 +1,4 @@
-Marasmius pseudoniveus var. pseudoniveus VARIETY
-=======
+# Marasmius pseudoniveus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius pseudoniveus var. pseudoniveus
+Marasmius pseudoniveus Singer
 
 ### Remarks
 null

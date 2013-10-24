@@ -1,5 +1,4 @@
-Cyathus cheliensis Tai {?} & Hung {?} SPECIES
-=======
+# Cyathus cheliensis Tai {?} & Hung {?} SPECIES
 
 #### Status
 ACCEPTED

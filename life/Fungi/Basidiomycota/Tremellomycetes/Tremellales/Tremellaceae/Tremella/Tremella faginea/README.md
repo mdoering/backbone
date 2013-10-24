@@ -1,5 +1,4 @@
-Tremella faginea Britzelm. SPECIES
-=======
+# Tremella faginea Britzelm. SPECIES
 
 #### Status
 ACCEPTED

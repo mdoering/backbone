@@ -1,5 +1,4 @@
-Pseudocercospora thelypteridis Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora thelypteridis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

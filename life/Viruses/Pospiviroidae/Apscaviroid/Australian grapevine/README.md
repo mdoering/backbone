@@ -1,5 +1,4 @@
-Australian grapevine SPECIES
-=======
+# Australian grapevine SPECIES
 
 #### Status
 ACCEPTED

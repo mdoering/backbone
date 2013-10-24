@@ -1,5 +1,4 @@
-Phyllosticta cordylinophila P.A. Young, 1925 SPECIES
-=======
+# Phyllosticta cordylinophila P.A. Young, 1925 SPECIES
 
 #### Status
 ACCEPTED

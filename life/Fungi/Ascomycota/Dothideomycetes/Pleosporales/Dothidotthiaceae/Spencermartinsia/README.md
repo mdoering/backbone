@@ -1,5 +1,4 @@
-Spencermartinsia A.J.L. Phillips, A. Alves & Crous GENUS
-=======
+# Spencermartinsia A.J.L. Phillips, A. Alves & Crous GENUS
 
 #### Status
 ACCEPTED

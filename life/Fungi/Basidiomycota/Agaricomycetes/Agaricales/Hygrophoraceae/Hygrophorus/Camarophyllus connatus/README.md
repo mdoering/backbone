@@ -1,5 +1,4 @@
-Camarophyllus connatus P. Karst. SPECIES
-=======
+# Camarophyllus connatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

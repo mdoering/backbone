@@ -1,5 +1,4 @@
-Hymenochaete deflectens Bres. & Syd. SPECIES
-=======
+# Hymenochaete deflectens Bres. & Syd. SPECIES
 
 #### Status
 ACCEPTED

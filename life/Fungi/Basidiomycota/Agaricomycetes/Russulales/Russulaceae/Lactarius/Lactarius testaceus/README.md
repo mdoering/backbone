@@ -1,5 +1,4 @@
-Lactarius testaceus (Pers.) Guég. SPECIES
-=======
+# Lactarius testaceus (Pers.) Guég. SPECIES
 
 #### Status
 ACCEPTED

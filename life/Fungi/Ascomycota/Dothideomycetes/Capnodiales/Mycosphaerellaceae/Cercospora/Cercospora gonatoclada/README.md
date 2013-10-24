@@ -1,5 +1,4 @@
-Cercospora gonatoclada Syd. SPECIES
-=======
+# Cercospora gonatoclada Syd. SPECIES
 
 #### Status
 ACCEPTED

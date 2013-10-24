@@ -1,5 +1,4 @@
-Nitrosomonadaceae FAMILY
-=======
+# Nitrosomonadaceae FAMILY
 
 #### Status
 ACCEPTED

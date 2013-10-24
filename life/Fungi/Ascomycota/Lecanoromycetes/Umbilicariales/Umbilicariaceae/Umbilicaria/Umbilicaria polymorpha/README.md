@@ -1,5 +1,4 @@
-Umbilicaria polymorpha (Schrad.) Schaer. SPECIES
-=======
+# Umbilicaria polymorpha (Schrad.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metarhizium viridulum (Tzean, L.S. Hsieh, J.L. Chen & W.J. Wu) B. Huang & Z.Z. Li SPECIES
-=======
+# Metarhizium viridulum (Tzean, L.S. Hsieh, J.L. Chen & W.J. Wu) B. Huang & Z.Z. Li SPECIES
 
 #### Status
 ACCEPTED

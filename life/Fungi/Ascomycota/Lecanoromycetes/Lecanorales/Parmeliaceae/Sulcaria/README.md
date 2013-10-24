@@ -1,5 +1,4 @@
-Sulcaria Bystrek GENUS
-=======
+# Sulcaria Bystrek GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma insidiosa Tassi, 1898 SPECIES
-=======
+# Phoma insidiosa Tassi, 1898 SPECIES
 
 #### Status
 ACCEPTED

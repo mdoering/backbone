@@ -1,5 +1,4 @@
-Hysterographium cumingii Speg. SPECIES
-=======
+# Hysterographium cumingii Speg. SPECIES
 
 #### Status
 ACCEPTED

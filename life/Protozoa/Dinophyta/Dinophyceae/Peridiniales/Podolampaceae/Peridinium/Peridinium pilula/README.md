@@ -1,5 +1,4 @@
-Peridinium pilula (Ostenfeld) Lemmermann SPECIES
-=======
+# Peridinium pilula (Ostenfeld) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

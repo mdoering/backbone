@@ -1,5 +1,4 @@
-Parafolliculina pulagollica SPECIES
-=======
+# Parafolliculina pulagollica SPECIES
 
 #### Status
 ACCEPTED

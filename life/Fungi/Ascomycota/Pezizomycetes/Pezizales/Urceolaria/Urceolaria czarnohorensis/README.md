@@ -1,5 +1,4 @@
-Urceolaria czarnohorensis Motyka SPECIES
-=======
+# Urceolaria czarnohorensis Motyka SPECIES
 
 #### Status
 ACCEPTED

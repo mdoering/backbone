@@ -1,5 +1,4 @@
-Platygramme flexuosa Fée SPECIES
-=======
+# Platygramme flexuosa Fée SPECIES
 
 #### Status
 ACCEPTED

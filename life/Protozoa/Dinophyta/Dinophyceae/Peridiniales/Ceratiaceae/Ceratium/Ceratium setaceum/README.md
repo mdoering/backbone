@@ -1,5 +1,4 @@
-Ceratium setaceum E.G. Jørgensen SPECIES
-=======
+# Ceratium setaceum E.G. Jørgensen SPECIES
 
 #### Status
 ACCEPTED

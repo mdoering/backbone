@@ -1,5 +1,4 @@
-Trullula heterospora (Preuss) Sacc. SPECIES
-=======
+# Trullula heterospora (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

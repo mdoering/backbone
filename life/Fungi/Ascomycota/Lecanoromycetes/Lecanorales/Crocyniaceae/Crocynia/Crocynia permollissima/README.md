@@ -1,5 +1,4 @@
-Crocynia permollissima Hue SPECIES
-=======
+# Crocynia permollissima Hue SPECIES
 
 #### Status
 ACCEPTED

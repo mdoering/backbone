@@ -1,5 +1,4 @@
-Elaphomyces sulphureopallidus Vacek SPECIES
-=======
+# Elaphomyces sulphureopallidus Vacek SPECIES
 
 #### Status
 ACCEPTED

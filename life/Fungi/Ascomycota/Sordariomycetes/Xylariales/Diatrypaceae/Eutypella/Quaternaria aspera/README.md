@@ -1,5 +1,4 @@
-Quaternaria aspera Massee SPECIES
-=======
+# Quaternaria aspera Massee SPECIES
 
 #### Status
 ACCEPTED

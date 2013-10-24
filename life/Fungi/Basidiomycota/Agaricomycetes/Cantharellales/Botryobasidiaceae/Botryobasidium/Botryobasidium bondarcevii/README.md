@@ -1,5 +1,4 @@
-Botryobasidium bondarcevii (Parmasto) G. Langer, 1994 SPECIES
-=======
+# Botryobasidium bondarcevii (Parmasto) G. Langer, 1994 SPECIES
 
 #### Status
 ACCEPTED

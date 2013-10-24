@@ -1,5 +1,4 @@
-Cortinarius pseudorigens Bohus SPECIES
-=======
+# Cortinarius pseudorigens Bohus SPECIES
 
 #### Status
 ACCEPTED

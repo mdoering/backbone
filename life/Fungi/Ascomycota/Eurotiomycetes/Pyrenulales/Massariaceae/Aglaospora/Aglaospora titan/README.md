@@ -1,5 +1,4 @@
-Aglaospora titan (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Aglaospora titan (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

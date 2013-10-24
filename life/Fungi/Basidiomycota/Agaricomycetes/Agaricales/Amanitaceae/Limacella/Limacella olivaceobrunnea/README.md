@@ -1,5 +1,4 @@
-Limacella olivaceobrunnea Hongo SPECIES
-=======
+# Limacella olivaceobrunnea Hongo SPECIES
 
 #### Status
 ACCEPTED

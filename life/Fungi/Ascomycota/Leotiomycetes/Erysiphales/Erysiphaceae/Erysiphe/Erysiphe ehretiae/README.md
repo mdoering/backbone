@@ -1,5 +1,4 @@
-Erysiphe ehretiae (Keissl.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe ehretiae (Keissl.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

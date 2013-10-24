@@ -1,17 +1,16 @@
-Boletus gansunensis Q.B. Wang, T.H. Li & Y.J. Yao SPECIES
-=======
+# Boletus gansuensis Q.B. Wang, T.H. Li & Y.J. Yao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 88: 440 (2003)
 
 #### Original name
-Boletus gansunensis Q.B. Wang, T.H. Li & Y.J. Yao
+Boletus gansuensis Q.B. Wang, T.H. Li & Y.J. Yao
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Aecidium cunninghamianum Barclay, 1889 SPECIES
-=======
+# Roestelia cunninghamianum (Barclay) F. Kern, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revised Taxonomic Account of Gymnosporangium (Univ. Park & London) 84 (1973)
 
 #### Original name
 Aecidium cunninghamianum Barclay, 1889

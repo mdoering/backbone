@@ -1,5 +1,4 @@
-Lithogyalideopsis Lücking, Sérus. & Vezda GENUS
-=======
+# Lithogyalideopsis Lücking, Sérus. & Vezda GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenopyrenis Calat., Sanz & Aptroot GENUS
-=======
+# Lichenopyrenis Calat., Sanz & Aptroot GENUS
 
 #### Status
 ACCEPTED

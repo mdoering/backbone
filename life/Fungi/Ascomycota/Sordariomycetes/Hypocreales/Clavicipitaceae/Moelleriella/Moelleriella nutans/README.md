@@ -1,5 +1,4 @@
-Moelleriella nutans Rick SPECIES
-=======
+# Moelleriella nutans Rick SPECIES
 
 #### Status
 ACCEPTED

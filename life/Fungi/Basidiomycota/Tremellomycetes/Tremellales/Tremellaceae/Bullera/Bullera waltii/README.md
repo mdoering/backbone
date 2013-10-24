@@ -1,5 +1,4 @@
-Bullera waltii Sugita, Cañ.-Gib., M. Takash. & Nakase SPECIES
-=======
+# Bullera waltii Sugita, Cañ.-Gib., M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

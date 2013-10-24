@@ -1,5 +1,4 @@
-Galerina asteliae Singer SPECIES
-=======
+# Galerina asteliae Singer SPECIES
 
 #### Status
 ACCEPTED

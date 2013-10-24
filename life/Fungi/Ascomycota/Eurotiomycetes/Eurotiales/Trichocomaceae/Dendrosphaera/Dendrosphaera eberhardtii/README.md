@@ -1,17 +1,16 @@
-Dendrosphaera eberhardti Pat. SPECIES
-=======
+# Dendrosphaera eberhardtii Pat., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 23: (1907)
 
 #### Original name
-Dendrosphaera eberhardti Pat.
+Dendrosphaera eberhardtii Pat., 1907
 
 ### Remarks
 null

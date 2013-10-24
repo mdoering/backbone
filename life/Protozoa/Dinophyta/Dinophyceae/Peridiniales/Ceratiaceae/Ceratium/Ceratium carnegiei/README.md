@@ -1,5 +1,4 @@
-Ceratium carnegiei Graham & Bronikowsky, 1944 SPECIES
-=======
+# Ceratium carnegiei Graham & Bronikowsky, 1944 SPECIES
 
 #### Status
 ACCEPTED

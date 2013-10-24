@@ -1,5 +1,4 @@
-Bovista abyssinica Mont. SPECIES
-=======
+# Bovista abyssinica Mont. SPECIES
 
 #### Status
 ACCEPTED

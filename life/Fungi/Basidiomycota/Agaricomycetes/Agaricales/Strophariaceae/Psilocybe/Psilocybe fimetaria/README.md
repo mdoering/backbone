@@ -1,5 +1,4 @@
-Psilocybe fimetaria (P.D. Orton) Watling, 1967 SPECIES
-=======
+# Psilocybe fimetaria (P.D. Orton) Watling, 1967 SPECIES
 
 #### Status
 ACCEPTED

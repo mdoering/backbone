@@ -1,5 +1,4 @@
-Dinophysis paralata Sournia, 1973 SPECIES
-=======
+# Dinophysis paralata Sournia, 1973 SPECIES
 
 #### Status
 ACCEPTED

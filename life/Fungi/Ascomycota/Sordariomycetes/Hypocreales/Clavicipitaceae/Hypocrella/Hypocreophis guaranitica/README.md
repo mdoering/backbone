@@ -1,5 +1,4 @@
-Hypocreophis guaranitica Speg. SPECIES
-=======
+# Hypocreophis guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

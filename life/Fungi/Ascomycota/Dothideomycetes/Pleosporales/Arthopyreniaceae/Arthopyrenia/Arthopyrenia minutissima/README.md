@@ -1,5 +1,4 @@
-Arthopyrenia minutissima Vain. SPECIES
-=======
+# Arthopyrenia minutissima Vain. SPECIES
 
 #### Status
 ACCEPTED

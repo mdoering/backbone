@@ -1,5 +1,4 @@
-Leucobacter Takeuchi, Weiss, Schumann & Yokota, 1996 GENUS
-=======
+# Leucobacter Takeuchi, Weiss, Schumann & Yokota, 1996 GENUS
 
 #### Status
 ACCEPTED

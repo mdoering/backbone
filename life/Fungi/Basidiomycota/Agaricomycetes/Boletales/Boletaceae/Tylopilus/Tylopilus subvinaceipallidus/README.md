@@ -1,5 +1,4 @@
-Tylopilus subvinaceipallidus T.H. Li & Watling SPECIES
-=======
+# Tylopilus subvinaceipallidus T.H. Li & Watling SPECIES
 
 #### Status
 ACCEPTED

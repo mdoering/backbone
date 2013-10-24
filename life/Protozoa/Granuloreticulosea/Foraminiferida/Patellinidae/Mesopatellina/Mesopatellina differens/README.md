@@ -1,5 +1,4 @@
-Mesopatellina differens McCulloch, 1977 SPECIES
-=======
+# Mesopatellina differens McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

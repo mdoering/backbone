@@ -1,5 +1,4 @@
-Urceolaria olivacea (Bagl. & Carestia) Motyka SPECIES
-=======
+# Urceolaria olivacea (Bagl. & Carestia) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antrodiella xanthochroa (Corner) T. Hatt. SPECIES
-=======
+# Antrodiella xanthochroa (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

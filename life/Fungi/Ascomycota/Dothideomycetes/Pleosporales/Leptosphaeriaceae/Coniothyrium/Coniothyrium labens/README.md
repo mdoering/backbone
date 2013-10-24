@@ -1,5 +1,4 @@
-Coniothyrium labens (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium labens (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloidima leptospermum Müll. Arg. SPECIES
-=======
+# Thalloidima leptospermum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

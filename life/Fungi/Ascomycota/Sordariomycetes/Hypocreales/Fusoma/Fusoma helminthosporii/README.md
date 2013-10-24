@@ -1,5 +1,4 @@
-Fusoma helminthosporii Corda SPECIES
-=======
+# Fusoma helminthosporii Corda SPECIES
 
 #### Status
 ACCEPTED

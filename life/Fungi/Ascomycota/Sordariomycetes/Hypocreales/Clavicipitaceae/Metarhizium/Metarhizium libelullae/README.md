@@ -1,5 +1,4 @@
-Metarhizium libelullae Sorokin SPECIES
-=======
+# Metarhizium libelullae Sorokin SPECIES
 
 #### Status
 ACCEPTED

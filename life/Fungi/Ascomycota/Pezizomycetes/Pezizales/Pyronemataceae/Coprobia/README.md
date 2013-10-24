@@ -1,5 +1,4 @@
-Coprobia GENUS
-=======
+# Coprobia GENUS
 
 #### Status
 ACCEPTED

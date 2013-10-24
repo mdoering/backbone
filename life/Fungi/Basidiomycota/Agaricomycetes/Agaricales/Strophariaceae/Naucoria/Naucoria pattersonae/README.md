@@ -1,5 +1,4 @@
-Naucoria pattersonae Murrill SPECIES
-=======
+# Naucoria pattersonae Murrill SPECIES
 
 #### Status
 ACCEPTED

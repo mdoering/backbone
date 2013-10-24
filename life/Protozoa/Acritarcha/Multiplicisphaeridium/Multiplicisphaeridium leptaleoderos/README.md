@@ -1,5 +1,4 @@
-Multiplicisphaeridium leptaleoderos Loeblich & Wicander, 1976 SPECIES
-=======
+# Multiplicisphaeridium leptaleoderos Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

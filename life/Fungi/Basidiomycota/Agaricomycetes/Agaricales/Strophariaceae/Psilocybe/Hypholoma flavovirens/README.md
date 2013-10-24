@@ -1,5 +1,4 @@
-Hypholoma flavovirens Murrill SPECIES
-=======
+# Hypholoma flavovirens Murrill SPECIES
 
 #### Status
 ACCEPTED

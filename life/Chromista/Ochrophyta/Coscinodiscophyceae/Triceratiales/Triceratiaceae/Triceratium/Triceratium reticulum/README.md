@@ -1,5 +1,4 @@
-Triceratium reticulum Ehrenberg SPECIES
-=======
+# Triceratium reticulum Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptostictis ilicina (Sacc.) Sacc. SPECIES
-=======
+# Cryptostictis ilicina (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

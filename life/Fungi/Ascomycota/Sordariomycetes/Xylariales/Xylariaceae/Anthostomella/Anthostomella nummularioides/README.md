@@ -1,5 +1,4 @@
-Anthostomella nummularioides Speg. SPECIES
-=======
+# Anthostomella nummularioides Speg. SPECIES
 
 #### Status
 ACCEPTED

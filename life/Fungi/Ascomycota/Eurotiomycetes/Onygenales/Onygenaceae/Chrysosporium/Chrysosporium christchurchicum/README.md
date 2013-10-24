@@ -1,5 +1,4 @@
-Chrysosporium christchurchicum Tripathi & Kushwaha SPECIES
-=======
+# Chrysosporium christchurchicum Tripathi & Kushwaha SPECIES
 
 #### Status
 ACCEPTED

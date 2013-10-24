@@ -1,5 +1,4 @@
-Lecideopsis californica Rehm SPECIES
-=======
+# Lecideopsis californica Rehm SPECIES
 
 #### Status
 ACCEPTED

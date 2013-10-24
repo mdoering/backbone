@@ -1,5 +1,4 @@
-Isariopsis narkandensis (Deighton) U. Braun SPECIES
-=======
+# Isariopsis narkandensis (Deighton) U. Braun SPECIES
 
 #### Status
 ACCEPTED

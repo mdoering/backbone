@@ -1,5 +1,4 @@
-Gonyaulax reticulata Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax reticulata Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

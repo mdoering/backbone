@@ -1,5 +1,4 @@
-Entoloma uranochroum Hauskn. & Noordel. SPECIES
-=======
+# Entoloma uranochroum Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

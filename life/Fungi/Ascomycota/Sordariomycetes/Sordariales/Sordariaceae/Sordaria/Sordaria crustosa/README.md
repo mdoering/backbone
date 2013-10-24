@@ -1,5 +1,4 @@
-Sordaria crustosa Massee SPECIES
-=======
+# Sordaria crustosa Massee SPECIES
 
 #### Status
 ACCEPTED

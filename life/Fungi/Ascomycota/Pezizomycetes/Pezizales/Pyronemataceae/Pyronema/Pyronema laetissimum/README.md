@@ -1,5 +1,4 @@
-Pyronema laetissimum J. Schröt. SPECIES
-=======
+# Pyronema laetissimum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

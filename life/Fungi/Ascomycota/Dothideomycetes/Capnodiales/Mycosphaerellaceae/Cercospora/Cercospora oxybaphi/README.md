@@ -1,5 +1,4 @@
-Cercospora oxybaphi Ellis & Halst. SPECIES
-=======
+# Cercospora oxybaphi Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

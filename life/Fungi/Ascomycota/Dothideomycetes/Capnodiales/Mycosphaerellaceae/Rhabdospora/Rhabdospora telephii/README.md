@@ -1,5 +1,4 @@
-Rhabdospora telephii Strasser SPECIES
-=======
+# Rhabdospora telephii Strasser SPECIES
 
 #### Status
 ACCEPTED

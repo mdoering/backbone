@@ -1,5 +1,4 @@
-Parmelia macrocarpoides Vain. SPECIES
-=======
+# Parmelia macrocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

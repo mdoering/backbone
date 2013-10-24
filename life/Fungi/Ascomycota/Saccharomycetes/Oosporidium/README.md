@@ -1,5 +1,4 @@
-Oosporidium Stautz, 1931 GENUS
-=======
+# Oosporidium Stautz, 1931 GENUS
 
 #### Status
 ACCEPTED

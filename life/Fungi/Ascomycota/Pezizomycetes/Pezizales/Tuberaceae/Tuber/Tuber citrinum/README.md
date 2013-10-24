@@ -1,5 +1,4 @@
-Tuber citrinum Harkn. SPECIES
-=======
+# Tuber citrinum Harkn. SPECIES
 
 #### Status
 ACCEPTED

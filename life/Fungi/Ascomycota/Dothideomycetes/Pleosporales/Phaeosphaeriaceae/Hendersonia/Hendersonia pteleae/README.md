@@ -1,5 +1,4 @@
-Hendersonia pteleae Nann. SPECIES
-=======
+# Hendersonia pteleae Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia encoelioides Rehm SPECIES
-=======
+# Mollisia encoelioides Rehm SPECIES
 
 #### Status
 ACCEPTED

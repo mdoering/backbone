@@ -1,5 +1,4 @@
-Lecidorina albidorosea Motyka SPECIES
-=======
+# Lecidorina albidorosea Motyka SPECIES
 
 #### Status
 ACCEPTED

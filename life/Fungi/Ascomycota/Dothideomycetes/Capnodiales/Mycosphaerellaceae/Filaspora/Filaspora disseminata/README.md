@@ -1,5 +1,4 @@
-Filaspora disseminata (Paol. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora disseminata (Paol. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalotheca hispida Richon SPECIES
-=======
+# Cephalotheca hispida Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anguillospora crassa Ingold, 1958 SPECIES
-=======
+# Anguillospora crassa Ingold, 1958 SPECIES
 
 #### Status
 ACCEPTED

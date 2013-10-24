@@ -1,5 +1,4 @@
-Uredo calthae Rabenh. SPECIES
-=======
+# Uredo calthae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

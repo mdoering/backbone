@@ -1,5 +1,4 @@
-Lembadion duriusculum Perty, 1852 SPECIES
-=======
+# Lembadion duriusculum Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

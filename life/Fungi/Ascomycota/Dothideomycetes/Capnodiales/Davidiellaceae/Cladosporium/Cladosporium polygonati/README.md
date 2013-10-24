@@ -1,14 +1,13 @@
-Heterosporium polygonati (M.B. Ellis) Arx, 1981 SPECIES
-=======
+# Cladosporium polygonati M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 305 (1981)
+More Dematiaceous Hyphomycetes (Kew) 338 (1976)
 
 #### Original name
 Cladosporium polygonati M.B. Ellis, 1976

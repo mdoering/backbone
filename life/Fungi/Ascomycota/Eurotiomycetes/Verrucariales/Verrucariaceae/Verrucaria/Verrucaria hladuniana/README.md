@@ -1,5 +1,4 @@
-Verrucaria hladuniana Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucaria hladuniana Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

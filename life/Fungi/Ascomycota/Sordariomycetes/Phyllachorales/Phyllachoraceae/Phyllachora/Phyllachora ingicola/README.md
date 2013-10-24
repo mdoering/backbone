@@ -1,8 +1,7 @@
-Phyllachora ingicola var. ingicola Syd., 1926 VARIETY
-=======
+# Phyllachora ingicola Syd., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Annls mycol. 24(5/6): 391 (1926)
 
 #### Original name
-Phyllachora ingicola var. ingicola Syd., 1926
+Phyllachora ingicola Syd., 1926
 
 ### Remarks
 null

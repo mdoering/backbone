@@ -1,5 +1,4 @@
-Trichia coccinea Hoffm. SPECIES
-=======
+# Trichia coccinea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

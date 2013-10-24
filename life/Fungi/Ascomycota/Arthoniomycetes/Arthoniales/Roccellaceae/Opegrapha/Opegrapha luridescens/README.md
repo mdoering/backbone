@@ -1,5 +1,4 @@
-Opegrapha luridescens Jatta SPECIES
-=======
+# Opegrapha luridescens Jatta SPECIES
 
 #### Status
 ACCEPTED

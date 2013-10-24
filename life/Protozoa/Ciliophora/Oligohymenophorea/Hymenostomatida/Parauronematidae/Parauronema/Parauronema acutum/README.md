@@ -1,5 +1,4 @@
-Parauronema acutum (von Buddenbrock, 1920) SPECIES
-=======
+# Parauronema acutum (von Buddenbrock, 1920) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora nakayamae Räsänen SPECIES
-=======
+# Lecanora nakayamae Räsänen SPECIES
 
 #### Status
 ACCEPTED

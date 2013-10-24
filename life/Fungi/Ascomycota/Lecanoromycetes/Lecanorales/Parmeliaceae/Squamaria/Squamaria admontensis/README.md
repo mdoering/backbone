@@ -1,5 +1,4 @@
-Squamaria admontensis (Zahlbr.) SPECIES
-=======
+# Squamaria admontensis (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

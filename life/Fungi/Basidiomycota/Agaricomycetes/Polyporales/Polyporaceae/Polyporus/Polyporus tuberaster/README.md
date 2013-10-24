@@ -1,17 +1,16 @@
-Favolus boucheanus var. boucheanus VARIETY
-=======
+# Polyporus tuberaster (Jacq. ex Pers.) Fr., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 8: 316 (1833)
+Observ. mycol. (Havniae) 1: 121 (1815)
 
 #### Original name
-Favolus boucheanus var. boucheanus
+Boletus tuberaster Jacq. ex Pers., 1801
 
 ### Remarks
 null

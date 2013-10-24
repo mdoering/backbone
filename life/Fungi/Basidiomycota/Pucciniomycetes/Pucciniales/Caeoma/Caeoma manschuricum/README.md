@@ -1,5 +1,4 @@
-Caeoma manschuricum Buriticá & J.F. Hennen SPECIES
-=======
+# Caeoma manschuricum Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

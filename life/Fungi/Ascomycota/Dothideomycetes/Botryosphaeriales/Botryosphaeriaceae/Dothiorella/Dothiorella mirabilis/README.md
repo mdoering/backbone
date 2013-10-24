@@ -1,5 +1,4 @@
-Dothiorella mirabilis (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella mirabilis (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

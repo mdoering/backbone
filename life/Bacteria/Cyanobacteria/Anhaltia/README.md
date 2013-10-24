@@ -1,5 +1,4 @@
-Anhaltia S.H.Schwabe GENUS
-=======
+# Anhaltia S.H.Schwabe GENUS
 
 #### Status
 ACCEPTED

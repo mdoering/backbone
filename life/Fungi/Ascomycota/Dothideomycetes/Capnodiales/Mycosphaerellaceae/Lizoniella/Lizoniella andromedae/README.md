@@ -1,5 +1,4 @@
-Lizoniella andromedae (Rehm) Kirschst. SPECIES
-=======
+# Lizoniella andromedae (Rehm) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

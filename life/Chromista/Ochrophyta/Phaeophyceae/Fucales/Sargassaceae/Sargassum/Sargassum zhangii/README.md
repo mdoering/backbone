@@ -1,5 +1,4 @@
-Sargassum zhangii C.K.Tseng & Lu SPECIES
-=======
+# Sargassum zhangii C.K.Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

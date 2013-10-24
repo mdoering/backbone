@@ -1,5 +1,4 @@
-Macrophoma fusispora (Rostr.) N.F. Buchw. SPECIES
-=======
+# Macrophoma fusispora (Rostr.) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

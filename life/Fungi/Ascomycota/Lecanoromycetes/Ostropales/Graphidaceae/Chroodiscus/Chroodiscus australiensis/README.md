@@ -1,5 +1,4 @@
-Chroodiscus australiensis Vezda & Lumbsch SPECIES
-=======
+# Chroodiscus australiensis Vezda & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

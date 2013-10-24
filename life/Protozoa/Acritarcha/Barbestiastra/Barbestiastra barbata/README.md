@@ -1,5 +1,4 @@
-Barbestiastra barbata (Downie, 1963) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Barbestiastra barbata (Downie, 1963) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

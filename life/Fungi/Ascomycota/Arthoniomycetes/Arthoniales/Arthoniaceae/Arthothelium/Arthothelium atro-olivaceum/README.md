@@ -1,5 +1,4 @@
-Arthothelium atro-olivaceum Makhija & Patw. SPECIES
-=======
+# Arthothelium atro-olivaceum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

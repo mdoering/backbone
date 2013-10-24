@@ -1,8 +1,7 @@
-Ramularia nemopanthis Cooke & Peck SPECIES
-=======
+# Ramularia nemopanthi Cooke & Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramularia nemopanthis Cooke & Peck
+Ramularia nemopanthi Cooke & Peck
 
 ### Remarks
 null

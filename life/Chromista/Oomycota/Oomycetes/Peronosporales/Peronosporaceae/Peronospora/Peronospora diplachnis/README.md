@@ -1,5 +1,4 @@
-Peronospora diplachnis Milovtz. SPECIES
-=======
+# Peronospora diplachnis Milovtz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunulus cymbaliferus (Mont.) Murrill SPECIES
-=======
+# Prunulus cymbaliferus (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

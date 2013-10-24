@@ -1,5 +1,4 @@
-Diploschistes rampoddensis (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes rampoddensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

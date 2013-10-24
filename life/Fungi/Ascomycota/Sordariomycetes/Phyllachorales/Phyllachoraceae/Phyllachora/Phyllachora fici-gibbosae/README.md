@@ -1,17 +1,16 @@
-Phyllachora ficus-gibbosae Ullasa SPECIES
-=======
+# Phyllachora fici-gibbosae Ullasa, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Phytopath. 22: 76 (1969)
 
 #### Original name
-Phyllachora ficus-gibbosae Ullasa
+Phyllachora fici-gibbosae Ullasa, 1969
 
 ### Remarks
 null

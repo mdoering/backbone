@@ -1,5 +1,4 @@
-Pyxicola furcifer (Hutton, 1878) Kent, 1882 SPECIES
-=======
+# Pyxicola furcifer (Hutton, 1878) Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

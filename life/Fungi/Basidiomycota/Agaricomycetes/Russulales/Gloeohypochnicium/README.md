@@ -1,5 +1,4 @@
-Gloeohypochnicium GENUS
-=======
+# Gloeohypochnicium GENUS
 
 #### Status
 ACCEPTED

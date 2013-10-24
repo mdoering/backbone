@@ -1,5 +1,4 @@
-Clitocybe connexa Peck SPECIES
-=======
+# Clitocybe connexa Peck SPECIES
 
 #### Status
 ACCEPTED

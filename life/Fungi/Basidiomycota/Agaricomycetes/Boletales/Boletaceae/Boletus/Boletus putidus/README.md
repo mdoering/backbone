@@ -1,5 +1,4 @@
-Boletus putidus E. Horak SPECIES
-=======
+# Boletus putidus E. Horak SPECIES
 
 #### Status
 ACCEPTED

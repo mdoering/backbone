@@ -1,5 +1,4 @@
-Stenella prosopidis (Heald & F.A. Wolf) U. Braun & Crous SPECIES
-=======
+# Stenella prosopidis (Heald & F.A. Wolf) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

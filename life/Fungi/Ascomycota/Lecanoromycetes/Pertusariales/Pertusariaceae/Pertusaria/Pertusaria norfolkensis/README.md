@@ -1,5 +1,4 @@
-Pertusaria norfolkensis A.W. Archer SPECIES
-=======
+# Pertusaria norfolkensis A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

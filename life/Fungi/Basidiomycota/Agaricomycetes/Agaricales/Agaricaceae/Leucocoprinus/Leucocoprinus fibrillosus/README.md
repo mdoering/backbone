@@ -1,5 +1,4 @@
-Leucocoprinus fibrillosus Raithelh. SPECIES
-=======
+# Leucocoprinus fibrillosus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

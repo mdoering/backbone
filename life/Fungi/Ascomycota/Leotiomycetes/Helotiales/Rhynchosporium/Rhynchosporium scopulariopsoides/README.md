@@ -1,5 +1,4 @@
-Rhynchosporium scopulariopsoides Matsush. SPECIES
-=======
+# Rhynchosporium scopulariopsoides Matsush. SPECIES
 
 #### Status
 ACCEPTED

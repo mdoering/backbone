@@ -1,17 +1,16 @@
-Peronosclerospora heteropogoni Siradhana, Dange, Rathore & S.D. Singh SPECIES
-=======
+# Peronosclerospora heteropogonis Siradhana, Dange, Rathore & S.D. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 49(8): 316 (1980)
 
 #### Original name
-Peronosclerospora heteropogoni Siradhana, Dange, Rathore & S.D. Singh
+Peronosclerospora heteropogonis Siradhana, Dange, Rathore & S.D. Singh
 
 ### Remarks
 null

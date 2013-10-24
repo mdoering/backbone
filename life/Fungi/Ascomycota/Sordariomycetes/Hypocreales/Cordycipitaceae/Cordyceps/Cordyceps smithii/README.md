@@ -1,5 +1,4 @@
-Cordyceps smithii Mains SPECIES
-=======
+# Cordyceps smithii Mains SPECIES
 
 #### Status
 ACCEPTED

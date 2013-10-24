@@ -1,5 +1,4 @@
-Diplodia dracaenae Henn. SPECIES
-=======
+# Diplodia dracaenae Henn. SPECIES
 
 #### Status
 ACCEPTED

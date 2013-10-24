@@ -1,5 +1,4 @@
-Gloeosporium graminum Rostr. SPECIES
-=======
+# Gloeosporium graminum Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphitrichum olivaceum Corda SPECIES
-=======
+# Amphitrichum olivaceum Corda SPECIES
 
 #### Status
 ACCEPTED

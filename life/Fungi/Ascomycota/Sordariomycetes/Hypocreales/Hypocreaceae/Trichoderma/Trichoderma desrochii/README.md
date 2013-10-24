@@ -1,5 +1,4 @@
-Trichoderma desrochii Sartory & Bainier, 1913 SPECIES
-=======
+# Trichoderma desrochii Sartory & Bainier, 1913 SPECIES
 
 #### Status
 ACCEPTED

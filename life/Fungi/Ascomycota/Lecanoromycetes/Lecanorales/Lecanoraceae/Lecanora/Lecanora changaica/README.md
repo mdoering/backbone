@@ -1,5 +1,4 @@
-Lecanora changaica Klem. SPECIES
-=======
+# Lecanora changaica Klem. SPECIES
 
 #### Status
 ACCEPTED

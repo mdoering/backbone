@@ -1,5 +1,4 @@
-Pseudocercospora schrankiicola U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora schrankiicola U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

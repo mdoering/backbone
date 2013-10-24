@@ -1,5 +1,4 @@
-Diplodina salicicola (T. Johnson) Sacc. & Traverso SPECIES
-=======
+# Diplodina salicicola (T. Johnson) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catapyrenium corticola (Räsänen) Breuss SPECIES
-=======
+# Catapyrenium corticola (Räsänen) Breuss SPECIES
 
 #### Status
 ACCEPTED

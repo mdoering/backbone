@@ -1,17 +1,16 @@
-Xenostigmina wolfii Crous & Corlett, 1999 SPECIES
-=======
+# Mycosphaerella stigmina-platani F.A. Wolf, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 76(9): 1529 (1999)
+Mycologia 30(1): 60 (1938)
 
 #### Original name
-Xenostigmina wolfii Crous & Corlett, 1999
+Mycosphaerella stigmina-platani F.A. Wolf, 1938
 
 ### Remarks
 null

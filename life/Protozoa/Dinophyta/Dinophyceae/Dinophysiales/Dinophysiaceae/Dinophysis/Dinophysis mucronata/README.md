@@ -1,8 +1,7 @@
-Phalacroma mucronatum Kofoid & Skogsberg SPECIES
-=======
+# Dinophysis mucronata (Kofoid & Skogsberg) Sournia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

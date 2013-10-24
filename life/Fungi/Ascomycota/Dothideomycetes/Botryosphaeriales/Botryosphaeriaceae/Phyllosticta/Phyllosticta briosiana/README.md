@@ -1,5 +1,4 @@
-Phyllosticta briosiana Traverso SPECIES
-=======
+# Phyllosticta briosiana Traverso SPECIES
 
 #### Status
 ACCEPTED

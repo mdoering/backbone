@@ -1,5 +1,4 @@
-Cryptothecia nana (Tuck.) SPECIES
-=======
+# Cryptothecia nana (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

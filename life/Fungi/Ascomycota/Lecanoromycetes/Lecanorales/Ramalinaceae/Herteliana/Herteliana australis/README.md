@@ -1,5 +1,4 @@
-Herteliana australis Fryday SPECIES
-=======
+# Herteliana australis Fryday SPECIES
 
 #### Status
 ACCEPTED

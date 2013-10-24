@@ -1,5 +1,4 @@
-Torula graminicola Corda SPECIES
-=======
+# Torula graminicola Corda SPECIES
 
 #### Status
 ACCEPTED

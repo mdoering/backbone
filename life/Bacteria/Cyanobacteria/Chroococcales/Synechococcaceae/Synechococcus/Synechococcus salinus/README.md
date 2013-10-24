@@ -1,5 +1,4 @@
-Synechococcus salinus Frémy SPECIES
-=======
+# Synechococcus salinus Frémy SPECIES
 
 #### Status
 ACCEPTED

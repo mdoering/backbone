@@ -1,5 +1,4 @@
-Licea synsporos Nann.-Bremek., 1968 SPECIES
-=======
+# Licea synsporos Nann.-Bremek., 1968 SPECIES
 
 #### Status
 ACCEPTED

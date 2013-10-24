@@ -1,5 +1,4 @@
-Ascochyta euphorbiae Lasch SPECIES
-=======
+# Ascochyta euphorbiae Lasch SPECIES
 
 #### Status
 ACCEPTED

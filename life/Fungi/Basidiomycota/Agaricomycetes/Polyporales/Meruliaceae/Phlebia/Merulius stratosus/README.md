@@ -1,5 +1,4 @@
-Merulius stratosus Pilát SPECIES
-=======
+# Merulius stratosus Pilát SPECIES
 
 #### Status
 ACCEPTED

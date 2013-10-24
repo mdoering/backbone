@@ -1,5 +1,4 @@
-Fremitomyces punctatus P.F. Cannon & H.C. Evans, 1999 SPECIES
-=======
+# Fremitomyces punctatus P.F. Cannon & H.C. Evans, 1999 SPECIES
 
 #### Status
 ACCEPTED

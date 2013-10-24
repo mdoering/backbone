@@ -1,14 +1,13 @@
-Corethropsis puntonii Vuill., 1930 SPECIES
-=======
+# Paecilomyces puntonii (Vuill.) Nann., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. R. Soc. Biol. , Paris 190: 1335 (1930)
+Trattato di Micopatologia Umana (Firenze) 4: 245 (1934)
 
 #### Original name
 Corethropsis puntonii Vuill., 1930

@@ -1,5 +1,4 @@
-Neostreptotheca von Stosch, 1977 GENUS
-=======
+# Neostreptotheca von Stosch, 1977 GENUS
 
 #### Status
 ACCEPTED

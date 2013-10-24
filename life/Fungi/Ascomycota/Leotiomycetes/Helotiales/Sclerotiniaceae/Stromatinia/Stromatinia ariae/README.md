@@ -1,5 +1,4 @@
-Stromatinia ariae (Schellenb.) Boud. SPECIES
-=======
+# Stromatinia ariae (Schellenb.) Boud. SPECIES
 
 #### Status
 ACCEPTED

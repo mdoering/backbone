@@ -1,5 +1,4 @@
-Graphis monospora (C. Knight) Nyl. SPECIES
-=======
+# Graphis monospora (C. Knight) Nyl. SPECIES
 
 #### Status
 ACCEPTED

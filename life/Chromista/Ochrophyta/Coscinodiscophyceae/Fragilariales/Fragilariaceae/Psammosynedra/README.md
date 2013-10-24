@@ -1,5 +1,4 @@
-Psammosynedra F.E.Round, 1993 GENUS
-=======
+# Psammosynedra F.E.Round, 1993 GENUS
 
 #### Status
 ACCEPTED

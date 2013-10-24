@@ -1,14 +1,13 @@
-Sporothrix eucalypti M.J. Wingf., Crous & W.J. Swart, 1993 SPECIES
-=======
+# Quambalaria eucalypti (M.J. Wingf., Crous & W.J. Swart) J.A. Simpson, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 123(3): (1993)
+Australas. Mycol. 19(2): 61 (2000)
 
 #### Original name
 Sporothrix eucalypti M.J. Wingf., Crous & W.J. Swart, 1993

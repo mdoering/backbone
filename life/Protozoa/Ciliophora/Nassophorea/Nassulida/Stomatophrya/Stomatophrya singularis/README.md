@@ -1,5 +1,4 @@
-Stomatophrya singularis Kahl, 1933 SPECIES
-=======
+# Stomatophrya singularis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

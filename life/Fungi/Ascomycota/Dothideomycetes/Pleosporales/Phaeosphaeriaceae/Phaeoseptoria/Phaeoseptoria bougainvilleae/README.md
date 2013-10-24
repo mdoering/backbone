@@ -1,5 +1,4 @@
-Phaeoseptoria bougainvilleae V.P. Sahni SPECIES
-=======
+# Phaeoseptoria bougainvilleae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

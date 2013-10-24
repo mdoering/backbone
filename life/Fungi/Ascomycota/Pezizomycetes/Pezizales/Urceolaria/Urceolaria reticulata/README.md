@@ -1,5 +1,4 @@
-Urceolaria reticulata (J. Steiner) Motyka SPECIES
-=======
+# Urceolaria reticulata (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

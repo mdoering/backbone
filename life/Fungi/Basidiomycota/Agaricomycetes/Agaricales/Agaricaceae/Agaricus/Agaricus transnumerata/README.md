@@ -1,5 +1,4 @@
-Agaricus transnumerata Britzelm. SPECIES
-=======
+# Agaricus transnumerata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

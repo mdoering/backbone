@@ -1,5 +1,4 @@
-Phyllosticta himeranthi Speg. SPECIES
-=======
+# Phyllosticta himeranthi Speg. SPECIES
 
 #### Status
 ACCEPTED

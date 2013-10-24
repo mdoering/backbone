@@ -1,5 +1,4 @@
-Mycoamaranthus Castellano, Trappe & Malajczuk GENUS
-=======
+# Mycoamaranthus Castellano, Trappe & Malajczuk GENUS
 
 #### Status
 ACCEPTED

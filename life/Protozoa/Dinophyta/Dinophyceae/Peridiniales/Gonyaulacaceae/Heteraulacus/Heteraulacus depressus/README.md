@@ -1,5 +1,4 @@
-Heteraulacus depressus (Gaarder) Loeblich SPECIES
-=======
+# Heteraulacus depressus (Gaarder) Loeblich SPECIES
 
 #### Status
 ACCEPTED

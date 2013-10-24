@@ -1,17 +1,16 @@
-Cylindrocolla puiggari Speg. SPECIES
-=======
+# Cylindrocolla puiggarii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Soc. Ciencias de Córdoba 23: 535 (1919)
 
 #### Original name
-Cylindrocolla puiggari Speg.
+Cylindrocolla puiggarii Speg.
 
 ### Remarks
 null

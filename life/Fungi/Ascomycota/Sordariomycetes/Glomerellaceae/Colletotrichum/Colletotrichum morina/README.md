@@ -1,5 +1,4 @@
-Colletotrichum morina Hara SPECIES
-=======
+# Colletotrichum morina Hara SPECIES
 
 #### Status
 ACCEPTED

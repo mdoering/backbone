@@ -1,5 +1,4 @@
-Acetabula helvellula (Durieu & Mont.) Maire SPECIES
-=======
+# Acetabula helvellula (Durieu & Mont.) Maire SPECIES
 
 #### Status
 ACCEPTED

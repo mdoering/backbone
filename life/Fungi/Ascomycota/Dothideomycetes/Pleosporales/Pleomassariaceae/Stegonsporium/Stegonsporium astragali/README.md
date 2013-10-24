@@ -1,5 +1,4 @@
-Stegonsporium astragali Golovin SPECIES
-=======
+# Stegonsporium astragali Golovin SPECIES
 
 #### Status
 ACCEPTED

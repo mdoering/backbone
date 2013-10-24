@@ -1,5 +1,4 @@
-Pluteus atriavellaneus var. atriavellaneus VARIETY
-=======
+# Pluteus atriavellaneus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pluteus atriavellaneus var. atriavellaneus
+Pluteus atriavellaneus
 
 ### Remarks
 null

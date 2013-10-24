@@ -1,5 +1,4 @@
-Cortinarius maculipes Peck SPECIES
-=======
+# Cortinarius maculipes Peck SPECIES
 
 #### Status
 ACCEPTED

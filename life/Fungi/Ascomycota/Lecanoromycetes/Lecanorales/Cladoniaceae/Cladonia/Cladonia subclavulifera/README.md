@@ -1,5 +1,4 @@
-Cladonia subclavulifera Asahina SPECIES
-=======
+# Cladonia subclavulifera Asahina SPECIES
 
 #### Status
 ACCEPTED

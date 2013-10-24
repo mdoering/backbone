@@ -1,5 +1,4 @@
-Nectria bredowiensis Kirschst. SPECIES
-=======
+# Nectria bredowiensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

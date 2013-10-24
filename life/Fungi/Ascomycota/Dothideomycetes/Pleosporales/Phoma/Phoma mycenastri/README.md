@@ -1,5 +1,4 @@
-Phoma mycenastri Hollós SPECIES
-=======
+# Phoma mycenastri Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonium fuscum (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Belonium fuscum (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

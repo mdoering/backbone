@@ -1,5 +1,4 @@
-Stropharia medusa (F. Brig.) Sacc. SPECIES
-=======
+# Stropharia medusa (F. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

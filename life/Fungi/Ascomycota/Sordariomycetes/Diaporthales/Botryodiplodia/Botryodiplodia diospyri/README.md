@@ -1,5 +1,4 @@
-Botryodiplodia diospyri Henn. SPECIES
-=======
+# Botryodiplodia diospyri Henn. SPECIES
 
 #### Status
 ACCEPTED

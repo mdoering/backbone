@@ -1,5 +1,4 @@
-Theophila mandarina Npv SPECIES
-=======
+# Theophila mandarina Npv SPECIES
 
 #### Status
 ACCEPTED

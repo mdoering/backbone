@@ -1,5 +1,4 @@
-Polyporus sordidulus Berk. SPECIES
-=======
+# Polyporus sordidulus Berk. SPECIES
 
 #### Status
 ACCEPTED

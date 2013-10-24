@@ -1,5 +1,4 @@
-Siphotextularia pulchra Zheng, 1988 SPECIES
-=======
+# Siphotextularia pulchra Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

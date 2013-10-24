@@ -1,5 +1,4 @@
-Usnea amabilis Motyka SPECIES
-=======
+# Usnea amabilis Motyka SPECIES
 
 #### Status
 ACCEPTED

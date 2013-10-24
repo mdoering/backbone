@@ -1,5 +1,4 @@
-Dothiora rufa Ellis & Everh. SPECIES
-=======
+# Dothiora rufa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

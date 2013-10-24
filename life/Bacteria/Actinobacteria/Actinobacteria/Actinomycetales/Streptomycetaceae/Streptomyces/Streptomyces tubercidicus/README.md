@@ -1,5 +1,4 @@
-Streptomyces tubercidicus Nakamura, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces tubercidicus Nakamura, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

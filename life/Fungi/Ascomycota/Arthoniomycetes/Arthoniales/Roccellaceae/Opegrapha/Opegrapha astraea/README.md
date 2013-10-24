@@ -1,5 +1,4 @@
-Opegrapha astraea Tuck. SPECIES
-=======
+# Opegrapha astraea Tuck. SPECIES
 
 #### Status
 ACCEPTED

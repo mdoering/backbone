@@ -1,5 +1,4 @@
-Sphinctrina benmargana Selva SPECIES
-=======
+# Sphinctrina benmargana Selva SPECIES
 
 #### Status
 ACCEPTED

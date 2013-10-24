@@ -1,17 +1,16 @@
-Lecanora adaequata Lettau SPECIES
-=======
+# Lecanora adequata Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. 59: 21 (1966)
 
 #### Original name
-Lecanora adaequata Lettau
+Lecanora adequata Lettau
 
 ### Remarks
 null

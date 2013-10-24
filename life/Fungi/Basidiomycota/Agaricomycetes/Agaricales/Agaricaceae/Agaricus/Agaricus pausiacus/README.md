@@ -1,5 +1,4 @@
-Agaricus pausiacus Fr. SPECIES
-=======
+# Agaricus pausiacus Fr. SPECIES
 
 #### Status
 ACCEPTED

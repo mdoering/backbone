@@ -1,5 +1,4 @@
-Phloeospora curta (Foslie) Jaasund SPECIES
-=======
+# Phloeospora curta (Foslie) Jaasund SPECIES
 
 #### Status
 ACCEPTED

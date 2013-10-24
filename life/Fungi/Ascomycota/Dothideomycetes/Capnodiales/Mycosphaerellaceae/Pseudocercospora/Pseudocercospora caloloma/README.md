@@ -1,14 +1,13 @@
-Cercospora caloloma Petr., 1950 SPECIES
-=======
+# Pseudocercospora caloloma (Petr.) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 569 (1950)
+Mycotaxon 55: 236 (1995)
 
 #### Original name
 Cercospora caloloma Petr., 1950

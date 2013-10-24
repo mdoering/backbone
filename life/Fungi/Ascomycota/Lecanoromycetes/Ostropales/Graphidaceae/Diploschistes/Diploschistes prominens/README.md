@@ -1,5 +1,4 @@
-Diploschistes prominens (Vain.) Lumbsch SPECIES
-=======
+# Diploschistes prominens (Vain.) Lumbsch SPECIES
 
 #### Status
 ACCEPTED

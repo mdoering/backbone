@@ -1,5 +1,4 @@
-Glaukolithus diplogrammus (Deflandre in Deflandre & Fert, 1954) Reinhardt, 1964 SPECIES
-=======
+# Glaukolithus diplogrammus (Deflandre in Deflandre & Fert, 1954) Reinhardt, 1964 SPECIES
 
 #### Status
 DOUBTFUL

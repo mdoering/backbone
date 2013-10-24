@@ -1,5 +1,4 @@
-Leptogium azurellum Jatta SPECIES
-=======
+# Leptogium azurellum Jatta SPECIES
 
 #### Status
 ACCEPTED

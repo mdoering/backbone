@@ -1,5 +1,4 @@
-Puccinia completa Jørst. SPECIES
-=======
+# Puccinia completa Jørst. SPECIES
 
 #### Status
 ACCEPTED

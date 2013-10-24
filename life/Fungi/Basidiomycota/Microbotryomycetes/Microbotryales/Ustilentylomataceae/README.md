@@ -1,5 +1,4 @@
-Ustilentylomataceae R. Bauer & Oberw. FAMILY
-=======
+# Ustilentylomataceae R. Bauer & Oberw. FAMILY
 
 #### Status
 ACCEPTED

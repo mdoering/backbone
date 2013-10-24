@@ -1,5 +1,4 @@
-Agaricus subnitens Peck SPECIES
-=======
+# Agaricus subnitens Peck SPECIES
 
 #### Status
 ACCEPTED

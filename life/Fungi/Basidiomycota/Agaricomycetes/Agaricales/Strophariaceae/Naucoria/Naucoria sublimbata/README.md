@@ -1,5 +1,4 @@
-Naucoria sublimbata (Fr.) Mussat SPECIES
-=======
+# Naucoria sublimbata (Fr.) Mussat SPECIES
 
 #### Status
 ACCEPTED

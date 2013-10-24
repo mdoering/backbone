@@ -1,5 +1,4 @@
-Sporidesmium hyalophaeum (Sacc.) S. Hughes SPECIES
-=======
+# Sporidesmium hyalophaeum (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

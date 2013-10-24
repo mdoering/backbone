@@ -1,5 +1,4 @@
-Naevia laetissima Fuckel SPECIES
-=======
+# Naevia laetissima Fuckel SPECIES
 
 #### Status
 ACCEPTED

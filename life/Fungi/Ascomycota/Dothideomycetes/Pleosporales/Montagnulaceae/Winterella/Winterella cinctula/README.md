@@ -1,14 +1,13 @@
-Cryptospora cinctula (Cooke & Peck) Sacc., 1883 SPECIES
-=======
+# Winterella cinctula (Cooke & Peck) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 363 (1883)
+Revis. gen. pl. (Leipzig) 1: 34 (1891)
 
 #### Original name
 null

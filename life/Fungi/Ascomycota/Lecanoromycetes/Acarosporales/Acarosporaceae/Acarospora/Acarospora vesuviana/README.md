@@ -1,5 +1,4 @@
-Acarospora vesuviana Licop. {?} SPECIES
-=======
+# Acarospora vesuviana Licop. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo muehlenbeckiae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo muehlenbeckiae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

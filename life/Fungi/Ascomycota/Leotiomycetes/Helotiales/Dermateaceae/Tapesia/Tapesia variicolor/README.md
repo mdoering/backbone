@@ -1,5 +1,4 @@
-Tapesia variicolor var. variicolor VARIETY
-=======
+# Tapesia variicolor (Starbäck) Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tapesia variicolor var. variicolor
+Mollisia variicolor Starbäck
 
 ### Remarks
 null

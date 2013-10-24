@@ -1,5 +1,4 @@
-Sporotrichum vulgare (Traaen) Elphick & G. Sm. SPECIES
-=======
+# Sporotrichum vulgare (Traaen) Elphick & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

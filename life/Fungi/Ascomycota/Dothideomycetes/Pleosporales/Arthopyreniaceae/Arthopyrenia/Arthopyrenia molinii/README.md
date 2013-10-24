@@ -1,5 +1,4 @@
-Arthopyrenia molinii Beltr. SPECIES
-=======
+# Arthopyrenia molinii Beltr. SPECIES
 
 #### Status
 ACCEPTED

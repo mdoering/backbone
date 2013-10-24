@@ -1,5 +1,4 @@
-Papiliocellulus elegans G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
-=======
+# Papiliocellulus elegans G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
 
 #### Status
 ACCEPTED

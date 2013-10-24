@@ -1,14 +1,13 @@
-Insecticola pistillariaeformis (Pat.) Mains SPECIES
-=======
+# Insecticola pistillariiformis (Pat.) Mains SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 42(4): 579 (1950)
 
 #### Original name
 Isaria pistillariiformis Pat.

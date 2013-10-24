@@ -1,5 +1,4 @@
-Staurothele discedens (Nyl.) Zahlbr. SPECIES
-=======
+# Staurothele discedens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

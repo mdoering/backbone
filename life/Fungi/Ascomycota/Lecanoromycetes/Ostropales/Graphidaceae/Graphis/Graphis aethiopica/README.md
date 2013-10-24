@@ -1,5 +1,4 @@
-Graphis aethiopica (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis aethiopica (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

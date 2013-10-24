@@ -1,5 +1,4 @@
-Stigmochora Theiss. & Syd. GENUS
-=======
+# Stigmochora Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

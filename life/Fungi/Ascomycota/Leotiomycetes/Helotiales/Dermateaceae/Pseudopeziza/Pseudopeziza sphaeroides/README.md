@@ -1,5 +1,4 @@
-Pseudopeziza sphaeroides var. sphaeroides VARIETY
-=======
+# Pseudopeziza sphaeroides (Pers.) Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Brit. Fung. -Fl. 200 (1892)
 
 #### Original name
-Pseudopeziza sphaeroides var. sphaeroides
+Pseudopeziza sphaeroides (Pers.) Massee
 
 ### Remarks
 null

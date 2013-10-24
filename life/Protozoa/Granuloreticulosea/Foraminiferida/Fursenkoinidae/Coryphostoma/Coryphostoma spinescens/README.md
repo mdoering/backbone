@@ -1,5 +1,4 @@
-Coryphostoma spinescens (Cushman, 1911) SPECIES
-=======
+# Coryphostoma spinescens (Cushman, 1911) SPECIES
 
 #### Status
 ACCEPTED

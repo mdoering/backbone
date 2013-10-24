@@ -1,5 +1,4 @@
-Adelosina partschi (d'Orbigny, 1846) SPECIES
-=======
+# Adelosina partschi (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

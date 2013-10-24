@@ -1,5 +1,4 @@
-Rimbachia camerunensis Henn. SPECIES
-=======
+# Rimbachia camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

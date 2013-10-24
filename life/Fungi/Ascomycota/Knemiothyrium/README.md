@@ -1,5 +1,4 @@
-Knemiothyrium Bat. & J.L. Bezerra GENUS
-=======
+# Knemiothyrium Bat. & J.L. Bezerra GENUS
 
 #### Status
 ACCEPTED

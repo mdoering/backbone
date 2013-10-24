@@ -1,5 +1,4 @@
-Pseudomonilia alessandrina (Panay.) C.W. Dodge SPECIES
-=======
+# Pseudomonilia alessandrina (Panay.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

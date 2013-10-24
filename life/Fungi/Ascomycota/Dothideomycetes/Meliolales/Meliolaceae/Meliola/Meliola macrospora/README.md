@@ -1,5 +1,4 @@
-Meliola macrospora R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Meliola macrospora R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria berteroana (Mont.) Redón SPECIES
-=======
+# Pseudocyphellaria berteroana (Mont.) Redón SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria janthinovelutina Mont. SPECIES
-=======
+# Xylaria janthinovelutina Mont. SPECIES
 
 #### Status
 ACCEPTED

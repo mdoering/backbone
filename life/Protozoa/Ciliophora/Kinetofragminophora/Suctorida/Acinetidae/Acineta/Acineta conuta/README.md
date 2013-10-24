@@ -1,5 +1,4 @@
-Acineta conuta Swarczewsky, 1928 SPECIES
-=======
+# Acineta conuta Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

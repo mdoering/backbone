@@ -1,5 +1,4 @@
-Oxytoxum laticeps Schiller SPECIES
-=======
+# Oxytoxum laticeps Schiller SPECIES
 
 #### Status
 ACCEPTED

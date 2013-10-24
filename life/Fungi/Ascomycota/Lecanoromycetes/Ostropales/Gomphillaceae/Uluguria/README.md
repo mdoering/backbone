@@ -1,5 +1,4 @@
-Uluguria Vezda, 2004 GENUS
-=======
+# Uluguria Vezda, 2004 GENUS
 
 #### Status
 ACCEPTED

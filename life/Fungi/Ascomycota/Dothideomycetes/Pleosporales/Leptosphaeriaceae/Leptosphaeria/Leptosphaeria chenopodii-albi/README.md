@@ -1,5 +1,4 @@
-Leptosphaeria chenopodii-albi Siemaszko SPECIES
-=======
+# Leptosphaeria chenopodii-albi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

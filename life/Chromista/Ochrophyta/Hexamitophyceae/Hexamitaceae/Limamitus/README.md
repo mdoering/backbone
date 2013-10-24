@@ -1,5 +1,4 @@
-Limamitus Skvortzov, 1967 GENUS
-=======
+# Limamitus Skvortzov, 1967 GENUS
 
 #### Status
 ACCEPTED

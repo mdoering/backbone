@@ -1,5 +1,4 @@
-Cladonia malayana Nuno SPECIES
-=======
+# Cladonia malayana Nuno SPECIES
 
 #### Status
 ACCEPTED

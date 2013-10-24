@@ -1,5 +1,4 @@
-Eurytheca De Seynes GENUS
-=======
+# Eurytheca De Seynes GENUS
 
 #### Status
 ACCEPTED

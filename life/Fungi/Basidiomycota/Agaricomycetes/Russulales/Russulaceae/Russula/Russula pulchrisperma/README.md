@@ -1,5 +1,4 @@
-Russula pulchrisperma Buyck SPECIES
-=======
+# Russula pulchrisperma Buyck SPECIES
 
 #### Status
 ACCEPTED

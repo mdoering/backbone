@@ -1,5 +1,4 @@
-Oidium ochraceum Thüm. SPECIES
-=======
+# Oidium ochraceum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenozonoligotriletum GENUS
-=======
+# Stenozonoligotriletum GENUS
 
 #### Status
 ACCEPTED

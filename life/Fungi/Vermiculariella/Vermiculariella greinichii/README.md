@@ -1,5 +1,4 @@
-Vermiculariella greinichii Moesz SPECIES
-=======
+# Vermiculariella greinichii Moesz SPECIES
 
 #### Status
 ACCEPTED

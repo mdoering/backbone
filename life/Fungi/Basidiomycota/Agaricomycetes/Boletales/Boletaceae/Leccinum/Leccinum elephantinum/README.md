@@ -1,5 +1,4 @@
-Leccinum elephantinum (With.) Gray SPECIES
-=======
+# Leccinum elephantinum (With.) Gray SPECIES
 
 #### Status
 ACCEPTED

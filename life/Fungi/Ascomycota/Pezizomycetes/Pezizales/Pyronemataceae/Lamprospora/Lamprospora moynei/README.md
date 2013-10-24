@@ -1,5 +1,4 @@
-Lamprospora moynei Benkert SPECIES
-=======
+# Lamprospora moynei Benkert SPECIES
 
 #### Status
 ACCEPTED

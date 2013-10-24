@@ -1,5 +1,4 @@
-Pyrenochaeta dichondrae Speg. SPECIES
-=======
+# Pyrenochaeta dichondrae Speg. SPECIES
 
 #### Status
 ACCEPTED

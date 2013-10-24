@@ -1,5 +1,4 @@
-Sporoclema piriforme Tiesenh. SPECIES
-=======
+# Sporoclema piriforme Tiesenh. SPECIES
 
 #### Status
 ACCEPTED

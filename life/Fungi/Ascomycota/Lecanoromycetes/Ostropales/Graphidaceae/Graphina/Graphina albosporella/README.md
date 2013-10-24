@@ -1,5 +1,4 @@
-Graphina albosporella Müll. Arg. SPECIES
-=======
+# Graphina albosporella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

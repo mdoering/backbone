@@ -1,5 +1,4 @@
-Hermannella Canu, 1891 GENUS
-=======
+# Hermannella Canu, 1891 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia aurantia Breuss SPECIES
-=======
+# Polyblastia aurantia Breuss SPECIES
 
 #### Status
 ACCEPTED

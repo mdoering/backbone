@@ -1,5 +1,4 @@
-Discophrya minuta Nozawa, 1938 SPECIES
-=======
+# Discophrya minuta Nozawa, 1938 SPECIES
 
 #### Status
 ACCEPTED

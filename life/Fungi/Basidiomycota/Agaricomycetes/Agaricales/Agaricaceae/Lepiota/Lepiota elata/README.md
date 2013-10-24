@@ -1,5 +1,4 @@
-Lepiota elata Copel. SPECIES
-=======
+# Lepiota elata Copel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina ramuligera (Syd. & P. Syd.) Petr. SPECIES
-=======
+# Asterina ramuligera (Syd. & P. Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora brosimi Bat. & J.L. Bezerra, 1964 SPECIES
-=======
+# Phyllachora brosimi Bat. & J.L. Bezerra, 1964 SPECIES
 
 #### Status
 DOUBTFUL

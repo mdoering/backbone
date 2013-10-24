@@ -1,5 +1,4 @@
-Geochrysis turfosa Pascher SPECIES
-=======
+# Geochrysis turfosa Pascher SPECIES
 
 #### Status
 ACCEPTED

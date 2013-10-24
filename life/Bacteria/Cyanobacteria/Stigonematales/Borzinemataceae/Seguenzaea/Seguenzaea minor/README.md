@@ -1,5 +1,4 @@
-Seguenzaea minor Geitler SPECIES
-=======
+# Seguenzaea minor Geitler SPECIES
 
 #### Status
 ACCEPTED

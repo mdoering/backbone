@@ -1,5 +1,4 @@
-Shropshiria chusqueae F. Stevens SPECIES
-=======
+# Shropshiria chusqueae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

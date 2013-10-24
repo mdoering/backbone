@@ -1,5 +1,4 @@
-Vibrio albensis Lehmann and Neumann, 1896 (Approved Lists, 1980) SPECIES
-=======
+# Vibrio albensis Lehmann and Neumann, 1896 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

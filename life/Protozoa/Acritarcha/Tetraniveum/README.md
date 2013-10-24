@@ -1,14 +1,13 @@
-Vavrdovella A.R. Loeblich Jr. & H. Tappan, 1976 GENUS
-=======
+# Tetraniveum Vavrdová, 1976 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Paleont. 50: 306.
+Cas. Miner. Geol. 21: 60.
 
 #### Original name
 Tetradinium Vavrdová, 1973

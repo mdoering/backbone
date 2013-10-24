@@ -1,5 +1,4 @@
-Sphaerosorus coelastroides Pascher SPECIES
-=======
+# Sphaerosorus coelastroides Pascher SPECIES
 
 #### Status
 ACCEPTED

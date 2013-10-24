@@ -1,5 +1,4 @@
-Lophosphaeridium impensum Wicander & Loeblich, 1977 SPECIES
-=======
+# Lophosphaeridium impensum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

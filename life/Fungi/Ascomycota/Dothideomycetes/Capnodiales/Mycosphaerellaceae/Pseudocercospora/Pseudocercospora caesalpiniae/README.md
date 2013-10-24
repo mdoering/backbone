@@ -1,5 +1,4 @@
-Pseudocercospora caesalpiniae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora caesalpiniae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

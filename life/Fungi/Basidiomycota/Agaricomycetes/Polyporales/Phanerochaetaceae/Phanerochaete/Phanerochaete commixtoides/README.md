@@ -1,5 +1,4 @@
-Phanerochaete commixtoides Sang H. Lin & Z.C. Chen, 1990 SPECIES
-=======
+# Phanerochaete commixtoides Sang H. Lin & Z.C. Chen, 1990 SPECIES
 
 #### Status
 ACCEPTED

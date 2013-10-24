@@ -1,5 +1,4 @@
-Phyllopsora subfilamentosa Zahlbr. SPECIES
-=======
+# Phyllopsora subfilamentosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

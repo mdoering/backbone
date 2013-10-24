@@ -1,5 +1,4 @@
-Scytinotus concolor (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Scytinotus concolor (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parduczia Dragesco, 1999 GENUS
-=======
+# Parduczia Dragesco, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium hordei Pass., 1885 SPECIES
-=======
+# Cladosporium hordei Pass., 1885 SPECIES
 
 #### Status
 ACCEPTED

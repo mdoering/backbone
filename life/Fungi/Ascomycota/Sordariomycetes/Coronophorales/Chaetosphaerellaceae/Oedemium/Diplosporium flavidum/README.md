@@ -1,5 +1,4 @@
-Diplosporium flavidum Dearn. & House SPECIES
-=======
+# Diplosporium flavidum Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

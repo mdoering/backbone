@@ -1,5 +1,4 @@
-Coprinus rhizophorus A. Kawam. SPECIES
-=======
+# Coprinus rhizophorus A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

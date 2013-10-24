@@ -1,5 +1,4 @@
-Diaporthe hamamelidis Fairm. SPECIES
-=======
+# Diaporthe hamamelidis Fairm. SPECIES
 
 #### Status
 ACCEPTED

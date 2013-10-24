@@ -1,5 +1,4 @@
-Opegrapha phaea Ach. SPECIES
-=======
+# Opegrapha phaea Ach. SPECIES
 
 #### Status
 ACCEPTED

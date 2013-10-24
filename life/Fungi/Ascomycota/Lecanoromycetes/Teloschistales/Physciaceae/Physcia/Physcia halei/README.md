@@ -1,5 +1,4 @@
-Physcia halei J. W. Thomson SPECIES
-=======
+# Physcia halei J. W. Thomson SPECIES
 
 #### Status
 ACCEPTED

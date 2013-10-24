@@ -1,5 +1,4 @@
-Septoria sedicola Unamuno SPECIES
-=======
+# Septoria sedicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

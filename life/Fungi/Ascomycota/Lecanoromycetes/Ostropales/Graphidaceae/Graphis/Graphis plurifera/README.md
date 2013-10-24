@@ -1,5 +1,4 @@
-Graphis plurifera Nyl. SPECIES
-=======
+# Graphis plurifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

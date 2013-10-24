@@ -1,5 +1,4 @@
-Taeniolella S. Hughes, 1958 GENUS
-=======
+# Taeniolella S. Hughes, 1958 GENUS
 
 #### Status
 ACCEPTED

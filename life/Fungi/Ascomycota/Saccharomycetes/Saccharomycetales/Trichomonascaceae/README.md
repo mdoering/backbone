@@ -1,5 +1,4 @@
-Trichomonascaceae Locq. FAMILY
-=======
+# Trichomonascaceae Locq. FAMILY
 
 #### Status
 ACCEPTED

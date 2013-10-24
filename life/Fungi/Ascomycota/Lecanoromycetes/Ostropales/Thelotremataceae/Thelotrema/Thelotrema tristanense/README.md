@@ -1,5 +1,4 @@
-Thelotrema tristanense Øvstedal SPECIES
-=======
+# Thelotrema tristanense Øvstedal SPECIES
 
 #### Status
 ACCEPTED

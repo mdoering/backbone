@@ -1,5 +1,4 @@
-Amphispyris costata Haeckel SPECIES
-=======
+# Amphispyris costata Haeckel SPECIES
 
 #### Status
 ACCEPTED

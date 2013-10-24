@@ -1,5 +1,4 @@
-Coniangium rupestre Körb. SPECIES
-=======
+# Coniangium rupestre Körb. SPECIES
 
 #### Status
 ACCEPTED

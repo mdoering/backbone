@@ -1,5 +1,4 @@
-Fusidium violaceum Pat. SPECIES
-=======
+# Fusidium violaceum Pat. SPECIES
 
 #### Status
 ACCEPTED

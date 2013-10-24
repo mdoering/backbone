@@ -1,8 +1,7 @@
-Folliculina melitta Laackmann, 1903 SPECIES
-=======
+# Pseudofolliculina melitta (Laackmann, 1910) ? SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

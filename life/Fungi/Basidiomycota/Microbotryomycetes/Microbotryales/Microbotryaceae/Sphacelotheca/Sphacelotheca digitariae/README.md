@@ -1,5 +1,4 @@
-Sphacelotheca digitariae (Kunze) G.P. Clinton SPECIES
-=======
+# Sphacelotheca digitariae (Kunze) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

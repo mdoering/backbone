@@ -1,5 +1,4 @@
-Hygrophorus flavus Lambotte SPECIES
-=======
+# Hygrophorus flavus Lambotte SPECIES
 
 #### Status
 ACCEPTED

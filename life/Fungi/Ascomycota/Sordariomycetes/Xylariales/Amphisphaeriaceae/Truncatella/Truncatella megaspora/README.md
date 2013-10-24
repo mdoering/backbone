@@ -1,5 +1,4 @@
-Truncatella megaspora S.J. Lee & Crous SPECIES
-=======
+# Truncatella megaspora S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

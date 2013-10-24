@@ -1,5 +1,4 @@
-Cintractia arctica Lagerh. SPECIES
-=======
+# Cintractia arctica Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina piperina Syd. & P. Syd. SPECIES
-=======
+# Asterina piperina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

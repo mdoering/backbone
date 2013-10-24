@@ -1,5 +1,4 @@
-Lecidea crocina Kremp. SPECIES
-=======
+# Lecidea crocina Kremp. SPECIES
 
 #### Status
 ACCEPTED

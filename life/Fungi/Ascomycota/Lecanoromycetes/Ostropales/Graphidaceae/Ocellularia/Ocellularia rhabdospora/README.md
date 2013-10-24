@@ -1,14 +1,13 @@
-Phaeotrema rhabdosporum (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia rhabdospora (Nyl.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , London 30: 454 (1895)
+Ark. Bot. 28A: 26 (1936)
 
 #### Original name
 Ascidium rhabdosporum

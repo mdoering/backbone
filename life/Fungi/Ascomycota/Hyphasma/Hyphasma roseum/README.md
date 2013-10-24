@@ -1,5 +1,4 @@
-Hyphasma roseum Rebent. SPECIES
-=======
+# Hyphasma roseum Rebent. SPECIES
 
 #### Status
 ACCEPTED

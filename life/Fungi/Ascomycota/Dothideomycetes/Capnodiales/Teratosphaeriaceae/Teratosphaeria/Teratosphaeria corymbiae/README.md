@@ -1,5 +1,4 @@
-Teratosphaeria corymbiae (Carnegie, Andjic & P.A. Barber) Carnegie, Andjic & P.A. Barber, 2009 SPECIES
-=======
+# Teratosphaeria corymbiae (Carnegie, Andjic & P.A. Barber) Carnegie, Andjic & P.A. Barber, 2009 SPECIES
 
 #### Status
 ACCEPTED

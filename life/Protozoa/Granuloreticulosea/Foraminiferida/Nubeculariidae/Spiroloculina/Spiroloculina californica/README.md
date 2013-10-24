@@ -1,5 +1,4 @@
-Spiroloculina californica Cushman & Todd, 1944 SPECIES
-=======
+# Spiroloculina californica Cushman & Todd, 1944 SPECIES
 
 #### Status
 ACCEPTED

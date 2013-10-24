@@ -1,5 +1,4 @@
-Synchytrium dolichi (Cooke) Gäum. SPECIES
-=======
+# Synchytrium dolichi (Cooke) Gäum. SPECIES
 
 #### Status
 ACCEPTED

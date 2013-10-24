@@ -1,5 +1,4 @@
-Ectocarpus commixtus Noda SPECIES
-=======
+# Ectocarpus commixtus Noda SPECIES
 
 #### Status
 ACCEPTED

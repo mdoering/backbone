@@ -1,5 +1,4 @@
-Marssonina euphoriae Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Marssonina euphoriae Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

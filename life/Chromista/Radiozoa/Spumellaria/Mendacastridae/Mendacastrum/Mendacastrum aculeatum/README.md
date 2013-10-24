@@ -1,5 +1,4 @@
-Mendacastrum aculeatum SPECIES
-=======
+# Mendacastrum aculeatum SPECIES
 
 #### Status
 ACCEPTED

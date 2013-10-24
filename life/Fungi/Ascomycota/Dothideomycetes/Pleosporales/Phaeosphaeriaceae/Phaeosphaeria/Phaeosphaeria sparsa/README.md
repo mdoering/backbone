@@ -1,17 +1,16 @@
-Leptosphaeria sparsa var. sparsa VARIETY
-=======
+# Phaeosphaeria sparsa (Fuckel) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 77 (1883)
+Can. J. Bot. 67(5): 1556 (1989)
 
 #### Original name
-Leptosphaeria sparsa var. sparsa
+Pleospora sparsa Fuckel, 1871
 
 ### Remarks
 null

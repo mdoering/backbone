@@ -1,5 +1,4 @@
-Metasphaeria varia Dearn. & House SPECIES
-=======
+# Metasphaeria varia Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

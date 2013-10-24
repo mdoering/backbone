@@ -1,5 +1,4 @@
-Anthostomella olyrae Syd. SPECIES
-=======
+# Anthostomella olyrae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Eccrinella L. Léger & Duboscq GENUS
-=======
+# Astreptonema Hauptfl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archs Zool. exp. gén. 75: 283 (1933)
+Ber. dt. bot. Ges. 13: 87 (1895)
 
 #### Original name
-Eccrinella L. Léger & Duboscq
+Astreptonema Hauptfl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heinemannomyces splendidissima Watling, 1999 SPECIES
-=======
+# Heinemannomyces splendidissima Watling, 1999 SPECIES
 
 #### Status
 ACCEPTED

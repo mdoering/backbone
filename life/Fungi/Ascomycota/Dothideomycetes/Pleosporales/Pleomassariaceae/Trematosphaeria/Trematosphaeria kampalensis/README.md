@@ -1,5 +1,4 @@
-Trematosphaeria kampalensis Hansf. SPECIES
-=======
+# Trematosphaeria kampalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vulcanisphaera lophophora (Eisenack, 1959) Eisenack et al., 1973 SPECIES
-=======
+# Vulcanisphaera lophophora (Eisenack, 1959) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

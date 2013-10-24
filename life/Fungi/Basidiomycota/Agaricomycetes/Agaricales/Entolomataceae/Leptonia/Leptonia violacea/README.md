@@ -1,5 +1,4 @@
-Leptonia violacea (Kauffman) Largent SPECIES
-=======
+# Leptonia violacea (Kauffman) Largent SPECIES
 
 #### Status
 ACCEPTED

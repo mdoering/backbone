@@ -1,17 +1,16 @@
-Elvela tubulosa Schaeff. SPECIES
-=======
+# Helvella tubulosa Schaeff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: (1774)
 
 #### Original name
-Elvela tubulosa Schaeff.
+Helvella tubulosa Schaeff.
 
 ### Remarks
 null

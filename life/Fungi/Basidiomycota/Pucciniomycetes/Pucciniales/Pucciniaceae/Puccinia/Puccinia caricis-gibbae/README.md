@@ -1,5 +1,4 @@
-Puccinia caricis-gibbae Dietel SPECIES
-=======
+# Puccinia caricis-gibbae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cibicides mediocris SPECIES
-=======
+# Cibicides mediocris SPECIES
 
 #### Status
 ACCEPTED

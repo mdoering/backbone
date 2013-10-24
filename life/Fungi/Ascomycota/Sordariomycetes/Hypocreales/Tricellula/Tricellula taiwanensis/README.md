@@ -1,5 +1,4 @@
-Tricellula taiwanensis Matsush. SPECIES
-=======
+# Tricellula taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

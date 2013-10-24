@@ -1,5 +1,4 @@
-Clavariopsis tenuis anon. SPECIES
-=======
+# Clavariopsis tenuis anon. SPECIES
 
 #### Status
 ACCEPTED

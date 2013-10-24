@@ -1,5 +1,4 @@
-Mystronia Lepsi, 1931 GENUS
-=======
+# Mystronia Lepsi, 1931 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium radiatum Li Zaiping, 1982 SPECIES
-=======
+# Baltisphaeridium radiatum Li Zaiping, 1982 SPECIES
 
 #### Status
 ACCEPTED

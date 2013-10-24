@@ -1,5 +1,4 @@
-Ramularia ziziphorae Panf. & Gapon. SPECIES
-=======
+# Ramularia ziziphorae Panf. & Gapon. SPECIES
 
 #### Status
 ACCEPTED

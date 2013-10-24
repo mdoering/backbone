@@ -1,5 +1,4 @@
-Xerotus vinosofuscus Bres. SPECIES
-=======
+# Xerotus vinosofuscus Bres. SPECIES
 
 #### Status
 ACCEPTED

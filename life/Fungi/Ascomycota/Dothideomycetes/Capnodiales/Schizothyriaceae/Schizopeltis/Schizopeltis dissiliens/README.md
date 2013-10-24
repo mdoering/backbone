@@ -1,5 +1,4 @@
-Schizopeltis dissiliens (Cooke) Bat. SPECIES
-=======
+# Schizopeltis dissiliens (Cooke) Bat. SPECIES
 
 #### Status
 ACCEPTED

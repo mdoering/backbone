@@ -1,5 +1,4 @@
-Chytriodinium affine (Dogiel) Chatton SPECIES
-=======
+# Chytriodinium affine (Dogiel) Chatton SPECIES
 
 #### Status
 ACCEPTED

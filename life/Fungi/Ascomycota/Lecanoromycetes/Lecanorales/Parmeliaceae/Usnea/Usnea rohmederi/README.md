@@ -1,5 +1,4 @@
-Usnea rohmederi (I.M. Lamb) I.M. Lamb SPECIES
-=======
+# Usnea rohmederi (I.M. Lamb) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

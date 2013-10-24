@@ -1,5 +1,4 @@
-Ascochyta capparis (Castagne) Sacc. SPECIES
-=======
+# Ascochyta capparis (Castagne) Sacc. SPECIES
 
 #### Status
 ACCEPTED

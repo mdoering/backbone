@@ -1,5 +1,4 @@
-Leptosphaeria sophorae Koshk. & Frolov SPECIES
-=======
+# Leptosphaeria sophorae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

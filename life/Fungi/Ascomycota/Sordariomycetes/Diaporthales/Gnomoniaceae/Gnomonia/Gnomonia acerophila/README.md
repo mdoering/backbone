@@ -1,5 +1,4 @@
-Gnomonia acerophila (Dearn. & House) M.E. Barr SPECIES
-=======
+# Gnomonia acerophila (Dearn. & House) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

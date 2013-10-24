@@ -1,5 +1,4 @@
-Pratella comptula (Fr.) Gillet SPECIES
-=======
+# Pratella comptula (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

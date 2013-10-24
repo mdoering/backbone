@@ -1,5 +1,4 @@
-Amphisolenia retangulata SPECIES
-=======
+# Amphisolenia retangulata SPECIES
 
 #### Status
 ACCEPTED

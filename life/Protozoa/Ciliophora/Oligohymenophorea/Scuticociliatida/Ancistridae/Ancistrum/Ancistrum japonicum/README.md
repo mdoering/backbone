@@ -1,5 +1,4 @@
-Ancistrum japonicum (Uyemura, 1937) SPECIES
-=======
+# Ancistrum japonicum (Uyemura, 1937) SPECIES
 
 #### Status
 ACCEPTED

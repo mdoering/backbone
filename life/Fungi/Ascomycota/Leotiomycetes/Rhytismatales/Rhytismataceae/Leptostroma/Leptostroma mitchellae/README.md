@@ -1,5 +1,4 @@
-Leptostroma mitchellae Fairm. SPECIES
-=======
+# Leptostroma mitchellae Fairm. SPECIES
 
 #### Status
 ACCEPTED

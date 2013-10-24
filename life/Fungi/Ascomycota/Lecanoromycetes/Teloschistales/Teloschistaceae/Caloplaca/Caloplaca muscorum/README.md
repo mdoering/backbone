@@ -1,5 +1,4 @@
-Caloplaca muscorum (A. Massal.) M. Choisy & Werner SPECIES
-=======
+# Caloplaca muscorum (A. Massal.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

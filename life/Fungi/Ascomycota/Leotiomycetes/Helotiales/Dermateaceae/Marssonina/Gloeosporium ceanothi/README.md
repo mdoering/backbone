@@ -1,5 +1,4 @@
-Gloeosporium ceanothi H.C. Greene SPECIES
-=======
+# Gloeosporium ceanothi H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

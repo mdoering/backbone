@@ -1,5 +1,4 @@
-Orthosphaeridium triangulare (N. Umnova, 1975) Parsons & Anderson, 2000 SPECIES
-=======
+# Orthosphaeridium triangulare (N. Umnova, 1975) Parsons & Anderson, 2000 SPECIES
 
 #### Status
 ACCEPTED

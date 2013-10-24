@@ -1,5 +1,4 @@
-Oospora glabra Hanzawa SPECIES
-=======
+# Oospora glabra Hanzawa SPECIES
 
 #### Status
 ACCEPTED

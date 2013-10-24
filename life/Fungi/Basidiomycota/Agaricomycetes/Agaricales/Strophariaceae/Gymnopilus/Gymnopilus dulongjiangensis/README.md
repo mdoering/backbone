@@ -1,5 +1,4 @@
-Gymnopilus dulongjiangensis M. Zang SPECIES
-=======
+# Gymnopilus dulongjiangensis M. Zang SPECIES
 
 #### Status
 ACCEPTED

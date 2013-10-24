@@ -1,5 +1,4 @@
-Peziza verbenae Kirchn. SPECIES
-=======
+# Peziza verbenae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

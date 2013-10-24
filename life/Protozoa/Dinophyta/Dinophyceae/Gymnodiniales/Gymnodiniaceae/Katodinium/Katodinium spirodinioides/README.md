@@ -1,5 +1,4 @@
-Katodinium spirodinioides Christen SPECIES
-=======
+# Katodinium spirodinioides Christen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma silaceum (Pers.) Quél. SPECIES
-=======
+# Hypholoma silaceum (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

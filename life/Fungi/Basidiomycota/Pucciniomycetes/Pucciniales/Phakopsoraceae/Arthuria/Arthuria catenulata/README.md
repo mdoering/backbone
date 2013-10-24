@@ -1,5 +1,4 @@
-Arthuria catenulata H.S. Jacks. & Holw., 1931 SPECIES
-=======
+# Arthuria catenulata H.S. Jacks. & Holw., 1931 SPECIES
 
 #### Status
 ACCEPTED

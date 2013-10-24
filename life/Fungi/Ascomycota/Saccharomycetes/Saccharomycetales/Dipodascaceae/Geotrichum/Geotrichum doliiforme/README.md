@@ -1,5 +1,4 @@
-Geotrichum doliiforme Goid. SPECIES
-=======
+# Geotrichum doliiforme Goid. SPECIES
 
 #### Status
 ACCEPTED

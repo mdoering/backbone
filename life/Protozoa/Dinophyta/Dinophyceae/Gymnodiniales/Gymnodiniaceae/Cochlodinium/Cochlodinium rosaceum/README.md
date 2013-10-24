@@ -1,5 +1,4 @@
-Cochlodinium rosaceum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium rosaceum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

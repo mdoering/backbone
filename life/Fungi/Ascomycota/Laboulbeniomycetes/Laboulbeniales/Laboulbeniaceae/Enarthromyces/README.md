@@ -1,5 +1,4 @@
-Enarthromyces Thaxt. GENUS
-=======
+# Enarthromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

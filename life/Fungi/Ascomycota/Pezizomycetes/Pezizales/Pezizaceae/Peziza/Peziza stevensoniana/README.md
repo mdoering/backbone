@@ -1,5 +1,4 @@
-Peziza stevensoniana Ellis SPECIES
-=======
+# Peziza stevensoniana Ellis SPECIES
 
 #### Status
 ACCEPTED

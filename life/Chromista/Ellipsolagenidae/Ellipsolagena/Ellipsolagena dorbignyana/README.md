@@ -1,5 +1,4 @@
-Ellipsolagena dorbignyana Wiesner, 1931 SPECIES
-=======
+# Ellipsolagena dorbignyana Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

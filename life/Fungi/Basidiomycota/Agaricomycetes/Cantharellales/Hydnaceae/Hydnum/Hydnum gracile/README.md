@@ -1,5 +1,4 @@
-Hydnum gracile (Fr.) Fr. SPECIES
-=======
+# Hydnum gracile (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

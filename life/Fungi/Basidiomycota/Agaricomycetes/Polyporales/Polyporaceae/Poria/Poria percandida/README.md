@@ -1,5 +1,4 @@
-Poria percandida Malençon & Bertault SPECIES
-=======
+# Poria percandida Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platycarpium caulicola Wehm. SPECIES
-=======
+# Platycarpium caulicola Wehm. SPECIES
 
 #### Status
 ACCEPTED

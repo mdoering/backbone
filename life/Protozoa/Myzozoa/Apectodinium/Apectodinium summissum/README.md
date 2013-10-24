@@ -1,8 +1,7 @@
-Apectodinium sumissum (Harland, 1979) Lentin & Williams SPECIES
-=======
+# Apectodinium summissum (Harland, 1979) Lentin & Williams SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

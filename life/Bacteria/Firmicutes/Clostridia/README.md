@@ -1,5 +1,4 @@
-Clostridia Rainey, 2010 CLASS
-=======
+# Clostridia Rainey, 2010 CLASS
 
 #### Status
 ACCEPTED

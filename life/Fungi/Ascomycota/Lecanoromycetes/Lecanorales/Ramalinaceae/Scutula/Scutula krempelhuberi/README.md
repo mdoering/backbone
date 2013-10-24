@@ -1,5 +1,4 @@
-Scutula krempelhuberi Körb. SPECIES
-=======
+# Scutula krempelhuberi Körb. SPECIES
 
 #### Status
 ACCEPTED

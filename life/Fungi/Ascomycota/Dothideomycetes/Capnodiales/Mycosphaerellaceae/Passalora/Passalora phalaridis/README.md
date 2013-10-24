@@ -1,5 +1,4 @@
-Passalora phalaridis K. Schub. & U. Braun SPECIES
-=======
+# Passalora phalaridis K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

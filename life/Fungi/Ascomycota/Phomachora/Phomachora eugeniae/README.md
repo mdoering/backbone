@@ -1,5 +1,4 @@
-Phomachora eugeniae (F. Stevens) Petr. SPECIES
-=======
+# Phomachora eugeniae (F. Stevens) Petr. SPECIES
 
 #### Status
 ACCEPTED

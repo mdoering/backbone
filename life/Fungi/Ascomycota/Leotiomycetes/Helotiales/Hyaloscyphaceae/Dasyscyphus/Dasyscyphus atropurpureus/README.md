@@ -1,5 +1,4 @@
-Dasyscyphus atropurpureus (E.J. Durand) Dennis SPECIES
-=======
+# Dasyscyphus atropurpureus (E.J. Durand) Dennis SPECIES
 
 #### Status
 ACCEPTED

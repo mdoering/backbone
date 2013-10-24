@@ -1,5 +1,4 @@
-Phyllachora exostemae Chardón, 1946 SPECIES
-=======
+# Phyllachora exostemae Chardón, 1946 SPECIES
 
 #### Status
 ACCEPTED

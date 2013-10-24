@@ -1,5 +1,4 @@
-Psilosphaeria hydrotheca (Speg.) Cooke SPECIES
-=======
+# Psilosphaeria hydrotheca (Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

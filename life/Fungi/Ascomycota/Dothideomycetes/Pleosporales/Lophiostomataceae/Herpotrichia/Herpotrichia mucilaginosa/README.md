@@ -1,5 +1,4 @@
-Herpotrichia mucilaginosa Starbäck & Grev. SPECIES
-=======
+# Herpotrichia mucilaginosa Starbäck & Grev. SPECIES
 
 #### Status
 ACCEPTED

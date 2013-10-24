@@ -1,5 +1,4 @@
-Oxyporus subulatus Ryvarden, 1982 SPECIES
-=======
+# Oxyporus subulatus Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

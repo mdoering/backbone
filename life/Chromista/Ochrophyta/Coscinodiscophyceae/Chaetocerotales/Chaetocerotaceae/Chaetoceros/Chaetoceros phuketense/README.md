@@ -1,5 +1,4 @@
-Chaetoceros phuketense J.E.B. Rines, P. Boonruang & E.C. Theriot SPECIES
-=======
+# Chaetoceros phuketense J.E.B. Rines, P. Boonruang & E.C. Theriot SPECIES
 
 #### Status
 ACCEPTED

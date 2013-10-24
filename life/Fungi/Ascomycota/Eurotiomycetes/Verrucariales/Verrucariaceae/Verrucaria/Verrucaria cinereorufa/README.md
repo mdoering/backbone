@@ -1,5 +1,4 @@
-Verrucaria cinereorufa var. cinereorufa VARIETY
-=======
+# Verrucaria cinereorufa E.A. Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria cinereorufa var. cinereorufa
+Verrucaria cinereorufa E.A. Schaer.
 
 ### Remarks
 null

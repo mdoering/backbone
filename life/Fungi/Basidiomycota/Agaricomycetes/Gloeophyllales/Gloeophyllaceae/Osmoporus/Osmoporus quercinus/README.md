@@ -1,5 +1,4 @@
-Osmoporus quercinus Bondartsev & Lj.N. Vassiljeva SPECIES
-=======
+# Osmoporus quercinus Bondartsev & Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

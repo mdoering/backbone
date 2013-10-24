@@ -1,5 +1,4 @@
-Phragmothyrites delicatissimus (Cookson) Selkirk SPECIES
-=======
+# Phragmothyrites delicatissimus (Cookson) Selkirk SPECIES
 
 #### Status
 ACCEPTED

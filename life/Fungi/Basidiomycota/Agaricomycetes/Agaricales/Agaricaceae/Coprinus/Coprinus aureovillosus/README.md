@@ -1,5 +1,4 @@
-Coprinus aureovillosus Raithelh. SPECIES
-=======
+# Coprinus aureovillosus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

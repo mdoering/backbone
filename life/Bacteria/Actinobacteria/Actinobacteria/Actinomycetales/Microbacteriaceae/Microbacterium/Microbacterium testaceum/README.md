@@ -1,8 +1,7 @@
-Aureobacterium testaceum (Komagata & Iizuka, 1964) Collins et al., 1983 SPECIES
-=======
+# Microbacterium testaceum (Komagata & Iizuka, 1964) Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

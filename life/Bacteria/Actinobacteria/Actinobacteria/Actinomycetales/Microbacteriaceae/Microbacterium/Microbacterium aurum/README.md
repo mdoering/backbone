@@ -1,5 +1,4 @@
-Microbacterium aurum Yokota et al., 1993 SPECIES
-=======
+# Microbacterium aurum Yokota et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

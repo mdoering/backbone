@@ -1,5 +1,4 @@
-Cladonia aberrans (Abbayes) Stuckenb. SPECIES
-=======
+# Cladonia aberrans (Abbayes) Stuckenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeothecites A.A. Elenkin, 1936 GENUS
-=======
+# Gloeothecites A.A. Elenkin, 1936 GENUS
 
 #### Status
 ACCEPTED

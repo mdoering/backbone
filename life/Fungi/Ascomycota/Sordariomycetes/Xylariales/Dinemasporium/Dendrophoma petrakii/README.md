@@ -1,5 +1,4 @@
-Dendrophoma petrakii M.T. Lucas SPECIES
-=======
+# Dendrophoma petrakii M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

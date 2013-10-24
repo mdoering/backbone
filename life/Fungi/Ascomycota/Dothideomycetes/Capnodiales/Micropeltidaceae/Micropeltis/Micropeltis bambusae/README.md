@@ -1,5 +1,4 @@
-Micropeltis bambusae Pat. SPECIES
-=======
+# Micropeltis bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED

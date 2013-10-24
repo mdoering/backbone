@@ -1,5 +1,4 @@
-Bagginoides GENUS
-=======
+# Bagginoides GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirea ornatissima Cramer & Díez, 1977 SPECIES
-=======
+# Pirea ornatissima Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

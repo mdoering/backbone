@@ -1,5 +1,4 @@
-Strobilomyces coturnix Bouriquet SPECIES
-=======
+# Strobilomyces coturnix Bouriquet SPECIES
 
 #### Status
 ACCEPTED

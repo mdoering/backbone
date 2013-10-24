@@ -1,5 +1,4 @@
-Terana berkeleyana (Ces.) Kuntze SPECIES
-=======
+# Terana berkeleyana (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

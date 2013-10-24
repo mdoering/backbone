@@ -1,5 +1,4 @@
-Cortinarius parfumatus Bohus SPECIES
-=======
+# Cortinarius parfumatus Bohus SPECIES
 
 #### Status
 ACCEPTED

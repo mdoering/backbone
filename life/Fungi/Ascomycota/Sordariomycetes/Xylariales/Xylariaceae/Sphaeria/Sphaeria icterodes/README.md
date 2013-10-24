@@ -1,5 +1,4 @@
-Sphaeria icterodes Riess SPECIES
-=======
+# Sphaeria icterodes Riess SPECIES
 
 #### Status
 ACCEPTED

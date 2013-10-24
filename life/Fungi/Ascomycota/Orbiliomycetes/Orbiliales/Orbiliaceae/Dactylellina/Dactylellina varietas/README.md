@@ -1,5 +1,4 @@
-Dactylellina varietas Yan Li, K.D. Hyde & K.Q. Zhang SPECIES
-=======
+# Dactylellina varietas Yan Li, K.D. Hyde & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

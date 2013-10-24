@@ -1,5 +1,4 @@
-Uredo asphodeli DC. SPECIES
-=======
+# Uredo asphodeli DC. SPECIES
 
 #### Status
 ACCEPTED

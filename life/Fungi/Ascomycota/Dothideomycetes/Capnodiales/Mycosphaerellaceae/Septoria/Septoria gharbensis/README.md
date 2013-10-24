@@ -1,5 +1,4 @@
-Septoria gharbensis Rieuf & Teasca SPECIES
-=======
+# Septoria gharbensis Rieuf & Teasca SPECIES
 
 #### Status
 ACCEPTED

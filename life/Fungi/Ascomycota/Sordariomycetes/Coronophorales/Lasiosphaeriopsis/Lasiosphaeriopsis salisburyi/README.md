@@ -1,5 +1,4 @@
-Lasiosphaeriopsis salisburyi D. Hawksw. & Sivan., 1980 SPECIES
-=======
+# Lasiosphaeriopsis salisburyi D. Hawksw. & Sivan., 1980 SPECIES
 
 #### Status
 ACCEPTED

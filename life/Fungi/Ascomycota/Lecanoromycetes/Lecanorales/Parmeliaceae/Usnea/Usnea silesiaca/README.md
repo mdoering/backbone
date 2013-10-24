@@ -1,5 +1,4 @@
-Usnea silesiaca Motyka SPECIES
-=======
+# Usnea silesiaca Motyka SPECIES
 
 #### Status
 ACCEPTED

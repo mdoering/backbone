@@ -1,5 +1,4 @@
-Parmelia nakanishii Hale SPECIES
-=======
+# Parmelia nakanishii Hale SPECIES
 
 #### Status
 ACCEPTED

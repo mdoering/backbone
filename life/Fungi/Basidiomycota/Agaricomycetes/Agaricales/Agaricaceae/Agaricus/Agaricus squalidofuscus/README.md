@@ -1,5 +1,4 @@
-Agaricus squalidofuscus Britzelm. SPECIES
-=======
+# Agaricus squalidofuscus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macowanites setchellianus Singer & A.H. Sm. SPECIES
-=======
+# Macowanites setchellianus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocapsa brasiliensis Schmidle SPECIES
-=======
+# Pleurocapsa brasiliensis Schmidle SPECIES
 
 #### Status
 ACCEPTED

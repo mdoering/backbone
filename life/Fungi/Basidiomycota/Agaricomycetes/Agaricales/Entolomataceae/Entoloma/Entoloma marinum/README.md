@@ -1,5 +1,4 @@
-Entoloma marinum Corner & E. Horak SPECIES
-=======
+# Entoloma marinum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

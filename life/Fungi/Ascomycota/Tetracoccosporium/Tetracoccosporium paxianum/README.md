@@ -1,5 +1,4 @@
-Tetracoccosporium paxianum Szabó, 1905 SPECIES
-=======
+# Tetracoccosporium paxianum Szabó, 1905 SPECIES
 
 #### Status
 ACCEPTED

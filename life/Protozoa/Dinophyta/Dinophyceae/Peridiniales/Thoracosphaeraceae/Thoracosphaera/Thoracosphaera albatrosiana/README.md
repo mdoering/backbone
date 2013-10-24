@@ -1,8 +1,7 @@
-Thoracosphaera ricoseta Kamptner, 1967 SPECIES
-=======
+# Thoracosphaera albatrosiana Kamptner, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

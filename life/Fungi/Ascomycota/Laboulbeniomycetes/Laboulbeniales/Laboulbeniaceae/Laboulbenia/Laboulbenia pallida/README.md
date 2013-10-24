@@ -1,5 +1,4 @@
-Laboulbenia pallida Thaxt. SPECIES
-=======
+# Laboulbenia pallida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

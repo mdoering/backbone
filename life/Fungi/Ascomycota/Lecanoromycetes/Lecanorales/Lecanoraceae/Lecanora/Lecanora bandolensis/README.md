@@ -1,5 +1,4 @@
-Lecanora bandolensis B. de Lesd. SPECIES
-=======
+# Lecanora bandolensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromosporium croceum (Mont.) Sacc. SPECIES
-=======
+# Chromosporium croceum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina patellula (Stizenb.) Müll. Arg. SPECIES
-=======
+# Porina patellula (Stizenb.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

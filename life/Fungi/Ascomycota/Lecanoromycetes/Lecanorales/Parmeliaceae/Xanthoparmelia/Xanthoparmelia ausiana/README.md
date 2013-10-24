@@ -1,5 +1,4 @@
-Xanthoparmelia ausiana Hale SPECIES
-=======
+# Xanthoparmelia ausiana Hale SPECIES
 
 #### Status
 ACCEPTED

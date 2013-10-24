@@ -1,5 +1,4 @@
-Pannaria leucostictoides Ohlsson SPECIES
-=======
+# Pannaria leucostictoides Ohlsson SPECIES
 
 #### Status
 ACCEPTED

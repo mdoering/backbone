@@ -1,17 +1,16 @@
-Alternaria napiformae Purkay. & Mallik SPECIES
-=======
+# Alternaria napiformis Purkay. & Mallik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 27(3-4): 783 (1976)
 
 #### Original name
-Alternaria napiformae Purkay. & Mallik
+Alternaria napiformis Purkay. & Mallik
 
 ### Remarks
 null

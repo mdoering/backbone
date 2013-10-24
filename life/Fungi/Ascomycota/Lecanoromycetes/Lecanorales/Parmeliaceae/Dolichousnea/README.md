@@ -1,5 +1,4 @@
-Dolichousnea (Y. Ohmura) Articus GENUS
-=======
+# Dolichousnea (Y. Ohmura) Articus GENUS
 
 #### Status
 ACCEPTED

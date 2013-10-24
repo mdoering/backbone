@@ -1,5 +1,4 @@
-Hyperrhiza durissima (Cooke) Kuntze SPECIES
-=======
+# Hyperrhiza durissima (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

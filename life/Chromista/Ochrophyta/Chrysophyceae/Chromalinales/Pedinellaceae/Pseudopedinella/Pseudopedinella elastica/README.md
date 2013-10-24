@@ -1,5 +1,4 @@
-Pseudopedinella elastica Skuja SPECIES
-=======
+# Pseudopedinella elastica Skuja SPECIES
 
 #### Status
 ACCEPTED

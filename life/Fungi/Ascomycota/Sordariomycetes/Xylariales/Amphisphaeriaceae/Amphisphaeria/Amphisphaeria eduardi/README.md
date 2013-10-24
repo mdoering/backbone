@@ -1,5 +1,4 @@
-Amphisphaeria eduardi Pass. SPECIES
-=======
+# Amphisphaeria eduardi Pass. SPECIES
 
 #### Status
 ACCEPTED

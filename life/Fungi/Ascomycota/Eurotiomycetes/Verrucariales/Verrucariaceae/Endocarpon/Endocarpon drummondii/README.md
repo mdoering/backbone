@@ -1,5 +1,4 @@
-Endocarpon drummondii (Tuck.) M. Choisy SPECIES
-=======
+# Endocarpon drummondii (Tuck.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

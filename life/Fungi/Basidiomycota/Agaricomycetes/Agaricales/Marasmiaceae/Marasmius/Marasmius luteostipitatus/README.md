@@ -1,5 +1,4 @@
-Marasmius luteostipitatus Mossebo & Antonín SPECIES
-=======
+# Marasmius luteostipitatus Mossebo & Antonín SPECIES
 
 #### Status
 ACCEPTED

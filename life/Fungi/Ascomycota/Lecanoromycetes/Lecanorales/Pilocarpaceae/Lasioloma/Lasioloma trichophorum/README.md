@@ -1,14 +1,13 @@
-Sporopodium trichophorum Vain. SPECIES
-=======
+# Lasioloma trichophorum (Vain.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 102 (1921)
+Symb. bot. upsal. 12(no. 1): 550 (1952)
 
 #### Original name
 Sporopodium trichophorum Vain.

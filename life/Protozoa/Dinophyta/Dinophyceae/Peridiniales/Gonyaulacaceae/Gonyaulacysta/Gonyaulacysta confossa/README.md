@@ -1,5 +1,4 @@
-Gonyaulacysta confossa Duxbury, 1977 SPECIES
-=======
+# Gonyaulacysta confossa Duxbury, 1977 SPECIES
 
 #### Status
 ACCEPTED

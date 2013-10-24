@@ -1,5 +1,4 @@
-Guggenheimella bovis Wyss et al., 2005 SPECIES
-=======
+# Guggenheimella bovis Wyss et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

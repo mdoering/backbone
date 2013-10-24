@@ -1,5 +1,4 @@
-Hydnum schestunovii Nikol. SPECIES
-=======
+# Hydnum schestunovii Nikol. SPECIES
 
 #### Status
 ACCEPTED

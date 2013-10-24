@@ -1,5 +1,4 @@
-Lachnella philadelphi Rehm SPECIES
-=======
+# Lachnella philadelphi Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella imperatae Sawada SPECIES
-=======
+# Mycosphaerella imperatae Sawada SPECIES
 
 #### Status
 ACCEPTED

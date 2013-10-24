@@ -1,5 +1,4 @@
-Uromyces geraniicola Speg. SPECIES
-=======
+# Uromyces geraniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

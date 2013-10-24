@@ -1,5 +1,4 @@
-Collybia cremoracea Peck SPECIES
-=======
+# Collybia cremoracea Peck SPECIES
 
 #### Status
 ACCEPTED

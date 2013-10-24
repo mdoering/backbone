@@ -1,5 +1,4 @@
-Chaenothecopsis cinerea Tibell SPECIES
-=======
+# Chaenothecopsis cinerea Tibell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ilea E.M. Fries, 1835 GENUS
-=======
+# Ilea E.M. Fries, 1835 GENUS
 
 #### Status
 ACCEPTED

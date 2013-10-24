@@ -1,5 +1,4 @@
-Vorticella salina Schmarda, 1854 SPECIES
-=======
+# Vorticella salina Schmarda, 1854 SPECIES
 
 #### Status
 ACCEPTED

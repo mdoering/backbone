@@ -1,5 +1,4 @@
-Lecidea abietina Schaer. SPECIES
-=======
+# Lecidea abietina Schaer. SPECIES
 
 #### Status
 ACCEPTED

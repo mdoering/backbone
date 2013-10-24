@@ -1,5 +1,4 @@
-Lichen cavernosus Menzies SPECIES
-=======
+# Lichen cavernosus Menzies SPECIES
 
 #### Status
 ACCEPTED

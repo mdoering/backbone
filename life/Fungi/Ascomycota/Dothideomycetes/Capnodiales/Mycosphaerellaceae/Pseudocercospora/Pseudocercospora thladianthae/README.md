@@ -1,5 +1,4 @@
-Pseudocercospora thladianthae (Sawada) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora thladianthae (Sawada) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

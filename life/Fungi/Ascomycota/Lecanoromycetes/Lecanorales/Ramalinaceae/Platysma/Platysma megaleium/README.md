@@ -1,5 +1,4 @@
-Platysma megaleium (Nyl.) Nyl. SPECIES
-=======
+# Platysma megaleium (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

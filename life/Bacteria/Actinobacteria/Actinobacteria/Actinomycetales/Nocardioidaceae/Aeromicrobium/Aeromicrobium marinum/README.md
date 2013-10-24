@@ -1,5 +1,4 @@
-Aeromicrobium marinum Bruns et al., 2003 SPECIES
-=======
+# Aeromicrobium marinum Bruns et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium echinatum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium echinatum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporina dinochloae Syd. SPECIES
-=======
+# Dimerosporina dinochloae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces speleomycini Preobrazhenskaya & Szabó, 1986 SPECIES
-=======
+# Streptomyces speleomycini Preobrazhenskaya & Szabó, 1986 SPECIES
 
 #### Status
 ACCEPTED

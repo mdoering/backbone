@@ -1,5 +1,4 @@
-Micropsalliota malabarensis Heinem. & Little Flower SPECIES
-=======
+# Micropsalliota malabarensis Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

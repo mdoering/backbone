@@ -1,5 +1,4 @@
-Cucurbitaria ferulae Koshk. SPECIES
-=======
+# Cucurbitaria ferulae Koshk. SPECIES
 
 #### Status
 ACCEPTED

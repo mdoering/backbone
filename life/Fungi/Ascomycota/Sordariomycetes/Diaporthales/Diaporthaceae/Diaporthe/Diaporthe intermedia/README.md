@@ -1,5 +1,4 @@
-Diaporthe intermedia Sacc., 1875 SPECIES
-=======
+# Diaporthe intermedia Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

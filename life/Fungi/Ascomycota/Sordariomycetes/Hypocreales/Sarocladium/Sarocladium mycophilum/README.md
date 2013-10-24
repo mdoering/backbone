@@ -1,5 +1,4 @@
-Sarocladium mycophilum Helfer, 1991 SPECIES
-=======
+# Sarocladium mycophilum Helfer, 1991 SPECIES
 
 #### Status
 ACCEPTED

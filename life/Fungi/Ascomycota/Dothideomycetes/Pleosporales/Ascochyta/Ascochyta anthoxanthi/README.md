@@ -1,5 +1,4 @@
-Ascochyta anthoxanthi Kalymb., 1968 SPECIES
-=======
+# Ascochyta anthoxanthi Kalymb., 1968 SPECIES
 
 #### Status
 ACCEPTED

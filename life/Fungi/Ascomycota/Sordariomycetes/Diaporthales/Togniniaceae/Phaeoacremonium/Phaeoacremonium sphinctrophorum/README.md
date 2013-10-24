@@ -1,5 +1,4 @@
-Phaeoacremonium sphinctrophorum L. Mostert, Summerb. & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium sphinctrophorum L. Mostert, Summerb. & Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

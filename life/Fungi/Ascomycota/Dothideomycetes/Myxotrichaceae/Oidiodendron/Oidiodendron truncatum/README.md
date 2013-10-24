@@ -1,5 +1,4 @@
-Oidiodendron truncatum G.L. Barron, 1962 SPECIES
-=======
+# Oidiodendron truncatum G.L. Barron, 1962 SPECIES
 
 #### Status
 ACCEPTED

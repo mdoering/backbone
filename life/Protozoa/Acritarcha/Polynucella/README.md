@@ -1,5 +1,4 @@
-Polynucella Xing Yusheng & Liu Kuizhih, 1973 GENUS
-=======
+# Polynucella Xing Yusheng & Liu Kuizhih, 1973 GENUS
 
 #### Status
 ACCEPTED

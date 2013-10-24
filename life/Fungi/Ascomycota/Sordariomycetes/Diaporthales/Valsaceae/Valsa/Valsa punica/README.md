@@ -1,5 +1,4 @@
-Valsa punica Sacc. & Speg. SPECIES
-=======
+# Valsa punica Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

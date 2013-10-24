@@ -1,5 +1,4 @@
-Xenococcus lamellosus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
-=======
+# Xenococcus lamellosus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

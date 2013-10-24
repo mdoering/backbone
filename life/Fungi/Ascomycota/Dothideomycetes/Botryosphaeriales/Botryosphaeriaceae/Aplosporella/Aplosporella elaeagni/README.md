@@ -1,5 +1,4 @@
-Aplosporella elaeagni Gutner SPECIES
-=======
+# Aplosporella elaeagni Gutner SPECIES
 
 #### Status
 ACCEPTED

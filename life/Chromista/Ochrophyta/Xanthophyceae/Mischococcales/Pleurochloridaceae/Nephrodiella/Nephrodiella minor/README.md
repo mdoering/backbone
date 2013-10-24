@@ -1,8 +1,7 @@
-Nephrodiella phaseolus var. minor (Pascher) Matwienko & Dogadina VARIETY
-=======
+# Nephrodiella minor Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Psoroma biatorinum F. Wilson SPECIES
-=======
+# Psoroma biatorinum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

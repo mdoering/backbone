@@ -1,5 +1,4 @@
-Puccinia barbara (Speg.) Speg. SPECIES
-=======
+# Puccinia barbara (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

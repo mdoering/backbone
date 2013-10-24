@@ -1,5 +1,4 @@
-Thalloidima tabacinum A. Massal. SPECIES
-=======
+# Thalloidima tabacinum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

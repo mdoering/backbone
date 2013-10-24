@@ -1,5 +1,4 @@
-Alectoria divaricata (L.) Fr. SPECIES
-=======
+# Alectoria divaricata (L.) Fr. SPECIES
 
 #### Status
 ACCEPTED

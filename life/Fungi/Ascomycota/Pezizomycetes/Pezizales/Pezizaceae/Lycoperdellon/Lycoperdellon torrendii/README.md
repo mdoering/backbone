@@ -1,5 +1,4 @@
-Lycoperdellon torrendii (Bres.) Torrend SPECIES
-=======
+# Lycoperdellon torrendii (Bres.) Torrend SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria silacea Schulzer & Sacc. SPECIES
-=======
+# Nectria silacea Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

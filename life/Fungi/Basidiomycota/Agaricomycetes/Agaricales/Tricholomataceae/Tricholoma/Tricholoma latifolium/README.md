@@ -1,5 +1,4 @@
-Tricholoma latifolium Speg. SPECIES
-=======
+# Tricholoma latifolium Speg. SPECIES
 
 #### Status
 ACCEPTED

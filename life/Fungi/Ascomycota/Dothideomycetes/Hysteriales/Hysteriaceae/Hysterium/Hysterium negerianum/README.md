@@ -1,5 +1,4 @@
-Hysterium negerianum Henn. & Lindau SPECIES
-=======
+# Hysterium negerianum Henn. & Lindau SPECIES
 
 #### Status
 ACCEPTED

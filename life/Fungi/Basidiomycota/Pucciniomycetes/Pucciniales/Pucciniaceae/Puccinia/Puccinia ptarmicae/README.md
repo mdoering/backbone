@@ -1,14 +1,13 @@
-Leptopuccinia ptarmicae (P. Karst.) Syd., 1922 SPECIES
-=======
+# Puccinia ptarmicae P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 121 (1922)
+Bidr. Känn. Finl. Nat. Folk 31: 41 (1879)
 
 #### Original name
 Puccinia ptarmicae P. Karst., 1879

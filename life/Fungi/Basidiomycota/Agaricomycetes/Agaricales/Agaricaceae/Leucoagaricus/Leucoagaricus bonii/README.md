@@ -1,5 +1,4 @@
-Leucoagaricus bonii A. Caball. SPECIES
-=======
+# Leucoagaricus bonii A. Caball. SPECIES
 
 #### Status
 ACCEPTED

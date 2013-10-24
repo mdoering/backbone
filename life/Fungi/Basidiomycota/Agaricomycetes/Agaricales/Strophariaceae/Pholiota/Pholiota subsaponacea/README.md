@@ -1,5 +1,4 @@
-Pholiota subsaponacea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subsaponacea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

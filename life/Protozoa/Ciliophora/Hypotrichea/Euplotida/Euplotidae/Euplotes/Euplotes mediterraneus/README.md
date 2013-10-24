@@ -1,5 +1,4 @@
-Euplotes mediterraneus Fernandez-Leborans, 1985 SPECIES
-=======
+# Euplotes mediterraneus Fernandez-Leborans, 1985 SPECIES
 
 #### Status
 ACCEPTED

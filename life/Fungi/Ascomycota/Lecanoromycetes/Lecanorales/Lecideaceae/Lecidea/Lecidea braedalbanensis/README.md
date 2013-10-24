@@ -1,5 +1,4 @@
-Lecidea braedalbanensis Stirt. SPECIES
-=======
+# Lecidea braedalbanensis Stirt. SPECIES
 
 #### Status
 ACCEPTED

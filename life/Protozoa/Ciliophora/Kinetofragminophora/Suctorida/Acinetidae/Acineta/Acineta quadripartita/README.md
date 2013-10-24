@@ -1,5 +1,4 @@
-Acineta quadripartita Claparède & Lachmann SPECIES
-=======
+# Acineta quadripartita Claparède & Lachmann SPECIES
 
 #### Status
 ACCEPTED

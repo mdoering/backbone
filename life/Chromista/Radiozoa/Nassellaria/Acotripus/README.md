@@ -1,5 +1,4 @@
-Acotripus Haeckel, 1881 GENUS
-=======
+# Acotripus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

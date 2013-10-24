@@ -1,5 +1,4 @@
-Lecania muelleriana Zahlbr. SPECIES
-=======
+# Lecania muelleriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

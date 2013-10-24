@@ -1,5 +1,4 @@
-Agaricus adelphus Berk. SPECIES
-=======
+# Agaricus adelphus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygraphopsis Müll. Arg. GENUS
-=======
+# Platygraphopsis Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

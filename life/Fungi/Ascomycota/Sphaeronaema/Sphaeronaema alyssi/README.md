@@ -1,5 +1,4 @@
-Sphaeronaema alyssi Hollós SPECIES
-=======
+# Sphaeronaema alyssi Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina disjecta Zahlbr. SPECIES
-=======
+# Rinodina disjecta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

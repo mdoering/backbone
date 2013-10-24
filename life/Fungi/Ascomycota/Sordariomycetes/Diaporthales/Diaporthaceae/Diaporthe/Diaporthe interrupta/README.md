@@ -1,5 +1,4 @@
-Diaporthe interrupta Niessl SPECIES
-=======
+# Diaporthe interrupta Niessl SPECIES
 
 #### Status
 ACCEPTED

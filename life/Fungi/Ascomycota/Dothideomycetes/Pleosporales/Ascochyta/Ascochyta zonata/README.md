@@ -1,5 +1,4 @@
-Ascochyta zonata Syd. SPECIES
-=======
+# Ascochyta zonata Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis exserta (Bat.) Bat. SPECIES
-=======
+# Micropeltis exserta (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

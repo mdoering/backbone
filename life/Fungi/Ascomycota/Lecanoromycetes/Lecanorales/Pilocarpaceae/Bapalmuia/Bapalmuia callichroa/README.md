@@ -1,14 +1,13 @@
-Lopacidia callichroa (Müll. Arg.) Kalb SPECIES
-=======
+# Bapalmuia callichroa (Müll. Arg.) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenes Neotropici (Neumarkt), Fascicle <b>VIII</b> (nos 301-350) no. 184 (1984)
+in Kalb, Lücking & Sérusiaux, Mycotaxon 75: 288 (2000)
 
 #### Original name
 Lopadium callichroum Müll. Arg.

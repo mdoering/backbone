@@ -1,5 +1,4 @@
-Mycobacterium haemophilum Sompolinsky et al., 1978 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium haemophilum Sompolinsky et al., 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

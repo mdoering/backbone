@@ -1,5 +1,4 @@
-Platythecium Staiger GENUS
-=======
+# Platythecium Staiger GENUS
 
 #### Status
 ACCEPTED

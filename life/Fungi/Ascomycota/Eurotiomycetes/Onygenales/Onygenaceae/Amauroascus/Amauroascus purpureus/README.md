@@ -1,5 +1,4 @@
-Amauroascus purpureus Tad. Ito & Nakagiri SPECIES
-=======
+# Amauroascus purpureus Tad. Ito & Nakagiri SPECIES
 
 #### Status
 ACCEPTED

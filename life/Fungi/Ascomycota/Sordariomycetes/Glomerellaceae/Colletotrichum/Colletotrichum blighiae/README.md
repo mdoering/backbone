@@ -1,5 +1,4 @@
-Colletotrichum blighiae Gonz. Frag. & Cif. SPECIES
-=======
+# Colletotrichum blighiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

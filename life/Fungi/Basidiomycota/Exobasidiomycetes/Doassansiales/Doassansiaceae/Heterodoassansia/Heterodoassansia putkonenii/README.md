@@ -1,14 +1,13 @@
-Doassansia putkonenii Liro, 1920 SPECIES
-=======
+# Heterodoassansia putkonenii (Liro) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Luonnon Tutkija 24: 72 (1920)
+Mycotaxon 48: 28 (1993)
 
 #### Original name
 Doassansia putkonenii Liro, 1920

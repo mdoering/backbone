@@ -1,5 +1,4 @@
-Septoria pseudopezizoides Sacc. SPECIES
-=======
+# Septoria pseudopezizoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

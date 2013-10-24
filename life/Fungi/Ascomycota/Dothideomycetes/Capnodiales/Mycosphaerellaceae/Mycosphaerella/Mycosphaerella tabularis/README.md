@@ -1,5 +1,4 @@
-Mycosphaerella tabularis Syd. SPECIES
-=======
+# Mycosphaerella tabularis Syd. SPECIES
 
 #### Status
 ACCEPTED

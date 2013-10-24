@@ -1,5 +1,4 @@
-Cortinarius marylandensis Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius marylandensis Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus quadricingens Kozak., 1989 SPECIES
-=======
+# Aspergillus quadricingens Kozak., 1989 SPECIES
 
 #### Status
 ACCEPTED

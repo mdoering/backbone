@@ -1,5 +1,4 @@
-Amphisphaeria congruella P. Karst. SPECIES
-=======
+# Amphisphaeria congruella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

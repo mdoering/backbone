@@ -1,17 +1,16 @@
-Pseudocercospora clematicola P.N. Singh, Kharwar & H.S.G. Rao SPECIES
-=======
+# Pseudocercospora clematidicola P.N. Singh, Kharwar & H.S.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 50(1): 13 (1997)
 
 #### Original name
-Pseudocercospora clematicola P.N. Singh, Kharwar & H.S.G. Rao
+Pseudocercospora clematidicola P.N. Singh, Kharwar & H.S.G. Rao
 
 ### Remarks
 null

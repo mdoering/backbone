@@ -1,5 +1,4 @@
-Hysterostegiella juniperina (E. Müll.) Schmid-Heckel SPECIES
-=======
+# Hysterostegiella juniperina (E. Müll.) Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

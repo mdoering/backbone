@@ -1,5 +1,4 @@
-Discogloeum innumerabile (Peck) Syd. SPECIES
-=======
+# Discogloeum innumerabile (Peck) Syd. SPECIES
 
 #### Status
 ACCEPTED

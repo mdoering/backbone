@@ -1,5 +1,4 @@
-Ionaspis fuscoclavata Eitner SPECIES
-=======
+# Ionaspis fuscoclavata Eitner SPECIES
 
 #### Status
 ACCEPTED

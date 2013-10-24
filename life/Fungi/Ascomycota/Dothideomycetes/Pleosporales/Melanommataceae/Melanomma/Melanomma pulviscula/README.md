@@ -1,5 +1,4 @@
-Melanomma pulviscula (P. Karst.) Berl. & Voglino SPECIES
-=======
+# Melanomma pulviscula (P. Karst.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

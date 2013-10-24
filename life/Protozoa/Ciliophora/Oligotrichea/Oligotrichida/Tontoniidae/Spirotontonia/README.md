@@ -1,5 +1,4 @@
-Spirotontonia Agatha, 2004 GENUS
-=======
+# Spirotontonia Agatha, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypoxylon enteroleucum Speg., 1898 SPECIES
-=======
+# Xylaria enteroleuca (Speg.) P.M.D. Martin, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 6: 264 (1898)
+Jl S. Afr. Bot. 36(2): 100 (1970)
 
 #### Original name
 Hypoxylon enteroleucum Speg., 1898

@@ -1,5 +1,4 @@
-Cordyceps uchiyamae Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps uchiyamae Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

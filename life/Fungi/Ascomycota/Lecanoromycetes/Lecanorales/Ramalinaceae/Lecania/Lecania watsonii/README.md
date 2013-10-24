@@ -1,5 +1,4 @@
-Lecania watsonii M. Knowles ex Ch. Porter SPECIES
-=======
+# Lecania watsonii M. Knowles ex Ch. Porter SPECIES
 
 #### Status
 ACCEPTED

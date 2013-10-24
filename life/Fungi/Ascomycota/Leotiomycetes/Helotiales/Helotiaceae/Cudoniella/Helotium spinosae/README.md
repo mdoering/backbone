@@ -1,5 +1,4 @@
-Helotium spinosae Velen. SPECIES
-=======
+# Helotium spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

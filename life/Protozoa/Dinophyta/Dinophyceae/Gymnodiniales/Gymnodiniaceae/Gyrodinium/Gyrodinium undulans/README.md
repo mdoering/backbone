@@ -1,5 +1,4 @@
-Gyrodinium undulans Hulbert SPECIES
-=======
+# Gyrodinium undulans Hulbert SPECIES
 
 #### Status
 ACCEPTED

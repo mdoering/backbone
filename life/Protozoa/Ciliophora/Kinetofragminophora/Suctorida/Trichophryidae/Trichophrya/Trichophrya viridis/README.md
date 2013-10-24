@@ -1,5 +1,4 @@
-Trichophrya viridis Dumas, 1930 SPECIES
-=======
+# Trichophrya viridis Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma memmingeri (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma memmingeri (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

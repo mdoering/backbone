@@ -1,5 +1,4 @@
-Melanaspicilia coniopta SPECIES
-=======
+# Melanaspicilia coniopta SPECIES
 
 #### Status
 ACCEPTED

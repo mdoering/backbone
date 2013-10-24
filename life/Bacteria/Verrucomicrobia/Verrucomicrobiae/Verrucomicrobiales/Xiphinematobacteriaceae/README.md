@@ -1,5 +1,4 @@
-Xiphinematobacteriaceae FAMILY
-=======
+# Xiphinematobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

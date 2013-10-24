@@ -1,5 +1,4 @@
-Hyaloscypha strobilicola var. strobilicola VARIETY
-=======
+# Hyaloscypha strobilicola Huhtinen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Karstenia 29(2): 170 (1990)
 
 #### Original name
-Hyaloscypha strobilicola var. strobilicola
+Hyaloscypha strobilicola Huhtinen
 
 ### Remarks
 null

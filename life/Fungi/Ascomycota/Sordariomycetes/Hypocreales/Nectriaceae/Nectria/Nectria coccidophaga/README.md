@@ -1,5 +1,4 @@
-Nectria coccidophaga (Petch) Rossman SPECIES
-=======
+# Nectria coccidophaga (Petch) Rossman SPECIES
 
 #### Status
 ACCEPTED

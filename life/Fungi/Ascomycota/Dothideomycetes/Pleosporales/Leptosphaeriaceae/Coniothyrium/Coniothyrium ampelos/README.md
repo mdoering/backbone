@@ -1,5 +1,4 @@
-Coniothyrium ampelos (Schwein.) Tassi SPECIES
-=======
+# Coniothyrium ampelos (Schwein.) Tassi SPECIES
 
 #### Status
 ACCEPTED

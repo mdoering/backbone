@@ -1,5 +1,4 @@
-Leptogium atroviride F. Wilson SPECIES
-=======
+# Leptogium atroviride F. Wilson SPECIES
 
 #### Status
 ACCEPTED

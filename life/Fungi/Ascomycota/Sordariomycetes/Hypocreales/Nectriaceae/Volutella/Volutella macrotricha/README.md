@@ -1,5 +1,4 @@
-Volutella macrotricha Speg. SPECIES
-=======
+# Volutella macrotricha Speg. SPECIES
 
 #### Status
 ACCEPTED

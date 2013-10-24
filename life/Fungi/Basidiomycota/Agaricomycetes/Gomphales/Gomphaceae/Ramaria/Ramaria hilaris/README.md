@@ -1,17 +1,16 @@
-Ramaria hilaris var. hilaris VARIETY
-=======
+# Ramaria hilaris R.H. Petersen & M. Zang, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Acta bot. Yunn. 11(4): 382 (1989)
 
 #### Original name
-Ramaria hilaris var. hilaris
+Ramaria hilaris R.H. Petersen & M. Zang, 1989
 
 ### Remarks
 null

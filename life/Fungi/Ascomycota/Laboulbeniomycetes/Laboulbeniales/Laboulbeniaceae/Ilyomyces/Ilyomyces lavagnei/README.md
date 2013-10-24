@@ -1,8 +1,7 @@
-Acallomyces lavagnei F. Picard, 1913 SPECIES
-=======
+# Ilyomyces lavagnei (F. Picard) F. Picard, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Dimeromyces lavagnei F. Picard, 1917
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota atrovinosa S. Imai SPECIES
-=======
+# Lepiota atrovinosa S. Imai SPECIES
 
 #### Status
 ACCEPTED

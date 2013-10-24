@@ -1,5 +1,4 @@
-Tympaneides Carter in Carter, Cameron & Smith, 1988 GENUS
-=======
+# Tympaneides Carter in Carter, Cameron & Smith, 1988 GENUS
 
 #### Status
 ACCEPTED

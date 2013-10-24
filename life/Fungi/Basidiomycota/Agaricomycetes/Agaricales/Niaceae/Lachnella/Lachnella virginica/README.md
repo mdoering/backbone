@@ -1,5 +1,4 @@
-Lachnella virginica Ellis & Everh. SPECIES
-=======
+# Lachnella virginica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

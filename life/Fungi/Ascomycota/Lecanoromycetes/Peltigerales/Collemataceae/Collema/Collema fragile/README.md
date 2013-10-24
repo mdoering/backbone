@@ -1,5 +1,4 @@
-Collema fragile Taylor SPECIES
-=======
+# Collema fragile Taylor SPECIES
 
 #### Status
 ACCEPTED

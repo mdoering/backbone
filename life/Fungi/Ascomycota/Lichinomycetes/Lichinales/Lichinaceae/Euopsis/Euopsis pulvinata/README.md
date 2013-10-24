@@ -1,17 +1,16 @@
-Pyrenopsis pulvinata var. pulvinata VARIETY
-=======
+# Euopsis pulvinata (Schaer.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pyrenopsis pulvinata var. pulvinata
+Lecidea pulvinata Schaer.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercosporina fukushiana Matsuura SPECIES
-=======
+# Cercosporina fukushiana Matsuura SPECIES
 
 #### Status
 ACCEPTED

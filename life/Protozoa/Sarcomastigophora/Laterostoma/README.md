@@ -1,5 +1,4 @@
-Laterostoma Hamaoui, 1979 GENUS
-=======
+# Laterostoma Hamaoui, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania pepegospora H. Magn. SPECIES
-=======
+# Lecania pepegospora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

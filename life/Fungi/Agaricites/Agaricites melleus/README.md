@@ -1,5 +1,4 @@
-Agaricites melleus (Conwentz {?} ) Mesch. SPECIES
-=======
+# Agaricites melleus (Conwentz {?} ) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lemmopsis polychidioides Zahlbr. SPECIES
-=======
+# Polychidium polychidioides (Zahlbr.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. , 2 (Bot. ) 3(11): 333 (1924)
+null
 
 #### Original name
-Lemmopsis polychidioides Zahlbr.
+null
 
 ### Remarks
 null

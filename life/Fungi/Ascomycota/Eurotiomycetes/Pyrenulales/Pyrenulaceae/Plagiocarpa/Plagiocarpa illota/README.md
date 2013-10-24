@@ -1,5 +1,4 @@
-Plagiocarpa illota (Nyl.) R.C. Harris SPECIES
-=======
+# Plagiocarpa illota (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

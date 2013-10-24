@@ -1,14 +1,13 @@
-Melanotaenium caricicola (Ferd. & Winge) Thirum. & M.D. Whitehead, 1968 SPECIES
-=======
+# Entorrhiza caricicola Ferd. & Winge, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 55: 185 (1968)
+Dansk bot. Ark. 2(no. 1): 10 (1915)
 
 #### Original name
 Entorrhiza caricicola Ferd. & Winge, 1915

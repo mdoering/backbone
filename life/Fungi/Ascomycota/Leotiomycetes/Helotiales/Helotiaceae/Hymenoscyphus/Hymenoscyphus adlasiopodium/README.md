@@ -1,5 +1,4 @@
-Hymenoscyphus adlasiopodium Zheng Wang SPECIES
-=======
+# Hymenoscyphus adlasiopodium Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

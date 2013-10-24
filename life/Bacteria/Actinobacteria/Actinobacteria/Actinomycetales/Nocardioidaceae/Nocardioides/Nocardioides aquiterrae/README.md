@@ -1,5 +1,4 @@
-Nocardioides aquiterrae Yoon et al., 2004 SPECIES
-=======
+# Nocardioides aquiterrae Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

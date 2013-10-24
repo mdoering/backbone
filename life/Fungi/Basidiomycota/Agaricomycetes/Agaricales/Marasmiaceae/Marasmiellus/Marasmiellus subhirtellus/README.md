@@ -1,5 +1,4 @@
-Marasmiellus subhirtellus Singer SPECIES
-=======
+# Marasmiellus subhirtellus Singer SPECIES
 
 #### Status
 ACCEPTED

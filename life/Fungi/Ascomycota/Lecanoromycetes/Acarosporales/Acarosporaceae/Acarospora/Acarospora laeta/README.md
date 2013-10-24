@@ -1,5 +1,4 @@
-Acarospora laeta H. Magn. SPECIES
-=======
+# Acarospora laeta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

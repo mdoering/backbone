@@ -1,5 +1,4 @@
-Capnodium persicae Turpin SPECIES
-=======
+# Capnodium persicae Turpin SPECIES
 
 #### Status
 ACCEPTED

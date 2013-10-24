@@ -1,5 +1,4 @@
-Mycena trojana Murrill SPECIES
-=======
+# Mycena trojana Murrill SPECIES
 
 #### Status
 ACCEPTED

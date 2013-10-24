@@ -1,17 +1,16 @@
-Elsinoë myrtacifold Bat. & Peres SPECIES
-=======
+# Elsinoë myrtaceifolii Bat. & Peres SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas do instituto de micologia 5: 102 (1967)
 
 #### Original name
-Elsinoë myrtacifold Bat. & Peres
+Elsinoë myrtaceifolii Bat. & Peres
 
 ### Remarks
 null

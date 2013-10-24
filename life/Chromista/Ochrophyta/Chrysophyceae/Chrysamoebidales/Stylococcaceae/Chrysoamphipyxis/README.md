@@ -1,5 +1,4 @@
-Chrysoamphipyxis K.H.Nicholls, 1987 GENUS
-=======
+# Chrysoamphipyxis K.H.Nicholls, 1987 GENUS
 
 #### Status
 ACCEPTED

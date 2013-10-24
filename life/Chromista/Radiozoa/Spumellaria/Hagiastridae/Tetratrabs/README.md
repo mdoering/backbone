@@ -1,5 +1,4 @@
-Tetratrabs Baumgartner, 1980 GENUS
-=======
+# Tetratrabs Baumgartner, 1980 GENUS
 
 #### Status
 ACCEPTED

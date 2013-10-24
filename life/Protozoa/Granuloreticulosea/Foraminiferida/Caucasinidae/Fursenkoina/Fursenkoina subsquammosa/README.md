@@ -1,5 +1,4 @@
-Fursenkoina subsquammosa (d'Orbigny, 1839) SPECIES
-=======
+# Fursenkoina subsquammosa (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria lojkana (J. Lahm) Zahlbr. SPECIES
-=======
+# Catillaria lojkana (J. Lahm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discobotellina Collins, 1958 GENUS
-=======
+# Discobotellina Collins, 1958 GENUS
 
 #### Status
 ACCEPTED

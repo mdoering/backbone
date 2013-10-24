@@ -1,5 +1,4 @@
-Arnium imitans N. Lundq., 1972 SPECIES
-=======
+# Arnium imitans N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

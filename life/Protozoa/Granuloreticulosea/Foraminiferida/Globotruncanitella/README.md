@@ -1,5 +1,4 @@
-Globotruncanitella Ion in Ion & Odin, 2001 GENUS
-=======
+# Globotruncanitella Ion in Ion & Odin, 2001 GENUS
 
 #### Status
 ACCEPTED

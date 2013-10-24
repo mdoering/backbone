@@ -1,5 +1,4 @@
-Ramularia alangii Hasija SPECIES
-=======
+# Ramularia alangii Hasija SPECIES
 
 #### Status
 ACCEPTED

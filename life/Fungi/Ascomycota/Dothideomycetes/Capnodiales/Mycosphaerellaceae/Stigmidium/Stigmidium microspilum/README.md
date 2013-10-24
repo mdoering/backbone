@@ -1,17 +1,16 @@
-Arthopyrenia microspila f. microspila FORM
-=======
+# Stigmidium microspilum (Körb.) D. Hawksw., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 30(1): 201 (1975)
 
 #### Original name
-Arthopyrenia microspila f. microspila
+Arthopyrenia microspila Körb., 1865
 
 ### Remarks
 null

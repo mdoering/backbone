@@ -1,5 +1,4 @@
-Coniothyrium prillieuxianum (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium prillieuxianum (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

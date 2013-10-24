@@ -1,5 +1,4 @@
-Fusiformisporites annafrancescae G. Norris SPECIES
-=======
+# Fusiformisporites annafrancescae G. Norris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aristastoma aeconomicum (Ellis & Tracy) Tehon SPECIES
-=======
+# Aristastoma aeconomicum (Ellis & Tracy) Tehon SPECIES
 
 #### Status
 ACCEPTED

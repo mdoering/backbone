@@ -1,5 +1,4 @@
-Coniothyrium pityophilum (Höhn.) Petr. & Syd. {?} SPECIES
-=======
+# Coniothyrium pityophilum (Höhn.) Petr. & Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

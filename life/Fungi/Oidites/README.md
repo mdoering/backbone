@@ -1,5 +1,4 @@
-Oidites Mesch. GENUS
-=======
+# Oidites Mesch. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria tamaricis Nasyrov SPECIES
-=======
+# Trematosphaeria tamaricis Nasyrov SPECIES
 
 #### Status
 ACCEPTED

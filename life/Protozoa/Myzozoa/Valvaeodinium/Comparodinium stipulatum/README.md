@@ -1,5 +1,4 @@
-Comparodinium stipulatum Wille & Gocht, 1979 SPECIES
-=======
+# Comparodinium stipulatum Wille & Gocht, 1979 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Graphis diversula Nyl. SPECIES
-=======
+# Graphis diversula Nyl. SPECIES
 
 #### Status
 ACCEPTED

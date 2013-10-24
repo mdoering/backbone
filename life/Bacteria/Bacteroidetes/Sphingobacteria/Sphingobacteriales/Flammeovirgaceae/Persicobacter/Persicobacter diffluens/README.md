@@ -1,8 +1,7 @@
-Cytophaga diffluens (ex Stanier, 1940) Reichenbach, 1989 SPECIES
-=======
+# Persicobacter diffluens (Reichenbach, 1989) Nakagawa et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

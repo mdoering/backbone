@@ -1,5 +1,4 @@
-Misturatosphaeria minima Mugambi, A.N. Mill. & Huhndorf, 2009 SPECIES
-=======
+# Misturatosphaeria minima Mugambi, A.N. Mill. & Huhndorf, 2009 SPECIES
 
 #### Status
 ACCEPTED

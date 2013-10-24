@@ -1,5 +1,4 @@
-Nostoc coerulescens Rabenhorst SPECIES
-=======
+# Nostoc coerulescens Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

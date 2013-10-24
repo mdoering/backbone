@@ -1,5 +1,4 @@
-Hexagonia thwaitesii f. thwaitesii FORM
-=======
+# Hexagonia thwaitesii Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Amer. Acad. Arts & Sci. 4: 122 (1860)
 
 #### Original name
-Hexagonia thwaitesii f. thwaitesii
+Hexagonia thwaitesii Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Menoidiomonas Skvortzov, 1969 GENUS
-=======
+# Menoidiomonas Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

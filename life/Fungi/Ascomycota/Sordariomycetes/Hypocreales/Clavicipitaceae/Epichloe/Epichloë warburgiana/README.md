@@ -1,5 +1,4 @@
-Epichloë warburgiana var. warburgiana VARIETY
-=======
+# Epichloë warburgiana Magnus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Epichloë warburgiana var. warburgiana
+Epichloë warburgiana Magnus
 
 ### Remarks
 null

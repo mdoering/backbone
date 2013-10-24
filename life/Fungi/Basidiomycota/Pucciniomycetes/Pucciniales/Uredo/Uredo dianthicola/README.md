@@ -1,5 +1,4 @@
-Uredo dianthicola Har. SPECIES
-=======
+# Uredo dianthicola Har. SPECIES
 
 #### Status
 ACCEPTED

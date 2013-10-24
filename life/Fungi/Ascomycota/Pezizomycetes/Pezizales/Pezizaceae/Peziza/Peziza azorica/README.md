@@ -1,5 +1,4 @@
-Peziza azorica Dennis SPECIES
-=======
+# Peziza azorica Dennis SPECIES
 
 #### Status
 ACCEPTED

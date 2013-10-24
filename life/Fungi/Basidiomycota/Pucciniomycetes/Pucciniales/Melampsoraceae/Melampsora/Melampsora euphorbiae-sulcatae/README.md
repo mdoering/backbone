@@ -1,5 +1,4 @@
-Melampsora euphorbiae-sulcatae Unamuno SPECIES
-=======
+# Melampsora euphorbiae-sulcatae Unamuno SPECIES
 
 #### Status
 ACCEPTED

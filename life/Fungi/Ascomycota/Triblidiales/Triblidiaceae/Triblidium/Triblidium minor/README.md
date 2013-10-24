@@ -1,17 +1,16 @@
-Triblidium minus Cooke SPECIES
-=======
+# Triblidium minor Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 32): 182 (1876)
 
 #### Original name
-Triblidium minus Cooke
+Triblidium minor Cooke
 
 ### Remarks
 null

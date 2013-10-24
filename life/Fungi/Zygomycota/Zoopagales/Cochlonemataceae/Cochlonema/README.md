@@ -1,5 +1,4 @@
-Cochlonema Drechsler GENUS
-=======
+# Cochlonema Drechsler GENUS
 
 #### Status
 ACCEPTED

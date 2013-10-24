@@ -1,5 +1,4 @@
-Geodina guanacastensis Denison, 1965 SPECIES
-=======
+# Geodina guanacastensis Denison, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora insulans Sacc. SPECIES
-=======
+# Cercospora insulans Sacc. SPECIES
 
 #### Status
 ACCEPTED

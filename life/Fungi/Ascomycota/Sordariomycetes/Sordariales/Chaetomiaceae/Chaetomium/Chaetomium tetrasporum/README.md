@@ -1,5 +1,4 @@
-Chaetomium tetrasporum S. Hughes, 1946 SPECIES
-=======
+# Chaetomium tetrasporum S. Hughes, 1946 SPECIES
 
 #### Status
 ACCEPTED

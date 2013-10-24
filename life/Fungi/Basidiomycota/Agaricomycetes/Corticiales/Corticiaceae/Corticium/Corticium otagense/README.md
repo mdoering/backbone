@@ -1,5 +1,4 @@
-Corticium otagense G. Cunn., 1963 SPECIES
-=======
+# Corticium otagense G. Cunn., 1963 SPECIES
 
 #### Status
 ACCEPTED

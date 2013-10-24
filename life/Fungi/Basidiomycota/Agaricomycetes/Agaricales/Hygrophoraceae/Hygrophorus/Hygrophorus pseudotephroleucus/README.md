@@ -1,5 +1,4 @@
-Hygrophorus pseudotephroleucus Largent SPECIES
-=======
+# Hygrophorus pseudotephroleucus Largent SPECIES
 
 #### Status
 ACCEPTED

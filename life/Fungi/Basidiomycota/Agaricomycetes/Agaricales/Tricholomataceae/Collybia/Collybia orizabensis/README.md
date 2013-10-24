@@ -1,5 +1,4 @@
-Collybia orizabensis (Murrill) Murrill SPECIES
-=======
+# Collybia orizabensis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

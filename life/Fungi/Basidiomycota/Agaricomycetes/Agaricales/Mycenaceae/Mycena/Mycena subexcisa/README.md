@@ -1,5 +1,4 @@
-Mycena subexcisa P. Karst. SPECIES
-=======
+# Mycena subexcisa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

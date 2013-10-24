@@ -1,5 +1,4 @@
-Hymenomonadaceae FAMILY
-=======
+# Hymenomonadaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma bicuspidatum Cooke, 1868 SPECIES
-=======
+# Lophiostoma bicuspidatum Cooke, 1868 SPECIES
 
 #### Status
 ACCEPTED

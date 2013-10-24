@@ -1,8 +1,7 @@
-Anhelia niger (F. Stevens) Viégas SPECIES
-=======
+# Whetzeliomyces niger (F. Stevens) Viégas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

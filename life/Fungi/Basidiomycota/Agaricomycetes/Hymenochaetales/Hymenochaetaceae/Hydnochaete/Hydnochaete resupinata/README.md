@@ -1,5 +1,4 @@
-Hydnochaete resupinata (Sw.) Ryvarden SPECIES
-=======
+# Hydnochaete resupinata (Sw.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

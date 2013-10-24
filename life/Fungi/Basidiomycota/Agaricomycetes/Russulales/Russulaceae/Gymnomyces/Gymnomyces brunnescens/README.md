@@ -1,14 +1,13 @@
-Martellia brunnescens Singer & A.H. Sm., 1961 SPECIES
-=======
+# Gymnomyces brunnescens (Singer & A.H. Sm.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 21(3): 37-38 (1961)
+Mycotaxon 81: 199 (2002)
 
 #### Original name
 Martellia brunnescens Singer & A.H. Sm., 1961

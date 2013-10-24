@@ -1,5 +1,4 @@
-Eoponidella GENUS
-=======
+# Eoponidella GENUS
 
 #### Status
 ACCEPTED

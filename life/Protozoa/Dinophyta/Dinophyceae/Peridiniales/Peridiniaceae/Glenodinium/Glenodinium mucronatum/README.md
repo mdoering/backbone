@@ -1,5 +1,4 @@
-Glenodinium mucronatum Conrad SPECIES
-=======
+# Glenodinium mucronatum Conrad SPECIES
 
 #### Status
 ACCEPTED

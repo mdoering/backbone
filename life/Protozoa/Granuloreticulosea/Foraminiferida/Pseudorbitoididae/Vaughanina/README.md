@@ -1,5 +1,4 @@
-Vaughanina Palmer, 1934 GENUS
-=======
+# Vaughanina Palmer, 1934 GENUS
 
 #### Status
 ACCEPTED

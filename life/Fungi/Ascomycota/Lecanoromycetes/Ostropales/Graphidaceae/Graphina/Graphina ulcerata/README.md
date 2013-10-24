@@ -1,5 +1,4 @@
-Graphina ulcerata (Vain.) Zahlbr. SPECIES
-=======
+# Graphina ulcerata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

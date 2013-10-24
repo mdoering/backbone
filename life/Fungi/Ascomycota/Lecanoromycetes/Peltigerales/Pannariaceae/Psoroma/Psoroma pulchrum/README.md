@@ -1,5 +1,4 @@
-Psoroma pulchrum Malme SPECIES
-=======
+# Psoroma pulchrum Malme SPECIES
 
 #### Status
 ACCEPTED

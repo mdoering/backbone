@@ -1,5 +1,4 @@
-Sirocoleum Kützing ex Gomont, 1892 GENUS
-=======
+# Sirocoleum Kützing ex Gomont, 1892 GENUS
 
 #### Status
 ACCEPTED

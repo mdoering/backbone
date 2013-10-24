@@ -1,5 +1,4 @@
-Goussia spraguei Morrison & Poynton, 1989 SPECIES
-=======
+# Goussia spraguei Morrison & Poynton, 1989 SPECIES
 
 #### Status
 ACCEPTED

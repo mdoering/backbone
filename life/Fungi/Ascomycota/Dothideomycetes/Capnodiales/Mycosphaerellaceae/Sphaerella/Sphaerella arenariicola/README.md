@@ -1,5 +1,4 @@
-Sphaerella arenariicola (Bubák) Sacc. & Trotter SPECIES
-=======
+# Sphaerella arenariicola (Bubák) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

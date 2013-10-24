@@ -1,5 +1,4 @@
-Helicorhoidion pulchrum (Berk. & Corda) S. Hughes SPECIES
-=======
+# Helicorhoidion pulchrum (Berk. & Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

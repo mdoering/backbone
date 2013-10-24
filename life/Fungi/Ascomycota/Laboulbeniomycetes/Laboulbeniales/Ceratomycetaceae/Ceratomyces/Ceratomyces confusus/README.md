@@ -1,5 +1,4 @@
-Ceratomyces confusus Thaxt. SPECIES
-=======
+# Ceratomyces confusus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciborinia Whetzel, 1945 GENUS
-=======
+# Ciborinia Whetzel, 1945 GENUS
 
 #### Status
 ACCEPTED

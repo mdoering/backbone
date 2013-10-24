@@ -1,5 +1,4 @@
-Hexacontium pachydermum Joergensen, 1900 SPECIES
-=======
+# Hexacontium pachydermum Joergensen, 1900 SPECIES
 
 #### Status
 ACCEPTED

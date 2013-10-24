@@ -1,5 +1,4 @@
-Eucyrtomphalus Haeckel, 1881 GENUS
-=======
+# Eucyrtomphalus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

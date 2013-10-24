@@ -1,5 +1,4 @@
-Thermoanaerobacterium xylanolyticum Lee et al., 1993 SPECIES
-=======
+# Thermoanaerobacterium xylanolyticum Lee et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

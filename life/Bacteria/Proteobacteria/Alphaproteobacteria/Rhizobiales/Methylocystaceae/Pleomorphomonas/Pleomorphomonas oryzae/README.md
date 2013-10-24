@@ -1,5 +1,4 @@
-Pleomorphomonas oryzae Xie and Yokota, 2005 Xie and Yokota, 2005 SPECIES
-=======
+# Pleomorphomonas oryzae Xie and Yokota, 2005 Xie and Yokota, 2005 SPECIES
 
 #### Status
 ACCEPTED

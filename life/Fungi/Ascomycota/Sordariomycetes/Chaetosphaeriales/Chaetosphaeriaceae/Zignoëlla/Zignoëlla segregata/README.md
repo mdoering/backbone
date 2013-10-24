@@ -1,5 +1,4 @@
-Zignoëlla segregata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Zignoëlla segregata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

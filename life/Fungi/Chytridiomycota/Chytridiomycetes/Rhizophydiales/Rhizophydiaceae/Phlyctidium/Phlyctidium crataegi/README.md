@@ -1,5 +1,4 @@
-Phlyctidium crataegi (Pers.) Wallr. SPECIES
-=======
+# Phlyctidium crataegi (Pers.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

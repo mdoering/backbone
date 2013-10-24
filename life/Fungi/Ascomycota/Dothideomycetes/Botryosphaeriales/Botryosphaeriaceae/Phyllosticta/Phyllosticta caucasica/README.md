@@ -1,5 +1,4 @@
-Phyllosticta caucasica Tasl. SPECIES
-=======
+# Phyllosticta caucasica Tasl. SPECIES
 
 #### Status
 ACCEPTED

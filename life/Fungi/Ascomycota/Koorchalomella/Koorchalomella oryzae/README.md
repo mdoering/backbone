@@ -1,5 +1,4 @@
-Koorchalomella oryzae Chona, Munjal & J.N. Kapoor, 1958 SPECIES
-=======
+# Koorchalomella oryzae Chona, Munjal & J.N. Kapoor, 1958 SPECIES
 
 #### Status
 ACCEPTED

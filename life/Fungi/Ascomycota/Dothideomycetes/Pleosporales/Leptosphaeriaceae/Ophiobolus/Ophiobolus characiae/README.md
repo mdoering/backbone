@@ -1,5 +1,4 @@
-Ophiobolus characiae (Fabre) Sacc. SPECIES
-=======
+# Ophiobolus characiae (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

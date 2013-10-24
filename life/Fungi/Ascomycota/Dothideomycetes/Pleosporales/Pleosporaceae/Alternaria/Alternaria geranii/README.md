@@ -1,5 +1,4 @@
-Alternaria geranii Losa SPECIES
-=======
+# Alternaria geranii Losa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostroma purpureonigrum Teng SPECIES
-=======
+# Chaetostroma purpureonigrum Teng SPECIES
 
 #### Status
 ACCEPTED

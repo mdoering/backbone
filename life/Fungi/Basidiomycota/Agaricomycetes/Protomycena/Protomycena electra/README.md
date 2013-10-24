@@ -1,5 +1,4 @@
-Protomycena electra Hibbett, D. Grimaldi & Donoghue SPECIES
-=======
+# Protomycena electra Hibbett, D. Grimaldi & Donoghue SPECIES
 
 #### Status
 ACCEPTED

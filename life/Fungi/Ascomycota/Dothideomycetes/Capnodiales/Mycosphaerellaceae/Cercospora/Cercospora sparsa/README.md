@@ -1,5 +1,4 @@
-Cercospora sparsa Cooke SPECIES
-=======
+# Cercospora sparsa Cooke SPECIES
 
 #### Status
 ACCEPTED

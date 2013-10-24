@@ -1,5 +1,4 @@
-Gyrodinium vorax Biecheler SPECIES
-=======
+# Gyrodinium vorax Biecheler SPECIES
 
 #### Status
 ACCEPTED

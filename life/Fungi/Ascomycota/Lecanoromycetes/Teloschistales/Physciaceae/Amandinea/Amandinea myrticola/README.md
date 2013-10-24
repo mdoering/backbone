@@ -1,5 +1,4 @@
-Amandinea myrticola Giralt, van den Boom & Elix SPECIES
-=======
+# Amandinea myrticola Giralt, van den Boom & Elix SPECIES
 
 #### Status
 ACCEPTED

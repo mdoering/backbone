@@ -1,17 +1,16 @@
-Actinocyathus Kent, 1882 GENUS
-=======
+# Actinocyathula Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Man. Infus. , 2, fasc. 6, 848.
+J. Protozool. 7: 272.
 
 #### Original name
-null
+Actinocyathus Kent, 1882
 
 ### Remarks
 null

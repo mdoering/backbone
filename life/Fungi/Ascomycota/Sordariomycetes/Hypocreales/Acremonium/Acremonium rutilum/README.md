@@ -1,8 +1,7 @@
-Acremonium roseum (Oudem.) W. Gams, 1971 SPECIES
-=======
+# Acremonium rutilum W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Cephalosporium-artige Schimmelpilze (Stuttgart) 105 (1971)
 
 #### Original name
-Cephalosporium roseum Oudem.
+Acremonium rutilum W. Gams, 1971
 
 ### Remarks
 null

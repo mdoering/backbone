@@ -1,5 +1,4 @@
-Polyporus obsoletus Fr. SPECIES
-=======
+# Polyporus obsoletus Fr. SPECIES
 
 #### Status
 ACCEPTED

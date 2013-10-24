@@ -1,5 +1,4 @@
-Tremamystron N. Hoffman, 1970 GENUS
-=======
+# Tremamystron N. Hoffman, 1970 GENUS
 
 #### Status
 ACCEPTED

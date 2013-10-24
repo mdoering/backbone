@@ -1,5 +1,4 @@
-Ascochyta tirolensis Bubák SPECIES
-=======
+# Ascochyta tirolensis Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium haqii Sultan, Khalid & Mukhtar SPECIES
-=======
+# Aecidium haqii Sultan, Khalid & Mukhtar SPECIES
 
 #### Status
 ACCEPTED

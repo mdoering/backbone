@@ -1,5 +1,4 @@
-Phaeocytostroma plurivorum B. Sutton, 1980 SPECIES
-=======
+# Phaeocytostroma plurivorum B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

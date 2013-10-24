@@ -1,5 +1,4 @@
-Marasmius rhabarbarinus Berk. SPECIES
-=======
+# Marasmius rhabarbarinus Berk. SPECIES
 
 #### Status
 ACCEPTED

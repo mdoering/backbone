@@ -1,5 +1,4 @@
-Plagiocampa sassykensis SPECIES
-=======
+# Plagiocampa sassykensis SPECIES
 
 #### Status
 ACCEPTED

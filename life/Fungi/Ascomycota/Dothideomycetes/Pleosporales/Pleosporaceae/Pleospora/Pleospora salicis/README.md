@@ -1,5 +1,4 @@
-Pleospora salicis Feltgen SPECIES
-=======
+# Pleospora salicis Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster planctonicus Lecal, 1952 SPECIES
-=======
+# Discoaster planctonicus Lecal, 1952 SPECIES
 
 #### Status
 ACCEPTED

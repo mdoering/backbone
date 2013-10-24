@@ -1,17 +1,16 @@
-Scutiger retipes (Underw.) Murrill, 1903 SPECIES
-=======
+# Scutiger pes-caprae (Pers.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 30(8): 428 (1903)
+Annls mycol. 39(1): 47 (1941)
 
 #### Original name
-Polyporus retipes Underw., 1897
+Polyporus pes-caprae Pers., 1818
 
 ### Remarks
 null

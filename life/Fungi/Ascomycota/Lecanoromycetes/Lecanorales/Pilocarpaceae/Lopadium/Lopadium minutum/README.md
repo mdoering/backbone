@@ -1,5 +1,4 @@
-Lopadium minutum C.W. Dodge SPECIES
-=======
+# Lopadium minutum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

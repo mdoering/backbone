@@ -1,5 +1,4 @@
-Hygrophorus subisabellinus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus subisabellinus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

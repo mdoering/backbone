@@ -1,5 +1,4 @@
-Inocybe castanea Peck SPECIES
-=======
+# Inocybe castanea Peck SPECIES
 
 #### Status
 ACCEPTED

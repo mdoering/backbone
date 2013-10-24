@@ -1,5 +1,4 @@
-Ophiocordyceps humbertii (C.P. Robin) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps humbertii (C.P. Robin) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

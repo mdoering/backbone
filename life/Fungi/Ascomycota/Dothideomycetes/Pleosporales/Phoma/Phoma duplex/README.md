@@ -1,5 +1,4 @@
-Phoma duplex Sacc. SPECIES
-=======
+# Phoma duplex Sacc. SPECIES
 
 #### Status
 ACCEPTED

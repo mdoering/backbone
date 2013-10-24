@@ -1,5 +1,4 @@
-Cafeteria marsupialis Larsen & Patterson, 1990 SPECIES
-=======
+# Cafeteria marsupialis Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

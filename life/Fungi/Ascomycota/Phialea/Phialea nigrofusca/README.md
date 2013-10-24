@@ -1,5 +1,4 @@
-Phialea nigrofusca Rehm SPECIES
-=======
+# Phialea nigrofusca Rehm SPECIES
 
 #### Status
 ACCEPTED

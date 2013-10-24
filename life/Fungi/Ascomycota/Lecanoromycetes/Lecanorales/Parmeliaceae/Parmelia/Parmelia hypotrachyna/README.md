@@ -1,5 +1,4 @@
-Parmelia hypotrachyna Nyl. SPECIES
-=======
+# Parmelia hypotrachyna Nyl. SPECIES
 
 #### Status
 ACCEPTED

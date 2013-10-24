@@ -1,5 +1,4 @@
-Helotium denticulatum Velen. SPECIES
-=======
+# Helotium denticulatum Velen. SPECIES
 
 #### Status
 ACCEPTED

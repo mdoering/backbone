@@ -1,5 +1,4 @@
-Eutypa eutypa (Ach.) House SPECIES
-=======
+# Eutypa eutypa (Ach.) House SPECIES
 
 #### Status
 ACCEPTED

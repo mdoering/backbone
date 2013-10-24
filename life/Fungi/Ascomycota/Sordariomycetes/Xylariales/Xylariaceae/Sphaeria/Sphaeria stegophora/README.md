@@ -1,5 +1,4 @@
-Sphaeria stegophora Mont. SPECIES
-=======
+# Sphaeria stegophora Mont. SPECIES
 
 #### Status
 ACCEPTED

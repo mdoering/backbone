@@ -1,5 +1,4 @@
-Rhizomorpha subterranea var. scabra Nees VARIETY
-=======
+# Rhizomorpha subterranea Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizomorpha subterranea var. scabra Nees
+Rhizomorpha subterranea Pers.
 
 ### Remarks
 null

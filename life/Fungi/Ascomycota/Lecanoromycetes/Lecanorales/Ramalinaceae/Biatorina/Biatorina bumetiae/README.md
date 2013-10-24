@@ -1,17 +1,16 @@
-Biatorina burnetae C.W. Dodge SPECIES
-=======
+# Biatorina bumetiae C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 50(1): 224 (1971)
 
 #### Original name
-Biatorina burnetae C.W. Dodge
+Biatorina bumetiae C.W. Dodge
 
 ### Remarks
 null

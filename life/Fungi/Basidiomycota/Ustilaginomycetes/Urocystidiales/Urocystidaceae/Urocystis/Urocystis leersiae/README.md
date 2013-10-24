@@ -1,5 +1,4 @@
-Urocystis leersiae Vánky, 1987 SPECIES
-=======
+# Urocystis leersiae Vánky, 1987 SPECIES
 
 #### Status
 ACCEPTED

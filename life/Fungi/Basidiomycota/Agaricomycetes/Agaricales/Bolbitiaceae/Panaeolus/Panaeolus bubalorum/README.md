@@ -1,5 +1,4 @@
-Panaeolus bubalorum Pat. SPECIES
-=======
+# Panaeolus bubalorum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia vareschii Ahti SPECIES
-=======
+# Cladonia vareschii Ahti SPECIES
 
 #### Status
 ACCEPTED

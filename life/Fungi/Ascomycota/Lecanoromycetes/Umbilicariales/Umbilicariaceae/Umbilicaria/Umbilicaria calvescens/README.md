@@ -1,5 +1,4 @@
-Umbilicaria calvescens Nyl. SPECIES
-=======
+# Umbilicaria calvescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

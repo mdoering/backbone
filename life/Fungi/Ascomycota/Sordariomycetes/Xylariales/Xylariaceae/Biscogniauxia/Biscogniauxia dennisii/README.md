@@ -1,14 +1,13 @@
-Nummularia dennisii Pouzar, 1977 SPECIES
-=======
+# Biscogniauxia dennisii (Pouzar) Pouzar, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 31(3): 653 (1977)
+Ceská Mykol. 33: 216 (1979)
 
 #### Original name
 Nummularia dennisii Pouzar, 1977

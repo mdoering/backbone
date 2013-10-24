@@ -1,5 +1,4 @@
-Passalora broussonetiae (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
-=======
+# Passalora broussonetiae (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

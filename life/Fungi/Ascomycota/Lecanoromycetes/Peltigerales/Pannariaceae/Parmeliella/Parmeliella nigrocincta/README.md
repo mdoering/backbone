@@ -1,5 +1,4 @@
-Parmeliella nigrocincta var. nigrocincta VARIETY
-=======
+# Parmeliella nigrocincta (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 64: 86 (1881)
 
 #### Original name
-Parmeliella nigrocincta var. nigrocincta
+Parmelia nigrocincta Mont.
 
 ### Remarks
 null

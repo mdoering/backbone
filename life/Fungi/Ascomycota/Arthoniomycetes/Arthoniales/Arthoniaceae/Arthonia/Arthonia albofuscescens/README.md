@@ -1,5 +1,4 @@
-Arthonia albofuscescens Tuck. SPECIES
-=======
+# Arthonia albofuscescens Tuck. SPECIES
 
 #### Status
 ACCEPTED

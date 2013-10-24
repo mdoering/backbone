@@ -1,5 +1,4 @@
-Gorgonisphaeridium estrellaferum (Cramer, 1966) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium estrellaferum (Cramer, 1966) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

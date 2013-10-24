@@ -1,5 +1,4 @@
-Woloszynskia teuissima (Lauterbom) Thompson SPECIES
-=======
+# Woloszynskia teuissima (Lauterbom) Thompson SPECIES
 
 #### Status
 ACCEPTED

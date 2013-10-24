@@ -1,5 +1,4 @@
-Hydnum multipex Fr. SPECIES
-=======
+# Hydnum multipex Fr. SPECIES
 
 #### Status
 ACCEPTED

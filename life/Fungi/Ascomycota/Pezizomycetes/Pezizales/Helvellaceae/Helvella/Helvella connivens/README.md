@@ -1,5 +1,4 @@
-Helvella connivens Dissing & M. Lange SPECIES
-=======
+# Helvella connivens Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

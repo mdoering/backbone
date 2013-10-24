@@ -1,5 +1,4 @@
-Cucurbitaria corylicola Delacr. SPECIES
-=======
+# Cucurbitaria corylicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

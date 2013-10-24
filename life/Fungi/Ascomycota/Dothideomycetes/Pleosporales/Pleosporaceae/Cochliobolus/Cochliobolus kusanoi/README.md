@@ -1,17 +1,16 @@
-Ophiobolus kusanoi Y. Nisik., 1929 SPECIES
-=======
+# Cochliobolus kusanoi (Y. Nisik.) Drechsler ex Dastur, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Journal of Agricultural Research 12: 733 (1942)
 
 #### Original name
-null
+Helminthosporium kusanoi Y. Nisik., 1929
 
 ### Remarks
 null

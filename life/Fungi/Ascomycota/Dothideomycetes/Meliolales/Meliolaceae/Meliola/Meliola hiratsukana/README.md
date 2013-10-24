@@ -1,5 +1,4 @@
-Meliola hiratsukana Katum. SPECIES
-=======
+# Meliola hiratsukana Katum. SPECIES
 
 #### Status
 ACCEPTED

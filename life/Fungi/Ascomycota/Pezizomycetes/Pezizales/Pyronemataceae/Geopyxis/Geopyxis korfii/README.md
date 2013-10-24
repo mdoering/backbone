@@ -1,5 +1,4 @@
-Geopyxis korfii W.Y. Zhuang SPECIES
-=======
+# Geopyxis korfii W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

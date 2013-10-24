@@ -1,5 +1,4 @@
-Asteroma oertelii Syd. & P. Syd. SPECIES
-=======
+# Asteroma oertelii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

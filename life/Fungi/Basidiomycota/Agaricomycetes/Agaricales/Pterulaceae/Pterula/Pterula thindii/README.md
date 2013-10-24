@@ -1,5 +1,4 @@
-Pterula thindii Khurana, 1980 SPECIES
-=======
+# Pterula thindii Khurana, 1980 SPECIES
 
 #### Status
 ACCEPTED

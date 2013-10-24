@@ -1,5 +1,4 @@
-Thelephora polycocca Mont. SPECIES
-=======
+# Thelephora polycocca Mont. SPECIES
 
 #### Status
 ACCEPTED

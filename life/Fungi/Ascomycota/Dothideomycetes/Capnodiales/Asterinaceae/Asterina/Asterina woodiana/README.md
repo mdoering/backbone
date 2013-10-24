@@ -1,5 +1,4 @@
-Asterina woodiana (Doidge) Doidge SPECIES
-=======
+# Asterina woodiana (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

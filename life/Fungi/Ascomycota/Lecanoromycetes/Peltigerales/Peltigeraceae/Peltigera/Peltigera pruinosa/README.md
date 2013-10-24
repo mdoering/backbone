@@ -1,5 +1,4 @@
-Peltigera pruinosa (Gyeln.) Inumaru SPECIES
-=======
+# Peltigera pruinosa (Gyeln.) Inumaru SPECIES
 
 #### Status
 ACCEPTED

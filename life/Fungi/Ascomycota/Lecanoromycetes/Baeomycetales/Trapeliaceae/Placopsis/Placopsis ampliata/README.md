@@ -1,5 +1,4 @@
-Placopsis ampliata (I.M. Lamb) D.J. Galloway SPECIES
-=======
+# Placopsis ampliata (I.M. Lamb) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

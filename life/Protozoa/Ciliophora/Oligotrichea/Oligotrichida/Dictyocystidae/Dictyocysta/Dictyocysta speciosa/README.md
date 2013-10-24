@@ -1,5 +1,4 @@
-Dictyocysta speciosa Jörgensen, 1924 SPECIES
-=======
+# Dictyocysta speciosa Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

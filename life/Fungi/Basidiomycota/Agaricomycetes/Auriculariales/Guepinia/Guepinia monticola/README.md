@@ -1,5 +1,4 @@
-Guepinia monticola Lloyd SPECIES
-=======
+# Guepinia monticola Lloyd SPECIES
 
 #### Status
 ACCEPTED

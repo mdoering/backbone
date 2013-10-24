@@ -1,5 +1,4 @@
-Chytridium adpressum Sparrow SPECIES
-=======
+# Chytridium adpressum Sparrow SPECIES
 
 #### Status
 ACCEPTED

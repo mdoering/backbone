@@ -1,5 +1,4 @@
-Cycloconium GENUS
-=======
+# Cycloconium GENUS
 
 #### Status
 ACCEPTED

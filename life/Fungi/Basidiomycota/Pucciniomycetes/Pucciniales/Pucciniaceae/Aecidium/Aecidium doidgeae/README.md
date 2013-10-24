@@ -1,17 +1,16 @@
-Aecidium doidgei Syd. & P. Syd. SPECIES
-=======
+# Aecidium doidgeae Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 10(1): 36 (1912)
 
 #### Original name
-Aecidium doidgei Syd. & P. Syd.
+Aecidium doidgeae Syd. & P. Syd.
 
 ### Remarks
 null

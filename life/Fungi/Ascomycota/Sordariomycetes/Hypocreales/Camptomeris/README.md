@@ -1,5 +1,4 @@
-Camptomeris Syd. GENUS
-=======
+# Camptomeris Syd. GENUS
 
 #### Status
 ACCEPTED

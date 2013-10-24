@@ -1,5 +1,4 @@
-Clisosporium decipiens (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Clisosporium decipiens (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

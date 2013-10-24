@@ -1,5 +1,4 @@
-Murispora GENUS
-=======
+# Murispora GENUS
 
 #### Status
 ACCEPTED

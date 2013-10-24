@@ -1,5 +1,4 @@
-Polyangium spumosum (ex Krzemieniewska & Krzemieniewski, 1927) Brockman, 1989 SPECIES
-=======
+# Polyangium spumosum (ex Krzemieniewska & Krzemieniewski, 1927) Brockman, 1989 SPECIES
 
 #### Status
 ACCEPTED

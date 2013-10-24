@@ -1,5 +1,4 @@
-Sphaeria granum Schumach. SPECIES
-=======
+# Sphaeria granum Schumach. SPECIES
 
 #### Status
 ACCEPTED

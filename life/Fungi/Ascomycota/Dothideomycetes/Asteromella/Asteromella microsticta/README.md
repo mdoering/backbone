@@ -1,5 +1,4 @@
-Asteromella microsticta Petr. & Cif. SPECIES
-=======
+# Asteromella microsticta Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

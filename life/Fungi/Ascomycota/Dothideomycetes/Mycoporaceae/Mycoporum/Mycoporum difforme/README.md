@@ -1,5 +1,4 @@
-Mycoporum difforme Minks SPECIES
-=======
+# Mycoporum difforme Minks SPECIES
 
 #### Status
 ACCEPTED

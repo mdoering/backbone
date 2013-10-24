@@ -1,5 +1,4 @@
-Acineta tubenosa SPECIES
-=======
+# Acineta tubenosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosporis podzimekii (Servít) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Phaeosporis podzimekii (Servít) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

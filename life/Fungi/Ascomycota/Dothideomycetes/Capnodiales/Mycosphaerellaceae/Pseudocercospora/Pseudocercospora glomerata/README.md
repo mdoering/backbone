@@ -1,5 +1,4 @@
-Pseudocercospora glomerata (Harkn.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora glomerata (Harkn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

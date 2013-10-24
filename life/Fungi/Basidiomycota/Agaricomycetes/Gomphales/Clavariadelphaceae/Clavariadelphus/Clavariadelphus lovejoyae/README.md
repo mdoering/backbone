@@ -1,5 +1,4 @@
-Clavariadelphus lovejoyae V.L. Wells & Kempton SPECIES
-=======
+# Clavariadelphus lovejoyae V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

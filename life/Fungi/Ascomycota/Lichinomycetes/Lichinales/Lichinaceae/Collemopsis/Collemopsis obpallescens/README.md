@@ -1,5 +1,4 @@
-Collemopsis obpallescens Nyl. SPECIES
-=======
+# Collemopsis obpallescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

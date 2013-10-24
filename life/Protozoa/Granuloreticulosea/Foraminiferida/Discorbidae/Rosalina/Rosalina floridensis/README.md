@@ -1,5 +1,4 @@
-Rosalina floridensis SPECIES
-=======
+# Rosalina floridensis SPECIES
 
 #### Status
 ACCEPTED

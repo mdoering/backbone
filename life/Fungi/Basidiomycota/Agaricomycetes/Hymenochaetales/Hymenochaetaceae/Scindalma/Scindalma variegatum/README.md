@@ -1,5 +1,4 @@
-Scindalma variegatum (Schaeff.) Kuntze SPECIES
-=======
+# Scindalma variegatum (Schaeff.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma cheiranthi (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma cheiranthi (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina martinii Donadini & Astier SPECIES
-=======
+# Discina martinii Donadini & Astier SPECIES
 
 #### Status
 ACCEPTED

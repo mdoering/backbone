@@ -1,5 +1,4 @@
-Lichen melanoleucos Willd. SPECIES
-=======
+# Lichen melanoleucos Willd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora anthyllidis var. anthyllidis VARIETY
-=======
+# Pleospora anthyllidis Auersw. & Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Verh. nat. Ver. Brünn 14: 196 (1876)
 
 #### Original name
-Pleospora anthyllidis var. anthyllidis
+Pleospora anthyllidis Auersw. & Niessl, 1876
 
 ### Remarks
 null

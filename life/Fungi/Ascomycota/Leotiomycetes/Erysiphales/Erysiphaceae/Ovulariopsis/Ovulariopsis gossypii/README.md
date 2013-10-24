@@ -1,5 +1,4 @@
-Ovulariopsis gossypii Wakef. SPECIES
-=======
+# Ovulariopsis gossypii Wakef. SPECIES
 
 #### Status
 ACCEPTED

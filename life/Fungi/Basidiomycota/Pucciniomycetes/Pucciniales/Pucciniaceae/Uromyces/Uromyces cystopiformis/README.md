@@ -1,5 +1,4 @@
-Uromyces cystopiformis Lagerh. SPECIES
-=======
+# Uromyces cystopiformis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

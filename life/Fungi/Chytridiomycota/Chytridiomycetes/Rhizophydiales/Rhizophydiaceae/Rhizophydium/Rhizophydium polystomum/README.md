@@ -1,5 +1,4 @@
-Rhizophydium polystomum Karling, 1968 SPECIES
-=======
+# Rhizophydium polystomum Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

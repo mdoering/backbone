@@ -1,5 +1,4 @@
-Chaetosphaeria parvula Sacc. SPECIES
-=======
+# Chaetosphaeria parvula Sacc. SPECIES
 
 #### Status
 ACCEPTED

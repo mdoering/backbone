@@ -1,5 +1,4 @@
-Marasmius minutissimus Peck SPECIES
-=======
+# Marasmius minutissimus Peck SPECIES
 
 #### Status
 ACCEPTED

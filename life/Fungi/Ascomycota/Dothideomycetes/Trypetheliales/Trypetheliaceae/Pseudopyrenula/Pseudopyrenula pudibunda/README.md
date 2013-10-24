@@ -1,5 +1,4 @@
-Pseudopyrenula pudibunda (Mont.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula pudibunda (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

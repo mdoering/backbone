@@ -1,5 +1,4 @@
-Parmelia friesii Spreng. SPECIES
-=======
+# Parmelia friesii Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia ureniana Sacc. SPECIES
-=======
+# Diplodia ureniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

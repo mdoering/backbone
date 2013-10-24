@@ -1,5 +1,4 @@
-Chaetothyrium mangiferae Bat. & I.H. Lima SPECIES
-=======
+# Chaetothyrium mangiferae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

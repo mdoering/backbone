@@ -1,5 +1,4 @@
-Trichostroma aterrimum P. Karst. SPECIES
-=======
+# Trichostroma aterrimum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

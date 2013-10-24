@@ -1,5 +1,4 @@
-Conocybe reticulata (Peck) Watling SPECIES
-=======
+# Conocybe reticulata (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

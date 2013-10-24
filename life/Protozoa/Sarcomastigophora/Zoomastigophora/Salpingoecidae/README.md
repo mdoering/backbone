@@ -1,5 +1,4 @@
-Salpingoecidae FAMILY
-=======
+# Salpingoecidae FAMILY
 
 #### Status
 ACCEPTED

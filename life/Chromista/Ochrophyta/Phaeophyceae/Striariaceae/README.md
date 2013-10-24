@@ -1,5 +1,4 @@
-Striariaceae FAMILY
-=======
+# Striariaceae FAMILY
 
 #### Status
 ACCEPTED

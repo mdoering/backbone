@@ -1,5 +1,4 @@
-Paramaecium anceps SPECIES
-=======
+# Paramaecium anceps SPECIES
 
 #### Status
 ACCEPTED

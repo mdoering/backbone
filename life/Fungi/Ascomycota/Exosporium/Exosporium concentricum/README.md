@@ -1,5 +1,4 @@
-Exosporium concentricum Heald & F.A. Wolf SPECIES
-=======
+# Exosporium concentricum Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

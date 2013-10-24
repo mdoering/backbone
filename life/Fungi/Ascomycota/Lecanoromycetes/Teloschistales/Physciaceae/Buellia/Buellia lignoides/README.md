@@ -1,5 +1,4 @@
-Buellia lignoides Filson SPECIES
-=======
+# Buellia lignoides Filson SPECIES
 
 #### Status
 ACCEPTED

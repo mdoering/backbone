@@ -1,5 +1,4 @@
-Gordonia soli Shen et al., 2006 SPECIES
-=======
+# Gordonia soli Shen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

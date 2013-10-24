@@ -1,5 +1,4 @@
-Discostroma rubicola (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Discostroma rubicola (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

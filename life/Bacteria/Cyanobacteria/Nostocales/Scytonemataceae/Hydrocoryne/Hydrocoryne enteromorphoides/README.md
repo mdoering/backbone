@@ -1,5 +1,4 @@
-Hydrocoryne enteromorphoides (Grunow ex Bornet & Flahault) I. Umezaki & M. Watanabe SPECIES
-=======
+# Hydrocoryne enteromorphoides (Grunow ex Bornet & Flahault) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

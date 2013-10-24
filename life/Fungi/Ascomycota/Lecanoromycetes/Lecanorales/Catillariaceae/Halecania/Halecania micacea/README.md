@@ -1,5 +1,4 @@
-Halecania micacea Fryday & Coppins SPECIES
-=======
+# Halecania micacea Fryday & Coppins SPECIES
 
 #### Status
 ACCEPTED

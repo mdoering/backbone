@@ -1,5 +1,4 @@
-Buellia samoënsis SPECIES
-=======
+# Buellia samoënsis SPECIES
 
 #### Status
 ACCEPTED

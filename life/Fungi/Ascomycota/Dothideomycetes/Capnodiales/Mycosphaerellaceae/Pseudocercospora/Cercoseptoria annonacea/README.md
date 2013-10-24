@@ -1,17 +1,16 @@
-Cercoseptoria anonacea Kamal, Narayan & R.P. Verma SPECIES
-=======
+# Cercoseptoria annonacea Kamal, Narayan & R.P. Verma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 39(3): 455 (1987)
 
 #### Original name
-Cercoseptoria anonacea Kamal, Narayan & R.P. Verma
+Cercoseptoria annonacea Kamal, Narayan & R.P. Verma
 
 ### Remarks
 null

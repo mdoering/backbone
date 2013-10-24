@@ -1,5 +1,4 @@
-Puccinia arabicola Ellis & Everh. SPECIES
-=======
+# Puccinia arabicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

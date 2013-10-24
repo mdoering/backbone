@@ -1,5 +1,4 @@
-Polysynnema tropicum Constant. & Seifert, 1988 SPECIES
-=======
+# Polysynnema tropicum Constant. & Seifert, 1988 SPECIES
 
 #### Status
 ACCEPTED

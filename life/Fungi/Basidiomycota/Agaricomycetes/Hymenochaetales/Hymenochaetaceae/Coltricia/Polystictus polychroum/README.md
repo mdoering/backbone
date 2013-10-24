@@ -1,5 +1,4 @@
-Polystictus polychroum Ces. SPECIES
-=======
+# Polystictus polychroum Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma volkameriae Pat. SPECIES
-=======
+# Macrophoma volkameriae Pat. SPECIES
 
 #### Status
 ACCEPTED

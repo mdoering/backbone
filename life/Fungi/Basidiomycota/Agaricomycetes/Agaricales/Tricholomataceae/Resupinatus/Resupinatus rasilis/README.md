@@ -1,5 +1,4 @@
-Resupinatus rasilis Lib.-Barnes SPECIES
-=======
+# Resupinatus rasilis Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

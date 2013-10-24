@@ -1,5 +1,4 @@
-Pertusaria thiophaninica A. W. Archer SPECIES
-=======
+# Pertusaria thiophaninica A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

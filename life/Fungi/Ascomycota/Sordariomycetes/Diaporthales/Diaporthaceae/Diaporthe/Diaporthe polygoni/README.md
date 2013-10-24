@@ -1,5 +1,4 @@
-Diaporthe polygoni Rehm SPECIES
-=======
+# Diaporthe polygoni Rehm SPECIES
 
 #### Status
 ACCEPTED

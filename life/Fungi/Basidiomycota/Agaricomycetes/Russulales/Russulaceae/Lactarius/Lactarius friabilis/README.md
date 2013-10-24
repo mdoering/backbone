@@ -1,5 +1,4 @@
-Lactarius friabilis H.T. Le & Stubbe SPECIES
-=======
+# Lactarius friabilis H.T. Le & Stubbe SPECIES
 
 #### Status
 ACCEPTED

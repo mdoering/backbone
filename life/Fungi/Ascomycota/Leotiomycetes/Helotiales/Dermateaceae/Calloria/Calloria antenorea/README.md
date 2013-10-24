@@ -1,5 +1,4 @@
-Calloria antenorea Sacc. SPECIES
-=======
+# Calloria antenorea Sacc. SPECIES
 
 #### Status
 ACCEPTED

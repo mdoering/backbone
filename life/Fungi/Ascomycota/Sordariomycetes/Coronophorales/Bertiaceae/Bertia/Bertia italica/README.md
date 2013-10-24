@@ -1,5 +1,4 @@
-Bertia italica Sacc. & Speg. SPECIES
-=======
+# Bertia italica Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

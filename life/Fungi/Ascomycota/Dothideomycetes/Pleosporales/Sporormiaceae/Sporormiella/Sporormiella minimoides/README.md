@@ -1,14 +1,13 @@
-Preussia minimoides (S.I. Ahmed & Cain) Valldos. & Guarro, 1990 SPECIES
-=======
+# Sporormiella minimoides S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. Micol. Madrid 14: 88 (1990)
+Can. J. Bot. 50(3): 450 (1972)
 
 #### Original name
 Sporormiella minimoides S.I. Ahmed & Cain, 1972

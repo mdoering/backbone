@@ -1,5 +1,4 @@
-Diplodia fabriciae Alcalde SPECIES
-=======
+# Diplodia fabriciae Alcalde SPECIES
 
 #### Status
 ACCEPTED

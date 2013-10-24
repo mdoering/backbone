@@ -1,5 +1,4 @@
-Graphis subobtecta Nyl. SPECIES
-=======
+# Graphis subobtecta Nyl. SPECIES
 
 #### Status
 ACCEPTED

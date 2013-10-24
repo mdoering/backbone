@@ -1,5 +1,4 @@
-Allokutzneria Labeda & Kroppenstedt, 2008 GENUS
-=======
+# Allokutzneria Labeda & Kroppenstedt, 2008 GENUS
 
 #### Status
 ACCEPTED

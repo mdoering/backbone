@@ -1,5 +1,4 @@
-Euplotopsis Borror & Hill, 1995 GENUS
-=======
+# Euplotopsis Borror & Hill, 1995 GENUS
 
 #### Status
 ACCEPTED

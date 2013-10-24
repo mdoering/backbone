@@ -1,14 +1,13 @@
-Dactylella helminthodes Drechsler, 1952 SPECIES
-=======
+# Brachyphoris helminthodes (Drechsler) Juan Chen, L.L. Xu, B. Liu & Xing Z. Liu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 44(4): 553 (1952)
+Fungal Diversity 26(1): 121 (2007)
 
 #### Original name
 Dactylella helminthodes Drechsler, 1952

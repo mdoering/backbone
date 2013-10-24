@@ -1,5 +1,4 @@
-Leptogium callithamnium (Taylor) Nyl. SPECIES
-=======
+# Leptogium callithamnium (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

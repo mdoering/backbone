@@ -1,5 +1,4 @@
-Botrytis sonchina Xue Y. Wang, L.X. Zhang & Z.Y. Zhang SPECIES
-=======
+# Botrytis sonchina Xue Y. Wang, L.X. Zhang & Z.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

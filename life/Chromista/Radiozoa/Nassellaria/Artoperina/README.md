@@ -1,17 +1,16 @@
-Artopera Haeckel, 1881 GENUS
-=======
+# Artoperina Campbell, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Jena. Z. Naturw. , 15, 438.
+J. Paleont. , 25, 529.
 
 #### Original name
-null
+Artopera Haeckel, 1881
 
 ### Remarks
 null

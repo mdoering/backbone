@@ -1,5 +1,4 @@
-Valsa leucostomoides Peck SPECIES
-=======
+# Valsa leucostomoides Peck SPECIES
 
 #### Status
 ACCEPTED

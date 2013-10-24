@@ -1,5 +1,4 @@
-Gibberella hostae Geiser & Juba SPECIES
-=======
+# Gibberella hostae Geiser & Juba SPECIES
 
 #### Status
 ACCEPTED

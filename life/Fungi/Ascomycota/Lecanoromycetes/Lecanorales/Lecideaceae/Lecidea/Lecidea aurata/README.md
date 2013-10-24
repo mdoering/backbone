@@ -1,5 +1,4 @@
-Lecidea aurata (Mont. & Bosch) Overeem SPECIES
-=======
+# Lecidea aurata (Mont. & Bosch) Overeem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tanyosphaeridium variecalamum Davey & Williams, 1966 SPECIES
-=======
+# Tanyosphaeridium variecalamum Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

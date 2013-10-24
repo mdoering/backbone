@@ -1,5 +1,4 @@
-Graphis subducta Vain. SPECIES
-=======
+# Graphis subducta Vain. SPECIES
 
 #### Status
 ACCEPTED

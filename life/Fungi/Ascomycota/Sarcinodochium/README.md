@@ -1,5 +1,4 @@
-Sarcinodochium Höhn. GENUS
-=======
+# Sarcinodochium Höhn. GENUS
 
 #### Status
 ACCEPTED

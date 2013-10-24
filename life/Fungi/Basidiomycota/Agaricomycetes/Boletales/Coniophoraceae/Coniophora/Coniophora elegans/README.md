@@ -1,5 +1,4 @@
-Coniophora elegans (Morgan) Höhn. SPECIES
-=======
+# Coniophora elegans (Morgan) Höhn. SPECIES
 
 #### Status
 ACCEPTED

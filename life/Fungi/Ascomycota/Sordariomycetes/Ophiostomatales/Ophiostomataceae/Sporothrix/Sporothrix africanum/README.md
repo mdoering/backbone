@@ -1,5 +1,4 @@
-Sporothrix africanum G.J. Marais & M.J. Wingf. SPECIES
-=======
+# Sporothrix africanum G.J. Marais & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

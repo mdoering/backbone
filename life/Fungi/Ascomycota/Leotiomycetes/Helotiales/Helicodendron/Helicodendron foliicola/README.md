@@ -1,5 +1,4 @@
-Helicodendron foliicola Abdullah SPECIES
-=======
+# Helicodendron foliicola Abdullah SPECIES
 
 #### Status
 ACCEPTED

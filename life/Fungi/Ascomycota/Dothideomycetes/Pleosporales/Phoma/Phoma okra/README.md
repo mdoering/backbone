@@ -1,5 +1,4 @@
-Phoma okra Cooke SPECIES
-=======
+# Phoma okra Cooke SPECIES
 
 #### Status
 ACCEPTED

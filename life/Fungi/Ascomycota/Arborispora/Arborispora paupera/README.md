@@ -1,5 +1,4 @@
-Arborispora paupera Marvanová & Bärl. SPECIES
-=======
+# Arborispora paupera Marvanová & Bärl. SPECIES
 
 #### Status
 ACCEPTED

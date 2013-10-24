@@ -1,5 +1,4 @@
-Lecidea lojkana (J. Lahm) SPECIES
-=======
+# Lecidea lojkana (J. Lahm) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saragassephelota GENUS
-=======
+# Saragassephelota GENUS
 
 #### Status
 ACCEPTED

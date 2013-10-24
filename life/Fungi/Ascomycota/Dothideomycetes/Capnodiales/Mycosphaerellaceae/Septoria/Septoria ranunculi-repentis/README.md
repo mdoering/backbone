@@ -1,5 +1,4 @@
-Septoria ranunculi-repentis Unamuno SPECIES
-=======
+# Septoria ranunculi-repentis Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia passiflorae Penz. & Sacc. SPECIES
-=======
+# Diplodia passiflorae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

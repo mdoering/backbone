@@ -1,5 +1,4 @@
-Porina epigaeiza (Nyl.) Zahlbr. SPECIES
-=======
+# Porina epigaeiza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

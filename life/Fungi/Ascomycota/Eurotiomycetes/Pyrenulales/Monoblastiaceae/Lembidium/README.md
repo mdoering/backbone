@@ -1,5 +1,4 @@
-Lembidium GENUS
-=======
+# Lembidium GENUS
 
 #### Status
 ACCEPTED

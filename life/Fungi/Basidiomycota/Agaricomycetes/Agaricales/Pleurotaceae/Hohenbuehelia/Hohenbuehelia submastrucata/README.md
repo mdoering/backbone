@@ -1,5 +1,4 @@
-Hohenbuehelia submastrucata (Henn.) Singer SPECIES
-=======
+# Hohenbuehelia submastrucata (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triplagia Haeckel, 1881 GENUS
-=======
+# Triplagia Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

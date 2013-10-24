@@ -1,5 +1,4 @@
-Agaricus amanitoides Krombh. SPECIES
-=======
+# Agaricus amanitoides Krombh. SPECIES
 
 #### Status
 ACCEPTED

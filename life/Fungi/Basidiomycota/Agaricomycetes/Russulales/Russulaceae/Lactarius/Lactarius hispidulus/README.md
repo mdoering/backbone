@@ -1,5 +1,4 @@
-Lactarius hispidulus R. Heim SPECIES
-=======
+# Lactarius hispidulus R. Heim SPECIES
 
 #### Status
 ACCEPTED

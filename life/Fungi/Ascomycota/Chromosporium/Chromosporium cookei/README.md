@@ -1,5 +1,4 @@
-Chromosporium cookei Sacc. SPECIES
-=======
+# Chromosporium cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

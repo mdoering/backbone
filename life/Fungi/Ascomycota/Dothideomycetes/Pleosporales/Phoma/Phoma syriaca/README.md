@@ -1,5 +1,4 @@
-Phoma syriaca (Petr.) Boerema, Loer. & Hamers SPECIES
-=======
+# Phoma syriaca (Petr.) Boerema, Loer. & Hamers SPECIES
 
 #### Status
 ACCEPTED

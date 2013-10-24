@@ -1,5 +1,4 @@
-Idriella setiformis R.F. Castañeda & G.R.W. Arnold SPECIES
-=======
+# Idriella setiformis R.F. Castañeda & G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

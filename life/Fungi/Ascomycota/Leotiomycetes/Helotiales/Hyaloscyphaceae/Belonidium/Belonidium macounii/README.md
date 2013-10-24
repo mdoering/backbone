@@ -1,5 +1,4 @@
-Belonidium macounii Dearn. SPECIES
-=======
+# Belonidium macounii Dearn. SPECIES
 
 #### Status
 ACCEPTED

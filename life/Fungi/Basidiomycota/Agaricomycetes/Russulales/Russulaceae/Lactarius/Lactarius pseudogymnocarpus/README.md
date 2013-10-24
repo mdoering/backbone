@@ -1,5 +1,4 @@
-Lactarius pseudogymnocarpus Verbeken SPECIES
-=======
+# Lactarius pseudogymnocarpus Verbeken SPECIES
 
 #### Status
 ACCEPTED

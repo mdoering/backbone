@@ -1,5 +1,4 @@
-Echinochaetomium tarraconensis ined. SPECIES
-=======
+# Echinochaetomium tarraconensis ined. SPECIES
 
 #### Status
 ACCEPTED

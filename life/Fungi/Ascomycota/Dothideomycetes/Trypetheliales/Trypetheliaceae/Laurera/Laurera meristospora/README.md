@@ -1,14 +1,13 @@
-Trypethelium meristosporum Mont. & Bosch SPECIES
-=======
+# Laurera meristospora (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 505 (1922)
 
 #### Original name
 Trypethelium meristosporum Mont. & Bosch

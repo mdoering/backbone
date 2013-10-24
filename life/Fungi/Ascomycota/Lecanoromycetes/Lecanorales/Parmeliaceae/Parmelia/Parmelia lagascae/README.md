@@ -1,5 +1,4 @@
-Parmelia lagascae (Ach.) Spreng. SPECIES
-=======
+# Parmelia lagascae (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermatodium glabrum (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium glabrum (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

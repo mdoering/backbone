@@ -1,5 +1,4 @@
-Wrightoporia labyrinthina T. Hatt. SPECIES
-=======
+# Wrightoporia labyrinthina T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

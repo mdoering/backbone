@@ -1,5 +1,4 @@
-Amandinea subplicata (Nyl.) Øvstedal SPECIES
-=======
+# Amandinea subplicata (Nyl.) Øvstedal SPECIES
 
 #### Status
 ACCEPTED

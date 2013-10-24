@@ -1,5 +1,4 @@
-Trachelomonas schewiakoffii var. polonica (Koczwara) Skvortzov VARIETY
-=======
+# Trachelomonas schewiakoffii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

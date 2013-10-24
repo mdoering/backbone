@@ -1,5 +1,4 @@
-Diconodinium Eisenack & Cookson, 1960 GENUS
-=======
+# Diconodinium Eisenack & Cookson, 1960 GENUS
 
 #### Status
 ACCEPTED

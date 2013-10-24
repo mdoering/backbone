@@ -1,5 +1,4 @@
-Lecidea thysanota Tuck. SPECIES
-=======
+# Lecidea thysanota Tuck. SPECIES
 
 #### Status
 ACCEPTED

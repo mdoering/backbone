@@ -1,5 +1,4 @@
-Sphaerella najas Sacc. SPECIES
-=======
+# Sphaerella najas Sacc. SPECIES
 
 #### Status
 ACCEPTED

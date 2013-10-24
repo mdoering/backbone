@@ -1,5 +1,4 @@
-Penicillium cuprophilum Sato {?} SPECIES
-=======
+# Penicillium cuprophilum Sato {?} SPECIES
 
 #### Status
 ACCEPTED

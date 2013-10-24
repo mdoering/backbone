@@ -1,5 +1,4 @@
-Actinocatenispora Thawai et al., 2006 GENUS
-=======
+# Actinocatenispora Thawai et al., 2006 GENUS
 
 #### Status
 ACCEPTED

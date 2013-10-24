@@ -1,5 +1,4 @@
-Limacinia spongiosa G. Arnaud SPECIES
-=======
+# Limacinia spongiosa G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

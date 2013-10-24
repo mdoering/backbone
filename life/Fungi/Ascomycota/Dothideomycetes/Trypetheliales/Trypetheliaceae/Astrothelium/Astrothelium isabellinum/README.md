@@ -1,5 +1,4 @@
-Astrothelium isabellinum Eschw. SPECIES
-=======
+# Astrothelium isabellinum Eschw. SPECIES
 
 #### Status
 ACCEPTED

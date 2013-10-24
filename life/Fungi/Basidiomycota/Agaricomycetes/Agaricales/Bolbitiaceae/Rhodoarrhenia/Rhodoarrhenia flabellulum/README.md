@@ -1,8 +1,7 @@
-Arrhenia flabellulum (Berk. & M.A. Curtis ex Cooke) Dennis, 1952 SPECIES
-=======
+# Rhodoarrhenia flabellulum (Berk. & M.A. Curtis ex Cooke) Singer, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

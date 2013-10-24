@@ -1,17 +1,16 @@
-Peziza lilacina var. lilacina VARIETY
-=======
+# Peziza moseri Aviz.-Hersh. & Nemlich, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Israel J. Bot. 23(3): 157 (1974)
 
 #### Original name
-Peziza lilacina var. lilacina
+Peziza moseri Aviz.-Hersh. & Nemlich, 1974
 
 ### Remarks
 null

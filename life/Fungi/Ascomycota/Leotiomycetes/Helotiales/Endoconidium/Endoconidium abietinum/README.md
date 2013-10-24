@@ -1,5 +1,4 @@
-Endoconidium abietinum Höhn. SPECIES
-=======
+# Endoconidium abietinum Höhn. SPECIES
 
 #### Status
 ACCEPTED

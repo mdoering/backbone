@@ -1,5 +1,4 @@
-Helminthosporium albiziae Petch SPECIES
-=======
+# Helminthosporium albiziae Petch SPECIES
 
 #### Status
 ACCEPTED

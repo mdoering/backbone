@@ -1,5 +1,4 @@
-Fistulariella pitardii (Hue) Bowler & Rundel SPECIES
-=======
+# Fistulariella pitardii (Hue) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

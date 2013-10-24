@@ -1,5 +1,4 @@
-Crepidotus pezizoides Nees SPECIES
-=======
+# Crepidotus pezizoides Nees SPECIES
 
 #### Status
 ACCEPTED

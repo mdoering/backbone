@@ -1,5 +1,4 @@
-Trogia umbrinoalba Corner SPECIES
-=======
+# Trogia umbrinoalba Corner SPECIES
 
 #### Status
 ACCEPTED

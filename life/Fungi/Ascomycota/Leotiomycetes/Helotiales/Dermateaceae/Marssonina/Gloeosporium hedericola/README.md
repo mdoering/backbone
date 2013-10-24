@@ -1,5 +1,4 @@
-Gloeosporium hedericola Maubl. SPECIES
-=======
+# Gloeosporium hedericola Maubl. SPECIES
 
 #### Status
 ACCEPTED

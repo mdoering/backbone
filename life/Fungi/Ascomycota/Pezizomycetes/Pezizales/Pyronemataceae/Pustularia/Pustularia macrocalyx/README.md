@@ -1,5 +1,4 @@
-Pustularia macrocalyx (Riess) Hazsl. SPECIES
-=======
+# Pustularia macrocalyx (Riess) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

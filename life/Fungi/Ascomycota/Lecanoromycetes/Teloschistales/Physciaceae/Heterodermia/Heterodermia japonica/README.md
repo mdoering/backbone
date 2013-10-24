@@ -1,14 +1,13 @@
-Anaptychia japonica (M. Satô) Kurok. SPECIES
-=======
+# Heterodermia japonica (M. Satô) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 6: 58 (1962)
+Lichenologist 8: 122 (1976)
 
 #### Original name
 Anaptychia dendritica var. japonica M. Satô

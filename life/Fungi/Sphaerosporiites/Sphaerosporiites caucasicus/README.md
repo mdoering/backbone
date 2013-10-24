@@ -1,5 +1,4 @@
-Sphaerosporiites caucasicus Babajan & Tasl. SPECIES
-=======
+# Sphaerosporiites caucasicus Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

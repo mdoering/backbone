@@ -1,17 +1,16 @@
-Cerinomyces crustulinus var. latisporus B. de Vries, 1987 VARIETY
-=======
+# Cerinomyces crustulinus (Bourdot & Galzin) G.W. Martin, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(1): 86 (1987)
+Mycologia 41(1): 85 (1949)
 
 #### Original name
-Cerinomyces crustulinus var. latisporus B. de Vries, 1987
+Ceracea crustulina Bourdot & Galzin, 1923
 
 ### Remarks
 null

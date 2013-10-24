@@ -1,8 +1,7 @@
-Streptosporangium corrugatum Williams and Sharples, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Acrocarpospora corrugata (Williams & Sharples, 1976) Tamura et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

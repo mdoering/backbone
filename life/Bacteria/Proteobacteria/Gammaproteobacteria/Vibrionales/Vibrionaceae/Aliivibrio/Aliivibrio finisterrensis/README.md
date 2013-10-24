@@ -1,5 +1,4 @@
-Aliivibrio finisterrensis Beaz-Hidalgo, Doce, Balboa, Barja & Romalde, 2010 SPECIES
-=======
+# Aliivibrio finisterrensis Beaz-Hidalgo, Doce, Balboa, Barja & Romalde, 2010 SPECIES
 
 #### Status
 ACCEPTED

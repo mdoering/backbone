@@ -1,5 +1,4 @@
-Peziza sulcipes Berk. SPECIES
-=======
+# Peziza sulcipes Berk. SPECIES
 
 #### Status
 ACCEPTED

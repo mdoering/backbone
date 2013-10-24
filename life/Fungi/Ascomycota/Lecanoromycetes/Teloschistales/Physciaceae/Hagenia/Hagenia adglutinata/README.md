@@ -1,5 +1,4 @@
-Hagenia adglutinata SPECIES
-=======
+# Hagenia adglutinata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schulzeria candida Beeli SPECIES
-=======
+# Schulzeria candida Beeli SPECIES
 
 #### Status
 ACCEPTED

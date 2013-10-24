@@ -1,5 +1,4 @@
-Aposphaeria collabens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Aposphaeria collabens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

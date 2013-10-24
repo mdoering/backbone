@@ -1,14 +1,13 @@
-Fibuloporia cremea Parmasto, 1963 SPECIES
-=======
+# Ceriporiopsis cremea (Parmasto) Ryvarden, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Issled. Prirody Dal'nego Rostoka 255 (1963)
+in Ryvarden, Xu & Zhao, Acta Mycol. Sin. 5(4): 227 (1986)
 
 #### Original name
 Fibuloporia cremea Parmasto, 1963

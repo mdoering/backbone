@@ -1,5 +1,4 @@
-Periconia nigriceps (Peck) Sacc. SPECIES
-=======
+# Periconia nigriceps (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

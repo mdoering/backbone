@@ -1,5 +1,4 @@
-Asterula punctiformis Lév. SPECIES
-=======
+# Asterula punctiformis Lév. SPECIES
 
 #### Status
 ACCEPTED

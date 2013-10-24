@@ -1,5 +1,4 @@
-Hygrophorus pseudolucorum A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus pseudolucorum A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

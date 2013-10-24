@@ -1,5 +1,4 @@
-Trogia buccinalis (Mont.) Pat. SPECIES
-=======
+# Trogia buccinalis (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

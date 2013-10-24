@@ -1,5 +1,4 @@
-Cyathus poeppigii Tul. & C. Tul. SPECIES
-=======
+# Cyathus poeppigii Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

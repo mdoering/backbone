@@ -1,5 +1,4 @@
-Fusisporium cucurbitariae Pat. SPECIES
-=======
+# Fusisporium cucurbitariae Pat. SPECIES
 
 #### Status
 ACCEPTED

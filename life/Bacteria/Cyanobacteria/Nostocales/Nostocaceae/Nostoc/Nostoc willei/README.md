@@ -1,5 +1,4 @@
-Nostoc willei Gardner SPECIES
-=======
+# Nostoc willei Gardner SPECIES
 
 #### Status
 ACCEPTED

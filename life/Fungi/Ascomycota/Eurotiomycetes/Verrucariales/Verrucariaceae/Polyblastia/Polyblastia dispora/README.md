@@ -1,5 +1,4 @@
-Polyblastia dispora Müll. Arg. SPECIES
-=======
+# Polyblastia dispora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

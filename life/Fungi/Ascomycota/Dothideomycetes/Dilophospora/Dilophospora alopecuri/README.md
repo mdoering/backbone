@@ -1,17 +1,16 @@
-Dilophospora holci Fuckel, 1861 SPECIES
-=======
+# Dilophospora alopecuri (Fr.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 419 (1849)
 
 #### Original name
-Dilophospora holci Fuckel, 1861
+Sphaeria alopecuri Fr., 1828
 
 ### Remarks
 null

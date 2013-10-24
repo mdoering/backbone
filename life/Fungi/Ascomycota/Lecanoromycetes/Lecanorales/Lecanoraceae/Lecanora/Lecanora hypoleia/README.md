@@ -1,5 +1,4 @@
-Lecanora hypoleia H. Magn. SPECIES
-=======
+# Lecanora hypoleia H. Magn. SPECIES
 
 #### Status
 ACCEPTED

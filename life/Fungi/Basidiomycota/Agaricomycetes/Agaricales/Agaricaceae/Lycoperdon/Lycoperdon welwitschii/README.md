@@ -1,5 +1,4 @@
-Lycoperdon welwitschii Massee SPECIES
-=======
+# Lycoperdon welwitschii Massee SPECIES
 
 #### Status
 ACCEPTED

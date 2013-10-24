@@ -1,5 +1,4 @@
-Sphaerodes tenuissima Dania García, Stchigel & Guarro SPECIES
-=======
+# Sphaerodes tenuissima Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

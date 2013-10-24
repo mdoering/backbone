@@ -1,5 +1,4 @@
-Lactarius tanzanicus Karhula & Verbeken SPECIES
-=======
+# Lactarius tanzanicus Karhula & Verbeken SPECIES
 
 #### Status
 ACCEPTED

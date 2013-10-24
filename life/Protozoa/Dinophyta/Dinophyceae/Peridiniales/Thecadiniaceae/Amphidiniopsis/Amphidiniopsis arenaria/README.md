@@ -1,5 +1,4 @@
-Amphidiniopsis arenaria M. Hoppenrath SPECIES
-=======
+# Amphidiniopsis arenaria M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

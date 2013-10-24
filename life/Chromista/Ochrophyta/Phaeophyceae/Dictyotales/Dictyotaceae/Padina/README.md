@@ -1,14 +1,13 @@
-Dictyerpa F.S.Collins & Hervey, 1901 GENUS
-=======
+# Padina Adans. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Adanson, M. (1763). Familles des plantes. Vincent: Paris, France. 2 vol. pp.
 
 #### Original name
 null

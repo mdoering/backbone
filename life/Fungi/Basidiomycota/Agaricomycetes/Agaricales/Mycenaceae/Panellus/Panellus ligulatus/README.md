@@ -1,5 +1,4 @@
-Panellus ligulatus E. Horak, 1983 SPECIES
-=======
+# Panellus ligulatus E. Horak, 1983 SPECIES
 
 #### Status
 ACCEPTED

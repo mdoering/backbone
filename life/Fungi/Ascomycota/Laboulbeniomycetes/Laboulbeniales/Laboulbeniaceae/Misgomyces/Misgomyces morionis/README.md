@@ -1,5 +1,4 @@
-Misgomyces morionis Thaxt. SPECIES
-=======
+# Misgomyces morionis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

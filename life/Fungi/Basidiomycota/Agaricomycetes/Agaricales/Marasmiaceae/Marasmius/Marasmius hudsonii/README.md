@@ -1,17 +1,16 @@
-Agaricus hudsonii hudsonii Pers., 1801 INFRASPECIFIC_NAME
-=======
+# Marasmius hudsonii (Pers.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 386 (1838)
 
 #### Original name
-null
+Agaricus hudsonii Pers., 1801
 
 ### Remarks
 null

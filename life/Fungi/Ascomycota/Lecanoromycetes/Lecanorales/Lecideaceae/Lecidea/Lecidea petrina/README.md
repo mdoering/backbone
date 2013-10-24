@@ -1,5 +1,4 @@
-Lecidea petrina Nyl. SPECIES
-=======
+# Lecidea petrina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ternella Nyl. SPECIES
-=======
+# Lecidea ternella Nyl. SPECIES
 
 #### Status
 ACCEPTED

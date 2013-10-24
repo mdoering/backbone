@@ -1,5 +1,4 @@
-Scyphidia gammaricola Dumas, 1929 SPECIES
-=======
+# Scyphidia gammaricola Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

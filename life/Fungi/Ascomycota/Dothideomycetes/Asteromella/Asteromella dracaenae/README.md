@@ -1,5 +1,4 @@
-Asteromella dracaenae (Henn.) Aa SPECIES
-=======
+# Asteromella dracaenae (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

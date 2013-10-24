@@ -1,5 +1,4 @@
-Deviata rositae Küppers, Lopretto & Claps, 2007 SPECIES
-=======
+# Deviata rositae Küppers, Lopretto & Claps, 2007 SPECIES
 
 #### Status
 ACCEPTED

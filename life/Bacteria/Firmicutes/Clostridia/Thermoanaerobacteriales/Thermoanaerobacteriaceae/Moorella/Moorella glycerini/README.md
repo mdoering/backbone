@@ -1,5 +1,4 @@
-Moorella glycerini Slobodkin et al., 1997 SPECIES
-=======
+# Moorella glycerini Slobodkin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

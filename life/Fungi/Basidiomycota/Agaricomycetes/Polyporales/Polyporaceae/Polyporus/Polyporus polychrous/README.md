@@ -1,5 +1,4 @@
-Polyporus polychrous f. polychrous FORM
-=======
+# Polyporus polychrous Ces. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Atti Accad. Sci. fis. mat. Napoli 8(8): 4 (1879)
 
 #### Original name
-Polyporus polychrous f. polychrous
+Polyporus polychrous Ces.
 
 ### Remarks
 null

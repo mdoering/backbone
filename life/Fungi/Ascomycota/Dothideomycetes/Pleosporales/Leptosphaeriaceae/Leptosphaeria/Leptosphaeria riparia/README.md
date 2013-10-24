@@ -1,5 +1,4 @@
-Leptosphaeria riparia Sacc. SPECIES
-=======
+# Leptosphaeria riparia Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterolepidina GENUS
-=======
+# Asterolepidina GENUS
 
 #### Status
 ACCEPTED

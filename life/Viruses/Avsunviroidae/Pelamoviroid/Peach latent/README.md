@@ -1,5 +1,4 @@
-Peach latent SPECIES
-=======
+# Peach latent SPECIES
 
 #### Status
 ACCEPTED

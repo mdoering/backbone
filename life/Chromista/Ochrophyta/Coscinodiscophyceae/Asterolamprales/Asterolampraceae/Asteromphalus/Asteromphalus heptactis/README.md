@@ -1,8 +1,7 @@
-Asteromphalus reticulatus Cleve SPECIES
-=======
+# Asteromphalus heptactis (Brébisson) Ralfs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

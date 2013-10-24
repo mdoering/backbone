@@ -1,5 +1,4 @@
-Chlorocyphella GENUS
-=======
+# Chlorocyphella GENUS
 
 #### Status
 ACCEPTED

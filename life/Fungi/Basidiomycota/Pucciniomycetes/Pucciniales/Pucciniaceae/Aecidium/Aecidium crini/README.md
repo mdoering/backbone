@@ -1,5 +1,4 @@
-Aecidium crini Kalchbr. SPECIES
-=======
+# Aecidium crini Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

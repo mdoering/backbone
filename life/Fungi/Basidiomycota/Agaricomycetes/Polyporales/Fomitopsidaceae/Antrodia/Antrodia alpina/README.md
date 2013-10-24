@@ -1,17 +1,16 @@
-Poria alpina f. alpina Litsch. FORM
-=======
+# Antrodia alpina (Litsch.) Gilb. & Ryvarden, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 88: 143 (1939)
+Mycotaxon 22(2): 363 (1985)
 
 #### Original name
-Poria alpina f. alpina Litsch.
+Poria alpina Litsch., 1939
 
 ### Remarks
 null

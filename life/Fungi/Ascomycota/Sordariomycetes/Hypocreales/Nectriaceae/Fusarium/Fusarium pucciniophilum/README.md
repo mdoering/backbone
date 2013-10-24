@@ -1,5 +1,4 @@
-Fusarium pucciniophilum Sacc. & P. Syd. SPECIES
-=======
+# Fusarium pucciniophilum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

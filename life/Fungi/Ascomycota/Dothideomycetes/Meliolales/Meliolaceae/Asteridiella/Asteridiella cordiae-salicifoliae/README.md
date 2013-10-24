@@ -1,5 +1,4 @@
-Asteridiella cordiae-salicifoliae Hansf. SPECIES
-=======
+# Asteridiella cordiae-salicifoliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

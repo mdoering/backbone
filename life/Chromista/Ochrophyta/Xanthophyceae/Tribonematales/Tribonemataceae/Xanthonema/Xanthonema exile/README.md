@@ -1,8 +1,7 @@
-Heterothrix exilis (G.A.Klebs) Pascher SPECIES
-=======
+# Xanthonema exile (G.A. Klebs) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

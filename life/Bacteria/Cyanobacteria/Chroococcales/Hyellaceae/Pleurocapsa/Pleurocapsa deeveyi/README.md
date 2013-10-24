@@ -1,5 +1,4 @@
-Pleurocapsa deeveyi Drouet SPECIES
-=======
+# Pleurocapsa deeveyi Drouet SPECIES
 
 #### Status
 ACCEPTED

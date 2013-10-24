@@ -1,5 +1,4 @@
-Physarum caelatum Ehrenb. SPECIES
-=======
+# Physarum caelatum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

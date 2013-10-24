@@ -1,5 +1,4 @@
-Amanita cryptoleuca E.H.L. Krause SPECIES
-=======
+# Amanita cryptoleuca E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

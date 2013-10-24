@@ -1,5 +1,4 @@
-Porina granulata Hook. f. & Taylor SPECIES
-=======
+# Porina granulata Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

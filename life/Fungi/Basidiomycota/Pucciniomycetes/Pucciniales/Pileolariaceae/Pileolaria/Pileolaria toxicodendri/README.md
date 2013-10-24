@@ -1,5 +1,4 @@
-Pileolaria toxicodendri (Berk. & Ravenel) Arthur SPECIES
-=======
+# Pileolaria toxicodendri (Berk. & Ravenel) Arthur SPECIES
 
 #### Status
 ACCEPTED

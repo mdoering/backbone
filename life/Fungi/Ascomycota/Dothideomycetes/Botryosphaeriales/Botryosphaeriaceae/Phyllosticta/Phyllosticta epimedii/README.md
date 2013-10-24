@@ -1,5 +1,4 @@
-Phyllosticta epimedii Sacc. SPECIES
-=======
+# Phyllosticta epimedii Sacc. SPECIES
 
 #### Status
 ACCEPTED

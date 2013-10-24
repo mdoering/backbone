@@ -1,5 +1,4 @@
-Bjerkandera alba (Huds.) P. Karst. SPECIES
-=======
+# Bjerkandera alba (Huds.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

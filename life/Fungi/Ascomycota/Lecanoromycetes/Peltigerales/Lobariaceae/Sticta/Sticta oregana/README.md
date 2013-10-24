@@ -1,5 +1,4 @@
-Sticta oregana Tuck. SPECIES
-=======
+# Sticta oregana Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora utahensis H. Magn. SPECIES
-=======
+# Lecanora utahensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

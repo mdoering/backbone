@@ -1,5 +1,4 @@
-Micropeltidium dignotum (Bat.) Bat. SPECIES
-=======
+# Micropeltidium dignotum (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

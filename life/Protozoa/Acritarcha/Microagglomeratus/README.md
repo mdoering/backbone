@@ -1,5 +1,4 @@
-Microagglomeratus Awramik in Allison & Awramik, 1989 GENUS
-=======
+# Microagglomeratus Awramik in Allison & Awramik, 1989 GENUS
 
 #### Status
 ACCEPTED

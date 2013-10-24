@@ -1,5 +1,4 @@
-Physma omphalarioides (Anzi) Arnold SPECIES
-=======
+# Physma omphalarioides (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

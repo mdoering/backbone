@@ -1,5 +1,4 @@
-Coniothyrium peregrinum (P. Karst.) Kuntze SPECIES
-=======
+# Coniothyrium peregrinum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

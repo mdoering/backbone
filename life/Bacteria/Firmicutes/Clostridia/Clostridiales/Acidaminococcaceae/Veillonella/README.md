@@ -1,5 +1,4 @@
-Veillonella GENUS
-=======
+# Veillonella GENUS
 
 #### Status
 ACCEPTED

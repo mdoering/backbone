@@ -1,5 +1,4 @@
-Tremella tremula (Holmsk.) Nees SPECIES
-=======
+# Tremella tremula (Holmsk.) Nees SPECIES
 
 #### Status
 ACCEPTED

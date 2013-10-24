@@ -1,8 +1,7 @@
-Hebeloma fastibile var. fastibile (Pers.) P. Kumm., 1871 VARIETY
-=======
+# Hebeloma fastibile (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Führ. Pilzk. (Zwickau) 80 (1871)
 
 #### Original name
-Hebeloma fastibile var. fastibile (Pers.) P. Kumm., 1871
+Agaricus fastibilis Pers., 1801
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichoconiella GENUS
-=======
+# Trichoconiella GENUS
 
 #### Status
 ACCEPTED

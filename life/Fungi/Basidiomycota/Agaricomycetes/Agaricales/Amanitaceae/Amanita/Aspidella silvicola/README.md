@@ -1,5 +1,4 @@
-Aspidella silvicola (Kauffman) E.-J. Gilbert SPECIES
-=======
+# Aspidella silvicola (Kauffman) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ruania Gu et al., 2007 GENUS
-=======
+# Ruania Gu et al., 2007 GENUS
 
 #### Status
 ACCEPTED

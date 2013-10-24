@@ -1,14 +1,13 @@
-Asterina juniperina Cooke, 1888 SPECIES
-=======
+# Asteridium juniperinum (Cooke) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 79): 77 (1888)
+Syll. fung. (Abellini) 9: 436 (1891)
 
 #### Original name
 Asterina juniperina Cooke, 1888

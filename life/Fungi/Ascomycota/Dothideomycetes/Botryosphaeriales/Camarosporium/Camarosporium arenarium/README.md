@@ -1,5 +1,4 @@
-Camarosporium arenarium Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Camarosporium arenarium Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

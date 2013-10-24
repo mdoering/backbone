@@ -1,5 +1,4 @@
-Aspicilia mamillata Räsänen SPECIES
-=======
+# Aspicilia mamillata Räsänen SPECIES
 
 #### Status
 ACCEPTED

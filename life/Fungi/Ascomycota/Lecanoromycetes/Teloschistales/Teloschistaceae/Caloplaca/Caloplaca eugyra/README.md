@@ -1,5 +1,4 @@
-Caloplaca eugyra (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca eugyra (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

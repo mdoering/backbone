@@ -1,5 +1,4 @@
-Laboulbenia obliquata Thaxt. SPECIES
-=======
+# Laboulbenia obliquata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

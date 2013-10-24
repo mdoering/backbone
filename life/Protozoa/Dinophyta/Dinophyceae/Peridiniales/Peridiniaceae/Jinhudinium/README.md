@@ -1,5 +1,4 @@
-Jinhudinium Qian, Chen & He, 1986 GENUS
-=======
+# Jinhudinium Qian, Chen & He, 1986 GENUS
 
 #### Status
 ACCEPTED

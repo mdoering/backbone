@@ -1,5 +1,4 @@
-Colletotrichum aloës Bacc. SPECIES
-=======
+# Colletotrichum aloës Bacc. SPECIES
 
 #### Status
 ACCEPTED

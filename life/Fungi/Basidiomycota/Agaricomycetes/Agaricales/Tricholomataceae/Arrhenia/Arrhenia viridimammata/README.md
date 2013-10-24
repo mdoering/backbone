@@ -1,5 +1,4 @@
-Arrhenia viridimammata (Pilát) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia viridimammata (Pilát) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

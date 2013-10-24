@@ -1,5 +1,4 @@
-Phoma pirottae Ferraris SPECIES
-=======
+# Phoma pirottae Ferraris SPECIES
 
 #### Status
 ACCEPTED

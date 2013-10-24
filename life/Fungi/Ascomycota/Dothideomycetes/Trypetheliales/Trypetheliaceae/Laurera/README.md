@@ -1,5 +1,4 @@
-Laurera Rchb. GENUS
-=======
+# Laurera Rchb. GENUS
 
 #### Status
 ACCEPTED

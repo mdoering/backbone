@@ -1,5 +1,4 @@
-Hygrocybe astatogala var. astatogala VARIETY
-=======
+# Hygrocybe astatogala (R. Heim) Heinem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. bot. État Brux. 33: 436 (1963)
 
 #### Original name
-Hygrocybe astatogala var. astatogala
+Bertrandia astatogala R. Heim, 1966
 
 ### Remarks
 null

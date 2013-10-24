@@ -1,14 +1,13 @@
-Boletus roseotinctus (Watling) Hlavácek, 1990 SPECIES
-=======
+# Leccinum roseotinctum Watling, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologický Sborník 67(3): 83 (1990)
+Notes R. bot. Gdn Edinb. 29(2): 267 (1969)
 
 #### Original name
 Leccinum roseotinctum Watling, 1969

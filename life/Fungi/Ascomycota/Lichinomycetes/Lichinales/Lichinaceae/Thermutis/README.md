@@ -1,17 +1,16 @@
-Thermutomyces Cif. & Tomas. GENUS
-=======
+# Thermutis Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 38, 65 (1953)
+Syst. orb. veg. (Lundae) 1: 302 (1825)
 
 #### Original name
-Thermutomyces Cif. & Tomas.
+Thermutis Fr.
 
 ### Remarks
 null

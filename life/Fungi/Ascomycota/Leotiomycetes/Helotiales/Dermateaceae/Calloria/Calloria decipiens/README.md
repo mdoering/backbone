@@ -1,5 +1,4 @@
-Calloria decipiens W. Phillips SPECIES
-=======
+# Calloria decipiens W. Phillips SPECIES
 
 #### Status
 ACCEPTED

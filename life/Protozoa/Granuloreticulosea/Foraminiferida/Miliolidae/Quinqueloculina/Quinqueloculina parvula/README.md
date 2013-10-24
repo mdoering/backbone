@@ -1,5 +1,4 @@
-Quinqueloculina parvula Schlumberger, 1894 SPECIES
-=======
+# Quinqueloculina parvula Schlumberger, 1894 SPECIES
 
 #### Status
 ACCEPTED

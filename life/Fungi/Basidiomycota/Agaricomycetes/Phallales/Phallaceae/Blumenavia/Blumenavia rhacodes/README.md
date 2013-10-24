@@ -1,17 +1,16 @@
-Laternea rhacodes (A. Møller) Lloyd, 1909 SPECIES
-=======
+# Blumenavia rhacodes Möller, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mitt. Trop. 7: (1895)
 
 #### Original name
-null
+Blumenavia rhacodes Möller, 1895
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Discosphaerina stromatica (Fuckel) Petr. SPECIES
-=======
+# Discosphaerina stromatica (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

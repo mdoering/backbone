@@ -1,5 +1,4 @@
-Rhodocybe crystallina T.J. Baroni SPECIES
-=======
+# Rhodocybe crystallina T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

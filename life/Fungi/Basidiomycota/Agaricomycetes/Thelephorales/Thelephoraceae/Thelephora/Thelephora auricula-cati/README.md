@@ -1,5 +1,4 @@
-Thelephora auricula-cati Fr. SPECIES
-=======
+# Thelephora auricula-cati Fr. SPECIES
 
 #### Status
 ACCEPTED

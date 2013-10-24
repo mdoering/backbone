@@ -1,5 +1,4 @@
-Peziza cyanoderma de Bary SPECIES
-=======
+# Peziza cyanoderma de Bary SPECIES
 
 #### Status
 ACCEPTED

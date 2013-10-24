@@ -1,5 +1,4 @@
-Amphisphaeria asteracanthae Tilak & S.B. Kale SPECIES
-=======
+# Amphisphaeria asteracanthae Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus rugosobisporus J. Geesink & Imler SPECIES
-=======
+# Coprinus rugosobisporus J. Geesink & Imler SPECIES
 
 #### Status
 ACCEPTED

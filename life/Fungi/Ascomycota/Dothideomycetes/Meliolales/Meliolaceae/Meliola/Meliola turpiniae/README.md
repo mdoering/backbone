@@ -1,5 +1,4 @@
-Meliola turpiniae (W. Yamam.) Cif. SPECIES
-=======
+# Meliola turpiniae (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

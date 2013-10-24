@@ -1,5 +1,4 @@
-Periconia desmazieri (Corda) Bonord. SPECIES
-=======
+# Periconia desmazieri (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

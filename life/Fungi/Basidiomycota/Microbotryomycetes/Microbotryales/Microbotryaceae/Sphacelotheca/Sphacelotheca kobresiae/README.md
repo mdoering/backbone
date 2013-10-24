@@ -1,5 +1,4 @@
-Sphacelotheca kobresiae (Mundk.) Pavgi & Thirum. SPECIES
-=======
+# Sphacelotheca kobresiae (Mundk.) Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

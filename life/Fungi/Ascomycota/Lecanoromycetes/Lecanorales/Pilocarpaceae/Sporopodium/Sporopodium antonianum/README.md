@@ -1,5 +1,4 @@
-Sporopodium antonianum Elix, Lumbsch & Lücking SPECIES
-=======
+# Sporopodium antonianum Elix, Lumbsch & Lücking SPECIES
 
 #### Status
 ACCEPTED

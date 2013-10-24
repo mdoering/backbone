@@ -1,5 +1,4 @@
-Stereocrea aurantiaca Petch SPECIES
-=======
+# Stereocrea aurantiaca Petch SPECIES
 
 #### Status
 ACCEPTED

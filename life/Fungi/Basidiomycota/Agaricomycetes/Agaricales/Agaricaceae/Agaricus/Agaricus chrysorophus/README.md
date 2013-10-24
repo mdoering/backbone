@@ -1,5 +1,4 @@
-Agaricus chrysorophus Berk. & Broome SPECIES
-=======
+# Agaricus chrysorophus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

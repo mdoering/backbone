@@ -1,5 +1,4 @@
-Hygrocybe mellita Pegler SPECIES
-=======
+# Hygrocybe mellita Pegler SPECIES
 
 #### Status
 ACCEPTED

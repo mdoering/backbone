@@ -1,5 +1,4 @@
-Lycogalopsis leopoldensis Rick SPECIES
-=======
+# Lycogalopsis leopoldensis Rick SPECIES
 
 #### Status
 ACCEPTED

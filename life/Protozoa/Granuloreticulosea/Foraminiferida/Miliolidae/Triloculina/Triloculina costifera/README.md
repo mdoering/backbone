@@ -1,11 +1,10 @@
-Miliolina costifera (Terquem, 1876) SPECIES
-=======
+# Triloculina costifera Terquem, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

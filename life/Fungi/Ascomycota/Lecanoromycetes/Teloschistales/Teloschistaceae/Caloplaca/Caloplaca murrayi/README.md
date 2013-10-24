@@ -1,5 +1,4 @@
-Caloplaca murrayi D. J. Galloway SPECIES
-=======
+# Caloplaca murrayi D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

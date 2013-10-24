@@ -1,5 +1,4 @@
-Pinatubo J.B. Manandhar & Mew GENUS
-=======
+# Pinatubo J.B. Manandhar & Mew GENUS
 
 #### Status
 ACCEPTED

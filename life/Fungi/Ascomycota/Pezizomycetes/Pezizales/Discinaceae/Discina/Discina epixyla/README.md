@@ -1,5 +1,4 @@
-Discina epixyla Pat. SPECIES
-=======
+# Discina epixyla Pat. SPECIES
 
 #### Status
 ACCEPTED

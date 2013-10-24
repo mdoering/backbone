@@ -1,5 +1,4 @@
-Rusavskia muscicola (Jatta) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia muscicola (Jatta) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

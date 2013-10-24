@@ -1,5 +1,4 @@
-Thaxterogaster squamatus Halling SPECIES
-=======
+# Thaxterogaster squamatus Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporoclema Tiesenh. GENUS
-=======
+# Sporoclema Tiesenh. GENUS
 
 #### Status
 ACCEPTED

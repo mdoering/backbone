@@ -1,5 +1,4 @@
-Dasyscyphus dalhousiensis Raitv., K.S. Thind & H. Singh SPECIES
-=======
+# Dasyscyphus dalhousiensis Raitv., K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

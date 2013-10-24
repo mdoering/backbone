@@ -1,5 +1,4 @@
-Ramularia lobeliae Sawada SPECIES
-=======
+# Ramularia lobeliae Sawada SPECIES
 
 #### Status
 ACCEPTED

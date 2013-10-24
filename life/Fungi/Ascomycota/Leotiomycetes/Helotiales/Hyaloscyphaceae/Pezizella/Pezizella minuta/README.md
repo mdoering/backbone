@@ -1,5 +1,4 @@
-Pezizella minuta Dearn. SPECIES
-=======
+# Pezizella minuta Dearn. SPECIES
 
 #### Status
 ACCEPTED

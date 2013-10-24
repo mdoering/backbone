@@ -1,5 +1,4 @@
-Craterellus excelsus T.W. Henkel & Aime SPECIES
-=======
+# Craterellus excelsus T.W. Henkel & Aime SPECIES
 
 #### Status
 ACCEPTED

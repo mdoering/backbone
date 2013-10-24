@@ -1,5 +1,4 @@
-Pertusaria polycarpa var. polycarpa VARIETY
-=======
+# Pertusaria polycarpa Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria polycarpa var. polycarpa
+Pertusaria polycarpa Kremp.
 
 ### Remarks
 null

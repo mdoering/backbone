@@ -1,5 +1,4 @@
-Pilobolus proliferens McVickar SPECIES
-=======
+# Pilobolus proliferens McVickar SPECIES
 
 #### Status
 ACCEPTED

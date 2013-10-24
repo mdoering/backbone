@@ -1,14 +1,13 @@
-Sorosporium kuwanoanum Togashi & Maki, 1940 SPECIES
-=======
+# Ustanciosporium kuwanoanum (Togashi & Maki) Vánky, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. phytopath. Soc. Japan 10: 139 (1940)
+Mycotaxon 81: 425 (2002)
 
 #### Original name
 Sorosporium kuwanoanum Togashi & Maki, 1940

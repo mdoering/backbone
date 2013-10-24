@@ -1,5 +1,4 @@
-Volutella longipila Berk. & M.A. Curtis SPECIES
-=======
+# Volutella longipila Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

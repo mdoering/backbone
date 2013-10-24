@@ -1,5 +1,4 @@
-Catillaria ternella (Nyl.) SPECIES
-=======
+# Catillaria ternella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

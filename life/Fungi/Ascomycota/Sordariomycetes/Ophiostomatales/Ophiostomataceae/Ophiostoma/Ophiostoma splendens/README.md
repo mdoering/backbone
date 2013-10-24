@@ -1,5 +1,4 @@
-Ophiostoma splendens G.J. Marais & M.J. Wingf., 1994 SPECIES
-=======
+# Ophiostoma splendens G.J. Marais & M.J. Wingf., 1994 SPECIES
 
 #### Status
 ACCEPTED

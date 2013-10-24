@@ -1,5 +1,4 @@
-Gloeocystidium griseum Rick SPECIES
-=======
+# Gloeocystidium griseum Rick SPECIES
 
 #### Status
 ACCEPTED

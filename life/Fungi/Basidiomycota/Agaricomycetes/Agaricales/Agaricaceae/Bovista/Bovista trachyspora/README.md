@@ -1,5 +1,4 @@
-Bovista trachyspora (Lloyd) Kreisel SPECIES
-=======
+# Bovista trachyspora (Lloyd) Kreisel SPECIES
 
 #### Status
 ACCEPTED

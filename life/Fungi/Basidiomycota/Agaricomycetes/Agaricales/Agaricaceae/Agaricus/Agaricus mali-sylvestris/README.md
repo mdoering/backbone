@@ -1,5 +1,4 @@
-Agaricus mali-sylvestris With. SPECIES
-=======
+# Agaricus mali-sylvestris With. SPECIES
 
 #### Status
 ACCEPTED

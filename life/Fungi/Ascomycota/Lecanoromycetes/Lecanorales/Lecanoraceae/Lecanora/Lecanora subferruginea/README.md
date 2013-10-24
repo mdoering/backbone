@@ -1,5 +1,4 @@
-Lecanora subferruginea Nyl. SPECIES
-=======
+# Lecanora subferruginea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena polygrammoides Speg. SPECIES
-=======
+# Mycena polygrammoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctis speirea G. Merr. SPECIES
-=======
+# Phlyctis speirea G. Merr. SPECIES
 
 #### Status
 ACCEPTED

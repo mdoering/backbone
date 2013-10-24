@@ -1,5 +1,4 @@
-Meliola drepanochaeta var. drepanochaeta VARIETY
-=======
+# Meliola drepanochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 24: 302 (1926)
 
 #### Original name
-Meliola drepanochaeta var. drepanochaeta
+Meliola drepanochaeta Syd.
 
 ### Remarks
 null

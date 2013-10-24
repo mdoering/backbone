@@ -1,5 +1,4 @@
-Stearophora radicicola L. Mangin & Viala, 1905 SPECIES
-=======
+# Stearophora radicicola L. Mangin & Viala, 1905 SPECIES
 
 #### Status
 ACCEPTED

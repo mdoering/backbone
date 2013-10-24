@@ -1,5 +1,4 @@
-Zopfinula sambucina Kirschst. SPECIES
-=======
+# Zopfinula sambucina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

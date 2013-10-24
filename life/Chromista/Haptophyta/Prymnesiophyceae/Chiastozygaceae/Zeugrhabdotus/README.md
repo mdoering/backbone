@@ -1,14 +1,13 @@
-Rectapontis O. Varol & M. Jakubowski, 1989 GENUS
-=======
+# Zeugrhabdotus P.Reinhardt, 1965 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-INA (Int Nannoplankton Assoc) Newsl 11 (1): 24.
+null
 
 #### Original name
 null

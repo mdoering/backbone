@@ -1,5 +1,4 @@
-Aulacostroma pithyusae Schischkina, 1973 SPECIES
-=======
+# Aulacostroma pithyusae Schischkina, 1973 SPECIES
 
 #### Status
 ACCEPTED

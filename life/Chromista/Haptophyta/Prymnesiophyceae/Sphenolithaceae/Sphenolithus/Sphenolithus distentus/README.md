@@ -1,5 +1,4 @@
-Sphenolithus distentus (Martini, 1965) Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Sphenolithus distentus (Martini, 1965) Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora eucalypticola S.K. Singh & Bhalla SPECIES
-=======
+# Pseudocercospora eucalypticola S.K. Singh & Bhalla SPECIES
 
 #### Status
 ACCEPTED

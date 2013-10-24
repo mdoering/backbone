@@ -1,11 +1,10 @@
-Cladonia amaurocraea subsp. amaurocraea SUBSPECIES
-=======
+# Cladonia amaurocraea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Phyllosticta campestris Pass., 1886 SPECIES
-=======
+# Phyllosticta campestris Pass., 1886 SPECIES
 
 #### Status
 ACCEPTED

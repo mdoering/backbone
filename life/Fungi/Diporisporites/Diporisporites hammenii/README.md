@@ -1,5 +1,4 @@
-Diporisporites hammenii Elsik SPECIES
-=======
+# Diporisporites hammenii Elsik SPECIES
 
 #### Status
 ACCEPTED

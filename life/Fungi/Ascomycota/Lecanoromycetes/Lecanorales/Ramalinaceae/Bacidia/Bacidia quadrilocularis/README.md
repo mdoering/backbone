@@ -1,5 +1,4 @@
-Bacidia quadrilocularis (C. Knight) Zahlbr. SPECIES
-=======
+# Bacidia quadrilocularis (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

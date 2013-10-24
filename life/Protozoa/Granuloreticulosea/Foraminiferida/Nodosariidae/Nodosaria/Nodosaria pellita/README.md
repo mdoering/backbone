@@ -1,5 +1,4 @@
-Nodosaria pellita Heron-Allen & Earland, 1922 SPECIES
-=======
+# Nodosaria pellita Heron-Allen & Earland, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius hymenoluctus Rob. Henry SPECIES
-=======
+# Cortinarius hymenoluctus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harpochytrium appressum Scherff. SPECIES
-=======
+# Harpochytrium appressum Scherff. SPECIES
 
 #### Status
 ACCEPTED

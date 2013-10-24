@@ -1,5 +1,4 @@
-Boletus gabretae Pilát SPECIES
-=======
+# Boletus gabretae Pilát SPECIES
 
 #### Status
 ACCEPTED

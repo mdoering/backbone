@@ -1,5 +1,4 @@
-Sphaeropsis tumefaciens Hedges, 1911 SPECIES
-=======
+# Sphaeropsis tumefaciens Hedges, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favososphaeridium scandicum Timofeev, 1966 SPECIES
-=======
+# Favososphaeridium scandicum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

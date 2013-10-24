@@ -1,5 +1,4 @@
-Thelidium lojkanum Servít SPECIES
-=======
+# Thelidium lojkanum Servít SPECIES
 
 #### Status
 ACCEPTED

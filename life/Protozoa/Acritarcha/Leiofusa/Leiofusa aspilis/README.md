@@ -1,5 +1,4 @@
-Leiofusa aspilis Loeblich, 1970 SPECIES
-=======
+# Leiofusa aspilis Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

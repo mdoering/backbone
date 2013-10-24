@@ -1,5 +1,4 @@
-Lecidea enalla Nyl. SPECIES
-=======
+# Lecidea enalla Nyl. SPECIES
 
 #### Status
 ACCEPTED

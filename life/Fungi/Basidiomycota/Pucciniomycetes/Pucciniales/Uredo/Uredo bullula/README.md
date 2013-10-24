@@ -1,5 +1,4 @@
-Uredo bullula F. Kern SPECIES
-=======
+# Uredo bullula F. Kern SPECIES
 
 #### Status
 ACCEPTED

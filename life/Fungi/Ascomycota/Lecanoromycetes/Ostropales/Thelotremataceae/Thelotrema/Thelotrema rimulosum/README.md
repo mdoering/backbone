@@ -1,5 +1,4 @@
-Thelotrema rimulosum Müll. Arg. SPECIES
-=======
+# Thelotrema rimulosum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora lindericola W. Yamam., 1934 SPECIES
-=======
+# Cercospora lindericola W. Yamam., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium conigenum Peyl SPECIES
-=======
+# Leptothyrium conigenum Peyl SPECIES
 
 #### Status
 ACCEPTED

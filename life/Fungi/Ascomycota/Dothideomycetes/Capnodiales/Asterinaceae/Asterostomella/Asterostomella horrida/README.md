@@ -1,5 +1,4 @@
-Asterostomella horrida Bat. & H. Maia SPECIES
-=======
+# Asterostomella horrida Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

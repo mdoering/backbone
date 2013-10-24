@@ -1,5 +1,4 @@
-Capronia proteae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Capronia proteae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

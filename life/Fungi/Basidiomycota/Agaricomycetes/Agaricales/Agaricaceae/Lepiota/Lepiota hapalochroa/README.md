@@ -1,5 +1,4 @@
-Lepiota hapalochroa Berk. & Broome SPECIES
-=======
+# Lepiota hapalochroa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

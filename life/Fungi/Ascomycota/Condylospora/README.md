@@ -1,5 +1,4 @@
-Condylospora Nawawi GENUS
-=======
+# Condylospora Nawawi GENUS
 
 #### Status
 ACCEPTED

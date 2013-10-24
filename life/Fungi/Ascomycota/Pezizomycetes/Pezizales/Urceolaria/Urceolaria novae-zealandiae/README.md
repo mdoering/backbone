@@ -1,8 +1,7 @@
-Urceolaria novae-zelandiae C. Knight SPECIES
-=======
+# Urceolaria novae-zealandiae C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Urceolaria novae-zelandiae C. Knight
+Urceolaria novae-zealandiae C. Knight
 
 ### Remarks
 null

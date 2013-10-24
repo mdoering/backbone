@@ -1,5 +1,4 @@
-Sphaerostilbe variabilis Berk. & Broome SPECIES
-=======
+# Sphaerostilbe variabilis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

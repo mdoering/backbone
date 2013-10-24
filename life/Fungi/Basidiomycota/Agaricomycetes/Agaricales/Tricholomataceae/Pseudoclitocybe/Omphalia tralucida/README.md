@@ -1,5 +1,4 @@
-Omphalia tralucida Bliss, 1938 SPECIES
-=======
+# Omphalia tralucida Bliss, 1938 SPECIES
 
 #### Status
 ACCEPTED

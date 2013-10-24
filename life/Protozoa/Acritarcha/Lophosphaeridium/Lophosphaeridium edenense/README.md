@@ -1,5 +1,4 @@
-Lophosphaeridium edenense Loeblich & Tappan, 1978 SPECIES
-=======
+# Lophosphaeridium edenense Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

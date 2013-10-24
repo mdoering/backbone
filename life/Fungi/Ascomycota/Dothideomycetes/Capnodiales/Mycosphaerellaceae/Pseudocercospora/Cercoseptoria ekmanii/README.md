@@ -1,5 +1,4 @@
-Cercoseptoria ekmanii Petr. & Cif. SPECIES
-=======
+# Cercoseptoria ekmanii Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

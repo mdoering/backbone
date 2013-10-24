@@ -1,5 +1,4 @@
-Cercospora trewiae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora trewiae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

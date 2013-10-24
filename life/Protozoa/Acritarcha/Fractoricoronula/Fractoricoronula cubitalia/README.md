@@ -1,5 +1,4 @@
-Fractoricoronula cubitalia Colbath, 1979 SPECIES
-=======
+# Fractoricoronula cubitalia Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

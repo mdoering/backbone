@@ -1,5 +1,4 @@
-Agaricus examinatus Britzelm. SPECIES
-=======
+# Agaricus examinatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

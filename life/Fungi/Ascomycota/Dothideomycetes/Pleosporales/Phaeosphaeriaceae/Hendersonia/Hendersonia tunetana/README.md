@@ -1,5 +1,4 @@
-Hendersonia tunetana A.L. Guyot SPECIES
-=======
+# Hendersonia tunetana A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

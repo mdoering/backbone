@@ -1,5 +1,4 @@
-Penicillium flavum Ellis & Marchal SPECIES
-=======
+# Penicillium flavum Ellis & Marchal SPECIES
 
 #### Status
 ACCEPTED

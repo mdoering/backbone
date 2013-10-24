@@ -1,5 +1,4 @@
-Thekopsora menziesiae Hirats. f. SPECIES
-=======
+# Thekopsora menziesiae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skyttea radiatilis (Tuck.) R. Sant., Etayo & Diederich SPECIES
-=======
+# Skyttea radiatilis (Tuck.) R. Sant., Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

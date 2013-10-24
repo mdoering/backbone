@@ -1,17 +1,16 @@
-Lecanora atrosulphurea f. atrosulphurea FORM
-=======
+# Lecanora atrosulphurea (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Lich. 149 (1814)
 
 #### Original name
-Lecanora atrosulphurea f. atrosulphurea
+Lichen atrosulphureus Wahlenb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium cassiae-torae P.B. Chavan & Bakare SPECIES
-=======
+# Aecidium cassiae-torae P.B. Chavan & Bakare SPECIES
 
 #### Status
 ACCEPTED

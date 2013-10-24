@@ -1,14 +1,13 @@
-Engizostoma exanthemodes (Mont.) Kuntze SPECIES
-=======
+# Engizostoma exanthemoides (Mont.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 474 (1898)
 
 #### Original name
 Sphaeria exanthemoides Mont.

@@ -1,5 +1,4 @@
-Xylomites peolae Mesch. SPECIES
-=======
+# Xylomites peolae Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus tenuis Wettst. SPECIES
-=======
+# Panus tenuis Wettst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora holobrunnea (J.M. Yen) U. Braun & Crous SPECIES
-=======
+# Passalora holobrunnea (J.M. Yen) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

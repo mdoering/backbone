@@ -1,5 +1,4 @@
-Catulus Malloch & Rogerson, 1978 GENUS
-=======
+# Catulus Malloch & Rogerson, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma amplior Sacc. & Roum. SPECIES
-=======
+# Phoma amplior Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

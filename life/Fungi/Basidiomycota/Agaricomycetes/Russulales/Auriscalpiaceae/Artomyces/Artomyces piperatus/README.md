@@ -1,14 +1,13 @@
-Clavaria piperata Kauffman, 1928 SPECIES
-=======
+# Artomyces piperatus (Kauffman) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 8: 146 (1928)
+Biblthca Mycol. 85: 399 (1982)
 
 #### Original name
 Clavaria piperata Kauffman, 1928

@@ -1,5 +1,4 @@
-Uromyces vernalis Speg. SPECIES
-=======
+# Uromyces vernalis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leccinum brunneogriseolum var. brunneogriseolum VARIETY
-=======
+# Leccinum aerugineum (Fr.) Lannoy & Estadès, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. , mém. hors sér. 21(no. 82): 1 (1991)
+Docums Mycol. 21(no. 81): 23 (1991)
 
 #### Original name
-Leccinum brunneogriseolum var. brunneogriseolum
+Boletus chioneus var. aerugineus Fr., 1818
 
 ### Remarks
 null

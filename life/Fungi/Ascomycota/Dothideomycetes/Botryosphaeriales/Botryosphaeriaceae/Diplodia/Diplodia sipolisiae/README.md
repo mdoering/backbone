@@ -1,5 +1,4 @@
-Diplodia sipolisiae Henn. SPECIES
-=======
+# Diplodia sipolisiae Henn. SPECIES
 
 #### Status
 ACCEPTED

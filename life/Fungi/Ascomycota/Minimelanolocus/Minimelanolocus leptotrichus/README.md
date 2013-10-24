@@ -1,14 +1,13 @@
-Brachysporium leptotrichum (Cooke & Ellis) Sacc., 1886 SPECIES
-=======
+# Minimelanolocus leptotrichus (Cooke & Ellis) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 425 (1886)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 10 (2001)
 
 #### Original name
 Helminthosporium leptotrichum Cooke & Ellis, 1879

@@ -1,5 +1,4 @@
-Chytridium saprolegniae A. Braun SPECIES
-=======
+# Chytridium saprolegniae A. Braun SPECIES
 
 #### Status
 ACCEPTED

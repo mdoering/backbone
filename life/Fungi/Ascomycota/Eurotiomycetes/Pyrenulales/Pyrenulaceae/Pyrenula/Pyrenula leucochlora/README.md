@@ -1,5 +1,4 @@
-Pyrenula leucochlora (Müll. Arg.) Willey SPECIES
-=======
+# Pyrenula leucochlora (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius largiformis Murrill SPECIES
-=======
+# Cortinarius largiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

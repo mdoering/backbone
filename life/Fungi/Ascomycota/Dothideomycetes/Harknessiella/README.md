@@ -1,5 +1,4 @@
-Harknessiella Sacc. GENUS
-=======
+# Harknessiella Sacc. GENUS
 
 #### Status
 ACCEPTED

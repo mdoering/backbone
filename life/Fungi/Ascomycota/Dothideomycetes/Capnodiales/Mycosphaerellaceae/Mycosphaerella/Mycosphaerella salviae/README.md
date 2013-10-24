@@ -1,5 +1,4 @@
-Mycosphaerella salviae (Strasser) Tomilin SPECIES
-=======
+# Mycosphaerella salviae (Strasser) Tomilin SPECIES
 
 #### Status
 ACCEPTED

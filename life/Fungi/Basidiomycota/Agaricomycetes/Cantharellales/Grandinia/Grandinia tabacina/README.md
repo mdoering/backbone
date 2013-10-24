@@ -1,5 +1,4 @@
-Grandinia tabacina Ellis & Cooke SPECIES
-=======
+# Grandinia tabacina Ellis & Cooke SPECIES
 
 #### Status
 ACCEPTED

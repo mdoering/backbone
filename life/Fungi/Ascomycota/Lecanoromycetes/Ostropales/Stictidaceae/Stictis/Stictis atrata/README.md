@@ -1,5 +1,4 @@
-Stictis atrata Speg. SPECIES
-=======
+# Stictis atrata Speg. SPECIES
 
 #### Status
 ACCEPTED

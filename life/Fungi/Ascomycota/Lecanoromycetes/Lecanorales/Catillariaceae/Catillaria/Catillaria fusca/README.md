@@ -1,5 +1,4 @@
-Catillaria fusca A. Massal. SPECIES
-=======
+# Catillaria fusca A. Massal. SPECIES
 
 #### Status
 ACCEPTED

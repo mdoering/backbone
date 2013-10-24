@@ -1,17 +1,16 @@
-Alternaria brassicae f. brassicae FORM
-=======
+# Alternaria brassicae (Berk.) Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 2(no. 6): 129 (1880)
 
 #### Original name
-Alternaria brassicae f. brassicae
+Macrosporium brassicae Berk., 1836
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora seminalis Ellis & Everh. SPECIES
-=======
+# Cercospora seminalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplococcium pulneyense Subram. & Sekar SPECIES
-=======
+# Diplococcium pulneyense Subram. & Sekar SPECIES
 
 #### Status
 ACCEPTED

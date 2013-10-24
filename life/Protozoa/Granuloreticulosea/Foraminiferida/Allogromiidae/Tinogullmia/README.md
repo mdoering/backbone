@@ -1,5 +1,4 @@
-Tinogullmia Nyholm, 1964 GENUS
-=======
+# Tinogullmia Nyholm, 1964 GENUS
 
 #### Status
 ACCEPTED

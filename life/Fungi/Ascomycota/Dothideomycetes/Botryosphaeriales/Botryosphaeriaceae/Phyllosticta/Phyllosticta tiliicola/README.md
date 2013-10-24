@@ -1,5 +1,4 @@
-Phyllosticta tiliicola Oudem. SPECIES
-=======
+# Phyllosticta tiliicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

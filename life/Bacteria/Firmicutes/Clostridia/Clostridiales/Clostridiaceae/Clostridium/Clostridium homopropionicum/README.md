@@ -1,5 +1,4 @@
-Clostridium homopropionicum Dörner & Schink, 1991 SPECIES
-=======
+# Clostridium homopropionicum Dörner & Schink, 1991 SPECIES
 
 #### Status
 ACCEPTED

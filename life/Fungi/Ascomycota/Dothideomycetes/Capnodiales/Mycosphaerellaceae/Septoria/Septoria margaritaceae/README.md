@@ -1,5 +1,4 @@
-Septoria margaritaceae Peck SPECIES
-=======
+# Septoria margaritaceae Peck SPECIES
 
 #### Status
 ACCEPTED

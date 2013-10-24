@@ -1,5 +1,4 @@
-Coprolithina Marie, 1941 GENUS
-=======
+# Coprolithina Marie, 1941 GENUS
 
 #### Status
 ACCEPTED

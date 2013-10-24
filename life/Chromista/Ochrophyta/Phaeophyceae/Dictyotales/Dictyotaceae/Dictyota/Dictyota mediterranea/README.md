@@ -1,8 +1,7 @@
-Dilophus mediterraneus Schiffner SPECIES
-=======
+# Dictyota mediterranea (Schiffner) G. Furnari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

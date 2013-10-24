@@ -1,5 +1,4 @@
-Baltisphaeridium ingerae Kjellström, 1976 SPECIES
-=======
+# Baltisphaeridium ingerae Kjellström, 1976 SPECIES
 
 #### Status
 ACCEPTED

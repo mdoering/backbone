@@ -1,5 +1,4 @@
-Collybia ozeensis Kobayasi SPECIES
-=======
+# Collybia ozeensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

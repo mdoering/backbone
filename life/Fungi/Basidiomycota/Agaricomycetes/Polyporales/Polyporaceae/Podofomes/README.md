@@ -1,5 +1,4 @@
-Podofomes Pouzar GENUS
-=======
+# Podofomes Pouzar GENUS
 
 #### Status
 ACCEPTED

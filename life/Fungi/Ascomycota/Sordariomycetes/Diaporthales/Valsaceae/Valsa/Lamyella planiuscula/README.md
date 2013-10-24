@@ -1,5 +1,4 @@
-Lamyella planiuscula Syd. SPECIES
-=======
+# Lamyella planiuscula Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Azymocandida scottii (Diddens & Lodder) E.K. Novák & Zsolt, 1961 SPECIES
-=======
+# Leucosporidium scottii Fell, Statzell, I.L. Hunter & Phaff, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. hung. 7: 134 (1961)
+Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 35(4): 440 (1970)
 
 #### Original name
-Candida scottii Diddens & Lodder, 1942
+Leucosporidium scottii Fell, Statzell, I.L. Hunter & Phaff, 1970
 
 ### Remarks
 null

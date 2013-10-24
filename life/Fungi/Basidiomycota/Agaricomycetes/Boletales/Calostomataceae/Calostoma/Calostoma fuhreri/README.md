@@ -1,5 +1,4 @@
-Calostoma fuhreri Crichton & J.H. Willis SPECIES
-=======
+# Calostoma fuhreri Crichton & J.H. Willis SPECIES
 
 #### Status
 ACCEPTED

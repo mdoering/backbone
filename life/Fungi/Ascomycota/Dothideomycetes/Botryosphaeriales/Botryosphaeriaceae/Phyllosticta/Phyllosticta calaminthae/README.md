@@ -1,5 +1,4 @@
-Phyllosticta calaminthae Ellis & Everh. SPECIES
-=======
+# Phyllosticta calaminthae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

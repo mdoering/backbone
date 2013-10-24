@@ -1,5 +1,4 @@
-Ophiobolus smyrnii Politis SPECIES
-=======
+# Ophiobolus smyrnii Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus incrustatus Schumach. SPECIES
-=======
+# Agaricus incrustatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

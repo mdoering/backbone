@@ -1,5 +1,4 @@
-Cyathicula clavuligera Speg. SPECIES
-=======
+# Cyathicula clavuligera Speg. SPECIES
 
 #### Status
 ACCEPTED

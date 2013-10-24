@@ -1,14 +1,13 @@
-Pseudofusidium hansfordii Deighton, 1969 SPECIES
-=======
+# Acremonium hansfordii (Deighton) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 118: 26 (1969)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 71 (1971)
 
 #### Original name
 Pseudofusidium hansfordii Deighton, 1969

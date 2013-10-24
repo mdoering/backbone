@@ -1,5 +1,4 @@
-Sporotrichum turbinata (J.C. Schmidt) Fr. SPECIES
-=======
+# Sporotrichum turbinata (J.C. Schmidt) Fr. SPECIES
 
 #### Status
 ACCEPTED

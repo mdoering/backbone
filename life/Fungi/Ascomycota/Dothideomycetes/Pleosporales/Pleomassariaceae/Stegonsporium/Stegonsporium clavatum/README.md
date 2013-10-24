@@ -1,5 +1,4 @@
-Stegonsporium clavatum Preuss SPECIES
-=======
+# Stegonsporium clavatum Preuss SPECIES
 
 #### Status
 ACCEPTED

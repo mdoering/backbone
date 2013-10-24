@@ -1,5 +1,4 @@
-Faureia Tucolesco, 1962 GENUS
-=======
+# Faureia Tucolesco, 1962 GENUS
 
 #### Status
 ACCEPTED

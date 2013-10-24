@@ -1,5 +1,4 @@
-Gibberella moniliforme (J. Sheld.) Wineland SPECIES
-=======
+# Gibberella moniliforme (J. Sheld.) Wineland SPECIES
 
 #### Status
 ACCEPTED

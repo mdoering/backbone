@@ -1,5 +1,4 @@
-Hymenogaster fuligineus G. Cunn. SPECIES
-=======
+# Hymenogaster fuligineus G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

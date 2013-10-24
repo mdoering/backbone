@@ -1,5 +1,4 @@
-Entapiidae De Wever et al., 2001 FAMILY
-=======
+# Entapiidae De Wever et al., 2001 FAMILY
 
 #### Status
 ACCEPTED

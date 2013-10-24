@@ -1,5 +1,4 @@
-Psathyra australis Murrill SPECIES
-=======
+# Psathyra australis Murrill SPECIES
 
 #### Status
 ACCEPTED

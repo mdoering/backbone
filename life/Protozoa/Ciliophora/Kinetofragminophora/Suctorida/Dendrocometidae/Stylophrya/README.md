@@ -1,5 +1,4 @@
-Stylophrya Swarczewsky, 1928 GENUS
-=======
+# Stylophrya Swarczewsky, 1928 GENUS
 
 #### Status
 ACCEPTED

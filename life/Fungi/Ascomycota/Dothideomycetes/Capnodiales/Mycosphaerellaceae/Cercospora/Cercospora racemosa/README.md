@@ -1,5 +1,4 @@
-Cercospora racemosa Ellis & G. Martin SPECIES
-=======
+# Cercospora racemosa Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

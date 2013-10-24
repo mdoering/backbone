@@ -1,5 +1,4 @@
-Acanthocystis paliformis Dürrschmidt, 1987 SPECIES
-=======
+# Acanthocystis paliformis Dürrschmidt, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizotrichites K. Starmach, 1963 GENUS
-=======
+# Schizotrichites K. Starmach, 1963 GENUS
 
 #### Status
 ACCEPTED

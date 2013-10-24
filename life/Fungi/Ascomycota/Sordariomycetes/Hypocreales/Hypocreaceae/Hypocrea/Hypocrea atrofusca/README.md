@@ -1,5 +1,4 @@
-Hypocrea atrofusca Henn. SPECIES
-=======
+# Hypocrea atrofusca Henn. SPECIES
 
 #### Status
 ACCEPTED

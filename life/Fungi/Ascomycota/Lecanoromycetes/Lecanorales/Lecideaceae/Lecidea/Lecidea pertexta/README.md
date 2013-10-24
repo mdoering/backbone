@@ -1,5 +1,4 @@
-Lecidea pertexta Nyl. SPECIES
-=======
+# Lecidea pertexta Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma rivulosum Largent SPECIES
-=======
+# Entoloma rivulosum Largent SPECIES
 
 #### Status
 ACCEPTED

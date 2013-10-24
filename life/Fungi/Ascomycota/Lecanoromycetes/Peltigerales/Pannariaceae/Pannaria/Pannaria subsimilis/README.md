@@ -1,5 +1,4 @@
-Pannaria subsimilis C. Knight SPECIES
-=======
+# Pannaria subsimilis C. Knight SPECIES
 
 #### Status
 ACCEPTED

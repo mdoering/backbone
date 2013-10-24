@@ -1,5 +1,4 @@
-Fasciculithus schaubii Hay & Mohler, 1967 SPECIES
-=======
+# Fasciculithus schaubii Hay & Mohler, 1967 SPECIES
 
 #### Status
 ACCEPTED

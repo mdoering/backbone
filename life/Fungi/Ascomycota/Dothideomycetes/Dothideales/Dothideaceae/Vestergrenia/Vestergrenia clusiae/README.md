@@ -1,5 +1,4 @@
-Vestergrenia clusiae Petr. SPECIES
-=======
+# Vestergrenia clusiae Petr. SPECIES
 
 #### Status
 ACCEPTED

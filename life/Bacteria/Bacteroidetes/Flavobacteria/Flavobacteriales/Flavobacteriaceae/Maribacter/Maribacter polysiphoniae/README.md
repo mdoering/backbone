@@ -1,5 +1,4 @@
-Maribacter polysiphoniae Nedashkovskaya, Vancanneyt, De Vos, Kim, Lee & Mikhailov, 2007 SPECIES
-=======
+# Maribacter polysiphoniae Nedashkovskaya, Vancanneyt, De Vos, Kim, Lee & Mikhailov, 2007 SPECIES
 
 #### Status
 ACCEPTED

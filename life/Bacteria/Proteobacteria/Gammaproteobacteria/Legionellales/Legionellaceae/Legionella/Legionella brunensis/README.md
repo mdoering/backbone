@@ -1,5 +1,4 @@
-Legionella brunensis Wilkinson et al., 1989 SPECIES
-=======
+# Legionella brunensis Wilkinson et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

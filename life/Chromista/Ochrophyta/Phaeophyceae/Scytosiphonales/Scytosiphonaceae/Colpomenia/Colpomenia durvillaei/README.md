@@ -1,8 +1,7 @@
-Scytosiphon durvillaei (Bory de Saint-Vincent) Trevisan SPECIES
-=======
+# Colpomenia durvillaei (Bory de Saint-Vincent) M.E.Ramírez SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

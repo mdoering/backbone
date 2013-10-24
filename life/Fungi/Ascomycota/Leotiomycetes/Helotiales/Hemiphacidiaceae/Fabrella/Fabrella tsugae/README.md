@@ -1,17 +1,16 @@
-Fabrella tsugae subsp. tsugae (Farl.) Kirschst. SUBSPECIES
-=======
+# Fabrella tsugae (Farl.) Kirschst., 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia, Beibl. 90: 90 (1941)
 
 #### Original name
-Fabrella tsugae subsp. tsugae (Farl.) Kirschst.
+Stictis tsugae Farl., 1883
 
 ### Remarks
 null

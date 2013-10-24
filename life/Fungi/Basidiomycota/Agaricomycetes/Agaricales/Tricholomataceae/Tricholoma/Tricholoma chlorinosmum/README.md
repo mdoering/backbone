@@ -1,5 +1,4 @@
-Tricholoma chlorinosmum (Peck) Sacc. SPECIES
-=======
+# Tricholoma chlorinosmum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

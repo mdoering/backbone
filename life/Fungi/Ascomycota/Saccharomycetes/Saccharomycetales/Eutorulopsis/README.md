@@ -1,5 +1,4 @@
-Eutorulopsis GENUS
-=======
+# Eutorulopsis GENUS
 
 #### Status
 ACCEPTED

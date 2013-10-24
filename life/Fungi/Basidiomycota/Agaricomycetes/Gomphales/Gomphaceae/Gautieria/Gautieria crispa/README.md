@@ -1,5 +1,4 @@
-Gautieria crispa E.L. Stewart & Trappe SPECIES
-=======
+# Gautieria crispa E.L. Stewart & Trappe SPECIES
 
 #### Status
 ACCEPTED

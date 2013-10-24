@@ -1,17 +1,16 @@
-Melanoleuca stridula var. pallidipes (J.E. Lange) Bon VARIETY
-=======
+# Melanoleuca stridula (Fr.) Singer, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 9(no. 33): 73 (1978)
+Annls mycol. 41(1/3): 57 (1943)
 
 #### Original name
-Tricholoma stridulum var. pallidipes J.E. Lange
+Agaricus stridulus Fr., 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius lanatus M.M. Moser SPECIES
-=======
+# Cortinarius lanatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia albicerata (Kremp.) Zahlbr. SPECIES
-=======
+# Bacidia albicerata (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

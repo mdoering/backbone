@@ -1,5 +1,4 @@
-Segestria porphyria Riehm. SPECIES
-=======
+# Segestria porphyria Riehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurophoma latvica Moesz & Smarods, 1930 SPECIES
-=======
+# Pleurophoma latvica Moesz & Smarods, 1930 SPECIES
 
 #### Status
 ACCEPTED

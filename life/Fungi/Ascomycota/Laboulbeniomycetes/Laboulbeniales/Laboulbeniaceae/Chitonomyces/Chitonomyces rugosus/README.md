@@ -1,5 +1,4 @@
-Chitonomyces rugosus Thaxt. SPECIES
-=======
+# Chitonomyces rugosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

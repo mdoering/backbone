@@ -1,5 +1,4 @@
-Pseudocercospora delonicis (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora delonicis (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

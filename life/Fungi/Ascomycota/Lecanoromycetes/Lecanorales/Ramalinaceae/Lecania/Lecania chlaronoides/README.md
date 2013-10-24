@@ -1,5 +1,4 @@
-Lecania chlaronoides Müll. Arg. SPECIES
-=======
+# Lecania chlaronoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

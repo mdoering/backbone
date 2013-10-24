@@ -1,5 +1,4 @@
-Macrophoma (Saccardo) Berlese & Vogl., 1886 GENUS
-=======
+# Macrophoma (Saccardo) Berlese & Vogl., 1886 GENUS
 
 #### Status
 ACCEPTED

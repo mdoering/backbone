@@ -1,5 +1,4 @@
-Chitonomyces borealis Thaxt. SPECIES
-=======
+# Chitonomyces borealis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

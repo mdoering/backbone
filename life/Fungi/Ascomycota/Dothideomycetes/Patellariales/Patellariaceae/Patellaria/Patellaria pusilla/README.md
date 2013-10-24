@@ -1,5 +1,4 @@
-Patellaria pusilla Peck SPECIES
-=======
+# Patellaria pusilla Peck SPECIES
 
 #### Status
 ACCEPTED

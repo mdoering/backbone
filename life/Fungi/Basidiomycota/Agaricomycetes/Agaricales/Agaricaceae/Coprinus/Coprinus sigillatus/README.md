@@ -1,5 +1,4 @@
-Coprinus sigillatus (Lév.) Sacc. & Traverso SPECIES
-=======
+# Coprinus sigillatus (Lév.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

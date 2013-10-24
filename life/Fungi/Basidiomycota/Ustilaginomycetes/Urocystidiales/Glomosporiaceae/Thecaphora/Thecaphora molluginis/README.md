@@ -1,5 +1,4 @@
-Thecaphora molluginis Savul. SPECIES
-=======
+# Thecaphora molluginis Savul. SPECIES
 
 #### Status
 ACCEPTED

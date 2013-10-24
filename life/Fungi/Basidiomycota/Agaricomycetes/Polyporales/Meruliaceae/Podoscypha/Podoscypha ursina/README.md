@@ -1,5 +1,4 @@
-Podoscypha ursina Boidin & Berthet SPECIES
-=======
+# Podoscypha ursina Boidin & Berthet SPECIES
 
 #### Status
 ACCEPTED

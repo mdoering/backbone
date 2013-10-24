@@ -1,5 +1,4 @@
-Ciliaria coprinaria Quél. SPECIES
-=======
+# Ciliaria coprinaria Quél. SPECIES
 
 #### Status
 ACCEPTED

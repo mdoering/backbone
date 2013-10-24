@@ -1,5 +1,4 @@
-Mycosphaerella alpina (Lindf.) Lind SPECIES
-=======
+# Mycosphaerella alpina (Lindf.) Lind SPECIES
 
 #### Status
 ACCEPTED

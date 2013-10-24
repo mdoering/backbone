@@ -1,5 +1,4 @@
-Fragilaria undata var. quadrata Hustedt VARIETY
-=======
+# Fragilaria undata W. Smith SPECIES
 
 #### Status
 ACCEPTED

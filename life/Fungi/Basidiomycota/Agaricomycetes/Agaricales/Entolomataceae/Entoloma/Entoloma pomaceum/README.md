@@ -1,5 +1,4 @@
-Entoloma pomaceum Velen. SPECIES
-=======
+# Entoloma pomaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

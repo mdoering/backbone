@@ -1,5 +1,4 @@
-Enterocytozoon hepatopenaei Tourtip, Wongtripop, Situnyalucksana, Stentiford, Bateman, Sriuratana, Chayaburakul & Withyachumnarkul, 2009 SPECIES
-=======
+# Enterocytozoon hepatopenaei Tourtip, Wongtripop, Situnyalucksana, Stentiford, Bateman, Sriuratana, Chayaburakul & Withyachumnarkul, 2009 SPECIES
 
 #### Status
 ACCEPTED

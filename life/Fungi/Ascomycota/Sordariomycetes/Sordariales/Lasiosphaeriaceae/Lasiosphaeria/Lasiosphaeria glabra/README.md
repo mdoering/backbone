@@ -1,5 +1,4 @@
-Lasiosphaeria glabra Rossman SPECIES
-=======
+# Lasiosphaeria glabra Rossman SPECIES
 
 #### Status
 ACCEPTED

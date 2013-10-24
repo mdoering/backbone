@@ -1,5 +1,4 @@
-Phyllachora perplexans Chardón, 1932 SPECIES
-=======
+# Phyllachora perplexans Chardón, 1932 SPECIES
 
 #### Status
 DOUBTFUL

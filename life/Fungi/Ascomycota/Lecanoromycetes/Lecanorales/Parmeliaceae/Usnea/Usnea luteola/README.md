@@ -1,5 +1,4 @@
-Usnea luteola Motyka SPECIES
-=======
+# Usnea luteola Motyka SPECIES
 
 #### Status
 ACCEPTED

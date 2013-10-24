@@ -1,5 +1,4 @@
-Rhytidenglerula tremae (H. Syd.) Arx SPECIES
-=======
+# Rhytidenglerula tremae (H. Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

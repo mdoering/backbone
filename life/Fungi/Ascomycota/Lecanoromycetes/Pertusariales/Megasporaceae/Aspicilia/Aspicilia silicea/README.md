@@ -1,5 +1,4 @@
-Aspicilia silicea var. silicea VARIETY
-=======
+# Aspicilia silicea (Gyeln.) Verseghy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Közl. 74-75(1-2): 33 (1988)
 
 #### Original name
-Aspicilia silicea var. silicea
+Squamaria silicea Gyeln.
 
 ### Remarks
 null

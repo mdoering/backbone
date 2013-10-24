@@ -1,5 +1,4 @@
-Botrytis similis J.A. Menge & Göpp. SPECIES
-=======
+# Botrytis similis J.A. Menge & Göpp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza plantaginis Fuckel SPECIES
-=======
+# Pyrenopeziza plantaginis Fuckel SPECIES
 
 #### Status
 ACCEPTED

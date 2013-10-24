@@ -1,5 +1,4 @@
-Patellaria albescens (Hoffm.) Trevis. SPECIES
-=======
+# Patellaria albescens (Hoffm.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella ochracea Körb. SPECIES
-=======
+# Lecidella ochracea Körb. SPECIES
 
 #### Status
 ACCEPTED

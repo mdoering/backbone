@@ -1,5 +1,4 @@
-Excipulites punctatus Grand'Eury SPECIES
-=======
+# Excipulites punctatus Grand'Eury SPECIES
 
 #### Status
 ACCEPTED

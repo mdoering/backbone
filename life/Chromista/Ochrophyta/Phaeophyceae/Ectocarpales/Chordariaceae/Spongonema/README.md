@@ -1,5 +1,4 @@
-Spongonema Kützing, 1849 GENUS
-=======
+# Spongonema Kützing, 1849 GENUS
 
 #### Status
 ACCEPTED

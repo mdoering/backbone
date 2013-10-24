@@ -1,5 +1,4 @@
-Mycosphaerella lythri Syd. {?} SPECIES
-=======
+# Mycosphaerella lythri Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

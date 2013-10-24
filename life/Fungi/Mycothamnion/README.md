@@ -1,5 +1,4 @@
-Mycothamnion Kütz. GENUS
-=======
+# Mycothamnion Kütz. GENUS
 
 #### Status
 ACCEPTED

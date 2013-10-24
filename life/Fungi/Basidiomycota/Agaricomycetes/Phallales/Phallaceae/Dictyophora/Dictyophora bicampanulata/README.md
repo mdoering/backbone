@@ -1,5 +1,4 @@
-Dictyophora bicampanulata Mont. SPECIES
-=======
+# Dictyophora bicampanulata Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera hemisphaerica (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera hemisphaerica (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

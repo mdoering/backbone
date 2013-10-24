@@ -1,5 +1,4 @@
-Cytosporella anisotomes Aa, Vanev, Melnik & S.L. Stephenson, 2001 SPECIES
-=======
+# Cytosporella anisotomes Aa, Vanev, Melnik & S.L. Stephenson, 2001 SPECIES
 
 #### Status
 ACCEPTED

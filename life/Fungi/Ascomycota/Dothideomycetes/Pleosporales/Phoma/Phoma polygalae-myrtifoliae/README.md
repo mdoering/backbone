@@ -1,5 +1,4 @@
-Phoma polygalae-myrtifoliae Henn. SPECIES
-=======
+# Phoma polygalae-myrtifoliae Henn. SPECIES
 
 #### Status
 ACCEPTED

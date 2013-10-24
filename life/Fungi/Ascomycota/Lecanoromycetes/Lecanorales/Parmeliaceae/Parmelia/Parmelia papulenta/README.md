@@ -1,5 +1,4 @@
-Parmelia papulenta Harm. SPECIES
-=======
+# Parmelia papulenta Harm. SPECIES
 
 #### Status
 ACCEPTED

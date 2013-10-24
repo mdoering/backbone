@@ -1,5 +1,4 @@
-Schaereria gresinonis (B. de Lesd.) Gyeln. SPECIES
-=======
+# Schaereria gresinonis (B. de Lesd.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

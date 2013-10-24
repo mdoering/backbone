@@ -1,5 +1,4 @@
-Sandaracinobacter Yurkov et al., 1997 GENUS
-=======
+# Sandaracinobacter Yurkov et al., 1997 GENUS
 
 #### Status
 ACCEPTED

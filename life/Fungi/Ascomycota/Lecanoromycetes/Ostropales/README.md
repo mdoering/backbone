@@ -1,5 +1,4 @@
-Ostropales Nannf. ORDER
-=======
+# Ostropales Nannf. ORDER
 
 #### Status
 ACCEPTED

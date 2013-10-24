@@ -1,5 +1,4 @@
-Usnea pacificana P. Halonen SPECIES
-=======
+# Usnea pacificana P. Halonen SPECIES
 
 #### Status
 ACCEPTED

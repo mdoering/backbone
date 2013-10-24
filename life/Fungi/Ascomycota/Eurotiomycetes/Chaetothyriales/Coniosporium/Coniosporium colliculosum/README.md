@@ -1,5 +1,4 @@
-Coniosporium colliculosum (Berk. & M.A. Curtis) S. Hughes & J.L. Crane SPECIES
-=======
+# Coniosporium colliculosum (Berk. & M.A. Curtis) S. Hughes & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium polygoni M.T. Cook SPECIES
-=======
+# Synchytrium polygoni M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

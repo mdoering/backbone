@@ -1,17 +1,16 @@
-Discoxylaria mirmecophila J.C. Lindq. & J.E. Wright SPECIES
-=======
+# Discoxylaria myrmecophila J.C. Lindq. & J.E. Wright, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Darwiniana 13: 139 (1964)
 
 #### Original name
-Discoxylaria mirmecophila J.C. Lindq. & J.E. Wright
+Discoxylaria myrmecophila J.C. Lindq. & J.E. Wright, 1964
 
 ### Remarks
 null

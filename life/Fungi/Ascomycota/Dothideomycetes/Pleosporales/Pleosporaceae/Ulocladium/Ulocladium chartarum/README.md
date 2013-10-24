@@ -1,17 +1,16 @@
-Alternaria chartarum f. chartarum Preuss FORM
-=======
+# Ulocladium chartarum (Preuss) E.G. Simmons, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 59(1): 88 (1967)
 
 #### Original name
-Alternaria chartarum f. chartarum Preuss
+Alternaria chartarum Preuss, 1851
 
 ### Remarks
 null

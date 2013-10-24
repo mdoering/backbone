@@ -1,5 +1,4 @@
-Buellia dolichotheca P. Crouan & H. Crouan SPECIES
-=======
+# Buellia dolichotheca P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

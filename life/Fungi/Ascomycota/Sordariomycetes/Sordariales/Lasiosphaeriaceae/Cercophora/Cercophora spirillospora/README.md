@@ -1,5 +1,4 @@
-Cercophora spirillospora (Penz. & Sacc.) N. Lundq. SPECIES
-=======
+# Cercophora spirillospora (Penz. & Sacc.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

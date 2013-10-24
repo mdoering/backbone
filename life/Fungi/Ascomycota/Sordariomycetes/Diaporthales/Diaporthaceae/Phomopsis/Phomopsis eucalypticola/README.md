@@ -1,5 +1,4 @@
-Phomopsis eucalypticola Old & Z.Q. Yuan SPECIES
-=======
+# Phomopsis eucalypticola Old & Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

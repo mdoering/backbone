@@ -1,5 +1,4 @@
-Geopyxis pocula (Sw.) Fr. SPECIES
-=======
+# Geopyxis pocula (Sw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

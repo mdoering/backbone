@@ -1,5 +1,4 @@
-Cortinarius benevalens Britzelm. SPECIES
-=======
+# Cortinarius benevalens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

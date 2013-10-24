@@ -1,5 +1,4 @@
-Coprinus baumannii Henn. SPECIES
-=======
+# Coprinus baumannii Henn. SPECIES
 
 #### Status
 ACCEPTED

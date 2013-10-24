@@ -1,5 +1,4 @@
-Adinimonas J.Schiller, 1928 GENUS
-=======
+# Adinimonas J.Schiller, 1928 GENUS
 
 #### Status
 ACCEPTED

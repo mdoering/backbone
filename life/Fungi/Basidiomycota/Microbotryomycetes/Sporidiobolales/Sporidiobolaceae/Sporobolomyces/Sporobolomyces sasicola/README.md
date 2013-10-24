@@ -1,5 +1,4 @@
-Sporobolomyces sasicola Nakase & M. Suzuki, 1987 SPECIES
-=======
+# Sporobolomyces sasicola Nakase & M. Suzuki, 1987 SPECIES
 
 #### Status
 ACCEPTED

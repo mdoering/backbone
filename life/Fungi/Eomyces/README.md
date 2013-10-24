@@ -1,5 +1,4 @@
-Eomyces F. Ludw. GENUS
-=======
+# Eomyces F. Ludw. GENUS
 
 #### Status
 ACCEPTED

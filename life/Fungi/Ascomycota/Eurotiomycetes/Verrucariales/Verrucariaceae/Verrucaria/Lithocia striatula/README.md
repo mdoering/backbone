@@ -1,5 +1,4 @@
-Lithocia striatula (Schaer.) A. Massal. SPECIES
-=======
+# Lithocia striatula (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

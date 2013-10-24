@@ -1,5 +1,4 @@
-Amphiplecta acrostoma Haeckel, 1887 SPECIES
-=======
+# Amphiplecta acrostoma Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

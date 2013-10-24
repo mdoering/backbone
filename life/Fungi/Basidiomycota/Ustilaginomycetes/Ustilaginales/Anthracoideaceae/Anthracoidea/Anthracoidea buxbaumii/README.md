@@ -1,5 +1,4 @@
-Anthracoidea buxbaumii Kukkonen, 1963 SPECIES
-=======
+# Anthracoidea buxbaumii Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED

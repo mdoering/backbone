@@ -1,5 +1,4 @@
-Candelariella subsimilis (Th. Fr.) J. Steiner SPECIES
-=======
+# Candelariella subsimilis (Th. Fr.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia herinkii (Antonín & Noordel.) Bon SPECIES
-=======
+# Collybia herinkii (Antonín & Noordel.) Bon SPECIES
 
 #### Status
 ACCEPTED

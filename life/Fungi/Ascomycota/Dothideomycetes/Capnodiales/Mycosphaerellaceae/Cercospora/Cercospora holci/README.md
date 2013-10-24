@@ -1,5 +1,4 @@
-Cercospora holci R. Sprague SPECIES
-=======
+# Cercospora holci R. Sprague SPECIES
 
 #### Status
 ACCEPTED

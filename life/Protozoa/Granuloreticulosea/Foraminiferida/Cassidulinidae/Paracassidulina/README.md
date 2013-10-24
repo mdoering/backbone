@@ -1,5 +1,4 @@
-Paracassidulina Nomura, 1983 GENUS
-=======
+# Paracassidulina Nomura, 1983 GENUS
 
 #### Status
 ACCEPTED

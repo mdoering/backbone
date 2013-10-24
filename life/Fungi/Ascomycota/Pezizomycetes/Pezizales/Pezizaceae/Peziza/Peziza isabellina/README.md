@@ -1,5 +1,4 @@
-Peziza isabellina var. isabellina VARIETY
-=======
+# Peziza isabellina W.G. Sm., 1873 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 9): 136 (1873)
+null
 
 #### Original name
-Peziza isabellina var. isabellina
+null
 
 ### Remarks
 null

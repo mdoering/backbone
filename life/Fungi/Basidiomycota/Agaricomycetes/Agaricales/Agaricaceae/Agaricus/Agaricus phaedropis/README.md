@@ -1,5 +1,4 @@
-Agaricus phaedropis Berk. & Broome SPECIES
-=======
+# Agaricus phaedropis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cremea (Murrill) Singer SPECIES
-=======
+# Russula cremea (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

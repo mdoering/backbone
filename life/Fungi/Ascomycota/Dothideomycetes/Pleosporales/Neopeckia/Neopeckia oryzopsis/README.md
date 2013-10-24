@@ -1,5 +1,4 @@
-Neopeckia oryzopsis Maire SPECIES
-=======
+# Neopeckia oryzopsis Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiospora sinensis K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
-=======
+# Apiospora sinensis K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia magellanica var. magellanica VARIETY
-=======
+# Heterodermia magellanica (Zahlbr.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lichenologist 8: 130 (1976)
 
 #### Original name
-Heterodermia magellanica var. magellanica
+Anaptychia magellanica Zahlbr.
 
 ### Remarks
 null

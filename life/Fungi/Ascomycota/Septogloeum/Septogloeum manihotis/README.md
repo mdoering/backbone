@@ -1,5 +1,4 @@
-Septogloeum manihotis Zimm. SPECIES
-=======
+# Septogloeum manihotis Zimm. SPECIES
 
 #### Status
 ACCEPTED

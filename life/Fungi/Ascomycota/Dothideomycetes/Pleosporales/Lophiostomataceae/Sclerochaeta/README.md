@@ -1,5 +1,4 @@
-Sclerochaeta GENUS
-=======
+# Sclerochaeta GENUS
 
 #### Status
 ACCEPTED

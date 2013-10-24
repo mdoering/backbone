@@ -1,5 +1,4 @@
-Rhizoblepharia jugispora Rifai, 1968 SPECIES
-=======
+# Rhizoblepharia jugispora Rifai, 1968 SPECIES
 
 #### Status
 ACCEPTED

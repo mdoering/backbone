@@ -1,17 +1,16 @@
-Nolanea clandestina var. clandestina VARIETY
-=======
+# Entoloma clandestinum (Fr.) Noordel., 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 95 (1871)
+Persoonia 10(4): 456 (1980)
 
 #### Original name
-Nolanea clandestina var. clandestina
+Agaricus clandestinus Fr., 1818
 
 ### Remarks
 null

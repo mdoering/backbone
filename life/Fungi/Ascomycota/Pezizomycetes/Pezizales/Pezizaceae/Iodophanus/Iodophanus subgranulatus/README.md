@@ -1,5 +1,4 @@
-Iodophanus subgranulatus (Berk. & M.A. Curtis) Pfister SPECIES
-=======
+# Iodophanus subgranulatus (Berk. & M.A. Curtis) Pfister SPECIES
 
 #### Status
 ACCEPTED

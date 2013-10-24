@@ -1,5 +1,4 @@
-Trachelomonas lychenensis Conrad SPECIES
-=======
+# Trachelomonas lychenensis Conrad SPECIES
 
 #### Status
 ACCEPTED

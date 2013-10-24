@@ -1,5 +1,4 @@
-Euglenopsis vorax Klebs SPECIES
-=======
+# Euglenopsis vorax Klebs SPECIES
 
 #### Status
 ACCEPTED

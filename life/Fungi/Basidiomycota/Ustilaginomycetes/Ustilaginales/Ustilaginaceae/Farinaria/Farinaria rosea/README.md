@@ -1,5 +1,4 @@
-Farinaria rosea Sowerby SPECIES
-=======
+# Farinaria rosea Sowerby SPECIES
 
 #### Status
 ACCEPTED

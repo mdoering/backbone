@@ -1,5 +1,4 @@
-Metasphaeria grisea (Körb.) Vain. SPECIES
-=======
+# Metasphaeria grisea (Körb.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cirrenalia nigrospora Somrith., Chatmala & E.B.G. Jones SPECIES
-=======
+# Cirrenalia nigrospora Somrith., Chatmala & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporodictyon clandestinum Arnold SPECIES
-=======
+# Sporodictyon clandestinum Arnold SPECIES
 
 #### Status
 ACCEPTED

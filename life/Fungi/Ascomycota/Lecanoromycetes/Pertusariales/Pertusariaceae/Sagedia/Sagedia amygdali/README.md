@@ -1,5 +1,4 @@
-Sagedia amygdali (A. Massal.) Jatta SPECIES
-=======
+# Sagedia amygdali (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

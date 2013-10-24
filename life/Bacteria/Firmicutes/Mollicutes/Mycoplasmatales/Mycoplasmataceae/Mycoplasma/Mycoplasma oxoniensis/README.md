@@ -1,5 +1,4 @@
-Mycoplasma oxoniensis Hill, 1991 SPECIES
-=======
+# Mycoplasma oxoniensis Hill, 1991 SPECIES
 
 #### Status
 ACCEPTED

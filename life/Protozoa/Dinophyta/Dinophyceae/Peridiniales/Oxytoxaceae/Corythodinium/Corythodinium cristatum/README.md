@@ -1,5 +1,4 @@
-Corythodinium cristatum (Kofoid, 1907) F.J.R. Taylor, 1976 SPECIES
-=======
+# Corythodinium cristatum (Kofoid, 1907) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

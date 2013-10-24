@@ -1,5 +1,4 @@
-Sumatradinium hispidum (Drugg, 1970) Lentin & Williams SPECIES
-=======
+# Sumatradinium hispidum (Drugg, 1970) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

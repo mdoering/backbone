@@ -1,5 +1,4 @@
-Balantidium piscicola Entz, 1913 SPECIES
-=======
+# Balantidium piscicola Entz, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia nipteroides Ellis & Everh. SPECIES
-=======
+# Mollisia nipteroides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

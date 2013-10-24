@@ -1,5 +1,4 @@
-Gallaceaceae Locq. ex P.M. Kirk FAMILY
-=======
+# Gallaceaceae Locq. ex P.M. Kirk FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrononion gallowayi Loeblich & Tappan, 1953 SPECIES
-=======
+# Astrononion gallowayi Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

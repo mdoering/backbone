@@ -1,5 +1,4 @@
-Coelomomyces quadrangulatus var. quadrangulatus VARIETY
-=======
+# Coelomomyces quadrangulatus Couch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 61: 130 (1945)
 
 #### Original name
-Coelomomyces quadrangulatus var. quadrangulatus
+Coelomomyces quadrangulatus Couch
 
 ### Remarks
 null

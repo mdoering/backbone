@@ -1,5 +1,4 @@
-Mycobacterium wolinskyi Brown et al., 1999 SPECIES
-=======
+# Mycobacterium wolinskyi Brown et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

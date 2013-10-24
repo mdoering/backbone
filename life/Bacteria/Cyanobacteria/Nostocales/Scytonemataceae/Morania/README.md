@@ -1,5 +1,4 @@
-Morania C.D. Walcott, 1919 GENUS
-=======
+# Morania C.D. Walcott, 1919 GENUS
 
 #### Status
 ACCEPTED

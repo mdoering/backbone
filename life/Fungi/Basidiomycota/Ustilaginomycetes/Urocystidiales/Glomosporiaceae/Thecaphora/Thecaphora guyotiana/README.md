@@ -1,5 +1,4 @@
-Thecaphora guyotiana Har. SPECIES
-=======
+# Thecaphora guyotiana Har. SPECIES
 
 #### Status
 ACCEPTED

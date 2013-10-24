@@ -1,5 +1,4 @@
-Lecidea geoleuca Nyl. SPECIES
-=======
+# Lecidea geoleuca Nyl. SPECIES
 
 #### Status
 ACCEPTED

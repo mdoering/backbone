@@ -1,5 +1,4 @@
-Wanaea clathrata Cookson & Eisenack, 1962 SPECIES
-=======
+# Wanaea clathrata Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

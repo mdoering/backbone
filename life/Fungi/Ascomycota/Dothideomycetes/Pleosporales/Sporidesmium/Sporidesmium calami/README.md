@@ -1,5 +1,4 @@
-Sporidesmium calami Subram. SPECIES
-=======
+# Sporidesmium calami Subram. SPECIES
 
 #### Status
 ACCEPTED

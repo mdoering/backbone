@@ -1,5 +1,4 @@
-Arthopyrenia floridana Zahlbr. SPECIES
-=======
+# Arthopyrenia floridana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

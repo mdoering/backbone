@@ -1,5 +1,4 @@
-Hannaites Mandra, 1969 GENUS
-=======
+# Hannaites Mandra, 1969 GENUS
 
 #### Status
 ACCEPTED

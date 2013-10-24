@@ -1,5 +1,4 @@
-Leptosphaeria asteris J.H. Mill. & Burton SPECIES
-=======
+# Leptosphaeria asteris J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

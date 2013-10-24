@@ -1,5 +1,4 @@
-Peziza pateriformis Berk. SPECIES
-=======
+# Peziza pateriformis Berk. SPECIES
 
 #### Status
 ACCEPTED

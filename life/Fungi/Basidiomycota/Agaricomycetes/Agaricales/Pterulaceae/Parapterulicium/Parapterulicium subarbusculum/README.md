@@ -1,5 +1,4 @@
-Parapterulicium subarbusculum Corner, 1952 SPECIES
-=======
+# Parapterulicium subarbusculum Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

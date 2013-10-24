@@ -1,5 +1,4 @@
-Dimerosporium langloisii Ellis & G. Martin SPECIES
-=======
+# Dimerosporium langloisii Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatomma gregantulum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma gregantulum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum trichocystum Hartwig, 1973 SPECIES
-=======
+# Loxophyllum trichocystum Hartwig, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dematium petraeum Pers., 1795 SPECIES
-=======
+# Ozonium aureum (L.) Duby, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. (Usteri) 15: 25 (1795)
+Aug. Pyrami de Candolle. Botanicon Gallicum, seu Synopsis Plantarum in Flora Gallica Descriptarum, Edn 2 2: 934 (1830)
 
 #### Original name
-Dematium petraeum Pers., 1795
+Byssus aurea L., 1763
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Davidiella acrocomiicola (Bat.) Aptroot, 2006 SPECIES
-=======
+# Davidiella acrocomiicola (Bat.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

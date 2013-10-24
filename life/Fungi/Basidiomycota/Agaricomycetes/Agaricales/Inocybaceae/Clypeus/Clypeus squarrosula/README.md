@@ -1,5 +1,4 @@
-Clypeus squarrosula P. Karst. SPECIES
-=======
+# Clypeus squarrosula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

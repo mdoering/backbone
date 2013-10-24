@@ -1,5 +1,4 @@
-Lecidea rubricatula Stirt. SPECIES
-=======
+# Lecidea rubricatula Stirt. SPECIES
 
 #### Status
 ACCEPTED

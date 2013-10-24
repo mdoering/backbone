@@ -1,5 +1,4 @@
-Didymoporisporonites obtectus Sheffy & Dilcher SPECIES
-=======
+# Didymoporisporonites obtectus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Empusa colorata (Sorokin) Jacz. SPECIES
-=======
+# Empusa colorata (Sorokin) Jacz. SPECIES
 
 #### Status
 ACCEPTED

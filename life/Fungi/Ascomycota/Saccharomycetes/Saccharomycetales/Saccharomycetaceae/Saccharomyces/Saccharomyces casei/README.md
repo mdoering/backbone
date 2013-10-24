@@ -1,5 +1,4 @@
-Saccharomyces casei F.C. Harrison SPECIES
-=======
+# Saccharomyces casei F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

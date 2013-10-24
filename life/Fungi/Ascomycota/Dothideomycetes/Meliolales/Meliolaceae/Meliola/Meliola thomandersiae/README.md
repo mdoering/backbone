@@ -1,5 +1,4 @@
-Meliola thomandersiae Hansf. SPECIES
-=======
+# Meliola thomandersiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

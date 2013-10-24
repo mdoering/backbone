@@ -1,5 +1,4 @@
-Parmelia nephaea (Sommerf.) Fr. SPECIES
-=======
+# Parmelia nephaea (Sommerf.) Fr. SPECIES
 
 #### Status
 ACCEPTED

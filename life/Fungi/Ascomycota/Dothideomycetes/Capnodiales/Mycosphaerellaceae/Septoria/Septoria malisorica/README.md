@@ -1,5 +1,4 @@
-Septoria malisorica Bubák SPECIES
-=======
+# Septoria malisorica Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma alutae E. Horak SPECIES
-=======
+# Entoloma alutae E. Horak SPECIES
 
 #### Status
 ACCEPTED

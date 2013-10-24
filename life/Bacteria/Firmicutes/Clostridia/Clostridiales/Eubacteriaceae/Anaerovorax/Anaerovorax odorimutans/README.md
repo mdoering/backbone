@@ -1,5 +1,4 @@
-Anaerovorax odorimutans Matthies et al., 2000 SPECIES
-=======
+# Anaerovorax odorimutans Matthies et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

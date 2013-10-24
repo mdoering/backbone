@@ -1,5 +1,4 @@
-Thelidium microstictum SPECIES
-=======
+# Thelidium microstictum SPECIES
 
 #### Status
 ACCEPTED

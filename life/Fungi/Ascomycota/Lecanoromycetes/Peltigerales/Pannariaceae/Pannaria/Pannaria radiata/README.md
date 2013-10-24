@@ -1,5 +1,4 @@
-Pannaria radiata (Vain.) C.W. Dodge SPECIES
-=======
+# Pannaria radiata (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dupliciradiatum tenue González, Moreno & Playford, 2005 SPECIES
-=======
+# Dupliciradiatum tenue González, Moreno & Playford, 2005 SPECIES
 
 #### Status
 ACCEPTED

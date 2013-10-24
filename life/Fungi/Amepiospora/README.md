@@ -1,5 +1,4 @@
-Amepiospora Locq. & Sal.-Cheb. GENUS
-=======
+# Amepiospora Locq. & Sal.-Cheb. GENUS
 
 #### Status
 ACCEPTED

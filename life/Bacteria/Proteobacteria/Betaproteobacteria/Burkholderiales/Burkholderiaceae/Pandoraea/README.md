@@ -1,5 +1,4 @@
-Pandoraea Coenye et al., 2000 GENUS
-=======
+# Pandoraea Coenye et al., 2000 GENUS
 
 #### Status
 ACCEPTED

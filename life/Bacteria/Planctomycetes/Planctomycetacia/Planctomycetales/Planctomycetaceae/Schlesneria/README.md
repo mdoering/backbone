@@ -1,5 +1,4 @@
-Schlesneria Kulichevskaya et al., 2007 GENUS
-=======
+# Schlesneria Kulichevskaya et al., 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoroblastia GENUS
-=======
+# Amphoroblastia GENUS
 
 #### Status
 ACCEPTED

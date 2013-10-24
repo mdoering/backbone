@@ -1,5 +1,4 @@
-Dicaeoma luxuriosum (P. Syd. & Syd.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma luxuriosum (P. Syd. & Syd.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

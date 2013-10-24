@@ -1,14 +1,13 @@
-Cortinarius cinnamomeus subsp. croceus (Schaeff.) Sacc. SUBSPECIES
-=======
+# Cortinarius croceus (Schaeff.) Gray, 1821 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 12: 938 (1897)
+Nat. Arr. Brit. Pl. (London) 1: 630 (1821)
 
 #### Original name
 Agaricus croceus Schaeff., 1774

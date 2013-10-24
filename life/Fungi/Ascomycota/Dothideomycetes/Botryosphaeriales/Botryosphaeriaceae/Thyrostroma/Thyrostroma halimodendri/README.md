@@ -1,5 +1,4 @@
-Thyrostroma halimodendri Petr. SPECIES
-=======
+# Thyrostroma halimodendri Petr. SPECIES
 
 #### Status
 ACCEPTED

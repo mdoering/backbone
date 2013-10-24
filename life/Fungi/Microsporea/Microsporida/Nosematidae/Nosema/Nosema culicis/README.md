@@ -1,5 +1,4 @@
-Nosema culicis SPECIES
-=======
+# Nosema culicis SPECIES
 
 #### Status
 ACCEPTED

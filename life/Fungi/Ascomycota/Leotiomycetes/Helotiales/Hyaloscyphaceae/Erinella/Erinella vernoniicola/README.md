@@ -1,5 +1,4 @@
-Erinella vernoniicola Henn. SPECIES
-=======
+# Erinella vernoniicola Henn. SPECIES
 
 #### Status
 ACCEPTED

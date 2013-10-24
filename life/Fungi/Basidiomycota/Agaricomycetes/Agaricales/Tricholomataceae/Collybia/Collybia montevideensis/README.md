@@ -1,5 +1,4 @@
-Collybia montevideensis Speg. SPECIES
-=======
+# Collybia montevideensis Speg. SPECIES
 
 #### Status
 ACCEPTED

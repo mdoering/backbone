@@ -1,5 +1,4 @@
-Phyllosticta leucanthemi Speg. SPECIES
-=======
+# Phyllosticta leucanthemi Speg. SPECIES
 
 #### Status
 ACCEPTED

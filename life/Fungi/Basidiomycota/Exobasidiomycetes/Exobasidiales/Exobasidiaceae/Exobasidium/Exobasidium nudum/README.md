@@ -1,5 +1,4 @@
-Exobasidium nudum (Shirai) S. Ito & Y. Otani SPECIES
-=======
+# Exobasidium nudum (Shirai) S. Ito & Y. Otani SPECIES
 
 #### Status
 ACCEPTED

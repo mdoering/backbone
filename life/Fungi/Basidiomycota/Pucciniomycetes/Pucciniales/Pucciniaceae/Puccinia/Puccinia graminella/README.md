@@ -1,5 +1,4 @@
-Puccinia graminella (Speg.) Dietel & Holw. SPECIES
-=======
+# Puccinia graminella (Speg.) Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentostomina bermudiana SPECIES
-=======
+# Dentostomina bermudiana SPECIES
 
 #### Status
 ACCEPTED

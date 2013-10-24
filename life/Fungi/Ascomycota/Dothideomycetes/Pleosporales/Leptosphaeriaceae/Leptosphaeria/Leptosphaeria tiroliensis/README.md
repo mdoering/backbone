@@ -1,5 +1,4 @@
-Leptosphaeria tiroliensis Kirschst. SPECIES
-=======
+# Leptosphaeria tiroliensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

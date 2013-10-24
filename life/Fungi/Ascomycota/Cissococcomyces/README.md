@@ -1,5 +1,4 @@
-Cissococcomyces Brain GENUS
-=======
+# Cissococcomyces Brain GENUS
 
 #### Status
 ACCEPTED

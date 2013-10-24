@@ -1,5 +1,4 @@
-Passalora clematidis-gourianae U. Braun & Crous SPECIES
-=======
+# Passalora clematidis-gourianae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

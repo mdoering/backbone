@@ -1,5 +1,4 @@
-Chaetomium lusitanicum M.R.M. Gomes SPECIES
-=======
+# Chaetomium lusitanicum M.R.M. Gomes SPECIES
 
 #### Status
 ACCEPTED

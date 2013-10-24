@@ -1,5 +1,4 @@
-Rhachomyces argentinus Thaxt. SPECIES
-=======
+# Rhachomyces argentinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia silenicola C. Massal. SPECIES
-=======
+# Ramularia silenicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

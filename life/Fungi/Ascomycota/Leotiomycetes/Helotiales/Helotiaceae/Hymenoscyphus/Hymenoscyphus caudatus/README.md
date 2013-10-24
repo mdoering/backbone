@@ -1,14 +1,13 @@
-Helotium caudatum (P. Karst.) Velen., 1934 SPECIES
-=======
+# Hymenoscyphus caudatus (P. Karst.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 1: 206 (1934)
+Persoonia 3(1): 76 (1964)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Rhizosolenia fallax Sundström, 1986 SPECIES
-=======
+# Rhizosolenia fallax Sundström, 1986 SPECIES
 
 #### Status
 ACCEPTED

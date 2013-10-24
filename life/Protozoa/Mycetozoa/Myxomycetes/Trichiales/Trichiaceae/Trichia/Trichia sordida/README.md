@@ -1,17 +1,16 @@
-Trichia sordida var. sordida Johannesen VARIETY
-=======
+# Trichia sordida Johannesen, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycotaxon 20(1): 81 (1984)
 
 #### Original name
-Trichia sordida var. sordida Johannesen
+Trichia sordida Johannesen, 1984
 
 ### Remarks
 null

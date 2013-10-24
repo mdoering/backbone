@@ -1,5 +1,4 @@
-Sepultaria pediseta Clem. SPECIES
-=======
+# Sepultaria pediseta Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochropsora daisenensis T. Hirats. & S. Uchida, 1960 SPECIES
-=======
+# Ochropsora daisenensis T. Hirats. & S. Uchida, 1960 SPECIES
 
 #### Status
 ACCEPTED

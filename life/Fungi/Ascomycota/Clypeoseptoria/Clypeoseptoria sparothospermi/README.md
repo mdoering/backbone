@@ -1,5 +1,4 @@
-Clypeoseptoria sparothospermi Linder, 1943 SPECIES
-=======
+# Clypeoseptoria sparothospermi Linder, 1943 SPECIES
 
 #### Status
 ACCEPTED

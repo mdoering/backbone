@@ -1,5 +1,4 @@
-Melanconium globosum Cooke & Harkn. SPECIES
-=======
+# Melanconium globosum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

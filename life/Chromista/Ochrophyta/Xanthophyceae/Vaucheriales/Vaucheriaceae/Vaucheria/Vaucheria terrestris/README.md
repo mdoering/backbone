@@ -1,5 +1,4 @@
-Vaucheria terrestris (Vaucher) Lyngbye SPECIES
-=======
+# Vaucheria terrestris (Vaucher) Lyngbye SPECIES
 
 #### Status
 ACCEPTED

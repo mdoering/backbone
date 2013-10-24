@@ -1,5 +1,4 @@
-Lepiota sublongistriata Raithelh. SPECIES
-=======
+# Lepiota sublongistriata Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoporellus krawtzewii (Pilát) Bondartsev & Singer SPECIES
-=======
+# Chaetoporellus krawtzewii (Pilát) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

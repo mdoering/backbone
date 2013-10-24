@@ -1,17 +1,16 @@
-Ascomycetella Peck, 1881 GENUS
-=======
+# Cookella Saccardo, 1878 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 8: 50 (1881)
+Michelia 1(no. 4): 407 (1878)
 
 #### Original name
-Ascomycetella Peck, 1881
+Cookella Saccardo, 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena gomezii Singer SPECIES
-=======
+# Mycena gomezii Singer SPECIES
 
 #### Status
 ACCEPTED

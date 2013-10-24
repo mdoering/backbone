@@ -1,5 +1,4 @@
-Uropyxis wiehei Cummins, 1956 SPECIES
-=======
+# Uropyxis wiehei Cummins, 1956 SPECIES
 
 #### Status
 ACCEPTED

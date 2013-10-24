@@ -1,5 +1,4 @@
-Micarea isabellina Coppins & Kantvilas SPECIES
-=======
+# Micarea isabellina Coppins & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

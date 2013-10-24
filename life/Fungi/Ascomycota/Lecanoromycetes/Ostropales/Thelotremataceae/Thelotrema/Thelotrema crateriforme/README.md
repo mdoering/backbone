@@ -1,5 +1,4 @@
-Thelotrema crateriforme Bél. SPECIES
-=======
+# Thelotrema crateriforme Bél. SPECIES
 
 #### Status
 ACCEPTED

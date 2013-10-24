@@ -1,5 +1,4 @@
-Arthopyrenia apposita (Nyl.) H. Olivier SPECIES
-=======
+# Arthopyrenia apposita (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

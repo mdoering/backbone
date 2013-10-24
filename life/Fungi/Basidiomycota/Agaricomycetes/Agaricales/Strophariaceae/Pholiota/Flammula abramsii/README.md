@@ -1,5 +1,4 @@
-Flammula abramsii (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula abramsii (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

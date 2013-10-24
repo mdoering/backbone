@@ -1,5 +1,4 @@
-Cetraria tuckermanii Oakes SPECIES
-=======
+# Cetraria tuckermanii Oakes SPECIES
 
 #### Status
 ACCEPTED

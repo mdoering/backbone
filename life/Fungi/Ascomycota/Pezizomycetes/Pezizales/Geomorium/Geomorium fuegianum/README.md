@@ -1,5 +1,4 @@
-Geomorium fuegianum Speg. SPECIES
-=======
+# Geomorium fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

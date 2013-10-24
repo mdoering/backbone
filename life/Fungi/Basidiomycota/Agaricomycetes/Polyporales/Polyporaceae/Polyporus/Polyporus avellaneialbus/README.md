@@ -1,17 +1,16 @@
-Polyporus avellaneoalbus (Murrill) Murrill SPECIES
-=======
+# Polyporus avellaneialbus (Murrill) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 65: 661 (1938)
 
 #### Original name
-Tyromyces avellaneoalbus Murrill
+Tyromyces avellaneialbus Murrill
 
 ### Remarks
 null

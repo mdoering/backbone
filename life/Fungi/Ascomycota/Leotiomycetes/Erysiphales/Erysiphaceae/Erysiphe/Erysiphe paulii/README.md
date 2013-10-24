@@ -1,5 +1,4 @@
-Erysiphe paulii U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe paulii U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

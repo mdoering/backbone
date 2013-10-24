@@ -1,5 +1,4 @@
-Hebelomina Maire, 1925 GENUS
-=======
+# Hebelomina Maire, 1925 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssonectria obducens P. Karst., 1881 SPECIES
-=======
+# Byssonectria obducens P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha albipes (Wallr.) Sacc. SPECIES
-=======
+# Dasyscyphus albipes (Wallr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

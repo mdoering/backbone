@@ -1,5 +1,4 @@
-Microsporoides GENUS
-=======
+# Microsporoides GENUS
 
 #### Status
 ACCEPTED

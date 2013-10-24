@@ -1,5 +1,4 @@
-Rinodina luteonigra Zahlbr. SPECIES
-=======
+# Rinodina luteonigra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

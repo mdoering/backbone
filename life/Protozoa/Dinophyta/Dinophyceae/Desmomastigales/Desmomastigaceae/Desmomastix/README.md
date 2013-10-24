@@ -1,5 +1,4 @@
-Desmomastix Pascher, 1914 GENUS
-=======
+# Desmomastix Pascher, 1914 GENUS
 
 #### Status
 ACCEPTED

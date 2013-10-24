@@ -1,5 +1,4 @@
-Pholiota lupina (Fr.) M.M. Moser SPECIES
-=======
+# Pholiota lupina (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

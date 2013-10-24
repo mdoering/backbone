@@ -1,5 +1,4 @@
-Stictis umbellatarum Schwein. SPECIES
-=======
+# Stictis umbellatarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

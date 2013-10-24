@@ -1,5 +1,4 @@
-Micarea byssacea (Th. Fr.) Czarnota, Guz.-Krzemin. & Coppins SPECIES
-=======
+# Micarea byssacea (Th. Fr.) Czarnota, Guz.-Krzemin. & Coppins SPECIES
 
 #### Status
 ACCEPTED

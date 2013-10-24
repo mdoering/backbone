@@ -1,5 +1,4 @@
-Synchroma Schnetter, 2007 GENUS
-=======
+# Synchroma Schnetter, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella maxima Miles SPECIES
-=======
+# Mycosphaerella maxima Miles SPECIES
 
 #### Status
 ACCEPTED

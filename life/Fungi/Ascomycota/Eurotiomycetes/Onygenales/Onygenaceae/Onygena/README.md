@@ -1,17 +1,16 @@
-Piligena Schumacher, 1821 GENUS
-=======
+# Onygena Persoon, 1799 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enum. pl. (Kjbenhavn) 2: 221 (1803)
+Observ. mycol. , fasc. 2, 71.
 
 #### Original name
-Piligena Schumacher, 1821
+Onygena Persoon, 1799
 
 ### Remarks
 null

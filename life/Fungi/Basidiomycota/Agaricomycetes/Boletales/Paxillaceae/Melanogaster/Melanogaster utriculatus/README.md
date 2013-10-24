@@ -1,5 +1,4 @@
-Melanogaster utriculatus Y. Wang, Castellano & Trappe, 2005 SPECIES
-=======
+# Melanogaster utriculatus Y. Wang, Castellano & Trappe, 2005 SPECIES
 
 #### Status
 ACCEPTED

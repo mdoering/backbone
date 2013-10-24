@@ -1,5 +1,4 @@
-Cercospora ochracea Sacc. & Malbr. SPECIES
-=======
+# Cercospora ochracea Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

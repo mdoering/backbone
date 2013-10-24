@@ -1,17 +1,16 @@
-Lecanora rupicola f. rupicola FORM
-=======
+# Lecanora rupicola (L.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 5: 525 (1928)
+null
 
 #### Original name
-Lecanora rupicola f. rupicola
+null
 
 ### Remarks
 null

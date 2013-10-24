@@ -1,5 +1,4 @@
-Parmelia melanotricha SPECIES
-=======
+# Parmelia melanotricha SPECIES
 
 #### Status
 ACCEPTED

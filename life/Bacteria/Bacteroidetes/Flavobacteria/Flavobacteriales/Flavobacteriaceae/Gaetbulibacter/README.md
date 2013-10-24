@@ -1,5 +1,4 @@
-Gaetbulibacter Jung, Kang, Lee, Lee, Oh & Yoon, 2005 GENUS
-=======
+# Gaetbulibacter Jung, Kang, Lee, Lee, Oh & Yoon, 2005 GENUS
 
 #### Status
 ACCEPTED

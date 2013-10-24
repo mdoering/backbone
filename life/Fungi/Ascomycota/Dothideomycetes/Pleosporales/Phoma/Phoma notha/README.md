@@ -1,5 +1,4 @@
-Phoma notha Sacc., 1880 SPECIES
-=======
+# Phoma notha Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

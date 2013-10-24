@@ -1,8 +1,7 @@
-Triquetrorhabdulus martinii Gartner, 1967 SPECIES
-=======
+# Rhabdothorax serratus (Bramlette & Wilcoxon, 1967) Roth, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Eremodothis Arx GENUS
-=======
+# Eremodothis Arx GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromphalus hookerii Ehrenberg, 1844 SPECIES
-=======
+# Asteromphalus hookerii Ehrenberg, 1844 SPECIES
 
 #### Status
 ACCEPTED

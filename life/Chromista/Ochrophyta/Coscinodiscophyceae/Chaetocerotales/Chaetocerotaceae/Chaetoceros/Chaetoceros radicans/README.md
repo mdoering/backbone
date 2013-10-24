@@ -1,5 +1,4 @@
-Chaetoceros radicans Schutt SPECIES
-=======
+# Chaetoceros radicans Schutt SPECIES
 
 #### Status
 ACCEPTED

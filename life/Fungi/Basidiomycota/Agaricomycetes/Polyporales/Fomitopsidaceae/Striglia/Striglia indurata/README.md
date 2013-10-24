@@ -1,5 +1,4 @@
-Striglia indurata (Berk.) Kuntze SPECIES
-=======
+# Striglia indurata (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

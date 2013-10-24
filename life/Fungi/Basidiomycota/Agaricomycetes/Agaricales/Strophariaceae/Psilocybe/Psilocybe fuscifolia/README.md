@@ -1,5 +1,4 @@
-Psilocybe fuscifolia Peck SPECIES
-=======
+# Psilocybe fuscifolia Peck SPECIES
 
 #### Status
 ACCEPTED

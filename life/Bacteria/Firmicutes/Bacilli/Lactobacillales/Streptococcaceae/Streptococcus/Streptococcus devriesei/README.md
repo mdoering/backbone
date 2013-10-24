@@ -1,5 +1,4 @@
-Streptococcus devriesei Collins et al., 2004 SPECIES
-=======
+# Streptococcus devriesei Collins et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium argenteum Lücking & L. I. Ferraro SPECIES
-=======
+# Trichothelium argenteum Lücking & L. I. Ferraro SPECIES
 
 #### Status
 ACCEPTED

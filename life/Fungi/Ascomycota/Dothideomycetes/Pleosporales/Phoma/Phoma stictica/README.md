@@ -1,5 +1,4 @@
-Phoma stictica SPECIES
-=======
+# Phoma stictica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerophorus melanocarpus subsp. melanocarpus SUBSPECIES
-=======
+# Bunodophoron melanocarpum (Sw.) Wedin SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 55: 383 (1995)
 
 #### Original name
-null
+Lichen melanocarpus Sw.
 
 ### Remarks
 null

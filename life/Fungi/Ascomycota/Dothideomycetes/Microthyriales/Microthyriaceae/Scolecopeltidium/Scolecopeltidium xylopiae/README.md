@@ -1,5 +1,4 @@
-Scolecopeltidium xylopiae (Bat. & Gayão) Bat. SPECIES
-=======
+# Scolecopeltidium xylopiae (Bat. & Gayão) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudasterodon variegatus Rick SPECIES
-=======
+# Pseudasterodon variegatus Rick SPECIES
 
 #### Status
 ACCEPTED

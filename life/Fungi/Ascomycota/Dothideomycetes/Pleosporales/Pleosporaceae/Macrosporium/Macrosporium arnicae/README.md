@@ -1,5 +1,4 @@
-Macrosporium arnicae Rostr. SPECIES
-=======
+# Macrosporium arnicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

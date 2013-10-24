@@ -1,5 +1,4 @@
-Armatella indica Hosag. SPECIES
-=======
+# Armatella indica Hosag. SPECIES
 
 #### Status
 ACCEPTED

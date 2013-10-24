@@ -1,5 +1,4 @@
-Amphidinium pelagicum Lebour SPECIES
-=======
+# Amphidinium pelagicum Lebour SPECIES
 
 #### Status
 ACCEPTED

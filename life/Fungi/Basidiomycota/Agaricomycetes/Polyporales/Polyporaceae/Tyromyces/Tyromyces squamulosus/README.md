@@ -1,5 +1,4 @@
-Tyromyces squamulosus (Bres.) Ryvarden, 1988 SPECIES
-=======
+# Tyromyces squamulosus (Bres.) Ryvarden, 1988 SPECIES
 
 #### Status
 ACCEPTED

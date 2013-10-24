@@ -1,14 +1,13 @@
-Polycriccos Lohmann, 1908 GENUS
-=======
+# Polykrikos Buetschli, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Wiss. Meeresunters. , 10, Abt. Kiel, 284.
+Arch. mikr. Anat. , 9, 673.
 
 #### Original name
 null

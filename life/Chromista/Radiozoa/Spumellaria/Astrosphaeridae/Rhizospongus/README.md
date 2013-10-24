@@ -1,5 +1,4 @@
-Rhizospongus Mast, 1910 GENUS
-=======
+# Rhizospongus Mast, 1910 GENUS
 
 #### Status
 ACCEPTED

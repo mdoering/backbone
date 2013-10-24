@@ -1,5 +1,4 @@
-Sorosporium paspali-thunbergii (Henn.) S. Ito SPECIES
-=======
+# Sorosporium paspali-thunbergii (Henn.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplocaulus distinguendus Sommer, 1951 SPECIES
-=======
+# Haplocaulus distinguendus Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

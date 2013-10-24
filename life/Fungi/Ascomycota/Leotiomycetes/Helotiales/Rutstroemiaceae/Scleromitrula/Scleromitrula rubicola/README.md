@@ -1,5 +1,4 @@
-Scleromitrula rubicola T. Schumach. & Holst-Jensen SPECIES
-=======
+# Scleromitrula rubicola T. Schumach. & Holst-Jensen SPECIES
 
 #### Status
 ACCEPTED

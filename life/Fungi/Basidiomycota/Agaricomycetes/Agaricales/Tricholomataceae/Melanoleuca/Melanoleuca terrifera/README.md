@@ -1,5 +1,4 @@
-Melanoleuca terrifera (Peck) Murrill SPECIES
-=======
+# Melanoleuca terrifera (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

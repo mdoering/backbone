@@ -1,5 +1,4 @@
-Ascidium pachystomum Leight. SPECIES
-=======
+# Ascidium pachystomum Leight. SPECIES
 
 #### Status
 ACCEPTED

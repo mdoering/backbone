@@ -1,5 +1,4 @@
-Monosiga marina Grøntved SPECIES
-=======
+# Monosiga marina Grøntved SPECIES
 
 #### Status
 ACCEPTED

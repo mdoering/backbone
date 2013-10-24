@@ -1,5 +1,4 @@
-Coralloidiomyces digitatus Letcher SPECIES
-=======
+# Coralloidiomyces digitatus Letcher SPECIES
 
 #### Status
 ACCEPTED

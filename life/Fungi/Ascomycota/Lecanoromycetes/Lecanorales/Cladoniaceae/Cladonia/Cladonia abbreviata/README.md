@@ -1,5 +1,4 @@
-Cladonia abbreviata G. Merr. SPECIES
-=======
+# Cladonia abbreviata G. Merr. SPECIES
 
 #### Status
 ACCEPTED

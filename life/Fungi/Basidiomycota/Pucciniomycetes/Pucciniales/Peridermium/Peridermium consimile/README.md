@@ -1,5 +1,4 @@
-Peridermium consimile Arthur & F. Kern SPECIES
-=======
+# Peridermium consimile Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

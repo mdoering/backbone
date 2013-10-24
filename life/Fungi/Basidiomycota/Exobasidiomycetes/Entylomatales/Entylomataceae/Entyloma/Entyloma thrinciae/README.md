@@ -1,5 +1,4 @@
-Entyloma thrinciae Maire SPECIES
-=======
+# Entyloma thrinciae Maire SPECIES
 
 #### Status
 ACCEPTED

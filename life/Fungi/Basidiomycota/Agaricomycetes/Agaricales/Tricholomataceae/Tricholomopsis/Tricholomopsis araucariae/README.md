@@ -1,5 +1,4 @@
-Tricholomopsis araucariae Singer SPECIES
-=======
+# Tricholomopsis araucariae Singer SPECIES
 
 #### Status
 ACCEPTED

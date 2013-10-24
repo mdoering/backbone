@@ -1,14 +1,13 @@
-Pseudocercospora acalyphigena (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora acalyphicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Yen & Lim, Gdns' Bull. , Singapore 33: 168 (1980)
 
 #### Original name
 Cercospora acalyphicola J.M. Yen

@@ -1,5 +1,4 @@
-Sphaeronaema quercicola Oudem. SPECIES
-=======
+# Sphaeronaema quercicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

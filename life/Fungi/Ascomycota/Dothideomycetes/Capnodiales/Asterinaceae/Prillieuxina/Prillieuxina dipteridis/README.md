@@ -1,5 +1,4 @@
-Prillieuxina dipteridis (Hansf.) Arx SPECIES
-=======
+# Prillieuxina dipteridis (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

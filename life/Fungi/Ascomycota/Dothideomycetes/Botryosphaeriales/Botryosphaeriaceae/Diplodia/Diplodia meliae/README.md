@@ -1,5 +1,4 @@
-Diplodia meliae Tassi SPECIES
-=======
+# Diplodia meliae Tassi SPECIES
 
 #### Status
 ACCEPTED

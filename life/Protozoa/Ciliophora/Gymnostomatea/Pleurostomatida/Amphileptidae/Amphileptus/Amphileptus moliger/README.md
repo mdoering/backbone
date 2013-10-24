@@ -1,5 +1,4 @@
-Amphileptus moliger SPECIES
-=======
+# Amphileptus moliger SPECIES
 
 #### Status
 ACCEPTED

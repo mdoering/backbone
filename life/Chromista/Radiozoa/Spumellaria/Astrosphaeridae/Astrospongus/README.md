@@ -1,5 +1,4 @@
-Astrospongus Mast, 1910 GENUS
-=======
+# Astrospongus Mast, 1910 GENUS
 
 #### Status
 ACCEPTED

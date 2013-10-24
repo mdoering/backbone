@@ -1,5 +1,4 @@
-Trachelius lamella Dujardin, 1841 SPECIES
-=======
+# Trachelius lamella Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

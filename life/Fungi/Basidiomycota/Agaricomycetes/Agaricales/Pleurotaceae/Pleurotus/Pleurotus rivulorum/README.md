@@ -1,14 +1,13 @@
-Pleurotus rivularum (Pat. & Doass.) Sacc. SPECIES
-=======
+# Pleurotus rivulorum (Pat. & Doass.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 377 (1887)
 
 #### Original name
 Agaricus rivulorum Pat. & Doass.

@@ -1,5 +1,4 @@
-Chitonomyces auriculatus Thaxt. SPECIES
-=======
+# Chitonomyces auriculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomonas oryzae (ex Ishiyama, 1922) Swings et al., 1990 SPECIES
-=======
+# Xanthomonas oryzae (ex Ishiyama, 1922) Swings et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

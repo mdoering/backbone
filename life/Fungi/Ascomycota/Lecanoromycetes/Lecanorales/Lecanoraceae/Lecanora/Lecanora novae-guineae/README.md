@@ -1,17 +1,16 @@
-Lecanora novaeguineae Lumbsch SPECIES
-=======
+# Lecanora novae-guineae Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 77: 117 (1994)
 
 #### Original name
-Lecanora novaeguineae Lumbsch
+Lecanora novae-guineae Lumbsch
 
 ### Remarks
 null

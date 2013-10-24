@@ -1,5 +1,4 @@
-Paraaoria himalayana R.K. Verma & Kamal, 1987 SPECIES
-=======
+# Paraaoria himalayana R.K. Verma & Kamal, 1987 SPECIES
 
 #### Status
 ACCEPTED

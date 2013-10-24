@@ -1,5 +1,4 @@
-Cetraria odontella var. odontella VARIETY
-=======
+# Cetraria odontella (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. Lich. 230 (1814)
 
 #### Original name
 Lichen odontellus Ach.

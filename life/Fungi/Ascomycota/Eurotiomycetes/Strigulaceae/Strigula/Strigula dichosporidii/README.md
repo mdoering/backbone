@@ -1,5 +1,4 @@
-Strigula dichosporidii Etayo SPECIES
-=======
+# Strigula dichosporidii Etayo SPECIES
 
 #### Status
 ACCEPTED

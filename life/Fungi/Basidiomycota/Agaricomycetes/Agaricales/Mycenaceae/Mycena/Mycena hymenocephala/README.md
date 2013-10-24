@@ -1,5 +1,4 @@
-Mycena hymenocephala A.H. Sm. SPECIES
-=======
+# Mycena hymenocephala A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora malachrae E. Young SPECIES
-=======
+# Cercospora malachrae E. Young SPECIES
 
 #### Status
 ACCEPTED

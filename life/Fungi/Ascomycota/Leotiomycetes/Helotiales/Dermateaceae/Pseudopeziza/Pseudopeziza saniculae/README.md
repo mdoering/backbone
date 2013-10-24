@@ -1,5 +1,4 @@
-Pseudopeziza saniculae Niessl SPECIES
-=======
+# Pseudopeziza saniculae Niessl SPECIES
 
 #### Status
 ACCEPTED

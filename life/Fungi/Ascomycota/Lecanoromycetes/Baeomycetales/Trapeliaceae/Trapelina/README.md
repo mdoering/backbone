@@ -1,5 +1,4 @@
-Trapelina GENUS
-=======
+# Trapelina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium phyllogenum Vain. SPECIES
-=======
+# Leptogium phyllogenum Vain. SPECIES
 
 #### Status
 ACCEPTED

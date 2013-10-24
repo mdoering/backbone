@@ -1,5 +1,4 @@
-Lepraria rosea (Schreb.) Ach. SPECIES
-=======
+# Lepraria rosea (Schreb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

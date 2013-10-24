@@ -1,5 +1,4 @@
-Coniothyrium tephrosporum (Berk. & M.A. Curtis) Tassi SPECIES
-=======
+# Coniothyrium tephrosporum (Berk. & M.A. Curtis) Tassi SPECIES
 
 #### Status
 ACCEPTED

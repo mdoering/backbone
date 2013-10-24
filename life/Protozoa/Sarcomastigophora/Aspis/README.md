@@ -1,5 +1,4 @@
-Aspis Nishimura, 1992 GENUS
-=======
+# Aspis Nishimura, 1992 GENUS
 
 #### Status
 ACCEPTED

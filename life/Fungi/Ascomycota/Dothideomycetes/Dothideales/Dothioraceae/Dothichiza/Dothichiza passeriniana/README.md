@@ -1,5 +1,4 @@
-Dothichiza passeriniana Sacc. & Roum. SPECIES
-=======
+# Dothichiza passeriniana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

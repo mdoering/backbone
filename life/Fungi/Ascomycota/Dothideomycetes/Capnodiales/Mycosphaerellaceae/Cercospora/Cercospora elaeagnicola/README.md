@@ -1,5 +1,4 @@
-Cercospora elaeagnicola Chidd. SPECIES
-=======
+# Cercospora elaeagnicola Chidd. SPECIES
 
 #### Status
 ACCEPTED

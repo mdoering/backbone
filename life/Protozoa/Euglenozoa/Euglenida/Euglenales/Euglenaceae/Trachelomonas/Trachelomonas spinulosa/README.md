@@ -1,5 +1,4 @@
-Trachelomonas spinulosa (Skvortzov) Deflandre SPECIES
-=======
+# Trachelomonas spinulosa (Skvortzov) Deflandre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ordovicidium nudum (Eisenack, 1959) Loeblich & Tappan, 1978 SPECIES
-=======
+# Ordovicidium nudum (Eisenack, 1959) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

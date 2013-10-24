@@ -1,17 +1,16 @@
-Hysterium tortile Schwein., 1822 SPECIES
-=======
+# Mytilinidion tortile (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 763 (1883)
 
 #### Original name
-null
+Hysterium tortile Schwein., 1822
 
 ### Remarks
 null

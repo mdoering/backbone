@@ -1,5 +1,4 @@
-Planktothrix cryptovaginata (Schkorbatov) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Planktothrix cryptovaginata (Schkorbatov) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

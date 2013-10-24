@@ -1,5 +1,4 @@
-Perichlamidium Bailey, 1856 GENUS
-=======
+# Perichlamidium Bailey, 1856 GENUS
 
 #### Status
 ACCEPTED

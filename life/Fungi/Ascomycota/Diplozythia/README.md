@@ -1,5 +1,4 @@
-Diplozythia Bubák GENUS
-=======
+# Diplozythia Bubák GENUS
 
 #### Status
 ACCEPTED

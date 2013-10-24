@@ -1,5 +1,4 @@
-Rhodophyllus tricolor (Massee) SPECIES
-=======
+# Rhodophyllus tricolor (Massee) SPECIES
 
 #### Status
 ACCEPTED

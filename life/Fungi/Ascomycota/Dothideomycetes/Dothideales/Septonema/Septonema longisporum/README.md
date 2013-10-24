@@ -1,5 +1,4 @@
-Septonema longisporum Bat. SPECIES
-=======
+# Septonema longisporum Bat. SPECIES
 
 #### Status
 ACCEPTED

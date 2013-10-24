@@ -1,5 +1,4 @@
-Thelephora granosa Berk. & M.A. Curtis SPECIES
-=======
+# Thelephora granosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

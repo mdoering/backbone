@@ -1,5 +1,4 @@
-Tritaxidae FAMILY
-=======
+# Tritaxidae FAMILY
 
 #### Status
 ACCEPTED

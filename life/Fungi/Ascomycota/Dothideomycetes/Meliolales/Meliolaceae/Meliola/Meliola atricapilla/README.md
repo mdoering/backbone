@@ -1,5 +1,4 @@
-Meliola atricapilla Starbäck SPECIES
-=======
+# Meliola atricapilla Starbäck SPECIES
 
 #### Status
 ACCEPTED

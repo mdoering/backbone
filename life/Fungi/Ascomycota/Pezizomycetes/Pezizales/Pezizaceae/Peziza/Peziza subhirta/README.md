@@ -1,5 +1,4 @@
-Peziza subhirta Schwein. SPECIES
-=======
+# Peziza subhirta Schwein. SPECIES
 
 #### Status
 ACCEPTED

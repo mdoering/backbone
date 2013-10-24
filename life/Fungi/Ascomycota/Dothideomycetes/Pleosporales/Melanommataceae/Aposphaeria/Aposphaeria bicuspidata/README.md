@@ -1,5 +1,4 @@
-Aposphaeria bicuspidata (Berk.) Sacc. SPECIES
-=======
+# Aposphaeria bicuspidata (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

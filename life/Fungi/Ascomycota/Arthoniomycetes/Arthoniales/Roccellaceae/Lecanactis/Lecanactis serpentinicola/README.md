@@ -1,5 +1,4 @@
-Lecanactis serpentinicola Räsänen SPECIES
-=======
+# Lecanactis serpentinicola Räsänen SPECIES
 
 #### Status
 ACCEPTED

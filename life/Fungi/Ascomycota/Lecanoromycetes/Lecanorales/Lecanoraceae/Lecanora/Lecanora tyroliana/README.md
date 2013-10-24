@@ -1,5 +1,4 @@
-Lecanora tyroliana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora tyroliana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

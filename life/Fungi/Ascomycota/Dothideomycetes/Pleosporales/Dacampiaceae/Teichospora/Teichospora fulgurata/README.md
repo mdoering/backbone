@@ -1,5 +1,4 @@
-Teichospora fulgurata Ellis & Everh. SPECIES
-=======
+# Teichospora fulgurata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

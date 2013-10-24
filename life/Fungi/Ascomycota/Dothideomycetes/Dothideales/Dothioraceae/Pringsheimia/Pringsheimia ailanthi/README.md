@@ -1,5 +1,4 @@
-Pringsheimia ailanthi Tilak & R. Rao SPECIES
-=======
+# Pringsheimia ailanthi Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

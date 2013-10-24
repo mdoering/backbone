@@ -1,5 +1,4 @@
-Grandinia papulosa Berk. & Broome SPECIES
-=======
+# Grandinia papulosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

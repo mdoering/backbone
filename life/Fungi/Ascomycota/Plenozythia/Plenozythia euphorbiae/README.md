@@ -1,5 +1,4 @@
-Plenozythia euphorbiae Syd. & P. Syd., 1916 SPECIES
-=======
+# Plenozythia euphorbiae Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus aurivenius Batsch SPECIES
-=======
+# Agaricus aurivenius Batsch SPECIES
 
 #### Status
 ACCEPTED

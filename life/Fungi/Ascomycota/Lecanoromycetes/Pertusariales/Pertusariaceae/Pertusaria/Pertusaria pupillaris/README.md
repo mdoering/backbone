@@ -1,17 +1,16 @@
-Biatora cinnabarina (Sommerf.) Fr., 1831 SPECIES
-=======
+# Pertusaria pupillaris (Nyl.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Lecanora pupillaris Nyl.
 
 ### Remarks
 null

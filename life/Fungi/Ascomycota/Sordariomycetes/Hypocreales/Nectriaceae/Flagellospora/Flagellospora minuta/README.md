@@ -1,5 +1,4 @@
-Flagellospora minuta S.H. Iqbal & Bhatty, 1980 SPECIES
-=======
+# Flagellospora minuta S.H. Iqbal & Bhatty, 1980 SPECIES
 
 #### Status
 ACCEPTED

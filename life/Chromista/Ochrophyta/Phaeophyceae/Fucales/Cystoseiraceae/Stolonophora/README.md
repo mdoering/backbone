@@ -1,5 +1,4 @@
-Stolonophora M. Nizamuddin, 1969 GENUS
-=======
+# Stolonophora M. Nizamuddin, 1969 GENUS
 
 #### Status
 ACCEPTED

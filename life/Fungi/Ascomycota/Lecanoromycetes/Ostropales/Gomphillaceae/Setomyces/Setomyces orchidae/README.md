@@ -1,5 +1,4 @@
-Setomyces orchidae Bat. & Peres SPECIES
-=======
+# Setomyces orchidae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

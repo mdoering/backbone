@@ -1,5 +1,4 @@
-Gloiocephala tibiicystis E. Horak & Desjardin, 1994 SPECIES
-=======
+# Gloiocephala tibiicystis E. Horak & Desjardin, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium musae-sapientum Hansf. SPECIES
-=======
+# Drechslera musae-sapientium (Hansf.) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dematiaceous Hyphomycetes (Kew) 451 (1971)
 
 #### Original name
-Helminthosporium musae-sapientum Hansf.
+Helminthosporium musae-sapientium Hansf., 1943
 
 ### Remarks
 null

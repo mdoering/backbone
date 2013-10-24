@@ -1,14 +1,13 @@
-Heterothecium biferum (Nyl.) Müll. Arg. SPECIES
-=======
+# Letrouitia bifera (Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 64(7): 104 (1881)
+Nova Hedwigia 35(4): 666 (1983)
 
 #### Original name
 Lecidea bifera Nyl.

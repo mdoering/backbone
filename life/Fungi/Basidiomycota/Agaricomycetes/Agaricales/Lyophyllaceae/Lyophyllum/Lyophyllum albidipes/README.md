@@ -1,5 +1,4 @@
-Lyophyllum albidipes Contu SPECIES
-=======
+# Lyophyllum albidipes Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca alcarum Poelt SPECIES
-=======
+# Caloplaca alcarum Poelt SPECIES
 
 #### Status
 ACCEPTED

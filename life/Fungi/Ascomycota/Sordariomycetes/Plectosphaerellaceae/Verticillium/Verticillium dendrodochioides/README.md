@@ -1,5 +1,4 @@
-Verticillium dendrodochioides D. Sacc. SPECIES
-=======
+# Verticillium dendrodochioides D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

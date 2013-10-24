@@ -1,17 +1,16 @@
-Leptosporium subgen. Saccardo von Höhnel, 1923 GENUS
-=======
+# Fusicolla Bonord. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Handb. Allgem. mykol. (Stuttgart) 150 (1851)
 
 #### Original name
-null
+Fusicolla Bonord.
 
 ### Remarks
 null

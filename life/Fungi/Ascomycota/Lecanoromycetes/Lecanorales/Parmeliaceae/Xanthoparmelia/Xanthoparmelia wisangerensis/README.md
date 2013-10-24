@@ -1,5 +1,4 @@
-Xanthoparmelia wisangerensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia wisangerensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

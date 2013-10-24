@@ -1,5 +1,4 @@
-Uredo leguminosarum var. leguminosarum VARIETY
-=======
+# Uredo leguminosarum M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo leguminosarum var. leguminosarum
+Uredo leguminosarum M.A. Curtis
 
 ### Remarks
 null

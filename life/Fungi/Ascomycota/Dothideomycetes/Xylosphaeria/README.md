@@ -1,5 +1,4 @@
-Xylosphaeria GENUS
-=======
+# Xylosphaeria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium varians Pidopl. SPECIES
-=======
+# Gliocladium varians Pidopl. SPECIES
 
 #### Status
 ACCEPTED

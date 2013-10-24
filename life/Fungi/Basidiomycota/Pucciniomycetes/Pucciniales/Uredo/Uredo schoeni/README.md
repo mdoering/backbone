@@ -1,5 +1,4 @@
-Uredo schoeni G. Cunn. SPECIES
-=======
+# Uredo schoeni G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

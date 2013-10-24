@@ -1,5 +1,4 @@
-Lobaria juniperina (L.) Hoffm. SPECIES
-=======
+# Lobaria juniperina (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

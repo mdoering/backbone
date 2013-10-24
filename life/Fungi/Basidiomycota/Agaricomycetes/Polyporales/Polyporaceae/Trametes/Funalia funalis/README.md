@@ -1,5 +1,4 @@
-Funalia funalis (Fr.) Pat. SPECIES
-=======
+# Funalia funalis (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

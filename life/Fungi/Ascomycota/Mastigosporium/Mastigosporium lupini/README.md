@@ -1,5 +1,4 @@
-Mastigosporium lupini (Sorauer) Cavara SPECIES
-=======
+# Mastigosporium lupini (Sorauer) Cavara SPECIES
 
 #### Status
 ACCEPTED

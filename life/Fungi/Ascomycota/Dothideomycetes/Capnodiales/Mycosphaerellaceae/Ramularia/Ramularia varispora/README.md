@@ -1,5 +1,4 @@
-Ramularia varispora Golovin & Gapon. SPECIES
-=======
+# Ramularia varispora Golovin & Gapon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterina litseae (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina litseae (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea sulcata var. sulcata VARIETY
-=======
+# Usnea sulcata Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. Gen. Usnea Monogr. 2(1): 478 (1937)
 
 #### Original name
-Usnea sulcata var. sulcata
+Usnea sulcata Motyka
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Merulius strigipes (Berk.) Kuntze SPECIES
-=======
+# Merulius strigipes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

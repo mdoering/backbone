@@ -1,5 +1,4 @@
-Seynesia costaricensis Speg. SPECIES
-=======
+# Seynesia costaricensis Speg. SPECIES
 
 #### Status
 ACCEPTED

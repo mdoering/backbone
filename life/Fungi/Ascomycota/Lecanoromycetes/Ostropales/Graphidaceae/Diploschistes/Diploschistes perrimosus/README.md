@@ -1,5 +1,4 @@
-Diploschistes perrimosus (Stirt.) Zahlbr. SPECIES
-=======
+# Diploschistes perrimosus (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

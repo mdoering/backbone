@@ -1,5 +1,4 @@
-Cryptosporidium nasoris Hoover, Hoerr, Carlton, Hinsman & Ferguson, 1981 SPECIES
-=======
+# Cryptosporidium nasoris Hoover, Hoerr, Carlton, Hinsman & Ferguson, 1981 SPECIES
 
 #### Status
 ACCEPTED

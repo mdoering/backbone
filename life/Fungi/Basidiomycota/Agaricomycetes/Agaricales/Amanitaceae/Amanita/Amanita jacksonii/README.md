@@ -1,5 +1,4 @@
-Amanita jacksonii Pomerl. SPECIES
-=======
+# Amanita jacksonii Pomerl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza catulacea Desm. SPECIES
-=======
+# Peziza catulacea Desm. SPECIES
 
 #### Status
 ACCEPTED

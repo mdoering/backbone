@@ -1,5 +1,4 @@
-Micropeltis picramniae Bat. & Gayão SPECIES
-=======
+# Micropeltis picramniae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allofustis Collins et al., 2003 GENUS
-=======
+# Allofustis Collins et al., 2003 GENUS
 
 #### Status
 ACCEPTED

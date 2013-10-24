@@ -1,5 +1,4 @@
-Rhizopogon lowei A.H. Sm. SPECIES
-=======
+# Rhizopogon lowei A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

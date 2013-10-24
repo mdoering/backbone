@@ -1,5 +1,4 @@
-Phylloporina hypothetica (Vain.) SPECIES
-=======
+# Phylloporina hypothetica (Vain.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicladium consors Sacc. SPECIES
-=======
+# Fusicladium consors Sacc. SPECIES
 
 #### Status
 ACCEPTED

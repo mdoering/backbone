@@ -1,5 +1,4 @@
-Pyrenula subcamptospora Upreti SPECIES
-=======
+# Pyrenula subcamptospora Upreti SPECIES
 
 #### Status
 ACCEPTED

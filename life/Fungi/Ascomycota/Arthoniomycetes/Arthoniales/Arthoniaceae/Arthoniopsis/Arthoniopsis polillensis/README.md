@@ -1,5 +1,4 @@
-Arthoniopsis polillensis (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis polillensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

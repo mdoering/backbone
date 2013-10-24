@@ -1,5 +1,4 @@
-Prevotella multiformis Sakamoto et al., 2005 SPECIES
-=======
+# Prevotella multiformis Sakamoto et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

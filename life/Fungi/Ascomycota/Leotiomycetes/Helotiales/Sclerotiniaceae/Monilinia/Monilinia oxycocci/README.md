@@ -1,17 +1,16 @@
-Stromatinia oxycocci var. oxycocci (Woronin) Boud. VARIETY
-=======
+# Monilinia oxycocci (Woronin) Honey, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 109 (1907)
+Am. J. Bot. 23: 105 (1936)
 
 #### Original name
-Stromatinia oxycocci var. oxycocci (Woronin) Boud.
+Sclerotinia oxycocci Woronin, 1888
 
 ### Remarks
 null

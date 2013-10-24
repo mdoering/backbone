@@ -1,5 +1,4 @@
-Krombholziella luteopora (Bouchinot) Alessio SPECIES
-=======
+# Krombholziella luteopora (Bouchinot) Alessio SPECIES
 
 #### Status
 ACCEPTED

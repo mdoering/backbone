@@ -1,5 +1,4 @@
-Physcia desertorum (P. Rupr.) Savicz SPECIES
-=======
+# Physcia desertorum (P. Rupr.) Savicz SPECIES
 
 #### Status
 ACCEPTED

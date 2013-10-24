@@ -1,5 +1,4 @@
-Sphaerella osmundicola Kirschst. SPECIES
-=======
+# Sphaerella osmundicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

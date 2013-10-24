@@ -1,11 +1,10 @@
-Scrippsiella faeroeense (Paulsen) Balech & Soares SPECIES
-=======
+# Scrippsiella trochoidea (Stein) Loeblich Iii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

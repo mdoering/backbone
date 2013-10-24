@@ -1,5 +1,4 @@
-Phyllosticta cedrelae Elisei SPECIES
-=======
+# Phyllosticta cedrelae Elisei SPECIES
 
 #### Status
 ACCEPTED

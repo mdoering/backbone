@@ -1,5 +1,4 @@
-Pseudopyrenula infuscatula SPECIES
-=======
+# Pseudopyrenula infuscatula SPECIES
 
 #### Status
 ACCEPTED

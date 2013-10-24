@@ -1,5 +1,4 @@
-Crepidotus eburneus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus eburneus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora litseicola (Boedijn) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora litseicola (Boedijn) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

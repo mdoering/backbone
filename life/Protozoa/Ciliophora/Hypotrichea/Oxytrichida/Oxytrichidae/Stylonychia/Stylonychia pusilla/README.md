@@ -1,5 +1,4 @@
-Stylonychia pusilla Stokes, 1878 SPECIES
-=======
+# Stylonychia pusilla Stokes, 1878 SPECIES
 
 #### Status
 ACCEPTED

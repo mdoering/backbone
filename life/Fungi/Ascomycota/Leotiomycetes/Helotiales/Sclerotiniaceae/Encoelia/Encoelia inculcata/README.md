@@ -1,5 +1,4 @@
-Encoelia inculcata P. Karst. SPECIES
-=======
+# Encoelia inculcata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

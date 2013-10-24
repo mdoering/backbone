@@ -1,5 +1,4 @@
-Clitocybe epigaea H.E. Bigelow SPECIES
-=======
+# Clitocybe epigaea H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

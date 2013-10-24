@@ -1,5 +1,4 @@
-Mycosphaerella fuiiensis Hara SPECIES
-=======
+# Mycosphaerella fuiiensis Hara SPECIES
 
 #### Status
 ACCEPTED

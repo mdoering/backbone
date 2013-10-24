@@ -1,5 +1,4 @@
-Melanogaster macrocarpus Zeller SPECIES
-=======
+# Melanogaster macrocarpus Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium glycyrrhizae Harkn. SPECIES
-=======
+# Cylindrosporium glycyrrhizae Harkn. SPECIES
 
 #### Status
 ACCEPTED

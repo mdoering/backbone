@@ -1,5 +1,4 @@
-Tegumentum H.R. Thierstein in P.H. Roth & H.R. Thierstein, 1972 GENUS
-=======
+# Tegumentum H.R. Thierstein in P.H. Roth & H.R. Thierstein, 1972 GENUS
 
 #### Status
 ACCEPTED

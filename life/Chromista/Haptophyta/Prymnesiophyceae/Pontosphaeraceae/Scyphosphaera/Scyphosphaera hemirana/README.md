@@ -1,5 +1,4 @@
-Scyphosphaera hemirana Kamptner, 1967 SPECIES
-=======
+# Scyphosphaera hemirana Kamptner, 1967 SPECIES
 
 #### Status
 ACCEPTED

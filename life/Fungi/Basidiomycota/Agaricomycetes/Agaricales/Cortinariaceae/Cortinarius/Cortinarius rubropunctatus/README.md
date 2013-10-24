@@ -1,5 +1,4 @@
-Cortinarius rubropunctatus P. Karst. SPECIES
-=======
+# Cortinarius rubropunctatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

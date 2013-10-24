@@ -1,5 +1,4 @@
-Lecanora xanthostigma var. xanthostigma VARIETY
-=======
+# Lecanora xanthostigma SPECIES
 
 #### Status
 ACCEPTED

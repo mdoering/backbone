@@ -1,5 +1,4 @@
-Cercospora seriata G.F. Atk. SPECIES
-=======
+# Cercospora seriata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

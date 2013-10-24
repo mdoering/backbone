@@ -1,5 +1,4 @@
-Asperococcus J.V.Lamouroux, 1813 GENUS
-=======
+# Asperococcus J.V.Lamouroux, 1813 GENUS
 
 #### Status
 ACCEPTED

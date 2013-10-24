@@ -1,5 +1,4 @@
-Trichophyton singulare Cazalbou SPECIES
-=======
+# Trichophyton singulare Cazalbou SPECIES
 
 #### Status
 ACCEPTED

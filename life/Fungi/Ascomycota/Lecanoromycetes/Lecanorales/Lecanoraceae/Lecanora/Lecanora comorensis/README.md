@@ -1,5 +1,4 @@
-Lecanora comorensis H. Magn. SPECIES
-=======
+# Lecanora comorensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

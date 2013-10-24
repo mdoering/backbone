@@ -1,5 +1,4 @@
-Orbopercularia corlissi SPECIES
-=======
+# Orbopercularia corlissi SPECIES
 
 #### Status
 ACCEPTED

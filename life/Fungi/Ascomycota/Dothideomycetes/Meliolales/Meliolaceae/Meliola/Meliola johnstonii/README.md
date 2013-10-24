@@ -1,5 +1,4 @@
-Meliola johnstonii Hansf. SPECIES
-=======
+# Meliola johnstonii Hansf. SPECIES
 
 #### Status
 ACCEPTED

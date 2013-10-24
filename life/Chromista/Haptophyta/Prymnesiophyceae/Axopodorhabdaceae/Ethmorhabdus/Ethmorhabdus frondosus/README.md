@@ -1,5 +1,4 @@
-Ethmorhabdus frondosus F.H. Wind & S.W. Wise SPECIES
-=======
+# Ethmorhabdus frondosus F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

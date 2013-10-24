@@ -1,5 +1,4 @@
-Sclerotelium trautvetteriae (P. Syd., Syd. & Holw.) Syd. SPECIES
-=======
+# Sclerotelium trautvetteriae (P. Syd., Syd. & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

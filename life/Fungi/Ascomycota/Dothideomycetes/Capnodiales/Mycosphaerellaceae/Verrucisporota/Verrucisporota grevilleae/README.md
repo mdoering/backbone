@@ -1,5 +1,4 @@
-Verrucisporota grevilleae Crous & Summerell SPECIES
-=======
+# Verrucisporota grevilleae Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

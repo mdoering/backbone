@@ -1,5 +1,4 @@
-Coolia schreieri Huijsman SPECIES
-=======
+# Coolia schreieri Huijsman SPECIES
 
 #### Status
 ACCEPTED

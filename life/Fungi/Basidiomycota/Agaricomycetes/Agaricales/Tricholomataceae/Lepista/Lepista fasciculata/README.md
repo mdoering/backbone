@@ -1,5 +1,4 @@
-Lepista fasciculata Harmaja SPECIES
-=======
+# Lepista fasciculata Harmaja SPECIES
 
 #### Status
 ACCEPTED

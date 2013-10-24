@@ -1,5 +1,4 @@
-Parmelia paraguariensis Lynge SPECIES
-=======
+# Parmelia paraguariensis Lynge SPECIES
 
 #### Status
 ACCEPTED

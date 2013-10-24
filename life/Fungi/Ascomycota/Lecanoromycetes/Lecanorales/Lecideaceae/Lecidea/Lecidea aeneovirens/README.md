@@ -1,5 +1,4 @@
-Lecidea aeneovirens Müll. Arg. SPECIES
-=======
+# Lecidea aeneovirens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

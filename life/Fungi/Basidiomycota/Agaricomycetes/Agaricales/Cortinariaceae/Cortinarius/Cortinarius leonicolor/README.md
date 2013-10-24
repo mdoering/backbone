@@ -1,5 +1,4 @@
-Cortinarius leonicolor Reumaux SPECIES
-=======
+# Cortinarius leonicolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

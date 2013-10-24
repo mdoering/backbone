@@ -1,5 +1,4 @@
-Crepidotus stenocystis Pouzar, 2005 SPECIES
-=======
+# Crepidotus stenocystis Pouzar, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis hypoglauca (Kremp.) Zahlbr. SPECIES
-=======
+# Phaeographis hypoglauca (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

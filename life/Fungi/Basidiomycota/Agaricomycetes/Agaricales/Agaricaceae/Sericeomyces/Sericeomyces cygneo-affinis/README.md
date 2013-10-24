@@ -1,5 +1,4 @@
-Sericeomyces cygneo-affinis (Pilát) Heinem. SPECIES
-=======
+# Sericeomyces cygneo-affinis (Pilát) Heinem. SPECIES
 
 #### Status
 ACCEPTED

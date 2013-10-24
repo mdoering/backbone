@@ -1,5 +1,4 @@
-Glomus proliferum Dalpé & Declerck SPECIES
-=======
+# Glomus proliferum Dalpé & Declerck SPECIES
 
 #### Status
 ACCEPTED

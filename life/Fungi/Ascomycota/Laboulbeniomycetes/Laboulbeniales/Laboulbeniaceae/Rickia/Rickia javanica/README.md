@@ -1,5 +1,4 @@
-Rickia javanica Paoli SPECIES
-=======
+# Rickia javanica Paoli SPECIES
 
 #### Status
 ACCEPTED

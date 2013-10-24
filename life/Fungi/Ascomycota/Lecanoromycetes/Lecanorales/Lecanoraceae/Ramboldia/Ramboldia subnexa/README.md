@@ -1,14 +1,13 @@
-Hafellia subnexa Marbach SPECIES
-=======
+# Ramboldia subnexa (Stirt.) Kantvilas & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 74: 285 (2000)
+Bryologist 97(3): 301 (1994)
 
 #### Original name
 Lecidea subnexa Stirt.

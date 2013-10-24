@@ -1,5 +1,4 @@
-Agaricus temnophyllus Peck SPECIES
-=======
+# Agaricus temnophyllus Peck SPECIES
 
 #### Status
 ACCEPTED

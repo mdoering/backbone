@@ -1,5 +1,4 @@
-Euglena lucens Günther SPECIES
-=======
+# Euglena lucens Günther SPECIES
 
 #### Status
 ACCEPTED

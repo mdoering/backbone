@@ -1,5 +1,4 @@
-Dothidella pulvinulata Pat. SPECIES
-=======
+# Dothidella pulvinulata Pat. SPECIES
 
 #### Status
 ACCEPTED

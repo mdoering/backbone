@@ -1,5 +1,4 @@
-Collema meridionale Hue SPECIES
-=======
+# Collema meridionale Hue SPECIES
 
 #### Status
 ACCEPTED

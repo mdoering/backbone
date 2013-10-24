@@ -1,5 +1,4 @@
-Exidiopsis alliciens (Berk. & Cooke) K. Wells SPECIES
-=======
+# Exidiopsis alliciens (Berk. & Cooke) K. Wells SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium gracile Timofeev, 1962 SPECIES
-=======
+# Baltisphaeridium gracile Timofeev, 1962 SPECIES
 
 #### Status
 ACCEPTED

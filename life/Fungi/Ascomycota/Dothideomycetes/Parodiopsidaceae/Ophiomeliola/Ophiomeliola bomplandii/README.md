@@ -1,5 +1,4 @@
-Ophiomeliola bomplandii Speg. SPECIES
-=======
+# Ophiomeliola bomplandii Speg. SPECIES
 
 #### Status
 ACCEPTED

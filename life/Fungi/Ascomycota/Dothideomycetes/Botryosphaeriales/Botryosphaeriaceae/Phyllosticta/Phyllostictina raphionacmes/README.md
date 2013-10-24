@@ -1,5 +1,4 @@
-Phyllostictina raphionacmes Syd. SPECIES
-=======
+# Phyllostictina raphionacmes Syd. SPECIES
 
 #### Status
 ACCEPTED

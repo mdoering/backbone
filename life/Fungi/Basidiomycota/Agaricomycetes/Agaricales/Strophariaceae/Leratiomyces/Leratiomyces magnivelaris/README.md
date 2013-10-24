@@ -1,14 +1,13 @@
-Psilocybe magnivelaris (Peck) Noordel., 1995 SPECIES
-=======
+# Leratiomyces magnivelaris (Peck) Bridge & Spooner, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 129 (1995)
+Mycotaxon 103: 117 (2008)
 
 #### Original name
 Stropharia magnivelaris Peck, 1904

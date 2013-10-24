@@ -1,5 +1,4 @@
-Tetradia salicicola T. Johnson SPECIES
-=======
+# Tetradia salicicola T. Johnson SPECIES
 
 #### Status
 ACCEPTED

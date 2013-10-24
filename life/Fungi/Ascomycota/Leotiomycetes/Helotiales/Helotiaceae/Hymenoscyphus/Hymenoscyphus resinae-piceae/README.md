@@ -1,5 +1,4 @@
-Hymenoscyphus resinae-piceae Svrcek SPECIES
-=======
+# Hymenoscyphus resinae-piceae Svrcek SPECIES
 
 #### Status
 ACCEPTED

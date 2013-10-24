@@ -1,5 +1,4 @@
-Peziza carpophila Bizz. SPECIES
-=======
+# Peziza carpophila Bizz. SPECIES
 
 #### Status
 ACCEPTED

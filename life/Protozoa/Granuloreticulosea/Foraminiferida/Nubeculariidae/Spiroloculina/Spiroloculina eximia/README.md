@@ -1,5 +1,4 @@
-Spiroloculina eximia Cushman SPECIES
-=======
+# Spiroloculina eximia Cushman SPECIES
 
 #### Status
 ACCEPTED

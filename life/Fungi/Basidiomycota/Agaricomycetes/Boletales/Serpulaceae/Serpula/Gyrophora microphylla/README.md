@@ -1,5 +1,4 @@
-Gyrophora microphylla Hepp SPECIES
-=======
+# Gyrophora microphylla Hepp SPECIES
 
 #### Status
 ACCEPTED

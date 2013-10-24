@@ -1,5 +1,4 @@
-Pseudopyrenula saxicola Malme SPECIES
-=======
+# Pseudopyrenula saxicola Malme SPECIES
 
 #### Status
 ACCEPTED

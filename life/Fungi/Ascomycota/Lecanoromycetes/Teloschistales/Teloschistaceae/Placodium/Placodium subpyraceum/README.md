@@ -1,5 +1,4 @@
-Placodium subpyraceum (Nyl.) Räsänen SPECIES
-=======
+# Placodium subpyraceum (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

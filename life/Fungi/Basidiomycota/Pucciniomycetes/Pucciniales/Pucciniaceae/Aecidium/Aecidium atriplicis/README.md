@@ -1,5 +1,4 @@
-Aecidium atriplicis Shear SPECIES
-=======
+# Aecidium atriplicis Shear SPECIES
 
 #### Status
 ACCEPTED

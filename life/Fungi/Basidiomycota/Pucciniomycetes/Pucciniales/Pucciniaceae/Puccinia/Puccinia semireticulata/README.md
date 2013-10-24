@@ -1,5 +1,4 @@
-Puccinia semireticulata Fuckel SPECIES
-=======
+# Puccinia semireticulata Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonema tenuis J.Sm. Dalry SPECIES
-=======
+# Leptonema tenuis J.Sm. Dalry SPECIES
 
 #### Status
 ACCEPTED

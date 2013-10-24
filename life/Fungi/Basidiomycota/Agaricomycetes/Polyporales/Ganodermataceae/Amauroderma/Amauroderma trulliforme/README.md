@@ -1,8 +1,7 @@
-Amauroderma trulliformis (Lloyd) Torrend SPECIES
-=======
+# Amauroderma trulliforme (Lloyd) Torrend SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Hymenella linearis (Pers.) Fr. SPECIES
-=======
+# Hymenella linearis (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

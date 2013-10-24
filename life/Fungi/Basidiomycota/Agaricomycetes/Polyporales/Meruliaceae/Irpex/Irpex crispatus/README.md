@@ -1,5 +1,4 @@
-Irpex crispatus Berk. ex Cooke SPECIES
-=======
+# Irpex crispatus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

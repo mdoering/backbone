@@ -1,5 +1,4 @@
-Pleospora crozalsii Vouaux SPECIES
-=======
+# Pleospora crozalsii Vouaux SPECIES
 
 #### Status
 ACCEPTED

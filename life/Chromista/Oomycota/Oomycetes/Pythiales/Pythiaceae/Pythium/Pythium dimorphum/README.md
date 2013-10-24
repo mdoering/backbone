@@ -1,5 +1,4 @@
-Pythium dimorphum F.F. Hendrix & W.A. Campb., 1971 SPECIES
-=======
+# Pythium dimorphum F.F. Hendrix & W.A. Campb., 1971 SPECIES
 
 #### Status
 ACCEPTED

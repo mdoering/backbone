@@ -1,17 +1,16 @@
-Acrostalagmus albus f. albus FORM
-=======
+# Acrostalagmus albus Preuss, 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Linnaea 24: 126 (1851)
 
 #### Original name
-Acrostalagmus albus f. albus
+Acrostalagmus albus Preuss, 1851
 
 ### Remarks
 null

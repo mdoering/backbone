@@ -1,14 +1,13 @@
-Clisosporium rosarum (Cooke & Harkn.) Kuntze, 1898 SPECIES
-=======
+# Coniothyrium rosarum Cooke & Harkn., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Grevillea 10(no. 55): 92 (1882)
 
 #### Original name
 Coniothyrium rosarum Cooke & Harkn., 1882

@@ -1,5 +1,4 @@
-Uncinula actinidiae var. actinidiae VARIETY
-=======
+# Uncinula actinidiae Miyabe SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uncinula actinidiae var. actinidiae
+Uncinula actinidiae Miyabe
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Laestadia cookeana (Auersw.) Sacc., 1882 SPECIES
-=======
+# Hyponectria cookeana (Auersw.) M.E. Barr, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 421 (1882)
+Mycologia 68(3): 618 (1976)
 
 #### Original name
 Sphaeria cookeana Auersw., 1860

@@ -1,5 +1,4 @@
-Spilomium sphaerale Olive SPECIES
-=======
+# Spilomium sphaerale Olive SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia hyperborea var. hyperborea VARIETY
-=======
+# Polyblastia hyperborea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia hyperborea var. hyperborea
+Polyblastia hyperborea Th. Fr.
 
 ### Remarks
 null

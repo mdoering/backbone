@@ -1,5 +1,4 @@
-Microthyriella pomi anon. SPECIES
-=======
+# Microthyriella pomi anon. SPECIES
 
 #### Status
 ACCEPTED

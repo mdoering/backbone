@@ -1,5 +1,4 @@
-Omphalia paraguariensis Speg. SPECIES
-=======
+# Omphalia paraguariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

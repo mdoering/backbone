@@ -1,5 +1,4 @@
-Sticta ignambensis Vain. SPECIES
-=======
+# Sticta ignambensis Vain. SPECIES
 
 #### Status
 ACCEPTED

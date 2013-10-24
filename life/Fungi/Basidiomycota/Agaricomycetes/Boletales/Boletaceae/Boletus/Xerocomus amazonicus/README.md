@@ -1,5 +1,4 @@
-Xerocomus amazonicus var. amazonicus VARIETY
-=======
+# Xerocomus amazonicus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Persoonia 9(4): 429 (1978)
 
 #### Original name
-Xerocomus amazonicus var. amazonicus
+Xerocomus amazonicus Singer
 
 ### Remarks
 null

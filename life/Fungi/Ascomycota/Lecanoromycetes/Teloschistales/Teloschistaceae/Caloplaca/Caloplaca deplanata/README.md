@@ -1,5 +1,4 @@
-Caloplaca deplanata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca deplanata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

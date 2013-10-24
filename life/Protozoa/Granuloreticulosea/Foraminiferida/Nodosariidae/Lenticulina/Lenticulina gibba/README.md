@@ -1,5 +1,4 @@
-Lenticulina gibba SPECIES
-=======
+# Lenticulina gibba SPECIES
 
 #### Status
 ACCEPTED

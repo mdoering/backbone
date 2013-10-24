@@ -1,5 +1,4 @@
-Acanthostigmella thaxteri Linder, 1929 SPECIES
-=======
+# Acanthostigmella thaxteri Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

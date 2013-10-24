@@ -1,5 +1,4 @@
-Nectria canadensis Ellis & Everh. SPECIES
-=======
+# Nectria canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus obtusus Pers. SPECIES
-=======
+# Boletus obtusus Pers. SPECIES
 
 #### Status
 ACCEPTED

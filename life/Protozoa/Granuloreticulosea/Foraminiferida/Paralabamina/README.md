@@ -1,5 +1,4 @@
-Paralabamina Hansen, 1970 GENUS
-=======
+# Paralabamina Hansen, 1970 GENUS
 
 #### Status
 ACCEPTED

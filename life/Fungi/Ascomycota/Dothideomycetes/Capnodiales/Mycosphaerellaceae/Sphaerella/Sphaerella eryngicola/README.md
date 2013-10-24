@@ -1,17 +1,16 @@
-Sphaerella eryngiicola Speg. SPECIES
-=======
+# Sphaerella eryngicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Vet. Univ. nac. La Plata 6(1): 53 (1910)
 
 #### Original name
-Sphaerella eryngiicola Speg.
+Sphaerella eryngicola Speg.
 
 ### Remarks
 null

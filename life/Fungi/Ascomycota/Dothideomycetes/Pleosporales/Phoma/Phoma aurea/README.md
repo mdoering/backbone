@@ -1,17 +1,16 @@
-Peyronellaea aurea (Gruyter, Noordel. & Boerema) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma aurea Gruyter, Noordel. & Boerema, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 15(3): 394 (1993)
 
 #### Original name
-null
+Phoma aurea Gruyter, Noordel. & Boerema, 1993
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bioconiosporium pseudarthriae (Hansf.) Bat. & J.L. Bezerra SPECIES
-=======
+# Bioconiosporium pseudarthriae (Hansf.) Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

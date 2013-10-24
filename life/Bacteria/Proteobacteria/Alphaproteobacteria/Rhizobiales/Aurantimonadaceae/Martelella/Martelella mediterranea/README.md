@@ -1,5 +1,4 @@
-Martelella mediterranea Rivas et al., 2005 SPECIES
-=======
+# Martelella mediterranea Rivas et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia singularis Hale SPECIES
-=======
+# Parmelia singularis Hale SPECIES
 
 #### Status
 ACCEPTED

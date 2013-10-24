@@ -1,5 +1,4 @@
-Pseudocercospora minuta S.R. Chowdhury & Chandel SPECIES
-=======
+# Pseudocercospora minuta S.R. Chowdhury & Chandel SPECIES
 
 #### Status
 ACCEPTED

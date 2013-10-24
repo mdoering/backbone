@@ -1,5 +1,4 @@
-Phaeoramularia alabamensis (G.F. Atk.) C.E. García & N. Pons SPECIES
-=======
+# Phaeoramularia alabamensis (G.F. Atk.) C.E. García & N. Pons SPECIES
 
 #### Status
 ACCEPTED

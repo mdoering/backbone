@@ -1,5 +1,4 @@
-Daedaleites Mesch. GENUS
-=======
+# Daedaleites Mesch. GENUS
 
 #### Status
 ACCEPTED

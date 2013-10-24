@@ -1,5 +1,4 @@
-Trimmatostroma brencklei Sacc. SPECIES
-=======
+# Trimmatostroma brencklei Sacc. SPECIES
 
 #### Status
 ACCEPTED

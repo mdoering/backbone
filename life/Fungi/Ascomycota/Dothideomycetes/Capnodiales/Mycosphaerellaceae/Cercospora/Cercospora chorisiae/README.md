@@ -1,5 +1,4 @@
-Cercospora chorisiae Ts. Kobay. & Onuki SPECIES
-=======
+# Cercospora chorisiae Ts. Kobay. & Onuki SPECIES
 
 #### Status
 ACCEPTED

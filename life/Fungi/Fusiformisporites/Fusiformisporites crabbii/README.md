@@ -1,5 +1,4 @@
-Fusiformisporites crabbii Rouse SPECIES
-=======
+# Fusiformisporites crabbii Rouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Artrorhynches Kolenati, 1857 GENUS
-=======
+# Arthrorhynchus Kolen. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Wien. Ent. Monatschr. , 1, 67 (as Arthrorhynchus; also as Artrorhynches p. 69).
+Wiener Entom. Monatschr. 1: 67 (1857)
 
 #### Original name
-null
+Arthrorhynchus Kolen.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspergillus sylvaticus Fennell & Raper SPECIES
-=======
+# Aspergillus sylvaticus Fennell & Raper SPECIES
 
 #### Status
 ACCEPTED

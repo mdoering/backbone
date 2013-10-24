@@ -1,5 +1,4 @@
-Cribrites aurea R.T. Lange SPECIES
-=======
+# Cribrites aurea R.T. Lange SPECIES
 
 #### Status
 ACCEPTED

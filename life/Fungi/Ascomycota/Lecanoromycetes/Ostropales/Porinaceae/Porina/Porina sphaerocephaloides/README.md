@@ -1,5 +1,4 @@
-Porina sphaerocephaloides Farkas SPECIES
-=======
+# Porina sphaerocephaloides Farkas SPECIES
 
 #### Status
 ACCEPTED

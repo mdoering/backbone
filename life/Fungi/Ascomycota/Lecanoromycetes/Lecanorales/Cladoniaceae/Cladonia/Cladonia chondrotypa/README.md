@@ -1,5 +1,4 @@
-Cladonia chondrotypa Vain. SPECIES
-=======
+# Cladonia chondrotypa Vain. SPECIES
 
 #### Status
 ACCEPTED

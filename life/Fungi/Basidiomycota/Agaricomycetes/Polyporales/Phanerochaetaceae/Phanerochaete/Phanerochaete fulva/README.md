@@ -1,5 +1,4 @@
-Phanerochaete fulva Sheng H. Wu SPECIES
-=======
+# Phanerochaete fulva Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

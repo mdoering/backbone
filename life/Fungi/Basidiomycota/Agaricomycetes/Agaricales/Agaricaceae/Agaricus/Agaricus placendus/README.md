@@ -1,5 +1,4 @@
-Agaricus placendus Britzelm. SPECIES
-=======
+# Agaricus placendus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

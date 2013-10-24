@@ -1,5 +1,4 @@
-Lecidea atropurpurascens Nyl. SPECIES
-=======
+# Lecidea atropurpurascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

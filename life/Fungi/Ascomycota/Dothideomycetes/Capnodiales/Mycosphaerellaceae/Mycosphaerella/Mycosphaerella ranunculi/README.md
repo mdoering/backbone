@@ -1,17 +1,16 @@
-Sphaerella innumerella var. rubi Hazsl. VARIETY
-=======
+# Mycosphaerella ranunculi (P. Karst.) Lind, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddr Grønland, Biosc. 71: 167 (1926)
 
 #### Original name
-Sphaerella innumerella var. rubi Hazsl.
+Sphaerella ranunculi P. Karst., 1872
 
 ### Remarks
 null

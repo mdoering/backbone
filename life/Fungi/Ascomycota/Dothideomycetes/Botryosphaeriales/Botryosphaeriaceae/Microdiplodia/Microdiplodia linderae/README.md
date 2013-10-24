@@ -1,5 +1,4 @@
-Microdiplodia linderae (Ellis & Everh.) Dearn. & House SPECIES
-=======
+# Microdiplodia linderae (Ellis & Everh.) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

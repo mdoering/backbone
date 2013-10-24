@@ -1,5 +1,4 @@
-Discina palmicola Berk. & M.A. Curtis SPECIES
-=======
+# Discina palmicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

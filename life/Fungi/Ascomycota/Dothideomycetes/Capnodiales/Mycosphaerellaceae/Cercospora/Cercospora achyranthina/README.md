@@ -1,5 +1,4 @@
-Cercospora achyranthina Thirum. & Chupp SPECIES
-=======
+# Cercospora achyranthina Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

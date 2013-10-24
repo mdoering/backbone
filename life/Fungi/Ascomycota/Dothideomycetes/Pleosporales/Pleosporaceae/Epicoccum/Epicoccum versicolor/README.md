@@ -1,17 +1,16 @@
-Epicoccum versicolor var. versicolor VARIETY
-=======
+# Epicoccum versicolor Rabenh. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Deutschl. Krypt. -Fl. (Leipzig) 1: 58 (1844)
 
 #### Original name
-null
+Epicoccum versicolor Rabenh.
 
 ### Remarks
 null

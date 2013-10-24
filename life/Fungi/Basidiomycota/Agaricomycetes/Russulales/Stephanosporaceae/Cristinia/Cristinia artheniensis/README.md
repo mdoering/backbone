@@ -1,5 +1,4 @@
-Cristinia artheniensis Baici & Hjortstam, 1984 SPECIES
-=======
+# Cristinia artheniensis Baici & Hjortstam, 1984 SPECIES
 
 #### Status
 ACCEPTED

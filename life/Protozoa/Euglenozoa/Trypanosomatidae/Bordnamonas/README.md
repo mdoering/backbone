@@ -1,5 +1,4 @@
-Bordnamonas Larsen & D.J.Patterson GENUS
-=======
+# Bordnamonas Larsen & D.J.Patterson GENUS
 
 #### Status
 ACCEPTED

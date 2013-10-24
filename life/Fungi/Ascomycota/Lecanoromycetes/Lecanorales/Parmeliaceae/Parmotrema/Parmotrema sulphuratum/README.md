@@ -1,14 +1,13 @@
-Parmelia sulphurata Nees & Flot. SPECIES
-=======
+# Parmotrema sulphuratum (Nees & Flot.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 9: 501 (1835)
+Phytologia 28: 339 (1974)
 
 #### Original name
 Parmelia sulphurata Nees & Flot.

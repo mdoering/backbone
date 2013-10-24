@@ -1,14 +1,13 @@
-Agaricus clavularis Batsch, 1786 SPECIES
-=======
+# Mycena clavularis (Batsch) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle), cont. prim. 89 (1786)
+Syll. fung. (Abellini) 5: 298 (1887)
 
 #### Original name
 Agaricus clavularis Batsch, 1786

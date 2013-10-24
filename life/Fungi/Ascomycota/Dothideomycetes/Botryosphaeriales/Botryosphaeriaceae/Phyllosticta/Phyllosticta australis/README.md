@@ -1,5 +1,4 @@
-Phyllosticta australis Speg. SPECIES
-=======
+# Phyllosticta australis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryopera Haeckel, 1887 GENUS
-=======
+# Botryopera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

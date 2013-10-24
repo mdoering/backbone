@@ -1,5 +1,4 @@
-Rinodina maculiformis (Hepp) Arnold SPECIES
-=======
+# Rinodina maculiformis (Hepp) Arnold SPECIES
 
 #### Status
 ACCEPTED

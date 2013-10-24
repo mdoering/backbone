@@ -1,5 +1,4 @@
-Thelococcum imperceptum (Nyl.) H. Magn. SPECIES
-=======
+# Thelococcum imperceptum (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

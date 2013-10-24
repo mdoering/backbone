@@ -1,11 +1,10 @@
-Acanthocorbis brevipoda SPECIES
-=======
+# Acanthoeca brevipoda Ellis, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

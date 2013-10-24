@@ -1,17 +1,16 @@
-Graphis lineola var. lineola VARIETY
-=======
+# Graphis lineola Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. 264 (1810)
 
 #### Original name
-Graphis lineola var. lineola
+Graphis lineola Ach.
 
 ### Remarks
 null

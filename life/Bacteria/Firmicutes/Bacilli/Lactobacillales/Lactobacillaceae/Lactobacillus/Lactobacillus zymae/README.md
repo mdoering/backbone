@@ -1,5 +1,4 @@
-Lactobacillus zymae Vancanneyt et al., 2005 SPECIES
-=======
+# Lactobacillus zymae Vancanneyt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cohaesibacter gelatinilyticus Hwang & Cho, 2008 SPECIES
-=======
+# Cohaesibacter gelatinilyticus Hwang & Cho, 2008 SPECIES
 
 #### Status
 ACCEPTED

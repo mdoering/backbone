@@ -1,5 +1,4 @@
-Dinemasporium sinense W.P. Wu, J.X. Duan & Xin Z. Liu SPECIES
-=======
+# Dinemasporium sinense W.P. Wu, J.X. Duan & Xin Z. Liu SPECIES
 
 #### Status
 ACCEPTED

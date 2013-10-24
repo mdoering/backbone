@@ -1,5 +1,4 @@
-Trichosporum inosculans (Berk.) Sacc. SPECIES
-=======
+# Trichosporum inosculans (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces rostratus Henn. SPECIES
-=======
+# Uromyces rostratus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora sii Ellis & Everh. SPECIES
-=======
+# Cercospora sii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

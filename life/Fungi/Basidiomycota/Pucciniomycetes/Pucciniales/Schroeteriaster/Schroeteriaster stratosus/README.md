@@ -1,14 +1,13 @@
-Schroeteriaster stratosa (Cooke) P. Syd. & Syd. SPECIES
-=======
+# Schroeteriaster stratosus (Cooke) P. Syd. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 3(2): 402 (1914)
 
 #### Original name
 Melampsora stratosa Cooke

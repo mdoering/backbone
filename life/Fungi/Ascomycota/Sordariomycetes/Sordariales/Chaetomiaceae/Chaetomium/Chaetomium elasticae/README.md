@@ -1,5 +1,4 @@
-Chaetomium elasticae Koord. SPECIES
-=======
+# Chaetomium elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

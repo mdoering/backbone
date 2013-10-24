@@ -1,5 +1,4 @@
-Diplodina koeberliniae Ellis & Everh. SPECIES
-=======
+# Diplodina koeberliniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

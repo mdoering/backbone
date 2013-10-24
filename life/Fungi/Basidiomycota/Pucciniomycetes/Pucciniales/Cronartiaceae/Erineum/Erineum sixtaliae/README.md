@@ -1,5 +1,4 @@
-Erineum sixtaliae Corda SPECIES
-=======
+# Erineum sixtaliae Corda SPECIES
 
 #### Status
 ACCEPTED

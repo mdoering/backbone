@@ -1,5 +1,4 @@
-Rhizocarpaceae M. Choisy ex Hafellner FAMILY
-=======
+# Rhizocarpaceae M. Choisy ex Hafellner FAMILY
 
 #### Status
 ACCEPTED

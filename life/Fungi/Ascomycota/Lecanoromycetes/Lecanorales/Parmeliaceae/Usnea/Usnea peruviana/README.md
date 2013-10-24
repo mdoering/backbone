@@ -1,5 +1,4 @@
-Usnea peruviana Motyka SPECIES
-=======
+# Usnea peruviana Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola toddaliae Doidge SPECIES
-=======
+# Meliola toddaliae Doidge SPECIES
 
 #### Status
 ACCEPTED

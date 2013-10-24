@@ -1,5 +1,4 @@
-Parmotrema ochroglaucum (Hale) Hale SPECIES
-=======
+# Parmotrema ochroglaucum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halographis Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Halographis Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena microspora Velen. SPECIES
-=======
+# Mycena microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

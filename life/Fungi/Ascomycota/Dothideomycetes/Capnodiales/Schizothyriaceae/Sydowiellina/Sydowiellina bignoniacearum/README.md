@@ -1,5 +1,4 @@
-Sydowiellina bignoniacearum Bat. & M.P. Herrera SPECIES
-=======
+# Sydowiellina bignoniacearum Bat. & M.P. Herrera SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus radiatim-plicatus (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus radiatim-plicatus (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

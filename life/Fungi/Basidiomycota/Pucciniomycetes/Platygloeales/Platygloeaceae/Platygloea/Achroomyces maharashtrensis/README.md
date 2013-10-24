@@ -1,17 +1,16 @@
-Achroomyces maharashtriensis M.S. Patil, Kund. & Nanaware SPECIES
-=======
+# Achroomyces maharashtrensis M.S. Patil, Kund. & Nanaware SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 56(1): 45 (2003)
 
 #### Original name
-Achroomyces maharashtriensis M.S. Patil, Kund. & Nanaware
+Achroomyces maharashtrensis M.S. Patil, Kund. & Nanaware
 
 ### Remarks
 null

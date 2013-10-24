@@ -1,5 +1,4 @@
-Fungus lalage (Berk.) Kuntze SPECIES
-=======
+# Fungus lalage (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

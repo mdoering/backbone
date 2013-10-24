@@ -1,5 +1,4 @@
-Stenella sardoa (Sacc.) U. Braun SPECIES
-=======
+# Stenella sardoa (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

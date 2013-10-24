@@ -1,5 +1,4 @@
-Patulibacter Takahashi et al., 2006 GENUS
-=======
+# Patulibacter Takahashi et al., 2006 GENUS
 
 #### Status
 ACCEPTED

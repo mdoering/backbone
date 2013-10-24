@@ -1,5 +1,4 @@
-Mexican papita SPECIES
-=======
+# Mexican papita SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius volemoides Karhula SPECIES
-=======
+# Lactarius volemoides Karhula SPECIES
 
 #### Status
 ACCEPTED

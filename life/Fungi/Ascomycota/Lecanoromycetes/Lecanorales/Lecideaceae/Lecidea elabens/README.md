@@ -1,5 +1,4 @@
-Lecidea elabens Th. Fr. SPECIES
-=======
+# Lecidea elabens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

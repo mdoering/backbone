@@ -1,5 +1,4 @@
-Helicoma divaricata Hol.-Jech. SPECIES
-=======
+# Helicoma divaricata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

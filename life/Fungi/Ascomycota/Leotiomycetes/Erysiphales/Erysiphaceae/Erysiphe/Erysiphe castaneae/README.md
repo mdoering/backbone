@@ -1,5 +1,4 @@
-Erysiphe castaneae U. Braun SPECIES
-=======
+# Erysiphe castaneae U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria fracta Carlson SPECIES
-=======
+# Oscillatoria fracta Carlson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria vasculosa Sacc. SPECIES
-=======
+# Calosphaeria vasculosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

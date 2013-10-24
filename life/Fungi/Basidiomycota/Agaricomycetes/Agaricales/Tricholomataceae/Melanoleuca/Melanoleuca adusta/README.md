@@ -1,5 +1,4 @@
-Melanoleuca adusta Murrill SPECIES
-=======
+# Melanoleuca adusta Murrill SPECIES
 
 #### Status
 ACCEPTED

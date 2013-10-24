@@ -1,5 +1,4 @@
-Leptodothiorella cisti Petr. SPECIES
-=======
+# Leptodothiorella cisti Petr. SPECIES
 
 #### Status
 ACCEPTED

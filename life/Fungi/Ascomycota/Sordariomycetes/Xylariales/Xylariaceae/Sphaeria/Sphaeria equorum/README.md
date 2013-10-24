@@ -1,5 +1,4 @@
-Sphaeria equorum (Fuckel) SPECIES
-=======
+# Sphaeria equorum (Fuckel) SPECIES
 
 #### Status
 ACCEPTED

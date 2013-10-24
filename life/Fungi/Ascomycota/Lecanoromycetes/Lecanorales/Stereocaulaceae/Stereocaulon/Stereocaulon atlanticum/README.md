@@ -1,5 +1,4 @@
-Stereocaulon atlanticum (I.M. Lamb) I.M. Lamb SPECIES
-=======
+# Stereocaulon atlanticum (I.M. Lamb) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

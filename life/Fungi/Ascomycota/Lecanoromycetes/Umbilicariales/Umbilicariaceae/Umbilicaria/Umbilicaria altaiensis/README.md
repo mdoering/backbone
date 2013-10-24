@@ -1,5 +1,4 @@
-Umbilicaria altaiensis J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Umbilicaria altaiensis J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

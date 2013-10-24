@@ -1,14 +1,13 @@
-Cintractia farlowii G.P. Clinton, 1939 SPECIES
-=======
+# Ustanciosporium farlowii (G.P. Clinton) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zundel, N. Amer. Fl. (New York) 7: 1000 (1939)
+Nova Hedwigia 70(3-4): 339 (2000)
 
 #### Original name
 Cintractia farlowii G.P. Clinton, 1939

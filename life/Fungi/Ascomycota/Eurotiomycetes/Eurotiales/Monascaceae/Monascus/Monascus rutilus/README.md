@@ -1,5 +1,4 @@
-Monascus rutilus Zhong Q. Li & F. Guo SPECIES
-=======
+# Monascus rutilus Zhong Q. Li & F. Guo SPECIES
 
 #### Status
 ACCEPTED

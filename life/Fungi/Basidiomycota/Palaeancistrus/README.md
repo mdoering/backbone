@@ -1,5 +1,4 @@
-Palaeancistrus R.L. Dennis GENUS
-=======
+# Palaeancistrus R.L. Dennis GENUS
 
 #### Status
 ACCEPTED

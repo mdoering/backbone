@@ -1,5 +1,4 @@
-Stigmidium bellemerei Cl. Roux & Nav.-Ros. SPECIES
-=======
+# Stigmidium bellemerei Cl. Roux & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

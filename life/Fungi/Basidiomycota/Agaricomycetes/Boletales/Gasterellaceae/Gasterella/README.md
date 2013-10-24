@@ -1,5 +1,4 @@
-Gasterella Zeller & L.B. Walker GENUS
-=======
+# Gasterella Zeller & L.B. Walker GENUS
 
 #### Status
 ACCEPTED

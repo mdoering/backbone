@@ -1,5 +1,4 @@
-Squamaria scepusiensis Gyeln. SPECIES
-=======
+# Squamaria scepusiensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

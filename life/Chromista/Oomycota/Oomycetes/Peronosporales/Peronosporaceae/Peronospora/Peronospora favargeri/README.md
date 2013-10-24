@@ -1,5 +1,4 @@
-Peronospora favargeri Mayor & Vienn.-Bourg. SPECIES
-=======
+# Peronospora favargeri Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

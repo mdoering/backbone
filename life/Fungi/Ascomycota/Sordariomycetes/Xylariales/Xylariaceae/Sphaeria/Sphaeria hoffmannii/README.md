@@ -1,5 +1,4 @@
-Sphaeria hoffmannii Fr. SPECIES
-=======
+# Sphaeria hoffmannii Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella nigrostipitata Svrcek SPECIES
-=======
+# Pezizella nigrostipitata Svrcek SPECIES
 
 #### Status
 ACCEPTED

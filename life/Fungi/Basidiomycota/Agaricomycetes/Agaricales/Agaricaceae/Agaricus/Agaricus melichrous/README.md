@@ -1,5 +1,4 @@
-Agaricus melichrous Berk. & Broome SPECIES
-=======
+# Agaricus melichrous Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

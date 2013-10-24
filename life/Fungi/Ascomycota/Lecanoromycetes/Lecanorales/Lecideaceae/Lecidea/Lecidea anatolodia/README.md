@@ -1,5 +1,4 @@
-Lecidea anatolodia (A. Massal.) Kremp. SPECIES
-=======
+# Lecidea anatolodia (A. Massal.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella orthosticha Syd. SPECIES
-=======
+# Asterostomella orthosticha Syd. SPECIES
 
 #### Status
 ACCEPTED

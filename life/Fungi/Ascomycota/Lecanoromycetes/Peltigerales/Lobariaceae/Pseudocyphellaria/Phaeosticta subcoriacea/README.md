@@ -1,5 +1,4 @@
-Phaeosticta subcoriacea (Nyl.) Trevis. SPECIES
-=======
+# Phaeosticta subcoriacea (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

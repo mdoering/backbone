@@ -1,5 +1,4 @@
-Atractilina asterinae (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Atractilina asterinae (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora arenariae Hollós SPECIES
-=======
+# Rhabdospora arenariae Hollós SPECIES
 
 #### Status
 ACCEPTED

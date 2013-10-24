@@ -1,17 +1,16 @@
-Pseudorhynchia Höhn. GENUS
-=======
+# Trichosphaeria Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1206 (1909)
+null
 
 #### Original name
-Pseudorhynchia Höhn.
+null
 
 ### Remarks
 null

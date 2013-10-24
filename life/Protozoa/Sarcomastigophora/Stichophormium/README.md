@@ -1,5 +1,4 @@
-Stichophormium Haeckel, 1887 GENUS
-=======
+# Stichophormium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

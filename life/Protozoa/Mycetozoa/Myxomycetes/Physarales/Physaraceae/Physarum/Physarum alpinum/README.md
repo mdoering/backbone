@@ -1,17 +1,16 @@
-Physarum alpinum var. pallidosporeum Illana & G. Moreno VARIETY
-=======
+# Physarum alpinum (Lister & G. Lister) G. Lister, 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 45: 245 (1992)
+J. Bot. , London 48: 73 (1910)
 
 #### Original name
-Physarum alpinum var. pallidosporeum Illana & G. Moreno
+Physarum virescens var. alpinum Lister & G. Lister
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cochliobolus sasae I. Hino & Katum. SPECIES
-=======
+# Cochliobolus sasae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Magnetobacterium bavaricum SPECIES
-=======
+# Magnetobacterium bavaricum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina phaeostroma Cooke SPECIES
-=======
+# Asterina phaeostroma Cooke SPECIES
 
 #### Status
 ACCEPTED

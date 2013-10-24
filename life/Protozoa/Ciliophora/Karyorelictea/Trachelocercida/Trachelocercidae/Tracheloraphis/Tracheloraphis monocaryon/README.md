@@ -1,8 +1,7 @@
-Tracheloraphis monokaryon Dragesco, 1965 SPECIES
-=======
+# Tracheloraphis monocaryon Dragesco, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

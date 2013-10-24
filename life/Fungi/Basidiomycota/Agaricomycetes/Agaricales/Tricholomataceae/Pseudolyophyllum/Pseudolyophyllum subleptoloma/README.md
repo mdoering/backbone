@@ -1,5 +1,4 @@
-Pseudolyophyllum subleptoloma (Singer) Raithelh. SPECIES
-=======
+# Pseudolyophyllum subleptoloma (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

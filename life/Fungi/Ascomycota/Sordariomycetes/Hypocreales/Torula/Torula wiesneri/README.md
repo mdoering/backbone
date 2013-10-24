@@ -1,5 +1,4 @@
-Torula wiesneri Zikes SPECIES
-=======
+# Torula wiesneri Zikes SPECIES
 
 #### Status
 ACCEPTED

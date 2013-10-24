@@ -1,5 +1,4 @@
-Marasmius hondurensis Murrill SPECIES
-=======
+# Marasmius hondurensis Murrill SPECIES
 
 #### Status
 ACCEPTED

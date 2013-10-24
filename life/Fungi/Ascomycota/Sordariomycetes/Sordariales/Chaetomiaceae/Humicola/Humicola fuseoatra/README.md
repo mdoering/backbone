@@ -1,5 +1,4 @@
-Humicola fuseoatra Traaen SPECIES
-=======
+# Humicola fuseoatra Traaen SPECIES
 
 #### Status
 ACCEPTED

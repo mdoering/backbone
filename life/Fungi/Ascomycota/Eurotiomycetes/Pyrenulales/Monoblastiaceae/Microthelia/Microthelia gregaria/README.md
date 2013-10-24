@@ -1,5 +1,4 @@
-Microthelia gregaria (Speg.) Kuntze SPECIES
-=======
+# Microthelia gregaria (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

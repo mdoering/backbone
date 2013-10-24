@@ -1,5 +1,4 @@
-Hoegklintia radicosa (Loeblich, 1970) Jacobson & Achab, 1985 SPECIES
-=======
+# Hoegklintia radicosa (Loeblich, 1970) Jacobson & Achab, 1985 SPECIES
 
 #### Status
 ACCEPTED

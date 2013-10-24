@@ -1,5 +1,4 @@
-Enterographa pernambucensis Bat. SPECIES
-=======
+# Enterographa pernambucensis Bat. SPECIES
 
 #### Status
 ACCEPTED

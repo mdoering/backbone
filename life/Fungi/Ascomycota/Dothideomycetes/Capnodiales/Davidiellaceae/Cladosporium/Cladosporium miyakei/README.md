@@ -1,5 +1,4 @@
-Cladosporium miyakei Sacc. & Trotter SPECIES
-=======
+# Cladosporium miyakei Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Venturia glomerata var. disseminata J. Schröt. VARIETY
-=======
+# Coleroa circinans (Fr.) G. Winter, 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(2): 200 (1885)
 
 #### Original name
-Venturia glomerata var. disseminata J. Schröt.
+Stigmatea circinans (Fr.) Fr., 1849
 
 ### Remarks
 null

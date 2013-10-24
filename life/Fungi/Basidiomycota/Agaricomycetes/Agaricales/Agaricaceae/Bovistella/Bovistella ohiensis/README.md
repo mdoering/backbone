@@ -1,5 +1,4 @@
-Bovistella ohiensis (Ellis & Morgan) Morgan SPECIES
-=======
+# Bovistella ohiensis (Ellis & Morgan) Morgan SPECIES
 
 #### Status
 ACCEPTED

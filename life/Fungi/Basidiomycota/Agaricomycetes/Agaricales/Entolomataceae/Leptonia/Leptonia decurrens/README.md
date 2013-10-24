@@ -1,5 +1,4 @@
-Leptonia decurrens Velen. SPECIES
-=======
+# Leptonia decurrens Velen. SPECIES
 
 #### Status
 ACCEPTED

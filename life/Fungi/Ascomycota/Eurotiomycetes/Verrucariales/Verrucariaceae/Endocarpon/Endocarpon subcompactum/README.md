@@ -1,5 +1,4 @@
-Endocarpon subcompactum J. Steiner SPECIES
-=======
+# Endocarpon subcompactum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

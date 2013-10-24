@@ -1,5 +1,4 @@
-Pyrenula hypophyta (Nyl.) Müll. Arg. SPECIES
-=======
+# Pyrenula hypophyta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

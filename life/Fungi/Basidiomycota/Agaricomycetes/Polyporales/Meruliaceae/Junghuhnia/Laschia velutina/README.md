@@ -1,5 +1,4 @@
-Laschia velutina Lév. SPECIES
-=======
+# Laschia velutina Lév. SPECIES
 
 #### Status
 ACCEPTED

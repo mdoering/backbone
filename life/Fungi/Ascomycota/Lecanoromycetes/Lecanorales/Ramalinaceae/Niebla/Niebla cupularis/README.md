@@ -1,5 +1,4 @@
-Niebla cupularis (Krog & P. James) Bowler & J.E. Marsh SPECIES
-=======
+# Niebla cupularis (Krog & P. James) Bowler & J.E. Marsh SPECIES
 
 #### Status
 ACCEPTED

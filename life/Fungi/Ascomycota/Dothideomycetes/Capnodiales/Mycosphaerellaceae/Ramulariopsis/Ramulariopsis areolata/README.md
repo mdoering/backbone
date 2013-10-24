@@ -1,5 +1,4 @@
-Ramulariopsis areolata (Speg.) U. Braun SPECIES
-=======
+# Ramulariopsis areolata (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

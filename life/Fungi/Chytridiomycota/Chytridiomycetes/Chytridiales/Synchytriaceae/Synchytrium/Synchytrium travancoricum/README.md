@@ -1,5 +1,4 @@
-Synchytrium travancoricum T.S. Ramakr. SPECIES
-=======
+# Synchytrium travancoricum T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

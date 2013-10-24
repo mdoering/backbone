@@ -1,5 +1,4 @@
-Corethromyces scydmaenarius Thaxt. SPECIES
-=======
+# Corethromyces scydmaenarius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

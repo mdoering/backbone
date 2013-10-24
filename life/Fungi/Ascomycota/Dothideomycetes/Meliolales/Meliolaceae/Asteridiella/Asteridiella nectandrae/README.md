@@ -1,5 +1,4 @@
-Asteridiella nectandrae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella nectandrae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria conoidea SPECIES
-=======
+# Verrucaria conoidea SPECIES
 
 #### Status
 ACCEPTED

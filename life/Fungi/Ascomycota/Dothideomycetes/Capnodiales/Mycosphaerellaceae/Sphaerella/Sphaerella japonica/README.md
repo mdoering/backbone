@@ -1,5 +1,4 @@
-Sphaerella japonica Pass. SPECIES
-=======
+# Sphaerella japonica Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Scherffelia parasitans Sparrow, 1933 SPECIES
-=======
+# Scherffeliomyces parasitans (Sparrow) Sparrow, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18: 216 (1933)
+J. Linn. Soc. , Bot. 50: 446 (1936)
 
 #### Original name
 Scherffelia parasitans Sparrow, 1933

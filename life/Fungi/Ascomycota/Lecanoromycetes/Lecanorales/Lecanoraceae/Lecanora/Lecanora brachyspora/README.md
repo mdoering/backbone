@@ -1,5 +1,4 @@
-Lecanora brachyspora (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora brachyspora (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

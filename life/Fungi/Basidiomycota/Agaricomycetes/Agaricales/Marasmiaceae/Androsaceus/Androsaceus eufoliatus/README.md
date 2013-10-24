@@ -1,5 +1,4 @@
-Androsaceus eufoliatus Kühner SPECIES
-=======
+# Androsaceus eufoliatus Kühner SPECIES
 
 #### Status
 ACCEPTED

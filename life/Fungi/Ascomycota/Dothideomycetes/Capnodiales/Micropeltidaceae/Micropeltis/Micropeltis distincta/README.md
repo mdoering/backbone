@@ -1,5 +1,4 @@
-Micropeltis distincta Henn. SPECIES
-=======
+# Micropeltis distincta Henn. SPECIES
 
 #### Status
 ACCEPTED

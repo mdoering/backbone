@@ -1,17 +1,16 @@
-Stereum guadalupense Pat. SPECIES
-=======
+# Stereum guadelupense Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 15: 201 (1899)
 
 #### Original name
-Stereum guadalupense Pat.
+Stereum guadelupense Pat.
 
 ### Remarks
 null

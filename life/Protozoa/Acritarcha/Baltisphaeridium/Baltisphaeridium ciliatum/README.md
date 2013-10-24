@@ -1,5 +1,4 @@
-Baltisphaeridium ciliatum Nagy, 1969 SPECIES
-=======
+# Baltisphaeridium ciliatum Nagy, 1969 SPECIES
 
 #### Status
 ACCEPTED

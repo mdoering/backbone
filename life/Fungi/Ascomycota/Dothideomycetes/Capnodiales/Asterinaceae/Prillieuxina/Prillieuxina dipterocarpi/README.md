@@ -1,5 +1,4 @@
-Prillieuxina dipterocarpi (Syd. & P. Syd.) R.W. Ryan SPECIES
-=======
+# Prillieuxina dipterocarpi (Syd. & P. Syd.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

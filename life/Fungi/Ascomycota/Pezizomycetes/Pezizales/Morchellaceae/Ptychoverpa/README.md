@@ -1,5 +1,4 @@
-Ptychoverpa GENUS
-=======
+# Ptychoverpa GENUS
 
 #### Status
 ACCEPTED

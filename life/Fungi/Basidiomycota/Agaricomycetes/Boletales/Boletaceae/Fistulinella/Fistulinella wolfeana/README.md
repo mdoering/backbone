@@ -1,5 +1,4 @@
-Fistulinella wolfeana Singer & J. García, 1991 SPECIES
-=======
+# Fistulinella wolfeana Singer & J. García, 1991 SPECIES
 
 #### Status
 ACCEPTED

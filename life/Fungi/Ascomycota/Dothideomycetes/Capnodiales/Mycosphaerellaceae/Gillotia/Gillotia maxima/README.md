@@ -1,5 +1,4 @@
-Gillotia maxima (Massee) Arx & E. Müll. SPECIES
-=======
+# Gillotia maxima (Massee) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

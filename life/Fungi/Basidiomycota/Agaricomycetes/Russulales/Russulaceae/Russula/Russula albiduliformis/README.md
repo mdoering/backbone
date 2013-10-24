@@ -1,5 +1,4 @@
-Russula albiduliformis Murrill SPECIES
-=======
+# Russula albiduliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

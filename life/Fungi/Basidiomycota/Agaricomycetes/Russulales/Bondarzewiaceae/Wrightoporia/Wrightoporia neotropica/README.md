@@ -1,5 +1,4 @@
-Wrightoporia neotropica Ryvarden, 2000 SPECIES
-=======
+# Wrightoporia neotropica Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen granulatus L. f. SPECIES
-=======
+# Lichen granulatus L. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina implectens Nyl. SPECIES
-=======
+# Ramalina implectens Nyl. SPECIES
 
 #### Status
 ACCEPTED

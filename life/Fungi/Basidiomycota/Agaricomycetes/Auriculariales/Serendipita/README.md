@@ -1,5 +1,4 @@
-Serendipita P. Roberts GENUS
-=======
+# Serendipita P. Roberts GENUS
 
 #### Status
 ACCEPTED

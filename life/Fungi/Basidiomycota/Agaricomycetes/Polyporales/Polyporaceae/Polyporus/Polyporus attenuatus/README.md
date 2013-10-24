@@ -1,5 +1,4 @@
-Polyporus attenuatus Peck SPECIES
-=======
+# Polyporus attenuatus Peck SPECIES
 
 #### Status
 ACCEPTED

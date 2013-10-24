@@ -1,5 +1,4 @@
-Rhagodiscus hamptonii SPECIES
-=======
+# Rhagodiscus hamptonii SPECIES
 
 #### Status
 ACCEPTED

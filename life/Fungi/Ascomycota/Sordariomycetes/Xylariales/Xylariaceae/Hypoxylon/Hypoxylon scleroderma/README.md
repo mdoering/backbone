@@ -1,5 +1,4 @@
-Hypoxylon scleroderma Mont. SPECIES
-=======
+# Hypoxylon scleroderma Mont. SPECIES
 
 #### Status
 ACCEPTED

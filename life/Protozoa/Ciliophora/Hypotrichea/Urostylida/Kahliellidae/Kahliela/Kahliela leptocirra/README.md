@@ -1,8 +1,7 @@
-Kahliela leptosirra Tucolesco, 1962 SPECIES
-=======
+# Kahliela leptocirra Tucolesco, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

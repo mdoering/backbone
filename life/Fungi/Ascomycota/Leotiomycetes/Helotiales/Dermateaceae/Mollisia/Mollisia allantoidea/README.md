@@ -1,5 +1,4 @@
-Mollisia allantoidea Syd. SPECIES
-=======
+# Mollisia allantoidea Syd. SPECIES
 
 #### Status
 ACCEPTED

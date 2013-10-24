@@ -1,5 +1,4 @@
-Gymnodinium galeatum J. Larsen SPECIES
-=======
+# Gymnodinium galeatum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gephyramoeba Goodey, 1914 GENUS
-=======
+# Gephyramoeba Goodey, 1914 GENUS
 
 #### Status
 ACCEPTED

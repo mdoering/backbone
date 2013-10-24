@@ -1,14 +1,13 @@
-Hysteropezizella emergens (P. Karst.) Nannf., 1932 SPECIES
-=======
+# Merostictis emergens (P. Karst.) Clem., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 2 8(no. 2): 115 (1932)
+Gen. fung. (Minneapolis) 64 (1909)
 
 #### Original name
 Stictis emergens P. Karst., 1868

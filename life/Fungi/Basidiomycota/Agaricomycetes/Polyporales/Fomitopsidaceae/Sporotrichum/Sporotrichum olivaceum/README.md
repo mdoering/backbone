@@ -1,5 +1,4 @@
-Sporotrichum olivaceum Pers., 1822 SPECIES
-=======
+# Sporotrichum olivaceum Pers., 1822 SPECIES
 
 #### Status
 ACCEPTED

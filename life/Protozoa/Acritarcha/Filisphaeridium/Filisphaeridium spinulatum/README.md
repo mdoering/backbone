@@ -1,5 +1,4 @@
-Filisphaeridium spinulatum (Ouyang Shu, 1985) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium spinulatum (Ouyang Shu, 1985) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

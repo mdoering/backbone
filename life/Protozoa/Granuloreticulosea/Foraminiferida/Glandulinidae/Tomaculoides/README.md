@@ -1,5 +1,4 @@
-Tomaculoides Loeblich & Tappan, 1963 GENUS
-=======
+# Tomaculoides Loeblich & Tappan, 1963 GENUS
 
 #### Status
 ACCEPTED

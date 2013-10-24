@@ -1,5 +1,4 @@
-Cymbothyrium Petr. GENUS
-=======
+# Cymbothyrium Petr. GENUS
 
 #### Status
 ACCEPTED

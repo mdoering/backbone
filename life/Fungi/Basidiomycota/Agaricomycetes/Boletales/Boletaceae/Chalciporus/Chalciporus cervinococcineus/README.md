@@ -1,5 +1,4 @@
-Chalciporus cervinococcineus (Corner) Klofac & Krisai SPECIES
-=======
+# Chalciporus cervinococcineus (Corner) Klofac & Krisai SPECIES
 
 #### Status
 ACCEPTED

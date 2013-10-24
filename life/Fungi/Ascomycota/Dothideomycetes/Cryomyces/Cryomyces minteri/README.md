@@ -1,5 +1,4 @@
-Cryomyces minteri Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri, 2005 SPECIES
-=======
+# Cryomyces minteri Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nesterenkonia Stackebrandt et al., 1995 GENUS
-=======
+# Nesterenkonia Stackebrandt et al., 1995 GENUS
 
 #### Status
 ACCEPTED

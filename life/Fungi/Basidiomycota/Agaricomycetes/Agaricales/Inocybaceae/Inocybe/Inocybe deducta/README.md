@@ -1,5 +1,4 @@
-Inocybe deducta (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe deducta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

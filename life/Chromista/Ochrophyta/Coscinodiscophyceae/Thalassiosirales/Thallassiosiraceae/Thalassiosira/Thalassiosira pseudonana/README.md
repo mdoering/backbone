@@ -1,5 +1,4 @@
-Thalassiosira pseudonana Hasle & Heimdal SPECIES
-=======
+# Thalassiosira pseudonana Hasle & Heimdal SPECIES
 
 #### Status
 ACCEPTED

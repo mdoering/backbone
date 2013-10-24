@@ -1,5 +1,4 @@
-Uredo andryalae Syd. & P. Syd. SPECIES
-=======
+# Uredo andryalae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

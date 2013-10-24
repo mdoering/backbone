@@ -1,5 +1,4 @@
-Endophyllum superficiale (P. Karst. & Roum.) F. Stevens & Mendiola SPECIES
-=======
+# Endophyllum superficiale (P. Karst. & Roum.) F. Stevens & Mendiola SPECIES
 
 #### Status
 ACCEPTED

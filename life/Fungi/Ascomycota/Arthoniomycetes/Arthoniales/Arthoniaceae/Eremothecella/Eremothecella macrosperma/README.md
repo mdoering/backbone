@@ -1,5 +1,4 @@
-Eremothecella macrosperma (Zahlbr.) Sérus. SPECIES
-=======
+# Eremothecella macrosperma (Zahlbr.) Sérus. SPECIES
 
 #### Status
 ACCEPTED

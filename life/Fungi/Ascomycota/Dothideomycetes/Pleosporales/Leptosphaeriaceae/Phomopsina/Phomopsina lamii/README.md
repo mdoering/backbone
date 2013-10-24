@@ -1,5 +1,4 @@
-Phomopsina lamii Petr. SPECIES
-=======
+# Phomopsina lamii Petr. SPECIES
 
 #### Status
 ACCEPTED

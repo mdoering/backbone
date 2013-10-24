@@ -1,5 +1,4 @@
-Fusarium citri anon. SPECIES
-=======
+# Fusarium citri anon. SPECIES
 
 #### Status
 ACCEPTED

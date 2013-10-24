@@ -1,5 +1,4 @@
-Ilsteria tetracoccus Pascher SPECIES
-=======
+# Ilsteria tetracoccus Pascher SPECIES
 
 #### Status
 ACCEPTED

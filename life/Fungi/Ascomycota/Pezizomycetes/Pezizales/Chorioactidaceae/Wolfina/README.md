@@ -1,5 +1,4 @@
-Wolfina Seaver, 1937 GENUS
-=======
+# Wolfina Seaver, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium fructigenum Rabenh. SPECIES
-=======
+# Helminthosporium fructigenum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

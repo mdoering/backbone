@@ -1,5 +1,4 @@
-Isthmochloron gracile (Reinsch) Skuja SPECIES
-=======
+# Isthmochloron gracile (Reinsch) Skuja SPECIES
 
 #### Status
 ACCEPTED

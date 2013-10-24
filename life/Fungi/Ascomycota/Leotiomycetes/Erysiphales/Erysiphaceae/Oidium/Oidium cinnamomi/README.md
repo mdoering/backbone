@@ -1,5 +1,4 @@
-Oidium cinnamomi (J.M. Yen) U. Braun SPECIES
-=======
+# Oidium cinnamomi (J.M. Yen) U. Braun SPECIES
 
 #### Status
 ACCEPTED

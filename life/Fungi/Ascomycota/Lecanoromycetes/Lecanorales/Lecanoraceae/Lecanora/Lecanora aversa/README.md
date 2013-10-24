@@ -1,5 +1,4 @@
-Lecanora aversa Motyka SPECIES
-=======
+# Lecanora aversa Motyka SPECIES
 
 #### Status
 ACCEPTED

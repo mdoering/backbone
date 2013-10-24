@@ -1,5 +1,4 @@
-Anthostoma inquinans Nitschke SPECIES
-=======
+# Anthostoma inquinans Nitschke SPECIES
 
 #### Status
 ACCEPTED

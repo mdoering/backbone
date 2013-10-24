@@ -1,5 +1,4 @@
-Entoloma xanthomyces Corner & E. Horak SPECIES
-=======
+# Entoloma xanthomyces Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

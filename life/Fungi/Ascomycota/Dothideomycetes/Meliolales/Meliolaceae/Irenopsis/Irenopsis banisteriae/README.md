@@ -1,5 +1,4 @@
-Irenopsis banisteriae Hansf. SPECIES
-=======
+# Irenopsis banisteriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

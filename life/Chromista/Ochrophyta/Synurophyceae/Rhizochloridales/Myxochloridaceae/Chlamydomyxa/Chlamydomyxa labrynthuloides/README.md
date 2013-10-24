@@ -1,5 +1,4 @@
-Chlamydomyxa labrynthuloides Archer SPECIES
-=======
+# Chlamydomyxa labrynthuloides Archer SPECIES
 
 #### Status
 ACCEPTED

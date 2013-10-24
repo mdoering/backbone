@@ -1,5 +1,4 @@
-Ascochyta caricis-ripariae Punith. SPECIES
-=======
+# Ascochyta caricis-ripariae Punith. SPECIES
 
 #### Status
 ACCEPTED

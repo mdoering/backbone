@@ -1,5 +1,4 @@
-Pleurotus minutus Peck SPECIES
-=======
+# Pleurotus minutus Peck SPECIES
 
 #### Status
 ACCEPTED

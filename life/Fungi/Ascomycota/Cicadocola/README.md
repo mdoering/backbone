@@ -1,5 +1,4 @@
-Cicadocola Brain GENUS
-=======
+# Cicadocola Brain GENUS
 
 #### Status
 ACCEPTED

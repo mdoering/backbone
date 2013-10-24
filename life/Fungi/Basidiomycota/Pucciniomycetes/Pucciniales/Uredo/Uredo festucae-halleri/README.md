@@ -1,5 +1,4 @@
-Uredo festucae-halleri Cruchet SPECIES
-=======
+# Uredo festucae-halleri Cruchet SPECIES
 
 #### Status
 ACCEPTED

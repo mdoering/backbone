@@ -1,5 +1,4 @@
-Sphaeroidinellidae FAMILY
-=======
+# Sphaeroidinellidae FAMILY
 
 #### Status
 ACCEPTED

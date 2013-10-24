@@ -1,14 +1,13 @@
-Verrucaria hymenogonia Nyl. SPECIES
-=======
+# Staurothele hymenogonia (Nyl.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Act. Soc. linn. Bordeaux 21: 430 (1856)
+Bot. Notiser 40 (1865)
 
 #### Original name
 Verrucaria hymenogonia Nyl.

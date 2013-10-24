@@ -1,14 +1,13 @@
-Odontia bugellensis Ces., 1855 SPECIES
-=======
+# Xylodon bugellensis (Ces.) Hjortstam & Ryvarden, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Klotzsch, Klotzsch Herb. Myc. no. 1915 (1855)
+Syn. Fung. (Oslo) 23: 99 (2007)
 
 #### Original name
 Odontia bugellensis Ces., 1855

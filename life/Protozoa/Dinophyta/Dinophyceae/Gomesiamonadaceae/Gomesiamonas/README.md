@@ -1,5 +1,4 @@
-Gomesiamonas Skvortzov & Noda, 1969 GENUS
-=======
+# Gomesiamonas Skvortzov & Noda, 1969 GENUS
 
 #### Status
 ACCEPTED

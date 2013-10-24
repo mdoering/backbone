@@ -1,5 +1,4 @@
-Lactarius pseudolignyotus R. Heim SPECIES
-=======
+# Lactarius pseudolignyotus R. Heim SPECIES
 
 #### Status
 ACCEPTED

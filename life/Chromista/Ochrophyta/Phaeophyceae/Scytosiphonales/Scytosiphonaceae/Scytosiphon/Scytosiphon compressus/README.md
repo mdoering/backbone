@@ -1,5 +1,4 @@
-Scytosiphon compressus var. crispatus Lyngbye VARIETY
-=======
+# Scytosiphon compressus (Linnaeus) Lyngbye SPECIES
 
 #### Status
 ACCEPTED

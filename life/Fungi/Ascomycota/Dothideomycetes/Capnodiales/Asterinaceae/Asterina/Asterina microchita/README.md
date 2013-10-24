@@ -1,5 +1,4 @@
-Asterina microchita Syd. SPECIES
-=======
+# Asterina microchita Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia glyceriae Velen. SPECIES
-=======
+# Mollisia glyceriae Velen. SPECIES
 
 #### Status
 ACCEPTED

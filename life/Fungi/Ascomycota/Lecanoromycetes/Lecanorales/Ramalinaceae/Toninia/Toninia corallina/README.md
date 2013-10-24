@@ -1,5 +1,4 @@
-Toninia corallina Timdal SPECIES
-=======
+# Toninia corallina Timdal SPECIES
 
 #### Status
 ACCEPTED

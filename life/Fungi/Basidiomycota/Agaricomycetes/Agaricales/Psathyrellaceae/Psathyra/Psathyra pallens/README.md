@@ -1,5 +1,4 @@
-Psathyra pallens P. Karst. SPECIES
-=======
+# Psathyra pallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

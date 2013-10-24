@@ -1,5 +1,4 @@
-Monoconidia GENUS
-=======
+# Monoconidia GENUS
 
 #### Status
 ACCEPTED

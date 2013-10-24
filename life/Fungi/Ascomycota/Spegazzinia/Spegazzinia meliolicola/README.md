@@ -1,5 +1,4 @@
-Spegazzinia meliolicola Henn. SPECIES
-=======
+# Spegazzinia meliolicola Henn. SPECIES
 
 #### Status
 ACCEPTED

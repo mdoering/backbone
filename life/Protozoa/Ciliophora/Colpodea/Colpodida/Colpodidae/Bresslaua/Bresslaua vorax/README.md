@@ -1,8 +1,7 @@
-Bresslaua bavariensis Bovee, 1979 SPECIES
-=======
+# Bresslaua vorax Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

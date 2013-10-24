@@ -1,5 +1,4 @@
-Asterostromella anomala Rick SPECIES
-=======
+# Asterostromella anomala Rick SPECIES
 
 #### Status
 ACCEPTED

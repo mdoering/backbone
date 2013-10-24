@@ -1,5 +1,4 @@
-Urceolella tuberculiformis (Ellis & Everh.) Dennis SPECIES
-=======
+# Urceolella tuberculiformis (Ellis & Everh.) Dennis SPECIES
 
 #### Status
 ACCEPTED

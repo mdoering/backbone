@@ -1,5 +1,4 @@
-Stereocaulon depressum (Frey) I.M. Lamb SPECIES
-=======
+# Stereocaulon depressum (Frey) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

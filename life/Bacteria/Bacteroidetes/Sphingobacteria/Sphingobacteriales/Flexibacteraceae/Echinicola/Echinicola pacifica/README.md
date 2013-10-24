@@ -1,5 +1,4 @@
-Echinicola pacifica Nedashkovskaya et al., 2006 SPECIES
-=======
+# Echinicola pacifica Nedashkovskaya et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Bacterium sonnei Levine, 1920 SPECIES
-=======
+# Shigella sonnei (Levine, 1920) Weldin, 1927 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

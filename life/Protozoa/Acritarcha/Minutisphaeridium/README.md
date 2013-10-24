@@ -1,5 +1,4 @@
-Minutisphaeridium Tang & Tao in Cai Zhiguo, Zheng Guoguang, Cui Zhantang et al., 1998 GENUS
-=======
+# Minutisphaeridium Tang & Tao in Cai Zhiguo, Zheng Guoguang, Cui Zhantang et al., 1998 GENUS
 
 #### Status
 ACCEPTED

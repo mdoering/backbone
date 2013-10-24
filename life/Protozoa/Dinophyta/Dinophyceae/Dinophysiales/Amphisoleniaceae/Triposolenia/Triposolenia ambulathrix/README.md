@@ -1,5 +1,4 @@
-Triposolenia ambulathrix Kofoid, 1907 SPECIES
-=======
+# Triposolenia ambulathrix Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

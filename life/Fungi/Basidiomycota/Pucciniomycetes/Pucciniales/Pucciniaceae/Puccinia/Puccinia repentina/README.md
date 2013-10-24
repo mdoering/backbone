@@ -1,5 +1,4 @@
-Puccinia repentina H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia repentina H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

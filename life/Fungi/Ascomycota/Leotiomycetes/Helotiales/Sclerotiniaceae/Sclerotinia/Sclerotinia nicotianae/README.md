@@ -1,17 +1,16 @@
-Sclerotinia nicotiana Oudem. & Jos. König SPECIES
-=======
+# Sclerotinia nicotianae Oudem. & Jos. König SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. K. Akad. Vet. Amsterdam 48 (1903)
 
 #### Original name
-Sclerotinia nicotiana Oudem. & Jos. König
+Sclerotinia nicotianae Oudem. & Jos. König
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Exosporium bambusae (Cooke) Subram. SPECIES
-=======
+# Exosporium bambusae (Cooke) Subram. SPECIES
 
 #### Status
 ACCEPTED

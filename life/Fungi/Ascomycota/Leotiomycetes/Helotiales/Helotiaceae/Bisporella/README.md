@@ -1,17 +1,16 @@
-Bispora Fuckel GENUS
-=======
+# Bisporella Saccardo, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Bispora Fuckel
+null
 
 ### Remarks
 null

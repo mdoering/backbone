@@ -1,5 +1,4 @@
-Ilsiella terricola SPECIES
-=======
+# Ilsiella terricola SPECIES
 
 #### Status
 ACCEPTED

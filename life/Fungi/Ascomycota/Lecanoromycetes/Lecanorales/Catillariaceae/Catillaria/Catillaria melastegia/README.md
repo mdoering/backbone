@@ -1,5 +1,4 @@
-Catillaria melastegia f. melastegia FORM
-=======
+# Catillaria melastegia (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 21 (1926)
 
 #### Original name
-Catillaria melastegia f. melastegia
+Lecidea melastegia Nyl.
 
 ### Remarks
 null

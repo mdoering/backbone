@@ -1,5 +1,4 @@
-Uredo minuta Pat. SPECIES
-=======
+# Uredo minuta Pat. SPECIES
 
 #### Status
 ACCEPTED

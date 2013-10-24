@@ -1,5 +1,4 @@
-Pleurochloris Pascher, 1925 GENUS
-=======
+# Pleurochloris Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

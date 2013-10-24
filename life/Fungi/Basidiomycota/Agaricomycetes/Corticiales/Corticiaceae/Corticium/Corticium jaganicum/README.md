@@ -1,5 +1,4 @@
-Corticium jaganicum Speg. SPECIES
-=======
+# Corticium jaganicum Speg. SPECIES
 
 #### Status
 ACCEPTED

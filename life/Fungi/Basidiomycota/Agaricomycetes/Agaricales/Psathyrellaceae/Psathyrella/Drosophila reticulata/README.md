@@ -1,5 +1,4 @@
-Drosophila reticulata var. reticulata VARIETY
-=======
+# Drosophila reticulata Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 21: 154 (1952)
 
 #### Original name
-Drosophila reticulata var. reticulata
+Drosophila reticulata Romagn.
 
 ### Remarks
 null

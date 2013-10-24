@@ -1,5 +1,4 @@
-Cercospora piperis-muricati J.M. Yen SPECIES
-=======
+# Cercospora piperis-muricati J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

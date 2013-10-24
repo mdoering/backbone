@@ -1,5 +1,4 @@
-Sydowiellina protiana Bat. & I.H. Lima SPECIES
-=======
+# Sydowiellina protiana Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

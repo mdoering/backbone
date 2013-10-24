@@ -1,17 +1,16 @@
-Pseudochlamys Claparède & Lachmann, 1860 GENUS
-=======
+# Microchlamys Cockerell, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Mém. Inst. Genev. , 6, 1858, 443.
+Zool. Anz. , 38, 136.
 
 #### Original name
-null
+Pseudochlamys Claparède & Lachmann, 1860
 
 ### Remarks
 null

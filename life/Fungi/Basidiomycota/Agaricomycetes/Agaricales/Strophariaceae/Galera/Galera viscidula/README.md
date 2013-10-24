@@ -1,5 +1,4 @@
-Galera viscidula P. Karst. SPECIES
-=======
+# Galera viscidula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

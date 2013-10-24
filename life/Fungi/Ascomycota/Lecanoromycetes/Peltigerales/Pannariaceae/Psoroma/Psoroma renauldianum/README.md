@@ -1,5 +1,4 @@
-Psoroma renauldianum Flagey SPECIES
-=======
+# Psoroma renauldianum Flagey SPECIES
 
 #### Status
 ACCEPTED

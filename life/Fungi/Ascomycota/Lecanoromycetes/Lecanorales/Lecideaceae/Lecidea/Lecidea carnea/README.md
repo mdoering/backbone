@@ -1,5 +1,4 @@
-Lecidea carnea (Körb.) Jatta SPECIES
-=======
+# Lecidea carnea (Körb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

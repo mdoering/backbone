@@ -1,5 +1,4 @@
-Rosellinia friesii Niessl SPECIES
-=======
+# Rosellinia friesii Niessl SPECIES
 
 #### Status
 ACCEPTED

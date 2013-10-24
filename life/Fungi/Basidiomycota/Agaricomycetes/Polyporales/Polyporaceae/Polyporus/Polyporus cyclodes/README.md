@@ -1,5 +1,4 @@
-Polyporus cyclodes Fr. SPECIES
-=======
+# Polyporus cyclodes Fr. SPECIES
 
 #### Status
 ACCEPTED

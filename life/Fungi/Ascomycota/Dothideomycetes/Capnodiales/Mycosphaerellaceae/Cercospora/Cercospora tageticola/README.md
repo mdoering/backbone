@@ -1,5 +1,4 @@
-Cercospora tageticola Ellis & Everh. SPECIES
-=======
+# Cercospora tageticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

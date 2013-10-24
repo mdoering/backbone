@@ -1,5 +1,4 @@
-Didymella dentariae Rehm SPECIES
-=======
+# Didymella dentariae Rehm SPECIES
 
 #### Status
 ACCEPTED

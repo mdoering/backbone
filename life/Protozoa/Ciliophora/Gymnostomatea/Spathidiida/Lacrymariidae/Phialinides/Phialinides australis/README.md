@@ -1,5 +1,4 @@
-Phialinides australis Foissner, 1988 SPECIES
-=======
+# Phialinides australis Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

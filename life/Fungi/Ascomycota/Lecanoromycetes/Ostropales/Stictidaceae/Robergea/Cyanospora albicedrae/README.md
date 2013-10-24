@@ -1,5 +1,4 @@
-Cyanospora albicedrae Heald & F.A. Wolf SPECIES
-=======
+# Cyanospora albicedrae Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

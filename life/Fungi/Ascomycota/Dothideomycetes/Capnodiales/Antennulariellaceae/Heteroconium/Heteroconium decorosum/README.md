@@ -1,5 +1,4 @@
-Heteroconium decorosum R.F. Castañeda, Saikawa & Guarro SPECIES
-=======
+# Heteroconium decorosum R.F. Castañeda, Saikawa & Guarro SPECIES
 
 #### Status
 ACCEPTED

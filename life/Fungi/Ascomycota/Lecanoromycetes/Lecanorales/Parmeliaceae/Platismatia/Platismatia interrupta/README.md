@@ -1,5 +1,4 @@
-Platismatia interrupta W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia interrupta W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

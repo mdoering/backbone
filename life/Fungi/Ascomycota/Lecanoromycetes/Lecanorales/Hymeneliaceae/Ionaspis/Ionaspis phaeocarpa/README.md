@@ -1,5 +1,4 @@
-Ionaspis phaeocarpa Zahlbr. SPECIES
-=======
+# Ionaspis phaeocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon pruinatum J.F. Gmel. SPECIES
-=======
+# Lycoperdon pruinatum J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

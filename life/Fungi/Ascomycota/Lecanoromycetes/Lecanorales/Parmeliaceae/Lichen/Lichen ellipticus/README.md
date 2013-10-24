@@ -1,5 +1,4 @@
-Lichen ellipticus Ach. SPECIES
-=======
+# Lichen ellipticus Ach. SPECIES
 
 #### Status
 ACCEPTED

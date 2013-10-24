@@ -1,5 +1,4 @@
-Stenella argyreiae Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha SPECIES
-=======
+# Stenella argyreiae Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha SPECIES
 
 #### Status
 ACCEPTED

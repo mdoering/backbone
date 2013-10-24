@@ -1,5 +1,4 @@
-Hypoxylon comaropsis Mont. SPECIES
-=======
+# Hypoxylon comaropsis Mont. SPECIES
 
 #### Status
 ACCEPTED

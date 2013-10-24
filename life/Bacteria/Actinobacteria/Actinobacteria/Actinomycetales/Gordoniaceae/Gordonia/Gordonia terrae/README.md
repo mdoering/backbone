@@ -1,5 +1,4 @@
-Gordonia terrae (Tsukamura, 1971) Stackebrandt et al., 1989 SPECIES
-=======
+# Gordonia terrae (Tsukamura, 1971) Stackebrandt et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

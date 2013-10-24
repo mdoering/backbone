@@ -1,5 +1,4 @@
-Navicella maculans (Fabre) Kuntze SPECIES
-=======
+# Navicella maculans (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

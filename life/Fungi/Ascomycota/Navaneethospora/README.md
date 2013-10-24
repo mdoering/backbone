@@ -1,5 +1,4 @@
-Navaneethospora V.G. Rao GENUS
-=======
+# Navaneethospora V.G. Rao GENUS
 
 #### Status
 ACCEPTED

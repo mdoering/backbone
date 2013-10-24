@@ -1,5 +1,4 @@
-Peyritschiella xanthopygi Thaxt. SPECIES
-=======
+# Peyritschiella xanthopygi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

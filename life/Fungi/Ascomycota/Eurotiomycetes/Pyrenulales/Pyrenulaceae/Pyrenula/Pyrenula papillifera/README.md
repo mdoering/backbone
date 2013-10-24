@@ -1,5 +1,4 @@
-Pyrenula papillifera (Nyl.) Aptroot SPECIES
-=======
+# Pyrenula papillifera (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago dracaenae Sousa da Câmara SPECIES
-=======
+# Ustilago dracaenae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

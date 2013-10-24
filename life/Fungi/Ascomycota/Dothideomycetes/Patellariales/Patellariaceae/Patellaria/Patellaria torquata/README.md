@@ -1,5 +1,4 @@
-Patellaria torquata (Fr.) Trevis. SPECIES
-=======
+# Patellaria torquata (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

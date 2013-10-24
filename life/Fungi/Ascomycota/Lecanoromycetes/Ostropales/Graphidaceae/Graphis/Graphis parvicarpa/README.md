@@ -1,5 +1,4 @@
-Graphis parvicarpa B. O. Sharma & Khadilkar SPECIES
-=======
+# Graphis parvicarpa B. O. Sharma & Khadilkar SPECIES
 
 #### Status
 ACCEPTED

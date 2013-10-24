@@ -1,5 +1,4 @@
-Septoria savulescui Sandu SPECIES
-=======
+# Septoria savulescui Sandu SPECIES
 
 #### Status
 ACCEPTED

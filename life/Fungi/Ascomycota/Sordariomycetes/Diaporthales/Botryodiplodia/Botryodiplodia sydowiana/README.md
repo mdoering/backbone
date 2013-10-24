@@ -1,5 +1,4 @@
-Botryodiplodia sydowiana Scalia SPECIES
-=======
+# Botryodiplodia sydowiana Scalia SPECIES
 
 #### Status
 ACCEPTED

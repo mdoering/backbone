@@ -1,5 +1,4 @@
-Zythia versoniana (Sacc.) Sacc. SPECIES
-=======
+# Zythia versoniana (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

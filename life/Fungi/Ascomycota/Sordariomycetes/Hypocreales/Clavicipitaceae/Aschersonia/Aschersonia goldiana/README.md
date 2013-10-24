@@ -1,5 +1,4 @@
-Aschersonia goldiana Sacc. & Ellis SPECIES
-=======
+# Aschersonia goldiana Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

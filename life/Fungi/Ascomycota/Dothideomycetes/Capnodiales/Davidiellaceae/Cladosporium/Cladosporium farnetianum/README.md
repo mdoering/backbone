@@ -1,5 +1,4 @@
-Cladosporium farnetianum Sacc. SPECIES
-=======
+# Cladosporium farnetianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

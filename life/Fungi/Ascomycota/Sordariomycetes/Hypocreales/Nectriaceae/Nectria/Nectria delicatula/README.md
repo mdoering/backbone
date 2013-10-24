@@ -1,5 +1,4 @@
-Nectria delicatula (Fr.) Sacc. SPECIES
-=======
+# Nectria delicatula (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

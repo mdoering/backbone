@@ -1,5 +1,4 @@
-Agaricus geniculatus V. Brig. SPECIES
-=======
+# Agaricus geniculatus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

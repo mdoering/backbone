@@ -1,5 +1,4 @@
-Phlyctospora GENUS
-=======
+# Phlyctospora GENUS
 
 #### Status
 ACCEPTED

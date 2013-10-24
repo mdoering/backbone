@@ -1,5 +1,4 @@
-Phakopsora meliosmae Kusano SPECIES
-=======
+# Phakopsora meliosmae Kusano SPECIES
 
 #### Status
 ACCEPTED

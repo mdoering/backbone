@@ -1,5 +1,4 @@
-Lecidea trichosperma (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea trichosperma (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

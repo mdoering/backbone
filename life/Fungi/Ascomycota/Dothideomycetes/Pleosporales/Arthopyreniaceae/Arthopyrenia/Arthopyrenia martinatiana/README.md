@@ -1,5 +1,4 @@
-Arthopyrenia martinatiana Arnold SPECIES
-=======
+# Arthopyrenia martinatiana Arnold SPECIES
 
 #### Status
 ACCEPTED

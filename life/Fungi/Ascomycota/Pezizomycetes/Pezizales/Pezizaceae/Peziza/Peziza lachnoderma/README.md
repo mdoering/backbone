@@ -1,5 +1,4 @@
-Peziza lachnoderma Berk. SPECIES
-=======
+# Peziza lachnoderma Berk. SPECIES
 
 #### Status
 ACCEPTED

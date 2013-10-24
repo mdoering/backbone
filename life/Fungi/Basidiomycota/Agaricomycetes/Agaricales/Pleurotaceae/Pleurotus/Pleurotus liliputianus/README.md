@@ -1,5 +1,4 @@
-Pleurotus liliputianus Mont. SPECIES
-=======
+# Pleurotus liliputianus Mont. SPECIES
 
 #### Status
 ACCEPTED

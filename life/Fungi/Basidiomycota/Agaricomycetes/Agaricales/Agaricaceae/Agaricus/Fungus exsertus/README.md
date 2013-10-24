@@ -1,5 +1,4 @@
-Fungus exsertus (Viv.) Kuntze SPECIES
-=======
+# Fungus exsertus (Viv.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

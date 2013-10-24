@@ -1,5 +1,4 @@
-Diplodia fulvella Cooke SPECIES
-=======
+# Diplodia fulvella Cooke SPECIES
 
 #### Status
 ACCEPTED

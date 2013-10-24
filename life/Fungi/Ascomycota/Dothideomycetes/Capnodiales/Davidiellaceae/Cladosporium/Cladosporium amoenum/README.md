@@ -1,5 +1,4 @@
-Cladosporium amoenum R.F. Castañeda, 1998 SPECIES
-=======
+# Cladosporium amoenum R.F. Castañeda, 1998 SPECIES
 
 #### Status
 ACCEPTED

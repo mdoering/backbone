@@ -1,5 +1,4 @@
-Depazea candida Thüm. SPECIES
-=======
+# Depazea candida Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia botrychii Lindr. SPECIES
-=======
+# Ramularia botrychii Lindr. SPECIES
 
 #### Status
 ACCEPTED

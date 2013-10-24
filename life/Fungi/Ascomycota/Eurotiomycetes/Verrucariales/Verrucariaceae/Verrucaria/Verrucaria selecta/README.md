@@ -1,5 +1,4 @@
-Verrucaria selecta Servít SPECIES
-=======
+# Verrucaria selecta Servít SPECIES
 
 #### Status
 ACCEPTED

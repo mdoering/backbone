@@ -1,5 +1,4 @@
-Trichosphaeria hariotiana P. Karst. & Har. SPECIES
-=======
+# Trichosphaeria hariotiana P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

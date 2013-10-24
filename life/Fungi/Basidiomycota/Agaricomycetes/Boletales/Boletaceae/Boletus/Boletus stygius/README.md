@@ -1,5 +1,4 @@
-Boletus stygius Wallr. SPECIES
-=======
+# Boletus stygius Wallr. SPECIES
 
 #### Status
 ACCEPTED

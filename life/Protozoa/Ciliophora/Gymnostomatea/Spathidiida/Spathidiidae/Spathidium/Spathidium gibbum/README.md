@@ -1,5 +1,4 @@
-Spathidium gibbum Kahl, 1930 SPECIES
-=======
+# Spathidium gibbum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

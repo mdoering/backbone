@@ -1,5 +1,4 @@
-Polyporus integra Bres. SPECIES
-=======
+# Polyporus integra Bres. SPECIES
 
 #### Status
 ACCEPTED

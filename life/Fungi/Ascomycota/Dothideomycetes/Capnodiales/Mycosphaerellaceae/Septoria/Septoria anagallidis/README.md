@@ -1,5 +1,4 @@
-Septoria anagallidis Richon SPECIES
-=======
+# Septoria anagallidis Richon SPECIES
 
 #### Status
 ACCEPTED

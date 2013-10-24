@@ -1,17 +1,16 @@
-Protospira Raabe, 1968 GENUS
-=======
+# Protospirella Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta Protozool. 6: 171.
+Denisia 1: 134.
 
 #### Original name
-null
+Protospira Raabe, 1968
 
 ### Remarks
 null

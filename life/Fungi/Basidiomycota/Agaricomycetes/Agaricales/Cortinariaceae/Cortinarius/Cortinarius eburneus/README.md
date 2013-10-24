@@ -1,5 +1,4 @@
-Cortinarius eburneus (Velen.) Rob. Henry ex Bon SPECIES
-=======
+# Cortinarius eburneus (Velen.) Rob. Henry ex Bon SPECIES
 
 #### Status
 ACCEPTED

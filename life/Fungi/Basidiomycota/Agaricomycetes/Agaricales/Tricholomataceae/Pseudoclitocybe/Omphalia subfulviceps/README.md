@@ -1,5 +1,4 @@
-Omphalia subfulviceps (Murrill) Murrill SPECIES
-=======
+# Omphalia subfulviceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

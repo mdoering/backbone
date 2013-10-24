@@ -1,5 +1,4 @@
-Melanoleuca sparrei Singer SPECIES
-=======
+# Melanoleuca sparrei Singer SPECIES
 
 #### Status
 ACCEPTED

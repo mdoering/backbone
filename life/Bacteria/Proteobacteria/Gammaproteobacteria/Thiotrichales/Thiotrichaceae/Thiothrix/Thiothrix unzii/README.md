@@ -1,5 +1,4 @@
-Thiothrix unzii Howarth et al., 1999 SPECIES
-=======
+# Thiothrix unzii Howarth et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

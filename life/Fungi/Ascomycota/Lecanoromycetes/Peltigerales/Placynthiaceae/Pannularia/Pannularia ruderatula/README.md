@@ -1,5 +1,4 @@
-Pannularia ruderatula Nyl. SPECIES
-=======
+# Pannularia ruderatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

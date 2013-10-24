@@ -1,5 +1,4 @@
-Helicobasidiales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
-=======
+# Helicobasidiales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
 
 #### Status
 ACCEPTED

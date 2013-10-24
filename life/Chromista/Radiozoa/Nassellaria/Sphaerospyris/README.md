@@ -1,5 +1,4 @@
-Sphaerospyris Haeckel, 1887 GENUS
-=======
+# Sphaerospyris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

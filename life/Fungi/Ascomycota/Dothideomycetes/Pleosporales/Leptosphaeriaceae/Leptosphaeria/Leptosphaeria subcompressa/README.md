@@ -1,5 +1,4 @@
-Leptosphaeria subcompressa J.H. Mill. & Burton SPECIES
-=======
+# Leptosphaeria subcompressa J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

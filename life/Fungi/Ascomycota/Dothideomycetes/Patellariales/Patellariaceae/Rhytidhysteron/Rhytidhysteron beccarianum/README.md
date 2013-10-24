@@ -1,14 +1,13 @@
-Rhytidhysterium beccarianum (Ces.) Bat. & Valle SPECIES
-=======
+# Rhytidhysteron beccarianum (Ces.) Bat. & Valle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais XIV Congr. Soc. bot. Brasil 144 (1964)
 
 #### Original name
 Angelina beccariana Ces.

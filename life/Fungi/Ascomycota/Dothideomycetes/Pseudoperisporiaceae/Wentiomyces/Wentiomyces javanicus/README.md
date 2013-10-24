@@ -1,5 +1,4 @@
-Wentiomyces javanicus Koord., 1907 SPECIES
-=======
+# Wentiomyces javanicus Koord., 1907 SPECIES
 
 #### Status
 ACCEPTED

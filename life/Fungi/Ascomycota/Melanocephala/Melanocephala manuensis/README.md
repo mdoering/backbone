@@ -1,5 +1,4 @@
-Melanocephala manuensis Matsush., 1993 SPECIES
-=======
+# Melanocephala manuensis Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrentactinia Foreman, 1963 GENUS
-=======
+# Tetrentactinia Foreman, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma potentillica Allesch. SPECIES
-=======
+# Phoma potentillica Allesch. SPECIES
 
 #### Status
 ACCEPTED

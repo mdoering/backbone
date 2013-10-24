@@ -1,5 +1,4 @@
-Epithyrium domesticum (Henn.) Sacc. SPECIES
-=======
+# Epithyrium domesticum (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

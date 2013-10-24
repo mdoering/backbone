@@ -1,5 +1,4 @@
-Cortinarius acutellus Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius acutellus Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

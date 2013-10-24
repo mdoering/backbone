@@ -1,5 +1,4 @@
-Hypocrea carteri Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea carteri Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

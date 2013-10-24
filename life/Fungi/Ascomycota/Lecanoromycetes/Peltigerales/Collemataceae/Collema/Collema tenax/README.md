@@ -1,17 +1,16 @@
-Arthonia vulgaris f. vulgaris FORM
-=======
+# Collema tenax (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. helv. spicil. 1: 8 (1823)
+null
 
 #### Original name
-Arthonia vulgaris f. vulgaris
+Collema tenax (Sw.) Ach.
 
 ### Remarks
 null

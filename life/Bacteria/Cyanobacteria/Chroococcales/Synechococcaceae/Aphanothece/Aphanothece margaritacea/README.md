@@ -1,5 +1,4 @@
-Aphanothece margaritacea (Kützing) Forti SPECIES
-=======
+# Aphanothece margaritacea (Kützing) Forti SPECIES
 
 #### Status
 ACCEPTED

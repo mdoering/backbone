@@ -1,5 +1,4 @@
-Phlebia carnea Fr. SPECIES
-=======
+# Phlebia carnea Fr. SPECIES
 
 #### Status
 ACCEPTED

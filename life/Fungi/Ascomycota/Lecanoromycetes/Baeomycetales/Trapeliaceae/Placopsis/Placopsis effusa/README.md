@@ -1,5 +1,4 @@
-Placopsis effusa I.M. Lamb SPECIES
-=======
+# Placopsis effusa I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

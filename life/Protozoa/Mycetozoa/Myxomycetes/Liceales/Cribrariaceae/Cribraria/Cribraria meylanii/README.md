@@ -1,17 +1,16 @@
-Cribraria rubiginosa longipes Meyl., 1908 INFRASPECIFIC_NAME
-=======
+# Cribraria meylanii Brândza, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 44: 274 (1929)
 
 #### Original name
-null
+Cribraria meylanii Brândza, 1929
 
 ### Remarks
 null

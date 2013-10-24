@@ -1,5 +1,4 @@
-Aecidium rubellum var. rubellum VARIETY
-=======
+# Aecidium rubellum J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. Nat. 2(2): 1473 (1792)
 
 #### Original name
-Aecidium rubellum var. rubellum
+Aecidium rubellum J.F. Gmel.
 
 ### Remarks
 null

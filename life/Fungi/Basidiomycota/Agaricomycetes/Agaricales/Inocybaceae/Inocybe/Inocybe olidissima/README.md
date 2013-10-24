@@ -1,5 +1,4 @@
-Inocybe olidissima (Ripart) Poirier & Reumaux SPECIES
-=======
+# Inocybe olidissima (Ripart) Poirier & Reumaux SPECIES
 
 #### Status
 ACCEPTED

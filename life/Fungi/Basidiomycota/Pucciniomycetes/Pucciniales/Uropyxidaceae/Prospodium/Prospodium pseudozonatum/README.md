@@ -1,5 +1,4 @@
-Prospodium pseudozonatum Viégas SPECIES
-=======
+# Prospodium pseudozonatum Viégas SPECIES
 
 #### Status
 ACCEPTED

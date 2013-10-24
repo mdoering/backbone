@@ -1,5 +1,4 @@
-Mucor acridii Edgerton SPECIES
-=======
+# Mucor acridii Edgerton SPECIES
 
 #### Status
 ACCEPTED

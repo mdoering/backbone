@@ -1,5 +1,4 @@
-Clitocybe pistillipes Mont. SPECIES
-=======
+# Clitocybe pistillipes Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyocha helix D. Bukry SPECIES
-=======
+# Dictyocha helix D. Bukry SPECIES
 
 #### Status
 ACCEPTED

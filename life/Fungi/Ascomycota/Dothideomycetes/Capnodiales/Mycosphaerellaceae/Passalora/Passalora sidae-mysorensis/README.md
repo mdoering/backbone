@@ -1,5 +1,4 @@
-Passalora sidae-mysorensis Meeboon & Hidayat SPECIES
-=======
+# Passalora sidae-mysorensis Meeboon & Hidayat SPECIES
 
 #### Status
 ACCEPTED

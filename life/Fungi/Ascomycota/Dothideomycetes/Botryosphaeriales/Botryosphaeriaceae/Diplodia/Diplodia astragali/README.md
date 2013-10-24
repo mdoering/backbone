@@ -1,5 +1,4 @@
-Diplodia astragali Golovin SPECIES
-=======
+# Diplodia astragali Golovin SPECIES
 
 #### Status
 ACCEPTED

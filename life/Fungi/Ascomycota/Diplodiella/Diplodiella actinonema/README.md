@@ -1,5 +1,4 @@
-Diplodiella actinonema (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Diplodiella actinonema (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

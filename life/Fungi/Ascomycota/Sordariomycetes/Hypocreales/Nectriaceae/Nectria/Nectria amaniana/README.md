@@ -1,5 +1,4 @@
-Nectria amaniana Zimm. SPECIES
-=======
+# Nectria amaniana Zimm. SPECIES
 
 #### Status
 ACCEPTED

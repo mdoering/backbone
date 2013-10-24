@@ -1,5 +1,4 @@
-Cercospora punicae Henn. SPECIES
-=======
+# Cercospora punicae Henn. SPECIES
 
 #### Status
 ACCEPTED

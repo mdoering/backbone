@@ -1,5 +1,4 @@
-Clitocybe bresadolana var. bresadolana VARIETY
-=======
+# Clitocybe bresadolana Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 2(6): 228 (1937)
 
 #### Original name
-Clitocybe bresadolana var. bresadolana
+Clitocybe bresadolana Singer
 
 ### Remarks
 null

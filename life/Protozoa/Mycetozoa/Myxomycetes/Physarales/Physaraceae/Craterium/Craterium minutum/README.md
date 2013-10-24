@@ -1,17 +1,16 @@
-Craterium vulgare var. confusum Rostaf. VARIETY
-=======
+# Craterium minutum (Leers) Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz) 119 (1875)
+Syst. mycol. (Lundae) 3(1): 151 (1829)
 
 #### Original name
-Craterium vulgare var. confusum Rostaf.
+Craterium minutum (Leers) Fr., 1829
 
 ### Remarks
 null

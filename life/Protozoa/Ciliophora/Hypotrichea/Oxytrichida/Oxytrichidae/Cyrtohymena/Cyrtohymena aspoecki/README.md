@@ -1,5 +1,4 @@
-Cyrtohymena aspoecki Foissner, 2004 SPECIES
-=======
+# Cyrtohymena aspoecki Foissner, 2004 SPECIES
 
 #### Status
 ACCEPTED

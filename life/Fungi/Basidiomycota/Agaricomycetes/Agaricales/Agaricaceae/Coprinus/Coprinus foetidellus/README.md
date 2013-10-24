@@ -1,5 +1,4 @@
-Coprinus foetidellus P.D. Orton, 1972 SPECIES
-=======
+# Coprinus foetidellus P.D. Orton, 1972 SPECIES
 
 #### Status
 ACCEPTED

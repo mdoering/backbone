@@ -1,5 +1,4 @@
-Dicaeoma tripsaci (Dietel & Holw.) Syd. SPECIES
-=======
+# Dicaeoma tripsaci (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

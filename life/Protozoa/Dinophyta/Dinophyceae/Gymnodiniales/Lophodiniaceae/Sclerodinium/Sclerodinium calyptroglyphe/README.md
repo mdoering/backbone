@@ -1,5 +1,4 @@
-Sclerodinium calyptroglyphe (Lebour) Dodge SPECIES
-=======
+# Sclerodinium calyptroglyphe (Lebour) Dodge SPECIES
 
 #### Status
 ACCEPTED

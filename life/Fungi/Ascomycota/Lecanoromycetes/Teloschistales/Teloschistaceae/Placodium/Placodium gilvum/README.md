@@ -1,5 +1,4 @@
-Placodium gilvum var. gilvum VARIETY
-=======
+# Placodium gilvum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium gilvum var. gilvum
+Placodium gilvum Vain.
 
 ### Remarks
 null

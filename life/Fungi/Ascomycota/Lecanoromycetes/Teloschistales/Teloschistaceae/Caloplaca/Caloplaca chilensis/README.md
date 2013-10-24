@@ -1,5 +1,4 @@
-Caloplaca chilensis Kärnefelt, S.Y. Kondr., Frödén & Arup SPECIES
-=======
+# Caloplaca chilensis Kärnefelt, S.Y. Kondr., Frödén & Arup SPECIES
 
 #### Status
 ACCEPTED

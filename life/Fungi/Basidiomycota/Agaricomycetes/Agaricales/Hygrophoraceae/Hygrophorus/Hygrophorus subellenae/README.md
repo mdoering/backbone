@@ -1,5 +1,4 @@
-Hygrophorus subellenae Largent SPECIES
-=======
+# Hygrophorus subellenae Largent SPECIES
 
 #### Status
 ACCEPTED

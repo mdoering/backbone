@@ -1,5 +1,4 @@
-Phomopsis pedilanthi B. Lal & A. Arya SPECIES
-=======
+# Phomopsis pedilanthi B. Lal & A. Arya SPECIES
 
 #### Status
 ACCEPTED

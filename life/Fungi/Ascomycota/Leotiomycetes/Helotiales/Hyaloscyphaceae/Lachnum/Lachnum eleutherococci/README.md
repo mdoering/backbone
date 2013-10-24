@@ -1,5 +1,4 @@
-Lachnum eleutherococci Raitv. SPECIES
-=======
+# Lachnum eleutherococci Raitv. SPECIES
 
 #### Status
 ACCEPTED

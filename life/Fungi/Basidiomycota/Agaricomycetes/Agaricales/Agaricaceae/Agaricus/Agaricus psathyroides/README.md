@@ -1,5 +1,4 @@
-Agaricus psathyroides Cooke SPECIES
-=======
+# Agaricus psathyroides Cooke SPECIES
 
 #### Status
 ACCEPTED

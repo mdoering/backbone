@@ -1,5 +1,4 @@
-Rhytismites hrubeschei (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites hrubeschei (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

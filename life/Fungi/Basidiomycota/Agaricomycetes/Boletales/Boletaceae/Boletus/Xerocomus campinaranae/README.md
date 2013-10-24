@@ -1,5 +1,4 @@
-Xerocomus campinaranae Singer SPECIES
-=======
+# Xerocomus campinaranae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heptameria rhodophaea (Bizz.) Cooke, 1889 SPECIES
-=======
+# Montagnula rhodophaea (Bizz.) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 176 (1984)
 
 #### Original name
-null
+Leptosphaeria rhodophaea Bizz., 1885
 
 ### Remarks
 null

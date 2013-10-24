@@ -1,8 +1,7 @@
-Laboulbenia mineti Balazuc SPECIES
-=======
+# Laboulbenia minetii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia mineti Balazuc
+Laboulbenia minetii Balazuc
 
 ### Remarks
 null

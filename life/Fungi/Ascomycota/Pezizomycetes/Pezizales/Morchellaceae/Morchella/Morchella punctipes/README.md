@@ -1,5 +1,4 @@
-Morchella punctipes Peck SPECIES
-=======
+# Morchella punctipes Peck SPECIES
 
 #### Status
 ACCEPTED

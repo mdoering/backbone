@@ -1,5 +1,4 @@
-Spathulea crispata Fr. SPECIES
-=======
+# Spathulea crispata Fr. SPECIES
 
 #### Status
 ACCEPTED

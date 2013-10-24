@@ -1,5 +1,4 @@
-Cryptomeliola moiana Mibey, 1997 SPECIES
-=======
+# Cryptomeliola moiana Mibey, 1997 SPECIES
 
 #### Status
 ACCEPTED

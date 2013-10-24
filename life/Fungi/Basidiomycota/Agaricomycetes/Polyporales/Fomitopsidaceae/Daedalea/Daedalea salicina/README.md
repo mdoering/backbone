@@ -1,5 +1,4 @@
-Daedalea salicina (Bull.) Purton SPECIES
-=======
+# Daedalea salicina (Bull.) Purton SPECIES
 
 #### Status
 ACCEPTED

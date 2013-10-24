@@ -1,5 +1,4 @@
-Neozygites Witlaczil GENUS
-=======
+# Neozygites Witlaczil GENUS
 
 #### Status
 ACCEPTED

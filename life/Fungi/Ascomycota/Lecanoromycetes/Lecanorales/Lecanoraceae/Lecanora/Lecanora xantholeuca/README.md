@@ -1,5 +1,4 @@
-Lecanora xantholeuca (Müll. Arg.) Hertel SPECIES
-=======
+# Lecanora xantholeuca (Müll. Arg.) Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycauliona subfruticulosa (Elenkin) Hue SPECIES
-=======
+# Polycauliona subfruticulosa (Elenkin) Hue SPECIES
 
 #### Status
 ACCEPTED

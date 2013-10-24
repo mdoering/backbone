@@ -1,5 +1,4 @@
-Ocellularia eumorphoides Frisch SPECIES
-=======
+# Ocellularia eumorphoides Frisch SPECIES
 
 #### Status
 ACCEPTED

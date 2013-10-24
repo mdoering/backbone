@@ -1,5 +1,4 @@
-Nectria perianthiicola Döbbeler & J. Carranza SPECIES
-=======
+# Nectria perianthiicola Döbbeler & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

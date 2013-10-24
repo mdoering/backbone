@@ -1,5 +1,4 @@
-Biatora mosigii Hepp SPECIES
-=======
+# Biatora mosigii Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza hexagona Fuckel SPECIES
-=======
+# Peziza hexagona Fuckel SPECIES
 
 #### Status
 ACCEPTED

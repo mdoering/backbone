@@ -1,5 +1,4 @@
-Septoria veronicicola P. Karst. SPECIES
-=======
+# Septoria veronicicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina gonostegiae W. Yamam. SPECIES
-=======
+# Asterina gonostegiae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella laricina A.H. Sm. SPECIES
-=======
+# Psathyrella laricina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

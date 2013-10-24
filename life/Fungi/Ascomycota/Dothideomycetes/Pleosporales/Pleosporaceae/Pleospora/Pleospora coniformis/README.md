@@ -1,5 +1,4 @@
-Pleospora coniformis Fuckel SPECIES
-=======
+# Pleospora coniformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

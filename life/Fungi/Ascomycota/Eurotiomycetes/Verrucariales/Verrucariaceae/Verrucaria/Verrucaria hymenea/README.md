@@ -1,5 +1,4 @@
-Verrucaria hymenea Wallr. SPECIES
-=======
+# Verrucaria hymenea Wallr. SPECIES
 
 #### Status
 ACCEPTED

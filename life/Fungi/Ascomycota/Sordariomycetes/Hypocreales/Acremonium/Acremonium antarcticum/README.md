@@ -1,14 +1,13 @@
-Sporotrichum antarcticum Speg., 1910 SPECIES
-=======
+# Acremonium antarcticum (Speg.) D. Hawksw., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 13: 416 (1910)
+Bull. Br. Mus. nat. Hist. , Bot. 6(3): 192 (1979)
 
 #### Original name
 Sporotrichum antarcticum Speg., 1910

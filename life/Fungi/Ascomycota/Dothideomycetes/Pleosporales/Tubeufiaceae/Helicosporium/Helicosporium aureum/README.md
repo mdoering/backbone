@@ -1,17 +1,16 @@
-Helicosporium citreoviride Tubaki, 1964 SPECIES
-=======
+# Helicosporium aureum (Corda) Linder, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 5: 2 (1964)
+Ann. Mo. bot. Gdn 16: 279 (1929)
 
 #### Original name
-Helicosporium citreoviride Tubaki, 1964
+Helicomyces aureus Corda, 1837
 
 ### Remarks
 null

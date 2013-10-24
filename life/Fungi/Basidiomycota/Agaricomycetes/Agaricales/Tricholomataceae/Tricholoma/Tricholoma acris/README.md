@@ -1,8 +1,7 @@
-Tricholoma acre Peck SPECIES
-=======
+# Tricholoma acris Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tricholoma acre Peck
+Tricholoma acris Peck
 
 ### Remarks
 null

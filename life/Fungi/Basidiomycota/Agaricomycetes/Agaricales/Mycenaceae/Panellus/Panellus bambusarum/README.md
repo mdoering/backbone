@@ -1,5 +1,4 @@
-Panellus bambusarum Corner, 1986 SPECIES
-=======
+# Panellus bambusarum Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

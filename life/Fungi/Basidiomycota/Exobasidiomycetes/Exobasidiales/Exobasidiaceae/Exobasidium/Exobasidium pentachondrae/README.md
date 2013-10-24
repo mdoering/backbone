@@ -1,5 +1,4 @@
-Exobasidium pentachondrae McNabb, 1962 SPECIES
-=======
+# Exobasidium pentachondrae McNabb, 1962 SPECIES
 
 #### Status
 ACCEPTED

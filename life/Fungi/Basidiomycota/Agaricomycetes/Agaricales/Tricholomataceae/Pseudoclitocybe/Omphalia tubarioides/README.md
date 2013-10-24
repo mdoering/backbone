@@ -1,5 +1,4 @@
-Omphalia tubarioides Maire SPECIES
-=======
+# Omphalia tubarioides Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeopeziza Zukal GENUS
-=======
+# Gloeopeziza Zukal GENUS
 
 #### Status
 ACCEPTED

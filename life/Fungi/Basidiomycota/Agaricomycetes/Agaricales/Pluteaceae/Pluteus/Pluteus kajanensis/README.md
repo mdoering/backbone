@@ -1,5 +1,4 @@
-Pluteus kajanensis P. Karst. SPECIES
-=======
+# Pluteus kajanensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

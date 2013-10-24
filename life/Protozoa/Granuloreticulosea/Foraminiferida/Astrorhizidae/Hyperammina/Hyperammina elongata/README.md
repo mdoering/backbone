@@ -1,5 +1,4 @@
-Hyperammina elongata SPECIES
-=======
+# Hyperammina elongata SPECIES
 
 #### Status
 ACCEPTED

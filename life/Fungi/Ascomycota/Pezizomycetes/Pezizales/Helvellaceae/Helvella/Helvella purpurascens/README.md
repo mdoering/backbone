@@ -1,17 +1,16 @@
-Elvela purpurascens Schaeff. SPECIES
-=======
+# Helvella purpurascens Schaeff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: 109, tab. 276 (1774)
 
 #### Original name
-Elvela purpurascens Schaeff.
+Helvella purpurascens Schaeff.
 
 ### Remarks
 null

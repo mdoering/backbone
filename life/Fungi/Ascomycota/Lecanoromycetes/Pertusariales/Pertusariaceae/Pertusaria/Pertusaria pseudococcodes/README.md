@@ -1,5 +1,4 @@
-Pertusaria pseudococcodes Müll. Arg. SPECIES
-=======
+# Pertusaria pseudococcodes Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula kelungana Zahlbr. SPECIES
-=======
+# Pyrenula kelungana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

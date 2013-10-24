@@ -1,5 +1,4 @@
-Cortinarius arnoldae Murrill SPECIES
-=======
+# Cortinarius arnoldae Murrill SPECIES
 
 #### Status
 ACCEPTED

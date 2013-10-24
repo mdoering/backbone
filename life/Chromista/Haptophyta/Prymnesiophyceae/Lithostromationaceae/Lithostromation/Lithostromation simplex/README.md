@@ -1,5 +1,4 @@
-Lithostromation simplex (Klumpp, 1953) Bybell, 1975 SPECIES
-=======
+# Lithostromation simplex (Klumpp, 1953) Bybell, 1975 SPECIES
 
 #### Status
 ACCEPTED

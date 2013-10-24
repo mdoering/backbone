@@ -1,5 +1,4 @@
-Dermatea populina Schwein. SPECIES
-=======
+# Dermatea populina Schwein. SPECIES
 
 #### Status
 ACCEPTED

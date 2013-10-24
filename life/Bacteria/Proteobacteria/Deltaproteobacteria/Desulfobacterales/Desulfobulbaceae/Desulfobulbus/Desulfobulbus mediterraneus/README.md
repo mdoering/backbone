@@ -1,5 +1,4 @@
-Desulfobulbus mediterraneus Sass et al., 2002 SPECIES
-=======
+# Desulfobulbus mediterraneus Sass et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

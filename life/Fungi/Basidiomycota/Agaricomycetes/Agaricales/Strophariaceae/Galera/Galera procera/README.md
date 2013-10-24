@@ -1,5 +1,4 @@
-Galera procera var. aberrans Rick VARIETY
-=======
+# Galera procera Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 3: 419 (1938)
 
 #### Original name
-Galera procera var. aberrans Rick
+Galera procera Rick
 
 ### Remarks
 null

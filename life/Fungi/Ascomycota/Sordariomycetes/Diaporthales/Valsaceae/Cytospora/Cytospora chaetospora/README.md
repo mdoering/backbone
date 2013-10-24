@@ -1,5 +1,4 @@
-Cytospora chaetospora Bres. SPECIES
-=======
+# Cytospora chaetospora Bres. SPECIES
 
 #### Status
 ACCEPTED

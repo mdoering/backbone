@@ -1,5 +1,4 @@
-Torula sepulta Ellis & Barthol. SPECIES
-=======
+# Torula sepulta Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

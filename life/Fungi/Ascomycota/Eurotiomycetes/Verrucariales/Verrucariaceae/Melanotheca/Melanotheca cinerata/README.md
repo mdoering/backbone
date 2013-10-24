@@ -1,5 +1,4 @@
-Melanotheca cinerata Zahlbr. SPECIES
-=======
+# Melanotheca cinerata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

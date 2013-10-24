@@ -1,14 +1,13 @@
-Omphalotus guepiniforimis (Berk.) Neda SPECIES
-=======
+# Omphalotus guepiniformis (Berk.) Neda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycoscience 45(3): 183 (2004)
 
 #### Original name
 Agaricus guepiniformis Berk.

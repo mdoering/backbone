@@ -1,5 +1,4 @@
-Ceuthospora rosae Died. SPECIES
-=======
+# Ceuthospora rosae Died. SPECIES
 
 #### Status
 ACCEPTED

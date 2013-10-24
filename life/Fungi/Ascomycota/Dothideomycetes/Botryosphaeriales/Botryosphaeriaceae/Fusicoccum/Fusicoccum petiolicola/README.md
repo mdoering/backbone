@@ -1,17 +1,16 @@
-Fusicoccum petiolicolum Bubák SPECIES
-=======
+# Fusicoccum petiolicola Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 13(1): 28 (1915)
 
 #### Original name
-Fusicoccum petiolicolum Bubák
+Fusicoccum petiolicola Bubák
 
 ### Remarks
 null

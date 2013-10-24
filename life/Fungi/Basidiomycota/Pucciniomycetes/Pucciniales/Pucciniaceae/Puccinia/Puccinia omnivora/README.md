@@ -1,5 +1,4 @@
-Puccinia omnivora Ellis & Everh. SPECIES
-=======
+# Puccinia omnivora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

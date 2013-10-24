@@ -1,5 +1,4 @@
-Saccharomyces microellipsodes SPECIES
-=======
+# Saccharomyces microellipsodes SPECIES
 
 #### Status
 ACCEPTED

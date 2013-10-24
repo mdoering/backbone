@@ -1,5 +1,4 @@
-Arthonia abrothallina Nyl. SPECIES
-=======
+# Arthonia abrothallina Nyl. SPECIES
 
 #### Status
 ACCEPTED

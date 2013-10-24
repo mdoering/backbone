@@ -1,5 +1,4 @@
-Chaenotheca dilatata Räsänen SPECIES
-=======
+# Chaenotheca dilatata Räsänen SPECIES
 
 #### Status
 ACCEPTED

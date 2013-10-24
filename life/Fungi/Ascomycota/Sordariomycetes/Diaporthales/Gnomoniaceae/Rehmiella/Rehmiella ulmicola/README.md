@@ -1,5 +1,4 @@
-Rehmiella ulmicola I. Miyake SPECIES
-=======
+# Rehmiella ulmicola I. Miyake SPECIES
 
 #### Status
 ACCEPTED

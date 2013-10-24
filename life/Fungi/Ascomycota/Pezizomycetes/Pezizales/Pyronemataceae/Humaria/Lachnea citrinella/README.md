@@ -1,5 +1,4 @@
-Lachnea citrinella Gillet SPECIES
-=======
+# Lachnea citrinella Gillet SPECIES
 
 #### Status
 ACCEPTED

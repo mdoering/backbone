@@ -1,5 +1,4 @@
-Lecanora steineriana Zahlbr. SPECIES
-=======
+# Lecanora steineriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

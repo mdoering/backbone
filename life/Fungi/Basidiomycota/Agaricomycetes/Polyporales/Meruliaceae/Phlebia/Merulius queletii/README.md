@@ -1,5 +1,4 @@
-Merulius queletii Schulzer SPECIES
-=======
+# Merulius queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

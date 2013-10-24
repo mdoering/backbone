@@ -1,17 +1,16 @@
-Helotium pithyophilum Redhead, 1982 SPECIES
-=======
+# Hemimycena pithyophila Malençon ex A. Ortega & Esteve-Rav., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(10): 2005 (1982)
+in Ortega, Esteve-Raventós, Horak & Moreno, Boln Soc. Micol. Madrid 21: 233 (1996)
 
 #### Original name
-Helotium pithyophilum Redhead, 1982
+Hemimycena pithyophila Malençon ex A. Ortega & Esteve-Rav., 1996
 
 ### Remarks
 null

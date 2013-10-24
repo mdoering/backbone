@@ -1,5 +1,4 @@
-Helicolepidina Tobler, 1922 GENUS
-=======
+# Helicolepidina Tobler, 1922 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomonas GENUS
-=======
+# Saccharomonas GENUS
 
 #### Status
 ACCEPTED

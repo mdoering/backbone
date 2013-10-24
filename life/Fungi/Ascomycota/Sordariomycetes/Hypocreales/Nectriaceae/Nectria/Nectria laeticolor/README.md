@@ -1,5 +1,4 @@
-Nectria laeticolor Berk. & M.A. Curtis SPECIES
-=======
+# Nectria laeticolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

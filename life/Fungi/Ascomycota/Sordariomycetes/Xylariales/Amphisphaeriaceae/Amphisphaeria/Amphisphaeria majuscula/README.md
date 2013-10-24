@@ -1,5 +1,4 @@
-Amphisphaeria majuscula Speg. SPECIES
-=======
+# Amphisphaeria majuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

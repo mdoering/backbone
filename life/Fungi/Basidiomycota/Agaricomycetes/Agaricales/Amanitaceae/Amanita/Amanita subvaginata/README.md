@@ -1,5 +1,4 @@
-Amanita subvaginata (Cleland & Cheel) E.-J. Gilbert SPECIES
-=======
+# Amanita subvaginata (Cleland & Cheel) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

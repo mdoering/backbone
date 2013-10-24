@@ -1,5 +1,4 @@
-Agaricus mitiusculus Berk. SPECIES
-=======
+# Agaricus mitiusculus Berk. SPECIES
 
 #### Status
 ACCEPTED

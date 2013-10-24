@@ -1,5 +1,4 @@
-Cocoicola K.D. Hyde GENUS
-=======
+# Cocoicola K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

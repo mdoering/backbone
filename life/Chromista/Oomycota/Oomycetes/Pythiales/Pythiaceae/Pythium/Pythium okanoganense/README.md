@@ -1,5 +1,4 @@
-Pythium okanoganense P.E. Lipps, 1981 SPECIES
-=======
+# Pythium okanoganense P.E. Lipps, 1981 SPECIES
 
 #### Status
 ACCEPTED

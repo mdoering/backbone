@@ -1,5 +1,4 @@
-Kafiaddinia fusarispora Mekht. SPECIES
-=======
+# Kafiaddinia fusarispora Mekht. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon aeruginosum var. aeruginosum J.H. Mill., 1933 VARIETY
-=======
+# Hypoxylon aeruginosum J.H. Mill., 1933 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 25(4): 321 (1933)
+null
 
 #### Original name
-Hypoxylon aeruginosum var. aeruginosum J.H. Mill., 1933
+null
 
 ### Remarks
 null

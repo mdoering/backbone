@@ -1,5 +1,4 @@
-Heleococcum japonense Tubaki, 1967 SPECIES
-=======
+# Heleococcum japonense Tubaki, 1967 SPECIES
 
 #### Status
 ACCEPTED

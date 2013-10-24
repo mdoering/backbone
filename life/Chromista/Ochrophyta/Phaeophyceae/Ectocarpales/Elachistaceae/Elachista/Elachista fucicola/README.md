@@ -1,5 +1,4 @@
-Elachista fucicola (Velley) Areschoug SPECIES
-=======
+# Elachista fucicola (Velley) Areschoug SPECIES
 
 #### Status
 ACCEPTED

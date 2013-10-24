@@ -1,5 +1,4 @@
-Erinella albocarpa I. Hino & Katum. SPECIES
-=======
+# Erinella albocarpa I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

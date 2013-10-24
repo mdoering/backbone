@@ -1,5 +1,4 @@
-Ithyphallus coralloides Cobb SPECIES
-=======
+# Ithyphallus coralloides Cobb SPECIES
 
 #### Status
 ACCEPTED

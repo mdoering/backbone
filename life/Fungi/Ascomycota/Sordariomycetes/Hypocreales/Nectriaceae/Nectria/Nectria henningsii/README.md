@@ -1,5 +1,4 @@
-Nectria henningsii Rehm SPECIES
-=======
+# Nectria henningsii Rehm SPECIES
 
 #### Status
 ACCEPTED

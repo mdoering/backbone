@@ -1,5 +1,4 @@
-Acineta baikalica SPECIES
-=======
+# Acineta baikalica SPECIES
 
 #### Status
 ACCEPTED

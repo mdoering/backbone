@@ -1,5 +1,4 @@
-Pavlova virescens Billard SPECIES
-=======
+# Pavlova virescens Billard SPECIES
 
 #### Status
 ACCEPTED

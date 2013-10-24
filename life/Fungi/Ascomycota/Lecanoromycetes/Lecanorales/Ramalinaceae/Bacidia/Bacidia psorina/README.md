@@ -1,5 +1,4 @@
-Bacidia psorina (Nyl.) G. Pant & D.D. Awasthi SPECIES
-=======
+# Bacidia psorina (Nyl.) G. Pant & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

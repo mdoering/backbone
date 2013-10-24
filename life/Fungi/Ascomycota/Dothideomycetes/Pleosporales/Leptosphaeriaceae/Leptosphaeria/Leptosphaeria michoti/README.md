@@ -1,5 +1,4 @@
-Leptosphaeria michoti (Westend.) Sacc. SPECIES
-=======
+# Leptosphaeria michoti (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

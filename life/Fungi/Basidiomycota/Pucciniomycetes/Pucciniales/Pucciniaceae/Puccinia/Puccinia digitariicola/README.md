@@ -1,17 +1,16 @@
-Puccinia digitaricola Kaps.-Gotsi SPECIES
-=======
+# Puccinia digitariicola Kaps.-Gotsi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+[Contribution to the knowledge of the mycoflora of Kriti Island (Hellas). Taxonomic and floristic study on the Uredinales]. Ph. D thesis (Athens) 104 (1986)
 
 #### Original name
-Puccinia digitaricola Kaps.-Gotsi
+Puccinia digitariicola Kaps.-Gotsi
 
 ### Remarks
 null

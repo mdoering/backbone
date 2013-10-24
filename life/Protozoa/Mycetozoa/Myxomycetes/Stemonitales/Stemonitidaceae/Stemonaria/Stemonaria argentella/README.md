@@ -1,5 +1,4 @@
-Stemonaria argentella Y. Yamam., 1990 SPECIES
-=======
+# Stemonaria argentella Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED

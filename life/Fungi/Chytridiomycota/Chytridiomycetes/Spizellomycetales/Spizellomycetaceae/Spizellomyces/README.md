@@ -1,5 +1,4 @@
-Spizellomyces D.J.S. Barr GENUS
-=======
+# Spizellomyces D.J.S. Barr GENUS
 
 #### Status
 ACCEPTED

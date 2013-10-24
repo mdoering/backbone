@@ -1,5 +1,4 @@
-Lecidea fallacissima Müll. Arg. SPECIES
-=======
+# Lecidea fallacissima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

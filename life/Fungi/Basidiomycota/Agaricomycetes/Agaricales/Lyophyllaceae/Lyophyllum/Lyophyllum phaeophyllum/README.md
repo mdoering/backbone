@@ -1,5 +1,4 @@
-Lyophyllum phaeophyllum Vila & Llimona SPECIES
-=======
+# Lyophyllum phaeophyllum Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

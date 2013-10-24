@@ -1,5 +1,4 @@
-Russula citrinipes R. Heim SPECIES
-=======
+# Russula citrinipes R. Heim SPECIES
 
 #### Status
 ACCEPTED

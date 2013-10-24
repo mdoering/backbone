@@ -1,5 +1,4 @@
-Bathyallogromia weddellensis Gooday, Holzmann, Guiard, Cornelius & Pawlowski, 2004 SPECIES
-=======
+# Bathyallogromia weddellensis Gooday, Holzmann, Guiard, Cornelius & Pawlowski, 2004 SPECIES
 
 #### Status
 ACCEPTED

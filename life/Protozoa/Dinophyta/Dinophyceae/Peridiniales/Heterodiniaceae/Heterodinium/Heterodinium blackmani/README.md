@@ -1,5 +1,4 @@
-Heterodinium blackmani (Murray & Whitting, 1899) Kofoid, 1906 SPECIES
-=======
+# Heterodinium blackmani (Murray & Whitting, 1899) Kofoid, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium obtusum SPECIES
-=======
+# Strombidium obtusum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abrothallus caerulescens Kotte, 1909 SPECIES
-=======
+# Abrothallus caerulescens Kotte, 1909 SPECIES
 
 #### Status
 ACCEPTED

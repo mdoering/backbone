@@ -1,5 +1,4 @@
-Platygrapha permutans Nyl. SPECIES
-=======
+# Platygrapha permutans Nyl. SPECIES
 
 #### Status
 ACCEPTED

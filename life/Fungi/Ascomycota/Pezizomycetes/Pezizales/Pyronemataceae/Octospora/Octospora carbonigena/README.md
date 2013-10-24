@@ -1,17 +1,16 @@
-Humaria carbonigena var. carbonigena VARIETY
-=======
+# Octospora carbonigena (Berk.) Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 130 (1889)
+British Cup Fungi & their Allies 33 (1960)
 
 #### Original name
-Humaria carbonigena var. carbonigena
+Peziza carbonigena Berk., 1859
 
 ### Remarks
 null

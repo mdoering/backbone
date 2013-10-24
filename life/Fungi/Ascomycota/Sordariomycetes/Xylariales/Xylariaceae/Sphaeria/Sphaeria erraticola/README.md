@@ -1,5 +1,4 @@
-Sphaeria erraticola P. Karst. SPECIES
-=======
+# Sphaeria erraticola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

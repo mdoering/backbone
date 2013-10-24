@@ -1,5 +1,4 @@
-Didymosphaeria spilogena Sacc. SPECIES
-=======
+# Didymosphaeria spilogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

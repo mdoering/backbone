@@ -1,5 +1,4 @@
-Metopus major Kahl, 1932 SPECIES
-=======
+# Metopus major Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

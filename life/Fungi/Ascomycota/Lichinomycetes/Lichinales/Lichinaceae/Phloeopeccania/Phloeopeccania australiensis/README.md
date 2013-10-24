@@ -1,5 +1,4 @@
-Phloeopeccania australiensis Henssen SPECIES
-=======
+# Phloeopeccania australiensis Henssen SPECIES
 
 #### Status
 ACCEPTED

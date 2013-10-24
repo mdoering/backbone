@@ -1,5 +1,4 @@
-Otthia ingae (Henn.) Theiss. SPECIES
-=======
+# Otthia ingae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

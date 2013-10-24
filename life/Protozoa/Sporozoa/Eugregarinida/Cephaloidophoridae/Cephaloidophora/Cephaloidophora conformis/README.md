@@ -1,8 +1,7 @@
-Carcinoecetes conformis (Diesing, 1851) SPECIES
-=======
+# Cephaloidophora conformis (Diesing, 1851) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

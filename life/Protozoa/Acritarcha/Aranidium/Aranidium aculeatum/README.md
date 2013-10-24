@@ -1,5 +1,4 @@
-Aranidium aculeatum Jankauskas, 1975 SPECIES
-=======
+# Aranidium aculeatum Jankauskas, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophoropsidaceae Kühner FAMILY
-=======
+# Hygrophoropsidaceae Kühner FAMILY
 
 #### Status
 ACCEPTED

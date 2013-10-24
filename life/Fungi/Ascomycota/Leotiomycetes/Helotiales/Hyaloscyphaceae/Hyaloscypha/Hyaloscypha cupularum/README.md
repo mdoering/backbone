@@ -1,5 +1,4 @@
-Hyaloscypha cupularum Svrcek SPECIES
-=======
+# Hyaloscypha cupularum Svrcek SPECIES
 
 #### Status
 ACCEPTED

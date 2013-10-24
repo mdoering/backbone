@@ -1,5 +1,4 @@
-Cladosphaeria ligustri G.H. Otth SPECIES
-=======
+# Cladosphaeria ligustri G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rivularia vieillardii (Kützing) Bornet & Flahault SPECIES
-=======
+# Rivularia vieillardii (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

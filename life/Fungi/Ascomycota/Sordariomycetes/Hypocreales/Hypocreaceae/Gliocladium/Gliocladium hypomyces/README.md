@@ -1,5 +1,4 @@
-Gliocladium hypomyces Sacc. SPECIES
-=======
+# Gliocladium hypomyces Sacc. SPECIES
 
 #### Status
 ACCEPTED

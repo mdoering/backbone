@@ -1,5 +1,4 @@
-Agaricus anguinaceus Jungh. SPECIES
-=======
+# Agaricus anguinaceus Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysothrix placodioides G. Thor SPECIES
-=======
+# Chrysothrix placodioides G. Thor SPECIES
 
 #### Status
 ACCEPTED

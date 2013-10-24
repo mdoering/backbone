@@ -1,5 +1,4 @@
-Amylotrogus discoideus Roze SPECIES
-=======
+# Amylotrogus discoideus Roze SPECIES
 
 #### Status
 ACCEPTED

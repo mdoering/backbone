@@ -1,5 +1,4 @@
-Cercospora phaeochlora Speg. SPECIES
-=======
+# Cercospora phaeochlora Speg. SPECIES
 
 #### Status
 ACCEPTED

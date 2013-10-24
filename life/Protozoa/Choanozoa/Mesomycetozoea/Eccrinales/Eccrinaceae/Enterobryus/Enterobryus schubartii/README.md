@@ -1,17 +1,16 @@
-Enterobryus schubarti Tuzet & Manier SPECIES
-=======
+# Enterobryus schubartii Tuzet & Manier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Zool. Biol. Anim. , sér. 11 13: 145 (1951)
 
 #### Original name
-Enterobryus schubarti Tuzet & Manier
+Enterobryus schubartii Tuzet & Manier
 
 ### Remarks
 null

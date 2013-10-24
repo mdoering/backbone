@@ -1,5 +1,4 @@
-Calonectria pseudospathiphylli J.C. Kang, Crous & C.L. Schoch SPECIES
-=======
+# Calonectria pseudospathiphylli J.C. Kang, Crous & C.L. Schoch SPECIES
 
 #### Status
 ACCEPTED

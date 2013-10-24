@@ -1,5 +1,4 @@
-Nectria viridigloea Samuels SPECIES
-=======
+# Nectria viridigloea Samuels SPECIES
 
 #### Status
 ACCEPTED

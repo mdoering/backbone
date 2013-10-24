@@ -1,5 +1,4 @@
-Acarospora deceptionis C.W. Dodge SPECIES
-=======
+# Acarospora deceptionis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

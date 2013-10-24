@@ -1,5 +1,4 @@
-Microphiale cubana SPECIES
-=======
+# Microphiale cubana SPECIES
 
 #### Status
 ACCEPTED

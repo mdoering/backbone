@@ -1,5 +1,4 @@
-Tuber besseyi Gilkey SPECIES
-=======
+# Tuber besseyi Gilkey SPECIES
 
 #### Status
 ACCEPTED

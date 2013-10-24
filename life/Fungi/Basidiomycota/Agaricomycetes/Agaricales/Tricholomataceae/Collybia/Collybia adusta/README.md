@@ -1,5 +1,4 @@
-Collybia adusta Velen. SPECIES
-=======
+# Collybia adusta Velen. SPECIES
 
 #### Status
 ACCEPTED

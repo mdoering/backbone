@@ -1,5 +1,4 @@
-Cortinarius floridulus Rob. Henry SPECIES
-=======
+# Cortinarius floridulus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

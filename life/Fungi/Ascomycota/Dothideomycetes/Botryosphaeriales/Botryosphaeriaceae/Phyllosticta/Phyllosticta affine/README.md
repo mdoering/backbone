@@ -1,5 +1,4 @@
-Phyllosticta affine Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta affine Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

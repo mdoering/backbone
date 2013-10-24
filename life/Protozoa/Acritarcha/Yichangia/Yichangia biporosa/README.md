@@ -1,5 +1,4 @@
-Yichangia biporosa Yin Leiming, 1994 SPECIES
-=======
+# Yichangia biporosa Yin Leiming, 1994 SPECIES
 
 #### Status
 ACCEPTED

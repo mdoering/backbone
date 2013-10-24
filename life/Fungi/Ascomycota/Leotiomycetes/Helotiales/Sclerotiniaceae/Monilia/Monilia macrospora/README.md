@@ -1,5 +1,4 @@
-Monilia macrospora J.F.H. Beyma SPECIES
-=======
+# Monilia macrospora J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

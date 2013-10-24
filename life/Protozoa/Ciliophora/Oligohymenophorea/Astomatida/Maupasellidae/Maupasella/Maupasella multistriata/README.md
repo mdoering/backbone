@@ -1,5 +1,4 @@
-Maupasella multistriata Puytorac, 1954 SPECIES
-=======
+# Maupasella multistriata Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

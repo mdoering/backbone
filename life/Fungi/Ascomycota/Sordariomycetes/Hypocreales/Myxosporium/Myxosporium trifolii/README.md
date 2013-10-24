@@ -1,5 +1,4 @@
-Myxosporium trifolii anon. SPECIES
-=======
+# Myxosporium trifolii anon. SPECIES
 
 #### Status
 ACCEPTED

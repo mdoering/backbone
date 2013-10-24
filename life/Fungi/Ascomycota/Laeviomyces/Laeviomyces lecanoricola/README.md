@@ -1,5 +1,4 @@
-Laeviomyces lecanoricola M.S. Cole & D. Hawksw. SPECIES
-=======
+# Laeviomyces lecanoricola M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

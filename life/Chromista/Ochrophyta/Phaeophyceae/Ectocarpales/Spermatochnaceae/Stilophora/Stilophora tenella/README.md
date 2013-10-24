@@ -1,8 +1,7 @@
-Stilophora rhizodes (C. Agardh) J. Agardh SPECIES
-=======
+# Stilophora tenella (Esper) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

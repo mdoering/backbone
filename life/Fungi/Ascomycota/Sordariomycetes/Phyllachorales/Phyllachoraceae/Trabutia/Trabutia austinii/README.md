@@ -1,14 +1,13 @@
-Trabutia austini (Cooke) Theiss. & Syd. SPECIES
-=======
+# Trabutia austinii (Cooke) Theiss. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 12(2): 178 (1914)
 
 #### Original name
 Rhytisma austinii Cooke

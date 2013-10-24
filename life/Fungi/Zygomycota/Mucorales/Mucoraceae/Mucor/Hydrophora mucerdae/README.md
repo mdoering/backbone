@@ -1,5 +1,4 @@
-Hydrophora mucerdae (Schumach.) Fr. SPECIES
-=======
+# Hydrophora mucerdae (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

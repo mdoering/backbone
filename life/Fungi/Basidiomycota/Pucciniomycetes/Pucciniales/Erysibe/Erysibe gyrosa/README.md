@@ -1,5 +1,4 @@
-Erysibe gyrosa Wallr. SPECIES
-=======
+# Erysibe gyrosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

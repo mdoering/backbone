@@ -1,5 +1,4 @@
-Cylindrocarpon fusiforme Matsush. SPECIES
-=======
+# Cylindrocarpon fusiforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

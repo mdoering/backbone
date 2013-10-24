@@ -1,5 +1,4 @@
-Thelotrema olivaceum Mont. SPECIES
-=======
+# Thelotrema olivaceum Mont. SPECIES
 
 #### Status
 ACCEPTED

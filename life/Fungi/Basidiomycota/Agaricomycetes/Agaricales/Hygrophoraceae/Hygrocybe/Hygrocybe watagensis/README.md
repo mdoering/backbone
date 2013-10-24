@@ -1,5 +1,4 @@
-Hygrocybe watagensis A.M. Young SPECIES
-=======
+# Hygrocybe watagensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

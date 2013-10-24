@@ -1,5 +1,4 @@
-Rhabdospora helianthemi Vestergr. SPECIES
-=======
+# Rhabdospora helianthemi Vestergr. SPECIES
 
 #### Status
 ACCEPTED

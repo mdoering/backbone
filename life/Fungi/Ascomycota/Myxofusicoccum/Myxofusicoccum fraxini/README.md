@@ -1,5 +1,4 @@
-Myxofusicoccum fraxini Jaap SPECIES
-=======
+# Myxofusicoccum fraxini Jaap SPECIES
 
 #### Status
 ACCEPTED

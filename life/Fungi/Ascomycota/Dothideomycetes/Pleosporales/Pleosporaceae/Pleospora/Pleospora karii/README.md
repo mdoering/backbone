@@ -1,5 +1,4 @@
-Pleospora karii Petr. SPECIES
-=======
+# Pleospora karii Petr. SPECIES
 
 #### Status
 ACCEPTED

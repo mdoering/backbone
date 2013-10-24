@@ -1,5 +1,4 @@
-Gyrodinium postmaculatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium postmaculatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

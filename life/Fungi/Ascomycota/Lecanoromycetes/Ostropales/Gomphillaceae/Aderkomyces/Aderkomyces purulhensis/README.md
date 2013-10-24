@@ -1,17 +1,16 @@
-Tricharia purulhensis Lücking & Barillas SPECIES
-=======
+# Aderkomyces purulhensis (Lücking & Barillas) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 37(2): 162 (2005)
 
 #### Original name
-null
+Tricharia purulhensis Lücking & Barillas
 
 ### Remarks
 null

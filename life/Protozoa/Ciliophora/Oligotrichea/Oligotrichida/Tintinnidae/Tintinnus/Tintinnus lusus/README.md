@@ -1,5 +1,4 @@
-Tintinnus lusus subsp. lusus SUBSPECIES
-=======
+# Tintinnus lusus SPECIES
 
 #### Status
 ACCEPTED

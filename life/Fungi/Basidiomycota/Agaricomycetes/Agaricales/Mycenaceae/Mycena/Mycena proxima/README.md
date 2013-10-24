@@ -1,5 +1,4 @@
-Mycena proxima Maas Geest. & de Meijer SPECIES
-=======
+# Mycena proxima Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

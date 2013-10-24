@@ -1,5 +1,4 @@
-Influenza-bacillus GENUS
-=======
+# Influenza-bacillus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycostella H.R. Thierstein, 1971 GENUS
-=======
+# Polycostella H.R. Thierstein, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromphale pacificum Hongo SPECIES
-=======
+# Micromphale pacificum Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia arcuata Ahti SPECIES
-=======
+# Cladonia arcuata Ahti SPECIES
 
 #### Status
 ACCEPTED

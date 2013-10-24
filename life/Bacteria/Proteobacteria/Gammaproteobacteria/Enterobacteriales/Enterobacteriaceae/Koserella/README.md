@@ -1,5 +1,4 @@
-Koserella GENUS
-=======
+# Koserella GENUS
 
 #### Status
 ACCEPTED

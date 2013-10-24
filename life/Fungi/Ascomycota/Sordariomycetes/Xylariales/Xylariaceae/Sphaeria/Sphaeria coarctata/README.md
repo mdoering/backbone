@@ -1,5 +1,4 @@
-Sphaeria coarctata Schumach. SPECIES
-=======
+# Sphaeria coarctata Schumach. SPECIES
 
 #### Status
 ACCEPTED

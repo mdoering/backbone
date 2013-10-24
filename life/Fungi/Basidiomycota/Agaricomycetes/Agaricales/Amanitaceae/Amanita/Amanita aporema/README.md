@@ -1,5 +1,4 @@
-Amanita aporema Boedijn SPECIES
-=======
+# Amanita aporema Boedijn SPECIES
 
 #### Status
 ACCEPTED

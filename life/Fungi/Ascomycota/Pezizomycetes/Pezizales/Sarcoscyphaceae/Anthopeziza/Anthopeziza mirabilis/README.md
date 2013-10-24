@@ -1,5 +1,4 @@
-Anthopeziza mirabilis Massee SPECIES
-=======
+# Anthopeziza mirabilis Massee SPECIES
 
 #### Status
 ACCEPTED

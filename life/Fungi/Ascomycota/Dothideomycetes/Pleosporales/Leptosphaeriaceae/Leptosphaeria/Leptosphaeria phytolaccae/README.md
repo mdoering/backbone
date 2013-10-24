@@ -1,5 +1,4 @@
-Leptosphaeria phytolaccae Cavara SPECIES
-=======
+# Leptosphaeria phytolaccae Cavara SPECIES
 
 #### Status
 ACCEPTED

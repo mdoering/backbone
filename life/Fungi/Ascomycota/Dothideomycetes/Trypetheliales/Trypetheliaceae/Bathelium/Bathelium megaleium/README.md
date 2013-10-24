@@ -1,5 +1,4 @@
-Bathelium megaleium Kremp. SPECIES
-=======
+# Bathelium megaleium Kremp. SPECIES
 
 #### Status
 ACCEPTED

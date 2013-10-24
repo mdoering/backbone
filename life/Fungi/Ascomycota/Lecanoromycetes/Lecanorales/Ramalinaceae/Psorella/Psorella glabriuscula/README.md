@@ -1,5 +1,4 @@
-Psorella glabriuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Psorella glabriuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

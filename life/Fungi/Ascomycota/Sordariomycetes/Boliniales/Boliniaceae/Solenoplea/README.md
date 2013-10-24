@@ -1,5 +1,4 @@
-Solenoplea GENUS
-=======
+# Solenoplea GENUS
 
 #### Status
 ACCEPTED

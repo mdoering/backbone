@@ -1,5 +1,4 @@
-Agaricus aculeatus Vittad. SPECIES
-=======
+# Agaricus aculeatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

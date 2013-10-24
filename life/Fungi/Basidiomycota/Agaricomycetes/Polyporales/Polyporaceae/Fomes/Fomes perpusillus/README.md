@@ -1,5 +1,4 @@
-Fomes perpusillus (Pers. ex Lév.) Cooke SPECIES
-=======
+# Fomes perpusillus (Pers. ex Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

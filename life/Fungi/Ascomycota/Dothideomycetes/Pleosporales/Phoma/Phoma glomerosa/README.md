@@ -1,5 +1,4 @@
-Phoma glomerosa (Lév.) Sacc. SPECIES
-=======
+# Phoma glomerosa (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

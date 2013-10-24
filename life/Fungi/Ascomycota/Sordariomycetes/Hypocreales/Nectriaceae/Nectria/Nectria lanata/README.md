@@ -1,5 +1,4 @@
-Nectria lanata Pat. SPECIES
-=======
+# Nectria lanata Pat. SPECIES
 
 #### Status
 ACCEPTED

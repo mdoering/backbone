@@ -1,8 +1,7 @@
-Dasyscypha labiatus (Roberge ex Desm.) Sacc. SPECIES
-=======
+# Dasyscyphus labiatus (Roberge ex Desm.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

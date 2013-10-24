@@ -1,5 +1,4 @@
-Macrosporium punctatum Kalchbr. & Cooke SPECIES
-=======
+# Macrosporium punctatum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

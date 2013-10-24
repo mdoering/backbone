@@ -1,17 +1,16 @@
-Omphalia maura var. invita (P. Karst.) Cejp VARIETY
-=======
+# Myxomphalia maura (Fr.) Hora, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 453 (1960)
 
 #### Original name
-Omphalia invita P. Karst.
+Agaricus maurus Fr., 1821
 
 ### Remarks
 null

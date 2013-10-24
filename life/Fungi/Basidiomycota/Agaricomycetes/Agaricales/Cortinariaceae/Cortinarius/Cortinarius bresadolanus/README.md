@@ -1,17 +1,16 @@
-Cortinarius bresadolianus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius bresadolanus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires (Meyzieu) 7: 228 (1995)
 
 #### Original name
-Cortinarius bresadolianus Moënne-Locc. & Reumaux
+Cortinarius bresadolanus Moënne-Locc. & Reumaux
 
 ### Remarks
 null

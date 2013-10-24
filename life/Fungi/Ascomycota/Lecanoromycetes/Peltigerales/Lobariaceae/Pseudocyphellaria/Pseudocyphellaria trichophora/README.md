@@ -1,5 +1,4 @@
-Pseudocyphellaria trichophora (Vain.) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria trichophora (Vain.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

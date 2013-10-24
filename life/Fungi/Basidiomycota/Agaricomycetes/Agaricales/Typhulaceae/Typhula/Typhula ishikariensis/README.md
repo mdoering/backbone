@@ -1,17 +1,16 @@
-Typhula ishikariensis var. ishikariensis S. Imai VARIETY
-=======
+# Typhula ishikariensis S. Imai, 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Sapporo nat. Hist. Soc. 11: 75 (1930)
 
 #### Original name
-Typhula ishikariensis var. ishikariensis S. Imai
+Typhula ishikariensis S. Imai, 1930
 
 ### Remarks
 null

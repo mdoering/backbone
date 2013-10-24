@@ -1,5 +1,4 @@
-Colletotrichum colubrinum (Sacc.) B. Sutton SPECIES
-=======
+# Colletotrichum colubrinum (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

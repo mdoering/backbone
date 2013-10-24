@@ -1,5 +1,4 @@
-Puccinia fragilis var. fragilis VARIETY
-=======
+# Puccinia fragilis Tracy & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 4(2-3): 20 (1888)
 
 #### Original name
-Puccinia fragilis var. fragilis
+Puccinia fragilis Tracy & L.D. Galloway
 
 ### Remarks
 null

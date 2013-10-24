@@ -1,14 +1,13 @@
-Entoloma tristis (Velen.) Noordel. SPECIES
-=======
+# Entoloma triste (Velen.) Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(2): 254 (1979)
 
 #### Original name
 Nolanea tristis Velen., 1921

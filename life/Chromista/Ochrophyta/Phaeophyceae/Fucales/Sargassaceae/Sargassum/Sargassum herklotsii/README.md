@@ -1,5 +1,4 @@
-Sargassum herklotsii Setchell SPECIES
-=======
+# Sargassum herklotsii Setchell SPECIES
 
 #### Status
 ACCEPTED

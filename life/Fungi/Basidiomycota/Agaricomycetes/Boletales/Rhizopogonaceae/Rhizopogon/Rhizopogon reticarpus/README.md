@@ -1,5 +1,4 @@
-Rhizopogon reticarpus Velen. SPECIES
-=======
+# Rhizopogon reticarpus Velen. SPECIES
 
 #### Status
 ACCEPTED

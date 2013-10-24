@@ -1,5 +1,4 @@
-Candida oxycetoniae F.Y. Bai & Z.H. Ji SPECIES
-=======
+# Candida oxycetoniae F.Y. Bai & Z.H. Ji SPECIES
 
 #### Status
 ACCEPTED

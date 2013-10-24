@@ -1,5 +1,4 @@
-Sphaeria mendax Mont. SPECIES
-=======
+# Sphaeria mendax Mont. SPECIES
 
 #### Status
 ACCEPTED

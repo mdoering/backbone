@@ -1,5 +1,4 @@
-Caloplaca karadagensis Khodos. & S.Y. Kondr. SPECIES
-=======
+# Caloplaca karadagensis Khodos. & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

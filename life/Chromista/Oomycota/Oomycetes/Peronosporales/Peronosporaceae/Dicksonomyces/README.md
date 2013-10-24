@@ -1,5 +1,4 @@
-Dicksonomyces Thirum., P.N. Rao & M.A. Salam GENUS
-=======
+# Dicksonomyces Thirum., P.N. Rao & M.A. Salam GENUS
 
 #### Status
 ACCEPTED

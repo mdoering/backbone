@@ -1,5 +1,4 @@
-Galera striatipes Speg. SPECIES
-=======
+# Galera striatipes Speg. SPECIES
 
 #### Status
 ACCEPTED

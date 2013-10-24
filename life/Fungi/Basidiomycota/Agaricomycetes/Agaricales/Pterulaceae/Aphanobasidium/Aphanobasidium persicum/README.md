@@ -1,5 +1,4 @@
-Aphanobasidium persicum M. Ghobad & Kotir. SPECIES
-=======
+# Aphanobasidium persicum M. Ghobad & Kotir. SPECIES
 
 #### Status
 ACCEPTED

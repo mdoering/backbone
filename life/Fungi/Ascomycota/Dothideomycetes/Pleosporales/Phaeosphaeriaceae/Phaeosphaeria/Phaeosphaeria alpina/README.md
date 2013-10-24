@@ -1,5 +1,4 @@
-Phaeosphaeria alpina Leuchtm., 1984 SPECIES
-=======
+# Phaeosphaeria alpina Leuchtm., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis orientalis Nomura SPECIES
-=======
+# Phomopsis orientalis Nomura SPECIES
 
 #### Status
 ACCEPTED

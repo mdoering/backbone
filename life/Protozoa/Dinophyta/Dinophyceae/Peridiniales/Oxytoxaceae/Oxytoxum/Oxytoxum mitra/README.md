@@ -1,5 +1,4 @@
-Oxytoxum mitra Stein SPECIES
-=======
+# Oxytoxum mitra Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Micrococcus varians Migula, 1900 (Approved Lists, 1980) SPECIES
-=======
+# Kocuria varians (Migula, 1900) Stackebrandt et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

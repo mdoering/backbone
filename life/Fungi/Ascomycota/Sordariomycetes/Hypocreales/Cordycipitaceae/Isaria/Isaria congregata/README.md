@@ -1,5 +1,4 @@
-Isaria congregata Berk. & Broome SPECIES
-=======
+# Isaria congregata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

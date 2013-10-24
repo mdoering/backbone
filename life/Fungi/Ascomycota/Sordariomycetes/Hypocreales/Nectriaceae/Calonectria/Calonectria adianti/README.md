@@ -1,5 +1,4 @@
-Calonectria adianti Rehm SPECIES
-=======
+# Calonectria adianti Rehm SPECIES
 
 #### Status
 ACCEPTED

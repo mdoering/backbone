@@ -1,5 +1,4 @@
-Questieriella strychni Hosag. SPECIES
-=======
+# Questieriella strychni Hosag. SPECIES
 
 #### Status
 ACCEPTED

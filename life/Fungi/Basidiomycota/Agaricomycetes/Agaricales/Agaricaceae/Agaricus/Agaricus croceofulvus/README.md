@@ -1,5 +1,4 @@
-Agaricus croceofulvus DC. SPECIES
-=======
+# Agaricus croceofulvus DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia alhaginis Lobik SPECIES
-=======
+# Microdiplodia alhaginis Lobik SPECIES
 
 #### Status
 ACCEPTED

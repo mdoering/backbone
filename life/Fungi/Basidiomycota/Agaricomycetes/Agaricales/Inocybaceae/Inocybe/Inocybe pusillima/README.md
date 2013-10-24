@@ -1,5 +1,4 @@
-Inocybe pusillima (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe pusillima (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

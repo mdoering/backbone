@@ -1,5 +1,4 @@
-Cystolepiota petasiformis (Murrill) Singer SPECIES
-=======
+# Cystolepiota petasiformis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

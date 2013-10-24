@@ -1,5 +1,4 @@
-Merophora haplocarpa (Nyl.) Clem. SPECIES
-=======
+# Merophora haplocarpa (Nyl.) Clem. SPECIES
 
 #### Status
 ACCEPTED

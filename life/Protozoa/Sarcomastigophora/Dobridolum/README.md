@@ -1,5 +1,4 @@
-Dobridolum Tikhomirova, 1989 GENUS
-=======
+# Dobridolum Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

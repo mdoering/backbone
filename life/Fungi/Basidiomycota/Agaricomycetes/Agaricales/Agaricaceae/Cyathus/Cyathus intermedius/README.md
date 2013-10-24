@@ -1,5 +1,4 @@
-Cyathus intermedius (Mont.) Tul. & C. Tul. SPECIES
-=======
+# Cyathus intermedius (Mont.) Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

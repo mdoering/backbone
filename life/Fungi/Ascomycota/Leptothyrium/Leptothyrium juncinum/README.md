@@ -1,5 +1,4 @@
-Leptothyrium juncinum Cooke & Harkn. SPECIES
-=======
+# Leptothyrium juncinum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

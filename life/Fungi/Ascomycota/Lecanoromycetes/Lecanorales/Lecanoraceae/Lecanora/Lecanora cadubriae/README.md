@@ -1,14 +1,13 @@
-Biatora cadubriae A. Massal. SPECIES
-=======
+# Lecanora cadubriae (A. Massal.) Hedl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sched. critic. 10: 176 (1856)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 18(no. 3): 48 (1892)
 
 #### Original name
 Biatora cadubriae A. Massal.

@@ -1,5 +1,4 @@
-Pseudocercospora daemiae (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora daemiae (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

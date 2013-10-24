@@ -1,14 +1,13 @@
-Dothidea missouriensis Schwein., 1832 SPECIES
-=======
+# Phyllachora missouriensis (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 231 (1832)
+Syll. fung. (Abellini) 2: 622 (1883)
 
 #### Original name
 Dothidea missouriensis Schwein., 1832

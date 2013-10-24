@@ -1,5 +1,4 @@
-Dicoccum inquinans Sacc. SPECIES
-=======
+# Dicoccum inquinans Sacc. SPECIES
 
 #### Status
 ACCEPTED

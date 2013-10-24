@@ -1,5 +1,4 @@
-Polyporus bonariensis Speg. SPECIES
-=======
+# Polyporus bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

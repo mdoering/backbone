@@ -1,5 +1,4 @@
-Agaricus inserenda Britzelm. SPECIES
-=======
+# Agaricus inserenda Britzelm. SPECIES
 
 #### Status
 ACCEPTED

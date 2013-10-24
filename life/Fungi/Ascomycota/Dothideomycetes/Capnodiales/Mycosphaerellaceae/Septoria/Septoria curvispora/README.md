@@ -1,5 +1,4 @@
-Septoria curvispora Ellis & Everh. SPECIES
-=======
+# Septoria curvispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

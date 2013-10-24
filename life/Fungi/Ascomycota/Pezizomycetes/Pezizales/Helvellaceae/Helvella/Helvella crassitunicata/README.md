@@ -1,5 +1,4 @@
-Helvella crassitunicata N.S. Weber SPECIES
-=======
+# Helvella crassitunicata N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

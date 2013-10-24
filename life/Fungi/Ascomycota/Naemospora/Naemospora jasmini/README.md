@@ -1,5 +1,4 @@
-Naemospora jasmini Griffon & Maubl. SPECIES
-=======
+# Naemospora jasmini Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia nikrapensis Darb. SPECIES
-=======
+# Aspicilia nikrapensis Darb. SPECIES
 
 #### Status
 ACCEPTED

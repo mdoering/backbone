@@ -1,5 +1,4 @@
-Didinium alveolatum Kahl, 1930 SPECIES
-=======
+# Didinium alveolatum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiora schizospora Luttr., 1960 SPECIES
-=======
+# Dothiora schizospora Luttr., 1960 SPECIES
 
 #### Status
 ACCEPTED

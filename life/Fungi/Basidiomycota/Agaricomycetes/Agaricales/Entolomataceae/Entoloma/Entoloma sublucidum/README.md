@@ -1,5 +1,4 @@
-Entoloma sublucidum Murrill SPECIES
-=======
+# Entoloma sublucidum Murrill SPECIES
 
 #### Status
 ACCEPTED

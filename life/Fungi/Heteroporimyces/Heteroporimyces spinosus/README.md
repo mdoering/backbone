@@ -1,17 +1,16 @@
-Heteroporimyces spinosa M.K. Elias SPECIES
-=======
+# Heteroporimyces spinosus M.K. Elias SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeobotanist 14: 11 + pl. 2, figs 29-43 (1966)
 
 #### Original name
-Heteroporimyces spinosa M.K. Elias
+Heteroporimyces spinosus M.K. Elias
 
 ### Remarks
 null

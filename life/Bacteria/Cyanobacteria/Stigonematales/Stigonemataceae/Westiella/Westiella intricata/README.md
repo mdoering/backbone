@@ -1,5 +1,4 @@
-Westiella intricata Borzi SPECIES
-=======
+# Westiella intricata Borzi SPECIES
 
 #### Status
 ACCEPTED

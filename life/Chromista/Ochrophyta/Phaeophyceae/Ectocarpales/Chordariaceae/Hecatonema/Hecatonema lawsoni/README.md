@@ -1,5 +1,4 @@
-Hecatonema lawsoni SPECIES
-=======
+# Hecatonema lawsoni SPECIES
 
 #### Status
 ACCEPTED

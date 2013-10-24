@@ -1,5 +1,4 @@
-Laetinaevia caulophylli (Ellis & Everh.) Korf SPECIES
-=======
+# Laetinaevia caulophylli (Ellis & Everh.) Korf SPECIES
 
 #### Status
 ACCEPTED

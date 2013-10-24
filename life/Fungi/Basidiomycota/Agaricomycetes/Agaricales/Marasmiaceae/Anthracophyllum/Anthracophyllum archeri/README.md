@@ -1,14 +1,13 @@
-Xerotus archeri Berk., 1860 SPECIES
-=======
+# Anthracophyllum archeri (Berk.) Pegler, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botany of the Antarctic Voyage. III Flora Tasmaniae. 2: 250 (1860)
+Aust. J. Bot. 13: 324 (1965)
 
 #### Original name
 Xerotus archeri Berk., 1860

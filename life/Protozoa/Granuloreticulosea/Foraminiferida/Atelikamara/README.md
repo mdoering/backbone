@@ -1,5 +1,4 @@
-Atelikamara McClellan, 1973 GENUS
-=======
+# Atelikamara McClellan, 1973 GENUS
 
 #### Status
 ACCEPTED

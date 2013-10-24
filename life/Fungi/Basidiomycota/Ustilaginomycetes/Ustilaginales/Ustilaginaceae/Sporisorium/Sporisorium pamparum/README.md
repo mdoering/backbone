@@ -1,5 +1,4 @@
-Sporisorium pamparum (Speg.) Vánky SPECIES
-=======
+# Sporisorium pamparum (Speg.) Vánky SPECIES
 
 #### Status
 ACCEPTED

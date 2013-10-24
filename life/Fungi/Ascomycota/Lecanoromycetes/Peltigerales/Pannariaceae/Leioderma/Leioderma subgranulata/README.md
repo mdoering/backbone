@@ -1,5 +1,4 @@
-Leioderma subgranulata D.J. Galloway & P.M. Jørg. SPECIES
-=======
+# Leioderma subgranulata D.J. Galloway & P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

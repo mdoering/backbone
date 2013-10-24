@@ -1,5 +1,4 @@
-Phoma catalpae (Thüm.) Sacc. SPECIES
-=======
+# Phoma catalpae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenothecopsis mediorossica Titov SPECIES
-=======
+# Chaenothecopsis mediorossica Titov SPECIES
 
 #### Status
 ACCEPTED

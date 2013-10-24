@@ -1,5 +1,4 @@
-Hererantyx Loeblich & Tappan, 1982 GENUS
-=======
+# Hererantyx Loeblich & Tappan, 1982 GENUS
 
 #### Status
 ACCEPTED

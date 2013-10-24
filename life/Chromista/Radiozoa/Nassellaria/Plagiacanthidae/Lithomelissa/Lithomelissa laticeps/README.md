@@ -1,5 +1,4 @@
-Lithomelissa laticeps Joergensen, 1905 SPECIES
-=======
+# Lithomelissa laticeps Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps ootakiensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ootakiensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

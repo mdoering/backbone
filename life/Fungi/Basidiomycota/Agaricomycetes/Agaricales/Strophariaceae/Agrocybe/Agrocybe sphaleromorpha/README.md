@@ -1,5 +1,4 @@
-Agrocybe sphaleromorpha (Bull.) Fayod SPECIES
-=======
+# Agrocybe sphaleromorpha (Bull.) Fayod SPECIES
 
 #### Status
 ACCEPTED

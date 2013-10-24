@@ -1,5 +1,4 @@
-Samboa GENUS
-=======
+# Samboa GENUS
 
 #### Status
 ACCEPTED

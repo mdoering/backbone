@@ -1,5 +1,4 @@
-Boletus rubens Frost SPECIES
-=======
+# Boletus rubens Frost SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo allii-fragilis Arthur SPECIES
-=======
+# Uredo allii-fragilis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria bupleuri Durieu & Mont. SPECIES
-=======
+# Sphaeria bupleuri Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

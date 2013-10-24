@@ -1,14 +1,13 @@
-Phytophthora infestans var. phaseoli (Thaxt.) Leonian, 1925 VARIETY
-=======
+# Phytophthora phaseoli Thaxt., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. , Suppl. 12(7): 484 (1925)
+Bot. Gaz. 14(11): 273 (1889)
 
 #### Original name
 Phytophthora phaseoli Thaxt., 1889

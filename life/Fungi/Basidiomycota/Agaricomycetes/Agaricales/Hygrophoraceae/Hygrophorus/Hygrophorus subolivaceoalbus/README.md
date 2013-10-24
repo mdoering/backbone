@@ -1,5 +1,4 @@
-Hygrophorus subolivaceoalbus (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Hygrophorus subolivaceoalbus (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

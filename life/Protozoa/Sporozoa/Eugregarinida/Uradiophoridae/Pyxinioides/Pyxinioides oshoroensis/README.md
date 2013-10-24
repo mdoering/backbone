@@ -1,5 +1,4 @@
-Pyxinioides oshoroensis Hoshide, 1951 SPECIES
-=======
+# Pyxinioides oshoroensis Hoshide, 1951 SPECIES
 
 #### Status
 ACCEPTED

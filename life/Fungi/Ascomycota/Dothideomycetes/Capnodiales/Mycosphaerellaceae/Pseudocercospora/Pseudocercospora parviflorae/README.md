@@ -1,5 +1,4 @@
-Pseudocercospora parviflorae H.S.G. Rao, S. Narayan & Bhartiya SPECIES
-=======
+# Pseudocercospora parviflorae H.S.G. Rao, S. Narayan & Bhartiya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymiun GENUS
-=======
+# Didymiun GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia violaceofusca G. Thor & Muhr SPECIES
-=======
+# Buellia violaceofusca G. Thor & Muhr SPECIES
 
 #### Status
 ACCEPTED

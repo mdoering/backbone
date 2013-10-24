@@ -1,5 +1,4 @@
-Laboulbenia terminalis Thaxt. SPECIES
-=======
+# Laboulbenia terminalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

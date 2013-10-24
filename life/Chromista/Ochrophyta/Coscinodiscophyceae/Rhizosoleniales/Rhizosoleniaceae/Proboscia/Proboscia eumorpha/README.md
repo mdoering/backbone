@@ -1,11 +1,10 @@
-Rhizosolenia obtusa Hensen, 1887 SPECIES
-=======
+# Proboscia eumorpha K. Takahashi, R. Jordan & J. Priddle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

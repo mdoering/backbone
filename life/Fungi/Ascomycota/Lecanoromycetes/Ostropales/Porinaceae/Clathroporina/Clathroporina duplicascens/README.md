@@ -1,5 +1,4 @@
-Clathroporina duplicascens (Nyl.) Zahlbr. SPECIES
-=======
+# Clathroporina duplicascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium solani-tuberosi Desm. SPECIES
-=======
+# Fusarium solani-tuberosi Desm. SPECIES
 
 #### Status
 ACCEPTED

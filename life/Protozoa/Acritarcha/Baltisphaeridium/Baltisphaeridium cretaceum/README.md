@@ -1,5 +1,4 @@
-Baltisphaeridium cretaceum (Merrill, 1985) Sarjeant, 1964 SPECIES
-=======
+# Baltisphaeridium cretaceum (Merrill, 1985) Sarjeant, 1964 SPECIES
 
 #### Status
 ACCEPTED

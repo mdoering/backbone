@@ -1,5 +1,4 @@
-Granuliferelloides McKay & Green, 1963 GENUS
-=======
+# Granuliferelloides McKay & Green, 1963 GENUS
 
 #### Status
 ACCEPTED

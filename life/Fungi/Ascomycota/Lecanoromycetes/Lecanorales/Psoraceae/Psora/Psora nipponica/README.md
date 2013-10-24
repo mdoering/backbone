@@ -1,5 +1,4 @@
-Psora nipponica (Zahlbr.) Gotth. Schneid. SPECIES
-=======
+# Psora nipponica (Zahlbr.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

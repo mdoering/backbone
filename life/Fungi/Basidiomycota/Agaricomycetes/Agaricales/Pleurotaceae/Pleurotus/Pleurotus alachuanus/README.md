@@ -1,5 +1,4 @@
-Pleurotus alachuanus (Murrill) Murrill SPECIES
-=======
+# Pleurotus alachuanus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

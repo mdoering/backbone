@@ -1,5 +1,4 @@
-Desulfatibacillum aliphaticivorans Cravo-Laureau et al., 2004 SPECIES
-=======
+# Desulfatibacillum aliphaticivorans Cravo-Laureau et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

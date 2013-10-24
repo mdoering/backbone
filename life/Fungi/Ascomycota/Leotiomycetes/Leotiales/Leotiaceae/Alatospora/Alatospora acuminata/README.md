@@ -1,17 +1,16 @@
-Alatospora constricta Dyko, 1978 SPECIES
-=======
+# Alatospora acuminata Ingold, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 70(3): 409 (1978)
+Trans. Br. mycol. Soc. 25: 384 (1942)
 
 #### Original name
-Alatospora constricta Dyko, 1978
+Alatospora acuminata Ingold, 1942
 
 ### Remarks
 null

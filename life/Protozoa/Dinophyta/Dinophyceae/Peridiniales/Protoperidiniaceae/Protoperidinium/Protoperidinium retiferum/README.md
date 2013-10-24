@@ -1,5 +1,4 @@
-Protoperidinium retiferum (Matzenauer, 1933) Balech, 1978 SPECIES
-=======
+# Protoperidinium retiferum (Matzenauer, 1933) Balech, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodolithus rotundus Bukry & Percival, 1971 SPECIES
-=======
+# Lophodolithus rotundus Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

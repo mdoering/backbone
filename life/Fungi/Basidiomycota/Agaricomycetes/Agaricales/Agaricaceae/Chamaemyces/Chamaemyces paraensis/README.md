@@ -1,5 +1,4 @@
-Chamaemyces paraensis Singer SPECIES
-=======
+# Chamaemyces paraensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea protracta (Fr.) SPECIES
-=======
+# Lachnea protracta (Fr.) SPECIES
 
 #### Status
 ACCEPTED

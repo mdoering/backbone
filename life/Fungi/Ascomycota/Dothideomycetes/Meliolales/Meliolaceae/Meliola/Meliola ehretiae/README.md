@@ -1,5 +1,4 @@
-Meliola ehretiae Hansf. SPECIES
-=======
+# Meliola ehretiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

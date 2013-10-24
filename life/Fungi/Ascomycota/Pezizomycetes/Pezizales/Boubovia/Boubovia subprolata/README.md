@@ -1,14 +1,13 @@
-Pulvinula subprolata Korf & W.Y. Zhuang, 1991 SPECIES
-=======
+# Boubovia subprolata (Korf & W.Y. Zhuang) Y.J. Yao & Spooner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 40: 100 (1991)
+Mycol. Res. 100(2): 193 (1996)
 
 #### Original name
 Pulvinula subprolata Korf & W.Y. Zhuang, 1991

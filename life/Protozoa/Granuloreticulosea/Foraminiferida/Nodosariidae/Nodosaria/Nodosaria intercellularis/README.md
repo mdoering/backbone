@@ -1,5 +1,4 @@
-Nodosaria intercellularis SPECIES
-=======
+# Nodosaria intercellularis SPECIES
 
 #### Status
 ACCEPTED

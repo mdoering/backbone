@@ -1,5 +1,4 @@
-Ophrydium vernale Stokes, 1887 SPECIES
-=======
+# Ophrydium vernale Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

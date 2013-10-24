@@ -1,5 +1,4 @@
-Peziza spissa Berk. SPECIES
-=======
+# Peziza spissa Berk. SPECIES
 
 #### Status
 ACCEPTED

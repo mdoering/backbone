@@ -1,5 +1,4 @@
-Dothichiza pinastri Lib. SPECIES
-=======
+# Dothichiza pinastri Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudozonosphaeridium amiliforme Andreeva, 1962 SPECIES
-=======
+# Pseudozonosphaeridium amiliforme Andreeva, 1962 SPECIES
 
 #### Status
 ACCEPTED

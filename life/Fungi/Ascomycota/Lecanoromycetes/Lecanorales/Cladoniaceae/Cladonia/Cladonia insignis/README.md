@@ -1,5 +1,4 @@
-Cladonia insignis Nyl. SPECIES
-=======
+# Cladonia insignis Nyl. SPECIES
 
 #### Status
 ACCEPTED

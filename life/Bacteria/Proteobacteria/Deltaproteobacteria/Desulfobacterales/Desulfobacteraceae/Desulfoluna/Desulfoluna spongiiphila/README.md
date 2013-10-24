@@ -1,5 +1,4 @@
-Desulfoluna spongiiphila Ahn, Kerkhof & Haggblom, 2009 SPECIES
-=======
+# Desulfoluna spongiiphila Ahn, Kerkhof & Haggblom, 2009 SPECIES
 
 #### Status
 ACCEPTED

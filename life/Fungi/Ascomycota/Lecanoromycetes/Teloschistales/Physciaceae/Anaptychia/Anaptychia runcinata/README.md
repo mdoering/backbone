@@ -1,17 +1,16 @@
-Pseudophyscia fusca (Huds.) Walt. Watson SPECIES
-=======
+# Anaptychia runcinata (With.) J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the United States National Museum 32: 511 (1939)
+Lichenologist 16(3): 225 (1984)
 
 #### Original name
-Lichen fuscus Huds.
+Lichen runcinatus With.
 
 ### Remarks
 null

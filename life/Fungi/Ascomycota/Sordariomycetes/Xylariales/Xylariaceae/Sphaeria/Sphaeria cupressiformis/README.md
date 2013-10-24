@@ -1,5 +1,4 @@
-Sphaeria cupressiformis Woodw. SPECIES
-=======
+# Sphaeria cupressiformis Woodw. SPECIES
 
 #### Status
 ACCEPTED

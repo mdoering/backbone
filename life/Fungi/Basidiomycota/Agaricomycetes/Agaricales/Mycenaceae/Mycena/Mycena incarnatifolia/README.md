@@ -1,5 +1,4 @@
-Mycena incarnatifolia A.H. Sm. SPECIES
-=======
+# Mycena incarnatifolia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

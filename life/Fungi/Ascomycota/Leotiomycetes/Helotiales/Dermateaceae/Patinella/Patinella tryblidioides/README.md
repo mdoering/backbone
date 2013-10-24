@@ -1,5 +1,4 @@
-Patinella tryblidioides Rehm SPECIES
-=======
+# Patinella tryblidioides Rehm SPECIES
 
 #### Status
 ACCEPTED

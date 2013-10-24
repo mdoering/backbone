@@ -1,5 +1,4 @@
-Verrucaria antonelliana (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Verrucaria antonelliana (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

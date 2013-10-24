@@ -1,5 +1,4 @@
-Rhizophydium deformans Jaag & Nipkow SPECIES
-=======
+# Rhizophydium deformans Jaag & Nipkow SPECIES
 
 #### Status
 ACCEPTED

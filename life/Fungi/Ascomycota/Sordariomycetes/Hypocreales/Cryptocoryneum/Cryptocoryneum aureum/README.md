@@ -1,5 +1,4 @@
-Cryptocoryneum aureum Viala SPECIES
-=======
+# Cryptocoryneum aureum Viala SPECIES
 
 #### Status
 ACCEPTED

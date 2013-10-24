@@ -1,5 +1,4 @@
-Coprinopsis gonophylla (Quél.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis gonophylla (Quél.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

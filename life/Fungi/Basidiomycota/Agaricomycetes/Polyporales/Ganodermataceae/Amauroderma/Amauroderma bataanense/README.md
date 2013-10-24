@@ -1,17 +1,16 @@
-Ganoderma bataanense f. bataanense FORM
-=======
+# Amauroderma bataanense Murrill, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 307 (1912)
+Bull. Torrey bot. Club 35: 407 (1908)
 
 #### Original name
-Ganoderma bataanense f. bataanense
+Amauroderma bataanense Murrill, 1908
 
 ### Remarks
 null

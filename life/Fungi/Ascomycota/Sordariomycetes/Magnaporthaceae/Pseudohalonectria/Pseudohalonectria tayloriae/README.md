@@ -1,17 +1,16 @@
-Pseudohalonectria taylorii K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Pseudohalonectria tayloriae K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 24(1): 18 (2003)
 
 #### Original name
-Pseudohalonectria taylorii K.D. Hyde & J. Fröhl.
+Pseudohalonectria tayloriae K.D. Hyde & J. Fröhl.
 
 ### Remarks
 null

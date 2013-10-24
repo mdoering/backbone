@@ -1,5 +1,4 @@
-Nowakowskiella J. Schröt. GENUS
-=======
+# Nowakowskiella J. Schröt. GENUS
 
 #### Status
 ACCEPTED

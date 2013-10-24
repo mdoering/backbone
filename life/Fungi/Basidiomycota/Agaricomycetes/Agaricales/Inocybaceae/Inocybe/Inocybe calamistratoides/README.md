@@ -1,5 +1,4 @@
-Inocybe calamistratoides E. Horak, 1978 SPECIES
-=======
+# Inocybe calamistratoides E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

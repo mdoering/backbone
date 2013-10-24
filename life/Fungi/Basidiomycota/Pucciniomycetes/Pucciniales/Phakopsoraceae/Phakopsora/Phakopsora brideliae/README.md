@@ -1,5 +1,4 @@
-Phakopsora brideliae Vienn.-Bourg. SPECIES
-=======
+# Phakopsora brideliae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

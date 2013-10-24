@@ -1,5 +1,4 @@
-Lecidea extenuata Vain. SPECIES
-=======
+# Lecidea extenuata Vain. SPECIES
 
 #### Status
 ACCEPTED

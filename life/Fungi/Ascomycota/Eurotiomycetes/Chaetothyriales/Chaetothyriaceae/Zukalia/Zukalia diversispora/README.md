@@ -1,5 +1,4 @@
-Zukalia diversispora Rehm SPECIES
-=======
+# Zukalia diversispora Rehm SPECIES
 
 #### Status
 ACCEPTED

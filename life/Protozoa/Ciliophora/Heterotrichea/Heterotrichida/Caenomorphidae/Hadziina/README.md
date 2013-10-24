@@ -1,5 +1,4 @@
-Hadziina GENUS
-=======
+# Hadziina GENUS
 
 #### Status
 ACCEPTED

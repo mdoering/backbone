@@ -1,5 +1,4 @@
-Sphaerella oryzopsidis Ellis & Everh. SPECIES
-=======
+# Sphaerella oryzopsidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

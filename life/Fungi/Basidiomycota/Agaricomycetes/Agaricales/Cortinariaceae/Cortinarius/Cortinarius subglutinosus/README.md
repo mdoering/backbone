@@ -1,5 +1,4 @@
-Cortinarius subglutinosus P. Karst. SPECIES
-=======
+# Cortinarius subglutinosus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

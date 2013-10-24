@@ -1,5 +1,4 @@
-Sphaerella ulmariae (Kirschst.) Kirschst. SPECIES
-=======
+# Sphaerella ulmariae (Kirschst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicosphaera maceria Okada & McIntyre, 1977 SPECIES
-=======
+# Umbilicosphaera maceria Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

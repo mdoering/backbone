@@ -1,5 +1,4 @@
-Sporotrichum brunaudii Nann. SPECIES
-=======
+# Sporotrichum brunaudii Nann. SPECIES
 
 #### Status
 ACCEPTED

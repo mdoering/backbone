@@ -1,5 +1,4 @@
-Cordyceps hauturu Dingley, 1953 SPECIES
-=======
+# Cordyceps hauturu Dingley, 1953 SPECIES
 
 #### Status
 ACCEPTED

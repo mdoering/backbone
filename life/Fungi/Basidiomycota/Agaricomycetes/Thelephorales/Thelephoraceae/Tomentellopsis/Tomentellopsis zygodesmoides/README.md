@@ -1,17 +1,16 @@
-Tomentella zygodesmoides f. zygodesmoides FORM
-=======
+# Tomentellopsis zygodesmoides (Ellis) Hjortstam, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 787 (1907)
+Svensk bot. Tidskr. 68(1): 55 (1974)
 
 #### Original name
-Tomentella zygodesmoides f. zygodesmoides
+Thelephora zygodesmoides Ellis, 1882
 
 ### Remarks
 null

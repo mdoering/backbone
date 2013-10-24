@@ -1,5 +1,4 @@
-Desmidiospora myrmecophila Thaxt., 1891 SPECIES
-=======
+# Desmidiospora myrmecophila Thaxt., 1891 SPECIES
 
 #### Status
 ACCEPTED

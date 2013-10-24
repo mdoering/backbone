@@ -1,5 +1,4 @@
-Laboea compressum SPECIES
-=======
+# Laboea compressum SPECIES
 
 #### Status
 ACCEPTED

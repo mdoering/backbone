@@ -1,5 +1,4 @@
-Calenia leptocarpa Vain. SPECIES
-=======
+# Calenia leptocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

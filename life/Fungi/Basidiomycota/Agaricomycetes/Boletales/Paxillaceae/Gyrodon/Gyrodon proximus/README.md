@@ -1,5 +1,4 @@
-Gyrodon proximus Singer SPECIES
-=======
+# Gyrodon proximus Singer SPECIES
 
 #### Status
 ACCEPTED

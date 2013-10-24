@@ -1,5 +1,4 @@
-Phoma kleiniae Traverso SPECIES
-=======
+# Phoma kleiniae Traverso SPECIES
 
 #### Status
 ACCEPTED

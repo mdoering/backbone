@@ -1,5 +1,4 @@
-Orbiliella armeniaca Kirschst. SPECIES
-=======
+# Orbiliella armeniaca Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Preussia kunzei Fuckel SPECIES
-=======
+# Perisporium kunzei (Fuckel) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 27-28: 18 (1873)
+Syll. fung. (Abellini) 1: 56 (1882)
 
 #### Original name
 Preussia kunzei Fuckel

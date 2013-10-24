@@ -1,5 +1,4 @@
-Kazachstania turicensis (Wyder, Meile & Teuber) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania turicensis (Wyder, Meile & Teuber) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

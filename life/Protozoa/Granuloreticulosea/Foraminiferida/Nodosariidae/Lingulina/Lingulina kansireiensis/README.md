@@ -1,5 +1,4 @@
-Lingulina kansireiensis Nakamura SPECIES
-=======
+# Lingulina kansireiensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

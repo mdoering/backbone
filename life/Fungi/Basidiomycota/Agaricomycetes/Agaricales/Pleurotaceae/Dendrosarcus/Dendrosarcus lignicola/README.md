@@ -1,5 +1,4 @@
-Dendrosarcus lignicola (Sacc.) Kuntze SPECIES
-=======
+# Dendrosarcus lignicola (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riedera melaxantha Fr. & Hoffm. SPECIES
-=======
+# Riedera melaxantha Fr. & Hoffm. SPECIES
 
 #### Status
 ACCEPTED

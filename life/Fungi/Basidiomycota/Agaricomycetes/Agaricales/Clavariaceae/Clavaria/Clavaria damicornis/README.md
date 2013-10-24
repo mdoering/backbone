@@ -1,17 +1,16 @@
-Clavaria damaecornis Schrank SPECIES
-=======
+# Clavaria damicornis Schrank SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Baier. Fl. no. 1845 (1789)
 
 #### Original name
-Clavaria damaecornis Schrank
+Clavaria damicornis Schrank
 
 ### Remarks
 null

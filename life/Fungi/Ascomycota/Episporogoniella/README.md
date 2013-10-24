@@ -1,5 +1,4 @@
-Episporogoniella U. Braun GENUS
-=======
+# Episporogoniella U. Braun GENUS
 
 #### Status
 ACCEPTED

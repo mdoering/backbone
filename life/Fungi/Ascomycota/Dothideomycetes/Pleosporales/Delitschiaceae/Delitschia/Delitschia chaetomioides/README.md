@@ -1,5 +1,4 @@
-Delitschia chaetomioides P. Karst. SPECIES
-=======
+# Delitschia chaetomioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

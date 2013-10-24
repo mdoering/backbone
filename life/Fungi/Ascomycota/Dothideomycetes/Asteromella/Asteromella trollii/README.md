@@ -1,5 +1,4 @@
-Asteromella trollii (Trail) H. Ruppr. SPECIES
-=======
+# Asteromella trollii (Trail) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

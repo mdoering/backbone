@@ -1,5 +1,4 @@
-Lepocinclis globosa Francé SPECIES
-=======
+# Lepocinclis globosa Francé SPECIES
 
 #### Status
 ACCEPTED

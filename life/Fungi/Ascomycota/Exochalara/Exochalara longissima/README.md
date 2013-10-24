@@ -1,14 +1,13 @@
-Chalara longissima Grove, 1885 SPECIES
-=======
+# Exochalara longissima (Grove) W. Gams & Hol.-Jech., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 23: 12 (1885)
+Stud. Mycol. 13: 56 (1976)
 
 #### Original name
 Chalara longissima Grove, 1885

@@ -1,5 +1,4 @@
-Phyllosticta poterii Cejp, Fassat. & Zavrel SPECIES
-=======
+# Phyllosticta poterii Cejp, Fassat. & Zavrel SPECIES
 
 #### Status
 ACCEPTED

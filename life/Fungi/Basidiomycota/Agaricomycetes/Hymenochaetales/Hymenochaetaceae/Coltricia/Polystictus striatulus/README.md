@@ -1,5 +1,4 @@
-Polystictus striatulus Lloyd SPECIES
-=======
+# Polystictus striatulus Lloyd SPECIES
 
 #### Status
 ACCEPTED

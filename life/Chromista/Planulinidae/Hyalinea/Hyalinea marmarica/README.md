@@ -1,5 +1,4 @@
-Hyalinea marmarica Spezzaferri & Yanko-Hombach, 2007 SPECIES
-=======
+# Hyalinea marmarica Spezzaferri & Yanko-Hombach, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus brachyascus (G. Winter) Sacc. SPECIES
-=======
+# Ophiobolus brachyascus (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

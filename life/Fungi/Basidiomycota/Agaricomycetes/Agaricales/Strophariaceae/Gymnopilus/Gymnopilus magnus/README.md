@@ -1,5 +1,4 @@
-Gymnopilus magnus (Peck) Murrill SPECIES
-=======
+# Gymnopilus magnus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

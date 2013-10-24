@@ -1,5 +1,4 @@
-Porina karnatakensis Makhija, Adaw. & Patw. SPECIES
-=======
+# Porina karnatakensis Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

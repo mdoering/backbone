@@ -1,5 +1,4 @@
-Bacidia hyaliniza (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia hyaliniza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus umbonatus J. Otto SPECIES
-=======
+# Agaricus umbonatus J. Otto SPECIES
 
 #### Status
 ACCEPTED

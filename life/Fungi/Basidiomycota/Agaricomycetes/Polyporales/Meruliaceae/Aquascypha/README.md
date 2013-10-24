@@ -1,5 +1,4 @@
-Aquascypha D.A. Reid GENUS
-=======
+# Aquascypha D.A. Reid GENUS
 
 #### Status
 ACCEPTED

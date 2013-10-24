@@ -1,5 +1,4 @@
-Septoria grampianensis B. Sutton & Pascoe SPECIES
-=======
+# Septoria grampianensis B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

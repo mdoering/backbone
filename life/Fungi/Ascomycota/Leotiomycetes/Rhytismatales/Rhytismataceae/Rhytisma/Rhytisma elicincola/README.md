@@ -1,5 +1,4 @@
-Rhytisma elicincola Schwein. SPECIES
-=======
+# Rhytisma elicincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

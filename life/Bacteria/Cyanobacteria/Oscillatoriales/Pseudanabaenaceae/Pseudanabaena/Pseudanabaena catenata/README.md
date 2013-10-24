@@ -1,5 +1,4 @@
-Pseudanabaena catenata Lauterborn SPECIES
-=======
+# Pseudanabaena catenata Lauterborn SPECIES
 
 #### Status
 ACCEPTED

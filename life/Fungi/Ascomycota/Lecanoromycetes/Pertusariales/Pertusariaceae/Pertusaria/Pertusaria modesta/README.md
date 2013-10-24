@@ -1,5 +1,4 @@
-Pertusaria modesta Müll. Arg. SPECIES
-=======
+# Pertusaria modesta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

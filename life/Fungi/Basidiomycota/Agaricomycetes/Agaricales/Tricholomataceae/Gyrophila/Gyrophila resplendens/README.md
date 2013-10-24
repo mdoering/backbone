@@ -1,5 +1,4 @@
-Gyrophila resplendens Quél. SPECIES
-=======
+# Gyrophila resplendens Quél. SPECIES
 
 #### Status
 ACCEPTED

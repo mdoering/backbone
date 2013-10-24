@@ -1,5 +1,4 @@
-Dentalina cocoaensis (Cushman) SPECIES
-=======
+# Dentalina cocoaensis (Cushman) SPECIES
 
 #### Status
 ACCEPTED

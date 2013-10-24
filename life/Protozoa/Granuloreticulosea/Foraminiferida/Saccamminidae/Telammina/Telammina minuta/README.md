@@ -1,5 +1,4 @@
-Telammina minuta Gooday & Haynes, 1983 SPECIES
-=======
+# Telammina minuta Gooday & Haynes, 1983 SPECIES
 
 #### Status
 ACCEPTED

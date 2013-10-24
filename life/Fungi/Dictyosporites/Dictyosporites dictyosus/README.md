@@ -1,5 +1,4 @@
-Dictyosporites dictyosus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites dictyosus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

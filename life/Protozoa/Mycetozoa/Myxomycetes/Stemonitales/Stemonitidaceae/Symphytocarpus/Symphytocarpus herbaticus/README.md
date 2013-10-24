@@ -1,17 +1,16 @@
-Stemonitis herbatica var. confluens G. Lister VARIETY
-=======
+# Symphytocarpus herbaticus Ing, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lister, Monogr. Mycetozoa (London), Edn 2 148 (1911)
+in Ing & Nannenga-Bremekamp, Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 70: 229 (1967)
 
 #### Original name
-Stemonitis herbatica var. confluens G. Lister
+Symphytocarpus herbaticus Ing, 1967
 
 ### Remarks
 null

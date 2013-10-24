@@ -1,5 +1,4 @@
-Uromyces briardii Har. SPECIES
-=======
+# Uromyces briardii Har. SPECIES
 
 #### Status
 ACCEPTED

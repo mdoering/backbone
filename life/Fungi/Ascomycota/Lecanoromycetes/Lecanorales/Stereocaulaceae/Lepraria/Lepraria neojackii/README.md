@@ -1,5 +1,4 @@
-Lepraria neojackii Flakus & Kukwa SPECIES
-=======
+# Lepraria neojackii Flakus & Kukwa SPECIES
 
 #### Status
 ACCEPTED

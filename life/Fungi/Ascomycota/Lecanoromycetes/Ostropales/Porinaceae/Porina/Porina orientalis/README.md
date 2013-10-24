@@ -1,5 +1,4 @@
-Porina orientalis P. M. McCarthy SPECIES
-=======
+# Porina orientalis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

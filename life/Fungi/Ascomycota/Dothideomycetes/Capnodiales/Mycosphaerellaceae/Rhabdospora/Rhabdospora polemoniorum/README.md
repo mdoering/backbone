@@ -1,5 +1,4 @@
-Rhabdospora polemoniorum Sacc. & Paol. SPECIES
-=======
+# Rhabdospora polemoniorum Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

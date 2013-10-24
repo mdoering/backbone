@@ -1,5 +1,4 @@
-Byssocaulon ochraceum Nyl. SPECIES
-=======
+# Byssocaulon ochraceum Nyl. SPECIES
 
 #### Status
 ACCEPTED

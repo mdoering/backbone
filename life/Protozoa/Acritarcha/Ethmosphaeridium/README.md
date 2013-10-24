@@ -1,5 +1,4 @@
-Ethmosphaeridium Timofeev, 1971 GENUS
-=======
+# Ethmosphaeridium Timofeev, 1971 GENUS
 
 #### Status
 ACCEPTED

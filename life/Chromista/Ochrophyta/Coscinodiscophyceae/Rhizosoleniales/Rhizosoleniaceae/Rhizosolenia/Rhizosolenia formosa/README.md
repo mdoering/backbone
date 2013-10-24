@@ -1,8 +1,7 @@
-Rhizosolenia styliformis f. latissima Brightwell, 1858 FORM
-=======
+# Rhizosolenia formosa H. Peragallo, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

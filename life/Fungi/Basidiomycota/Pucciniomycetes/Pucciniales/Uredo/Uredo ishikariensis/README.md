@@ -1,5 +1,4 @@
-Uredo ishikariensis (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo ishikariensis (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

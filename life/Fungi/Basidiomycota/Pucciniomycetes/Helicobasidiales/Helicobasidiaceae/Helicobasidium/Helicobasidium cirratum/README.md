@@ -1,5 +1,4 @@
-Helicobasidium cirratum Pat. & Gaillard SPECIES
-=======
+# Helicobasidium cirratum Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

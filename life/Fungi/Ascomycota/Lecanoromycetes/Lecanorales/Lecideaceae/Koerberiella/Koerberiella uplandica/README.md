@@ -1,5 +1,4 @@
-Koerberiella uplandica (H. Magn.) Motyka SPECIES
-=======
+# Koerberiella uplandica (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

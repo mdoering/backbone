@@ -1,14 +1,13 @@
-Tricladiomyces malaysianum (Nawawi) Nawawi SPECIES
-=======
+# Tricladium malaysianum Nawawi, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 63(2): 269 (1974)
 
 #### Original name
 Tricladium malaysianum Nawawi, 1974

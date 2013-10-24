@@ -1,5 +1,4 @@
-Phacopsis muelleri Willey SPECIES
-=======
+# Phacopsis muelleri Willey SPECIES
 
 #### Status
 ACCEPTED

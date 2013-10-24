@@ -1,5 +1,4 @@
-Porina austropacifica P.M. McCarthy, 2000 SPECIES
-=======
+# Porina austropacifica P.M. McCarthy, 2000 SPECIES
 
 #### Status
 DOUBTFUL

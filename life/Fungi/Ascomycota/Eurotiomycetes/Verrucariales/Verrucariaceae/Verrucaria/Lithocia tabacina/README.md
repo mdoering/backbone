@@ -1,5 +1,4 @@
-Lithocia tabacina A. Massal. SPECIES
-=======
+# Lithocia tabacina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

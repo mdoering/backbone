@@ -1,5 +1,4 @@
-Conocybe ealaensis (Beeli) Watling SPECIES
-=======
+# Conocybe ealaensis (Beeli) Watling SPECIES
 
 #### Status
 ACCEPTED

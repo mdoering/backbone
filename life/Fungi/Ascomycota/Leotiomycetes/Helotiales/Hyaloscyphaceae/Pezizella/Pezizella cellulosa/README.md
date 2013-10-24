@@ -1,5 +1,4 @@
-Pezizella cellulosa Velen. SPECIES
-=======
+# Pezizella cellulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

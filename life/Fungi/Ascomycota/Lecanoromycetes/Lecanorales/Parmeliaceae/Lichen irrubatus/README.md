@@ -1,5 +1,4 @@
-Lichen irrubatus Schrad. SPECIES
-=======
+# Lichen irrubatus Schrad. SPECIES
 
 #### Status
 ACCEPTED

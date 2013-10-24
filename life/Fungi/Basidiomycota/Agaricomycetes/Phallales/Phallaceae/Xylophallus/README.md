@@ -1,5 +1,4 @@
-Xylophallus GENUS
-=======
+# Xylophallus GENUS
 
 #### Status
 ACCEPTED

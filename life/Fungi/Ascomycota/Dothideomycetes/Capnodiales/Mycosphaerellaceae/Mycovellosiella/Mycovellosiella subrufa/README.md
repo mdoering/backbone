@@ -1,5 +1,4 @@
-Mycovellosiella subrufa (Ellis & Holw.) U. Braun SPECIES
-=======
+# Mycovellosiella subrufa (Ellis & Holw.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

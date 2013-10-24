@@ -1,5 +1,4 @@
-Verrucaria lyellii Leight. SPECIES
-=======
+# Verrucaria lyellii Leight. SPECIES
 
 #### Status
 ACCEPTED

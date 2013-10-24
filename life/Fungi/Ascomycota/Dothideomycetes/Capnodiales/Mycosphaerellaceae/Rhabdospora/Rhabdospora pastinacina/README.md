@@ -1,5 +1,4 @@
-Rhabdospora pastinacina (Sacc.) Allesch. SPECIES
-=======
+# Rhabdospora pastinacina (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

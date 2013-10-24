@@ -1,5 +1,4 @@
-Laboulbenia oberthuri Giard SPECIES
-=======
+# Laboulbenia oberthuri Giard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelocarpon tichomirovii Oxner SPECIES
-=======
+# Thelocarpon tichomirovii Oxner SPECIES
 
 #### Status
 ACCEPTED

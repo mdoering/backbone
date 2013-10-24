@@ -1,5 +1,4 @@
-Pemphidium pini P. Karst. SPECIES
-=======
+# Pemphidium pini P. Karst. SPECIES
 
 #### Status
 ACCEPTED

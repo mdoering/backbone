@@ -1,5 +1,4 @@
-Uromyces dolichi Cooke SPECIES
-=======
+# Uromyces dolichi Cooke SPECIES
 
 #### Status
 ACCEPTED

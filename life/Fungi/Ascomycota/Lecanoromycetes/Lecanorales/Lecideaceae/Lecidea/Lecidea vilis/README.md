@@ -1,5 +1,4 @@
-Lecidea vilis SPECIES
-=======
+# Lecidea vilis SPECIES
 
 #### Status
 ACCEPTED

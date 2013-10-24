@@ -1,5 +1,4 @@
-Exoascus flavoaureus Cocc. SPECIES
-=======
+# Exoascus flavoaureus Cocc. SPECIES
 
 #### Status
 ACCEPTED

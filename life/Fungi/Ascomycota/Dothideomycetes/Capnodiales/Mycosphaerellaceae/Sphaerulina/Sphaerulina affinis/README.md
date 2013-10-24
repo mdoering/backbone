@@ -1,5 +1,4 @@
-Sphaerulina affinis Tassi SPECIES
-=======
+# Sphaerulina affinis Tassi SPECIES
 
 #### Status
 ACCEPTED

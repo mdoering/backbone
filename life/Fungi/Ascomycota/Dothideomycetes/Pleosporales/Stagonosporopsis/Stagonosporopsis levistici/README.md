@@ -1,5 +1,4 @@
-Stagonosporopsis levistici Lebedeva SPECIES
-=======
+# Stagonosporopsis levistici Lebedeva SPECIES
 
 #### Status
 ACCEPTED

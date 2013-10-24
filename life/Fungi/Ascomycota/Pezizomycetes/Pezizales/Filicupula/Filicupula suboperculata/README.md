@@ -1,14 +1,13 @@
-Octosporella suboperculata (Döbbeler & P. James) Döbbeler, 1980 SPECIES
-=======
+# Filicupula suboperculata (Döbbeler & P. James) Y.J. Yao & Spooner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 31(4): 828 (1980)
+Kew Bull. 51(1): 194 (1996)
 
 #### Original name
 Pseudonectria suboperculata Döbbeler & P. James, 1978

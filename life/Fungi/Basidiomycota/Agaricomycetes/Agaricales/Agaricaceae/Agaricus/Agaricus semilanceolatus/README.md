@@ -1,5 +1,4 @@
-Agaricus semilanceolatus Fr. SPECIES
-=======
+# Agaricus semilanceolatus Fr. SPECIES
 
 #### Status
 ACCEPTED

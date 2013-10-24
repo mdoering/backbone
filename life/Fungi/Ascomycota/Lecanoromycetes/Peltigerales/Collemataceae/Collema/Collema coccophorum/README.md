@@ -1,17 +1,16 @@
-Collema coccophorum var. coccophorum VARIETY
-=======
+# Collema coccophorum Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Proc. Amer. Acad. Arts & Sci. 5: 385 (1862)
 
 #### Original name
-Collema coccophorum var. coccophorum
+Collema coccophorum Tuck.
 
 ### Remarks
 null

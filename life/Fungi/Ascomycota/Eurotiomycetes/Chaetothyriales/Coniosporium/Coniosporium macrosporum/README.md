@@ -1,5 +1,4 @@
-Coniosporium macrosporum Ferraris SPECIES
-=======
+# Coniosporium macrosporum Ferraris SPECIES
 
 #### Status
 ACCEPTED

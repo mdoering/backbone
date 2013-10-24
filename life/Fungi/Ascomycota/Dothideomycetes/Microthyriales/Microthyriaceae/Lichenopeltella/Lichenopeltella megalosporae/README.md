@@ -1,5 +1,4 @@
-Lichenopeltella megalosporae Diederich SPECIES
-=======
+# Lichenopeltella megalosporae Diederich SPECIES
 
 #### Status
 ACCEPTED

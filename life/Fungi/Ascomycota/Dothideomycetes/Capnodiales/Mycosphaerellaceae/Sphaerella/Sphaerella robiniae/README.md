@@ -1,5 +1,4 @@
-Sphaerella robiniae (Siemaszko) Sacc. SPECIES
-=======
+# Sphaerella robiniae (Siemaszko) Sacc. SPECIES
 
 #### Status
 ACCEPTED

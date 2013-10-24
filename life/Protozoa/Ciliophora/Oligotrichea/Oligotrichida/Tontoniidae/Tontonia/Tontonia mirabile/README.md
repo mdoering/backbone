@@ -1,5 +1,4 @@
-Tontonia mirabile SPECIES
-=======
+# Tontonia mirabile SPECIES
 
 #### Status
 ACCEPTED

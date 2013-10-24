@@ -1,5 +1,4 @@
-Camillea fusiformis M.A. Whalley SPECIES
-=======
+# Camillea fusiformis M.A. Whalley SPECIES
 
 #### Status
 ACCEPTED

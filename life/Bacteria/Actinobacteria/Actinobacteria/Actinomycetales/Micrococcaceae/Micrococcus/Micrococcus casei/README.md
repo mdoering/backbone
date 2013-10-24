@@ -1,5 +1,4 @@
-Micrococcus casei SPECIES
-=======
+# Micrococcus casei SPECIES
 
 #### Status
 ACCEPTED

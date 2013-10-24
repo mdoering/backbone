@@ -1,5 +1,4 @@
-Bovistella poeltii Kreisel SPECIES
-=======
+# Bovistella poeltii Kreisel SPECIES
 
 #### Status
 ACCEPTED

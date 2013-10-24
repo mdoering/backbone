@@ -1,14 +1,13 @@
-Graphis laevigata Müll. Arg. SPECIES
-=======
+# Graphina laevigata (Müll. Arg.) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 23: 398 (1891)
+Telopea 8(2): 288 (1999)
 
 #### Original name
 Graphis laevigata Müll. Arg.

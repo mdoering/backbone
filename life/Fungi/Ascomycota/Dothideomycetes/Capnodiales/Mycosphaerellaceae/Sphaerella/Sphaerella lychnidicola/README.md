@@ -1,5 +1,4 @@
-Sphaerella lychnidicola (Syd. {?} ) Sacc. SPECIES
-=======
+# Sphaerella lychnidicola (Syd. {?} ) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Choreotrichida Small & Lynn, 1985 ORDER
-=======
+# Choreotrichida Small & Lynn, 1985 ORDER
 
 #### Status
 ACCEPTED

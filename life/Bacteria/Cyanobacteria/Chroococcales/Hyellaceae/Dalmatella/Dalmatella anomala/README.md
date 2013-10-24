@@ -1,5 +1,4 @@
-Dalmatella anomala Ercegovic SPECIES
-=======
+# Dalmatella anomala Ercegovic SPECIES
 
 #### Status
 ACCEPTED

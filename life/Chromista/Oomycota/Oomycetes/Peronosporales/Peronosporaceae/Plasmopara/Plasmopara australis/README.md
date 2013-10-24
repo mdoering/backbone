@@ -1,5 +1,4 @@
-Plasmopara australis (Speg.) Swingle SPECIES
-=======
+# Plasmopara australis (Speg.) Swingle SPECIES
 
 #### Status
 ACCEPTED

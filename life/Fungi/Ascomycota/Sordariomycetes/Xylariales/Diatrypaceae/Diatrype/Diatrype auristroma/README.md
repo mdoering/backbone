@@ -1,5 +1,4 @@
-Diatrype auristroma Doidge SPECIES
-=======
+# Diatrype auristroma Doidge SPECIES
 
 #### Status
 ACCEPTED

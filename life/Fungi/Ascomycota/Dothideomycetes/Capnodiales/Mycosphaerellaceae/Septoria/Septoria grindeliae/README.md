@@ -1,5 +1,4 @@
-Septoria grindeliae Ellis & Barthol. SPECIES
-=======
+# Septoria grindeliae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

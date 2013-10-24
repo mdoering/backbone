@@ -1,5 +1,4 @@
-Parmelia adplanata f. adplanata FORM
-=======
+# Parmelia adplanata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 68: 502 (1885)
 
 #### Original name
-Parmelia adplanata f. adplanata
+Parmelia adplanata Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletus globatus J.F. Gmel. SPECIES
-=======
+# Boletus globatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

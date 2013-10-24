@@ -1,5 +1,4 @@
-Aecidium saussureae var. saussureae VARIETY
-=======
+# Aecidium saussureae Juel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium saussureae var. saussureae
+Aecidium saussureae Juel
 
 ### Remarks
 null

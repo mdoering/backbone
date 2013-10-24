@@ -1,17 +1,16 @@
-Cephalosporium verticicolum Petch SPECIES
-=======
+# Verticillium rexianum (Sacc.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 8): 577 (1882)
 
 #### Original name
-Cephalosporium verticicolum Petch
+Verticillium nanum rexianum Sacc., 1882
 
 ### Remarks
 null

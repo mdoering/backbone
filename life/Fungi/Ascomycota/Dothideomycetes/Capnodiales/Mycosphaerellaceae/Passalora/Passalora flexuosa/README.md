@@ -1,5 +1,4 @@
-Passalora flexuosa (Tracy & Earle) U. Braun & Crous SPECIES
-=======
+# Passalora flexuosa (Tracy & Earle) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

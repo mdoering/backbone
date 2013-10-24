@@ -1,5 +1,4 @@
-Tricholomopsis secedifolia (Murrill) Singer SPECIES
-=======
+# Tricholomopsis secedifolia (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

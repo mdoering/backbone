@@ -1,5 +1,4 @@
-Pyrenula subelliptica (Tuck.) R.C. Harris SPECIES
-=======
+# Pyrenula subelliptica (Tuck.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

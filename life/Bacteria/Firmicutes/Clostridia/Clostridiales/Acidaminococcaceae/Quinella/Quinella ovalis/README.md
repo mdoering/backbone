@@ -1,5 +1,4 @@
-Quinella ovalis Krumholz et al., 1993 SPECIES
-=======
+# Quinella ovalis Krumholz et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

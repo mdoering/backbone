@@ -1,5 +1,4 @@
-Dendrolimus latipennis Npv SPECIES
-=======
+# Dendrolimus latipennis Npv SPECIES
 
 #### Status
 ACCEPTED

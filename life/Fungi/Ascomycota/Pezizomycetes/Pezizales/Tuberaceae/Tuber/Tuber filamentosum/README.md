@@ -1,5 +1,4 @@
-Tuber filamentosum (Wallr.) Tul. SPECIES
-=======
+# Tuber filamentosum (Wallr.) Tul. SPECIES
 
 #### Status
 ACCEPTED

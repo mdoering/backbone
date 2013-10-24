@@ -1,14 +1,13 @@
-Phoma truncata B. de Lesd. SPECIES
-=======
+# Vouauxiomyces truncatus (B. de Lesd.) Dyko & D. Hawksw., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hawksworth & Dyko, Lichenologist 11(1): 58 (1979)
 
 #### Original name
 Phoma truncata B. de Lesd.

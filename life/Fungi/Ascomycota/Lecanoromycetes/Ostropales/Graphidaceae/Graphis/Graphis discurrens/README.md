@@ -1,5 +1,4 @@
-Graphis discurrens Nyl. SPECIES
-=======
+# Graphis discurrens Nyl. SPECIES
 
 #### Status
 ACCEPTED

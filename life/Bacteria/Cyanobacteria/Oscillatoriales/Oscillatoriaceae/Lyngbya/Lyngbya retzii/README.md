@@ -1,5 +1,4 @@
-Lyngbya retzii (C. Agardh ex Gomont) Hansg. SPECIES
-=======
+# Lyngbya retzii (C. Agardh ex Gomont) Hansg. SPECIES
 
 #### Status
 ACCEPTED

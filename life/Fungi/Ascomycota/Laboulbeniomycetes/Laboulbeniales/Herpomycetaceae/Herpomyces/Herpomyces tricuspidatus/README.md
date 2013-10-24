@@ -1,5 +1,4 @@
-Herpomyces tricuspidatus Thaxt. SPECIES
-=======
+# Herpomyces tricuspidatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

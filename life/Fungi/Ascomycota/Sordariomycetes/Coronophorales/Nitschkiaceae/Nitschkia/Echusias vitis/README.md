@@ -1,5 +1,4 @@
-Echusias vitis (Schulzer) Hazsl. SPECIES
-=======
+# Echusias vitis (Schulzer) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

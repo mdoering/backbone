@@ -1,5 +1,4 @@
-Calodon montellicus (Sacc.) Bataille SPECIES
-=======
+# Calodon montellicus (Sacc.) Bataille SPECIES
 
 #### Status
 ACCEPTED

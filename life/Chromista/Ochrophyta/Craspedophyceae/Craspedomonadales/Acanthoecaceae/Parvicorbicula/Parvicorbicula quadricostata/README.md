@@ -1,5 +1,4 @@
-Parvicorbicula quadricostata Throndsen SPECIES
-=======
+# Parvicorbicula quadricostata Throndsen SPECIES
 
 #### Status
 ACCEPTED

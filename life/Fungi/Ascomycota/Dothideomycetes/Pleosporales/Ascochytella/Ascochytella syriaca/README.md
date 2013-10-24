@@ -1,5 +1,4 @@
-Ascochytella syriaca Petr. SPECIES
-=======
+# Ascochytella syriaca Petr. SPECIES
 
 #### Status
 ACCEPTED

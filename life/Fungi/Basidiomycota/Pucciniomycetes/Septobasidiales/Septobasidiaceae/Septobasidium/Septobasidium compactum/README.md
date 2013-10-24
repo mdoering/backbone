@@ -1,5 +1,4 @@
-Septobasidium compactum Boedijn SPECIES
-=======
+# Septobasidium compactum Boedijn SPECIES
 
 #### Status
 ACCEPTED

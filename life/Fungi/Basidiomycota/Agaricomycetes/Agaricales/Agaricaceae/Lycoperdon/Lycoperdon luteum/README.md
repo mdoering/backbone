@@ -1,5 +1,4 @@
-Lycoperdon luteum Batsch SPECIES
-=======
+# Lycoperdon luteum Batsch SPECIES
 
 #### Status
 ACCEPTED

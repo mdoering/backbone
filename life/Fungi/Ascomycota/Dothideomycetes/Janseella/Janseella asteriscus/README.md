@@ -1,5 +1,4 @@
-Janseella asteriscus Henn. & E. Nyman SPECIES
-=======
+# Janseella asteriscus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

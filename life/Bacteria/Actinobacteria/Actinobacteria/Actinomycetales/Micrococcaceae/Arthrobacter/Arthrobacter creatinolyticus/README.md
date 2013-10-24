@@ -1,5 +1,4 @@
-Arthrobacter creatinolyticus Hou et al., 1998 SPECIES
-=======
+# Arthrobacter creatinolyticus Hou et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

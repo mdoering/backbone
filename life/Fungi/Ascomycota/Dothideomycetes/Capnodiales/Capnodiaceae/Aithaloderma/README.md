@@ -1,17 +1,16 @@
-Vertixore V.A.M. Mill. & Bonar GENUS
-=======
+# Aithaloderma P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-University of Calif. Publ. Bot. 19: 406 (1941)
+in Sydow & Sydow, Annls mycol. 11(3): 257 (1913)
 
 #### Original name
-Vertixore V.A.M. Mill. & Bonar
+Aithaloderma P. Syd.
 
 ### Remarks
 null

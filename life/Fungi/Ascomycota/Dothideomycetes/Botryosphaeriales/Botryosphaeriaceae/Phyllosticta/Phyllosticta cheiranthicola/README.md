@@ -1,5 +1,4 @@
-Phyllosticta cheiranthicola Bubák & Zimm. SPECIES
-=======
+# Phyllosticta cheiranthicola Bubák & Zimm. SPECIES
 
 #### Status
 ACCEPTED

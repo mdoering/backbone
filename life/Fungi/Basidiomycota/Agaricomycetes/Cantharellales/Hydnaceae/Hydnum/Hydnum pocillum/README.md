@@ -1,5 +1,4 @@
-Hydnum pocillum Inzenga SPECIES
-=======
+# Hydnum pocillum Inzenga SPECIES
 
 #### Status
 ACCEPTED

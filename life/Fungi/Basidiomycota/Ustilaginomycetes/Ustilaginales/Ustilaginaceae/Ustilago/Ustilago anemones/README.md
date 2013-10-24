@@ -1,5 +1,4 @@
-Ustilago anemones (Pers.) SPECIES
-=======
+# Ustilago anemones (Pers.) SPECIES
 
 #### Status
 ACCEPTED

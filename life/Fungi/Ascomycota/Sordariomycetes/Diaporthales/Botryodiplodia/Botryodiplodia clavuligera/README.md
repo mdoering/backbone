@@ -1,5 +1,4 @@
-Botryodiplodia clavuligera (Berk. & M.A. Curtis) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia clavuligera (Berk. & M.A. Curtis) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

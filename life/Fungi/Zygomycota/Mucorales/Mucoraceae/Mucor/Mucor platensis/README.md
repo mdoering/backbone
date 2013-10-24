@@ -1,5 +1,4 @@
-Mucor platensis Speg. SPECIES
-=======
+# Mucor platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

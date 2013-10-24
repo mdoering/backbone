@@ -1,5 +1,4 @@
-Lycoperdon brassicae Schreb. SPECIES
-=======
+# Lycoperdon brassicae Schreb. SPECIES
 
 #### Status
 ACCEPTED

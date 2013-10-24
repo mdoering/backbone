@@ -1,5 +1,4 @@
-Cruciplacolithus vanheckae Perch-Nielsen, 1984 SPECIES
-=======
+# Cruciplacolithus vanheckae Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

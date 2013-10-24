@@ -1,5 +1,4 @@
-Pyriomyces protii Bat. & H. Maia SPECIES
-=======
+# Pyriomyces protii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

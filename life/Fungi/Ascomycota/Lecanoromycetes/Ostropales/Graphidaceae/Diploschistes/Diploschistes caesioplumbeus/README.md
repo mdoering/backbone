@@ -1,14 +1,13 @@
-Urceolaria actinostoma var. caesioplumbea Nyl. VARIETY
-=======
+# Diploschistes caesioplumbeus (Nyl.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 6: 264 (1872)
+Bot. Mag. , Tokyo 35: 70 (1921)
 
 #### Original name
 Urceolaria actinostoma var. caesioplumbea Nyl.

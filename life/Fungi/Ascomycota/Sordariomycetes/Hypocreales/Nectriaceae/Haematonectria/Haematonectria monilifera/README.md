@@ -1,14 +1,13 @@
-Nectria monilifera Berk. & Broome, 1875 SPECIES
-=======
+# Haematonectria monilifera (Berk. & Broome) Samuels & Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 137 (1999)
 
 #### Original name
 Nectria monilifera Berk. & Broome, 1875

@@ -1,14 +1,13 @@
-Agaricus polygrammus var. atrocyaneus (Batsch) Pers., 1801 VARIETY
-=======
+# Mycena atrocyanea (Batsch) Gillet, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 377 (1801)
+null
 
 #### Original name
 Agaricus atrocyaneus Batsch, 1786

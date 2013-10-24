@@ -1,5 +1,4 @@
-Colletotrichum exoticum Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum exoticum Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

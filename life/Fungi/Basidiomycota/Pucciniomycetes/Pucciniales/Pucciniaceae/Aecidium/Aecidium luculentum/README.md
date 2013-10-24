@@ -1,5 +1,4 @@
-Aecidium luculentum Syd. & P. Syd. SPECIES
-=======
+# Aecidium luculentum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

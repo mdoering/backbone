@@ -1,5 +1,4 @@
-Meliola salaciae Hansf. SPECIES
-=======
+# Meliola salaciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

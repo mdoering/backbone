@@ -1,17 +1,16 @@
-Buellia verruculosa var. praeponens (Nyl.) A.L. Sm. VARIETY
-=======
+# Buellia ocellata (Flot.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 172 (1911)
+Syst. lich. germ. (Breslau) 224 (1855)
 
 #### Original name
-Lecidea ocellata * praeponens Nyl.
+Lecidea ocellata
 
 ### Remarks
 null

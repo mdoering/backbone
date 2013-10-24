@@ -1,5 +1,4 @@
-Ammopemphix arctica (Cushman, 1933) SPECIES
-=======
+# Ammopemphix arctica (Cushman, 1933) SPECIES
 
 #### Status
 ACCEPTED

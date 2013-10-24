@@ -1,5 +1,4 @@
-Mycena banksiae Cleland & Cheel SPECIES
-=======
+# Mycena banksiae Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

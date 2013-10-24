@@ -1,5 +1,4 @@
-Ustilago holwayi Dietel SPECIES
-=======
+# Ustilago holwayi Dietel SPECIES
 
 #### Status
 ACCEPTED

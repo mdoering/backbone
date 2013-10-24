@@ -1,5 +1,4 @@
-Ustilago sabouriana Mishra SPECIES
-=======
+# Ustilago sabouriana Mishra SPECIES
 
 #### Status
 ACCEPTED

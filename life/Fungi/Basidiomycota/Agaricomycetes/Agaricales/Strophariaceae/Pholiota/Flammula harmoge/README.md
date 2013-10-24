@@ -1,5 +1,4 @@
-Flammula harmoge Fr. SPECIES
-=======
+# Flammula harmoge Fr. SPECIES
 
 #### Status
 ACCEPTED

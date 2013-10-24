@@ -1,5 +1,4 @@
-Inocybe ovoidea Takah. Kobay. SPECIES
-=======
+# Inocybe ovoidea Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

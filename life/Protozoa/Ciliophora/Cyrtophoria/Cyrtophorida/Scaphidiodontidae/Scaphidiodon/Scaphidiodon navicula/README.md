@@ -1,5 +1,4 @@
-Scaphidiodon navicula (Müller, 1786) Stein, 1859 SPECIES
-=======
+# Scaphidiodon navicula (Müller, 1786) Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

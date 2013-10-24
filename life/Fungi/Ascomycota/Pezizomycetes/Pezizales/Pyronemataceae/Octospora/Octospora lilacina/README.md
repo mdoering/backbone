@@ -1,5 +1,4 @@
-Octospora lilacina (Seaver) Svrcek & Kubicka SPECIES
-=======
+# Octospora lilacina (Seaver) Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

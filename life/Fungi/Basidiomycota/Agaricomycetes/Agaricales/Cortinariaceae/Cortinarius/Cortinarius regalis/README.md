@@ -1,5 +1,4 @@
-Cortinarius regalis A.H. Sm. & P.M. Rea SPECIES
-=======
+# Cortinarius regalis A.H. Sm. & P.M. Rea SPECIES
 
 #### Status
 ACCEPTED

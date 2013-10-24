@@ -1,5 +1,4 @@
-Naucoria miserrima P. Karst. SPECIES
-=======
+# Naucoria miserrima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

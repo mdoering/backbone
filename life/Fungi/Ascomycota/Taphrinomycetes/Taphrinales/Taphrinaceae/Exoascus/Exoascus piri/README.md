@@ -1,5 +1,4 @@
-Exoascus piri (Kusano) Sacc. & Trotter SPECIES
-=======
+# Exoascus piri (Kusano) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

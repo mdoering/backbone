@@ -1,5 +1,4 @@
-Omphalia ralumensis Henn. SPECIES
-=======
+# Omphalia ralumensis Henn. SPECIES
 
 #### Status
 ACCEPTED

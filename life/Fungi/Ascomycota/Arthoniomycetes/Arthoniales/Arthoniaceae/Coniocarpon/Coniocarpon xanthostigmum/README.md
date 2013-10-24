@@ -1,5 +1,4 @@
-Coniocarpon xanthostigmum SPECIES
-=======
+# Coniocarpon xanthostigmum SPECIES
 
 #### Status
 ACCEPTED

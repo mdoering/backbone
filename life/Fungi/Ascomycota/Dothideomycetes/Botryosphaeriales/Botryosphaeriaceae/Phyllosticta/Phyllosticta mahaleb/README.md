@@ -1,5 +1,4 @@
-Phyllosticta mahaleb Pass. SPECIES
-=======
+# Phyllosticta mahaleb Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium obscurum Corda SPECIES
-=======
+# Helicosporium obscurum Corda SPECIES
 
 #### Status
 ACCEPTED

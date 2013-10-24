@@ -1,14 +1,13 @@
-Didymaria helvellae Corda, 1854 SPECIES
-=======
+# Didymopsis helvellae (Corda) Sacc. & Marchal, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Abellini) 6: 8 (1854)
+null
 
 #### Original name
 Didymaria helvellae Corda, 1854

@@ -1,5 +1,4 @@
-Glomodiscus Malakhova, 1973 GENUS
-=======
+# Glomodiscus Malakhova, 1973 GENUS
 
 #### Status
 ACCEPTED

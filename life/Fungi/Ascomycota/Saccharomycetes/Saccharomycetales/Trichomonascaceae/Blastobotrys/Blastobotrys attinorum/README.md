@@ -1,17 +1,16 @@
-Sympodiomyces attinorum Carreiro, Pagnocca, C.A. Rosa & Lachance, 2004 SPECIES
-=======
+# Blastobotrys attinorum (Carreiro, Pagnocca, C.A. Rosa & Lachance) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 7(1): 149 (2007)
 
 #### Original name
-null
+Sympodiomyces attinorum Carreiro, Pagnocca, C.A. Rosa & Lachance, 2004
 
 ### Remarks
 null

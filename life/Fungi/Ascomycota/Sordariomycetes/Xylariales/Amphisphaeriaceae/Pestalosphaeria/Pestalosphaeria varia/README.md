@@ -1,5 +1,4 @@
-Pestalosphaeria varia Nag Raj SPECIES
-=======
+# Pestalosphaeria varia Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cardamines Allesch. SPECIES
-=======
+# Phyllosticta cardamines Allesch. SPECIES
 
 #### Status
 ACCEPTED

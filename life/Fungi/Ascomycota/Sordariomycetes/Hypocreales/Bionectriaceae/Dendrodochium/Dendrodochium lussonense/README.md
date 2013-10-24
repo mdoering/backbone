@@ -1,17 +1,16 @@
-Dendrodochium lussoniense Sacc. SPECIES
-=======
+# Dendrodochium lussonense Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 12(3): 312 (1914)
 
 #### Original name
-Dendrodochium lussoniense Sacc.
+Dendrodochium lussonense Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Candelaria subsimilis (Th. Fr.) Müll. Arg. SPECIES
-=======
+# Candelaria subsimilis (Th. Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium hospitans Th. Fr. SPECIES
-=======
+# Calicium hospitans Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

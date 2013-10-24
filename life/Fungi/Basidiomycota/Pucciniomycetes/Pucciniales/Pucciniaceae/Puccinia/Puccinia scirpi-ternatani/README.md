@@ -1,5 +1,4 @@
-Puccinia scirpi-ternatani Hirats. f. SPECIES
-=======
+# Puccinia scirpi-ternatani Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

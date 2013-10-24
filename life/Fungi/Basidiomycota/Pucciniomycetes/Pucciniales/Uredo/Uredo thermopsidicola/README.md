@@ -1,5 +1,4 @@
-Uredo thermopsidicola Hirats. SPECIES
-=======
+# Uredo thermopsidicola Hirats. SPECIES
 
 #### Status
 ACCEPTED

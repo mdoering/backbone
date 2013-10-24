@@ -1,5 +1,4 @@
-Nectria behnickiana Henn. SPECIES
-=======
+# Nectria behnickiana Henn. SPECIES
 
 #### Status
 ACCEPTED

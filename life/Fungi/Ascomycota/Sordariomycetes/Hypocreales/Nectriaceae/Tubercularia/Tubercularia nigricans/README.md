@@ -1,5 +1,4 @@
-Tubercularia nigricans (Bull.) Link, 1825 SPECIES
-=======
+# Tubercularia nigricans (Bull.) Link, 1825 SPECIES
 
 #### Status
 ACCEPTED

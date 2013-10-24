@@ -1,5 +1,4 @@
-Lenzites muelleri (Berk. ex Cooke) Lloyd SPECIES
-=======
+# Lenzites muelleri (Berk. ex Cooke) Lloyd SPECIES
 
 #### Status
 ACCEPTED

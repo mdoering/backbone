@@ -1,5 +1,4 @@
-Agaricus eriophorus Berk. SPECIES
-=======
+# Agaricus eriophorus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oceanobacillus profundus Kim, Choi, Hyun & Cho, 2007 SPECIES
-=======
+# Oceanobacillus profundus Kim, Choi, Hyun & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

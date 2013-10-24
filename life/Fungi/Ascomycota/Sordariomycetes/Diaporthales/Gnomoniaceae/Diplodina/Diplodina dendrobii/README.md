@@ -1,5 +1,4 @@
-Diplodina dendrobii Cooke & Massee SPECIES
-=======
+# Diplodina dendrobii Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

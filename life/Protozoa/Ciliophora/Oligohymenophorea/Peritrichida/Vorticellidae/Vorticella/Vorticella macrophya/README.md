@@ -1,5 +1,4 @@
-Vorticella macrophya Stokes, 1885 SPECIES
-=======
+# Vorticella macrophya Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

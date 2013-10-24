@@ -1,5 +1,4 @@
-Paraplacodium inflatum (Ach.) Motyka SPECIES
-=======
+# Paraplacodium inflatum (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

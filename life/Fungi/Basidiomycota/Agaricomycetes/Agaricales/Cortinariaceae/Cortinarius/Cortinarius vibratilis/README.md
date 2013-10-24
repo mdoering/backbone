@@ -1,17 +1,16 @@
-Cortinarius vibratilis var. vibratilis VARIETY
-=======
+# Cortinarius vibratilis (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 277 (1838)
 
 #### Original name
-Cortinarius vibratilis var. vibratilis
+Agaricus vibratilis Fr., 1821
 
 ### Remarks
 null

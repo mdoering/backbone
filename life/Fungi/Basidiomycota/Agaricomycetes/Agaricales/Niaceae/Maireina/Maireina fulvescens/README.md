@@ -1,5 +1,4 @@
-Maireina fulvescens (Bourdot & Galzin) W.B. Cooke SPECIES
-=======
+# Maireina fulvescens (Bourdot & Galzin) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

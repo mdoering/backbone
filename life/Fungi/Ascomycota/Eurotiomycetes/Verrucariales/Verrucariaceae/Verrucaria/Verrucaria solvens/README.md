@@ -1,5 +1,4 @@
-Verrucaria solvens (Anzi) Stizenb. SPECIES
-=======
+# Verrucaria solvens (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

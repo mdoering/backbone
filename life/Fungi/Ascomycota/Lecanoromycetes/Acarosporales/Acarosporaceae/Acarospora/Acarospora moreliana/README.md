@@ -1,5 +1,4 @@
-Acarospora moreliana H. Magn. SPECIES
-=======
+# Acarospora moreliana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

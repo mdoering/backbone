@@ -1,5 +1,4 @@
-Lepiota baraliana Raithelh. SPECIES
-=======
+# Lepiota baraliana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

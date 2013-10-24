@@ -1,5 +1,4 @@
-Scindalma kamphoeveneri (Fr.) Kuntze SPECIES
-=======
+# Scindalma kamphoeveneri (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

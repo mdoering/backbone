@@ -1,14 +1,13 @@
-Pleospora chartarum Fuckel, 1870 SPECIES
-=======
+# Platysporoides chartarum (Fuckel) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 133 (1870)
+Can. J. Bot. 70(8): 1650 (1992)
 
 #### Original name
 Pleospora chartarum Fuckel, 1870

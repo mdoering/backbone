@@ -1,5 +1,4 @@
-Hymenochaete contiformis G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete contiformis G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

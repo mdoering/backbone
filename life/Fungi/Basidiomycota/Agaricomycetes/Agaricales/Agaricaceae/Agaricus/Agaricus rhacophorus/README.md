@@ -1,5 +1,4 @@
-Agaricus rhacophorus Berk. & Broome SPECIES
-=======
+# Agaricus rhacophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

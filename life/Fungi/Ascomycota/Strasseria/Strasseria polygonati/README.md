@@ -1,5 +1,4 @@
-Strasseria polygonati Sousa da Câmara & Luz SPECIES
-=======
+# Strasseria polygonati Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

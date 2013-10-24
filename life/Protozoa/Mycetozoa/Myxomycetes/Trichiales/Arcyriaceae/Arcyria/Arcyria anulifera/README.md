@@ -1,5 +1,4 @@
-Arcyria anulifera Torrend SPECIES
-=======
+# Arcyria anulifera Torrend SPECIES
 
 #### Status
 ACCEPTED

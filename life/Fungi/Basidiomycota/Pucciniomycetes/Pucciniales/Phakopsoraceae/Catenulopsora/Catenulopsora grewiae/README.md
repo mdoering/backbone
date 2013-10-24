@@ -1,5 +1,4 @@
-Catenulopsora grewiae Mundk. & Thirum. SPECIES
-=======
+# Catenulopsora grewiae Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

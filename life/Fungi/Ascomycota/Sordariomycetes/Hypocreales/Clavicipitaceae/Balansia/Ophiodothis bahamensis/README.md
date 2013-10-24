@@ -1,5 +1,4 @@
-Ophiodothis bahamensis Seaver SPECIES
-=======
+# Ophiodothis bahamensis Seaver SPECIES
 
 #### Status
 ACCEPTED

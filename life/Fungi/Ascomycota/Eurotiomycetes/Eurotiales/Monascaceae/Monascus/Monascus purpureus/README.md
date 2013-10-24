@@ -1,17 +1,16 @@
-Monascus anka var. anka VARIETY
-=======
+# Monascus purpureus Went, 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the Agricultural Chemical Society of Japan 12: 583 (1936)
+Annls Sci. Nat. , Bot. , sér. 8 (1895)
 
 #### Original name
-Monascus anka var. anka
+Monascus purpureus Went, 1895
 
 ### Remarks
 null

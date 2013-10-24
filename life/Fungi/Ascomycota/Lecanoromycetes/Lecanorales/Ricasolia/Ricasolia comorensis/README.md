@@ -1,5 +1,4 @@
-Ricasolia comorensis Kremp. SPECIES
-=======
+# Ricasolia comorensis Kremp. SPECIES
 
 #### Status
 ACCEPTED

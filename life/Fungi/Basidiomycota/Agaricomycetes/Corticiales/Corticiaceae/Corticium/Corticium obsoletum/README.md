@@ -1,5 +1,4 @@
-Corticium obsoletum Litsch. SPECIES
-=======
+# Corticium obsoletum Litsch. SPECIES
 
 #### Status
 ACCEPTED

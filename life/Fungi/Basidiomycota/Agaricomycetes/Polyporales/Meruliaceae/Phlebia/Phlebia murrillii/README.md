@@ -1,5 +1,4 @@
-Phlebia murrillii W.B. Cooke, 1956 SPECIES
-=======
+# Phlebia murrillii W.B. Cooke, 1956 SPECIES
 
 #### Status
 ACCEPTED

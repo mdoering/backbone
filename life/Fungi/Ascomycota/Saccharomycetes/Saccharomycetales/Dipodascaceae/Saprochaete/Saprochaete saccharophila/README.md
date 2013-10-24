@@ -1,5 +1,4 @@
-Saprochaete saccharophila Coker & Shanor, 1939 SPECIES
-=======
+# Saprochaete saccharophila Coker & Shanor, 1939 SPECIES
 
 #### Status
 ACCEPTED

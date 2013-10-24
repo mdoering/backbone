@@ -1,5 +1,4 @@
-Cytonaema proteae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Cytonaema proteae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

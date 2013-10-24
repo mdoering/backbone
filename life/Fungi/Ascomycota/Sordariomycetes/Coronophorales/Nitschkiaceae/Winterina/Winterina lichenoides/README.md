@@ -1,5 +1,4 @@
-Winterina lichenoides (Rehm) Sacc. SPECIES
-=======
+# Winterina lichenoides (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraurostyla granulifera Berger & Foissner, 1989 SPECIES
-=======
+# Paraurostyla granulifera Berger & Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

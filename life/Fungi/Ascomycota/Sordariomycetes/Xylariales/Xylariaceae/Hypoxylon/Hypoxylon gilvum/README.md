@@ -1,5 +1,4 @@
-Hypoxylon gilvum (Jungh.) Sacc. SPECIES
-=======
+# Hypoxylon gilvum (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

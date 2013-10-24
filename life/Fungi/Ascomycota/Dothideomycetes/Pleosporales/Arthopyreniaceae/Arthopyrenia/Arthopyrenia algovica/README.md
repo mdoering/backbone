@@ -1,5 +1,4 @@
-Arthopyrenia algovica (Servít) Riedl SPECIES
-=======
+# Arthopyrenia algovica (Servít) Riedl SPECIES
 
 #### Status
 ACCEPTED

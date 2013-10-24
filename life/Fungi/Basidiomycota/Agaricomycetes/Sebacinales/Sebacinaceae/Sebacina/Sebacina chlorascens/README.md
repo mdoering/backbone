@@ -1,5 +1,4 @@
-Sebacina chlorascens Burt SPECIES
-=======
+# Sebacina chlorascens Burt SPECIES
 
 #### Status
 ACCEPTED

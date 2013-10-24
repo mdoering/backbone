@@ -1,5 +1,4 @@
-Lecania punicea var. punicea VARIETY
-=======
+# Lecania punicea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochordaria W.A. Setchell & N.L. Gardner, 1924 GENUS
-=======
+# Heterochordaria W.A. Setchell & N.L. Gardner, 1924 GENUS
 
 #### Status
 ACCEPTED

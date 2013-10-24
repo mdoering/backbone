@@ -1,5 +1,4 @@
-Chaetosphaeria flavocompta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Chaetosphaeria flavocompta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

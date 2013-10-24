@@ -1,5 +1,4 @@
-Cystophora torulosa (R.Brown ex Turner) J. Agardh SPECIES
-=======
+# Cystophora torulosa (R.Brown ex Turner) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

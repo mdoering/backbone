@@ -1,5 +1,4 @@
-Aschersonia javanica Penz. & Sacc. SPECIES
-=======
+# Aschersonia javanica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

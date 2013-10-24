@@ -1,17 +1,16 @@
-Acanthostigma tilaki N.D. Sharma SPECIES
-=======
+# Acanthostigma tilakii N.D. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Bot. Indica 8(1): 110 (1980)
 
 #### Original name
-Acanthostigma tilaki N.D. Sharma
+Acanthostigma tilakii N.D. Sharma
 
 ### Remarks
 null

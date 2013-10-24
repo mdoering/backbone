@@ -1,5 +1,4 @@
-Lepiota roseolanata Huijsman SPECIES
-=======
+# Lepiota roseolanata Huijsman SPECIES
 
 #### Status
 ACCEPTED

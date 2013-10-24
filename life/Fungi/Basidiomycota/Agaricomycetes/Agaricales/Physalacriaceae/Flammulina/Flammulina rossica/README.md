@@ -1,5 +1,4 @@
-Flammulina rossica Redhead & R.H. Petersen SPECIES
-=======
+# Flammulina rossica Redhead & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

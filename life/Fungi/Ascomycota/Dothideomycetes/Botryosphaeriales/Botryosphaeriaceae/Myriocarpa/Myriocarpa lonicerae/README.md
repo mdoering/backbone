@@ -1,5 +1,4 @@
-Myriocarpa lonicerae Fuckel SPECIES
-=======
+# Myriocarpa lonicerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

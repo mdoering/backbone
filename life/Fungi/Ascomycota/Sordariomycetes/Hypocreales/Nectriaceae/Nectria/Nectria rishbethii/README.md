@@ -1,5 +1,4 @@
-Nectria rishbethii C. Booth, 1959 SPECIES
-=======
+# Nectria rishbethii C. Booth, 1959 SPECIES
 
 #### Status
 ACCEPTED

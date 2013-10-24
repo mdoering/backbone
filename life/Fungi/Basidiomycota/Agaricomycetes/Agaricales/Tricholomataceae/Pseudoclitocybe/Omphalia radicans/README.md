@@ -1,5 +1,4 @@
-Omphalia radicans Maire SPECIES
-=======
+# Omphalia radicans Maire SPECIES
 
 #### Status
 ACCEPTED

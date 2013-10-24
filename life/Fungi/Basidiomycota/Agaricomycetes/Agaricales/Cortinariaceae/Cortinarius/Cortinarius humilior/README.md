@@ -1,5 +1,4 @@
-Cortinarius humilior Rob. Henry SPECIES
-=======
+# Cortinarius humilior Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

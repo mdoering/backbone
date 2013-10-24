@@ -1,5 +1,4 @@
-Pleurotus incarnatus Hongo, 1973 SPECIES
-=======
+# Pleurotus incarnatus Hongo, 1973 SPECIES
 
 #### Status
 ACCEPTED

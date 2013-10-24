@@ -1,5 +1,4 @@
-Puccinia senecionis-acutiformis Hasler, Mayor & Cruchet SPECIES
-=======
+# Puccinia senecionis-acutiformis Hasler, Mayor & Cruchet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Irpex tanakae (Nohara) Sacc. & Traverso, 1910 SPECIES
-=======
+# Irpiciporus tanakae Nohara, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 1(4): 167 (1909)
 
 #### Original name
-null
+Irpiciporus tanakae Nohara, 1910
 
 ### Remarks
 null

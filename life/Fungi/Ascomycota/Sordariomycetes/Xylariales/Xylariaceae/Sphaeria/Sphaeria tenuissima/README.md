@@ -1,5 +1,4 @@
-Sphaeria tenuissima var. tenuissima VARIETY
-=======
+# Sphaeria tenuissima Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Amer. Philos. Soc. 4(2): 221 (1832)
 
 #### Original name
-Sphaeria tenuissima var. tenuissima
+Sphaeria tenuissima Schwein.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rosellinia arcuata Petch, 1916 SPECIES
-=======
+# Rosellinia arcuata Petch, 1916 SPECIES
 
 #### Status
 ACCEPTED

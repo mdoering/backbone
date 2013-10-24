@@ -1,5 +1,4 @@
-Pleomerium Speg. GENUS
-=======
+# Pleomerium Speg. GENUS
 
 #### Status
 ACCEPTED

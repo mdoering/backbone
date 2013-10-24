@@ -1,5 +1,4 @@
-Biatora aurantiaca (Lightf.) Fr. SPECIES
-=======
+# Biatora aurantiaca (Lightf.) Fr. SPECIES
 
 #### Status
 ACCEPTED

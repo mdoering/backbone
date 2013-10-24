@@ -1,5 +1,4 @@
-Lecidea conisalea C. Knight SPECIES
-=======
+# Lecidea conisalea C. Knight SPECIES
 
 #### Status
 ACCEPTED

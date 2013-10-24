@@ -1,5 +1,4 @@
-Diderma imperialis Emoto SPECIES
-=======
+# Diderma imperialis Emoto SPECIES
 
 #### Status
 ACCEPTED

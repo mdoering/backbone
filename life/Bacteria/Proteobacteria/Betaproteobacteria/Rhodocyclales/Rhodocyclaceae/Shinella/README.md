@@ -1,5 +1,4 @@
-Shinella An, Im, Yang & Lee, 2006 GENUS
-=======
+# Shinella An, Im, Yang & Lee, 2006 GENUS
 
 #### Status
 ACCEPTED

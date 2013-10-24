@@ -1,5 +1,4 @@
-Caloplaca puzenati Werner SPECIES
-=======
+# Caloplaca puzenati Werner SPECIES
 
 #### Status
 ACCEPTED

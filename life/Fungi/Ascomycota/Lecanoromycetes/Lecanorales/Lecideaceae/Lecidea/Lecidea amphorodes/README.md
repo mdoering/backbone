@@ -1,5 +1,4 @@
-Lecidea amphorodes Stirt. SPECIES
-=======
+# Lecidea amphorodes Stirt. SPECIES
 
 #### Status
 ACCEPTED

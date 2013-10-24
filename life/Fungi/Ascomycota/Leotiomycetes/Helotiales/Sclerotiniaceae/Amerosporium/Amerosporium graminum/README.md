@@ -1,5 +1,4 @@
-Amerosporium graminum Died. SPECIES
-=======
+# Amerosporium graminum Died. SPECIES
 
 #### Status
 ACCEPTED

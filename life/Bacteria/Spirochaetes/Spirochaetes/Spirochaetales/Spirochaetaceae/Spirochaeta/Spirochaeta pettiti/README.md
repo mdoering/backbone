@@ -1,5 +1,4 @@
-Spirochaeta pettiti SPECIES
-=======
+# Spirochaeta pettiti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyrium japonicum Hino {?} & Hidaka SPECIES
-=======
+# Phragmothyrium japonicum Hino {?} & Hidaka SPECIES
 
 #### Status
 ACCEPTED

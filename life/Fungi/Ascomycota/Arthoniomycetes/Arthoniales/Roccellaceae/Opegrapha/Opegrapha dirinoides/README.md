@@ -1,5 +1,4 @@
-Opegrapha dirinoides Nyl. SPECIES
-=======
+# Opegrapha dirinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

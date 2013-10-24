@@ -1,5 +1,4 @@
-Pseudogavelinella Woloshyna, 1981 GENUS
-=======
+# Pseudogavelinella Woloshyna, 1981 GENUS
 
 #### Status
 ACCEPTED

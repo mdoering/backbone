@@ -1,5 +1,4 @@
-Allantophomopsis Petr. GENUS
-=======
+# Allantophomopsis Petr. GENUS
 
 #### Status
 ACCEPTED

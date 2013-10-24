@@ -1,5 +1,4 @@
-Mycospongia Velen. GENUS
-=======
+# Mycospongia Velen. GENUS
 
 #### Status
 ACCEPTED

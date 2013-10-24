@@ -1,5 +1,4 @@
-Geothermobacter Kashefi et al., 2005 GENUS
-=======
+# Geothermobacter Kashefi et al., 2005 GENUS
 
 #### Status
 ACCEPTED

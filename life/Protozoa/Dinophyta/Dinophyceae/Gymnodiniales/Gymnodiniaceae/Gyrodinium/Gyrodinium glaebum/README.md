@@ -1,5 +1,4 @@
-Gyrodinium glaebum Hulburt, 1957 SPECIES
-=======
+# Gyrodinium glaebum Hulburt, 1957 SPECIES
 
 #### Status
 ACCEPTED

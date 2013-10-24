@@ -1,5 +1,4 @@
-Trypethelium subvariatum Nyl. SPECIES
-=======
+# Trypethelium subvariatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

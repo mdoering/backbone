@@ -1,5 +1,4 @@
-Coryneum dovyalidis Van der Byl SPECIES
-=======
+# Coryneum dovyalidis Van der Byl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Misturatosphaeria cruciformis Mugambi & Huhndorf, 2009 SPECIES
-=======
+# Misturatosphaeria cruciformis Mugambi & Huhndorf, 2009 SPECIES
 
 #### Status
 ACCEPTED

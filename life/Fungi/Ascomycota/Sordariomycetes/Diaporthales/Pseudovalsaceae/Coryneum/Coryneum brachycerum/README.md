@@ -1,5 +1,4 @@
-Coryneum brachycerum Lam. SPECIES
-=======
+# Coryneum brachycerum Lam. SPECIES
 
 #### Status
 ACCEPTED

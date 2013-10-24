@@ -1,5 +1,4 @@
-Calocera minor Holterm. SPECIES
-=======
+# Calocera minor Holterm. SPECIES
 
 #### Status
 ACCEPTED

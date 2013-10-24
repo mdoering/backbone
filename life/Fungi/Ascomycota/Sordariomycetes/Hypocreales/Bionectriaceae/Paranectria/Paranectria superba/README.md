@@ -1,5 +1,4 @@
-Paranectria superba D. Hawksw., 1982 SPECIES
-=======
+# Paranectria superba D. Hawksw., 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces bomareae Henn. SPECIES
-=======
+# Uromyces bomareae Henn. SPECIES
 
 #### Status
 ACCEPTED

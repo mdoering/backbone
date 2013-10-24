@@ -1,5 +1,4 @@
-Candidatus-Phytoplasma GENUS
-=======
+# Candidatus-Phytoplasma GENUS
 
 #### Status
 ACCEPTED

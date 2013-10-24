@@ -1,5 +1,4 @@
-Teichospora biceps (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
-=======
+# Teichospora biceps (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
 
 #### Status
 ACCEPTED

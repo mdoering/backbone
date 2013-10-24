@@ -1,5 +1,4 @@
-Isaria perpusilla Speg. SPECIES
-=======
+# Isaria perpusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

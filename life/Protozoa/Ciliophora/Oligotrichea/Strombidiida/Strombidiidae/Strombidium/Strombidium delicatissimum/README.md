@@ -1,5 +1,4 @@
-Strombidium delicatissimum Leegaard, ? SPECIES
-=======
+# Strombidium delicatissimum Leegaard, ? SPECIES
 
 #### Status
 ACCEPTED

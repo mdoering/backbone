@@ -1,5 +1,4 @@
-Naviculopsis aspera (P. Schulz) K. Perch-Nielsen SPECIES
-=======
+# Naviculopsis aspera (P. Schulz) K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

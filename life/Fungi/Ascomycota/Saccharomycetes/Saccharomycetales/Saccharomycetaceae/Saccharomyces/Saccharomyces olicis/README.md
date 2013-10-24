@@ -1,5 +1,4 @@
-Saccharomyces olicis Grønlund SPECIES
-=======
+# Saccharomyces olicis Grønlund SPECIES
 
 #### Status
 ACCEPTED

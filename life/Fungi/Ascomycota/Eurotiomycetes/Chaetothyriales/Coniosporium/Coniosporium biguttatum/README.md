@@ -1,5 +1,4 @@
-Coniosporium biguttatum (Corda) Sacc. SPECIES
-=======
+# Coniosporium biguttatum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

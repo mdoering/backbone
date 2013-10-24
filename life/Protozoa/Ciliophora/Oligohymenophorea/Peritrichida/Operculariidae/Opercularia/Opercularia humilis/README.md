@@ -1,5 +1,4 @@
-Opercularia humilis Kellicott, 1887 SPECIES
-=======
+# Opercularia humilis Kellicott, 1887 SPECIES
 
 #### Status
 ACCEPTED

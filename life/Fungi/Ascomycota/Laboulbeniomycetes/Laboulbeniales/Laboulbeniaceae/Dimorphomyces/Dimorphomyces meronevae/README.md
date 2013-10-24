@@ -1,5 +1,4 @@
-Dimorphomyces meronevae Thaxt. SPECIES
-=======
+# Dimorphomyces meronevae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plenodomus labiatarum Petr. SPECIES
-=======
+# Plenodomus labiatarum Petr. SPECIES
 
 #### Status
 ACCEPTED

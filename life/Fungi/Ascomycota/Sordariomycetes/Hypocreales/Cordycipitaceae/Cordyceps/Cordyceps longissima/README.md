@@ -1,5 +1,4 @@
-Cordyceps longissima Kobayasi SPECIES
-=======
+# Cordyceps longissima Kobayasi SPECIES
 
 #### Status
 ACCEPTED

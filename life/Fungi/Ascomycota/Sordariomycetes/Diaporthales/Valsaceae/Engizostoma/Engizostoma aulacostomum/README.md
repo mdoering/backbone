@@ -1,5 +1,4 @@
-Engizostoma aulacostomum (Kunze & Fr.) Kuntze SPECIES
-=======
+# Engizostoma aulacostomum (Kunze & Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

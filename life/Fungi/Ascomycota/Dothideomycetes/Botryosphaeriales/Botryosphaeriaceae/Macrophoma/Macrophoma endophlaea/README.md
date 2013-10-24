@@ -1,5 +1,4 @@
-Macrophoma endophlaea (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma endophlaea (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

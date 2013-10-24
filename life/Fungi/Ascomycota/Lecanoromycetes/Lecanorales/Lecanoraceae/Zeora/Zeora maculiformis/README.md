@@ -1,5 +1,4 @@
-Zeora maculiformis (Hoffm.) Trevis. SPECIES
-=======
+# Zeora maculiformis (Hoffm.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoklossia glomerata Léger & Duboscq, 1915 SPECIES
-=======
+# Pseudoklossia glomerata Léger & Duboscq, 1915 SPECIES
 
 #### Status
 ACCEPTED

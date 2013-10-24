@@ -1,5 +1,4 @@
-Daedalea corrugata Berk. SPECIES
-=======
+# Daedalea corrugata Berk. SPECIES
 
 #### Status
 ACCEPTED

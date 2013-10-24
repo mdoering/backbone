@@ -1,5 +1,4 @@
-Leptonia camelina Lasch SPECIES
-=======
+# Leptonia camelina Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria gaurae Speg. SPECIES
-=======
+# Septoria gaurae Speg. SPECIES
 
 #### Status
 ACCEPTED

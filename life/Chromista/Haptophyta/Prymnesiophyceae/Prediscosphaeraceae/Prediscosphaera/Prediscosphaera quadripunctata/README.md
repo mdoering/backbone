@@ -1,5 +1,4 @@
-Prediscosphaera quadripunctata (Gorka, 1957) Reinhardt, 1970 SPECIES
-=======
+# Prediscosphaera quadripunctata (Gorka, 1957) Reinhardt, 1970 SPECIES
 
 #### Status
 ACCEPTED

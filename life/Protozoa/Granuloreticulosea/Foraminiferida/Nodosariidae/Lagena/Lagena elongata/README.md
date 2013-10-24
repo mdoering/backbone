@@ -1,5 +1,4 @@
-Lagena elongata SPECIES
-=======
+# Lagena elongata SPECIES
 
 #### Status
 ACCEPTED

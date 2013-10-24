@@ -1,5 +1,4 @@
-Boletus carpinicola Pilát SPECIES
-=======
+# Boletus carpinicola Pilát SPECIES
 
 #### Status
 ACCEPTED

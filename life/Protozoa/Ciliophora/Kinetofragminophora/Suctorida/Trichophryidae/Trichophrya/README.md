@@ -1,5 +1,4 @@
-Trichophrya Claparède & Lachmann, 1859 GENUS
-=======
+# Trichophrya Claparède & Lachmann, 1859 GENUS
 
 #### Status
 ACCEPTED

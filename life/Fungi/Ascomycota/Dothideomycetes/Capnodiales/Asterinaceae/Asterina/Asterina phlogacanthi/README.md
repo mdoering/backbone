@@ -1,17 +1,16 @@
-Asterina phloganthae A.K. Kar & S.N. Ghosh SPECIES
-=======
+# Asterina phlogacanthi A.K. Kar & S.N. Ghosh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 39(2): 211 (1987)
 
 #### Original name
-Asterina phloganthae A.K. Kar & S.N. Ghosh
+Asterina phlogacanthi A.K. Kar & S.N. Ghosh
 
 ### Remarks
 null

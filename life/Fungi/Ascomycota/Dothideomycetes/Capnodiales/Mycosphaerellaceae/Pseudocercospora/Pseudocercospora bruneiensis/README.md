@@ -1,5 +1,4 @@
-Pseudocercospora bruneiensis U. Braun & Sivap. SPECIES
-=======
+# Pseudocercospora bruneiensis U. Braun & Sivap. SPECIES
 
 #### Status
 ACCEPTED

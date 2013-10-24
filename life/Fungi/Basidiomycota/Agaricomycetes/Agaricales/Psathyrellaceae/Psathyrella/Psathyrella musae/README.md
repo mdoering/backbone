@@ -1,5 +1,4 @@
-Psathyrella musae (Earle) A.H. Sm. SPECIES
-=======
+# Psathyrella musae (Earle) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia imbricata S. Hammer SPECIES
-=======
+# Cladonia imbricata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

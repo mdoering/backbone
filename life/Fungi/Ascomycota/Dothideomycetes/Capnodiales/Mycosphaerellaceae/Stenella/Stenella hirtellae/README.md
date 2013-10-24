@@ -1,5 +1,4 @@
-Stenella hirtellae U. Braun & F.O. Freire SPECIES
-=======
+# Stenella hirtellae U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia underwoodii (Dennis) Largent SPECIES
-=======
+# Leptonia underwoodii (Dennis) Largent SPECIES
 
 #### Status
 ACCEPTED

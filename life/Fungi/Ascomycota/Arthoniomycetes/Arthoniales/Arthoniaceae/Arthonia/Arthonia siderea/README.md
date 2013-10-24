@@ -1,5 +1,4 @@
-Arthonia siderea Degel. SPECIES
-=======
+# Arthonia siderea Degel. SPECIES
 
 #### Status
 ACCEPTED

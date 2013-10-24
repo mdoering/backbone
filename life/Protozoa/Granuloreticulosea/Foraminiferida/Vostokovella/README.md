@@ -1,5 +1,4 @@
-Vostokovella Pronina, 1972 GENUS
-=======
+# Vostokovella Pronina, 1972 GENUS
 
 #### Status
 ACCEPTED

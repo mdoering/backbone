@@ -1,5 +1,4 @@
-Tianshanella Da GENUS
-=======
+# Tianshanella Da GENUS
 
 #### Status
 ACCEPTED

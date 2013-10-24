@@ -1,5 +1,4 @@
-Cryptosporiopsis aucubicola (Sacc.) Aa SPECIES
-=======
+# Cryptosporiopsis aucubicola (Sacc.) Aa SPECIES
 
 #### Status
 ACCEPTED

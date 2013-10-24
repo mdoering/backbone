@@ -1,5 +1,4 @@
-Amphisphaeria schulzeri Sacc. & Traverso SPECIES
-=======
+# Amphisphaeria schulzeri Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

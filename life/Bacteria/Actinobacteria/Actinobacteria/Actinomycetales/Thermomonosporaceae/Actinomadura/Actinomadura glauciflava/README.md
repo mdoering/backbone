@@ -1,5 +1,4 @@
-Actinomadura glauciflava Lu et al., 2003 SPECIES
-=======
+# Actinomadura glauciflava Lu et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

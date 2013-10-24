@@ -1,8 +1,7 @@
-Textularia ensis Vella, 1957 SPECIES
-=======
+# Spiroplectinella proxispira (Vella, 1957) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

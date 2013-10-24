@@ -1,14 +1,13 @@
-Bagnisiopsis andicola Petr., 1950 SPECIES
-=======
+# Coccodiella andicola (Petr.) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 461 (1950)
+J. Jap. Bot. 43: 281 (1968)
 
 #### Original name
 Bagnisiopsis andicola Petr., 1950

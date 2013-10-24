@@ -1,5 +1,4 @@
-Helminthosporium cleostomatis SPECIES
-=======
+# Helminthosporium cleostomatis SPECIES
 
 #### Status
 ACCEPTED

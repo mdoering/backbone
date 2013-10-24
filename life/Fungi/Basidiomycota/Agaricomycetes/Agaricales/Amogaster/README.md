@@ -1,5 +1,4 @@
-Amogaster Castellano GENUS
-=======
+# Amogaster Castellano GENUS
 
 #### Status
 ACCEPTED

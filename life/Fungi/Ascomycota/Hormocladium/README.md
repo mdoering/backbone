@@ -1,5 +1,4 @@
-Hormocladium Höhn. GENUS
-=======
+# Hormocladium Höhn. GENUS
 
 #### Status
 ACCEPTED

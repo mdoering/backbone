@@ -1,5 +1,4 @@
-Dermatocarpon bayerianum Servít SPECIES
-=======
+# Dermatocarpon bayerianum Servít SPECIES
 
 #### Status
 ACCEPTED

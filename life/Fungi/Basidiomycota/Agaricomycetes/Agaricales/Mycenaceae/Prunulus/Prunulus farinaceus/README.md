@@ -1,5 +1,4 @@
-Prunulus farinaceus Murrill SPECIES
-=======
+# Prunulus farinaceus Murrill SPECIES
 
 #### Status
 ACCEPTED

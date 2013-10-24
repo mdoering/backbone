@@ -1,5 +1,4 @@
-Placolecanora pachyphylla (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Placolecanora pachyphylla (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

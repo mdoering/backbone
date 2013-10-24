@@ -1,5 +1,4 @@
-Phaeomonas parva Honda, D. & Inouye, I. SPECIES
-=======
+# Phaeomonas parva Honda, D. & Inouye, I. SPECIES
 
 #### Status
 ACCEPTED

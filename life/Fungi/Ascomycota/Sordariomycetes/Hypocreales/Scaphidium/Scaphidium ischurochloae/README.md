@@ -1,5 +1,4 @@
-Scaphidium ischurochloae Sawada SPECIES
-=======
+# Scaphidium ischurochloae Sawada SPECIES
 
 #### Status
 ACCEPTED

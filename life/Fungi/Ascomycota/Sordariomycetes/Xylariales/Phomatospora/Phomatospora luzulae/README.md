@@ -1,5 +1,4 @@
-Phomatospora luzulae Cocc. & Morini SPECIES
-=======
+# Phomatospora luzulae Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED

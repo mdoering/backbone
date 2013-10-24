@@ -1,5 +1,4 @@
-Sistotrema cavinae Velen. SPECIES
-=======
+# Sistotrema cavinae Velen. SPECIES
 
 #### Status
 ACCEPTED

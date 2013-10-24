@@ -1,5 +1,4 @@
-Didymosphaeria rhytidosperma Speg. SPECIES
-=======
+# Didymosphaeria rhytidosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

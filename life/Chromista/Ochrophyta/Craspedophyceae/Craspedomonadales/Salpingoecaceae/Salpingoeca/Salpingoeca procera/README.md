@@ -1,5 +1,4 @@
-Salpingoeca procera Möbius SPECIES
-=======
+# Salpingoeca procera Möbius SPECIES
 
 #### Status
 ACCEPTED

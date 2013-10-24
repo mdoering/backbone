@@ -1,5 +1,4 @@
-Pomania Baudoin, 1967 GENUS
-=======
+# Pomania Baudoin, 1967 GENUS
 
 #### Status
 ACCEPTED

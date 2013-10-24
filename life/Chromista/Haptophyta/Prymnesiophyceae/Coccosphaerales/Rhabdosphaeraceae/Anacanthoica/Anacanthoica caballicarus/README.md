@@ -1,5 +1,4 @@
-Anacanthoica caballicarus J. Lecal SPECIES
-=======
+# Anacanthoica caballicarus J. Lecal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halbaniella portoricensis (Speg.) Toro SPECIES
-=======
+# Halbaniella portoricensis (Speg.) Toro SPECIES
 
 #### Status
 ACCEPTED

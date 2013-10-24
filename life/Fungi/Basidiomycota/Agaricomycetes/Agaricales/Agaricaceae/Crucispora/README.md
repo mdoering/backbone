@@ -1,5 +1,4 @@
-Crucispora E. Horak GENUS
-=======
+# Crucispora E. Horak GENUS
 
 #### Status
 ACCEPTED

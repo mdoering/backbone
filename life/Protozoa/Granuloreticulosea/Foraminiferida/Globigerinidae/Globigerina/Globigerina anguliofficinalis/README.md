@@ -1,5 +1,4 @@
-Globigerina anguliofficinalis SPECIES
-=======
+# Globigerina anguliofficinalis SPECIES
 
 #### Status
 ACCEPTED

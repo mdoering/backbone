@@ -1,5 +1,4 @@
-Misgomyces platensis (Speg.) Thaxt. SPECIES
-=======
+# Misgomyces platensis (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

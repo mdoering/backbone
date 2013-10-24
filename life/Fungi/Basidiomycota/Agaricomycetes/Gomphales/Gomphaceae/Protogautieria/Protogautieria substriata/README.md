@@ -1,5 +1,4 @@
-Protogautieria substriata Thiers, 1979 SPECIES
-=======
+# Protogautieria substriata Thiers, 1979 SPECIES
 
 #### Status
 ACCEPTED

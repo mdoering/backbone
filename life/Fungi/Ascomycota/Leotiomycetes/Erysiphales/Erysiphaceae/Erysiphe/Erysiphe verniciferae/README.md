@@ -1,5 +1,4 @@
-Erysiphe verniciferae (Henn.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe verniciferae (Henn.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

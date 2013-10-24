@@ -1,5 +1,4 @@
-Paraortonella O.Dragastan, 1985 GENUS
-=======
+# Paraortonella O.Dragastan, 1985 GENUS
 
 #### Status
 ACCEPTED

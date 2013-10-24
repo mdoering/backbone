@@ -1,5 +1,4 @@
-Asterella opulenta Henn. SPECIES
-=======
+# Asterella opulenta Henn. SPECIES
 
 #### Status
 ACCEPTED

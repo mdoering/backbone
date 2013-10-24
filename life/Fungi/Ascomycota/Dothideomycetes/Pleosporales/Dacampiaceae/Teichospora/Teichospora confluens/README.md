@@ -1,5 +1,4 @@
-Teichospora confluens Berl. SPECIES
-=======
+# Teichospora confluens Berl. SPECIES
 
 #### Status
 ACCEPTED

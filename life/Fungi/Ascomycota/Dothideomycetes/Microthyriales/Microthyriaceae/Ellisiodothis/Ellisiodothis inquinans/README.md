@@ -1,5 +1,4 @@
-Ellisiodothis inquinans (Ellis & Everh.) Theiss. SPECIES
-=======
+# Ellisiodothis inquinans (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe radicans Velen. SPECIES
-=======
+# Hydrocybe radicans Velen. SPECIES
 
 #### Status
 ACCEPTED

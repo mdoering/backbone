@@ -1,5 +1,4 @@
-Haplographites xylophagus Félix SPECIES
-=======
+# Haplographites xylophagus Félix SPECIES
 
 #### Status
 ACCEPTED

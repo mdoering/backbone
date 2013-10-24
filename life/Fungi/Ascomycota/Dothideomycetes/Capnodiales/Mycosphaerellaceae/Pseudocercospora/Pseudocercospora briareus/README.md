@@ -1,5 +1,4 @@
-Pseudocercospora briareus (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora briareus (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

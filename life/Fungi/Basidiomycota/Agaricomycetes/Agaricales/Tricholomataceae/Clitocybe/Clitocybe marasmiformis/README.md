@@ -1,5 +1,4 @@
-Clitocybe marasmiformis Velen. SPECIES
-=======
+# Clitocybe marasmiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

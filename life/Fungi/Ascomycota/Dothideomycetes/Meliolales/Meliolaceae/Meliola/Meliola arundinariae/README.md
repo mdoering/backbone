@@ -1,5 +1,4 @@
-Meliola arundinariae Mibey SPECIES
-=======
+# Meliola arundinariae Mibey SPECIES
 
 #### Status
 ACCEPTED

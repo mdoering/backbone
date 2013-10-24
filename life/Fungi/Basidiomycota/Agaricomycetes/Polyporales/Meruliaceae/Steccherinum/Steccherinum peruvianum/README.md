@@ -1,14 +1,13 @@
-Irpex peruvianus (Maas Geest.) Saaren. & Kotir., 2002 SPECIES
-=======
+# Steccherinum peruvianum Maas Geest., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kotiranta & Saarenoksa, Polish Botanical Journal 47(2): 106 (2002)
+Persoonia 9(4): 496 (1978)
 
 #### Original name
 Steccherinum peruvianum Maas Geest., 1978

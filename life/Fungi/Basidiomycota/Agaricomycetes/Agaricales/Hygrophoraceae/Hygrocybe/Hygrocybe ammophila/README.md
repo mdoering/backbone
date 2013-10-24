@@ -1,5 +1,4 @@
-Hygrocybe ammophila Singer SPECIES
-=======
+# Hygrocybe ammophila Singer SPECIES
 
 #### Status
 ACCEPTED

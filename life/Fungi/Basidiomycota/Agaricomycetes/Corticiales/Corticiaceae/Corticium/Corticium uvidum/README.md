@@ -1,5 +1,4 @@
-Corticium uvidum (Fr.) Fr. SPECIES
-=======
+# Corticium uvidum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

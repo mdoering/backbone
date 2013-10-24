@@ -1,11 +1,10 @@
-Cyanomonas baltica J.Büttner, 1911 SPECIES
-=======
+# Chroomonas baltica (J. Büttner) N. Carter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

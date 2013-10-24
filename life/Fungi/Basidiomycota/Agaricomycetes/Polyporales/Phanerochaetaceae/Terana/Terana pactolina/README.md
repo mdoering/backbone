@@ -1,5 +1,4 @@
-Terana pactolina (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Terana pactolina (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia scorodoniae Link, 1825 SPECIES
-=======
+# Puccinia annularis (F. Strauss) G. Winter, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Willd. Sp. Plant. 6(2): 72 (1825)
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(1): 165 (1881)
 
 #### Original name
-Puccinia scorodoniae Link, 1825
+Uredo annularis F. Strauss, 1810
 
 ### Remarks
 null

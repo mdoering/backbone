@@ -1,5 +1,4 @@
-Rinodina pachnea SPECIES
-=======
+# Rinodina pachnea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium ethiopicum C.W. Dodge SPECIES
-=======
+# Leptogium ethiopicum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

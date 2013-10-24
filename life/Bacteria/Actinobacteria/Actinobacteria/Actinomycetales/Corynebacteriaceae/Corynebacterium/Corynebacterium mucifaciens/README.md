@@ -1,5 +1,4 @@
-Corynebacterium mucifaciens Funke et al., 1997 SPECIES
-=======
+# Corynebacterium mucifaciens Funke et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

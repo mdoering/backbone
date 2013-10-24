@@ -1,5 +1,4 @@
-Uredo tarchonanthi Mennicken & Oberw. SPECIES
-=======
+# Uredo tarchonanthi Mennicken & Oberw. SPECIES
 
 #### Status
 ACCEPTED

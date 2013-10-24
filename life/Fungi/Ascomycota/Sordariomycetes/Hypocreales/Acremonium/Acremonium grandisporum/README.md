@@ -1,5 +1,4 @@
-Acremonium grandisporum Matsush., 1993 SPECIES
-=======
+# Acremonium grandisporum Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

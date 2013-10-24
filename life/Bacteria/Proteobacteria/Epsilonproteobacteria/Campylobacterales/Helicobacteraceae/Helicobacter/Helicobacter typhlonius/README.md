@@ -1,5 +1,4 @@
-Helicobacter typhlonius Franklin et al., 2002 SPECIES
-=======
+# Helicobacter typhlonius Franklin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

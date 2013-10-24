@@ -1,5 +1,4 @@
-Cornutostilbe medusa Seifert, 1990 SPECIES
-=======
+# Cornutostilbe medusa Seifert, 1990 SPECIES
 
 #### Status
 ACCEPTED

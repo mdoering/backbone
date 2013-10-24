@@ -1,5 +1,4 @@
-Corynesporella superioramifera Matsush. SPECIES
-=======
+# Corynesporella superioramifera Matsush. SPECIES
 
 #### Status
 ACCEPTED

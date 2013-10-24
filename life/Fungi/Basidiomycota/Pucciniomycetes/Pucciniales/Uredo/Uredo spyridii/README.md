@@ -1,5 +1,4 @@
-Uredo spyridii Cooke & Massee, 1887 SPECIES
-=======
+# Uredo spyridii Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED

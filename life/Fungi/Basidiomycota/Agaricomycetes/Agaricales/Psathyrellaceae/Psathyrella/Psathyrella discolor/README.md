@@ -1,5 +1,4 @@
-Psathyrella discolor Berk. SPECIES
-=======
+# Psathyrella discolor Berk. SPECIES
 
 #### Status
 ACCEPTED

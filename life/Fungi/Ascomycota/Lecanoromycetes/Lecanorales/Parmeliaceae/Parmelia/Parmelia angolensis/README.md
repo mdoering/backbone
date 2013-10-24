@@ -1,5 +1,4 @@
-Parmelia angolensis (Vain.) C.W. Dodge SPECIES
-=======
+# Parmelia angolensis (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

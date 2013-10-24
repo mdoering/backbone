@@ -1,5 +1,4 @@
-Arcyria cincta Schumach. SPECIES
-=======
+# Arcyria cincta Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kribbella antibiotica Li et al., 2004 SPECIES
-=======
+# Kribbella antibiotica Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

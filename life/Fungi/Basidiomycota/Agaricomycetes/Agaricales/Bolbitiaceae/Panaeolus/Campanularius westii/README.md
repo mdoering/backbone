@@ -1,5 +1,4 @@
-Campanularius westii Murrill SPECIES
-=======
+# Campanularius westii Murrill SPECIES
 
 #### Status
 ACCEPTED

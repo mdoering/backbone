@@ -1,5 +1,4 @@
-Opercularia beebei SPECIES
-=======
+# Opercularia beebei SPECIES
 
 #### Status
 ACCEPTED

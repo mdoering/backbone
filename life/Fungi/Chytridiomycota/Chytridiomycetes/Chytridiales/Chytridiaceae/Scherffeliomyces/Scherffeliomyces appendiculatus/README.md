@@ -1,5 +1,4 @@
-Scherffeliomyces appendiculatus (Zopf) Sparrow SPECIES
-=======
+# Scherffeliomyces appendiculatus (Zopf) Sparrow SPECIES
 
 #### Status
 ACCEPTED

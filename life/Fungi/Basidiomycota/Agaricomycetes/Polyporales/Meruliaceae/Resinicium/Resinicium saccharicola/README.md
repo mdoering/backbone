@@ -1,14 +1,13 @@
-Odontia saccharicola Burt, 1917 SPECIES
-=======
+# Resinicium saccharicola (Burt) Nakasone, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 4: 235 (1917)
+Karstenia 40(1-2): 113 (2000)
 
 #### Original name
 Odontia saccharicola Burt, 1917

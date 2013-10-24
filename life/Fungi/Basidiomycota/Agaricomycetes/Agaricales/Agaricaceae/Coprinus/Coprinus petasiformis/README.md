@@ -1,5 +1,4 @@
-Coprinus petasiformis (Corda) Sacc. & Traverso SPECIES
-=======
+# Coprinus petasiformis (Corda) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

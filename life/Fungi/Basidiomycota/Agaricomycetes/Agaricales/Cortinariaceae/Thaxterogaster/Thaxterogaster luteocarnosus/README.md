@@ -1,17 +1,16 @@
-Thaxterogaster luteocarnosum Raithelh. SPECIES
-=======
+# Thaxterogaster luteocarnosus Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana, Sonderheft 2: 21 (1983)
 
 #### Original name
-Thaxterogaster luteocarnosum Raithelh.
+Thaxterogaster luteocarnosus Raithelh.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Cyanomonas americana (B.M. Davis) Oltmanns SPECIES
-=======
+# Chroomonas americana (B.M. Davis) D.R.A. Hill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

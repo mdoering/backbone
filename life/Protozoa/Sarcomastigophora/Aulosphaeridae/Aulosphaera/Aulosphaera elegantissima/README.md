@@ -1,5 +1,4 @@
-Aulosphaera elegantissima Haeckel SPECIES
-=======
+# Aulosphaera elegantissima Haeckel SPECIES
 
 #### Status
 ACCEPTED

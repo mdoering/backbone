@@ -1,5 +1,4 @@
-Speleoscyphidia Yankovskij, 1980 GENUS
-=======
+# Speleoscyphidia Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

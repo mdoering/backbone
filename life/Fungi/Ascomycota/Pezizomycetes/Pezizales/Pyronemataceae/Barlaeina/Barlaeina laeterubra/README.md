@@ -1,5 +1,4 @@
-Barlaeina laeterubra Rehm SPECIES
-=======
+# Barlaeina laeterubra Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterotexis quercina Arch. Singh, S.K. Singh, R.K. Chaudhary & Budathoki SPECIES
-=======
+# Asterotexis quercina Arch. Singh, S.K. Singh, R.K. Chaudhary & Budathoki SPECIES
 
 #### Status
 ACCEPTED

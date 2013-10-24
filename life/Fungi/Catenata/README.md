@@ -1,5 +1,4 @@
-Catenata Bat. GENUS
-=======
+# Catenata Bat. GENUS
 
 #### Status
 ACCEPTED

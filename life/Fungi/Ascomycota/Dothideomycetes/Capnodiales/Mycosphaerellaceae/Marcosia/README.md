@@ -1,5 +1,4 @@
-Marcosia GENUS
-=======
+# Marcosia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fonticula alba Worley, Raper & M. Hohl, 1979 SPECIES
-=======
+# Fonticula alba Worley, Raper & M. Hohl, 1979 SPECIES
 
 #### Status
 ACCEPTED

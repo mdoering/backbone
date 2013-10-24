@@ -1,5 +1,4 @@
-Heterostegina tuberculata Moebius, 1880 SPECIES
-=======
+# Heterostegina tuberculata Moebius, 1880 SPECIES
 
 #### Status
 ACCEPTED

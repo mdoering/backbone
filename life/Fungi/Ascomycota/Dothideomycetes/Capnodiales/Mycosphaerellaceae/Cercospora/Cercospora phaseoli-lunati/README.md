@@ -1,5 +1,4 @@
-Cercospora phaseoli-lunati U. Braun & Crous SPECIES
-=======
+# Cercospora phaseoli-lunati U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

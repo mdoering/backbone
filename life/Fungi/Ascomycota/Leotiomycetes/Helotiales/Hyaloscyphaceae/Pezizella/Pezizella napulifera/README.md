@@ -1,5 +1,4 @@
-Pezizella napulifera Velen. SPECIES
-=======
+# Pezizella napulifera Velen. SPECIES
 
 #### Status
 ACCEPTED

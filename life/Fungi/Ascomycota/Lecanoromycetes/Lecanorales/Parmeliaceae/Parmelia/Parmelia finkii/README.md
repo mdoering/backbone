@@ -1,5 +1,4 @@
-Parmelia finkii Zahlbr. SPECIES
-=======
+# Parmelia finkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium filiforme (A.H. Sm.) Redhead SPECIES
-=======
+# Helotium filiforme (A.H. Sm.) Redhead SPECIES
 
 #### Status
 ACCEPTED

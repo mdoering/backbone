@@ -1,5 +1,4 @@
-Coniothyrium haloxyli Kalymb. SPECIES
-=======
+# Coniothyrium haloxyli Kalymb. SPECIES
 
 #### Status
 ACCEPTED

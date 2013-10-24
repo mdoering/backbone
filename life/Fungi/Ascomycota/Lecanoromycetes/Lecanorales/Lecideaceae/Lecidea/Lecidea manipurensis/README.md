@@ -1,5 +1,4 @@
-Lecidea manipurensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecidea manipurensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

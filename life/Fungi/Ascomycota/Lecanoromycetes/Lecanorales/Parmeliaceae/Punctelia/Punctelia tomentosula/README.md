@@ -1,5 +1,4 @@
-Punctelia tomentosula Kurok. SPECIES
-=======
+# Punctelia tomentosula Kurok. SPECIES
 
 #### Status
 ACCEPTED

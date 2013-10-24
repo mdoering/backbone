@@ -1,5 +1,4 @@
-Mycena microjonia Singer SPECIES
-=======
+# Mycena microjonia Singer SPECIES
 
 #### Status
 ACCEPTED

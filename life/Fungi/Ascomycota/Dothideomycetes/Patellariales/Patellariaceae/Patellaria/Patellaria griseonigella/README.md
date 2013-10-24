@@ -1,5 +1,4 @@
-Patellaria griseonigella Müll. Arg. SPECIES
-=======
+# Patellaria griseonigella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

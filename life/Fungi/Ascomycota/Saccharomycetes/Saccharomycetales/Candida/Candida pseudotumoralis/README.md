@@ -1,5 +1,4 @@
-Candida pseudotumoralis Morquer, E. Puget & Bazex SPECIES
-=======
+# Candida pseudotumoralis Morquer, E. Puget & Bazex SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pedinellales Zimmermann, Moestrup & Hällfors, 1984 ORDER
-=======
+# Pedinellales Zimmermann, Moestrup & Hällfors, 1984 ORDER
 
 #### Status
 ACCEPTED

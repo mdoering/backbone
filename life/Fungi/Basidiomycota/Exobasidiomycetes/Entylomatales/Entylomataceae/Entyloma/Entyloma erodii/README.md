@@ -1,5 +1,4 @@
-Entyloma erodii Vánky, 1991 SPECIES
-=======
+# Entyloma erodii Vánky, 1991 SPECIES
 
 #### Status
 ACCEPTED

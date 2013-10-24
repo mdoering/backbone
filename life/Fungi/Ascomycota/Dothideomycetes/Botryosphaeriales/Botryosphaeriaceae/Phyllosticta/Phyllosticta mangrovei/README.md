@@ -1,5 +1,4 @@
-Phyllosticta mangrovei Purkay. & A.K. Pal bis SPECIES
-=======
+# Phyllosticta mangrovei Purkay. & A.K. Pal bis SPECIES
 
 #### Status
 ACCEPTED

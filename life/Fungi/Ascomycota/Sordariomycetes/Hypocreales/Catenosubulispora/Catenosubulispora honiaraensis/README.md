@@ -1,5 +1,4 @@
-Catenosubulispora honiaraensis Matsush., 1971 SPECIES
-=======
+# Catenosubulispora honiaraensis Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

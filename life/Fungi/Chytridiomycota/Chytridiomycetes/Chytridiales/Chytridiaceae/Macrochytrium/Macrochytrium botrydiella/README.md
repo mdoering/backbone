@@ -1,5 +1,4 @@
-Macrochytrium botrydiella S.N. Dasgupta SPECIES
-=======
+# Macrochytrium botrydiella S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

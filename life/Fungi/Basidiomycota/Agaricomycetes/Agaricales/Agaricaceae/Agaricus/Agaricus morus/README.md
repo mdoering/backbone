@@ -1,5 +1,4 @@
-Agaricus morus With. SPECIES
-=======
+# Agaricus morus With. SPECIES
 
 #### Status
 ACCEPTED

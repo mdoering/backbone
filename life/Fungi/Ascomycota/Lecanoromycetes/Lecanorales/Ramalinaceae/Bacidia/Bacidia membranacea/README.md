@@ -1,5 +1,4 @@
-Bacidia membranacea H. Magn. SPECIES
-=======
+# Bacidia membranacea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

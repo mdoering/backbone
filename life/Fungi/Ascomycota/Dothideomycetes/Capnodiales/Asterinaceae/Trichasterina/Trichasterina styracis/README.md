@@ -1,14 +1,13 @@
-Asterina styracis Theiss., 1913 SPECIES
-=======
+# Trichasterina styracis (Theiss.) G. Arnaud, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. zool. -bot. Ges Wien 7(3): 41 (1913)
+Annales de l'École Nationale d'Agriculture de Montpellier, N. S. 16(1-4): 172 (1918)
 
 #### Original name
 Asterina styracis Theiss., 1913

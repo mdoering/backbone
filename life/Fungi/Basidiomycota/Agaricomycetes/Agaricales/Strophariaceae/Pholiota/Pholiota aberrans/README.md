@@ -1,5 +1,4 @@
-Pholiota aberrans A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota aberrans A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

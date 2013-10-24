@@ -1,5 +1,4 @@
-Coryneum bicorne Rostr. SPECIES
-=======
+# Coryneum bicorne Rostr. SPECIES
 
 #### Status
 ACCEPTED

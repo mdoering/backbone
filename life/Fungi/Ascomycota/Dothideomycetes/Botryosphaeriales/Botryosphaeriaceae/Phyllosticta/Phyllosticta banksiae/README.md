@@ -1,5 +1,4 @@
-Phyllosticta banksiae Henn. SPECIES
-=======
+# Phyllosticta banksiae Henn. SPECIES
 
 #### Status
 ACCEPTED

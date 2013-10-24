@@ -1,5 +1,4 @@
-Methanothrix thermophila Kamagata et al., 1992 SPECIES
-=======
+# Methanothrix thermophila Kamagata et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

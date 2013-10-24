@@ -1,5 +1,4 @@
-Fusarium sticticum Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium sticticum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

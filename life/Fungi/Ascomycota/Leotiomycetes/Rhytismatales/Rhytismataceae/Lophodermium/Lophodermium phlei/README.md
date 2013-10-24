@@ -1,5 +1,4 @@
-Lophodermium phlei Tehon & G.L. Stout SPECIES
-=======
+# Lophodermium phlei Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria sojae Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria sojae Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

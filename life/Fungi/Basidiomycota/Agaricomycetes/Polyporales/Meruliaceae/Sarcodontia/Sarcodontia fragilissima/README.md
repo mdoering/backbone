@@ -1,5 +1,4 @@
-Sarcodontia fragilissima (Berk. & M.A. Curtis) Nikol. SPECIES
-=======
+# Sarcodontia fragilissima (Berk. & M.A. Curtis) Nikol. SPECIES
 
 #### Status
 ACCEPTED

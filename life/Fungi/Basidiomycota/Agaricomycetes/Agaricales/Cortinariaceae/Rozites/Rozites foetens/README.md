@@ -1,5 +1,4 @@
-Rozites foetens Bougher, Fuhrer & E. Horak SPECIES
-=======
+# Rozites foetens Bougher, Fuhrer & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia epiphylla (Ach.) Hazsl. SPECIES
-=======
+# Cladonia epiphylla (Ach.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

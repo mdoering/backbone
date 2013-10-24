@@ -1,5 +1,4 @@
-Quinqueloculina cultrata SPECIES
-=======
+# Quinqueloculina cultrata SPECIES
 
 #### Status
 ACCEPTED

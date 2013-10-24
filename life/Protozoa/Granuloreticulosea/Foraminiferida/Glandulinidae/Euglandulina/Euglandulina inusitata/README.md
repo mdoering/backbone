@@ -1,5 +1,4 @@
-Euglandulina inusitata McCulloch, 1977 SPECIES
-=======
+# Euglandulina inusitata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

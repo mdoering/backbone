@@ -1,5 +1,4 @@
-Aecidium luminatum Schwein. SPECIES
-=======
+# Aecidium luminatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

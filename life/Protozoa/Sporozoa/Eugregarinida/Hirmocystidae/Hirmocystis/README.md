@@ -1,5 +1,4 @@
-Hirmocystis Labbé, 1899 GENUS
-=======
+# Hirmocystis Labbé, 1899 GENUS
 
 #### Status
 ACCEPTED

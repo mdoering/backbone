@@ -1,17 +1,16 @@
-Marssonina xanthophyla Y.J. Lu & G.L. Li SPECIES
-=======
+# Marssonina zanthoxyli Y.J. Lu & G.L. Li SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 14(3): 184 (1995)
 
 #### Original name
-Marssonina xanthophyla Y.J. Lu & G.L. Li
+Marssonina zanthoxyli Y.J. Lu & G.L. Li
 
 ### Remarks
 null

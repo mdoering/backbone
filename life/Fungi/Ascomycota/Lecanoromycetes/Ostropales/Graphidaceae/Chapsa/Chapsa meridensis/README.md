@@ -1,5 +1,4 @@
-Chapsa meridensis (Kalb & Frisch) Lücking, Lumbsch & Rivas Plata SPECIES
-=======
+# Chapsa meridensis (Kalb & Frisch) Lücking, Lumbsch & Rivas Plata SPECIES
 
 #### Status
 ACCEPTED

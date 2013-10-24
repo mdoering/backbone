@@ -1,5 +1,4 @@
-Thecotheus biocellatus (Petr.) Aas SPECIES
-=======
+# Thecotheus biocellatus (Petr.) Aas SPECIES
 
 #### Status
 ACCEPTED

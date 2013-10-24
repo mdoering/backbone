@@ -1,5 +1,4 @@
-Marasmius adhaesus Corner SPECIES
-=======
+# Marasmius adhaesus Corner SPECIES
 
 #### Status
 ACCEPTED

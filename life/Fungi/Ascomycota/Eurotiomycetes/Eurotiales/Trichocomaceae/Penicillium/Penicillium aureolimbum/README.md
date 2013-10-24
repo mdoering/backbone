@@ -1,5 +1,4 @@
-Penicillium aureolimbum K.M. Zalessky SPECIES
-=======
+# Penicillium aureolimbum K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

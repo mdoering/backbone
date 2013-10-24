@@ -1,14 +1,13 @@
-Corticium luteoaurantiacum Wakef., 1915 SPECIES
-=======
+# Phanerochaete luteoaurantiaca (Wakef.) Burds., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 8: 372 (1915)
+Mycol. Mem. 10: 93 (1985)
 
 #### Original name
 Corticium luteoaurantiacum Wakef., 1915

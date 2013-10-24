@@ -1,5 +1,4 @@
-Xueia Ying, 2000 GENUS
-=======
+# Xueia Ying, 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia norfolcia Sacc. SPECIES
-=======
+# Hendersonia norfolcia Sacc. SPECIES
 
 #### Status
 ACCEPTED

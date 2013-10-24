@@ -1,5 +1,4 @@
-Septoria lepidiicola Ellis & G. Martin SPECIES
-=======
+# Septoria lepidiicola Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

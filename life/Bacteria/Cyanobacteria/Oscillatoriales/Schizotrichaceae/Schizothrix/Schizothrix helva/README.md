@@ -1,5 +1,4 @@
-Schizothrix helva Frémy SPECIES
-=======
+# Schizothrix helva Frémy SPECIES
 
 #### Status
 ACCEPTED

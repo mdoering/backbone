@@ -1,5 +1,4 @@
-Phaeodimeriella psilostomatis (Thüm.) Theiss. SPECIES
-=======
+# Phaeodimeriella psilostomatis (Thüm.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

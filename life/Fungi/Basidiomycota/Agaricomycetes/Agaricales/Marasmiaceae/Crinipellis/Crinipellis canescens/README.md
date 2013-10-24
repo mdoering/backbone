@@ -1,5 +1,4 @@
-Crinipellis canescens Har. Takah. SPECIES
-=======
+# Crinipellis canescens Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

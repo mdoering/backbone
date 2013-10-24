@@ -1,5 +1,4 @@
-Tharoopama mississippiensis Lentz SPECIES
-=======
+# Tharoopama mississippiensis Lentz SPECIES
 
 #### Status
 ACCEPTED

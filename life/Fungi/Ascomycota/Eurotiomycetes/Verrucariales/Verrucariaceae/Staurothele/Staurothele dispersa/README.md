@@ -1,5 +1,4 @@
-Staurothele dispersa Tomin SPECIES
-=======
+# Staurothele dispersa Tomin SPECIES
 
 #### Status
 ACCEPTED

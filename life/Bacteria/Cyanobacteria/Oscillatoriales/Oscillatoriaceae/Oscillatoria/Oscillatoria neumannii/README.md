@@ -1,5 +1,4 @@
-Oscillatoria neumannii var. crassior (Virieux) B. Tracanna VARIETY
-=======
+# Oscillatoria neumannii SPECIES
 
 #### Status
 ACCEPTED

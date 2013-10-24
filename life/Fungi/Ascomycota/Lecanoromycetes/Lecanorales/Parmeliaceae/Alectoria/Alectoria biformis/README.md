@@ -1,5 +1,4 @@
-Alectoria biformis (Vain.) C.W. Dodge SPECIES
-=======
+# Alectoria biformis (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

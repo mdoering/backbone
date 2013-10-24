@@ -1,5 +1,4 @@
-Polyporus fornicatus Fr. SPECIES
-=======
+# Polyporus fornicatus Fr. SPECIES
 
 #### Status
 ACCEPTED

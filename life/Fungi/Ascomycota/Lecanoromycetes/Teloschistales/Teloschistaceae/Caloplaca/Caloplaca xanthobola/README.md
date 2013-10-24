@@ -1,5 +1,4 @@
-Caloplaca xanthobola (Kremp.) Zahlbr. SPECIES
-=======
+# Caloplaca xanthobola (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

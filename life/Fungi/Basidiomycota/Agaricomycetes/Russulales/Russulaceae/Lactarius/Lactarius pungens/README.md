@@ -1,5 +1,4 @@
-Lactarius pungens Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pungens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

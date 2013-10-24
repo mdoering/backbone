@@ -1,11 +1,10 @@
-Usbekistania charoides subsp. charoides SUBSPECIES
-=======
+# Usbekistania charoides (Jones & Parker, 1860) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

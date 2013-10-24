@@ -1,17 +1,16 @@
-Achlya kamatti Date SPECIES
-=======
+# Achlya kamatii Date SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 42: 79 (1972)
 
 #### Original name
-Achlya kamatti Date
+Achlya kamatii Date
 
 ### Remarks
 null

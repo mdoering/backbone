@@ -1,5 +1,4 @@
-Lecidea rubina Ach. SPECIES
-=======
+# Lecidea rubina Ach. SPECIES
 
 #### Status
 ACCEPTED

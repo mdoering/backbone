@@ -1,5 +1,4 @@
-Passalora malpighiae (U. Braun & Mouch.) U. Braun & Crous SPECIES
-=======
+# Passalora malpighiae (U. Braun & Mouch.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

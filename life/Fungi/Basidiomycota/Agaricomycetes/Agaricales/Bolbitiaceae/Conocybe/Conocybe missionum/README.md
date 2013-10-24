@@ -1,5 +1,4 @@
-Conocybe missionum Singer SPECIES
-=======
+# Conocybe missionum Singer SPECIES
 
 #### Status
 ACCEPTED

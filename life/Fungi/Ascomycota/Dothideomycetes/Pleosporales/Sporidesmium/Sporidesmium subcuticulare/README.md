@@ -1,5 +1,4 @@
-Sporidesmium subcuticulare McAlpine SPECIES
-=======
+# Sporidesmium subcuticulare McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus punctatus Wichanský SPECIES
-=======
+# Pluteus punctatus Wichanský SPECIES
 
 #### Status
 ACCEPTED

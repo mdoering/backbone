@@ -1,5 +1,4 @@
-Sclerotium reniforme Schwein. SPECIES
-=======
+# Sclerotium reniforme Schwein. SPECIES
 
 #### Status
 ACCEPTED

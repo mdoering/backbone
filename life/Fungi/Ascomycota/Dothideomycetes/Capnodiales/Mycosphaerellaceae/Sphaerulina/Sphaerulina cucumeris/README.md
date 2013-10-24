@@ -1,5 +1,4 @@
-Sphaerulina cucumeris Sawada SPECIES
-=======
+# Sphaerulina cucumeris Sawada SPECIES
 
 #### Status
 ACCEPTED

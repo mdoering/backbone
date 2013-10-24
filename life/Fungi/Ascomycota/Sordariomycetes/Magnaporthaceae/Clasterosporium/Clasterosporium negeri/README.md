@@ -1,5 +1,4 @@
-Clasterosporium negeri Delitsch SPECIES
-=======
+# Clasterosporium negeri Delitsch SPECIES
 
 #### Status
 ACCEPTED

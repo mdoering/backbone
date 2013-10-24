@@ -1,5 +1,4 @@
-Calothrix fuscoviolacea P.L. Crouan & H.M. Crouan ex Bornet & Flahault SPECIES
-=======
+# Calothrix fuscoviolacea P.L. Crouan & H.M. Crouan ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis chlorocarpa Fée SPECIES
-=======
+# Graphis chlorocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

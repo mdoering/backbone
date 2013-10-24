@@ -1,5 +1,4 @@
-Pertusaria rochae Räsänen SPECIES
-=======
+# Pertusaria rochae Räsänen SPECIES
 
 #### Status
 ACCEPTED

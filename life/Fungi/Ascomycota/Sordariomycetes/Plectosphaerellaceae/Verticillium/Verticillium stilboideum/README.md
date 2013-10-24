@@ -1,5 +1,4 @@
-Verticillium stilboideum Sacc. SPECIES
-=======
+# Verticillium stilboideum Sacc. SPECIES
 
 #### Status
 ACCEPTED

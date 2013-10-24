@@ -1,5 +1,4 @@
-Acanthonitschkea macrobarbata Fitzp., 1933 SPECIES
-=======
+# Acanthonitschkea macrobarbata Fitzp., 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xystonella longicauda (Brandt, 1906) Brandt, 1906 SPECIES
-=======
+# Xystonella longicauda (Brandt, 1906) Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

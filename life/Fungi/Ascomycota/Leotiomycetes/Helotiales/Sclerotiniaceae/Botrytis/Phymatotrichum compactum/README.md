@@ -1,5 +1,4 @@
-Phymatotrichum compactum Pat. SPECIES
-=======
+# Phymatotrichum compactum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidia ludoviciensis Müll. Arg. SPECIES
-=======
+# Phlyctidia ludoviciensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria curtisii (Berk.) Sacc. SPECIES
-=======
+# Calonectria curtisii (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

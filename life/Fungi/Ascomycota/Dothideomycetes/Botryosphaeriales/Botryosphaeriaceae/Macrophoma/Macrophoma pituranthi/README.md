@@ -1,5 +1,4 @@
-Macrophoma pituranthi Sacc. & Trotter SPECIES
-=======
+# Macrophoma pituranthi Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

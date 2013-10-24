@@ -1,5 +1,4 @@
-Gibberellulina abietis Sousa da Câmara SPECIES
-=======
+# Gibberellulina abietis Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe cyanophaea var. pengellei (Berk. & Broome) Sacc. VARIETY
-=======
+# Clitocybe cyanophaea (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hyménomycètes (Alençon) 82 (1874)
 
 #### Original name
-Agaricus cyanophaeus var. pengellei Berk. & Broome
+Agaricus cyanophaeus Fr.
 
 ### Remarks
 null

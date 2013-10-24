@@ -1,17 +1,16 @@
-Cortinarius suillo-clarus Reumaux SPECIES
-=======
+# Cortinarius suilloclarus Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Carteret, Eyssartier, Moënne-Loccoz & Reumaux, Atlas des Cortinaires (Meyzieu) 12: 694 (2002)
 
 #### Original name
-Cortinarius suillo-clarus Reumaux
+Cortinarius suilloclarus Reumaux
 
 ### Remarks
 null

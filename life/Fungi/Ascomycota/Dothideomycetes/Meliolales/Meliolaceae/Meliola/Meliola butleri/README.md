@@ -1,5 +1,4 @@
-Meliola butleri Syd. & P. Syd. SPECIES
-=======
+# Meliola butleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

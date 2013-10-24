@@ -1,5 +1,4 @@
-Asteromella rhodiolae Petr. SPECIES
-=======
+# Asteromella rhodiolae Petr. SPECIES
 
 #### Status
 ACCEPTED

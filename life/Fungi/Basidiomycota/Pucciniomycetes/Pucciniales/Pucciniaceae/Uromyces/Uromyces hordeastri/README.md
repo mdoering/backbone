@@ -1,5 +1,4 @@
-Uromyces hordeastri A.L. Guyot SPECIES
-=======
+# Uromyces hordeastri A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

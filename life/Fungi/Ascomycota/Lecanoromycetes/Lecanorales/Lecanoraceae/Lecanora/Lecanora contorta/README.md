@@ -1,5 +1,4 @@
-Lecanora contorta var. contorta VARIETY
-=======
+# Lecanora contorta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora contorta var. contorta
+null
 
 ### Remarks
 null

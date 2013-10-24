@@ -1,5 +1,4 @@
-Baeostratoporus canaliculatus (Pat.) Bondartsev & Singer SPECIES
-=======
+# Baeostratoporus canaliculatus (Pat.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

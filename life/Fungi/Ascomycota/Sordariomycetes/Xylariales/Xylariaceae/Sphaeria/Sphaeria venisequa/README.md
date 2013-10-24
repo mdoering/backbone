@@ -1,5 +1,4 @@
-Sphaeria venisequa Göpp. SPECIES
-=======
+# Sphaeria venisequa Göpp. SPECIES
 
 #### Status
 ACCEPTED

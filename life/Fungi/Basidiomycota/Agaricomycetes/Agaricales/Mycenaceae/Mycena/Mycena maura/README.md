@@ -1,5 +1,4 @@
-Mycena maura Maire SPECIES
-=======
+# Mycena maura Maire SPECIES
 
 #### Status
 ACCEPTED

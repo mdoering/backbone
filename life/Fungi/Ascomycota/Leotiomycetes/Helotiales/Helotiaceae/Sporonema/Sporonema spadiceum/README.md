@@ -1,5 +1,4 @@
-Sporonema spadiceum (Dearn. & Bisby) Arx SPECIES
-=======
+# Sporonema spadiceum (Dearn. & Bisby) Arx SPECIES
 
 #### Status
 ACCEPTED

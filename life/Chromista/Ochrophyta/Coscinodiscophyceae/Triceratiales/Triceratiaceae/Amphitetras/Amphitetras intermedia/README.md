@@ -1,5 +1,4 @@
-Amphitetras intermedia (Grove & Sturt) De Toni SPECIES
-=======
+# Amphitetras intermedia (Grove & Sturt) De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria seminalis Sacc. SPECIES
-=======
+# Septoria seminalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

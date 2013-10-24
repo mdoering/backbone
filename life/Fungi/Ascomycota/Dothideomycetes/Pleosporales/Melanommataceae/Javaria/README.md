@@ -1,5 +1,4 @@
-Javaria Boise GENUS
-=======
+# Javaria Boise GENUS
 
 #### Status
 ACCEPTED

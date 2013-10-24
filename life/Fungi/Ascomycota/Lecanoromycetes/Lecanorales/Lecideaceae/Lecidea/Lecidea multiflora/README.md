@@ -1,5 +1,4 @@
-Lecidea multiflora Taylor SPECIES
-=======
+# Lecidea multiflora Taylor SPECIES
 
 #### Status
 ACCEPTED

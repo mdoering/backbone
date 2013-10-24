@@ -1,5 +1,4 @@
-Syracosphaera rotula Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera rotula Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula porinoides Canals, Boqueras & Gómez-Bolea SPECIES
-=======
+# Strigula porinoides Canals, Boqueras & Gómez-Bolea SPECIES
 
 #### Status
 ACCEPTED

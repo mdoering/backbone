@@ -1,5 +1,4 @@
-Chaetocytostroma arundinacea Petr., 1920 SPECIES
-=======
+# Chaetocytostroma arundinacea Petr., 1920 SPECIES
 
 #### Status
 ACCEPTED

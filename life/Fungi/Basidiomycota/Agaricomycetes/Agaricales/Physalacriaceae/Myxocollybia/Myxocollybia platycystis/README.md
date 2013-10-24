@@ -1,5 +1,4 @@
-Myxocollybia platycystis Singer SPECIES
-=======
+# Myxocollybia platycystis Singer SPECIES
 
 #### Status
 ACCEPTED

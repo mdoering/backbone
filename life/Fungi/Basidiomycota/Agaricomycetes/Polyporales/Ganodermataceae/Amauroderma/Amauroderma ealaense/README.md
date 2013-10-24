@@ -1,14 +1,13 @@
-Polyporus ealaensis Beeli, 1929 SPECIES
-=======
+# Amauroderma ealaense (Beeli) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 62: 60 (1929)
+Norw. Jl Bot. 19: 230 (1972)
 
 #### Original name
 Polyporus ealaensis Beeli, 1929

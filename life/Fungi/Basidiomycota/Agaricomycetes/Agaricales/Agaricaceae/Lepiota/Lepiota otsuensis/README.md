@@ -1,5 +1,4 @@
-Lepiota otsuensis (Hongo) Hongo SPECIES
-=======
+# Lepiota otsuensis (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

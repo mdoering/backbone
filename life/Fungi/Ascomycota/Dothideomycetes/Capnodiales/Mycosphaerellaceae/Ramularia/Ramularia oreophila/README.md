@@ -1,5 +1,4 @@
-Ramularia oreophila Sacc., 1881 SPECIES
-=======
+# Ramularia oreophila Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED

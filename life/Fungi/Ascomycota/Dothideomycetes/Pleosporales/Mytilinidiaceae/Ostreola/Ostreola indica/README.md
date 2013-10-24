@@ -1,5 +1,4 @@
-Ostreola indica Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Ostreola indica Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

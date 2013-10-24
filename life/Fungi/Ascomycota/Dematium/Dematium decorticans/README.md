@@ -1,5 +1,4 @@
-Dematium decorticans Fr. SPECIES
-=======
+# Dematium decorticans Fr. SPECIES
 
 #### Status
 ACCEPTED

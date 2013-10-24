@@ -1,5 +1,4 @@
-Microporus gausapatus (Kalchbr.) Kuntze SPECIES
-=======
+# Microporus gausapatus (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Caulocarpa Gilkey GENUS
-=======
+# Sarcosphaera Auersw. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 39(4): 441 (1947)
+Hedwigia 8: 82 (1869)
 
 #### Original name
-Caulocarpa Gilkey
+Sarcosphaera Auersw.
 
 ### Remarks
 null

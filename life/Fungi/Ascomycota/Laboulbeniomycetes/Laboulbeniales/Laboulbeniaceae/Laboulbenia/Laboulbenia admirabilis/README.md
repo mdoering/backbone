@@ -1,5 +1,4 @@
-Laboulbenia admirabilis Y.B. Lee & T. Majewski SPECIES
-=======
+# Laboulbenia admirabilis Y.B. Lee & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

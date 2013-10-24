@@ -1,5 +1,4 @@
-Agaricus leucochrysos Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus leucochrysos Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

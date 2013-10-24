@@ -1,5 +1,4 @@
-Sphaeria piriformis Olive SPECIES
-=======
+# Sphaeria piriformis Olive SPECIES
 
 #### Status
 ACCEPTED

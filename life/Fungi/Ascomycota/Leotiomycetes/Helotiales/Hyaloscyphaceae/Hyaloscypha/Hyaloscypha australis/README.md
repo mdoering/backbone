@@ -1,5 +1,4 @@
-Hyaloscypha australis Dennis SPECIES
-=======
+# Hyaloscypha australis Dennis SPECIES
 
 #### Status
 ACCEPTED

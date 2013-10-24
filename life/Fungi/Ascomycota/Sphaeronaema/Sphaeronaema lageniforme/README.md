@@ -1,5 +1,4 @@
-Sphaeronaema lageniforme Speg. SPECIES
-=======
+# Sphaeronaema lageniforme Speg. SPECIES
 
 #### Status
 ACCEPTED

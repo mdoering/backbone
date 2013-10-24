@@ -1,5 +1,4 @@
-Mycogone puccinioides (Preuss) Sacc. SPECIES
-=======
+# Mycogone puccinioides (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

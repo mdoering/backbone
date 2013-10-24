@@ -1,5 +1,4 @@
-Rhodocollybia filamentosa (Velen.) Antonín SPECIES
-=======
+# Rhodocollybia filamentosa (Velen.) Antonín SPECIES
 
 #### Status
 ACCEPTED

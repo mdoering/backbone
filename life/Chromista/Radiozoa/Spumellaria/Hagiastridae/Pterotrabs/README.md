@@ -1,5 +1,4 @@
-Pterotrabs Dumitrica, Baumgartner & Gorican, 1997 GENUS
-=======
+# Pterotrabs Dumitrica, Baumgartner & Gorican, 1997 GENUS
 
 #### Status
 ACCEPTED

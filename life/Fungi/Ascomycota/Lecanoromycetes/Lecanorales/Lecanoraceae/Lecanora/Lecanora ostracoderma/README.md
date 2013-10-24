@@ -1,5 +1,4 @@
-Lecanora ostracoderma (Ach.) Ach. SPECIES
-=======
+# Lecanora ostracoderma (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

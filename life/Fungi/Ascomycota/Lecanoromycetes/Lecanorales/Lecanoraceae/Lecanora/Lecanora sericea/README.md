@@ -1,5 +1,4 @@
-Lecanora sericea Motyka SPECIES
-=======
+# Lecanora sericea Motyka SPECIES
 
 #### Status
 ACCEPTED

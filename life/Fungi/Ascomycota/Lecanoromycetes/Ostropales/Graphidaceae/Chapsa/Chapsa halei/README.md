@@ -1,5 +1,4 @@
-Chapsa halei Mangold SPECIES
-=======
+# Chapsa halei Mangold SPECIES
 
 #### Status
 ACCEPTED

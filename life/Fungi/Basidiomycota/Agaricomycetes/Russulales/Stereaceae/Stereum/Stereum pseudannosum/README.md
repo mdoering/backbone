@@ -1,5 +1,4 @@
-Stereum pseudannosum Lloyd SPECIES
-=======
+# Stereum pseudannosum Lloyd SPECIES
 
 #### Status
 ACCEPTED

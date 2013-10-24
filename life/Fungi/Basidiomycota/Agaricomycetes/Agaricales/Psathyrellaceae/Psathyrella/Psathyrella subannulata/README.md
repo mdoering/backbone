@@ -1,5 +1,4 @@
-Psathyrella subannulata Raithelh. SPECIES
-=======
+# Psathyrella subannulata Raithelh. SPECIES
 
 #### Status
 ACCEPTED

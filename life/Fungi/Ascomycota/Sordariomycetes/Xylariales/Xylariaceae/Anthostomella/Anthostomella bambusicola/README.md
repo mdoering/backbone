@@ -1,17 +1,16 @@
-Anthostomella bambusaecola Deighton SPECIES
-=======
+# Anthostomella bambusicola Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Petrak & Deighton, Sydowia 6(5-6): 309 (1952)
 
 #### Original name
-Anthostomella bambusaecola Deighton
+Anthostomella bambusicola Deighton
 
 ### Remarks
 null

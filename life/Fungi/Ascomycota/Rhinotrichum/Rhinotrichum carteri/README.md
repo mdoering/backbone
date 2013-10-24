@@ -1,5 +1,4 @@
-Rhinotrichum carteri Cooke SPECIES
-=======
+# Rhinotrichum carteri Cooke SPECIES
 
 #### Status
 ACCEPTED

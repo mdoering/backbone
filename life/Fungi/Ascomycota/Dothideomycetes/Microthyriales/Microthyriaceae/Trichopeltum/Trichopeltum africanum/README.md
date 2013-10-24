@@ -1,5 +1,4 @@
-Trichopeltum africanum Bat. & Marasas SPECIES
-=======
+# Trichopeltum africanum Bat. & Marasas SPECIES
 
 #### Status
 ACCEPTED

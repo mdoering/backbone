@@ -1,5 +1,4 @@
-Verispira Palmieri, 1988 GENUS
-=======
+# Verispira Palmieri, 1988 GENUS
 
 #### Status
 ACCEPTED

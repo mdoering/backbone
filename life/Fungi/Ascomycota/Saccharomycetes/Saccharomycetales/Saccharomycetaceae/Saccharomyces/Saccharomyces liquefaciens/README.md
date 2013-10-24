@@ -1,5 +1,4 @@
-Saccharomyces liquefaciens Frankland {?} SPECIES
-=======
+# Saccharomyces liquefaciens Frankland {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza subgibbosa Ellis SPECIES
-=======
+# Peziza subgibbosa Ellis SPECIES
 
 #### Status
 ACCEPTED

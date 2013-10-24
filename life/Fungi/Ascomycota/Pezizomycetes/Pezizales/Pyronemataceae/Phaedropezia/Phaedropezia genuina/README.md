@@ -1,5 +1,4 @@
-Phaedropezia genuina Le Gal SPECIES
-=======
+# Phaedropezia genuina Le Gal SPECIES
 
 #### Status
 ACCEPTED

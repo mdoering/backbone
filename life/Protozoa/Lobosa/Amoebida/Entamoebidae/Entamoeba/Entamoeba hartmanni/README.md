@@ -1,5 +1,4 @@
-Entamoeba hartmanni Prowazek, 1912 SPECIES
-=======
+# Entamoeba hartmanni Prowazek, 1912 SPECIES
 
 #### Status
 ACCEPTED

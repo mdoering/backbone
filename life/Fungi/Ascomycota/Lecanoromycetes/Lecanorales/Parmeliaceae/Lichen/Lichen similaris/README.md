@@ -1,5 +1,4 @@
-Lichen similaris Ach. SPECIES
-=======
+# Lichen similaris Ach. SPECIES
 
 #### Status
 ACCEPTED

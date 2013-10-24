@@ -1,5 +1,4 @@
-Phyllosticta psidiicola (Petr.) Aa SPECIES
-=======
+# Phyllosticta psidiicola (Petr.) Aa SPECIES
 
 #### Status
 ACCEPTED

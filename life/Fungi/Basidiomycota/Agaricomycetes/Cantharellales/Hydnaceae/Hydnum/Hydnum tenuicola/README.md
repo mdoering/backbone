@@ -1,5 +1,4 @@
-Hydnum tenuicola Lév. SPECIES
-=======
+# Hydnum tenuicola Lév. SPECIES
 
 #### Status
 ACCEPTED

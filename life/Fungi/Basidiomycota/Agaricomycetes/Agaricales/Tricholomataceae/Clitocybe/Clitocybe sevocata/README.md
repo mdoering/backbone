@@ -1,5 +1,4 @@
-Clitocybe sevocata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe sevocata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

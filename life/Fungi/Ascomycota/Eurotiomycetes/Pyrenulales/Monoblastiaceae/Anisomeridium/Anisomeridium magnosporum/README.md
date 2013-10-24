@@ -1,5 +1,4 @@
-Anisomeridium magnosporum (C. Knight) D. Hawksw. SPECIES
-=======
+# Anisomeridium magnosporum (C. Knight) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

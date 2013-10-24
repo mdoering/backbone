@@ -1,5 +1,4 @@
-Buellia arthoniza (Nyl.) Vouaux SPECIES
-=======
+# Buellia arthoniza (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

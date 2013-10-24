@@ -1,5 +1,4 @@
-Leptopodia GENUS
-=======
+# Leptopodia GENUS
 
 #### Status
 ACCEPTED

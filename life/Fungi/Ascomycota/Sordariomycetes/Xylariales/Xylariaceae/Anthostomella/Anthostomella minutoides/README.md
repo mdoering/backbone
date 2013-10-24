@@ -1,5 +1,4 @@
-Anthostomella minutoides K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella minutoides K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

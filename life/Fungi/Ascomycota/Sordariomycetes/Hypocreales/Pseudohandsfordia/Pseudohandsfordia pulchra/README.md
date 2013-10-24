@@ -1,5 +1,4 @@
-Pseudohandsfordia pulchra (Linder) Matsushima SPECIES
-=======
+# Pseudohandsfordia pulchra (Linder) Matsushima SPECIES
 
 #### Status
 ACCEPTED

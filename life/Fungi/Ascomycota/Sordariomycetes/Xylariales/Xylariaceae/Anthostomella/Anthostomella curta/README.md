@@ -1,5 +1,4 @@
-Anthostomella curta Syd. SPECIES
-=======
+# Anthostomella curta Syd. SPECIES
 
 #### Status
 ACCEPTED

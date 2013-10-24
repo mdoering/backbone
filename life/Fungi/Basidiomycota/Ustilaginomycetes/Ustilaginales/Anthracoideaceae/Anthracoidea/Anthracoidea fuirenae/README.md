@@ -1,5 +1,4 @@
-Anthracoidea fuirenae (Hasija & F.T. Wolf) Vánky SPECIES
-=======
+# Anthracoidea fuirenae (Hasija & F.T. Wolf) Vánky SPECIES
 
 #### Status
 ACCEPTED

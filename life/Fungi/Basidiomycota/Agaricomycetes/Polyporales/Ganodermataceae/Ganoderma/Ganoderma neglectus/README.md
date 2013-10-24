@@ -1,5 +1,4 @@
-Ganoderma neglectus Pat. SPECIES
-=======
+# Ganoderma neglectus Pat. SPECIES
 
 #### Status
 ACCEPTED

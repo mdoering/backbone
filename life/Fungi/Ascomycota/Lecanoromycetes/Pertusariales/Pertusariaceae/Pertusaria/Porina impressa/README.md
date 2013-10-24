@@ -1,5 +1,4 @@
-Porina impressa R. Sant., 1952 SPECIES
-=======
+# Porina impressa R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

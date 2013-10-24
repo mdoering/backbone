@@ -1,5 +1,4 @@
-Agaricus scrupeus Berk. SPECIES
-=======
+# Agaricus scrupeus Berk. SPECIES
 
 #### Status
 ACCEPTED

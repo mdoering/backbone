@@ -1,5 +1,4 @@
-Acrospeira xylogena G. Arnaud SPECIES
-=======
+# Acrospeira xylogena G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

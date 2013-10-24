@@ -1,5 +1,4 @@
-Rhodophyllus tephrocybe Singer SPECIES
-=======
+# Rhodophyllus tephrocybe Singer SPECIES
 
 #### Status
 ACCEPTED

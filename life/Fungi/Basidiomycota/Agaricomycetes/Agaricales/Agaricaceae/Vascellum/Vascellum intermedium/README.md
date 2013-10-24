@@ -1,5 +1,4 @@
-Vascellum intermedium A.H. Sm. SPECIES
-=======
+# Vascellum intermedium A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

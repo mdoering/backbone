@@ -1,5 +1,4 @@
-Mazzantia chusqueae Viégas SPECIES
-=======
+# Mazzantia chusqueae Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina escharoides (Syd.) F. Stevens SPECIES
-=======
+# Irenina escharoides (Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

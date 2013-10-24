@@ -1,5 +1,4 @@
-Puccinia smilacinae Syd. & P. Syd. SPECIES
-=======
+# Puccinia smilacinae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

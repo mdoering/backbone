@@ -1,5 +1,4 @@
-Usnea amoena Motyka SPECIES
-=======
+# Usnea amoena Motyka SPECIES
 
 #### Status
 ACCEPTED

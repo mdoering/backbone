@@ -1,5 +1,4 @@
-Irpex cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Irpex cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

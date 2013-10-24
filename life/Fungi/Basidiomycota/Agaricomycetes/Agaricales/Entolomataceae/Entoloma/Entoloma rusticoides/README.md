@@ -1,14 +1,13 @@
-Paraeccilia rusticoides (Gillet) Largent, 1994 SPECIES
-=======
+# Entoloma rusticoides (Gillet) Noordel., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Entolomatoid fungi of the Western United States and Alaska (Eureka) 376 (1994)
+Persoonia 11(2): 150 (1981)
 
 #### Original name
 Eccilia rusticoides Gillet, 1874

@@ -1,5 +1,4 @@
-Tomentellina isabellina Rick SPECIES
-=======
+# Tomentellina isabellina Rick SPECIES
 
 #### Status
 ACCEPTED

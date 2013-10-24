@@ -1,5 +1,4 @@
-Acuturris scotus (J.B. Risatti) F.H. Wind & S.W. Wise SPECIES
-=======
+# Acuturris scotus (J.B. Risatti) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

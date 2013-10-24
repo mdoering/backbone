@@ -1,5 +1,4 @@
-Phyllosticta glycyrrhizicola Vassiljevsky SPECIES
-=======
+# Phyllosticta glycyrrhizicola Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

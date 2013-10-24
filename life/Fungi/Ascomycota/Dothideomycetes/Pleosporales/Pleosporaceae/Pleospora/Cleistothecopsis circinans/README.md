@@ -1,5 +1,4 @@
-Cleistothecopsis circinans F. Stevens & E.Y. True SPECIES
-=======
+# Cleistothecopsis circinans F. Stevens & E.Y. True SPECIES
 
 #### Status
 ACCEPTED

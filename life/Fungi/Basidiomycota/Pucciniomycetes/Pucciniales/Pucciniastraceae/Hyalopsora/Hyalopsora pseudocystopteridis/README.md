@@ -1,5 +1,4 @@
-Hyalopsora pseudocystopteridis Y.Z. Wang & S.X. Wei SPECIES
-=======
+# Hyalopsora pseudocystopteridis Y.Z. Wang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

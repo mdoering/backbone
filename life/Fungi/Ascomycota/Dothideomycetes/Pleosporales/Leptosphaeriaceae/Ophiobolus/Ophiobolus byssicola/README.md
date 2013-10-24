@@ -1,5 +1,4 @@
-Ophiobolus byssicola Harkn. SPECIES
-=======
+# Ophiobolus byssicola Harkn. SPECIES
 
 #### Status
 ACCEPTED

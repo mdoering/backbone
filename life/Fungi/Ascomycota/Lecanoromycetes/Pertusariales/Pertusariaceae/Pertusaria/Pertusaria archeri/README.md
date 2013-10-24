@@ -1,5 +1,4 @@
-Pertusaria archeri Jariangpr. SPECIES
-=======
+# Pertusaria archeri Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

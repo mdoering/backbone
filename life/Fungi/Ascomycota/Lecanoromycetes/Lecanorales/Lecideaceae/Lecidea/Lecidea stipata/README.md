@@ -1,5 +1,4 @@
-Lecidea stipata (Kremp.) Zahlbr. SPECIES
-=======
+# Lecidea stipata (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

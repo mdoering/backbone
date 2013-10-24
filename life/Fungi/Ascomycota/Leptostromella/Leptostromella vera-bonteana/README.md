@@ -1,5 +1,4 @@
-Leptostromella vera-bonteana Negru & R. Sandor SPECIES
-=======
+# Leptostromella vera-bonteana Negru & R. Sandor SPECIES
 
 #### Status
 ACCEPTED

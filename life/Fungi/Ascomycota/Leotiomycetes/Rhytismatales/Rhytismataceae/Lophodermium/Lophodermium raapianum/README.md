@@ -1,5 +1,4 @@
-Lophodermium raapianum Penz. & Sacc. SPECIES
-=======
+# Lophodermium raapianum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

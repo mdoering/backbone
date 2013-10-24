@@ -1,5 +1,4 @@
-Opegrapha corumbensis Redinger SPECIES
-=======
+# Opegrapha corumbensis Redinger SPECIES
 
 #### Status
 ACCEPTED

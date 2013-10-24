@@ -1,11 +1,10 @@
-Nematochrysopsis roscoffensis f. giganteus C.Billard FORM
-=======
+# Nematochrysopsis marina (J. Feldmann) C. Billard SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

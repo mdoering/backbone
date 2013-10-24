@@ -1,5 +1,4 @@
-Leptosphaeria gypsophilae Hollós SPECIES
-=======
+# Leptosphaeria gypsophilae Hollós SPECIES
 
 #### Status
 ACCEPTED

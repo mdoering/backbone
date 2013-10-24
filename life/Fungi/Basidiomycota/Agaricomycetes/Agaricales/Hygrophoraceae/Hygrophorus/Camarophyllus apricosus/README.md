@@ -1,14 +1,13 @@
-Hygrocybe apricosa E. Horak, 1973 SPECIES
-=======
+# Camarophyllus apricosus (E. Horak) E. Horak, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 43: 146 (1973)
+N. Z. Jl Bot. 28(3): 278 (1990)
 
 #### Original name
 Hygrocybe apricosa E. Horak, 1973

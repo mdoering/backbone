@@ -1,5 +1,4 @@
-Omphalodiscus antarcticus (Frey & I.M. Lamb) Llano SPECIES
-=======
+# Omphalodiscus antarcticus (Frey & I.M. Lamb) Llano SPECIES
 
 #### Status
 ACCEPTED

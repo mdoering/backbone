@@ -1,5 +1,4 @@
-Thermococcus waiotapuensis González et al., 2001 SPECIES
-=======
+# Thermococcus waiotapuensis González et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

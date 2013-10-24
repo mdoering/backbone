@@ -1,5 +1,4 @@
-Phoma leburtonii Westend. SPECIES
-=======
+# Phoma leburtonii Westend. SPECIES
 
 #### Status
 ACCEPTED

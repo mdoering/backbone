@@ -1,5 +1,4 @@
-Botryobasidium pteridophytorum Rick, 1959 SPECIES
-=======
+# Botryobasidium pteridophytorum Rick, 1959 SPECIES
 
 #### Status
 ACCEPTED

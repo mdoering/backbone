@@ -1,5 +1,4 @@
-Parmotrema graniticum Benatti, Marcelli & Elix SPECIES
-=======
+# Parmotrema graniticum Benatti, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

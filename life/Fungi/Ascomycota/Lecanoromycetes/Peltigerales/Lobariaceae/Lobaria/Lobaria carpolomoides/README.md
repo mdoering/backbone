@@ -1,5 +1,4 @@
-Lobaria carpolomoides (Nyl.) Trevis. SPECIES
-=======
+# Lobaria carpolomoides (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

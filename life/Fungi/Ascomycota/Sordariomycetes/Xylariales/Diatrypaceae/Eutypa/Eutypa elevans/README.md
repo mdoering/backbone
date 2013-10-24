@@ -1,5 +1,4 @@
-Eutypa elevans (Schwein.) Cooke SPECIES
-=======
+# Eutypa elevans (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

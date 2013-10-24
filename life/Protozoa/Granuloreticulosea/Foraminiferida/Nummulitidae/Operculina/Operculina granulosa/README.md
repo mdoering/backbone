@@ -1,5 +1,4 @@
-Operculina granulosa SPECIES
-=======
+# Operculina granulosa SPECIES
 
 #### Status
 ACCEPTED

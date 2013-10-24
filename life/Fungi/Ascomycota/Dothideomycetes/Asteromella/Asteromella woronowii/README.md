@@ -1,5 +1,4 @@
-Asteromella woronowii (Woron.) Vanev & Aa SPECIES
-=======
+# Asteromella woronowii (Woron.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

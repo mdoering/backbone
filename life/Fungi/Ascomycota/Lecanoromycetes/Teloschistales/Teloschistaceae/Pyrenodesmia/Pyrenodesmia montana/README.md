@@ -1,5 +1,4 @@
-Pyrenodesmia montana B. de Lesd. SPECIES
-=======
+# Pyrenodesmia montana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

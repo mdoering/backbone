@@ -1,5 +1,4 @@
-Strigula glaziovii Müll. Arg. SPECIES
-=======
+# Strigula glaziovii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

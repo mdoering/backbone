@@ -1,5 +1,4 @@
-Siphoglobulina Parr, 1950 GENUS
-=======
+# Siphoglobulina Parr, 1950 GENUS
 
 #### Status
 ACCEPTED

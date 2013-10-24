@@ -1,5 +1,4 @@
-Tylopilus peralbidus f. peralbidus FORM
-=======
+# Tylopilus peralbidus (Snell & Beardslee) Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 30(5): 521 (1938)
 
 #### Original name
-Tylopilus peralbidus f. peralbidus
+Boletus peralbidus Snell & Beardslee
 
 ### Remarks
 null

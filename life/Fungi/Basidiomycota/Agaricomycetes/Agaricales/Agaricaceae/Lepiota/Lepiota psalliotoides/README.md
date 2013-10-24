@@ -1,5 +1,4 @@
-Lepiota psalliotoides Henn. SPECIES
-=======
+# Lepiota psalliotoides Henn. SPECIES
 
 #### Status
 ACCEPTED

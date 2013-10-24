@@ -1,5 +1,4 @@
-Asteroma donacis Grognot SPECIES
-=======
+# Asteroma donacis Grognot SPECIES
 
 #### Status
 ACCEPTED

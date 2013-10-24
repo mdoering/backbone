@@ -1,5 +1,4 @@
-Pyrenophora ciliolata Moesz SPECIES
-=======
+# Pyrenophora ciliolata Moesz SPECIES
 
 #### Status
 ACCEPTED

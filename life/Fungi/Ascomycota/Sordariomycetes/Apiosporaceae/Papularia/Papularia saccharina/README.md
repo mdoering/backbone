@@ -1,5 +1,4 @@
-Papularia saccharina Penz. & Sacc. SPECIES
-=======
+# Papularia saccharina Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora muelleriana U. Braun & Crous SPECIES
-=======
+# Cercospora muelleriana U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta lenticularis Pass. SPECIES
-=======
+# Phyllosticta lenticularis Pass. SPECIES
 
 #### Status
 ACCEPTED

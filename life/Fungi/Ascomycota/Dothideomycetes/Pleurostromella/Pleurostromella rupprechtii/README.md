@@ -1,5 +1,4 @@
-Pleurostromella rupprechtii Petr. SPECIES
-=======
+# Pleurostromella rupprechtii Petr. SPECIES
 
 #### Status
 ACCEPTED

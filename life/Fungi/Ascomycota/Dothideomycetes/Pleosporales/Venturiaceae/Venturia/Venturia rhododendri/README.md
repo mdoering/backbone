@@ -1,5 +1,4 @@
-Venturia rhododendri Hemmi & Kurata SPECIES
-=======
+# Venturia rhododendri Hemmi & Kurata SPECIES
 
 #### Status
 ACCEPTED

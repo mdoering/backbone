@@ -1,5 +1,4 @@
-Puccinia salviae-stipae Kleb. SPECIES
-=======
+# Puccinia salviae-stipae Kleb. SPECIES
 
 #### Status
 ACCEPTED

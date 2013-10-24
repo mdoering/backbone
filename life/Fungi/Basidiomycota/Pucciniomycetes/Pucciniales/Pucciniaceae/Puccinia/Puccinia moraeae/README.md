@@ -1,5 +1,4 @@
-Puccinia moraeae Henn. SPECIES
-=======
+# Puccinia moraeae Henn. SPECIES
 
 #### Status
 ACCEPTED

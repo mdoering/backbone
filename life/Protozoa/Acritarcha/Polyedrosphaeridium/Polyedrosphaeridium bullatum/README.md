@@ -1,5 +1,4 @@
-Polyedrosphaeridium bullatum Timofeev, 1966 SPECIES
-=======
+# Polyedrosphaeridium bullatum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymopsis radicivora Sacc. SPECIES
-=======
+# Didymopsis radicivora Sacc. SPECIES
 
 #### Status
 ACCEPTED

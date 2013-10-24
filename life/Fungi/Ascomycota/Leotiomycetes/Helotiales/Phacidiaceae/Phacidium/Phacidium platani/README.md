@@ -1,5 +1,4 @@
-Phacidium platani Schwein. SPECIES
-=======
+# Phacidium platani Schwein. SPECIES
 
 #### Status
 ACCEPTED

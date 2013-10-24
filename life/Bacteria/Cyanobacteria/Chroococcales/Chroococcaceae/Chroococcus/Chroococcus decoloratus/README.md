@@ -1,5 +1,4 @@
-Chroococcus decoloratus Migula SPECIES
-=======
+# Chroococcus decoloratus Migula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus salakensis A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus salakensis A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spadicoides heterocolorata (R.F. Castañeda, Guarro & Cano) Goh & K.D. Hyde SPECIES
-=======
+# Spadicoides heterocolorata (R.F. Castañeda, Guarro & Cano) Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

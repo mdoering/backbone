@@ -1,5 +1,4 @@
-Phaeangella pruinosa (Rostr.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella pruinosa (Rostr.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

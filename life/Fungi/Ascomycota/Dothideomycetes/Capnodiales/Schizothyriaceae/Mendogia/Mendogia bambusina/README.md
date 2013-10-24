@@ -1,5 +1,4 @@
-Mendogia bambusina Racib., 1900 SPECIES
-=======
+# Mendogia bambusina Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

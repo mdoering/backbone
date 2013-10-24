@@ -1,5 +1,4 @@
-Pleurotus moricola (Fr.) Sacc. SPECIES
-=======
+# Pleurotus moricola (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

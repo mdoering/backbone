@@ -1,5 +1,4 @@
-Microglaena subluridella (Vain.) Zahlbr. SPECIES
-=======
+# Microglaena subluridella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

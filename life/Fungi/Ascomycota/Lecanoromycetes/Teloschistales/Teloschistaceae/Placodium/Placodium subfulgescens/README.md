@@ -1,5 +1,4 @@
-Placodium subfulgescens f. subfulgescens FORM
-=======
+# Placodium subfulgescens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

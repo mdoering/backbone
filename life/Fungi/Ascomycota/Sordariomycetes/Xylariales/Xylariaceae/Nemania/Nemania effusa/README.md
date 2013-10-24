@@ -1,17 +1,16 @@
-Hypoxylon effusum var. effusum Nitschke VARIETY
-=======
+# Nemania effusa (Nitschke) Pouzar, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 39(1): 24 (1985)
 
 #### Original name
-Hypoxylon effusum var. effusum Nitschke
+Hypoxylon effusum Nitschke, 1867
 
 ### Remarks
 null

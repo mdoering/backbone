@@ -1,5 +1,4 @@
-Pholiotella gibberosa (Fr.) Rick SPECIES
-=======
+# Pholiotella gibberosa (Fr.) Rick SPECIES
 
 #### Status
 ACCEPTED

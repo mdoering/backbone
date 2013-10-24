@@ -1,5 +1,4 @@
-Urocystis oxalidis Pazschke SPECIES
-=======
+# Urocystis oxalidis Pazschke SPECIES
 
 #### Status
 ACCEPTED

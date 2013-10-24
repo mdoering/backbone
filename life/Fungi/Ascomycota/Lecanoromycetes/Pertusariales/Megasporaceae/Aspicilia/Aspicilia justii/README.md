@@ -1,5 +1,4 @@
-Aspicilia justii (Servít) Ozenda & Clauzade SPECIES
-=======
+# Aspicilia justii (Servít) Ozenda & Clauzade SPECIES
 
 #### Status
 ACCEPTED

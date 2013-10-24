@@ -1,17 +1,16 @@
-Monochaetia karstenii var. karstenii VARIETY
-=======
+# Monochaetia karstenii (Sacc. & P. Syd.) B. Sutton, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Can. J. Bot. 47(12): 2091 (1969)
 
 #### Original name
-Monochaetia karstenii var. karstenii
+Pestalotia karstenii Sacc. & P. Syd., 1899
 
 ### Remarks
 null

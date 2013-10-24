@@ -1,5 +1,4 @@
-Cyphinus Haeckel, 1881 GENUS
-=======
+# Cyphinus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

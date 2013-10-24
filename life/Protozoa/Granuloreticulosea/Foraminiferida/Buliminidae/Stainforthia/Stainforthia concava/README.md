@@ -1,5 +1,4 @@
-Stainforthia concava (Höglund, 1947) SPECIES
-=======
+# Stainforthia concava (Höglund, 1947) SPECIES
 
 #### Status
 ACCEPTED

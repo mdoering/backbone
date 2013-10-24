@@ -1,5 +1,4 @@
-Vainionora mexicana Kalb & Elix SPECIES
-=======
+# Vainionora mexicana Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

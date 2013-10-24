@@ -1,5 +1,4 @@
-Cordyceps shimizui Y.J. Yao SPECIES
-=======
+# Cordyceps shimizui Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

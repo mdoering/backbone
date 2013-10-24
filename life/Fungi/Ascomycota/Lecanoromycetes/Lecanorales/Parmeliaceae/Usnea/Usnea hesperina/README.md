@@ -1,5 +1,4 @@
-Usnea hesperina f. hesperina FORM
-=======
+# Usnea hesperina Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea hesperina f. hesperina
+Usnea hesperina Motyka
 
 ### Remarks
 null

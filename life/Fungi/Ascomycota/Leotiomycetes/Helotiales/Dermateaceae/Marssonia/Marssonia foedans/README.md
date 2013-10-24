@@ -1,5 +1,4 @@
-Marssonia foedans SPECIES
-=======
+# Marssonia foedans SPECIES
 
 #### Status
 ACCEPTED

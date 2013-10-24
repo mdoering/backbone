@@ -1,5 +1,4 @@
-Pleospora drygalskiana Henn. SPECIES
-=======
+# Pleospora drygalskiana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uleodothis pteridis F. Stevens SPECIES
-=======
+# Uleodothis pteridis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

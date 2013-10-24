@@ -1,5 +1,4 @@
-Agaricus gnaphalopus Berk. & Broome SPECIES
-=======
+# Agaricus gnaphalopus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

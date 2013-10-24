@@ -1,5 +1,4 @@
-Erinella isabellina Starbäck SPECIES
-=======
+# Erinella isabellina Starbäck SPECIES
 
 #### Status
 ACCEPTED

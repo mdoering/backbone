@@ -1,5 +1,4 @@
-Neottiospora arenaria Syd. & P. Syd., 1912 SPECIES
-=======
+# Neottiospora arenaria Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

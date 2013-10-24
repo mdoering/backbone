@@ -1,5 +1,4 @@
-Wanaea spectabilis (Deflandre & Cookson) Cookson & Eisenack, 1958 SPECIES
-=======
+# Wanaea spectabilis (Deflandre & Cookson) Cookson & Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

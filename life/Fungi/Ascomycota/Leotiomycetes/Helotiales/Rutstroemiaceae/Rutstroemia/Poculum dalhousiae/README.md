@@ -1,5 +1,4 @@
-Poculum dalhousiae M.P. Sharma SPECIES
-=======
+# Poculum dalhousiae M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

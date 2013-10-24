@@ -1,5 +1,4 @@
-Erysiphella carestiana Sacc. SPECIES
-=======
+# Erysiphella carestiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

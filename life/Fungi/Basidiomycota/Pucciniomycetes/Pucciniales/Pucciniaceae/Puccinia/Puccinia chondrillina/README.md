@@ -1,5 +1,4 @@
-Puccinia chondrillina Bubák SPECIES
-=======
+# Puccinia chondrillina Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria hunteri C.W. Dodge SPECIES
-=======
+# Umbilicaria hunteri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

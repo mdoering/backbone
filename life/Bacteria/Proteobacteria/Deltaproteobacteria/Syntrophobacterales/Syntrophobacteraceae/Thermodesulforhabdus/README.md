@@ -1,5 +1,4 @@
-Thermodesulforhabdus Beeder et al., 1996 GENUS
-=======
+# Thermodesulforhabdus Beeder et al., 1996 GENUS
 
 #### Status
 ACCEPTED

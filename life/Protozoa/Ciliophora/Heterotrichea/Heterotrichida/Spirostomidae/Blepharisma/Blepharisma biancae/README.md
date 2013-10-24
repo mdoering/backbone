@@ -1,5 +1,4 @@
-Blepharisma biancae Lepsi, 1948 SPECIES
-=======
+# Blepharisma biancae Lepsi, 1948 SPECIES
 
 #### Status
 ACCEPTED

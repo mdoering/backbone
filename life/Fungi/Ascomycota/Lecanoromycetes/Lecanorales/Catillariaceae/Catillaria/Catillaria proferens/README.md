@@ -1,5 +1,4 @@
-Catillaria proferens (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria proferens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

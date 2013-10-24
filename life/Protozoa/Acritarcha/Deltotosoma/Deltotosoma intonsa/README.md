@@ -1,5 +1,4 @@
-Deltotosoma intonsa Playford in Playford & Dring, 1981 SPECIES
-=======
+# Deltotosoma intonsa Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

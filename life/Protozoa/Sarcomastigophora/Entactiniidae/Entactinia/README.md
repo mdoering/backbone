@@ -1,5 +1,4 @@
-Entactinia Foreman, 1963 GENUS
-=======
+# Entactinia Foreman, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon yamanashiense Yokots. & Goto SPECIES
-=======
+# Trichosporon yamanashiense Yokots. & Goto SPECIES
 
 #### Status
 ACCEPTED

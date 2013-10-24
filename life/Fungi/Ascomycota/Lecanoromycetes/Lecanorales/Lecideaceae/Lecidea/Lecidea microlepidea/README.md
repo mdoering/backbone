@@ -1,5 +1,4 @@
-Lecidea microlepidea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecidea microlepidea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

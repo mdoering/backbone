@@ -1,5 +1,4 @@
-Microthyrium olivaceum (Höhn.) Theiss. SPECIES
-=======
+# Microthyrium olivaceum (Höhn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

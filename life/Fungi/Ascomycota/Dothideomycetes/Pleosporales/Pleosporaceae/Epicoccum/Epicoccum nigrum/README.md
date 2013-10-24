@@ -1,17 +1,16 @@
-Epicoccum vulgare var. vulgare VARIETY
-=======
+# Epicoccum nigrum Link, 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 7: 32 (1815)
 
 #### Original name
-Epicoccum vulgare var. vulgare
+Epicoccum nigrum Link, 1815
 
 ### Remarks
 null

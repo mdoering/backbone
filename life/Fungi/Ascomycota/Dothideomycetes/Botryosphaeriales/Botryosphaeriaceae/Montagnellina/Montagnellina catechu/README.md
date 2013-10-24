@@ -1,5 +1,4 @@
-Montagnellina catechu Sawada SPECIES
-=======
+# Montagnellina catechu Sawada SPECIES
 
 #### Status
 ACCEPTED

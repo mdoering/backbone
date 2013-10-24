@@ -1,5 +1,4 @@
-Thiovirga sulfuroxydans Ito et al., 2005 SPECIES
-=======
+# Thiovirga sulfuroxydans Ito et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

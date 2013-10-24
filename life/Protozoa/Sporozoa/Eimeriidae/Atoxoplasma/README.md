@@ -1,14 +1,13 @@
-Leucocytogregarina Porter, 1909 GENUS
-=======
+# Atoxoplasma Garnham, 1950 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sci. Progr. London, 4, 264.
+Parasitology, 40, 332.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Rhinocladiella apiculata (Miller, Giddens & Foster) Matsushima SPECIES
-=======
+# Rhinocladiella apiculata (Miller, Giddens & Foster) Matsushima SPECIES
 
 #### Status
 ACCEPTED

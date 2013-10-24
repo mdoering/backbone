@@ -1,5 +1,4 @@
-Fusarium oryzae Vincens SPECIES
-=======
+# Fusarium oryzae Vincens SPECIES
 
 #### Status
 ACCEPTED

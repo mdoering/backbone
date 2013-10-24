@@ -1,5 +1,4 @@
-Arthonia pertusariella Müll. Arg. SPECIES
-=======
+# Arthonia pertusariella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Misgomyces hingstoni Balazuc SPECIES
-=======
+# Misgomyces hingstoni Balazuc SPECIES
 
 #### Status
 ACCEPTED

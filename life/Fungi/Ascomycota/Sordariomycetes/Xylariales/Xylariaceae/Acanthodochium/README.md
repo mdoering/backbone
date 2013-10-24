@@ -1,5 +1,4 @@
-Acanthodochium Samuels, J.D. Rogers & Nagas. GENUS
-=======
+# Acanthodochium Samuels, J.D. Rogers & Nagas. GENUS
 
 #### Status
 ACCEPTED

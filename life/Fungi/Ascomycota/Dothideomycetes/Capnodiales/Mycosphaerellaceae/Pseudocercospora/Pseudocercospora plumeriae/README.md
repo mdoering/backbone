@@ -1,5 +1,4 @@
-Pseudocercospora plumeriae (Chupp) Tak. Kobay., Nishij. & C. Nakash. SPECIES
-=======
+# Pseudocercospora plumeriae (Chupp) Tak. Kobay., Nishij. & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

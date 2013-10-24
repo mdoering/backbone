@@ -1,5 +1,4 @@
-Lecanora bulbillata Motyka SPECIES
-=======
+# Lecanora bulbillata Motyka SPECIES
 
 #### Status
 ACCEPTED

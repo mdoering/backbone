@@ -1,5 +1,4 @@
-Coprinopsis fibrillosa (Berk. & Broome) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis fibrillosa (Berk. & Broome) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

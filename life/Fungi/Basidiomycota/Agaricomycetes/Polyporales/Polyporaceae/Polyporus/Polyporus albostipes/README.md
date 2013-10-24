@@ -1,5 +1,4 @@
-Polyporus albostipes Ryvarden & Iturr. SPECIES
-=======
+# Polyporus albostipes Ryvarden & Iturr. SPECIES
 
 #### Status
 ACCEPTED

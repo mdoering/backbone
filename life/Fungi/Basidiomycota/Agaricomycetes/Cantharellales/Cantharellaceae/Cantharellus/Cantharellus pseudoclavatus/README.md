@@ -1,5 +1,4 @@
-Cantharellus pseudoclavatus A.H. Sm. SPECIES
-=======
+# Cantharellus pseudoclavatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

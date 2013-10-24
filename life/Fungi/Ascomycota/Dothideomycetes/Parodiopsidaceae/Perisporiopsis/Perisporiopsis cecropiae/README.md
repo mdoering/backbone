@@ -1,5 +1,4 @@
-Perisporiopsis cecropiae var. cecropiae VARIETY
-=======
+# Perisporiopsis cecropiae SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Perisporiopsis cecropiae var. cecropiae
+Parodiopsis cecropiae
 
 ### Remarks
 null

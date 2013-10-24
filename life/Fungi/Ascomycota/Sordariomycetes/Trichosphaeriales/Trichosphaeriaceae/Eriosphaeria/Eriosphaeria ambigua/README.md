@@ -1,5 +1,4 @@
-Eriosphaeria ambigua Höhn. SPECIES
-=======
+# Eriosphaeria ambigua Höhn. SPECIES
 
 #### Status
 ACCEPTED

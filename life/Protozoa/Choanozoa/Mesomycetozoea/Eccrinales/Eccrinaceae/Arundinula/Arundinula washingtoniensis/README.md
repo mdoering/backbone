@@ -1,5 +1,4 @@
-Arundinula washingtoniensis Hibbits, 1979 SPECIES
-=======
+# Arundinula washingtoniensis Hibbits, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis calderi Pegler SPECIES
-=======
+# Crinipellis calderi Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Septoria robiniae f. robiniae FORM
-=======
+# Phloeospora robiniae (Lib.) Höhn., 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 3: 333 (1905)
 
 #### Original name
-Septoria robiniae f. robiniae
+Ascochyta robiniae Lib., 1837
 
 ### Remarks
 null

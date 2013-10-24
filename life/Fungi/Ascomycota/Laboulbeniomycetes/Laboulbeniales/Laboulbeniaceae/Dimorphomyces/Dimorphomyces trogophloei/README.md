@@ -1,5 +1,4 @@
-Dimorphomyces trogophloei Speg. SPECIES
-=======
+# Dimorphomyces trogophloei Speg. SPECIES
 
 #### Status
 ACCEPTED

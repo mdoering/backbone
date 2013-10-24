@@ -1,5 +1,4 @@
-Acrodictys lignicola Manohar., N.K. Rao, D.K. Agarwal & Kunwar SPECIES
-=======
+# Acrodictys lignicola Manohar., N.K. Rao, D.K. Agarwal & Kunwar SPECIES
 
 #### Status
 ACCEPTED

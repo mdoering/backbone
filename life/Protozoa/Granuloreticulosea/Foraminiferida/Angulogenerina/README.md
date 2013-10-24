@@ -1,5 +1,4 @@
-Angulogenerina GENUS
-=======
+# Angulogenerina GENUS
 
 #### Status
 ACCEPTED

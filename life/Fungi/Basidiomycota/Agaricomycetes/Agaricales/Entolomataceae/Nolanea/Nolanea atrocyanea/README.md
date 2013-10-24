@@ -1,5 +1,4 @@
-Nolanea atrocyanea Clem. SPECIES
-=======
+# Nolanea atrocyanea Clem. SPECIES
 
 #### Status
 ACCEPTED

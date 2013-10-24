@@ -1,5 +1,4 @@
-Mortierella striospora K.B. Deshp. & Mantri SPECIES
-=======
+# Mortierella striospora K.B. Deshp. & Mantri SPECIES
 
 #### Status
 ACCEPTED

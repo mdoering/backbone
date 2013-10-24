@@ -1,5 +1,4 @@
-Stenella rubiacearum S. Chaudhary, N. Sharma & Kamal SPECIES
-=======
+# Stenella rubiacearum S. Chaudhary, N. Sharma & Kamal SPECIES
 
 #### Status
 ACCEPTED

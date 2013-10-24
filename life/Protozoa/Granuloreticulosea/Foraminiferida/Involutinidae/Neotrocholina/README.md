@@ -1,5 +1,4 @@
-Neotrocholina Reichel, 1955 GENUS
-=======
+# Neotrocholina Reichel, 1955 GENUS
 
 #### Status
 ACCEPTED

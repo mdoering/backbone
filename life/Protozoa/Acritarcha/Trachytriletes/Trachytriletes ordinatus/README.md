@@ -1,5 +1,4 @@
-Trachytriletes ordinatus Khlonova, 1960 SPECIES
-=======
+# Trachytriletes ordinatus Khlonova, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa jaapiana Kirschst. SPECIES
-=======
+# Valsa jaapiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

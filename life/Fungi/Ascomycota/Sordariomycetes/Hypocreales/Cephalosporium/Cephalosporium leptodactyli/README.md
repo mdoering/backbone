@@ -1,5 +1,4 @@
-Cephalosporium leptodactyli W. Mann SPECIES
-=======
+# Cephalosporium leptodactyli W. Mann SPECIES
 
 #### Status
 ACCEPTED

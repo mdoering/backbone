@@ -1,5 +1,4 @@
-Polyporus didrichsenii Fr. SPECIES
-=======
+# Polyporus didrichsenii Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotryum deightonii Hansf. SPECIES
-=======
+# Arthrobotryum deightonii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pluesia Nieuwl. GENUS
-=======
+# Maurya Patouillard, 1898 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Am. Midl. Nat. 4: 380 (1916)
+Bull. Soc. mycol. Fr. 14: 56 (1898)
 
 #### Original name
-Pluesia Nieuwl.
+Maurya Patouillard, 1898
 
 ### Remarks
 null

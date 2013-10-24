@@ -1,5 +1,4 @@
-Cercosporidium glochidii S. Singh SPECIES
-=======
+# Cercosporidium glochidii S. Singh SPECIES
 
 #### Status
 ACCEPTED

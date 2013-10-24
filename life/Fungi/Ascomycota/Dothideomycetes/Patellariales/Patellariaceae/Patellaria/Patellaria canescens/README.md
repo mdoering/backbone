@@ -1,5 +1,4 @@
-Patellaria canescens (Dicks.) Wallr. SPECIES
-=======
+# Patellaria canescens (Dicks.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

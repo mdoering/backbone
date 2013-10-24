@@ -1,5 +1,4 @@
-Cercospora stomatophila (Speg.) U. Braun SPECIES
-=======
+# Cercospora stomatophila (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

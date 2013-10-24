@@ -1,5 +1,4 @@
-Soreumium Haeckel, 1887 GENUS
-=======
+# Soreumium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

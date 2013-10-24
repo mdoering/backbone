@@ -1,5 +1,4 @@
-Lecanora coniferarum Printzen SPECIES
-=======
+# Lecanora coniferarum Printzen SPECIES
 
 #### Status
 ACCEPTED

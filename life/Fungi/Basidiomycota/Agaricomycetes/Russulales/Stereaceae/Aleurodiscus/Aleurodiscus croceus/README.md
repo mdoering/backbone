@@ -1,5 +1,4 @@
-Aleurodiscus croceus Pat., 1893 SPECIES
-=======
+# Aleurodiscus croceus Pat., 1893 SPECIES
 
 #### Status
 ACCEPTED

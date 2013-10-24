@@ -1,5 +1,4 @@
-Camarophyllus obconicus (Peck) Murrill SPECIES
-=======
+# Camarophyllus obconicus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

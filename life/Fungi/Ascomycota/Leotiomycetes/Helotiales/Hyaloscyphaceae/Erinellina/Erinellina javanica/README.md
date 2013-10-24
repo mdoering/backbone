@@ -1,5 +1,4 @@
-Erinellina javanica (Henn. & E. Nyman) Teng SPECIES
-=======
+# Erinellina javanica (Henn. & E. Nyman) Teng SPECIES
 
 #### Status
 ACCEPTED

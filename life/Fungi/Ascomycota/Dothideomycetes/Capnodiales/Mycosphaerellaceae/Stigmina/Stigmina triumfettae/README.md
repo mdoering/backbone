@@ -1,5 +1,4 @@
-Stigmina triumfettae M.B. Ellis SPECIES
-=======
+# Stigmina triumfettae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

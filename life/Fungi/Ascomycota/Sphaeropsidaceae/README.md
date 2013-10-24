@@ -1,5 +1,4 @@
-Sphaeropsidaceae Lév. FAMILY
-=======
+# Sphaeropsidaceae Lév. FAMILY
 
 #### Status
 ACCEPTED

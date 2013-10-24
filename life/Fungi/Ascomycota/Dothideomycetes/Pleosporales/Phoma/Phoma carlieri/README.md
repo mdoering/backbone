@@ -1,5 +1,4 @@
-Phoma carlieri Kabát & Bubák SPECIES
-=======
+# Phoma carlieri Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

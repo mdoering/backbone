@@ -1,5 +1,4 @@
-Ilytheomyces calycinus Thaxt. SPECIES
-=======
+# Ilytheomyces calycinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wicklowia GENUS
-=======
+# Wicklowia GENUS
 
 #### Status
 ACCEPTED

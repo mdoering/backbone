@@ -1,5 +1,4 @@
-Hypotrachyna galbinica Elix, Laily & Wahid SPECIES
-=======
+# Hypotrachyna galbinica Elix, Laily & Wahid SPECIES
 
 #### Status
 ACCEPTED

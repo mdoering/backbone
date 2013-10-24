@@ -1,5 +1,4 @@
-Hydrocybe iaganica (Speg.) E. Horak SPECIES
-=======
+# Hydrocybe iaganica (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

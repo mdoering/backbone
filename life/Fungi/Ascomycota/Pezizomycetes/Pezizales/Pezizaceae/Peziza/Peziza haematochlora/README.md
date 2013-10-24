@@ -1,5 +1,4 @@
-Peziza haematochlora Speg. SPECIES
-=======
+# Peziza haematochlora Speg. SPECIES
 
 #### Status
 ACCEPTED

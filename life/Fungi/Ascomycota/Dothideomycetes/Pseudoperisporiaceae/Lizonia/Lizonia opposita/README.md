@@ -1,5 +1,4 @@
-Lizonia opposita E. Bommer & M. Rousseau SPECIES
-=======
+# Lizonia opposita E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

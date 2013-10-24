@@ -1,5 +1,4 @@
-Volvocisporium grewiae Ritschel & Oberw. SPECIES
-=======
+# Volvocisporium grewiae Ritschel & Oberw. SPECIES
 
 #### Status
 ACCEPTED

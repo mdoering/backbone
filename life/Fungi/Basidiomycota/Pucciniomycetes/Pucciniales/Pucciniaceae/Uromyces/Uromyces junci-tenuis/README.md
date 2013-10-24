@@ -1,5 +1,4 @@
-Uromyces junci-tenuis Petr. SPECIES
-=======
+# Uromyces junci-tenuis Petr. SPECIES
 
 #### Status
 ACCEPTED

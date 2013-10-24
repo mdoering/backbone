@@ -1,5 +1,4 @@
-Scutellinia parvispora J. Moravec SPECIES
-=======
+# Scutellinia parvispora J. Moravec SPECIES
 
 #### Status
 ACCEPTED

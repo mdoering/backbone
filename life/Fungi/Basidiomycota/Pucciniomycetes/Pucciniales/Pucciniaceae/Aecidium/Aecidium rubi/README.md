@@ -1,5 +1,4 @@
-Aecidium rubi Sowerby SPECIES
-=======
+# Aecidium rubi Sowerby SPECIES
 
 #### Status
 ACCEPTED

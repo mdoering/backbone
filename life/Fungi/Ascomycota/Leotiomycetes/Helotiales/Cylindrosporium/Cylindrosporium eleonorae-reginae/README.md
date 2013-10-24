@@ -1,5 +1,4 @@
-Cylindrosporium eleonorae-reginae Bubák & Kabát SPECIES
-=======
+# Cylindrosporium eleonorae-reginae Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

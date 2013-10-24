@@ -1,5 +1,4 @@
-Thraustochytriidae FAMILY
-=======
+# Thraustochytriidae FAMILY
 
 #### Status
 ACCEPTED

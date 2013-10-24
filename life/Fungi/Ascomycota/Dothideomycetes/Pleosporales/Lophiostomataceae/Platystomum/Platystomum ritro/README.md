@@ -1,5 +1,4 @@
-Platystomum ritro (Pass.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum ritro (Pass.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

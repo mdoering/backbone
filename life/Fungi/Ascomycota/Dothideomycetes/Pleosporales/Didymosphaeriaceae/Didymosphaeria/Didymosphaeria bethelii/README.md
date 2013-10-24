@@ -1,17 +1,16 @@
-Didymosphaeria betheli Cockerell SPECIES
-=======
+# Didymosphaeria bethelii Cockerell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of the American Museum of natural History 24(IV): 75 + fig. 1 (1908)
 
 #### Original name
-Didymosphaeria betheli Cockerell
+Didymosphaeria bethelii Cockerell
 
 ### Remarks
 null

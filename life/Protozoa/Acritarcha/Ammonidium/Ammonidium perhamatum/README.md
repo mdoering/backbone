@@ -1,5 +1,4 @@
-Ammonidium perhamatum (Eisenack et al., 1979) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Ammonidium perhamatum (Eisenack et al., 1979) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

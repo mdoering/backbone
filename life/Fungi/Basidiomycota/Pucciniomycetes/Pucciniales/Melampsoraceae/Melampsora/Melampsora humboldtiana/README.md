@@ -1,5 +1,4 @@
-Melampsora humboldtiana Speg. SPECIES
-=======
+# Melampsora humboldtiana Speg. SPECIES
 
 #### Status
 ACCEPTED

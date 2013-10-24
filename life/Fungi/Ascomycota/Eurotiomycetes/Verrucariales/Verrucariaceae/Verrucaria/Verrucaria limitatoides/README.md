@@ -1,5 +1,4 @@
-Verrucaria limitatoides Servít SPECIES
-=======
+# Verrucaria limitatoides Servít SPECIES
 
 #### Status
 ACCEPTED

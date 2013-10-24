@@ -1,5 +1,4 @@
-Mycena betulina Velen. SPECIES
-=======
+# Mycena betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium vesiculosum J. Larsen, 1996 SPECIES
-=======
+# Gyrodinium vesiculosum J. Larsen, 1996 SPECIES
 
 #### Status
 ACCEPTED

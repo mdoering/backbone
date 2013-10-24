@@ -1,5 +1,4 @@
-Pertusaria schizostoma Müll. Arg. SPECIES
-=======
+# Pertusaria schizostoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria hetaerizans Leight. SPECIES
-=======
+# Verrucaria hetaerizans Leight. SPECIES
 
 #### Status
 ACCEPTED

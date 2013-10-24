@@ -1,5 +1,4 @@
-Phoma kochiae Lobik SPECIES
-=======
+# Phoma kochiae Lobik SPECIES
 
 #### Status
 ACCEPTED

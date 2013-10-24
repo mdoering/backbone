@@ -1,5 +1,4 @@
-Collybia pinacea Velen. SPECIES
-=======
+# Collybia pinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

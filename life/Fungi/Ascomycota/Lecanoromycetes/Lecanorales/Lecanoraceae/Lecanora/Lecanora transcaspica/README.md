@@ -1,5 +1,4 @@
-Lecanora transcaspica Nyl. SPECIES
-=======
+# Lecanora transcaspica Nyl. SPECIES
 
 #### Status
 ACCEPTED

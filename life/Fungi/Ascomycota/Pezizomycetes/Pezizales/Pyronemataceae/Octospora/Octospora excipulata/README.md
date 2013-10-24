@@ -1,5 +1,4 @@
-Octospora excipulata (Clem.) Benkert SPECIES
-=======
+# Octospora excipulata (Clem.) Benkert SPECIES
 
 #### Status
 ACCEPTED

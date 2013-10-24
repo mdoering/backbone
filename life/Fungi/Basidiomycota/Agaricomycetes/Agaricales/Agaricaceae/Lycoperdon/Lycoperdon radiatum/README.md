@@ -1,5 +1,4 @@
-Lycoperdon radiatum Batsch SPECIES
-=======
+# Lycoperdon radiatum Batsch SPECIES
 
 #### Status
 ACCEPTED

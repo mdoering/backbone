@@ -1,5 +1,4 @@
-Patellaria mougeotiana DC. SPECIES
-=======
+# Patellaria mougeotiana DC. SPECIES
 
 #### Status
 ACCEPTED

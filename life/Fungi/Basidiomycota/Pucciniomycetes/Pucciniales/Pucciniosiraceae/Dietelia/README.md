@@ -1,17 +1,16 @@
-Endophylloides Whetzel & Olive GENUS
-=======
+# Dietelia Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 4: 50 (1917)
+Hedwigia 36: 215 (1897)
 
 #### Original name
-Endophylloides Whetzel & Olive
+Dietelia Henn.
 
 ### Remarks
 null

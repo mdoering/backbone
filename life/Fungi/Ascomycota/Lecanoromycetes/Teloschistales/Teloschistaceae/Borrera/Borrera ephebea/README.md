@@ -1,5 +1,4 @@
-Borrera ephebea SPECIES
-=======
+# Borrera ephebea SPECIES
 
 #### Status
 ACCEPTED

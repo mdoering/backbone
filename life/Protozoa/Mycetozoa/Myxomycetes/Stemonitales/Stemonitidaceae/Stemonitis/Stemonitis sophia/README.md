@@ -1,5 +1,4 @@
-Stemonitis sophia Golovenko {?} SPECIES
-=======
+# Stemonitis sophia Golovenko {?} SPECIES
 
 #### Status
 ACCEPTED

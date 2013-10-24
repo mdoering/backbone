@@ -1,5 +1,4 @@
-Pseudocercospora carissae B.B. Singh & P. Mukerjee SPECIES
-=======
+# Pseudocercospora carissae B.B. Singh & P. Mukerjee SPECIES
 
 #### Status
 ACCEPTED

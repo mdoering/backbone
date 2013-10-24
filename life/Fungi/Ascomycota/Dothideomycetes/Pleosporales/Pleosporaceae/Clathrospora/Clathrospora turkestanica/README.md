@@ -1,5 +1,4 @@
-Clathrospora turkestanica Domashova SPECIES
-=======
+# Clathrospora turkestanica Domashova SPECIES
 
 #### Status
 ACCEPTED

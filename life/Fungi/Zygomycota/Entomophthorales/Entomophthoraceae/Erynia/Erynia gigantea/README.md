@@ -1,5 +1,4 @@
-Erynia gigantea Z.Z. Li, Z.A. Chen & Y.W. Xu, 1990 SPECIES
-=======
+# Erynia gigantea Z.Z. Li, Z.A. Chen & Y.W. Xu, 1990 SPECIES
 
 #### Status
 ACCEPTED

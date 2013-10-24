@@ -1,5 +1,4 @@
-Buellia ryanii Bungartz SPECIES
-=======
+# Buellia ryanii Bungartz SPECIES
 
 #### Status
 ACCEPTED

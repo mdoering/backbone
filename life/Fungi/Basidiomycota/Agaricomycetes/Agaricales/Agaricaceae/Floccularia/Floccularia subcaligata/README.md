@@ -1,14 +1,13 @@
-Amanita subcaligata (A.H. Sm. & P.M. Rea) A.H. Sm. ex Tulloss, 1995 SPECIES
-=======
+# Floccularia subcaligata (A.H. Sm. & Rea) Bon, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Volk & Burdsall, Syn. Fung. (Oslo) 8: 112 (1995)
+Docums Mycol. 21(no. 81): 55 (1991)
 
 #### Original name
 Armillaria subcaligata A.H. Sm. & P.M. Rea, 1944

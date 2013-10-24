@@ -1,5 +1,4 @@
-Dichomera phaceliae Cooke & Harkn. SPECIES
-=======
+# Dichomera phaceliae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

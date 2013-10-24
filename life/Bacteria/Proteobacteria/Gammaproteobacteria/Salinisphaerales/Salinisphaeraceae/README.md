@@ -1,5 +1,4 @@
-Salinisphaeraceae FAMILY
-=======
+# Salinisphaeraceae FAMILY
 
 #### Status
 ACCEPTED

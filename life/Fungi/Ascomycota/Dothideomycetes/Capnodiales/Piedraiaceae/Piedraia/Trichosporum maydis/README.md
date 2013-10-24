@@ -1,5 +1,4 @@
-Trichosporum maydis (Garov.) Sacc. SPECIES
-=======
+# Trichosporum maydis (Garov.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

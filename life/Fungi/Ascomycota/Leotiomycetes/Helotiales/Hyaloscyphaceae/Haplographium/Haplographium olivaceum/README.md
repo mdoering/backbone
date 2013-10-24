@@ -1,5 +1,4 @@
-Haplographium olivaceum Cooke & Massee SPECIES
-=======
+# Haplographium olivaceum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

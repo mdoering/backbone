@@ -1,5 +1,4 @@
-Ascochyta hydrophylli-virginiana H.C. Greene SPECIES
-=======
+# Ascochyta hydrophylli-virginiana H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cryptodiaporthe hranicensis (Petr.) Wehm., 1933 SPECIES
-=======
+# Amphiporthe hranicensis (Petr.) Petr., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-University of Michigan Studies, Science Series 9: 214 (1933)
+Sydowia 24(1-6): 257 (1971)
 
 #### Original name
 Diaporthe hranicensis Petr., 1911

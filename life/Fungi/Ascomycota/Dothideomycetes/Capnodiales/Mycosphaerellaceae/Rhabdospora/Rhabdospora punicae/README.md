@@ -1,5 +1,4 @@
-Rhabdospora punicae Casali SPECIES
-=======
+# Rhabdospora punicae Casali SPECIES
 
 #### Status
 ACCEPTED

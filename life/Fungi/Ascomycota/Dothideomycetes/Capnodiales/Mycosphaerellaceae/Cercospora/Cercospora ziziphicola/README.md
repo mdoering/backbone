@@ -1,17 +1,16 @@
-Cercospora zizyphicola J.M. Yen SPECIES
-=======
+# Cercospora ziziphicola J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 93(1): 164 (1977)
 
 #### Original name
-Cercospora zizyphicola J.M. Yen
+Cercospora ziziphicola J.M. Yen
 
 ### Remarks
 null

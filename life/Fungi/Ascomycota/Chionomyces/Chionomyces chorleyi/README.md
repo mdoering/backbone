@@ -1,5 +1,4 @@
-Chionomyces chorleyi (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Chionomyces chorleyi (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

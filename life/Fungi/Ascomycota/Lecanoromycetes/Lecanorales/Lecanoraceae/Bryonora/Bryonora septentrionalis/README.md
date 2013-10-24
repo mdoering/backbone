@@ -1,5 +1,4 @@
-Bryonora septentrionalis Holt.-Hartw. SPECIES
-=======
+# Bryonora septentrionalis Holt.-Hartw. SPECIES
 
 #### Status
 ACCEPTED

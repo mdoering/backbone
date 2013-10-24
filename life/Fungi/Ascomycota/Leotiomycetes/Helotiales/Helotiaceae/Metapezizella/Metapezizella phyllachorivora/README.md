@@ -1,5 +1,4 @@
-Metapezizella phyllachorivora Petr., 1968 SPECIES
-=======
+# Metapezizella phyllachorivora Petr., 1968 SPECIES
 
 #### Status
 ACCEPTED

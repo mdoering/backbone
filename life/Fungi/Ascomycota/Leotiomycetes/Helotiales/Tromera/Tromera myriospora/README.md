@@ -1,5 +1,4 @@
-Tromera myriospora var. myriospora VARIETY
-=======
+# Tromera myriospora (Hepp) Anzi SPECIES
 
 #### Status
 ACCEPTED

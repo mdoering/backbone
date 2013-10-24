@@ -1,5 +1,4 @@
-Patellaria subrosella (Nyl.) SPECIES
-=======
+# Patellaria subrosella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

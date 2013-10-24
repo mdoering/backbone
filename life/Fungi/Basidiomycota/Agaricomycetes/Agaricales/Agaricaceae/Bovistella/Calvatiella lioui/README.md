@@ -1,5 +1,4 @@
-Calvatiella lioui C.H. Chow SPECIES
-=======
+# Calvatiella lioui C.H. Chow SPECIES
 
 #### Status
 ACCEPTED

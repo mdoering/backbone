@@ -1,5 +1,4 @@
-Xanthoparmelia subverrucigera O. Blanco, A. Crespo & Elix SPECIES
-=======
+# Xanthoparmelia subverrucigera O. Blanco, A. Crespo & Elix SPECIES
 
 #### Status
 ACCEPTED

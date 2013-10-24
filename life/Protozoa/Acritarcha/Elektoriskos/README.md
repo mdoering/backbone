@@ -1,5 +1,4 @@
-Elektoriskos A.R. Loeblich Jr., 1970 GENUS
-=======
+# Elektoriskos A.R. Loeblich Jr., 1970 GENUS
 
 #### Status
 ACCEPTED

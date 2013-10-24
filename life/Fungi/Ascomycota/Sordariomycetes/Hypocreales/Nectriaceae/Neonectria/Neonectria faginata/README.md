@@ -1,5 +1,4 @@
-Neonectria faginata (M.L. Lohman, A.M.J. Watson & Ayers) Castl. & Rossman SPECIES
-=======
+# Neonectria faginata (M.L. Lohman, A.M.J. Watson & Ayers) Castl. & Rossman SPECIES
 
 #### Status
 ACCEPTED

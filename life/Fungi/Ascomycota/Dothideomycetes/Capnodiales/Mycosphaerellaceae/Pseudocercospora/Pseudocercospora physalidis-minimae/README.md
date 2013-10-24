@@ -1,5 +1,4 @@
-Pseudocercospora physalidis-minimae (Pavgi & U.P. Singh) Deighton SPECIES
-=======
+# Pseudocercospora physalidis-minimae (Pavgi & U.P. Singh) Deighton SPECIES
 
 #### Status
 ACCEPTED

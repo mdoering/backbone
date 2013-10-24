@@ -1,5 +1,4 @@
-Asteridiella McAlpine GENUS
-=======
+# Asteridiella McAlpine GENUS
 
 #### Status
 ACCEPTED

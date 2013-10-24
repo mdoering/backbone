@@ -1,5 +1,4 @@
-Rhopalomyces macrosporus Marchal & É.J. Marchal SPECIES
-=======
+# Rhopalomyces macrosporus Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

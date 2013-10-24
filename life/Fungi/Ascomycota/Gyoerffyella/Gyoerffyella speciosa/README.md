@@ -1,14 +1,13 @@
-Ingoldia speciosa K. Miura, 1971 SPECIES
-=======
+# Gyoerffyella speciosa (K. Miura) Dudka, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 46(7): 193 (1971)
+Trans. Br. mycol. Soc. 63(3): 492 (1974)
 
 #### Original name
 Ingoldia speciosa K. Miura, 1971

@@ -1,5 +1,4 @@
-Eumela vestita (Earle) Bat. & H. Maia SPECIES
-=======
+# Eumela vestita (Earle) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

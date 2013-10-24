@@ -1,5 +1,4 @@
-Flammula longispora (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula longispora (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

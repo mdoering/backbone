@@ -1,5 +1,4 @@
-Dematium aluta Link SPECIES
-=======
+# Dematium aluta Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albatrellus avellaneus Pouzar, 1972 SPECIES
-=======
+# Albatrellus avellaneus Pouzar, 1972 SPECIES
 
 #### Status
 ACCEPTED

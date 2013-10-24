@@ -1,5 +1,4 @@
-Nyctotherus beta Earl, 1972 SPECIES
-=======
+# Nyctotherus beta Earl, 1972 SPECIES
 
 #### Status
 ACCEPTED

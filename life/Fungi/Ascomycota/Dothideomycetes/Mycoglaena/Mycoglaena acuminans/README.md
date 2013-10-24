@@ -1,17 +1,16 @@
-Verrucaria acuminans Nyl. SPECIES
-=======
+# Mycoglaena acuminans (Nyl.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 49(no. 2): 167 (1921)
 
 #### Original name
-Verrucaria acuminans Nyl.
+Polyblastia acuminans (Nyl.) Hulting
 
 ### Remarks
 null

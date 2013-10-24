@@ -1,5 +1,4 @@
-Lactarius azonus Britzelm. SPECIES
-=======
+# Lactarius azonus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

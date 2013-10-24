@@ -1,5 +1,4 @@
-Amazonia ugandensis Hansf. SPECIES
-=======
+# Amazonia ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

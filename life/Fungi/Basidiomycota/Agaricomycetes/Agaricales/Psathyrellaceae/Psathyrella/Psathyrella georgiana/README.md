@@ -1,5 +1,4 @@
-Psathyrella georgiana A.H. Sm. SPECIES
-=======
+# Psathyrella georgiana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

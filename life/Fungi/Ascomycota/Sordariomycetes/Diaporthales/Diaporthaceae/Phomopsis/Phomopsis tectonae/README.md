@@ -1,5 +1,4 @@
-Phomopsis tectonae D.P. Tiwari, R.C. Rajak & Nikhra SPECIES
-=======
+# Phomopsis tectonae D.P. Tiwari, R.C. Rajak & Nikhra SPECIES
 
 #### Status
 ACCEPTED

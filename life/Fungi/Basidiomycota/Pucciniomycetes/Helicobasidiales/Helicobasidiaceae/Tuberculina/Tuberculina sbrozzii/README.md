@@ -1,5 +1,4 @@
-Tuberculina sbrozzii Cavara & Sacc., 1899 SPECIES
-=======
+# Tuberculina sbrozzii Cavara & Sacc., 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calenia echinoplacoides Lücking SPECIES
-=======
+# Calenia echinoplacoides Lücking SPECIES
 
 #### Status
 ACCEPTED

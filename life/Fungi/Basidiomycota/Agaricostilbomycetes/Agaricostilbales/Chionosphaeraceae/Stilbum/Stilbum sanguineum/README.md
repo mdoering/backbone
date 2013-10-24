@@ -1,5 +1,4 @@
-Stilbum sanguineum Oudem. SPECIES
-=======
+# Stilbum sanguineum Oudem. SPECIES
 
 #### Status
 ACCEPTED

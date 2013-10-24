@@ -1,8 +1,7 @@
-Angulogerina carinata var. vana Todd, 1948 VARIETY
-=======
+# Trifarina vana (Todd, 1948) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

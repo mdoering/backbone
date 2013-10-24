@@ -1,5 +1,4 @@
-Ephebomyces lanatae Cif. & Tomas. SPECIES
-=======
+# Ephebomyces lanatae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

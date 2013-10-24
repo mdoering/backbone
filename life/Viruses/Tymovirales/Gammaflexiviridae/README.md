@@ -1,5 +1,4 @@
-Gammaflexiviridae FAMILY
-=======
+# Gammaflexiviridae FAMILY
 
 #### Status
 ACCEPTED

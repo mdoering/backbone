@@ -1,5 +1,4 @@
-Leptothyrium thevetiae Tassi SPECIES
-=======
+# Leptothyrium thevetiae Tassi SPECIES
 
 #### Status
 ACCEPTED

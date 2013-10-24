@@ -1,5 +1,4 @@
-Lyngbya aerugineo-caerulea (Kuetz.) Gomont SPECIES
-=======
+# Lyngbya aerugineo-caerulea (Kuetz.) Gomont SPECIES
 
 #### Status
 ACCEPTED

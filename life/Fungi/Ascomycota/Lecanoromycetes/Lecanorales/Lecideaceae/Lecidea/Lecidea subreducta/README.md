@@ -1,5 +1,4 @@
-Lecidea subreducta Vain. SPECIES
-=======
+# Lecidea subreducta Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schiffnerula corni S. Hughes SPECIES
-=======
+# Schiffnerula corni S. Hughes SPECIES
 
 #### Status
 ACCEPTED

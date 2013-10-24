@@ -1,5 +1,4 @@
-Polyblastia cucurbitula J.W. Thomson & B.M. Murray SPECIES
-=======
+# Polyblastia cucurbitula J.W. Thomson & B.M. Murray SPECIES
 
 #### Status
 ACCEPTED

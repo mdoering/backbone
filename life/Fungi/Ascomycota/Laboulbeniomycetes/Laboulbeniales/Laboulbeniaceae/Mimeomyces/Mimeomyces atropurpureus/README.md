@@ -1,5 +1,4 @@
-Mimeomyces atropurpureus Thaxt. SPECIES
-=======
+# Mimeomyces atropurpureus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

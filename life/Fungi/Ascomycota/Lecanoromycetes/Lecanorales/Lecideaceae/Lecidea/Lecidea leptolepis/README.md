@@ -1,5 +1,4 @@
-Lecidea leptolepis (Anzi) Stizenb. SPECIES
-=======
+# Lecidea leptolepis (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

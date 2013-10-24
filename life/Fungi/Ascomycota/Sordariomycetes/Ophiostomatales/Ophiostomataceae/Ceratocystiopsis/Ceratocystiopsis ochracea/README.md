@@ -1,5 +1,4 @@
-Ceratocystiopsis ochracea (H.D. Griffin) H.P. Upadhyay SPECIES
-=======
+# Ceratocystiopsis ochracea (H.D. Griffin) H.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Denritina Nicolucci, 1846 GENUS
-=======
+# Dendritina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Ann. Bologna, [2] 6, 204.
+Ann. Sci. Nat. , 7 (27), 285.
 
 #### Original name
 null

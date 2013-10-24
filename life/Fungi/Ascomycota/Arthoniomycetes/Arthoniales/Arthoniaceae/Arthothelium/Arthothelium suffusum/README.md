@@ -1,5 +1,4 @@
-Arthothelium suffusum (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthothelium suffusum (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

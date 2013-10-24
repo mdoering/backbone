@@ -1,5 +1,4 @@
-Micropeltis granulata Berk. & Broome SPECIES
-=======
+# Micropeltis granulata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

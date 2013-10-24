@@ -1,5 +1,4 @@
-Salpingoeca Ellis, 1933 GENUS
-=======
+# Salpingoeca Ellis, 1933 GENUS
 
 #### Status
 ACCEPTED

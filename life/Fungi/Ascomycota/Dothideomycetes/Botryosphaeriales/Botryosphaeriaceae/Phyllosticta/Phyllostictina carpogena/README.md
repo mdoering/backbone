@@ -1,5 +1,4 @@
-Phyllostictina carpogena Shear SPECIES
-=======
+# Phyllostictina carpogena Shear SPECIES
 
 #### Status
 ACCEPTED

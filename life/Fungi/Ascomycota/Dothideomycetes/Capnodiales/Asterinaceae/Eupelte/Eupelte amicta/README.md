@@ -1,5 +1,4 @@
-Eupelte amicta Syd., 1924 SPECIES
-=======
+# Eupelte amicta Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

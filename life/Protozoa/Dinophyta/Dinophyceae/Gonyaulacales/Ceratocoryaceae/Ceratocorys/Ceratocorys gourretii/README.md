@@ -1,11 +1,10 @@
-Ceratocorys jourdanii (Gourret, 1883) Schütt, 1895 SPECIES
-=======
+# Ceratocorys gourretii Paulsen, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

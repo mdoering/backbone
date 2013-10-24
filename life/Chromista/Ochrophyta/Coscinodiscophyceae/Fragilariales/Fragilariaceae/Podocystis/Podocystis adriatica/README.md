@@ -1,8 +1,7 @@
-Podocystis americana J.W. Bailey SPECIES
-=======
+# Podocystis adriatica (Kützing) Ralfs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

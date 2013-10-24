@@ -1,5 +1,4 @@
-Lachnella rhoina Tracy & Earle SPECIES
-=======
+# Lachnella rhoina Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

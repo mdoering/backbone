@@ -1,17 +1,16 @@
-Inonotus fushanus T.T. Chang SPECIES
-=======
+# Inonotus fushanianus T.T. Chang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 101(8): 1004 (1997)
 
 #### Original name
-Inonotus fushanus T.T. Chang
+Inonotus fushanianus T.T. Chang
 
 ### Remarks
 null

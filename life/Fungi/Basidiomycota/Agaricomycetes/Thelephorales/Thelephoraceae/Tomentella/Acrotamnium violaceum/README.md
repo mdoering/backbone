@@ -1,17 +1,16 @@
-Acrothamnium violaceum Nees SPECIES
-=======
+# Acrotamnium violaceum Nees SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. Pilze (Würzburg) 75 (1816)
 
 #### Original name
-Acrothamnium violaceum Nees
+Acrotamnium violaceum Nees
 
 ### Remarks
 null

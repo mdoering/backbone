@@ -1,5 +1,4 @@
-Cytospora petrakii H. Zimm. SPECIES
-=======
+# Cytospora petrakii H. Zimm. SPECIES
 
 #### Status
 ACCEPTED

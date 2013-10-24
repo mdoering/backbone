@@ -1,5 +1,4 @@
-Verrucaria confraga Kremp. SPECIES
-=======
+# Verrucaria confraga Kremp. SPECIES
 
 #### Status
 ACCEPTED

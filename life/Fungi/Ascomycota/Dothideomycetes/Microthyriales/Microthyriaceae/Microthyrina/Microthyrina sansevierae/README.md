@@ -1,5 +1,4 @@
-Microthyrina sansevierae Bat. & J.L. Bezerra SPECIES
-=======
+# Microthyrina sansevierae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

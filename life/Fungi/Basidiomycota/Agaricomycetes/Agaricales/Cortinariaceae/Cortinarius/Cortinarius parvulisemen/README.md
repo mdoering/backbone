@@ -1,5 +1,4 @@
-Cortinarius parvulisemen Rob. Henry SPECIES
-=======
+# Cortinarius parvulisemen Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

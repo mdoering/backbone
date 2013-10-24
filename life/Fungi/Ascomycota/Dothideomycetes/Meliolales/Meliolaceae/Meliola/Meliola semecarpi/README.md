@@ -1,5 +1,4 @@
-Meliola semecarpi Syd. SPECIES
-=======
+# Meliola semecarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

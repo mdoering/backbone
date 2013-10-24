@@ -1,5 +1,4 @@
-Clypeosphaeria natalensis Doidge SPECIES
-=======
+# Clypeosphaeria natalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

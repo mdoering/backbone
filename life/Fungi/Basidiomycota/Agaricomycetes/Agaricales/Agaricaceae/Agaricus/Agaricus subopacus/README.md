@@ -1,5 +1,4 @@
-Agaricus subopacus Pers. SPECIES
-=======
+# Agaricus subopacus Pers. SPECIES
 
 #### Status
 ACCEPTED

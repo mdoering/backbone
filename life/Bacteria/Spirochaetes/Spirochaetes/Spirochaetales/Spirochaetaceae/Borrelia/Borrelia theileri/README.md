@@ -1,11 +1,10 @@
-Spirochaeta theileri Laveran, 1903 SPECIES
-=======
+# Borrelia theileri (Laveran, 1903) Bergey et al., 1925 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

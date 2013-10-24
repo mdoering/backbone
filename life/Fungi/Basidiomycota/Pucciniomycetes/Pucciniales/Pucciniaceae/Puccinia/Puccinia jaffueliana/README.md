@@ -1,5 +1,4 @@
-Puccinia jaffueliana Speg. SPECIES
-=======
+# Puccinia jaffueliana Speg. SPECIES
 
 #### Status
 ACCEPTED

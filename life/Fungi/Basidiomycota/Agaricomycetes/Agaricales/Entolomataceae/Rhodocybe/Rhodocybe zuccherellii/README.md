@@ -1,5 +1,4 @@
-Rhodocybe zuccherellii Noordel. & Hauskn. SPECIES
-=======
+# Rhodocybe zuccherellii Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

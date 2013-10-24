@@ -1,5 +1,4 @@
-Boletus xanthoporus var. xanthoporus VARIETY
-=======
+# Boletus xanthoporus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus xanthoporus var. xanthoporus
+Boletus xanthoporus
 
 ### Remarks
 null

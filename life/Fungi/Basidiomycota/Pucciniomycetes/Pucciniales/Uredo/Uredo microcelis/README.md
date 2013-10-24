@@ -1,5 +1,4 @@
-Uredo microcelis Mont. SPECIES
-=======
+# Uredo microcelis Mont. SPECIES
 
 #### Status
 ACCEPTED

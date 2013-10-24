@@ -1,5 +1,4 @@
-Campylobacter jejuni subsp. jejuni SUBSPECIES
-=======
+# Campylobacter jejuni (Jones et al., 1931) Véron & Chatelain, 1973 SPECIES
 
 #### Status
 ACCEPTED

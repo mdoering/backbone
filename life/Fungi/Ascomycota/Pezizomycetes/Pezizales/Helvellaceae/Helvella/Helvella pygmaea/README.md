@@ -1,5 +1,4 @@
-Helvella pygmaea Sommerf. SPECIES
-=======
+# Helvella pygmaea Sommerf. SPECIES
 
 #### Status
 ACCEPTED

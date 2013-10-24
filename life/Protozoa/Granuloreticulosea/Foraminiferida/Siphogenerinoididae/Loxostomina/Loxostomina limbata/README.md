@@ -1,5 +1,4 @@
-Loxostomina limbata (Brady, 1881) SPECIES
-=======
+# Loxostomina limbata (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

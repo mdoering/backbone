@@ -1,5 +1,4 @@
-Asterostomula Theiss. GENUS
-=======
+# Asterostomula Theiss. GENUS
 
 #### Status
 ACCEPTED

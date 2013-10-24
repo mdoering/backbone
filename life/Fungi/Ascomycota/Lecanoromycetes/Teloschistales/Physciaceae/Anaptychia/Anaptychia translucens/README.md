@@ -1,5 +1,4 @@
-Anaptychia translucens Kurok. SPECIES
-=======
+# Anaptychia translucens Kurok. SPECIES
 
 #### Status
 ACCEPTED

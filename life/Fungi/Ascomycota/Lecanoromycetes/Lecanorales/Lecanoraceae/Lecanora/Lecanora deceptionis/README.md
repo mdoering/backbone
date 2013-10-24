@@ -1,5 +1,4 @@
-Lecanora deceptionis Hue SPECIES
-=======
+# Lecanora deceptionis Hue SPECIES
 
 #### Status
 ACCEPTED

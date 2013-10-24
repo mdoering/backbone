@@ -1,5 +1,4 @@
-Heteronema scaphurum Skuja, 1932 SPECIES
-=======
+# Heteronema scaphurum Skuja, 1932 SPECIES
 
 #### Status
 ACCEPTED

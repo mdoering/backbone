@@ -1,5 +1,4 @@
-Parodiopsis lophirae Deighton SPECIES
-=======
+# Parodiopsis lophirae Deighton SPECIES
 
 #### Status
 ACCEPTED

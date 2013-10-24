@@ -1,5 +1,4 @@
-Collybia compressa Velen. SPECIES
-=======
+# Collybia compressa Velen. SPECIES
 
 #### Status
 ACCEPTED

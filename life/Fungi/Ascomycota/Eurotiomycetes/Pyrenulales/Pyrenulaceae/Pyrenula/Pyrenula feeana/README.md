@@ -1,5 +1,4 @@
-Pyrenula feeana Trevis. SPECIES
-=======
+# Pyrenula feeana Trevis. SPECIES
 
 #### Status
 ACCEPTED

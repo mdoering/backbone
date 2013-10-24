@@ -1,17 +1,16 @@
-Paraparmelia poeltii T. H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia poeltii (T. H. Nash, Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 401 (2003)
 
 #### Original name
-null
+Paraparmelia poeltii T. H. Nash, Elix & J. Johnst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea celsii Lynge SPECIES
-=======
+# Lecidea celsii Lynge SPECIES
 
 #### Status
 ACCEPTED

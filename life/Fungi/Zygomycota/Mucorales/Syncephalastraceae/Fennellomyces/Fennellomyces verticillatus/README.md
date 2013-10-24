@@ -1,5 +1,4 @@
-Fennellomyces verticillatus J.H. Mirza, S.M. Khan, S. Begum & Shagufta, 1979 SPECIES
-=======
+# Fennellomyces verticillatus J.H. Mirza, S.M. Khan, S. Begum & Shagufta, 1979 SPECIES
 
 #### Status
 ACCEPTED

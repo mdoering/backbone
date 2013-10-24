@@ -1,5 +1,4 @@
-Segniliparus rugosus Butler et al., 2005 SPECIES
-=======
+# Segniliparus rugosus Butler et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

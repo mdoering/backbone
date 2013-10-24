@@ -1,5 +1,4 @@
-Penicillium lemonii Sopp SPECIES
-=======
+# Penicillium lemonii Sopp SPECIES
 
 #### Status
 ACCEPTED

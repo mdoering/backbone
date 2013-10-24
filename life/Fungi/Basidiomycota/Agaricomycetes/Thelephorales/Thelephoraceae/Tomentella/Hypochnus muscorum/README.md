@@ -1,5 +1,4 @@
-Hypochnus muscorum J. Schröt. SPECIES
-=======
+# Hypochnus muscorum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

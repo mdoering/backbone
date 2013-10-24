@@ -1,5 +1,4 @@
-Pezizella carolinae (De Guern.) Sacc. SPECIES
-=======
+# Pezizella carolinae (De Guern.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia epilobii-fleischeri E. Fisch. SPECIES
-=======
+# Puccinia epilobii-fleischeri E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

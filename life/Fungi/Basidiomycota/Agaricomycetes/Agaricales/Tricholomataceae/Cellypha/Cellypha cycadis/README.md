@@ -1,5 +1,4 @@
-Cellypha cycadis W.B. Cooke SPECIES
-=======
+# Cellypha cycadis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

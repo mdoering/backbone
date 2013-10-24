@@ -1,5 +1,4 @@
-Agrocybe insignis Singer SPECIES
-=======
+# Agrocybe insignis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius coleopteris Coker SPECIES
-=======
+# Lactarius coleopteris Coker SPECIES
 
 #### Status
 ACCEPTED

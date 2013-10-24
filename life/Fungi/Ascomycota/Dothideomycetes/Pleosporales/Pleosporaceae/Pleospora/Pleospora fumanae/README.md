@@ -1,5 +1,4 @@
-Pleospora fumanae Hazsl. SPECIES
-=======
+# Pleospora fumanae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

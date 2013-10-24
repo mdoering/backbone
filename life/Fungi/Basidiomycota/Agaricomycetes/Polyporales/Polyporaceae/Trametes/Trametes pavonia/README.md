@@ -1,5 +1,4 @@
-Trametes pavonia (Berk.) Fr. SPECIES
-=======
+# Trametes pavonia (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

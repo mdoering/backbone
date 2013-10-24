@@ -1,5 +1,4 @@
-Stilbospora ovata var. ovata VARIETY
-=======
+# Stilbospora ovata SPECIES
 
 #### Status
 ACCEPTED

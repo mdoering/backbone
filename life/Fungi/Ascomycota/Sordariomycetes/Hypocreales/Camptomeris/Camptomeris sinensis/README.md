@@ -1,5 +1,4 @@
-Camptomeris sinensis (Petr.) Petr. SPECIES
-=======
+# Camptomeris sinensis (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma sanvitalense Noordel. & Hauskn. SPECIES
-=======
+# Entoloma sanvitalense Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

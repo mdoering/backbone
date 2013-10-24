@@ -1,5 +1,4 @@
-Thalassobacter stenotrophicus Macián et al., 2005 SPECIES
-=======
+# Thalassobacter stenotrophicus Macián et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

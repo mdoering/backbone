@@ -1,5 +1,4 @@
-Stilbonectria tonquinensis Pat. SPECIES
-=======
+# Stilbonectria tonquinensis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jiangella Song, Li, Wang, Chen, Zhang & Xu, 2005 GENUS
-=======
+# Jiangella Song, Li, Wang, Chen, Zhang & Xu, 2005 GENUS
 
 #### Status
 ACCEPTED

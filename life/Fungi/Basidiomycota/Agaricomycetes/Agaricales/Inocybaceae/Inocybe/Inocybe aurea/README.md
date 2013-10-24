@@ -1,14 +1,13 @@
-Astrosporina aurea (Huijsman) E. Horak, 1987 SPECIES
-=======
+# Inocybe aurea Huijsman, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arctic Alpine Mycology (New York), II 215 (1987)
+Fungus, Wageningen 25: 22 (1955)
 
 #### Original name
 Inocybe aurea Huijsman, 1955

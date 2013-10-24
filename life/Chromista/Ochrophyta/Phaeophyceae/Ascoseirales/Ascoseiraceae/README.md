@@ -1,5 +1,4 @@
-Ascoseiraceae Skottsberg, 1907 FAMILY
-=======
+# Ascoseiraceae Skottsberg, 1907 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodelitschia Petrak, 1925 GENUS
-=======
+# Pseudodelitschia Petrak, 1925 GENUS
 
 #### Status
 ACCEPTED

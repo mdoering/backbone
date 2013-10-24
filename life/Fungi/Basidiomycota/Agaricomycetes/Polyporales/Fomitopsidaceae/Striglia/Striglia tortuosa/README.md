@@ -1,5 +1,4 @@
-Striglia tortuosa (Cragin) Kuntze SPECIES
-=======
+# Striglia tortuosa (Cragin) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus caesioater (Speg.) Singer SPECIES
-=======
+# Marasmiellus caesioater (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

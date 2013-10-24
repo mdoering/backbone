@@ -1,5 +1,4 @@
-Microphiale probiscidina (Nyl.) Zahlbr. SPECIES
-=======
+# Microphiale probiscidina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

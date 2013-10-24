@@ -1,5 +1,4 @@
-Triloculina cuneata SPECIES
-=======
+# Triloculina cuneata SPECIES
 
 #### Status
 ACCEPTED

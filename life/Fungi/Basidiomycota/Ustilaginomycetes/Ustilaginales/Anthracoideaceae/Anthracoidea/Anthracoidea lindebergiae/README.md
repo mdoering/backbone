@@ -1,5 +1,4 @@
-Anthracoidea lindebergiae (Kukkonen) Kukkonen SPECIES
-=======
+# Anthracoidea lindebergiae (Kukkonen) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

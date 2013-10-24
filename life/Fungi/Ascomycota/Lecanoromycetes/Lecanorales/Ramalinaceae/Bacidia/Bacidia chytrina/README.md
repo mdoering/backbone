@@ -1,5 +1,4 @@
-Bacidia chytrina (Stizenb.) SPECIES
-=======
+# Bacidia chytrina (Stizenb.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium californiense (Murrill) Redhead SPECIES
-=======
+# Helotium californiense (Murrill) Redhead SPECIES
 
 #### Status
 ACCEPTED

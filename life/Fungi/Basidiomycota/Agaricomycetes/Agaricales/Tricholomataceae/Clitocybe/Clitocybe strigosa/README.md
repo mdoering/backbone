@@ -1,5 +1,4 @@
-Clitocybe strigosa Harmaja SPECIES
-=======
+# Clitocybe strigosa Harmaja SPECIES
 
 #### Status
 ACCEPTED

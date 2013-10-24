@@ -1,5 +1,4 @@
-Urceolaria angelorum (B. de Lesd.) Motyka SPECIES
-=======
+# Urceolaria angelorum (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

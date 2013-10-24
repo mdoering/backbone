@@ -1,5 +1,4 @@
-Colletotrichum luxifilum C.J.J. Hall & Drost SPECIES
-=======
+# Colletotrichum luxifilum C.J.J. Hall & Drost SPECIES
 
 #### Status
 ACCEPTED

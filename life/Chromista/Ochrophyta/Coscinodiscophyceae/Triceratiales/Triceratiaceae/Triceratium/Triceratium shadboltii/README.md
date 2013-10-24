@@ -1,5 +1,4 @@
-Triceratium shadboltii Bailey, 1861 SPECIES
-=======
+# Triceratium shadboltii Bailey, 1861 SPECIES
 
 #### Status
 ACCEPTED

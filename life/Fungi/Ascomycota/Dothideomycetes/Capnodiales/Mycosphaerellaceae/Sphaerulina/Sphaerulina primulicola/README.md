@@ -1,5 +1,4 @@
-Sphaerulina primulicola (G. Winter) Berl. SPECIES
-=======
+# Sphaerulina primulicola (G. Winter) Berl. SPECIES
 
 #### Status
 ACCEPTED

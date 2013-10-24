@@ -1,5 +1,4 @@
-Uronychia setigera Calkins, 1902 SPECIES
-=======
+# Uronychia setigera Calkins, 1902 SPECIES
 
 #### Status
 ACCEPTED

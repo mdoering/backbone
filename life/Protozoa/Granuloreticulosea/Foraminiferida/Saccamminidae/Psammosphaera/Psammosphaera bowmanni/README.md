@@ -1,5 +1,4 @@
-Psammosphaera bowmanni Heron-Allen & Earland, 1912 SPECIES
-=======
+# Psammosphaera bowmanni Heron-Allen & Earland, 1912 SPECIES
 
 #### Status
 ACCEPTED

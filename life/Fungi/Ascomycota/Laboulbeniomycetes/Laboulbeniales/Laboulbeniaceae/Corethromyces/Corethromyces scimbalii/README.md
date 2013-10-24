@@ -1,5 +1,4 @@
-Corethromyces scimbalii W. Rossi & Cesari SPECIES
-=======
+# Corethromyces scimbalii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

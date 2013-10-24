@@ -1,5 +1,4 @@
-Diplodia amygdali Cooke & Harkn. SPECIES
-=======
+# Diplodia amygdali Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

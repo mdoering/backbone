@@ -1,17 +1,16 @@
-Chaetobotrys Clem. GENUS
-=======
+# Kusanobotrys Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 56, 253 (1931)
+Hedwigia 43: 141 (1904)
 
 #### Original name
-Chaetobotrys Clem.
+Kusanobotrys Henn.
 
 ### Remarks
 null

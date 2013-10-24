@@ -1,5 +1,4 @@
-Roccella caribaea Darb. SPECIES
-=======
+# Roccella caribaea Darb. SPECIES
 
 #### Status
 ACCEPTED

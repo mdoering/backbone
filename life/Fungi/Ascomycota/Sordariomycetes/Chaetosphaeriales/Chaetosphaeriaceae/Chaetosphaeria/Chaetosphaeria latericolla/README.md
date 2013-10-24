@@ -1,5 +1,4 @@
-Chaetosphaeria latericolla (Fr.) Riedl SPECIES
-=======
+# Chaetosphaeria latericolla (Fr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

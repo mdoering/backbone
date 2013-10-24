@@ -1,5 +1,4 @@
-Dictyocha concavata P. Dumitrica SPECIES
-=======
+# Dictyocha concavata P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

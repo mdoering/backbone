@@ -1,5 +1,4 @@
-Mazosia chlorochroa (Kremp.) Zahlbr. SPECIES
-=======
+# Mazosia chlorochroa (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

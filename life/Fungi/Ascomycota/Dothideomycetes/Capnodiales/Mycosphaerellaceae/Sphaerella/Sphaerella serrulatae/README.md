@@ -1,5 +1,4 @@
-Sphaerella serrulatae Ellis & Everh. SPECIES
-=======
+# Sphaerella serrulatae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

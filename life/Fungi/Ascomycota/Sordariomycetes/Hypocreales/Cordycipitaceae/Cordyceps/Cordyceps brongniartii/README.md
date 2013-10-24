@@ -1,5 +1,4 @@
-Cordyceps brongniartii Shimazu SPECIES
-=======
+# Cordyceps brongniartii Shimazu SPECIES
 
 #### Status
 ACCEPTED

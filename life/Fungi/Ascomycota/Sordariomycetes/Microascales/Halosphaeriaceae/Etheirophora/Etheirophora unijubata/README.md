@@ -1,5 +1,4 @@
-Etheirophora unijubata Kohlm. & Volkm.-Kohlm., 1989 SPECIES
-=======
+# Etheirophora unijubata Kohlm. & Volkm.-Kohlm., 1989 SPECIES
 
 #### Status
 ACCEPTED

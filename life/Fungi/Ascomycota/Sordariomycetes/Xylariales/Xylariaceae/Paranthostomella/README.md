@@ -1,5 +1,4 @@
-Paranthostomella GENUS
-=======
+# Paranthostomella GENUS
 
 #### Status
 ACCEPTED

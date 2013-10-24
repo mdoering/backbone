@@ -1,5 +1,4 @@
-Cercospora centrostachydis Chupp SPECIES
-=======
+# Cercospora centrostachydis Chupp SPECIES
 
 #### Status
 ACCEPTED

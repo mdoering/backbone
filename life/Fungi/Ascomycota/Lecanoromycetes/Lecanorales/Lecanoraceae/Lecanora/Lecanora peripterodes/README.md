@@ -1,5 +1,4 @@
-Lecanora peripterodes (Nyl.) H. Magn. SPECIES
-=======
+# Lecanora peripterodes (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

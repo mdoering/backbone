@@ -1,5 +1,4 @@
-Titaea tetrabrachiata R. Kirschner SPECIES
-=======
+# Titaea tetrabrachiata R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

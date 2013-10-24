@@ -1,5 +1,4 @@
-Diaporthe geranii Cooke & Harkn. SPECIES
-=======
+# Diaporthe geranii Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

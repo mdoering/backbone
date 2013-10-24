@@ -1,5 +1,4 @@
-Rostrophryides africana subsp. africana Foissner, 1987 SUBSPECIES
-=======
+# Rostrophryides africana Foissner SPECIES
 
 #### Status
 ACCEPTED

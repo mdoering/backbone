@@ -1,5 +1,4 @@
-Cercospora abacopteridis J.M. Yen & Lim SPECIES
-=======
+# Cercospora abacopteridis J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium albellum (With.) P. Karst. SPECIES
-=======
+# Helotium albellum (With.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

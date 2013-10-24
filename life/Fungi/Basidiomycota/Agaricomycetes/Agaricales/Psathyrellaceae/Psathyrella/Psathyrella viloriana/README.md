@@ -1,5 +1,4 @@
-Psathyrella viloriana Dennis SPECIES
-=======
+# Psathyrella viloriana Dennis SPECIES
 
 #### Status
 ACCEPTED

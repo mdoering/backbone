@@ -1,5 +1,4 @@
-Obliquocarinata Korchagin, 1993 GENUS
-=======
+# Obliquocarinata Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

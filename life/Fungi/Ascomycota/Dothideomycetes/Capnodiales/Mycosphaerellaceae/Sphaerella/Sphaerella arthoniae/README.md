@@ -1,5 +1,4 @@
-Sphaerella arthoniae Arnold SPECIES
-=======
+# Sphaerella arthoniae Arnold SPECIES
 
 #### Status
 ACCEPTED

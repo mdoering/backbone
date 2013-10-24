@@ -1,5 +1,4 @@
-Lepiota bulbipes Henn. SPECIES
-=======
+# Lepiota bulbipes Henn. SPECIES
 
 #### Status
 ACCEPTED

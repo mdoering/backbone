@@ -1,5 +1,4 @@
-Diaporthe compressa Sacc. SPECIES
-=======
+# Diaporthe compressa Sacc. SPECIES
 
 #### Status
 ACCEPTED

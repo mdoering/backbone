@@ -1,14 +1,13 @@
-Ravenelia coimbatorica T.S. Ramakr. & Sundaram, 1952 SPECIES
-=======
+# Kernkampella coimbatorica (T.S. Ramakr. & Sundaram) G.F. Laundon, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian Acad. Sci. , Sect. B 35: 119 (1952)
+Mycotaxon 3(1): 144 (1975)
 
 #### Original name
 Ravenelia coimbatorica T.S. Ramakr. & Sundaram, 1952

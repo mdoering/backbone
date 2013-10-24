@@ -1,5 +1,4 @@
-Ophionectria puiggarii Speg. SPECIES
-=======
+# Ophionectria puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

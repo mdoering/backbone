@@ -1,5 +1,4 @@
-Lecanora noseriza Stirt. SPECIES
-=======
+# Lecanora noseriza Stirt. SPECIES
 
 #### Status
 ACCEPTED

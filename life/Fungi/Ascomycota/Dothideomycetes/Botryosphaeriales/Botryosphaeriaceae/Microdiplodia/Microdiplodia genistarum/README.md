@@ -1,5 +1,4 @@
-Microdiplodia genistarum (Cooke) Tassi SPECIES
-=======
+# Microdiplodia genistarum (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

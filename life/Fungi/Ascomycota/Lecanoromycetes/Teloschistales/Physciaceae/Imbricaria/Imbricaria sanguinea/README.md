@@ -1,5 +1,4 @@
-Imbricaria sanguinea (Schaer.) Schwend. SPECIES
-=======
+# Imbricaria sanguinea (Schaer.) Schwend. SPECIES
 
 #### Status
 ACCEPTED

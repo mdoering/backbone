@@ -1,5 +1,4 @@
-Porina diaphana Vezda SPECIES
-=======
+# Porina diaphana Vezda SPECIES
 
 #### Status
 ACCEPTED

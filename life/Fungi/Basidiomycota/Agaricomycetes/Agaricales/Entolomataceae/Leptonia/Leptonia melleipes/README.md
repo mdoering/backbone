@@ -1,5 +1,4 @@
-Leptonia melleipes Murrill SPECIES
-=======
+# Leptonia melleipes Murrill SPECIES
 
 #### Status
 ACCEPTED

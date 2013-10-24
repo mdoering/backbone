@@ -1,5 +1,4 @@
-Dimerosporium secedens Sacc. SPECIES
-=======
+# Dimerosporium secedens Sacc. SPECIES
 
 #### Status
 ACCEPTED

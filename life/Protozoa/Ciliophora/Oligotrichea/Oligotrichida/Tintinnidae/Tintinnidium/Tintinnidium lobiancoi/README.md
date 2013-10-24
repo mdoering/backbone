@@ -1,5 +1,4 @@
-Tintinnidium lobiancoi Daday, 1886 SPECIES
-=======
+# Tintinnidium lobiancoi Daday, 1886 SPECIES
 
 #### Status
 ACCEPTED

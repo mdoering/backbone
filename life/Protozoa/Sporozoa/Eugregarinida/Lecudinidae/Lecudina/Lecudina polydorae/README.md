@@ -1,8 +1,7 @@
-Doliocystis polydorae Léger, 1893 SPECIES
-=======
+# Lecudina polydorae Léger, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

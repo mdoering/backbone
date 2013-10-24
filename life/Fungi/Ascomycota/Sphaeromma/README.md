@@ -1,5 +1,4 @@
-Sphaeromma H.B.P. Upadhyay GENUS
-=======
+# Sphaeromma H.B.P. Upadhyay GENUS
 
 #### Status
 ACCEPTED

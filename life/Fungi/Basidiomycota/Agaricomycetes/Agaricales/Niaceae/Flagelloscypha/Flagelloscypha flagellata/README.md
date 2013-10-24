@@ -1,5 +1,4 @@
-Flagelloscypha flagellata (Petch) W.B. Cooke SPECIES
-=======
+# Flagelloscypha flagellata (Petch) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

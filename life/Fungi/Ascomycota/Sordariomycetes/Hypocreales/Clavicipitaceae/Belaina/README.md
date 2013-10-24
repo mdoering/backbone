@@ -1,5 +1,4 @@
-Belaina GENUS
-=======
+# Belaina GENUS
 
 #### Status
 ACCEPTED

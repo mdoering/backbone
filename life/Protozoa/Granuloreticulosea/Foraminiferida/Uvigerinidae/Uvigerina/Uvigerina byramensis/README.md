@@ -1,5 +1,4 @@
-Uvigerina byramensis Cushman SPECIES
-=======
+# Uvigerina byramensis Cushman SPECIES
 
 #### Status
 ACCEPTED

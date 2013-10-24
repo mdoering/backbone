@@ -1,5 +1,4 @@
-Dimerella degeneri Kalb & Vezda SPECIES
-=======
+# Dimerella degeneri Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

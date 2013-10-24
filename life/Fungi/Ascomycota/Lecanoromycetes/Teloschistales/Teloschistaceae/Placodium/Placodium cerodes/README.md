@@ -1,5 +1,4 @@
-Placodium cerodes (Nyl.) Elenk. SPECIES
-=======
+# Placodium cerodes (Nyl.) Elenk. SPECIES
 
 #### Status
 ACCEPTED

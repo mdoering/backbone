@@ -1,5 +1,4 @@
-Planktothrix lacustris (Klebahn) I. Umezaki & M. Watanabe SPECIES
-=======
+# Planktothrix lacustris (Klebahn) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

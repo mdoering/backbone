@@ -1,17 +1,16 @@
-Craterium obovatum var. dictyospora (Rostaf.) A. Lister VARIETY
-=======
+# Craterium obovatum Peck, 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Buffalo Soc. nat. Sci. 1: 64 (1873)
 
 #### Original name
-null
+Craterium obovatum Peck, 1873
 
 ### Remarks
 null

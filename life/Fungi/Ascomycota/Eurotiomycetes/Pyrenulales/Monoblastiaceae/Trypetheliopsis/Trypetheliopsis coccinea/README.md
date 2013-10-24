@@ -1,5 +1,4 @@
-Trypetheliopsis coccinea (Aptroot & Sipman) Aptroot SPECIES
-=======
+# Trypetheliopsis coccinea (Aptroot & Sipman) Aptroot SPECIES
 
 #### Status
 ACCEPTED

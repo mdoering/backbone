@@ -1,14 +1,13 @@
-Omphalia aurantiaca Peck, 1898 SPECIES
-=======
+# Chrysomphalina aurantiaca (Peck) Redhead, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 25: 323 (1898)
+Acta Mycol. Sin. , Suppl. 1: 299 (1987)
 
 #### Original name
 Omphalia aurantiaca Peck, 1898

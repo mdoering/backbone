@@ -1,5 +1,4 @@
-Polyporus omphalodes Berk. SPECIES
-=======
+# Polyporus omphalodes Berk. SPECIES
 
 #### Status
 ACCEPTED

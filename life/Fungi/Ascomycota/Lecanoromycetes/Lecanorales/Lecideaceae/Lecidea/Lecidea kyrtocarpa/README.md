@@ -1,5 +1,4 @@
-Lecidea kyrtocarpa Zschacke SPECIES
-=======
+# Lecidea kyrtocarpa Zschacke SPECIES
 
 #### Status
 ACCEPTED

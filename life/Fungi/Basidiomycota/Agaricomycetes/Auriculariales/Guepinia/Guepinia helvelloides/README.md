@@ -1,14 +1,13 @@
-Guepinia rufa (Jacq.) Beck, 1884 SPECIES
-=======
+# Guepinia helvelloides (DC.) Fr., 1828 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Pl. Nov. Zemlya (1884)
+Elench. fung. (Greifswald) 2: 30 (1828)
 
 #### Original name
 null

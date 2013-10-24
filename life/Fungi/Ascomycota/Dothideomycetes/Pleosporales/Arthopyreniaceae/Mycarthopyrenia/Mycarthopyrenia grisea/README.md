@@ -1,5 +1,4 @@
-Mycarthopyrenia grisea SPECIES
-=======
+# Mycarthopyrenia grisea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia pulcherrima Velen. SPECIES
-=======
+# Omphalia pulcherrima Velen. SPECIES
 
 #### Status
 ACCEPTED

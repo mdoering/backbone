@@ -1,5 +1,4 @@
-Leptopeltopsis GENUS
-=======
+# Leptopeltopsis GENUS
 
 #### Status
 ACCEPTED

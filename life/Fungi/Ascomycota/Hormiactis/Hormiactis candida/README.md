@@ -1,5 +1,4 @@
-Hormiactis candida Höhn., 1923 SPECIES
-=======
+# Hormiactis candida Höhn., 1923 SPECIES
 
 #### Status
 ACCEPTED

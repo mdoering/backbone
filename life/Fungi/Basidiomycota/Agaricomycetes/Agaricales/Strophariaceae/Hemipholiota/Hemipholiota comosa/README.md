@@ -1,5 +1,4 @@
-Hemipholiota comosa (Fr.) Bon SPECIES
-=======
+# Hemipholiota comosa (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

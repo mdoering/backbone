@@ -1,5 +1,4 @@
-Chaenotheca lanata Tibell SPECIES
-=======
+# Chaenotheca lanata Tibell SPECIES
 
 #### Status
 ACCEPTED

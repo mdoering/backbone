@@ -1,5 +1,4 @@
-Scindalma gelsorum (Fr.) Kuntze SPECIES
-=======
+# Scindalma gelsorum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

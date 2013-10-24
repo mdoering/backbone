@@ -1,5 +1,4 @@
-Streptacidiphilus Kim et al., 2003 GENUS
-=======
+# Streptacidiphilus Kim et al., 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerulina abutlonis Miura SPECIES
-=======
+# Pleosphaerulina abutlonis Miura SPECIES
 
 #### Status
 ACCEPTED

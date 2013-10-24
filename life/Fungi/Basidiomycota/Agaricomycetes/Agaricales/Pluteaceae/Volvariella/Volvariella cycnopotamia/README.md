@@ -1,5 +1,4 @@
-Volvariella cycnopotamia (Berk.) Singer SPECIES
-=======
+# Volvariella cycnopotamia (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

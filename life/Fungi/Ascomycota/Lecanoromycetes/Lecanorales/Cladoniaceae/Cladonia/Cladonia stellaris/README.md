@@ -1,17 +1,16 @@
-Cladina stellaris var. stellaris VARIETY
-=======
+# Cladonia stellaris (Opiz) Pouzar & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 79: 363 (1976)
+Preslia 43: 196 (1971)
 
 #### Original name
-Cladina stellaris var. stellaris
+Cenomyce stellaris Opiz
 
 ### Remarks
 null

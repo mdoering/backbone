@@ -1,5 +1,4 @@
-Amanita hyperborea (P. Karst.) Fayod SPECIES
-=======
+# Amanita hyperborea (P. Karst.) Fayod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caliciella subparoica (Nyl.) Vain. SPECIES
-=======
+# Caliciella subparoica (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

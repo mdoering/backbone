@@ -1,5 +1,4 @@
-Pyxidium conosoma SPECIES
-=======
+# Pyxidium conosoma SPECIES
 
 #### Status
 ACCEPTED

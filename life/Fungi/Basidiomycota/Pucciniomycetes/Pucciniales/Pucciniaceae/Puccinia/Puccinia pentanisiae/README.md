@@ -1,5 +1,4 @@
-Puccinia pentanisiae var. pentanisiae VARIETY
-=======
+# Puccinia pentanisiae Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 10(no. 56): 125 (1882)
 
 #### Original name
-Puccinia pentanisiae var. pentanisiae
+Puccinia pentanisiae Cooke
 
 ### Remarks
 null

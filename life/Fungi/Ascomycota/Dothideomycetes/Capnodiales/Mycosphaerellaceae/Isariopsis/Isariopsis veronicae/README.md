@@ -1,5 +1,4 @@
-Isariopsis veronicae (Pass.) Savile SPECIES
-=======
+# Isariopsis veronicae (Pass.) Savile SPECIES
 
 #### Status
 ACCEPTED

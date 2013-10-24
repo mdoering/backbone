@@ -1,5 +1,4 @@
-Puccinia gerardiae Syd. & P. Syd. SPECIES
-=======
+# Puccinia gerardiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

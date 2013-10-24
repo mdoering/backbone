@@ -1,14 +1,13 @@
-Polyporus induratus Berk., 1875 SPECIES
-=======
+# Antrodiella induratus (Berk.) Ryvarden, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-St. Helena 380 (1875)
+Mycotaxon 20(2): 344 (1984)
 
 #### Original name
 Polyporus induratus Berk., 1875

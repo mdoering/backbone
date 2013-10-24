@@ -1,5 +1,4 @@
-Lecanora strobisorella Kalb SPECIES
-=======
+# Lecanora strobisorella Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysibe euphorbiae Wallr. SPECIES
-=======
+# Erysibe euphorbiae Wallr. SPECIES
 
 #### Status
 ACCEPTED

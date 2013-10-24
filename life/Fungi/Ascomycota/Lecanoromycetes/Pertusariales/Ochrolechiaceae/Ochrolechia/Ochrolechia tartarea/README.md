@@ -1,17 +1,16 @@
-Lecanora tartarea var. tartarea VARIETY
-=======
+# Ochrolechia tartarea (L.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 5: 693 (1928)
 
 #### Original name
-Lecanora tartarea var. tartarea
+Lichen tartareus L.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsis platycerii (Tassi) Aa SPECIES
-=======
+# Phomopsis platycerii (Tassi) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Altinerina Zaninetti, Ciarapica, Decrouez & Miconnet, 1984 GENUS
-=======
+# Altinerina Zaninetti, Ciarapica, Decrouez & Miconnet, 1984 GENUS
 
 #### Status
 ACCEPTED

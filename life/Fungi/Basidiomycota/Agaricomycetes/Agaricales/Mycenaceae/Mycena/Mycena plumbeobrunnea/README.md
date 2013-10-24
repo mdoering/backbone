@@ -1,5 +1,4 @@
-Mycena plumbeobrunnea Murrill SPECIES
-=======
+# Mycena plumbeobrunnea Murrill SPECIES
 
 #### Status
 ACCEPTED

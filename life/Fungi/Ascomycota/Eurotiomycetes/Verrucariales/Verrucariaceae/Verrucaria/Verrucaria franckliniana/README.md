@@ -1,5 +1,4 @@
-Verrucaria franckliniana Leight. SPECIES
-=======
+# Verrucaria franckliniana Leight. SPECIES
 
 #### Status
 ACCEPTED

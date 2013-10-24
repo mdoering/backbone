@@ -1,5 +1,4 @@
-Hemmesomyces puauluensis Gilb. & Nakasone, 2003 SPECIES
-=======
+# Hemmesomyces puauluensis Gilb. & Nakasone, 2003 SPECIES
 
 #### Status
 ACCEPTED

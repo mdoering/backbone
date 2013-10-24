@@ -1,5 +1,4 @@
-Parmelia annae Lynge SPECIES
-=======
+# Parmelia annae Lynge SPECIES
 
 #### Status
 ACCEPTED

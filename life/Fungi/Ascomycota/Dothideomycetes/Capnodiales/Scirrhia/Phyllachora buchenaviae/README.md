@@ -1,5 +1,4 @@
-Phyllachora buchenaviae Petr. & Cif., 1932 SPECIES
-=======
+# Phyllachora buchenaviae Petr. & Cif., 1932 SPECIES
 
 #### Status
 DOUBTFUL

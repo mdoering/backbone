@@ -1,5 +1,4 @@
-Micropeltis consimilis Rehm SPECIES
-=======
+# Micropeltis consimilis Rehm SPECIES
 
 #### Status
 ACCEPTED

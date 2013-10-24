@@ -1,5 +1,4 @@
-Pseudocercospora neoliquidambaris C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora neoliquidambaris C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

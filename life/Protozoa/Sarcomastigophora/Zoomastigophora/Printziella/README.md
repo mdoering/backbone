@@ -1,5 +1,4 @@
-Printziella Skvortzow, 1958 GENUS
-=======
+# Printziella Skvortzow, 1958 GENUS
 
 #### Status
 ACCEPTED

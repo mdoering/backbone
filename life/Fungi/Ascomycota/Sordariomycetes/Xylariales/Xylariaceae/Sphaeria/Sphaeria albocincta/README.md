@@ -1,5 +1,4 @@
-Sphaeria albocincta Cooke & Ellis SPECIES
-=======
+# Sphaeria albocincta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

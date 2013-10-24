@@ -1,5 +1,4 @@
-Montagnites haussknechtii Rabenh. SPECIES
-=======
+# Montagnites haussknechtii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

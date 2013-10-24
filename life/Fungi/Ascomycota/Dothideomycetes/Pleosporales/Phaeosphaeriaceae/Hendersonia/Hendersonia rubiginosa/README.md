@@ -1,5 +1,4 @@
-Hendersonia rubiginosa Brunaud SPECIES
-=======
+# Hendersonia rubiginosa Brunaud SPECIES
 
 #### Status
 ACCEPTED

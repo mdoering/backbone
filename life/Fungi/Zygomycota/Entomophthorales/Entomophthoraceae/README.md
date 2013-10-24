@@ -1,5 +1,4 @@
-Entomophthoraceae Nowak. FAMILY
-=======
+# Entomophthoraceae Nowak. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterostegiella hydrophila (E. Bommer, M. Rousseau & Sacc.) Défago SPECIES
-=======
+# Hysterostegiella hydrophila (E. Bommer, M. Rousseau & Sacc.) Défago SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia bresadolae var. bresadolae Theiss. VARIETY
-=======
+# Rosellinia bresadolae Theiss. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 6: 351 (1908)
 
 #### Original name
-Rosellinia bresadolae var. bresadolae Theiss.
+Rosellinia bresadolae Theiss.
 
 ### Remarks
 null

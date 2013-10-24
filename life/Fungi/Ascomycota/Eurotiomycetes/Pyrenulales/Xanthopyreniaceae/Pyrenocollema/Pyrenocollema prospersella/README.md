@@ -1,5 +1,4 @@
-Pyrenocollema prospersella (Nyl.) R.C. Harris SPECIES
-=======
+# Pyrenocollema prospersella (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

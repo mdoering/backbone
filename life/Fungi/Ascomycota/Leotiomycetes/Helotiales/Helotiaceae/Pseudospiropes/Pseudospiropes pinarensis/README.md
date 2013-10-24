@@ -1,5 +1,4 @@
-Pseudospiropes pinarensis R.F. Castañeda SPECIES
-=======
+# Pseudospiropes pinarensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes marinus SPECIES
-=======
+# Euplotes marinus SPECIES
 
 #### Status
 ACCEPTED

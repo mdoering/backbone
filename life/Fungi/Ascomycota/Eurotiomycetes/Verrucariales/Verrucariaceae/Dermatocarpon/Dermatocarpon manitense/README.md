@@ -1,5 +1,4 @@
-Dermatocarpon manitense (Tuck.) Zahlbr. SPECIES
-=======
+# Dermatocarpon manitense (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

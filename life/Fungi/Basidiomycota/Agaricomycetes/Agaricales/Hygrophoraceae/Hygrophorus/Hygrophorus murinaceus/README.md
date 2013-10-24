@@ -1,5 +1,4 @@
-Hygrophorus murinaceus (Bull.) Fr. SPECIES
-=======
+# Hygrophorus murinaceus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

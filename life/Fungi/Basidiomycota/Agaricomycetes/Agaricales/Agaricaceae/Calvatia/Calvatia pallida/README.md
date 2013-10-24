@@ -1,5 +1,4 @@
-Calvatia pallida A.H. Sm. SPECIES
-=======
+# Calvatia pallida A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

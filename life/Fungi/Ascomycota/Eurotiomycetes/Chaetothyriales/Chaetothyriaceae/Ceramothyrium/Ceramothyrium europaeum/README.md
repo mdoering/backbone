@@ -1,5 +1,4 @@
-Ceramothyrium europaeum var. europaeum VARIETY
-=======
+# Ceramothyrium europaeum (Höhn.) Bat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Publções Inst. Micol. Recife 23(1-3): 18 (1956)
 
 #### Original name
-Ceramothyrium europaeum var. europaeum
+Zukalia europaea Höhn.
 
 ### Remarks
 null

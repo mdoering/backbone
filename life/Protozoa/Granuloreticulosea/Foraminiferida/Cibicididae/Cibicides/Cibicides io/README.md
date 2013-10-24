@@ -1,11 +1,10 @@
-Cibicides pseudoungerianus var. io Cushman, 1931 VARIETY
-=======
+# Cibicides io Cushman, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

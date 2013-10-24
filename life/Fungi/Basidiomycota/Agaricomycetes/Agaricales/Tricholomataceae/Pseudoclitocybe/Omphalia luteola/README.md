@@ -1,5 +1,4 @@
-Omphalia luteola Peck SPECIES
-=======
+# Omphalia luteola Peck SPECIES
 
 #### Status
 ACCEPTED

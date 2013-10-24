@@ -1,5 +1,4 @@
-Lecidea lepida SPECIES
-=======
+# Lecidea lepida SPECIES
 
 #### Status
 ACCEPTED

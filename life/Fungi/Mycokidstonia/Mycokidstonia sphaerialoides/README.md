@@ -1,5 +1,4 @@
-Mycokidstonia sphaerialoides D. Pons & Locq. SPECIES
-=======
+# Mycokidstonia sphaerialoides D. Pons & Locq. SPECIES
 
 #### Status
 ACCEPTED

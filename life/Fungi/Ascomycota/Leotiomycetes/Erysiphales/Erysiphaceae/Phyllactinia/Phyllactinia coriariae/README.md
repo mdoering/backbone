@@ -1,5 +1,4 @@
-Phyllactinia coriariae D.Z. Xie SPECIES
-=======
+# Phyllactinia coriariae D.Z. Xie SPECIES
 
 #### Status
 ACCEPTED

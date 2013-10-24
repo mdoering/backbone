@@ -1,5 +1,4 @@
-Desulfitobacterium frappieri Bouchard et al., 1996 SPECIES
-=======
+# Desulfitobacterium frappieri Bouchard et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

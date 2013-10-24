@@ -1,5 +1,4 @@
-Nectriella lusitanica Gonz. Frag. SPECIES
-=======
+# Nectriella lusitanica Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

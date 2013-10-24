@@ -1,5 +1,4 @@
-Leptomitus phosphoratus Kütz. SPECIES
-=======
+# Leptomitus phosphoratus Kütz. SPECIES
 
 #### Status
 ACCEPTED

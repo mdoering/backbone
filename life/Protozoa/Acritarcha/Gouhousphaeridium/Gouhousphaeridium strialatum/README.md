@@ -1,5 +1,4 @@
-Gouhousphaeridium strialatum Yang Qinghe in Yang Qinghe et al., 1980 SPECIES
-=======
+# Gouhousphaeridium strialatum Yang Qinghe in Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

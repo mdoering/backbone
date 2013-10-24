@@ -1,5 +1,4 @@
-Attheya arenicola C. Gardner & R. M. Crawford SPECIES
-=======
+# Attheya arenicola C. Gardner & R. M. Crawford SPECIES
 
 #### Status
 ACCEPTED

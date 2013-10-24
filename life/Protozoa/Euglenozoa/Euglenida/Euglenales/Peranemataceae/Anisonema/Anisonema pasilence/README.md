@@ -1,5 +1,4 @@
-Anisonema pasilence SPECIES
-=======
+# Anisonema pasilence SPECIES
 
 #### Status
 ACCEPTED

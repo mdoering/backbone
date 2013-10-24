@@ -1,5 +1,4 @@
-Sphaeria lejostega Ellis SPECIES
-=======
+# Sphaeria lejostega Ellis SPECIES
 
 #### Status
 ACCEPTED

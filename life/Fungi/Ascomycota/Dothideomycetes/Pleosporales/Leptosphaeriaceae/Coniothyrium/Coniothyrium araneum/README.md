@@ -1,5 +1,4 @@
-Coniothyrium araneum (Peck) Kuntze SPECIES
-=======
+# Coniothyrium araneum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

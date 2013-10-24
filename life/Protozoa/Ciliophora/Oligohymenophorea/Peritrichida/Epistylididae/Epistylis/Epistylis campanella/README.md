@@ -1,5 +1,4 @@
-Epistylis campanella Dumas, 1930 SPECIES
-=======
+# Epistylis campanella Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

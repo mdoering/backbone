@@ -1,8 +1,7 @@
-Systremma Theissen & Sydow, 1915 GENUS
-=======
+# Dothidea E.M. Fries, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

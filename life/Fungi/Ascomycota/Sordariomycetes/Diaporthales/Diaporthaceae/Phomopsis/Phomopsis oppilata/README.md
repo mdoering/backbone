@@ -1,5 +1,4 @@
-Phomopsis oppilata (Fr.) Petr. SPECIES
-=======
+# Phomopsis oppilata (Fr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

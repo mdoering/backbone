@@ -1,5 +1,4 @@
-Nigredo silphii (Burrill) Arthur SPECIES
-=======
+# Nigredo silphii (Burrill) Arthur SPECIES
 
 #### Status
 ACCEPTED

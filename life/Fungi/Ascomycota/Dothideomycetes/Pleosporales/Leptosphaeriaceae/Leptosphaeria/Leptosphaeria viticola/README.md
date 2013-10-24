@@ -1,5 +1,4 @@
-Leptosphaeria viticola Fautrey & Roum. SPECIES
-=======
+# Leptosphaeria viticola Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

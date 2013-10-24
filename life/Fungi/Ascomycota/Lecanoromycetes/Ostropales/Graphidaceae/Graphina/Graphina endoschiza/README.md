@@ -1,5 +1,4 @@
-Graphina endoschiza Müll. Arg. SPECIES
-=======
+# Graphina endoschiza Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

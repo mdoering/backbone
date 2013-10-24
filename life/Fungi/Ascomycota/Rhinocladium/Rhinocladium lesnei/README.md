@@ -1,14 +1,13 @@
-Graphium lesnei (Vuill.) Castell. & Chalm. SPECIES
-=======
+# Rhinocladium lesnei Vuill., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Manual of tropical medicine (London) 1121 (1919)
+Bull. Séanc. Soc. Sci. Nancy 11: 143 (1910)
 
 #### Original name
 Rhinocladium lesnei Vuill., 1910

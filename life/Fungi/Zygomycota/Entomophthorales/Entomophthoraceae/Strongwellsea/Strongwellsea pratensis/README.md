@@ -1,5 +1,4 @@
-Strongwellsea pratensis S. Keller SPECIES
-=======
+# Strongwellsea pratensis S. Keller SPECIES
 
 #### Status
 ACCEPTED

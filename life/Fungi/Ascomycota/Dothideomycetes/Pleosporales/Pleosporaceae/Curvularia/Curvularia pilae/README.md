@@ -1,5 +1,4 @@
-Curvularia pilae Toro, 1946 SPECIES
-=======
+# Curvularia pilae Toro, 1946 SPECIES
 
 #### Status
 ACCEPTED

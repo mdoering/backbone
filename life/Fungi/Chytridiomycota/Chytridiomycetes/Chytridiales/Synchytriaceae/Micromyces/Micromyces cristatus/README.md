@@ -1,5 +1,4 @@
-Micromyces cristatus var. cristatus VARIETY
-=======
+# Micromyces cristatus (Scherff.) Sparrow SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Micromyces cristatus var. cristatus
+Micromycopsis cristata Scherff.
 
 ### Remarks
 null

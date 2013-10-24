@@ -1,5 +1,4 @@
-Oscillatoria acuiformis Skuja SPECIES
-=======
+# Oscillatoria acuiformis Skuja SPECIES
 
 #### Status
 ACCEPTED

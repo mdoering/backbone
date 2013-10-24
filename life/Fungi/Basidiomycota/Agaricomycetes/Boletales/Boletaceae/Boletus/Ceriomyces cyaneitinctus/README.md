@@ -1,5 +1,4 @@
-Ceriomyces cyaneitinctus Murrill SPECIES
-=======
+# Ceriomyces cyaneitinctus Murrill SPECIES
 
 #### Status
 ACCEPTED

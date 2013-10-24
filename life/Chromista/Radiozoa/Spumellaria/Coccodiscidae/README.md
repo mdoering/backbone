@@ -1,5 +1,4 @@
-Coccodiscidae Haeckel, 1862 FAMILY
-=======
+# Coccodiscidae Haeckel, 1862 FAMILY
 
 #### Status
 ACCEPTED

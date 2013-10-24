@@ -1,5 +1,4 @@
-Synchytrium achyroclines Speg. SPECIES
-=======
+# Synchytrium achyroclines Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya semiplena (C. Agardh) J. Agardh SPECIES
-=======
+# Lyngbya semiplena (C. Agardh) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

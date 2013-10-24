@@ -1,5 +1,4 @@
-Coenogonium minimum (Müll. Arg.) Lücking SPECIES
-=======
+# Coenogonium minimum (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

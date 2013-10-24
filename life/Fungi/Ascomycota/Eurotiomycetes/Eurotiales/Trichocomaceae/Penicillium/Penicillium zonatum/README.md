@@ -1,8 +1,7 @@
-Eupenicillium zonatum Hodges & T.J. Perry, 1973 SPECIES
-=======
+# Penicillium zonatum Hodges & T.J. Perry, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 65(3): 697 (1973)
 
 #### Original name
-Eupenicillium zonatum Hodges & T.J. Perry, 1973
+Penicillium zonatum Hodges & T.J. Perry, 1973
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Strickeria deflectens var. deflectens VARIETY
-=======
+# Strickeria deflectens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Grevillea 16(no. 78): 54 (1887)
+null
 
 #### Original name
-Strickeria deflectens var. deflectens
+null
 
 ### Remarks
 null

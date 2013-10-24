@@ -1,5 +1,4 @@
-Netzelia Ogden, 1979 GENUS
-=======
+# Netzelia Ogden, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protophysarum M. Blackw. & Alexop. GENUS
-=======
+# Protophysarum M. Blackw. & Alexop. GENUS
 
 #### Status
 ACCEPTED

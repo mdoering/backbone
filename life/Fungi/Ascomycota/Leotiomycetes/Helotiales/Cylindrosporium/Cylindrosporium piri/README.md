@@ -1,5 +1,4 @@
-Cylindrosporium piri Sorokin SPECIES
-=======
+# Cylindrosporium piri Sorokin SPECIES
 
 #### Status
 ACCEPTED

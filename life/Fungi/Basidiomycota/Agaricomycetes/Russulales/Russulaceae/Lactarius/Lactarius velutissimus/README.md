@@ -1,5 +1,4 @@
-Lactarius velutissimus Verbeken SPECIES
-=======
+# Lactarius velutissimus Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia exempta SPECIES
-=======
+# Parmelia exempta SPECIES
 
 #### Status
 ACCEPTED

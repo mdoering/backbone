@@ -1,5 +1,4 @@
-Chaetomium rufum K. Ramakr. SPECIES
-=======
+# Chaetomium rufum K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

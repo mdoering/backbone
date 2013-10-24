@@ -1,5 +1,4 @@
-Absidia atrospora H. Nagan. & Hirahara SPECIES
-=======
+# Absidia atrospora H. Nagan. & Hirahara SPECIES
 
 #### Status
 ACCEPTED

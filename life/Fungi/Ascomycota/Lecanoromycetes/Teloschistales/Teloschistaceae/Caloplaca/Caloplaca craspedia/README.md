@@ -1,5 +1,4 @@
-Caloplaca craspedia (Ach.) Szatala SPECIES
-=======
+# Caloplaca craspedia (Ach.) Szatala SPECIES
 
 #### Status
 ACCEPTED

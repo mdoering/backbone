@@ -1,5 +1,4 @@
-Hendersonia livistonae Naito SPECIES
-=======
+# Hendersonia livistonae Naito SPECIES
 
 #### Status
 ACCEPTED

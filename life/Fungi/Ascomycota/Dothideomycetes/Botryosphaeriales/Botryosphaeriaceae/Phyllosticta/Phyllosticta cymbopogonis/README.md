@@ -1,5 +1,4 @@
-Phyllosticta cymbopogonis Bat. SPECIES
-=======
+# Phyllosticta cymbopogonis Bat. SPECIES
 
 #### Status
 ACCEPTED

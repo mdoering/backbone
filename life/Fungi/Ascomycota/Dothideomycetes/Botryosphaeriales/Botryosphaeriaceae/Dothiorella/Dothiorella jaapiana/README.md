@@ -1,5 +1,4 @@
-Dothiorella jaapiana Petr. SPECIES
-=======
+# Dothiorella jaapiana Petr. SPECIES
 
 #### Status
 ACCEPTED

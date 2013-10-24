@@ -1,5 +1,4 @@
-Peniophora karstenii Massee SPECIES
-=======
+# Peniophora karstenii Massee SPECIES
 
 #### Status
 ACCEPTED

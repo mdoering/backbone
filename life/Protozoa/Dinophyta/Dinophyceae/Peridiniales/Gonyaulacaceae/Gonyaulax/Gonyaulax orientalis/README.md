@@ -1,5 +1,4 @@
-Gonyaulax orientalis Lindem SPECIES
-=======
+# Gonyaulax orientalis Lindem SPECIES
 
 #### Status
 ACCEPTED

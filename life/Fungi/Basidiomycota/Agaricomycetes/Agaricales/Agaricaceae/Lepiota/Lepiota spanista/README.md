@@ -1,5 +1,4 @@
-Lepiota spanista Morgan SPECIES
-=======
+# Lepiota spanista Morgan SPECIES
 
 #### Status
 ACCEPTED

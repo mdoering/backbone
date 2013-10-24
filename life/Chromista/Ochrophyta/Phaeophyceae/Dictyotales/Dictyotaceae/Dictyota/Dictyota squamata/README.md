@@ -1,5 +1,4 @@
-Dictyota squamata Lamouroux SPECIES
-=======
+# Dictyota squamata Lamouroux SPECIES
 
 #### Status
 ACCEPTED

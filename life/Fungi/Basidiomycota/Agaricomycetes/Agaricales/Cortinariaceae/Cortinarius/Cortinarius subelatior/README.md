@@ -1,5 +1,4 @@
-Cortinarius subelatior Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subelatior Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

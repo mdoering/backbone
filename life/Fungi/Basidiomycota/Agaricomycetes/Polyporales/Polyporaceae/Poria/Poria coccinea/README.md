@@ -1,5 +1,4 @@
-Poria coccinea Rick SPECIES
-=======
+# Poria coccinea Rick SPECIES
 
 #### Status
 ACCEPTED

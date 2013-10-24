@@ -1,5 +1,4 @@
-Botryosphaeria spiraeae M.E. Barr SPECIES
-=======
+# Botryosphaeria spiraeae M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

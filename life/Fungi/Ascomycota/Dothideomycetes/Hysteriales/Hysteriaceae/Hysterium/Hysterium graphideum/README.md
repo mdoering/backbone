@@ -1,5 +1,4 @@
-Hysterium graphideum Speg. SPECIES
-=======
+# Hysterium graphideum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stereum martini Sacc. & P. Syd. SPECIES
-=======
+# Stereum martinii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 14(1): 217 (1899)
 
 #### Original name
-Stereum martini Sacc. & P. Syd.
+Stereum martinii Sacc. & P. Syd.
 
 ### Remarks
 null

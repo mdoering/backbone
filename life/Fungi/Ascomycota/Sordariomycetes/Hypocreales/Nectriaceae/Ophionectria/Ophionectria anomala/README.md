@@ -1,5 +1,4 @@
-Ophionectria anomala Racib. SPECIES
-=======
+# Ophionectria anomala Racib. SPECIES
 
 #### Status
 ACCEPTED

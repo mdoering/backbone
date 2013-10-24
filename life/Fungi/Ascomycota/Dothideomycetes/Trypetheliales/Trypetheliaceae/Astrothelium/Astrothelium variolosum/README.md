@@ -1,14 +1,13 @@
-Trypethelium catervarium (Fée) Tuck. SPECIES
-=======
+# Astrothelium variolosum (Ach.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. lich. (Amherst) 260 (1872)
+null
 
 #### Original name
 null

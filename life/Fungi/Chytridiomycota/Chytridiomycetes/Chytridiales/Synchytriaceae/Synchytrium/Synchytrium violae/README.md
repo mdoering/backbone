@@ -1,5 +1,4 @@
-Synchytrium violae M.T. Cook SPECIES
-=======
+# Synchytrium violae M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

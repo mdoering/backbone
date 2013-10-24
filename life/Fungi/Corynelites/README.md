@@ -1,5 +1,4 @@
-Corynelites Babajan & Tasl. GENUS
-=======
+# Corynelites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

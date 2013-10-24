@@ -1,5 +1,4 @@
-Ohleriella herculea (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Ohleriella herculea (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

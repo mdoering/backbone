@@ -1,5 +1,4 @@
-Geoglossum purpurascens Pers. SPECIES
-=======
+# Geoglossum purpurascens Pers. SPECIES
 
 #### Status
 ACCEPTED

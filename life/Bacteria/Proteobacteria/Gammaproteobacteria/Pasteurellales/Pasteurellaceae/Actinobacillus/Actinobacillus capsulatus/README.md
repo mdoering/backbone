@@ -1,5 +1,4 @@
-Actinobacillus capsulatus Arseculeratne, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Actinobacillus capsulatus Arseculeratne, 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

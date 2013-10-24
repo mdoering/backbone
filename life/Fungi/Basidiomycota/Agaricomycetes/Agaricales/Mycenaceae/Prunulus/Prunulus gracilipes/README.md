@@ -1,5 +1,4 @@
-Prunulus gracilipes Murrill SPECIES
-=======
+# Prunulus gracilipes Murrill SPECIES
 
 #### Status
 ACCEPTED

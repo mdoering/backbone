@@ -1,5 +1,4 @@
-Leptogium velutinum P. M. Jørg. SPECIES
-=======
+# Leptogium velutinum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

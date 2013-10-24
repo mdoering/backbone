@@ -1,5 +1,4 @@
-Pseudocercospora besleriae U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora besleriae U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

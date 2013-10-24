@@ -1,5 +1,4 @@
-Asteromella ligulariicola (Melnik) Vanev & Aa SPECIES
-=======
+# Asteromella ligulariicola (Melnik) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

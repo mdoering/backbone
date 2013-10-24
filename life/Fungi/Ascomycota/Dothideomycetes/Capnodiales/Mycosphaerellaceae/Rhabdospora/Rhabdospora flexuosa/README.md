@@ -1,5 +1,4 @@
-Rhabdospora flexuosa (Penz.) Sacc. SPECIES
-=======
+# Rhabdospora flexuosa (Penz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

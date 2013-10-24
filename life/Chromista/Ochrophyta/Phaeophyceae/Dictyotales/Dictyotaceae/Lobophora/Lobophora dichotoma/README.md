@@ -1,5 +1,4 @@
-Lobophora dichotoma (Simons) P.Silva SPECIES
-=======
+# Lobophora dichotoma (Simons) P.Silva SPECIES
 
 #### Status
 ACCEPTED

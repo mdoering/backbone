@@ -1,5 +1,4 @@
-Lepiota testacea Murrill SPECIES
-=======
+# Lepiota testacea Murrill SPECIES
 
 #### Status
 ACCEPTED

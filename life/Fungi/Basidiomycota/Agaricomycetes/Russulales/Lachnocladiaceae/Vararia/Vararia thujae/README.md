@@ -1,5 +1,4 @@
-Vararia thujae Boidin, 1981 SPECIES
-=======
+# Vararia thujae Boidin, 1981 SPECIES
 
 #### Status
 ACCEPTED

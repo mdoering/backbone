@@ -1,5 +1,4 @@
-Meliola litseae-citrata Hansf. SPECIES
-=======
+# Meliola litseae-citrata Hansf. SPECIES
 
 #### Status
 ACCEPTED

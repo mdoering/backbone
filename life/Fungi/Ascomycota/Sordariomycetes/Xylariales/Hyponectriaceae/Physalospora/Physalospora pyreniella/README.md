@@ -1,5 +1,4 @@
-Physalospora pyreniella Petr. SPECIES
-=======
+# Physalospora pyreniella Petr. SPECIES
 
 #### Status
 ACCEPTED

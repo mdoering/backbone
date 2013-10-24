@@ -1,5 +1,4 @@
-Cladosporium melanophloei Thüm. SPECIES
-=======
+# Cladosporium melanophloei Thüm. SPECIES
 
 #### Status
 ACCEPTED

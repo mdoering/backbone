@@ -1,5 +1,4 @@
-Phanerochaete macrocystidiata Hallenb. SPECIES
-=======
+# Phanerochaete macrocystidiata Hallenb. SPECIES
 
 #### Status
 ACCEPTED

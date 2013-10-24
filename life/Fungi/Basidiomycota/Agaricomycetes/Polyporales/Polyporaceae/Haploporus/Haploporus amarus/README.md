@@ -1,5 +1,4 @@
-Haploporus amarus X.L. Zeng & Y.P. Bai SPECIES
-=======
+# Haploporus amarus X.L. Zeng & Y.P. Bai SPECIES
 
 #### Status
 ACCEPTED

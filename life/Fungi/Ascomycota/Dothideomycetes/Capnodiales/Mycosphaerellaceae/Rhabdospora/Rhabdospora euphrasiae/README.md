@@ -1,5 +1,4 @@
-Rhabdospora euphrasiae Picb. SPECIES
-=======
+# Rhabdospora euphrasiae Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria cinerella var. cinerella VARIETY
-=======
+# Pertusaria cinerella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria cinerella var. cinerella
+Pertusaria cinerella Müll. Arg.
 
 ### Remarks
 null

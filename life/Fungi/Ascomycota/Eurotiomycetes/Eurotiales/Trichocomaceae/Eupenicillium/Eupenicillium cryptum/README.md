@@ -1,5 +1,4 @@
-Eupenicillium cryptum Goch., 1986 SPECIES
-=======
+# Eupenicillium cryptum Goch., 1986 SPECIES
 
 #### Status
 ACCEPTED

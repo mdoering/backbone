@@ -1,5 +1,4 @@
-Lycoperdon eximium Morgan SPECIES
-=======
+# Lycoperdon eximium Morgan SPECIES
 
 #### Status
 ACCEPTED

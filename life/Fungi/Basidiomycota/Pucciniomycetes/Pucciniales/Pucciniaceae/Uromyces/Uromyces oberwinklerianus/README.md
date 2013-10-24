@@ -1,5 +1,4 @@
-Uromyces oberwinklerianus Berndt SPECIES
-=======
+# Uromyces oberwinklerianus Berndt SPECIES
 
 #### Status
 ACCEPTED

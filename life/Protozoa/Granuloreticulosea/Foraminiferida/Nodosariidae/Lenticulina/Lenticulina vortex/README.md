@@ -1,5 +1,4 @@
-Lenticulina vortex SPECIES
-=======
+# Lenticulina vortex SPECIES
 
 #### Status
 ACCEPTED

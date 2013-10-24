@@ -1,5 +1,4 @@
-Hygrocybe taekeri A.M. Young SPECIES
-=======
+# Hygrocybe taekeri A.M. Young SPECIES
 
 #### Status
 ACCEPTED

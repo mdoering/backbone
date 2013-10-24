@@ -1,14 +1,13 @@
-Ustanciosporium nova-guineae (Zundel) M. Piepenbr. SPECIES
-=======
+# Ustanciosporium novae-guineae (Zundel) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 70(3-4): 347 (2000)
 
 #### Original name
 Cintractia novae-guineae Zundel, 1939

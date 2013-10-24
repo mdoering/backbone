@@ -1,5 +1,4 @@
-Hendersonia dactylonis Esfand. SPECIES
-=======
+# Hendersonia dactylonis Esfand. SPECIES
 
 #### Status
 ACCEPTED

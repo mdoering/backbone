@@ -1,5 +1,4 @@
-Usnea aureola Motyka SPECIES
-=======
+# Usnea aureola Motyka SPECIES
 
 #### Status
 ACCEPTED

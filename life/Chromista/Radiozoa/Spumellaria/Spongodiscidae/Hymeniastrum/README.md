@@ -1,5 +1,4 @@
-Hymeniastrum Ehrenberg, 1847 GENUS
-=======
+# Hymeniastrum Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

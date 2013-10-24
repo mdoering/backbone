@@ -1,5 +1,4 @@
-Meliola mitchellae var. mitchellae VARIETY
-=======
+# Meliola mitchellae Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 6(no. 40): 143 (1878)
 
 #### Original name
-Meliola mitchellae var. mitchellae
+Meliola mitchellae Cooke
 
 ### Remarks
 null

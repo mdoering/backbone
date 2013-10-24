@@ -1,5 +1,4 @@
-Limacium gliocyclum (Fr.) Ricken SPECIES
-=======
+# Limacium gliocyclum (Fr.) Ricken SPECIES
 
 #### Status
 ACCEPTED

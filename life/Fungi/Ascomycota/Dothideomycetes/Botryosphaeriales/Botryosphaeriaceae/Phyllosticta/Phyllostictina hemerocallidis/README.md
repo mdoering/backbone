@@ -1,5 +1,4 @@
-Phyllostictina hemerocallidis G.M. Chang & P.K. Chi SPECIES
-=======
+# Phyllostictina hemerocallidis G.M. Chang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

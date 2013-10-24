@@ -1,5 +1,4 @@
-Wyattia V.B.A. Trevisan, 1849 GENUS
-=======
+# Wyattia V.B.A. Trevisan, 1849 GENUS
 
 #### Status
 ACCEPTED

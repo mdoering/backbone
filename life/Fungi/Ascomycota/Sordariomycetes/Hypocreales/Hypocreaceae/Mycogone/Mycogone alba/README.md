@@ -1,5 +1,4 @@
-Mycogone alba var. alba VARIETY
-=======
+# Mycogone alba Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 26 (1822)
 
 #### Original name
-Mycogone alba var. alba
+Mycogone alba Pers.
 
 ### Remarks
 null

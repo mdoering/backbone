@@ -1,14 +1,13 @@
-Globoturborotalita decorata Loeblich & Tappan, 1994 SPECIES
-=======
+# Globoturborotalita rubescens (Hofker, 1956) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-Loeblich, A. R. & Tappan, H. 1994. Foraminifera of the Sahul Shelf and Timor Sea. Cushman Foundation for Foraminiferal Research Special Publication 31.
+null
 
 #### Original name
 null

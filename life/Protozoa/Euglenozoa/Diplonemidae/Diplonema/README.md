@@ -1,14 +1,13 @@
-Isonema Schuster, Goldstein & Hershenov, 1968 GENUS
-=======
+# Diplonema Griessmann, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Protistologica 4:141.
+Arch. Protistenk. , 32, 4, 58, 75.
 
 #### Original name
 null

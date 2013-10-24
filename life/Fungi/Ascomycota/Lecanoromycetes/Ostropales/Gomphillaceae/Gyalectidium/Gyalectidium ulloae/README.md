@@ -1,5 +1,4 @@
-Gyalectidium ulloae Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium ulloae Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

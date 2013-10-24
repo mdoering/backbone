@@ -1,5 +1,4 @@
-Plowrightia philadelphi M.E. Barr SPECIES
-=======
+# Plowrightia philadelphi M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

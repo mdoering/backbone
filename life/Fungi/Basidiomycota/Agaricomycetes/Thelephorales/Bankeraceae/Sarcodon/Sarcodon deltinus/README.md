@@ -1,17 +1,16 @@
-Sarcodon deltinum R. Heim SPECIES
-=======
+# Sarcodon deltinus R. Heim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 8(Suppl. 1): 10 (1943)
 
 #### Original name
-Sarcodon deltinum R. Heim
+Sarcodon deltinus R. Heim
 
 ### Remarks
 null

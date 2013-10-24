@@ -1,5 +1,4 @@
-Archaeoacanthocircus ovalis SPECIES
-=======
+# Archaeoacanthocircus ovalis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplochytridium codicola (Zeller) Karling SPECIES
-=======
+# Diplochytridium codicola (Zeller) Karling SPECIES
 
 #### Status
 ACCEPTED

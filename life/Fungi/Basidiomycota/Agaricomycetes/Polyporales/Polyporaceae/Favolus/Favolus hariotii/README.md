@@ -1,5 +1,4 @@
-Favolus hariotii Speg. SPECIES
-=======
+# Favolus hariotii Speg. SPECIES
 
 #### Status
 ACCEPTED

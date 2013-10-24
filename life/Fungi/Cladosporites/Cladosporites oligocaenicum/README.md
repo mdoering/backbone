@@ -1,5 +1,4 @@
-Cladosporites oligocaenicum E.W. Berry SPECIES
-=======
+# Cladosporites oligocaenicum E.W. Berry SPECIES
 
 #### Status
 ACCEPTED

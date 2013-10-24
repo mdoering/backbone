@@ -1,5 +1,4 @@
-Trichopeziza leonina (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza leonina (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria martineziae Thüm. SPECIES
-=======
+# Septoria martineziae Thüm. SPECIES
 
 #### Status
 ACCEPTED

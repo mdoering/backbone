@@ -1,5 +1,4 @@
-Monilia pistaciae Zaprom. SPECIES
-=======
+# Monilia pistaciae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

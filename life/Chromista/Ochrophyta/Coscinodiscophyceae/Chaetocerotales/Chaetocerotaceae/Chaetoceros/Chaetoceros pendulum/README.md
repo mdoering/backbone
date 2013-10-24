@@ -1,5 +1,4 @@
-Chaetoceros pendulum Karsten SPECIES
-=======
+# Chaetoceros pendulum Karsten SPECIES
 
 #### Status
 ACCEPTED

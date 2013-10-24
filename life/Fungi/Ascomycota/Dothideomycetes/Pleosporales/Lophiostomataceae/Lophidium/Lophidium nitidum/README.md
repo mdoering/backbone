@@ -1,5 +1,4 @@
-Lophidium nitidum Ellis & Everh. SPECIES
-=======
+# Lophidium nitidum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

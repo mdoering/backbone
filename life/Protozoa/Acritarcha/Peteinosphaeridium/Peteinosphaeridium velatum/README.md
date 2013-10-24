@@ -1,5 +1,4 @@
-Peteinosphaeridium velatum Kjellström, 1971 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Peteinosphaeridium velatum Kjellström, 1971 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta potentillarum Sacc. SPECIES
-=======
+# Ascochyta potentillarum Sacc. SPECIES
 
 #### Status
 ACCEPTED

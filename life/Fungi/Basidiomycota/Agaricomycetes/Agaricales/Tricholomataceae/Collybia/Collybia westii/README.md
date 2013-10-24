@@ -1,5 +1,4 @@
-Collybia westii (Murrill) Singer SPECIES
-=======
+# Collybia westii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

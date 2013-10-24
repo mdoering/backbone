@@ -1,5 +1,4 @@
-Cytostagonospora cryptica Curzi & Barbaini SPECIES
-=======
+# Cytostagonospora cryptica Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

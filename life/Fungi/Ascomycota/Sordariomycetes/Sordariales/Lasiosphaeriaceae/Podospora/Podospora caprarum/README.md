@@ -1,5 +1,4 @@
-Podospora caprarum Petr. SPECIES
-=======
+# Podospora caprarum Petr. SPECIES
 
 #### Status
 ACCEPTED

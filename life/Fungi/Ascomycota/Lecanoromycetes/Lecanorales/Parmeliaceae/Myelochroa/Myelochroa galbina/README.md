@@ -1,17 +1,16 @@
-Parmelia galbina var. galbina VARIETY
-=======
+# Myelochroa galbina (Ach.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 195 (1814)
+Mycotaxon 29: 240 (1987)
 
 #### Original name
-Parmelia galbina var. galbina
+Parmelia galbina Ach.
 
 ### Remarks
 null

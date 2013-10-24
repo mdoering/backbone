@@ -1,5 +1,4 @@
-Graphis vermiformis (Eschw.) Nyl. SPECIES
-=======
+# Graphis vermiformis (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

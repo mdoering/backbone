@@ -1,17 +1,16 @@
-Peniophora quercina f. quercina FORM
-=======
+# Peniophora quercina (Pers.) Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Grevillea 8(no. 45): 20 (1879)
 
 #### Original name
-Peniophora quercina f. quercina
+Thelephora quercina Pers., 1801
 
 ### Remarks
 null

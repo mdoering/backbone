@@ -1,5 +1,4 @@
-Squamanita fimbriata Gulden, Bendiksen & Brandrud SPECIES
-=======
+# Squamanita fimbriata Gulden, Bendiksen & Brandrud SPECIES
 
 #### Status
 ACCEPTED

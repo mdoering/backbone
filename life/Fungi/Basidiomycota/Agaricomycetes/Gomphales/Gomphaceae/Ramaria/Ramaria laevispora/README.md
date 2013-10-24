@@ -1,5 +1,4 @@
-Ramaria laevispora Corner & K.S. Thind, 1966 SPECIES
-=======
+# Ramaria laevispora Corner & K.S. Thind, 1966 SPECIES
 
 #### Status
 ACCEPTED

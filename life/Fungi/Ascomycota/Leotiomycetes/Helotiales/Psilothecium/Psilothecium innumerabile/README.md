@@ -1,5 +1,4 @@
-Psilothecium innumerabile Fuckel SPECIES
-=======
+# Psilothecium innumerabile Fuckel SPECIES
 
 #### Status
 ACCEPTED

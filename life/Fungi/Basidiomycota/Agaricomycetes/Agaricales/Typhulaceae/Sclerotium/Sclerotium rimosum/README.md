@@ -1,5 +1,4 @@
-Sclerotium rimosum Lasch SPECIES
-=======
+# Sclerotium rimosum Lasch SPECIES
 
 #### Status
 ACCEPTED

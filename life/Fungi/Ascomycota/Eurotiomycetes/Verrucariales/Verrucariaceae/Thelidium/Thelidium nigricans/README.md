@@ -1,5 +1,4 @@
-Thelidium nigricans Zschacke SPECIES
-=======
+# Thelidium nigricans Zschacke SPECIES
 
 #### Status
 ACCEPTED

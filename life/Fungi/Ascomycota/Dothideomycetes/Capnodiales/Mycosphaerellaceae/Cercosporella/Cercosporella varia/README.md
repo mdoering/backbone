@@ -1,5 +1,4 @@
-Cercosporella varia Christoff & Christova SPECIES
-=======
+# Cercosporella varia Christoff & Christova SPECIES
 
 #### Status
 ACCEPTED

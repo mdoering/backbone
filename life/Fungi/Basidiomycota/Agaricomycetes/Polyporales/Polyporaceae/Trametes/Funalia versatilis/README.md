@@ -1,5 +1,4 @@
-Funalia versatilis (Berk.) Pat. SPECIES
-=======
+# Funalia versatilis (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

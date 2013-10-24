@@ -1,5 +1,4 @@
-Tricholoma muciferum Berk. & Mont. SPECIES
-=======
+# Tricholoma muciferum Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

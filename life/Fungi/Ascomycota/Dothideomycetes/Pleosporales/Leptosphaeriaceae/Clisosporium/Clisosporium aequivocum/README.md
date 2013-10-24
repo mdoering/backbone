@@ -1,5 +1,4 @@
-Clisosporium aequivocum (Ces.) Kuntze SPECIES
-=======
+# Clisosporium aequivocum (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

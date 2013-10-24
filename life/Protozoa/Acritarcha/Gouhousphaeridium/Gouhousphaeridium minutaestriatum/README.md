@@ -1,5 +1,4 @@
-Gouhousphaeridium minutaestriatum Yang Qinghe in Yang Qinghe et al., 1980 SPECIES
-=======
+# Gouhousphaeridium minutaestriatum Yang Qinghe in Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

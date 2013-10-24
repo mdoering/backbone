@@ -1,8 +1,7 @@
-Xanthoria filsoni Elix SPECIES
-=======
+# Jackelixia filsonii (Elix) S. Y. Kondr., Fedorenko, S. Stenroos, Kärnefelt & A. Thell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,8 +1,7 @@
-Miliolina subrotunda var. trigonina Wiesner, 1923 VARIETY
-=======
+# Miliolina subrotunda (Montagu) SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

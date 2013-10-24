@@ -1,5 +1,4 @@
-Bovista californica Kreisel SPECIES
-=======
+# Bovista californica Kreisel SPECIES
 
 #### Status
 ACCEPTED

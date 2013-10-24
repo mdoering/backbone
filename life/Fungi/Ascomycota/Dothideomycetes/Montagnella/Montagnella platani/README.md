@@ -1,5 +1,4 @@
-Montagnella platani P. Karst. & Har. SPECIES
-=======
+# Montagnella platani P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

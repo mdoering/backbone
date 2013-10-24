@@ -1,5 +1,4 @@
-Russula neerimea Grgur. SPECIES
-=======
+# Russula neerimea Grgur. SPECIES
 
 #### Status
 ACCEPTED

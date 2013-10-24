@@ -1,5 +1,4 @@
-Usnea diffracta subsp. diffracta SUBSPECIES
-=======
+# Usnea diffracta Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bot. Mag. , Tokyo 35: 45 (1921)
+null
 
 #### Original name
-Usnea diffracta subsp. diffracta
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Boletus scaber var. carpini R. Schulz, 1924 VARIETY
-=======
+# Leccinum pseudoscabrum (Kallenb.) Šutara, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Michael & Schulz, Führ. Pilzk. (Zwickau) 1: pl. 95 with legend (1924)
+Ceská Mykol. 43(1): 6 (1989)
 
 #### Original name
-Boletus scaber var. carpini R. Schulz, 1924
+Boletus pseudoscaber Kallenb., 1929
 
 ### Remarks
 null

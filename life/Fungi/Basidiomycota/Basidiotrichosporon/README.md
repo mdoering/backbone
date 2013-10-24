@@ -1,5 +1,4 @@
-Basidiotrichosporon GENUS
-=======
+# Basidiotrichosporon GENUS
 
 #### Status
 ACCEPTED

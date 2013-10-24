@@ -1,5 +1,4 @@
-Anabaena bothae H. Welsh SPECIES
-=======
+# Anabaena bothae H. Welsh SPECIES
 
 #### Status
 ACCEPTED

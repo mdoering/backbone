@@ -1,5 +1,4 @@
-Diplodina ranunculi H. Ruppr. SPECIES
-=======
+# Diplodina ranunculi H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

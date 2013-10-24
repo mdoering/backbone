@@ -1,5 +1,4 @@
-Buellia incuriosa (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia incuriosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

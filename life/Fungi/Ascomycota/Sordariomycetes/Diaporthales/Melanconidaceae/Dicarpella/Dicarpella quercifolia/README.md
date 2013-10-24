@@ -1,5 +1,4 @@
-Dicarpella quercifolia (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Dicarpella quercifolia (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

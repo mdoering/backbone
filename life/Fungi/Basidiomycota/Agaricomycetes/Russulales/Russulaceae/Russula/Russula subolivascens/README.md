@@ -1,5 +1,4 @@
-Russula subolivascens Burl. SPECIES
-=======
+# Russula subolivascens Burl. SPECIES
 
 #### Status
 ACCEPTED

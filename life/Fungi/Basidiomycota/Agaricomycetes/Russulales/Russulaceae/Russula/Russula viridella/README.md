@@ -1,5 +1,4 @@
-Russula viridella Peck SPECIES
-=======
+# Russula viridella Peck SPECIES
 
 #### Status
 ACCEPTED

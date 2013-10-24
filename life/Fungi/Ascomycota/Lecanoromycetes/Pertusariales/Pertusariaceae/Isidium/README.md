@@ -1,5 +1,4 @@
-Isidium GENUS
-=======
+# Isidium GENUS
 
 #### Status
 ACCEPTED

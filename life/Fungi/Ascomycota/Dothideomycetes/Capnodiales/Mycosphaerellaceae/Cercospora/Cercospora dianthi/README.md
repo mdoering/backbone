@@ -1,5 +1,4 @@
-Cercospora dianthi A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora dianthi A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

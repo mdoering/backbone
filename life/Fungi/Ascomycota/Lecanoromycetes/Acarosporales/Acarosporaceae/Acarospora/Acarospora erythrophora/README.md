@@ -1,5 +1,4 @@
-Acarospora erythrophora H. Magn. SPECIES
-=======
+# Acarospora erythrophora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

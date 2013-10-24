@@ -1,5 +1,4 @@
-Mycosphaerella lindingeri Werderm. SPECIES
-=======
+# Mycosphaerella lindingeri Werderm. SPECIES
 
 #### Status
 ACCEPTED

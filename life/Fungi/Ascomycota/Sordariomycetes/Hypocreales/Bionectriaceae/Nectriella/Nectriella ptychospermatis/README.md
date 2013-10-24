@@ -1,5 +1,4 @@
-Nectriella ptychospermatis Rehm SPECIES
-=======
+# Nectriella ptychospermatis Rehm SPECIES
 
 #### Status
 ACCEPTED

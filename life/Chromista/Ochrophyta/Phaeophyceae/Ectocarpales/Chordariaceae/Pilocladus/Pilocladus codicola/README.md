@@ -1,8 +1,7 @@
-Streblonema codicola Setchell & Gardner SPECIES
-=======
+# Pilocladus codicola (Setchell & N.L. Gardner) Ardré SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

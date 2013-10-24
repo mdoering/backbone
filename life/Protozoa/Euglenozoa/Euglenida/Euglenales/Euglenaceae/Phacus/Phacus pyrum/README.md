@@ -1,5 +1,4 @@
-Phacus pyrum var. australicus Playfair VARIETY
-=======
+# Phacus pyrum (Ehrenberg) F. Stein SPECIES
 
 #### Status
 ACCEPTED

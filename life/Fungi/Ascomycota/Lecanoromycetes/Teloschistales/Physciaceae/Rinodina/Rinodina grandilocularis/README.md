@@ -1,5 +1,4 @@
-Rinodina grandilocularis Sheard SPECIES
-=======
+# Rinodina grandilocularis Sheard SPECIES
 
 #### Status
 ACCEPTED

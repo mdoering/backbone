@@ -1,5 +1,4 @@
-Boletus porosus Berk. SPECIES
-=======
+# Boletus porosus Berk. SPECIES
 
 #### Status
 ACCEPTED

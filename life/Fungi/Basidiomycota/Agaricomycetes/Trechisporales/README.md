@@ -1,5 +1,4 @@
-Trechisporales K.H. Larss. ORDER
-=======
+# Trechisporales K.H. Larss. ORDER
 
 #### Status
 ACCEPTED

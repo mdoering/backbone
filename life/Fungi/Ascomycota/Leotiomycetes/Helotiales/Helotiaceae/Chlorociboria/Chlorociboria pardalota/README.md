@@ -1,5 +1,4 @@
-Chlorociboria pardalota P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria pardalota P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

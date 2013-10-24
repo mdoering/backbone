@@ -1,5 +1,4 @@
-Verrucaria irmscheriana Erichsen SPECIES
-=======
+# Verrucaria irmscheriana Erichsen SPECIES
 
 #### Status
 ACCEPTED

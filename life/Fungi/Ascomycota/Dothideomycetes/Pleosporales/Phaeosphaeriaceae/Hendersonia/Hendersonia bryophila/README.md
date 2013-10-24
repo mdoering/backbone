@@ -1,5 +1,4 @@
-Hendersonia bryophila Racov. SPECIES
-=======
+# Hendersonia bryophila Racov. SPECIES
 
 #### Status
 ACCEPTED

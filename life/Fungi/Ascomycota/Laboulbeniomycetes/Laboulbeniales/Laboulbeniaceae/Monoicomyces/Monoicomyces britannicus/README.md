@@ -1,5 +1,4 @@
-Monoicomyces britannicus Thaxt., 1900 SPECIES
-=======
+# Monoicomyces britannicus Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

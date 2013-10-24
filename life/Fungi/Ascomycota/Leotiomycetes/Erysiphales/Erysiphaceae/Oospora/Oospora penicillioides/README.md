@@ -1,5 +1,4 @@
-Oospora penicillioides (Rivolta) Sacc. SPECIES
-=======
+# Oospora penicillioides (Rivolta) Sacc. SPECIES
 
 #### Status
 ACCEPTED

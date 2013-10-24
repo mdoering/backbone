@@ -1,5 +1,4 @@
-Morenoina africana Doidge SPECIES
-=======
+# Morenoina africana Doidge SPECIES
 
 #### Status
 ACCEPTED

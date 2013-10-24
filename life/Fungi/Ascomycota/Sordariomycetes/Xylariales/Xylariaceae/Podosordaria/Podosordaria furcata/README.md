@@ -1,5 +1,4 @@
-Podosordaria furcata (Schwein.) P.M.D. Martin SPECIES
-=======
+# Podosordaria furcata (Schwein.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

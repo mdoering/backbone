@@ -1,5 +1,4 @@
-Gloeosporium kiotoense Hemmi & Nojima SPECIES
-=======
+# Gloeosporium kiotoense Hemmi & Nojima SPECIES
 
 #### Status
 ACCEPTED

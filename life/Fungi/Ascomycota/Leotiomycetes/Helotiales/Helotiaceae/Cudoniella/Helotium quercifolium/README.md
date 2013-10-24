@@ -1,5 +1,4 @@
-Helotium quercifolium K.S. Thind, E.K. Cash & Pr. Singh SPECIES
-=======
+# Helotium quercifolium K.S. Thind, E.K. Cash & Pr. Singh SPECIES
 
 #### Status
 ACCEPTED

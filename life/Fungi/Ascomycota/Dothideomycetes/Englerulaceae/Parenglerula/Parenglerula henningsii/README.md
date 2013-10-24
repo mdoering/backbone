@@ -1,5 +1,4 @@
-Parenglerula henningsii Petr. SPECIES
-=======
+# Parenglerula henningsii Petr. SPECIES
 
 #### Status
 ACCEPTED

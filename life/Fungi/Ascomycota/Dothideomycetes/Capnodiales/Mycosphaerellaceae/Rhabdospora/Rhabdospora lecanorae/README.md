@@ -1,5 +1,4 @@
-Rhabdospora lecanorae Vouaux SPECIES
-=======
+# Rhabdospora lecanorae Vouaux SPECIES
 
 #### Status
 ACCEPTED

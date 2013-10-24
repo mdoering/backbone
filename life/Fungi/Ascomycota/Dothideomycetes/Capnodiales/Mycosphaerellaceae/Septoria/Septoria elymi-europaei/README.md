@@ -1,5 +1,4 @@
-Septoria elymi-europaei Jaap SPECIES
-=======
+# Septoria elymi-europaei Jaap SPECIES
 
 #### Status
 ACCEPTED

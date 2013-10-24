@@ -1,5 +1,4 @@
-Discophrya collini SPECIES
-=======
+# Discophrya collini SPECIES
 
 #### Status
 ACCEPTED

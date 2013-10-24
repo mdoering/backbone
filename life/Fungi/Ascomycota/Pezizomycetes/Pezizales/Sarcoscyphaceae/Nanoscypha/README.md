@@ -1,5 +1,4 @@
-Nanoscypha Denison GENUS
-=======
+# Nanoscypha Denison GENUS
 
 #### Status
 ACCEPTED

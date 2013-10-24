@@ -1,5 +1,4 @@
-Aspicilia sorediza (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia sorediza (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

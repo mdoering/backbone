@@ -1,14 +1,13 @@
-Olphidium GENUS
-=======
+# Olpidium (A. Braun) J. Schröt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(18): 180 (1886)
 
 #### Original name
 null

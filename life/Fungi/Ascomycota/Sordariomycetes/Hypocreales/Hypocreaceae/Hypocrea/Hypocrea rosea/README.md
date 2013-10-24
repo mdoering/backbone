@@ -1,5 +1,4 @@
-Hypocrea rosea Ces. & De Not. SPECIES
-=======
+# Hypocrea rosea Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

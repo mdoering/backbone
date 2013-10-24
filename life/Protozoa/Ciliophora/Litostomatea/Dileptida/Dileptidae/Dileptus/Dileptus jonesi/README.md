@@ -1,5 +1,4 @@
-Dileptus jonesi Dragesco, 1963 SPECIES
-=======
+# Dileptus jonesi Dragesco, 1963 SPECIES
 
 #### Status
 ACCEPTED

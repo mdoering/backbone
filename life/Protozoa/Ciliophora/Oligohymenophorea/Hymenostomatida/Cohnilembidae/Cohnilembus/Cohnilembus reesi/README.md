@@ -1,5 +1,4 @@
-Cohnilembus reesi SPECIES
-=======
+# Cohnilembus reesi SPECIES
 
 #### Status
 ACCEPTED

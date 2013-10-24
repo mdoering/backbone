@@ -1,5 +1,4 @@
-Hyaloscypha subtilis var. subtilis VARIETY
-=======
+# Hyaloscypha subtilis Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 273 (1934)
 
 #### Original name
-Hyaloscypha subtilis var. subtilis
+Hyaloscypha subtilis Velen.
 
 ### Remarks
 null

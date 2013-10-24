@@ -1,5 +1,4 @@
-Stachylidium coffeicola Av.-Saccá SPECIES
-=======
+# Stachylidium coffeicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

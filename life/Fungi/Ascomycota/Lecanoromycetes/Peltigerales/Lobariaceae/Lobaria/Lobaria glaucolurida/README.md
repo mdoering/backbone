@@ -1,5 +1,4 @@
-Lobaria glaucolurida (Nyl.) Hellb. SPECIES
-=======
+# Lobaria glaucolurida (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella leucaenae Rehm SPECIES
-=======
+# Eutypella leucaenae Rehm SPECIES
 
 #### Status
 ACCEPTED

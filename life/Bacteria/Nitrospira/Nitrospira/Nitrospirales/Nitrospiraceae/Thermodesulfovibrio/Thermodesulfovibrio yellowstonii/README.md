@@ -1,5 +1,4 @@
-Thermodesulfovibrio yellowstonii Henry et al., 1994 SPECIES
-=======
+# Thermodesulfovibrio yellowstonii Henry et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Schizammnia GENUS
-=======
+# Schizammina Heron-Allen & Earland, 1929 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+J. R. Micr. Soc. , (3) 49, 103.
 
 #### Original name
 null

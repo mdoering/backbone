@@ -1,5 +1,4 @@
-Trochamminopsis lidoensis Brönnimann, Whittaker & Valleri, 1992 SPECIES
-=======
+# Trochamminopsis lidoensis Brönnimann, Whittaker & Valleri, 1992 SPECIES
 
 #### Status
 ACCEPTED

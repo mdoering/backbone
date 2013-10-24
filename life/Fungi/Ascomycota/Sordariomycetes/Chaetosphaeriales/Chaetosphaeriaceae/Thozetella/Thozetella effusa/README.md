@@ -1,5 +1,4 @@
-Thozetella effusa B. Sutton & G.T. Cole, 1983 SPECIES
-=======
+# Thozetella effusa B. Sutton & G.T. Cole, 1983 SPECIES
 
 #### Status
 ACCEPTED

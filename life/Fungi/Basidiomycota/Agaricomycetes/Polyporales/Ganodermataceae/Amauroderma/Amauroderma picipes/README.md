@@ -1,5 +1,4 @@
-Amauroderma picipes Torrend SPECIES
-=======
+# Amauroderma picipes Torrend SPECIES
 
 #### Status
 ACCEPTED

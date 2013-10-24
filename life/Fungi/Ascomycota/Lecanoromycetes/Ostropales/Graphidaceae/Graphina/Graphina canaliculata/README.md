@@ -1,5 +1,4 @@
-Graphina canaliculata (Fée) Müll. Arg. SPECIES
-=======
+# Graphina canaliculata (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

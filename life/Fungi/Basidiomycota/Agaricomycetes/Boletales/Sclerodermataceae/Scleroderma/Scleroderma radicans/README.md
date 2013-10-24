@@ -1,5 +1,4 @@
-Scleroderma radicans Lloyd SPECIES
-=======
+# Scleroderma radicans Lloyd SPECIES
 
 #### Status
 ACCEPTED

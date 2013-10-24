@@ -1,5 +1,4 @@
-Phyllosticta weigeliae Sacc. & Speg. SPECIES
-=======
+# Phyllosticta weigeliae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

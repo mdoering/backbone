@@ -1,5 +1,4 @@
-Russula fulvograminea Ruots., Sarnari & Vauras SPECIES
-=======
+# Russula fulvograminea Ruots., Sarnari & Vauras SPECIES
 
 #### Status
 ACCEPTED

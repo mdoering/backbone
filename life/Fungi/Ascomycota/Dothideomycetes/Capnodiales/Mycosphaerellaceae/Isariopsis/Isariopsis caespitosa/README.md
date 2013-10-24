@@ -1,5 +1,4 @@
-Isariopsis caespitosa Petr. & Cif. SPECIES
-=======
+# Isariopsis caespitosa Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

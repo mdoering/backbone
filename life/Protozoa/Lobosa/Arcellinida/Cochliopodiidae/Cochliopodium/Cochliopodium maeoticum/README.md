@@ -1,5 +1,4 @@
-Cochliopodium maeoticum Kudryavtsev, 2006 SPECIES
-=======
+# Cochliopodium maeoticum Kudryavtsev, 2006 SPECIES
 
 #### Status
 ACCEPTED

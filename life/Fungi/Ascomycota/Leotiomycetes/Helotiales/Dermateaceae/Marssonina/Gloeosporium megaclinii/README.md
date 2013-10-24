@@ -1,5 +1,4 @@
-Gloeosporium megaclinii Verpl. & Claess. SPECIES
-=======
+# Gloeosporium megaclinii Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

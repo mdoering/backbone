@@ -1,5 +1,4 @@
-Lecidea campsterisna Linds. SPECIES
-=======
+# Lecidea campsterisna Linds. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella filipendulae Tomilin SPECIES
-=======
+# Mycosphaerella filipendulae Tomilin SPECIES
 
 #### Status
 ACCEPTED

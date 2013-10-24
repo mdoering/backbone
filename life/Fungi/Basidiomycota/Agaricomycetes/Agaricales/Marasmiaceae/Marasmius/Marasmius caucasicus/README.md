@@ -1,5 +1,4 @@
-Marasmius caucasicus Singer SPECIES
-=======
+# Marasmius caucasicus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium racemosae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium racemosae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

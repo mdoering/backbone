@@ -1,5 +1,4 @@
-Tuburcinia ranunculi-gouani var. ranunculi-gouani VARIETY
-=======
+# Tuburcinia ranunculi-gouani (DC.) Liro SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tuburcinia ranunculi-gouani var. ranunculi-gouani
+null
 
 ### Remarks
 null

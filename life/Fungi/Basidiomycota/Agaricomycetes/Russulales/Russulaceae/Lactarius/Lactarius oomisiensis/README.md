@@ -1,5 +1,4 @@
-Lactarius oomisiensis Verbeken & Halling SPECIES
-=======
+# Lactarius oomisiensis Verbeken & Halling SPECIES
 
 #### Status
 ACCEPTED

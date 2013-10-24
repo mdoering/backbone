@@ -1,5 +1,4 @@
-Innatospora rosea J.F.H. Beyma SPECIES
-=======
+# Innatospora rosea J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

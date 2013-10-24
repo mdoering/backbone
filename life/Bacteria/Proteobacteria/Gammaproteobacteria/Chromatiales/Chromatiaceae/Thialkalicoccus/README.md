@@ -1,5 +1,4 @@
-Thialkalicoccus GENUS
-=======
+# Thialkalicoccus GENUS
 
 #### Status
 ACCEPTED

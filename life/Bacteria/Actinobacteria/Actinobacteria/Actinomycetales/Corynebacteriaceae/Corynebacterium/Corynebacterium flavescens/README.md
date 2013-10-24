@@ -1,11 +1,10 @@
-Mycobacterium flavum (Orla-Jensen, 1919) Jensen, 1934 SPECIES
-=======
+# Corynebacterium flavescens Barksdale et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

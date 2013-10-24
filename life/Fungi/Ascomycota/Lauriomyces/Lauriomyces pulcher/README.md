@@ -1,17 +1,16 @@
-Lauriomyces pulchra R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Lauriomyces pulcher R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Waterloo Biol. Ser. 32: 22 (1990)
 
 #### Original name
-Lauriomyces pulchra R.F. Castañeda & W.B. Kendr.
+Lauriomyces pulcher R.F. Castañeda & W.B. Kendr., 1990
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo ranuncluacearum SPECIES
-=======
+# Uredo ranuncluacearum SPECIES
 
 #### Status
 ACCEPTED

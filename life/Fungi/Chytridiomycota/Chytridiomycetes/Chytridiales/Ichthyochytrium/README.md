@@ -1,5 +1,4 @@
-Ichthyochytrium Plehn GENUS
-=======
+# Ichthyochytrium Plehn GENUS
 
 #### Status
 ACCEPTED

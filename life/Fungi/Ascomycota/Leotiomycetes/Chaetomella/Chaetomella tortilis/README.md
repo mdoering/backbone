@@ -1,5 +1,4 @@
-Chaetomella tortilis Delacr. SPECIES
-=======
+# Chaetomella tortilis Delacr. SPECIES
 
 #### Status
 ACCEPTED

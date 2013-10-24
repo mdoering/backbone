@@ -1,5 +1,4 @@
-Melampsora berberifoliae Kuprev. SPECIES
-=======
+# Melampsora berberifoliae Kuprev. SPECIES
 
 #### Status
 ACCEPTED

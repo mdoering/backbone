@@ -1,5 +1,4 @@
-Lecidea sollana Jatta SPECIES
-=======
+# Lecidea sollana Jatta SPECIES
 
 #### Status
 ACCEPTED

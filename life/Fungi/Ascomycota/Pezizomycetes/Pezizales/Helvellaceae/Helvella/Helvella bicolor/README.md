@@ -1,5 +1,4 @@
-Helvella bicolor Raddi SPECIES
-=======
+# Helvella bicolor Raddi SPECIES
 
 #### Status
 ACCEPTED

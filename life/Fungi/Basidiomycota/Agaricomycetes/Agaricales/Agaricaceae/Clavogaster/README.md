@@ -1,5 +1,4 @@
-Clavogaster Henn. GENUS
-=======
+# Clavogaster Henn. GENUS
 
 #### Status
 ACCEPTED

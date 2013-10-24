@@ -1,5 +1,4 @@
-Lentaria macrospora Corner SPECIES
-=======
+# Lentaria macrospora Corner SPECIES
 
 #### Status
 ACCEPTED

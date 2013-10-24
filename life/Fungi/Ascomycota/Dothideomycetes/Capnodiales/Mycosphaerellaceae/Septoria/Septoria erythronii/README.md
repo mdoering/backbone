@@ -1,5 +1,4 @@
-Septoria erythronii Sacc. & Speg. SPECIES
-=======
+# Septoria erythronii Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

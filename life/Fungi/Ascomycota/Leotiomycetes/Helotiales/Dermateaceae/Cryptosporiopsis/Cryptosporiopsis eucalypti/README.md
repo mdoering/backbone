@@ -1,5 +1,4 @@
-Cryptosporiopsis eucalypti Sankaran & B. Sutton, 1995 SPECIES
-=======
+# Cryptosporiopsis eucalypti Sankaran & B. Sutton, 1995 SPECIES
 
 #### Status
 ACCEPTED

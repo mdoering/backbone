@@ -1,5 +1,4 @@
-Penzigomyces acutisporus (M.B. Ellis) Subram. SPECIES
-=======
+# Penzigomyces acutisporus (M.B. Ellis) Subram. SPECIES
 
 #### Status
 ACCEPTED

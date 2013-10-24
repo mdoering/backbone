@@ -1,17 +1,16 @@
-Poria krawtzewi Pilát SPECIES
-=======
+# Poria krawtzewii Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 48(1): 32 (1932)
 
 #### Original name
-Poria krawtzewi Pilát
+Poria krawtzewii Pilát
 
 ### Remarks
 null

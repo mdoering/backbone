@@ -1,17 +1,16 @@
-Leptosphaeria petkovicensis var. petkovicensis Bubák & Ranoj. VARIETY
-=======
+# Phaeosphaeria petkovicensis (Bubák & Ranoj.) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(5): 1508 (1989)
 
 #### Original name
-Leptosphaeria petkovicensis var. petkovicensis Bubák & Ranoj.
+Leptosphaeria petkovicensis Bubák & Ranoj., 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rutstroemia sepiacea K.S. Thind, E.K. Cash & Pr. Singh SPECIES
-=======
+# Rutstroemia sepiacea K.S. Thind, E.K. Cash & Pr. Singh SPECIES
 
 #### Status
 ACCEPTED

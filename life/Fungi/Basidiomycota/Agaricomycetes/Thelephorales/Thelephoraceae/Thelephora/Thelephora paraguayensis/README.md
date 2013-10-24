@@ -1,5 +1,4 @@
-Thelephora paraguayensis Corner, 1968 SPECIES
-=======
+# Thelephora paraguayensis Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

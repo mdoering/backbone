@@ -1,5 +1,4 @@
-Tripospermum stelligerum (Speg.) Speg. SPECIES
-=======
+# Tripospermum stelligerum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

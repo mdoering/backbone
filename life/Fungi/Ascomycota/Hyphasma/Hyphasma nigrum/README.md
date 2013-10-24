@@ -1,5 +1,4 @@
-Hyphasma nigrum Rebent. SPECIES
-=======
+# Hyphasma nigrum Rebent. SPECIES
 
 #### Status
 ACCEPTED

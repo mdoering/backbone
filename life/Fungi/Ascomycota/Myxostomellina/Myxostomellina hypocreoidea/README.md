@@ -1,5 +1,4 @@
-Myxostomellina hypocreoidea Petr. & Cif. SPECIES
-=======
+# Myxostomellina hypocreoidea Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus kathiae (Korf) Baral, 2005 SPECIES
-=======
+# Hymenoscyphus kathiae (Korf) Baral, 2005 SPECIES
 
 #### Status
 ACCEPTED

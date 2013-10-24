@@ -1,5 +1,4 @@
-Dermatocarpon betularium (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon betularium (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

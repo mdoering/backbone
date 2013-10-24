@@ -1,5 +1,4 @@
-Polyporus laetificus Peck SPECIES
-=======
+# Polyporus laetificus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces galactiae Rezende & Dianese, 2003 SPECIES
-=======
+# Uromyces galactiae Rezende & Dianese, 2003 SPECIES
 
 #### Status
 ACCEPTED

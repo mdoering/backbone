@@ -1,8 +1,7 @@
-Sphaeria holmskioldii P. Karst. SPECIES
-=======
+# Sphaeria holmskjoldii P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria holmskioldii P. Karst.
+Sphaeria holmskjoldii P. Karst.
 
 ### Remarks
 null

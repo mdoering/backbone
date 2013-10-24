@@ -1,5 +1,4 @@
-Delitschia griffithii Cain SPECIES
-=======
+# Delitschia griffithii Cain SPECIES
 
 #### Status
 ACCEPTED

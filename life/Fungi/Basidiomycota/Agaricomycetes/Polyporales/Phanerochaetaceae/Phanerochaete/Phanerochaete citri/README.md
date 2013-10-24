@@ -1,5 +1,4 @@
-Phanerochaete citri A.B. De SPECIES
-=======
+# Phanerochaete citri A.B. De SPECIES
 
 #### Status
 ACCEPTED

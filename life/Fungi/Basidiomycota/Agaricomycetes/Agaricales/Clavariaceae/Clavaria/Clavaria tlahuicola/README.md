@@ -1,5 +1,4 @@
-Clavaria tlahuicola Orozco SPECIES
-=======
+# Clavaria tlahuicola Orozco SPECIES
 
 #### Status
 ACCEPTED

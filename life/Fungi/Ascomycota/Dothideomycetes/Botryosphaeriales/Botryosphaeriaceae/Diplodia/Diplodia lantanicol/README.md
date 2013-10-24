@@ -1,5 +1,4 @@
-Diplodia lantanicol S. Ahmad SPECIES
-=======
+# Diplodia lantanicol S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

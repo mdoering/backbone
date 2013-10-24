@@ -1,5 +1,4 @@
-Ramaria saccardoi (Syd.) Corner SPECIES
-=======
+# Ramaria saccardoi (Syd.) Corner SPECIES
 
 #### Status
 ACCEPTED

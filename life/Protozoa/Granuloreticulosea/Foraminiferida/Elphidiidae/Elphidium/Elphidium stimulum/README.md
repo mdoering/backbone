@@ -1,5 +1,4 @@
-Elphidium stimulum Cushman & McCulloch, 1940 SPECIES
-=======
+# Elphidium stimulum Cushman & McCulloch, 1940 SPECIES
 
 #### Status
 ACCEPTED

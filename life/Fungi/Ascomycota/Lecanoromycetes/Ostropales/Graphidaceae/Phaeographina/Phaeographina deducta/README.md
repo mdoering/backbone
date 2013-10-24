@@ -1,5 +1,4 @@
-Phaeographina deducta (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina deducta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

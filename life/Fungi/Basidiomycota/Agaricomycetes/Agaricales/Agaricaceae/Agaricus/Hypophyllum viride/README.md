@@ -1,5 +1,4 @@
-Hypophyllum viride Paulet SPECIES
-=======
+# Hypophyllum viride Paulet SPECIES
 
 #### Status
 ACCEPTED

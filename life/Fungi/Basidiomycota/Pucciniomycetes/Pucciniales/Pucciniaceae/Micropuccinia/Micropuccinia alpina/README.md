@@ -1,5 +1,4 @@
-Micropuccinia alpina (Fuckel) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia alpina (Fuckel) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

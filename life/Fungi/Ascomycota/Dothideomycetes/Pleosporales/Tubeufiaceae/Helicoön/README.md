@@ -1,5 +1,4 @@
-Helicoön Morgan GENUS
-=======
+# Helicoön Morgan GENUS
 
 #### Status
 ACCEPTED

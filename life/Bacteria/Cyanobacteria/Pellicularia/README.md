@@ -1,5 +1,4 @@
-Pellicularia T.V. Jankauskas, 1980 GENUS
-=======
+# Pellicularia T.V. Jankauskas, 1980 GENUS
 
 #### Status
 ACCEPTED

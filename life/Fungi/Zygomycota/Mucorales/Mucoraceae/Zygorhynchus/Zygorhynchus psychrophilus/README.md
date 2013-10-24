@@ -1,5 +1,4 @@
-Zygorhynchus psychrophilus Schipper & Hintikka, 1969 SPECIES
-=======
+# Zygorhynchus psychrophilus Schipper & Hintikka, 1969 SPECIES
 
 #### Status
 ACCEPTED

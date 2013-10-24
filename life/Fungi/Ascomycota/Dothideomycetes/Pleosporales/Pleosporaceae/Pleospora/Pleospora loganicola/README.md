@@ -1,5 +1,4 @@
-Pleospora loganicola Gucevic SPECIES
-=======
+# Pleospora loganicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

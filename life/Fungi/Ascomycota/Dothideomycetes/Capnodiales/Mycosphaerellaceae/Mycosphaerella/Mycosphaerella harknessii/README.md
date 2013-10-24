@@ -1,5 +1,4 @@
-Mycosphaerella harknessii (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella harknessii (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

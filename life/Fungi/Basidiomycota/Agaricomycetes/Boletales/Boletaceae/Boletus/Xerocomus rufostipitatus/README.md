@@ -1,5 +1,4 @@
-Xerocomus rufostipitatus McNabb, 1968 SPECIES
-=======
+# Xerocomus rufostipitatus McNabb, 1968 SPECIES
 
 #### Status
 ACCEPTED

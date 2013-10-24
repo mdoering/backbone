@@ -1,5 +1,4 @@
-Zoophthora ferruginea (W. Phillips) A. Batko SPECIES
-=======
+# Zoophthora ferruginea (W. Phillips) A. Batko SPECIES
 
 #### Status
 ACCEPTED

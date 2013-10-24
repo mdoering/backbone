@@ -1,5 +1,4 @@
-Chrysothallus pini Velen. SPECIES
-=======
+# Chrysothallus pini Velen. SPECIES
 
 #### Status
 ACCEPTED

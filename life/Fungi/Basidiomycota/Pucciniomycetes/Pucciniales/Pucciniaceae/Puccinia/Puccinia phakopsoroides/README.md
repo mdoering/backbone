@@ -1,5 +1,4 @@
-Puccinia phakopsoroides Arthur & Mains SPECIES
-=======
+# Puccinia phakopsoroides Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

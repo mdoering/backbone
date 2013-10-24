@@ -1,5 +1,4 @@
-Lecidea melanobola Nyl. SPECIES
-=======
+# Lecidea melanobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

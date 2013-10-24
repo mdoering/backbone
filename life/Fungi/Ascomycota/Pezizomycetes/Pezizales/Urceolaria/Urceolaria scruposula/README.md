@@ -1,5 +1,4 @@
-Urceolaria scruposula Nyl. SPECIES
-=======
+# Urceolaria scruposula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma ellisianum (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma ellisianum (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

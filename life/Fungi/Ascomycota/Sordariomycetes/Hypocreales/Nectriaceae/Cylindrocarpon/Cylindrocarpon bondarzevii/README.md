@@ -1,5 +1,4 @@
-Cylindrocarpon bondarzevii Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon bondarzevii Schischkina & Tsanava SPECIES
 
 #### Status
 ACCEPTED

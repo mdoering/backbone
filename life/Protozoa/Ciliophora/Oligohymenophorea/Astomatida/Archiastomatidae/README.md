@@ -1,5 +1,4 @@
-Archiastomatidae FAMILY
-=======
+# Archiastomatidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichomerium portoricense Speg. SPECIES
-=======
+# Trichomerium portoricense Speg. SPECIES
 
 #### Status
 ACCEPTED

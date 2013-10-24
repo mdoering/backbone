@@ -1,5 +1,4 @@
-Aplosporella bakeriana Sacc. SPECIES
-=======
+# Aplosporella bakeriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

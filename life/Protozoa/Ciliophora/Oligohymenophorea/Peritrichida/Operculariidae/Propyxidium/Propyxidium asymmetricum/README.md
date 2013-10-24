@@ -1,5 +1,4 @@
-Propyxidium asymmetricum SPECIES
-=======
+# Propyxidium asymmetricum SPECIES
 
 #### Status
 ACCEPTED

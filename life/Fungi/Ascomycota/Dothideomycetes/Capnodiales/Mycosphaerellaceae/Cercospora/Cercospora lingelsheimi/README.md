@@ -1,5 +1,4 @@
-Cercospora lingelsheimi Savul. & Sandu SPECIES
-=======
+# Cercospora lingelsheimi Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

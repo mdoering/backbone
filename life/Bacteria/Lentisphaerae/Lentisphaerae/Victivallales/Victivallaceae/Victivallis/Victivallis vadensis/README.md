@@ -1,5 +1,4 @@
-Victivallis vadensis Zoetendal et al., 2003 SPECIES
-=======
+# Victivallis vadensis Zoetendal et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

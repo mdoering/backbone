@@ -1,5 +1,4 @@
-Pestalotia lateripes Ellis & Everh. SPECIES
-=======
+# Pestalotia lateripes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

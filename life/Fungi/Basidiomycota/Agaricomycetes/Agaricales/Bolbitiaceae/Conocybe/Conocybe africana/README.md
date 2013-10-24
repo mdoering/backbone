@@ -1,5 +1,4 @@
-Conocybe africana (Pegler) Watling SPECIES
-=======
+# Conocybe africana (Pegler) Watling SPECIES
 
 #### Status
 ACCEPTED

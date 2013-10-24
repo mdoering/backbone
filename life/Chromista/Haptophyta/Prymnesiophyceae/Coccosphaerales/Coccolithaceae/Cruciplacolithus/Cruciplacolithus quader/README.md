@@ -1,5 +1,4 @@
-Cruciplacolithus quader P.H.Roth SPECIES
-=======
+# Cruciplacolithus quader P.H.Roth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Furcouncinula wuyiensis Z.X. Chen & R.X. Gao SPECIES
-=======
+# Furcouncinula wuyiensis Z.X. Chen & R.X. Gao SPECIES
 
 #### Status
 ACCEPTED

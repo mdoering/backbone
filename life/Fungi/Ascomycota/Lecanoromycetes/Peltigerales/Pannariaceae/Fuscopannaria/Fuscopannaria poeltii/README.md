@@ -1,5 +1,4 @@
-Fuscopannaria poeltii (P.M. Jørg.) P.M. Jørg. SPECIES
-=======
+# Fuscopannaria poeltii (P.M. Jørg.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

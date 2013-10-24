@@ -1,14 +1,13 @@
-Gloeocystidium torrendii subsp. analogum (Bourdot & Galzin) Bourdot & Galzin SUBSPECIES
-=======
+# Gloeohypochnicium analogum (Bourdot & Galzin) Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 260 (1928)
+Mycotaxon 28(1): 30 (1987)
 
 #### Original name
 Gloeocystidium analogum Bourdot & Galzin, 1913

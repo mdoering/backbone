@@ -1,5 +1,4 @@
-Pluteus numinensis Singer SPECIES
-=======
+# Pluteus numinensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia squalens Hue SPECIES
-=======
+# Crocynia squalens Hue SPECIES
 
 #### Status
 ACCEPTED

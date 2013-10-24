@@ -1,5 +1,4 @@
-Flavobacteriales ORDER
-=======
+# Flavobacteriales ORDER
 
 #### Status
 ACCEPTED

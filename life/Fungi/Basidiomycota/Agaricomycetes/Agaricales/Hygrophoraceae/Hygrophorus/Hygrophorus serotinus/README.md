@@ -1,5 +1,4 @@
-Hygrophorus serotinus Peck SPECIES
-=======
+# Hygrophorus serotinus Peck SPECIES
 
 #### Status
 ACCEPTED

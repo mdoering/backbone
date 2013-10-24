@@ -1,8 +1,7 @@
-Psilosphaeria macrospora (Sacc.) Cooke, 1887 SPECIES
-=======
+# Zignoëlla macrospora (Sacc.) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

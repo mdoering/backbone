@@ -1,5 +1,4 @@
-Pyronema phaeosporum Hazsl. SPECIES
-=======
+# Pyronema phaeosporum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

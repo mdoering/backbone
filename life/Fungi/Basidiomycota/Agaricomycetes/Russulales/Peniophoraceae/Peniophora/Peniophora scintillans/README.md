@@ -1,5 +1,4 @@
-Peniophora scintillans G. Cunn., 1955 SPECIES
-=======
+# Peniophora scintillans G. Cunn., 1955 SPECIES
 
 #### Status
 ACCEPTED

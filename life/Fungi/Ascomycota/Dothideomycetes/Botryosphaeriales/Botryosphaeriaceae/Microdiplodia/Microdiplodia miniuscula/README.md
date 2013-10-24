@@ -1,5 +1,4 @@
-Microdiplodia miniuscula (Penz. & Sacc.) Allesch. SPECIES
-=======
+# Microdiplodia miniuscula (Penz. & Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

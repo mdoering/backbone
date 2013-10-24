@@ -1,5 +1,4 @@
-Porina sylvatica P.M. McCarthy & Kantvilas, 1993 SPECIES
-=======
+# Porina sylvatica P.M. McCarthy & Kantvilas, 1993 SPECIES
 
 #### Status
 DOUBTFUL

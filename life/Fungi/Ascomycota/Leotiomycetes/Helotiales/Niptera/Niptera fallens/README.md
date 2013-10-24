@@ -1,5 +1,4 @@
-Niptera fallens (P. Karst.) SPECIES
-=======
+# Niptera fallens (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

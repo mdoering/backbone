@@ -1,5 +1,4 @@
-Aposphaeria allantella Sacc. & Roum. SPECIES
-=======
+# Aposphaeria allantella Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

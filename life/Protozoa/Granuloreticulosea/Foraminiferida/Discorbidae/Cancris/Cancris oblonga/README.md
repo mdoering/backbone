@@ -1,5 +1,4 @@
-Cancris oblonga SPECIES
-=======
+# Cancris oblonga SPECIES
 
 #### Status
 ACCEPTED

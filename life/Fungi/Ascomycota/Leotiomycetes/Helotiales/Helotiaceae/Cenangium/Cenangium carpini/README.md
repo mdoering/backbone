@@ -1,5 +1,4 @@
-Cenangium carpini Hazsl. SPECIES
-=======
+# Cenangium carpini Hazsl. SPECIES
 
 #### Status
 ACCEPTED

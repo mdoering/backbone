@@ -1,5 +1,4 @@
-Ammonidium cornuatum Loeblich & Wicander, 1976 SPECIES
-=======
+# Ammonidium cornuatum Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella dianellincola Petr. SPECIES
-=======
+# Mycosphaerella dianellincola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora peziza (G. Winter) Sacc. SPECIES
-=======
+# Teichospora peziza (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

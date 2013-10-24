@@ -1,5 +1,4 @@
-Venturia applanata Ellis & G. Martin SPECIES
-=======
+# Venturia applanata Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylovorus Govorukhina & Trotsenko, 1991 GENUS
-=======
+# Methylovorus Govorukhina & Trotsenko, 1991 GENUS
 
 #### Status
 ACCEPTED

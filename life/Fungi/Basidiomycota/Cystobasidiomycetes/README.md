@@ -1,5 +1,4 @@
-Cystobasidiomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
-=======
+# Cystobasidiomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
 
 #### Status
 ACCEPTED

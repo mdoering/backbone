@@ -1,5 +1,4 @@
-Polyporus epilinteus Berk. SPECIES
-=======
+# Polyporus epilinteus Berk. SPECIES
 
 #### Status
 ACCEPTED

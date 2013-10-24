@@ -1,5 +1,4 @@
-Helicolithus anceps (Gorka, 1957) Noël, 1970 SPECIES
-=======
+# Helicolithus anceps (Gorka, 1957) Noël, 1970 SPECIES
 
 #### Status
 ACCEPTED

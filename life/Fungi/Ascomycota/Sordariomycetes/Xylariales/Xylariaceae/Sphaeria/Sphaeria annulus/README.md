@@ -1,5 +1,4 @@
-Sphaeria annulus Gaudich. & F. Strauss SPECIES
-=======
+# Sphaeria annulus Gaudich. & F. Strauss SPECIES
 
 #### Status
 ACCEPTED

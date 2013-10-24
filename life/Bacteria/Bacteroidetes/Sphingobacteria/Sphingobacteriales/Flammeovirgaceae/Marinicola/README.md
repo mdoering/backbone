@@ -1,5 +1,4 @@
-Marinicola Yoon et al., 2005 GENUS
-=======
+# Marinicola Yoon et al., 2005 GENUS
 
 #### Status
 ACCEPTED

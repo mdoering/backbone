@@ -1,5 +1,4 @@
-Fermoria F. Chapman, 1935 GENUS
-=======
+# Fermoria F. Chapman, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo sherardiae Rostr. SPECIES
-=======
+# Uredo sherardiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

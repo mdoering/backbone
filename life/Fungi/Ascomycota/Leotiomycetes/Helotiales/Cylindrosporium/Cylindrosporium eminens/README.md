@@ -1,5 +1,4 @@
-Cylindrosporium eminens Davis, 1919 SPECIES
-=======
+# Cylindrosporium eminens Davis, 1919 SPECIES
 
 #### Status
 ACCEPTED

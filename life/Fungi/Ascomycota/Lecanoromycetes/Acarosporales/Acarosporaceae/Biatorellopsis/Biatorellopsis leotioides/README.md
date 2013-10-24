@@ -1,5 +1,4 @@
-Biatorellopsis leotioides C.W. Dodge SPECIES
-=======
+# Biatorellopsis leotioides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

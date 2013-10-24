@@ -1,5 +1,4 @@
-Chatangiella manumii (Vozzhennikova, 1967) Lentin & Williams SPECIES
-=======
+# Chatangiella manumii (Vozzhennikova, 1967) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

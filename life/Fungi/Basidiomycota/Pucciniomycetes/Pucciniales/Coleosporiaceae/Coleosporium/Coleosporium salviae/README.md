@@ -1,5 +1,4 @@
-Coleosporium salviae Dietel SPECIES
-=======
+# Coleosporium salviae Dietel SPECIES
 
 #### Status
 ACCEPTED

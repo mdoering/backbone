@@ -1,5 +1,4 @@
-Annulatopsophosphaera spinosa Pykhova, 1969 SPECIES
-=======
+# Annulatopsophosphaera spinosa Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

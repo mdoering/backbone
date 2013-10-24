@@ -1,5 +1,4 @@
-Stigmidium triebelae Etayo SPECIES
-=======
+# Stigmidium triebelae Etayo SPECIES
 
 #### Status
 ACCEPTED

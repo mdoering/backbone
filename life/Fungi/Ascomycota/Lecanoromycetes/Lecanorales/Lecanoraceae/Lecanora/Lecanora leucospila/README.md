@@ -1,5 +1,4 @@
-Lecanora leucospila (Flagey) SPECIES
-=======
+# Lecanora leucospila (Flagey) SPECIES
 
 #### Status
 ACCEPTED

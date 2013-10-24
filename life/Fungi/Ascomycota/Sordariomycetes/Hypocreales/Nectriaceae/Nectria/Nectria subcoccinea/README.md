@@ -1,5 +1,4 @@
-Nectria subcoccinea Sacc. & Ellis SPECIES
-=======
+# Nectria subcoccinea Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

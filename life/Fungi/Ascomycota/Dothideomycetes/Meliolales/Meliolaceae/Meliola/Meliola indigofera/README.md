@@ -1,5 +1,4 @@
-Meliola indigofera Syd. SPECIES
-=======
+# Meliola indigofera Syd. SPECIES
 
 #### Status
 ACCEPTED

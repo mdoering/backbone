@@ -1,5 +1,4 @@
-Coskinolina Stache, 1875 GENUS
-=======
+# Coskinolina Stache, 1875 GENUS
 
 #### Status
 ACCEPTED

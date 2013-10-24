@@ -1,5 +1,4 @@
-Hirsutella versicolor Petch, 1932 SPECIES
-=======
+# Hirsutella versicolor Petch, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtidula minor J. Steiner SPECIES
-=======
+# Cyrtidula minor J. Steiner SPECIES
 
 #### Status
 ACCEPTED

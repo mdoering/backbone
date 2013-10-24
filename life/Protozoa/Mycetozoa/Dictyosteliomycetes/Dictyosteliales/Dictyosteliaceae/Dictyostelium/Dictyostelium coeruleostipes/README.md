@@ -1,5 +1,4 @@
-Dictyostelium coeruleostipes Raper & Fennell, 1967 SPECIES
-=======
+# Dictyostelium coeruleostipes Raper & Fennell, 1967 SPECIES
 
 #### Status
 ACCEPTED

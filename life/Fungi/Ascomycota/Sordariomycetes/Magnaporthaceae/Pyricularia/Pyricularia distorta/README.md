@@ -1,5 +1,4 @@
-Pyricularia distorta Hashioka SPECIES
-=======
+# Pyricularia distorta Hashioka SPECIES
 
 #### Status
 ACCEPTED

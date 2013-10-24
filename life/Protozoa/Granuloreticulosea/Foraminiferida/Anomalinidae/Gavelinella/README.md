@@ -1,5 +1,4 @@
-Gavelinella Brotzen, 1942 GENUS
-=======
+# Gavelinella Brotzen, 1942 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rarobacter faecitabidus Yamamoto et al., 1988 SPECIES
-=======
+# Rarobacter faecitabidus Yamamoto et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

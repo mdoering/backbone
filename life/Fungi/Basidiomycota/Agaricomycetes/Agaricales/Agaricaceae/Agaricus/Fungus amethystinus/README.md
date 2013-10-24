@@ -1,5 +1,4 @@
-Fungus amethystinus (Quél.) Kuntze SPECIES
-=======
+# Fungus amethystinus (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

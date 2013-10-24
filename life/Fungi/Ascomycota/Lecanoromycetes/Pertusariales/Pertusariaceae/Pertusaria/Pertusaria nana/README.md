@@ -1,5 +1,4 @@
-Pertusaria nana Müll. Arg. SPECIES
-=======
+# Pertusaria nana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

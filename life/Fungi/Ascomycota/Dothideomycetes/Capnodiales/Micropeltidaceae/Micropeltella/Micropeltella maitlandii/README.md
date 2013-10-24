@@ -1,5 +1,4 @@
-Micropeltella maitlandii Hansf. SPECIES
-=======
+# Micropeltella maitlandii Hansf. SPECIES
 
 #### Status
 ACCEPTED

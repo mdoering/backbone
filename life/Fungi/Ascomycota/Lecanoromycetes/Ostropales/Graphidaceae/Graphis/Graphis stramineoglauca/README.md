@@ -1,5 +1,4 @@
-Graphis stramineoglauca Vain. SPECIES
-=======
+# Graphis stramineoglauca Vain. SPECIES
 
 #### Status
 ACCEPTED

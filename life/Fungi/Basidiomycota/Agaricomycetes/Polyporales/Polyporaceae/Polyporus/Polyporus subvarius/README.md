@@ -1,5 +1,4 @@
-Polyporus subvarius C.J. Yu & Y.C. Dai SPECIES
-=======
+# Polyporus subvarius C.J. Yu & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

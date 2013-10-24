@@ -1,17 +1,16 @@
-Hypoxylon dichotomum Mont. SPECIES
-=======
+# Hypoxylon dichotoma Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sagra, Historia física, polirica y nayturál de la islea de Cuba 9: 351 (1845)
 
 #### Original name
-Hypoxylon dichotomum Mont.
+Hypoxylon dichotoma Mont.
 
 ### Remarks
 null

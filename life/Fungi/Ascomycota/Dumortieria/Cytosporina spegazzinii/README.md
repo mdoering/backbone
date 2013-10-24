@@ -1,5 +1,4 @@
-Cytosporina spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Cytosporina spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

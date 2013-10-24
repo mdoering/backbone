@@ -1,5 +1,4 @@
-Hypoflavia Marbach GENUS
-=======
+# Hypoflavia Marbach GENUS
 
 #### Status
 ACCEPTED

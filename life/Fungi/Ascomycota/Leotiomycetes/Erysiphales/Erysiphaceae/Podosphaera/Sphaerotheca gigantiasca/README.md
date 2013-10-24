@@ -1,5 +1,4 @@
-Sphaerotheca gigantiasca Bäumler SPECIES
-=======
+# Sphaerotheca gigantiasca Bäumler SPECIES
 
 #### Status
 ACCEPTED

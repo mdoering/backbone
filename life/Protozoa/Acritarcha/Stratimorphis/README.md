@@ -1,5 +1,4 @@
-Stratimorphis E.A. Assejeva in P.L. Shulga, 1976 GENUS
-=======
+# Stratimorphis E.A. Assejeva in P.L. Shulga, 1976 GENUS
 
 #### Status
 ACCEPTED

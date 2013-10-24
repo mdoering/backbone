@@ -1,5 +1,4 @@
-Aecidium zanthoxyli-schinifolii Dietel SPECIES
-=======
+# Aecidium zanthoxyli-schinifolii Dietel SPECIES
 
 #### Status
 ACCEPTED

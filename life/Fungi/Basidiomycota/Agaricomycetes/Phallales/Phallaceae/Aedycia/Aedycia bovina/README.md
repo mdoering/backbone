@@ -1,5 +1,4 @@
-Aedycia bovina (Morgan) Kuntze SPECIES
-=======
+# Aedycia bovina (Morgan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

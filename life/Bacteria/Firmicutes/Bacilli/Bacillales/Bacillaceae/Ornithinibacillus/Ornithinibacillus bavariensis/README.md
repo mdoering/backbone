@@ -1,5 +1,4 @@
-Ornithinibacillus bavariensis Mayr et al., 2006 SPECIES
-=======
+# Ornithinibacillus bavariensis Mayr et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

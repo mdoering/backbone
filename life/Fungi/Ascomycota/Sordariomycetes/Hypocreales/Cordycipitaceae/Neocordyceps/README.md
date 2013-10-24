@@ -1,5 +1,4 @@
-Neocordyceps Kobayasi GENUS
-=======
+# Neocordyceps Kobayasi GENUS
 
 #### Status
 ACCEPTED

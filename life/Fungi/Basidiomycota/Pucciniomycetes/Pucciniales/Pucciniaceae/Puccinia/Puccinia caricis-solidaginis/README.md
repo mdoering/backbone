@@ -1,5 +1,4 @@
-Puccinia caricis-solidaginis Arthur SPECIES
-=======
+# Puccinia caricis-solidaginis Arthur SPECIES
 
 #### Status
 ACCEPTED

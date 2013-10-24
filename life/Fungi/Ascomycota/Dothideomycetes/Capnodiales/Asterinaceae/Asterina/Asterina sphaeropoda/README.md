@@ -1,5 +1,4 @@
-Asterina sphaeropoda Syd. & P. Syd. SPECIES
-=======
+# Asterina sphaeropoda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

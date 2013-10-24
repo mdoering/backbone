@@ -1,5 +1,4 @@
-Fusisporium moschatum Kitasato {?} SPECIES
-=======
+# Fusisporium moschatum Kitasato {?} SPECIES
 
 #### Status
 ACCEPTED

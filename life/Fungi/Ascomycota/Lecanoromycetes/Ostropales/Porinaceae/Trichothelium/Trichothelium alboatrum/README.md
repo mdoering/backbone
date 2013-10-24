@@ -1,5 +1,4 @@
-Trichothelium alboatrum Vain. SPECIES
-=======
+# Trichothelium alboatrum Vain. SPECIES
 
 #### Status
 ACCEPTED

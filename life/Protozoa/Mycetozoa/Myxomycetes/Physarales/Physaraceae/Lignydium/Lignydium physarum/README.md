@@ -1,5 +1,4 @@
-Lignydium physarum (Pers.) Kuntze SPECIES
-=======
+# Lignydium physarum (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

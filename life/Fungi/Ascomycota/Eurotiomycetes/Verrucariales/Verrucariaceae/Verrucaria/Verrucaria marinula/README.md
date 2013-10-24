@@ -1,5 +1,4 @@
-Verrucaria marinula Wedd. SPECIES
-=======
+# Verrucaria marinula Wedd. SPECIES
 
 #### Status
 ACCEPTED

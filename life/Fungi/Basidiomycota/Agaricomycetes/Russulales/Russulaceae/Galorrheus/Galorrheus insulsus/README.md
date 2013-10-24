@@ -1,5 +1,4 @@
-Galorrheus insulsus (Fr.) (Bolton) SPECIES
-=======
+# Galorrheus insulsus (Fr.) (Bolton) SPECIES
 
 #### Status
 ACCEPTED

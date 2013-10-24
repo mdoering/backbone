@@ -1,5 +1,4 @@
-Henningsomyces patinaceus Agerer, 1973 SPECIES
-=======
+# Henningsomyces patinaceus Agerer, 1973 SPECIES
 
 #### Status
 ACCEPTED

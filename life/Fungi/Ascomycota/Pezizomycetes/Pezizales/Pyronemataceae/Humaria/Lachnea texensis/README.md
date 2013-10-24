@@ -1,5 +1,4 @@
-Lachnea texensis (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Lachnea texensis (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoblepharis macranda var. macranda VARIETY
-=======
+# Monoblepharis macranda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monoblepharis macranda var. macranda
+Monoblepharis macranda
 
 ### Remarks
 null

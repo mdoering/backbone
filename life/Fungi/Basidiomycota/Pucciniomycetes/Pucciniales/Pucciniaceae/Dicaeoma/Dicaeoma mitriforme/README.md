@@ -1,5 +1,4 @@
-Dicaeoma mitriforme (S. Ito) Syd. SPECIES
-=======
+# Dicaeoma mitriforme (S. Ito) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria verruculifera Vain. SPECIES
-=======
+# Pertusaria verruculifera Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bombardia culmigena (Sacc. & Speg.) Fernier SPECIES
-=======
+# Bombardia culmigena (Sacc. & Speg.) Fernier SPECIES
 
 #### Status
 ACCEPTED

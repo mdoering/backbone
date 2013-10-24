@@ -1,5 +1,4 @@
-Placodium xanthophanum (Nyl.) SPECIES
-=======
+# Placodium xanthophanum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

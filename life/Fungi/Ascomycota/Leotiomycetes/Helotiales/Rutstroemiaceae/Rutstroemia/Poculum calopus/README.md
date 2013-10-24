@@ -1,14 +1,13 @@
-Poculum calopum (Fr.) M.P. Sharma SPECIES
-=======
+# Poculum calopus (Fr.) M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Plant Disease Research 1(1-2): 44 (1986)
 
 #### Original name
 Peziza calopus Fr.

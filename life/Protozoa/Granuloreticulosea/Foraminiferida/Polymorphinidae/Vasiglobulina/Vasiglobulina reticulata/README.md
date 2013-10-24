@@ -1,5 +1,4 @@
-Vasiglobulina reticulata Poag, 1982 SPECIES
-=======
+# Vasiglobulina reticulata Poag, 1982 SPECIES
 
 #### Status
 ACCEPTED

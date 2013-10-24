@@ -1,5 +1,4 @@
-Thaumastigaceae FAMILY
-=======
+# Thaumastigaceae FAMILY
 
 #### Status
 ACCEPTED

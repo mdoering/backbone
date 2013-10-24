@@ -1,5 +1,4 @@
-Stichosiphon himalayensis Jao & Zhu SPECIES
-=======
+# Stichosiphon himalayensis Jao & Zhu SPECIES
 
 #### Status
 ACCEPTED

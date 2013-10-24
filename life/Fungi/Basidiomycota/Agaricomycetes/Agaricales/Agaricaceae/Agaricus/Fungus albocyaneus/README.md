@@ -1,5 +1,4 @@
-Fungus albocyaneus (Desm.) Kuntze SPECIES
-=======
+# Fungus albocyaneus (Desm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

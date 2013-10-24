@@ -1,5 +1,4 @@
-Puccinia canadensis Arthur SPECIES
-=======
+# Puccinia canadensis Arthur SPECIES
 
 #### Status
 ACCEPTED

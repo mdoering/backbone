@@ -1,5 +1,4 @@
-Podosporium elongatum J.L. Chen & Tzean, 1993 SPECIES
-=======
+# Podosporium elongatum J.L. Chen & Tzean, 1993 SPECIES
 
 #### Status
 ACCEPTED

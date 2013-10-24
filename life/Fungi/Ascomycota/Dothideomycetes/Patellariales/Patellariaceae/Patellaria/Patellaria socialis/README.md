@@ -1,5 +1,4 @@
-Patellaria socialis De Not. SPECIES
-=======
+# Patellaria socialis De Not. SPECIES
 
 #### Status
 ACCEPTED

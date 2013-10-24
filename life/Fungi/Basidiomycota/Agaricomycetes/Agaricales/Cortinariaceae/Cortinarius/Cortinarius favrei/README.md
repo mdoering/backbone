@@ -1,17 +1,16 @@
-Cortinarius favrei f. favrei FORM
-=======
+# Cortinarius favrei D.M. Hend., 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Notes R. bot. Gdn Edinb. 22: 593 (1958)
 
 #### Original name
-Cortinarius favrei f. favrei
+Cortinarius favrei D.M. Hend., 1958
 
 ### Remarks
 null

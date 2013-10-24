@@ -1,5 +1,4 @@
-Phyllactinia pyri-serotinae Sawada SPECIES
-=======
+# Phyllactinia pyri-serotinae Sawada SPECIES
 
 #### Status
 ACCEPTED

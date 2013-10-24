@@ -1,14 +1,13 @@
-Uromyces wurthii E. Fisch., 1916 SPECIES
-=======
+# Trachyspora wurthii (E. Fisch.) Dietel, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 6: 57 (1928)
 
 #### Original name
 Uromyces wurthii E. Fisch., 1916

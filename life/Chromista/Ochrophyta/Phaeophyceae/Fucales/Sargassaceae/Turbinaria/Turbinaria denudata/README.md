@@ -1,5 +1,4 @@
-Turbinaria denudata Bory de Saint-Vincent SPECIES
-=======
+# Turbinaria denudata Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

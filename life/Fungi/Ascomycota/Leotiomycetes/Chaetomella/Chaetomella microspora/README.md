@@ -1,5 +1,4 @@
-Chaetomella microspora Manka & Gierczak SPECIES
-=======
+# Chaetomella microspora Manka & Gierczak SPECIES
 
 #### Status
 ACCEPTED

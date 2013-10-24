@@ -1,5 +1,4 @@
-Melanconiella stellata Petch SPECIES
-=======
+# Melanconiella stellata Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe flavidifolia (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe flavidifolia (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

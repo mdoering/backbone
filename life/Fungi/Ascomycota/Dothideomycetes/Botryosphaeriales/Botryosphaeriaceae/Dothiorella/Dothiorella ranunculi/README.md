@@ -1,5 +1,4 @@
-Dothiorella ranunculi (F.P. Almeida & Sousa da Câmara) Petr. SPECIES
-=======
+# Dothiorella ranunculi (F.P. Almeida & Sousa da Câmara) Petr. SPECIES
 
 #### Status
 ACCEPTED

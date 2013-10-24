@@ -1,5 +1,4 @@
-Ganoderma amboinense f. amboinense FORM
-=======
+# Ganoderma amboinense (Lam.) Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 3(3): 171 (1887)
 
 #### Original name
-Ganoderma amboinense f. amboinense
+Agaricus amboinensis Lam.
 
 ### Remarks
 null

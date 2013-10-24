@@ -1,5 +1,4 @@
-Diorygma epiglaucum (Müll. Arg.) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma epiglaucum (Müll. Arg.) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

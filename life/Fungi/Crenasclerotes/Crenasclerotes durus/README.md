@@ -1,5 +1,4 @@
-Crenasclerotes durus Stach & Pickh. SPECIES
-=======
+# Crenasclerotes durus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

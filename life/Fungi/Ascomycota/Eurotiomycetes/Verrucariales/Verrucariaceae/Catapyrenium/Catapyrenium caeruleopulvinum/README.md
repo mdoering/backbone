@@ -1,5 +1,4 @@
-Catapyrenium caeruleopulvinum J.W. Thomson SPECIES
-=======
+# Catapyrenium caeruleopulvinum J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

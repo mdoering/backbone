@@ -1,5 +1,4 @@
-Trichophyton roseum E. Bodin SPECIES
-=======
+# Trichophyton roseum E. Bodin SPECIES
 
 #### Status
 ACCEPTED

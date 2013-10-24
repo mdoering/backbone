@@ -1,5 +1,4 @@
-Collybia deceptiva Corner SPECIES
-=======
+# Collybia deceptiva Corner SPECIES
 
 #### Status
 ACCEPTED

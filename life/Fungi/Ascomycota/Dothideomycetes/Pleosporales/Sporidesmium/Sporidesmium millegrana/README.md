@@ -1,5 +1,4 @@
-Sporidesmium millegrana Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium millegrana Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

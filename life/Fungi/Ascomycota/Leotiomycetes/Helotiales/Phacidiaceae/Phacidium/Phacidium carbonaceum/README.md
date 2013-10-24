@@ -1,14 +1,13 @@
-Xyloma carbonacea Fr. SPECIES
-=======
+# Phacidium carbonaceum (Fr.) Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 359 (1818)
+Syst. mycol. (Lundae) 2(2): 574 (1823)
 
 #### Original name
 Xyloma carbonacea Fr.

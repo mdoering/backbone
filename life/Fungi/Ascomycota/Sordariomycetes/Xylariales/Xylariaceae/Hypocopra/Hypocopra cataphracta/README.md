@@ -1,5 +1,4 @@
-Hypocopra cataphracta J.C. Krug & Cain, 1974 SPECIES
-=======
+# Hypocopra cataphracta J.C. Krug & Cain, 1974 SPECIES
 
 #### Status
 ACCEPTED

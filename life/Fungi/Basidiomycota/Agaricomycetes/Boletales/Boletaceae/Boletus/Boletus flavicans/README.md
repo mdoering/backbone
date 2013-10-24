@@ -1,5 +1,4 @@
-Boletus flavicans Vaill. SPECIES
-=======
+# Boletus flavicans Vaill. SPECIES
 
 #### Status
 ACCEPTED

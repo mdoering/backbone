@@ -1,5 +1,4 @@
-Thoracosphaera wombatensis T.J. Bralower, P.R. Brown & W.G. Siesser SPECIES
-=======
+# Thoracosphaera wombatensis T.J. Bralower, P.R. Brown & W.G. Siesser SPECIES
 
 #### Status
 ACCEPTED

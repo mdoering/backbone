@@ -1,5 +1,4 @@
-Colletotrichum vinal (Speg.) Petr. & Syd. SPECIES
-=======
+# Colletotrichum vinal (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

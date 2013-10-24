@@ -1,17 +1,16 @@
-Stenellopsis magnoliae (Weedon) Morgan-Jones, 1980 SPECIES
-=======
+# Parastenella magnoliae (Weedon) J.C. David, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 95(1): 124 (1991)
 
 #### Original name
-null
+Heterosporium magnoliae Weedon, 1926
 
 ### Remarks
 null

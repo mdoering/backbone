@@ -1,14 +1,13 @@
-Mycena discopoda (Lév.) Gillet SPECIES
-=======
+# Mycena discopus (Lév.) uél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Enchir. fung. (Paris) 40 (1886)
 
 #### Original name
 Agaricus discopus Lév.

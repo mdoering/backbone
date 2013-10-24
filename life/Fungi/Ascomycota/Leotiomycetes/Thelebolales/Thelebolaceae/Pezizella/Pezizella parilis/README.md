@@ -1,5 +1,4 @@
-Pezizella parilis (P. Karst.) Dennis SPECIES
-=======
+# Pezizella parilis (P. Karst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

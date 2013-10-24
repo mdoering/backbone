@@ -1,5 +1,4 @@
-Sanguibacter suarezii Fernandez-Garayzabal et al., 1995 SPECIES
-=======
+# Sanguibacter suarezii Fernandez-Garayzabal et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

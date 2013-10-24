@@ -1,5 +1,4 @@
-Septoria melampyri Strasser SPECIES
-=======
+# Septoria melampyri Strasser SPECIES
 
 #### Status
 ACCEPTED

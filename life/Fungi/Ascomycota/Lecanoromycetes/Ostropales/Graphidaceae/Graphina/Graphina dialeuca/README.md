@@ -1,5 +1,4 @@
-Graphina dialeuca (Kremp.) Zahlbr. SPECIES
-=======
+# Graphina dialeuca (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

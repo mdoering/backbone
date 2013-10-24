@@ -1,5 +1,4 @@
-Peziza incarnescens Schwein. SPECIES
-=======
+# Peziza incarnescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora olivicolor H. Magn. SPECIES
-=======
+# Lecanora olivicolor H. Magn. SPECIES
 
 #### Status
 ACCEPTED

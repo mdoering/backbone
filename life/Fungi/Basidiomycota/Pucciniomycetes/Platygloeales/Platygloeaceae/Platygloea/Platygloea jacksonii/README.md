@@ -1,5 +1,4 @@
-Platygloea jacksonii Bandoni & J.C. Krug, 2000 SPECIES
-=======
+# Platygloea jacksonii Bandoni & J.C. Krug, 2000 SPECIES
 
 #### Status
 ACCEPTED

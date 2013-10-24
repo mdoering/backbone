@@ -1,5 +1,4 @@
-Capillaria rhizomorphina Schwein. SPECIES
-=======
+# Capillaria rhizomorphina Schwein. SPECIES
 
 #### Status
 ACCEPTED

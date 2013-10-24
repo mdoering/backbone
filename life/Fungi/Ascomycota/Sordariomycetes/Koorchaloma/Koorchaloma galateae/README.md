@@ -1,5 +1,4 @@
-Koorchaloma galateae Kohlm. & Volkm.-Kohlm., 2001 SPECIES
-=======
+# Koorchaloma galateae Kohlm. & Volkm.-Kohlm., 2001 SPECIES
 
 #### Status
 ACCEPTED

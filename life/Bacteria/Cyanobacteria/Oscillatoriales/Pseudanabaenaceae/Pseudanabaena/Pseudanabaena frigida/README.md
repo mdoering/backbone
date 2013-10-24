@@ -1,5 +1,4 @@
-Pseudanabaena frigida (Fritsch) Anagnostidis, 2001 SPECIES
-=======
+# Pseudanabaena frigida (Fritsch) Anagnostidis, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium spathuloides Gellert, 1955 SPECIES
-=======
+# Spathidium spathuloides Gellert, 1955 SPECIES
 
 #### Status
 ACCEPTED

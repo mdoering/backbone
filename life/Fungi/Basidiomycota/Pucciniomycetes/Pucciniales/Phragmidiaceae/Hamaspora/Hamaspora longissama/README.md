@@ -1,5 +1,4 @@
-Hamaspora longissama (Thueru.) Koern. SPECIES
-=======
+# Hamaspora longissama (Thueru.) Koern. SPECIES
 
 #### Status
 ACCEPTED

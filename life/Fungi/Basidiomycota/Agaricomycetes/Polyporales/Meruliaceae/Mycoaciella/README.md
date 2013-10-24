@@ -1,17 +1,16 @@
-Ceraceohydnum Jülich GENUS
-=======
+# Mycoaciella J. Eriksson & Ryvarden, 1978 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Persoonia 10(1): 138 (1978)
+null
 
 #### Original name
-Ceraceohydnum Jülich
+null
 
 ### Remarks
 null

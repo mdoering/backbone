@@ -1,5 +1,4 @@
-Thelephora stricta Jungh. SPECIES
-=======
+# Thelephora stricta Jungh. SPECIES
 
 #### Status
 ACCEPTED

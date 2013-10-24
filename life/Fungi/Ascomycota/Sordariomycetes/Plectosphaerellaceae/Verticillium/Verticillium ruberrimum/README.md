@@ -1,5 +1,4 @@
-Verticillium ruberrimum Bonord. SPECIES
-=======
+# Verticillium ruberrimum Bonord. SPECIES
 
 #### Status
 ACCEPTED

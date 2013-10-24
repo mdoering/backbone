@@ -1,5 +1,4 @@
-Pluteus magnus McClatchie {?} SPECIES
-=======
+# Pluteus magnus McClatchie {?} SPECIES
 
 #### Status
 ACCEPTED

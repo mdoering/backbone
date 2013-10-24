@@ -1,5 +1,4 @@
-Sabouraudites GENUS
-=======
+# Sabouraudites GENUS
 
 #### Status
 ACCEPTED

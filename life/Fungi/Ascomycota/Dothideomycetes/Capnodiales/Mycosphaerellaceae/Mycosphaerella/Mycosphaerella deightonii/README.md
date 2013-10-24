@@ -1,17 +1,16 @@
-Cercospora concentrica Cooke & Ellis, 1877 SPECIES
-=======
+# Mycosphaerella deightonii M. Morelet, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 90 (1877)
+Bulletin de la Société des Sciences naturelles et d'Archéologie de Toulon et du Var 205: 9 (1973)
 
 #### Original name
-Cercospora concentrica Cooke & Ellis, 1877
+Mycosphaerella deightonii M. Morelet, 1973
 
 ### Remarks
 null

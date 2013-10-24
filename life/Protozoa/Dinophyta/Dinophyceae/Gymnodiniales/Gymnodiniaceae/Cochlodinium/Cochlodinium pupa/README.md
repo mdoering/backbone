@@ -1,5 +1,4 @@
-Cochlodinium pupa Lebour SPECIES
-=======
+# Cochlodinium pupa Lebour SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bertia latispora (Corlett & J.C. Krug) Lar.N. Vassiljeva SPECIES
-=======
+# Bertia latispora (Corlett & J.C. Krug) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

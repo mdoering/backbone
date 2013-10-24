@@ -1,5 +1,4 @@
-Aegerita plagiospora Bonord. SPECIES
-=======
+# Aegerita plagiospora Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia lucumae Tehon SPECIES
-=======
+# Pestalotia lucumae Tehon SPECIES
 
 #### Status
 ACCEPTED

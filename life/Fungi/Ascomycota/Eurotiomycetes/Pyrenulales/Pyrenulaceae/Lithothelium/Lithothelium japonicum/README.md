@@ -1,5 +1,4 @@
-Lithothelium japonicum H. Harada SPECIES
-=======
+# Lithothelium japonicum H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria junquilleavertex R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria junquilleavertex R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula hypnorum SPECIES
-=======
+# Galerula hypnorum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus margaritifer (Maire) Singer SPECIES
-=======
+# Marasmiellus margaritifer (Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

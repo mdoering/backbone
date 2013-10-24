@@ -1,5 +1,4 @@
-Cytosporium heclae Rostr. SPECIES
-=======
+# Cytosporium heclae Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulimina inflata agg. mexicana INFRASPECIFIC_NAME
-=======
+# Bulimina inflata SPECIES
 
 #### Status
 ACCEPTED

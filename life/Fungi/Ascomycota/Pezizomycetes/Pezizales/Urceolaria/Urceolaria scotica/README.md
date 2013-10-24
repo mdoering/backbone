@@ -1,5 +1,4 @@
-Urceolaria scotica Motyka, 1996 SPECIES
-=======
+# Urceolaria scotica Motyka, 1996 SPECIES
 
 #### Status
 ACCEPTED

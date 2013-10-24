@@ -1,5 +1,4 @@
-Plectosporium delsorboi Antignani & W. Gams SPECIES
-=======
+# Plectosporium delsorboi Antignani & W. Gams SPECIES
 
 #### Status
 ACCEPTED

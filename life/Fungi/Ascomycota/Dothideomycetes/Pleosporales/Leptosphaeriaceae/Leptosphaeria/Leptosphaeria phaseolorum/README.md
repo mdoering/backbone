@@ -1,5 +1,4 @@
-Leptosphaeria phaseolorum Ellis & Everh. SPECIES
-=======
+# Leptosphaeria phaseolorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

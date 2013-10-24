@@ -1,5 +1,4 @@
-Phibalis pruinosa (Ellis & Everh.) L.M. Kohn & Korf SPECIES
-=======
+# Phibalis pruinosa (Ellis & Everh.) L.M. Kohn & Korf SPECIES
 
 #### Status
 ACCEPTED

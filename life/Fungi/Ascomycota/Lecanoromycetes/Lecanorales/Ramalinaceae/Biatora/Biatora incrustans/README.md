@@ -1,5 +1,4 @@
-Biatora incrustans (DC.) A. Massal. SPECIES
-=======
+# Biatora incrustans (DC.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia atroviolacea (Murrill) Murrill SPECIES
-=======
+# Collybia atroviolacea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

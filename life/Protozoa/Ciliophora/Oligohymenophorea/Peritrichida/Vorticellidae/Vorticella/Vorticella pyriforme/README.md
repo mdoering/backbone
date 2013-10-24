@@ -1,5 +1,4 @@
-Vorticella pyriforme Stiller, 1939 SPECIES
-=======
+# Vorticella pyriforme Stiller, 1939 SPECIES
 
 #### Status
 ACCEPTED

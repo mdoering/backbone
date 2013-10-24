@@ -1,5 +1,4 @@
-Parmelia hypofusca Gyeln. SPECIES
-=======
+# Parmelia hypofusca Gyeln. SPECIES
 
 #### Status
 ACCEPTED

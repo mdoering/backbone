@@ -1,5 +1,4 @@
-Eutypa stenophora (Cooke) Sacc. SPECIES
-=======
+# Eutypa stenophora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

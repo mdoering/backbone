@@ -1,5 +1,4 @@
-Acarosporium austriacum Höhn. SPECIES
-=======
+# Acarosporium austriacum Höhn. SPECIES
 
 #### Status
 ACCEPTED

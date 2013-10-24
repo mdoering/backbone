@@ -1,5 +1,4 @@
-Dothidea amorphae Rebent. SPECIES
-=======
+# Dothidea amorphae Rebent. SPECIES
 
 #### Status
 ACCEPTED

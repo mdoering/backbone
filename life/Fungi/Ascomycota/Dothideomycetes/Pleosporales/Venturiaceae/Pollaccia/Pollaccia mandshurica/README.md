@@ -1,5 +1,4 @@
-Pollaccia mandshurica M. Morelet SPECIES
-=======
+# Pollaccia mandshurica M. Morelet SPECIES
 
 #### Status
 ACCEPTED

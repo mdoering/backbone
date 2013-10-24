@@ -1,5 +1,4 @@
-Biatora cuprea (Sommerf.) Fr., 1831 SPECIES
-=======
+# Biatora cuprea (Sommerf.) Fr., 1831 SPECIES
 
 #### Status
 DOUBTFUL

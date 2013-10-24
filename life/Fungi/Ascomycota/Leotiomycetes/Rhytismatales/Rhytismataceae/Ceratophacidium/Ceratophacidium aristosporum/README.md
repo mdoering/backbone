@@ -1,5 +1,4 @@
-Ceratophacidium aristosporum (Bonar) J. Reid & Piroz., 1966 SPECIES
-=======
+# Ceratophacidium aristosporum (Bonar) J. Reid & Piroz., 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella fici Peres & J.L. Bezerra SPECIES
-=======
+# Asteromella fici Peres & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

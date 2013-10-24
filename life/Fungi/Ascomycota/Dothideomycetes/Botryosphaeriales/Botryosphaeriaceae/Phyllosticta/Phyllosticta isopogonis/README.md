@@ -1,5 +1,4 @@
-Phyllosticta isopogonis Tassi SPECIES
-=======
+# Phyllosticta isopogonis Tassi SPECIES
 
 #### Status
 ACCEPTED

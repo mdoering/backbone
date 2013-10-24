@@ -1,5 +1,4 @@
-Asterina loranthacearum Rehm SPECIES
-=======
+# Asterina loranthacearum Rehm SPECIES
 
 #### Status
 ACCEPTED

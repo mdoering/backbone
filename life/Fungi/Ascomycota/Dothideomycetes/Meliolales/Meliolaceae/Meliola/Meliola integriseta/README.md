@@ -1,5 +1,4 @@
-Meliola integriseta (Speg.) Speg. SPECIES
-=======
+# Meliola integriseta (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

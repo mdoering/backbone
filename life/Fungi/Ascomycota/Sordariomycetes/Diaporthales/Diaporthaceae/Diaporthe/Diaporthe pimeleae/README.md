@@ -1,5 +1,4 @@
-Diaporthe pimeleae Petr., 1955 SPECIES
-=======
+# Diaporthe pimeleae Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

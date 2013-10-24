@@ -1,14 +1,13 @@
-Physalospora lecanorae (Stein) G. Winter SPECIES
-=======
+# Zwackhiomyces lecanorae (Stein) Nik. Hoffm. & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rabenhorst's Kryptogamen-Flora, Pilze - Ascomyceten 1(2): 415 (1885)
+Biblthca Lichenol. 77: 124 (2000)
 
 #### Original name
 Thrombium lecanorae Stein

@@ -1,5 +1,4 @@
-Synalissa acharii Trevis. SPECIES
-=======
+# Synalissa acharii Trevis. SPECIES
 
 #### Status
 ACCEPTED

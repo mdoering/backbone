@@ -1,5 +1,4 @@
-Pusillimonas Stolz et al., 2005 GENUS
-=======
+# Pusillimonas Stolz et al., 2005 GENUS
 
 #### Status
 ACCEPTED

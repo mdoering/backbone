@@ -1,17 +1,16 @@
-Hyaloscypha fuscostipitata (Graddon) Baral & Huhtinen, 2009 SPECIES
-=======
+# Betulina fuscostipitata Graddon, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 63(3): 477 (1974)
 
 #### Original name
-null
+Betulina fuscostipitata Graddon, 1974
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coccomyces paraphysincrustatus Spooner, 1990 SPECIES
-=======
+# Coccomyces paraphysincrustatus Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

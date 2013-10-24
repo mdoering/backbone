@@ -1,5 +1,4 @@
-Metschnikowia mauinuiana Lachance, 2005 SPECIES
-=======
+# Metschnikowia mauinuiana Lachance, 2005 SPECIES
 
 #### Status
 ACCEPTED

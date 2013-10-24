@@ -1,5 +1,4 @@
-Amphisphaeria oronoensis (Ellis & Everh.) Sacc. SPECIES
-=======
+# Amphisphaeria oronoensis (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

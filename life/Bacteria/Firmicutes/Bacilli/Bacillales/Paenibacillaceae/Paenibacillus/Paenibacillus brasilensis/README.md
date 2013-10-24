@@ -1,5 +1,4 @@
-Paenibacillus brasilensis von der Weid et al., 2002 SPECIES
-=======
+# Paenibacillus brasilensis von der Weid et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

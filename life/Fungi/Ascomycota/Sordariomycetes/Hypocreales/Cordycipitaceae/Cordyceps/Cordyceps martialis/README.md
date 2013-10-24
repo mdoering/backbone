@@ -1,5 +1,4 @@
-Cordyceps martialis Speg. SPECIES
-=======
+# Cordyceps martialis Speg. SPECIES
 
 #### Status
 ACCEPTED

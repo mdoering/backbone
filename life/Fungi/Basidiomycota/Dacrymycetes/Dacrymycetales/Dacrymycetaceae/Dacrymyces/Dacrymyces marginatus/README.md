@@ -1,5 +1,4 @@
-Dacrymyces marginatus McNabb SPECIES
-=======
+# Dacrymyces marginatus McNabb SPECIES
 
 #### Status
 ACCEPTED

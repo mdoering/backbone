@@ -1,14 +1,13 @@
-Cercospora dulcamarae (Peck) Ellis, 1885 SPECIES
-=======
+# Passalora dulcamarae (Peck) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 1(4): 55 (1885)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 167 (2003)
 
 #### Original name
 Ramularia dulcamarae Peck, 1883

@@ -1,5 +1,4 @@
-Retecapsa surirella SPECIES
-=======
+# Retecapsa surirella SPECIES
 
 #### Status
 ACCEPTED

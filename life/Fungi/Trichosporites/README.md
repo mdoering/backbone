@@ -1,5 +1,4 @@
-Trichosporites Félix GENUS
-=======
+# Trichosporites Félix GENUS
 
 #### Status
 ACCEPTED

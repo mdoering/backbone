@@ -1,5 +1,4 @@
-Sclerotium tectum Fr., 1815 SPECIES
-=======
+# Sclerotium tectum Fr., 1815 SPECIES
 
 #### Status
 ACCEPTED

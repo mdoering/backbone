@@ -1,5 +1,4 @@
-Ceratocystis fasciata Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis fasciata Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

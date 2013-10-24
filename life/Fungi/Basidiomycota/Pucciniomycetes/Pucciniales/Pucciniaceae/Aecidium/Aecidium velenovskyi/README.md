@@ -1,5 +1,4 @@
-Aecidium velenovskyi Bubák SPECIES
-=======
+# Aecidium velenovskyi Bubák SPECIES
 
 #### Status
 ACCEPTED

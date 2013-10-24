@@ -1,5 +1,4 @@
-Malajczukia viridigleba Trappe & Castellano, 1992 SPECIES
-=======
+# Malajczukia viridigleba Trappe & Castellano, 1992 SPECIES
 
 #### Status
 ACCEPTED

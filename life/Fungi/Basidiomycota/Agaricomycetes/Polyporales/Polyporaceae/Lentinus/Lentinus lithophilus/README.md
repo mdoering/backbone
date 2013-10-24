@@ -1,5 +1,4 @@
-Lentinus lithophilus (Fr.) Henn. SPECIES
-=======
+# Lentinus lithophilus (Fr.) Henn. SPECIES
 
 #### Status
 ACCEPTED

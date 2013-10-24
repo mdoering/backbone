@@ -1,5 +1,4 @@
-Puccinia bhutanensis Savile SPECIES
-=======
+# Puccinia bhutanensis Savile SPECIES
 
 #### Status
 ACCEPTED

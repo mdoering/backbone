@@ -1,8 +1,7 @@
-Dasyscypha hippocastani Richon SPECIES
-=======
+# Dasyscyphus hippocastani Richon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha hippocastani Richon
+Dasyscyphus hippocastani Richon
 
 ### Remarks
 null

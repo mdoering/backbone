@@ -1,5 +1,4 @@
-Coprinopsis pinguispora (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis pinguispora (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

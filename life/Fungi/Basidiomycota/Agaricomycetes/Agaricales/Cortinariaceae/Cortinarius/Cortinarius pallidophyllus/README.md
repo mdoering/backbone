@@ -1,5 +1,4 @@
-Cortinarius pallidophyllus Reumaux SPECIES
-=======
+# Cortinarius pallidophyllus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus lobatus Huds. SPECIES
-=======
+# Boletus lobatus Huds. SPECIES
 
 #### Status
 ACCEPTED

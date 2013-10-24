@@ -1,5 +1,4 @@
-Teichospora fusiformis Wehm. & S. Ahmad SPECIES
-=======
+# Teichospora fusiformis Wehm. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

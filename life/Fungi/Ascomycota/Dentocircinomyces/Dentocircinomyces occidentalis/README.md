@@ -1,5 +1,4 @@
-Dentocircinomyces occidentalis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Dentocircinomyces occidentalis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

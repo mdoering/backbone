@@ -1,5 +1,4 @@
-Syracolithus ossa J. Lecal SPECIES
-=======
+# Syracolithus ossa J. Lecal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meristacram GENUS
-=======
+# Meristacram GENUS
 
 #### Status
 ACCEPTED

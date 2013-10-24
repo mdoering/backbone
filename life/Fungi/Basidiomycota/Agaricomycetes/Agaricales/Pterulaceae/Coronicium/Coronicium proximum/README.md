@@ -1,14 +1,13 @@
-Corticium proximum H.S. Jacks., 1950 SPECIES
-=======
+# Coronicium proximum (H.S. Jacks.) Jülich, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 28: 722 (1950)
+Persoonia 8(3): 300 (1975)
 
 #### Original name
 Corticium proximum H.S. Jacks., 1950

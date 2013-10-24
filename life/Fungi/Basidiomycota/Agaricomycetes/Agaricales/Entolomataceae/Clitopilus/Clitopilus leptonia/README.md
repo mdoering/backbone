@@ -1,5 +1,4 @@
-Clitopilus leptonia Peck SPECIES
-=======
+# Clitopilus leptonia Peck SPECIES
 
 #### Status
 ACCEPTED

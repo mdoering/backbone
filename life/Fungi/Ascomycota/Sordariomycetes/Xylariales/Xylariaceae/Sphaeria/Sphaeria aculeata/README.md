@@ -1,5 +1,4 @@
-Sphaeria aculeata Schwein. SPECIES
-=======
+# Sphaeria aculeata Schwein. SPECIES
 
 #### Status
 ACCEPTED

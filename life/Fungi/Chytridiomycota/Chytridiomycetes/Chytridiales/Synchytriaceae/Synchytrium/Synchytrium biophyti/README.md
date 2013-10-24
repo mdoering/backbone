@@ -1,5 +1,4 @@
-Synchytrium biophyti Lingappa SPECIES
-=======
+# Synchytrium biophyti Lingappa SPECIES
 
 #### Status
 ACCEPTED

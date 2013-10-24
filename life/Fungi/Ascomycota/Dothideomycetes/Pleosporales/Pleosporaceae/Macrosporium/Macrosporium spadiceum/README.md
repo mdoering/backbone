@@ -1,5 +1,4 @@
-Macrosporium spadiceum Thüm. SPECIES
-=======
+# Macrosporium spadiceum Thüm. SPECIES
 
 #### Status
 ACCEPTED

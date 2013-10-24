@@ -1,5 +1,4 @@
-Peziza cynocopra Dunal SPECIES
-=======
+# Peziza cynocopra Dunal SPECIES
 
 #### Status
 ACCEPTED

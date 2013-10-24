@@ -1,5 +1,4 @@
-Cercoseptoria laserpitii (Bres.) Petr. SPECIES
-=======
+# Cercoseptoria laserpitii (Bres.) Petr. SPECIES
 
 #### Status
 ACCEPTED

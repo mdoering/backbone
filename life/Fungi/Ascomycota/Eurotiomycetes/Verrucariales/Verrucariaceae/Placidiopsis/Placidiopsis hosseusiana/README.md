@@ -1,5 +1,4 @@
-Placidiopsis hosseusiana Gyeln. SPECIES
-=======
+# Placidiopsis hosseusiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

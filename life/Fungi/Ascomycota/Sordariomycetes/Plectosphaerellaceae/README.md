@@ -1,5 +1,4 @@
-Plectosphaerellaceae W. Gams, Summerb. & Zare FAMILY
-=======
+# Plectosphaerellaceae W. Gams, Summerb. & Zare FAMILY
 
 #### Status
 ACCEPTED

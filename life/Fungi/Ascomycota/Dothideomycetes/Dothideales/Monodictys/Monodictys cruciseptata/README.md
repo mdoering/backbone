@@ -1,5 +1,4 @@
-Monodictys cruciseptata J.L. Crane & Schokn. SPECIES
-=======
+# Monodictys cruciseptata J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

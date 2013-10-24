@@ -1,11 +1,10 @@
-Rhizosolenia alata var. indica VARIETY
-=======
+# Proboscia truncata (G. Karsten) E.-M. Nöthig & R. Ligowski SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Aschemonella delicata Saidova, 1975 SPECIES
-=======
+# Aschemonella delicata Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

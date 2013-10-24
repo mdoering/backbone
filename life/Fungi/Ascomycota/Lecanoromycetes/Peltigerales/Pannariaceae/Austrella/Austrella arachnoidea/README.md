@@ -1,5 +1,4 @@
-Austrella arachnoidea P. M. Jørg. SPECIES
-=======
+# Austrella arachnoidea P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

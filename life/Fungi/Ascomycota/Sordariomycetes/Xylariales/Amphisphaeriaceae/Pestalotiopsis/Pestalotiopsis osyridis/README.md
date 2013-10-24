@@ -1,5 +1,4 @@
-Pestalotiopsis osyridis (Thüm.) H.T. Sun & R.B. Cao SPECIES
-=======
+# Pestalotiopsis osyridis (Thüm.) H.T. Sun & R.B. Cao SPECIES
 
 #### Status
 ACCEPTED

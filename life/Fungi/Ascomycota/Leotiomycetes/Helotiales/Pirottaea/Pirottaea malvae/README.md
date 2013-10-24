@@ -1,5 +1,4 @@
-Pirottaea malvae (Fautrey) Nannf. SPECIES
-=======
+# Pirottaea malvae (Fautrey) Nannf. SPECIES
 
 #### Status
 ACCEPTED

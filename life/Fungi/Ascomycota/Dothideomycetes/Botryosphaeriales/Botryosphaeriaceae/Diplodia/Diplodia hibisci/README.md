@@ -1,5 +1,4 @@
-Diplodia hibisci Henn. SPECIES
-=======
+# Diplodia hibisci Henn. SPECIES
 
 #### Status
 ACCEPTED

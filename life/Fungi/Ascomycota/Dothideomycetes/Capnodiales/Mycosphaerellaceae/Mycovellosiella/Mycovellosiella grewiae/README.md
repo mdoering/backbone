@@ -1,5 +1,4 @@
-Mycovellosiella grewiae (H.C. Srivast. & P.R. Mehta) Deighton SPECIES
-=======
+# Mycovellosiella grewiae (H.C. Srivast. & P.R. Mehta) Deighton SPECIES
 
 #### Status
 ACCEPTED

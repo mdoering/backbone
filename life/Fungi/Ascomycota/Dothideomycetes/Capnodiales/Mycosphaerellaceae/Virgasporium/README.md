@@ -1,5 +1,4 @@
-Virgasporium GENUS
-=======
+# Virgasporium GENUS
 
 #### Status
 ACCEPTED

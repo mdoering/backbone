@@ -1,5 +1,4 @@
-Patinella ulmi (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Patinella ulmi (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

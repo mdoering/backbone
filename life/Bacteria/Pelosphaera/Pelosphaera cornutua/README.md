@@ -1,5 +1,4 @@
-Pelosphaera cornutua Heron-Allen & Earland, 1932 SPECIES
-=======
+# Pelosphaera cornutua Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

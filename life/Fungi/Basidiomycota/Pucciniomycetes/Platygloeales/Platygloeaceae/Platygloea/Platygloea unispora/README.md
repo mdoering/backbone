@@ -1,5 +1,4 @@
-Platygloea unispora L.S. Olive SPECIES
-=======
+# Platygloea unispora L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

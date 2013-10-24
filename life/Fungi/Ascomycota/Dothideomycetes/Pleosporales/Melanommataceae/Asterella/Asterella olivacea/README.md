@@ -1,5 +1,4 @@
-Asterella olivacea Höhn. SPECIES
-=======
+# Asterella olivacea Höhn. SPECIES
 
 #### Status
 ACCEPTED

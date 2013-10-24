@@ -1,5 +1,4 @@
-Tintinnus bulbosus SPECIES
-=======
+# Tintinnus bulbosus SPECIES
 
 #### Status
 ACCEPTED

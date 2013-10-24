@@ -1,5 +1,4 @@
-Pluteus sterili-marginatus Peck SPECIES
-=======
+# Pluteus sterili-marginatus Peck SPECIES
 
 #### Status
 ACCEPTED

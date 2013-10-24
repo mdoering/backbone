@@ -1,5 +1,4 @@
-Humicoccus Yoon et al., 2007 GENUS
-=======
+# Humicoccus Yoon et al., 2007 GENUS
 
 #### Status
 ACCEPTED

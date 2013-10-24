@@ -1,5 +1,4 @@
-Leptoniella subnigra Murrill SPECIES
-=======
+# Leptoniella subnigra Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium mycetophagum Sacc. SPECIES
-=======
+# Sclerotium mycetophagum Sacc. SPECIES
 
 #### Status
 ACCEPTED

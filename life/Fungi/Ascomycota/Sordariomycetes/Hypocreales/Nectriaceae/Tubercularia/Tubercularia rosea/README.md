@@ -1,5 +1,4 @@
-Tubercularia rosea var. rosea VARIETY
-=======
+# Tubercularia rosea (Fr.) Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 114 (1801)
+Mycol. Writ. 7(69): 1211 (1923)
 
 #### Original name
-Lichen roseus Vahl
+Dacrymyces roseus Fr.
 
 ### Remarks
 null

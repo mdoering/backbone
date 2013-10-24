@@ -1,5 +1,4 @@
-Stagonospora uvarum Speschnew SPECIES
-=======
+# Stagonospora uvarum Speschnew SPECIES
 
 #### Status
 ACCEPTED

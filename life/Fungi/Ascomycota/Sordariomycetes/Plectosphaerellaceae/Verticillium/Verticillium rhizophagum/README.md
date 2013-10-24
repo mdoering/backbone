@@ -1,5 +1,4 @@
-Verticillium rhizophagum Tehon & H.L. Jacobs SPECIES
-=======
+# Verticillium rhizophagum Tehon & H.L. Jacobs SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena microxantha Singer SPECIES
-=======
+# Mycena microxantha Singer SPECIES
 
 #### Status
 ACCEPTED

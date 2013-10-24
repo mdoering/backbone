@@ -1,5 +1,4 @@
-Parodiella sphaerotheca Pat. SPECIES
-=======
+# Parodiella sphaerotheca Pat. SPECIES
 
 #### Status
 ACCEPTED

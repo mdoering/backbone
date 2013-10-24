@@ -1,17 +1,16 @@
-Geoglossum hirsutum var. hirsutum VARIETY
-=======
+# Trichoglossum hirsutum (E. M. Fries) Boudier SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 37 (1797)
+null
 
 #### Original name
-Geoglossum hirsutum var. hirsutum
+null
 
 ### Remarks
 null

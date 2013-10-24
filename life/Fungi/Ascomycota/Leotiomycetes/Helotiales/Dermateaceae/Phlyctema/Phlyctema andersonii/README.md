@@ -1,5 +1,4 @@
-Phlyctema andersonii Ellis SPECIES
-=======
+# Phlyctema andersonii Ellis SPECIES
 
 #### Status
 ACCEPTED

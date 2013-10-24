@@ -1,5 +1,4 @@
-Ascophanus vaccinus Velen. SPECIES
-=======
+# Ascophanus vaccinus Velen. SPECIES
 
 #### Status
 ACCEPTED

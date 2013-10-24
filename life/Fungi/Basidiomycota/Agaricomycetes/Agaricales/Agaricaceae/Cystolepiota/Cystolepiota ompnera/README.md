@@ -1,14 +1,13 @@
-Agaricus ompnerus Berk. & Broome, 1871 SPECIES
-=======
+# Cystolepiota ompnera (Berk. & Broome) Pegler, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 21 (1871)
+Kew Bull. , Addit. Ser. 12: 284 (1986)
 
 #### Original name
 Agaricus ompnerus Berk. & Broome, 1871

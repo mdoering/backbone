@@ -1,5 +1,4 @@
-Inonotus krawtzewii (Pilát) Pilát SPECIES
-=======
+# Inonotus krawtzewii (Pilát) Pilát SPECIES
 
 #### Status
 ACCEPTED

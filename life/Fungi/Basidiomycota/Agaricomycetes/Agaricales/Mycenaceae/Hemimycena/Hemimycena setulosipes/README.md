@@ -1,5 +1,4 @@
-Hemimycena setulosipes (Murrill) Singer SPECIES
-=======
+# Hemimycena setulosipes (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

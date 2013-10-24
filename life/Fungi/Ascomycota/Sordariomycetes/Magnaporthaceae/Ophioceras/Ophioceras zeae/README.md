@@ -1,5 +1,4 @@
-Ophioceras zeae Saccas SPECIES
-=======
+# Ophioceras zeae Saccas SPECIES
 
 #### Status
 ACCEPTED

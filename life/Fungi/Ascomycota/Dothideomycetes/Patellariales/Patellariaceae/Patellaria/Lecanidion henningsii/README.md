@@ -1,5 +1,4 @@
-Lecanidion henningsii (Ranoj.) Sacc. & Trotter SPECIES
-=======
+# Lecanidion henningsii (Ranoj.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe microcephala Speg. SPECIES
-=======
+# Inocybe microcephala Speg. SPECIES
 
 #### Status
 ACCEPTED

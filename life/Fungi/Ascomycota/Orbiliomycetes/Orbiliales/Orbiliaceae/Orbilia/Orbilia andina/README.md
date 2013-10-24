@@ -1,5 +1,4 @@
-Orbilia andina var. lateritia Pat. VARIETY
-=======
+# Orbilia andina Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Orbilia andina var. lateritia Pat.
+Orbilia andina Pat.
 
 ### Remarks
 null

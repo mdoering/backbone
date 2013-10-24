@@ -1,5 +1,4 @@
-Ascochyta prunicola P.K. Chi SPECIES
-=======
+# Ascochyta prunicola P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

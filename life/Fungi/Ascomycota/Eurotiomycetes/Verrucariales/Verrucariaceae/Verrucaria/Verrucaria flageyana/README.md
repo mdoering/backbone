@@ -1,5 +1,4 @@
-Verrucaria flageyana Servít SPECIES
-=======
+# Verrucaria flageyana Servít SPECIES
 
 #### Status
 ACCEPTED

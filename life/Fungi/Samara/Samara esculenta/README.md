@@ -1,5 +1,4 @@
-Samara esculenta Buch.-Ham. ex D.Don SPECIES
-=======
+# Samara esculenta Buch.-Ham. ex D.Don SPECIES
 
 #### Status
 ACCEPTED

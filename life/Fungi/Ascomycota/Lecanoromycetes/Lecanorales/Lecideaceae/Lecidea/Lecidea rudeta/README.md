@@ -1,5 +1,4 @@
-Lecidea rudeta Ach. SPECIES
-=======
+# Lecidea rudeta Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora elaeagnelia Dzhalag. SPECIES
-=======
+# Physalospora elaeagnelia Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

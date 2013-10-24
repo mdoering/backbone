@@ -1,5 +1,4 @@
-Volvariella nigrovolvacea var. nigrovolvacea VARIETY
-=======
+# Volvariella nigrovolvacea Kosina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Volvariella nigrovolvacea var. nigrovolvacea
+Volvariella nigrovolvacea Kosina
 
 ### Remarks
 null

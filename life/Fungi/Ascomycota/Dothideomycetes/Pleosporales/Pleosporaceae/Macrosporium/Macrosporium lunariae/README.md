@@ -1,5 +1,4 @@
-Macrosporium lunariae Oudem. & C.J.J. Hall SPECIES
-=======
+# Macrosporium lunariae Oudem. & C.J.J. Hall SPECIES
 
 #### Status
 ACCEPTED

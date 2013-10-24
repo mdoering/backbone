@@ -1,5 +1,4 @@
-Aulacodiscus petersii Ehrenberg SPECIES
-=======
+# Aulacodiscus petersii Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codinaea pakhalensis S.M. Reddy & S.S. Reddy SPECIES
-=======
+# Codinaea pakhalensis S.M. Reddy & S.S. Reddy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semilecanora corticalis Motyka SPECIES
-=======
+# Semilecanora corticalis Motyka SPECIES
 
 #### Status
 ACCEPTED

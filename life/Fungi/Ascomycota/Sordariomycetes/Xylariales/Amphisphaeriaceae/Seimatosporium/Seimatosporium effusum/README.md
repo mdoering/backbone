@@ -1,5 +1,4 @@
-Seimatosporium effusum (Vestergr.) Shoemaker SPECIES
-=======
+# Seimatosporium effusum (Vestergr.) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

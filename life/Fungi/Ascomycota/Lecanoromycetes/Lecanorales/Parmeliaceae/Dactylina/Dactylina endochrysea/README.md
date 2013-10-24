@@ -1,5 +1,4 @@
-Dactylina endochrysea Lynge SPECIES
-=======
+# Dactylina endochrysea Lynge SPECIES
 
 #### Status
 ACCEPTED

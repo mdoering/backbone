@@ -1,5 +1,4 @@
-Uredo chlorophorae Cummins SPECIES
-=======
+# Uredo chlorophorae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella clerodendricola Hosag. SPECIES
-=======
+# Asteridiella clerodendricola Hosag. SPECIES
 
 #### Status
 ACCEPTED

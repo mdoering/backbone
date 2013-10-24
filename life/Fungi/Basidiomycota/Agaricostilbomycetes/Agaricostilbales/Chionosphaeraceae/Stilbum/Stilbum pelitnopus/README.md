@@ -1,5 +1,4 @@
-Stilbum pelitnopus Corda SPECIES
-=======
+# Stilbum pelitnopus Corda SPECIES
 
 #### Status
 ACCEPTED

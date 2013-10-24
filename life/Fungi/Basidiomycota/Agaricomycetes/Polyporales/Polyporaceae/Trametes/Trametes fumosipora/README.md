@@ -1,5 +1,4 @@
-Trametes fumosipora Corner SPECIES
-=======
+# Trametes fumosipora Corner SPECIES
 
 #### Status
 ACCEPTED

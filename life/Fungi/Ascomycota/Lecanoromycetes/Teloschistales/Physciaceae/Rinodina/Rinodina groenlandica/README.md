@@ -1,5 +1,4 @@
-Rinodina groenlandica H. Magn. SPECIES
-=======
+# Rinodina groenlandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

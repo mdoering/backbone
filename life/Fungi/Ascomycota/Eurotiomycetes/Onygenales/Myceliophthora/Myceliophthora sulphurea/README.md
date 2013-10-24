@@ -1,5 +1,4 @@
-Myceliophthora sulphurea Goddard SPECIES
-=======
+# Myceliophthora sulphurea Goddard SPECIES
 
 #### Status
 ACCEPTED

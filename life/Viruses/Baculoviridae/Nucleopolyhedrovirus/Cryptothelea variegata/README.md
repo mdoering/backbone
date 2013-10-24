@@ -1,5 +1,4 @@
-Cryptothelea variegata Npv SPECIES
-=======
+# Cryptothelea variegata Npv SPECIES
 
 #### Status
 ACCEPTED

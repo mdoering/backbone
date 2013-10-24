@@ -1,5 +1,4 @@
-Lecanidium commutans (Vain.) C.W. Dodge SPECIES
-=======
+# Lecanidium commutans (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

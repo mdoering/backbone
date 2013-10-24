@@ -1,5 +1,4 @@
-Caloplaca isidiata Vezda SPECIES
-=======
+# Caloplaca isidiata Vezda SPECIES
 
 #### Status
 ACCEPTED

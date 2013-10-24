@@ -1,5 +1,4 @@
-Pleurobasidium telae G. Arnaud, 1951 SPECIES
-=======
+# Pleurobasidium telae G. Arnaud, 1951 SPECIES
 
 #### Status
 ACCEPTED

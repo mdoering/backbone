@@ -1,5 +1,4 @@
-Diplodina amaranthi Fautrey SPECIES
-=======
+# Diplodina amaranthi Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laurera megaleia (Kremp.) Zahlbr. SPECIES
-=======
+# Laurera megaleia (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

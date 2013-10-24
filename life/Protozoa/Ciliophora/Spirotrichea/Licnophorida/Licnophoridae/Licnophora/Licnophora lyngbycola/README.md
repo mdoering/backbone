@@ -1,5 +1,4 @@
-Licnophora lyngbycola Fauré-Fremiet, 1937 SPECIES
-=======
+# Licnophora lyngbycola Fauré-Fremiet, 1937 SPECIES
 
 #### Status
 ACCEPTED

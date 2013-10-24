@@ -1,5 +1,4 @@
-Mycena fonticola Har. Takah. SPECIES
-=======
+# Mycena fonticola Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius hirtipes Clem. SPECIES
-=======
+# Marasmius hirtipes Clem. SPECIES
 
 #### Status
 ACCEPTED

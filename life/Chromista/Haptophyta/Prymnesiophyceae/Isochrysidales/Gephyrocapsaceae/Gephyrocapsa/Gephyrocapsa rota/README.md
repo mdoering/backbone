@@ -1,5 +1,4 @@
-Gephyrocapsa rota Samtleben, 1980 SPECIES
-=======
+# Gephyrocapsa rota Samtleben, 1980 SPECIES
 
 #### Status
 ACCEPTED

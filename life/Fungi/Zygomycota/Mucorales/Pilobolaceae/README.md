@@ -1,5 +1,4 @@
-Pilobolaceae FAMILY
-=======
+# Pilobolaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe vernoniae (Viégas) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe vernoniae (Viégas) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

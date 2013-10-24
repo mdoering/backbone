@@ -1,5 +1,4 @@
-Stigmina pulvinata (Kunze) M.B. Ellis SPECIES
-=======
+# Stigmina pulvinata (Kunze) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

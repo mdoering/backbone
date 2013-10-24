@@ -1,5 +1,4 @@
-Cookeina globosa Douanla-Meli SPECIES
-=======
+# Cookeina globosa Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

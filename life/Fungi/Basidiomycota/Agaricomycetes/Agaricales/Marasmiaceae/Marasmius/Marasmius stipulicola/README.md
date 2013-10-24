@@ -1,5 +1,4 @@
-Marasmius stipulicola Ces. SPECIES
-=======
+# Marasmius stipulicola Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletinus squarrosoides Snell & E.A. Dick SPECIES
-=======
+# Boletinus squarrosoides Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ampulliferopsis hippocrateacearum Bat. & Cavalc. SPECIES
-=======
+# Ampulliferopsis hippocrateacearum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

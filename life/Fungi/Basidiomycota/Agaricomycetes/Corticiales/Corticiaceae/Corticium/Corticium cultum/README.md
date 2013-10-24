@@ -1,5 +1,4 @@
-Corticium cultum Burt SPECIES
-=======
+# Corticium cultum Burt SPECIES
 
 #### Status
 ACCEPTED

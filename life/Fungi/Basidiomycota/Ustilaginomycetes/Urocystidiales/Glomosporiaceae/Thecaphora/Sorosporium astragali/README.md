@@ -1,5 +1,4 @@
-Sorosporium astragali Peck SPECIES
-=======
+# Sorosporium astragali Peck SPECIES
 
 #### Status
 ACCEPTED

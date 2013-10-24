@@ -1,5 +1,4 @@
-Meliola aciculosa var. aciculosa VARIETY
-=======
+# Meliola aciculosa G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola aciculosa var. aciculosa
+Meliola aciculosa G. Winter
 
 ### Remarks
 null

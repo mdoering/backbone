@@ -1,5 +1,4 @@
-Phaeopezia applanata (Rabenh. & Gonn.) Sacc. SPECIES
-=======
+# Phaeopezia applanata (Rabenh. & Gonn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria hypocrellicola Henn. SPECIES
-=======
+# Nectria hypocrellicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis lepidii (Sacc.) Sousa da Câmara SPECIES
-=======
+# Phomopsis lepidii (Sacc.) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea catenulata Motyka SPECIES
-=======
+# Usnea catenulata Motyka SPECIES
 
 #### Status
 ACCEPTED

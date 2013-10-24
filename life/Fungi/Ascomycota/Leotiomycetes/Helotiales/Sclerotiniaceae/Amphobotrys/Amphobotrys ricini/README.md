@@ -1,14 +1,13 @@
-Botrytis ricini N.F. Buchw., 1949 SPECIES
-=======
+# Amphobotrys ricini (N.F. Buchw.) Hennebert, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. VetHojsk. Aarsskr. 32: 148 (1949)
+Persoonia 7(2): 192 (1973)
 
 #### Original name
 Botrytis ricini N.F. Buchw., 1949

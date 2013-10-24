@@ -1,5 +1,4 @@
-Byssovorax Reichenbach, 2006 GENUS
-=======
+# Byssovorax Reichenbach, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta stellata SPECIES
-=======
+# Sticta stellata SPECIES
 
 #### Status
 ACCEPTED

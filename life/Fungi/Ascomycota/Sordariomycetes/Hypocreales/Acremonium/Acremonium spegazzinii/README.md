@@ -1,5 +1,4 @@
-Acremonium spegazzinii D. Hawksw., 1979 SPECIES
-=======
+# Acremonium spegazzinii D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

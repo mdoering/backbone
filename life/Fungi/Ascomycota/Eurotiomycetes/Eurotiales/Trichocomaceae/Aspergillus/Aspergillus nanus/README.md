@@ -1,5 +1,4 @@
-Aspergillus nanus Oudem. SPECIES
-=======
+# Aspergillus nanus Oudem. SPECIES
 
 #### Status
 ACCEPTED

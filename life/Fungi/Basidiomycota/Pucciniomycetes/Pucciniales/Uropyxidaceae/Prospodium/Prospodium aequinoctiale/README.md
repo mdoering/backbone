@@ -1,5 +1,4 @@
-Prospodium aequinoctiale (Holw.) Cummins SPECIES
-=======
+# Prospodium aequinoctiale (Holw.) Cummins SPECIES
 
 #### Status
 ACCEPTED

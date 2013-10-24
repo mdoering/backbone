@@ -1,5 +1,4 @@
-Cortinarius laccatus Reumaux SPECIES
-=======
+# Cortinarius laccatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

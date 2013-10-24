@@ -1,5 +1,4 @@
-Helvella lichenoides Scop. SPECIES
-=======
+# Helvella lichenoides Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha quassiae SPECIES
-=======
+# Opegrapha quassiae SPECIES
 
 #### Status
 ACCEPTED

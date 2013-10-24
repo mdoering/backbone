@@ -1,5 +1,4 @@
-Humaria elaeocarpa Sacc. SPECIES
-=======
+# Humaria elaeocarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

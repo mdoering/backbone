@@ -1,5 +1,4 @@
-Parmularia alphoplaca (Wahlenb.) Räsänen SPECIES
-=======
+# Parmularia alphoplaca (Wahlenb.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

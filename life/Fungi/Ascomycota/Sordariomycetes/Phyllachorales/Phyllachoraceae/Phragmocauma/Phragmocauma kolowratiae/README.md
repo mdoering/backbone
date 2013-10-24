@@ -1,5 +1,4 @@
-Phragmocauma kolowratiae Syd. & P. Syd., 1917 SPECIES
-=======
+# Phragmocauma kolowratiae Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

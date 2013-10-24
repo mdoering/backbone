@@ -1,5 +1,4 @@
-Scyphidia ambigua Penard, 1922 SPECIES
-=======
+# Scyphidia ambigua Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

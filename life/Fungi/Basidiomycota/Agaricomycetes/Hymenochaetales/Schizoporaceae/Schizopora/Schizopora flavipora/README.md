@@ -1,17 +1,16 @@
-Kneiffiella flavipora (Berk. & M.A. Curtis ex Cooke) Zmitr. & Malysheva, 2008 SPECIES
-=======
+# Schizopora flavipora (Berk. & M.A. Curtis ex Cooke) Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 23: 186 (1985)
 
 #### Original name
-null
+Poria flavipora Berk. & M.A. Curtis ex Cooke, 1886
 
 ### Remarks
 null

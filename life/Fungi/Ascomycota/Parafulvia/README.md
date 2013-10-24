@@ -1,5 +1,4 @@
-Parafulvia Kamal, A.N. Rai & Morgan-Jones GENUS
-=======
+# Parafulvia Kamal, A.N. Rai & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

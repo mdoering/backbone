@@ -1,17 +1,16 @@
-Amepiospora fusoidis Sal.-Cheb. & Locq. SPECIES
-=======
+# Amepiospora fusoides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. Congr. natn. Socs. sav. Paris, sect. sci. , fasc. 1. (Paleobotanique) 105: 186 + pl. I, fig. 19 (1980)
 
 #### Original name
-Amepiospora fusoidis Sal.-Cheb. & Locq.
+Amepiospora fusoides Sal.-Cheb. & Locq.
 
 ### Remarks
 null

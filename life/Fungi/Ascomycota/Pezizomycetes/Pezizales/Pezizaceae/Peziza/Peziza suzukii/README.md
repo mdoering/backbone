@@ -1,5 +1,4 @@
-Peziza suzukii (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Peziza suzukii (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria teucrii (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Leptosphaeria teucrii (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

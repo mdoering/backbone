@@ -1,5 +1,4 @@
-Stictina fragillima var. fragillima VARIETY
-=======
+# Stictina fragillima (Bab.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina fragillima var. fragillima
+Sticta fragillima Bab.
 
 ### Remarks
 null

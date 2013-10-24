@@ -1,5 +1,4 @@
-Cyttarocylis magna Brandt, 1906 SPECIES
-=======
+# Cyttarocylis magna Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

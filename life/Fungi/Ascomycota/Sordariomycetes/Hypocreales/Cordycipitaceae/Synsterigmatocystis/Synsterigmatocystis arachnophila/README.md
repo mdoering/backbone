@@ -1,5 +1,4 @@
-Synsterigmatocystis arachnophila Costantin ex Vuill. SPECIES
-=======
+# Synsterigmatocystis arachnophila Costantin ex Vuill. SPECIES
 
 #### Status
 ACCEPTED

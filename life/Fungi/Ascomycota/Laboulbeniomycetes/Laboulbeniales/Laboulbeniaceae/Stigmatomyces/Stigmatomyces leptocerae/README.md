@@ -1,5 +1,4 @@
-Stigmatomyces leptocerae Thaxt. SPECIES
-=======
+# Stigmatomyces leptocerae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

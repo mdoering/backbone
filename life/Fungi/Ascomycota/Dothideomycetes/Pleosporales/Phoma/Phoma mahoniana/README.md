@@ -1,5 +1,4 @@
-Phoma mahoniana Sacc. SPECIES
-=======
+# Phoma mahoniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

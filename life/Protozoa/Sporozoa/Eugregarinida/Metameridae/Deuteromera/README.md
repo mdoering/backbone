@@ -1,14 +1,13 @@
-Deutomera GENUS
-=======
+# Deuteromera Bhatia & Setna, 1938 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Proc. Indian Acad. Sci. , 8B, 236.
 
 #### Original name
 null

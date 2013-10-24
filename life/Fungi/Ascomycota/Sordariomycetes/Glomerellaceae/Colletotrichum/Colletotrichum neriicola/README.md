@@ -1,5 +1,4 @@
-Colletotrichum neriicola Hüseyin & Selçuk, 2001 SPECIES
-=======
+# Colletotrichum neriicola Hüseyin & Selçuk, 2001 SPECIES
 
 #### Status
 ACCEPTED

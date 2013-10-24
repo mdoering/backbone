@@ -1,5 +1,4 @@
-Russula messapica Sarnari SPECIES
-=======
+# Russula messapica Sarnari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodopaxillus obscurus Pilát SPECIES
-=======
+# Rhodopaxillus obscurus Pilát SPECIES
 
 #### Status
 ACCEPTED

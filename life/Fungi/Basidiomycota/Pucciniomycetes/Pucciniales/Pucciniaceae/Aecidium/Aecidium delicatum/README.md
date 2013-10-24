@@ -1,5 +1,4 @@
-Aecidium delicatum Arthur SPECIES
-=======
+# Aecidium delicatum Arthur SPECIES
 
 #### Status
 ACCEPTED

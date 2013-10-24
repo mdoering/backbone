@@ -1,17 +1,16 @@
-Septoria euonymi var. euonymi VARIETY
-=======
+# Septoria euonymi Rabenh., 1848 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 31: 506 (1848)
 
 #### Original name
-Septoria euonymi var. euonymi
+Septoria euonymi Rabenh., 1848
 
 ### Remarks
 null

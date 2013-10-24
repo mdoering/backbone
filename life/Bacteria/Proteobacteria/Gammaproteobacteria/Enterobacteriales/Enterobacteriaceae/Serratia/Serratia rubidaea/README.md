@@ -1,11 +1,10 @@
-Bacterium rubidaeum Stapp, 1940 SPECIES
-=======
+# Serratia rubidaea (Stapp, 1940) Ewing et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Thelohania montirivulorum SPECIES
-=======
+# Thelohania montirivulorum SPECIES
 
 #### Status
 ACCEPTED

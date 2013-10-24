@@ -1,5 +1,4 @@
-Diplodia petiolaris Peck SPECIES
-=======
+# Diplodia petiolaris Peck SPECIES
 
 #### Status
 ACCEPTED

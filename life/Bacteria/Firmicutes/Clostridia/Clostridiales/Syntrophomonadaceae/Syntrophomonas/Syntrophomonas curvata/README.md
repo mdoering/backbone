@@ -1,5 +1,4 @@
-Syntrophomonas curvata Zhang et al., 2004 SPECIES
-=======
+# Syntrophomonas curvata Zhang et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balaniopsis dendroidea Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Balaniopsis dendroidea Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

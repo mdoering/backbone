@@ -1,5 +1,4 @@
-Trichosporum linkii J. Lindau SPECIES
-=======
+# Trichosporum linkii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

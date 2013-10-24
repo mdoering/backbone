@@ -1,17 +1,16 @@
-Agaricus obtusatus var. obtusatus VARIETY
-=======
+# Psathyrella obtusata (Fr. Fr.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 428 (1801)
+null
 
 #### Original name
-Agaricus obtusatus var. obtusatus
+null
 
 ### Remarks
 null

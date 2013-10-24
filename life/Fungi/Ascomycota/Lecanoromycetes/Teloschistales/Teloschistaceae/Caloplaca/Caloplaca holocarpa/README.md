@@ -1,17 +1,16 @@
-Caloplaca pyracea var. pyrithroma (Ach.) Flagey VARIETY
-=======
+# Caloplaca holocarpa (Hoffm. ex Ach.) A. E. Wade SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 10: 130 (1888)
+Lichenologist 3: 11 (1965)
 
 #### Original name
-Lecidea rupestris var. pyrithroma Ach.
+null
 
 ### Remarks
 null

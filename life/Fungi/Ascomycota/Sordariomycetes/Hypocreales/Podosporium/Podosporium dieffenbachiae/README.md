@@ -1,5 +1,4 @@
-Podosporium dieffenbachiae (F. Stevens) Cif. SPECIES
-=======
+# Podosporium dieffenbachiae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

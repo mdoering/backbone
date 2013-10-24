@@ -1,5 +1,4 @@
-Sheshukovia cellulosa var. simbirskiana (Witt) J. Fenner VARIETY
-=======
+# Sheshukovia cellulosa SPECIES
 
 #### Status
 ACCEPTED

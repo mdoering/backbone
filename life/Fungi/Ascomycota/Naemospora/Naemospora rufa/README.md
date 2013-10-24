@@ -1,5 +1,4 @@
-Naemospora rufa Berk. & M.A. Curtis SPECIES
-=======
+# Naemospora rufa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

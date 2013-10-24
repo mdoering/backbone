@@ -1,14 +1,13 @@
-Paraparmelia columbariensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia columbariensis (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix et al. , Mycotaxon 32(1): 401 (1988)
+Mycotaxon 87: 398 (2003)
 
 #### Original name
 Paraparmelia columbariensis Elix & J. Johnst.

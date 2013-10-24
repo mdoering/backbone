@@ -1,5 +1,4 @@
-Pseudocytoplacosphaeria Punith. & Spooner GENUS
-=======
+# Pseudocytoplacosphaeria Punith. & Spooner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia gammari Precht, 1935 SPECIES
-=======
+# Cothurnia gammari Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

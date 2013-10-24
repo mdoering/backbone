@@ -1,5 +1,4 @@
-Sarcographa tristis Meissn. {?} SPECIES
-=======
+# Sarcographa tristis Meissn. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Descolea lepiotiformis Raithelh. SPECIES
-=======
+# Descolea lepiotiformis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella tiarata Körb. SPECIES
-=======
+# Lecidella tiarata Körb. SPECIES
 
 #### Status
 ACCEPTED

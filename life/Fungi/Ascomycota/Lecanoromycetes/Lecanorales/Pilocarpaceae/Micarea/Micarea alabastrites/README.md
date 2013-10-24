@@ -1,14 +1,13 @@
-Bilimbia alabastrites (Nyl.) H. Olivier SPECIES
-=======
+# Micarea alabastrites (Nyl.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Topham & Walker, Lichenologist 14(1): 66 (1982)
 
 #### Original name
 Lecidea alabastrites Nyl.

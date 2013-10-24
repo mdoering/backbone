@@ -1,5 +1,4 @@
-Tuber meliotum Sacc. SPECIES
-=======
+# Tuber meliotum Sacc. SPECIES
 
 #### Status
 ACCEPTED

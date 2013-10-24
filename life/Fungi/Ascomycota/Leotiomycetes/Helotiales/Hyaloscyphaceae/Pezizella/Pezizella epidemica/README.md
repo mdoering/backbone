@@ -1,5 +1,4 @@
-Pezizella epidemica Rehm SPECIES
-=======
+# Pezizella epidemica Rehm SPECIES
 
 #### Status
 ACCEPTED

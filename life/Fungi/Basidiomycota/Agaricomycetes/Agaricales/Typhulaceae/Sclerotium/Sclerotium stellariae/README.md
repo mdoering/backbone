@@ -1,5 +1,4 @@
-Sclerotium stellariae Fuckel SPECIES
-=======
+# Sclerotium stellariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphites protogaeus (Schmalh.) Mesch. SPECIES
-=======
+# Erysiphites protogaeus (Schmalh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

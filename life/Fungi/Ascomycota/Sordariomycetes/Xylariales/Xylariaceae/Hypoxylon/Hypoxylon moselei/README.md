@@ -1,5 +1,4 @@
-Hypoxylon moselei Berk. SPECIES
-=======
+# Hypoxylon moselei Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina aspera L.S. Olive SPECIES
-=======
+# Sebacina aspera L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

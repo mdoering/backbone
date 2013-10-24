@@ -1,5 +1,4 @@
-Peziza radiculosa Berk. & M.A. Curtis SPECIES
-=======
+# Peziza radiculosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

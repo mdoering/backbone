@@ -1,5 +1,4 @@
-Gracilibacillus halotolerans Wainø et al., 1999 SPECIES
-=======
+# Gracilibacillus halotolerans Wainø et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

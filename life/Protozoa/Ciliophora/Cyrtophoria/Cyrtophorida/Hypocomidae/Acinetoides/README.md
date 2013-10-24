@@ -1,5 +1,4 @@
-Acinetoides Plate, 1888 GENUS
-=======
+# Acinetoides Plate, 1888 GENUS
 
 #### Status
 ACCEPTED

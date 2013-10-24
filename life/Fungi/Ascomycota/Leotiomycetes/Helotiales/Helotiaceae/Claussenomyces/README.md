@@ -1,5 +1,4 @@
-Claussenomyces Kirschst. GENUS
-=======
+# Claussenomyces Kirschst. GENUS
 
 #### Status
 ACCEPTED

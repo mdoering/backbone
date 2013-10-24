@@ -1,5 +1,4 @@
-Placodium inamoenum (Th. Fr.) SPECIES
-=======
+# Placodium inamoenum (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

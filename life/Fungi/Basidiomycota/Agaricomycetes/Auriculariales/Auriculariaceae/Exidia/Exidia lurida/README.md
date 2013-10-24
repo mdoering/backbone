@@ -1,5 +1,4 @@
-Exidia lurida Schwein. SPECIES
-=======
+# Exidia lurida Schwein. SPECIES
 
 #### Status
 ACCEPTED

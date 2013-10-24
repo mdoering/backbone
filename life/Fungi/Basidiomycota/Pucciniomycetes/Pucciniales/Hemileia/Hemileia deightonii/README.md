@@ -1,5 +1,4 @@
-Hemileia deightonii Syd. SPECIES
-=======
+# Hemileia deightonii Syd. SPECIES
 
 #### Status
 ACCEPTED

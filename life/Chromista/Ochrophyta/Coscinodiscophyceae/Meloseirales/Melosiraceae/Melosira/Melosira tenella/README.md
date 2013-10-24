@@ -1,5 +1,4 @@
-Melosira tenella Nygaard SPECIES
-=======
+# Melosira tenella Nygaard SPECIES
 
 #### Status
 ACCEPTED

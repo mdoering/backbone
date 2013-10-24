@@ -1,5 +1,4 @@
-Chaetosphaeria leonina (Cooke & Peck) Sacc. SPECIES
-=======
+# Chaetosphaeria leonina (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

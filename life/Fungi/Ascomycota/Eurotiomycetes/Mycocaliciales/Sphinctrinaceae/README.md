@@ -1,5 +1,4 @@
-Sphinctrinaceae M. Choisy FAMILY
-=======
+# Sphinctrinaceae M. Choisy FAMILY
 
 #### Status
 ACCEPTED

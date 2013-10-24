@@ -1,5 +1,4 @@
-Rhizobium rhizogenes (Riker et al., 1930) Young et al., 2001 SPECIES
-=======
+# Rhizobium rhizogenes (Riker et al., 1930) Young et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

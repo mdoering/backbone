@@ -1,5 +1,4 @@
-Pyrenopeziza smilicis (E. Müll. & S.K. Bose) M.P. Sharma SPECIES
-=======
+# Pyrenopeziza smilicis (E. Müll. & S.K. Bose) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

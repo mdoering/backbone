@@ -1,5 +1,4 @@
-Lembosia inaequalis Anahosur SPECIES
-=======
+# Lembosia inaequalis Anahosur SPECIES
 
 #### Status
 ACCEPTED

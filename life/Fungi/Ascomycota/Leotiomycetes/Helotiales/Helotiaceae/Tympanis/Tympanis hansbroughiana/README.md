@@ -1,5 +1,4 @@
-Tympanis hansbroughiana J.W. Groves, 1952 SPECIES
-=======
+# Tympanis hansbroughiana J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

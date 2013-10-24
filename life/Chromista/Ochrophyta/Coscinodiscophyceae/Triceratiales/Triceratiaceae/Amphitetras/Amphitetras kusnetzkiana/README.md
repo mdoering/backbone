@@ -1,5 +1,4 @@
-Amphitetras kusnetzkiana (Pantocsek) De Toni SPECIES
-=======
+# Amphitetras kusnetzkiana (Pantocsek) De Toni SPECIES
 
 #### Status
 ACCEPTED

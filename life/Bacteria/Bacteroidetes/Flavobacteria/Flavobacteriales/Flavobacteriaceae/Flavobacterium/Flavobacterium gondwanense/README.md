@@ -1,5 +1,4 @@
-Flavobacterium gondwanense Dobson et al., 1993 SPECIES
-=======
+# Flavobacterium gondwanense Dobson et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

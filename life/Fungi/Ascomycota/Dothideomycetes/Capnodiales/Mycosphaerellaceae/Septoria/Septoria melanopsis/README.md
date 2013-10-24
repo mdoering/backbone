@@ -1,5 +1,4 @@
-Septoria melanopsis Pat. SPECIES
-=======
+# Septoria melanopsis Pat. SPECIES
 
 #### Status
 ACCEPTED

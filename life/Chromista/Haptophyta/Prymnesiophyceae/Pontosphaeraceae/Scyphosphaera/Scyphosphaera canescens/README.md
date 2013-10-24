@@ -1,5 +1,4 @@
-Scyphosphaera canescens Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera canescens Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum physaroides Speg. SPECIES
-=======
+# Stilbum physaroides Speg. SPECIES
 
 #### Status
 ACCEPTED

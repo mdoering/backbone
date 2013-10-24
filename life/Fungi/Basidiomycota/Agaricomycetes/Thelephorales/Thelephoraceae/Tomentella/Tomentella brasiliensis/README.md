@@ -1,5 +1,4 @@
-Tomentella brasiliensis Rick SPECIES
-=======
+# Tomentella brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

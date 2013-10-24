@@ -1,5 +1,4 @@
-Asteromella ferulina Petr., 1942 SPECIES
-=======
+# Asteromella ferulina Petr., 1942 SPECIES
 
 #### Status
 ACCEPTED

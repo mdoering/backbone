@@ -1,5 +1,4 @@
-Naetrocymbe lafoensiae Bat. SPECIES
-=======
+# Naetrocymbe lafoensiae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia sublactea Zahlbr. SPECIES
-=======
+# Physcia sublactea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

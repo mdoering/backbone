@@ -1,5 +1,4 @@
-Septoria sincorensis Bat. SPECIES
-=======
+# Septoria sincorensis Bat. SPECIES
 
 #### Status
 ACCEPTED

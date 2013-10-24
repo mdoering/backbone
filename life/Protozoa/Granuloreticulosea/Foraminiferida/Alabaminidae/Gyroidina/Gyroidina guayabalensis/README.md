@@ -1,5 +1,4 @@
-Gyroidina guayabalensis Cole SPECIES
-=======
+# Gyroidina guayabalensis Cole SPECIES
 
 #### Status
 ACCEPTED

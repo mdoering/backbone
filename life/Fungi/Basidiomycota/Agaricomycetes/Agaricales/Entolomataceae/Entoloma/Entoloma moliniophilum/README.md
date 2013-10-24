@@ -1,5 +1,4 @@
-Entoloma moliniophilum Walleyn & Noordel. SPECIES
-=======
+# Entoloma moliniophilum Walleyn & Noordel. SPECIES
 
 #### Status
 ACCEPTED

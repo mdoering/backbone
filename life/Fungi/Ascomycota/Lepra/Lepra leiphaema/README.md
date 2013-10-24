@@ -1,5 +1,4 @@
-Lepra leiphaema (Ach.) Mérat SPECIES
-=======
+# Lepra leiphaema (Ach.) Mérat SPECIES
 
 #### Status
 ACCEPTED

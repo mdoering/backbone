@@ -1,5 +1,4 @@
-Camarosporium suaedae S. Ahmad, 1967 SPECIES
-=======
+# Camarosporium suaedae S. Ahmad, 1967 SPECIES
 
 #### Status
 ACCEPTED

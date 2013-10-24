@@ -1,17 +1,16 @@
-Cercospora canavalii-gladiatae J.M. Yen & Lim SPECIES
-=======
+# Cercospora canavaliae-gladiatae J.M. Yen & Lim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 98(4): 365 (1982)
 
 #### Original name
-Cercospora canavalii-gladiatae J.M. Yen & Lim
+Cercospora canavaliae-gladiatae J.M. Yen & Lim
 
 ### Remarks
 null

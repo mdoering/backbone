@@ -1,5 +1,4 @@
-Dactylella deodycoides Drechsler SPECIES
-=======
+# Dactylella deodycoides Drechsler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claudopus tympanifer E. Horak SPECIES
-=======
+# Claudopus tympanifer E. Horak SPECIES
 
 #### Status
 ACCEPTED

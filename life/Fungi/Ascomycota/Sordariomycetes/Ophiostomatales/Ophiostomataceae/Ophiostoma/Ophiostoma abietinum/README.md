@@ -1,5 +1,4 @@
-Ophiostoma abietinum Marm. & Butin SPECIES
-=======
+# Ophiostoma abietinum Marm. & Butin SPECIES
 
 #### Status
 ACCEPTED

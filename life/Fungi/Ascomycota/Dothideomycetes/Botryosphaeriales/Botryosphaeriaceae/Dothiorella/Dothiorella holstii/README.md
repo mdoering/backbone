@@ -1,5 +1,4 @@
-Dothiorella holstii (Henn.) Arx SPECIES
-=======
+# Dothiorella holstii (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

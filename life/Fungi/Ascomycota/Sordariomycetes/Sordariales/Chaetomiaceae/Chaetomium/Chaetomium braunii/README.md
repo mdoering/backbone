@@ -1,5 +1,4 @@
-Chaetomium braunii Rabenh. SPECIES
-=======
+# Chaetomium braunii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

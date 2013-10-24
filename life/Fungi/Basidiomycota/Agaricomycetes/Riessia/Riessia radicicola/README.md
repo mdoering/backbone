@@ -1,5 +1,4 @@
-Riessia radicicola Jülich, 1985 SPECIES
-=======
+# Riessia radicicola Jülich, 1985 SPECIES
 
 #### Status
 ACCEPTED

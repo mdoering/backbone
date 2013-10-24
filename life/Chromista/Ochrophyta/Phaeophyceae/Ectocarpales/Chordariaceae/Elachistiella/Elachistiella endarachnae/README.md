@@ -1,5 +1,4 @@
-Elachistiella endarachnae (H.Stegenga, J.J.Bolton & R.J.Anderson) V.Cassano, Y.Yoneshigue-Valentin & M.J.Wynne, 2004 SPECIES
-=======
+# Elachistiella endarachnae (H.Stegenga, J.J.Bolton & R.J.Anderson) V.Cassano, Y.Yoneshigue-Valentin & M.J.Wynne, 2004 SPECIES
 
 #### Status
 ACCEPTED

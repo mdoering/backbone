@@ -1,5 +1,4 @@
-Cucurbitaria sambucina Naumov SPECIES
-=======
+# Cucurbitaria sambucina Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacium discolor Feltgen SPECIES
-=======
+# Limacium discolor Feltgen SPECIES
 
 #### Status
 ACCEPTED

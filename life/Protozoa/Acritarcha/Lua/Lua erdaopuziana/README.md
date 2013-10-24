@@ -1,5 +1,4 @@
-Lua erdaopuziana Martin & Yin Leiming, 1988 SPECIES
-=======
+# Lua erdaopuziana Martin & Yin Leiming, 1988 SPECIES
 
 #### Status
 ACCEPTED

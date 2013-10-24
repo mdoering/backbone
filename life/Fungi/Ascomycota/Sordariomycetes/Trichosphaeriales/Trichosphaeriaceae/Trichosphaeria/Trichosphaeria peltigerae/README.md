@@ -1,5 +1,4 @@
-Trichosphaeria peltigerae Fuckel SPECIES
-=======
+# Trichosphaeria peltigerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus ludovicii subsp. ludovicii SUBSPECIES
-=======
+# Agaricus ludovicii L. Remy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus ludovicii subsp. ludovicii
+Agaricus ludovicii L. Remy
 
 ### Remarks
 null

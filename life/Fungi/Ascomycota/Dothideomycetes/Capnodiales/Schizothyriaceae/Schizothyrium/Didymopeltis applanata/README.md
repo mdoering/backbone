@@ -1,5 +1,4 @@
-Didymopeltis applanata (Rehm) Bat. SPECIES
-=======
+# Didymopeltis applanata (Rehm) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella extensa subsp. extensa Kahl, 1935 SUBSPECIES
-=======
+# Vorticella extensa Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

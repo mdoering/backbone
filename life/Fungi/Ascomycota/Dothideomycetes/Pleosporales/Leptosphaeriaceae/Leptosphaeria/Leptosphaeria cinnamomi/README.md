@@ -1,5 +1,4 @@
-Leptosphaeria cinnamomi Shirai & Hara SPECIES
-=======
+# Leptosphaeria cinnamomi Shirai & Hara SPECIES
 
 #### Status
 ACCEPTED

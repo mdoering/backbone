@@ -1,5 +1,4 @@
-Actinomma subtropicum Speg. SPECIES
-=======
+# Actinomma subtropicum Speg. SPECIES
 
 #### Status
 ACCEPTED

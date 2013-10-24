@@ -1,5 +1,4 @@
-Melanopsamma jaapiana Kirschst. SPECIES
-=======
+# Melanopsamma jaapiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

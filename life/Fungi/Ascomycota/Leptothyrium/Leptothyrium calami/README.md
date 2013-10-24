@@ -1,5 +1,4 @@
-Leptothyrium calami P. Karst. SPECIES
-=======
+# Leptothyrium calami P. Karst. SPECIES
 
 #### Status
 ACCEPTED

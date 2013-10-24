@@ -1,5 +1,4 @@
-Daedalea thunbergii Fr. SPECIES
-=======
+# Daedalea thunbergii Fr. SPECIES
 
 #### Status
 ACCEPTED

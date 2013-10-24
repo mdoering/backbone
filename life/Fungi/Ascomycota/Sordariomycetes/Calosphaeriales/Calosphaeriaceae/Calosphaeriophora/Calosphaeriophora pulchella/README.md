@@ -1,5 +1,4 @@
-Calosphaeriophora pulchella Réblová, L. Mostert, W. Gams & Crous, 2004 SPECIES
-=======
+# Calosphaeriophora pulchella Réblová, L. Mostert, W. Gams & Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

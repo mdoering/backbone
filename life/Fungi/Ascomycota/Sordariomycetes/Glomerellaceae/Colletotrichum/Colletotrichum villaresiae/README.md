@@ -1,5 +1,4 @@
-Colletotrichum villaresiae Gutner SPECIES
-=======
+# Colletotrichum villaresiae Gutner SPECIES
 
 #### Status
 ACCEPTED

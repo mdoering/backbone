@@ -1,5 +1,4 @@
-Mystrosporiella denticulata R.P. Singh SPECIES
-=======
+# Mystrosporiella denticulata R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

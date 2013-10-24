@@ -1,5 +1,4 @@
-Lecanora arctica Lynge SPECIES
-=======
+# Lecanora arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

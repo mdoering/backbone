@@ -1,5 +1,4 @@
-Diplosporium caudatum Speg. SPECIES
-=======
+# Diplosporium caudatum Speg. SPECIES
 
 #### Status
 ACCEPTED

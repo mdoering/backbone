@@ -1,5 +1,4 @@
-Lachnum graminum Velen. SPECIES
-=======
+# Lachnum graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

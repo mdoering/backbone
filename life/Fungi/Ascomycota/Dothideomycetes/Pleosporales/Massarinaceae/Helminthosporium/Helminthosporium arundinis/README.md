@@ -1,5 +1,4 @@
-Helminthosporium arundinis Sawada SPECIES
-=======
+# Helminthosporium arundinis Sawada SPECIES
 
 #### Status
 ACCEPTED

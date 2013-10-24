@@ -1,5 +1,4 @@
-Pseudaegerita J.L. Crane & Schokn. GENUS
-=======
+# Pseudaegerita J.L. Crane & Schokn. GENUS
 
 #### Status
 ACCEPTED

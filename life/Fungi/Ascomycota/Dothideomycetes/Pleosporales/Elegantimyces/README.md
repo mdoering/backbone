@@ -1,5 +1,4 @@
-Elegantimyces Goh, K.M. Tsui & K.D. Hyde GENUS
-=======
+# Elegantimyces Goh, K.M. Tsui & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

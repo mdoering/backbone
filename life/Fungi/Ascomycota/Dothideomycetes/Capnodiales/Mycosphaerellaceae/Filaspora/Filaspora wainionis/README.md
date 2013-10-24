@@ -1,5 +1,4 @@
-Filaspora wainionis P. Karst. SPECIES
-=======
+# Filaspora wainionis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

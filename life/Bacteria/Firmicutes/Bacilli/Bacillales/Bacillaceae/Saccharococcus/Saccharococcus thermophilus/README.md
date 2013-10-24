@@ -1,5 +1,4 @@
-Saccharococcus thermophilus Nystrand, 1984 SPECIES
-=======
+# Saccharococcus thermophilus Nystrand, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytoplasma phoenicium SPECIES
-=======
+# Phytoplasma phoenicium SPECIES
 
 #### Status
 ACCEPTED

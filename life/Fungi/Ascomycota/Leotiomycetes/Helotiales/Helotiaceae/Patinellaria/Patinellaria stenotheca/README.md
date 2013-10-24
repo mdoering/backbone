@@ -1,5 +1,4 @@
-Patinellaria stenotheca P. Karst. SPECIES
-=======
+# Patinellaria stenotheca P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discocelis Vørs, 1988 GENUS
-=======
+# Discocelis Vørs, 1988 GENUS
 
 #### Status
 ACCEPTED

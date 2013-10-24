@@ -1,5 +1,4 @@
-Cercospora jacobiniae J.M. Mend. SPECIES
-=======
+# Cercospora jacobiniae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

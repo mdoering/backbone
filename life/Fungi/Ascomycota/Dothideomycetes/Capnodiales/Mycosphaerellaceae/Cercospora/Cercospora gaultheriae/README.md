@@ -1,5 +1,4 @@
-Cercospora gaultheriae Ellis & Everh. SPECIES
-=======
+# Cercospora gaultheriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

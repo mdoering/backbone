@@ -1,5 +1,4 @@
-Sporisorium andropteri (Zambett.) Vánky SPECIES
-=======
+# Sporisorium andropteri (Zambett.) Vánky SPECIES
 
 #### Status
 ACCEPTED

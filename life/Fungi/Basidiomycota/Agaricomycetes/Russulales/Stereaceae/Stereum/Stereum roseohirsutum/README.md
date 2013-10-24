@@ -1,5 +1,4 @@
-Stereum roseohirsutum Lloyd SPECIES
-=======
+# Stereum roseohirsutum Lloyd SPECIES
 
 #### Status
 ACCEPTED

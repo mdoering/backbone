@@ -1,5 +1,4 @@
-Cortinarius regis-romae Rob. Henry SPECIES
-=======
+# Cortinarius regis-romae Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

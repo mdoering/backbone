@@ -1,5 +1,4 @@
-Cryptochilium caudatum SPECIES
-=======
+# Cryptochilium caudatum SPECIES
 
 #### Status
 ACCEPTED

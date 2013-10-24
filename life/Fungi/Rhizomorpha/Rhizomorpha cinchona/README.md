@@ -1,5 +1,4 @@
-Rhizomorpha cinchona Roth SPECIES
-=======
+# Rhizomorpha cinchona Roth SPECIES
 
 #### Status
 ACCEPTED

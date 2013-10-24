@@ -1,5 +1,4 @@
-Lecanora transferenda Zahlbr. SPECIES
-=======
+# Lecanora transferenda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

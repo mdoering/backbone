@@ -1,5 +1,4 @@
-Penicillium retardatum Udagawa, Kamiya & Kaori Osada SPECIES
-=======
+# Penicillium retardatum Udagawa, Kamiya & Kaori Osada SPECIES
 
 #### Status
 ACCEPTED

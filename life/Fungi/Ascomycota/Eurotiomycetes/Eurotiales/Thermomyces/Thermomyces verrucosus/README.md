@@ -1,5 +1,4 @@
-Thermomyces verrucosus Pugh, Blakeman & Morgan-Jones, 1964 SPECIES
-=======
+# Thermomyces verrucosus Pugh, Blakeman & Morgan-Jones, 1964 SPECIES
 
 #### Status
 ACCEPTED

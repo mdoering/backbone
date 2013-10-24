@@ -1,5 +1,4 @@
-Arthonia schaereri A. Massal. SPECIES
-=======
+# Arthonia schaereri A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetobacter syzygii Lisdiyanti et al., 2002 SPECIES
-=======
+# Acetobacter syzygii Lisdiyanti et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

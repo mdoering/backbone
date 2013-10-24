@@ -1,17 +1,16 @@
-Pyrenopeziza lugubris var. lugubris VARIETY
-=======
+# Leptotrochila lugubris (De Not.) Schüepp, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 358 (1889)
+Phytopathology 2(36): 246 (1959)
 
 #### Original name
-Pyrenopeziza lugubris var. lugubris
+null
 
 ### Remarks
 null

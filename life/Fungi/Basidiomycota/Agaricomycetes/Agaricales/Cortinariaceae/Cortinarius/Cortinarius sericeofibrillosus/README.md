@@ -1,5 +1,4 @@
-Cortinarius sericeofibrillosus Bidaud & Boutev. SPECIES
-=======
+# Cortinarius sericeofibrillosus Bidaud & Boutev. SPECIES
 
 #### Status
 ACCEPTED

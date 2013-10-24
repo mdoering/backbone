@@ -1,5 +1,4 @@
-Svrcekomyces GENUS
-=======
+# Svrcekomyces GENUS
 
 #### Status
 ACCEPTED

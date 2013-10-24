@@ -1,14 +1,13 @@
-Cryptococcus ramirezgomezianus M. Takash., Sugita, Shinoda & Nakase, 2001 SPECIES
-=======
+# Asterotremella albida (C. Ramírez) Prillinger, Lopandic & Sugita, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Syst. Evol. Microbiol. 51(6): 2208 (2001)
+J. gen. appl. Microbiol. , Tokyo 53(3): 173 (2007)
 
 #### Original name
 Sporobolomyces albidus C. Ramírez, 1957

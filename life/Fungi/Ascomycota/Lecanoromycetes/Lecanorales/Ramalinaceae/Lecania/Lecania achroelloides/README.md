@@ -1,5 +1,4 @@
-Lecania achroelloides (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania achroelloides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

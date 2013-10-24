@@ -1,5 +1,4 @@
-Puccinia meyeri-alberti Magnus SPECIES
-=======
+# Puccinia meyeri-alberti Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhizidium confervae Wille, 1899 SPECIES
-=======
+# Chytriomyces confervae (Wille) A. Batko, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

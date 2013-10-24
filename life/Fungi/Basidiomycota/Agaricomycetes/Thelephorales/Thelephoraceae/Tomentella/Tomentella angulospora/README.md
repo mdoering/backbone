@@ -1,5 +1,4 @@
-Tomentella angulospora M.J. Larsen, 1975 SPECIES
-=======
+# Tomentella angulospora M.J. Larsen, 1975 SPECIES
 
 #### Status
 ACCEPTED

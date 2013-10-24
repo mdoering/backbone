@@ -1,5 +1,4 @@
-Distopyrenis submuriformis R. C. Harris SPECIES
-=======
+# Distopyrenis submuriformis R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

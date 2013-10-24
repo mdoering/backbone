@@ -1,5 +1,4 @@
-Uvigerina hispidocostata Cushman & Todd, 1945 SPECIES
-=======
+# Uvigerina hispidocostata Cushman & Todd, 1945 SPECIES
 
 #### Status
 ACCEPTED

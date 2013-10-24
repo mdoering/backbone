@@ -1,5 +1,4 @@
-Macrophoma paraphysata Speg. SPECIES
-=======
+# Macrophoma paraphysata Speg. SPECIES
 
 #### Status
 ACCEPTED

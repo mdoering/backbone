@@ -1,5 +1,4 @@
-Mariniflexile fucanivorans Barbeyron, L'haridon, Michel & Czjzek, 2008 SPECIES
-=======
+# Mariniflexile fucanivorans Barbeyron, L'haridon, Michel & Czjzek, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria bakeri Rehm SPECIES
-=======
+# Botryosphaeria bakeri Rehm SPECIES
 
 #### Status
 ACCEPTED

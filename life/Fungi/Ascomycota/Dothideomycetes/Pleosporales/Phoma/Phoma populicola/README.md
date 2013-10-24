@@ -1,5 +1,4 @@
-Phoma populicola P. Karst. SPECIES
-=======
+# Phoma populicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

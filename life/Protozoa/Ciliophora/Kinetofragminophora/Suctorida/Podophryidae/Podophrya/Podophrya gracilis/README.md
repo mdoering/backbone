@@ -1,5 +1,4 @@
-Podophrya gracilis SPECIES
-=======
+# Podophrya gracilis SPECIES
 
 #### Status
 ACCEPTED

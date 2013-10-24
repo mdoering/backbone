@@ -1,5 +1,4 @@
-Stereum semilugens Kalchbr. SPECIES
-=======
+# Stereum semilugens Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

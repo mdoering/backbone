@@ -1,5 +1,4 @@
-Spermoedia stevensii Seaver SPECIES
-=======
+# Spermoedia stevensii Seaver SPECIES
 
 #### Status
 ACCEPTED

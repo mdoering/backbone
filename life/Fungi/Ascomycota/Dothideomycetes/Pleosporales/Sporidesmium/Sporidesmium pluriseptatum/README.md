@@ -1,5 +1,4 @@
-Sporidesmium pluriseptatum (P. Karst. & Har.) Peck SPECIES
-=======
+# Sporidesmium pluriseptatum (P. Karst. & Har.) Peck SPECIES
 
 #### Status
 ACCEPTED

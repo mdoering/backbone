@@ -1,5 +1,4 @@
-Cyathus minutosporus Lloyd SPECIES
-=======
+# Cyathus minutosporus Lloyd SPECIES
 
 #### Status
 ACCEPTED

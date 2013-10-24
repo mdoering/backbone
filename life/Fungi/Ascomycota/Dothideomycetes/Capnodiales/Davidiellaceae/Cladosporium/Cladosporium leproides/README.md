@@ -1,5 +1,4 @@
-Cladosporium leproides (Léger & Nogueira) Nann. SPECIES
-=======
+# Cladosporium leproides (Léger & Nogueira) Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella submicrospora Heykoop & G. Moreno SPECIES
-=======
+# Psathyrella submicrospora Heykoop & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

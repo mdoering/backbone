@@ -1,5 +1,4 @@
-Clitocybe mayyanadensis Sathe & J.T. Daniel SPECIES
-=======
+# Clitocybe mayyanadensis Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

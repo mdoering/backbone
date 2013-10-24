@@ -1,5 +1,4 @@
-Opisthonecta bivacuolata Foissner, 1978 SPECIES
-=======
+# Opisthonecta bivacuolata Foissner, 1978 SPECIES
 
 #### Status
 ACCEPTED

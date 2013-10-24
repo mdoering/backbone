@@ -1,5 +1,4 @@
-Entoloma necessarium (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma necessarium (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

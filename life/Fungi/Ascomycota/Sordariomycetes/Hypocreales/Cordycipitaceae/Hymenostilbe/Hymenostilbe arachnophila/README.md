@@ -1,5 +1,4 @@
-Hymenostilbe arachnophila (Ditmar) SPECIES
-=======
+# Hymenostilbe arachnophila (Ditmar) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula fusoluminata Aptroot SPECIES
-=======
+# Pyrenula fusoluminata Aptroot SPECIES
 
 #### Status
 ACCEPTED

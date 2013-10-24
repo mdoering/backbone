@@ -1,5 +1,4 @@
-Cornularia ulmicola Ellis & Everh. SPECIES
-=======
+# Cornularia ulmicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

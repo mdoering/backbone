@@ -1,5 +1,4 @@
-Hyalinia scolecospora G.W. Beaton SPECIES
-=======
+# Hyalinia scolecospora G.W. Beaton SPECIES
 
 #### Status
 ACCEPTED

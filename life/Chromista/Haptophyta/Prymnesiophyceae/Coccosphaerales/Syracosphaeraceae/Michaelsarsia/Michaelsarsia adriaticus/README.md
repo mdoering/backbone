@@ -1,5 +1,4 @@
-Michaelsarsia adriaticus (Schiller, 1914) Manton, Bremer & Oates, 1984 SPECIES
-=======
+# Michaelsarsia adriaticus (Schiller, 1914) Manton, Bremer & Oates, 1984 SPECIES
 
 #### Status
 ACCEPTED

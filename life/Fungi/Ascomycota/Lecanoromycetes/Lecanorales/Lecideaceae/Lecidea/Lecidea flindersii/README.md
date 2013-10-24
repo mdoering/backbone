@@ -1,5 +1,4 @@
-Lecidea flindersii Cromb. SPECIES
-=======
+# Lecidea flindersii Cromb. SPECIES
 
 #### Status
 ACCEPTED

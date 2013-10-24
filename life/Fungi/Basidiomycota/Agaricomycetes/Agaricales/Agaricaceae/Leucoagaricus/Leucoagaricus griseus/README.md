@@ -1,5 +1,4 @@
-Leucoagaricus griseus Heinem. SPECIES
-=======
+# Leucoagaricus griseus Heinem. SPECIES
 
 #### Status
 ACCEPTED

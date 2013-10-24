@@ -1,5 +1,4 @@
-Nodulisporium longiproliferatum Matsush. SPECIES
-=======
+# Nodulisporium longiproliferatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

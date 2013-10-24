@@ -1,5 +1,4 @@
-Cercoseptoria cerastii H.C. Greene SPECIES
-=======
+# Cercoseptoria cerastii H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

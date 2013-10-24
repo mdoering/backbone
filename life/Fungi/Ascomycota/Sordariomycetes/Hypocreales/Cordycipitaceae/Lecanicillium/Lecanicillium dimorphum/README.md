@@ -1,14 +1,13 @@
-Aphanocladium dimorphum J.D. Chen, 1985 SPECIES
-=======
+# Lecanicillium dimorphum (J.D. Chen) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Chen, Liu, Chen, Cai & Zhang, Acta Mycol. Sin. 4(4): 230 (1985)
+Nova Hedwigia 73(1-2): 24 (2001)
 
 #### Original name
 Aphanocladium dimorphum J.D. Chen, 1985

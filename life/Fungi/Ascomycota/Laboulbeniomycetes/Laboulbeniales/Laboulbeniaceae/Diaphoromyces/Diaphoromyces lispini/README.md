@@ -1,5 +1,4 @@
-Diaphoromyces lispini (Thaxt.) Thaxt. SPECIES
-=======
+# Diaphoromyces lispini (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

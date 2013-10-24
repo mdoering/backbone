@@ -1,5 +1,4 @@
-Helminthosporium asterinum Cooke, 1878 SPECIES
-=======
+# Helminthosporium asterinum Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

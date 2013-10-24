@@ -1,14 +1,13 @@
-Odontia laxa L.W. Mill., 1934 SPECIES
-=======
+# Odonticium laxum (L.W. Mill.) Ryvarden, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 26(1): 18 (1934)
+Norw. Jl Bot. 25: 296 (1978)
 
 #### Original name
 Odontia laxa L.W. Mill., 1934

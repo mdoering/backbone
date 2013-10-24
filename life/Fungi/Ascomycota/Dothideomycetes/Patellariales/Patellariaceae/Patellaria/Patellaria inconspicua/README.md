@@ -1,5 +1,4 @@
-Patellaria inconspicua (Spreng.) Trevis. SPECIES
-=======
+# Patellaria inconspicua (Spreng.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

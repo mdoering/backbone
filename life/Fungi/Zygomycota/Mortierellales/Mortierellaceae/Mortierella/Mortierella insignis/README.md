@@ -1,5 +1,4 @@
-Mortierella insignis Linnem. SPECIES
-=======
+# Mortierella insignis Linnem. SPECIES
 
 #### Status
 ACCEPTED

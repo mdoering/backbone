@@ -1,5 +1,4 @@
-Thelephora helvelloides Schwein. SPECIES
-=======
+# Thelephora helvelloides Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus calceolatus (Pers.) Fr. SPECIES
-=======
+# Agaricus calceolatus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

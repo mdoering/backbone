@@ -1,5 +1,4 @@
-Pyrenula schutschensis Zahlbr. SPECIES
-=======
+# Pyrenula schutschensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

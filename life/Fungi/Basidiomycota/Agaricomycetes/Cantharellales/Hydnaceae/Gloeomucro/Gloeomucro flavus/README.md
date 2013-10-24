@@ -1,14 +1,13 @@
-Gloeomucro flava (G.W. Martin) R.H. Petersen SPECIES
-=======
+# Gloeomucro flavus (G.W. Martin) R.H. Petersen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 72(2): 303 (1980)
 
 #### Original name
 Myxomycidium flavum G.W. Martin, 1938

@@ -1,14 +1,13 @@
-Xanthoparmelia flavobrunnea (Müll. Arg.) Hale SPECIES
-=======
+# Psiloparmelia flavobrunnea (Müll. Arg.) Elix & T.H. Nash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytologia 28(5): 487 (1974)
+Bryologist 95(4): 386 (1992)
 
 #### Original name
 Parmelia flavobrunnea Müll. Arg.

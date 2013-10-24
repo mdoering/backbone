@@ -1,5 +1,4 @@
-Cristula integra Chenant., 1920 SPECIES
-=======
+# Cristula integra Chenant., 1920 SPECIES
 
 #### Status
 ACCEPTED

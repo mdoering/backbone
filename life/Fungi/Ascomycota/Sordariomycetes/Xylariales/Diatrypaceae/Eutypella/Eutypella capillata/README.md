@@ -1,5 +1,4 @@
-Eutypella capillata Ellis & Everh. SPECIES
-=======
+# Eutypella capillata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

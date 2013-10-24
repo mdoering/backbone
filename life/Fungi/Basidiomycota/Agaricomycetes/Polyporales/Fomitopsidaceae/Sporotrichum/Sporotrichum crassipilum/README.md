@@ -1,5 +1,4 @@
-Sporotrichum crassipilum P. Karst. SPECIES
-=======
+# Sporotrichum crassipilum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

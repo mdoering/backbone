@@ -1,5 +1,4 @@
-Cothurnia pedunculata Dons, 1918 SPECIES
-=======
+# Cothurnia pedunculata Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

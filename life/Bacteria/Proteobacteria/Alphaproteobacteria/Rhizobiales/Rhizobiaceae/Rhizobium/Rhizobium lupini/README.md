@@ -1,5 +1,4 @@
-Rhizobium lupini (Schroeter, 1886) Eckhardt et al., 1931 (Approved Lists, 1980) SPECIES
-=======
+# Rhizobium lupini (Schroeter, 1886) Eckhardt et al., 1931 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

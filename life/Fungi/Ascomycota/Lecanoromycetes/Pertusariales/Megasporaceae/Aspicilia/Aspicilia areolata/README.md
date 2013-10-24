@@ -1,5 +1,4 @@
-Aspicilia areolata (H. Magn.) SPECIES
-=======
+# Aspicilia areolata (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

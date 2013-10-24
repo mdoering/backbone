@@ -1,5 +1,4 @@
-Pyxine albida H. Magn. SPECIES
-=======
+# Pyxine albida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

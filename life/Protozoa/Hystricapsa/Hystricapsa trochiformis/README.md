@@ -1,5 +1,4 @@
-Hystricapsa trochiformis Preuss SPECIES
-=======
+# Hystricapsa trochiformis Preuss SPECIES
 
 #### Status
 ACCEPTED

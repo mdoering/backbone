@@ -1,5 +1,4 @@
-Tricholoma naranjanum Dennis SPECIES
-=======
+# Tricholoma naranjanum Dennis SPECIES
 
 #### Status
 ACCEPTED

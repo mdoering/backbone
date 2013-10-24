@@ -1,5 +1,4 @@
-Capnodium fibrosum Berk., 1855 SPECIES
-=======
+# Capnodium fibrosum Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

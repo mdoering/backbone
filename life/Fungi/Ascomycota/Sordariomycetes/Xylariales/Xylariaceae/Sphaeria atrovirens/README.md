@@ -1,5 +1,4 @@
-Sphaeria atrovirens var. atrovirens VARIETY
-=======
+# Sphaeria atrovirens ß buxi Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Consp. fung. (Leipzig) 48 (1805)
 
 #### Original name
-Sphaeria atrovirens var. atrovirens
+Sphaeria atrovirens ß buxi Alb. & Schwein.
 
 ### Remarks
 null

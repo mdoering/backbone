@@ -1,5 +1,4 @@
-Phomopsis brunaudiana (Sacc.) B. Sutton SPECIES
-=======
+# Phomopsis brunaudiana (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

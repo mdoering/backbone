@@ -1,5 +1,4 @@
-Dematium conicum Schumach. SPECIES
-=======
+# Dematium conicum Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thamnolia coralloides (Tuck.) Gyeln. SPECIES
-=======
+# Thamnolia coralloides (Tuck.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

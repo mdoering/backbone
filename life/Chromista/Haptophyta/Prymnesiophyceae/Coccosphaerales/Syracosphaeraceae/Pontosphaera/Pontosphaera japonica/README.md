@@ -1,5 +1,4 @@
-Pontosphaera japonica (T. Takayama) S. Nishida SPECIES
-=======
+# Pontosphaera japonica (T. Takayama) S. Nishida SPECIES
 
 #### Status
 ACCEPTED

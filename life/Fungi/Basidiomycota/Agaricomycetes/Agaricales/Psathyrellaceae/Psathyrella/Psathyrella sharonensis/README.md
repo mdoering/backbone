@@ -1,5 +1,4 @@
-Psathyrella sharonensis A.H. Sm. SPECIES
-=======
+# Psathyrella sharonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites lineatus Elsik SPECIES
-=======
+# Hypoxylonites lineatus Elsik SPECIES
 
 #### Status
 ACCEPTED

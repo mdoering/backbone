@@ -1,5 +1,4 @@
-Leucoagaricus brunneosquamulosus P. Mohr & Dähncke SPECIES
-=======
+# Leucoagaricus brunneosquamulosus P. Mohr & Dähncke SPECIES
 
 #### Status
 ACCEPTED

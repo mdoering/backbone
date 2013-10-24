@@ -1,5 +1,4 @@
-Platystomum curtum (Fr.) Math. SPECIES
-=======
+# Platystomum curtum (Fr.) Math. SPECIES
 
 #### Status
 ACCEPTED

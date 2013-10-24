@@ -1,5 +1,4 @@
-Deinococcales ORDER
-=======
+# Deinococcales ORDER
 
 #### Status
 ACCEPTED

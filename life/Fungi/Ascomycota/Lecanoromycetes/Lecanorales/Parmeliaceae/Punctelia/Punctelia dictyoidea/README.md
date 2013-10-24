@@ -1,5 +1,4 @@
-Punctelia dictyoidea (Hue) Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Punctelia dictyoidea (Hue) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

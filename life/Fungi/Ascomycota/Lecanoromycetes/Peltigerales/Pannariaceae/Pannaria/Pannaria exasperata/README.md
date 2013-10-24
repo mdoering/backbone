@@ -1,5 +1,4 @@
-Pannaria exasperata H. Magn. SPECIES
-=======
+# Pannaria exasperata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella robiniae Prill. & Delacr. SPECIES
-=======
+# Dothiorella robiniae Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

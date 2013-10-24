@@ -1,5 +1,4 @@
-Tuzetia infirma (R. Kudo) Maurand, Fize, Fenwick & Michel SPECIES
-=======
+# Tuzetia infirma (R. Kudo) Maurand, Fize, Fenwick & Michel SPECIES
 
 #### Status
 ACCEPTED

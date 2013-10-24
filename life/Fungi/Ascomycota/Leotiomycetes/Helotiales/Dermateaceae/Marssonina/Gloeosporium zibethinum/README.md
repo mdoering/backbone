@@ -1,5 +1,4 @@
-Gloeosporium zibethinum Sacc. SPECIES
-=======
+# Gloeosporium zibethinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

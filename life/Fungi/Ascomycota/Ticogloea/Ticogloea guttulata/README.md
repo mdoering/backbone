@@ -1,5 +1,4 @@
-Ticogloea guttulata G. Weber, Spaaij & W. Gams, 1994 SPECIES
-=======
+# Ticogloea guttulata G. Weber, Spaaij & W. Gams, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudobutyrivibrio van Gylswyk et al., 1996 GENUS
-=======
+# Pseudobutyrivibrio van Gylswyk et al., 1996 GENUS
 
 #### Status
 ACCEPTED

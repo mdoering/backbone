@@ -1,5 +1,4 @@
-Thalloidima subluridum (Nyl.) Mudd SPECIES
-=======
+# Thalloidima subluridum (Nyl.) Mudd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula albidula Peck SPECIES
-=======
+# Russula albidula Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplacomyces vitellinulae Werner SPECIES
-=======
+# Caloplacomyces vitellinulae Werner SPECIES
 
 #### Status
 ACCEPTED

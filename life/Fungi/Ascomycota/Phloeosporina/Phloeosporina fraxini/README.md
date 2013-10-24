@@ -1,5 +1,4 @@
-Phloeosporina fraxini (Harkn.) Arx SPECIES
-=======
+# Phloeosporina fraxini (Harkn.) Arx SPECIES
 
 #### Status
 ACCEPTED

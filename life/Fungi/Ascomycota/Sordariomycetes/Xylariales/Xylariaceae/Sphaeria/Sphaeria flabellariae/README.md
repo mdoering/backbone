@@ -1,5 +1,4 @@
-Sphaeria flabellariae Ettingsh. & Garden {?} SPECIES
-=======
+# Sphaeria flabellariae Ettingsh. & Garden {?} SPECIES
 
 #### Status
 ACCEPTED

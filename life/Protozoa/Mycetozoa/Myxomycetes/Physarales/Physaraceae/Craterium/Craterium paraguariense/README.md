@@ -1,5 +1,4 @@
-Craterium paraguariense (Speg.) Sacc. & Trotter SPECIES
-=======
+# Craterium paraguariense (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

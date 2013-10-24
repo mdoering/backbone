@@ -1,5 +1,4 @@
-Leptothyrium scorodoniae (Lib.) Sacc. SPECIES
-=======
+# Leptothyrium scorodoniae (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

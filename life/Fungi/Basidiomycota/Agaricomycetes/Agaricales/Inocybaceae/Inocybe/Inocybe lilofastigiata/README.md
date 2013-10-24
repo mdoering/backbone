@@ -1,5 +1,4 @@
-Inocybe lilofastigiata (Stangl & J. Veselský) Bon SPECIES
-=======
+# Inocybe lilofastigiata (Stangl & J. Veselský) Bon SPECIES
 
 #### Status
 ACCEPTED

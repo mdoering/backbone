@@ -1,5 +1,4 @@
-Leptosphaeria stipae-minor Lacoste SPECIES
-=======
+# Leptosphaeria stipae-minor Lacoste SPECIES
 
 #### Status
 ACCEPTED

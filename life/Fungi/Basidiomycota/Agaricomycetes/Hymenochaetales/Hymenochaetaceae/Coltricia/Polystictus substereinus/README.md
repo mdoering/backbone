@@ -1,5 +1,4 @@
-Polystictus substereinus (Murrill) Wakef. SPECIES
-=======
+# Polystictus substereinus (Murrill) Wakef. SPECIES
 
 #### Status
 ACCEPTED

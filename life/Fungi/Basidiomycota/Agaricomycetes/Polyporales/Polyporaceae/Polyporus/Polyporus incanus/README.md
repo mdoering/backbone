@@ -1,5 +1,4 @@
-Polyporus incanus (Lév.) Lév. SPECIES
-=======
+# Polyporus incanus (Lév.) Lév. SPECIES
 
 #### Status
 ACCEPTED

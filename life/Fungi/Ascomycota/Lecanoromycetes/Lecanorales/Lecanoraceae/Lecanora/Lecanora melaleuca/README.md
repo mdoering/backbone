@@ -1,5 +1,4 @@
-Lecanora melaleuca (Müll. Arg.) C. W. Dodge SPECIES
-=======
+# Lecanora melaleuca (Müll. Arg.) C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria umbriniceps Murrill SPECIES
-=======
+# Naucoria umbriniceps Murrill SPECIES
 
 #### Status
 ACCEPTED

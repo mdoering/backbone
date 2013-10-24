@@ -1,5 +1,4 @@
-Phialophora hyalina W. Gams, 1976 SPECIES
-=======
+# Phialophora hyalina W. Gams, 1976 SPECIES
 
 #### Status
 ACCEPTED

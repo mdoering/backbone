@@ -1,5 +1,4 @@
-Puccinia crepidis-grandiflorae Hasler SPECIES
-=======
+# Puccinia crepidis-grandiflorae Hasler SPECIES
 
 #### Status
 ACCEPTED

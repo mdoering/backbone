@@ -1,5 +1,4 @@
-Guignardia clusiae F. Stevens SPECIES
-=======
+# Guignardia clusiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

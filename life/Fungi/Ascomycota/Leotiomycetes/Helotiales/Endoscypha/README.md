@@ -1,5 +1,4 @@
-Endoscypha Syd. GENUS
-=======
+# Endoscypha Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oppilatala vulgaris Loeblich & Wicander, 1976 SPECIES
-=======
+# Oppilatala vulgaris Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

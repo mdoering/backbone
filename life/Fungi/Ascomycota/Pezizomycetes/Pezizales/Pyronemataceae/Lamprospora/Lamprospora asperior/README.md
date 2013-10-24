@@ -1,5 +1,4 @@
-Lamprospora asperior (Nyl.) SPECIES
-=======
+# Lamprospora asperior (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

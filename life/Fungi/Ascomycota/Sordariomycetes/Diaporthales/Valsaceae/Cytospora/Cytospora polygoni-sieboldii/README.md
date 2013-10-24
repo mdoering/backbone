@@ -1,17 +1,16 @@
-Cytospora polygoni-sieboldi Henn. SPECIES
-=======
+# Cytospora polygoni-sieboldii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Diederich, Krypt. -Fl. Brandenburg (Leipzig) 9: 353 (1912)
 
 #### Original name
-Cytospora polygoni-sieboldi Henn.
+Cytospora polygoni-sieboldii Henn.
 
 ### Remarks
 null

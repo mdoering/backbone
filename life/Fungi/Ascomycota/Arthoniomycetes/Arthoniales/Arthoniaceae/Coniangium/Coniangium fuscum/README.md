@@ -1,5 +1,4 @@
-Coniangium fuscum (A. Massal.) A. Massal. SPECIES
-=======
+# Coniangium fuscum (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

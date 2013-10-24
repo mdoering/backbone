@@ -1,17 +1,16 @@
-Lactaria novoguineensis Henn. SPECIES
-=======
+# Lactarius novoguineensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Engler's Bot. Jahrb. 25: 503 (1898)
 
 #### Original name
-Lactaria novoguineensis Henn.
+Lactarius novoguineensis Henn.
 
 ### Remarks
 null

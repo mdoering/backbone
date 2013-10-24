@@ -1,14 +1,13 @@
-Nectria arenuloides Samuels, 1976 SPECIES
-=======
+# Hydropisphaera arenuloides (Samuels) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 14(3): 254 (1976)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 30 (1999)
 
 #### Original name
 Nectria arenuloides Samuels, 1976

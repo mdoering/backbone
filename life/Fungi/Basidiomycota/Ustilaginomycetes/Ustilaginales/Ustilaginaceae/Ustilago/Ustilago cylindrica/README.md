@@ -1,5 +1,4 @@
-Ustilago cylindrica Peck SPECIES
-=======
+# Ustilago cylindrica Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acremonium obclavatum W. Gams, 1984 SPECIES
-=======
+# Simplicillium obclavatum (W. Gams) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, de Hoog, Samson & Evans, Persoonia 12(2): 142 (1984)
+Nova Hedwigia 73(1-2): 41 (2001)
 
 #### Original name
 Acremonium obclavatum W. Gams, 1984

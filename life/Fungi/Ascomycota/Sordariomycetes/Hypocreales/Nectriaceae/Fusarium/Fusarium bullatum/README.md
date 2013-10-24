@@ -1,5 +1,4 @@
-Fusarium bullatum Sherb. SPECIES
-=======
+# Fusarium bullatum Sherb. SPECIES
 
 #### Status
 ACCEPTED

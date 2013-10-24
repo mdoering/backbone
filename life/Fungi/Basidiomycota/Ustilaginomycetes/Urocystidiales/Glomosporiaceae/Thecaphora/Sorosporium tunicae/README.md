@@ -1,5 +1,4 @@
-Sorosporium tunicae (Auersw.) Liro SPECIES
-=======
+# Sorosporium tunicae (Auersw.) Liro SPECIES
 
 #### Status
 ACCEPTED

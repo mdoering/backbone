@@ -1,5 +1,4 @@
-Galera globispora Velen. SPECIES
-=======
+# Galera globispora Velen. SPECIES
 
 #### Status
 ACCEPTED

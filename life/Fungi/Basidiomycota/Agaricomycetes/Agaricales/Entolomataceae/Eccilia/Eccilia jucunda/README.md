@@ -1,5 +1,4 @@
-Eccilia jucunda Herp. SPECIES
-=======
+# Eccilia jucunda Herp. SPECIES
 
 #### Status
 ACCEPTED

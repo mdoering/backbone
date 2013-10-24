@@ -1,5 +1,4 @@
-Lepidella cokeri E.-J. Gilbert & Kühner SPECIES
-=======
+# Lepidella cokeri E.-J. Gilbert & Kühner SPECIES
 
 #### Status
 ACCEPTED

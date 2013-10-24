@@ -1,5 +1,4 @@
-Paxillus nigricans Velen. SPECIES
-=======
+# Paxillus nigricans Velen. SPECIES
 
 #### Status
 ACCEPTED

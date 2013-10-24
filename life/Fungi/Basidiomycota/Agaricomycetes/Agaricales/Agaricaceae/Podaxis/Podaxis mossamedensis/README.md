@@ -1,5 +1,4 @@
-Podaxis mossamedensis var. mossamedensis VARIETY
-=======
+# Podaxis mossamedensis Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxis mossamedensis var. mossamedensis
+Podaxis mossamedensis Welw. & Curr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyphellophora hylomeconis Crous, de Hoog & H.D. Shin SPECIES
-=======
+# Cyphellophora hylomeconis Crous, de Hoog & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella pfaffiae Deighton SPECIES
-=======
+# Cercosporella pfaffiae Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius solivagus Reumaux SPECIES
-=======
+# Cortinarius solivagus Reumaux SPECIES
 
 #### Status
 ACCEPTED

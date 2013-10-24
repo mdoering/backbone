@@ -1,5 +1,4 @@
-Thelephora glebulosa Pers. SPECIES
-=======
+# Thelephora glebulosa Pers. SPECIES
 
 #### Status
 ACCEPTED

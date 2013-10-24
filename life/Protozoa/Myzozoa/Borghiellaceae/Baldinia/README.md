@@ -1,5 +1,4 @@
-Baldinia Gert Hansen & Daugbjerg, 2007 GENUS
-=======
+# Baldinia Gert Hansen & Daugbjerg, 2007 GENUS
 
 #### Status
 ACCEPTED

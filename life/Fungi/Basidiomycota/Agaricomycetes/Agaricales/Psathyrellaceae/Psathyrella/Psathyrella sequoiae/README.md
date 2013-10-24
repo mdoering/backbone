@@ -1,5 +1,4 @@
-Psathyrella sequoiae Thiers & A.H. Sm. SPECIES
-=======
+# Psathyrella sequoiae Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

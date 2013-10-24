@@ -1,5 +1,4 @@
-Inonotus carnosus Murrill SPECIES
-=======
+# Inonotus carnosus Murrill SPECIES
 
 #### Status
 ACCEPTED

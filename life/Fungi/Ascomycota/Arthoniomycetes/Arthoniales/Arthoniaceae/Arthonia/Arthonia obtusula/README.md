@@ -1,5 +1,4 @@
-Arthonia obtusula Nyl. SPECIES
-=======
+# Arthonia obtusula Nyl. SPECIES
 
 #### Status
 ACCEPTED

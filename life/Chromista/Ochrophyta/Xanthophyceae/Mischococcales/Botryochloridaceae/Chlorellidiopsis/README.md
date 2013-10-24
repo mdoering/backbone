@@ -1,5 +1,4 @@
-Chlorellidiopsis Pascher, 1938 GENUS
-=======
+# Chlorellidiopsis Pascher, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithopilium reticulatum Popofsky, 1913 SPECIES
-=======
+# Lithopilium reticulatum Popofsky, 1913 SPECIES
 
 #### Status
 ACCEPTED

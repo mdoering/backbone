@@ -1,5 +1,4 @@
-Pityomma Haeckel, 1881 GENUS
-=======
+# Pityomma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

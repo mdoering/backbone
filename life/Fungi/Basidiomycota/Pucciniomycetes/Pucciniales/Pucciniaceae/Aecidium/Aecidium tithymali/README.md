@@ -1,5 +1,4 @@
-Aecidium tithymali Arthur SPECIES
-=======
+# Aecidium tithymali Arthur SPECIES
 
 #### Status
 ACCEPTED

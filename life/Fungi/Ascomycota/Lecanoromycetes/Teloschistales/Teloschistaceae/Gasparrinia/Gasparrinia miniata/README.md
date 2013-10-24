@@ -1,5 +1,4 @@
-Gasparrinia miniata f. obliterata (Pers.) Szatala FORM
-=======
+# Gasparrinia miniata (Hoffm.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Sphaeria miniata Hoffm.
 
 ### Remarks
 null

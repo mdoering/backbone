@@ -1,5 +1,4 @@
-Lecanora caricae Ach. SPECIES
-=======
+# Lecanora caricae Ach. SPECIES
 
 #### Status
 ACCEPTED

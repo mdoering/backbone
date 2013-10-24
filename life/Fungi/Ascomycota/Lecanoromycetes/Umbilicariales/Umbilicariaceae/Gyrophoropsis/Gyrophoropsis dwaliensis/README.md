@@ -1,5 +1,4 @@
-Gyrophoropsis dwaliensis Räsänen SPECIES
-=======
+# Gyrophoropsis dwaliensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

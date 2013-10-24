@@ -1,5 +1,4 @@
-Navicella parvula (Berl.) Kuntze SPECIES
-=======
+# Navicella parvula (Berl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

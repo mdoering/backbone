@@ -1,5 +1,4 @@
-Courtoisia dispersa (Pers.) March. SPECIES
-=======
+# Courtoisia dispersa (Pers.) March. SPECIES
 
 #### Status
 ACCEPTED

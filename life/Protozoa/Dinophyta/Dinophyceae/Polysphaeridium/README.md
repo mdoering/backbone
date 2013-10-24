@@ -1,5 +1,4 @@
-Polysphaeridium R.J.Davey & G.L.Williams, 1966 GENUS
-=======
+# Polysphaeridium R.J.Davey & G.L.Williams, 1966 GENUS
 
 #### Status
 ACCEPTED

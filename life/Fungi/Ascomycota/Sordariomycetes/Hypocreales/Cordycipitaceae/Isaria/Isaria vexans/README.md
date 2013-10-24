@@ -1,5 +1,4 @@
-Isaria vexans R.H. Pettit SPECIES
-=======
+# Isaria vexans R.H. Pettit SPECIES
 
 #### Status
 ACCEPTED

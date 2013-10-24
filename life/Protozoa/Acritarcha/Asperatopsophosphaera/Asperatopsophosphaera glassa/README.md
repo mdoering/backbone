@@ -1,5 +1,4 @@
-Asperatopsophosphaera glassa Chen Jinbiao et al., 1980 SPECIES
-=======
+# Asperatopsophosphaera glassa Chen Jinbiao et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

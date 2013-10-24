@@ -1,5 +1,4 @@
-Gonyostomum latum Iwanoff SPECIES
-=======
+# Gonyostomum latum Iwanoff SPECIES
 
 #### Status
 ACCEPTED

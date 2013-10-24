@@ -1,5 +1,4 @@
-Verrucaria rubella Chaub. SPECIES
-=======
+# Verrucaria rubella Chaub. SPECIES
 
 #### Status
 ACCEPTED

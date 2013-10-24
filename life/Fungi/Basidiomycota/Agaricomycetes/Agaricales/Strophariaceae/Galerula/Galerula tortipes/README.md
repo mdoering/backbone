@@ -1,5 +1,4 @@
-Galerula tortipes (Mont.) Murrill SPECIES
-=======
+# Galerula tortipes (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

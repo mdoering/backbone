@@ -1,5 +1,4 @@
-Platystomum gregarium (Fuckel) Trevis. SPECIES
-=======
+# Platystomum gregarium (Fuckel) Trevis. SPECIES
 
 #### Status
 ACCEPTED

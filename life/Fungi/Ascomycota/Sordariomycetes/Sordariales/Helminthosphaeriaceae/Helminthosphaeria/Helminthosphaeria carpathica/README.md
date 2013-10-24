@@ -1,5 +1,4 @@
-Helminthosphaeria carpathica Réblová SPECIES
-=======
+# Helminthosphaeria carpathica Réblová SPECIES
 
 #### Status
 ACCEPTED

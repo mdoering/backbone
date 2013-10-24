@@ -1,5 +1,4 @@
-Cyphelium mediterraneum SPECIES
-=======
+# Cyphelium mediterraneum SPECIES
 
 #### Status
 ACCEPTED

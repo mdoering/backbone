@@ -1,5 +1,4 @@
-Annellophora phoenicis M.B. Ellis SPECIES
-=======
+# Annellophora phoenicis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

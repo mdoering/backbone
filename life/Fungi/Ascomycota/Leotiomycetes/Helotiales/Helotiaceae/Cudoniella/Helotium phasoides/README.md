@@ -1,5 +1,4 @@
-Helotium phasoides Fr. SPECIES
-=======
+# Helotium phasoides Fr. SPECIES
 
 #### Status
 ACCEPTED

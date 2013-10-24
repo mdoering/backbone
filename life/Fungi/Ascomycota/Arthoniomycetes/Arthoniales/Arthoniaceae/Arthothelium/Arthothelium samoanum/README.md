@@ -1,5 +1,4 @@
-Arthothelium samoanum Zahlbr. SPECIES
-=======
+# Arthothelium samoanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

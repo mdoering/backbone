@@ -1,5 +1,4 @@
-Dothiomyces couepiae Bat. & J.L. Bezerra SPECIES
-=======
+# Dothiomyces couepiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

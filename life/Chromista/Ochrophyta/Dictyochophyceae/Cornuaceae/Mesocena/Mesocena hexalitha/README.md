@@ -1,5 +1,4 @@
-Mesocena hexalitha f. heptalitha S. Locker & E. Martini FORM
-=======
+# Mesocena hexalitha D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Godronia belonospora (P. Karst.) Sacc. SPECIES
-=======
+# Godronia belonospora (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

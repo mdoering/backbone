@@ -1,5 +1,4 @@
-Diaporthe tami Speg. SPECIES
-=======
+# Diaporthe tami Speg. SPECIES
 
 #### Status
 ACCEPTED

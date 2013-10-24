@@ -1,5 +1,4 @@
-Staurolithites angustus SPECIES
-=======
+# Staurolithites angustus SPECIES
 
 #### Status
 ACCEPTED

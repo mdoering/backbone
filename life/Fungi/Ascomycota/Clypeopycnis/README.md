@@ -1,5 +1,4 @@
-Clypeopycnis Petr. GENUS
-=======
+# Clypeopycnis Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella carpatica Petr. SPECIES
-=======
+# Asteromella carpatica Petr. SPECIES
 
 #### Status
 ACCEPTED

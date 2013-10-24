@@ -1,5 +1,4 @@
-Lecidea lygaeoides (Anzi) Jatta SPECIES
-=======
+# Lecidea lygaeoides (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xiphosphaera tessaractis Dreyer, 1913 SPECIES
-=======
+# Xiphosphaera tessaractis Dreyer, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoblepharella elongata Springer, 1945 SPECIES
-=======
+# Monoblepharella elongata Springer, 1945 SPECIES
 
 #### Status
 ACCEPTED

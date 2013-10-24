@@ -1,5 +1,4 @@
-Thorosphaera Ostenfeld, 1910 GENUS
-=======
+# Thorosphaera Ostenfeld, 1910 GENUS
 
 #### Status
 ACCEPTED

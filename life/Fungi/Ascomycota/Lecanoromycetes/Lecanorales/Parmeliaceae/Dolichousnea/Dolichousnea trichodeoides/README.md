@@ -1,5 +1,4 @@
-Dolichousnea trichodeoides (Vain.) Articus SPECIES
-=======
+# Dolichousnea trichodeoides (Vain.) Articus SPECIES
 
 #### Status
 ACCEPTED

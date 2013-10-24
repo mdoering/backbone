@@ -1,5 +1,4 @@
-Septoria macrocatalpae Paclt SPECIES
-=======
+# Septoria macrocatalpae Paclt SPECIES
 
 #### Status
 ACCEPTED

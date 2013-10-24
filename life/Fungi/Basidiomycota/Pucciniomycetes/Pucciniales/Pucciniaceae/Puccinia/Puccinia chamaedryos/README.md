@@ -1,5 +1,4 @@
-Puccinia chamaedryos Ces. SPECIES
-=======
+# Puccinia chamaedryos Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia reclinis (Fr.) Quél. SPECIES
-=======
+# Omphalia reclinis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia luteola (Roum.) McPartl. SPECIES
-=======
+# Orbilia luteola (Roum.) McPartl. SPECIES
 
 #### Status
 ACCEPTED

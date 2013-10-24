@@ -1,5 +1,4 @@
-Sebacina monticola Burt SPECIES
-=======
+# Sebacina monticola Burt SPECIES
 
 #### Status
 ACCEPTED

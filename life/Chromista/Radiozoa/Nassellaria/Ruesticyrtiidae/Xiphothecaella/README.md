@@ -1,5 +1,4 @@
-Xiphothecaella GENUS
-=======
+# Xiphothecaella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium ankyleton (Fensome, 1979) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium ankyleton (Fensome, 1979) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

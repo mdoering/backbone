@@ -1,5 +1,4 @@
-Galerina hygrophila Arnolds SPECIES
-=======
+# Galerina hygrophila Arnolds SPECIES
 
 #### Status
 ACCEPTED

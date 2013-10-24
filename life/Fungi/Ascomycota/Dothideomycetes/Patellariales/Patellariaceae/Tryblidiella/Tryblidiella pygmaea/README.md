@@ -1,5 +1,4 @@
-Tryblidiella pygmaea Ellis & Everh. SPECIES
-=======
+# Tryblidiella pygmaea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

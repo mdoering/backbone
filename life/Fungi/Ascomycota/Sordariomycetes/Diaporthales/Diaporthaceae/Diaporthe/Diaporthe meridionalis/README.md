@@ -1,5 +1,4 @@
-Diaporthe meridionalis Sacc. SPECIES
-=======
+# Diaporthe meridionalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

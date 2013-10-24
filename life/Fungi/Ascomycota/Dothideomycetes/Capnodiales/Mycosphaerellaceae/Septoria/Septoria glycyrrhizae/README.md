@@ -1,5 +1,4 @@
-Septoria glycyrrhizae Ellis & Kellerm. SPECIES
-=======
+# Septoria glycyrrhizae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

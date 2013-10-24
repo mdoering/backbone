@@ -1,5 +1,4 @@
-Lecidea irregularis Fée SPECIES
-=======
+# Lecidea irregularis Fée SPECIES
 
 #### Status
 ACCEPTED

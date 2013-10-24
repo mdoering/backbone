@@ -1,17 +1,16 @@
-Dipodascus aggregatus var. spitsbergensis Kobayasi VARIETY
-=======
+# Dipodascus aggregatus Francke-Grosm., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 11(1): 40 (1968)
+Meddn St. SkogsförsAnst. 41(6): 30 (1953)
 
 #### Original name
-Dipodascus aggregatus var. spitsbergensis Kobayasi
+Dipodascus aggregatus Francke-Grosm., 1953
 
 ### Remarks
 null

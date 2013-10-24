@@ -1,5 +1,4 @@
-Triloculinopsis Popescu, 1975 GENUS
-=======
+# Triloculinopsis Popescu, 1975 GENUS
 
 #### Status
 ACCEPTED

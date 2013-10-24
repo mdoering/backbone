@@ -1,14 +1,13 @@
-Microporellus terrestris (Gibertoni & Ryvarden) Decock, 2007 SPECIES
-=======
+# Navisporus terrestris Gibertoni & Ryvarden, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Czech Mycol. 59(2): 161 (2007)
+in Gibertoni, Ryvarden & Cavalcanti, Syn. Fung. (Oslo) 18: 50 (2004)
 
 #### Original name
 Navisporus terrestris Gibertoni & Ryvarden, 2004

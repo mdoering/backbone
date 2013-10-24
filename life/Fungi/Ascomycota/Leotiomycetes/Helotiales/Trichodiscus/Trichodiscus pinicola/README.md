@@ -1,5 +1,4 @@
-Trichodiscus pinicola Graddon SPECIES
-=======
+# Trichodiscus pinicola Graddon SPECIES
 
 #### Status
 ACCEPTED

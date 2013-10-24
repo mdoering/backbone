@@ -1,5 +1,4 @@
-Lecania siplei C.W. Dodge SPECIES
-=======
+# Lecania siplei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

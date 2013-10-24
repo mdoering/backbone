@@ -1,5 +1,4 @@
-Aecidium smyrnii R.G. Bagn. SPECIES
-=======
+# Aecidium smyrnii R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

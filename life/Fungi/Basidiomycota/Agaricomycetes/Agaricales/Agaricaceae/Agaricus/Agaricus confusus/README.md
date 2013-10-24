@@ -1,5 +1,4 @@
-Agaricus confusus Trog SPECIES
-=======
+# Agaricus confusus Trog SPECIES
 
 #### Status
 ACCEPTED

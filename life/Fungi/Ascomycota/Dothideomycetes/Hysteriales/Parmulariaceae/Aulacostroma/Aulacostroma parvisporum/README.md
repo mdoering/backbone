@@ -1,5 +1,4 @@
-Aulacostroma parvisporum Luttr. & Muthappa SPECIES
-=======
+# Aulacostroma parvisporum Luttr. & Muthappa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium lanatum (Volkova, 1969) Moczydlowska, 1991 SPECIES
-=======
+# Asteridium lanatum (Volkova, 1969) Moczydlowska, 1991 SPECIES
 
 #### Status
 ACCEPTED

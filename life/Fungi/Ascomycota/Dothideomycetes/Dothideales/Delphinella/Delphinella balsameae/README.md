@@ -1,5 +1,4 @@
-Delphinella balsameae (Waterman) E. Müll. SPECIES
-=======
+# Delphinella balsameae (Waterman) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deferribacteres Huber & Stetter, 2002 CLASS
-=======
+# Deferribacteres Huber & Stetter, 2002 CLASS
 
 #### Status
 ACCEPTED

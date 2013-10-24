@@ -1,5 +1,4 @@
-Balansia vorax (Berk. & M.A. Curtis) SPECIES
-=======
+# Balansia vorax (Berk. & M.A. Curtis) SPECIES
 
 #### Status
 ACCEPTED

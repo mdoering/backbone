@@ -1,5 +1,4 @@
-Leiofusa granulacutis Loeblich, 1970 SPECIES
-=======
+# Leiofusa granulacutis Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

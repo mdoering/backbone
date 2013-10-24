@@ -1,5 +1,4 @@
-Myelorrhiza jenjiana Verdon & Elix SPECIES
-=======
+# Myelorrhiza jenjiana Verdon & Elix SPECIES
 
 #### Status
 ACCEPTED

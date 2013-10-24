@@ -1,17 +1,16 @@
-Inocybe hirtella var. hirtella VARIETY
-=======
+# Inocybe muricellata Bres., 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 1: 52 (1884)
+Annls mycol. 3(2): 160 (1905)
 
 #### Original name
-Inocybe hirtella var. hirtella
+Inocybe muricellata Bres., 1905
 
 ### Remarks
 null

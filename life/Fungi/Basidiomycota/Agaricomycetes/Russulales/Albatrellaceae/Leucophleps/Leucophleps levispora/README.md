@@ -1,14 +1,13 @@
-Corditubera levispora (Mattir.) Malençon, 1983 SPECIES
-=======
+# Leucophleps levispora (Mattir.) Fogel, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 4(1): 5 (1983)
+Can. J. Bot. 57(16): 1724 (1979)
 
 #### Original name
 Cremeogaster levisporus Mattir., 1924

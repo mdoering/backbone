@@ -1,5 +1,4 @@
-Lembosia rolfsii W.T. Horne SPECIES
-=======
+# Lembosia rolfsii W.T. Horne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia psoraleae (Castagne) Tassi SPECIES
-=======
+# Microdiplodia psoraleae (Castagne) Tassi SPECIES
 
 #### Status
 ACCEPTED

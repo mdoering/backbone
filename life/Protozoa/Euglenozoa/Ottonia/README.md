@@ -1,5 +1,4 @@
-Ottonia J. Schiller, 1925 GENUS
-=======
+# Ottonia J. Schiller, 1925 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kordia algicida Sohn et al., 2004 SPECIES
-=======
+# Kordia algicida Sohn et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

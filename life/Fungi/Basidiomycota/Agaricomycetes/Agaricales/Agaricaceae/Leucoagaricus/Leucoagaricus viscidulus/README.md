@@ -1,5 +1,4 @@
-Leucoagaricus viscidulus (Heinem.) Consiglio & Contu SPECIES
-=======
+# Leucoagaricus viscidulus (Heinem.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clisosporium ligustri (Brunaud) Kuntze SPECIES
-=======
+# Clisosporium ligustri (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

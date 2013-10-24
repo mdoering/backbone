@@ -1,5 +1,4 @@
-Puccinia cicutae-majoris G. Winter SPECIES
-=======
+# Puccinia cicutae-majoris G. Winter SPECIES
 
 #### Status
 ACCEPTED

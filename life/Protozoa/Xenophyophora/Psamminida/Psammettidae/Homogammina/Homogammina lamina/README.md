@@ -1,5 +1,4 @@
-Homogammina lamina Gooday & Tendal, 1988 SPECIES
-=======
+# Homogammina lamina Gooday & Tendal, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma lojkaianum (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma lojkaianum (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

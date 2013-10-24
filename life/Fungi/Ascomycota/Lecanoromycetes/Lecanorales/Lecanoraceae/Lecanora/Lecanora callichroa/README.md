@@ -1,5 +1,4 @@
-Lecanora callichroa Zahlbr. SPECIES
-=======
+# Lecanora callichroa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

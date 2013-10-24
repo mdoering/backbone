@@ -1,5 +1,4 @@
-Mazzantia rotundata Feltgen SPECIES
-=======
+# Mazzantia rotundata Feltgen SPECIES
 
 #### Status
 ACCEPTED

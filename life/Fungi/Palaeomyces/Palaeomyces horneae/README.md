@@ -1,5 +1,4 @@
-Palaeomyces horneae Kidst. & W.H. Lang SPECIES
-=======
+# Palaeomyces horneae Kidst. & W.H. Lang SPECIES
 
 #### Status
 ACCEPTED

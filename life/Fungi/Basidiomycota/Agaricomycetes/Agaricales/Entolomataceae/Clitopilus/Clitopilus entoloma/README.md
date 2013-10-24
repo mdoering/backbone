@@ -1,5 +1,4 @@
-Clitopilus entoloma (Murrill) Murrill SPECIES
-=======
+# Clitopilus entoloma (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

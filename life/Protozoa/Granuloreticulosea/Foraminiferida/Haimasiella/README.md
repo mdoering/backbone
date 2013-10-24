@@ -1,5 +1,4 @@
-Haimasiella Loeblich & Tappan, 1982 GENUS
-=======
+# Haimasiella Loeblich & Tappan, 1982 GENUS
 
 #### Status
 ACCEPTED

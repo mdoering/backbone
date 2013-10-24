@@ -1,5 +1,4 @@
-Pleurotus cheelii Massee SPECIES
-=======
+# Pleurotus cheelii Massee SPECIES
 
 #### Status
 ACCEPTED

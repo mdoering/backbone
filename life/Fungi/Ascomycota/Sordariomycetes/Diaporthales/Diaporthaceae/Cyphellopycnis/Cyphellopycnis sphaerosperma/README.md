@@ -1,5 +1,4 @@
-Cyphellopycnis sphaerosperma B. Sutton SPECIES
-=======
+# Cyphellopycnis sphaerosperma B. Sutton SPECIES
 
 #### Status
 ACCEPTED

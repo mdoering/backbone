@@ -1,5 +1,4 @@
-Anthostoma pulviniceps Peck SPECIES
-=======
+# Anthostoma pulviniceps Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia glagosa Ellis & Cooke SPECIES
-=======
+# Mollisia glagosa Ellis & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kiitricha minuta Xu, Lei & Choi, 2008 SPECIES
-=======
+# Kiitricha minuta Xu, Lei & Choi, 2008 SPECIES
 
 #### Status
 ACCEPTED

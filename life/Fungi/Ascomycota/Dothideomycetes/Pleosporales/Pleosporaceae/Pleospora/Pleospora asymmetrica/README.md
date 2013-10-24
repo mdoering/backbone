@@ -1,5 +1,4 @@
-Pleospora asymmetrica Wehm. SPECIES
-=======
+# Pleospora asymmetrica Wehm. SPECIES
 
 #### Status
 ACCEPTED

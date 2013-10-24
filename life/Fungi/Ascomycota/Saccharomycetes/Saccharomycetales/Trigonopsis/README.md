@@ -1,5 +1,4 @@
-Trigonopsis Schachner, 1929 GENUS
-=======
+# Trigonopsis Schachner, 1929 GENUS
 
 #### Status
 ACCEPTED

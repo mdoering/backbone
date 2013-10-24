@@ -1,5 +1,4 @@
-Anthostomella pachyderma Sacc. & Paol. SPECIES
-=======
+# Anthostomella pachyderma Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

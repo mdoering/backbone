@@ -1,5 +1,4 @@
-Myxosporium phormii Speg. SPECIES
-=======
+# Myxosporium phormii Speg. SPECIES
 
 #### Status
 ACCEPTED

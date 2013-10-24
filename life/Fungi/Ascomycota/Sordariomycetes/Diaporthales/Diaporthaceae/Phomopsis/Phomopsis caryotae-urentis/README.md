@@ -1,5 +1,4 @@
-Phomopsis caryotae-urentis Petr. & Cif. SPECIES
-=======
+# Phomopsis caryotae-urentis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

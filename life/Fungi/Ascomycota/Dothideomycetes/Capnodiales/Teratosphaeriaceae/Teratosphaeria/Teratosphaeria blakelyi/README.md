@@ -1,5 +1,4 @@
-Teratosphaeria blakelyi (Crous & Summerell) Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria blakelyi (Crous & Summerell) Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

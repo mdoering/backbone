@@ -1,5 +1,4 @@
-Tubercularia atomospora Sacc. SPECIES
-=======
+# Tubercularia atomospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

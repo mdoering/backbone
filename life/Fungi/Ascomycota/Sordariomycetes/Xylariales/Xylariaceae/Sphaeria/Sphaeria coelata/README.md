@@ -1,5 +1,4 @@
-Sphaeria coelata Fr. SPECIES
-=======
+# Sphaeria coelata Fr. SPECIES
 
 #### Status
 ACCEPTED

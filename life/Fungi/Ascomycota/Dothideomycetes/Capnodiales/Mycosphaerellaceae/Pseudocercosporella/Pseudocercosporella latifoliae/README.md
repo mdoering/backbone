@@ -1,5 +1,4 @@
-Pseudocercosporella latifoliae U. Braun & Crous SPECIES
-=======
+# Pseudocercosporella latifoliae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

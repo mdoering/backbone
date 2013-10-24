@@ -1,5 +1,4 @@
-Cryptococcus degenerans Roncoli {?} ex Vuill. SPECIES
-=======
+# Cryptococcus degenerans Roncoli {?} ex Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria georgeana var. georgeana VARIETY
-=======
+# Pertusaria georgeana A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Archer, Biblthca Lichenol. 69: 68 (1997)
 
 #### Original name
-null
+Pertusaria georgeana A. W. Archer & Elix
 
 ### Remarks
 null

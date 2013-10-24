@@ -1,5 +1,4 @@
-Scolecobasidium lanceolatum Matsush. SPECIES
-=======
+# Scolecobasidium lanceolatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

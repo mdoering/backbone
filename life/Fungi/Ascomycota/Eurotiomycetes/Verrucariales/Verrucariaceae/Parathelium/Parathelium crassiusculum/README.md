@@ -1,5 +1,4 @@
-Parathelium crassiusculum f. crassiusculum FORM
-=======
+# Parathelium crassiusculum Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parathelium crassiusculum f. crassiusculum
+Parathelium crassiusculum Malme
 
 ### Remarks
 null

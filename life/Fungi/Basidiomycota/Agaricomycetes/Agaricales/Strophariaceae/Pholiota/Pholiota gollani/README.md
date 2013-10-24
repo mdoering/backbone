@@ -1,5 +1,4 @@
-Pholiota gollani Henn. SPECIES
-=======
+# Pholiota gollani Henn. SPECIES
 
 #### Status
 ACCEPTED

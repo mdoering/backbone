@@ -1,5 +1,4 @@
-Leptothyrium salviae Bres. SPECIES
-=======
+# Leptothyrium salviae Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophyus Schopf, 1968 GENUS
-=======
+# Sphaerophyus Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

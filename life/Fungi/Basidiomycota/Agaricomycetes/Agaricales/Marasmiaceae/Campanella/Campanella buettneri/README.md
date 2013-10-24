@@ -1,5 +1,4 @@
-Campanella buettneri Henn., 1895 SPECIES
-=======
+# Campanella buettneri Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

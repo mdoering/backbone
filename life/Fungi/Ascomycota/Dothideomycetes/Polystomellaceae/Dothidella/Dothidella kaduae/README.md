@@ -1,5 +1,4 @@
-Dothidella kaduae (F. Stevens) Arx SPECIES
-=======
+# Dothidella kaduae (F. Stevens) Arx SPECIES
 
 #### Status
 ACCEPTED

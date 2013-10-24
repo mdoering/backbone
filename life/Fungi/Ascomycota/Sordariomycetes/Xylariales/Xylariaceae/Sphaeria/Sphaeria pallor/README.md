@@ -1,5 +1,4 @@
-Sphaeria pallor Haller, 1768 SPECIES
-=======
+# Sphaeria pallor Haller, 1768 SPECIES
 
 #### Status
 ACCEPTED

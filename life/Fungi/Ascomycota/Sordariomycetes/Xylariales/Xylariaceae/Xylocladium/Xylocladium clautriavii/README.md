@@ -1,14 +1,13 @@
-Ceratocladium clautriavii Pat., 1898 SPECIES
-=======
+# Xylocladium clautriavii (Pat.) P. Syd. ex Lindau, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 14: 196 (1898)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 494 (1900)
 
 #### Original name
 Ceratocladium clautriavii Pat., 1898

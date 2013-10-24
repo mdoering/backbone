@@ -1,5 +1,4 @@
-Cosmospora matuoi Hosoya & Tubaki SPECIES
-=======
+# Cosmospora matuoi Hosoya & Tubaki SPECIES
 
 #### Status
 ACCEPTED

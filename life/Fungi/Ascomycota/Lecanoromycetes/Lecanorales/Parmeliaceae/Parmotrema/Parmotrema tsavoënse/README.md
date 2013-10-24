@@ -1,8 +1,7 @@
-Parmelia tsavoensis Krog & Swinscow SPECIES
-=======
+# Parmotrema tsavoënse (Krog & Swinscow) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

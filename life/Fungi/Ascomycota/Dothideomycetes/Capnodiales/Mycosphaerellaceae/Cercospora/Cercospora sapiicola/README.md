@@ -1,5 +1,4 @@
-Cercospora sapiicola Speg. SPECIES
-=======
+# Cercospora sapiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

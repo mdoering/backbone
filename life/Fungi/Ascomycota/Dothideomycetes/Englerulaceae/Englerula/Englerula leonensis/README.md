@@ -1,5 +1,4 @@
-Englerula leonensis Syd. SPECIES
-=======
+# Englerula leonensis Syd. SPECIES
 
 #### Status
 ACCEPTED

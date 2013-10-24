@@ -1,5 +1,4 @@
-Leptonia purpurea (Petch) Pegler SPECIES
-=======
+# Leptonia purpurea (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

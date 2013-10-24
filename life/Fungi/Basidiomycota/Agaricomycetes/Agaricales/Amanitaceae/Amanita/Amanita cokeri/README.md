@@ -1,5 +1,4 @@
-Amanita cokeri f. cokeri FORM
-=======
+# Amanita cokeri (E.-J. Gilbert & Kühner) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita cokeri f. cokeri
+Lepidella cokeri E.-J. Gilbert & Kühner
 
 ### Remarks
 null

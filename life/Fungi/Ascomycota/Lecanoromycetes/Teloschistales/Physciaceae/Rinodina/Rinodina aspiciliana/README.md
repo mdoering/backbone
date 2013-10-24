@@ -1,5 +1,4 @@
-Rinodina aspiciliana SPECIES
-=======
+# Rinodina aspiciliana SPECIES
 
 #### Status
 ACCEPTED

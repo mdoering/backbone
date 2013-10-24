@@ -1,5 +1,4 @@
-Aecidium centaureae DC. SPECIES
-=======
+# Aecidium centaureae DC. SPECIES
 
 #### Status
 ACCEPTED

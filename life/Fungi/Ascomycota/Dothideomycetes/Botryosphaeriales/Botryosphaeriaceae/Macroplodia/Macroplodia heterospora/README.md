@@ -1,5 +1,4 @@
-Macroplodia heterospora (Pass.) Kuntze SPECIES
-=======
+# Macroplodia heterospora (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

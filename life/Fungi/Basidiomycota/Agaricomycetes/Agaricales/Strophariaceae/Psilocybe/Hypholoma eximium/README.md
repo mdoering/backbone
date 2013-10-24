@@ -1,5 +1,4 @@
-Hypholoma eximium (C. Laest.) Rald SPECIES
-=======
+# Hypholoma eximium (C. Laest.) Rald SPECIES
 
 #### Status
 ACCEPTED

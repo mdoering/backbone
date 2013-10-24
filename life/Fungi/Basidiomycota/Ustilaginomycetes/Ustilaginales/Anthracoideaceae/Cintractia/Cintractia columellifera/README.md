@@ -1,5 +1,4 @@
-Cintractia columellifera (Tul. & C. Tul.) McAlpine SPECIES
-=======
+# Cintractia columellifera (Tul. & C. Tul.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

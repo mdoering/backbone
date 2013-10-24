@@ -1,5 +1,4 @@
-Arthonia foveolaris Zahlbr. SPECIES
-=======
+# Arthonia foveolaris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

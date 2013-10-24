@@ -1,5 +1,4 @@
-Puccinia zorniae (Dietel) McAlpine SPECIES
-=======
+# Puccinia zorniae (Dietel) McAlpine SPECIES
 
 #### Status
 ACCEPTED

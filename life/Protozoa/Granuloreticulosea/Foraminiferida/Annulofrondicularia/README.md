@@ -1,5 +1,4 @@
-Annulofrondicularia Keijzer, 1945 GENUS
-=======
+# Annulofrondicularia Keijzer, 1945 GENUS
 
 #### Status
 ACCEPTED

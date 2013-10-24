@@ -1,5 +1,4 @@
-Xanthoparmelia victoriana Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia victoriana Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

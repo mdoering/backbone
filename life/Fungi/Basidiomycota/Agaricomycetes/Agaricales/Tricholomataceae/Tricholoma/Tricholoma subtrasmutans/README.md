@@ -1,5 +1,4 @@
-Tricholoma subtrasmutans (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subtrasmutans (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

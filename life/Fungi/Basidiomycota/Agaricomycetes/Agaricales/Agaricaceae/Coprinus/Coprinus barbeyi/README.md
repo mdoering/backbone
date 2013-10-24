@@ -1,5 +1,4 @@
-Coprinus barbeyi Kalchbr. SPECIES
-=======
+# Coprinus barbeyi Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

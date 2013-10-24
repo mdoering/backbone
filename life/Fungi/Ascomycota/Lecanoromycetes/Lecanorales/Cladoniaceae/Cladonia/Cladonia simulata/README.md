@@ -1,5 +1,4 @@
-Cladonia simulata Robbins SPECIES
-=======
+# Cladonia simulata Robbins SPECIES
 
 #### Status
 ACCEPTED

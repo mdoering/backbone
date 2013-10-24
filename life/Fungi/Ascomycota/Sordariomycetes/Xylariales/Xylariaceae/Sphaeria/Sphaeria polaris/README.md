@@ -1,5 +1,4 @@
-Sphaeria polaris Th. Fr. SPECIES
-=======
+# Sphaeria polaris Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia borealis Lloyd SPECIES
-=======
+# Collybia borealis Lloyd SPECIES
 
 #### Status
 ACCEPTED

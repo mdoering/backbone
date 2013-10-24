@@ -1,5 +1,4 @@
-Pandora bibionis Z.Z. Li, B. Huang & M.Z. Fan, 1997 SPECIES
-=======
+# Pandora bibionis Z.Z. Li, B. Huang & M.Z. Fan, 1997 SPECIES
 
 #### Status
 ACCEPTED

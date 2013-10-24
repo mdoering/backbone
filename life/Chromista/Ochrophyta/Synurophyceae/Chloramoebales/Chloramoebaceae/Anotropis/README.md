@@ -1,5 +1,4 @@
-Anotropis Pascher, 1939 GENUS
-=======
+# Anotropis Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

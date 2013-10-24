@@ -1,5 +1,4 @@
-Alternaria rosifolii E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria rosifolii E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

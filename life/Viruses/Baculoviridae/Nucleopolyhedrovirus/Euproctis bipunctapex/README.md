@@ -1,5 +1,4 @@
-Euproctis bipunctapex Npv SPECIES
-=======
+# Euproctis bipunctapex Npv SPECIES
 
 #### Status
 ACCEPTED

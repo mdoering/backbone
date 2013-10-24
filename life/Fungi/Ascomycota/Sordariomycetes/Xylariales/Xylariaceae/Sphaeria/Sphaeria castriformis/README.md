@@ -1,5 +1,4 @@
-Sphaeria castriformis Preuss SPECIES
-=======
+# Sphaeria castriformis Preuss SPECIES
 
 #### Status
 ACCEPTED

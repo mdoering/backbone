@@ -1,17 +1,16 @@
-Clitocybe sericella Kühner & Romagn., 1953 SPECIES
-=======
+# Clitocybe frysica Kuyper, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 138 (1953)
+Persoonia 16(2): 227 (1996)
 
 #### Original name
-Clitocybe sericella Kühner & Romagn., 1953
+Clitocybe frysica Kuyper, 1996
 
 ### Remarks
 null

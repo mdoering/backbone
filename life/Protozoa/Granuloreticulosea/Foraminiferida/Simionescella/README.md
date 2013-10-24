@@ -1,5 +1,4 @@
-Simionescella Neagu, 1975 GENUS
-=======
+# Simionescella Neagu, 1975 GENUS
 
 #### Status
 ACCEPTED

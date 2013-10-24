@@ -1,5 +1,4 @@
-Plagiogramma laeve (Gregory) Ralfs ex Pritchard SPECIES
-=======
+# Plagiogramma laeve (Gregory) Ralfs ex Pritchard SPECIES
 
 #### Status
 ACCEPTED

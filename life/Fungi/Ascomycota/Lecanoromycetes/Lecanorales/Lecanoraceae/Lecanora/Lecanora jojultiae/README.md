@@ -1,5 +1,4 @@
-Lecanora jojultiae SPECIES
-=======
+# Lecanora jojultiae SPECIES
 
 #### Status
 ACCEPTED

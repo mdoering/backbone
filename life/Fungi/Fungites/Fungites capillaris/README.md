@@ -1,5 +1,4 @@
-Fungites capillaris Casp. & R. Klebs SPECIES
-=======
+# Fungites capillaris Casp. & R. Klebs SPECIES
 
 #### Status
 ACCEPTED

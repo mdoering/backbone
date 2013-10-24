@@ -1,5 +1,4 @@
-Vulcanisaeta distributa Itoh et al., 2002 SPECIES
-=======
+# Vulcanisaeta distributa Itoh et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

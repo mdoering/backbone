@@ -1,5 +1,4 @@
-Leciographa picea Velen. SPECIES
-=======
+# Leciographa picea Velen. SPECIES
 
 #### Status
 ACCEPTED

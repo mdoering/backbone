@@ -1,14 +1,13 @@
-Ascochytella grossulariae (Oudem.) Died. SPECIES
-=======
+# Ascochyta grossulariae Oudem., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ned. kruidk. Archf 1: 498 (1898)
 
 #### Original name
 Ascochyta grossulariae Oudem., 1898

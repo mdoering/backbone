@@ -1,5 +1,4 @@
-Sphaeria fissivela Tode SPECIES
-=======
+# Sphaeria fissivela Tode SPECIES
 
 #### Status
 ACCEPTED

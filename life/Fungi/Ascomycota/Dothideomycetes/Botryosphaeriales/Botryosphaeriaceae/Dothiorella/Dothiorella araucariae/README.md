@@ -1,5 +1,4 @@
-Dothiorella araucariae (Voglino) Petr. SPECIES
-=======
+# Dothiorella araucariae (Voglino) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena lagenoides (Williamson) SPECIES
-=======
+# Lagena lagenoides (Williamson) SPECIES
 
 #### Status
 ACCEPTED

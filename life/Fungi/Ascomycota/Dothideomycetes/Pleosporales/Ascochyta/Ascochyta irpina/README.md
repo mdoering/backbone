@@ -1,5 +1,4 @@
-Ascochyta irpina Sacc. & Trotter, 1920 SPECIES
-=======
+# Ascochyta irpina Sacc. & Trotter, 1920 SPECIES
 
 #### Status
 ACCEPTED

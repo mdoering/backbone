@@ -1,5 +1,4 @@
-Uniporata typica Naumova in Pykhova, 1969 SPECIES
-=======
+# Uniporata typica Naumova in Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

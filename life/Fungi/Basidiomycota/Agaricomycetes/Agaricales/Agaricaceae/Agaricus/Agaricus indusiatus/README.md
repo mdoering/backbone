@@ -1,5 +1,4 @@
-Agaricus indusiatus Berk. SPECIES
-=======
+# Agaricus indusiatus Berk. SPECIES
 
 #### Status
 ACCEPTED

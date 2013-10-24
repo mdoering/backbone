@@ -1,5 +1,4 @@
-Opegrapha inaequalis Fée SPECIES
-=======
+# Opegrapha inaequalis Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota betulina Velen. SPECIES
-=======
+# Lepiota betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

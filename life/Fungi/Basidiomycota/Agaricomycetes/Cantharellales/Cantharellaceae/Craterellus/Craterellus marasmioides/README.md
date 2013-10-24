@@ -1,5 +1,4 @@
-Craterellus marasmioides Berk. & M.A. Curtis SPECIES
-=======
+# Craterellus marasmioides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

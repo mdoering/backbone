@@ -1,5 +1,4 @@
-Microthyrium graminum E.Bommer, M. Rousseau & Sacc., 1891 SPECIES
-=======
+# Microthyrium graminum E.Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED

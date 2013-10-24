@@ -1,5 +1,4 @@
-Pezolepis denigrata Syd., 1925 SPECIES
-=======
+# Pezolepis denigrata Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

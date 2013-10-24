@@ -1,5 +1,4 @@
-Pseudocercospora trichostigmatis (F. Stevens) Deighton SPECIES
-=======
+# Pseudocercospora trichostigmatis (F. Stevens) Deighton SPECIES
 
 #### Status
 ACCEPTED

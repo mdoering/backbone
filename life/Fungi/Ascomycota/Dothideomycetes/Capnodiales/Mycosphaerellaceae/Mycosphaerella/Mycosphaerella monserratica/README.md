@@ -1,5 +1,4 @@
-Mycosphaerella monserratica Petr. SPECIES
-=======
+# Mycosphaerella monserratica Petr. SPECIES
 
 #### Status
 ACCEPTED

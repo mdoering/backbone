@@ -1,5 +1,4 @@
-Debaryomyces polymorphus var. africanus Van der Walt, Nakaze, M. Suzuki, M. Takash. & Y. Yamada, 1994 VARIETY
-=======
+# Debaryomyces polymorphus (Klöcker) C.W. Price & Phaff SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 71(2): 445 (1979)
 
 #### Original name
-Debaryomyces polymorphus var. africanus Van der Walt, Nakaze, M. Suzuki, M. Takash. & Y. Yamada, 1994
+Pichia polymorpha Klöcker, 1912
 
 ### Remarks
 null

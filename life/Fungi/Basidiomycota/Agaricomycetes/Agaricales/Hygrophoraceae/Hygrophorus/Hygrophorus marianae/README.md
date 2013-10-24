@@ -1,5 +1,4 @@
-Hygrophorus marianae Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus marianae Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

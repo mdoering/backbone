@@ -1,5 +1,4 @@
-Protoperidinium obesum (Matzenauer, 1933) Balech, 1974 SPECIES
-=======
+# Protoperidinium obesum (Matzenauer, 1933) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

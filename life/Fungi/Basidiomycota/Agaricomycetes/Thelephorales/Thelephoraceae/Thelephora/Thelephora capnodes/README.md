@@ -1,5 +1,4 @@
-Thelephora capnodes Berk. & Broome SPECIES
-=======
+# Thelephora capnodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

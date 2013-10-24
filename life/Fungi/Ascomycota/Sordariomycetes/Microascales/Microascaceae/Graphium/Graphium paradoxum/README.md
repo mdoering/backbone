@@ -1,5 +1,4 @@
-Graphium paradoxum Sacc. & Trotter SPECIES
-=======
+# Graphium paradoxum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

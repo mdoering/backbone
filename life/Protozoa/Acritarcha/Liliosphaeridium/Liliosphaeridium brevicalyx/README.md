@@ -1,5 +1,4 @@
-Liliosphaeridium brevicalyx Bagnoli & Ribecai, 2001 SPECIES
-=======
+# Liliosphaeridium brevicalyx Bagnoli & Ribecai, 2001 SPECIES
 
 #### Status
 ACCEPTED

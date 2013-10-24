@@ -1,5 +1,4 @@
-Parmelia spinosa Hook. f. & Taylor SPECIES
-=======
+# Parmelia spinosa Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermocrispum municipale Korn-Wendisch et al., 1995 SPECIES
-=======
+# Thermocrispum municipale Korn-Wendisch et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

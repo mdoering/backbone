@@ -1,5 +1,4 @@
-Gasparrinia ectaniza (Nyl.) Oxner SPECIES
-=======
+# Gasparrinia ectaniza (Nyl.) Oxner SPECIES
 
 #### Status
 ACCEPTED

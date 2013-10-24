@@ -1,5 +1,4 @@
-Catenophoropsis eucalypticola Nag Raj & W.B. Kendr., 1988 SPECIES
-=======
+# Catenophoropsis eucalypticola Nag Raj & W.B. Kendr., 1988 SPECIES
 
 #### Status
 ACCEPTED

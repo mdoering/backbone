@@ -1,5 +1,4 @@
-Englerulaster lauraceicola Bat. & J.L. Bezerra SPECIES
-=======
+# Englerulaster lauraceicola Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

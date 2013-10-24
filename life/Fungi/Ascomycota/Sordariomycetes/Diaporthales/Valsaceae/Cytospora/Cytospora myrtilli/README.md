@@ -1,5 +1,4 @@
-Cytospora myrtilli Grove SPECIES
-=======
+# Cytospora myrtilli Grove SPECIES
 
 #### Status
 ACCEPTED

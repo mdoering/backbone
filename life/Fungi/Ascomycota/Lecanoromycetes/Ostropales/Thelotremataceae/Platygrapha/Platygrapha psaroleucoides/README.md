@@ -1,5 +1,4 @@
-Platygrapha psaroleucoides Stirt. SPECIES
-=======
+# Platygrapha psaroleucoides Stirt. SPECIES
 
 #### Status
 ACCEPTED

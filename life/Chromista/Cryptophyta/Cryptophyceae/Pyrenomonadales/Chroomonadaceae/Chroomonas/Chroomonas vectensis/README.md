@@ -1,5 +1,4 @@
-Chroomonas vectensis Carter SPECIES
-=======
+# Chroomonas vectensis Carter SPECIES
 
 #### Status
 ACCEPTED

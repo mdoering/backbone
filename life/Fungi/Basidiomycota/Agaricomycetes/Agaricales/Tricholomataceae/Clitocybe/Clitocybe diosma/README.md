@@ -1,5 +1,4 @@
-Clitocybe diosma Einhell., 1973 SPECIES
-=======
+# Clitocybe diosma Einhell., 1973 SPECIES
 
 #### Status
 ACCEPTED

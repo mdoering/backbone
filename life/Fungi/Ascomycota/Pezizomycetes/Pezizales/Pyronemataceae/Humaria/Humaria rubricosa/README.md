@@ -1,5 +1,4 @@
-Humaria rubricosa (Fr.) Sacc. SPECIES
-=======
+# Humaria rubricosa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

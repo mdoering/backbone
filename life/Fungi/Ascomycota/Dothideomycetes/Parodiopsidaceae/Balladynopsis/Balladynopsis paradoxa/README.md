@@ -1,5 +1,4 @@
-Balladynopsis paradoxa (Petr.) Arx SPECIES
-=======
+# Balladynopsis paradoxa (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Epicoccum pimprinum (P.N. Mathur, S.K. Menon & Thirum.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma pimprina P.N. Mathur, S.K. Menon & Thirum., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 13: 146 (1959)
 
 #### Original name
-null
+Phoma pimprina P.N. Mathur, S.K. Menon & Thirum., 1959
 
 ### Remarks
 null

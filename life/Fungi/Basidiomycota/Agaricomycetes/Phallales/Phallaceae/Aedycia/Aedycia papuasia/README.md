@@ -1,5 +1,4 @@
-Aedycia papuasia (Kalchbr.) Kuntze SPECIES
-=======
+# Aedycia papuasia (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

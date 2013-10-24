@@ -1,5 +1,4 @@
-Dicaeoma diotidis (Pat. & Roum.) Kuntze SPECIES
-=======
+# Dicaeoma diotidis (Pat. & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

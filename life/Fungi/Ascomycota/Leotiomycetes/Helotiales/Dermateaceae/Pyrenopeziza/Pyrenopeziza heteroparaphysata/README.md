@@ -1,5 +1,4 @@
-Pyrenopeziza heteroparaphysata Grelet & Croz. SPECIES
-=======
+# Pyrenopeziza heteroparaphysata Grelet & Croz. SPECIES
 
 #### Status
 ACCEPTED

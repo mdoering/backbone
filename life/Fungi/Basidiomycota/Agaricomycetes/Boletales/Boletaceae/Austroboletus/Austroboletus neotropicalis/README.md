@@ -1,5 +1,4 @@
-Austroboletus neotropicalis Singer, J. García & L.D. Gómez SPECIES
-=======
+# Austroboletus neotropicalis Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

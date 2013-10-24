@@ -1,5 +1,4 @@
-Merrilliopeltis GENUS
-=======
+# Merrilliopeltis GENUS
 
 #### Status
 ACCEPTED

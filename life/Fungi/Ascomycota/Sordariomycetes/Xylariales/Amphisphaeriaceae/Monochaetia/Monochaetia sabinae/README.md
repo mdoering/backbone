@@ -1,5 +1,4 @@
-Monochaetia sabinae Y.X. Chen & G. Wei SPECIES
-=======
+# Monochaetia sabinae Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

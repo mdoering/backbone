@@ -1,5 +1,4 @@
-Ellipsolagena lata Wiesner, 1931 SPECIES
-=======
+# Ellipsolagena lata Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

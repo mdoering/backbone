@@ -1,5 +1,4 @@
-Radiophycus Wang, 1985 GENUS
-=======
+# Radiophycus Wang, 1985 GENUS
 
 #### Status
 ACCEPTED

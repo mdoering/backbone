@@ -1,5 +1,4 @@
-Dermatocarpon spitsbergense Lynge SPECIES
-=======
+# Dermatocarpon spitsbergense Lynge SPECIES
 
 #### Status
 ACCEPTED

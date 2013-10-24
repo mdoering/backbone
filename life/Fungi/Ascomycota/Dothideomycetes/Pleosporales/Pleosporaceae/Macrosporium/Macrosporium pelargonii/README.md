@@ -1,5 +1,4 @@
-Macrosporium pelargonii Ellis & Everh. SPECIES
-=======
+# Macrosporium pelargonii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

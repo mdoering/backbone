@@ -1,5 +1,4 @@
-Leclercia Tamura et al., 1987 GENUS
-=======
+# Leclercia Tamura et al., 1987 GENUS
 
 #### Status
 ACCEPTED

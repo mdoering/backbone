@@ -1,5 +1,4 @@
-Clavaria subulata Berk. & Cooke SPECIES
-=======
+# Clavaria subulata Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

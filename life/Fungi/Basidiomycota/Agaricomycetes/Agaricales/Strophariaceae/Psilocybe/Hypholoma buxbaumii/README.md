@@ -1,5 +1,4 @@
-Hypholoma buxbaumii Weinm. SPECIES
-=======
+# Hypholoma buxbaumii Weinm. SPECIES
 
 #### Status
 ACCEPTED

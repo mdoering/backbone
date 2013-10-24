@@ -1,5 +1,4 @@
-Sphaerella polaris P. Karst. SPECIES
-=======
+# Sphaerella polaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

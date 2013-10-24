@@ -1,5 +1,4 @@
-Ceratolithus atlanticus K. Perch-Nielsen SPECIES
-=======
+# Ceratolithus atlanticus K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

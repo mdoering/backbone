@@ -1,5 +1,4 @@
-Pleurochloris meiringensis Vischer SPECIES
-=======
+# Pleurochloris meiringensis Vischer SPECIES
 
 #### Status
 ACCEPTED

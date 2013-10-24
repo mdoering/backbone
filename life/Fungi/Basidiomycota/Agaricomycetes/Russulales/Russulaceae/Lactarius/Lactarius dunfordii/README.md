@@ -1,5 +1,4 @@
-Lactarius dunfordii Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius dunfordii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

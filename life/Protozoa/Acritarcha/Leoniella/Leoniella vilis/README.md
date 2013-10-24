@@ -1,5 +1,4 @@
-Leoniella vilis Kiryanov, 1978 SPECIES
-=======
+# Leoniella vilis Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

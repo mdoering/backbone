@@ -1,5 +1,4 @@
-Sphaeria tecta Schwein. SPECIES
-=======
+# Sphaeria tecta Schwein. SPECIES
 
 #### Status
 ACCEPTED

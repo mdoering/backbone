@@ -1,5 +1,4 @@
-Phoma polygoni-avicularis Politis SPECIES
-=======
+# Phoma polygoni-avicularis Politis SPECIES
 
 #### Status
 ACCEPTED

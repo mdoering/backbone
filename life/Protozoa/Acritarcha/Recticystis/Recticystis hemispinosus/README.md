@@ -1,5 +1,4 @@
-Recticystis hemispinosus Schrank, 2003 SPECIES
-=======
+# Recticystis hemispinosus Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

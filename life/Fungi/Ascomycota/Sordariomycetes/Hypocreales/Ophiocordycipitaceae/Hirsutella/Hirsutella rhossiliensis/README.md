@@ -1,5 +1,4 @@
-Hirsutella rhossiliensis Minter & B.L. Brady, 1980 SPECIES
-=======
+# Hirsutella rhossiliensis Minter & B.L. Brady, 1980 SPECIES
 
 #### Status
 ACCEPTED

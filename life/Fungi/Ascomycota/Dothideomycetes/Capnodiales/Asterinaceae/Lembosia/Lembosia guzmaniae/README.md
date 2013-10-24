@@ -1,5 +1,4 @@
-Lembosia guzmaniae Bat. & H. Maia SPECIES
-=======
+# Lembosia guzmaniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

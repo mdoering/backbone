@@ -1,5 +1,4 @@
-Balladyna offinis Syd. SPECIES
-=======
+# Balladyna offinis Syd. SPECIES
 
 #### Status
 ACCEPTED

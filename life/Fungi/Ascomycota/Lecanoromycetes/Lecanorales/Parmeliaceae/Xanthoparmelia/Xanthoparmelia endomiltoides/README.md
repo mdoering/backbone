@@ -1,5 +1,4 @@
-Xanthoparmelia endomiltoides (Nyl.) Hale SPECIES
-=======
+# Xanthoparmelia endomiltoides (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

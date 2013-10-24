@@ -1,5 +1,4 @@
-Polyporus dozyanus Lév. SPECIES
-=======
+# Polyporus dozyanus Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria tunae Spreng. SPECIES
-=======
+# Sphaeria tunae Spreng. SPECIES
 
 #### Status
 ACCEPTED

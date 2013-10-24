@@ -1,5 +1,4 @@
-Caeoma cronartites Link SPECIES
-=======
+# Caeoma cronartites Link SPECIES
 
 #### Status
 ACCEPTED

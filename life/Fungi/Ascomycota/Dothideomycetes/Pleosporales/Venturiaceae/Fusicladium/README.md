@@ -1,17 +1,16 @@
-Fusicladiopsis Karak. & Vassiljevsky GENUS
-=======
+# Fusicladium Bonorden, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fungi Imperfecti Parasitici 1: 378 (1937)
+null
 
 #### Original name
-Fusicladiopsis Karak. & Vassiljevsky
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatora endocaerulea Riddle SPECIES
-=======
+# Biatora endocaerulea Riddle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marmoricola aurantiacus Urzì et al., 2000 SPECIES
-=======
+# Marmoricola aurantiacus Urzì et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

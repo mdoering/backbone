@@ -1,5 +1,4 @@
-Herreramyxa Skvortzov, 1972 GENUS
-=======
+# Herreramyxa Skvortzov, 1972 GENUS
 
 #### Status
 ACCEPTED

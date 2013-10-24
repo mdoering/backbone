@@ -1,5 +1,4 @@
-Lepiota miamensis (Morgan) Sacc. SPECIES
-=======
+# Lepiota miamensis (Morgan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

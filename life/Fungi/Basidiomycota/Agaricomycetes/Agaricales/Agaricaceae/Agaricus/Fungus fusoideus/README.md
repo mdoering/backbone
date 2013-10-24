@@ -1,14 +1,13 @@
-Fungus fusodeus (Pat.) Kuntze SPECIES
-=======
+# Fungus fusoideus (Pat.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 480 (1898)
 
 #### Original name
 Agaricus fusoideus Pat.

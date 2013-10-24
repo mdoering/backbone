@@ -1,5 +1,4 @@
-Entoloma keralense Manim. & Noordel. SPECIES
-=======
+# Entoloma keralense Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschizotrichum griseum Rieuf SPECIES
-=======
+# Aschizotrichum griseum Rieuf SPECIES
 
 #### Status
 ACCEPTED

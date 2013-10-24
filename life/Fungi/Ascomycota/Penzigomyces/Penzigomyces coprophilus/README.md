@@ -1,5 +1,4 @@
-Penzigomyces coprophilus (Matsush.) Subram. SPECIES
-=======
+# Penzigomyces coprophilus (Matsush.) Subram. SPECIES
 
 #### Status
 ACCEPTED

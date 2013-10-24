@@ -1,5 +1,4 @@
-Cortinarius heliotropicus Peck SPECIES
-=======
+# Cortinarius heliotropicus Peck SPECIES
 
 #### Status
 ACCEPTED

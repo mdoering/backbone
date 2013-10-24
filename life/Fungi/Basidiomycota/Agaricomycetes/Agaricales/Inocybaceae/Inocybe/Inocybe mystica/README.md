@@ -1,5 +1,4 @@
-Inocybe mystica Stangl & Glowinski SPECIES
-=======
+# Inocybe mystica Stangl & Glowinski SPECIES
 
 #### Status
 ACCEPTED

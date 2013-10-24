@@ -1,5 +1,4 @@
-Platysma fallax (Weber) Hoffm. SPECIES
-=======
+# Platysma fallax (Weber) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

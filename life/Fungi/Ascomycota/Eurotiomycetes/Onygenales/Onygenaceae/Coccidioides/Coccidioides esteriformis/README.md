@@ -1,5 +1,4 @@
-Coccidioides esteriformis (Cantón) M. Moore SPECIES
-=======
+# Coccidioides esteriformis (Cantón) M. Moore SPECIES
 
 #### Status
 ACCEPTED

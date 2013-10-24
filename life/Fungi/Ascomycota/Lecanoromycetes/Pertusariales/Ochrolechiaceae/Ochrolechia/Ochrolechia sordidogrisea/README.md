@@ -1,5 +1,4 @@
-Ochrolechia sordidogrisea (Erichsen) E. Schreiner & Hafellner SPECIES
-=======
+# Ochrolechia sordidogrisea (Erichsen) E. Schreiner & Hafellner SPECIES
 
 #### Status
 ACCEPTED

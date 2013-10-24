@@ -1,5 +1,4 @@
-Polyporus tessulatus Fr. SPECIES
-=======
+# Polyporus tessulatus Fr. SPECIES
 
 #### Status
 ACCEPTED

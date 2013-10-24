@@ -1,5 +1,4 @@
-Vaginulina bassensis Parr, 1945 SPECIES
-=======
+# Vaginulina bassensis Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

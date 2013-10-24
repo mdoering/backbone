@@ -1,5 +1,4 @@
-Phyllosticta saussureae Aksel SPECIES
-=======
+# Phyllosticta saussureae Aksel SPECIES
 
 #### Status
 ACCEPTED

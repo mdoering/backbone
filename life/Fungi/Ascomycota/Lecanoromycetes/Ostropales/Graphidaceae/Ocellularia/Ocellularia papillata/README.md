@@ -1,17 +1,16 @@
-Ocellularia viridipallens Müll. Arg. SPECIES
-=======
+# Ocellularia papillata (Leight.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 597 (1923)
 
 #### Original name
-null
+Thelotrema papillatum Leight.
 
 ### Remarks
 null

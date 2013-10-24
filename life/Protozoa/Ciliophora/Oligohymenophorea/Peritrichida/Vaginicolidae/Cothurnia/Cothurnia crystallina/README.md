@@ -1,5 +1,4 @@
-Cothurnia crystallina (Entz, 1884) Claparède & Lachmann, 1858 SPECIES
-=======
+# Cothurnia crystallina (Entz, 1884) Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

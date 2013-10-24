@@ -1,5 +1,4 @@
-Synsphaeridium catenarium G. Playford SPECIES
-=======
+# Synsphaeridium catenarium G. Playford SPECIES
 
 #### Status
 ACCEPTED

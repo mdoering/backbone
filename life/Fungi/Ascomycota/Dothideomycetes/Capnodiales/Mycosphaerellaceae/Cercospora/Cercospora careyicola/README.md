@@ -1,5 +1,4 @@
-Cercospora careyicola Kamal SPECIES
-=======
+# Cercospora careyicola Kamal SPECIES
 
 #### Status
 ACCEPTED

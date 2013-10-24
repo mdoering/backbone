@@ -1,5 +1,4 @@
-Lyngbya pseudovacuolata Vetter SPECIES
-=======
+# Lyngbya pseudovacuolata Vetter SPECIES
 
 #### Status
 ACCEPTED

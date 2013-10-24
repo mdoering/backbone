@@ -1,5 +1,4 @@
-Orbitolithes Oken, 1815 GENUS
-=======
+# Orbitolithes Oken, 1815 GENUS
 
 #### Status
 ACCEPTED

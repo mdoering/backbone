@@ -1,5 +1,4 @@
-Pappomonas I.Manton & K.Oates, 1975 GENUS
-=======
+# Pappomonas I.Manton & K.Oates, 1975 GENUS
 
 #### Status
 ACCEPTED

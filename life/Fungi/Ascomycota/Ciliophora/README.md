@@ -1,5 +1,4 @@
-Ciliophora Petrak, 1929 GENUS
-=======
+# Ciliophora Petrak, 1929 GENUS
 
 #### Status
 ACCEPTED

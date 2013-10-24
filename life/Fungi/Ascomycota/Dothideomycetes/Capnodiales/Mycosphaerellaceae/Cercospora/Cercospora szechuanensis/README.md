@@ -1,5 +1,4 @@
-Cercospora szechuanensis T.L. Tai SPECIES
-=======
+# Cercospora szechuanensis T.L. Tai SPECIES
 
 #### Status
 ACCEPTED

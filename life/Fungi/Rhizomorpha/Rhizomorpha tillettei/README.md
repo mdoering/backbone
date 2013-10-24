@@ -1,17 +1,16 @@
-Rhizomorpha tilletii Desm. SPECIES
-=======
+# Rhizomorpha tillettei Desm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kickx fil. , Fl. Crypt. Flandres 2: 464 (1867)
 
 #### Original name
-Rhizomorpha tilletii Desm.
+Rhizomorpha tillettei Desm.
 
 ### Remarks
 null

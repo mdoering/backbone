@@ -1,5 +1,4 @@
-Hysterangium crassum (Tul. & C. Tul.) E. Fisch. SPECIES
-=======
+# Hysterangium crassum (Tul. & C. Tul.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

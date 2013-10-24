@@ -1,5 +1,4 @@
-Sphaeria orbicula Schwein. SPECIES
-=======
+# Sphaeria orbicula Schwein. SPECIES
 
 #### Status
 ACCEPTED

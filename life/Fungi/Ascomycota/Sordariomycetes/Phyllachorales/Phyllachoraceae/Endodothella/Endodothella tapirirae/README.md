@@ -1,17 +1,16 @@
-Endodothella tapirae F. Stevens SPECIES
-=======
+# Endodothella tapirirae F. Stevens, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 8(3): 190 (1923)
 
 #### Original name
-Endodothella tapirae F. Stevens
+Endodothella tapirirae F. Stevens, 1923
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leifsonia rubra Reddy et al., 2003 SPECIES
-=======
+# Leifsonia rubra Reddy et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

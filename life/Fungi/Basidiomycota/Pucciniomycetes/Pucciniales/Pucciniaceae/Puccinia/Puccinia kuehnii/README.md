@@ -1,17 +1,16 @@
-Uredo kuehnii Wakker & Went, 1898 SPECIES
-=======
+# Puccinia kuehnii (W. Krüger) E.J. Butler, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-De Ziektan van het Suikerriet op Java 144 (1898)
+Annls mycol. 12: 82 (1914)
 
 #### Original name
-Uredo kuehnii Wakker & Went, 1898
+Uromyces kuehnii W. Krüger, 1890
 
 ### Remarks
 null

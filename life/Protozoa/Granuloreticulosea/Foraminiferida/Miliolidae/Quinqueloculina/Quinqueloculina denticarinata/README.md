@@ -1,5 +1,4 @@
-Quinqueloculina denticarinata SPECIES
-=======
+# Quinqueloculina denticarinata SPECIES
 
 #### Status
 ACCEPTED

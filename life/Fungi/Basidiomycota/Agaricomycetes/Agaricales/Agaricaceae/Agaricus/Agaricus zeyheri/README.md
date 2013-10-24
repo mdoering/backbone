@@ -1,5 +1,4 @@
-Agaricus zeyheri var. zeyheri VARIETY
-=======
+# Agaricus zeyheri Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus zeyheri var. zeyheri
+Agaricus zeyheri Berk.
 
 ### Remarks
 null

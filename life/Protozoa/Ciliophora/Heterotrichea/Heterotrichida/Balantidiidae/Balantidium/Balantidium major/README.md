@@ -1,5 +1,4 @@
-Balantidium major Earl, 1973 SPECIES
-=======
+# Balantidium major Earl, 1973 SPECIES
 
 #### Status
 ACCEPTED

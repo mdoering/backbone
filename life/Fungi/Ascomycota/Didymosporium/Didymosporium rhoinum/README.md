@@ -1,5 +1,4 @@
-Didymosporium rhoinum Ellis & Everh. SPECIES
-=======
+# Didymosporium rhoinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dirinaria (Tuck.) Clem. GENUS
-=======
+# Dirinaria (Tuck.) Clem. GENUS
 
 #### Status
 ACCEPTED

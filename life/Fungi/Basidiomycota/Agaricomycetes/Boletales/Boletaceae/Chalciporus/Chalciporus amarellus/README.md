@@ -1,5 +1,4 @@
-Chalciporus amarellus (Quél.) Bataille SPECIES
-=======
+# Chalciporus amarellus (Quél.) Bataille SPECIES
 
 #### Status
 ACCEPTED

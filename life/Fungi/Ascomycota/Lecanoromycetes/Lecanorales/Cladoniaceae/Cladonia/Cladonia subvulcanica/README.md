@@ -1,5 +1,4 @@
-Cladonia subvulcanica Abbayes SPECIES
-=======
+# Cladonia subvulcanica Abbayes SPECIES
 
 #### Status
 ACCEPTED

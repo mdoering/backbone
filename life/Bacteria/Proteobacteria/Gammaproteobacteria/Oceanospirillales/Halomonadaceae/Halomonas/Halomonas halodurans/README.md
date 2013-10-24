@@ -1,5 +1,4 @@
-Halomonas halodurans Hebert & Vreeland, 1987 SPECIES
-=======
+# Halomonas halodurans Hebert & Vreeland, 1987 SPECIES
 
 #### Status
 ACCEPTED

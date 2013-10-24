@@ -1,5 +1,4 @@
-Woronichinia karelica J. Komárek & J. Komárková-Legnerová SPECIES
-=======
+# Woronichinia karelica J. Komárek & J. Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

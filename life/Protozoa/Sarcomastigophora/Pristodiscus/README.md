@@ -1,5 +1,4 @@
-Pristodiscus Haeckel, 1887 GENUS
-=======
+# Pristodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Domasia intermedia Kiryanov, 1978 SPECIES
-=======
+# Domasia intermedia Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

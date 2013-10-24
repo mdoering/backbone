@@ -1,5 +1,4 @@
-Buellia uruguayensis Etayo & Osorio SPECIES
-=======
+# Buellia uruguayensis Etayo & Osorio SPECIES
 
 #### Status
 ACCEPTED

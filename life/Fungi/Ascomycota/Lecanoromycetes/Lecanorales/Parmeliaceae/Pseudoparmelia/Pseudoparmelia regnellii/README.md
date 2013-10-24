@@ -1,17 +1,16 @@
-Parmelia regnellii f. regnellii Lynge FORM
-=======
+# Pseudoparmelia regnellii (Lynge) Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 100(4): 494 (1998)
 
 #### Original name
-Parmelia regnellii f. regnellii Lynge
+Parmelia regnellii Lynge
 
 ### Remarks
 null

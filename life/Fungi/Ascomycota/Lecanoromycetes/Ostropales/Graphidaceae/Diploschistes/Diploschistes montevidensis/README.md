@@ -1,5 +1,4 @@
-Diploschistes montevidensis H. Magn. SPECIES
-=======
+# Diploschistes montevidensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

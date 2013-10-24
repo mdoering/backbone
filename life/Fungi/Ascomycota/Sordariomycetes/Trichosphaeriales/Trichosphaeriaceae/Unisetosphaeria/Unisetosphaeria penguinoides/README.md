@@ -1,5 +1,4 @@
-Unisetosphaeria penguinoides Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde, 2003 SPECIES
-=======
+# Unisetosphaeria penguinoides Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde, 2003 SPECIES
 
 #### Status
 ACCEPTED

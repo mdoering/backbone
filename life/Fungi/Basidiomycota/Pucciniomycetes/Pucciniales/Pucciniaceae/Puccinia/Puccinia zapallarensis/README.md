@@ -1,5 +1,4 @@
-Puccinia zapallarensis Jørst. SPECIES
-=======
+# Puccinia zapallarensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rusiophyllus Lasch SPECIES
-=======
+# Agaricus rusiophyllus Lasch SPECIES
 
 #### Status
 ACCEPTED

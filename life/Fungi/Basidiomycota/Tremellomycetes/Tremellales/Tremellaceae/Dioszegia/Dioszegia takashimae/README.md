@@ -1,5 +1,4 @@
-Dioszegia takashimae Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
-=======
+# Dioszegia takashimae Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
 
 #### Status
 ACCEPTED

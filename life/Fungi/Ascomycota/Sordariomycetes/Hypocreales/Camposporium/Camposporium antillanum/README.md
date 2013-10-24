@@ -1,5 +1,4 @@
-Camposporium antillanum R.F. Castañeda SPECIES
-=======
+# Camposporium antillanum R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

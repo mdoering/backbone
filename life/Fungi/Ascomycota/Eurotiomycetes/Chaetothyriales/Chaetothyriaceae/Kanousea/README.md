@@ -1,5 +1,4 @@
-Kanousea GENUS
-=======
+# Kanousea GENUS
 
 #### Status
 ACCEPTED

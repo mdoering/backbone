@@ -1,5 +1,4 @@
-Diplodia solanicola Sacc. SPECIES
-=======
+# Diplodia solanicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

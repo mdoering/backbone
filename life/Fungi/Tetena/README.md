@@ -1,5 +1,4 @@
-Tetena Raf. GENUS
-=======
+# Tetena Raf. GENUS
 
 #### Status
 ACCEPTED

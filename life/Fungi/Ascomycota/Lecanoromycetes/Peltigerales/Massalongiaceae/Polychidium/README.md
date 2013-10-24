@@ -1,17 +1,16 @@
-Leptogidiomyces Cif. & Tomas. GENUS
-=======
+# Polychidium (Ach.) Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 38, 65 (1953)
+Nat. Arr. Brit. Pl. (London) 1: 401 (1821)
 
 #### Original name
-Leptogidiomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

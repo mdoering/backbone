@@ -1,5 +1,4 @@
-Agaricus iacobinus Scop. SPECIES
-=======
+# Agaricus iacobinus Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathularia neesii Bres. SPECIES
-=======
+# Spathularia neesii Bres. SPECIES
 
 #### Status
 ACCEPTED

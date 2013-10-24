@@ -1,5 +1,4 @@
-Sporopodium argillaceum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sporopodium argillaceum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

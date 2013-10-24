@@ -1,5 +1,4 @@
-Wettsteinina sabalicola (Earle) M.E. Barr SPECIES
-=======
+# Wettsteinina sabalicola (Earle) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

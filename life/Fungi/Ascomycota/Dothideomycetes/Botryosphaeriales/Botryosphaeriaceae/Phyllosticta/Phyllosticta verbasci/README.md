@@ -1,5 +1,4 @@
-Phyllosticta verbasci Sacc. SPECIES
-=======
+# Phyllosticta verbasci Sacc. SPECIES
 
 #### Status
 ACCEPTED

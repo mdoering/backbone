@@ -1,17 +1,16 @@
-Paecilomyces fulvus Stolk & E.S. Salmon, 1971 SPECIES
-=======
+# Byssochlamys fulva Olliver & G. Sm., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 6(3): 354 (1971)
+J. Bot. , London 71: 196 (1933)
 
 #### Original name
-Paecilomyces fulvus Stolk & E.S. Salmon, 1971
+Byssochlamys fulva Olliver & G. Sm., 1933
 
 ### Remarks
 null

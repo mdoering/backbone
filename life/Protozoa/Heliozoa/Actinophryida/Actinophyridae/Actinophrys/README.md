@@ -1,5 +1,4 @@
-Actinophrys Ehrenberg, 1830 GENUS
-=======
+# Actinophrys Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

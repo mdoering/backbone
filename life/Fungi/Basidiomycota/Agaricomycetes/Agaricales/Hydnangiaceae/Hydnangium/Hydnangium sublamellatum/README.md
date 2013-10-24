@@ -1,5 +1,4 @@
-Hydnangium sublamellatum Bougher, Tommerup & Malajczuk SPECIES
-=======
+# Hydnangium sublamellatum Bougher, Tommerup & Malajczuk SPECIES
 
 #### Status
 ACCEPTED

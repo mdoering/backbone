@@ -1,5 +1,4 @@
-Omphalina pervirginea Murrill SPECIES
-=======
+# Omphalina pervirginea Murrill SPECIES
 
 #### Status
 ACCEPTED

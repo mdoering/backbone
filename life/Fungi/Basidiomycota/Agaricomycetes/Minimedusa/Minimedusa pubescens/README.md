@@ -1,5 +1,4 @@
-Minimedusa pubescens Diederich, Lawrey & Heylen SPECIES
-=======
+# Minimedusa pubescens Diederich, Lawrey & Heylen SPECIES
 
 #### Status
 ACCEPTED

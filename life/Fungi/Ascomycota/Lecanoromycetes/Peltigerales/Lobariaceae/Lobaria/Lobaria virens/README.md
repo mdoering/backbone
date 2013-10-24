@@ -1,17 +1,16 @@
-Lobaria laetevirens var. laetevirens VARIETY
-=======
+# Lobaria virens (With.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 188 (1906)
+Lichenologist 16(3): 227 (1984)
 
 #### Original name
-Lobaria laetevirens var. laetevirens
+Lichen virens With.
 
 ### Remarks
 null

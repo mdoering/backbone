@@ -1,5 +1,4 @@
-Gloeosporium alphitoniae Cooke & Massee SPECIES
-=======
+# Gloeosporium alphitoniae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

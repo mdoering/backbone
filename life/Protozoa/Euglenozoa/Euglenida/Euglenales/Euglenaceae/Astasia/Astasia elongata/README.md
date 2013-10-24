@@ -1,5 +1,4 @@
-Astasia elongata Skvortzov SPECIES
-=======
+# Astasia elongata Skvortzov SPECIES
 
 #### Status
 ACCEPTED

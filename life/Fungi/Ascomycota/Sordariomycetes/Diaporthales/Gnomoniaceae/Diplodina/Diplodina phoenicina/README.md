@@ -1,5 +1,4 @@
-Diplodina phoenicina S. Ahmad SPECIES
-=======
+# Diplodina phoenicina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

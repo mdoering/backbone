@@ -1,14 +1,13 @@
-Tubulicrinis umbracula (G. Cunn.) G. Cunn. SPECIES
-=======
+# Tubulicrinis umbraculus (G. Cunn.) G. Cunn., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 142 (1963)
 
 #### Original name
 Peniophora umbracula G. Cunn., 1955

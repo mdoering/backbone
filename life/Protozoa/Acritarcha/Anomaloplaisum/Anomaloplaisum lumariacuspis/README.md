@@ -1,5 +1,4 @@
-Anomaloplaisum lumariacuspis Tappan & Loeblich, 1971 SPECIES
-=======
+# Anomaloplaisum lumariacuspis Tappan & Loeblich, 1971 SPECIES
 
 #### Status
 ACCEPTED

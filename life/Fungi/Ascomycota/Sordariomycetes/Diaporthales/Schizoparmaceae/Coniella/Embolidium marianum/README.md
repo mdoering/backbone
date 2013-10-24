@@ -1,5 +1,4 @@
-Embolidium marianum Nádv. SPECIES
-=======
+# Embolidium marianum Nádv. SPECIES
 
 #### Status
 ACCEPTED

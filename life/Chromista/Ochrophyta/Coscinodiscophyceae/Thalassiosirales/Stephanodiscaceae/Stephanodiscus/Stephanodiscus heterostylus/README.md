@@ -1,5 +1,4 @@
-Stephanodiscus heterostylus Håk. & Meyer SPECIES
-=======
+# Stephanodiscus heterostylus Håk. & Meyer SPECIES
 
 #### Status
 ACCEPTED

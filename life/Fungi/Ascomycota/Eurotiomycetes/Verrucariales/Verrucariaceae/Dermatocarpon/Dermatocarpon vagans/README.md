@@ -1,5 +1,4 @@
-Dermatocarpon vagans Imshaug SPECIES
-=======
+# Dermatocarpon vagans Imshaug SPECIES
 
 #### Status
 ACCEPTED

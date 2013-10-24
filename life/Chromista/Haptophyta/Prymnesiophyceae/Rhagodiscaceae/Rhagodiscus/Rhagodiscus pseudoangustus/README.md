@@ -1,5 +1,4 @@
-Rhagodiscus pseudoangustus SPECIES
-=======
+# Rhagodiscus pseudoangustus SPECIES
 
 #### Status
 ACCEPTED

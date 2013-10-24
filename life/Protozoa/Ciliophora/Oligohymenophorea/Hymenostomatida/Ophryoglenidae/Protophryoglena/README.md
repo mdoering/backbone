@@ -1,5 +1,4 @@
-Protophryoglena GENUS
-=======
+# Protophryoglena GENUS
 
 #### Status
 ACCEPTED

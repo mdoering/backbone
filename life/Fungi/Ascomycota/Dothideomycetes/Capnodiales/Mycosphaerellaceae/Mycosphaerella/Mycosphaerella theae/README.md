@@ -1,5 +1,4 @@
-Mycosphaerella theae Hara SPECIES
-=======
+# Mycosphaerella theae Hara SPECIES
 
 #### Status
 ACCEPTED

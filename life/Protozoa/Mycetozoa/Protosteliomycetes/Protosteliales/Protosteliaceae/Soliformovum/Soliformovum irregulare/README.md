@@ -1,17 +1,16 @@
-Soliformovum irregularis (L.S. Olive & Stoian.) Spiegel SPECIES
-=======
+# Soliformovum irregulare (L.S. Olive & Stoian.) Spiegel, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Protostelium irregulare L.S. Olive & Stoian., 1969
+null
 
 ### Remarks
 null

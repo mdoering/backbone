@@ -1,5 +1,4 @@
-Mycena atroviolacea R. Heim SPECIES
-=======
+# Mycena atroviolacea R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laculatina Patterson & Richardson, 1988 GENUS
-=======
+# Laculatina Patterson & Richardson, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria hypococcinea (Jatta) Llano SPECIES
-=======
+# Umbilicaria hypococcinea (Jatta) Llano SPECIES
 
 #### Status
 ACCEPTED

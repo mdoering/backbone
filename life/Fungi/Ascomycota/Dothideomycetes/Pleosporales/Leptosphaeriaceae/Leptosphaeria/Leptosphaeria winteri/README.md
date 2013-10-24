@@ -1,5 +1,4 @@
-Leptosphaeria winteri Niessl SPECIES
-=======
+# Leptosphaeria winteri Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis isographoides (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis isographoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

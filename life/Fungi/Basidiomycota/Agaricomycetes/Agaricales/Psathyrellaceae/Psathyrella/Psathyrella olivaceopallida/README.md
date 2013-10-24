@@ -1,5 +1,4 @@
-Psathyrella olivaceopallida A.H. Sm. SPECIES
-=======
+# Psathyrella olivaceopallida A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

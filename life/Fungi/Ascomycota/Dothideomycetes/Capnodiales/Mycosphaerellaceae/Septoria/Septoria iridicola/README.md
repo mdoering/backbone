@@ -1,5 +1,4 @@
-Septoria iridicola Hollós SPECIES
-=======
+# Septoria iridicola Hollós SPECIES
 
 #### Status
 ACCEPTED

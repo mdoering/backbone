@@ -1,5 +1,4 @@
-Clitocybe rhizoides H.E. Bigelow & Hesler SPECIES
-=======
+# Clitocybe rhizoides H.E. Bigelow & Hesler SPECIES
 
 #### Status
 ACCEPTED

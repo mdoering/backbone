@@ -1,5 +1,4 @@
-Rickia nephanis Scheloske SPECIES
-=======
+# Rickia nephanis Scheloske SPECIES
 
 #### Status
 ACCEPTED

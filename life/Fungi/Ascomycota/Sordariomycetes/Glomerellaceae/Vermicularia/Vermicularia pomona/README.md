@@ -1,5 +1,4 @@
-Vermicularia pomona Sacc. SPECIES
-=======
+# Vermicularia pomona Sacc. SPECIES
 
 #### Status
 ACCEPTED

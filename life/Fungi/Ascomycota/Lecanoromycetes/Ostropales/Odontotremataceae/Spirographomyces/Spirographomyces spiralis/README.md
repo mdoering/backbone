@@ -1,5 +1,4 @@
-Spirographomyces spiralis Cif. & Tomas. SPECIES
-=======
+# Spirographomyces spiralis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

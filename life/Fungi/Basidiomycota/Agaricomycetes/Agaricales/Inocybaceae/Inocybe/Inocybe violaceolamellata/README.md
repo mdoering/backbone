@@ -1,5 +1,4 @@
-Inocybe violaceolamellata Rick SPECIES
-=======
+# Inocybe violaceolamellata Rick SPECIES
 
 #### Status
 ACCEPTED

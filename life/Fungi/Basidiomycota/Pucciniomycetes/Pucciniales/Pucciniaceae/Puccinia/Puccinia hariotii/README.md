@@ -1,17 +1,16 @@
-Puccinia harioti Lagerh. SPECIES
-=======
+# Puccinia hariotii Lagerh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Tremö Mus. Aarcheft 135 (1893)
 
 #### Original name
-Puccinia harioti Lagerh.
+Puccinia hariotii Lagerh.
 
 ### Remarks
 null

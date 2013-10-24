@@ -1,5 +1,4 @@
-Scindalma obockense (Pat.) Kuntze SPECIES
-=======
+# Scindalma obockense (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

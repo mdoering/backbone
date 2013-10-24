@@ -1,5 +1,4 @@
-Pterula densissima Berk. & M.A. Curtis SPECIES
-=======
+# Pterula densissima Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

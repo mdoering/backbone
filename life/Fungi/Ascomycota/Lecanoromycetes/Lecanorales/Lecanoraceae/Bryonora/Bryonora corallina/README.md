@@ -1,5 +1,4 @@
-Bryonora corallina Poelt SPECIES
-=======
+# Bryonora corallina Poelt SPECIES
 
 #### Status
 ACCEPTED

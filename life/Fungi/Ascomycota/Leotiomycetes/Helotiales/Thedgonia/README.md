@@ -1,5 +1,4 @@
-Thedgonia B. Sutton, 1973 GENUS
-=======
+# Thedgonia B. Sutton, 1973 GENUS
 
 #### Status
 ACCEPTED

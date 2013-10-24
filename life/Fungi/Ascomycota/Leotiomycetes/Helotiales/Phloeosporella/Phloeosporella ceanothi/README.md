@@ -1,14 +1,13 @@
-Cylindrosporium ceanothi Ellis & Everh., 1891 SPECIES
-=======
+# Phloeosporella ceanothi (Ellis & Everh.) Höhn., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1891 43: 84 (1891)
+Annls mycol. 22(1/2): 201 (1924)
 
 #### Original name
 Cylindrosporium ceanothi Ellis & Everh., 1891

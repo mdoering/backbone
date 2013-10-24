@@ -1,5 +1,4 @@
-Lactarius amarus R. Heim, 1938 SPECIES
-=======
+# Lactarius amarus R. Heim, 1938 SPECIES
 
 #### Status
 ACCEPTED

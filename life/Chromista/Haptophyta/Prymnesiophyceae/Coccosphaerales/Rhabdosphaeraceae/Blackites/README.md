@@ -1,5 +1,4 @@
-Blackites Hay & Towe GENUS
-=======
+# Blackites Hay & Towe GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynophrya companula Schröder, 1906 SPECIES
-=======
+# Corynophrya companula Schröder, 1906 SPECIES
 
 #### Status
 ACCEPTED

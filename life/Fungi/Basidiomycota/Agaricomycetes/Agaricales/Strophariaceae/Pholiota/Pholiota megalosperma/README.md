@@ -1,5 +1,4 @@
-Pholiota megalosperma Singer SPECIES
-=======
+# Pholiota megalosperma Singer SPECIES
 
 #### Status
 ACCEPTED

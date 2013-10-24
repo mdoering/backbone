@@ -1,5 +1,4 @@
-Sebaldella Collins & Shah, 1986 GENUS
-=======
+# Sebaldella Collins & Shah, 1986 GENUS
 
 #### Status
 ACCEPTED

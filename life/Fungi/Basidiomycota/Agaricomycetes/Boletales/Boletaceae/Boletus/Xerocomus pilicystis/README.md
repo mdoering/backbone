@@ -1,5 +1,4 @@
-Xerocomus pilicystis Heinem. SPECIES
-=======
+# Xerocomus pilicystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

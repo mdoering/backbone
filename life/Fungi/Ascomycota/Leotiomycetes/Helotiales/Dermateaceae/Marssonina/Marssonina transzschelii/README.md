@@ -1,5 +1,4 @@
-Marssonina transzschelii SPECIES
-=======
+# Marssonina transzschelii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma izarnii (Roum.) Sacc. SPECIES
-=======
+# Tricholoma izarnii (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

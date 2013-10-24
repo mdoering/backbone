@@ -1,5 +1,4 @@
-Verrucaria variegata Clemente SPECIES
-=======
+# Verrucaria variegata Clemente SPECIES
 
 #### Status
 ACCEPTED

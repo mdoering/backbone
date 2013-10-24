@@ -1,5 +1,4 @@
-Nectria palmicola Goh & K.D. Hyde SPECIES
-=======
+# Nectria palmicola Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

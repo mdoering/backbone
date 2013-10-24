@@ -1,5 +1,4 @@
-Belonium subgibbosum (Ellis) Sacc. SPECIES
-=======
+# Belonium subgibbosum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

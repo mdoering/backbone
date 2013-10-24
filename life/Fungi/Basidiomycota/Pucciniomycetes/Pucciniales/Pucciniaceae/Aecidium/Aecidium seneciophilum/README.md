@@ -1,5 +1,4 @@
-Aecidium seneciophilum Speg. SPECIES
-=======
+# Aecidium seneciophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

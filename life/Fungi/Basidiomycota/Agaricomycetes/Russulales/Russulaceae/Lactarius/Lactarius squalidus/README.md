@@ -1,5 +1,4 @@
-Lactarius squalidus (Krombh.) Fr. SPECIES
-=======
+# Lactarius squalidus (Krombh.) Fr. SPECIES
 
 #### Status
 ACCEPTED

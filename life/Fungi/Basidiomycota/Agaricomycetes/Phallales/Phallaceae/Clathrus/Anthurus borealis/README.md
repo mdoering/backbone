@@ -1,5 +1,4 @@
-Anthurus borealis Burt SPECIES
-=======
+# Anthurus borealis Burt SPECIES
 
 #### Status
 ACCEPTED

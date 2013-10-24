@@ -1,5 +1,4 @@
-Colletotrichum cylindricum S.N.S. Srivast. SPECIES
-=======
+# Colletotrichum cylindricum S.N.S. Srivast. SPECIES
 
 #### Status
 ACCEPTED

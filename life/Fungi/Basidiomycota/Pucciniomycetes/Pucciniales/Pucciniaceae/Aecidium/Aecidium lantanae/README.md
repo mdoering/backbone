@@ -1,5 +1,4 @@
-Aecidium lantanae Mayor SPECIES
-=======
+# Aecidium lantanae Mayor SPECIES
 
 #### Status
 ACCEPTED

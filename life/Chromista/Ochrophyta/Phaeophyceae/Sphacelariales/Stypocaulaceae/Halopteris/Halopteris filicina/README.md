@@ -1,8 +1,7 @@
-Halopteris filicina var. sertularia Batters VARIETY
-=======
+# Halopteris filicina (Grateloup) Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Chaetoplea umbilicata (Ellis) M.E. Barr SPECIES
-=======
+# Chaetoplea umbilicata (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

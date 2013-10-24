@@ -1,5 +1,4 @@
-Potaspora G. Casal, E. Matos, M.L. Teles-Grilo & C. Azevedo GENUS
-=======
+# Potaspora G. Casal, E. Matos, M.L. Teles-Grilo & C. Azevedo GENUS
 
 #### Status
 ACCEPTED

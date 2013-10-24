@@ -1,5 +1,4 @@
-Lalaria johansonii R.T. Moore SPECIES
-=======
+# Lalaria johansonii R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

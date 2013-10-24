@@ -1,5 +1,4 @@
-Puccinia maublancii Rangel SPECIES
-=======
+# Puccinia maublancii Rangel SPECIES
 
 #### Status
 ACCEPTED

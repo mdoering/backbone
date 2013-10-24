@@ -1,5 +1,4 @@
-Oscillatoria jasorvensis f. curva B. Tracanna FORM
-=======
+# Oscillatoria jasorvensis Vouk SPECIES
 
 #### Status
 ACCEPTED

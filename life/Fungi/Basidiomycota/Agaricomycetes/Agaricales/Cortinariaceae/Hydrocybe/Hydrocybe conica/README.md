@@ -1,5 +1,4 @@
-Hydrocybe conica Velen. SPECIES
-=======
+# Hydrocybe conica Velen. SPECIES
 
 #### Status
 ACCEPTED

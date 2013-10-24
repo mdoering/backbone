@@ -1,5 +1,4 @@
-Calothrix stellulata Zanardini SPECIES
-=======
+# Calothrix stellulata Zanardini SPECIES
 
 #### Status
 ACCEPTED

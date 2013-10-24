@@ -1,5 +1,4 @@
-Barlaeina subcaerulea (Kirschst.) Sacc. & Trotter SPECIES
-=======
+# Barlaeina subcaerulea (Kirschst.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

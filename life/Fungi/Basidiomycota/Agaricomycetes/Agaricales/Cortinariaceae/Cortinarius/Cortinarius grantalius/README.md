@@ -1,5 +1,4 @@
-Cortinarius grantalius Grgur. SPECIES
-=======
+# Cortinarius grantalius Grgur. SPECIES
 
 #### Status
 ACCEPTED

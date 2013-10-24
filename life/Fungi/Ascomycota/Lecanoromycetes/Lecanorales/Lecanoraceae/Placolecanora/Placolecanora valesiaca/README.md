@@ -1,5 +1,4 @@
-Placolecanora valesiaca (Müll. Arg.) B. de Lesd. SPECIES
-=======
+# Placolecanora valesiaca (Müll. Arg.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

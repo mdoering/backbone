@@ -1,5 +1,4 @@
-Xerotus pusillus Berk. & M.A. Curtis SPECIES
-=======
+# Xerotus pusillus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

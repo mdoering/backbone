@@ -1,5 +1,4 @@
-Lactarius opacus Pers. SPECIES
-=======
+# Lactarius opacus Pers. SPECIES
 
 #### Status
 ACCEPTED

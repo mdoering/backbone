@@ -1,5 +1,4 @@
-Ascochyta gerberae Maffei, 1913 SPECIES
-=======
+# Ascochyta gerberae Maffei, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma orchidum Link SPECIES
-=======
+# Caeoma orchidum Link SPECIES
 
 #### Status
 ACCEPTED

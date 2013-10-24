@@ -1,5 +1,4 @@
-Tuburcinia antucensis Liro SPECIES
-=======
+# Tuburcinia antucensis Liro SPECIES
 
 #### Status
 ACCEPTED

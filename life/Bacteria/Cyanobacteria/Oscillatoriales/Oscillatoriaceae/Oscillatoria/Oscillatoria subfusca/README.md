@@ -1,5 +1,4 @@
-Oscillatoria subfusca Vaucher SPECIES
-=======
+# Oscillatoria subfusca Vaucher SPECIES
 
 #### Status
 ACCEPTED

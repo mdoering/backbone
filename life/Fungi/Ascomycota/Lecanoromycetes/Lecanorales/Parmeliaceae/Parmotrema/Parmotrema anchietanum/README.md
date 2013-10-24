@@ -1,5 +1,4 @@
-Parmotrema anchietanum Marcelli, Benatti & Elix SPECIES
-=======
+# Parmotrema anchietanum Marcelli, Benatti & Elix SPECIES
 
 #### Status
 ACCEPTED

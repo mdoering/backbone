@@ -1,5 +1,4 @@
-Phomopsis gardeniae Buddin & Wakef., 1938 SPECIES
-=======
+# Phomopsis gardeniae Buddin & Wakef., 1938 SPECIES
 
 #### Status
 ACCEPTED

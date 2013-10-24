@@ -1,5 +1,4 @@
-Lepista leucopaxilloides (H.E. Bigelow & A.H. Sm.) Pomerl. SPECIES
-=======
+# Lepista leucopaxilloides (H.E. Bigelow & A.H. Sm.) Pomerl. SPECIES
 
 #### Status
 ACCEPTED

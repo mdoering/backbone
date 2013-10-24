@@ -1,5 +1,4 @@
-Helminthosporium papulosum f. sp FORM
-=======
+# Helminthosporium papulosum Anth. Berg SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Phytopathology 61: 313 (1971)
+Pamietn. Towarz. Nauk Sci. Paryzo 260: 14 (1934)
 
 #### Original name
-Helminthosporium papulosum f. sp
+Helminthosporium papulosum Anth. Berg
 
 ### Remarks
 null

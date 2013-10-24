@@ -1,5 +1,4 @@
-Physcia imbricata Vain. SPECIES
-=======
+# Physcia imbricata Vain. SPECIES
 
 #### Status
 ACCEPTED

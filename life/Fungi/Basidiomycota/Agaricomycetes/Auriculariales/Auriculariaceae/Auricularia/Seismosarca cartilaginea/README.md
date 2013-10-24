@@ -1,5 +1,4 @@
-Seismosarca cartilaginea L.S. Olive SPECIES
-=======
+# Seismosarca cartilaginea L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

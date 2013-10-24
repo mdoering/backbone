@@ -1,5 +1,4 @@
-Phyllosticta prunigena Grove SPECIES
-=======
+# Phyllosticta prunigena Grove SPECIES
 
 #### Status
 ACCEPTED

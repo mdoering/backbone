@@ -1,5 +1,4 @@
-Corticium straminicola Pidopl. SPECIES
-=======
+# Corticium straminicola Pidopl. SPECIES
 
 #### Status
 ACCEPTED

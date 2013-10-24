@@ -1,5 +1,4 @@
-Uredo tephrosiicola Henn. SPECIES
-=======
+# Uredo tephrosiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

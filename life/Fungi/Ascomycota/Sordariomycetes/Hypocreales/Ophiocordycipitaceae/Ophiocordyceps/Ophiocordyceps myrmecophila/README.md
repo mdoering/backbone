@@ -1,14 +1,13 @@
-Torrubia myrmecophila (Ces.) Tul. {?} SPECIES
-=======
+# Ophiocordyceps myrmecophila (Ces.) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 45 (2007)
 
 #### Original name
 Cordyceps myrmecophila Ces., 1861

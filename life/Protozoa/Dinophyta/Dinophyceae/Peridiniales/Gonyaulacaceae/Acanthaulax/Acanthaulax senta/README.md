@@ -1,5 +1,4 @@
-Acanthaulax senta Drugg, 1978 SPECIES
-=======
+# Acanthaulax senta Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

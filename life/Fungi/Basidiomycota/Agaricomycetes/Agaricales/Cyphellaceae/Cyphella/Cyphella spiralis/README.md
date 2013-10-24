@@ -1,5 +1,4 @@
-Cyphella spiralis Coker SPECIES
-=======
+# Cyphella spiralis Coker SPECIES
 
 #### Status
 ACCEPTED

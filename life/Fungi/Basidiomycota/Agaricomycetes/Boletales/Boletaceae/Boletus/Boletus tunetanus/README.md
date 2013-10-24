@@ -1,5 +1,4 @@
-Boletus tunetanus Pat. SPECIES
-=======
+# Boletus tunetanus Pat. SPECIES
 
 #### Status
 ACCEPTED

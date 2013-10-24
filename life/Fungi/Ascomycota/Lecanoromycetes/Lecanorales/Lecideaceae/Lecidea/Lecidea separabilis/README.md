@@ -1,5 +1,4 @@
-Lecidea separabilis Nyl. SPECIES
-=======
+# Lecidea separabilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

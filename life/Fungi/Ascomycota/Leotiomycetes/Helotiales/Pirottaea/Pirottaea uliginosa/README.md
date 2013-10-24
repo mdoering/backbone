@@ -1,5 +1,4 @@
-Pirottaea uliginosa P. Karst. SPECIES
-=======
+# Pirottaea uliginosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

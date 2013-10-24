@@ -1,5 +1,4 @@
-Thalassophysa Haeckel, 1881 GENUS
-=======
+# Thalassophysa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria berberidis Niessl SPECIES
-=======
+# Septoria berberidis Niessl SPECIES
 
 #### Status
 ACCEPTED

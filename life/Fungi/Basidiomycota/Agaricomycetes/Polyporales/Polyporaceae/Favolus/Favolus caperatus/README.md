@@ -1,5 +1,4 @@
-Favolus caperatus Pat. SPECIES
-=======
+# Favolus caperatus Pat. SPECIES
 
 #### Status
 ACCEPTED

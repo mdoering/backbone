@@ -1,5 +1,4 @@
-Mycena festucae Velen. SPECIES
-=======
+# Mycena festucae Velen. SPECIES
 
 #### Status
 ACCEPTED

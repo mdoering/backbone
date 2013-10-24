@@ -1,8 +1,7 @@
-Thermomonospora formosensis Hasegawa et al., 1986 SPECIES
-=======
+# Actinomadura formosensis (Hasegawa et al., 1986) Zhang et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

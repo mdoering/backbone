@@ -1,5 +1,4 @@
-Cappellettia GENUS
-=======
+# Cappellettia GENUS
 
 #### Status
 ACCEPTED

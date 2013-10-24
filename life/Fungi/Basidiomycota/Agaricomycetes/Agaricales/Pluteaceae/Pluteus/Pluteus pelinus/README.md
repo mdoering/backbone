@@ -1,5 +1,4 @@
-Pluteus pelinus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pluteus pelinus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

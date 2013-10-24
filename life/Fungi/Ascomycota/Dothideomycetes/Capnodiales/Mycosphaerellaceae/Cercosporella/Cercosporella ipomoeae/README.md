@@ -1,5 +1,4 @@
-Cercosporella ipomoeae Sawada SPECIES
-=======
+# Cercosporella ipomoeae Sawada SPECIES
 
 #### Status
 ACCEPTED

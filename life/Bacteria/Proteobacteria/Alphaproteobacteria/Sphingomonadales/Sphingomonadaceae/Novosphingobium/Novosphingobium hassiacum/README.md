@@ -1,5 +1,4 @@
-Novosphingobium hassiacum Kämpfer et al., 2002 SPECIES
-=======
+# Novosphingobium hassiacum Kämpfer et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

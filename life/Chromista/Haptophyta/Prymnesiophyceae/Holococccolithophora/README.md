@@ -1,5 +1,4 @@
-Holococccolithophora GENUS
-=======
+# Holococccolithophora GENUS
 
 #### Status
 ACCEPTED

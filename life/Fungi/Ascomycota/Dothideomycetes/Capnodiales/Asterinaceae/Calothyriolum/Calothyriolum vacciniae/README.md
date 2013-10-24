@@ -1,5 +1,4 @@
-Calothyriolum vacciniae Bat. & H. Maia SPECIES
-=======
+# Calothyriolum vacciniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

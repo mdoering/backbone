@@ -1,5 +1,4 @@
-Fragilariophyceae CLASS
-=======
+# Fragilariophyceae CLASS
 
 #### Status
 ACCEPTED

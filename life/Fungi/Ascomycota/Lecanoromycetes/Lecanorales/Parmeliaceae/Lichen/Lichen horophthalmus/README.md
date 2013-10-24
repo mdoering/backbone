@@ -1,5 +1,4 @@
-Lichen horophthalmus Ach. SPECIES
-=======
+# Lichen horophthalmus Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia treilii Stirt. SPECIES
-=======
+# Arthonia treilii Stirt. SPECIES
 
 #### Status
 ACCEPTED

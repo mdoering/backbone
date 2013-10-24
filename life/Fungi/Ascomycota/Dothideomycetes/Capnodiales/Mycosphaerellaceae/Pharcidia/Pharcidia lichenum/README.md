@@ -1,5 +1,4 @@
-Pharcidia lichenum Arnold SPECIES
-=======
+# Pharcidia lichenum Arnold SPECIES
 
 #### Status
 ACCEPTED

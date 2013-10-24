@@ -1,5 +1,4 @@
-Phyllosticta tricalysiae A.L. Sm. SPECIES
-=======
+# Phyllosticta tricalysiae A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

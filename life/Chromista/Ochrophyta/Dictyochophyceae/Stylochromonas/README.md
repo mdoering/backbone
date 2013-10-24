@@ -1,5 +1,4 @@
-Stylochromonas Lackey, 1940 GENUS
-=======
+# Stylochromonas Lackey, 1940 GENUS
 
 #### Status
 ACCEPTED

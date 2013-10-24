@@ -1,17 +1,16 @@
-Colletotrichum dalberginiae C.C. Chen SPECIES
-=======
+# Colletotrichum dalbergiae C.C. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Plant Protection Bulletin, Taiwan 10(4): 17 (1968)
 
 #### Original name
-Colletotrichum dalberginiae C.C. Chen
+Colletotrichum dalbergiae C.C. Chen
 
 ### Remarks
 null

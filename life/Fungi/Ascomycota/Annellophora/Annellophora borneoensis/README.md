@@ -1,5 +1,4 @@
-Annellophora borneoensis M.B. Ellis SPECIES
-=======
+# Annellophora borneoensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endemosarca ubatubensis Erdos & L.S. Olive, 1971 SPECIES
-=======
+# Endemosarca ubatubensis Erdos & L.S. Olive, 1971 SPECIES
 
 #### Status
 ACCEPTED

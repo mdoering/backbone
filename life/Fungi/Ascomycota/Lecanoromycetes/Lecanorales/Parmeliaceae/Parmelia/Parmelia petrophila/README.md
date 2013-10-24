@@ -1,5 +1,4 @@
-Parmelia petrophila Vain. SPECIES
-=======
+# Parmelia petrophila Vain. SPECIES
 
 #### Status
 ACCEPTED

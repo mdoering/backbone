@@ -1,5 +1,4 @@
-Phomopsis gliricidiae Syd. & P. Syd. SPECIES
-=======
+# Phomopsis gliricidiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

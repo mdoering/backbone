@@ -1,5 +1,4 @@
-Scleroderma arenicola Zeller SPECIES
-=======
+# Scleroderma arenicola Zeller SPECIES
 
 #### Status
 ACCEPTED

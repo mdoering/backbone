@@ -1,5 +1,4 @@
-Monographos minor L. Holm & K. Holm SPECIES
-=======
+# Monographos minor L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

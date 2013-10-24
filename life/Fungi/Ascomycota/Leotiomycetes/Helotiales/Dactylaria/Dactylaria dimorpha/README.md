@@ -1,5 +1,4 @@
-Dactylaria dimorpha Matsush., 1975 SPECIES
-=======
+# Dactylaria dimorpha Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

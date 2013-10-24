@@ -1,5 +1,4 @@
-Borealophlyctis paxensis Letcher, 2008 SPECIES
-=======
+# Borealophlyctis paxensis Letcher, 2008 SPECIES
 
 #### Status
 ACCEPTED

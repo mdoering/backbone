@@ -1,5 +1,4 @@
-Berengeria confragosa SPECIES
-=======
+# Berengeria confragosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia fibrillosa (Wallr.) Sacc. SPECIES
-=======
+# Tapesia fibrillosa (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

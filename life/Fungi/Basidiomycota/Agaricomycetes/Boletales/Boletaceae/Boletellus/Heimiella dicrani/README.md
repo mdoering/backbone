@@ -1,17 +1,16 @@
-Heimiella dicranii Racov. SPECIES
-=======
+# Heimiella dicrani Racov. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Mus. natn Hist. nat. Paris, Paris 10: 193 (1959)
 
 #### Original name
-Heimiella dicranii Racov.
+Heimiella dicrani Racov.
 
 ### Remarks
 null

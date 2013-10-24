@@ -1,5 +1,4 @@
-Mniopetalum distinctum E. Horak, 1980 SPECIES
-=======
+# Mniopetalum distinctum E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

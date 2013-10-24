@@ -1,5 +1,4 @@
-Lophidiopsis paraguayensis Speg. SPECIES
-=======
+# Lophidiopsis paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

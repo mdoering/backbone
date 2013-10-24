@@ -1,5 +1,4 @@
-Marasmiellus amphicystis Singer SPECIES
-=======
+# Marasmiellus amphicystis Singer SPECIES
 
 #### Status
 ACCEPTED

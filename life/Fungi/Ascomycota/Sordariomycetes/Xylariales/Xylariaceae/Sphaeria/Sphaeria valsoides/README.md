@@ -1,5 +1,4 @@
-Sphaeria valsoides Peck SPECIES
-=======
+# Sphaeria valsoides Peck SPECIES
 
 #### Status
 ACCEPTED

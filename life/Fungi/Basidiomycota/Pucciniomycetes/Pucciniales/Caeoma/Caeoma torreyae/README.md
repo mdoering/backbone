@@ -1,5 +1,4 @@
-Caeoma torreyae Bonar SPECIES
-=======
+# Caeoma torreyae Bonar SPECIES
 
 #### Status
 ACCEPTED

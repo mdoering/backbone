@@ -1,5 +1,4 @@
-Agaricus subcitrinus Berk. & Broome SPECIES
-=======
+# Agaricus subcitrinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

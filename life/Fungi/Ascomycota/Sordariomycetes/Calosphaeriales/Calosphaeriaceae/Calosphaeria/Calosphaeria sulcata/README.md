@@ -1,5 +1,4 @@
-Calosphaeria sulcata Petch SPECIES
-=======
+# Calosphaeria sulcata Petch SPECIES
 
 #### Status
 ACCEPTED

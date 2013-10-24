@@ -1,5 +1,4 @@
-Puccinia tillandsiae Cummins & Pollack SPECIES
-=======
+# Puccinia tillandsiae Cummins & Pollack SPECIES
 
 #### Status
 ACCEPTED

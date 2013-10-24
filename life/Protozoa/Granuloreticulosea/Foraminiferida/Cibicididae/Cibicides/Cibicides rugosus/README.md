@@ -1,5 +1,4 @@
-Cibicides rugosus Phleger & Parker, 1951 SPECIES
-=======
+# Cibicides rugosus Phleger & Parker, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunulus subtenuipes Murrill SPECIES
-=======
+# Prunulus subtenuipes Murrill SPECIES
 
 #### Status
 ACCEPTED

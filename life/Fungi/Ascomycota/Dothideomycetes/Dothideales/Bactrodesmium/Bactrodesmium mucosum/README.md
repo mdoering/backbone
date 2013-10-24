@@ -1,5 +1,4 @@
-Bactrodesmium mucosum K. Matsush. & Matsush. SPECIES
-=======
+# Bactrodesmium mucosum K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola dehradunensis Gawande & D.K. Agarwal SPECIES
-=======
+# Meliola dehradunensis Gawande & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

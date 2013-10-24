@@ -1,5 +1,4 @@
-Pseudocercospora tetramelis A.N. Shukla & Sarmah SPECIES
-=======
+# Pseudocercospora tetramelis A.N. Shukla & Sarmah SPECIES
 
 #### Status
 ACCEPTED

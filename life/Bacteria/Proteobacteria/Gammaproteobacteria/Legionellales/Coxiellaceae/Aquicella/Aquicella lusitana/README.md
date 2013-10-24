@@ -1,5 +1,4 @@
-Aquicella lusitana Santos et al., 2004 SPECIES
-=======
+# Aquicella lusitana Santos et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

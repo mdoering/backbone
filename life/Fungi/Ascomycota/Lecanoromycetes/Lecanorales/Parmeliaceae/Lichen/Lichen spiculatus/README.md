@@ -1,5 +1,4 @@
-Lichen spiculatus Ach. SPECIES
-=======
+# Lichen spiculatus Ach. SPECIES
 
 #### Status
 ACCEPTED

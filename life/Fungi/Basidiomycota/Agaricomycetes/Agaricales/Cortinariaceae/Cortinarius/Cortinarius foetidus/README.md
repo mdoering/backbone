@@ -1,5 +1,4 @@
-Cortinarius foetidus P. Karst. SPECIES
-=======
+# Cortinarius foetidus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

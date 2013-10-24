@@ -1,5 +1,4 @@
-Pyrenula deliquescens (C. Knight) Müll. Arg. SPECIES
-=======
+# Pyrenula deliquescens (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

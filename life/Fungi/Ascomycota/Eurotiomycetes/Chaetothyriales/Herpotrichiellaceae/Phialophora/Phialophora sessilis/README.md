@@ -1,5 +1,4 @@
-Phialophora sessilis de Hoog SPECIES
-=======
+# Phialophora sessilis de Hoog SPECIES
 
 #### Status
 ACCEPTED

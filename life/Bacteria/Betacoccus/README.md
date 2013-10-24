@@ -1,5 +1,4 @@
-Betacoccus GENUS
-=======
+# Betacoccus GENUS
 
 #### Status
 ACCEPTED

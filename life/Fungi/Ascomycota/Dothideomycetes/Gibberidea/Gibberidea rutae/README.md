@@ -1,5 +1,4 @@
-Gibberidea rutae (Fabre) Kuntze SPECIES
-=======
+# Gibberidea rutae (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

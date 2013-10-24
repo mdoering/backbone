@@ -1,14 +1,13 @@
-Nigredo clignyi (Pat. & Har.) Arthur, 1920 SPECIES
-=======
+# Uromyces clignyi Pat. & Har., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 224 (1920)
+J. Bot. Morot 14: 237 (1900)
 
 #### Original name
 Uromyces clignyi Pat. & Har., 1900

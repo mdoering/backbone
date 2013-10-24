@@ -1,8 +1,7 @@
-Neisseria cuniculi Berger, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Moraxella cuniculi (Berger, 1962) Bøvre & Hagen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

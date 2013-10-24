@@ -1,5 +1,4 @@
-Ramalina kuschei B. de Lesd. SPECIES
-=======
+# Ramalina kuschei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetodiplodia chaetomioides (Ces.) Sacc. SPECIES
-=======
+# Chaetodiplodia chaetomioides (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

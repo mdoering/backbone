@@ -1,5 +1,4 @@
-Geogemma indica Kashefi, Holmes & Lovley, 2006 SPECIES
-=======
+# Geogemma indica Kashefi, Holmes & Lovley, 2006 SPECIES
 
 #### Status
 ACCEPTED

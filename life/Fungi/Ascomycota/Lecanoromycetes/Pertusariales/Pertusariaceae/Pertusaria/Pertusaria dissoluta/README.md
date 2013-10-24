@@ -1,5 +1,4 @@
-Pertusaria dissoluta Erichsen SPECIES
-=======
+# Pertusaria dissoluta Erichsen SPECIES
 
 #### Status
 ACCEPTED

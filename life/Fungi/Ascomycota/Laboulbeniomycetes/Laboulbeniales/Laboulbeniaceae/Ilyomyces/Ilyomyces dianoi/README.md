@@ -1,5 +1,4 @@
-Ilyomyces dianoi A. Weir, 1995 SPECIES
-=======
+# Ilyomyces dianoi A. Weir, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina magellanica (Fr.) Müll. Arg. SPECIES
-=======
+# Stictina magellanica (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

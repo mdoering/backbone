@@ -1,17 +1,16 @@
-Metasphaeria subcutanea Sacc., 1883 SPECIES
-=======
+# Lophiostoma subcutanea (Sacc.) Huhndorf, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 167 (1883)
+Bull. Ill. nat. Hist. Surv. 34(5): 503 (1992)
 
 #### Original name
-Sphaeria subcutanea Wahlenb., 1812
+Metasphaeria subcutanea Sacc., 1883
 
 ### Remarks
 null

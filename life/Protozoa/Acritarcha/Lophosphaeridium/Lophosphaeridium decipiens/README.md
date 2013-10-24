@@ -1,5 +1,4 @@
-Lophosphaeridium decipiens (Timofeev, 1959 ex Downie & Sarjeant, 1965) Martin, 1969 SPECIES
-=======
+# Lophosphaeridium decipiens (Timofeev, 1959 ex Downie & Sarjeant, 1965) Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

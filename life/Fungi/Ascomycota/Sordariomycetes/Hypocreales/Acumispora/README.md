@@ -1,5 +1,4 @@
-Acumispora Matsush. GENUS
-=======
+# Acumispora Matsush. GENUS
 
 #### Status
 ACCEPTED

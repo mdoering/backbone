@@ -1,5 +1,4 @@
-Devriesia americana Crous & Dugan, 2007 SPECIES
-=======
+# Devriesia americana Crous & Dugan, 2007 SPECIES
 
 #### Status
 ACCEPTED

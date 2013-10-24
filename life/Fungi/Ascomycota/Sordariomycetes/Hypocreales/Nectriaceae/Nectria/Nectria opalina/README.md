@@ -1,5 +1,4 @@
-Nectria opalina P. Crouan & H. Crouan SPECIES
-=======
+# Nectria opalina P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

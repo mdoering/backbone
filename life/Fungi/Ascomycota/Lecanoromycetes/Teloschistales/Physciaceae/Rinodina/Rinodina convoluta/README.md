@@ -1,5 +1,4 @@
-Rinodina convoluta Linds. SPECIES
-=======
+# Rinodina convoluta Linds. SPECIES
 
 #### Status
 ACCEPTED

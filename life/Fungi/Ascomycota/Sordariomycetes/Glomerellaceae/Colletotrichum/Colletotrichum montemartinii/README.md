@@ -1,5 +1,4 @@
-Colletotrichum montemartinii f. montemartinii Tognini FORM
-=======
+# Colletotrichum montemartinii Tognini SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Atti Ist. bot. R. Univ. Pavia, N. S. 3: (1892)
 
 #### Original name
-Colletotrichum montemartinii f. montemartinii Tognini
+Colletotrichum montemartinii Tognini
 
 ### Remarks
 null

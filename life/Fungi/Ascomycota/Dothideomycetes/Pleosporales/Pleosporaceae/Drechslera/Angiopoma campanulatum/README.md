@@ -1,5 +1,4 @@
-Angiopoma campanulatum Lév. SPECIES
-=======
+# Angiopoma campanulatum Lév. SPECIES
 
 #### Status
 ACCEPTED

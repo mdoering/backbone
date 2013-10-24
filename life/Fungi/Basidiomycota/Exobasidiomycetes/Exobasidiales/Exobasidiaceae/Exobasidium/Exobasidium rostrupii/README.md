@@ -1,5 +1,4 @@
-Exobasidium rostrupii Nannf., 1981 SPECIES
-=======
+# Exobasidium rostrupii Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithellidae FAMILY
-=======
+# Lithellidae FAMILY
 
 #### Status
 ACCEPTED

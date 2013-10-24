@@ -1,5 +1,4 @@
-Buellia termitum Vain. SPECIES
-=======
+# Buellia termitum Vain. SPECIES
 
 #### Status
 ACCEPTED

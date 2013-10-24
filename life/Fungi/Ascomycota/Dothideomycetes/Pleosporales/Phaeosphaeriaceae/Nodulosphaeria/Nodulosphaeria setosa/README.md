@@ -1,5 +1,4 @@
-Nodulosphaeria setosa E. Müll. & S. Ahmad SPECIES
-=======
+# Nodulosphaeria setosa E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

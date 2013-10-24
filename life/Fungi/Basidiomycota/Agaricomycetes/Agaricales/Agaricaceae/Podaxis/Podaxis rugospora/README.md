@@ -1,5 +1,4 @@
-Podaxis rugospora De Villiers, Eicker & Van der Westh. SPECIES
-=======
+# Podaxis rugospora De Villiers, Eicker & Van der Westh. SPECIES
 
 #### Status
 ACCEPTED

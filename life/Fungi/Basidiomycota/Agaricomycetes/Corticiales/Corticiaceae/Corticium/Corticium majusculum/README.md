@@ -1,5 +1,4 @@
-Corticium majusculum Speg. SPECIES
-=======
+# Corticium majusculum Speg. SPECIES
 
 #### Status
 ACCEPTED

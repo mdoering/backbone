@@ -1,5 +1,4 @@
-Cladonia calycanthoides (Vain.) Ahti & Marcelli SPECIES
-=======
+# Cladonia calycanthoides (Vain.) Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

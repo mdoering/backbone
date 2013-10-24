@@ -1,14 +1,13 @@
-Ciboria brockesiae (Henn.) Höhn., 1911 SPECIES
-=======
+# Moellerodiscus brockesiae Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 120: 387 (1911)
+Hedwigia 41: (1902)
 
 #### Original name
 Moellerodiscus brockesiae Henn., 1902

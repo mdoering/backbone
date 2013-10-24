@@ -1,11 +1,10 @@
-Rhizosolenia antarctica Karsten, 1905 SPECIES
-=======
+# Guinardia cylindrus (P.T. Cleve) G.R. Hasle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,14 +1,13 @@
-Phoma ruttneri (Petr.) Boerema & Kesteren, 1981 SPECIES
-=======
+# Plenodomus ruttneri Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 11(3): 324 (1981)
+Sydowia 9: 582 (1955)
 
 #### Original name
 Plenodomus ruttneri Petr., 1955

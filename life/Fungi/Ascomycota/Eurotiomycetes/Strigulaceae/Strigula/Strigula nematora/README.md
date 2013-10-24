@@ -1,5 +1,4 @@
-Strigula nematora Nyl. SPECIES
-=======
+# Strigula nematora Nyl. SPECIES
 
 #### Status
 ACCEPTED

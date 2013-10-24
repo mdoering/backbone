@@ -1,5 +1,4 @@
-Uncinula confusa Massee SPECIES
-=======
+# Uncinula confusa Massee SPECIES
 
 #### Status
 ACCEPTED

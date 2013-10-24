@@ -1,5 +1,4 @@
-Pseudocercosporella gyrocarpi Karan & J.L. Mulder SPECIES
-=======
+# Pseudocercosporella gyrocarpi Karan & J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Okkolithus F.H.Wind & S.W.Wise, 1977 GENUS
-=======
+# Okkolithus F.H.Wind & S.W.Wise, 1977 GENUS
 
 #### Status
 ACCEPTED

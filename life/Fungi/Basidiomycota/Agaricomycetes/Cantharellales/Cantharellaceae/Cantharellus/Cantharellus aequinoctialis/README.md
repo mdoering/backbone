@@ -1,5 +1,4 @@
-Cantharellus aequinoctialis Link SPECIES
-=======
+# Cantharellus aequinoctialis Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doryconthidium Vinassa de Regny, 1898 GENUS
-=======
+# Doryconthidium Vinassa de Regny, 1898 GENUS
 
 #### Status
 ACCEPTED

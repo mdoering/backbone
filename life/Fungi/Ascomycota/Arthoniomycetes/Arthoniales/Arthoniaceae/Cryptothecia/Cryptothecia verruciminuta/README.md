@@ -1,17 +1,16 @@
-Cryptothecia verrucominuta Makhija & Patw. SPECIES
-=======
+# Cryptothecia verruciminuta Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Current Researches in Plant Sciences (Dehra Dun) 70 (1994)
 
 #### Original name
-Cryptothecia verrucominuta Makhija & Patw.
+Cryptothecia verruciminuta Makhija & Patw.
 
 ### Remarks
 null

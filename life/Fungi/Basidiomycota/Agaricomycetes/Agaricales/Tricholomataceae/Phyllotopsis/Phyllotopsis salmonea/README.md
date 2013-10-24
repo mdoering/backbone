@@ -1,14 +1,13 @@
-Agaricus sciadium var. salmoneus Kalchbr. & MacOwan, 1881 VARIETY
-=======
+# Phyllotopsis salmonea (Kalchbr. & MacOwan) D.A. Reid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 9(no. 51): 112 (1881)
+Contr. Bolus Herb. 7: 159 (1975)
 
 #### Original name
 Agaricus sciadium var. salmoneus Kalchbr. & MacOwan, 1881

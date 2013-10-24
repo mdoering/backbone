@@ -1,5 +1,4 @@
-Pseudocercospora heimii Crous SPECIES
-=======
+# Pseudocercospora heimii Crous SPECIES
 
 #### Status
 ACCEPTED

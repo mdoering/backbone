@@ -1,5 +1,4 @@
-Rhaphidophora maritima Sacc. SPECIES
-=======
+# Rhaphidophora maritima Sacc. SPECIES
 
 #### Status
 ACCEPTED

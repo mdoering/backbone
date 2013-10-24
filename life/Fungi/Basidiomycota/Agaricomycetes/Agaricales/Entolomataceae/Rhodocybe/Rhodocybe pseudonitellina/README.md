@@ -1,5 +1,4 @@
-Rhodocybe pseudonitellina Dennis SPECIES
-=======
+# Rhodocybe pseudonitellina Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora putoranica N.S. Golubk. & Zhurb. SPECIES
-=======
+# Acarospora putoranica N.S. Golubk. & Zhurb. SPECIES
 
 #### Status
 ACCEPTED

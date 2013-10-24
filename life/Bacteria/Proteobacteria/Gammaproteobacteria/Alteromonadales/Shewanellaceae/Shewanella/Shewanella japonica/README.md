@@ -1,5 +1,4 @@
-Shewanella japonica Ivanova et al., 2001 SPECIES
-=======
+# Shewanella japonica Ivanova et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

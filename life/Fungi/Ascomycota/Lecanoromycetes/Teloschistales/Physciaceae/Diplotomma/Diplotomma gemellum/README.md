@@ -1,5 +1,4 @@
-Diplotomma gemellum (Anzi) Jatta SPECIES
-=======
+# Diplotomma gemellum (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

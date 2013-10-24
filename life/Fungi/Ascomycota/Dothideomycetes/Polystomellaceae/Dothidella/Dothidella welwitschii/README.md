@@ -1,5 +1,4 @@
-Dothidella welwitschii A.L. Sm. SPECIES
-=======
+# Dothidella welwitschii A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

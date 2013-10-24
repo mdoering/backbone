@@ -1,5 +1,4 @@
-Trachelomonas subverrucosa Deflandre SPECIES
-=======
+# Trachelomonas subverrucosa Deflandre SPECIES
 
 #### Status
 ACCEPTED

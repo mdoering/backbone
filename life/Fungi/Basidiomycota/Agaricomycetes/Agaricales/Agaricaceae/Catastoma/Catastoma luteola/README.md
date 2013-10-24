@@ -1,5 +1,4 @@
-Catastoma luteola Lloyd SPECIES
-=======
+# Catastoma luteola Lloyd SPECIES
 
 #### Status
 ACCEPTED

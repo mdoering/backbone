@@ -1,5 +1,4 @@
-Cercospora eucalyptorum Crous SPECIES
-=======
+# Cercospora eucalyptorum Crous SPECIES
 
 #### Status
 ACCEPTED

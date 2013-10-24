@@ -1,5 +1,4 @@
-Mollisia erigeronata Cooke SPECIES
-=======
+# Mollisia erigeronata Cooke SPECIES
 
 #### Status
 ACCEPTED

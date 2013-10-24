@@ -1,5 +1,4 @@
-Harknessia Cooke GENUS
-=======
+# Harknessia Cooke GENUS
 
 #### Status
 ACCEPTED

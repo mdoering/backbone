@@ -1,5 +1,4 @@
-Phoma sophora Sacc. SPECIES
-=======
+# Phoma sophora Sacc. SPECIES
 
 #### Status
 ACCEPTED

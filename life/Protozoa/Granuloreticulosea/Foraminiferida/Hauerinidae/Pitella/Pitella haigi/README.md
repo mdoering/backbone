@@ -1,5 +1,4 @@
-Pitella haigi Langer, 1992 SPECIES
-=======
+# Pitella haigi Langer, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia micromicra Norman SPECIES
-=======
+# Polyblastia micromicra Norman SPECIES
 
 #### Status
 ACCEPTED

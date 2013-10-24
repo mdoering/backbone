@@ -1,5 +1,4 @@
-Stysanus pusillus Fuckel SPECIES
-=======
+# Stysanus pusillus Fuckel SPECIES
 
 #### Status
 ACCEPTED

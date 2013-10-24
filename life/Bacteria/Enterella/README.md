@@ -1,5 +1,4 @@
-Enterella GENUS
-=======
+# Enterella GENUS
 
 #### Status
 ACCEPTED

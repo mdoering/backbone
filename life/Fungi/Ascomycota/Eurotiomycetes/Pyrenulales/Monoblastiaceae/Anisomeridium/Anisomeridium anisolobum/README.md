@@ -1,14 +1,13 @@
-Ditremis anisoloba (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium anisolobum (Müll. Arg.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Some Florida Lichens (New York) 31 (1990)
+in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 57: 21 (1995)
 
 #### Original name
 Arthopyrenia anisoloba Müll. Arg.

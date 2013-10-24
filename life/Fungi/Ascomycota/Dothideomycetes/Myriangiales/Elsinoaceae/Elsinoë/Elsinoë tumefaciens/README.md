@@ -1,17 +1,16 @@
-Elsinoë tumifaciens Wani & Thirum. SPECIES
-=======
+# Elsinoë tumefaciens Wani & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 26(2-3): 309 (1975)
 
 #### Original name
-Elsinoë tumifaciens Wani & Thirum.
+Elsinoë tumefaciens Wani & Thirum.
 
 ### Remarks
 null

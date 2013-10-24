@@ -1,8 +1,7 @@
-Streptosporangium albidum Furumai et al., 1968 (Approved Lists, 1980) SPECIES
-=======
+# Kutzneria albida (Furumai et al., 1968) Stackebrandt et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

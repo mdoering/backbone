@@ -1,5 +1,4 @@
-Lagena chasteri SPECIES
-=======
+# Lagena chasteri SPECIES
 
 #### Status
 ACCEPTED

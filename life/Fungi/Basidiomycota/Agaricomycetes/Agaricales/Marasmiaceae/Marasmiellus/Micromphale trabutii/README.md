@@ -1,5 +1,4 @@
-Micromphale trabutii (Maire) Honrubia SPECIES
-=======
+# Micromphale trabutii (Maire) Honrubia SPECIES
 
 #### Status
 ACCEPTED

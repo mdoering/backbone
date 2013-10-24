@@ -1,5 +1,4 @@
-Lecidea hercynica M. Hauck & Schmull SPECIES
-=======
+# Lecidea hercynica M. Hauck & Schmull SPECIES
 
 #### Status
 ACCEPTED

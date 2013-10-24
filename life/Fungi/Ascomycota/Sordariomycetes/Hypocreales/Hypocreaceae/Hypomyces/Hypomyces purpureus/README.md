@@ -1,5 +1,4 @@
-Hypomyces purpureus Peck SPECIES
-=======
+# Hypomyces purpureus Peck SPECIES
 
 #### Status
 ACCEPTED

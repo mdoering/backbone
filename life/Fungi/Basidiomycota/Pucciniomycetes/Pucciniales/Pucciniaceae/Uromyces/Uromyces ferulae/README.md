@@ -1,5 +1,4 @@
-Uromyces ferulae Juel SPECIES
-=======
+# Uromyces ferulae Juel SPECIES
 
 #### Status
 ACCEPTED

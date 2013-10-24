@@ -1,5 +1,4 @@
-Buellia miriquidica Scheid. SPECIES
-=======
+# Buellia miriquidica Scheid. SPECIES
 
 #### Status
 ACCEPTED

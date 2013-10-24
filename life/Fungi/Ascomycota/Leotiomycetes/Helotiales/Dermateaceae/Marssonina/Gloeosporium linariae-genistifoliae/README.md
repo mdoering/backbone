@@ -1,5 +1,4 @@
-Gloeosporium linariae-genistifoliae Sandu SPECIES
-=======
+# Gloeosporium linariae-genistifoliae Sandu SPECIES
 
 #### Status
 ACCEPTED

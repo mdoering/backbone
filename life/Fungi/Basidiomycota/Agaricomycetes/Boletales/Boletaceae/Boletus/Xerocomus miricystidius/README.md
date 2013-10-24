@@ -1,5 +1,4 @@
-Xerocomus miricystidius M. Zang SPECIES
-=======
+# Xerocomus miricystidius M. Zang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo thesii Duby SPECIES
-=======
+# Uredo thesii Duby SPECIES
 
 #### Status
 ACCEPTED

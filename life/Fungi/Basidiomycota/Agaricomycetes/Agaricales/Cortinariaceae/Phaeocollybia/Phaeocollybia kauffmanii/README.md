@@ -1,5 +1,4 @@
-Phaeocollybia kauffmanii (A.H. Sm.) Singer SPECIES
-=======
+# Phaeocollybia kauffmanii (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

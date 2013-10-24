@@ -1,5 +1,4 @@
-Septotrichum tenue Corda SPECIES
-=======
+# Septotrichum tenue Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyrium sprucei (Cooke) R.W. Ryan SPECIES
-=======
+# Phragmothyrium sprucei (Cooke) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

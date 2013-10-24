@@ -1,5 +1,4 @@
-Diplodia sparsa Fuckel SPECIES
-=======
+# Diplodia sparsa Fuckel SPECIES
 
 #### Status
 ACCEPTED

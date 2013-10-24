@@ -1,5 +1,4 @@
-Leciographa associata (Norman) Rehm SPECIES
-=======
+# Leciographa associata (Norman) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermiculariopsiella ramosa (B. Sutton) Nawawi, Kuthub. & B. Sutton SPECIES
-=======
+# Vermiculariopsiella ramosa (B. Sutton) Nawawi, Kuthub. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

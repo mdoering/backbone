@@ -1,5 +1,4 @@
-Diacrisia purpurata Npv SPECIES
-=======
+# Diacrisia purpurata Npv SPECIES
 
 #### Status
 ACCEPTED

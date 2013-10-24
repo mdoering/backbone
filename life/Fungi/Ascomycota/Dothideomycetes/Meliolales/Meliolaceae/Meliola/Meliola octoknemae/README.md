@@ -1,17 +1,16 @@
-Meliola octoknematis Deighton SPECIES
-=======
+# Meliola octoknemae Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 5(1-2): 7 (1951)
 
 #### Original name
-Meliola octoknematis Deighton
+Meliola octoknemae Deighton
 
 ### Remarks
 null

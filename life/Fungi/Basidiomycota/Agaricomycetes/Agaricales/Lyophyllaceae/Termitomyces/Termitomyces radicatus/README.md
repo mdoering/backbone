@@ -1,5 +1,4 @@
-Termitomyces radicatus Natarajan SPECIES
-=======
+# Termitomyces radicatus Natarajan SPECIES
 
 #### Status
 ACCEPTED

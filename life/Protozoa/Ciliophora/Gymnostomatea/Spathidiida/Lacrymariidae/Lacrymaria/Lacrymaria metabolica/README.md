@@ -1,5 +1,4 @@
-Lacrymaria metabolica Bürger, 1908 SPECIES
-=======
+# Lacrymaria metabolica Bürger, 1908 SPECIES
 
 #### Status
 ACCEPTED

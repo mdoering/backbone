@@ -1,5 +1,4 @@
-Mycena fissilis Métrod SPECIES
-=======
+# Mycena fissilis Métrod SPECIES
 
 #### Status
 ACCEPTED

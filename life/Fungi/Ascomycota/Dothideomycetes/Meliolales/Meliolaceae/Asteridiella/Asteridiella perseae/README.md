@@ -1,5 +1,4 @@
-Asteridiella perseae var. major Hansf. VARIETY
-=======
+# Asteridiella perseae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 10: 49 (1957)
 
 #### Original name
-Asteridiella perseae var. major Hansf.
+Meliola perseae F. Stevens
 
 ### Remarks
 null

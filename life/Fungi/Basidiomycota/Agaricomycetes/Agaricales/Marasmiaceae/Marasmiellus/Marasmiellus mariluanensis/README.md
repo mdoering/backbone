@@ -1,5 +1,4 @@
-Marasmiellus mariluanensis (Speg.) Singer SPECIES
-=======
+# Marasmiellus mariluanensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

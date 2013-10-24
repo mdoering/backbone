@@ -1,5 +1,4 @@
-Ocotomyces H.C. Evans & Minter GENUS
-=======
+# Ocotomyces H.C. Evans & Minter GENUS
 
 #### Status
 ACCEPTED

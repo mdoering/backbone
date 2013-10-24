@@ -1,5 +1,4 @@
-Padina ryukyuana Y.Lee & Kamura SPECIES
-=======
+# Padina ryukyuana Y.Lee & Kamura SPECIES
 
 #### Status
 ACCEPTED

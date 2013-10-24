@@ -1,5 +1,4 @@
-Clostridium paraperfringens Nakamura et al., 1970 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium paraperfringens Nakamura et al., 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

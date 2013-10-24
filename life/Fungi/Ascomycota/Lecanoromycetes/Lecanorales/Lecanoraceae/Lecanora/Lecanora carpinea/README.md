@@ -1,17 +1,16 @@
-Lecanora angulosa f. angulosa FORM
-=======
+# Lecanora carpinea (L.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 364 (1810)
+Meddn Soc. Fauna Flora fenn. 14: 23 (1888)
 
 #### Original name
-Lecanora angulosa f. angulosa
+Lichen carpineus L.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria brachypodina Jørst. SPECIES
-=======
+# Septoria brachypodina Jørst. SPECIES
 
 #### Status
 ACCEPTED

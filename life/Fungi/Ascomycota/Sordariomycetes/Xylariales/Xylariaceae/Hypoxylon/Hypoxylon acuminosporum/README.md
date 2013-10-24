@@ -1,5 +1,4 @@
-Hypoxylon acuminosporum P.M.D. Martin SPECIES
-=======
+# Hypoxylon acuminosporum P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

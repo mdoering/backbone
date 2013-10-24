@@ -1,5 +1,4 @@
-Virgulinopsis Hofker, 1956 GENUS
-=======
+# Virgulinopsis Hofker, 1956 GENUS
 
 #### Status
 ACCEPTED

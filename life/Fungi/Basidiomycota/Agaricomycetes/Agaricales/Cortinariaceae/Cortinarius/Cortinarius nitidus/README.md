@@ -1,5 +1,4 @@
-Cortinarius nitidus (Schaeff.) Fr. SPECIES
-=======
+# Cortinarius nitidus (Schaeff.) Fr. SPECIES
 
 #### Status
 ACCEPTED

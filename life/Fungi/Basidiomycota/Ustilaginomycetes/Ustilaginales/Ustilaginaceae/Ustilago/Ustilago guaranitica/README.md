@@ -1,5 +1,4 @@
-Ustilago guaranitica Speg. SPECIES
-=======
+# Ustilago guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

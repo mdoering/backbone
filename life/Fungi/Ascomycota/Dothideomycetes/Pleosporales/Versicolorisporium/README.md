@@ -1,5 +1,4 @@
-Versicolorisporium Sat. Hatak., Kaz. Tanaka & Y. Harada GENUS
-=======
+# Versicolorisporium Sat. Hatak., Kaz. Tanaka & Y. Harada GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Truncatulina miquelonensis d’Orbigny, 1906 SPECIES
-=======
+# Truncatulina miquelonensis d’Orbigny, 1906 SPECIES
 
 #### Status
 DOUBTFUL

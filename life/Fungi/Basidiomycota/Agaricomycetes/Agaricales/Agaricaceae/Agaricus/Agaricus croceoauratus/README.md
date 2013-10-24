@@ -1,5 +1,4 @@
-Agaricus croceoauratus V. Brig. SPECIES
-=======
+# Agaricus croceoauratus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

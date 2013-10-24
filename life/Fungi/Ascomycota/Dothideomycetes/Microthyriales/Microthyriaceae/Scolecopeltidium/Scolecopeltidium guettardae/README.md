@@ -1,5 +1,4 @@
-Scolecopeltidium guettardae (Henn.) F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium guettardae (Henn.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

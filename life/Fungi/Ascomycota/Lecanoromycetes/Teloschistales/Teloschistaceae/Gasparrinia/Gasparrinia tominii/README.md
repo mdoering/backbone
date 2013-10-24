@@ -1,5 +1,4 @@
-Gasparrinia tominii Savicz SPECIES
-=======
+# Gasparrinia tominii Savicz SPECIES
 
 #### Status
 ACCEPTED

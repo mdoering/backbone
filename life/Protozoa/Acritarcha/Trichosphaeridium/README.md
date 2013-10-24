@@ -1,5 +1,4 @@
-Trichosphaeridium Timofeev GENUS
-=======
+# Trichosphaeridium Timofeev GENUS
 
 #### Status
 ACCEPTED

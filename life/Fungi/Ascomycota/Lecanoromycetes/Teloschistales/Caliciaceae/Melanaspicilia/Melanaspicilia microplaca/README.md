@@ -1,5 +1,4 @@
-Melanaspicilia microplaca SPECIES
-=======
+# Melanaspicilia microplaca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ussurithyrites Krassilov GENUS
-=======
+# Ussurithyrites Krassilov GENUS
 
 #### Status
 ACCEPTED

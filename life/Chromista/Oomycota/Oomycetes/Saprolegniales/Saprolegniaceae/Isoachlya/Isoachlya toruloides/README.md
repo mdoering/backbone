@@ -1,17 +1,16 @@
-Isoachlya toruloides var. paucispora Moreau VARIETY
-=======
+# Isoachlya toruloides Kauffman & Coker, 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 8: 231 (1921)
 
 #### Original name
-Isoachlya toruloides var. paucispora Moreau
+Isoachlya toruloides Kauffman & Coker, 1921
 
 ### Remarks
 null

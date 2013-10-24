@@ -1,5 +1,4 @@
-Acaulium anomalum Sopp SPECIES
-=======
+# Acaulium anomalum Sopp SPECIES
 
 #### Status
 ACCEPTED

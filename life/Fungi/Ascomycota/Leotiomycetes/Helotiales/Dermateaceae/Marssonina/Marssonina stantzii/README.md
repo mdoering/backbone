@@ -1,5 +1,4 @@
-Marssonina stantzii SPECIES
-=======
+# Marssonina stantzii SPECIES
 
 #### Status
 ACCEPTED

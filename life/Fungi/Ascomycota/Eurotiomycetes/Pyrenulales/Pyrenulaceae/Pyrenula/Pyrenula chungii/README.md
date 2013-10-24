@@ -1,5 +1,4 @@
-Pyrenula chungii Zahlbr. SPECIES
-=======
+# Pyrenula chungii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

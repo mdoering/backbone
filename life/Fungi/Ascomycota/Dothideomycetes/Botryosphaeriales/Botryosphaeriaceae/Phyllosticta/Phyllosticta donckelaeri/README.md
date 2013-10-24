@@ -1,5 +1,4 @@
-Phyllosticta donckelaeri Westend. SPECIES
-=======
+# Phyllosticta donckelaeri Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus bajocalifornicus Esteve-Rav., G. Moreno & N. Ayala SPECIES
-=======
+# Pleurotus bajocalifornicus Esteve-Rav., G. Moreno & N. Ayala SPECIES
 
 #### Status
 ACCEPTED

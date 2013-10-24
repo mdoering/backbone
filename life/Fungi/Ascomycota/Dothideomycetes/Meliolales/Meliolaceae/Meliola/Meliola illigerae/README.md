@@ -1,5 +1,4 @@
-Meliola illigerae F. Stevens & Roldan SPECIES
-=======
+# Meliola illigerae F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

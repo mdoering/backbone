@@ -1,5 +1,4 @@
-Xenococcus schousboei Thuret SPECIES
-=======
+# Xenococcus schousboei Thuret SPECIES
 
 #### Status
 ACCEPTED

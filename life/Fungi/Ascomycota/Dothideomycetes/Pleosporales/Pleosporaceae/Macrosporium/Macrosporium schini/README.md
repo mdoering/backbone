@@ -1,5 +1,4 @@
-Macrosporium schini Sacc. SPECIES
-=======
+# Macrosporium schini Sacc. SPECIES
 
 #### Status
 ACCEPTED

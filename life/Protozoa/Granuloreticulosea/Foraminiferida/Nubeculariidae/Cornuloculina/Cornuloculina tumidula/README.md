@@ -1,5 +1,4 @@
-Cornuloculina tumidula SPECIES
-=======
+# Cornuloculina tumidula SPECIES
 
 #### Status
 ACCEPTED

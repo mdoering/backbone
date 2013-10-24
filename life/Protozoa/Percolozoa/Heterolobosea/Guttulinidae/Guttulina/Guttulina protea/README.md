@@ -1,5 +1,4 @@
-Guttulina protea Fayod SPECIES
-=======
+# Guttulina protea Fayod SPECIES
 
 #### Status
 ACCEPTED

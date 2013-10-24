@@ -1,17 +1,16 @@
-Verrucaria sublobulata var. sublobulata VARIETY
-=======
+# Verrucaria sublobulata Eitner ex Servít SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria sublobulata var. sublobulata
+Verrucaria sublobulata Eitner ex Servít
 
 ### Remarks
 null

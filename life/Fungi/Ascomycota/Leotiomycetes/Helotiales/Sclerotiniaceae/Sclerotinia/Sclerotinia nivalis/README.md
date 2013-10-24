@@ -1,5 +1,4 @@
-Sclerotinia nivalis I. Saito SPECIES
-=======
+# Sclerotinia nivalis I. Saito SPECIES
 
 #### Status
 ACCEPTED

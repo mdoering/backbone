@@ -1,5 +1,4 @@
-Ramichloridium bacillisporum W.A. Baker & Partr. SPECIES
-=======
+# Ramichloridium bacillisporum W.A. Baker & Partr. SPECIES
 
 #### Status
 ACCEPTED

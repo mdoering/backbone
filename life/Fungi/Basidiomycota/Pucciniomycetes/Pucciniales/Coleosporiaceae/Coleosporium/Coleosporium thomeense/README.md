@@ -1,5 +1,4 @@
-Coleosporium thomeense Henn. SPECIES
-=======
+# Coleosporium thomeense Henn. SPECIES
 
 #### Status
 ACCEPTED

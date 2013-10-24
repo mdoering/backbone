@@ -1,5 +1,4 @@
-Cladosporium coelosporum Spreng. SPECIES
-=======
+# Cladosporium coelosporum Spreng. SPECIES
 
 #### Status
 ACCEPTED

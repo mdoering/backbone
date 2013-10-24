@@ -1,5 +1,4 @@
-Graphis pachysporella Müll. Arg. SPECIES
-=======
+# Graphis pachysporella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

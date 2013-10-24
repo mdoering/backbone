@@ -1,5 +1,4 @@
-Chapsa tibellii Mangold SPECIES
-=======
+# Chapsa tibellii Mangold SPECIES
 
 #### Status
 ACCEPTED

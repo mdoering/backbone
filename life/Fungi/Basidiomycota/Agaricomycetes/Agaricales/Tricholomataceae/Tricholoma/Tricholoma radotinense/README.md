@@ -1,5 +1,4 @@
-Tricholoma radotinense Pilát & Charvát SPECIES
-=======
+# Tricholoma radotinense Pilát & Charvát SPECIES
 
 #### Status
 ACCEPTED

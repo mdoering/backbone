@@ -1,5 +1,4 @@
-Cassidulina subglobosa agg. subcalifornica INFRASPECIFIC_NAME
-=======
+# Cassidulina subglobosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcophoma deccanii R.B. Singh & G.V. Patil SPECIES
-=======
+# Sarcophoma deccanii R.B. Singh & G.V. Patil SPECIES
 
 #### Status
 ACCEPTED

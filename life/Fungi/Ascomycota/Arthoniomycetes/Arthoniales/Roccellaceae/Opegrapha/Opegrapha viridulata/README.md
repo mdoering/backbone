@@ -1,5 +1,4 @@
-Opegrapha viridulata J. Steiner SPECIES
-=======
+# Opegrapha viridulata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

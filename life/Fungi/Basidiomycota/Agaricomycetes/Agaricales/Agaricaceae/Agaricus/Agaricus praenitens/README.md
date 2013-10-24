@@ -1,5 +1,4 @@
-Agaricus praenitens Beck SPECIES
-=======
+# Agaricus praenitens Beck SPECIES
 
 #### Status
 ACCEPTED

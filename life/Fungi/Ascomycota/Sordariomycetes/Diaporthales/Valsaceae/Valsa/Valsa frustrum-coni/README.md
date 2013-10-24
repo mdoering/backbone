@@ -1,5 +1,4 @@
-Valsa frustrum-coni (Schwein.) M.A. Curtis SPECIES
-=======
+# Valsa frustrum-coni (Schwein.) M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

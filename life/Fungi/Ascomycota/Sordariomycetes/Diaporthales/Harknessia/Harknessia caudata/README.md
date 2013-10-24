@@ -1,5 +1,4 @@
-Harknessia caudata Ellis & Everh. SPECIES
-=======
+# Harknessia caudata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

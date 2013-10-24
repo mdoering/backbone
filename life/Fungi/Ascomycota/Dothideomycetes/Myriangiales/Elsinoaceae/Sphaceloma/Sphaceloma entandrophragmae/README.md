@@ -1,5 +1,4 @@
-Sphaceloma entandrophragmae Jenkins SPECIES
-=======
+# Sphaceloma entandrophragmae Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tachaphantium GENUS
-=======
+# Tachaphantium GENUS
 
 #### Status
 ACCEPTED

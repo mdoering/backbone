@@ -1,5 +1,4 @@
-Inocybe pyrotricha D.E. Stuntz SPECIES
-=======
+# Inocybe pyrotricha D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

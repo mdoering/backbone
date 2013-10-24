@@ -1,5 +1,4 @@
-Elaphomyces leucarpus Vittad. SPECIES
-=======
+# Elaphomyces leucarpus Vittad. SPECIES
 
 #### Status
 ACCEPTED

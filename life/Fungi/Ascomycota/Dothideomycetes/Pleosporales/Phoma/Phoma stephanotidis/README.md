@@ -1,5 +1,4 @@
-Phoma stephanotidis Tassi SPECIES
-=======
+# Phoma stephanotidis Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratosphaeria bicellula Panwar & S.J. Kaur SPECIES
-=======
+# Ceratosphaeria bicellula Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

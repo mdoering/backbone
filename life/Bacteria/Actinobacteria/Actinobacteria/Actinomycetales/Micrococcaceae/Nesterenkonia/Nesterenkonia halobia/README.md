@@ -1,8 +1,7 @@
-Micrococcus halobius Onishi and Kamekura, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Nesterenkonia halobia (Onishi & Kamekura, 1972) Stackebrandt et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

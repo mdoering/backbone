@@ -1,5 +1,4 @@
-Graphium aeruginosum (Desm.) Sacc. SPECIES
-=======
+# Graphium aeruginosum (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

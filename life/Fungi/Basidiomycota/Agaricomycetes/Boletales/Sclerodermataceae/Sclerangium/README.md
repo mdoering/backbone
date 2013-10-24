@@ -1,5 +1,4 @@
-Sclerangium GENUS
-=======
+# Sclerangium GENUS
 
 #### Status
 ACCEPTED

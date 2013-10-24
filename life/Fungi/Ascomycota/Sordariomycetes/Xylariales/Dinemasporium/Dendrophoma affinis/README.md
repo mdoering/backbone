@@ -1,5 +1,4 @@
-Dendrophoma affinis Sacc. SPECIES
-=======
+# Dendrophoma affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

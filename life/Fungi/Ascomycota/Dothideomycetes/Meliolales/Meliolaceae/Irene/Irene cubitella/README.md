@@ -1,5 +1,4 @@
-Irene cubitella F. Stevens & Tehon SPECIES
-=======
+# Irene cubitella F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

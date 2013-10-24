@@ -1,5 +1,4 @@
-Tintinnopsella colomi SPECIES
-=======
+# Tintinnopsella colomi SPECIES
 
 #### Status
 ACCEPTED

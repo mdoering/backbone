@@ -1,5 +1,4 @@
-Aegeritella tuberculata Balazy & J. Wisn. SPECIES
-=======
+# Aegeritella tuberculata Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

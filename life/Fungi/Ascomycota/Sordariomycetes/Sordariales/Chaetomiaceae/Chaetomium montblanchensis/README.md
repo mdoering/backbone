@@ -1,5 +1,4 @@
-Chaetomium montblanchensis Guarro SPECIES
-=======
+# Chaetomium montblanchensis Guarro SPECIES
 
 #### Status
 ACCEPTED

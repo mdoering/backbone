@@ -1,5 +1,4 @@
-Macrosporium pelvetiae G.K. Sutherl. SPECIES
-=======
+# Macrosporium pelvetiae G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

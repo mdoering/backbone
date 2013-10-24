@@ -1,5 +1,4 @@
-Peronospora senneniana Gonz. Frag. & Sacc. SPECIES
-=======
+# Peronospora senneniana Gonz. Frag. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

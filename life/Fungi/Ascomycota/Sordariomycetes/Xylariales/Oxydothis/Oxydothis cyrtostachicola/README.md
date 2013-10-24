@@ -1,5 +1,4 @@
-Oxydothis cyrtostachicola Hidayat, To-Anun & K.D. Hyde SPECIES
-=======
+# Oxydothis cyrtostachicola Hidayat, To-Anun & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fasciculithus mitreus Gartner, 1971 SPECIES
-=======
+# Fasciculithus mitreus Gartner, 1971 SPECIES
 
 #### Status
 ACCEPTED

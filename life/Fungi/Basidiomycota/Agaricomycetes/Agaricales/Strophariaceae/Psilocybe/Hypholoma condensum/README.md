@@ -1,5 +1,4 @@
-Hypholoma condensum Berk. SPECIES
-=======
+# Hypholoma condensum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ephebe fruticosa Henssen SPECIES
-=======
+# Ephebe fruticosa Henssen SPECIES
 
 #### Status
 ACCEPTED

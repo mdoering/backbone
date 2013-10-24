@@ -1,5 +1,4 @@
-Hypoxylon disjunctum Rehm SPECIES
-=======
+# Hypoxylon disjunctum Rehm SPECIES
 
 #### Status
 ACCEPTED

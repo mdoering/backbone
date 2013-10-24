@@ -1,5 +1,4 @@
-Naemospora plantaginis Ces. SPECIES
-=======
+# Naemospora plantaginis Ces. SPECIES
 
 #### Status
 ACCEPTED

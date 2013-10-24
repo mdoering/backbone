@@ -1,8 +1,7 @@
-Yersinia philomiragia Jensen et al., 1969 (Approved Lists, 1980) SPECIES
-=======
+# Francisella philomiragia (Jensen et al., 1969) Hollis et al., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

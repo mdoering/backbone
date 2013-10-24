@@ -1,5 +1,4 @@
-Belonium melanosporum Rehm SPECIES
-=======
+# Belonium melanosporum Rehm SPECIES
 
 #### Status
 ACCEPTED

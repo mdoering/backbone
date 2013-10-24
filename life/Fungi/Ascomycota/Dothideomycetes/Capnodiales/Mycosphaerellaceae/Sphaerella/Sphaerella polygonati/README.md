@@ -1,5 +1,4 @@
-Sphaerella polygonati Schwein. SPECIES
-=======
+# Sphaerella polygonati Schwein. SPECIES
 
 #### Status
 ACCEPTED

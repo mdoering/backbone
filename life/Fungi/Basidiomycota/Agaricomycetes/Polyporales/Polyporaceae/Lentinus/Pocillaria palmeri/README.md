@@ -1,5 +1,4 @@
-Pocillaria palmeri Earle SPECIES
-=======
+# Pocillaria palmeri Earle SPECIES
 
 #### Status
 ACCEPTED

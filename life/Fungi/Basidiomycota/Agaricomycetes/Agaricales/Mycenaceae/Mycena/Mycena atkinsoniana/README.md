@@ -1,5 +1,4 @@
-Mycena atkinsoniana A.H. Sm. SPECIES
-=======
+# Mycena atkinsoniana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

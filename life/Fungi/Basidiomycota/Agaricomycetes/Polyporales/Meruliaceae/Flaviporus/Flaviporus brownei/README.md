@@ -1,14 +1,13 @@
-Boletus brownei Humb. SPECIES
-=======
+# Flaviporus brownei (Humb.) Donk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Fl. Friberg. Spec. (Berlin) 101 (1793)
+Persoonia 1(2): 215 (1960)
 
 #### Original name
 Boletus brownei Humb.

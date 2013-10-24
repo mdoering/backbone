@@ -1,17 +1,16 @@
-Melampsora iridis (Ehrenb.) Lév., 1847 SPECIES
-=======
+# Ectostroma iridis (Ehrenb.) Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 602 (1823)
 
 #### Original name
-null
+Leptostroma iridis Ehrenb., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tubercularia gyrosa Opiz SPECIES
-=======
+# Tubercularia gyrosa Opiz SPECIES
 
 #### Status
 ACCEPTED

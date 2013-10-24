@@ -1,5 +1,4 @@
-Menispora lucida Corda, 1837 SPECIES
-=======
+# Menispora lucida Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora rustica Samp. SPECIES
-=======
+# Lecanora rustica Samp. SPECIES
 
 #### Status
 ACCEPTED

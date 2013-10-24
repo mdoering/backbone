@@ -1,5 +1,4 @@
-Camarosporium atriplicis J.V. Almeida & Sousa da Câmara, 1905 SPECIES
-=======
+# Camarosporium atriplicis J.V. Almeida & Sousa da Câmara, 1905 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryoria crispa SPECIES
-=======
+# Bryoria crispa SPECIES
 
 #### Status
 ACCEPTED

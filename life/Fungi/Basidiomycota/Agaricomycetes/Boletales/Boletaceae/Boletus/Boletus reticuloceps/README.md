@@ -1,5 +1,4 @@
-Boletus reticuloceps (M. Zang, M.S. Yuan & M.Q. Gong) Q.B. Wang & Y.J. Yao, 2005 SPECIES
-=======
+# Boletus reticuloceps (M. Zang, M.S. Yuan & M.Q. Gong) Q.B. Wang & Y.J. Yao, 2005 SPECIES
 
 #### Status
 ACCEPTED

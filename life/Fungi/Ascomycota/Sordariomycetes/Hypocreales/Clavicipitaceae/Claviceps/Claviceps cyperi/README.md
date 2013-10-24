@@ -1,5 +1,4 @@
-Claviceps cyperi Loveless SPECIES
-=======
+# Claviceps cyperi Loveless SPECIES
 
 #### Status
 ACCEPTED

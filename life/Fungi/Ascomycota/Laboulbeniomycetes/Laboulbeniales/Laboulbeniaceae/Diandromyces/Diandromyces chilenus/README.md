@@ -1,5 +1,4 @@
-Diandromyces chilenus Thaxt., 1918 SPECIES
-=======
+# Diandromyces chilenus Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

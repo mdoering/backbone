@@ -1,8 +1,7 @@
-Lagynus mucicola Kahl, 1927 SPECIES
-=======
+# Lagynophrya mucicola Kahl, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Laboulbenia corniculata Thaxt. SPECIES
-=======
+# Laboulbenia corniculata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

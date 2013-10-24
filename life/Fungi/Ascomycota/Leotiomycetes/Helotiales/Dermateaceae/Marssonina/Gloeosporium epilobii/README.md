@@ -1,5 +1,4 @@
-Gloeosporium epilobii Pass. SPECIES
-=======
+# Gloeosporium epilobii Pass. SPECIES
 
 #### Status
 ACCEPTED

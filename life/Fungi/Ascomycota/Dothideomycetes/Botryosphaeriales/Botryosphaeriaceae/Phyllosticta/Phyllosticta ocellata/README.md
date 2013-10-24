@@ -1,5 +1,4 @@
-Phyllosticta ocellata Pass. & Beltr. SPECIES
-=======
+# Phyllosticta ocellata Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

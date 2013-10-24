@@ -1,5 +1,4 @@
-Stigmatochroma epiflavia Marbach SPECIES
-=======
+# Stigmatochroma epiflavia Marbach SPECIES
 
 #### Status
 ACCEPTED

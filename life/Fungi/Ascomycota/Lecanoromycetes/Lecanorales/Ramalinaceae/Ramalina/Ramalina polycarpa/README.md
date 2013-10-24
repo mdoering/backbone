@@ -1,5 +1,4 @@
-Ramalina polycarpa Bory SPECIES
-=======
+# Ramalina polycarpa Bory SPECIES
 
 #### Status
 ACCEPTED

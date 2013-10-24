@@ -1,5 +1,4 @@
-Clavaria vinculum Velen. SPECIES
-=======
+# Clavaria vinculum Velen. SPECIES
 
 #### Status
 ACCEPTED

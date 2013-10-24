@@ -1,5 +1,4 @@
-Psalliota sagata var. sagata VARIETY
-=======
+# Psalliota sagata (Fr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sulciceps Cooke & Massee SPECIES
-=======
+# Agaricus sulciceps Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humicola asteroidea Udagawa & Y. Horie SPECIES
-=======
+# Humicola asteroidea Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

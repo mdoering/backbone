@@ -1,5 +1,4 @@
-Anthostomella protuberans P.M.D. Martin SPECIES
-=======
+# Anthostomella protuberans P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora gymnocladi Ellis & Kellerm. SPECIES
-=======
+# Cercospora gymnocladi Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

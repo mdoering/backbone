@@ -1,5 +1,4 @@
-Ethanoligenens Xing, Ren, Li, Lin, Wange & Zhao, 2006 GENUS
-=======
+# Ethanoligenens Xing, Ren, Li, Lin, Wange & Zhao, 2006 GENUS
 
 #### Status
 ACCEPTED

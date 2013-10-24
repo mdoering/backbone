@@ -1,5 +1,4 @@
-Petersonia Cummins & Y. Hiratsuka, 2003 GENUS
-=======
+# Petersonia Cummins & Y. Hiratsuka, 2003 GENUS
 
 #### Status
 ACCEPTED

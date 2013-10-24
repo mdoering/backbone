@@ -1,5 +1,4 @@
-Inocybe teraturgus M.M. Moser SPECIES
-=======
+# Inocybe teraturgus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

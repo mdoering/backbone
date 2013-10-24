@@ -1,5 +1,4 @@
-Buellia keteleeriae Zahlbr. SPECIES
-=======
+# Buellia keteleeriae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirius M.A. Fombella, 1978 GENUS
-=======
+# Sirius M.A. Fombella, 1978 GENUS
 
 #### Status
 ACCEPTED

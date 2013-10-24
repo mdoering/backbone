@@ -1,5 +1,4 @@
-Pollaccia ramulosa (Desm.) Ondrej SPECIES
-=======
+# Pollaccia ramulosa (Desm.) Ondrej SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium griseoflavescens Litsch., 1938 SPECIES
-=======
+# Phlebia griseoflavescens (Litsch.) J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Glasnik (Bull. ) Soc. Scient. Skoplje 18(6): 178 (1938)
+in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1121 (1981)
 
 #### Original name
 Corticium griseoflavescens Litsch., 1938

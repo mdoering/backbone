@@ -1,5 +1,4 @@
-Colletotrichum begoniae Bat. SPECIES
-=======
+# Colletotrichum begoniae Bat. SPECIES
 
 #### Status
 ACCEPTED

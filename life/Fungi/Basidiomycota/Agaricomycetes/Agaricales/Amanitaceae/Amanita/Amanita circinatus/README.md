@@ -1,5 +1,4 @@
-Amanita circinatus Schumach. SPECIES
-=======
+# Amanita circinatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

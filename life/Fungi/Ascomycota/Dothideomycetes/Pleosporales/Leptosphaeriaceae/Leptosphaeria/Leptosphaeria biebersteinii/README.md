@@ -1,5 +1,4 @@
-Leptosphaeria biebersteinii Gucevic SPECIES
-=======
+# Leptosphaeria biebersteinii Gucevic SPECIES
 
 #### Status
 ACCEPTED

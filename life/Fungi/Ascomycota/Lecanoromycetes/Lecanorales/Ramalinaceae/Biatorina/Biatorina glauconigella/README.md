@@ -1,5 +1,4 @@
-Biatorina glauconigella SPECIES
-=======
+# Biatorina glauconigella SPECIES
 
 #### Status
 ACCEPTED

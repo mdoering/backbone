@@ -1,5 +1,4 @@
-Septoria tristaniae Henn. SPECIES
-=======
+# Septoria tristaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

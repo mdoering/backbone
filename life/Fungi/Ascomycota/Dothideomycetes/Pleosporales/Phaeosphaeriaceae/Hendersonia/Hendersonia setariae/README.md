@@ -1,5 +1,4 @@
-Hendersonia setariae Hansf. SPECIES
-=======
+# Hendersonia setariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

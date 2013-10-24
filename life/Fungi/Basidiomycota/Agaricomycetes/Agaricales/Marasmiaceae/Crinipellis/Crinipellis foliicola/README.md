@@ -1,5 +1,4 @@
-Crinipellis foliicola Singer SPECIES
-=======
+# Crinipellis foliicola Singer SPECIES
 
 #### Status
 ACCEPTED

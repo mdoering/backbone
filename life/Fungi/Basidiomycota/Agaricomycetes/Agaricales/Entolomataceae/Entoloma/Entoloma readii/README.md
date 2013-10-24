@@ -1,5 +1,4 @@
-Entoloma readii G. Stev., 1962 SPECIES
-=======
+# Entoloma readii G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

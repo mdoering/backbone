@@ -1,5 +1,4 @@
-Podocyathus Kent, 1882 GENUS
-=======
+# Podocyathus Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

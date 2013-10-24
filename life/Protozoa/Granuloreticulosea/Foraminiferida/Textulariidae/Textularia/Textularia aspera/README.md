@@ -1,5 +1,4 @@
-Textularia aspera SPECIES
-=======
+# Textularia aspera SPECIES
 
 #### Status
 ACCEPTED

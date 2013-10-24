@@ -1,5 +1,4 @@
-Alectoria taeniata (Pers.) Fée SPECIES
-=======
+# Alectoria taeniata (Pers.) Fée SPECIES
 
 #### Status
 ACCEPTED

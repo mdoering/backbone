@@ -1,5 +1,4 @@
-Ascochyta cherimoliae Thüm. SPECIES
-=======
+# Ascochyta cherimoliae Thüm. SPECIES
 
 #### Status
 ACCEPTED

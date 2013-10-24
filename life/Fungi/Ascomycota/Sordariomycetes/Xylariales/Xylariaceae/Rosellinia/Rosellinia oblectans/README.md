@@ -1,5 +1,4 @@
-Rosellinia oblectans (Ces.) Cooke SPECIES
-=======
+# Rosellinia oblectans (Ces.) Cooke SPECIES
 
 #### Status
 ACCEPTED

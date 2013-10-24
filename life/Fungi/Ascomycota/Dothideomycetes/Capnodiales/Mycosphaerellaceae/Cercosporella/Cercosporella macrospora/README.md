@@ -1,5 +1,4 @@
-Cercosporella macrospora Bres. SPECIES
-=======
+# Cercosporella macrospora Bres. SPECIES
 
 #### Status
 ACCEPTED

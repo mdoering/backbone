@@ -1,14 +1,13 @@
-Melanconium strigulae Elenkin & Woron., 1908 SPECIES
-=======
+# Lambinonia strigulae (Elenkin & Woron.) Sérus. & Diederich, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zhurnal Bolêzni Rastenii 2(3-4): 137 (1908)
+Lichenologist 37(6): 500 (2005)
 
 #### Original name
 Melanconium strigulae Elenkin & Woron., 1908

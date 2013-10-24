@@ -1,5 +1,4 @@
-Ascobolus immarginatus Becc. SPECIES
-=======
+# Ascobolus immarginatus Becc. SPECIES
 
 #### Status
 ACCEPTED

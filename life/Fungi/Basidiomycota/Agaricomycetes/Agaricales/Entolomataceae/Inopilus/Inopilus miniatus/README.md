@@ -1,5 +1,4 @@
-Inopilus miniatus (Pat.) Pegler SPECIES
-=======
+# Inopilus miniatus (Pat.) Pegler SPECIES
 
 #### Status
 ACCEPTED

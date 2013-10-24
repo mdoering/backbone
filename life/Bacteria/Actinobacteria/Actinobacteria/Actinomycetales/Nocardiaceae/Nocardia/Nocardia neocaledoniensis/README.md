@@ -1,5 +1,4 @@
-Nocardia neocaledoniensis Saintpierre-Bonaccio et al., 2004 SPECIES
-=======
+# Nocardia neocaledoniensis Saintpierre-Bonaccio et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

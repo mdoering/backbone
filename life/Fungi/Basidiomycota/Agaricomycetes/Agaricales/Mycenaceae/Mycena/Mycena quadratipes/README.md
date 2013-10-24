@@ -1,5 +1,4 @@
-Mycena quadratipes Métrod SPECIES
-=======
+# Mycena quadratipes Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma radicans Hongo SPECIES
-=======
+# Tricholoma radicans Hongo SPECIES
 
 #### Status
 ACCEPTED

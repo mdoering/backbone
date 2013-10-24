@@ -1,5 +1,4 @@
-Pseudotrochila rhododendri (Racib.) Höhn., 1917 SPECIES
-=======
+# Pseudotrochila rhododendri (Racib.) Höhn., 1917 SPECIES
 
 #### Status
 ACCEPTED

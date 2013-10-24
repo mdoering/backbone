@@ -1,5 +1,4 @@
-Psathyrella septentrionalis var. septentrionalis VARIETY
-=======
+# Psathyrella septentrionalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 134 (1972)
 
 #### Original name
-Psathyrella septentrionalis var. septentrionalis
+Psathyrella septentrionalis A.H. Sm.
 
 ### Remarks
 null

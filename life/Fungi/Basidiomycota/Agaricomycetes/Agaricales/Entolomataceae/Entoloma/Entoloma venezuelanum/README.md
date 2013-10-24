@@ -1,5 +1,4 @@
-Entoloma venezuelanum (Dennis) E. Horak SPECIES
-=======
+# Entoloma venezuelanum (Dennis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

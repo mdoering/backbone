@@ -1,5 +1,4 @@
-Furcaspora Bonar GENUS
-=======
+# Furcaspora Bonar GENUS
 
 #### Status
 ACCEPTED

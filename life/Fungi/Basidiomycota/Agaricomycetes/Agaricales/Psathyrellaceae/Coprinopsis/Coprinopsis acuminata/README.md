@@ -1,5 +1,4 @@
-Coprinopsis acuminata (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis acuminata (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

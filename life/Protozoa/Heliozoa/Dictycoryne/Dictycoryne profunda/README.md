@@ -1,5 +1,4 @@
-Dictycoryne profunda Ehrenberg SPECIES
-=======
+# Dictycoryne profunda Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

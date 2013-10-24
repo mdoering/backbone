@@ -1,5 +1,4 @@
-Peltula ruinicola (Nyl.) Gyeln. SPECIES
-=======
+# Peltula ruinicola (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

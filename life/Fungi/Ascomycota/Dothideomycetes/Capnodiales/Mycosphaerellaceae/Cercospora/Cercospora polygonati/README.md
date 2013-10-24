@@ -1,5 +1,4 @@
-Cercospora polygonati Rostr. SPECIES
-=======
+# Cercospora polygonati Rostr. SPECIES
 
 #### Status
 ACCEPTED

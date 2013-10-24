@@ -1,5 +1,4 @@
-Aecidium phytolaccae Rabenh. SPECIES
-=======
+# Aecidium phytolaccae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

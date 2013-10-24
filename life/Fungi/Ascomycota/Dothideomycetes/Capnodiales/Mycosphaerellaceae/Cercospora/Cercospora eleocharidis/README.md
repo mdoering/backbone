@@ -1,5 +1,4 @@
-Cercospora eleocharidis Davis SPECIES
-=======
+# Cercospora eleocharidis Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroporum deformatum SPECIES
-=======
+# Asteroporum deformatum SPECIES
 
 #### Status
 ACCEPTED

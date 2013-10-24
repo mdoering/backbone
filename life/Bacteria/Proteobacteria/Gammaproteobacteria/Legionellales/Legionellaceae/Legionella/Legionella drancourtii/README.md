@@ -1,5 +1,4 @@
-Legionella drancourtii La Scola et al., 2004 SPECIES
-=======
+# Legionella drancourtii La Scola et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

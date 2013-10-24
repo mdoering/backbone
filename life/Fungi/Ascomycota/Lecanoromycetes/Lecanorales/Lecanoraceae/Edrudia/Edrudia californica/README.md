@@ -1,5 +1,4 @@
-Edrudia californica SPECIES
-=======
+# Edrudia californica SPECIES
 
 #### Status
 ACCEPTED

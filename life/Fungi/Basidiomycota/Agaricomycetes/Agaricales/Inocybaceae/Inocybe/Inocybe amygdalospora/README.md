@@ -1,5 +1,4 @@
-Inocybe amygdalospora Métrod ex Cheype & Contu SPECIES
-=======
+# Inocybe amygdalospora Métrod ex Cheype & Contu SPECIES
 
 #### Status
 ACCEPTED

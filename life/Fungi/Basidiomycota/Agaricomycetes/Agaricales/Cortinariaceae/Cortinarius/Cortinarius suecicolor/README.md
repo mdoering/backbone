@@ -1,5 +1,4 @@
-Cortinarius suecicolor Soop, 2003 SPECIES
-=======
+# Cortinarius suecicolor Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

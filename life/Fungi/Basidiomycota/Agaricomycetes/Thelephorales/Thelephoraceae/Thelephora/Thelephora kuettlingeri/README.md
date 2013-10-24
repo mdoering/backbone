@@ -1,5 +1,4 @@
-Thelephora kuettlingeri Mart. SPECIES
-=======
+# Thelephora kuettlingeri Mart. SPECIES
 
 #### Status
 ACCEPTED

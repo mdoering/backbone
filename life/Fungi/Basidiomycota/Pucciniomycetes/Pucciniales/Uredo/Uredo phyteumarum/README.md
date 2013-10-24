@@ -1,5 +1,4 @@
-Uredo phyteumarum DC. SPECIES
-=======
+# Uredo phyteumarum DC. SPECIES
 
 #### Status
 ACCEPTED

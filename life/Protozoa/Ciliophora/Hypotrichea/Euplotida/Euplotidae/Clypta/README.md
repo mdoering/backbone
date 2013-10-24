@@ -1,5 +1,4 @@
-Clypta Gistl, 1848 GENUS
-=======
+# Clypta Gistl, 1848 GENUS
 
 #### Status
 ACCEPTED

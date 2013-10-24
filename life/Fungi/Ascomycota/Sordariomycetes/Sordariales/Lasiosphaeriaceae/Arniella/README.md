@@ -1,5 +1,4 @@
-Arniella Jeng & J.C. Krug GENUS
-=======
+# Arniella Jeng & J.C. Krug GENUS
 
 #### Status
 ACCEPTED

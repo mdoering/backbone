@@ -1,8 +1,7 @@
-Bacillus kaustophilus (ex Prickett, 1928) Priest et al., 1989 SPECIES
-=======
+# Geobacillus kaustophilus (Priest et al., 1989) Nazina et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

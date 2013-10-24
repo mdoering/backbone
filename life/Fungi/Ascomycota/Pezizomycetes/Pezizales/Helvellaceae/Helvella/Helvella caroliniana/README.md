@@ -1,5 +1,4 @@
-Helvella caroliniana Nees SPECIES
-=======
+# Helvella caroliniana Nees SPECIES
 
 #### Status
 ACCEPTED

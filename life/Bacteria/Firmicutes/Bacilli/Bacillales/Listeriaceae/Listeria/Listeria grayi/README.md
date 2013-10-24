@@ -1,11 +1,10 @@
-Murraya grayi (Errebo Larsen & Seeliger, 1966) Stuart & Welshimer, 1974 SPECIES
-=======
+# Listeria grayi Errebo Larsen and Seeliger, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

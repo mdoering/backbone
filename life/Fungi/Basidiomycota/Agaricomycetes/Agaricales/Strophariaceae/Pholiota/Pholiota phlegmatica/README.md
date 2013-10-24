@@ -1,5 +1,4 @@
-Pholiota phlegmatica (Berk.) Manjula SPECIES
-=======
+# Pholiota phlegmatica (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

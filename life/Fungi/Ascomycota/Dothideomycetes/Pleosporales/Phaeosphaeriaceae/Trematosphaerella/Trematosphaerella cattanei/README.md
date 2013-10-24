@@ -1,5 +1,4 @@
-Trematosphaerella cattanei (Thüm.) Padwick SPECIES
-=======
+# Trematosphaerella cattanei (Thüm.) Padwick SPECIES
 
 #### Status
 ACCEPTED

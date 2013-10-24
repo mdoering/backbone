@@ -1,5 +1,4 @@
-Reinhardtites elegans (S. Gartner) S.W. Wise SPECIES
-=======
+# Reinhardtites elegans (S. Gartner) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

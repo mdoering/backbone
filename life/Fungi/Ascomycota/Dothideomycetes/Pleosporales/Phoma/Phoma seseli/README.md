@@ -1,5 +1,4 @@
-Phoma seseli Hollós SPECIES
-=======
+# Phoma seseli Hollós SPECIES
 
 #### Status
 ACCEPTED

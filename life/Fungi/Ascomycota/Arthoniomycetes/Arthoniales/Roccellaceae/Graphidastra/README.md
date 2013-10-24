@@ -1,5 +1,4 @@
-Graphidastra (Redinger) G. Thor GENUS
-=======
+# Graphidastra (Redinger) G. Thor GENUS
 
 #### Status
 ACCEPTED

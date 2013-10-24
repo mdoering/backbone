@@ -1,5 +1,4 @@
-Halanaerobium kushneri Bhupathiraju et al., 1999 SPECIES
-=======
+# Halanaerobium kushneri Bhupathiraju et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

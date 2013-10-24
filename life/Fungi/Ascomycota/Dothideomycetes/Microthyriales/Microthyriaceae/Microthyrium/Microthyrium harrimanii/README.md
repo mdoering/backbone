@@ -1,8 +1,7 @@
-Microthyrium harrimani Sacc. SPECIES
-=======
+# Microthyrium harrimanii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microthyrium harrimani Sacc.
+Microthyrium harrimanii Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyclonephelium hystrix (A. Eisenack) R. J. Davey SPECIES
-=======
+# Cyclonephelium hystrix (A. Eisenack) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza australica Cooke SPECIES
-=======
+# Peziza australica Cooke SPECIES
 
 #### Status
 ACCEPTED

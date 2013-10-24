@@ -1,5 +1,4 @@
-Parapeltella macrospora (Hansf.) Bat. SPECIES
-=======
+# Parapeltella macrospora (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

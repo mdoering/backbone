@@ -1,5 +1,4 @@
-Sphenospora Dietel GENUS
-=======
+# Sphenospora Dietel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectospira myriandra Drechsler, 1927 SPECIES
-=======
+# Plectospira myriandra Drechsler, 1927 SPECIES
 
 #### Status
 ACCEPTED

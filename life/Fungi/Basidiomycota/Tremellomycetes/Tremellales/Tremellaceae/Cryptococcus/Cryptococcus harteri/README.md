@@ -1,5 +1,4 @@
-Cryptococcus harteri Verdun SPECIES
-=======
+# Cryptococcus harteri Verdun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo eulaliae-fulvae Cummins SPECIES
-=======
+# Uredo eulaliae-fulvae Cummins SPECIES
 
 #### Status
 ACCEPTED

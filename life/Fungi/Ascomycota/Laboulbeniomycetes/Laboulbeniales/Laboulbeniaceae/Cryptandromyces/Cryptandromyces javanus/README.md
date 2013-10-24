@@ -1,5 +1,4 @@
-Cryptandromyces javanus Thaxt. SPECIES
-=======
+# Cryptandromyces javanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

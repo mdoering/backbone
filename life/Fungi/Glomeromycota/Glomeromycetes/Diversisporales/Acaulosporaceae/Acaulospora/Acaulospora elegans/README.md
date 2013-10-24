@@ -1,5 +1,4 @@
-Acaulospora elegans Trappe & Gerd., 1974 SPECIES
-=======
+# Acaulospora elegans Trappe & Gerd., 1974 SPECIES
 
 #### Status
 ACCEPTED

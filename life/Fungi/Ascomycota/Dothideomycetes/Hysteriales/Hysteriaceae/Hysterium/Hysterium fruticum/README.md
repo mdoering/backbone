@@ -1,5 +1,4 @@
-Hysterium fruticum Sacc. SPECIES
-=======
+# Hysterium fruticum Sacc. SPECIES
 
 #### Status
 ACCEPTED

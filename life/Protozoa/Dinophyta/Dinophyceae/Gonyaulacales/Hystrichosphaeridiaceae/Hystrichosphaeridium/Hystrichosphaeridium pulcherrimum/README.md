@@ -1,5 +1,4 @@
-Hystrichosphaeridium pulcherrimum Deflandre & Cookson, 1966 SPECIES
-=======
+# Hystrichosphaeridium pulcherrimum Deflandre & Cookson, 1966 SPECIES
 
 #### Status
 ACCEPTED

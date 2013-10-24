@@ -1,5 +1,4 @@
-Pleomeris schmidtiana (Dietel) Syd. SPECIES
-=======
+# Pleomeris schmidtiana (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

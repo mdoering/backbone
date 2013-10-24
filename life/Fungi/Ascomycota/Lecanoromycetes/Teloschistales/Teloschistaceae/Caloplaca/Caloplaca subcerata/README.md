@@ -1,5 +1,4 @@
-Caloplaca subcerata (Stizenb.) Zahlbr. SPECIES
-=======
+# Caloplaca subcerata (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

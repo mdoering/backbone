@@ -1,5 +1,4 @@
-Usnea barbelata P.A. Duvign. SPECIES
-=======
+# Usnea barbelata P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

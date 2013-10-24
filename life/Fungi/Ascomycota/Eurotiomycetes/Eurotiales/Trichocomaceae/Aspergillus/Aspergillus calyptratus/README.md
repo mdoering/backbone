@@ -1,5 +1,4 @@
-Aspergillus calyptratus var. calyptratus VARIETY
-=======
+# Aspergillus calyptratus Oudem. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Arch. Néerlandaises des Sc. exacts et nat. 7: 283 (1902)
 
 #### Original name
-Aspergillus calyptratus var. calyptratus
+Aspergillus calyptratus Oudem.
 
 ### Remarks
 null

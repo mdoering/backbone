@@ -1,5 +1,4 @@
-Rickettsiella Philip, 1956 GENUS
-=======
+# Rickettsiella Philip, 1956 GENUS
 
 #### Status
 ACCEPTED

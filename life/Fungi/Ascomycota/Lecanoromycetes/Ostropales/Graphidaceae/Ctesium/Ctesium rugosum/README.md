@@ -1,5 +1,4 @@
-Ctesium rugosum Pers. SPECIES
-=======
+# Ctesium rugosum Pers. SPECIES
 
 #### Status
 ACCEPTED

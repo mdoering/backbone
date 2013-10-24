@@ -1,5 +1,4 @@
-Gymnopus atroviolaceus Murrill SPECIES
-=======
+# Gymnopus atroviolaceus Murrill SPECIES
 
 #### Status
 ACCEPTED

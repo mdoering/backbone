@@ -1,5 +1,4 @@
-Pleospora kamatii A. Pande SPECIES
-=======
+# Pleospora kamatii A. Pande SPECIES
 
 #### Status
 ACCEPTED

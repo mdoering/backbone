@@ -1,5 +1,4 @@
-Cercosporella veratri Peck SPECIES
-=======
+# Cercosporella veratri Peck SPECIES
 
 #### Status
 ACCEPTED

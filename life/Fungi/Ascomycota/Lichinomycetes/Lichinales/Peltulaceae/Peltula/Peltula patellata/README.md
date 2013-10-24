@@ -1,14 +1,13 @@
-Heppia patellata (Bagl.) Stizenb. SPECIES
-=======
+# Peltula patellata (Bagl.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 26: 221 (1979)
 
 #### Original name
 Acarospora patellata Bagl.

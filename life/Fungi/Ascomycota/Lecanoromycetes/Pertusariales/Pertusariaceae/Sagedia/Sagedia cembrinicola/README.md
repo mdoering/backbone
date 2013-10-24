@@ -1,5 +1,4 @@
-Sagedia cembrinicola Rabenh. SPECIES
-=======
+# Sagedia cembrinicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

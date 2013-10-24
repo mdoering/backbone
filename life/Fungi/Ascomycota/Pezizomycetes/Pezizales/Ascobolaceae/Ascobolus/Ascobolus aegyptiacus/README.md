@@ -1,5 +1,4 @@
-Ascobolus aegyptiacus Mouch. SPECIES
-=======
+# Ascobolus aegyptiacus Mouch. SPECIES
 
 #### Status
 ACCEPTED

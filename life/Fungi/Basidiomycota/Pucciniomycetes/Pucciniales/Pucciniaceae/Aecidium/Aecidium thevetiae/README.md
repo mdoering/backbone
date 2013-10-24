@@ -1,5 +1,4 @@
-Aecidium thevetiae Sacc. SPECIES
-=======
+# Aecidium thevetiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

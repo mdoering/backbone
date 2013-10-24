@@ -1,5 +1,4 @@
-Cookeina sulcipes var. sulcipes VARIETY
-=======
+# Cookeina sulcipes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revis. gen. pl. (Leipzig) 2: 849 (1891)
 
 #### Original name
-Cookeina sulcipes var. sulcipes
+Peziza sulcipes Berk.
 
 ### Remarks
 null

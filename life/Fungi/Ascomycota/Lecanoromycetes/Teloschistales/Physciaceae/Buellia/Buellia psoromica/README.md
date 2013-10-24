@@ -1,5 +1,4 @@
-Buellia psoromica Elix SPECIES
-=======
+# Buellia psoromica Elix SPECIES
 
 #### Status
 ACCEPTED

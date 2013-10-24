@@ -1,5 +1,4 @@
-Naegleria fowleri Carter, 1970 SPECIES
-=======
+# Naegleria fowleri Carter, 1970 SPECIES
 
 #### Status
 ACCEPTED

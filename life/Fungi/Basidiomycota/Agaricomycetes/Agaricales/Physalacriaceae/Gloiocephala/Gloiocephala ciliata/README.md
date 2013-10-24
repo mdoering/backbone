@@ -1,5 +1,4 @@
-Gloiocephala ciliata (Henn.) Singer SPECIES
-=======
+# Gloiocephala ciliata (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

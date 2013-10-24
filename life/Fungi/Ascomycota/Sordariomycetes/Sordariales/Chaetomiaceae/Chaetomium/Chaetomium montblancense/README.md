@@ -1,5 +1,4 @@
-Chaetomium montblancense Guarro, Calvo & C. Ramírez, 1980 SPECIES
-=======
+# Chaetomium montblancense Guarro, Calvo & C. Ramírez, 1980 SPECIES
 
 #### Status
 ACCEPTED

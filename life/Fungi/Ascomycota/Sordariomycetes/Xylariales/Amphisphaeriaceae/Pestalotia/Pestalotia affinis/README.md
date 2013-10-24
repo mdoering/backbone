@@ -1,5 +1,4 @@
-Pestalotia affinis Sacc. & Voglino SPECIES
-=======
+# Pestalotia affinis Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

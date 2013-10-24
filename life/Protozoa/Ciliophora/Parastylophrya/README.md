@@ -1,5 +1,4 @@
-Parastylophrya Yankovskii, 1978 GENUS
-=======
+# Parastylophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

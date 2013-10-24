@@ -1,5 +1,4 @@
-Plicaria repandoides Rehm SPECIES
-=======
+# Plicaria repandoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulgaria carbonaria Fuckel SPECIES
-=======
+# Bulgaria carbonaria Fuckel SPECIES
 
 #### Status
 ACCEPTED

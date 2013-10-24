@@ -1,5 +1,4 @@
-Gloeosporidiella chamaedaphnes (Dearn.) Arx SPECIES
-=======
+# Gloeosporidiella chamaedaphnes (Dearn.) Arx SPECIES
 
 #### Status
 ACCEPTED

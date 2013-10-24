@@ -1,5 +1,4 @@
-Placodium albicans Mattieu SPECIES
-=======
+# Placodium albicans Mattieu SPECIES
 
 #### Status
 ACCEPTED

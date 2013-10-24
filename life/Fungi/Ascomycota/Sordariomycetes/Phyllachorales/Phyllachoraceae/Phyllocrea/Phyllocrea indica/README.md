@@ -1,5 +1,4 @@
-Phyllocrea indica A. Pande, 2008 SPECIES
-=======
+# Phyllocrea indica A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

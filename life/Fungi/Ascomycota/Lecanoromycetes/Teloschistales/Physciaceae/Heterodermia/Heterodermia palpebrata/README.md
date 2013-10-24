@@ -1,5 +1,4 @@
-Heterodermia palpebrata (Taylor) Trass SPECIES
-=======
+# Heterodermia palpebrata (Taylor) Trass SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Strombidion caudatum Fromentel, 1876 SPECIES
-=======
+# Strobilidium caudatum (Fromentel, 1876) Foissner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

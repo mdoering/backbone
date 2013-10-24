@@ -1,5 +1,4 @@
-Mallomonas telingii SPECIES
-=======
+# Mallomonas telingii SPECIES
 
 #### Status
 ACCEPTED

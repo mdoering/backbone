@@ -1,5 +1,4 @@
-Diplodinula punctulata (Pat.) Tassi SPECIES
-=======
+# Diplodinula punctulata (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

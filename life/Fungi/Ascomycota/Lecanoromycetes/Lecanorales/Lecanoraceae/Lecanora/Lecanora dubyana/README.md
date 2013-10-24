@@ -1,5 +1,4 @@
-Lecanora dubyana (Hepp) Harm. SPECIES
-=======
+# Lecanora dubyana (Hepp) Harm. SPECIES
 
 #### Status
 ACCEPTED

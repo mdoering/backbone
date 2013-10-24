@@ -1,5 +1,4 @@
-Amphisphaeria beccariana Ces. SPECIES
-=======
+# Amphisphaeria beccariana Ces. SPECIES
 
 #### Status
 ACCEPTED

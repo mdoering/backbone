@@ -1,5 +1,4 @@
-Lamprospora leptodictya Dissing SPECIES
-=======
+# Lamprospora leptodictya Dissing SPECIES
 
 #### Status
 ACCEPTED

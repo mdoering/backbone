@@ -1,5 +1,4 @@
-Tuckermanopsis hepatizon (Ach.) Kurok. SPECIES
-=======
+# Tuckermanopsis hepatizon (Ach.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

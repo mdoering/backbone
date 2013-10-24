@@ -1,5 +1,4 @@
-Kordiimonadaceae FAMILY
-=======
+# Kordiimonadaceae FAMILY
 
 #### Status
 ACCEPTED

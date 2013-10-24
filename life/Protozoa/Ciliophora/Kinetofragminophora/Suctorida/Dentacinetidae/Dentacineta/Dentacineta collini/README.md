@@ -1,5 +1,4 @@
-Dentacineta collini (Batisse, 1992) Dovgal, 2002 SPECIES
-=======
+# Dentacineta collini (Batisse, 1992) Dovgal, 2002 SPECIES
 
 #### Status
 ACCEPTED

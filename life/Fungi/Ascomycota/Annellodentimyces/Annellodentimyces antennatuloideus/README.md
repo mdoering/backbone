@@ -1,17 +1,16 @@
-Annellodentimyces antennatuloidus Matsush. SPECIES
-=======
+# Annellodentimyces antennatuloideus Matsush., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 4: 3 (1985)
 
 #### Original name
-Annellodentimyces antennatuloidus Matsush.
+Annellodentimyces antennatuloideus Matsush., 1985
 
 ### Remarks
 null

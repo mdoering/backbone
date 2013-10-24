@@ -1,5 +1,4 @@
-Cylindrocolla corticioides Sacc. SPECIES
-=======
+# Cylindrocolla corticioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

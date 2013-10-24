@@ -1,5 +1,4 @@
-Clavaria lecomtei Pat. SPECIES
-=======
+# Clavaria lecomtei Pat. SPECIES
 
 #### Status
 ACCEPTED

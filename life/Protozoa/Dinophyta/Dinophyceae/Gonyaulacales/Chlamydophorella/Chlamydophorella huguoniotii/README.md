@@ -1,5 +1,4 @@
-Chlamydophorella huguoniotii (L. Valensi) R. J. Davey SPECIES
-=======
+# Chlamydophorella huguoniotii (L. Valensi) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

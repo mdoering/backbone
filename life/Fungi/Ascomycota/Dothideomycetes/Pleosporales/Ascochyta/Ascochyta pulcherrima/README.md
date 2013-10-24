@@ -1,5 +1,4 @@
-Ascochyta pulcherrima Sohi, S.L. Sharma, S.K. Nayar & Shayam SPECIES
-=======
+# Ascochyta pulcherrima Sohi, S.L. Sharma, S.K. Nayar & Shayam SPECIES
 
 #### Status
 ACCEPTED

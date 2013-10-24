@@ -1,5 +1,4 @@
-Campanella tincta Stokes, 1887 SPECIES
-=======
+# Campanella tincta Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus cesatii Carestia SPECIES
-=======
+# Ascobolus cesatii Carestia SPECIES
 
 #### Status
 ACCEPTED

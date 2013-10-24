@@ -1,5 +1,4 @@
-Trichophyton radians Sabour. SPECIES
-=======
+# Trichophyton radians Sabour. SPECIES
 
 #### Status
 ACCEPTED

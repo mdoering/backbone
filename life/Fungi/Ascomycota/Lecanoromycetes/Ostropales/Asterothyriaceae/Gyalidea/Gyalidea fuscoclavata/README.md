@@ -1,5 +1,4 @@
-Gyalidea fuscoclavata Svensson SPECIES
-=======
+# Gyalidea fuscoclavata Svensson SPECIES
 
 #### Status
 ACCEPTED

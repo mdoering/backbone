@@ -1,5 +1,4 @@
-Polyporus muelleri Kalchbr. SPECIES
-=======
+# Polyporus muelleri Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

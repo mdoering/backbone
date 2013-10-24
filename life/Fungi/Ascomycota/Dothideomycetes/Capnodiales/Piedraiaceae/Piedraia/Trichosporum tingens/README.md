@@ -1,5 +1,4 @@
-Trichosporum tingens SPECIES
-=======
+# Trichosporum tingens SPECIES
 
 #### Status
 ACCEPTED

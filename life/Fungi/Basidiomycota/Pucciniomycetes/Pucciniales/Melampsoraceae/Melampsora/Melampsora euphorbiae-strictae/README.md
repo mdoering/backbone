@@ -1,5 +1,4 @@
-Melampsora euphorbiae-strictae W. Muell. SPECIES
-=======
+# Melampsora euphorbiae-strictae W. Muell. SPECIES
 
 #### Status
 ACCEPTED

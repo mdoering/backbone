@@ -1,5 +1,4 @@
-Phanerochaete mauiensis Gilb. & Adask., 1993 SPECIES
-=======
+# Phanerochaete mauiensis Gilb. & Adask., 1993 SPECIES
 
 #### Status
 ACCEPTED

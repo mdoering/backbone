@@ -1,5 +1,4 @@
-Agrocybe gasteromycetoides Watling SPECIES
-=======
+# Agrocybe gasteromycetoides Watling SPECIES
 
 #### Status
 ACCEPTED

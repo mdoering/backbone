@@ -1,5 +1,4 @@
-Stictina marginalis (Bory) Trevis. SPECIES
-=======
+# Stictina marginalis (Bory) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kappamyces laurelensis Letcher & M.J. Powell, 2005 SPECIES
-=======
+# Kappamyces laurelensis Letcher & M.J. Powell, 2005 SPECIES
 
 #### Status
 ACCEPTED

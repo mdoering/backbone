@@ -1,5 +1,4 @@
-Gallerius Fordham, 1986 GENUS
-=======
+# Gallerius Fordham, 1986 GENUS
 
 #### Status
 ACCEPTED

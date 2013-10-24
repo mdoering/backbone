@@ -1,5 +1,4 @@
-Phialea cassandrae Kanouse SPECIES
-=======
+# Phialea cassandrae Kanouse SPECIES
 
 #### Status
 ACCEPTED

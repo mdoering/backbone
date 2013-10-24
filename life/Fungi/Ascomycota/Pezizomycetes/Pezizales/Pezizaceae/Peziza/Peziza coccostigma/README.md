@@ -1,5 +1,4 @@
-Peziza coccostigma Wallr. SPECIES
-=======
+# Peziza coccostigma Wallr. SPECIES
 
 #### Status
 ACCEPTED

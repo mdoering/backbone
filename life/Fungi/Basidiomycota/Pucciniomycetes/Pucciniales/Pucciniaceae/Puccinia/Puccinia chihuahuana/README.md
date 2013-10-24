@@ -1,5 +1,4 @@
-Puccinia chihuahuana Cummins SPECIES
-=======
+# Puccinia chihuahuana Cummins SPECIES
 
 #### Status
 ACCEPTED

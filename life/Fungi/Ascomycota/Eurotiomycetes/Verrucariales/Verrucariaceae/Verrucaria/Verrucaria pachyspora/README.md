@@ -1,5 +1,4 @@
-Verrucaria pachyspora Servít SPECIES
-=======
+# Verrucaria pachyspora Servít SPECIES
 
 #### Status
 ACCEPTED

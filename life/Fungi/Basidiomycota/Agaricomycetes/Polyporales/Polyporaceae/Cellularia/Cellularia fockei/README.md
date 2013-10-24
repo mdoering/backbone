@@ -1,5 +1,4 @@
-Cellularia fockei (Miq.) Kuntze SPECIES
-=======
+# Cellularia fockei (Miq.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

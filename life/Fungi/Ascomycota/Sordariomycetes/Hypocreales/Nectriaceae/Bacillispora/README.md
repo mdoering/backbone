@@ -1,5 +1,4 @@
-Bacillispora Sv. Nilsson GENUS
-=======
+# Bacillispora Sv. Nilsson GENUS
 
 #### Status
 ACCEPTED

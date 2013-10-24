@@ -1,5 +1,4 @@
-Ascodesmis reticulata Bainier SPECIES
-=======
+# Ascodesmis reticulata Bainier SPECIES
 
 #### Status
 ACCEPTED

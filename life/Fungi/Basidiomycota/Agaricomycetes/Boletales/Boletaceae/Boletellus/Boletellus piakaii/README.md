@@ -1,5 +1,4 @@
-Boletellus piakaii T.W. Henkel & Fulgenzi SPECIES
-=======
+# Boletellus piakaii T.W. Henkel & Fulgenzi SPECIES
 
 #### Status
 ACCEPTED

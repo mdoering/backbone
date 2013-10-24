@@ -1,5 +1,4 @@
-Otthia ostryogena Ellis & Everh. SPECIES
-=======
+# Otthia ostryogena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

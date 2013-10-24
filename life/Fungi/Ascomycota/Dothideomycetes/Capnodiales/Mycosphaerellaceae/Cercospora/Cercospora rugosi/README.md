@@ -1,5 +1,4 @@
-Cercospora rugosi Chupp SPECIES
-=======
+# Cercospora rugosi Chupp SPECIES
 
 #### Status
 ACCEPTED

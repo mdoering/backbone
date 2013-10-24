@@ -1,5 +1,4 @@
-Granodiporites piercei C.P. Varma & Rawat SPECIES
-=======
+# Granodiporites piercei C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

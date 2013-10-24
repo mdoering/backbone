@@ -1,5 +1,4 @@
-Mycoarctium ciliatum K.P. Jain & Cain, 1973 SPECIES
-=======
+# Mycoarctium ciliatum K.P. Jain & Cain, 1973 SPECIES
 
 #### Status
 ACCEPTED

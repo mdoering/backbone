@@ -1,5 +1,4 @@
-Lecidea incondita Kremp. SPECIES
-=======
+# Lecidea incondita Kremp. SPECIES
 
 #### Status
 ACCEPTED

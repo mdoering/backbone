@@ -1,5 +1,4 @@
-Micropeltis zalaccae Bat. & Peres SPECIES
-=======
+# Micropeltis zalaccae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

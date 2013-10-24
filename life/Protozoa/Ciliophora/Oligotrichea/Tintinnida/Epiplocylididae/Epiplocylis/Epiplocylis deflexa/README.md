@@ -1,5 +1,4 @@
-Epiplocylis deflexa Kofoid & Campbell, 1929 SPECIES
-=======
+# Epiplocylis deflexa Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

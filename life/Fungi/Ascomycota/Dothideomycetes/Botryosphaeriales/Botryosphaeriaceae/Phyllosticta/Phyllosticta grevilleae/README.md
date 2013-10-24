@@ -1,5 +1,4 @@
-Phyllosticta grevilleae Gadd SPECIES
-=======
+# Phyllosticta grevilleae Gadd SPECIES
 
 #### Status
 ACCEPTED

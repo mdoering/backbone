@@ -1,5 +1,4 @@
-Durella pinacea Velen. SPECIES
-=======
+# Durella pinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

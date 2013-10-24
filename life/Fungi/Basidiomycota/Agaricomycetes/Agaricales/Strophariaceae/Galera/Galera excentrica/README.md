@@ -1,5 +1,4 @@
-Galera excentrica Velen. SPECIES
-=======
+# Galera excentrica Velen. SPECIES
 
 #### Status
 ACCEPTED

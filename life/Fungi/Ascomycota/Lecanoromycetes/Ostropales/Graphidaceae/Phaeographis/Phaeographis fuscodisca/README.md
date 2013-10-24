@@ -1,5 +1,4 @@
-Phaeographis fuscodisca M. Nakan. SPECIES
-=======
+# Phaeographis fuscodisca M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine berteriana (Fée) Imshaug SPECIES
-=======
+# Pyxine berteriana (Fée) Imshaug SPECIES
 
 #### Status
 ACCEPTED

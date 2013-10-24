@@ -1,5 +1,4 @@
-Tricholoma sanguineoalbum (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Tricholoma sanguineoalbum (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

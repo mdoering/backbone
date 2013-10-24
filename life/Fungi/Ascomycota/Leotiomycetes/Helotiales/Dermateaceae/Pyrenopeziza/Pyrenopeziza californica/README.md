@@ -1,5 +1,4 @@
-Pyrenopeziza californica Sacc. SPECIES
-=======
+# Pyrenopeziza californica Sacc. SPECIES
 
 #### Status
 ACCEPTED

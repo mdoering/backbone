@@ -1,5 +1,4 @@
-Botrytis lilacina Schwein. SPECIES
-=======
+# Botrytis lilacina Schwein. SPECIES
 
 #### Status
 ACCEPTED

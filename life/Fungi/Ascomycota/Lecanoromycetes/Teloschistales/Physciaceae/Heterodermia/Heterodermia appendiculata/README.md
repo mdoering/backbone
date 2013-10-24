@@ -1,14 +1,13 @@
-Anaptychia appendiculata Kurok. SPECIES
-=======
+# Heterodermia appendiculata (Kurok.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 6: 61 (1962)
+Lichenologist 8: 114 (1976)
 
 #### Original name
 Anaptychia appendiculata Kurok.

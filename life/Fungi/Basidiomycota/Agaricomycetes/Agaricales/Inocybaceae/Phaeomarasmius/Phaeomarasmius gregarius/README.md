@@ -1,5 +1,4 @@
-Phaeomarasmius gregarius Singer SPECIES
-=======
+# Phaeomarasmius gregarius Singer SPECIES
 
 #### Status
 ACCEPTED

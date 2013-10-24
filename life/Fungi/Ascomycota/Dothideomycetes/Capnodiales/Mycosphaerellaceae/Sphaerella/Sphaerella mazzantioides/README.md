@@ -1,5 +1,4 @@
-Sphaerella mazzantioides Sacc. SPECIES
-=======
+# Sphaerella mazzantioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

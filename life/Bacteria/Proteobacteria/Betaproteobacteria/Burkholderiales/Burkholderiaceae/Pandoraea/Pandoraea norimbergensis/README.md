@@ -1,8 +1,7 @@
-Burkholderia norimbergensis Wittke et al., 1998 SPECIES
-=======
+# Pandoraea norimbergensis (Wittke et al., 1998) Coenye et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

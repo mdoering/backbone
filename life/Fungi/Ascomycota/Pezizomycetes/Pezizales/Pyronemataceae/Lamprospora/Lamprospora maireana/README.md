@@ -1,5 +1,4 @@
-Lamprospora maireana Seaver SPECIES
-=======
+# Lamprospora maireana Seaver SPECIES
 
 #### Status
 ACCEPTED

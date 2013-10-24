@@ -1,5 +1,4 @@
-Mycocalicium betulinum (Nyl.) Vain. SPECIES
-=======
+# Mycocalicium betulinum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

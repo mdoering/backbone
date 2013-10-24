@@ -1,5 +1,4 @@
-Croceimarina litoralis Yang & Cho, 2006 SPECIES
-=======
+# Croceimarina litoralis Yang & Cho, 2006 SPECIES
 
 #### Status
 ACCEPTED

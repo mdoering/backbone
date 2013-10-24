@@ -1,5 +1,4 @@
-Peronospora Corda, 1837 GENUS
-=======
+# Peronospora Corda, 1837 GENUS
 
 #### Status
 ACCEPTED

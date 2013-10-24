@@ -1,14 +1,13 @@
-Ellisembia coronata (Fuckel) Subram., 1992 SPECIES
-=======
+# Sporidesmium coronatum Fuckel, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 183 (1992)
+Jb. nassau. Ver. Naturk. 27-28: 77 (1874)
 
 #### Original name
 Sporidesmium coronatum Fuckel, 1874

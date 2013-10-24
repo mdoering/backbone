@@ -1,5 +1,4 @@
-Sporisorium scholzii Vánky SPECIES
-=======
+# Sporisorium scholzii Vánky SPECIES
 
 #### Status
 ACCEPTED

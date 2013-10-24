@@ -1,5 +1,4 @@
-Mycena punicans (Britzelm.) Sacc. SPECIES
-=======
+# Mycena punicans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

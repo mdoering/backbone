@@ -1,5 +1,4 @@
-Tanyosphaeridium magdalium (Drugg, 1967) Heisecke SPECIES
-=======
+# Tanyosphaeridium magdalium (Drugg, 1967) Heisecke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium amurense Petr. SPECIES
-=======
+# Coniothyrium amurense Petr. SPECIES
 
 #### Status
 ACCEPTED

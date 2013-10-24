@@ -1,5 +1,4 @@
-Verrucaria hilitzeriana Servít SPECIES
-=======
+# Verrucaria hilitzeriana Servít SPECIES
 
 #### Status
 ACCEPTED

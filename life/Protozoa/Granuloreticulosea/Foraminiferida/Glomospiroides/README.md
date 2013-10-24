@@ -1,5 +1,4 @@
-Glomospiroides Reitlinger, 1950 GENUS
-=======
+# Glomospiroides Reitlinger, 1950 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus nobilis (A. Pearson) Heinem. SPECIES
-=======
+# Agaricus nobilis (A. Pearson) Heinem. SPECIES
 
 #### Status
 ACCEPTED

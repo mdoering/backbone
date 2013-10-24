@@ -1,5 +1,4 @@
-Lejeunecysta D.G.Artzner & G.Dörhöfe, 1978 GENUS
-=======
+# Lejeunecysta D.G.Artzner & G.Dörhöfe, 1978 GENUS
 
 #### Status
 ACCEPTED

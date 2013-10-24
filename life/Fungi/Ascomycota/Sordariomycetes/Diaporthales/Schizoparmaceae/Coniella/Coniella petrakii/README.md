@@ -1,5 +1,4 @@
-Coniella petrakii B. Sutton, 1980 SPECIES
-=======
+# Coniella petrakii B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

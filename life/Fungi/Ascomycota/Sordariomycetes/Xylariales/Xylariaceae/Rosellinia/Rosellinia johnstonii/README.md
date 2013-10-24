@@ -1,5 +1,4 @@
-Rosellinia johnstonii L.E. Petrini, 2003 SPECIES
-=======
+# Rosellinia johnstonii L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

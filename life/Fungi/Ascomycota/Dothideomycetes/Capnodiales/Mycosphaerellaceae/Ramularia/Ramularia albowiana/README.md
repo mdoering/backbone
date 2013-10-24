@@ -1,5 +1,4 @@
-Ramularia albowiana Siemaszko SPECIES
-=======
+# Ramularia albowiana Siemaszko SPECIES
 
 #### Status
 ACCEPTED

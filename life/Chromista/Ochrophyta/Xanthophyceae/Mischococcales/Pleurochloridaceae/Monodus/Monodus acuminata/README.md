@@ -1,5 +1,4 @@
-Monodus acuminata (Gerneck) Chodat SPECIES
-=======
+# Monodus acuminata (Gerneck) Chodat SPECIES
 
 #### Status
 ACCEPTED

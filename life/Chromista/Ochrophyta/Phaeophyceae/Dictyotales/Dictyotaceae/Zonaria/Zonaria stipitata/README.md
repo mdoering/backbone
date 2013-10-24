@@ -1,5 +1,4 @@
-Zonaria stipitata Tanaka & K. Nozawa SPECIES
-=======
+# Zonaria stipitata Tanaka & K. Nozawa SPECIES
 
 #### Status
 ACCEPTED

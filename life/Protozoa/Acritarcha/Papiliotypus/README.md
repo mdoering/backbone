@@ -1,5 +1,4 @@
-Papiliotypus Hashemi & Playford, 1998 GENUS
-=======
+# Papiliotypus Hashemi & Playford, 1998 GENUS
 
 #### Status
 ACCEPTED

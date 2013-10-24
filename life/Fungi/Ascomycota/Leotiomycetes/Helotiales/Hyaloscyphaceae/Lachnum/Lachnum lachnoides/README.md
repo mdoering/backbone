@@ -1,5 +1,4 @@
-Lachnum lachnoides Velen., 1934 SPECIES
-=======
+# Lachnum lachnoides Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

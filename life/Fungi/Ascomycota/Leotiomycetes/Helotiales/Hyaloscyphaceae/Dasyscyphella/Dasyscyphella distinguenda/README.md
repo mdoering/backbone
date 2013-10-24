@@ -1,5 +1,4 @@
-Dasyscyphella distinguenda (P. Karst.) SPECIES
-=======
+# Dasyscyphella distinguenda (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

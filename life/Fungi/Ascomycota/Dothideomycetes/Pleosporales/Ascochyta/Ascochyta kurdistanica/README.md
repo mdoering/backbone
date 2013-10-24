@@ -1,5 +1,4 @@
-Ascochyta kurdistanica Bubák SPECIES
-=======
+# Ascochyta kurdistanica Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema cornigerum Kurok. SPECIES
-=======
+# Parmotrema cornigerum Kurok. SPECIES
 
 #### Status
 ACCEPTED

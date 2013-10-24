@@ -1,14 +1,13 @@
-Lecidea subvulpina Nyl. SPECIES
-=======
+# Letrouitia subvulpina (Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 35(4): 705 (1983)
 
 #### Original name
 Lecidea subvulpina Nyl.

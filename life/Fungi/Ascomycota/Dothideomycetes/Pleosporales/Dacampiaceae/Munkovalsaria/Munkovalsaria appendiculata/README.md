@@ -1,5 +1,4 @@
-Munkovalsaria appendiculata Aptroot SPECIES
-=======
+# Munkovalsaria appendiculata Aptroot SPECIES
 
 #### Status
 ACCEPTED

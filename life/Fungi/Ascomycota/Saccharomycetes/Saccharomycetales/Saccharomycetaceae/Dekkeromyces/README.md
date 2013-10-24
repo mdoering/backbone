@@ -1,5 +1,4 @@
-Dekkeromyces GENUS
-=======
+# Dekkeromyces GENUS
 
 #### Status
 ACCEPTED

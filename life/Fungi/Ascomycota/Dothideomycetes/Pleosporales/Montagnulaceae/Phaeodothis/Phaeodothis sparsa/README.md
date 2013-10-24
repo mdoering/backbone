@@ -1,5 +1,4 @@
-Phaeodothis sparsa Petch SPECIES
-=======
+# Phaeodothis sparsa Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea probiscidina Nyl. SPECIES
-=======
+# Lecidea probiscidina Nyl. SPECIES
 
 #### Status
 ACCEPTED

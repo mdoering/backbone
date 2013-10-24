@@ -1,5 +1,4 @@
-Navifusa bagdarinica Faizulina & Treshchetenkova in Nokolskii et al., 1984 SPECIES
-=======
+# Navifusa bagdarinica Faizulina & Treshchetenkova in Nokolskii et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

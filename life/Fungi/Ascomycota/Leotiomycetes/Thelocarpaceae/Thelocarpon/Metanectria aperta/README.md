@@ -1,5 +1,4 @@
-Metanectria aperta (Syd.) Theiss. SPECIES
-=======
+# Metanectria aperta (Syd.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

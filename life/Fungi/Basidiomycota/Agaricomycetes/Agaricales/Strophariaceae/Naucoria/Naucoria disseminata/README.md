@@ -1,5 +1,4 @@
-Naucoria disseminata Velen. SPECIES
-=======
+# Naucoria disseminata Velen. SPECIES
 
 #### Status
 ACCEPTED

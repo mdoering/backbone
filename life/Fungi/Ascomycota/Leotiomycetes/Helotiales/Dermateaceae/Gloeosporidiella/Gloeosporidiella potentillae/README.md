@@ -1,5 +1,4 @@
-Gloeosporidiella potentillae (Arx) Arx SPECIES
-=======
+# Gloeosporidiella potentillae (Arx) Arx SPECIES
 
 #### Status
 ACCEPTED

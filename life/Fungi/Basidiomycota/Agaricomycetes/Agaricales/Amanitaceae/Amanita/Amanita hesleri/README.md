@@ -1,5 +1,4 @@
-Amanita hesleri Bas SPECIES
-=======
+# Amanita hesleri Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia ameliensis (H. Magn.) SPECIES
-=======
+# Aspicilia ameliensis (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

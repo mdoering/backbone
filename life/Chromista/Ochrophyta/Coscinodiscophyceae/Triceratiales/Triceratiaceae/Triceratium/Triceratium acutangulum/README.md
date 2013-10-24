@@ -1,5 +1,4 @@
-Triceratium acutangulum N.I. Strelnikova SPECIES
-=======
+# Triceratium acutangulum N.I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

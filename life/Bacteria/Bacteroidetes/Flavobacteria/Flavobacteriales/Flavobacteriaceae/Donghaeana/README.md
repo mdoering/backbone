@@ -1,5 +1,4 @@
-Donghaeana Yoon et al., 2006 GENUS
-=======
+# Donghaeana Yoon et al., 2006 GENUS
 
 #### Status
 ACCEPTED

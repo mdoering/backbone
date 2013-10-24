@@ -1,5 +1,4 @@
-Spilosphaerites priscus C. Massal. SPECIES
-=======
+# Spilosphaerites priscus C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physconia thorstenii A. Crespo & Divakar SPECIES
-=======
+# Physconia thorstenii A. Crespo & Divakar SPECIES
 
 #### Status
 ACCEPTED

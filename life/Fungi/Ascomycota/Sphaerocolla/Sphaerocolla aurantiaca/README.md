@@ -1,5 +1,4 @@
-Sphaerocolla aurantiaca P. Karst., 1892 SPECIES
-=======
+# Sphaerocolla aurantiaca P. Karst., 1892 SPECIES
 
 #### Status
 ACCEPTED

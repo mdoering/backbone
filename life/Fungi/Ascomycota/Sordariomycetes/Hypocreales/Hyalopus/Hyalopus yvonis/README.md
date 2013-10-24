@@ -1,5 +1,4 @@
-Hyalopus yvonis Dop SPECIES
-=======
+# Hyalopus yvonis Dop SPECIES
 
 #### Status
 ACCEPTED

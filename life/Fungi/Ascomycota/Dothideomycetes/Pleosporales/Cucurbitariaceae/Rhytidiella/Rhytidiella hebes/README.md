@@ -1,5 +1,4 @@
-Rhytidiella hebes P.R. Johnst., 2007 SPECIES
-=======
+# Rhytidiella hebes P.R. Johnst., 2007 SPECIES
 
 #### Status
 ACCEPTED

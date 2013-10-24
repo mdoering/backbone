@@ -1,5 +1,4 @@
-Lactarius cistophilus Bon & Trimbach SPECIES
-=======
+# Lactarius cistophilus Bon & Trimbach SPECIES
 
 #### Status
 ACCEPTED

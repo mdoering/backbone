@@ -1,5 +1,4 @@
-Hendersonia araucariae Thüm. SPECIES
-=======
+# Hendersonia araucariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

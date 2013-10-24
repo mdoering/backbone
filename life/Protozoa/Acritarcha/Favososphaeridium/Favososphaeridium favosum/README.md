@@ -1,5 +1,4 @@
-Favososphaeridium favosum Timofeev, 1966 SPECIES
-=======
+# Favososphaeridium favosum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

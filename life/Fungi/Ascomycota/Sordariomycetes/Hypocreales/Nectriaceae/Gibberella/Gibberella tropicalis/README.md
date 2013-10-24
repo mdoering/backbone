@@ -1,5 +1,4 @@
-Gibberella tropicalis Rehm SPECIES
-=======
+# Gibberella tropicalis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella jasmini Ellis & Everh. SPECIES
-=======
+# Aplosporella jasmini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

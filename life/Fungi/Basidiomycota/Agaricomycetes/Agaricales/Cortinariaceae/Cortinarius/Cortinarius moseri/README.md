@@ -1,5 +1,4 @@
-Cortinarius moseri (E. Horak) E. Horak SPECIES
-=======
+# Cortinarius moseri (E. Horak) E. Horak SPECIES
 
 #### Status
 ACCEPTED

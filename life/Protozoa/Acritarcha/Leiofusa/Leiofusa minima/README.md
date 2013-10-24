@@ -1,5 +1,4 @@
-Leiofusa minima Cookson & Eisenack, 1982 SPECIES
-=======
+# Leiofusa minima Cookson & Eisenack, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia delasotae Singer, 1989 SPECIES
-=======
+# Hohenbuehelia delasotae Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

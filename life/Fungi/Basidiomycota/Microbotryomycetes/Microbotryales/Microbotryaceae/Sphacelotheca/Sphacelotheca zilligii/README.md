@@ -1,5 +1,4 @@
-Sphacelotheca zilligii Zundel SPECIES
-=======
+# Sphacelotheca zilligii Zundel SPECIES
 
 #### Status
 ACCEPTED

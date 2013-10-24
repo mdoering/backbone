@@ -1,5 +1,4 @@
-Lecidea wawreana Zahlbr. SPECIES
-=======
+# Lecidea wawreana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

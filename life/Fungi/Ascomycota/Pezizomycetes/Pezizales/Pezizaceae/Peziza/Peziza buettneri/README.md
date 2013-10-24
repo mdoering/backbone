@@ -1,5 +1,4 @@
-Peziza buettneri Henn. SPECIES
-=======
+# Peziza buettneri Henn. SPECIES
 
 #### Status
 ACCEPTED

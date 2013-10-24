@@ -1,5 +1,4 @@
-Dendrocometes robustus Swarczewsky, 1928 SPECIES
-=======
+# Dendrocometes robustus Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

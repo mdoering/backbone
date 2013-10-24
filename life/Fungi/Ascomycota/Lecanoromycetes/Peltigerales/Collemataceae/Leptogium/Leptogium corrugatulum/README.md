@@ -1,5 +1,4 @@
-Leptogium corrugatulum Nyl. SPECIES
-=======
+# Leptogium corrugatulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

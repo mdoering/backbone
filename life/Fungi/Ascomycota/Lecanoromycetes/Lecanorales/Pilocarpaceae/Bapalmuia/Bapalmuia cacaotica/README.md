@@ -1,5 +1,4 @@
-Bapalmuia cacaotica Kalb & Lücking SPECIES
-=======
+# Bapalmuia cacaotica Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

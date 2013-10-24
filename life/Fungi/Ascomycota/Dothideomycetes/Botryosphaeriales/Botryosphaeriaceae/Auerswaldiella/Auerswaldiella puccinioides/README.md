@@ -1,17 +1,16 @@
-Phyllachora viridispora Cooke, 1885 SPECIES
-=======
+# Auerswaldiella puccinioides (Speg.) Theiss. & Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 65 (1885)
+Annls mycol. 12(3): 278 (1914)
 
 #### Original name
-Phyllachora viridispora Cooke, 1885
+Auerswaldia puccinioides Speg., 1885
 
 ### Remarks
 null

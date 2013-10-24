@@ -1,5 +1,4 @@
-Crocynia saxicola var. saxicola VARIETY
-=======
+# Crocynia saxicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Hue, Bull. Soc. bot. Fr. 71: 366 (1924)
 
 #### Original name
-Crocynia saxicola var. saxicola
+Crocynia saxicola B. de Lesd.
 
 ### Remarks
 null

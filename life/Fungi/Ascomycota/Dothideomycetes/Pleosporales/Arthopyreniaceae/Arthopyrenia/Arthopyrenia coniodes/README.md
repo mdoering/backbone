@@ -1,5 +1,4 @@
-Arthopyrenia coniodes (Nyl.) Zopf SPECIES
-=======
+# Arthopyrenia coniodes (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scoliciosporum ophiosporum (Hellb.) Hav. SPECIES
-=======
+# Scoliciosporum ophiosporum (Hellb.) Hav. SPECIES
 
 #### Status
 ACCEPTED

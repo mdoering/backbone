@@ -1,5 +1,4 @@
-Phoma aceris-negundinis Arcang. SPECIES
-=======
+# Phoma aceris-negundinis Arcang. SPECIES
 
 #### Status
 ACCEPTED

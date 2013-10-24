@@ -1,5 +1,4 @@
-Strombidium parastylifer Xu, Warren & Song, 2009 SPECIES
-=======
+# Strombidium parastylifer Xu, Warren & Song, 2009 SPECIES
 
 #### Status
 ACCEPTED

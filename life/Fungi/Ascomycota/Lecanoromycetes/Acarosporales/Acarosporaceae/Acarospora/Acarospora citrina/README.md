@@ -1,5 +1,4 @@
-Acarospora citrina (Taylor) Zahlbr. ex Rech. {?} SPECIES
-=======
+# Acarospora citrina (Taylor) Zahlbr. ex Rech. {?} SPECIES
 
 #### Status
 ACCEPTED

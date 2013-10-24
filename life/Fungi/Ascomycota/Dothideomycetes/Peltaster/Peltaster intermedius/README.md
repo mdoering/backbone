@@ -1,5 +1,4 @@
-Peltaster intermedius M.L. Farr SPECIES
-=======
+# Peltaster intermedius M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

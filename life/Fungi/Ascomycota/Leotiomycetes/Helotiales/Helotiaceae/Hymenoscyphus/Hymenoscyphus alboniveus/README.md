@@ -1,5 +1,4 @@
-Hymenoscyphus alboniveus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus alboniveus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

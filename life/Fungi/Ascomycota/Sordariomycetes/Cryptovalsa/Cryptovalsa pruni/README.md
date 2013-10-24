@@ -1,5 +1,4 @@
-Cryptovalsa pruni Fuckel SPECIES
-=======
+# Cryptovalsa pruni Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenopezia unedonis Pat. SPECIES
-=======
+# Solenopezia unedonis Pat. SPECIES
 
 #### Status
 ACCEPTED

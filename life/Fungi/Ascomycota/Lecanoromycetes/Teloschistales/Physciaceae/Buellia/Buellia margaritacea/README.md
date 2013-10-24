@@ -1,5 +1,4 @@
-Buellia margaritacea var. margaritacea VARIETY
-=======
+# Buellia margaritacea (Sommerf.) Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia margaritacea var. margaritacea
+Lecidea margaritacea Sommerf.
 
 ### Remarks
 null

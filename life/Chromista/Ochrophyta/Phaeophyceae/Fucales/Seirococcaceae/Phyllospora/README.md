@@ -1,5 +1,4 @@
-Phyllospora C.Agardh, 1839 GENUS
-=======
+# Phyllospora C.Agardh, 1839 GENUS
 
 #### Status
 ACCEPTED

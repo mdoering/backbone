@@ -1,5 +1,4 @@
-Helvella dura Velen. SPECIES
-=======
+# Helvella dura Velen. SPECIES
 
 #### Status
 ACCEPTED

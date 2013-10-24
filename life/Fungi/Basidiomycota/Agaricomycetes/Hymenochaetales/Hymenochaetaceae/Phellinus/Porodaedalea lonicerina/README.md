@@ -1,5 +1,4 @@
-Porodaedalea lonicerina (Bondartsev) Imazeki SPECIES
-=======
+# Porodaedalea lonicerina (Bondartsev) Imazeki SPECIES
 
 #### Status
 ACCEPTED

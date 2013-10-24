@@ -1,5 +1,4 @@
-Pleurotopsis niduliformis Murrill SPECIES
-=======
+# Pleurotopsis niduliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

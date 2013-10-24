@@ -1,5 +1,4 @@
-Dematium rubiginosum (Pers.) Link SPECIES
-=======
+# Dematium rubiginosum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

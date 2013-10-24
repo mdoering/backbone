@@ -1,5 +1,4 @@
-Octospora limbata (Wallr.) K.B. Khare & V.P. Tewari SPECIES
-=======
+# Octospora limbata (Wallr.) K.B. Khare & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus astroites Scop. SPECIES
-=======
+# Fungus astroites Scop. SPECIES
 
 #### Status
 ACCEPTED

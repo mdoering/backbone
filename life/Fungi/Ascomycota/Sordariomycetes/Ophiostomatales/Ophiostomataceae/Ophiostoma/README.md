@@ -1,17 +1,16 @@
-Europhium A.K. Parker GENUS
-=======
+# Ophiostoma Sydow & P. Sydow, 1919 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 35(2): 175 (1957)
+Annls mycol. 17(1): 43 (1919)
 
 #### Original name
-Europhium A.K. Parker
+Ophiostoma Sydow & P. Sydow, 1919
 
 ### Remarks
 null

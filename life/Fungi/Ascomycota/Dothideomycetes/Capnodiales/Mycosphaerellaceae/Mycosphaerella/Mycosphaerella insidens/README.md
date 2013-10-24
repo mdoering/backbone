@@ -1,5 +1,4 @@
-Mycosphaerella insidens Clem., 1906 SPECIES
-=======
+# Mycosphaerella insidens Clem., 1906 SPECIES
 
 #### Status
 ACCEPTED

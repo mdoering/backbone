@@ -1,5 +1,4 @@
-Passalora asprellae (U. Braun) U. Braun & Crous SPECIES
-=======
+# Passalora asprellae (U. Braun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

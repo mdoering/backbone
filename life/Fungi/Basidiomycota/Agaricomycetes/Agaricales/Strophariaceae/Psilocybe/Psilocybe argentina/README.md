@@ -1,5 +1,4 @@
-Psilocybe argentina (Speg.) Singer, 1969 SPECIES
-=======
+# Psilocybe argentina (Speg.) Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

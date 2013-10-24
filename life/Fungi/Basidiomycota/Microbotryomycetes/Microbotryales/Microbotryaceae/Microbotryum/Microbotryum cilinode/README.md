@@ -1,17 +1,16 @@
-Ustilago cilinodes Savile SPECIES
-=======
+# Microbotryum cilinode (Savile) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 42 (1998)
 
 #### Original name
-Ustilago cilinodes Savile
+Ustilago cilinodis Savile, 1953
 
 ### Remarks
 null

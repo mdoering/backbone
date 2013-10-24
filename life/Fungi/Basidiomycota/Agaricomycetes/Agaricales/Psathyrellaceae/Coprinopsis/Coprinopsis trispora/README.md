@@ -1,5 +1,4 @@
-Coprinopsis trispora (Kemp & Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis trispora (Kemp & Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

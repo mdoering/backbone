@@ -1,5 +1,4 @@
-Coenogoniomyces GENUS
-=======
+# Coenogoniomyces GENUS
 
 #### Status
 ACCEPTED

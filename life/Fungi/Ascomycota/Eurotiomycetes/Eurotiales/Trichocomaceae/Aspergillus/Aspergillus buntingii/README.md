@@ -1,5 +1,4 @@
-Aspergillus buntingii Mosseray SPECIES
-=======
+# Aspergillus buntingii Mosseray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenophrya flavescens Penard, 1914 SPECIES
-=======
+# Solenophrya flavescens Penard, 1914 SPECIES
 
 #### Status
 ACCEPTED

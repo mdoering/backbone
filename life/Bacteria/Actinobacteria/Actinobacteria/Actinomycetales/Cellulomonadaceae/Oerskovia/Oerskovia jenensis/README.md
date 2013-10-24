@@ -1,5 +1,4 @@
-Oerskovia jenensis Stackebrandt et al., 2002 SPECIES
-=======
+# Oerskovia jenensis Stackebrandt et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

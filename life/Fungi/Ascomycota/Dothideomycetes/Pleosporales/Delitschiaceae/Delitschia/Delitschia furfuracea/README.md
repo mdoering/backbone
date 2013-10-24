@@ -1,5 +1,4 @@
-Delitschia furfuracea Niessl, 1884 SPECIES
-=======
+# Delitschia furfuracea Niessl, 1884 SPECIES
 
 #### Status
 ACCEPTED

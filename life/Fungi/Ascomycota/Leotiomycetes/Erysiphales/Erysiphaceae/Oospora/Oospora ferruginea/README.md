@@ -1,5 +1,4 @@
-Oospora ferruginea Bres. SPECIES
-=======
+# Oospora ferruginea Bres. SPECIES
 
 #### Status
 ACCEPTED

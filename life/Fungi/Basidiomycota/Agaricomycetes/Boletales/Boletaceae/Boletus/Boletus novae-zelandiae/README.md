@@ -1,5 +1,4 @@
-Boletus novae-zelandiae McNabb, 1968 SPECIES
-=======
+# Boletus novae-zelandiae McNabb, 1968 SPECIES
 
 #### Status
 ACCEPTED

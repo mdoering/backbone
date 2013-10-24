@@ -1,5 +1,4 @@
-Weraroa spadicea Singer, 1959 SPECIES
-=======
+# Weraroa spadicea Singer, 1959 SPECIES
 
 #### Status
 ACCEPTED

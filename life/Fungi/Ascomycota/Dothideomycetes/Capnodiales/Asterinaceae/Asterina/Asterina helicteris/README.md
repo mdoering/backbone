@@ -1,5 +1,4 @@
-Asterina helicteris Ouyang & Y.X. Hu SPECIES
-=======
+# Asterina helicteris Ouyang & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

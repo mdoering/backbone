@@ -1,5 +1,4 @@
-Cyanopulvis australiensis J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Cyanopulvis australiensis J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

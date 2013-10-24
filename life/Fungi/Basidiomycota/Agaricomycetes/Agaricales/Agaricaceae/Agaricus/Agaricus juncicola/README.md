@@ -1,5 +1,4 @@
-Agaricus juncicola Fr. SPECIES
-=======
+# Agaricus juncicola Fr. SPECIES
 
 #### Status
 ACCEPTED

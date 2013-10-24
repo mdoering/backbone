@@ -1,5 +1,4 @@
-Sporisorium microthelis (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium microthelis (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

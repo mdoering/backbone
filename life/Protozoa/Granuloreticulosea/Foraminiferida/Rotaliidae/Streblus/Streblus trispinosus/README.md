@@ -1,5 +1,4 @@
-Streblus trispinosus (Thalmann) SPECIES
-=======
+# Streblus trispinosus (Thalmann) SPECIES
 
 #### Status
 ACCEPTED

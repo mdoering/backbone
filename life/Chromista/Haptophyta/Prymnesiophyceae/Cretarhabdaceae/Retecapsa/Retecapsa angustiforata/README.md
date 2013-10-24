@@ -1,8 +1,7 @@
-Cretarhabdus angustiforatus (Black, 1971) Bukry, 1973 SPECIES
-=======
+# Retecapsa angustiforata Black, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

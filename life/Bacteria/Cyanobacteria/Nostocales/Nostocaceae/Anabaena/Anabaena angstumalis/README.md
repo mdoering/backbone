@@ -1,5 +1,4 @@
-Anabaena angstumalis marchica Lemmermann, 1905 SUBSPECIES
-=======
+# Anabaena angstumalis Schmidle, 1899 SPECIES
 
 #### Status
 ACCEPTED

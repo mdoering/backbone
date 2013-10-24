@@ -1,5 +1,4 @@
-Ricasolia cesatii var. cesatii VARIETY
-=======
+# Ricasolia cesatii A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ricasolia cesatii var. cesatii
+Ricasolia cesatii A. Massal.
 
 ### Remarks
 null

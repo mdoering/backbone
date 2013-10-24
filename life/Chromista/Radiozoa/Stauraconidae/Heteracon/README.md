@@ -1,5 +1,4 @@
-Heteracon Schewiakoff, 1926 GENUS
-=======
+# Heteracon Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

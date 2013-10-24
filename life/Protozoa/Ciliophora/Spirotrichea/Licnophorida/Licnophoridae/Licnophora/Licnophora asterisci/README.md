@@ -1,5 +1,4 @@
-Licnophora asterisci Gruber, 1884 SPECIES
-=======
+# Licnophora asterisci Gruber, 1884 SPECIES
 
 #### Status
 ACCEPTED

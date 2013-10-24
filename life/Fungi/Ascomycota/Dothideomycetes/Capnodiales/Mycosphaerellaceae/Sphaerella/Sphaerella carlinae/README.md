@@ -1,5 +1,4 @@
-Sphaerella carlinae G. Winter SPECIES
-=======
+# Sphaerella carlinae G. Winter SPECIES
 
 #### Status
 ACCEPTED

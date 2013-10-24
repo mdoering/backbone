@@ -1,5 +1,4 @@
-Tricholoma jalapense (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma jalapense (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

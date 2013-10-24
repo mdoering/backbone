@@ -1,5 +1,4 @@
-Excipularia epidendri Henn. SPECIES
-=======
+# Excipularia epidendri Henn. SPECIES
 
 #### Status
 ACCEPTED

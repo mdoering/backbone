@@ -1,5 +1,4 @@
-Parastigmatea nervisita Doidge, 1921 SPECIES
-=======
+# Parastigmatea nervisita Doidge, 1921 SPECIES
 
 #### Status
 ACCEPTED

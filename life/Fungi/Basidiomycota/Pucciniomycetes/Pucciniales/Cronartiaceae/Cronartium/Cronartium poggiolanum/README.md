@@ -1,5 +1,4 @@
-Cronartium poggiolanum Roum. SPECIES
-=======
+# Cronartium poggiolanum Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia adnata Norrl. SPECIES
-=======
+# Physcia adnata Norrl. SPECIES
 
 #### Status
 ACCEPTED

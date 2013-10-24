@@ -1,5 +1,4 @@
-Cortinarius cyanopus Secr. ex Fr., 1838 SPECIES
-=======
+# Cortinarius cyanopus Secr. ex Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

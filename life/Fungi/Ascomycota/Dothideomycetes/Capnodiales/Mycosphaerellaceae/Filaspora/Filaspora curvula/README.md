@@ -1,5 +1,4 @@
-Filaspora curvula (Berl.) Kuntze SPECIES
-=======
+# Filaspora curvula (Berl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

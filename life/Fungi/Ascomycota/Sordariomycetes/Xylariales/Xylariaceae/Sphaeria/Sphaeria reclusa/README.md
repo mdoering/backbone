@@ -1,5 +1,4 @@
-Sphaeria reclusa Brond. SPECIES
-=======
+# Sphaeria reclusa Brond. SPECIES
 
 #### Status
 ACCEPTED

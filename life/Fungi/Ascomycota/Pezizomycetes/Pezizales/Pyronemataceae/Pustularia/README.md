@@ -1,5 +1,4 @@
-Pustularia GENUS
-=======
+# Pustularia GENUS
 
 #### Status
 ACCEPTED

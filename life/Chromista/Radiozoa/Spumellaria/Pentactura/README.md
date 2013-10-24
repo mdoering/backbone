@@ -1,5 +1,4 @@
-Pentactura Haeckel, 1881 GENUS
-=======
+# Pentactura Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema ciliatum Bél. SPECIES
-=======
+# Collema ciliatum Bél. SPECIES
 
 #### Status
 ACCEPTED

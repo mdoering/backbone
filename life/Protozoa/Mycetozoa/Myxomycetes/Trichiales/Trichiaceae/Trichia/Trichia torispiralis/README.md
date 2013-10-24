@@ -1,5 +1,4 @@
-Trichia torispiralis Q. Wang & Yu Li SPECIES
-=======
+# Trichia torispiralis Q. Wang & Yu Li SPECIES
 
 #### Status
 ACCEPTED

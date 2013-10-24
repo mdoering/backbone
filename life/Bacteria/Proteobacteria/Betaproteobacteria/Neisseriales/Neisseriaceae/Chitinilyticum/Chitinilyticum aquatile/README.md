@@ -1,5 +1,4 @@
-Chitinilyticum aquatile Shu-Chen Chang, 2007 SPECIES
-=======
+# Chitinilyticum aquatile Shu-Chen Chang, 2007 SPECIES
 
 #### Status
 ACCEPTED

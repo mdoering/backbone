@@ -1,5 +1,4 @@
-Lachnea balnei Starbäck SPECIES
-=======
+# Lachnea balnei Starbäck SPECIES
 
 #### Status
 ACCEPTED

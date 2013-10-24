@@ -1,5 +1,4 @@
-Peziza edulis Speg. SPECIES
-=======
+# Peziza edulis Speg. SPECIES
 
 #### Status
 ACCEPTED

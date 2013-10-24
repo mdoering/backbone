@@ -1,5 +1,4 @@
-Volvariopsis umbonata (Peck) Murrill SPECIES
-=======
+# Volvariopsis umbonata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoriella thalassica (Speg.) Nag Raj SPECIES
-=======
+# Septoriella thalassica (Speg.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

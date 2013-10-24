@@ -1,5 +1,4 @@
-Cortinarius quarciticus H. Lindstr., 1994 SPECIES
-=======
+# Cortinarius quarciticus H. Lindstr., 1994 SPECIES
 
 #### Status
 ACCEPTED

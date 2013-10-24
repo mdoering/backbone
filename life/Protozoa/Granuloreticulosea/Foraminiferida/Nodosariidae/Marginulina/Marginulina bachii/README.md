@@ -1,5 +1,4 @@
-Marginulina bachii SPECIES
-=======
+# Marginulina bachii SPECIES
 
 #### Status
 ACCEPTED

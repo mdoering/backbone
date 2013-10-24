@@ -1,5 +1,4 @@
-Ustilago hsuii Y.C. Wang SPECIES
-=======
+# Ustilago hsuii Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

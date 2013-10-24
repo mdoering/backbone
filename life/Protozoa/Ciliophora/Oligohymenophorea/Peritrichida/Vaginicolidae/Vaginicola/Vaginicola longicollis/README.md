@@ -1,5 +1,4 @@
-Vaginicola longicollis SPECIES
-=======
+# Vaginicola longicollis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eleutheroschizon murmanicum Awerinzew, 1908 SPECIES
-=======
+# Eleutheroschizon murmanicum Awerinzew, 1908 SPECIES
 
 #### Status
 ACCEPTED

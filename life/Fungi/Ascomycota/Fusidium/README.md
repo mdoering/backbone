@@ -1,5 +1,4 @@
-Fusidium Link, 1809 GENUS
-=======
+# Fusidium Link, 1809 GENUS
 
 #### Status
 ACCEPTED

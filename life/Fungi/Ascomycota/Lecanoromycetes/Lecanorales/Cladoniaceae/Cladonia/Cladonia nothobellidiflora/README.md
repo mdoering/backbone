@@ -1,5 +1,4 @@
-Cladonia nothobellidiflora Imshaug SPECIES
-=======
+# Cladonia nothobellidiflora Imshaug SPECIES
 
 #### Status
 ACCEPTED

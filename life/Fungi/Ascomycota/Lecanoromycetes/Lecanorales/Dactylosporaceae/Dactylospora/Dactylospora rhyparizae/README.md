@@ -1,5 +1,4 @@
-Dactylospora rhyparizae Arnold SPECIES
-=======
+# Dactylospora rhyparizae Arnold SPECIES
 
 #### Status
 ACCEPTED

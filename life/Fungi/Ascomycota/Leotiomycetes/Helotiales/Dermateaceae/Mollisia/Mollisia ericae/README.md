@@ -1,5 +1,4 @@
-Mollisia ericae Rolland SPECIES
-=======
+# Mollisia ericae Rolland SPECIES
 
 #### Status
 ACCEPTED

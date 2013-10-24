@@ -1,14 +1,13 @@
-Biatora rousselii Durieu & Mont. SPECIES
-=======
+# Biatorella rousselii (Durieu & Mont.) De Not. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+G. bot. ital. (1846)
 
 #### Original name
 Biatora rousselii Durieu & Mont.

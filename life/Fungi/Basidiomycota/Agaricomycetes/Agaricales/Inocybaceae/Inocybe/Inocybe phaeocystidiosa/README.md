@@ -1,5 +1,4 @@
-Inocybe phaeocystidiosa Esteve-Rav., G. Moreno & Bon SPECIES
-=======
+# Inocybe phaeocystidiosa Esteve-Rav., G. Moreno & Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia pulverulenta (Henn.) Sacc. SPECIES
-=======
+# Laschia pulverulenta (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

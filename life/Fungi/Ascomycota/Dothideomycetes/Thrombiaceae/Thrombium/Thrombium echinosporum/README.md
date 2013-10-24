@@ -1,5 +1,4 @@
-Thrombium echinosporum SPECIES
-=======
+# Thrombium echinosporum SPECIES
 
 #### Status
 ACCEPTED

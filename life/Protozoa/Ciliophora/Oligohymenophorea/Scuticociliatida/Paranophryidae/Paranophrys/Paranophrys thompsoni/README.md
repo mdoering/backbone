@@ -1,5 +1,4 @@
-Paranophrys thompsoni Didier & Wilbert, 1976 SPECIES
-=======
+# Paranophrys thompsoni Didier & Wilbert, 1976 SPECIES
 
 #### Status
 ACCEPTED

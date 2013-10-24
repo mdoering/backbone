@@ -1,5 +1,4 @@
-Lepismatophila Adams & Travis, 1935 GENUS
-=======
+# Lepismatophila Adams & Travis, 1935 GENUS
 
 #### Status
 ACCEPTED

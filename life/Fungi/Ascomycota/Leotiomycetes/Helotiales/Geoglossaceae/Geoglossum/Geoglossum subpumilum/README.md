@@ -1,5 +1,4 @@
-Geoglossum subpumilum S. Imai SPECIES
-=======
+# Geoglossum subpumilum S. Imai SPECIES
 
 #### Status
 ACCEPTED

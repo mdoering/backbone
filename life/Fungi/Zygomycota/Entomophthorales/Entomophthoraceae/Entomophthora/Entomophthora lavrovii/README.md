@@ -1,14 +1,13 @@
-Entomophthora lavrovia (Gukasjan) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora lavrovii (Gukasjan) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 62(1): 49 (1970)
 
 #### Original name
 Tarichium lavrovii Gukasjan

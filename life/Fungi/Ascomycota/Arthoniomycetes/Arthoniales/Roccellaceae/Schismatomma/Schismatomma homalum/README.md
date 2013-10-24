@@ -1,5 +1,4 @@
-Schismatomma homalum (Stirt.) Zahlbr. SPECIES
-=======
+# Schismatomma homalum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

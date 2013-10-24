@@ -1,5 +1,4 @@
-Pleospora kok-saghyz Cherem. SPECIES
-=======
+# Pleospora kok-saghyz Cherem. SPECIES
 
 #### Status
 ACCEPTED

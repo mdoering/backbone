@@ -1,5 +1,4 @@
-Aecidium pirolatum Schwein. SPECIES
-=======
+# Aecidium pirolatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

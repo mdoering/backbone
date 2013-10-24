@@ -1,5 +1,4 @@
-Endopyrenium krylovianum (Tomin) Bredkina SPECIES
-=======
+# Endopyrenium krylovianum (Tomin) Bredkina SPECIES
 
 #### Status
 ACCEPTED

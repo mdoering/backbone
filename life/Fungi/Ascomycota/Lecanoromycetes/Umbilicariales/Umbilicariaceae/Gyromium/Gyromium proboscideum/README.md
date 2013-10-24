@@ -1,5 +1,4 @@
-Gyromium proboscideum (L.) Wahlenb. SPECIES
-=======
+# Gyromium proboscideum (L.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

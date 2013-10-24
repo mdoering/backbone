@@ -1,5 +1,4 @@
-Ramularia mors-panacis Hildebr. {?} SPECIES
-=======
+# Ramularia mors-panacis Hildebr. {?} SPECIES
 
 #### Status
 ACCEPTED

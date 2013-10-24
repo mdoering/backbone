@@ -1,5 +1,4 @@
-Hemithecium norsticticum Makhija & Dube SPECIES
-=======
+# Hemithecium norsticticum Makhija & Dube SPECIES
 
 #### Status
 ACCEPTED

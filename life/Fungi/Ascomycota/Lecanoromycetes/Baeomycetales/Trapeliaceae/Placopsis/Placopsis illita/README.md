@@ -1,5 +1,4 @@
-Placopsis illita (C. Knight) I.M. Lamb SPECIES
-=======
+# Placopsis illita (C. Knight) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

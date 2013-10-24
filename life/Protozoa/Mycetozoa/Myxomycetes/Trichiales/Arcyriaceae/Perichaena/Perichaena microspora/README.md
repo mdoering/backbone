@@ -1,5 +1,4 @@
-Perichaena microspora Penz. & Lister, 1898 SPECIES
-=======
+# Perichaena microspora Penz. & Lister, 1898 SPECIES
 
 #### Status
 ACCEPTED

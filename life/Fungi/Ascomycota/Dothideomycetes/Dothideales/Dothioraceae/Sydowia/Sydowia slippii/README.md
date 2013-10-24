@@ -1,5 +1,4 @@
-Sydowia slippii (M.E. Barr) M.E. Barr SPECIES
-=======
+# Sydowia slippii (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

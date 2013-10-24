@@ -1,5 +1,4 @@
-Puccinia terebinthacei Azbukina & Zenkova SPECIES
-=======
+# Puccinia terebinthacei Azbukina & Zenkova SPECIES
 
 #### Status
 ACCEPTED

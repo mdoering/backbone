@@ -1,5 +1,4 @@
-Pustularia sphacelata Schumach. SPECIES
-=======
+# Pustularia sphacelata Schumach. SPECIES
 
 #### Status
 ACCEPTED

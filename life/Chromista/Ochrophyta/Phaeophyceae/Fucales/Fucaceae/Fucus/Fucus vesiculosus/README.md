@@ -1,14 +1,13 @@
-Fucus vesiculosus var. axilaris (J.Agardh) Miranda, 1931 VARIETY
-=======
+# Fucus vesiculosus Linnaeus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaeus, C. (1753). Species plantarum, exhibentes plantas rite cognitas ad genera relatas cum differentiis specificis, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas. Stockholm.
 
 #### Original name
 null

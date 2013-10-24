@@ -1,5 +1,4 @@
-Ionomidotis olivascens E.J. Durand SPECIES
-=======
+# Ionomidotis olivascens E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

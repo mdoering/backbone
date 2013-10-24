@@ -1,5 +1,4 @@
-Alexanderina McCulloch, 1977 GENUS
-=======
+# Alexanderina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

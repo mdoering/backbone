@@ -1,5 +1,4 @@
-Spiroplecta Ehrenberg, 1844 GENUS
-=======
+# Spiroplecta Ehrenberg, 1844 GENUS
 
 #### Status
 ACCEPTED

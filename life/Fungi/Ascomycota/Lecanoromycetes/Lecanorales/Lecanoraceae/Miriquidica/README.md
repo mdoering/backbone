@@ -1,5 +1,4 @@
-Miriquidica Hertel & Rambold GENUS
-=======
+# Miriquidica Hertel & Rambold GENUS
 
 #### Status
 ACCEPTED

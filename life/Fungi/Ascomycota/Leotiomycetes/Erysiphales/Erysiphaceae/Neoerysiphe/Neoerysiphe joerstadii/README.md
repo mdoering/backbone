@@ -1,5 +1,4 @@
-Neoerysiphe joerstadii V.P. Heluta & S. Takam., 2010 SPECIES
-=======
+# Neoerysiphe joerstadii V.P. Heluta & S. Takam., 2010 SPECIES
 
 #### Status
 ACCEPTED

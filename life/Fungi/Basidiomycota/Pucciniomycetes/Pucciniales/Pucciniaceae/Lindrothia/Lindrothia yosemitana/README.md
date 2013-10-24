@@ -1,5 +1,4 @@
-Lindrothia yosemitana (Blasdale) Syd. SPECIES
-=======
+# Lindrothia yosemitana (Blasdale) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema javanicum var. hawaiiense Lemmermann VARIETY
-=======
+# Scytonema javanicum Bornet SPECIES
 
 #### Status
 ACCEPTED

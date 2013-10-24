@@ -1,5 +1,4 @@
-Anthracoidea obovoidea (Togashi & Y. Maki) Kakish. SPECIES
-=======
+# Anthracoidea obovoidea (Togashi & Y. Maki) Kakish. SPECIES
 
 #### Status
 ACCEPTED

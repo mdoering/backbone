@@ -1,5 +1,4 @@
-Pseudophaeotrichum sudanense Arx, E. Müll. & C. Stoll, 1969 SPECIES
-=======
+# Pseudophaeotrichum sudanense Arx, E. Müll. & C. Stoll, 1969 SPECIES
 
 #### Status
 ACCEPTED

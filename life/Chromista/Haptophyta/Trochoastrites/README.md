@@ -1,5 +1,4 @@
-Trochoastrites GENUS
-=======
+# Trochoastrites GENUS
 
 #### Status
 ACCEPTED

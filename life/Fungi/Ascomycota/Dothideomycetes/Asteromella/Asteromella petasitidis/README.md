@@ -1,5 +1,4 @@
-Asteromella petasitidis Petr., 1923 SPECIES
-=======
+# Asteromella petasitidis Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

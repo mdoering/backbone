@@ -1,5 +1,4 @@
-Mycena sojae Singer SPECIES
-=======
+# Mycena sojae Singer SPECIES
 
 #### Status
 ACCEPTED

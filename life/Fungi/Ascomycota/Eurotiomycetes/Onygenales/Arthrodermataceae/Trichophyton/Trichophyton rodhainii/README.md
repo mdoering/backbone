@@ -1,17 +1,16 @@
-Trichophyton rodhaini Vanbreus. SPECIES
-=======
+# Trichophyton rodhainii Vanbreus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Parasit. hum. comp. 24: 244 (1949)
 
 #### Original name
-Trichophyton rodhaini Vanbreus.
+Trichophyton rodhainii Vanbreus.
 
 ### Remarks
 null

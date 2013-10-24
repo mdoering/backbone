@@ -1,17 +1,16 @@
-Lutziomyces O.M. Fonseca GENUS
-=======
+# Paracoccidioides F.P. Almeida GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anais bras. Derm. Sif. 14: 107 (1939)
+C. r. hebd. Séanc. Mém. Soc. Biol. 105: 316 (1930)
 
 #### Original name
-Lutziomyces O.M. Fonseca
+Paracoccidioides F.P. Almeida
 
 ### Remarks
 null

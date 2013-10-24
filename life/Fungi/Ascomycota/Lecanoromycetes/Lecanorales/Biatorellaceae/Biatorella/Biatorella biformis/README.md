@@ -1,5 +1,4 @@
-Biatorella biformis Kuan SPECIES
-=======
+# Biatorella biformis Kuan SPECIES
 
 #### Status
 ACCEPTED

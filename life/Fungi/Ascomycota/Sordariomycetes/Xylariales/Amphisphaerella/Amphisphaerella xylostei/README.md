@@ -1,14 +1,13 @@
-Xylosphaeria xylostei (Pers.) Cooke, 1879 SPECIES
-=======
+# Amphisphaerella xylostei (Pers.) Rulamort, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 17: 192 (1986)
 
 #### Original name
 Sphaeria xylostei Pers., 1794

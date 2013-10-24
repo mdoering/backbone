@@ -1,5 +1,4 @@
-Conioscypha hoehnelii P.M. Kirk, 1984 SPECIES
-=======
+# Conioscypha hoehnelii P.M. Kirk, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium hachijoense Y. Otani, Kakish. & Iijima SPECIES
-=======
+# Exobasidium hachijoense Y. Otani, Kakish. & Iijima SPECIES
 
 #### Status
 ACCEPTED

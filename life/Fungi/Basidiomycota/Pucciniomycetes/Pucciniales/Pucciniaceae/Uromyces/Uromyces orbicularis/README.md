@@ -1,5 +1,4 @@
-Uromyces orbicularis Dietel SPECIES
-=======
+# Uromyces orbicularis Dietel SPECIES
 
 #### Status
 ACCEPTED

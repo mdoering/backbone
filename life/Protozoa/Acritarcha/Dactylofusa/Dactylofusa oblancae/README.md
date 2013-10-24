@@ -1,5 +1,4 @@
-Dactylofusa oblancae Cramer & Díez, 1968 ex Cramer, 1970 SPECIES
-=======
+# Dactylofusa oblancae Cramer & Díez, 1968 ex Cramer, 1970 SPECIES
 
 #### Status
 ACCEPTED

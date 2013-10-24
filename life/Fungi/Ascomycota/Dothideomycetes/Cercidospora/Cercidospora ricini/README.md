@@ -1,5 +1,4 @@
-Cercidospora ricini (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora ricini (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicazammina Neagu & Neagu, 1995 GENUS
-=======
+# Bicazammina Neagu & Neagu, 1995 GENUS
 
 #### Status
 ACCEPTED

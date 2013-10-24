@@ -1,5 +1,4 @@
-Locellina californica Earle SPECIES
-=======
+# Locellina californica Earle SPECIES
 
 #### Status
 ACCEPTED

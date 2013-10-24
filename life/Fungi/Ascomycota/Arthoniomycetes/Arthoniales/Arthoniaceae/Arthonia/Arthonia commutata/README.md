@@ -1,5 +1,4 @@
-Arthonia commutata Stirt. SPECIES
-=======
+# Arthonia commutata Stirt. SPECIES
 
 #### Status
 ACCEPTED

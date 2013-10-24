@@ -1,5 +1,4 @@
-Laminaria leptopoda Bonnemaison ex Despréaux SPECIES
-=======
+# Laminaria leptopoda Bonnemaison ex Despréaux SPECIES
 
 #### Status
 ACCEPTED

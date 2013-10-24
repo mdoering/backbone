@@ -1,14 +1,13 @@
-Coonemeria aegyptiaca (S. Ueda & Udagawa) Mouch., 1997 SPECIES
-=======
+# Thermoascus aegyptiacus S. Ueda & Udagawa, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 18(1): 31 (1997)
+Trans. Mycol. Soc. Japan 24(2): 135 (1983)
 
 #### Original name
 Thermoascus aegyptiacus S. Ueda & Udagawa, 1983

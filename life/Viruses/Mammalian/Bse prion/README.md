@@ -1,5 +1,4 @@
-Bse prion (Bovine spongiform encephalopathy) SPECIES
-=======
+# Bse prion (Bovine spongiform encephalopathy) SPECIES
 
 #### Status
 ACCEPTED

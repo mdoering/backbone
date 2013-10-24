@@ -1,5 +1,4 @@
-Glenodinium monensis Herdman SPECIES
-=======
+# Glenodinium monensis Herdman SPECIES
 
 #### Status
 ACCEPTED

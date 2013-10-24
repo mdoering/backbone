@@ -1,5 +1,4 @@
-Nectria variicolor Fuckel SPECIES
-=======
+# Nectria variicolor Fuckel SPECIES
 
 #### Status
 ACCEPTED

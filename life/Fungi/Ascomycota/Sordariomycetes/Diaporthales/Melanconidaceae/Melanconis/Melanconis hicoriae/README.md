@@ -1,5 +1,4 @@
-Melanconis hicoriae G.F. Atk. SPECIES
-=======
+# Melanconis hicoriae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

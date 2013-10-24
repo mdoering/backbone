@@ -1,14 +1,13 @@
-Belonidium eucritum (P. Karst.) Bres. SPECIES
-=======
+# Pezicula eucrita P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 19: 166 (1871)
 
 #### Original name
 Pezicula eucrita P. Karst., 1871

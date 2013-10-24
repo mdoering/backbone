@@ -1,14 +1,13 @@
-Torula centaurii Fuckel, 1870 SPECIES
-=======
+# Taeniolina centaurii (Fuckel) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 87 (1870)
+More Dematiaceous Hyphomycetes (Kew) 62 (1976)
 
 #### Original name
 Torula centaurii Fuckel, 1870

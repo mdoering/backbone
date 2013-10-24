@@ -1,5 +1,4 @@
-Cercospora cupheae Syd. SPECIES
-=======
+# Cercospora cupheae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Algicola Ivanova et al., 2004 GENUS
-=======
+# Algicola Ivanova et al., 2004 GENUS
 
 #### Status
 ACCEPTED

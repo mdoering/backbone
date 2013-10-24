@@ -1,5 +1,4 @@
-Stereum radicale (Berk.) Massee SPECIES
-=======
+# Stereum radicale (Berk.) Massee SPECIES
 
 #### Status
 ACCEPTED

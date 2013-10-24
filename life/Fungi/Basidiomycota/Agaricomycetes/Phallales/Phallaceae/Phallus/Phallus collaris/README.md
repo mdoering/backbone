@@ -1,5 +1,4 @@
-Phallus collaris Cragin SPECIES
-=======
+# Phallus collaris Cragin SPECIES
 
 #### Status
 ACCEPTED

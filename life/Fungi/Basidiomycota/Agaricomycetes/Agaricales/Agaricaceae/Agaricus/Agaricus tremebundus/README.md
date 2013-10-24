@@ -1,5 +1,4 @@
-Agaricus tremebundus J.F. Gmel. SPECIES
-=======
+# Agaricus tremebundus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

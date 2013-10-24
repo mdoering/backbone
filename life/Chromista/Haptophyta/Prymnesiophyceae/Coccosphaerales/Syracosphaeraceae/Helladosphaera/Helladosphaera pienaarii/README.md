@@ -1,5 +1,4 @@
-Helladosphaera pienaarii Norris SPECIES
-=======
+# Helladosphaera pienaarii Norris SPECIES
 
 #### Status
 ACCEPTED

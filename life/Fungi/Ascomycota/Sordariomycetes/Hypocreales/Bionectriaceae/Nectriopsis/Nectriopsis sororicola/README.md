@@ -1,5 +1,4 @@
-Nectriopsis sororicola Samuels, 1988 SPECIES
-=======
+# Nectriopsis sororicola Samuels, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopyxis similis Sheshukova-Poretskaya SPECIES
-=======
+# Stephanopyxis similis Sheshukova-Poretskaya SPECIES
 
 #### Status
 ACCEPTED

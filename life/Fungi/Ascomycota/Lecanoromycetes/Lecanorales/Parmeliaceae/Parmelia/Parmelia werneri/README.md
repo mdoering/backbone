@@ -1,5 +1,4 @@
-Parmelia werneri (M. Choisy) Zahlbr. SPECIES
-=======
+# Parmelia werneri (M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

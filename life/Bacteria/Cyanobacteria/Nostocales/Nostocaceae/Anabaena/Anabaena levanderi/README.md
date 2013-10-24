@@ -1,5 +1,4 @@
-Anabaena levanderi Lemmermann SPECIES
-=======
+# Anabaena levanderi Lemmermann SPECIES
 
 #### Status
 ACCEPTED

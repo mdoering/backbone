@@ -1,5 +1,4 @@
-Natlandia McCulloch, 1977 GENUS
-=======
+# Natlandia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

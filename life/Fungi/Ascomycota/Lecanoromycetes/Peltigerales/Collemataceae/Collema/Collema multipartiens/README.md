@@ -1,5 +1,4 @@
-Collema multipartiens Nyl. SPECIES
-=======
+# Collema multipartiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

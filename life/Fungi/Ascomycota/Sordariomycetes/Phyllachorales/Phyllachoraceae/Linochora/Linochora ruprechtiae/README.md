@@ -1,5 +1,4 @@
-Linochora ruprechtiae (Speg.) Höhn. SPECIES
-=======
+# Linochora ruprechtiae (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

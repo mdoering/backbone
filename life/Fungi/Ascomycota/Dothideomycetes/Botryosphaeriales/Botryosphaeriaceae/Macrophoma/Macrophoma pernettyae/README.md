@@ -1,5 +1,4 @@
-Macrophoma pernettyae Dearn. & House SPECIES
-=======
+# Macrophoma pernettyae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

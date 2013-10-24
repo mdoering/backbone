@@ -1,5 +1,4 @@
-Panaeolus digressus Peck SPECIES
-=======
+# Panaeolus digressus Peck SPECIES
 
 #### Status
 ACCEPTED

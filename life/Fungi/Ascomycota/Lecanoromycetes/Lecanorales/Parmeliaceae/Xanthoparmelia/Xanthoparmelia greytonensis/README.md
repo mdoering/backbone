@@ -1,5 +1,4 @@
-Xanthoparmelia greytonensis Hale SPECIES
-=======
+# Xanthoparmelia greytonensis Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plenodomus pyracanthae Gucevic SPECIES
-=======
+# Plenodomus pyracanthae Gucevic SPECIES
 
 #### Status
 ACCEPTED

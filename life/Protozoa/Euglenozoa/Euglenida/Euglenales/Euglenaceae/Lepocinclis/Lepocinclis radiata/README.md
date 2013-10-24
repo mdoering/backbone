@@ -1,5 +1,4 @@
-Lepocinclis radiata Chadefaud SPECIES
-=======
+# Lepocinclis radiata Chadefaud SPECIES
 
 #### Status
 ACCEPTED

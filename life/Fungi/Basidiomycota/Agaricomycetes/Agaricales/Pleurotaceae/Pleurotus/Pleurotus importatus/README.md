@@ -1,5 +1,4 @@
-Pleurotus importatus Henn. SPECIES
-=======
+# Pleurotus importatus Henn. SPECIES
 
 #### Status
 ACCEPTED

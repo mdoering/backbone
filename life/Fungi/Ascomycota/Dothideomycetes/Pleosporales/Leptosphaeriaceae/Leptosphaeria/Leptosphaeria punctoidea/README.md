@@ -1,5 +1,4 @@
-Leptosphaeria punctoidea P. Karst. SPECIES
-=======
+# Leptosphaeria punctoidea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

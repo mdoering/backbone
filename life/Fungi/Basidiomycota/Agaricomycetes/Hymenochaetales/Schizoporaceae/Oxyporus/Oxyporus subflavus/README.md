@@ -1,5 +1,4 @@
-Oxyporus subflavus (Lloyd) D.A. Reid, 1973 SPECIES
-=======
+# Oxyporus subflavus (Lloyd) D.A. Reid, 1973 SPECIES
 
 #### Status
 ACCEPTED

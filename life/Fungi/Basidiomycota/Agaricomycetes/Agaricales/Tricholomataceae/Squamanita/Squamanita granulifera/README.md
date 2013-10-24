@@ -1,5 +1,4 @@
-Squamanita granulifera Bas & Laessøe, 1999 SPECIES
-=======
+# Squamanita granulifera Bas & Laessøe, 1999 SPECIES
 
 #### Status
 ACCEPTED

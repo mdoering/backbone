@@ -1,17 +1,16 @@
-Diplodia pithecolobii Died. SPECIES
-=======
+# Diplodia pithecellobii Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(3/4): 199 (1916)
 
 #### Original name
-Diplodia pithecolobii Died.
+Diplodia pithecellobii Died.
 
 ### Remarks
 null

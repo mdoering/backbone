@@ -1,5 +1,4 @@
-Erysiphe geniculata (W.R. Gerard) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe geniculata (W.R. Gerard) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobanche rosea Wallr. SPECIES
-=======
+# Mycobanche rosea Wallr. SPECIES
 
 #### Status
 ACCEPTED

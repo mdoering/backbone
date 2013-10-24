@@ -1,5 +1,4 @@
-Erysibe rosae Wallr. SPECIES
-=======
+# Erysibe rosae Wallr. SPECIES
 
 #### Status
 ACCEPTED

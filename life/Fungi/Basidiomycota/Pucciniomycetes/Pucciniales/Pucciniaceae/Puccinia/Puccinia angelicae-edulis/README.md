@@ -1,5 +1,4 @@
-Puccinia angelicae-edulis I. Miyake SPECIES
-=======
+# Puccinia angelicae-edulis I. Miyake SPECIES
 
 #### Status
 ACCEPTED

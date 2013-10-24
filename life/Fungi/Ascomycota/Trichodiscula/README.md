@@ -1,5 +1,4 @@
-Trichodiscula Vouaux GENUS
-=======
+# Trichodiscula Vouaux GENUS
 
 #### Status
 ACCEPTED

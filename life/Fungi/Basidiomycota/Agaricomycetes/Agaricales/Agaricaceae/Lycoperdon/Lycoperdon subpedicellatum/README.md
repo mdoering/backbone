@@ -1,5 +1,4 @@
-Lycoperdon subpedicellatum Pilát SPECIES
-=======
+# Lycoperdon subpedicellatum Pilát SPECIES
 
 #### Status
 ACCEPTED

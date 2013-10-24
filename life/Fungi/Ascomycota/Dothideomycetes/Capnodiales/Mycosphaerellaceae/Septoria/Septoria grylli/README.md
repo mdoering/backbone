@@ -1,5 +1,4 @@
-Septoria grylli Sacc. SPECIES
-=======
+# Septoria grylli Sacc. SPECIES
 
 #### Status
 ACCEPTED

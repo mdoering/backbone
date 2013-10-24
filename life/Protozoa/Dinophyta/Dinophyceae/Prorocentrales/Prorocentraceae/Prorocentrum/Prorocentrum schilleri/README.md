@@ -1,5 +1,4 @@
-Prorocentrum schilleri SPECIES
-=======
+# Prorocentrum schilleri SPECIES
 
 #### Status
 ACCEPTED

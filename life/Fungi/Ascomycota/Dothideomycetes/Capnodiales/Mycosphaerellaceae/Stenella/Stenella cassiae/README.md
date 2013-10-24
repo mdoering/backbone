@@ -1,5 +1,4 @@
-Stenella cassiae Abbasi & D.N. Shukla SPECIES
-=======
+# Stenella cassiae Abbasi & D.N. Shukla SPECIES
 
 #### Status
 ACCEPTED

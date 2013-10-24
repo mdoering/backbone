@@ -1,5 +1,4 @@
-Patellaria massaeae Rodway SPECIES
-=======
+# Patellaria massaeae Rodway SPECIES
 
 #### Status
 ACCEPTED

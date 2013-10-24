@@ -1,5 +1,4 @@
-Granomarginata delicata (N. Umnova in N. Umnova & Yakovlev, 1970) N. Umnova, 1975 SPECIES
-=======
+# Granomarginata delicata (N. Umnova in N. Umnova & Yakovlev, 1970) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

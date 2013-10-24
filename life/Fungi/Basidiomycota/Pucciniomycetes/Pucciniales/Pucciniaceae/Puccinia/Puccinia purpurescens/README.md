@@ -1,5 +1,4 @@
-Puccinia purpurescens Cooke & Peck SPECIES
-=======
+# Puccinia purpurescens Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora sabalensis (Cooke) Kuntze SPECIES
-=======
+# Filaspora sabalensis (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

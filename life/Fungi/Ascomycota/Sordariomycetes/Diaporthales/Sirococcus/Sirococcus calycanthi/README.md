@@ -1,5 +1,4 @@
-Sirococcus calycanthi Speg. SPECIES
-=======
+# Sirococcus calycanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

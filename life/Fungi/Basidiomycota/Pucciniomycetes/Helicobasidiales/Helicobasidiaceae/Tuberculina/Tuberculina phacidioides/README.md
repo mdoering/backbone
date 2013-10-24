@@ -1,5 +1,4 @@
-Tuberculina phacidioides (Durieu & Mont.) Sacc. SPECIES
-=======
+# Tuberculina phacidioides (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

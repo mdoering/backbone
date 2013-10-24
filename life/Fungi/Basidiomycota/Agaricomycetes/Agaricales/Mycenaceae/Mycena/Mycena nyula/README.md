@@ -1,5 +1,4 @@
-Mycena nyula Grgur. SPECIES
-=======
+# Mycena nyula Grgur. SPECIES
 
 #### Status
 ACCEPTED

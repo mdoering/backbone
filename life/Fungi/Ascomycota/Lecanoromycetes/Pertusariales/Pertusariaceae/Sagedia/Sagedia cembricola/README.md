@@ -1,5 +1,4 @@
-Sagedia cembricola Anzi SPECIES
-=======
+# Sagedia cembricola Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia strigosa Lib. SPECIES
-=======
+# Vermicularia strigosa Lib. SPECIES
 
 #### Status
 ACCEPTED

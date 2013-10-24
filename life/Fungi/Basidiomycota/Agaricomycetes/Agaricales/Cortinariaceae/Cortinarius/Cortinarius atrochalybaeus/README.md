@@ -1,5 +1,4 @@
-Cortinarius atrochalybaeus Ammirati & M.M. Moser SPECIES
-=======
+# Cortinarius atrochalybaeus Ammirati & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

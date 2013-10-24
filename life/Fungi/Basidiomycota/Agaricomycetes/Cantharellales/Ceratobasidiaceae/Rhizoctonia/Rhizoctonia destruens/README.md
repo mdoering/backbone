@@ -1,5 +1,4 @@
-Rhizoctonia destruens Tassi SPECIES
-=======
+# Rhizoctonia destruens Tassi SPECIES
 
 #### Status
 ACCEPTED

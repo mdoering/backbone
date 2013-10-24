@@ -1,5 +1,4 @@
-Gyrophoropsis GENUS
-=======
+# Gyrophoropsis GENUS
 
 #### Status
 ACCEPTED

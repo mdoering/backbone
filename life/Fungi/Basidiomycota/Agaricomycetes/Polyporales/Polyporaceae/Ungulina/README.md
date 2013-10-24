@@ -1,5 +1,4 @@
-Ungulina GENUS
-=======
+# Ungulina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma radicicola Maubl. SPECIES
-=======
+# Phoma radicicola Maubl. SPECIES
 
 #### Status
 ACCEPTED

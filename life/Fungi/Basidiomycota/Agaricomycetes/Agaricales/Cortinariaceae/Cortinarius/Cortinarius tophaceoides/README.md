@@ -1,5 +1,4 @@
-Cortinarius tophaceoides M.M. Moser SPECIES
-=======
+# Cortinarius tophaceoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

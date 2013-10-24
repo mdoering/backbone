@@ -1,5 +1,4 @@
-Phaeothecoidea eucalypti Crous & Summerell, 2007 SPECIES
-=======
+# Phaeothecoidea eucalypti Crous & Summerell, 2007 SPECIES
 
 #### Status
 ACCEPTED

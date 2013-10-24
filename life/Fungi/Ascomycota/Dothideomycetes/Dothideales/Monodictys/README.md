@@ -1,5 +1,4 @@
-Monodictys S. Hughes GENUS
-=======
+# Monodictys S. Hughes GENUS
 
 #### Status
 ACCEPTED

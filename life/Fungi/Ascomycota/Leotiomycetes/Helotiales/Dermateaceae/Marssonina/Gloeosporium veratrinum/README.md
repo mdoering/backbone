@@ -1,5 +1,4 @@
-Gloeosporium veratrinum Allesch. SPECIES
-=======
+# Gloeosporium veratrinum Allesch. SPECIES
 
 #### Status
 ACCEPTED

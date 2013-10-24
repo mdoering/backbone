@@ -1,5 +1,4 @@
-Asterina antidesmatis Petr. SPECIES
-=======
+# Asterina antidesmatis Petr. SPECIES
 
 #### Status
 ACCEPTED

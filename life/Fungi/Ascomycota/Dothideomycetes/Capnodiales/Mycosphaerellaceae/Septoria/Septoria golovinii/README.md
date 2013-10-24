@@ -1,5 +1,4 @@
-Septoria golovinii Kalymb. SPECIES
-=======
+# Septoria golovinii Kalymb. SPECIES
 
 #### Status
 ACCEPTED

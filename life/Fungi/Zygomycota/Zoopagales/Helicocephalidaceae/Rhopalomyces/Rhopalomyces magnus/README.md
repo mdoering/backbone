@@ -1,5 +1,4 @@
-Rhopalomyces magnus Berl., 1892 SPECIES
-=======
+# Rhopalomyces magnus Berl., 1892 SPECIES
 
 #### Status
 ACCEPTED

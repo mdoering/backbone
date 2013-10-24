@@ -1,8 +1,7 @@
-Geaster beccarianus Pass. SPECIES
-=======
+# Geastrum beccarianus Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster beccarianus Pass.
+Geastrum beccarianus Pass.
 
 ### Remarks
 null

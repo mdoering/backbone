@@ -1,5 +1,4 @@
-Parmularia cartilaginea (Ach.) Räsänen SPECIES
-=======
+# Parmularia cartilaginea (Ach.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

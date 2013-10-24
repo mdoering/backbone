@@ -1,5 +1,4 @@
-Acarospora germanica H. Magn. SPECIES
-=======
+# Acarospora germanica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

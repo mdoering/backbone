@@ -1,17 +1,16 @@
-Fusicladium fraxini var. fraxini VARIETY
-=======
+# Venturia fraxini Aderh., 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 36: 83 (1897)
 
 #### Original name
-Fusicladium fraxini var. fraxini
+Venturia fraxini Aderh., 1897
 
 ### Remarks
 null

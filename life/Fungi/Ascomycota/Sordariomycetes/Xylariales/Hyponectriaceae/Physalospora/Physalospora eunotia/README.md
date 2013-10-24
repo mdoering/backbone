@@ -1,5 +1,4 @@
-Physalospora eunotia (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Physalospora eunotia (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

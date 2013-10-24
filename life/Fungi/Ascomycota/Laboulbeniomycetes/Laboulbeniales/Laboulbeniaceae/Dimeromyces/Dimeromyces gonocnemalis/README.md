@@ -1,5 +1,4 @@
-Dimeromyces gonocnemalis Thaxt. SPECIES
-=======
+# Dimeromyces gonocnemalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

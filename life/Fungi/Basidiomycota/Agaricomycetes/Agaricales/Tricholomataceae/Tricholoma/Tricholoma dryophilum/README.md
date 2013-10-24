@@ -1,5 +1,4 @@
-Tricholoma dryophilum Murrill SPECIES
-=======
+# Tricholoma dryophilum Murrill SPECIES
 
 #### Status
 ACCEPTED

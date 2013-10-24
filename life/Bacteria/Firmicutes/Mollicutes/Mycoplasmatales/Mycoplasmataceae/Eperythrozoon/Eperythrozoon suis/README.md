@@ -1,5 +1,4 @@
-Eperythrozoon suis Splitter, 1950 SPECIES
-=======
+# Eperythrozoon suis Splitter, 1950 SPECIES
 
 #### Status
 ACCEPTED

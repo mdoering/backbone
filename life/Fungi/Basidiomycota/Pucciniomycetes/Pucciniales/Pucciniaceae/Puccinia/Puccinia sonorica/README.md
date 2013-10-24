@@ -1,5 +1,4 @@
-Puccinia sonorica Cummins & S.M. Husain SPECIES
-=======
+# Puccinia sonorica Cummins & S.M. Husain SPECIES
 
 #### Status
 ACCEPTED

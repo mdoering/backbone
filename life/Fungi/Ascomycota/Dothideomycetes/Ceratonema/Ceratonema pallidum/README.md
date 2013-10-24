@@ -1,5 +1,4 @@
-Ceratonema pallidum Pers. SPECIES
-=======
+# Ceratonema pallidum Pers. SPECIES
 
 #### Status
 ACCEPTED

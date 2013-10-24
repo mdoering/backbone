@@ -1,5 +1,4 @@
-Uncinia daedaleae Velen. SPECIES
-=======
+# Uncinia daedaleae Velen. SPECIES
 
 #### Status
 ACCEPTED

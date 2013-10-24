@@ -1,17 +1,16 @@
-Neuropogon acromelanus f. acromelanus FORM
-=======
+# Usnea acromelana Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 52: 218 (1939)
+Trans. & Proc. New Zealand Inst. 30: 388 (1898)
 
 #### Original name
-Neuropogon acromelanus f. acromelanus
+Usnea acromelana Stirt.
 
 ### Remarks
 null

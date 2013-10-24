@@ -1,5 +1,4 @@
-Guignardia smilacis A.J. Roy SPECIES
-=======
+# Guignardia smilacis A.J. Roy SPECIES
 
 #### Status
 ACCEPTED

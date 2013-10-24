@@ -1,5 +1,4 @@
-Puccinia negeriana Dietel SPECIES
-=======
+# Puccinia negeriana Dietel SPECIES
 
 #### Status
 ACCEPTED

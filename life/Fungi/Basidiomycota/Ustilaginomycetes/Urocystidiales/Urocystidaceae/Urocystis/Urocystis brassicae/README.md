@@ -1,14 +1,13 @@
-Tuburcinia brassicae (Mundk.) Gutner, 1941 SPECIES
-=======
+# Urocystis brassicae Mundk., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Smut Fungi of the USSR 311 (1941)
+Phytopathology 28: 141 (1938)
 
 #### Original name
 Urocystis brassicae Mundk., 1938

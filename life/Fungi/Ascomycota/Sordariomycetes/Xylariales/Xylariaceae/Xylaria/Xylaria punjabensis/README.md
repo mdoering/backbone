@@ -1,5 +1,4 @@
-Xylaria punjabensis Dargan & M. Singh SPECIES
-=======
+# Xylaria punjabensis Dargan & M. Singh SPECIES
 
 #### Status
 ACCEPTED

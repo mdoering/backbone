@@ -1,5 +1,4 @@
-Pseudombrophila virginea (Svrcek & J. Moravec) Brumm. SPECIES
-=======
+# Pseudombrophila virginea (Svrcek & J. Moravec) Brumm. SPECIES
 
 #### Status
 ACCEPTED

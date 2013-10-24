@@ -1,5 +1,4 @@
-Ditremis distans (Willey) R.C. Harris SPECIES
-=======
+# Ditremis distans (Willey) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplomastigamaeba J.Massart GENUS
-=======
+# Diplomastigamaeba J.Massart GENUS
 
 #### Status
 DOUBTFUL

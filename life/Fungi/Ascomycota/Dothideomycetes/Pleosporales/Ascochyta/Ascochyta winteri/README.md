@@ -1,5 +1,4 @@
-Ascochyta winteri Sacc. SPECIES
-=======
+# Ascochyta winteri Sacc. SPECIES
 
 #### Status
 ACCEPTED

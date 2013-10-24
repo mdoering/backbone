@@ -1,5 +1,4 @@
-Thiodictyon GENUS
-=======
+# Thiodictyon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenia australiensis W.B. Cooke SPECIES
-=======
+# Solenia australiensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

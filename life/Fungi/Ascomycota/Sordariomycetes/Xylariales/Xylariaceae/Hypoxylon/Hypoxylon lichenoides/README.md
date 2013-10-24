@@ -1,5 +1,4 @@
-Hypoxylon lichenoides Berk. SPECIES
-=======
+# Hypoxylon lichenoides Berk. SPECIES
 
 #### Status
 ACCEPTED

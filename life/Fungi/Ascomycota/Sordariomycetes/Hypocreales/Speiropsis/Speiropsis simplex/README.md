@@ -1,5 +1,4 @@
-Speiropsis simplex Matsush. SPECIES
-=======
+# Speiropsis simplex Matsush. SPECIES
 
 #### Status
 ACCEPTED

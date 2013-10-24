@@ -1,5 +1,4 @@
-Cercoseptoria nymphaeacea (Cooke & Ellis) Deighton SPECIES
-=======
+# Cercoseptoria nymphaeacea (Cooke & Ellis) Deighton SPECIES
 
 #### Status
 ACCEPTED

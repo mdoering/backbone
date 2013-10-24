@@ -1,14 +1,13 @@
-Sphaerella hageniae Rehm, 1872 SPECIES
-=======
+# Stigmidium hageniae (Rehm) Hafellner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Santesson, Thunbergia 6: 8, no. 121 (1988)
 
 #### Original name
 Sphaerella hageniae Rehm, 1872

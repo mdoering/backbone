@@ -1,5 +1,4 @@
-Skeletonema barbadense Greville SPECIES
-=======
+# Skeletonema barbadense Greville SPECIES
 
 #### Status
 ACCEPTED

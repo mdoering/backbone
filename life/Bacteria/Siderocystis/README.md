@@ -1,5 +1,4 @@
-Siderocystis E. Naumann, 1922 GENUS
-=======
+# Siderocystis E. Naumann, 1922 GENUS
 
 #### Status
 ACCEPTED

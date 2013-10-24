@@ -1,5 +1,4 @@
-Calloria medicaginis Fautrey & Roum. SPECIES
-=======
+# Calloria medicaginis Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

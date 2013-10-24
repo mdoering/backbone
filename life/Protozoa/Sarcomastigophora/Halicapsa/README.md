@@ -1,5 +1,4 @@
-Halicapsa Haeckel, 1881 GENUS
-=======
+# Halicapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

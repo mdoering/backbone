@@ -1,14 +1,13 @@
-Auxarthron kuehnii (Arx) M. Solé, Cano & Guarro, 2002 SPECIES
-=======
+# Amauroascus kuehnii Arx, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 106(4): 393 (2002)
+Persoonia 6(3): 376 (1971)
 
 #### Original name
 Amauroascus kuehnii Arx, 1971

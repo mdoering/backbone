@@ -1,5 +1,4 @@
-Gymnopus subfunicularia Murrill SPECIES
-=======
+# Gymnopus subfunicularia Murrill SPECIES
 
 #### Status
 ACCEPTED

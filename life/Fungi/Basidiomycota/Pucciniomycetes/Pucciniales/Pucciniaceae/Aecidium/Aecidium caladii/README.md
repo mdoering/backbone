@@ -1,5 +1,4 @@
-Aecidium caladii Schwein. SPECIES
-=======
+# Aecidium caladii Schwein. SPECIES
 
 #### Status
 ACCEPTED

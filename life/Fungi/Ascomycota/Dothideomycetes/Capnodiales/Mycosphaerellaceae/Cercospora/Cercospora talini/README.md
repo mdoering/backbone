@@ -1,5 +1,4 @@
-Cercospora talini Syd. SPECIES
-=======
+# Cercospora talini Syd. SPECIES
 
 #### Status
 ACCEPTED

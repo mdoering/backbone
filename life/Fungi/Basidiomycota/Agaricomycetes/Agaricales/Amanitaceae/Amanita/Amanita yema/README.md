@@ -1,5 +1,4 @@
-Amanita yema Guzmán & Ram.-Guill. SPECIES
-=======
+# Amanita yema Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

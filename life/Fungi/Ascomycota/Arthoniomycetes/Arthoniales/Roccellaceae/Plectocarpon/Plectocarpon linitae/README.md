@@ -1,5 +1,4 @@
-Plectocarpon linitae (R. Sant.) Wedin & Hafellner SPECIES
-=======
+# Plectocarpon linitae (R. Sant.) Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

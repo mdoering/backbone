@@ -1,5 +1,4 @@
-Arthrinium lobatum M.B. Ellis SPECIES
-=======
+# Arthrinium lobatum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

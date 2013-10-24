@@ -1,5 +1,4 @@
-Dermatocarpon racovitzae C.W. Dodge SPECIES
-=======
+# Dermatocarpon racovitzae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

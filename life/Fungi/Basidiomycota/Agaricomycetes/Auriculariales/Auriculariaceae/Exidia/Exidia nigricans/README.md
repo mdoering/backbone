@@ -1,5 +1,4 @@
-Exidia nigricans (With.) P. Roberts, 2009 SPECIES
-=======
+# Exidia nigricans (With.) P. Roberts, 2009 SPECIES
 
 #### Status
 ACCEPTED

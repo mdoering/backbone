@@ -1,5 +1,4 @@
-Ephelota crustaceorum Haller, 1880 SPECIES
-=======
+# Ephelota crustaceorum Haller, 1880 SPECIES
 
 #### Status
 ACCEPTED

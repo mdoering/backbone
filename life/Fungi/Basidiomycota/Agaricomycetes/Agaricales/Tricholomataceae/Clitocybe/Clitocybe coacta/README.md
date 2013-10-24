@@ -1,5 +1,4 @@
-Clitocybe coacta H.E. Bigelow SPECIES
-=======
+# Clitocybe coacta H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

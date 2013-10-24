@@ -1,14 +1,13 @@
-Valsa platanoidis (Pers.) Berk. SPECIES
-=======
+# Prosthecium platanoidis (Pers.) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 7: 186 (1978)
 
 #### Original name
 Sphaeria platanoidis Pers., 1801

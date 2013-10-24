@@ -1,5 +1,4 @@
-Lecanora callopiza Nyl. SPECIES
-=======
+# Lecanora callopiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

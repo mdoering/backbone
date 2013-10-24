@@ -1,5 +1,4 @@
-Phoma staphyleae Cooke SPECIES
-=======
+# Phoma staphyleae Cooke SPECIES
 
 #### Status
 ACCEPTED

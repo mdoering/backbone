@@ -1,5 +1,4 @@
-Anomaloplaisum H. Tappan & A.R. Loeblich Jr., 1971 GENUS
-=======
+# Anomaloplaisum H. Tappan & A.R. Loeblich Jr., 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon mosigiae Poelt & Obermayer SPECIES
-=======
+# Rhizocarpon mosigiae Poelt & Obermayer SPECIES
 
 #### Status
 ACCEPTED

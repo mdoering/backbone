@@ -1,5 +1,4 @@
-Marasmius cyaneomarginatus Corner SPECIES
-=======
+# Marasmius cyaneomarginatus Corner SPECIES
 
 #### Status
 ACCEPTED

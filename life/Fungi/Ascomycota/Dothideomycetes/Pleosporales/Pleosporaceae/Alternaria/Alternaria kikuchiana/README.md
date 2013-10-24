@@ -1,5 +1,4 @@
-Alternaria kikuchiana S. Tanaka, 1933 SPECIES
-=======
+# Alternaria kikuchiana S. Tanaka, 1933 SPECIES
 
 #### Status
 ACCEPTED

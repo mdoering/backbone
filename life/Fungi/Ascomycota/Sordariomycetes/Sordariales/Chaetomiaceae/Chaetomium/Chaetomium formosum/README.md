@@ -1,5 +1,4 @@
-Chaetomium formosum Bainier SPECIES
-=======
+# Chaetomium formosum Bainier SPECIES
 
 #### Status
 ACCEPTED

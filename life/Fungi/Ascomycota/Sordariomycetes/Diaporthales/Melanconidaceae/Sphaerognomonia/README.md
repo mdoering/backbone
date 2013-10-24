@@ -1,5 +1,4 @@
-Sphaerognomonia GENUS
-=======
+# Sphaerognomonia GENUS
 
 #### Status
 ACCEPTED

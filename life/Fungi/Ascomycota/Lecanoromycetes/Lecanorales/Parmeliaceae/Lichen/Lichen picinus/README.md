@@ -1,5 +1,4 @@
-Lichen picinus Ach. SPECIES
-=======
+# Lichen picinus Ach. SPECIES
 
 #### Status
 ACCEPTED

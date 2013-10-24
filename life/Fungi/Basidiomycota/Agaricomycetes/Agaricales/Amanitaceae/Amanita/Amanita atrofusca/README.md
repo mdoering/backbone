@@ -1,5 +1,4 @@
-Amanita atrofusca Zhu L. Yang SPECIES
-=======
+# Amanita atrofusca Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena paraguaya Speg. SPECIES
-=======
+# Mycena paraguaya Speg. SPECIES
 
 #### Status
 ACCEPTED

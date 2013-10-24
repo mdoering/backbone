@@ -1,5 +1,4 @@
-Daturella Kofoid & Campbell, 1929 GENUS
-=======
+# Daturella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

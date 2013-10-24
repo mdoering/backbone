@@ -1,5 +1,4 @@
-Corythodinium carinatum (Gaarder, 1954) F.J.R. Taylor, 1976 SPECIES
-=======
+# Corythodinium carinatum (Gaarder, 1954) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

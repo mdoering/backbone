@@ -1,5 +1,4 @@
-Leveillula campanulacearum f. campanulacearum FORM
-=======
+# Leveillula campanulacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula campanulacearum f. campanulacearum
+Leveillula campanulacearum Golovin
 
 ### Remarks
 null

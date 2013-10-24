@@ -1,5 +1,4 @@
-Sarcostroma bisetulatum (Guba) Nag Raj SPECIES
-=======
+# Sarcostroma bisetulatum (Guba) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

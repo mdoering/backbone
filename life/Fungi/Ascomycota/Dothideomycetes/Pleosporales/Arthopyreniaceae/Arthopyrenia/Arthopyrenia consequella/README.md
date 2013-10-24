@@ -1,5 +1,4 @@
-Arthopyrenia consequella (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia consequella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenopodium caespitulosum (Ellis & Everh.) Höhn. SPECIES
-=======
+# Hymenopodium caespitulosum (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

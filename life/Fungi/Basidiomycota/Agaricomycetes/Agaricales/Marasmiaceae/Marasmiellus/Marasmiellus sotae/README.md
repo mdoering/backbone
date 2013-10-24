@@ -1,5 +1,4 @@
-Marasmiellus sotae Singer SPECIES
-=======
+# Marasmiellus sotae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon diffluens (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon diffluens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

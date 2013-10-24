@@ -1,5 +1,4 @@
-Leptostromella calamagrostidis Naumov SPECIES
-=======
+# Leptostromella calamagrostidis Naumov SPECIES
 
 #### Status
 ACCEPTED

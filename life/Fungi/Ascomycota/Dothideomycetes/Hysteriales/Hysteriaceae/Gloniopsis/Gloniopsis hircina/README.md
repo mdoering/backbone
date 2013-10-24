@@ -1,5 +1,4 @@
-Gloniopsis hircina (Feltgen) Höhn. SPECIES
-=======
+# Gloniopsis hircina (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

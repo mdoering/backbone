@@ -1,5 +1,4 @@
-Rosellinia puiggarii Pat. SPECIES
-=======
+# Rosellinia puiggarii Pat. SPECIES
 
 #### Status
 ACCEPTED

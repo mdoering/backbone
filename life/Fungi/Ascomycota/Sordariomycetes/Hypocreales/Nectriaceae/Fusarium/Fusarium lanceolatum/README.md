@@ -1,5 +1,4 @@
-Fusarium lanceolatum O.A. Pratt SPECIES
-=======
+# Fusarium lanceolatum O.A. Pratt SPECIES
 
 #### Status
 ACCEPTED

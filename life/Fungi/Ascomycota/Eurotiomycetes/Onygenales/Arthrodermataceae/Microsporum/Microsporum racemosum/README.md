@@ -1,5 +1,4 @@
-Microsporum racemosum Borelli SPECIES
-=======
+# Microsporum racemosum Borelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea farinulenta (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea farinulenta (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

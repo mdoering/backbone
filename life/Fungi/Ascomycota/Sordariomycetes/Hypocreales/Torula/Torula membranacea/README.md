@@ -1,5 +1,4 @@
-Torula membranacea F.C. Harrison SPECIES
-=======
+# Torula membranacea F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

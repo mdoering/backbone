@@ -1,5 +1,4 @@
-Passalora vitis-piadezkii U. Braun & Crous SPECIES
-=======
+# Passalora vitis-piadezkii U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickenella cervina (Hoffm.) Raithelh. SPECIES
-=======
+# Rickenella cervina (Hoffm.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

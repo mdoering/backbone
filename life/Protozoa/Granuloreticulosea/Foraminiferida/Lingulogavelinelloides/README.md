@@ -1,5 +1,4 @@
-Lingulogavelinelloides Kaiho, 1998 GENUS
-=======
+# Lingulogavelinelloides Kaiho, 1998 GENUS
 
 #### Status
 ACCEPTED

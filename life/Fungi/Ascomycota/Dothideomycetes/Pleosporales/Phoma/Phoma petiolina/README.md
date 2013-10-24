@@ -1,5 +1,4 @@
-Phoma petiolina Sacc. SPECIES
-=======
+# Phoma petiolina Sacc. SPECIES
 
 #### Status
 ACCEPTED

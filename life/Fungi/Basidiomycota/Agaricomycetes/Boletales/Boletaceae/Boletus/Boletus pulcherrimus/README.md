@@ -1,5 +1,4 @@
-Boletus pulcherrimus Thiers & Halling SPECIES
-=======
+# Boletus pulcherrimus Thiers & Halling SPECIES
 
 #### Status
 ACCEPTED

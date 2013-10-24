@@ -1,5 +1,4 @@
-Verticillium beauverioides Vincens SPECIES
-=======
+# Verticillium beauverioides Vincens SPECIES
 
 #### Status
 ACCEPTED

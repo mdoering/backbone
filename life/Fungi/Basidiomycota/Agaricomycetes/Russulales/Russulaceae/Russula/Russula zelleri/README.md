@@ -1,17 +1,16 @@
-Russula zellerii Burl. SPECIES
-=======
+# Russula zelleri Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 28(3): 256 (1936)
 
 #### Original name
-Russula zellerii Burl.
+Russula zelleri Burl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichosphaeria affinis Penz. & Sacc. SPECIES
-=======
+# Trichosphaeria affinis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

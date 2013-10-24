@@ -1,5 +1,4 @@
-Pterula setosa Peck SPECIES
-=======
+# Pterula setosa Peck SPECIES
 
 #### Status
 ACCEPTED

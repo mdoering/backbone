@@ -1,5 +1,4 @@
-Filaspora ulmi (Berl. & Roum.) Kuntze SPECIES
-=======
+# Filaspora ulmi (Berl. & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

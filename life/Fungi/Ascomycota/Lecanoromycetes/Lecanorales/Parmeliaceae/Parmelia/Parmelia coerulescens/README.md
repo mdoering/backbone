@@ -1,5 +1,4 @@
-Parmelia coerulescens (Huds.) Wallr. SPECIES
-=======
+# Parmelia coerulescens (Huds.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

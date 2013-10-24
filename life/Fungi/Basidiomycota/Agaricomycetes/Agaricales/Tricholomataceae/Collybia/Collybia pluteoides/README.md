@@ -1,5 +1,4 @@
-Collybia pluteoides Rick SPECIES
-=======
+# Collybia pluteoides Rick SPECIES
 
 #### Status
 ACCEPTED

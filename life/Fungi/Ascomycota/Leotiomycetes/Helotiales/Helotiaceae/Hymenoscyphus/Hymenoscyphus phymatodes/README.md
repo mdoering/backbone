@@ -1,5 +1,4 @@
-Hymenoscyphus phymatodes (W. Phillips) Kuntze SPECIES
-=======
+# Hymenoscyphus phymatodes (W. Phillips) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia rimosa Lév. SPECIES
-=======
+# Hendersonia rimosa Lév. SPECIES
 
 #### Status
 ACCEPTED

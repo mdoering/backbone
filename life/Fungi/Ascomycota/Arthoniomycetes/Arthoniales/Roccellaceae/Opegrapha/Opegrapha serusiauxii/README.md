@@ -1,5 +1,4 @@
-Opegrapha serusiauxii Lücking SPECIES
-=======
+# Opegrapha serusiauxii Lücking SPECIES
 
 #### Status
 ACCEPTED

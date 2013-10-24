@@ -1,5 +1,4 @@
-Lapillincola Wilson, 1986 GENUS
-=======
+# Lapillincola Wilson, 1986 GENUS
 
 #### Status
 ACCEPTED

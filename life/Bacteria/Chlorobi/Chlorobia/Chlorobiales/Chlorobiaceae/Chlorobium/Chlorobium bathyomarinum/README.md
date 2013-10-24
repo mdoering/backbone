@@ -1,5 +1,4 @@
-Chlorobium bathyomarinum Beatty, Overmann, Lince, Manske, Lang, Blankenship, Van Dover, Martinson & Plumley, 2005 SPECIES
-=======
+# Chlorobium bathyomarinum Beatty, Overmann, Lince, Manske, Lang, Blankenship, Van Dover, Martinson & Plumley, 2005 SPECIES
 
 #### Status
 ACCEPTED

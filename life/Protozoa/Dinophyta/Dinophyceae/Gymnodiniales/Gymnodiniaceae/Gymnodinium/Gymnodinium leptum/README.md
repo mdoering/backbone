@@ -1,5 +1,4 @@
-Gymnodinium leptum Norris, 1961 SPECIES
-=======
+# Gymnodinium leptum Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

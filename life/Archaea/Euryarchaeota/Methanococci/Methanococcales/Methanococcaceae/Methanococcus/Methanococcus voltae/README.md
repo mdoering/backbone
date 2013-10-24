@@ -1,5 +1,4 @@
-Methanococcus voltae Balch & Wolfe, 1981 SPECIES
-=======
+# Methanococcus voltae Balch & Wolfe, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia ruderalis Nyl. SPECIES
-=======
+# Arthonia ruderalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

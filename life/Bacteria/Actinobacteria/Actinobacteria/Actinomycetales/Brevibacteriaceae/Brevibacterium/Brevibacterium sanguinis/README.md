@@ -1,5 +1,4 @@
-Brevibacterium sanguinis Wauters et al., 2004 SPECIES
-=======
+# Brevibacterium sanguinis Wauters et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

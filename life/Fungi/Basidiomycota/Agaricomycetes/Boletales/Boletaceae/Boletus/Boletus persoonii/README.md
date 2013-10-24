@@ -1,14 +1,13 @@
-Boletus edulis f. albus (Pers.) J.A. Muñoz, 2005 FORM
-=======
+# Boletus persoonii Bon, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi europ. (Alassio) 2: 314 (2005)
+Docums Mycol. 19(no. 74): 61 (1988)
 
 #### Original name
 Boletus esculentus Pers.

@@ -1,5 +1,4 @@
-Protoperidinium dolichoporum M. B. Borgese SPECIES
-=======
+# Protoperidinium dolichoporum M. B. Borgese SPECIES
 
 #### Status
 ACCEPTED

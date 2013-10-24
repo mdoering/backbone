@@ -1,17 +1,16 @@
-Volvaria plumulosa var. griseola Maire VARIETY
-=======
+# Volvariella taylorii (Berk. & Broome) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 401 (1951)
 
 #### Original name
-Volvaria plumulosa var. griseola Maire
+Agaricus taylorii Berk., 1854
 
 ### Remarks
 null

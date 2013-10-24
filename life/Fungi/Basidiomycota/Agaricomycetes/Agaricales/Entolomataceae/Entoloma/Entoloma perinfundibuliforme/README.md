@@ -1,5 +1,4 @@
-Entoloma perinfundibuliforme Manim. & Noordel. SPECIES
-=======
+# Entoloma perinfundibuliforme Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

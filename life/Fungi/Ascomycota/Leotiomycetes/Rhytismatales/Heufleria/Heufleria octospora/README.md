@@ -1,5 +1,4 @@
-Heufleria octospora Vain. SPECIES
-=======
+# Heufleria octospora Vain. SPECIES
 
 #### Status
 ACCEPTED

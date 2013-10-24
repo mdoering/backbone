@@ -1,8 +1,7 @@
-Cicinnobolus puttemansii Henn. SPECIES
-=======
+# Cicinobolus puttemansii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus puttemansii Henn.
+Cicinobolus puttemansii Henn.
 
 ### Remarks
 null

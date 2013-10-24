@@ -1,5 +1,4 @@
-Boletus rubescens Petch SPECIES
-=======
+# Boletus rubescens Petch SPECIES
 
 #### Status
 ACCEPTED

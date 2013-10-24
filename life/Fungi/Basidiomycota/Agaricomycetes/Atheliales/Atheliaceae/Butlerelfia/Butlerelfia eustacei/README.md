@@ -1,5 +1,4 @@
-Butlerelfia eustacei Weresub & Illman, 1980 SPECIES
-=======
+# Butlerelfia eustacei Weresub & Illman, 1980 SPECIES
 
 #### Status
 ACCEPTED

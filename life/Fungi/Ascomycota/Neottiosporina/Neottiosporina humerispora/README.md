@@ -1,5 +1,4 @@
-Neottiosporina humerispora (Speg.) Aa SPECIES
-=======
+# Neottiosporina humerispora (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

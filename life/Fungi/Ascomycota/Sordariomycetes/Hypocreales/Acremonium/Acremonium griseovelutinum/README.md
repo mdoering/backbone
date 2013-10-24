@@ -1,5 +1,4 @@
-Acremonium griseovelutinum Speg. SPECIES
-=======
+# Acremonium griseovelutinum Speg. SPECIES
 
 #### Status
 ACCEPTED

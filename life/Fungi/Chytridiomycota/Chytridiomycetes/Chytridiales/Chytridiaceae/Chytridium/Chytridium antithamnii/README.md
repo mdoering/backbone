@@ -1,5 +1,4 @@
-Chytridium antithamnii E. Cohn SPECIES
-=======
+# Chytridium antithamnii E. Cohn SPECIES
 
 #### Status
 ACCEPTED

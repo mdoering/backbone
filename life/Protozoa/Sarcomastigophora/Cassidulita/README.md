@@ -1,5 +1,4 @@
-Cassidulita Sellier de Civrieux, 1969 GENUS
-=======
+# Cassidulita Sellier de Civrieux, 1969 GENUS
 
 #### Status
 ACCEPTED

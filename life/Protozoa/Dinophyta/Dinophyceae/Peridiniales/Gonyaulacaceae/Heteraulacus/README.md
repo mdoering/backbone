@@ -1,5 +1,4 @@
-Heteraulacus Diesing, 1850 GENUS
-=======
+# Heteraulacus Diesing, 1850 GENUS
 
 #### Status
 ACCEPTED

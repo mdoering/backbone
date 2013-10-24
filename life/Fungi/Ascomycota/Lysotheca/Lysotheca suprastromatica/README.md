@@ -1,5 +1,4 @@
-Lysotheca suprastromatica Cif., 1962 SPECIES
-=======
+# Lysotheca suprastromatica Cif., 1962 SPECIES
 
 #### Status
 ACCEPTED

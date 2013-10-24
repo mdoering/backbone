@@ -1,5 +1,4 @@
-Mycosphaerella annulata (Cooke) Miles SPECIES
-=======
+# Mycosphaerella annulata (Cooke) Miles SPECIES
 
 #### Status
 ACCEPTED

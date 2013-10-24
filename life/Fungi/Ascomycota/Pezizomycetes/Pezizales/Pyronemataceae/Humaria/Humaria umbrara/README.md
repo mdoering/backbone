@@ -1,5 +1,4 @@
-Humaria umbrara Fuckel SPECIES
-=======
+# Humaria umbrara Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria minor J. Schröt. SPECIES
-=======
+# Metasphaeria minor J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

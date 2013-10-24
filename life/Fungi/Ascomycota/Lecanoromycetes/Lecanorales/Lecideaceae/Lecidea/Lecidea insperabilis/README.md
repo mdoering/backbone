@@ -1,5 +1,4 @@
-Lecidea insperabilis Nyl. SPECIES
-=======
+# Lecidea insperabilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza membranata Schwein. SPECIES
-=======
+# Peziza membranata Schwein. SPECIES
 
 #### Status
 ACCEPTED

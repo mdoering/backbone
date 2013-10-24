@@ -1,5 +1,4 @@
-Rozella rhizophydii Karling SPECIES
-=======
+# Rozella rhizophydii Karling SPECIES
 
 #### Status
 ACCEPTED

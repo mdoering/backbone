@@ -1,5 +1,4 @@
-Bacidia petsamoensis var. petsamoensis VARIETY
-=======
+# Bacidia petsamoensis (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia petsamoensis var. petsamoensis
+Diplophragmia petsamoensis Vain.
 
 ### Remarks
 null

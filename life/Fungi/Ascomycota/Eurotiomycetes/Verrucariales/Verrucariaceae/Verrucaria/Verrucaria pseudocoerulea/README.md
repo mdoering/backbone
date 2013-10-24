@@ -1,5 +1,4 @@
-Verrucaria pseudocoerulea Servít SPECIES
-=======
+# Verrucaria pseudocoerulea Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gamolpidium Vladescu GENUS
-=======
+# Gamolpidium Vladescu GENUS
 
 #### Status
 ACCEPTED

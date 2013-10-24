@@ -1,5 +1,4 @@
-Parmotrema wrightii L. I. Ferraro & Elix SPECIES
-=======
+# Parmotrema wrightii L. I. Ferraro & Elix SPECIES
 
 #### Status
 ACCEPTED

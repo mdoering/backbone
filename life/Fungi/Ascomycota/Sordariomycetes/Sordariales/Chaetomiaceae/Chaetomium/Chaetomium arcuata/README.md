@@ -1,5 +1,4 @@
-Chaetomium arcuata J.N. Rai & J.P. Tewari SPECIES
-=======
+# Chaetomium arcuata J.N. Rai & J.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

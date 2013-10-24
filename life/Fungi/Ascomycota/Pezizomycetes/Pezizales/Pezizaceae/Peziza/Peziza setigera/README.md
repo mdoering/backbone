@@ -1,5 +1,4 @@
-Peziza setigera W. Phillips SPECIES
-=======
+# Peziza setigera W. Phillips SPECIES
 
 #### Status
 ACCEPTED

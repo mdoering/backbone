@@ -1,5 +1,4 @@
-Bagliettoa subconcentrica (J. Steiner) Gams SPECIES
-=======
+# Bagliettoa subconcentrica (J. Steiner) Gams SPECIES
 
 #### Status
 ACCEPTED

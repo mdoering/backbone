@@ -1,5 +1,4 @@
-Incolaria securiformis Herzer SPECIES
-=======
+# Incolaria securiformis Herzer SPECIES
 
 #### Status
 ACCEPTED

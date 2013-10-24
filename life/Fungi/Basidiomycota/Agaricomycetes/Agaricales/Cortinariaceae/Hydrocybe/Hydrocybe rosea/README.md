@@ -1,5 +1,4 @@
-Hydrocybe rosea Murrill SPECIES
-=======
+# Hydrocybe rosea Murrill SPECIES
 
 #### Status
 ACCEPTED

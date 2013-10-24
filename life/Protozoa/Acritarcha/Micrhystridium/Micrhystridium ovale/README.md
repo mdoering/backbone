@@ -1,5 +1,4 @@
-Micrhystridium ovale Pocock, 1972 SPECIES
-=======
+# Micrhystridium ovale Pocock, 1972 SPECIES
 
 #### Status
 ACCEPTED

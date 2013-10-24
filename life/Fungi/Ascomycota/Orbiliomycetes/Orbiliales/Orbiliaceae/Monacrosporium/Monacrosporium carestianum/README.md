@@ -1,5 +1,4 @@
-Monacrosporium carestianum Ferraris SPECIES
-=======
+# Monacrosporium carestianum Ferraris SPECIES
 
 #### Status
 ACCEPTED

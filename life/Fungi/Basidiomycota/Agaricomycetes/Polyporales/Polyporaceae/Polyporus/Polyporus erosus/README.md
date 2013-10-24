@@ -1,5 +1,4 @@
-Polyporus erosus Pers. SPECIES
-=======
+# Polyporus erosus Pers. SPECIES
 
 #### Status
 ACCEPTED

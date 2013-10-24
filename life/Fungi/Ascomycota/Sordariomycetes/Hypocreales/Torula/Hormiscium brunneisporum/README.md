@@ -1,17 +1,16 @@
-Hormiscium bruennesporum K.B. Deshp. & K.S. Deshp. SPECIES
-=======
+# Hormiscium brunneisporum K.B. Deshp. & K.S. Deshp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sci. Cult. 32: 320 (1966)
 
 #### Original name
-Hormiscium bruennesporum K.B. Deshp. & K.S. Deshp.
+Hormiscium brunneisporum K.B. Deshp. & K.S. Deshp.
 
 ### Remarks
 null

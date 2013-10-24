@@ -1,5 +1,4 @@
-Heterochaete mangensis Y.B. Peng & X.W. Hu SPECIES
-=======
+# Heterochaete mangensis Y.B. Peng & X.W. Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces tripogonis-sinensis Y.C. Wang SPECIES
-=======
+# Uromyces tripogonis-sinensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

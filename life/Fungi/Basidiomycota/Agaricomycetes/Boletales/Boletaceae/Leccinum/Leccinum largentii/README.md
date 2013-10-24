@@ -1,5 +1,4 @@
-Leccinum largentii Thiers SPECIES
-=======
+# Leccinum largentii Thiers SPECIES
 
 #### Status
 ACCEPTED

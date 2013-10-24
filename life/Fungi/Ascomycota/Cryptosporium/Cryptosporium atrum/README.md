@@ -1,5 +1,4 @@
-Cryptosporium atrum Kunze SPECIES
-=======
+# Cryptosporium atrum Kunze SPECIES
 
 #### Status
 ACCEPTED

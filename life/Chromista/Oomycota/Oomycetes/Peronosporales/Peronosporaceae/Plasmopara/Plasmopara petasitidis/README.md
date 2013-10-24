@@ -1,5 +1,4 @@
-Plasmopara petasitidis S. Ito & Tokun. SPECIES
-=======
+# Plasmopara petasitidis S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

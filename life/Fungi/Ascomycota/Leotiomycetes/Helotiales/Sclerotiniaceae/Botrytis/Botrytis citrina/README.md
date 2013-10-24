@@ -1,5 +1,4 @@
-Botrytis citrina Berk., 1838 SPECIES
-=======
+# Botrytis citrina Berk., 1838 SPECIES
 
 #### Status
 ACCEPTED

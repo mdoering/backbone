@@ -1,5 +1,4 @@
-Peziza flavescens Pers. SPECIES
-=======
+# Peziza flavescens Pers. SPECIES
 
 #### Status
 ACCEPTED

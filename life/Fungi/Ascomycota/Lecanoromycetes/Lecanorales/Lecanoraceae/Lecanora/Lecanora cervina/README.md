@@ -1,5 +1,4 @@
-Lecanora cervina var. cervina VARIETY
-=======
+# Lecanora cervina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora cervina var. cervina
+Lecanora cervina
 
 ### Remarks
 null

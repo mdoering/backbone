@@ -1,5 +1,4 @@
-Inocybe amazoniensis Singer & I.J. Araujo SPECIES
-=======
+# Inocybe amazoniensis Singer & I.J. Araujo SPECIES
 
 #### Status
 ACCEPTED

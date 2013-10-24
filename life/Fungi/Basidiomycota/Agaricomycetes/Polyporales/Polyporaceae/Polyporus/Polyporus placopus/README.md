@@ -1,5 +1,4 @@
-Polyporus placopus Lév. SPECIES
-=======
+# Polyporus placopus Lév. SPECIES
 
 #### Status
 ACCEPTED

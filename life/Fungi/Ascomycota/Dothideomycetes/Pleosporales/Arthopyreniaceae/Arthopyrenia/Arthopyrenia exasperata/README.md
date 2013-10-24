@@ -1,5 +1,4 @@
-Arthopyrenia exasperata R. C. Harris SPECIES
-=======
+# Arthopyrenia exasperata R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

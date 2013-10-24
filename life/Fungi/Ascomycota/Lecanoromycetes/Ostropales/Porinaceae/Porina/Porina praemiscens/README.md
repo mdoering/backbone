@@ -1,5 +1,4 @@
-Porina praemiscens (Nyl.) Zahlbr. SPECIES
-=======
+# Porina praemiscens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ophiocordyceps stylophora (Berk. & Broome) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora, 2007 SPECIES
-=======
+# Cordyceps stylophora Berk. & Broome, 1857 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 47 (2007)
+J. Proc. Linn. Soc. , Bot. 1(4): 158 (1857)
 
 #### Original name
 Cordyceps stylophora Berk. & Broome, 1857

@@ -1,5 +1,4 @@
-Gyalolechia australis (Arnold) J. Steiner SPECIES
-=======
+# Gyalolechia australis (Arnold) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

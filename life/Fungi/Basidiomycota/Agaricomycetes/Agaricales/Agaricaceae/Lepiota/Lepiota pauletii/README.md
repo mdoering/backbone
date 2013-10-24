@@ -1,5 +1,4 @@
-Lepiota pauletii (Fr.) Gillet SPECIES
-=======
+# Lepiota pauletii (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

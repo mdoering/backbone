@@ -1,5 +1,4 @@
-Coniosporium polytrichi Peck SPECIES
-=======
+# Coniosporium polytrichi Peck SPECIES
 
 #### Status
 ACCEPTED

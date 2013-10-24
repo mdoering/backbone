@@ -1,5 +1,4 @@
-Pulmonaria aurigera Bory SPECIES
-=======
+# Pulmonaria aurigera Bory SPECIES
 
 #### Status
 ACCEPTED

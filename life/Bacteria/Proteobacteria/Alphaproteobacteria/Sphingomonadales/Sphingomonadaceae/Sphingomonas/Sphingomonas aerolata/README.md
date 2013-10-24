@@ -1,5 +1,4 @@
-Sphingomonas aerolata Busse et al., 2003 SPECIES
-=======
+# Sphingomonas aerolata Busse et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

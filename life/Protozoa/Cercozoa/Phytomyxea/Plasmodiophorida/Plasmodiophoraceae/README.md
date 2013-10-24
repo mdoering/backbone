@@ -1,17 +1,16 @@
-Plasmodiophoridae FAMILY
-=======
+# Plasmodiophoraceae Zopf ex Berl. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 464 (1888)
 
 #### Original name
-null
+Plasmodiophoraceae Zopf ex Berl.
 
 ### Remarks
 null

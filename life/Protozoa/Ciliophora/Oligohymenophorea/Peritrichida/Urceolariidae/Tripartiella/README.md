@@ -1,5 +1,4 @@
-Tripartiella Lom, 1963 GENUS
-=======
+# Tripartiella Lom, 1963 GENUS
 
 #### Status
 ACCEPTED

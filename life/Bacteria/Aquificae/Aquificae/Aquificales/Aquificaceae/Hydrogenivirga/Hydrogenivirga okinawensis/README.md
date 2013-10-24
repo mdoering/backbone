@@ -1,5 +1,4 @@
-Hydrogenivirga okinawensis Nunoura, Miyazaki, Suzuki, Takai & Horikoshi, 2008 SPECIES
-=======
+# Hydrogenivirga okinawensis Nunoura, Miyazaki, Suzuki, Takai & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

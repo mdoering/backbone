@@ -1,5 +1,4 @@
-Pseudozonosphaeridium infrequentum Andreeva, 1962 SPECIES
-=======
+# Pseudozonosphaeridium infrequentum Andreeva, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrocybe farinacea Hongo SPECIES
-=======
+# Agrocybe farinacea Hongo SPECIES
 
 #### Status
 ACCEPTED

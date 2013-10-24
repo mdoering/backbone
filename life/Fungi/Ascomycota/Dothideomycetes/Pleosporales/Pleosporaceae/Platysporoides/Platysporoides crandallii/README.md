@@ -1,5 +1,4 @@
-Platysporoides crandallii Shoemaker & C.E. Babc., 1992 SPECIES
-=======
+# Platysporoides crandallii Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
 ACCEPTED

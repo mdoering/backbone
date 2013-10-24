@@ -1,5 +1,4 @@
-Textularia candeiana SPECIES
-=======
+# Textularia candeiana SPECIES
 
 #### Status
 ACCEPTED

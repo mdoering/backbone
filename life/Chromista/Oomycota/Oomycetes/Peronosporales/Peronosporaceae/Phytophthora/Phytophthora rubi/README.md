@@ -1,14 +1,13 @@
-Phytophthora fragariae var. rubi W.F. Wilcox & J.M. Duncan, 1993 VARIETY
-=======
+# Phytophthora rubi (W.F. Wilcox & J.M. Duncan) Man in 't veld, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 97(7): 830 (1993)
+Mycologia 99(2): 226 (2007)
 
 #### Original name
 Phytophthora fragariae var. rubi W.F. Wilcox & J.M. Duncan, 1993

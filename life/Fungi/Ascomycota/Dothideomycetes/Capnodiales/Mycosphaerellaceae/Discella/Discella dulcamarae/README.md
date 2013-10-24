@@ -1,5 +1,4 @@
-Discella dulcamarae Died. SPECIES
-=======
+# Discella dulcamarae Died. SPECIES
 
 #### Status
 ACCEPTED

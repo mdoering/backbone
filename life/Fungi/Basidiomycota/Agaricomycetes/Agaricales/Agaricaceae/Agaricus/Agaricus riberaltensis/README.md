@@ -1,5 +1,4 @@
-Agaricus riberaltensis Heinem. SPECIES
-=======
+# Agaricus riberaltensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

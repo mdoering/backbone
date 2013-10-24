@@ -1,5 +1,4 @@
-Mycosphaerella rehmiana Jaap SPECIES
-=======
+# Mycosphaerella rehmiana Jaap SPECIES
 
 #### Status
 ACCEPTED

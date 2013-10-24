@@ -1,5 +1,4 @@
-Scyphosphaera pacifica Rade, 1975 SPECIES
-=======
+# Scyphosphaera pacifica Rade, 1975 SPECIES
 
 #### Status
 ACCEPTED

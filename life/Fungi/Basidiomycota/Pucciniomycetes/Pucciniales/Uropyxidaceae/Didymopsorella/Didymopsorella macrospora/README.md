@@ -1,14 +1,13 @@
-Didymosporiella macrospora (Mundk. & Thirum.) Thirum. SPECIES
-=======
+# Didymopsorella macrospora (Thirum. & Mundk.) Thirum., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 5(1-2): 28 (1951)
 
 #### Original name
 Didymopsora macrospora Mundk. & Thirum., 1942

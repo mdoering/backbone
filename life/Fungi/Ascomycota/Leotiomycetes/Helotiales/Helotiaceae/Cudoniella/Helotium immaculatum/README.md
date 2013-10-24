@@ -1,5 +1,4 @@
-Helotium immaculatum (Peck) Redhead SPECIES
-=======
+# Helotium immaculatum (Peck) Redhead SPECIES
 
 #### Status
 ACCEPTED

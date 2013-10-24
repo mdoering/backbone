@@ -1,5 +1,4 @@
-Lactifluus indigo (Schwein.) Kuntze SPECIES
-=======
+# Lactifluus indigo (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

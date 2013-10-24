@@ -1,8 +1,7 @@
-Penicillium terrestre C.N. Jensen, 1912 SPECIES
-=======
+# Penicillium solitum Westling, 1911 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Aecidium centranthi Thüm. SPECIES
-=======
+# Aecidium centranthi Thüm. SPECIES
 
 #### Status
 ACCEPTED

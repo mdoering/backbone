@@ -1,5 +1,4 @@
-Ganoderma sichuanense J.D. Zhao & X.Q. Zhang, 1983 SPECIES
-=======
+# Ganoderma sichuanense J.D. Zhao & X.Q. Zhang, 1983 SPECIES
 
 #### Status
 ACCEPTED

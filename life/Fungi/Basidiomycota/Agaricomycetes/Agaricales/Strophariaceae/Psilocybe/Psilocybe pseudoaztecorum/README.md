@@ -1,5 +1,4 @@
-Psilocybe pseudoaztecorum Natarajan & Raman SPECIES
-=======
+# Psilocybe pseudoaztecorum Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

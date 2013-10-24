@@ -1,5 +1,4 @@
-Mycoderma Persoon, 1822 GENUS
-=======
+# Mycoderma Persoon, 1822 GENUS
 
 #### Status
 ACCEPTED

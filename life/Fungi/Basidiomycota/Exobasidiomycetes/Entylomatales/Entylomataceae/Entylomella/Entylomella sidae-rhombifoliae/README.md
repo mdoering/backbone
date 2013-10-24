@@ -1,5 +1,4 @@
-Entylomella sidae-rhombifoliae Cif. SPECIES
-=======
+# Entylomella sidae-rhombifoliae Cif. SPECIES
 
 #### Status
 ACCEPTED

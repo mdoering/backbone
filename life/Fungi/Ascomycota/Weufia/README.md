@@ -1,5 +1,4 @@
-Weufia Bhat & B. Sutton GENUS
-=======
+# Weufia Bhat & B. Sutton GENUS
 
 #### Status
 ACCEPTED

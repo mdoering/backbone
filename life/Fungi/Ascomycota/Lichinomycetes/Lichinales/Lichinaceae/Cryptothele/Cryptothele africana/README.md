@@ -1,5 +1,4 @@
-Cryptothele africana Müll. Arg. SPECIES
-=======
+# Cryptothele africana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

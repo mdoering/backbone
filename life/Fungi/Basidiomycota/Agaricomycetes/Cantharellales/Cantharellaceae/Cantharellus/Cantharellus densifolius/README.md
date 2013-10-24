@@ -1,5 +1,4 @@
-Cantharellus densifolius Heinem., 1958 SPECIES
-=======
+# Cantharellus densifolius Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

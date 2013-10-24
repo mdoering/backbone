@@ -1,8 +1,7 @@
-Ralfsia deusta (C. Agardh) Berkeley SPECIES
-=======
+# Ralfsia fungiformis (Gunnerus) Setchell & N.L. Gardner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Stictina peltigerella Nyl. SPECIES
-=======
+# Stictina peltigerella Nyl. SPECIES
 
 #### Status
 ACCEPTED

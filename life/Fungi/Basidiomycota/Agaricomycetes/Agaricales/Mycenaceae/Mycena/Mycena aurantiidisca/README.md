@@ -1,5 +1,4 @@
-Mycena aurantiidisca Murrill SPECIES
-=======
+# Mycena aurantiidisca Murrill SPECIES
 
 #### Status
 ACCEPTED

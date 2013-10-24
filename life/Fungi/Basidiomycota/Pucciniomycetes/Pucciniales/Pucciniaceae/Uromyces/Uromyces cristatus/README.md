@@ -1,5 +1,4 @@
-Uromyces cristatus J. Schröt. & Niessl SPECIES
-=======
+# Uromyces cristatus J. Schröt. & Niessl SPECIES
 
 #### Status
 ACCEPTED

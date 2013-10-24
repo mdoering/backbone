@@ -1,5 +1,4 @@
-Cercospora cladrastidis Jacz. SPECIES
-=======
+# Cercospora cladrastidis Jacz. SPECIES
 
 #### Status
 ACCEPTED

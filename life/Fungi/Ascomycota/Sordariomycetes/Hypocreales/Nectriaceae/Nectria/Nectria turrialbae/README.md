@@ -1,5 +1,4 @@
-Nectria turrialbae Döbbeler & J. Carranza SPECIES
-=======
+# Nectria turrialbae Döbbeler & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

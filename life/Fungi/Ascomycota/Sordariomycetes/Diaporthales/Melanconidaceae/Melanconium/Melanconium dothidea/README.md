@@ -1,5 +1,4 @@
-Melanconium dothidea Schwein. SPECIES
-=======
+# Melanconium dothidea Schwein. SPECIES
 
 #### Status
 ACCEPTED

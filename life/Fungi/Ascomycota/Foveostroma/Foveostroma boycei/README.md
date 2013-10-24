@@ -1,5 +1,4 @@
-Foveostroma boycei (Dearn.) A. Funk SPECIES
-=======
+# Foveostroma boycei (Dearn.) A. Funk SPECIES
 
 #### Status
 ACCEPTED

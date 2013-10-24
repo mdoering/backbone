@@ -1,5 +1,4 @@
-Fibrobacteres CLASS
-=======
+# Fibrobacteres CLASS
 
 #### Status
 ACCEPTED

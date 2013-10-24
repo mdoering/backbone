@@ -1,5 +1,4 @@
-Triadelphia hungarica Révay SPECIES
-=======
+# Triadelphia hungarica Révay SPECIES
 
 #### Status
 ACCEPTED

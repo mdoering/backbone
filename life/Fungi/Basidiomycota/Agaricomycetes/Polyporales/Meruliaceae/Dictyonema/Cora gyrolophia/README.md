@@ -1,5 +1,4 @@
-Cora gyrolophia Fr. SPECIES
-=======
+# Cora gyrolophia Fr. SPECIES
 
 #### Status
 ACCEPTED

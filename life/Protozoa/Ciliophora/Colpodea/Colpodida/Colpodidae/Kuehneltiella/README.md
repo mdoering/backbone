@@ -1,5 +1,4 @@
-Kuehneltiella Foissner, 1990 GENUS
-=======
+# Kuehneltiella Foissner, 1990 GENUS
 
 #### Status
 ACCEPTED

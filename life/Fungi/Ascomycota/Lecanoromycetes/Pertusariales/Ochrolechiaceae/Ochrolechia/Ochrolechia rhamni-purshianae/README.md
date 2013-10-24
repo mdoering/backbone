@@ -1,5 +1,4 @@
-Ochrolechia rhamni-purshianae E. Senft SPECIES
-=======
+# Ochrolechia rhamni-purshianae E. Senft SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria aucuparicola Oudem. SPECIES
-=======
+# Septoria aucuparicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

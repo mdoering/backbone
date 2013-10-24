@@ -1,5 +1,4 @@
-Uromyces juncinus Thüm. SPECIES
-=======
+# Uromyces juncinus Thüm. SPECIES
 
 #### Status
 ACCEPTED

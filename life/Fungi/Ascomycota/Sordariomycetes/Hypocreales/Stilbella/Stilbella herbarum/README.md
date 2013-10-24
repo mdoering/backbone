@@ -1,5 +1,4 @@
-Stilbella herbarum (Rabenh.) Lindau SPECIES
-=======
+# Stilbella herbarum (Rabenh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

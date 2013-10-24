@@ -1,5 +1,4 @@
-Segestrella rubra (Sommerf.) Fr. SPECIES
-=======
+# Segestrella rubra (Sommerf.) Fr. SPECIES
 
 #### Status
 ACCEPTED

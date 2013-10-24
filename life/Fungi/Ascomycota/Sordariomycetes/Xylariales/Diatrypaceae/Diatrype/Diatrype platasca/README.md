@@ -1,5 +1,4 @@
-Diatrype platasca Peck SPECIES
-=======
+# Diatrype platasca Peck SPECIES
 
 #### Status
 ACCEPTED

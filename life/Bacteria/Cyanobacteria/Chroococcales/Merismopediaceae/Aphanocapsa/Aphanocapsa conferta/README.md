@@ -1,5 +1,4 @@
-Aphanocapsa conferta (W. West & G.S. West) Komárková-Legnerová & Cronberg, 1993 SPECIES
-=======
+# Aphanocapsa conferta (W. West & G.S. West) Komárková-Legnerová & Cronberg, 1993 SPECIES
 
 #### Status
 ACCEPTED

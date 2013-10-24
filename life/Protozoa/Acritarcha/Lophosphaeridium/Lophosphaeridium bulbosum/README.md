@@ -1,5 +1,4 @@
-Lophosphaeridium bulbosum R. Wicander SPECIES
-=======
+# Lophosphaeridium bulbosum R. Wicander SPECIES
 
 #### Status
 ACCEPTED

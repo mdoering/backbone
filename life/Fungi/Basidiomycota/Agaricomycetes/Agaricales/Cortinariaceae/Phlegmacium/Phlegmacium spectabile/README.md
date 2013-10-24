@@ -1,5 +1,4 @@
-Phlegmacium spectabile (M.M. Moser) M.M. Moser SPECIES
-=======
+# Phlegmacium spectabile (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

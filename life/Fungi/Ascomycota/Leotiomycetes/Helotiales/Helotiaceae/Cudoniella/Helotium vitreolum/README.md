@@ -1,5 +1,4 @@
-Helotium vitreolum P. Karst. SPECIES
-=======
+# Helotium vitreolum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

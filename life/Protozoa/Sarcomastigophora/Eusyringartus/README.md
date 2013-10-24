@@ -1,5 +1,4 @@
-Eusyringartus Haeckel, 1887 GENUS
-=======
+# Eusyringartus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

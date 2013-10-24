@@ -1,5 +1,4 @@
-Macrosporium cydoniae Ellis & Everh. SPECIES
-=======
+# Macrosporium cydoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium sabranskyanum (Bäumler) Bánhegyi SPECIES
-=======
+# Helotium sabranskyanum (Bäumler) Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

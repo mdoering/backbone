@@ -1,5 +1,4 @@
-Diplodia myrsines S. Ahmad SPECIES
-=======
+# Diplodia myrsines S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

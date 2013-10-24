@@ -1,5 +1,4 @@
-Phomopsis camelliae-japonicae Petr. SPECIES
-=======
+# Phomopsis camelliae-japonicae Petr. SPECIES
 
 #### Status
 ACCEPTED

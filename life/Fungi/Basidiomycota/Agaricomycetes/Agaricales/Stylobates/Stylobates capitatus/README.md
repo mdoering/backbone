@@ -1,5 +1,4 @@
-Stylobates capitatus Pat. SPECIES
-=======
+# Stylobates capitatus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma rigidulum Velen. SPECIES
-=======
+# Entoloma rigidulum Velen. SPECIES
 
 #### Status
 ACCEPTED

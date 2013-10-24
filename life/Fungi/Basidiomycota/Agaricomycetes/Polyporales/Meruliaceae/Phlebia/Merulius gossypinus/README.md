@@ -1,5 +1,4 @@
-Merulius gossypinus Rick SPECIES
-=======
+# Merulius gossypinus Rick SPECIES
 
 #### Status
 ACCEPTED

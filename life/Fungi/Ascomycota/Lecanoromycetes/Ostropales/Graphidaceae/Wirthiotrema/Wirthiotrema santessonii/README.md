@@ -1,5 +1,4 @@
-Wirthiotrema santessonii (Hale) Rivas Plata, Kalb & Frisch SPECIES
-=======
+# Wirthiotrema santessonii (Hale) Rivas Plata, Kalb & Frisch SPECIES
 
 #### Status
 ACCEPTED

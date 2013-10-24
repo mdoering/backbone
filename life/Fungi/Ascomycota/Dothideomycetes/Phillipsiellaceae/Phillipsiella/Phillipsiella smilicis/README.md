@@ -1,5 +1,4 @@
-Phillipsiella smilicis E. Müll. & S.K. Bose SPECIES
-=======
+# Phillipsiella smilicis E. Müll. & S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

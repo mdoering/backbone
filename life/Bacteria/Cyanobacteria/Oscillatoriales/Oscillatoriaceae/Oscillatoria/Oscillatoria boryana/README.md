@@ -1,5 +1,4 @@
-Oscillatoria boryana var. marina L. Hoffmann & V. Demoulin VARIETY
-=======
+# Oscillatoria boryana Bory SPECIES
 
 #### Status
 ACCEPTED

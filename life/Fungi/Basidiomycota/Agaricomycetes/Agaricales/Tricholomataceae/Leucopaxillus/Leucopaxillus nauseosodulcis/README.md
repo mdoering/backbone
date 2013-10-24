@@ -1,5 +1,4 @@
-Leucopaxillus nauseosodulcis (P. Karst.) Singer & A.H. Sm. SPECIES
-=======
+# Leucopaxillus nauseosodulcis (P. Karst.) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

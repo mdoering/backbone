@@ -1,5 +1,4 @@
-Lichen roridus Leers SPECIES
-=======
+# Lichen roridus Leers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia pithyophila Th. Fr. & Blomb. SPECIES
-=======
+# Arthopyrenia pithyophila Th. Fr. & Blomb. SPECIES
 
 #### Status
 ACCEPTED

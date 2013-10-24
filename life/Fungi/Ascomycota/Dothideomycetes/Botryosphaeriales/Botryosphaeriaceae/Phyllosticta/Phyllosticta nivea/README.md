@@ -1,5 +1,4 @@
-Phyllosticta nivea Syd. & P. Syd. SPECIES
-=======
+# Phyllosticta nivea Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodescolea lepiotiformis (Raithelh.) Raithelh. SPECIES
-=======
+# Pseudodescolea lepiotiformis (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

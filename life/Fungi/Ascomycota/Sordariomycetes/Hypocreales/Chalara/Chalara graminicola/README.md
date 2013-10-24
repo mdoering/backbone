@@ -1,5 +1,4 @@
-Chalara graminicola McKenzie, 1982 SPECIES
-=======
+# Chalara graminicola McKenzie, 1982 SPECIES
 
 #### Status
 ACCEPTED

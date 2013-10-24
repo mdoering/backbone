@@ -1,5 +1,4 @@
-Keratinophyton GENUS
-=======
+# Keratinophyton GENUS
 
 #### Status
 ACCEPTED

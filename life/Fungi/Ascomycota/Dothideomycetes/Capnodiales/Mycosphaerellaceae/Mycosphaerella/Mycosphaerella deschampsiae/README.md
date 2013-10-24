@@ -1,5 +1,4 @@
-Mycosphaerella deschampsiae R. Sprague SPECIES
-=======
+# Mycosphaerella deschampsiae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

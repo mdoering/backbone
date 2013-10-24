@@ -1,5 +1,4 @@
-Idiomarina ramblicola Martínez-Cánovas et al., 2004 SPECIES
-=======
+# Idiomarina ramblicola Martínez-Cánovas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

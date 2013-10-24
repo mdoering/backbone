@@ -1,5 +1,4 @@
-Dothidea alismatis Lasch SPECIES
-=======
+# Dothidea alismatis Lasch SPECIES
 
 #### Status
 ACCEPTED

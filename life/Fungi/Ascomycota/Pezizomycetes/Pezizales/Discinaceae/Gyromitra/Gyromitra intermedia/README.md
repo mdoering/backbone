@@ -1,5 +1,4 @@
-Gyromitra intermedia (Benedix) Harmaja SPECIES
-=======
+# Gyromitra intermedia (Benedix) Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora griseomarginata C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecanora griseomarginata C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

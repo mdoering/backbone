@@ -1,5 +1,4 @@
-Pleospora fructicola (G.A. Newton) Ruehle SPECIES
-=======
+# Pleospora fructicola (G.A. Newton) Ruehle SPECIES
 
 #### Status
 ACCEPTED

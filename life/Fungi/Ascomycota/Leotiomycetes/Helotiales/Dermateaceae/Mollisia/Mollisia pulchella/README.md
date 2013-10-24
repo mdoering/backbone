@@ -1,5 +1,4 @@
-Mollisia pulchella Quél. SPECIES
-=======
+# Mollisia pulchella Quél. SPECIES
 
 #### Status
 ACCEPTED

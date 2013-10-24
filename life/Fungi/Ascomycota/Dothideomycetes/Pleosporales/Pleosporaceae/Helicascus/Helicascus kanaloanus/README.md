@@ -1,5 +1,4 @@
-Helicascus kanaloanus Kohlm., 1969 SPECIES
-=======
+# Helicascus kanaloanus Kohlm., 1969 SPECIES
 
 #### Status
 ACCEPTED

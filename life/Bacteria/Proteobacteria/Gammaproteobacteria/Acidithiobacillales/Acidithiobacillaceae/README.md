@@ -1,5 +1,4 @@
-Acidithiobacillaceae FAMILY
-=======
+# Acidithiobacillaceae FAMILY
 
 #### Status
 ACCEPTED

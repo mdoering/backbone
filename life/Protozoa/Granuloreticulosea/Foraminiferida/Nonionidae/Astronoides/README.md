@@ -1,5 +1,4 @@
-Astronoides Saidova, 1975 GENUS
-=======
+# Astronoides Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

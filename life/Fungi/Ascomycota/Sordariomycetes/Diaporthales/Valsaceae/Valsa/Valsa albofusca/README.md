@@ -1,5 +1,4 @@
-Valsa albofusca Cooke & Ellis SPECIES
-=======
+# Valsa albofusca Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

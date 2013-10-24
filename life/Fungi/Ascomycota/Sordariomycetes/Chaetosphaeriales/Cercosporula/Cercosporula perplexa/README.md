@@ -1,5 +1,4 @@
-Cercosporula perplexa Matsush. SPECIES
-=======
+# Cercosporula perplexa Matsush. SPECIES
 
 #### Status
 ACCEPTED

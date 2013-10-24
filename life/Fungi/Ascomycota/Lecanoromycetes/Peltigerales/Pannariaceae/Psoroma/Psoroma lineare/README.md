@@ -1,5 +1,4 @@
-Psoroma lineare F. Wilson SPECIES
-=======
+# Psoroma lineare F. Wilson SPECIES
 
 #### Status
 ACCEPTED

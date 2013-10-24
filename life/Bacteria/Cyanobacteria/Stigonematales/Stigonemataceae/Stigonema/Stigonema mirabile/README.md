@@ -1,5 +1,4 @@
-Stigonema mirabile Beck SPECIES
-=======
+# Stigonema mirabile Beck SPECIES
 
 #### Status
 ACCEPTED

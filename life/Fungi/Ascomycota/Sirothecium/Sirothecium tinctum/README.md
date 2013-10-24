@@ -1,5 +1,4 @@
-Sirothecium tinctum (Peck) S. Hughes SPECIES
-=======
+# Sirothecium tinctum (Peck) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola grewiicola Hansf. SPECIES
-=======
+# Meliola grewiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

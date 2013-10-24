@@ -1,5 +1,4 @@
-Phlyctis ruwenzorii Jatta SPECIES
-=======
+# Phlyctis ruwenzorii Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roccella pygmaea Durieu & Mont. SPECIES
-=======
+# Roccella pygmaea Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

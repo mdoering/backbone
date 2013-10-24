@@ -1,5 +1,4 @@
-Graphis erythrocardia Müll. Arg. SPECIES
-=======
+# Graphis erythrocardia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

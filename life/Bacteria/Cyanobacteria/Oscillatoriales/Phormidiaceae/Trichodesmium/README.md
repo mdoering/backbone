@@ -1,14 +1,13 @@
-Xanthotrichum N.Wille ex O.Kirchner, 1898 GENUS
-=======
+# Trichodesmium C.G. Ehrenberg ex Gomont, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pflanzenleben Hochsee, p. 39.
+Ann. Sci. Nat. Bot. , ser. 7, 16: 193.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Phyllachora gynoxidis (Pat.) Petr., 1927 SPECIES
-=======
+# Phyllachora gynoxidis (Pat.) Petr., 1927 SPECIES
 
 #### Status
 DOUBTFUL

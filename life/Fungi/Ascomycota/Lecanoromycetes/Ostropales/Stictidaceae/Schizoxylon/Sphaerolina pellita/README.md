@@ -1,5 +1,4 @@
-Sphaerolina pellita Fuckel SPECIES
-=======
+# Sphaerolina pellita Fuckel SPECIES
 
 #### Status
 ACCEPTED

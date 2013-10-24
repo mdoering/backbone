@@ -1,5 +1,4 @@
-Oospora tholispora G. Arnaud SPECIES
-=======
+# Oospora tholispora G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

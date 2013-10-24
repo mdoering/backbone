@@ -1,5 +1,4 @@
-Siphoderma Kützing, 1843 GENUS
-=======
+# Siphoderma Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

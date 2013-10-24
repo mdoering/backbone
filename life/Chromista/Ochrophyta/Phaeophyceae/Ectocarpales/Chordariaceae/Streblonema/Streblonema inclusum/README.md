@@ -1,5 +1,4 @@
-Streblonema inclusum Kylin SPECIES
-=======
+# Streblonema inclusum Kylin SPECIES
 
 #### Status
 ACCEPTED

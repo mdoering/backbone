@@ -1,17 +1,16 @@
-Psora Link GENUS
-=======
+# Toninia A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 107 (1852)
 
 #### Original name
-Psora Link
+Toninia A. Massal.
 
 ### Remarks
 null

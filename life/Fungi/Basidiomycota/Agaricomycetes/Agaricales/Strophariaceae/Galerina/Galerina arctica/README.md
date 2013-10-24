@@ -1,5 +1,4 @@
-Galerina arctica (Singer) Nezdojm. SPECIES
-=======
+# Galerina arctica (Singer) Nezdojm. SPECIES
 
 #### Status
 ACCEPTED

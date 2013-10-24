@@ -1,5 +1,4 @@
-Tectitheca prima Rasul, 1979 SPECIES
-=======
+# Tectitheca prima Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

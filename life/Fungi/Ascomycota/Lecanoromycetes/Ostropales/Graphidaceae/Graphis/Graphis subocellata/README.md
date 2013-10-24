@@ -1,5 +1,4 @@
-Graphis subocellata Hepp SPECIES
-=======
+# Graphis subocellata Hepp SPECIES
 
 #### Status
 ACCEPTED

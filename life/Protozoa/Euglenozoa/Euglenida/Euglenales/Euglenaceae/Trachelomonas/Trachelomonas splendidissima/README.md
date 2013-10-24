@@ -1,5 +1,4 @@
-Trachelomonas splendidissima Middelhoek SPECIES
-=======
+# Trachelomonas splendidissima Middelhoek SPECIES
 
 #### Status
 ACCEPTED

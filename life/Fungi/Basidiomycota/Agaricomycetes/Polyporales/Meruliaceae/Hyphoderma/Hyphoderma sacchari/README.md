@@ -1,14 +1,13 @@
-Hyphoderma saccharum (Burt) Nakasone SPECIES
-=======
+# Hyphoderma sacchari (Burt) Nakasone SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Karstenia 40(1-2): 111 (2000)
 
 #### Original name
 Odontia sacchari Burt

@@ -1,5 +1,4 @@
-Discosphaerina mirabilis (E. Müll.) Sivan. SPECIES
-=======
+# Discosphaerina mirabilis (E. Müll.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

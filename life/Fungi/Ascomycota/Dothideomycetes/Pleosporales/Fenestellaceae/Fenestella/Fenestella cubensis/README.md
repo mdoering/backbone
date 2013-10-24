@@ -1,5 +1,4 @@
-Fenestella cubensis Petr. SPECIES
-=======
+# Fenestella cubensis Petr. SPECIES
 
 #### Status
 ACCEPTED

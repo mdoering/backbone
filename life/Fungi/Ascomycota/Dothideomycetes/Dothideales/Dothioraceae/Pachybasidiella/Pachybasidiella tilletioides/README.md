@@ -1,5 +1,4 @@
-Pachybasidiella tilletioides Werderm. SPECIES
-=======
+# Pachybasidiella tilletioides Werderm. SPECIES
 
 #### Status
 ACCEPTED

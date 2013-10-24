@@ -1,5 +1,4 @@
-Didymosporium erumpens Schwein. SPECIES
-=======
+# Didymosporium erumpens Schwein. SPECIES
 
 #### Status
 ACCEPTED

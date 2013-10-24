@@ -1,5 +1,4 @@
-Aspicilia scabrida (Degel.) R. Sant. SPECIES
-=======
+# Aspicilia scabrida (Degel.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

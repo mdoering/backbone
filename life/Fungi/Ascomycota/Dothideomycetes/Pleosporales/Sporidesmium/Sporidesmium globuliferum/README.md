@@ -1,17 +1,16 @@
-Sporodesmium globuliferum I. Hino & Katum. SPECIES
-=======
+# Sporidesmium globuliferum I. Hino & Katum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of the Faculty of Agriculture, Yamaguchi University 9: 880 (1958)
 
 #### Original name
-Sporodesmium globuliferum I. Hino & Katum.
+Sporidesmium globuliferum I. Hino & Katum.
 
 ### Remarks
 null

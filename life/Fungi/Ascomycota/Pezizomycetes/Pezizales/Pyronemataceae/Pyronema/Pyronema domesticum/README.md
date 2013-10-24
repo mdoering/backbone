@@ -1,17 +1,16 @@
-Pyronema domesticum var. domesticum VARIETY
-=======
+# Pyronema domesticum (Sowerby) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 109 (1889)
 
 #### Original name
-Pyronema domesticum var. domesticum
+Peziza domestica Sowerby, 1802
 
 ### Remarks
 null

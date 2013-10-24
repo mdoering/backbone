@@ -1,5 +1,4 @@
-Phyllosticta tecomae Sacc. SPECIES
-=======
+# Phyllosticta tecomae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea gypsicola Llimona SPECIES
-=======
+# Lecidea gypsicola Llimona SPECIES
 
 #### Status
 ACCEPTED

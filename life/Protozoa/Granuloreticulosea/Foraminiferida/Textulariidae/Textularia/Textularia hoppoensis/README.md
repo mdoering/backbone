@@ -1,5 +1,4 @@
-Textularia hoppoensis Nakamura SPECIES
-=======
+# Textularia hoppoensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

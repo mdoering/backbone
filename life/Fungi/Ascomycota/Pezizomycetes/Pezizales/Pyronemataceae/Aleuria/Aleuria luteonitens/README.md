@@ -1,14 +1,13 @@
-Peziza luteonitens Berk. & Broome, 1851 SPECIES
-=======
+# Aleuria luteonitens (Berk. & Broome) Gillet, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 7: 180 (1851)
+Champignons de France, Discom. 205 (1886)
 
 #### Original name
 Peziza luteonitens Berk. & Broome, 1851

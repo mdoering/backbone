@@ -1,5 +1,4 @@
-Trypethelium formosanum Zahlbr. SPECIES
-=======
+# Trypethelium formosanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

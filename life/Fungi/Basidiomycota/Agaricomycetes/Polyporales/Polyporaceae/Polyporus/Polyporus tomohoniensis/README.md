@@ -1,5 +1,4 @@
-Polyporus tomohoniensis Henn. SPECIES
-=======
+# Polyporus tomohoniensis Henn. SPECIES
 
 #### Status
 ACCEPTED

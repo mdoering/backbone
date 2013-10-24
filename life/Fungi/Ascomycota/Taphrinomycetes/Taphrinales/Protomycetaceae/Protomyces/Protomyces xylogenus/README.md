@@ -1,5 +1,4 @@
-Protomyces xylogenus Sacc. SPECIES
-=======
+# Protomyces xylogenus Sacc. SPECIES
 
 #### Status
 ACCEPTED

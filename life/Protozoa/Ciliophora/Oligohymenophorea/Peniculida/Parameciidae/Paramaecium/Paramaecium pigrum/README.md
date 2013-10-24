@@ -1,5 +1,4 @@
-Paramaecium pigrum SPECIES
-=======
+# Paramaecium pigrum SPECIES
 
 #### Status
 ACCEPTED

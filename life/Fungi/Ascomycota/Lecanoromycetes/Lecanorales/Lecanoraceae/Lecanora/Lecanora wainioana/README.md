@@ -1,5 +1,4 @@
-Lecanora wainioana Zahlbr. SPECIES
-=======
+# Lecanora wainioana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

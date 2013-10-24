@@ -1,5 +1,4 @@
-Mycena testacea Murrill SPECIES
-=======
+# Mycena testacea Murrill SPECIES
 
 #### Status
 ACCEPTED

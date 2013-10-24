@@ -1,5 +1,4 @@
-Macrosporium amygdali Thüm. SPECIES
-=======
+# Macrosporium amygdali Thüm. SPECIES
 
 #### Status
 ACCEPTED

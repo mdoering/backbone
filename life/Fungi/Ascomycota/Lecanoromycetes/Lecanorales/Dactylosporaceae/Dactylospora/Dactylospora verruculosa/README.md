@@ -1,5 +1,4 @@
-Dactylospora verruculosa Hafellner SPECIES
-=======
+# Dactylospora verruculosa Hafellner SPECIES
 
 #### Status
 ACCEPTED

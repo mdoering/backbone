@@ -1,5 +1,4 @@
-Physarum caesiellum Chao H. Chung & Tzean, 2000 SPECIES
-=======
+# Physarum caesiellum Chao H. Chung & Tzean, 2000 SPECIES
 
 #### Status
 ACCEPTED

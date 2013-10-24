@@ -1,5 +1,4 @@
-Entyloma pachydermum Liro SPECIES
-=======
+# Entyloma pachydermum Liro SPECIES
 
 #### Status
 ACCEPTED

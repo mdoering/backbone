@@ -1,5 +1,4 @@
-Sphaeronaemella spermosphaerici (Negru & Verona) Malloch SPECIES
-=======
+# Sphaeronaemella spermosphaerici (Negru & Verona) Malloch SPECIES
 
 #### Status
 ACCEPTED

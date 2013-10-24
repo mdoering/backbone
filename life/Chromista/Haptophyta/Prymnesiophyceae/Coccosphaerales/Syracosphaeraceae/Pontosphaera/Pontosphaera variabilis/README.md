@@ -1,5 +1,4 @@
-Pontosphaera variabilis Halldal & Markali SPECIES
-=======
+# Pontosphaera variabilis Halldal & Markali SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium vizei Berk. SPECIES
-=======
+# Verticillium vizei Berk. SPECIES
 
 #### Status
 ACCEPTED

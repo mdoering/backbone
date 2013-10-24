@@ -1,5 +1,4 @@
-Gavelinopsis atlantica Hofker, 1956 SPECIES
-=======
+# Gavelinopsis atlantica Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

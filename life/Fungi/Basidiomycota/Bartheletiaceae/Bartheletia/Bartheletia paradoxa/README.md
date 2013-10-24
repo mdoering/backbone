@@ -1,5 +1,4 @@
-Bartheletia paradoxa G. Arnaud ex Scheuer, R. Bauer, M. Lutz, Stabenth., Melnik & Grube, 2008 SPECIES
-=======
+# Bartheletia paradoxa G. Arnaud ex Scheuer, R. Bauer, M. Lutz, Stabenth., Melnik & Grube, 2008 SPECIES
 
 #### Status
 ACCEPTED

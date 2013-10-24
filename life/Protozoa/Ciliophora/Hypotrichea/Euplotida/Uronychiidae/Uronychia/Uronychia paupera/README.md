@@ -1,5 +1,4 @@
-Uronychia paupera Daday, ? SPECIES
-=======
+# Uronychia paupera Daday, ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis hirticeps (Peck) Singer SPECIES
-=======
+# Crinipellis hirticeps (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

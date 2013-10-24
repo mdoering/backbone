@@ -1,5 +1,4 @@
-Placolecanora chlorophthalma (Poelt & Tomin) Kopach. SPECIES
-=======
+# Placolecanora chlorophthalma (Poelt & Tomin) Kopach. SPECIES
 
 #### Status
 ACCEPTED

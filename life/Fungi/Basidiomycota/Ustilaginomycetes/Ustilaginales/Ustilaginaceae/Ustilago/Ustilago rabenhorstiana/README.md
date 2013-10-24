@@ -1,5 +1,4 @@
-Ustilago rabenhorstiana J.G. Kühn, 1876 SPECIES
-=======
+# Ustilago rabenhorstiana J.G. Kühn, 1876 SPECIES
 
 #### Status
 ACCEPTED

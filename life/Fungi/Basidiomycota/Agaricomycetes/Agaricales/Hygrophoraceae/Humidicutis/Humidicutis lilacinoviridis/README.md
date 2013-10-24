@@ -1,5 +1,4 @@
-Humidicutis lilacinoviridis (A.M. Young) A.M. Young SPECIES
-=======
+# Humidicutis lilacinoviridis (A.M. Young) A.M. Young SPECIES
 
 #### Status
 ACCEPTED
