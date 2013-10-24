@@ -1,0 +1,17 @@
+Amphidinium yoorugurrum S. Murray & Patterson, 2002 SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+World Register of Marine Species
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Coenogonium isidiigerum (Vezda & Osorio) Lücking, Aptroot & Sipman SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+in Rivas Plata, Lücking, Aptroot, Sipman, Chaves, Umaña & Lizano, Fungal Diversity 23: 297 (2006)
+
+#### Original name
+Dimerella isidiigera Vezda & Osorio
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Melanconis biansata Ellis & Everh. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Melanconis biansata Ellis & Everh.
+
+### Remarks
+null

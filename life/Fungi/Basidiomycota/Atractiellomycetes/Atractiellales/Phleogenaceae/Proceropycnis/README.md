@@ -1,0 +1,17 @@
+Proceropycnis M. Villarreal, Arenal, V. Rubio, Begerow, R. Bauer, R. Kirschner & Oberw. GENUS
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+in Oberwinkler, Kirschner, Arenal, Villarreal, Rubio, Begerow & Bauer, Mycologia 98(4): 641 (2006)
+
+#### Original name
+Proceropycnis M. Villarreal, Arenal, V. Rubio, Begerow, R. Bauer, R. Kirschner & Oberw.
+
+### Remarks
+null

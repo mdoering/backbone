@@ -1,0 +1,17 @@
+Chaetothyrium citri (G. Arnaud) E.E. Fisher SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

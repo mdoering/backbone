@@ -1,0 +1,17 @@
+Omphalia chrysea Peck SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Omphalia chrysea Peck
+
+### Remarks
+null

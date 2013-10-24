@@ -1,0 +1,17 @@
+Cyphelium chlorellum Hepp SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cyphelium chlorellum Hepp
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Peziza obliqua Zoll. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Peziza obliqua Zoll.
+
+### Remarks
+null

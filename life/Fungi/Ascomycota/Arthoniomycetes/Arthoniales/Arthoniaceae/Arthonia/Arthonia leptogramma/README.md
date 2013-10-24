@@ -1,0 +1,17 @@
+Arthonia leptogramma Müll. Arg. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Arthonia leptogramma Müll. Arg.
+
+### Remarks
+null

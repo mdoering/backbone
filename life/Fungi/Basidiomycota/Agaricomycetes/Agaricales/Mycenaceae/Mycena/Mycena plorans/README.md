@@ -1,0 +1,17 @@
+Mycena plorans Mont. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Mycena plorans Mont.
+
+### Remarks
+null

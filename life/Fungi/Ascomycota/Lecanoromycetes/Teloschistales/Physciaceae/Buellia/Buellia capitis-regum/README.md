@@ -1,0 +1,17 @@
+Buellia capitis-regum W. A. Weber SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Bryologist 74(2): 185 (1971)
+
+#### Original name
+Buellia capitis-regum W. A. Weber
+
+### Remarks
+null

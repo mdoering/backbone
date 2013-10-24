@@ -1,0 +1,17 @@
+Agaricus hyalinus Schaeff. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Agaricus hyalinus Schaeff.
+
+### Remarks
+null

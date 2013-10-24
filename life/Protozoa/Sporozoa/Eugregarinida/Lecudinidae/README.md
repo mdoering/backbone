@@ -1,0 +1,17 @@
+Lecudinidae Kamm, 1922 FAMILY
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

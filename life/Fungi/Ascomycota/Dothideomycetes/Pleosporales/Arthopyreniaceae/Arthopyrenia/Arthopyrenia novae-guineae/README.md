@@ -1,0 +1,17 @@
+Arthopyrenia novae-guineae Szatala SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Arthopyrenia novae-guineae Szatala
+
+### Remarks
+null

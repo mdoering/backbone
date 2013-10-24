@@ -1,0 +1,17 @@
+Bacidia subpulchra (Müll. Arg.) Zahlbr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Patellaria subpulchra Müll. Arg.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Laboulbenia papuana Thaxt. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Laboulbenia papuana Thaxt.
+
+### Remarks
+null

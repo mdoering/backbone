@@ -1,0 +1,17 @@
+Sarcopodium avenaceum Fr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Sarcopodium avenaceum Fr.
+
+### Remarks
+null

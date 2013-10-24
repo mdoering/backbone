@@ -1,0 +1,17 @@
+Illosporium caespitosum Ellis & Everh. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Illosporium caespitosum Ellis & Everh.
+
+### Remarks
+null

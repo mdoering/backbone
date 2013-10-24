@@ -1,0 +1,17 @@
+Neosartorya otanii Takada, Y. Horie & Abliz SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mycoscience 42(4): 364 (2001)
+
+#### Original name
+Neosartorya otanii Takada, Y. Horie & Abliz
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Stachybotrys pulcra Speg. SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Stachybotrys pulcra Speg.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Arthonia pluriseptata Vain. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Arthonia pluriseptata Vain.
+
+### Remarks
+null

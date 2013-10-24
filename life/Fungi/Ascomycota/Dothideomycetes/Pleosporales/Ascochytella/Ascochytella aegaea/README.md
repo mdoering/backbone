@@ -1,0 +1,17 @@
+Ascochytella aegaea Petr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Ascochytella aegaea Petr.
+
+### Remarks
+null

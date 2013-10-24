@@ -1,0 +1,17 @@
+Pezizella chionea (Fr.) Dennis, 1956 SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Belgian Species List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Peronospora cerinthe Uljan. SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Peronospora cerinthe Uljan.
+
+### Remarks
+null

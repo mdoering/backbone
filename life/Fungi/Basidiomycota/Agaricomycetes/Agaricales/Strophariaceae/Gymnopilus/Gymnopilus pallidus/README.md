@@ -1,0 +1,17 @@
+Gymnopilus pallidus Murrill SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Gymnopilus pallidus Murrill
+
+### Remarks
+null

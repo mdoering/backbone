@@ -1,0 +1,17 @@
+Sarcomyces vinosa Massee SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Sarcomyces vinosa Massee
+
+### Remarks
+null

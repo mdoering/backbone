@@ -1,0 +1,17 @@
+Psathyrella romseyensis Kits van Wav., 1987 SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Persoonia 13(3): 349 (1987)
+
+#### Original name
+Psathyrella romseyensis Kits van Wav., 1987
+
+### Remarks
+null

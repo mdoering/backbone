@@ -1,0 +1,17 @@
+Erysiphe sepulta Ellis & Everh. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Erysiphe sepulta Ellis & Everh.
+
+### Remarks
+null

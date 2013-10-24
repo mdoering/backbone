@@ -1,0 +1,17 @@
+Agaricus guadalupensis Pat. SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Agaricus guadalupensis Pat.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Trichella coelostomatis Maessen SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Trichella coelostomatis Maessen
+
+### Remarks
+null

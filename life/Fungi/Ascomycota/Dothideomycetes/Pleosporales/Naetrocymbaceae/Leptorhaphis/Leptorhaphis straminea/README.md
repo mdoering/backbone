@@ -1,0 +1,17 @@
+Leptorhaphis straminea (Eschw.) Zahlbr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Cat. Lich. Univers. 1: 344 (1922)
+
+#### Original name
+Verrucaria punctiformis var. straminea Eschw.
+
+### Remarks
+null

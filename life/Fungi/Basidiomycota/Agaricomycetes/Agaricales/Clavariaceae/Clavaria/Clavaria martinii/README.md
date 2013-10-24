@@ -1,0 +1,17 @@
+Clavaria martinii Corner SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Trans. Br. mycol. Soc. 50: 38 (1967)
+
+#### Original name
+Clavaria martinii Corner
+
+### Remarks
+null

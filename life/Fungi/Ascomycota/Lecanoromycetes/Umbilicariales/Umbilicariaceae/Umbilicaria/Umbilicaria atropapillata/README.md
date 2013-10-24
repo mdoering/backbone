@@ -1,0 +1,17 @@
+Umbilicaria atropapillata Colmeiro SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Umbilicaria atropapillata Colmeiro
+
+### Remarks
+null

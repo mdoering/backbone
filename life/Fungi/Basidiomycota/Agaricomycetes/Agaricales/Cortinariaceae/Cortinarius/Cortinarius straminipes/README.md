@@ -1,0 +1,17 @@
+Cortinarius straminipes Murrill SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Lloydia 5: 147 (1942)
+
+#### Original name
+Cortinarius straminipes Murrill
+
+### Remarks
+null

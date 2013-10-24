@@ -1,0 +1,17 @@
+Coniothyrium melanconieum Sacc. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Coniothyrium melanconieum Sacc.
+
+### Remarks
+null

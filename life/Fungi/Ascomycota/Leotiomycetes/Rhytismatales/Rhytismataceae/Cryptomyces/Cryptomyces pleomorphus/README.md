@@ -1,0 +1,17 @@
+Cryptomyces pleomorphus Gruner SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cryptomyces pleomorphus Gruner
+
+### Remarks
+null

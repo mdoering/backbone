@@ -1,0 +1,17 @@
+Phyllosticta variegata Ellis & Everh. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Phyllosticta variegata Ellis & Everh.
+
+### Remarks
+null

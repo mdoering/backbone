@@ -1,0 +1,17 @@
+Buellia excellens H. Magn. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Buellia excellens H. Magn.
+
+### Remarks
+null

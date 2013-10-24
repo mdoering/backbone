@@ -1,0 +1,17 @@
+Uredo clitandrae Henn. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Uredo clitandrae Henn.
+
+### Remarks
+null

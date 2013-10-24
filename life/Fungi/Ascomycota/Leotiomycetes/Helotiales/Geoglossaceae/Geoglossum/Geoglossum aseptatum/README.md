@@ -1,0 +1,17 @@
+Geoglossum asaeptatum Hakelier ex Nitare SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Geoglossum asaeptatum Hakelier ex Nitare
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Peronospora lychnitis Gäum. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Beitr. Kryptfl. Schweiz 5(4): 54 (1923)
+
+#### Original name
+Peronospora lychnitis Gäum.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Fuscidea pusilla Tønsberg SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Sommerfeltia 14: 138 (1992)
+
+#### Original name
+Fuscidea pusilla Tønsberg
+
+### Remarks
+null

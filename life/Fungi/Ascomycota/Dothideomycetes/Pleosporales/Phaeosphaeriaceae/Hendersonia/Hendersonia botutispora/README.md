@@ -1,0 +1,17 @@
+Hendersonia botutispora Teng SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Hendersonia botutispora Teng
+
+### Remarks
+null

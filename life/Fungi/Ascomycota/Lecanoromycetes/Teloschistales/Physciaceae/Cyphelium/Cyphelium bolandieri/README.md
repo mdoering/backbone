@@ -1,0 +1,17 @@
+Cyphelium bolandieri Fuckel SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cyphelium bolandieri Fuckel
+
+### Remarks
+null

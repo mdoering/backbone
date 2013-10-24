@@ -1,0 +1,17 @@
+Hyaloscypha opalina (Quél.) Boud. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Hist. Class. Discom. Eur. (Paris) 126 (1907)
+
+#### Original name
+Peziza opalina Quél.
+
+### Remarks
+null

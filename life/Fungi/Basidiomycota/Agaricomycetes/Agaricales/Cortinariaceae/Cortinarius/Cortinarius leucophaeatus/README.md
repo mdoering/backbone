@@ -1,0 +1,17 @@
+Cortinarius leucophaeatus Rob. Henry SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Bull. trimest. Soc. mycol. Fr. 101(1): 35 (1985)
+
+#### Original name
+Cortinarius leucophaeatus Rob. Henry
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Mycosphaerella hostae Syd. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Mycosphaerella hostae Syd.
+
+### Remarks
+null

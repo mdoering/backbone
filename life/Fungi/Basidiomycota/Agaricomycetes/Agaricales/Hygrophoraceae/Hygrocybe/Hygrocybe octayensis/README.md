@@ -1,0 +1,17 @@
+Hygrocybe octayensis Singer SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Beih. Nova Hedwigia 29: 15 (1969)
+
+#### Original name
+Hygrocybe octayensis Singer
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Meliola rauvolfiae Mibey SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+in Mibey & Hawksworth, Mycol. Pap. 174: 69 (1997)
+
+#### Original name
+Meliola rauvolfiae Mibey
+
+### Remarks
+null

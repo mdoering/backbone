@@ -1,0 +1,17 @@
+Lecaniocola pulvinariae Brain SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lecaniocola pulvinariae Brain
+
+### Remarks
+null

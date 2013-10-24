@@ -1,0 +1,17 @@
+Coryneum vitiphyllum Speschnew SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Coryneum vitiphyllum Speschnew
+
+### Remarks
+null

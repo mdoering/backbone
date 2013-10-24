@@ -1,0 +1,17 @@
+Stagonospora montenegrina Bubák SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Stagonospora montenegrina Bubák
+
+### Remarks
+null

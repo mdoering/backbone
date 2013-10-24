@@ -1,0 +1,17 @@
+Chaetomella gasteriae Trinchieri SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Chaetomella gasteriae Trinchieri
+
+### Remarks
+null

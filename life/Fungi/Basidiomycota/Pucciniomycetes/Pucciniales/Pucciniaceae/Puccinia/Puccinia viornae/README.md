@@ -1,0 +1,17 @@
+Puccinia viornae Arthur SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Puccinia viornae Arthur
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Macrophoma arundinae Gäum. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Macrophoma arundinae Gäum.
+
+### Remarks
+null

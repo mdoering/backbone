@@ -1,0 +1,17 @@
+Pyrenula subareolata Nyl. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pyrenula subareolata Nyl.
+
+### Remarks
+null

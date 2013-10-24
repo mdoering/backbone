@@ -1,0 +1,17 @@
+Erysiphe takamatsui Y. Nomura SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Taxonomical Study of Erysiphaceae of Japan (Tokyo) 208 (1997)
+
+#### Original name
+Erysiphe takamatsui Y. Nomura
+
+### Remarks
+null

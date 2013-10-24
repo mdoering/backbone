@@ -1,0 +1,17 @@
+Hymenula epistroma Höhn. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Hymenula epistroma Höhn.
+
+### Remarks
+null

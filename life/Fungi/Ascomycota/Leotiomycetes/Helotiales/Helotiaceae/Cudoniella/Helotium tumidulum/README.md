@@ -1,0 +1,17 @@
+Helotium tumidulum (Roberge ex Desm.) SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

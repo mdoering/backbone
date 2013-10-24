@@ -1,0 +1,17 @@
+Trichothelium pallidesetum Lücking SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Trichothelium pallidesetum Lücking
+
+### Remarks
+null

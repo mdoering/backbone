@@ -1,0 +1,17 @@
+Alectoria zopfii Asahina SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Alectoria zopfii Asahina
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Pertusaria concentrica Erichsen SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pertusaria concentrica Erichsen
+
+### Remarks
+null

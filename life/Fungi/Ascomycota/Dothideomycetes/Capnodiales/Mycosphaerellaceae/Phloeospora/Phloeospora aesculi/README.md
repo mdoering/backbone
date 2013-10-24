@@ -1,0 +1,17 @@
+Phloeospora aesculi Cooke SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Phloeospora aesculi Cooke
+
+### Remarks
+null

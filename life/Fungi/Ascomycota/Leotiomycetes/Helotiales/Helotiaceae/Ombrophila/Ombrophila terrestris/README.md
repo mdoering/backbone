@@ -1,0 +1,17 @@
+Ombrophila terrestris Velen. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Monogr. Discom. Bohem. (Prague) 107 (1934)
+
+#### Original name
+Ombrophila terrestris Velen.
+
+### Remarks
+null

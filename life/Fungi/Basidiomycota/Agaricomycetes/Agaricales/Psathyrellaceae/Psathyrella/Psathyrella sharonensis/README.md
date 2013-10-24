@@ -1,0 +1,17 @@
+Psathyrella sharonensis A.H. Sm. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mem. N. Y. bot. Gdn 24: 258 (1972)
+
+#### Original name
+Psathyrella sharonensis A.H. Sm.
+
+### Remarks
+null

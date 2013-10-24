@@ -1,0 +1,17 @@
+Staphlosporonites allomorphus Sheffy & Dilcher SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Palaeontographica, Abt. B 133(1-3): 49 + pl. 14, fig. 80; pl. 16, fig. 80 (1971)
+
+#### Original name
+Staphlosporonites allomorphus Sheffy & Dilcher
+
+### Remarks
+null

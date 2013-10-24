@@ -1,0 +1,17 @@
+Leptoglossum subbryophilum Singer SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Beih. bot. Zbl. 48: 521 (1931)
+
+#### Original name
+Leptoglossum subbryophilum Singer
+
+### Remarks
+null

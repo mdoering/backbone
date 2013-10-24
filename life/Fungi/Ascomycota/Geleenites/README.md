@@ -1,0 +1,17 @@
+Geleenites Dijkstra GENUS
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Geleenites Dijkstra
+
+### Remarks
+null

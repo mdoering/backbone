@@ -1,0 +1,17 @@
+Aecidium libanoticum Magnus SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Aecidium libanoticum Magnus
+
+### Remarks
+null

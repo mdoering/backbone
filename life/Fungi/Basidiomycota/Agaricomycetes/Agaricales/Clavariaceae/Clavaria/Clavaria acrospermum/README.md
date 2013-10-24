@@ -1,0 +1,17 @@
+Clavaria acrospermum Hoffm. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Clavaria acrospermum Hoffm.
+
+### Remarks
+null

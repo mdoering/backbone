@@ -1,0 +1,17 @@
+Botrytis pruinosa Höhn. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Botrytis pruinosa Höhn.
+
+### Remarks
+null

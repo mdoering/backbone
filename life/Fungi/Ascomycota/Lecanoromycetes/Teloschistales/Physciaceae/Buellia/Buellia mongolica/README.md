@@ -1,0 +1,17 @@
+Buellia mongolica H. Magn. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Buellia mongolica H. Magn.
+
+### Remarks
+null

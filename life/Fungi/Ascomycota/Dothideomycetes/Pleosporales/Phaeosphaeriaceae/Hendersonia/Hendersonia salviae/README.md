@@ -1,0 +1,17 @@
+Hendersonia salviae Syd. & P. Syd. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Hendersonia salviae Syd. & P. Syd.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Russula puiggarii (Speg.) Singer SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Lilloa 23: 239 (1950)
+
+#### Original name
+Clitocybe puiggarii Speg.
+
+### Remarks
+null

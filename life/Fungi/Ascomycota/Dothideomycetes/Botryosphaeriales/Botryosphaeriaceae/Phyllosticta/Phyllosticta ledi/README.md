@@ -1,0 +1,17 @@
+Phyllosticta ledi Rostr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Meddr Grønland, Biosc. 623 (1891)
+
+#### Original name
+Phyllosticta ledi Rostr.
+
+### Remarks
+null

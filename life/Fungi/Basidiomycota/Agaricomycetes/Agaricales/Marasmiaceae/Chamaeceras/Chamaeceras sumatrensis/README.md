@@ -1,0 +1,17 @@
+Chamaeceras sumatrensis (Lév.) Kuntze SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Revis. gen. pl. (Leipzig) 3: 457 (1898)
+
+#### Original name
+Marasmius sumatrensis Lév.
+
+### Remarks
+null

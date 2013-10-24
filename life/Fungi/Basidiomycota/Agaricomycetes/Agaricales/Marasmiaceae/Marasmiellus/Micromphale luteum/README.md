@@ -1,0 +1,17 @@
+Micromphale lutea Dennis SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Micromphale lutea Dennis
+
+### Remarks
+null

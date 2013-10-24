@@ -1,0 +1,17 @@
+Usnea barbelata P.A. Duvign. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Usnea barbelata P.A. Duvign.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Cercospora caricapapayae P.K. Rajak & S.P. Gautam SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Cercospora caricapapayae P.K. Rajak & S.P. Gautam
+
+### Remarks
+null

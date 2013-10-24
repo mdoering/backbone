@@ -1,0 +1,17 @@
+Passalora pilosae (T.S. Ramakr.) U. Braun & Crous SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 324 (2003)
+
+#### Original name
+Cercospora pilosa T.S. Ramakr.
+
+### Remarks
+null

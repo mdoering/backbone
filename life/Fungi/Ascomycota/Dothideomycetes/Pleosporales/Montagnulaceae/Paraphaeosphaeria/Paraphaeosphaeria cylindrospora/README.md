@@ -1,0 +1,17 @@
+Paraphaeosphaeria cylindrospora (Wehm.) O.E. Erikss. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Non-lichenized Pyrenomycetes of Sweden (Lund) 7 (1992)
+
+#### Original name
+Pleospora cylindrospora Wehm.
+
+### Remarks
+null

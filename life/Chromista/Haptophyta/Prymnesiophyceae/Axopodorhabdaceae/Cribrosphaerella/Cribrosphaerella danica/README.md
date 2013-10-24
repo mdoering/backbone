@@ -1,0 +1,17 @@
+Cribrosphaerella danica F. Brotzen ex S. E. van Heck & K. Perch-Nielsen SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

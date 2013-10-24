@@ -1,0 +1,17 @@
+Capnodium fuliginodes var. fuliginodes VARIETY
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Capnodium fuliginodes var. fuliginodes
+
+### Remarks
+null

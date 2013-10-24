@@ -1,0 +1,17 @@
+Uredo castagnei Ravenel SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Uredo castagnei Ravenel
+
+### Remarks
+null

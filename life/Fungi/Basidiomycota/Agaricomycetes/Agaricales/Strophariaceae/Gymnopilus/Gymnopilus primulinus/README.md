@@ -1,0 +1,17 @@
+Gymnopilus primulinus (Berk.) Pegler SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Marasmius primulinus Berk.
+
+### Remarks
+null

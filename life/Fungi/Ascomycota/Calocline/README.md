@@ -1,0 +1,17 @@
+Calocline Syd. GENUS
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Annls mycol. 37(4/5): 417 (1939)
+
+#### Original name
+Calocline Syd.
+
+### Remarks
+null

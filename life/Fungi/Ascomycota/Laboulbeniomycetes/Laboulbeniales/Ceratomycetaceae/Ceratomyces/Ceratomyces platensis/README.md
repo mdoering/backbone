@@ -1,0 +1,17 @@
+Ceratomyces platensis (Speg.) Thaxt. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mem. Amer. Acad. Arts 16: 352 (1931)
+
+#### Original name
+Autoicomyces platensis Speg.
+
+### Remarks
+null

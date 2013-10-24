@@ -1,0 +1,17 @@
+Ciboria longipes Beeli SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Ciboria longipes Beeli
+
+### Remarks
+null

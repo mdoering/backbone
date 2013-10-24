@@ -1,0 +1,17 @@
+Didymella cretica Petr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Didymella cretica Petr.
+
+### Remarks
+null

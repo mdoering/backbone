@@ -1,0 +1,17 @@
+Sporocybe curziana E.W. Mason SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Annotated Acct of Fungi rec'd I. M. I. 2(Fasc. 3): 126 (1941)
+
+#### Original name
+Sporocybe curziana E.W. Mason
+
+### Remarks
+null

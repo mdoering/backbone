@@ -1,0 +1,17 @@
+Septoria pseudopezizoides Sacc. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Septoria pseudopezizoides Sacc.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Pycnothyrium gracile Died. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pycnothyrium gracile Died.
+
+### Remarks
+null

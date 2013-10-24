@@ -1,0 +1,17 @@
+Microconcentrica concellata Luo Qiling & Sun Shufen in Luo Qiling et al. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

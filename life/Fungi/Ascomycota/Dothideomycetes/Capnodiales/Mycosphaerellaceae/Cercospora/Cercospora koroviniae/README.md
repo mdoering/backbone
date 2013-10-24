@@ -1,0 +1,17 @@
+Cercospora koroviniae Annal. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Nov. sist. Niz. Rast. 15: 74 (1978)
+
+#### Original name
+Cercospora koroviniae Annal.
+
+### Remarks
+null

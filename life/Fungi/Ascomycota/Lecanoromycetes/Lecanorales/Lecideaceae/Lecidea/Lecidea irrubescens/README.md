@@ -1,0 +1,17 @@
+Lecidea irrubescens Zahlbr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lecidea irrubescens Zahlbr.
+
+### Remarks
+null

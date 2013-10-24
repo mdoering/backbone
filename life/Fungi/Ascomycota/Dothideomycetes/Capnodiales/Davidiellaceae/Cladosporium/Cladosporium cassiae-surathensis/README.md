@@ -1,0 +1,17 @@
+Cladosporium cassiae-surathensis J.M. Yen, 1981 SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Bull. trimest. Soc. mycol. Fr. 97(3): 130 (1981)
+
+#### Original name
+Cladosporium cassiae-surathensis J.M. Yen, 1981
+
+### Remarks
+null

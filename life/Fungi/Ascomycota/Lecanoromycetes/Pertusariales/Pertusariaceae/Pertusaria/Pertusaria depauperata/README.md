@@ -1,0 +1,17 @@
+Pertusaria depauperata Müll. Arg. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pertusaria depauperata Müll. Arg.
+
+### Remarks
+null

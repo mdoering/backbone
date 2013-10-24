@@ -1,0 +1,17 @@
+Adeleidae Mesnil, 1903 FAMILY
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

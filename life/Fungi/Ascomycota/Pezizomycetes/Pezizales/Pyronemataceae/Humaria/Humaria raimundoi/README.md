@@ -1,0 +1,17 @@
+Humaria raimundoi Rehm SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Humaria raimundoi Rehm
+
+### Remarks
+null

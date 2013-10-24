@@ -1,0 +1,17 @@
+Bryopogon altaicus Gyeln. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Bryopogon altaicus Gyeln.
+
+### Remarks
+null

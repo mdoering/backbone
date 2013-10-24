@@ -1,0 +1,17 @@
+Podocapsium Clem. GENUS
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+Gen. fung. (Minneapolis) 94, 176 (1909)
+
+#### Original name
+Podocapsium Clem.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Sphaerella striatiformans (Cobb) Sacc. & Trotter SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Mycosphaerella striatiformans Cobb
+
+### Remarks
+null

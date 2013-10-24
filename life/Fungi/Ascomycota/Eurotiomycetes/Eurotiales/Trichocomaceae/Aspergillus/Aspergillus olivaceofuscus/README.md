@@ -1,0 +1,17 @@
+Aspergillus olivaceofuscus Mosseray SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Aspergillus olivaceofuscus Mosseray
+
+### Remarks
+null

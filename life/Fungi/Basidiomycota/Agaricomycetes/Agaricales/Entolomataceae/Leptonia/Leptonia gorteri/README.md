@@ -1,0 +1,17 @@
+Leptonia gorteri Weinm. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Leptonia gorteri Weinm.
+
+### Remarks
+null

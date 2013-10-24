@@ -1,0 +1,17 @@
+Pocillaria denticulata (Schwein.) Kuntze SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Revis. gen. pl. (Leipzig) 2: 866 (1891)
+
+#### Original name
+Agaricus denticulatus Bolton, 1788
+
+### Remarks
+null

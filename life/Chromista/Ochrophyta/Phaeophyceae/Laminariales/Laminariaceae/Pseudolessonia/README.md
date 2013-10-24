@@ -1,0 +1,17 @@
+Pseudolessonia G.Y.Cho, N.G.Klochkova, T.N.Krupnova & Boo, 2006 GENUS
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+World Register of Marine Species
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Phoma cooperta Pass. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Phoma cooperta Pass.
+
+### Remarks
+null

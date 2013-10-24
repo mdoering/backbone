@@ -1,0 +1,17 @@
+Pseudocercospora elaeagni SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pseudocercospora elaeagni
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Prunulus leaianus Murrill SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Prunulus leaianus Murrill
+
+### Remarks
+null

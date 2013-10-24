@@ -1,0 +1,17 @@
+Sclerotium illosporioides Speg. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Sclerotium illosporioides Speg.
+
+### Remarks
+null

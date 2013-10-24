@@ -1,0 +1,17 @@
+Nodocrinella D. Scheer GENUS
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Arch. Protistenk. 119(1): 176 (1977)
+
+#### Original name
+Nodocrinella D. Scheer
+
+### Remarks
+null

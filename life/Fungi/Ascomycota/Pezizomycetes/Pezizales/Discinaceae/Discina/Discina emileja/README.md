@@ -1,0 +1,17 @@
+Discina emileja Cooke SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Discina emileja Cooke
+
+### Remarks
+null

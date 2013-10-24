@@ -1,0 +1,17 @@
+Melanoleuca peralba Murrill SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Lloydia 5: 141 (1942)
+
+#### Original name
+Melanoleuca peralba Murrill
+
+### Remarks
+null

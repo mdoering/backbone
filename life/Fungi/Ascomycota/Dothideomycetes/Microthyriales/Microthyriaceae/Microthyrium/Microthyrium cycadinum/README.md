@@ -1,0 +1,17 @@
+Microthyrium cycadinum I. Hino & Katum. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Microthyrium cycadinum I. Hino & Katum.
+
+### Remarks
+null

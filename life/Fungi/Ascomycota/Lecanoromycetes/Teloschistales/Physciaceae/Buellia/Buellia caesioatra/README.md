@@ -1,0 +1,17 @@
+Buellia caesioatra J. Steiner SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Buellia caesioatra J. Steiner
+
+### Remarks
+null

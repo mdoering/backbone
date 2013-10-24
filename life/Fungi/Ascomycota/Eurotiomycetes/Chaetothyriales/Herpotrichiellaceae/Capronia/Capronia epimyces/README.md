@@ -1,0 +1,17 @@
+Capronia epimyces M.E. Barr, 1991 SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Mycotaxon 41(2): 428 (1991)
+
+#### Original name
+Capronia epimyces M.E. Barr, 1991
+
+### Remarks
+null

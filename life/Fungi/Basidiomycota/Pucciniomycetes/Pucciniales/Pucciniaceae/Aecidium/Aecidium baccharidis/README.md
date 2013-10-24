@@ -1,0 +1,17 @@
+Aecidium baccharidis Dietel SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Hedwigia 36: 33 (1897)
+
+#### Original name
+Aecidium baccharidis Dietel
+
+### Remarks
+null

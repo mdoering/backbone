@@ -1,0 +1,17 @@
+Uredo exasperata Cooke SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Uredo exasperata Cooke
+
+### Remarks
+null

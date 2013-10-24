@@ -1,0 +1,17 @@
+Laestadia lingue Speg. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Revta Fac. Agron. Vet. Univ. nac. La Plata 6(1): 31 (1910)
+
+#### Original name
+Laestadia lingue Speg.
+
+### Remarks
+null

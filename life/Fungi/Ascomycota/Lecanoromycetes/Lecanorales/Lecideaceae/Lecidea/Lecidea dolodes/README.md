@@ -1,0 +1,17 @@
+Lecidea dolodes Nyl. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lecidea dolodes Nyl.
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Psathyra prunuliformis Murrill SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Psathyra prunuliformis Murrill
+
+### Remarks
+null

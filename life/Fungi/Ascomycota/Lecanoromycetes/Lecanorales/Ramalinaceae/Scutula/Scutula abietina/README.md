@@ -1,0 +1,17 @@
+Scutula abietina Velen. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Monogr. Discom. Bohem. (Prague) 77 (1934)
+
+#### Original name
+Scutula abietina Velen.
+
+### Remarks
+null

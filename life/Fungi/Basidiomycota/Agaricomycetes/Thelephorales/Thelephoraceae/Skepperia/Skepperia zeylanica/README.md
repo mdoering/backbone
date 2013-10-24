@@ -1,0 +1,17 @@
+Skepperia zeylanica Petch, 1917 SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Ann. R. bot. Gdns Peradeniya 6(3): 205 (1917)
+
+#### Original name
+Skepperia zeylanica Petch, 1917
+
+### Remarks
+null

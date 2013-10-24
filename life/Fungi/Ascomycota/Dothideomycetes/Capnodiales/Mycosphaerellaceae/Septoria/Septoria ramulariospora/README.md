@@ -1,0 +1,17 @@
+Septoria ramulariospora Bubák SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Septoria ramulariospora Bubák
+
+### Remarks
+null

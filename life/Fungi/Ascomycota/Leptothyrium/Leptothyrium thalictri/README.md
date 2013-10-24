@@ -1,0 +1,17 @@
+Leptothyrium thalictri Thüm. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Leptothyrium thalictri Thüm.
+
+### Remarks
+null

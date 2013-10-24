@@ -1,0 +1,17 @@
+Octospora maireana (Seaver) Yei Z. Wang SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Monographic Studies of North American Species of Octospora previously ascribed to Lamprospora (Pezizales, Ascomycetes) (Taiwan), Special Publication no. 4, National Museum of Natural Science 41 (1992)
+
+#### Original name
+Lamprospora maireana Seaver
+
+### Remarks
+null

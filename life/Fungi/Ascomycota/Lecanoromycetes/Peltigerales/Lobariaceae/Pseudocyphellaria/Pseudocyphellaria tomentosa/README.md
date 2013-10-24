@@ -1,0 +1,17 @@
+Pseudocyphellaria tomentosa (Sw.) Vain. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Lichen tomentosus Sw.
+
+### Remarks
+null

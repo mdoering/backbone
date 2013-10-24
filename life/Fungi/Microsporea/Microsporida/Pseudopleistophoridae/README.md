@@ -1,0 +1,17 @@
+Pseudopleistophoridae Sprague, 1977 FAMILY
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,17 @@
+Puccinia similis Ellis & Everh. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Bull. Torrey bot. Club 25: 508 (1898)
+
+#### Original name
+Puccinia similis Ellis & Everh.
+
+### Remarks
+null

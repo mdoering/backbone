@@ -1,0 +1,17 @@
+Erysiphe alangii (T. Xu) U. Braun & S. Takam. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Schlechtendalia 4: 16 (2000)
+
+#### Original name
+Uncinula alangii T. Xu
+
+### Remarks
+null

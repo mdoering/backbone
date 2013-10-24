@@ -1,0 +1,17 @@
+Mutinus proximus Berk. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Mutinus proximus Berk.
+
+### Remarks
+null

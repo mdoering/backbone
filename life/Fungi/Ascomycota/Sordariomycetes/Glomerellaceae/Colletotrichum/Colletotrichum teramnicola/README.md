@@ -1,0 +1,17 @@
+Colletotrichum teramnicola Pavgi & U.P. Singh SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mycopath. Mycol. appl. 27: 82 (1965)
+
+#### Original name
+Colletotrichum teramnicola Pavgi & U.P. Singh
+
+### Remarks
+null

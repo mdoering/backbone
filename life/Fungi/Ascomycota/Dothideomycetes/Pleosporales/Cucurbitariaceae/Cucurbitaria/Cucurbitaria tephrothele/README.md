@@ -1,0 +1,17 @@
+Cucurbitaria tephrotele (Berk.) Kuntze SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Nectria tephrothele Berk.
+
+### Remarks
+null

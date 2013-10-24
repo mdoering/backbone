@@ -1,0 +1,17 @@
+Phlegmacium olivaceolilacinum Ricek SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Phlegmacium olivaceolilacinum Ricek
+
+### Remarks
+null

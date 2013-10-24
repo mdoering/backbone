@@ -1,0 +1,17 @@
+Darluca angusta Cooke SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Darluca angusta Cooke
+
+### Remarks
+null

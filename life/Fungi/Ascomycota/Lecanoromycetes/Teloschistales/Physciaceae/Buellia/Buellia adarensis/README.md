@@ -1,0 +1,17 @@
+Buellia adarensis Darb. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Buellia adarensis Darb.
+
+### Remarks
+null

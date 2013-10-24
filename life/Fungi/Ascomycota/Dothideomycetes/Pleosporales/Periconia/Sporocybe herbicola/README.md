@@ -1,0 +1,17 @@
+Sporocybe herbicola Sacc. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Sporocybe herbicola Sacc.
+
+### Remarks
+null

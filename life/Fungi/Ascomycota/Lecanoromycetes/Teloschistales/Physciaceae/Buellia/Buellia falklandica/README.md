@@ -1,0 +1,17 @@
+Buellia falklandica Darb. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Buellia falklandica Darb.
+
+### Remarks
+null

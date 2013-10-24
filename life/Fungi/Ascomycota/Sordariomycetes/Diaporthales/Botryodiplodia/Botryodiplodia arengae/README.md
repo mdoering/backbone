@@ -1,0 +1,17 @@
+Botryodiplodia arengae (Sacc.) Petr. & Syd. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 499 (1927)
+
+#### Original name
+Macrophoma arengae Sacc.
+
+### Remarks
+null

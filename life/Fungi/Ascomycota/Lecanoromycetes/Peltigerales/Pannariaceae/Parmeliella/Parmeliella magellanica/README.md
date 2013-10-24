@@ -1,0 +1,17 @@
+Parmeliella magellanica P. M. Jørg. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Biblthca Lichenol. 88: 246 (2004)
+
+#### Original name
+Parmeliella magellanica P. M. Jørg.
+
+### Remarks
+null

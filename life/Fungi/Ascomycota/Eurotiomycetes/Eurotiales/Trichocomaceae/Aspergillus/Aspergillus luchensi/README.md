@@ -1,0 +1,17 @@
+Aspergillus luchensi Inui SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Aspergillus luchensi Inui
+
+### Remarks
+null

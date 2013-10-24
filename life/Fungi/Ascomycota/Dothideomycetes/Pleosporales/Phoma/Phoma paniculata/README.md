@@ -1,0 +1,17 @@
+Phoma paniculata Ellis & Dearn. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Phoma paniculata Ellis & Dearn.
+
+### Remarks
+null

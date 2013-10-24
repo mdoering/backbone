@@ -1,0 +1,17 @@
+Lentinus rubescens Velen. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Novitates Mycologicae 55 (1939)
+
+#### Original name
+Lentinus rubescens Velen.
+
+### Remarks
+null

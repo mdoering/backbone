@@ -1,0 +1,17 @@
+Calicium acaule Eitner SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Calicium acaule Eitner
+
+### Remarks
+null

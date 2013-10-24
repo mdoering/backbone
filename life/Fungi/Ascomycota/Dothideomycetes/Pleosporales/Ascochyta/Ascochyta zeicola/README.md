@@ -1,0 +1,17 @@
+Ascochyta zeicola Ellis & Everh. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Proc. Acad. nat. Sci. Philad. 47: 433 (1895)
+
+#### Original name
+Ascochyta zeicola Ellis & Everh.
+
+### Remarks
+null

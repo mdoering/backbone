@@ -1,0 +1,17 @@
+Trichomatosphaera cerradensis Pereira-Carv., G.F. Sepúlveda & Dianese SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mycol. Res. 113(2): 268 (2009)
+
+#### Original name
+Trichomatosphaera cerradensis Pereira-Carv., G.F. Sepúlveda & Dianese
+
+### Remarks
+null

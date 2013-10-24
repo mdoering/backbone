@@ -1,0 +1,17 @@
+Clitopilus cinereicolor Murrill SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Clitopilus cinereicolor Murrill
+
+### Remarks
+null

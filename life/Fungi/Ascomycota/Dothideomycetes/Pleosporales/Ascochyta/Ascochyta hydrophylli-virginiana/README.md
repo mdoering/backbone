@@ -1,0 +1,17 @@
+Ascochyta hydrophylli-virginiana H.C. Greene SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Am. Midl. Nat. 41: 720 (1949)
+
+#### Original name
+Ascochyta hydrophylli-virginiana H.C. Greene
+
+### Remarks
+null

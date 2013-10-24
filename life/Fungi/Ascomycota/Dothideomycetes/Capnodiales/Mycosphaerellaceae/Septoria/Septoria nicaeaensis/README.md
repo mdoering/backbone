@@ -1,0 +1,17 @@
+Septoria nicaeaensis Thüm. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Septoria nicaeaensis Thüm.
+
+### Remarks
+null

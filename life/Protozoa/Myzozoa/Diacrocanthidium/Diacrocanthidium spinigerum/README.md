@@ -1,0 +1,17 @@
+Diacrocanthidium spinigerum de Coninck, 1969 ex Lentin & Williams, 1973 SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

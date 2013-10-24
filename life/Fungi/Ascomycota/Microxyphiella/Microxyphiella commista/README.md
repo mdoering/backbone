@@ -1,0 +1,17 @@
+Microxyphiella commista Bat. & Cif. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Quad. Lab. crittogam. , Pavia 31: 98 (1963)
+
+#### Original name
+Microxyphiella commista Bat. & Cif.
+
+### Remarks
+null

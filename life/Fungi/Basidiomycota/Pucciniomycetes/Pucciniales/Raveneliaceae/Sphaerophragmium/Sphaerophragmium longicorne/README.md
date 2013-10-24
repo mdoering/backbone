@@ -1,0 +1,17 @@
+Sphaerophragmium longicorne Eboh SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Trans. Br. mycol. Soc. 80(1): 162 (1983)
+
+#### Original name
+Sphaerophragmium longicorne Eboh
+
+### Remarks
+null

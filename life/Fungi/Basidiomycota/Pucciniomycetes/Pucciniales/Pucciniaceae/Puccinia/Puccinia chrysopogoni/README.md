@@ -1,0 +1,17 @@
+Puccinia chrysopogi Barclay SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Puccinia chrysopogi Barclay
+
+### Remarks
+null

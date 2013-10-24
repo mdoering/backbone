@@ -1,0 +1,17 @@
+Parmulariopsis pulchella Petr., 1954 SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Sydowia 8(1-6): 186 (1954)
+
+#### Original name
+Parmulariopsis pulchella Petr., 1954
+
+### Remarks
+null

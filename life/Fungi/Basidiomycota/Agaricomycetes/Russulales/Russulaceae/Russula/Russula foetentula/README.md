@@ -1,0 +1,17 @@
+Russula foetentula Peck SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Russula foetentula Peck
+
+### Remarks
+null

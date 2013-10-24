@@ -1,0 +1,17 @@
+Cystoderma elegans (Beeli) Thoen, 1969 SPECIES
+=======
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Armillaria elegans Beeli, 1927
+
+### Remarks
+null

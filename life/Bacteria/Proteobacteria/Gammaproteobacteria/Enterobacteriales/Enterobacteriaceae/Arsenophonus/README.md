@@ -1,0 +1,17 @@
+Arsenophonus Gherna, Werren, Weisburg, Cote, Woese, Mandelco & Brenner, 1991 GENUS
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

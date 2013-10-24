@@ -1,0 +1,17 @@
+Botrytis elegantula Cooke SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Botrytis elegantula Cooke
+
+### Remarks
+null

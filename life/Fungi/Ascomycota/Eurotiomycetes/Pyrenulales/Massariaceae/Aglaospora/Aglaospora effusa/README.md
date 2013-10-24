@@ -1,0 +1,17 @@
+Aglaospora effusa Rehm SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Aglaospora effusa Rehm
+
+### Remarks
+null

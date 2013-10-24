@@ -1,0 +1,17 @@
+Otthiella (Sacc.) Sacc. & D. Sacc., 1905 GENUS
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

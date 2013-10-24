@@ -1,0 +1,17 @@
+Pleospora falconeri Henn. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Pleospora falconeri Henn.
+
+### Remarks
+null

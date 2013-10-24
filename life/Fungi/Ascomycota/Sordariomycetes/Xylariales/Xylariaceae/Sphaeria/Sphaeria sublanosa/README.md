@@ -1,0 +1,17 @@
+Sphaeria sublanosa Cooke SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Sphaeria sublanosa Cooke
+
+### Remarks
+null

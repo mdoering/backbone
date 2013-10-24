@@ -1,0 +1,17 @@
+Mycena punicella (Fr.) Sacc. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Syll. fung. (Abellini) 5: 257 (1887)
+
+#### Original name
+Agaricus phoeniceus Vent., 1812
+
+### Remarks
+null

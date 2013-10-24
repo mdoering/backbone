@@ -1,0 +1,17 @@
+Flagelloscypha flagellata (Petch) W.B. Cooke SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Beih. Sydowia 4: 61 (1961)
+
+#### Original name
+Cyphella flagellata Petch
+
+### Remarks
+null

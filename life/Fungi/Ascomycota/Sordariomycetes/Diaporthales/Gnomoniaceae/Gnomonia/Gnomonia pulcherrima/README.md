@@ -1,0 +1,17 @@
+Gnomonia pulcherrima Seaver & Waterston SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Mycologia 32: 402 (1940)
+
+#### Original name
+Gnomonia pulcherrima Seaver & Waterston
+
+### Remarks
+null

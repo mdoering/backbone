@@ -1,0 +1,17 @@
+Hiatula crenulata Fr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Hiatula crenulata Fr.
+
+### Remarks
+null

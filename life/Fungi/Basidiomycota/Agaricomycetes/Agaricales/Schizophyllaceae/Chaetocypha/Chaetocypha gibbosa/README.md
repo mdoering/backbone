@@ -1,0 +1,17 @@
+Chaetocypha gibbosa (Lév.) Kuntze SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Revis. gen. pl. (Leipzig) 2: 847 (1891)
+
+#### Original name
+Cyphella gibbosa Lév.
+
+### Remarks
+null

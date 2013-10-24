@@ -1,0 +1,17 @@
+Diaporthe ligustrina Petr. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+null
+
+#### Original name
+Diaporthe ligustrina Petr.
+
+### Remarks
+null

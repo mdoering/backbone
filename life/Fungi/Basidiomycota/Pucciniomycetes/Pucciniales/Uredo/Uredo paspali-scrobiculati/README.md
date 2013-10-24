@@ -1,0 +1,17 @@
+Uredo paspali-scrobiculati Syd. & P. Syd. SPECIES
+=======
+
+#### Status
+ACCEPTED
+
+#### According to
+Index Fungorum
+
+#### Published in
+Annls mycol. 4: 444 (1906)
+
+#### Original name
+Uredo paspali-scrobiculati Syd. & P. Syd.
+
+### Remarks
+null
