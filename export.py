@@ -1,5 +1,5 @@
 #/usr/bin/env python
-import json, os, urllib2
+import json, os, urllib2, codecs
 
 # 
 # Script to export a dataset as json files into the filesystem
@@ -15,18 +15,23 @@ ROOTDIR = '/Users/mdoering/dev/backbone/kangchenjunga'
 counter=0
 
 def dumpUsage(u, parentDir):
+  global counter
   # also dump common names and other extensions
   try:
-    dirpath = os.path.join( parentDir, u.get("canonicalName","incertae sedis"))
+    canonpath = os.path.join( parentDir, u.get("canonicalName","incertae sedis"))
+    dirpath = canonpath
+    idx=2
+    while os.path.exists(dirpath):
+      dirpath = canonpath + idx
+      idx =+ 1
     os.makedirs(dirpath)
-    
-    fJson = open(os.path.join(dirpath,'data.json'), 'w')
+    fJson = codecs.open(os.path.join(dirpath,'data.json'), 'w','utf-8')
     fJson.write(json.dumps(u, sort_keys=True, indent=2, separators=(',', ': ')))
     fJson.close()
     
     # add defaults to json if None
-    fReadme = open(os.path.join(dirpath,'README.md'), 'w')
-    fReadme.write("%s %s\n=======\nStatus: %s\nAccording to: %s\n" % (u.get("rank","unranked"), u.get("scientificName","Name missing"), u.get("taxonomicStatus","???"), u.get("accordingTo","???")))
+    fReadme = codecs.open(os.path.join(dirpath,'README.md'), 'w','utf-8')
+    fReadme.write(u"%s %s\n=======\nStatus: %s\nAccording to: %s\nPublished in: %s\n" % (u.get("rank","unranked"), u.get("scientificName","Name missing"), u.get("taxonomicStatus","???"), u.get("accordingTo","???"), u.get("publishedIn", "???")))
     fReadme.close()
   except Exception as e:
     print "  %s" % e
@@ -48,4 +53,4 @@ def iterUsages(url, currDir):
 
 
 # iterate over root usages
-iterUsages('/species/root/%s' %(DATASET_TEST), ROOTDIR)
+iterUsages('/species/root/%s' %(DATASET_NUB), ROOTDIR)
