@@ -1,5 +1,4 @@
-Physosporella necans (Rehm) Höhn. SPECIES
-=======
+# Physosporella necans (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

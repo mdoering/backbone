@@ -1,5 +1,4 @@
-Volvariella palmicola (Beeli) Heinem. SPECIES
-=======
+# Volvariella palmicola (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

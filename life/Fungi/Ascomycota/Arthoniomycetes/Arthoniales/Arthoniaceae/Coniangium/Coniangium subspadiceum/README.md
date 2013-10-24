@@ -1,5 +1,4 @@
-Coniangium subspadiceum (Nyl.) Arnold SPECIES
-=======
+# Coniangium subspadiceum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystigma variipila Penz. & Sacc., 1930 SPECIES
-=======
+# Polystigma variipila Penz. & Sacc., 1930 SPECIES
 
 #### Status
 ACCEPTED

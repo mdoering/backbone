@@ -1,8 +1,7 @@
-Spondylocladium Martius ex Saccardo, 1880 GENUS
-=======
+# Stachylidium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

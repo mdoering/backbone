@@ -1,5 +1,4 @@
-Glaphyrocysta intricata (Eaton, 1971) Stover & Evitt SPECIES
-=======
+# Glaphyrocysta intricata (Eaton, 1971) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

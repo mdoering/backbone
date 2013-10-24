@@ -1,8 +1,7 @@
-Parmelia muehlenbergii Spreng. SPECIES
-=======
+# Parmelia muhlenbergii Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia muehlenbergii Spreng.
+Parmelia muhlenbergii Spreng.
 
 ### Remarks
 null

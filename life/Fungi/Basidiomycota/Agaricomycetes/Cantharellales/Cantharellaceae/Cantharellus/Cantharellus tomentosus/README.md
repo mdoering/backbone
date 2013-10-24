@@ -1,5 +1,4 @@
-Cantharellus tomentosus Eyssart. & Buyck, 2000 SPECIES
-=======
+# Cantharellus tomentosus Eyssart. & Buyck, 2000 SPECIES
 
 #### Status
 ACCEPTED

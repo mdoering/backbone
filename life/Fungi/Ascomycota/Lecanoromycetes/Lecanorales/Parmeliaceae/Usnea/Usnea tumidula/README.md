@@ -1,5 +1,4 @@
-Usnea tumidula Taylor SPECIES
-=======
+# Usnea tumidula Taylor SPECIES
 
 #### Status
 ACCEPTED

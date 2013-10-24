@@ -1,5 +1,4 @@
-Dendryphion lepidagathidis Sawada SPECIES
-=======
+# Dendryphion lepidagathidis Sawada SPECIES
 
 #### Status
 ACCEPTED

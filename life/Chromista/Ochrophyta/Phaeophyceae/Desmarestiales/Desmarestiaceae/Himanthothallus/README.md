@@ -1,5 +1,4 @@
-Himanthothallus GENUS
-=======
+# Himanthothallus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria velenovskyi Pilát SPECIES
-=======
+# Ramaria velenovskyi Pilát SPECIES
 
 #### Status
 ACCEPTED

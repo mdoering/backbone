@@ -1,5 +1,4 @@
-Eupenicillium tropicum Tuthill & Frisvad SPECIES
-=======
+# Eupenicillium tropicum Tuthill & Frisvad SPECIES
 
 #### Status
 ACCEPTED

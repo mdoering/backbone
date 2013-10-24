@@ -1,5 +1,4 @@
-Russula paraemetica Reumaux SPECIES
-=======
+# Russula paraemetica Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea stenotera f. stenotera FORM
-=======
+# Lecidea stenotera (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea stenotera f. stenotera
+Lecidea dovrensis var. stenotera Nyl.
 
 ### Remarks
 null

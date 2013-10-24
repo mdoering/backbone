@@ -1,5 +1,4 @@
-Stictina hesseana (Meyen) Kremp. SPECIES
-=======
+# Stictina hesseana (Meyen) Kremp. SPECIES
 
 #### Status
 ACCEPTED

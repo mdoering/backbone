@@ -1,5 +1,4 @@
-Dictyostelium rhizopodium Raper & Fennell, 1967 SPECIES
-=======
+# Dictyostelium rhizopodium Raper & Fennell, 1967 SPECIES
 
 #### Status
 ACCEPTED

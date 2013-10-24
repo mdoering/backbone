@@ -1,14 +1,13 @@
-Dicaeoma schroeteri (Pass.) Kuntze, 1898 SPECIES
-=======
+# Puccinia schroeteri Pass., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Nuovo Giorn. Bot. Ital. 7: 255 (1875)
 
 #### Original name
 Puccinia schroeteri Pass., 1875

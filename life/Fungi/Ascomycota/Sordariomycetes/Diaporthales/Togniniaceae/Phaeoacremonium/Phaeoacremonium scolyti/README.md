@@ -1,5 +1,4 @@
-Phaeoacremonium scolyti L. Mostert, Summerb. & Crous SPECIES
-=======
+# Phaeoacremonium scolyti L. Mostert, Summerb. & Crous SPECIES
 
 #### Status
 ACCEPTED

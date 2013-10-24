@@ -1,5 +1,4 @@
-Biatorella truncata A. Massal. SPECIES
-=======
+# Biatorella truncata A. Massal. SPECIES
 
 #### Status
 ACCEPTED

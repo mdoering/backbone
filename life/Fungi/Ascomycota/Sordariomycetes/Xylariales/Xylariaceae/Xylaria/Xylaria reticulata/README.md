@@ -1,5 +1,4 @@
-Xylaria reticulata Lloyd SPECIES
-=======
+# Xylaria reticulata Lloyd SPECIES
 
 #### Status
 ACCEPTED

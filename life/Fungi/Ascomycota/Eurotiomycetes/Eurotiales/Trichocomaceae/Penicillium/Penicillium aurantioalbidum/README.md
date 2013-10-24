@@ -1,5 +1,4 @@
-Penicillium aurantioalbidum Biourge SPECIES
-=======
+# Penicillium aurantioalbidum Biourge SPECIES
 
 #### Status
 ACCEPTED

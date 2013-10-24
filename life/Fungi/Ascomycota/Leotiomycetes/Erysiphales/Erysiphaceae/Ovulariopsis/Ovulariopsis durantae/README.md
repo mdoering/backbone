@@ -1,5 +1,4 @@
-Ovulariopsis durantae Liberato & R.W. Barreto SPECIES
-=======
+# Ovulariopsis durantae Liberato & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

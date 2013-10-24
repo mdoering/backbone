@@ -1,5 +1,4 @@
-Jaoniella planctonica Skvortsov SPECIES
-=======
+# Jaoniella planctonica Skvortsov SPECIES
 
 #### Status
 ACCEPTED

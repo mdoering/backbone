@@ -1,5 +1,4 @@
-Dichostereum Pilát, 1926 GENUS
-=======
+# Dichostereum Pilát, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella polifoliae (Ellis & Everh.) Bubák SPECIES
-=======
+# Mycosphaerella polifoliae (Ellis & Everh.) Bubák SPECIES
 
 #### Status
 ACCEPTED

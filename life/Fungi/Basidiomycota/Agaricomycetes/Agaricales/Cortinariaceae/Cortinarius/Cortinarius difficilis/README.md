@@ -1,5 +1,4 @@
-Cortinarius difficilis Speg. SPECIES
-=======
+# Cortinarius difficilis Speg. SPECIES
 
 #### Status
 ACCEPTED

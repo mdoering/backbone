@@ -1,5 +1,4 @@
-Amanita brunneiphylla O.K. Mill. SPECIES
-=======
+# Amanita brunneiphylla O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

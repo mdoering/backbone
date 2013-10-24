@@ -1,5 +1,4 @@
-Puccinia opuntiae (Magnus) Arthur & Holw. SPECIES
-=======
+# Puccinia opuntiae (Magnus) Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia patriniae Henn. SPECIES
-=======
+# Puccinia patriniae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sporisorium erythraeense (Syd. & P. Syd.) Vánky, 1991 SPECIES
-=======
+# Sphacelotheca erythraeensis (Syd. & P. Syd.) G.P. Clinton, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 40: 163 (1991)
+N. Amer. Fl. (New York) 7: 996 (1939)
 
 #### Original name
 Ustilago erythraeensis Syd. & P. Syd., 1911

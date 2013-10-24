@@ -1,5 +1,4 @@
-Solenopsora chihuahuana B. D. Ryan & Timdal SPECIES
-=======
+# Solenopsora chihuahuana B. D. Ryan & Timdal SPECIES
 
 #### Status
 ACCEPTED

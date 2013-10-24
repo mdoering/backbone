@@ -1,5 +1,4 @@
-Rhizopodomyces mexicanus R.K. Benj. SPECIES
-=======
+# Rhizopodomyces mexicanus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

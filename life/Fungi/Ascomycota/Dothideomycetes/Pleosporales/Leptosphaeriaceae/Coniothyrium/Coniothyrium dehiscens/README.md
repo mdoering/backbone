@@ -1,5 +1,4 @@
-Coniothyrium dehiscens Sacc. & P. Syd. SPECIES
-=======
+# Coniothyrium dehiscens Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella meleagris Ellis SPECIES
-=======
+# Lachnella meleagris Ellis SPECIES
 
 #### Status
 ACCEPTED

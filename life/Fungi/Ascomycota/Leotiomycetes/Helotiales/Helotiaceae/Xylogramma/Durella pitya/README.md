@@ -1,5 +1,4 @@
-Durella pitya Sacc. SPECIES
-=======
+# Durella pitya Sacc. SPECIES
 
 #### Status
 ACCEPTED

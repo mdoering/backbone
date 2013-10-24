@@ -1,5 +1,4 @@
-Pseudovalsa shearii Petr. SPECIES
-=======
+# Pseudovalsa shearii Petr. SPECIES
 
 #### Status
 ACCEPTED

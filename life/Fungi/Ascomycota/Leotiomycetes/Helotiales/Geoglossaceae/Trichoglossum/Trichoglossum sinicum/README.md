@@ -1,5 +1,4 @@
-Trichoglossum sinicum F.L. Tai SPECIES
-=======
+# Trichoglossum sinicum F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

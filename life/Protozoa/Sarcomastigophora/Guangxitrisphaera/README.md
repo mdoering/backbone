@@ -1,5 +1,4 @@
-Guangxitrisphaera Wang in Wan & Kuan, 1993 GENUS
-=======
+# Guangxitrisphaera Wang in Wan & Kuan, 1993 GENUS
 
 #### Status
 ACCEPTED

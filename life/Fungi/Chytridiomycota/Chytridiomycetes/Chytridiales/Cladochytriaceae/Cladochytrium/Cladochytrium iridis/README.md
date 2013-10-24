@@ -1,5 +1,4 @@
-Cladochytrium iridis de Bary SPECIES
-=======
+# Cladochytrium iridis de Bary SPECIES
 
 #### Status
 ACCEPTED

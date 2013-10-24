@@ -1,5 +1,4 @@
-Trichothelium album Lücking SPECIES
-=======
+# Trichothelium album Lücking SPECIES
 
 #### Status
 ACCEPTED

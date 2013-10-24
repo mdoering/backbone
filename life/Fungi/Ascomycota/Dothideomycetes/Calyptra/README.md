@@ -1,5 +1,4 @@
-Calyptra Theissen & Sydow, 1918 GENUS
-=======
+# Calyptra Theissen & Sydow, 1918 GENUS
 
 #### Status
 ACCEPTED

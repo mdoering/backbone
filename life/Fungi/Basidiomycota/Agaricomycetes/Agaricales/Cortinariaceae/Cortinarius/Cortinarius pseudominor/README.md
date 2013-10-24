@@ -1,5 +1,4 @@
-Cortinarius pseudominor Rob. Henry ex Reumaux SPECIES
-=======
+# Cortinarius pseudominor Rob. Henry ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

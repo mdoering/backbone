@@ -1,14 +1,13 @@
-Amphicypellus elegans Ingold, 1944 SPECIES
-=======
+# Chytriomyces elegans (Ingold) Dogma, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 27: 96 (1944)
+Kalikasan 5(1): 136 (1976)
 
 #### Original name
 Amphicypellus elegans Ingold, 1944

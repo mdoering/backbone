@@ -1,5 +1,4 @@
-Agaricus lepidopus Fr. SPECIES
-=======
+# Agaricus lepidopus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morenoella reticulata Starbäck SPECIES
-=======
+# Morenoella reticulata Starbäck SPECIES
 
 #### Status
 ACCEPTED

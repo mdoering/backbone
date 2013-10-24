@@ -1,5 +1,4 @@
-Meliola banosensis var. banosensis VARIETY
-=======
+# Meliola banosensis Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola banosensis var. banosensis
+Meliola banosensis Syd.
 
 ### Remarks
 null

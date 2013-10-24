@@ -1,5 +1,4 @@
-Stilbum resinae Sacc. & Bres. SPECIES
-=======
+# Stilbum resinae Sacc. & Bres. SPECIES
 
 #### Status
 ACCEPTED

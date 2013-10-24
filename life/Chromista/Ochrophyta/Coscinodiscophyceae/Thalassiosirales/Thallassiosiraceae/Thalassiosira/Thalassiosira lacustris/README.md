@@ -1,5 +1,4 @@
-Thalassiosira lacustris (Grunov) Hasle SPECIES
-=======
+# Thalassiosira lacustris (Grunov) Hasle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurocystis gloeocystidiata Rajchenb. & Robledo, 2005 SPECIES
-=======
+# Aleurocystis gloeocystidiata Rajchenb. & Robledo, 2005 SPECIES
 
 #### Status
 ACCEPTED

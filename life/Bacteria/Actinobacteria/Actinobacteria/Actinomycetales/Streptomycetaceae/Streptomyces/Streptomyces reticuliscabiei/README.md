@@ -1,5 +1,4 @@
-Streptomyces reticuliscabiei Bouchek-Mechiche et al., 2000 SPECIES
-=======
+# Streptomyces reticuliscabiei Bouchek-Mechiche et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

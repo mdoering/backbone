@@ -1,5 +1,4 @@
-Mycomicrothelia palmarum Chaudhury & P.N. Rao SPECIES
-=======
+# Mycomicrothelia palmarum Chaudhury & P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

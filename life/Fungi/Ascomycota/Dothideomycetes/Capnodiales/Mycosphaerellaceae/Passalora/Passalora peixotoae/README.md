@@ -1,5 +1,4 @@
-Passalora peixotoae (Chupp & Viégas) U. Braun & Crous SPECIES
-=======
+# Passalora peixotoae (Chupp & Viégas) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

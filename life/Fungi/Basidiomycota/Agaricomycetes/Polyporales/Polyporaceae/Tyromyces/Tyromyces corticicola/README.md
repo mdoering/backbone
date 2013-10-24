@@ -1,17 +1,16 @@
-Tyromyces fagraeae Corner, 1989 SPECIES
-=======
+# Tyromyces corticicola Corner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 170 (1989)
+Beih. Nova Hedwigia 96: 166 (1989)
 
 #### Original name
-Tyromyces fagraeae Corner, 1989
+Tyromyces corticicola Corner, 1989
 
 ### Remarks
 null

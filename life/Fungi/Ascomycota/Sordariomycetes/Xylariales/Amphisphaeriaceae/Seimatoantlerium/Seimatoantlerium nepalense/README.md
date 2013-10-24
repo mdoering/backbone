@@ -1,5 +1,4 @@
-Seimatoantlerium nepalense Bashyal, J.Yi Li, Strobel, W.M. Hess & Sidhu, 1999 SPECIES
-=======
+# Seimatoantlerium nepalense Bashyal, J.Yi Li, Strobel, W.M. Hess & Sidhu, 1999 SPECIES
 
 #### Status
 ACCEPTED

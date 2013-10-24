@@ -1,5 +1,4 @@
-Phomopsis landeghemiae (Sacc.) Höhn. SPECIES
-=======
+# Phomopsis landeghemiae (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

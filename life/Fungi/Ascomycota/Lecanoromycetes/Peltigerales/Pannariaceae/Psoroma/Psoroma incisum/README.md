@@ -1,5 +1,4 @@
-Psoroma incisum Vain. SPECIES
-=======
+# Psoroma incisum Vain. SPECIES
 
 #### Status
 ACCEPTED

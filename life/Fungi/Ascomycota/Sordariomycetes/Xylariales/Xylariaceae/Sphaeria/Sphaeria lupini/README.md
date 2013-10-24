@@ -1,5 +1,4 @@
-Sphaeria lupini Cooke & Harkn. SPECIES
-=======
+# Sphaeria lupini Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

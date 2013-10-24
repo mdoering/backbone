@@ -1,5 +1,4 @@
-Phacus elegans Pochmann, 1942 SPECIES
-=======
+# Phacus elegans Pochmann, 1942 SPECIES
 
 #### Status
 ACCEPTED

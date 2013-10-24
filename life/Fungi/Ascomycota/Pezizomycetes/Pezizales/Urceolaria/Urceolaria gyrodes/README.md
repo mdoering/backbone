@@ -1,5 +1,4 @@
-Urceolaria gyrodes (Nyl.) Motyka SPECIES
-=======
+# Urceolaria gyrodes (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guizhounema X. Mu GENUS
-=======
+# Guizhounema X. Mu GENUS
 
 #### Status
 ACCEPTED

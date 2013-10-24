@@ -1,5 +1,4 @@
-Dictyocoela anon. GENUS
-=======
+# Dictyocoela anon. GENUS
 
 #### Status
 ACCEPTED

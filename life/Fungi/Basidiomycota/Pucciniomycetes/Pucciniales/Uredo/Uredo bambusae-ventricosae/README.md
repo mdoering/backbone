@@ -1,5 +1,4 @@
-Uredo bambusae-ventricosae J.M. Yen SPECIES
-=======
+# Uredo bambusae-ventricosae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

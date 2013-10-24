@@ -1,5 +1,4 @@
-Plagiostoma rehmii (Sacc.) Arx SPECIES
-=======
+# Plagiostoma rehmii (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

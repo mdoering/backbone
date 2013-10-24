@@ -1,5 +1,4 @@
-Gymnopus badiialbus Murrill SPECIES
-=======
+# Gymnopus badiialbus Murrill SPECIES
 
 #### Status
 ACCEPTED

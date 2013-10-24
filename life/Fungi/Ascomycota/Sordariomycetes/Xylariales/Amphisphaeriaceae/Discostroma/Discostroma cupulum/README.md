@@ -1,5 +1,4 @@
-Discostroma cupulum (Ellis) M.E. Barr SPECIES
-=======
+# Discostroma cupulum (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

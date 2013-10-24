@@ -1,5 +1,4 @@
-Cladochytrium major (J. Schröt.) A. Fisch. SPECIES
-=======
+# Cladochytrium major (J. Schröt.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

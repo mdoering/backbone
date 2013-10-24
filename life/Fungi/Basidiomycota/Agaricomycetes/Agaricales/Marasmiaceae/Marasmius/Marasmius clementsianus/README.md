@@ -1,5 +1,4 @@
-Marasmius clementsianus Sacc. & P. Syd. SPECIES
-=======
+# Marasmius clementsianus Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

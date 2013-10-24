@@ -1,5 +1,4 @@
-Boveria Stevens, 1901 GENUS
-=======
+# Boveria Stevens, 1901 GENUS
 
 #### Status
 ACCEPTED

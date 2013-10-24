@@ -1,5 +1,4 @@
-Ellisembia palauensis McKenzie, 1995 SPECIES
-=======
+# Ellisembia palauensis McKenzie, 1995 SPECIES
 
 #### Status
 ACCEPTED

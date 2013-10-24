@@ -1,5 +1,4 @@
-Inocybe fulvidula Velen. SPECIES
-=======
+# Inocybe fulvidula Velen. SPECIES
 
 #### Status
 ACCEPTED

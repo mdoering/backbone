@@ -1,5 +1,4 @@
-Claviceps pusilla Ces. SPECIES
-=======
+# Claviceps pusilla Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lipmanella xiphephorum Joergensen, 1899 SPECIES
-=======
+# Lipmanella xiphephorum Joergensen, 1899 SPECIES
 
 #### Status
 ACCEPTED

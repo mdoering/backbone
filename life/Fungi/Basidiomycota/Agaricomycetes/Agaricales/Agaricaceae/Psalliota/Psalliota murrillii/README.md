@@ -1,5 +1,4 @@
-Psalliota murrillii Copel. SPECIES
-=======
+# Psalliota murrillii Copel. SPECIES
 
 #### Status
 ACCEPTED

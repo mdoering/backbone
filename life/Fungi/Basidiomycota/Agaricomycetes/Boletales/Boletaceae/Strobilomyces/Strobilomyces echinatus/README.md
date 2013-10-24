@@ -1,5 +1,4 @@
-Strobilomyces echinatus Beeli SPECIES
-=======
+# Strobilomyces echinatus Beeli SPECIES
 
 #### Status
 ACCEPTED

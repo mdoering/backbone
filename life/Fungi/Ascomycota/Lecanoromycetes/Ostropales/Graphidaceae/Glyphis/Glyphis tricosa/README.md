@@ -1,5 +1,4 @@
-Glyphis tricosa (Ach.) Ach. SPECIES
-=======
+# Glyphis tricosa (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

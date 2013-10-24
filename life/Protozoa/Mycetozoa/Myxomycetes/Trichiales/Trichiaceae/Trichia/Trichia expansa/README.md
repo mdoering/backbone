@@ -1,5 +1,4 @@
-Trichia expansa Mart. SPECIES
-=======
+# Trichia expansa Mart. SPECIES
 
 #### Status
 ACCEPTED

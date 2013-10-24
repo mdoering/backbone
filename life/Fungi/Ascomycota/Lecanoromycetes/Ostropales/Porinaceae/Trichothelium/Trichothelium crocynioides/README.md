@@ -1,5 +1,4 @@
-Trichothelium crocynioides R. C. Harris SPECIES
-=======
+# Trichothelium crocynioides R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

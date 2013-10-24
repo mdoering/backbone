@@ -1,5 +1,4 @@
-Psilocybe atomatoides Thom & Lathrop SPECIES
-=======
+# Psilocybe atomatoides Thom & Lathrop SPECIES
 
 #### Status
 ACCEPTED

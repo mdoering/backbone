@@ -1,5 +1,4 @@
-Psora tabacina var. tabacina VARIETY
-=======
+# Psora tabacina (Ramond) DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psora tabacina var. tabacina
+Lichen tabacinus Ramond
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Membrosphaera spongiosa Eiserhardt, 1991 SPECIES
-=======
+# Membrosphaera spongiosa Eiserhardt, 1991 SPECIES
 
 #### Status
 ACCEPTED

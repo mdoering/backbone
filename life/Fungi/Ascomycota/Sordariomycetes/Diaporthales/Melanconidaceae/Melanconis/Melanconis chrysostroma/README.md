@@ -1,14 +1,13 @@
-Valsa chrysostroma Fr., 1849 SPECIES
-=======
+# Melanconis chrysostroma (Fr.) Tul. & C. Tul., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 412 (1849)
+Select. fung. carpol. (Paris) 2: 125 (1863)
 
 #### Original name
 Valsa chrysostroma Fr., 1849

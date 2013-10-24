@@ -1,5 +1,4 @@
-Laboulbenia afrogyri Balazuc SPECIES
-=======
+# Laboulbenia afrogyri Balazuc SPECIES
 
 #### Status
 ACCEPTED

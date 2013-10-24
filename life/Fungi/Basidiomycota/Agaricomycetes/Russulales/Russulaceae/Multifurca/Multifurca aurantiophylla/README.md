@@ -1,14 +1,13 @@
-Russula aurantiophylla Buyck & Ducousso, 2004 SPECIES
-=======
+# Multifurca aurantiophylla (Buyck & Ducousso) Buyck & V. Hofstetter, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Buyck, Cryptog. Mycol. 25(2): 127 (2004)
+Fungal Diversity 28: 37 (2008)
 
 #### Original name
 Russula aurantiophylla Buyck & Ducousso, 2004

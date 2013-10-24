@@ -1,17 +1,16 @@
-Dermatina swinscowii Riedl SPECIES
-=======
+# Arthothelium lirellans (Almq.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 17: 104 (1964)
+Lichenologist 11(1): 28 (1979)
 
 #### Original name
-Dermatina swinscowii Riedl
+Arthonia lirellans Almq.
 
 ### Remarks
 null

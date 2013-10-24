@@ -1,5 +1,4 @@
-Triceratium groningense f. quadratum A.M. Gombos, Jr. & P.F. Ciesielski FORM
-=======
+# Triceratium groningense SPECIES
 
 #### Status
 ACCEPTED

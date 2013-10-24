@@ -1,5 +1,4 @@
-Aecidium endophylloides Liou SPECIES
-=======
+# Aecidium endophylloides Liou SPECIES
 
 #### Status
 ACCEPTED

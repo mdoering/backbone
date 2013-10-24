@@ -1,5 +1,4 @@
-Penicillium biourgeianum K.M. Zalessky SPECIES
-=======
+# Penicillium biourgeianum K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

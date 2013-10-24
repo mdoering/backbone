@@ -1,5 +1,4 @@
-Placidium ruiz-lealii (Räsänen) Breuss SPECIES
-=======
+# Placidium ruiz-lealii (Räsänen) Breuss SPECIES
 
 #### Status
 ACCEPTED

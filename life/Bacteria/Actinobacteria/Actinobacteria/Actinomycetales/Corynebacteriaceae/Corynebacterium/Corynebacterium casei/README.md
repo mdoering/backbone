@@ -1,5 +1,4 @@
-Corynebacterium casei Brennan et al., 2001 SPECIES
-=======
+# Corynebacterium casei Brennan et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

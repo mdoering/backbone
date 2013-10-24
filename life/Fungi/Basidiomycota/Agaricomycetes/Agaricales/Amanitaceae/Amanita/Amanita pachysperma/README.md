@@ -1,5 +1,4 @@
-Amanita pachysperma G.F. Atk. SPECIES
-=======
+# Amanita pachysperma G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

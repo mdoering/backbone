@@ -1,5 +1,4 @@
-Agaricus ovum Batsch SPECIES
-=======
+# Agaricus ovum Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis umbellina Faure-Fremiet, ? SPECIES
-=======
+# Epistylis umbellina Faure-Fremiet, ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria media Sacc. & Brunaud SPECIES
-=======
+# Septoria media Sacc. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geoglossum fumosum (Peck) Lloyd SPECIES
-=======
+# Geoglossum fumosum (Peck) Lloyd SPECIES
 
 #### Status
 ACCEPTED

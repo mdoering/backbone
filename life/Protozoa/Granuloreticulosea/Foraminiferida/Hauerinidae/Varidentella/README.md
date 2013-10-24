@@ -1,5 +1,4 @@
-Varidentella Lucskowska, 1972 GENUS
-=======
+# Varidentella Lucskowska, 1972 GENUS
 
 #### Status
 ACCEPTED

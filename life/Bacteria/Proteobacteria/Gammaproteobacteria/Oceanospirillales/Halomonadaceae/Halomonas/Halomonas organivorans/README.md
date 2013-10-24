@@ -1,5 +1,4 @@
-Halomonas organivorans García et al., 2004 SPECIES
-=======
+# Halomonas organivorans García et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stauronema pingue Nag Raj, 1993 SPECIES
-=======
+# Stauronema pingue Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

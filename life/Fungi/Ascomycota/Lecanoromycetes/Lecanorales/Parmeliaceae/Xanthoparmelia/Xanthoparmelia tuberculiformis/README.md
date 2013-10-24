@@ -1,5 +1,4 @@
-Xanthoparmelia tuberculiformis Kurok. SPECIES
-=======
+# Xanthoparmelia tuberculiformis Kurok. SPECIES
 
 #### Status
 ACCEPTED

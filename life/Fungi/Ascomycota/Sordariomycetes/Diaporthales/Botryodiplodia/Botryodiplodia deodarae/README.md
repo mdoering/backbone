@@ -1,5 +1,4 @@
-Botryodiplodia deodarae Petr. SPECIES
-=======
+# Botryodiplodia deodarae Petr. SPECIES
 
 #### Status
 ACCEPTED

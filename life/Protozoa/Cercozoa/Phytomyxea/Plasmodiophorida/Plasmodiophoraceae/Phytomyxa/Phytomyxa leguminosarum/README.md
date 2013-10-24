@@ -1,5 +1,4 @@
-Phytomyxa leguminosarum (A.B. Frank) J. Schröt. SPECIES
-=======
+# Phytomyxa leguminosarum (A.B. Frank) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

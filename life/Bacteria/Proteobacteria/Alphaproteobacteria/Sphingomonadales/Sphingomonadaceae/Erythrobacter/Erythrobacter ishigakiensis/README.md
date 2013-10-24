@@ -1,5 +1,4 @@
-Erythrobacter ishigakiensis Tanaka, Tanaka, Matsumoto, Kodera & Matsunaga, 2007 SPECIES
-=======
+# Erythrobacter ishigakiensis Tanaka, Tanaka, Matsumoto, Kodera & Matsunaga, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia leucophylla Ahti & Krog SPECIES
-=======
+# Cladonia leucophylla Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

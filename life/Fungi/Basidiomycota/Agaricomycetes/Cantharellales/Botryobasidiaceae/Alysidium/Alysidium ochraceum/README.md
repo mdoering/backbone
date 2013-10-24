@@ -1,5 +1,4 @@
-Alysidium ochraceum (Corda) Kuntze SPECIES
-=======
+# Alysidium ochraceum (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

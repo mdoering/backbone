@@ -1,5 +1,4 @@
-Marinobacter maritimus Shivaji et al., 2005 SPECIES
-=======
+# Marinobacter maritimus Shivaji et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

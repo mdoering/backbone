@@ -1,5 +1,4 @@
-Lophodermium sieglingiae Hilitzer, 1929 SPECIES
-=======
+# Lophodermium sieglingiae Hilitzer, 1929 SPECIES
 
 #### Status
 ACCEPTED

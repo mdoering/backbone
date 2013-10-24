@@ -1,5 +1,4 @@
-Lactobacillus algidus Kato et al., 2000 SPECIES
-=======
+# Lactobacillus algidus Kato et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

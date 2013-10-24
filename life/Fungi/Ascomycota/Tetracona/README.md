@@ -1,5 +1,4 @@
-Tetracona K.B. Korde in A.A. Istchenko, 1986 GENUS
-=======
+# Tetracona K.B. Korde in A.A. Istchenko, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium lens Speg. SPECIES
-=======
+# Helotium lens Speg. SPECIES
 
 #### Status
 ACCEPTED

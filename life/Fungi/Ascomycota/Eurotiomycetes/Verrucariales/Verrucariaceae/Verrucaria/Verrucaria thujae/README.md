@@ -1,5 +1,4 @@
-Verrucaria thujae Lendemer & Breuss SPECIES
-=======
+# Verrucaria thujae Lendemer & Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudogulbenkiania GENUS
-=======
+# Pseudogulbenkiania GENUS
 
 #### Status
 ACCEPTED

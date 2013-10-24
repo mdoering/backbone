@@ -1,5 +1,4 @@
-Amphisphaeria foeda De Not. SPECIES
-=======
+# Amphisphaeria foeda De Not. SPECIES
 
 #### Status
 ACCEPTED

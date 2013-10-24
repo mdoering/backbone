@@ -1,14 +1,13 @@
-Acia licentii Pilát, 1940 SPECIES
-=======
+# Radulodon licentii (Pilát) Ryvarden, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 38(1): 66 (1940)
+Ceská Mykol. 30(1): 40 (1976)
 
 #### Original name
 Acia licentii Pilát, 1940

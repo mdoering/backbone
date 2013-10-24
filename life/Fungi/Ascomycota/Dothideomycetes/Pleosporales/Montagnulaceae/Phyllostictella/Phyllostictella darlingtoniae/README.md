@@ -1,5 +1,4 @@
-Phyllostictella darlingtoniae (Henn.) Tassi SPECIES
-=======
+# Phyllostictella darlingtoniae (Henn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

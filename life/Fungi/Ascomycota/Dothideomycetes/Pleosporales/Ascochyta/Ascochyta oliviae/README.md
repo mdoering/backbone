@@ -1,5 +1,4 @@
-Ascochyta oliviae Magnaghi SPECIES
-=======
+# Ascochyta oliviae Magnaghi SPECIES
 
 #### Status
 ACCEPTED

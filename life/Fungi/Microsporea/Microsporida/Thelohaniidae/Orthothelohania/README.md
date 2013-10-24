@@ -1,5 +1,4 @@
-Orthothelohania Codreanu & Codreanu-Balcescu GENUS
-=======
+# Orthothelohania Codreanu & Codreanu-Balcescu GENUS
 
 #### Status
 ACCEPTED

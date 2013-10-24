@@ -1,5 +1,4 @@
-Cantharellus xanthoscyphus R.H. Petersen, 1992 SPECIES
-=======
+# Cantharellus xanthoscyphus R.H. Petersen, 1992 SPECIES
 
 #### Status
 ACCEPTED

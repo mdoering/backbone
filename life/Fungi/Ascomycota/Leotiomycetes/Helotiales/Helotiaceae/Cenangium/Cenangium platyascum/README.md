@@ -1,5 +1,4 @@
-Cenangium platyascum Peck SPECIES
-=======
+# Cenangium platyascum Peck SPECIES
 
 #### Status
 ACCEPTED

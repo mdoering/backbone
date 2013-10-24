@@ -1,5 +1,4 @@
-Rutilaria delicatula R. Ross SPECIES
-=======
+# Rutilaria delicatula R. Ross SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophidium subgregarium C. Massal. SPECIES
-=======
+# Lophidium subgregarium C. Massal. SPECIES
 
 #### Status
 ACCEPTED

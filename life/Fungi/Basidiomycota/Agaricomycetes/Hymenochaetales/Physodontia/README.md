@@ -1,5 +1,4 @@
-Physodontia Ryvarden & H. Solheim GENUS
-=======
+# Physodontia Ryvarden & H. Solheim GENUS
 
 #### Status
 ACCEPTED

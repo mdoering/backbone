@@ -1,5 +1,4 @@
-Fuligo levis Pers. SPECIES
-=======
+# Fuligo levis Pers. SPECIES
 
 #### Status
 ACCEPTED

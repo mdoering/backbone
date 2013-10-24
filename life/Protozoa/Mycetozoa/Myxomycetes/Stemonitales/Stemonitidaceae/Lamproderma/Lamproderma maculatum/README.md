@@ -1,17 +1,16 @@
-Lamproderma maculatum var. maculatum Kowalski VARIETY
-=======
+# Lamproderma maculatum Kowalski, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 62(4): 654 (1970)
 
 #### Original name
-Lamproderma maculatum var. maculatum Kowalski
+Lamproderma maculatum Kowalski, 1970
 
 ### Remarks
 null

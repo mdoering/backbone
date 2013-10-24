@@ -1,5 +1,4 @@
-Stemphylium capsici Yong Wang bis & X.G. Zhang SPECIES
-=======
+# Stemphylium capsici Yong Wang bis & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heptameria littoralis (Sacc.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria littoralis Sacc., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 1): 38 (1877)
 
 #### Original name
-null
+Leptosphaeria littoralis Sacc., 1877
 
 ### Remarks
 null

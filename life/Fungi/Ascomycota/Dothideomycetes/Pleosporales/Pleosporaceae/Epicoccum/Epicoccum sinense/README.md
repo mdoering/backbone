@@ -1,5 +1,4 @@
-Epicoccum sinense Petr. SPECIES
-=======
+# Epicoccum sinense Petr. SPECIES
 
 #### Status
 ACCEPTED

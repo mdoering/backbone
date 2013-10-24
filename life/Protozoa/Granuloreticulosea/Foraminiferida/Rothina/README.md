@@ -1,5 +1,4 @@
-Rothina Hanzlikova, 1966 GENUS
-=======
+# Rothina Hanzlikova, 1966 GENUS
 
 #### Status
 ACCEPTED

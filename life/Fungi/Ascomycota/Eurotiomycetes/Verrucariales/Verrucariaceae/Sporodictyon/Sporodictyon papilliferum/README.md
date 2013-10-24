@@ -1,5 +1,4 @@
-Sporodictyon papilliferum (Nyl.) Trevis. SPECIES
-=======
+# Sporodictyon papilliferum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

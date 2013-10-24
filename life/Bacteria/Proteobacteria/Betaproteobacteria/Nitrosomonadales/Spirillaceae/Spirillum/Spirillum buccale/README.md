@@ -1,5 +1,4 @@
-Spirillum buccale SPECIES
-=======
+# Spirillum buccale SPECIES
 
 #### Status
 ACCEPTED

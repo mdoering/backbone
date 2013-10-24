@@ -1,5 +1,4 @@
-Meliola eveae F. Stevens SPECIES
-=======
+# Meliola eveae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

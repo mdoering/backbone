@@ -1,5 +1,4 @@
-Helotium tehovense Velen. SPECIES
-=======
+# Helotium tehovense Velen. SPECIES
 
 #### Status
 ACCEPTED

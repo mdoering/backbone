@@ -1,5 +1,4 @@
-Pseudocercospora hibbertiae-asperae Beilharz & Cunningt. SPECIES
-=======
+# Pseudocercospora hibbertiae-asperae Beilharz & Cunningt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta mackinnonii Borelli, 1976 SPECIES
-=======
+# Pyrenochaeta mackinnonii Borelli, 1976 SPECIES
 
 #### Status
 ACCEPTED

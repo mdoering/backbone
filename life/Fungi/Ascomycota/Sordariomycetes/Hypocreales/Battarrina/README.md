@@ -1,5 +1,4 @@
-Battarrina (Sacc.) Clem. & Shear GENUS
-=======
+# Battarrina (Sacc.) Clem. & Shear GENUS
 
 #### Status
 ACCEPTED

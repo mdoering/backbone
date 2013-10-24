@@ -1,5 +1,4 @@
-Thelotrema argenteum Müll. Arg. SPECIES
-=======
+# Thelotrema argenteum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

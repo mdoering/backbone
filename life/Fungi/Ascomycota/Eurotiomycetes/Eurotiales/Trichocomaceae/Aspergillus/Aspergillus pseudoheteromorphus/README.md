@@ -1,5 +1,4 @@
-Aspergillus pseudoheteromorphus Steiman, Guiraud, Sage & Seigle-Mur., 1995 SPECIES
-=======
+# Aspergillus pseudoheteromorphus Steiman, Guiraud, Sage & Seigle-Mur., 1995 SPECIES
 
 #### Status
 ACCEPTED

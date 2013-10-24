@@ -1,5 +1,4 @@
-Paraglobivalvulina Reitlinger, 1965 GENUS
-=======
+# Paraglobivalvulina Reitlinger, 1965 GENUS
 
 #### Status
 ACCEPTED

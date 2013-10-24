@@ -1,5 +1,4 @@
-Lentomita auerswaldii (Fleischh.) Sacc. SPECIES
-=======
+# Lentomita auerswaldii (Fleischh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didinium fulgens SPECIES
-=======
+# Didinium fulgens SPECIES
 
 #### Status
 ACCEPTED

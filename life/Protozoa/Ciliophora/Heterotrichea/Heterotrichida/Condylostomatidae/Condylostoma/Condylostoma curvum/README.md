@@ -1,5 +1,4 @@
-Condylostoma curvum Burkovsky, 1970 SPECIES
-=======
+# Condylostoma curvum Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

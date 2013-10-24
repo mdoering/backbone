@@ -1,5 +1,4 @@
-Pseudocyphellaria neozelandica C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria neozelandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

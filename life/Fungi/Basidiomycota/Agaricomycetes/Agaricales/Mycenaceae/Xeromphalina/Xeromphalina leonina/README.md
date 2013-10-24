@@ -1,17 +1,16 @@
-Agaricus epichysium var. epichysium VARIETY
-=======
+# Xeromphalina leonina (Massee) E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues Mag. Bot. 1: 105 (1794)
+Sydowia 32(1-6): 137 (1980)
 
 #### Original name
-Agaricus epichysium var. epichysium
+Omphalia leonina Massee, 1899
 
 ### Remarks
 null

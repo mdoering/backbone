@@ -1,5 +1,4 @@
-Globispiroplectammina Vachard, 1978 GENUS
-=======
+# Globispiroplectammina Vachard, 1978 GENUS
 
 #### Status
 ACCEPTED

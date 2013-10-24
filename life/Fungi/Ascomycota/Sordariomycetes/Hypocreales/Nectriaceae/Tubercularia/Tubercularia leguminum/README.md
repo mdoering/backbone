@@ -1,5 +1,4 @@
-Tubercularia leguminum Cooke & Massee SPECIES
-=======
+# Tubercularia leguminum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

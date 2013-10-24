@@ -1,5 +1,4 @@
-Leptosporella clinopodii Sawada SPECIES
-=======
+# Leptosporella clinopodii Sawada SPECIES
 
 #### Status
 ACCEPTED

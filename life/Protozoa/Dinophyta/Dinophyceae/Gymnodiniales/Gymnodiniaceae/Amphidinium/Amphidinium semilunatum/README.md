@@ -1,5 +1,4 @@
-Amphidinium semilunatum Herdman SPECIES
-=======
+# Amphidinium semilunatum Herdman SPECIES
 
 #### Status
 ACCEPTED

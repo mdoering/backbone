@@ -1,14 +1,13 @@
-Siphula jamesii Kantvilas SPECIES
-=======
+# Parasiphula jamesii (Kantvilas) Kantvilas & Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nordic Jl Bot. 7(5): 585 (1987)
+in Grube & Kantvilas, Lichenologist 38(3): 246 (2006)
 
 #### Original name
 Siphula jamesii Kantvilas

@@ -1,17 +1,16 @@
-Alternaria porri f. sp FORM
-=======
+# Alternaria porri (Ellis) Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pflanzenschutzberichte 12: 12 (1954)
+J. Dept. Agric. Porto Rico 14: 30 (1930)
 
 #### Original name
-Alternaria porri f. sp
+Macrosporium porri Ellis, 1879
 
 ### Remarks
 null

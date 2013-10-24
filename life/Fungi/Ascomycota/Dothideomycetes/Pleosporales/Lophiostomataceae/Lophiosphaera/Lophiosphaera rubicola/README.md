@@ -1,5 +1,4 @@
-Lophiosphaera rubicola Nitschke SPECIES
-=======
+# Lophiosphaera rubicola Nitschke SPECIES
 
 #### Status
 ACCEPTED

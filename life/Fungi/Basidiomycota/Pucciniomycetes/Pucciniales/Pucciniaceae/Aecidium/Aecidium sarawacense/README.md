@@ -1,5 +1,4 @@
-Aecidium sarawacense Ces. SPECIES
-=======
+# Aecidium sarawacense Ces. SPECIES
 
 #### Status
 ACCEPTED

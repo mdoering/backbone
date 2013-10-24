@@ -1,5 +1,4 @@
-Septoria gillii Petr. SPECIES
-=======
+# Septoria gillii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazzinia terrestris R.Y. Roy, R.S. Dwivedi SPECIES
-=======
+# Spegazzinia terrestris R.Y. Roy, R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygosporium pacificum Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Zygosporium pacificum Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

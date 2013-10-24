@@ -1,5 +1,4 @@
-Pseudocercospora flemingiae (S.M. Singh) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora flemingiae (S.M. Singh) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

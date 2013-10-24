@@ -1,5 +1,4 @@
-Plagiostoma phragmiticola Mieko Okada & Katum. SPECIES
-=======
+# Plagiostoma phragmiticola Mieko Okada & Katum. SPECIES
 
 #### Status
 ACCEPTED

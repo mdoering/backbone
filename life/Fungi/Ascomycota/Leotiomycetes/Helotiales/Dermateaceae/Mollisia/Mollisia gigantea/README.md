@@ -1,5 +1,4 @@
-Mollisia gigantea P.J. Fisher & J. Webster SPECIES
-=======
+# Mollisia gigantea P.J. Fisher & J. Webster SPECIES
 
 #### Status
 ACCEPTED

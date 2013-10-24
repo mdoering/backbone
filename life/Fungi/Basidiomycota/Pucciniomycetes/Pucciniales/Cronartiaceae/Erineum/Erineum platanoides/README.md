@@ -1,5 +1,4 @@
-Erineum platanoides Pers. SPECIES
-=======
+# Erineum platanoides Pers. SPECIES
 
 #### Status
 ACCEPTED

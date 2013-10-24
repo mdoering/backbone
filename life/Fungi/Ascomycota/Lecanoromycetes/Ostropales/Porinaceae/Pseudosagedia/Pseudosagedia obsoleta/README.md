@@ -1,5 +1,4 @@
-Pseudosagedia obsoleta (Oxner) Hafellner & Kalb SPECIES
-=======
+# Pseudosagedia obsoleta (Oxner) Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

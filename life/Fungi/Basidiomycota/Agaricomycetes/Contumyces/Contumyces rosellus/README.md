@@ -1,17 +1,16 @@
-Omphalina rosella var. rosella VARIETY
-=======
+# Contumyces rosellus (M.M. Moser) Redhead, Moncalvo, Vilgalys & Lutzoni, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 82: 161 (2002)
 
 #### Original name
-Omphalina rosella var. rosella
+Clitocybe rosella M.M. Moser, 1950
 
 ### Remarks
 null

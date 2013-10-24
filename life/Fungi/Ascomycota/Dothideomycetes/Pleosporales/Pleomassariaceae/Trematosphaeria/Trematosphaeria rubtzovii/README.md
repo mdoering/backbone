@@ -1,5 +1,4 @@
-Trematosphaeria rubtzovii Gucevic SPECIES
-=======
+# Trematosphaeria rubtzovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

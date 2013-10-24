@@ -1,5 +1,4 @@
-Karenia selliformis Haywood, Steidinger & L. Mackenzie in Haywood et al., 2004 SPECIES
-=======
+# Karenia selliformis Haywood, Steidinger & L. Mackenzie in Haywood et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

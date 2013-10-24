@@ -1,5 +1,4 @@
-Badhamia mandshurica Skvortsov SPECIES
-=======
+# Badhamia mandshurica Skvortsov SPECIES
 
 #### Status
 ACCEPTED

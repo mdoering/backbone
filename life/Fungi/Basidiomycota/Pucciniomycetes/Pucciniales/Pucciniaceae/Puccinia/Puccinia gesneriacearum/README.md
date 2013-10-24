@@ -1,17 +1,16 @@
-Puccinia gesneracearum Dietel SPECIES
-=======
+# Puccinia gesneriacearum Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 6(2): 96 (1908)
 
 #### Original name
-Puccinia gesneracearum Dietel
+Puccinia gesneriacearum Dietel
 
 ### Remarks
 null

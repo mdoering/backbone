@@ -1,5 +1,4 @@
-Hemileia dioscoreae-aculeatae (Racib.) P. Syd. & Syd. SPECIES
-=======
+# Hemileia dioscoreae-aculeatae (Racib.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

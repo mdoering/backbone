@@ -1,5 +1,4 @@
-Dictyostelium fasciculoideum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
-=======
+# Dictyostelium fasciculoideum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
 
 #### Status
 ACCEPTED

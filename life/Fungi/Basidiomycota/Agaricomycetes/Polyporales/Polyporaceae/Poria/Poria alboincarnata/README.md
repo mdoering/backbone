@@ -1,5 +1,4 @@
-Poria alboincarnata Pat. SPECIES
-=======
+# Poria alboincarnata Pat. SPECIES
 
 #### Status
 ACCEPTED

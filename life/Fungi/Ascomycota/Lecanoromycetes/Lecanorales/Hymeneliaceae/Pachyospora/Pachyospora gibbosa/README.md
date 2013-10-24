@@ -1,5 +1,4 @@
-Pachyospora gibbosa var. gibbosa VARIETY
-=======
+# Pachyospora gibbosa (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pachyospora gibbosa var. gibbosa
+null
 
 ### Remarks
 null

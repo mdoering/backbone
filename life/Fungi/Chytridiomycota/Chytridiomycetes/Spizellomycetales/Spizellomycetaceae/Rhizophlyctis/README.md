@@ -1,5 +1,4 @@
-Rhizophlyctis A. Fisch. GENUS
-=======
+# Rhizophlyctis A. Fisch. GENUS
 
 #### Status
 ACCEPTED

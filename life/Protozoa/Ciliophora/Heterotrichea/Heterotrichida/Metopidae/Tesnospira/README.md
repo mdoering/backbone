@@ -1,5 +1,4 @@
-Tesnospira Jankowski, 1964 GENUS
-=======
+# Tesnospira Jankowski, 1964 GENUS
 
 #### Status
 ACCEPTED

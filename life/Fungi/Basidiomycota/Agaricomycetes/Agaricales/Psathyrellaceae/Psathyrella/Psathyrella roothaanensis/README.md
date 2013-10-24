@@ -1,5 +1,4 @@
-Psathyrella roothaanensis A.H. Sm. SPECIES
-=======
+# Psathyrella roothaanensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lojkania dimidiata Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Lojkania dimidiata Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

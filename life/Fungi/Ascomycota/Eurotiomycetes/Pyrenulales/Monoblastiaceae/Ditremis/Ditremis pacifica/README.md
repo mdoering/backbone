@@ -1,5 +1,4 @@
-Ditremis pacifica P.M. McCarthy SPECIES
-=======
+# Ditremis pacifica P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

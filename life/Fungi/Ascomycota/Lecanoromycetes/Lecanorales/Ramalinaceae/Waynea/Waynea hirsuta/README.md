@@ -1,5 +1,4 @@
-Waynea hirsuta Tretiach SPECIES
-=======
+# Waynea hirsuta Tretiach SPECIES
 
 #### Status
 ACCEPTED

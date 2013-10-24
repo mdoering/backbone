@@ -1,17 +1,16 @@
-Stemonitis virginiensis rubiginosa Meyl., 1937 INFRASPECIFIC_NAME
-=======
+# Stemonitis virginiensis Rex, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. 43: 391 (1891)
 
 #### Original name
-null
+Stemonitis virginiensis Rex, 1891
 
 ### Remarks
 null

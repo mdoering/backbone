@@ -1,17 +1,16 @@
-Phacidium pini f. pini Fuckel FORM
-=======
+# Phacidium pini Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 263 (1870)
+Mykologische Hefte (Leipzig) 1: 30 (1817)
 
 #### Original name
-Phacidium pini f. pini Fuckel
+Phacidium pini Fuckel, 1870
 
 ### Remarks
 null

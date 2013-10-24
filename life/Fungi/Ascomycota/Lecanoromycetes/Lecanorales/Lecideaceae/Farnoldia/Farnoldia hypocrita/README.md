@@ -1,5 +1,4 @@
-Farnoldia hypocrita (A. Massal.) Fröberg SPECIES
-=======
+# Farnoldia hypocrita (A. Massal.) Fröberg SPECIES
 
 #### Status
 ACCEPTED

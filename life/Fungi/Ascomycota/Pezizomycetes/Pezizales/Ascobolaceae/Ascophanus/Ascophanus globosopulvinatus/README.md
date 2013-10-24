@@ -1,8 +1,7 @@
-Humaria globosopulvinata Crossl., 1908 SPECIES
-=======
+# Ascophanus globosopulvinatus (Crossl.) Boud. ex Ramsb., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

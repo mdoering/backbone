@@ -1,5 +1,4 @@
-Megalohypha aqua-dulces A. Ferrer & Shearer, 2007 SPECIES
-=======
+# Megalohypha aqua-dulces A. Ferrer & Shearer, 2007 SPECIES
 
 #### Status
 ACCEPTED

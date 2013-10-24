@@ -1,5 +1,4 @@
-Venturia chamaepeuces Petr. SPECIES
-=======
+# Venturia chamaepeuces Petr. SPECIES
 
 #### Status
 ACCEPTED

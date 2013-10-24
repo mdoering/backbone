@@ -1,5 +1,4 @@
-Agaricus diffractus Cout. SPECIES
-=======
+# Agaricus diffractus Cout. SPECIES
 
 #### Status
 ACCEPTED

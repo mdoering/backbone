@@ -1,5 +1,4 @@
-Ovularia levistici (Oudem.) Berl. & Voglino SPECIES
-=======
+# Ovularia levistici (Oudem.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

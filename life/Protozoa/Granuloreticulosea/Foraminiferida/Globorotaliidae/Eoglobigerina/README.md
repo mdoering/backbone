@@ -1,5 +1,4 @@
-Eoglobigerina Morozova, 1959 GENUS
-=======
+# Eoglobigerina Morozova, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isocomides Chatton & Lwoff, 1950 GENUS
-=======
+# Isocomides Chatton & Lwoff, 1950 GENUS
 
 #### Status
 ACCEPTED

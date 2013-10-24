@@ -1,5 +1,4 @@
-Macrophyllosticta fagarae Dias, M.T. Lucas, A.T. Vasconc. & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta fagarae Dias, M.T. Lucas, A.T. Vasconc. & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

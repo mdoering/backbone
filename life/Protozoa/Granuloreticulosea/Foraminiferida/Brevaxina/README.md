@@ -1,5 +1,4 @@
-Brevaxina GENUS
-=======
+# Brevaxina GENUS
 
 #### Status
 ACCEPTED

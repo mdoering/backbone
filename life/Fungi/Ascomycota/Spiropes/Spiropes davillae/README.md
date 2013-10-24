@@ -1,5 +1,4 @@
-Spiropes davillae (Syd.) M.B. Ellis SPECIES
-=======
+# Spiropes davillae (Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

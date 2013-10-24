@@ -1,5 +1,4 @@
-Diplococcium catenulatum (C.J.K. Wang & B. Sutton) R.C. Sinclair, Eicker & Bhat SPECIES
-=======
+# Diplococcium catenulatum (C.J.K. Wang & B. Sutton) R.C. Sinclair, Eicker & Bhat SPECIES
 
 #### Status
 ACCEPTED

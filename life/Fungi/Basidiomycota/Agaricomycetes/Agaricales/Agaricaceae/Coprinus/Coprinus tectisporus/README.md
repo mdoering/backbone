@@ -1,5 +1,4 @@
-Coprinus tectisporus Bogart SPECIES
-=======
+# Coprinus tectisporus Bogart SPECIES
 
 #### Status
 ACCEPTED

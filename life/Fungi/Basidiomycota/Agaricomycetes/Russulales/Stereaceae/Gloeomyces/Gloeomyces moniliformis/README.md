@@ -1,14 +1,13 @@
-Vesiculomyces moniliformis N. Maek., 1994 SPECIES
-=======
+# Gloeomyces moniliformis (N. Maek.) Sheng H. Wu, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Tottori Mycol. Inst. 32: 37 (1994)
+Mycotaxon 64: 362 (1997)
 
 #### Original name
 Vesiculomyces moniliformis N. Maek., 1994

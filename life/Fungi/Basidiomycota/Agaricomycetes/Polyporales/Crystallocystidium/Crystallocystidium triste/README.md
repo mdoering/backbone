@@ -1,5 +1,4 @@
-Crystallocystidium triste Rick SPECIES
-=======
+# Crystallocystidium triste Rick SPECIES
 
 #### Status
 ACCEPTED

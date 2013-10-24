@@ -1,5 +1,4 @@
-Exoascus pruni-acidae Jacz. SPECIES
-=======
+# Exoascus pruni-acidae Jacz. SPECIES
 
 #### Status
 ACCEPTED

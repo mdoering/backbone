@@ -1,5 +1,4 @@
-Pseudocercospora prunicola (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora prunicola (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

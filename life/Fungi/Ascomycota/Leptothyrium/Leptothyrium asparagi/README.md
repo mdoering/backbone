@@ -1,5 +1,4 @@
-Leptothyrium asparagi Voglino SPECIES
-=======
+# Leptothyrium asparagi Voglino SPECIES
 
 #### Status
 ACCEPTED

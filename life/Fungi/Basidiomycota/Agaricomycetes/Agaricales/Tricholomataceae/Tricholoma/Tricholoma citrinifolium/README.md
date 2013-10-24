@@ -1,5 +1,4 @@
-Tricholoma citrinifolium (Murrill) Murrill SPECIES
-=======
+# Tricholoma citrinifolium (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

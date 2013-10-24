@@ -1,5 +1,4 @@
-Collonema uncinellum Tassi SPECIES
-=======
+# Collonema uncinellum Tassi SPECIES
 
 #### Status
 ACCEPTED

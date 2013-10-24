@@ -1,5 +1,4 @@
-Pleomeris apocrypta (Ellis & Tracy) Syd. SPECIES
-=======
+# Pleomeris apocrypta (Ellis & Tracy) Syd. SPECIES
 
 #### Status
 ACCEPTED

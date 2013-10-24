@@ -1,5 +1,4 @@
-Cryptosphaeria rimulosa Pass. SPECIES
-=======
+# Cryptosphaeria rimulosa Pass. SPECIES
 
 #### Status
 ACCEPTED

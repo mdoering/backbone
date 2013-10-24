@@ -1,5 +1,4 @@
-Aquaspirillum dispar Hylemon et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Aquaspirillum dispar Hylemon et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropus avellaneus Murrill SPECIES
-=======
+# Pleuropus avellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

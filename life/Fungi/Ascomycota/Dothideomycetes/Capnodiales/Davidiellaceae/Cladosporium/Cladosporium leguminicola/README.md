@@ -1,5 +1,4 @@
-Cladosporium leguminicola U. Braun & K. Schub. SPECIES
-=======
+# Cladosporium leguminicola U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

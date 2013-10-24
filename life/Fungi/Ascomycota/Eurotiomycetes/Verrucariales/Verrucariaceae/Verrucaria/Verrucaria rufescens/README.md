@@ -1,5 +1,4 @@
-Verrucaria rufescens Hoffm. SPECIES
-=======
+# Verrucaria rufescens Hoffm. SPECIES
 
 #### Status
 ACCEPTED

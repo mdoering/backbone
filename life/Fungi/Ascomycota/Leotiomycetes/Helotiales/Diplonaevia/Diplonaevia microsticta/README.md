@@ -1,5 +1,4 @@
-Diplonaevia microsticta (Dennis) Nannf. SPECIES
-=======
+# Diplonaevia microsticta (Dennis) Nannf. SPECIES
 
 #### Status
 ACCEPTED

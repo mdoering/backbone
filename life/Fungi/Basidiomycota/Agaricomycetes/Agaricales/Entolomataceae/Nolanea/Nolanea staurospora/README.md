@@ -1,5 +1,4 @@
-Nolanea staurospora f. staurospora FORM
-=======
+# Nolanea staurospora SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Fung. trident. 1(1): 18 (1881)
+null
 
 #### Original name
-Nolanea staurospora f. staurospora
+null
 
 ### Remarks
 null

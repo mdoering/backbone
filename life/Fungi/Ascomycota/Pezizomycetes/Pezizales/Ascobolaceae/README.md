@@ -1,5 +1,4 @@
-Ascobolaceae Boud. ex Sacc. FAMILY
-=======
+# Ascobolaceae Boud. ex Sacc. FAMILY
 
 #### Status
 ACCEPTED

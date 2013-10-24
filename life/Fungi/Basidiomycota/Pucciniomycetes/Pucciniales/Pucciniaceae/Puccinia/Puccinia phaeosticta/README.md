@@ -1,5 +1,4 @@
-Puccinia phaeosticta Pat. & Har. SPECIES
-=======
+# Puccinia phaeosticta Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

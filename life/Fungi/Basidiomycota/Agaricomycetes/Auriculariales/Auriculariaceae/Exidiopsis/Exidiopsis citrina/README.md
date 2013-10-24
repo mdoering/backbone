@@ -1,5 +1,4 @@
-Exidiopsis citrina Hauerslev SPECIES
-=======
+# Exidiopsis citrina Hauerslev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophthora reticulata Petch SPECIES
-=======
+# Entomophthora reticulata Petch SPECIES
 
 #### Status
 ACCEPTED

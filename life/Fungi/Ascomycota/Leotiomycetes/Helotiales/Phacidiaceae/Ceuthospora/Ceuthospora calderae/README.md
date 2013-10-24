@@ -1,5 +1,4 @@
-Ceuthospora calderae Urries, 1956 SPECIES
-=======
+# Ceuthospora calderae Urries, 1956 SPECIES
 
 #### Status
 ACCEPTED

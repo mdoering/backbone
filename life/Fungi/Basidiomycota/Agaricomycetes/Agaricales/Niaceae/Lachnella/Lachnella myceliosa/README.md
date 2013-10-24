@@ -1,5 +1,4 @@
-Lachnella myceliosa W.B. Cooke SPECIES
-=======
+# Lachnella myceliosa W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

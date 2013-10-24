@@ -1,5 +1,4 @@
-Odontia diaphana (Schrad.) Gray SPECIES
-=======
+# Odontia diaphana (Schrad.) Gray SPECIES
 
 #### Status
 ACCEPTED

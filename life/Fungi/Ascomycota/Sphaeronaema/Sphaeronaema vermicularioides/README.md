@@ -1,5 +1,4 @@
-Sphaeronaema vermicularioides Sacc. SPECIES
-=======
+# Sphaeronaema vermicularioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

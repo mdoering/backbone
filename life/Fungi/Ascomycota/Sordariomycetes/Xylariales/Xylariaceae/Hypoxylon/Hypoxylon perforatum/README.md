@@ -1,17 +1,16 @@
-Hypoxylon luridum var. luridum Nitschke VARIETY
-=======
+# Hypoxylon perforatum (Schwein.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 31 (1867)
+Summa veg. Scand. (Stockholm), Section Post. 384 (1849)
 
 #### Original name
-Hypoxylon luridum var. luridum Nitschke
+Sphaeria perforata Schwein., 1822
 
 ### Remarks
 null

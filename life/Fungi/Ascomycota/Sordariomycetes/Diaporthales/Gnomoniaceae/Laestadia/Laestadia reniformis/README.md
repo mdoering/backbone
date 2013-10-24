@@ -1,5 +1,4 @@
-Laestadia reniformis (Prill. & Delacr.) Sacc. & P. Syd. SPECIES
-=======
+# Laestadia reniformis (Prill. & Delacr.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

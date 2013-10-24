@@ -1,5 +1,4 @@
-Gonatobotrytites Pia GENUS
-=======
+# Gonatobotrytites Pia GENUS
 
 #### Status
 ACCEPTED

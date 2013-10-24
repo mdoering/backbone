@@ -1,5 +1,4 @@
-Synedra elongatum, nom. nud. SPECIES
-=======
+# Synedra elongatum, nom. nud. SPECIES
 
 #### Status
 ACCEPTED

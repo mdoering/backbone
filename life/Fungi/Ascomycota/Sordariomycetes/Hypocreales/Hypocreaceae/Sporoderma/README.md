@@ -1,5 +1,4 @@
-Sporoderma GENUS
-=======
+# Sporoderma GENUS
 
 #### Status
 ACCEPTED

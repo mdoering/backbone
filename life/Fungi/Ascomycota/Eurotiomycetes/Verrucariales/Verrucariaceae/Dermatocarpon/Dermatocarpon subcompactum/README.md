@@ -1,5 +1,4 @@
-Dermatocarpon subcompactum (J. Steiner) Zahlbr. SPECIES
-=======
+# Dermatocarpon subcompactum (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

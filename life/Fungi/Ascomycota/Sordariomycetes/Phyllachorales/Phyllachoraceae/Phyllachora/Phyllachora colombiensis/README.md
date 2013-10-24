@@ -1,17 +1,16 @@
-Sphaerodothis columbiensis Chardón SPECIES
-=======
+# Phyllachora colombiensis (Chardón) P.F. Cannon, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 31: 52 (1989)
 
 #### Original name
-Sphaerodothis columbiensis Chardón
+Sphaerodothis colombiensis Chardón, 1930
 
 ### Remarks
 null

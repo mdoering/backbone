@@ -1,5 +1,4 @@
-Pestalotia dianellae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Pestalotia dianellae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

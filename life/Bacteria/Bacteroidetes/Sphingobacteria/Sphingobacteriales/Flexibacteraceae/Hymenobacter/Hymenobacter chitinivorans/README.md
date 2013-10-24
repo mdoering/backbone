@@ -1,5 +1,4 @@
-Hymenobacter chitinivorans Buczolits et al., 2006 SPECIES
-=======
+# Hymenobacter chitinivorans Buczolits et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

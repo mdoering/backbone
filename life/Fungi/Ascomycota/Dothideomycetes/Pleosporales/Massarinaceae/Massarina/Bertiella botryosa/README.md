@@ -1,5 +1,4 @@
-Bertiella botryosa Morgan SPECIES
-=======
+# Bertiella botryosa Morgan SPECIES
 
 #### Status
 ACCEPTED

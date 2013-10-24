@@ -1,5 +1,4 @@
-Saccothecium staritzianum Kirschst. SPECIES
-=======
+# Saccothecium staritzianum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

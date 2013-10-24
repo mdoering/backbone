@@ -1,5 +1,4 @@
-Buellia superba SPECIES
-=======
+# Buellia superba SPECIES
 
 #### Status
 ACCEPTED

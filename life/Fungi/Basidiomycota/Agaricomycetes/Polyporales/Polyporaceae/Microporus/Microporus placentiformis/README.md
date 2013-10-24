@@ -1,14 +1,13 @@
-Microporus placentaeformis (Berk. ex Cooke) Kuntze SPECIES
-=======
+# Microporus placentiformis (Berk. ex Cooke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 497 (1898)
 
 #### Original name
 Polystictus placentiformis Berk. ex Cooke

@@ -1,5 +1,4 @@
-Puccinia basyi (Berk.et Br.) Wint. SPECIES
-=======
+# Puccinia basyi (Berk.et Br.) Wint. SPECIES
 
 #### Status
 ACCEPTED

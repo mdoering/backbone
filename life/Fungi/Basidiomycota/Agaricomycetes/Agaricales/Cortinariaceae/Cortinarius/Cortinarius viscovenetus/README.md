@@ -1,5 +1,4 @@
-Cortinarius viscovenetus E. Horak SPECIES
-=======
+# Cortinarius viscovenetus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxodes magnum SPECIES
-=======
+# Loxodes magnum SPECIES
 
 #### Status
 ACCEPTED

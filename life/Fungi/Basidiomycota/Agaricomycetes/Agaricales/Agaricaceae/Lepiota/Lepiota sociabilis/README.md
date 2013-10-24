@@ -1,5 +1,4 @@
-Lepiota sociabilis (Britzelm.) Lapl. SPECIES
-=======
+# Lepiota sociabilis (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

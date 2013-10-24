@@ -1,8 +1,7 @@
-Strombidium mirabile Penard, 1916 SPECIES
-=======
+# Pelagostrombidium mirabile (Penard, 1916) Krainer, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

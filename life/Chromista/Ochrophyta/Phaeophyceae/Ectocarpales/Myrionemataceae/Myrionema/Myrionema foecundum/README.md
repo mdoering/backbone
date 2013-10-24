@@ -1,5 +1,4 @@
-Myrionema foecundum SPECIES
-=======
+# Myrionema foecundum SPECIES
 
 #### Status
 ACCEPTED

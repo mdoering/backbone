@@ -1,5 +1,4 @@
-Phyllopsora microsperma Müll. Arg. SPECIES
-=======
+# Phyllopsora microsperma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodosaria decemlocularia Brown, 1844 SPECIES
-=======
+# Nodosaria decemlocularia Brown, 1844 SPECIES
 
 #### Status
 ACCEPTED

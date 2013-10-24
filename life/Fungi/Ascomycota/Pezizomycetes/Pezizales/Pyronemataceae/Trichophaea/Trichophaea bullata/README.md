@@ -1,5 +1,4 @@
-Trichophaea bullata Kanouse SPECIES
-=======
+# Trichophaea bullata Kanouse SPECIES
 
 #### Status
 ACCEPTED

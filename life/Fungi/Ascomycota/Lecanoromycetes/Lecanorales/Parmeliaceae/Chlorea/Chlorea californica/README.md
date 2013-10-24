@@ -1,5 +1,4 @@
-Chlorea californica (Lév.) Nyl. SPECIES
-=======
+# Chlorea californica (Lév.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

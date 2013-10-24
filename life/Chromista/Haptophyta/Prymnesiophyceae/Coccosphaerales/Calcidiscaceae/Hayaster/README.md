@@ -1,5 +1,4 @@
-Hayaster Bukry, 1973 GENUS
-=======
+# Hayaster Bukry, 1973 GENUS
 
 #### Status
 ACCEPTED

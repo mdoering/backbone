@@ -1,5 +1,4 @@
-Agaricus mephistopheles Cooke SPECIES
-=======
+# Agaricus mephistopheles Cooke SPECIES
 
 #### Status
 ACCEPTED

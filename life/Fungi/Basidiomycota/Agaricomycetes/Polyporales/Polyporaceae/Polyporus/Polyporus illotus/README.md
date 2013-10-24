@@ -1,5 +1,4 @@
-Polyporus illotus Kalchbr. ex Cooke SPECIES
-=======
+# Polyporus illotus Kalchbr. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

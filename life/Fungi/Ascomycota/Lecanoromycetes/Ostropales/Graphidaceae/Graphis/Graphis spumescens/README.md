@@ -1,5 +1,4 @@
-Graphis spumescens Nyl. SPECIES
-=======
+# Graphis spumescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

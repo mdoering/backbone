@@ -1,8 +1,7 @@
-Rhizomorpha harrimanni Pers. SPECIES
-=======
+# Rhizomorpha harrimannii Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizomorpha harrimanni Pers.
+Rhizomorpha harrimannii Pers.
 
 ### Remarks
 null

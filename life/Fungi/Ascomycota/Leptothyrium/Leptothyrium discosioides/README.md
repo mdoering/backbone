@@ -1,5 +1,4 @@
-Leptothyrium discosioides (Sacc.) Keissl. SPECIES
-=======
+# Leptothyrium discosioides (Sacc.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

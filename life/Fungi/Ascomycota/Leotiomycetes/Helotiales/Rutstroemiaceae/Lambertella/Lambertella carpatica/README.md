@@ -1,5 +1,4 @@
-Lambertella carpatica Svrcek SPECIES
-=======
+# Lambertella carpatica Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachybasidiaceae Gäum. FAMILY
-=======
+# Brachybasidiaceae Gäum. FAMILY
 
 #### Status
 ACCEPTED

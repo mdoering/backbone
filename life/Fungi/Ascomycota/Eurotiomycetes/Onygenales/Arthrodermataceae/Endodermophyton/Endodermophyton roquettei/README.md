@@ -1,5 +1,4 @@
-Endodermophyton roquettei Fonseca SPECIES
-=======
+# Endodermophyton roquettei Fonseca SPECIES
 
 #### Status
 ACCEPTED

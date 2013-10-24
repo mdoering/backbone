@@ -1,5 +1,4 @@
-Paulinella chromatophora Lauterborn SPECIES
-=======
+# Paulinella chromatophora Lauterborn SPECIES
 
 #### Status
 ACCEPTED

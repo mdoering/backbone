@@ -1,5 +1,4 @@
-Cercospora pallidissima Chupp SPECIES
-=======
+# Cercospora pallidissima Chupp SPECIES
 
 #### Status
 ACCEPTED

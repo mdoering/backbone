@@ -1,14 +1,13 @@
-Dactylella reticulata Peach, 1950 SPECIES
-=======
+# Monacrosporium reticulatum (Peach) R.C. Cooke & C.H. Dickinson, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 33(1): 148 (1950)
+Trans. Br. mycol. Soc. 48: 622 (1965)
 
 #### Original name
 Dactylella reticulata Peach, 1950

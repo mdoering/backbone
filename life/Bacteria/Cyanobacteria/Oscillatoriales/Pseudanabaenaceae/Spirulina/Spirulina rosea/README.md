@@ -1,5 +1,4 @@
-Spirulina rosea Crouan, 1967 SPECIES
-=======
+# Spirulina rosea Crouan, 1967 SPECIES
 
 #### Status
 ACCEPTED

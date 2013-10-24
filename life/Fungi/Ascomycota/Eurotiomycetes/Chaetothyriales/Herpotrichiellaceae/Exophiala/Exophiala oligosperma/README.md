@@ -1,5 +1,4 @@
-Exophiala oligosperma Calandron ex de Hoog & Tintelnot SPECIES
-=======
+# Exophiala oligosperma Calandron ex de Hoog & Tintelnot SPECIES
 
 #### Status
 ACCEPTED

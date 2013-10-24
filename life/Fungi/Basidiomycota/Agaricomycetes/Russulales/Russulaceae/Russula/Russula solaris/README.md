@@ -1,5 +1,4 @@
-Russula solaris Ferd. & Winge, 1924 SPECIES
-=======
+# Russula solaris Ferd. & Winge, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria fuegiensis Zahlbr. SPECIES
-=======
+# Pannaria fuegiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

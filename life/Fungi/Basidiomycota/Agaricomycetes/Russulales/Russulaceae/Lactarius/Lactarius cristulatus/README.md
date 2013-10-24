@@ -1,5 +1,4 @@
-Lactarius cristulatus Montoya & Bandala SPECIES
-=======
+# Lactarius cristulatus Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

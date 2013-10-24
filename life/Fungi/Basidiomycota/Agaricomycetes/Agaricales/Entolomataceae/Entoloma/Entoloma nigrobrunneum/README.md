@@ -1,5 +1,4 @@
-Entoloma nigrobrunneum Hesler SPECIES
-=======
+# Entoloma nigrobrunneum Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete javanica Höhn. SPECIES
-=======
+# Heterochaete javanica Höhn. SPECIES
 
 #### Status
 ACCEPTED

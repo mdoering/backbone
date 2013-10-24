@@ -1,5 +1,4 @@
-Hypocrea lycogalae Kalchbr. & Cooke SPECIES
-=======
+# Hypocrea lycogalae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

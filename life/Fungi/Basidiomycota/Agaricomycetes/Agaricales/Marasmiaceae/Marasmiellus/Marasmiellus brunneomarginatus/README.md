@@ -1,5 +1,4 @@
-Marasmiellus brunneomarginatus Singer SPECIES
-=======
+# Marasmiellus brunneomarginatus Singer SPECIES
 
 #### Status
 ACCEPTED

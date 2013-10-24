@@ -1,17 +1,16 @@
-Haplobasidion pavoninum Höhn., 1905 SPECIES
-=======
+# Haplobasidion thalictri Erikss., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 3: 407 (1905)
+Bot. Zbl. 38(no. 11): 786 (1889)
 
 #### Original name
-Haplobasidion pavoninum Höhn., 1905
+Haplobasidion thalictri Erikss., 1889
 
 ### Remarks
 null

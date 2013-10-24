@@ -1,5 +1,4 @@
-Boletus irregularis Sowerby SPECIES
-=======
+# Boletus irregularis Sowerby SPECIES
 
 #### Status
 ACCEPTED

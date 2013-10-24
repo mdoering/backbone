@@ -1,5 +1,4 @@
-Peziza hydrophila Peck SPECIES
-=======
+# Peziza hydrophila Peck SPECIES
 
 #### Status
 ACCEPTED

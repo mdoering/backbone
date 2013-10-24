@@ -1,5 +1,4 @@
-Cercophora elephantina (Henn.) N. Lundq. SPECIES
-=======
+# Cercophora elephantina (Henn.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

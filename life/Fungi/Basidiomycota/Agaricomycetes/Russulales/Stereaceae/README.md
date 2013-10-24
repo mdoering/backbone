@@ -1,5 +1,4 @@
-Stereaceae FAMILY
-=======
+# Stereaceae FAMILY
 
 #### Status
 ACCEPTED

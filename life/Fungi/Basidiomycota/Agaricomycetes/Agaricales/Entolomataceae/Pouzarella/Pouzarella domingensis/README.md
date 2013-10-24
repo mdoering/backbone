@@ -1,5 +1,4 @@
-Pouzarella domingensis T.J. Baroni SPECIES
-=======
+# Pouzarella domingensis T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

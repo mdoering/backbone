@@ -1,5 +1,4 @@
-Camarosporulum cruciatum (Fuckel) Tassi SPECIES
-=======
+# Camarosporulum cruciatum (Fuckel) Tassi SPECIES
 
 #### Status
 ACCEPTED

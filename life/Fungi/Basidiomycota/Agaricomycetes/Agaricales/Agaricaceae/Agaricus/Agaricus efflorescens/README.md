@@ -1,5 +1,4 @@
-Agaricus efflorescens Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus efflorescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

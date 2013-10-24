@@ -1,14 +1,13 @@
-Buellia andicola Müll. Arg. ex Zahlbr. SPECIES
-=======
+# Hypoflavia andicola (Müll. Arg. ex Zahlbr.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Zahlbruckner, Meddn Göteb. Bot. Trädgord 2: 25 (1925)
+Biblthca Lichenol. 74: 292 (2000)
 
 #### Original name
 Buellia andicola Müll. Arg. ex Zahlbr.

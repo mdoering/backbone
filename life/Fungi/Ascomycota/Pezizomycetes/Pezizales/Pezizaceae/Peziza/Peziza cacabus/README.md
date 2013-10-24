@@ -1,5 +1,4 @@
-Peziza cacabus Fr. SPECIES
-=======
+# Peziza cacabus Fr. SPECIES
 
 #### Status
 ACCEPTED

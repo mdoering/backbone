@@ -1,5 +1,4 @@
-Mycosphaerella tunguahuana Petr. SPECIES
-=======
+# Mycosphaerella tunguahuana Petr. SPECIES
 
 #### Status
 ACCEPTED

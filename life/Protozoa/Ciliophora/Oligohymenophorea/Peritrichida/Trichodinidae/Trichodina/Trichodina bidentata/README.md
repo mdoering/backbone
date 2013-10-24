@@ -1,5 +1,4 @@
-Trichodina bidentata Fabre-Domergue, 1888 SPECIES
-=======
+# Trichodina bidentata Fabre-Domergue, 1888 SPECIES
 
 #### Status
 ACCEPTED

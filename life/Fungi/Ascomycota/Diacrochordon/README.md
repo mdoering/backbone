@@ -1,5 +1,4 @@
-Diacrochordon Petr. GENUS
-=======
+# Diacrochordon Petr. GENUS
 
 #### Status
 ACCEPTED

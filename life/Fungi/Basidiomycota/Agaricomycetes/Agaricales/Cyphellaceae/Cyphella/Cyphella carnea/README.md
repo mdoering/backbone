@@ -1,5 +1,4 @@
-Cyphella carnea Pat. SPECIES
-=======
+# Cyphella carnea Pat. SPECIES
 
 #### Status
 ACCEPTED

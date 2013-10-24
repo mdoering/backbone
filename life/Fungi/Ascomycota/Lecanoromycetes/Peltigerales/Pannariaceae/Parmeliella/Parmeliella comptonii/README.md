@@ -1,5 +1,4 @@
-Parmeliella comptonii A.L. Sm. SPECIES
-=======
+# Parmeliella comptonii A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

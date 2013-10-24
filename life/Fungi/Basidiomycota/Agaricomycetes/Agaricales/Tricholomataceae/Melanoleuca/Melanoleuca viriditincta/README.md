@@ -1,5 +1,4 @@
-Melanoleuca viriditincta Murrill SPECIES
-=======
+# Melanoleuca viriditincta Murrill SPECIES
 
 #### Status
 ACCEPTED

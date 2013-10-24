@@ -1,5 +1,4 @@
-Naucoria submelinoides (Kühner) Maire SPECIES
-=======
+# Naucoria submelinoides (Kühner) Maire SPECIES
 
 #### Status
 ACCEPTED

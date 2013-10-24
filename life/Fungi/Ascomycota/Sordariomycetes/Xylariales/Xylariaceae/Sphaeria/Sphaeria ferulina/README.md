@@ -1,5 +1,4 @@
-Sphaeria ferulina Durieu & Mont. SPECIES
-=======
+# Sphaeria ferulina Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

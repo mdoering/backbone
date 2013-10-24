@@ -1,5 +1,4 @@
-Lecidea subrhaetica Arnold SPECIES
-=======
+# Lecidea subrhaetica Arnold SPECIES
 
 #### Status
 ACCEPTED

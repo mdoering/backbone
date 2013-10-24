@@ -1,5 +1,4 @@
-Meliola alyxiae F. Stevens SPECIES
-=======
+# Meliola alyxiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

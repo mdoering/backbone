@@ -1,5 +1,4 @@
-Peziza ciborium Fr. SPECIES
-=======
+# Peziza ciborium Fr. SPECIES
 
 #### Status
 ACCEPTED

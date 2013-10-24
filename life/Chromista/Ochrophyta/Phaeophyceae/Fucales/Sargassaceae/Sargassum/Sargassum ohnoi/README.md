@@ -1,5 +1,4 @@
-Sargassum ohnoi G.C. Trono SPECIES
-=======
+# Sargassum ohnoi G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

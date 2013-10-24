@@ -1,5 +1,4 @@
-Micropeltella hercynica Kirschst. SPECIES
-=======
+# Micropeltella hercynica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

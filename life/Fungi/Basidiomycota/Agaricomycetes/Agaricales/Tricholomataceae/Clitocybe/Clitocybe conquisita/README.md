@@ -1,5 +1,4 @@
-Clitocybe conquisita (Durieu & Lév.) Sacc. SPECIES
-=======
+# Clitocybe conquisita (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

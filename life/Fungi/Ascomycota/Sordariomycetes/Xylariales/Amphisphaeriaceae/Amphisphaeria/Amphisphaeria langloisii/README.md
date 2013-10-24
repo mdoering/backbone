@@ -1,5 +1,4 @@
-Amphisphaeria langloisii Ellis & Everh. SPECIES
-=======
+# Amphisphaeria langloisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

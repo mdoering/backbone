@@ -1,5 +1,4 @@
-Ramaria guadelupensis (Lév.) Corner SPECIES
-=======
+# Ramaria guadelupensis (Lév.) Corner SPECIES
 
 #### Status
 ACCEPTED

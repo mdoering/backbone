@@ -1,5 +1,4 @@
-Lecanora siebenhaariana (Körb.) Cromb. SPECIES
-=======
+# Lecanora siebenhaariana (Körb.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

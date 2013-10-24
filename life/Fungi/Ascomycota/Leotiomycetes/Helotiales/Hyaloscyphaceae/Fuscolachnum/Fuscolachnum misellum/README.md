@@ -1,14 +1,13 @@
-Trichopeziza misella (Roberge ex Desm.) Sacc., 1889 SPECIES
-=======
+# Fuscolachnum misellum (Roberge ex Desm.) J.H. Haines, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 418 (1889)
+Mem. N. Y. bot. Gdn 49: 321 (1989)
 
 #### Original name
 null

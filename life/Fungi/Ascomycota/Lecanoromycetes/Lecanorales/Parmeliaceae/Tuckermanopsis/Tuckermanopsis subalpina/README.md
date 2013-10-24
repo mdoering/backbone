@@ -1,5 +1,4 @@
-Tuckermanopsis subalpina (Imshaug) Kärnefelt SPECIES
-=======
+# Tuckermanopsis subalpina (Imshaug) Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

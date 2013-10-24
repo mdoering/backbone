@@ -1,5 +1,4 @@
-Julella buxi var. buxi VARIETY
-=======
+# Julella buxi Fabre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Julella buxi var. buxi
+Julella buxi Fabre
 
 ### Remarks
 null

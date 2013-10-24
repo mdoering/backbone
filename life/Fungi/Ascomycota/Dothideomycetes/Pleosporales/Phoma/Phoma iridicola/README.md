@@ -1,5 +1,4 @@
-Phoma iridicola Gonz. Frag. SPECIES
-=======
+# Phoma iridicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

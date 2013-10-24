@@ -1,5 +1,4 @@
-Bovista ammophila Lév. SPECIES
-=======
+# Bovista ammophila Lév. SPECIES
 
 #### Status
 ACCEPTED

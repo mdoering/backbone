@@ -1,5 +1,4 @@
-Lacrymaria tenuicula Dumas, 1876 SPECIES
-=======
+# Lacrymaria tenuicula Dumas, 1876 SPECIES
 
 #### Status
 ACCEPTED

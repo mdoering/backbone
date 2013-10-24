@@ -1,5 +1,4 @@
-Cryptothecia obvallata Stirt. SPECIES
-=======
+# Cryptothecia obvallata Stirt. SPECIES
 
 #### Status
 ACCEPTED

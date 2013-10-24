@@ -1,17 +1,16 @@
-Pleurotus arbuticolus Pilát SPECIES
-=======
+# Pleurotus arbuticola Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atlas des Champignons de l'Europe, II: Pleurotus Fries 18 (1935)
 
 #### Original name
-Pleurotus arbuticolus Pilát
+Pleurotus arbuticola Pilát
 
 ### Remarks
 null

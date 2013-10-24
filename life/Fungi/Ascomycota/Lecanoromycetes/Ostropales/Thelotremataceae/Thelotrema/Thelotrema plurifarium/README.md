@@ -1,5 +1,4 @@
-Thelotrema plurifarium Nyl. SPECIES
-=======
+# Thelotrema plurifarium Nyl. SPECIES
 
 #### Status
 ACCEPTED

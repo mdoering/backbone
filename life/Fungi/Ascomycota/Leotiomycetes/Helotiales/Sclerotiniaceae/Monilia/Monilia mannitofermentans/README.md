@@ -1,5 +1,4 @@
-Monilia mannitofermentans Castell. SPECIES
-=======
+# Monilia mannitofermentans Castell. SPECIES
 
 #### Status
 ACCEPTED

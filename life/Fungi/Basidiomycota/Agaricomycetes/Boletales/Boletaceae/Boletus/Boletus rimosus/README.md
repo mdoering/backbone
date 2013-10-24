@@ -1,5 +1,4 @@
-Boletus rimosus Vent. SPECIES
-=======
+# Boletus rimosus Vent. SPECIES
 
 #### Status
 ACCEPTED

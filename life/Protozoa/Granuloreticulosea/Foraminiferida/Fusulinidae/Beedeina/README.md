@@ -1,5 +1,4 @@
-Beedeina Galloway, 1933 GENUS
-=======
+# Beedeina Galloway, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta corni-controversae Miura SPECIES
-=======
+# Phyllosticta corni-controversae Miura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ithyphallus costatus Penz. SPECIES
-=======
+# Ithyphallus costatus Penz. SPECIES
 
 #### Status
 ACCEPTED

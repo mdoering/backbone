@@ -1,5 +1,4 @@
-Dothiorella euonymicola (Petr.) Petr. SPECIES
-=======
+# Dothiorella euonymicola (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

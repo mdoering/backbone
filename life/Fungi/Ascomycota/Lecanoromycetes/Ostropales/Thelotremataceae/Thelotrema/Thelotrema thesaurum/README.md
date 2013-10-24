@@ -1,5 +1,4 @@
-Thelotrema thesaurum Mangold SPECIES
-=======
+# Thelotrema thesaurum Mangold SPECIES
 
 #### Status
 ACCEPTED

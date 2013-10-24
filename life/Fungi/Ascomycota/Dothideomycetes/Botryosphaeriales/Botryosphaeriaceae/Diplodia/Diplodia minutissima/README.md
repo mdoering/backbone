@@ -1,5 +1,4 @@
-Diplodia minutissima G.H. Otth SPECIES
-=======
+# Diplodia minutissima G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

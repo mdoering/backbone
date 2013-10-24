@@ -1,5 +1,4 @@
-Aecidium lasianthi Henn. SPECIES
-=======
+# Aecidium lasianthi Henn. SPECIES
 
 #### Status
 ACCEPTED

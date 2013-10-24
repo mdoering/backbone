@@ -1,17 +1,16 @@
-Aleurodiscus atlanticus var. atlanticus VARIETY
-=======
+# Aleurodiscus atlanticus Maire, 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. Hist. nat. Afr. N. 8(7): 157 (1917)
 
 #### Original name
-Aleurodiscus atlanticus var. atlanticus
+Aleurodiscus atlanticus Maire, 1917
 
 ### Remarks
 null

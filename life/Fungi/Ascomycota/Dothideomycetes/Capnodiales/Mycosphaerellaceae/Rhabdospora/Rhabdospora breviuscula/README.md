@@ -1,5 +1,4 @@
-Rhabdospora breviuscula (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora breviuscula (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

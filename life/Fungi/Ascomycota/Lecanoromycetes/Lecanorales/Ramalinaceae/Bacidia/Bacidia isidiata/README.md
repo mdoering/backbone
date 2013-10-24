@@ -1,5 +1,4 @@
-Bacidia isidiata H. Magn. SPECIES
-=======
+# Bacidia isidiata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius notabilis Rob. Henry SPECIES
-=======
+# Cortinarius notabilis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

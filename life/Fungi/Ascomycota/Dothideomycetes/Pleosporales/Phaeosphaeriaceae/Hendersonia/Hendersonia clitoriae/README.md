@@ -1,5 +1,4 @@
-Hendersonia clitoriae Bat. & J.L. Bezerra SPECIES
-=======
+# Hendersonia clitoriae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

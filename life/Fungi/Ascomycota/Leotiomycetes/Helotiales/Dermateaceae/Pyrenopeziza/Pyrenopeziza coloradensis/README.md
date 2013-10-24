@@ -1,5 +1,4 @@
-Pyrenopeziza coloradensis Ellis & Everh. SPECIES
-=======
+# Pyrenopeziza coloradensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella periclymeni Fuckel SPECIES
-=======
+# Lachnella periclymeni Fuckel SPECIES
 
 #### Status
 ACCEPTED

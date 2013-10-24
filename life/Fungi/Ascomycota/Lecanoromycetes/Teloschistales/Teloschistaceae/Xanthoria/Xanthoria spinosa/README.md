@@ -1,5 +1,4 @@
-Xanthoria spinosa (Hook. f. & Taylor) Du Rietz SPECIES
-=======
+# Xanthoria spinosa (Hook. f. & Taylor) Du Rietz SPECIES
 
 #### Status
 ACCEPTED

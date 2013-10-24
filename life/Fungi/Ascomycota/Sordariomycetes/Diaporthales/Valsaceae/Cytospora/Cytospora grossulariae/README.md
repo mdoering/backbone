@@ -1,5 +1,4 @@
-Cytospora grossulariae Laubert SPECIES
-=======
+# Cytospora grossulariae Laubert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachytichospora Van der Walt GENUS
-=======
+# Pachytichospora Van der Walt GENUS
 
 #### Status
 ACCEPTED

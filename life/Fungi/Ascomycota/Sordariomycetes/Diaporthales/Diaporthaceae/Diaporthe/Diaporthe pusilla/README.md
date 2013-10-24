@@ -1,5 +1,4 @@
-Diaporthe pusilla Sacc. SPECIES
-=======
+# Diaporthe pusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

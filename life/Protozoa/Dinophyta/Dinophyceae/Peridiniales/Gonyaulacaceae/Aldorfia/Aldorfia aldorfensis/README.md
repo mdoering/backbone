@@ -1,5 +1,4 @@
-Aldorfia aldorfensis (Gocht, 1970) Stover & Evitt SPECIES
-=======
+# Aldorfia aldorfensis (Gocht, 1970) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

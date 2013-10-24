@@ -1,5 +1,4 @@
-Parmelia thallina Ach. SPECIES
-=======
+# Parmelia thallina Ach. SPECIES
 
 #### Status
 ACCEPTED

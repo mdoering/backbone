@@ -1,5 +1,4 @@
-Phyllosticta tropaeoli Sacc. & Speg. SPECIES
-=======
+# Phyllosticta tropaeoli Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

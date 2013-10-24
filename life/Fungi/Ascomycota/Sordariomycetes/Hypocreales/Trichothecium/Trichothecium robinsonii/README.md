@@ -1,5 +1,4 @@
-Trichothecium robinsonii SPECIES
-=======
+# Trichothecium robinsonii SPECIES
 
 #### Status
 ACCEPTED

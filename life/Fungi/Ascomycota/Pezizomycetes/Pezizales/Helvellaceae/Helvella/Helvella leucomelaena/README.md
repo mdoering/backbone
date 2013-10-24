@@ -1,17 +1,16 @@
-Acetabula leucomelas var. leucomelas VARIETY
-=======
+# Helvella leucomelaena (Pers.) Nannf., 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Mycol. (Paris) 1249 (1889)
+in Lundell & Nannfeldt, Fungi exsicc. upsal. 21: 952 (1941)
 
 #### Original name
-Acetabula leucomelas var. leucomelas
+Peziza leucomelas Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Blastocladiella emersonii Cantino & Hyatt, 1953 SPECIES
-=======
+# Blastocladiella emersonii Cantino & Hyatt, 1953 SPECIES
 
 #### Status
 ACCEPTED

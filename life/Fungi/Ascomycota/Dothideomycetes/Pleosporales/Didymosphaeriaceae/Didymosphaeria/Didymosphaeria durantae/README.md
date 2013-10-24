@@ -1,5 +1,4 @@
-Didymosphaeria durantae Srinivasulu SPECIES
-=======
+# Didymosphaeria durantae Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

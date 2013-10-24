@@ -1,5 +1,4 @@
-Dendrodochium gelatinosum P. Karst. SPECIES
-=======
+# Dendrodochium gelatinosum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

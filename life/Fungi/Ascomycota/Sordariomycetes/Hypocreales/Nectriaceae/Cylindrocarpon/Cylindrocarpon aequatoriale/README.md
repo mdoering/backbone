@@ -1,5 +1,4 @@
-Cylindrocarpon aequatoriale Matsush. SPECIES
-=======
+# Cylindrocarpon aequatoriale Matsush. SPECIES
 
 #### Status
 ACCEPTED

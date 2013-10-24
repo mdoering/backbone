@@ -1,5 +1,4 @@
-Meliola macracantha (Cif.) Hansf. SPECIES
-=======
+# Meliola macracantha (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

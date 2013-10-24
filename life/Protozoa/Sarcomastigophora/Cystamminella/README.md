@@ -1,5 +1,4 @@
-Cystamminella Lukina, 1980 GENUS
-=======
+# Cystamminella Lukina, 1980 GENUS
 
 #### Status
 ACCEPTED

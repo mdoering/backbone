@@ -1,5 +1,4 @@
-Diaporthe sparsa Niessl SPECIES
-=======
+# Diaporthe sparsa Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium juniperinum Georgescu & Badea SPECIES
-=======
+# Camarosporium juniperinum Georgescu & Badea SPECIES
 
 #### Status
 ACCEPTED

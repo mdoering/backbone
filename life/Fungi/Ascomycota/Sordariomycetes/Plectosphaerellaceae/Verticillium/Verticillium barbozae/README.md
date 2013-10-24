@@ -1,5 +1,4 @@
-Verticillium barbozae Vincens SPECIES
-=======
+# Verticillium barbozae Vincens SPECIES
 
 #### Status
 ACCEPTED

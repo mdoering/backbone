@@ -1,5 +1,4 @@
-Buellia bogongensis Elix SPECIES
-=======
+# Buellia bogongensis Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolina indica Sathe & J.T. Daniel SPECIES
-=======
+# Panaeolina indica Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

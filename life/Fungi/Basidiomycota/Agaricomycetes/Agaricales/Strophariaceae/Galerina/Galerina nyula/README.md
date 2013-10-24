@@ -1,5 +1,4 @@
-Galerina nyula Grgur. SPECIES
-=======
+# Galerina nyula Grgur. SPECIES
 
 #### Status
 ACCEPTED

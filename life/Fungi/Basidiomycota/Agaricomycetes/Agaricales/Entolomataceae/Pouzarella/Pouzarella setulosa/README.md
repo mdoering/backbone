@@ -1,5 +1,4 @@
-Pouzarella setulosa (Velen.) Mazzer SPECIES
-=======
+# Pouzarella setulosa (Velen.) Mazzer SPECIES
 
 #### Status
 ACCEPTED

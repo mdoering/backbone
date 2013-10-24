@@ -1,8 +1,7 @@
-Oscillatoria foreaui Frémy SPECIES
-=======
+# Phormidium foreaui (Frémy) Umezaki & Watanabe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

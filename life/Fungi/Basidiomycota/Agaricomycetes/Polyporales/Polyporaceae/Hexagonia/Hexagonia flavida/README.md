@@ -1,5 +1,4 @@
-Hexagonia flavida Lév. SPECIES
-=======
+# Hexagonia flavida Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus pusio Berk., 1856 SPECIES
-=======
+# Cantharellus pusio Berk., 1856 SPECIES
 
 #### Status
 ACCEPTED

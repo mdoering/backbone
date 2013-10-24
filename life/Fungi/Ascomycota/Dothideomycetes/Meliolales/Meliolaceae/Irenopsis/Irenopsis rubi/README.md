@@ -1,5 +1,4 @@
-Irenopsis rubi M.S. Patil & Maham. SPECIES
-=======
+# Irenopsis rubi M.S. Patil & Maham. SPECIES
 
 #### Status
 ACCEPTED

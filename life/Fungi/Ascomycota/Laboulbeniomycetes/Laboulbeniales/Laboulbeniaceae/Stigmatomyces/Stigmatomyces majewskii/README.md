@@ -1,5 +1,4 @@
-Stigmatomyces majewskii H.L. Dainat, Manier & Balazuc SPECIES
-=======
+# Stigmatomyces majewskii H.L. Dainat, Manier & Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma aequale (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma aequale (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

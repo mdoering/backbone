@@ -1,5 +1,4 @@
-Puccinia padwickii Cummins SPECIES
-=======
+# Puccinia padwickii Cummins SPECIES
 
 #### Status
 ACCEPTED

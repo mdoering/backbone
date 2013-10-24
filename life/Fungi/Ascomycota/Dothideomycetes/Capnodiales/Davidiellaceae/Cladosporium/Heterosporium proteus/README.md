@@ -1,5 +1,4 @@
-Heterosporium proteus Starbäck SPECIES
-=======
+# Heterosporium proteus Starbäck SPECIES
 
 #### Status
 ACCEPTED

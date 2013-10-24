@@ -1,5 +1,4 @@
-Uromyces winteri Wettst. SPECIES
-=======
+# Uromyces winteri Wettst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula ochracea Corda SPECIES
-=======
+# Torula ochracea Corda SPECIES
 
 #### Status
 ACCEPTED

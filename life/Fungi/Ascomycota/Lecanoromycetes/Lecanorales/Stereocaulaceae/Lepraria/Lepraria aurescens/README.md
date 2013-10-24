@@ -1,5 +1,4 @@
-Lepraria aurescens Orange & Wolseley SPECIES
-=======
+# Lepraria aurescens Orange & Wolseley SPECIES
 
 #### Status
 ACCEPTED

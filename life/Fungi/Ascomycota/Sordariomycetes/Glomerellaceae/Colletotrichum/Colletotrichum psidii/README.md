@@ -1,5 +1,4 @@
-Colletotrichum psidii Curzi, 1927 SPECIES
-=======
+# Colletotrichum psidii Curzi, 1927 SPECIES
 
 #### Status
 ACCEPTED

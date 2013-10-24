@@ -1,5 +1,4 @@
-Alboleptonia largentii T.J. Baroni & Lodge SPECIES
-=======
+# Alboleptonia largentii T.J. Baroni & Lodge SPECIES
 
 #### Status
 ACCEPTED

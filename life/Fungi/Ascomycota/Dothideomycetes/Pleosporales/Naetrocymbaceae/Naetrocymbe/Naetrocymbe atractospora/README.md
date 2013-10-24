@@ -1,5 +1,4 @@
-Naetrocymbe atractospora (Zahlbr.) R. C. Harris SPECIES
-=======
+# Naetrocymbe atractospora (Zahlbr.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

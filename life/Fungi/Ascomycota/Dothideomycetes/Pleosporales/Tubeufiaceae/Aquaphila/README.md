@@ -1,5 +1,4 @@
-Aquaphila Goh, K.D. Hyde & W.H. Ho GENUS
-=======
+# Aquaphila Goh, K.D. Hyde & W.H. Ho GENUS
 
 #### Status
 ACCEPTED

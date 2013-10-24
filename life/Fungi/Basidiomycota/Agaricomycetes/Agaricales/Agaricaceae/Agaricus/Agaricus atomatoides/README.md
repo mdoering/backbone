@@ -1,5 +1,4 @@
-Agaricus atomatoides Peck SPECIES
-=======
+# Agaricus atomatoides Peck SPECIES
 
 #### Status
 ACCEPTED

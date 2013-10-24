@@ -1,5 +1,4 @@
-Microsphaeropsis eucalypti (Gonz. Frag.) B. Sutton SPECIES
-=======
+# Microsphaeropsis eucalypti (Gonz. Frag.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

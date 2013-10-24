@@ -1,5 +1,4 @@
-Textularia eximia (Eichwald) SPECIES
-=======
+# Textularia eximia (Eichwald) SPECIES
 
 #### Status
 ACCEPTED

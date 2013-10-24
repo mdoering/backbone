@@ -1,5 +1,4 @@
-Selysina Duboscq, 1917 GENUS
-=======
+# Selysina Duboscq, 1917 GENUS
 
 #### Status
 ACCEPTED

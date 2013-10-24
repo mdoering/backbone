@@ -1,5 +1,4 @@
-Thermococcus Zillig, Holz, Janekovic, Schafer & Reiter, 1983 GENUS
-=======
+# Thermococcus Zillig, Holz, Janekovic, Schafer & Reiter, 1983 GENUS
 
 #### Status
 ACCEPTED

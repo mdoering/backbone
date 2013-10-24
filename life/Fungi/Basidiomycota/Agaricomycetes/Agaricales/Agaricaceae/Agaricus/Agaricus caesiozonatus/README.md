@@ -1,5 +1,4 @@
-Agaricus caesiozonatus Rabenh. SPECIES
-=======
+# Agaricus caesiozonatus Rabenh. SPECIES
 
 #### Status
 ACCEPTED

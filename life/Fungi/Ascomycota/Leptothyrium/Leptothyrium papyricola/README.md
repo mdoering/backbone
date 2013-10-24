@@ -1,5 +1,4 @@
-Leptothyrium papyricola Vouaux SPECIES
-=======
+# Leptothyrium papyricola Vouaux SPECIES
 
 #### Status
 ACCEPTED

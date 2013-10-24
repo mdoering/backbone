@@ -1,5 +1,4 @@
-Trinacria ecostata P. A. Sims & R. Ross SPECIES
-=======
+# Trinacria ecostata P. A. Sims & R. Ross SPECIES
 
 #### Status
 ACCEPTED

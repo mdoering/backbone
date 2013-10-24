@@ -1,5 +1,4 @@
-Cylindrosporium lampsanae (Desm.) J. Schröt. SPECIES
-=======
+# Cylindrosporium lampsanae (Desm.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

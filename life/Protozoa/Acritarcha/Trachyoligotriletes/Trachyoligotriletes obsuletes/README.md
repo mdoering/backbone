@@ -1,5 +1,4 @@
-Trachyoligotriletes obsuletes (Naumova, 1949) Timofeev, 1960 SPECIES
-=======
+# Trachyoligotriletes obsuletes (Naumova, 1949) Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

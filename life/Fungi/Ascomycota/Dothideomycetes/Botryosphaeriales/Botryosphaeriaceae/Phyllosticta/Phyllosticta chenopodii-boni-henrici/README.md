@@ -1,5 +1,4 @@
-Phyllosticta chenopodii-boni-henrici Savul. & Sandu SPECIES
-=======
+# Phyllosticta chenopodii-boni-henrici Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

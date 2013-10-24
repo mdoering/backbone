@@ -1,5 +1,4 @@
-Rhizocarpon bonaportensis Gelting SPECIES
-=======
+# Rhizocarpon bonaportensis Gelting SPECIES
 
 #### Status
 ACCEPTED

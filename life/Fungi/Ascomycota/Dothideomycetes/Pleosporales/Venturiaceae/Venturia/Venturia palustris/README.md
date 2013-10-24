@@ -1,5 +1,4 @@
-Venturia palustris Sacc., E. Bommer & M. Rousseau, 1886 SPECIES
-=======
+# Venturia palustris Sacc., E. Bommer & M. Rousseau, 1886 SPECIES
 
 #### Status
 ACCEPTED

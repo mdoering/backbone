@@ -1,5 +1,4 @@
-Lecidea enterophaea Vain. SPECIES
-=======
+# Lecidea enterophaea Vain. SPECIES
 
 #### Status
 ACCEPTED

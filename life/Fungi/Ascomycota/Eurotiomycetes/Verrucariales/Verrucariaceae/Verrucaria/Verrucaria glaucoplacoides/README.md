@@ -1,5 +1,4 @@
-Verrucaria glaucoplacoides Darb. SPECIES
-=======
+# Verrucaria glaucoplacoides Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium pini-excelsae S. Ahmad, 1954 SPECIES
-=======
+# Lophodermium pini-excelsae S. Ahmad, 1954 SPECIES
 
 #### Status
 ACCEPTED

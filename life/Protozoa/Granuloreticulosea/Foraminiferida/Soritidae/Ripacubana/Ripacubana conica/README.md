@@ -1,5 +1,4 @@
-Ripacubana conica SPECIES
-=======
+# Ripacubana conica SPECIES
 
 #### Status
 ACCEPTED

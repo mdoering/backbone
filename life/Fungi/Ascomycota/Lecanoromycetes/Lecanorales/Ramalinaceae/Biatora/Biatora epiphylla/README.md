@@ -1,5 +1,4 @@
-Biatora epiphylla G. Merr. SPECIES
-=======
+# Biatora epiphylla G. Merr. SPECIES
 
 #### Status
 ACCEPTED

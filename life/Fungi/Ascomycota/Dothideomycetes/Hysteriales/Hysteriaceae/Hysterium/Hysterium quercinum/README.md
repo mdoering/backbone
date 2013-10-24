@@ -1,5 +1,4 @@
-Hysterium quercinum Schumach. SPECIES
-=======
+# Hysterium quercinum Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella gigantea Räsänen SPECIES
-=======
+# Didymella gigantea Räsänen SPECIES
 
 #### Status
 ACCEPTED

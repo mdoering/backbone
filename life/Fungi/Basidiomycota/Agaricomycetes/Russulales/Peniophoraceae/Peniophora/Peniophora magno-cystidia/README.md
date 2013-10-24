@@ -1,5 +1,4 @@
-Peniophora magno-cystidia Lin, 1976 SPECIES
-=======
+# Peniophora magno-cystidia Lin, 1976 SPECIES
 
 #### Status
 ACCEPTED

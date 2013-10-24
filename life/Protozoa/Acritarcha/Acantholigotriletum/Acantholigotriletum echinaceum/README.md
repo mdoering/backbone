@@ -1,5 +1,4 @@
-Acantholigotriletum echinaceum Timofeev, 1959 SPECIES
-=======
+# Acantholigotriletum echinaceum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

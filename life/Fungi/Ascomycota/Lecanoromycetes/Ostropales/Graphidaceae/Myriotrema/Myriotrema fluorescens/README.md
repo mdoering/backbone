@@ -1,5 +1,4 @@
-Myriotrema fluorescens Hale SPECIES
-=======
+# Myriotrema fluorescens Hale SPECIES
 
 #### Status
 ACCEPTED

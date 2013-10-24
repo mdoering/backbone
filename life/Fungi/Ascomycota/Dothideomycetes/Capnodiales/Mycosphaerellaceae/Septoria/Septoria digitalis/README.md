@@ -1,5 +1,4 @@
-Septoria digitalis Pass., 1879 SPECIES
-=======
+# Septoria digitalis Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED

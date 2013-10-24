@@ -1,5 +1,4 @@
-Glugea weissenbergi Sprague & Vernick, 1968 SPECIES
-=======
+# Glugea weissenbergi Sprague & Vernick, 1968 SPECIES
 
 #### Status
 ACCEPTED

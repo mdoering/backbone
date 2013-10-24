@@ -1,17 +1,16 @@
-Patellaria fusca var. fusca VARIETY
-=======
+# Patellaria fusca Wallr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Patellaria fusca Wallr., 1829
 
 ### Remarks
 null

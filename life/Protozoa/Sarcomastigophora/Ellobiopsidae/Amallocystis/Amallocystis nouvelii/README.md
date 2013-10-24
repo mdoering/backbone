@@ -1,8 +1,7 @@
-Amallocystis nouveli Hoenigman {?} SPECIES
-=======
+# Amallocystis nouvelii Hoenigman {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amallocystis nouveli Hoenigman {?}
+Amallocystis nouvelii Hoenigman {?}
 
 ### Remarks
 null

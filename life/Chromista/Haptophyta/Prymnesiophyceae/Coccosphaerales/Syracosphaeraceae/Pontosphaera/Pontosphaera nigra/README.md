@@ -1,5 +1,4 @@
-Pontosphaera nigra Schiller SPECIES
-=======
+# Pontosphaera nigra Schiller SPECIES
 
 #### Status
 ACCEPTED

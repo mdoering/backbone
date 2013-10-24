@@ -1,5 +1,4 @@
-Cortinarius albo-ochraceus M.M. Moser SPECIES
-=======
+# Cortinarius albo-ochraceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

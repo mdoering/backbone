@@ -1,5 +1,4 @@
-Hapalophragmium mysorense Thirum., 1950 SPECIES
-=======
+# Hapalophragmium mysorense Thirum., 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhodophana Kühner GENUS
-=======
+# Rhodocybe Maire GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kühner & Lamoure, Bull. trimest. Soc. mycol. Fr. 87: 23 (1971)
+Bull. trimest. Soc. mycol. Fr. 40: 298 (1926)
 
 #### Original name
-Rhodophana Kühner
+Rhodocybe Maire
 
 ### Remarks
 null

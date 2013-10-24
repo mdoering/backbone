@@ -1,5 +1,4 @@
-Leuconostoc inhae Kim et al., 2003 SPECIES
-=======
+# Leuconostoc inhae Kim et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

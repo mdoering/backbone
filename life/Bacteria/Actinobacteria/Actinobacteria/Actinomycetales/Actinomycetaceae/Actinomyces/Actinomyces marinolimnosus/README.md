@@ -1,5 +1,4 @@
-Actinomyces marinolimnosus ZoBell & Upham SPECIES
-=======
+# Actinomyces marinolimnosus ZoBell & Upham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus ultunensis Roos et al., 2005 SPECIES
-=======
+# Lactobacillus ultunensis Roos et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria granularis Müll. Arg. SPECIES
-=======
+# Patellaria granularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis patellaris Velen. SPECIES
-=======
+# Geopyxis patellaris Velen. SPECIES
 
 #### Status
 ACCEPTED

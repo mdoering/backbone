@@ -1,5 +1,4 @@
-Helicogloea longispora G.E. Baker SPECIES
-=======
+# Helicogloea longispora G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

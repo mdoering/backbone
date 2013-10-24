@@ -1,5 +1,4 @@
-Bovista aspera Lév. SPECIES
-=======
+# Bovista aspera Lév. SPECIES
 
 #### Status
 ACCEPTED

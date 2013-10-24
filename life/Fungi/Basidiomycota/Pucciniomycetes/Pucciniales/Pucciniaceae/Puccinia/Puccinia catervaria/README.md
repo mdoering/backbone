@@ -1,5 +1,4 @@
-Puccinia catervaria Cummins SPECIES
-=======
+# Puccinia catervaria Cummins SPECIES
 
 #### Status
 ACCEPTED

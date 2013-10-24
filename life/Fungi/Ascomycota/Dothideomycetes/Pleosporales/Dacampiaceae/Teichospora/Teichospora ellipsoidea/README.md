@@ -1,5 +1,4 @@
-Teichospora ellipsoidea Wehm. & S. Ahmad SPECIES
-=======
+# Teichospora ellipsoidea Wehm. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

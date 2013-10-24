@@ -1,5 +1,4 @@
-Drosophila elegans Romagn. SPECIES
-=======
+# Drosophila elegans Romagn. SPECIES
 
 #### Status
 ACCEPTED

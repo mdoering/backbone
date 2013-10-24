@@ -1,5 +1,4 @@
-Omphalia sciopoda Quél. SPECIES
-=======
+# Omphalia sciopoda Quél. SPECIES
 
 #### Status
 ACCEPTED

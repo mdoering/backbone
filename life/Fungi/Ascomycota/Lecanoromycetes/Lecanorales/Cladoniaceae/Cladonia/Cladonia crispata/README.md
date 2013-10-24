@@ -1,17 +1,16 @@
-Cladonia crispata f. crispata FORM
-=======
+# Cladonia crispata (Ach.) Flot. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Merkw. Flecht. Hirschb. 4 (1839)
+null
 
 #### Original name
-Cladonia crispata f. crispata
+null
 
 ### Remarks
 null

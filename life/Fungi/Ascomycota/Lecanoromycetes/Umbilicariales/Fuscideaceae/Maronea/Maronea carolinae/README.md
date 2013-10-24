@@ -1,5 +1,4 @@
-Maronea carolinae H. Magn. SPECIES
-=======
+# Maronea carolinae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

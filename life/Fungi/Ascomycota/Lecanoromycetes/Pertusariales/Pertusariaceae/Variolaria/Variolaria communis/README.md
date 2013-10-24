@@ -1,5 +1,4 @@
-Variolaria communis SPECIES
-=======
+# Variolaria communis SPECIES
 
 #### Status
 ACCEPTED

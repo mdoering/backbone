@@ -1,5 +1,4 @@
-Croceibacter Cho & Giovannoni, 2003 GENUS
-=======
+# Croceibacter Cho & Giovannoni, 2003 GENUS
 
 #### Status
 ACCEPTED

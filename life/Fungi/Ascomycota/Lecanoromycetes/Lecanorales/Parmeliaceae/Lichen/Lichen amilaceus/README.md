@@ -1,5 +1,4 @@
-Lichen amilaceus Vill. SPECIES
-=======
+# Lichen amilaceus Vill. SPECIES
 
 #### Status
 ACCEPTED

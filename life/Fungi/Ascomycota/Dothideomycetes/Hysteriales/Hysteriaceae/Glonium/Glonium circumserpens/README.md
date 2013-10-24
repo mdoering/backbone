@@ -1,14 +1,13 @@
-Melaspilea circumserpens Nyl., 1880 SPECIES
-=======
+# Glonium circumserpens (Nyl.) Kantvilas & Coppins, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Crombie, J. Linn. Soc. , Bot. 17: 401 (1880)
+Lichenologist 29(6): 525 (1997)
 
 #### Original name
 Melaspilea circumserpens Nyl., 1880

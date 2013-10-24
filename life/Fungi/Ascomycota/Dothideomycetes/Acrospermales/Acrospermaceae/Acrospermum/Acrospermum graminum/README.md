@@ -1,17 +1,16 @@
-Acrospermum graminum var. decipiens (Pass.) O.E. Erikss. VARIETY
-=======
+# Acrospermum graminum Lib., 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. crypt. Arduenna (Liège), fasc. 1: no. 33 (1830)
 
 #### Original name
-Acrospermum decipiens Pass.
+Acrospermum graminum Lib., 1830
 
 ### Remarks
 null

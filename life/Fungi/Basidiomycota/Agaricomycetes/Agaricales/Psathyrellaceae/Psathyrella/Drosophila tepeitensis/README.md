@@ -1,5 +1,4 @@
-Drosophila tepeitensis Murrill SPECIES
-=======
+# Drosophila tepeitensis Murrill SPECIES
 
 #### Status
 ACCEPTED

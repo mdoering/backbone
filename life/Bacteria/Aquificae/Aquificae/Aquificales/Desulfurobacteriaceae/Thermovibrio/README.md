@@ -1,5 +1,4 @@
-Thermovibrio Huber, Diller, Horn & Rachel, 2002 GENUS
-=======
+# Thermovibrio Huber, Diller, Horn & Rachel, 2002 GENUS
 
 #### Status
 ACCEPTED

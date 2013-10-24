@@ -1,5 +1,4 @@
-Agaricus radicatoramosus Bolton SPECIES
-=======
+# Agaricus radicatoramosus Bolton SPECIES
 
 #### Status
 ACCEPTED

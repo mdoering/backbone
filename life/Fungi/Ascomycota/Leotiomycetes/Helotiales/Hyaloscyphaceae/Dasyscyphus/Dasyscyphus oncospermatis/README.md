@@ -1,5 +1,4 @@
-Dasyscyphus oncospermatis var. oncospermatis VARIETY
-=======
+# Dasyscyphus oncospermatis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 8: 465 (1889)
 
 #### Original name
-Dasyscyphus oncospermatis var. oncospermatis
+Peziza oncospermatis Berk. & Broome
 
 ### Remarks
 null

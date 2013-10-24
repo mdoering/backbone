@@ -1,5 +1,4 @@
-Alternaria aracearum Smita Jain & A.N. Rai SPECIES
-=======
+# Alternaria aracearum Smita Jain & A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

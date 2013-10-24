@@ -1,5 +1,4 @@
-Acarospora assimulans Vain. SPECIES
-=======
+# Acarospora assimulans Vain. SPECIES
 
 #### Status
 ACCEPTED

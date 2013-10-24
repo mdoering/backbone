@@ -1,5 +1,4 @@
-Lecanora schleicheri f. schleicheri FORM
-=======
+# Lecanora schleicheri SPECIES
 
 #### Status
 ACCEPTED

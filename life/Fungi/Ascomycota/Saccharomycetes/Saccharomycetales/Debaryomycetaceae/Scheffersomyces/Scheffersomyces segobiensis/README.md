@@ -1,5 +1,4 @@
-Scheffersomyces segobiensis (Santa María & C. García) Kurtzman & M. Suzuki, 2010 SPECIES
-=======
+# Scheffersomyces segobiensis (Santa María & C. García) Kurtzman & M. Suzuki, 2010 SPECIES
 
 #### Status
 ACCEPTED

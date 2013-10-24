@@ -1,5 +1,4 @@
-Catapyrenium mongolicum (H. Magn.) J.C. Wei SPECIES
-=======
+# Catapyrenium mongolicum (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

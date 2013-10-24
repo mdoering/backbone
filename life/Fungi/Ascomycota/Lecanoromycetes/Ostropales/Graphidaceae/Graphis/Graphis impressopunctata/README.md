@@ -1,5 +1,4 @@
-Graphis impressopunctata Vain. SPECIES
-=======
+# Graphis impressopunctata Vain. SPECIES
 
 #### Status
 ACCEPTED

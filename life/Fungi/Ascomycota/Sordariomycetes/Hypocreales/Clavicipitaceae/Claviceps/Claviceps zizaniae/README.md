@@ -1,5 +1,4 @@
-Claviceps zizaniae (Fyles) Pantidou SPECIES
-=======
+# Claviceps zizaniae (Fyles) Pantidou SPECIES
 
 #### Status
 ACCEPTED

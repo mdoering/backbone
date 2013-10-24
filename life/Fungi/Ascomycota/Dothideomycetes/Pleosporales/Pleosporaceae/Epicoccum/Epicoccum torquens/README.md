@@ -1,5 +1,4 @@
-Epicoccum torquens Massee SPECIES
-=======
+# Epicoccum torquens Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella teretispora S.I. Ahmed & Cain, 1972 SPECIES
-=======
+# Sporormiella teretispora S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
 ACCEPTED

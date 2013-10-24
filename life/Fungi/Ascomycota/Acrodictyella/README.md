@@ -1,5 +1,4 @@
-Acrodictyella W.A. Baker & Partridge GENUS
-=======
+# Acrodictyella W.A. Baker & Partridge GENUS
 
 #### Status
 ACCEPTED

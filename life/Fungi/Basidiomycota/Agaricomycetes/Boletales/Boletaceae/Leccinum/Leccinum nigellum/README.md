@@ -1,5 +1,4 @@
-Leccinum nigellum Redeuilh SPECIES
-=======
+# Leccinum nigellum Redeuilh SPECIES
 
 #### Status
 ACCEPTED

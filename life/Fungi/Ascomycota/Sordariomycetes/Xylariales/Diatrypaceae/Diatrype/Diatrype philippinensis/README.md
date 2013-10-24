@@ -1,5 +1,4 @@
-Diatrype philippinensis (Rehm) Rappaz SPECIES
-=======
+# Diatrype philippinensis (Rehm) Rappaz SPECIES
 
 #### Status
 ACCEPTED

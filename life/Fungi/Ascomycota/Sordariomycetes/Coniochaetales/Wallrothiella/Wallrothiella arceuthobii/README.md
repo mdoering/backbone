@@ -1,5 +1,4 @@
-Wallrothiella arceuthobii (Peck) Sacc. SPECIES
-=======
+# Wallrothiella arceuthobii (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

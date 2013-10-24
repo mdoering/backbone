@@ -1,5 +1,4 @@
-Hapalosphaeria Syd. GENUS
-=======
+# Hapalosphaeria Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Altererythrobacter Kwon, Woo, Yang, Kang, Kang, Kim, Sato & Kato, 2007 GENUS
-=======
+# Altererythrobacter Kwon, Woo, Yang, Kang, Kang, Kim, Sato & Kato, 2007 GENUS
 
 #### Status
 ACCEPTED

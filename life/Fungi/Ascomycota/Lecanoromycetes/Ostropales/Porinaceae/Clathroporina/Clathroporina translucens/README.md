@@ -1,5 +1,4 @@
-Clathroporina translucens Müll. Arg. SPECIES
-=======
+# Clathroporina translucens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

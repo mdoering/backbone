@@ -1,5 +1,4 @@
-Mycenella kuehneri Romagn. SPECIES
-=======
+# Mycenella kuehneri Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus parvus (Peck) Kuntze SPECIES
-=======
+# Lactifluus parvus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

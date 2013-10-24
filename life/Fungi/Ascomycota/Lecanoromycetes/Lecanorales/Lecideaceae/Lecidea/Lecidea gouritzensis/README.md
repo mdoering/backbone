@@ -1,5 +1,4 @@
-Lecidea gouritzensis Vain. SPECIES
-=======
+# Lecidea gouritzensis Vain. SPECIES
 
 #### Status
 ACCEPTED

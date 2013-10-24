@@ -1,5 +1,4 @@
-Lecidea subdeclinans var. subdeclinans VARIETY
-=======
+# Lecidea subdeclinans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nuovo Giorn. Bot. Ital. 21: 45 (1889)
 
 #### Original name
-Lecidea subdeclinans var. subdeclinans
+Lecidea subdeclinans Müll. Arg.
 
 ### Remarks
 null

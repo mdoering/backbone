@@ -1,5 +1,4 @@
-Inocybe egenula J. Favre SPECIES
-=======
+# Inocybe egenula J. Favre SPECIES
 
 #### Status
 ACCEPTED

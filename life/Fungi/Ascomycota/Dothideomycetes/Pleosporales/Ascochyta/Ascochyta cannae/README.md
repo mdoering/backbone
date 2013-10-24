@@ -1,5 +1,4 @@
-Ascochyta cannae Rangel SPECIES
-=======
+# Ascochyta cannae Rangel SPECIES
 
 #### Status
 ACCEPTED

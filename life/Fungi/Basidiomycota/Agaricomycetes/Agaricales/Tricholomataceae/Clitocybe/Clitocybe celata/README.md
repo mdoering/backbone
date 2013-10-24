@@ -1,5 +1,4 @@
-Clitocybe celata H.E. Bigelow SPECIES
-=======
+# Clitocybe celata H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

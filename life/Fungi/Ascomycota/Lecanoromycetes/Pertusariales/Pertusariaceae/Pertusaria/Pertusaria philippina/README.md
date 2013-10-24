@@ -1,5 +1,4 @@
-Pertusaria philippina Vain. SPECIES
-=======
+# Pertusaria philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

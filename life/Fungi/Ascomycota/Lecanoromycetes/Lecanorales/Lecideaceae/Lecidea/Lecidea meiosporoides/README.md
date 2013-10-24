@@ -1,5 +1,4 @@
-Lecidea meiosporoides (Norrl.) Nyl. SPECIES
-=======
+# Lecidea meiosporoides (Norrl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

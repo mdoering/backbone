@@ -1,5 +1,4 @@
-Bacidia imitans (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia imitans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

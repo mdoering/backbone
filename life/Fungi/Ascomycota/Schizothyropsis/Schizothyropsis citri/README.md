@@ -1,5 +1,4 @@
-Schizothyropsis citri Bat. & A.F. Vital, 1960 SPECIES
-=======
+# Schizothyropsis citri Bat. & A.F. Vital, 1960 SPECIES
 
 #### Status
 ACCEPTED

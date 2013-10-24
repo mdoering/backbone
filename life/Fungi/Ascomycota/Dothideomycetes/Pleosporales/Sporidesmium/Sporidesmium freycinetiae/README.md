@@ -1,5 +1,4 @@
-Sporidesmium freycinetiae McKenzie, 1995 SPECIES
-=======
+# Sporidesmium freycinetiae McKenzie, 1995 SPECIES
 
 #### Status
 ACCEPTED

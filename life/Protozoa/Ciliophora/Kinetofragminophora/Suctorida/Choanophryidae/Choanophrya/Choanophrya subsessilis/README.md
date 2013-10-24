@@ -1,5 +1,4 @@
-Choanophrya subsessilis SPECIES
-=======
+# Choanophrya subsessilis SPECIES
 
 #### Status
 ACCEPTED

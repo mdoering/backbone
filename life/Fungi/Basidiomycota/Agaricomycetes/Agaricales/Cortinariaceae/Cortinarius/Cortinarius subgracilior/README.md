@@ -1,5 +1,4 @@
-Cortinarius subgracilior Bidaud & Carteret SPECIES
-=======
+# Cortinarius subgracilior Bidaud & Carteret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptostictella reynoutriae Sawada SPECIES
-=======
+# Cryptostictella reynoutriae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salegentibacter flavus Ivanova et al., 2006 SPECIES
-=======
+# Salegentibacter flavus Ivanova et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

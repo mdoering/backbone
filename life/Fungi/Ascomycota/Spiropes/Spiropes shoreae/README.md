@@ -1,5 +1,4 @@
-Spiropes shoreae M.B. Ellis SPECIES
-=======
+# Spiropes shoreae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

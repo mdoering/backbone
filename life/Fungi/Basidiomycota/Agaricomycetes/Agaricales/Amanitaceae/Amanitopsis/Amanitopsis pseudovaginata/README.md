@@ -1,5 +1,4 @@
-Amanitopsis pseudovaginata (Hongo) Wasser SPECIES
-=======
+# Amanitopsis pseudovaginata (Hongo) Wasser SPECIES
 
 #### Status
 ACCEPTED

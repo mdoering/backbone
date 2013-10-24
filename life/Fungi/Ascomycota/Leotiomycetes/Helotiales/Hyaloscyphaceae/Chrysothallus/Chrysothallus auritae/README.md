@@ -1,5 +1,4 @@
-Chrysothallus auritae Velen. SPECIES
-=======
+# Chrysothallus auritae Velen. SPECIES
 
 #### Status
 ACCEPTED

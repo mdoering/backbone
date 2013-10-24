@@ -1,5 +1,4 @@
-Skyttea dacampiae Zhurb. SPECIES
-=======
+# Skyttea dacampiae Zhurb. SPECIES
 
 #### Status
 ACCEPTED

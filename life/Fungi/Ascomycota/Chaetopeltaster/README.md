@@ -1,5 +1,4 @@
-Chaetopeltaster Katum. GENUS
-=======
+# Chaetopeltaster Katum. GENUS
 
 #### Status
 ACCEPTED

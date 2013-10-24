@@ -1,5 +1,4 @@
-Euphoriomyces gillerforsii (Huggert) I.I. Tav. SPECIES
-=======
+# Euphoriomyces gillerforsii (Huggert) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

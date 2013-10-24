@@ -1,5 +1,4 @@
-Russula pulchra Burl. SPECIES
-=======
+# Russula pulchra Burl. SPECIES
 
 #### Status
 ACCEPTED

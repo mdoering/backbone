@@ -1,5 +1,4 @@
-Blackiella S.I. Shumenko in B.S. Sokolov, 1987 GENUS
-=======
+# Blackiella S.I. Shumenko in B.S. Sokolov, 1987 GENUS
 
 #### Status
 ACCEPTED

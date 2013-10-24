@@ -1,5 +1,4 @@
-Cytospora epileuca Sacc. SPECIES
-=======
+# Cytospora epileuca Sacc. SPECIES
 
 #### Status
 ACCEPTED

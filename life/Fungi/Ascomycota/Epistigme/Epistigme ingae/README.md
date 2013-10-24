@@ -1,5 +1,4 @@
-Epistigme ingae Bat. & A.F. Vital SPECIES
-=======
+# Epistigme ingae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

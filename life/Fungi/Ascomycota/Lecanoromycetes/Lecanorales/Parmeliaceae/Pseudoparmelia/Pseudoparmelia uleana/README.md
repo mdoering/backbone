@@ -1,5 +1,4 @@
-Pseudoparmelia uleana (Müll. Arg.) Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia uleana (Müll. Arg.) Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

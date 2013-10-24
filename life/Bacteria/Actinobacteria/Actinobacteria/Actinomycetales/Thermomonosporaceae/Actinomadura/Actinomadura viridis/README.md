@@ -1,8 +1,7 @@
-Microtetraspora viridis Nonomura and Ohara, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Actinomadura viridis (Nonomura & Ohara, 1971) Miyadoh et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

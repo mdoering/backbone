@@ -1,5 +1,4 @@
-Scirrhia crustosa M.E. Barr SPECIES
-=======
+# Scirrhia crustosa M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

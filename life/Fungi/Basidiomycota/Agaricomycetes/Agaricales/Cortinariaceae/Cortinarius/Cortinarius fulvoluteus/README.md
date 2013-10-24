@@ -1,5 +1,4 @@
-Cortinarius fulvoluteus Britzelm. SPECIES
-=======
+# Cortinarius fulvoluteus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

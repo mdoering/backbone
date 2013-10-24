@@ -1,5 +1,4 @@
-Mortierella soussauensis E. Wolf SPECIES
-=======
+# Mortierella soussauensis E. Wolf SPECIES
 
 #### Status
 ACCEPTED

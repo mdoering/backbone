@@ -1,5 +1,4 @@
-Opegrapha pruinosa Fingerh. SPECIES
-=======
+# Opegrapha pruinosa Fingerh. SPECIES
 
 #### Status
 ACCEPTED

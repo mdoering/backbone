@@ -1,5 +1,4 @@
-Lycoperdon confluens Pat. SPECIES
-=======
+# Lycoperdon confluens Pat. SPECIES
 
 #### Status
 ACCEPTED

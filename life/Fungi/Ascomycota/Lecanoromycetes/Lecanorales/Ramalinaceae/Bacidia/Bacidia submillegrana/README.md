@@ -1,5 +1,4 @@
-Bacidia submillegrana J. Steiner SPECIES
-=======
+# Bacidia submillegrana J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus siccus Schwein. SPECIES
-=======
+# Agaricus siccus Schwein. SPECIES
 
 #### Status
 ACCEPTED

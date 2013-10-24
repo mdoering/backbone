@@ -1,5 +1,4 @@
-Protosphaeridium pusillum Timofeev, 1966 SPECIES
-=======
+# Protosphaeridium pusillum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora oxystomodes Sacc. SPECIES
-=======
+# Teichospora oxystomodes Sacc. SPECIES
 
 #### Status
 ACCEPTED

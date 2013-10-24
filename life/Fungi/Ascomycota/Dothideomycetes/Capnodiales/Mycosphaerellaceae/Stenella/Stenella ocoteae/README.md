@@ -1,5 +1,4 @@
-Stenella ocoteae Dorn.-Silva & Dianese SPECIES
-=======
+# Stenella ocoteae Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria vitrea Eschw. SPECIES
-=======
+# Verrucaria vitrea Eschw. SPECIES
 
 #### Status
 ACCEPTED

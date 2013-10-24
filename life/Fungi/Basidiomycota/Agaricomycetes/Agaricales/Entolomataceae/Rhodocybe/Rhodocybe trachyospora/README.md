@@ -1,5 +1,4 @@
-Rhodocybe trachyospora var. trachyospora VARIETY
-=======
+# Rhodocybe trachyospora (Largent) T.J. Baroni & Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 34(1): 48 (1989)
 
 #### Original name
-Rhodocybe trachyospora var. trachyospora
+Entoloma trachyosporum Largent
 
 ### Remarks
 null

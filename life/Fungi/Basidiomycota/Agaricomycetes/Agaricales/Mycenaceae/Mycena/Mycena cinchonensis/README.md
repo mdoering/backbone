@@ -1,5 +1,4 @@
-Mycena cinchonensis Murrill SPECIES
-=======
+# Mycena cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

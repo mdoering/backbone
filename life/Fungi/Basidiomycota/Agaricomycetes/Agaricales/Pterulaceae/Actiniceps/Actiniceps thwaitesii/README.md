@@ -1,5 +1,4 @@
-Actiniceps thwaitesii Berk. & Broome, 1876 SPECIES
-=======
+# Actiniceps thwaitesii Berk. & Broome, 1876 SPECIES
 
 #### Status
 ACCEPTED

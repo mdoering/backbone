@@ -1,5 +1,4 @@
-Coccomyces noosanus P.R. Johnst., 2000 SPECIES
-=======
+# Coccomyces noosanus P.R. Johnst., 2000 SPECIES
 
 #### Status
 ACCEPTED

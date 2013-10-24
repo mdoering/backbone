@@ -1,5 +1,4 @@
-Arthopyrenia glaucoatra Vain. SPECIES
-=======
+# Arthopyrenia glaucoatra Vain. SPECIES
 
 #### Status
 ACCEPTED

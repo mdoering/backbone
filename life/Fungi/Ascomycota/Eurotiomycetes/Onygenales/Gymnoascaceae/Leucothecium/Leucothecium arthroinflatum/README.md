@@ -1,5 +1,4 @@
-Leucothecium arthroinflatum ined. SPECIES
-=======
+# Leucothecium arthroinflatum ined. SPECIES
 
 #### Status
 ACCEPTED

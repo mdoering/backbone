@@ -1,5 +1,4 @@
-Gymnosporium oryzae Catt. SPECIES
-=======
+# Gymnosporium oryzae Catt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber piperatum H. Bonnet SPECIES
-=======
+# Tuber piperatum H. Bonnet SPECIES
 
 #### Status
 ACCEPTED

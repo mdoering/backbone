@@ -1,5 +1,4 @@
-Peziza fairmanii Ellis & Everh. SPECIES
-=======
+# Peziza fairmanii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

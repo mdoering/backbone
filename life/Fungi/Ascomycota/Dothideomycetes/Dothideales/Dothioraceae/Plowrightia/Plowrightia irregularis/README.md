@@ -1,5 +1,4 @@
-Plowrightia irregularis (G.H. Otth) Sacc. SPECIES
-=======
+# Plowrightia irregularis (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

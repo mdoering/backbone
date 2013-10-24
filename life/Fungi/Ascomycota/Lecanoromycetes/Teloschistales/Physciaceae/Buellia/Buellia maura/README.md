@@ -1,5 +1,4 @@
-Buellia maura Werner SPECIES
-=======
+# Buellia maura Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma praecox P. Karst. SPECIES
-=======
+# Entoloma praecox P. Karst. SPECIES
 
 #### Status
 ACCEPTED

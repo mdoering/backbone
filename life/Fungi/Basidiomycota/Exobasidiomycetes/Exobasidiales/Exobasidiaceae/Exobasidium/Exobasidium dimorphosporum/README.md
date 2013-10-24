@@ -1,5 +1,4 @@
-Exobasidium dimorphosporum Savile SPECIES
-=======
+# Exobasidium dimorphosporum Savile SPECIES
 
 #### Status
 ACCEPTED

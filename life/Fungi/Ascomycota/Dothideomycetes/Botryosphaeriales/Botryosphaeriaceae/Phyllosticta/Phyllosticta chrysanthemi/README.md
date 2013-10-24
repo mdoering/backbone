@@ -1,5 +1,4 @@
-Phyllosticta chrysanthemi Ellis & Dearn. SPECIES
-=======
+# Phyllosticta chrysanthemi Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

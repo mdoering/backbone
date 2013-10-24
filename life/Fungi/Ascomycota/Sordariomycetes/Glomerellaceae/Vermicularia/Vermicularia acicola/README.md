@@ -1,5 +1,4 @@
-Vermicularia acicola Lév. SPECIES
-=======
+# Vermicularia acicola Lév. SPECIES
 
 #### Status
 ACCEPTED

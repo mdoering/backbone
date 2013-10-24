@@ -1,5 +1,4 @@
-Sphaeria biserialis Fr. SPECIES
-=======
+# Sphaeria biserialis Fr. SPECIES
 
 #### Status
 ACCEPTED

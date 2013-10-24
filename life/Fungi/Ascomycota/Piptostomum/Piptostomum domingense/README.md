@@ -1,8 +1,7 @@
-Piptostomum domingensis Lév. SPECIES
-=======
+# Piptostomum domingense Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Piptostomum domingensis Lév.
+Piptostomum domingense Lév.
 
 ### Remarks
 null

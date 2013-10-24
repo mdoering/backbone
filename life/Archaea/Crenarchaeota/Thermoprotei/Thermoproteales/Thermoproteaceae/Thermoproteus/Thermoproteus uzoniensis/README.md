@@ -1,5 +1,4 @@
-Thermoproteus uzoniensis Bonch-Osmolovskaya et al., 2001 SPECIES
-=======
+# Thermoproteus uzoniensis Bonch-Osmolovskaya et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

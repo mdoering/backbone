@@ -1,5 +1,4 @@
-Phloeospora samaricola Nevod. SPECIES
-=======
+# Phloeospora samaricola Nevod. SPECIES
 
 #### Status
 ACCEPTED

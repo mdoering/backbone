@@ -1,5 +1,4 @@
-Phyllactinia aini SPECIES
-=======
+# Phyllactinia aini SPECIES
 
 #### Status
 ACCEPTED

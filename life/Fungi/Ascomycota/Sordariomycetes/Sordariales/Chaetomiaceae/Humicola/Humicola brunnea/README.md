@@ -1,5 +1,4 @@
-Humicola brunnea var. brunnea Fassat., 1967 VARIETY
-=======
+# Humicola brunnea Fassat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Ceská Mykol. 21: 84 (1967)
 
 #### Original name
-Humicola brunnea var. brunnea Fassat., 1967
+Humicola brunnea Fassat.
 
 ### Remarks
 null

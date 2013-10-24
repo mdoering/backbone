@@ -1,5 +1,4 @@
-Caloplaca letrouitioides S. Y. Kondr., Elix & Kärnefelt SPECIES
-=======
+# Caloplaca letrouitioides S. Y. Kondr., Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

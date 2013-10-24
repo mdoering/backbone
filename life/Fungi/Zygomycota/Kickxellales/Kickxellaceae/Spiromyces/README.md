@@ -1,5 +1,4 @@
-Spiromyces R.K. Benj. GENUS
-=======
+# Spiromyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

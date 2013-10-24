@@ -1,5 +1,4 @@
-Dicarpella orientalis (Ellis & Everh.) M. Monod SPECIES
-=======
+# Dicarpella orientalis (Ellis & Everh.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

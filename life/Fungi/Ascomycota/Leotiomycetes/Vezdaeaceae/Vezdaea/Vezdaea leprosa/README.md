@@ -1,14 +1,13 @@
-Micarea leprosa P. James SPECIES
-=======
+# Vezdaea leprosa (P. James) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 5(1-2): 133 (1971)
+Bot. Jb. 96(1-4): 345 (1975)
 
 #### Original name
 Micarea leprosa P. James

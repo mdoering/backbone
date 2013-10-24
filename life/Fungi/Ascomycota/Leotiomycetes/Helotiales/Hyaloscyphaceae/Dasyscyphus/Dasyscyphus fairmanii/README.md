@@ -1,8 +1,7 @@
-Dasyscypha fairmanii Rehm SPECIES
-=======
+# Dasyscyphus fairmanii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha fairmanii Rehm
+Dasyscyphus fairmanii Rehm
 
 ### Remarks
 null

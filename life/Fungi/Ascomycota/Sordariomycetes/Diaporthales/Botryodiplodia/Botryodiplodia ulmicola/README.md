@@ -1,14 +1,13 @@
-Sphaeropsis ulmicola Ellis & Everh., 1891 SPECIES
-=======
+# Botryodiplodia ulmicola (Ellis & Everh.) Buisman, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. 43: 79 (1891)
+J. Arnold Arbor. 22(4): 1 (1931)
 
 #### Original name
 Sphaeropsis ulmicola Ellis & Everh., 1891

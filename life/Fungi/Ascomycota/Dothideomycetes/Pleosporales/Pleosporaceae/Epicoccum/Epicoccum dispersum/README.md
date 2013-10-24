@@ -1,5 +1,4 @@
-Epicoccum dispersum Ces. & Mont. SPECIES
-=======
+# Epicoccum dispersum Ces. & Mont. SPECIES
 
 #### Status
 ACCEPTED

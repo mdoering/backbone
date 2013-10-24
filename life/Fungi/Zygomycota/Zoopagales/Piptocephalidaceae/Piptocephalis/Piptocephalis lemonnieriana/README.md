@@ -1,5 +1,4 @@
-Piptocephalis lemonnieriana Vuill., 1902 SPECIES
-=======
+# Piptocephalis lemonnieriana Vuill., 1902 SPECIES
 
 #### Status
 ACCEPTED

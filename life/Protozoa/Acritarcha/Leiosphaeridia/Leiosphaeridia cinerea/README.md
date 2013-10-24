@@ -1,5 +1,4 @@
-Leiosphaeridia cinerea Paskeviciene, 1980 SPECIES
-=======
+# Leiosphaeridia cinerea Paskeviciene, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subsilacea Nyl. SPECIES
-=======
+# Lecidea subsilacea Nyl. SPECIES
 
 #### Status
 ACCEPTED

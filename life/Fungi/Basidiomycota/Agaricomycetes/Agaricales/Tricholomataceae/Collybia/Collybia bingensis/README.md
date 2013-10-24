@@ -1,5 +1,4 @@
-Collybia bingensis Beeli SPECIES
-=======
+# Collybia bingensis Beeli SPECIES
 
 #### Status
 ACCEPTED

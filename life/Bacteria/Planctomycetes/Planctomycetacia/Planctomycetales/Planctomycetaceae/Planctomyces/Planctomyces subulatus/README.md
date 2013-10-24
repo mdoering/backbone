@@ -1,5 +1,4 @@
-Planctomyces subulatus Wawrik SPECIES
-=======
+# Planctomyces subulatus Wawrik SPECIES
 
 #### Status
 ACCEPTED

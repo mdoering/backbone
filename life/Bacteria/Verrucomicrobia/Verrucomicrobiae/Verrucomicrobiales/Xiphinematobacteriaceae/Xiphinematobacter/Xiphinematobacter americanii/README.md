@@ -1,5 +1,4 @@
-Xiphinematobacter americanii SPECIES
-=======
+# Xiphinematobacter americanii SPECIES
 
 #### Status
 ACCEPTED

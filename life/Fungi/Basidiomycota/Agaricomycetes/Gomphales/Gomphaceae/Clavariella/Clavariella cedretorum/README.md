@@ -1,5 +1,4 @@
-Clavariella cedretorum Maire SPECIES
-=======
+# Clavariella cedretorum Maire SPECIES
 
 #### Status
 ACCEPTED

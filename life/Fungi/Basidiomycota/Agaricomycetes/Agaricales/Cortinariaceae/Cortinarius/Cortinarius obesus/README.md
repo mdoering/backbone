@@ -1,5 +1,4 @@
-Cortinarius obesus E. Horak SPECIES
-=======
+# Cortinarius obesus E. Horak SPECIES
 
 #### Status
 ACCEPTED

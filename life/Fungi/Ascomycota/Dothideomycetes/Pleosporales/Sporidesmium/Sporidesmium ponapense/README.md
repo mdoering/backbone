@@ -1,5 +1,4 @@
-Sporidesmium ponapense Matsush. SPECIES
-=======
+# Sporidesmium ponapense Matsush. SPECIES
 
 #### Status
 ACCEPTED

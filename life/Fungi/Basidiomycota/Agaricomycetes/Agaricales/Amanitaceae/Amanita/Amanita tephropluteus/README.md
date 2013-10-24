@@ -1,5 +1,4 @@
-Amanita tephropluteus E.H.L. Krause SPECIES
-=======
+# Amanita tephropluteus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

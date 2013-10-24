@@ -1,5 +1,4 @@
-Junghuhnia pseudozilingiana (Parmasto) Ryvarden, 1972 SPECIES
-=======
+# Junghuhnia pseudozilingiana (Parmasto) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED

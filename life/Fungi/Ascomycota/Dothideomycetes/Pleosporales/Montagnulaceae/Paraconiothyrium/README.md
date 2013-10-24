@@ -1,5 +1,4 @@
-Paraconiothyrium Verkley GENUS
-=======
+# Paraconiothyrium Verkley GENUS
 
 #### Status
 ACCEPTED

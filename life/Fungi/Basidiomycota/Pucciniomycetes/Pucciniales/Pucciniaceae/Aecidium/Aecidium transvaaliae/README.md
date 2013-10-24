@@ -1,5 +1,4 @@
-Aecidium transvaaliae Henn. & A. Evans SPECIES
-=======
+# Aecidium transvaaliae Henn. & A. Evans SPECIES
 
 #### Status
 ACCEPTED

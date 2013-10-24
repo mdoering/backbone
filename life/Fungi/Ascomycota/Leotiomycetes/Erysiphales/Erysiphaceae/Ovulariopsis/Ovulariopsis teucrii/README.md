@@ -1,5 +1,4 @@
-Ovulariopsis teucrii Jaap SPECIES
-=======
+# Ovulariopsis teucrii Jaap SPECIES
 
 #### Status
 ACCEPTED

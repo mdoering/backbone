@@ -1,5 +1,4 @@
-Graphiopsis bambusae (Höhn.) Goid. SPECIES
-=======
+# Graphiopsis bambusae (Höhn.) Goid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus ingluviei Baele et al., 2003 SPECIES
-=======
+# Lactobacillus ingluviei Baele et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

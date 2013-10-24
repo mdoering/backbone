@@ -1,17 +1,16 @@
-Lichen pungens Ach. SPECIES
-=======
+# Cladonia pertricosa Kremp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. suec. prodr. (Linköping) 202 (1798)
+Verh. zool. -bot. Ges. Wein 30: 331 (1881)
 
 #### Original name
-Lichen pungens Ach.
+Cladonia pertricosa Kremp.
 
 ### Remarks
 null

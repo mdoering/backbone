@@ -1,5 +1,4 @@
-Cetraria everniella (Nyl.) Kremp. SPECIES
-=======
+# Cetraria everniella (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nassula versicolor André, 1916 SPECIES
-=======
+# Nassula versicolor André, 1916 SPECIES
 
 #### Status
 ACCEPTED

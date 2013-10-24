@@ -1,5 +1,4 @@
-Leptosphaeria spatharum Ces. SPECIES
-=======
+# Leptosphaeria spatharum Ces. SPECIES
 
 #### Status
 ACCEPTED

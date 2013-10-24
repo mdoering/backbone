@@ -1,5 +1,4 @@
-Cercospora granadillae Chupp SPECIES
-=======
+# Cercospora granadillae Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylomonas Korshikov, 1926 GENUS
-=======
+# Stylomonas Korshikov, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora psimmythina Nyl. SPECIES
-=======
+# Lecanora psimmythina Nyl. SPECIES
 
 #### Status
 ACCEPTED

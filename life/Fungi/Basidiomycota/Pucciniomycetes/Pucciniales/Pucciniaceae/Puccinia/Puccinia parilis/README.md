@@ -1,5 +1,4 @@
-Puccinia parilis (Arthur) Arthur SPECIES
-=======
+# Puccinia parilis (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

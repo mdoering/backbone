@@ -1,17 +1,16 @@
-Spherocephalus Schneider, 1885 GENUS
-=======
+# Sphaerorhynchus Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tabl. Zool. , 1, 1886, 100.
+Tierreich, 5, 32.
 
 #### Original name
-null
+Spherocephalus Schneider, 1885
 
 ### Remarks
 null

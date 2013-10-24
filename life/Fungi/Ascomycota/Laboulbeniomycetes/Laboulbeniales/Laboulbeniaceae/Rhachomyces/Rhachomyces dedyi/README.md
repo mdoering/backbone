@@ -1,5 +1,4 @@
-Rhachomyces dedyi Lepesme SPECIES
-=======
+# Rhachomyces dedyi Lepesme SPECIES
 
 #### Status
 ACCEPTED

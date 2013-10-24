@@ -1,5 +1,4 @@
-Euplotes magnicirratus Carter, 1972 SPECIES
-=======
+# Euplotes magnicirratus Carter, 1972 SPECIES
 
 #### Status
 ACCEPTED

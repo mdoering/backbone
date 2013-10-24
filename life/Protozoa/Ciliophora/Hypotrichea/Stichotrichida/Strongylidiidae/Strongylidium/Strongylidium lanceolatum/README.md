@@ -1,5 +1,4 @@
-Strongylidium lanceolatum Kowalewski, 1882 SPECIES
-=======
+# Strongylidium lanceolatum Kowalewski, 1882 SPECIES
 
 #### Status
 ACCEPTED

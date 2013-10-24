@@ -1,5 +1,4 @@
-Sphaeria solitaria Debey & Ettingsh. SPECIES
-=======
+# Sphaeria solitaria Debey & Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

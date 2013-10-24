@@ -1,5 +1,4 @@
-Laboulbenia pasqueti F. Picard SPECIES
-=======
+# Laboulbenia pasqueti F. Picard SPECIES
 
 #### Status
 ACCEPTED

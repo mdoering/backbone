@@ -1,5 +1,4 @@
-Protoleiosphaeridium rugulosum (Fombella, 1978) Fensome et al., 1990 SPECIES
-=======
+# Protoleiosphaeridium rugulosum (Fombella, 1978) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria krieglsteineri Kajan & Grauw., 1987 SPECIES
-=======
+# Clavaria krieglsteineri Kajan & Grauw., 1987 SPECIES
 
 #### Status
 ACCEPTED

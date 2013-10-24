@@ -1,5 +1,4 @@
-Amorphomyces hernandoi Santam., 2000 SPECIES
-=======
+# Amorphomyces hernandoi Santam., 2000 SPECIES
 
 #### Status
 ACCEPTED

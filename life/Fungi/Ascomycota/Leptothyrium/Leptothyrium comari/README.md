@@ -1,5 +1,4 @@
-Leptothyrium comari Petr. SPECIES
-=======
+# Leptothyrium comari Petr. SPECIES
 
 #### Status
 ACCEPTED

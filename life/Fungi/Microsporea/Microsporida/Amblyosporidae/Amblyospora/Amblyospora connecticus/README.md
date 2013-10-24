@@ -1,5 +1,4 @@
-Amblyospora connecticus SPECIES
-=======
+# Amblyospora connecticus SPECIES
 
 #### Status
 ACCEPTED

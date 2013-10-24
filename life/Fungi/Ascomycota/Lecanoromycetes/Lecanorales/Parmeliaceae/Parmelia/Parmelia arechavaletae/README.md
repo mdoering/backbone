@@ -1,5 +1,4 @@
-Parmelia arechavaletae Müll. Arg. SPECIES
-=======
+# Parmelia arechavaletae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

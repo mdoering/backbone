@@ -1,5 +1,4 @@
-Septoria hippocastani Berk. & Broome, 1850 SPECIES
-=======
+# Septoria hippocastani Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

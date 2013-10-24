@@ -1,5 +1,4 @@
-Sargassum yamadae Yoshida & T.Konno SPECIES
-=======
+# Sargassum yamadae Yoshida & T.Konno SPECIES
 
 #### Status
 ACCEPTED

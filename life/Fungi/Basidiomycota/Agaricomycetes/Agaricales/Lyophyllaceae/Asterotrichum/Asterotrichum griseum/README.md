@@ -1,5 +1,4 @@
-Asterotrichum griseum Bonord. SPECIES
-=======
+# Asterotrichum griseum Bonord. SPECIES
 
 #### Status
 ACCEPTED

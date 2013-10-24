@@ -1,5 +1,4 @@
-Pacispora franciscana Sieverd. & Oehl SPECIES
-=======
+# Pacispora franciscana Sieverd. & Oehl SPECIES
 
 #### Status
 ACCEPTED

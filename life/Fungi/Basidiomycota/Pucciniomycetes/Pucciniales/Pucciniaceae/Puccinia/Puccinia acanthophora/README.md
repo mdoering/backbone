@@ -1,5 +1,4 @@
-Puccinia acanthophora Syd. SPECIES
-=======
+# Puccinia acanthophora Syd. SPECIES
 
 #### Status
 ACCEPTED

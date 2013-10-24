@@ -1,17 +1,16 @@
-Lecidea lygaea f. lygaea FORM
-=======
+# Fuscidea lygaea (Ach.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Naturk. Forsch. Südwestdeutschl. 31: 92 (1972)
 
 #### Original name
-Lecidea lygaea f. lygaea
+Lecidea lygaea Ach.
 
 ### Remarks
 null

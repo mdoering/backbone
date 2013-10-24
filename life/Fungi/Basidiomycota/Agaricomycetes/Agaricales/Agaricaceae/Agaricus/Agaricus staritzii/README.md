@@ -1,5 +1,4 @@
-Agaricus staritzii Henn. SPECIES
-=======
+# Agaricus staritzii Henn. SPECIES
 
 #### Status
 ACCEPTED

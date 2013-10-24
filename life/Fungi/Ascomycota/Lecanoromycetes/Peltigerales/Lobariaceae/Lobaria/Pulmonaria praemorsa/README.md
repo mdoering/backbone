@@ -1,5 +1,4 @@
-Pulmonaria praemorsa Bory SPECIES
-=======
+# Pulmonaria praemorsa Bory SPECIES
 
 #### Status
 ACCEPTED

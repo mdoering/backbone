@@ -1,5 +1,4 @@
-Placolecanora circinata var. circinata VARIETY
-=======
+# Placolecanora circinata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placolecanora circinata var. circinata
+null
 
 ### Remarks
 null

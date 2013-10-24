@@ -1,14 +1,13 @@
-Pocillaria obnubilis (Berk.) Kuntze SPECIES
-=======
+# Pocillaria obnubila (Berk.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: (1891)
 
 #### Original name
 Lentinus obnubilus Berk.

@@ -1,5 +1,4 @@
-Arthonia subpruinosa B. de Lesd. SPECIES
-=======
+# Arthonia subpruinosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metapolymorphina McCulloch, 1977 GENUS
-=======
+# Metapolymorphina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

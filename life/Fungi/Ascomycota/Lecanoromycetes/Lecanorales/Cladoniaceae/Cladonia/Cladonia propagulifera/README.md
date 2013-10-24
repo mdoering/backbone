@@ -1,5 +1,4 @@
-Cladonia propagulifera (Vain.) C.W. Dodge SPECIES
-=======
+# Cladonia propagulifera (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

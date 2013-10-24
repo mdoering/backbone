@@ -1,5 +1,4 @@
-Cantharomyces robustus T. Majewski SPECIES
-=======
+# Cantharomyces robustus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

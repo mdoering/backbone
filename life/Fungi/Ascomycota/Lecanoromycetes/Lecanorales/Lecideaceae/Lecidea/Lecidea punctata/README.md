@@ -1,5 +1,4 @@
-Lecidea punctata var. punctata VARIETY
-=======
+# Lecidea punctata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea punctata var. punctata
+null
 
 ### Remarks
 null

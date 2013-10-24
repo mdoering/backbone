@@ -1,5 +1,4 @@
-Disematostoma gyrans Dragesco, 1972 SPECIES
-=======
+# Disematostoma gyrans Dragesco, 1972 SPECIES
 
 #### Status
 ACCEPTED

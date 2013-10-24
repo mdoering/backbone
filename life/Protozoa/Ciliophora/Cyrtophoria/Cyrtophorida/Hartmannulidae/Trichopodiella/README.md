@@ -1,17 +1,16 @@
-Trichopus Claparède & Lachmann, 1859 GENUS
-=======
+# Trichopodiella Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Etudes Infus. , 2 (teste Marschall 1873, Nomen. Zool. , 482, sed non comp. ).
+J. Protozool. 7: 272.
 
 #### Original name
-null
+Trichopus Claparède & Lachmann, 1859
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endosporium GENUS
-=======
+# Endosporium GENUS
 
 #### Status
 ACCEPTED

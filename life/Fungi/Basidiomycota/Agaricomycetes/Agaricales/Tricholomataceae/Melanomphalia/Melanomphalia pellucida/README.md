@@ -1,5 +1,4 @@
-Melanomphalia pellucida (Murrill) Singer SPECIES
-=======
+# Melanomphalia pellucida (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

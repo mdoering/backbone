@@ -1,5 +1,4 @@
-Irenopsis caloncobae Hansf. SPECIES
-=======
+# Irenopsis caloncobae Hansf. SPECIES
 
 #### Status
 ACCEPTED

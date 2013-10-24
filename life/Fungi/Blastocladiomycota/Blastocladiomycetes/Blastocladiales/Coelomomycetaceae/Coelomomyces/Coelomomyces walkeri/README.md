@@ -1,5 +1,4 @@
-Coelomomyces walkeri Van Thiel SPECIES
-=======
+# Coelomomyces walkeri Van Thiel SPECIES
 
 #### Status
 ACCEPTED

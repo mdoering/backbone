@@ -1,5 +1,4 @@
-Fomes nibulus Fr. SPECIES
-=======
+# Fomes nibulus Fr. SPECIES
 
 #### Status
 ACCEPTED

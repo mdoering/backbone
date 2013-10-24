@@ -1,5 +1,4 @@
-Cyanocystis olivaceae (Reinsch) Komárek & Anagnostidis, 1986 SPECIES
-=======
+# Cyanocystis olivaceae (Reinsch) Komárek & Anagnostidis, 1986 SPECIES
 
 #### Status
 ACCEPTED

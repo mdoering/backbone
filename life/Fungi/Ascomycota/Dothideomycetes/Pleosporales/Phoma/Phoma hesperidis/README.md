@@ -1,5 +1,4 @@
-Phoma hesperidis Sacc. SPECIES
-=======
+# Phoma hesperidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

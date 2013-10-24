@@ -1,5 +1,4 @@
-Ampullataria Oye, 1956 GENUS
-=======
+# Ampullataria Oye, 1956 GENUS
 
 #### Status
 ACCEPTED

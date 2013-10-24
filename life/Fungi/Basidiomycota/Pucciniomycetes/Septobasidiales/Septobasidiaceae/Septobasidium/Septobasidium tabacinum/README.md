@@ -1,5 +1,4 @@
-Septobasidium tabacinum Bres. SPECIES
-=======
+# Septobasidium tabacinum Bres. SPECIES
 
 #### Status
 ACCEPTED

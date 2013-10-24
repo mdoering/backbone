@@ -1,5 +1,4 @@
-Hymenochaete gigasetosa Parmasto SPECIES
-=======
+# Hymenochaete gigasetosa Parmasto SPECIES
 
 #### Status
 ACCEPTED

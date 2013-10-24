@@ -1,5 +1,4 @@
-Amanita manicata (Berk. & Broome) Pegler SPECIES
-=======
+# Amanita manicata (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

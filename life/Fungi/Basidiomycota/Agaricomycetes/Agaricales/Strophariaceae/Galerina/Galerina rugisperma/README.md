@@ -1,5 +1,4 @@
-Galerina rugisperma A.H. Sm. SPECIES
-=======
+# Galerina rugisperma A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bothrostoma extenta SPECIES
-=======
+# Bothrostoma extenta SPECIES
 
 #### Status
 ACCEPTED

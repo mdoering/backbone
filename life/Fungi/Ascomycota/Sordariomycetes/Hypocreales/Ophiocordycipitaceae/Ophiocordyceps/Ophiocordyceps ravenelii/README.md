@@ -1,5 +1,4 @@
-Ophiocordyceps ravenelii (Berk. & M.A. Curtis) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps ravenelii (Berk. & M.A. Curtis) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

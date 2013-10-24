@@ -1,17 +1,16 @@
-Hysterium gahianum Rodway SPECIES
-=======
+# Hysterium gahnianum Rodway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Proc. R. Soc. Tasm. 106 (1918)
 
 #### Original name
-Hysterium gahianum Rodway
+Hysterium gahnianum Rodway
 
 ### Remarks
 null

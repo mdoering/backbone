@@ -1,5 +1,4 @@
-Phacidium maderense Petr. SPECIES
-=======
+# Phacidium maderense Petr. SPECIES
 
 #### Status
 ACCEPTED

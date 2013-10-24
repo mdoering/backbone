@@ -1,5 +1,4 @@
-Oidium boroniae Crooks SPECIES
-=======
+# Oidium boroniae Crooks SPECIES
 
 #### Status
 ACCEPTED

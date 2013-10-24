@@ -1,5 +1,4 @@
-Puccinia agnitionalis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia agnitionalis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

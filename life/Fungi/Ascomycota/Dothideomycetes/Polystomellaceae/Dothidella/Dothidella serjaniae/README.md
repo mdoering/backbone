@@ -1,5 +1,4 @@
-Dothidella serjaniae Henn. SPECIES
-=======
+# Dothidella serjaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichomera heterospora M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Dichomera heterospora M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

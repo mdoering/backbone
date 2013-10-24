@@ -1,17 +1,16 @@
-Cephalosporium evonymi Orlova SPECIES
-=======
+# Cephalosporium euonymi Orlova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Orlova & Golodnaya, Lichenoth. Veneta 94 (1959)
 
 #### Original name
-Cephalosporium evonymi Orlova
+Cephalosporium euonymi Orlova
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xerocomus depilatus (Redeuilh) Manfr. Binder & Besl SPECIES
-=======
+# Xerocomus depilatus (Redeuilh) Manfr. Binder & Besl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Strombidium corsicum (Gourret & Roeser, 1888) Kahl, 1932 SPECIES
-=======
+# Spirostrombidium oblongum (Entz, 1884) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

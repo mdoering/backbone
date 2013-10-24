@@ -1,5 +1,4 @@
-Oceanisphaera litoralis Romanenko et al., 2003 SPECIES
-=======
+# Oceanisphaera litoralis Romanenko et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

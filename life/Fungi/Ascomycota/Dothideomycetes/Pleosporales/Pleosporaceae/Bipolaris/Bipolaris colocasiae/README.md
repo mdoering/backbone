@@ -1,17 +1,16 @@
-Drechslera colocaseae M.P. Tandon & Bhargava SPECIES
-=======
+# Bipolaris colocasiae (M.P. Tandon & Bhargava) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 17: 67 (1983)
 
 #### Original name
-Drechslera colocaseae M.P. Tandon & Bhargava
+Drechslera colocasiae M.P. Tandon & Bhargava, 1980
 
 ### Remarks
 null

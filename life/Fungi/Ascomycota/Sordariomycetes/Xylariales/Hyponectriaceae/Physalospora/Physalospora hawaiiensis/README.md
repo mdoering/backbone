@@ -1,5 +1,4 @@
-Physalospora hawaiiensis Joanne E. Taylor, Crous & M.E. Palm SPECIES
-=======
+# Physalospora hawaiiensis Joanne E. Taylor, Crous & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

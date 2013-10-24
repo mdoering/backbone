@@ -1,14 +1,13 @@
-Cephalotheca fragilis (Zukal) E. Fisch. SPECIES
-=======
+# Chaetotheca fragilis Zukal, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 8: (1890)
 
 #### Original name
 Chaetotheca fragilis Zukal, 1890

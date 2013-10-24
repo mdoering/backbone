@@ -1,5 +1,4 @@
-Septoria ari var. ari Desm. VARIETY
-=======
+# Septoria ari Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Pass. F. Parm. Sept. no. 125 (1847)
 
 #### Original name
-Septoria ari var. ari Desm.
+Septoria ari Desm.
 
 ### Remarks
 null

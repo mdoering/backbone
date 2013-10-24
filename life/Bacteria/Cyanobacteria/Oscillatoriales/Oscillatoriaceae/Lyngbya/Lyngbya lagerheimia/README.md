@@ -1,5 +1,4 @@
-Lyngbya lagerheimia (Moebius) Gomont SPECIES
-=======
+# Lyngbya lagerheimia (Moebius) Gomont SPECIES
 
 #### Status
 ACCEPTED

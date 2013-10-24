@@ -1,5 +1,4 @@
-Arachnopeziza alba Bat. & J.L. Bezerra SPECIES
-=======
+# Arachnopeziza alba Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

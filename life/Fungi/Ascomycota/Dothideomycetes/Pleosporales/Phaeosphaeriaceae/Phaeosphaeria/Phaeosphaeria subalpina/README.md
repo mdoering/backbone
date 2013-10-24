@@ -1,5 +1,4 @@
-Phaeosphaeria subalpina (Bubák) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria subalpina (Bubák) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

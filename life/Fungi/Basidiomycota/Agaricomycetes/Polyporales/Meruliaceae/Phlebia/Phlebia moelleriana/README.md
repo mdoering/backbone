@@ -1,5 +1,4 @@
-Phlebia moelleriana Henn. SPECIES
-=======
+# Phlebia moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

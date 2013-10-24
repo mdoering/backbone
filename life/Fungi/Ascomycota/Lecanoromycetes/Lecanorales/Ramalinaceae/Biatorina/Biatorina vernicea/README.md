@@ -1,5 +1,4 @@
-Biatorina vernicea Körb. SPECIES
-=======
+# Biatorina vernicea Körb. SPECIES
 
 #### Status
 ACCEPTED

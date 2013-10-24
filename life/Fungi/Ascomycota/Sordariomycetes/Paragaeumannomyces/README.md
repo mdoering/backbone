@@ -1,5 +1,4 @@
-Paragaeumannomyces Matsush. GENUS
-=======
+# Paragaeumannomyces Matsush. GENUS
 
 #### Status
 ACCEPTED

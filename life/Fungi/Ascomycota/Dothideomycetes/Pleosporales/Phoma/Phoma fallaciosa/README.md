@@ -1,5 +1,4 @@
-Phoma fallaciosa Sacc. SPECIES
-=======
+# Phoma fallaciosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

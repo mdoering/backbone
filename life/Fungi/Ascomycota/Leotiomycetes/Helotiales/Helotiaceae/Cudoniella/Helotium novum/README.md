@@ -1,5 +1,4 @@
-Helotium novum Velen. SPECIES
-=======
+# Helotium novum Velen. SPECIES
 
 #### Status
 ACCEPTED

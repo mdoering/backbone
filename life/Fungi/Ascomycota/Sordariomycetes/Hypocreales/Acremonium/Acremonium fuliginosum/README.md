@@ -1,5 +1,4 @@
-Acremonium fuliginosum Vincens SPECIES
-=======
+# Acremonium fuliginosum Vincens SPECIES
 
 #### Status
 ACCEPTED

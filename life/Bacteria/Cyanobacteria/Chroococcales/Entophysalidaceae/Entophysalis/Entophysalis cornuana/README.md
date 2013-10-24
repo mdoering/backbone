@@ -1,8 +1,7 @@
-Radaisia cornuana (Sauvageau) Sauvageau SPECIES
-=======
+# Entophysalis cornuana Sauvageau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

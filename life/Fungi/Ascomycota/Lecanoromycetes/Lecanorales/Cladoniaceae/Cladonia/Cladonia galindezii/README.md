@@ -1,5 +1,4 @@
-Cladonia galindezii Øvstedal SPECIES
-=======
+# Cladonia galindezii Øvstedal SPECIES
 
 #### Status
 ACCEPTED

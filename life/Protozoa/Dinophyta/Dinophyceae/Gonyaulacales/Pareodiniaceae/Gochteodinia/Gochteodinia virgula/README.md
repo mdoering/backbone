@@ -1,5 +1,4 @@
-Gochteodinia virgula R. J. Davey SPECIES
-=======
+# Gochteodinia virgula R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

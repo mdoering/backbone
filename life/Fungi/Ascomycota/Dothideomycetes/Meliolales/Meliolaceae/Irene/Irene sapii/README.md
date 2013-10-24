@@ -1,5 +1,4 @@
-Irene sapii Hansf. SPECIES
-=======
+# Irene sapii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropus anthracophilus (Dennis) Dennis SPECIES
-=======
+# Hydropus anthracophilus (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

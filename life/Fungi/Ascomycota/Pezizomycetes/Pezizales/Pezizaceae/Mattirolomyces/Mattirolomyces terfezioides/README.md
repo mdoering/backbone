@@ -1,14 +1,13 @@
-Terfezia terfezioides (Mattir.) Trappe, 1971 SPECIES
-=======
+# Mattirolomyces terfezioides (Mattir.) E. Fisch., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 57(1): 91 (1971)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 5bVIII: 39, 40 (1938)
 
 #### Original name
 Choiromyces terfezioides Mattir., 1887

@@ -1,5 +1,4 @@
-Coryne collematoides (Rehm) Rick SPECIES
-=======
+# Coryne collematoides (Rehm) Rick SPECIES
 
 #### Status
 ACCEPTED

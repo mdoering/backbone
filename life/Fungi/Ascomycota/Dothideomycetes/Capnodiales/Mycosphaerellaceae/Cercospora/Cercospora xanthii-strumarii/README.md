@@ -1,17 +1,16 @@
-Cercospora xanthi-strumari Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
-=======
+# Cercospora xanthii-strumarii Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 25: 49 (1998)
 
 #### Original name
-Cercospora xanthi-strumari Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh
+Cercospora xanthii-strumarii Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh
 
 ### Remarks
 null

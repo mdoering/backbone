@@ -1,5 +1,4 @@
-Gymnochilus GENUS
-=======
+# Gymnochilus GENUS
 
 #### Status
 ACCEPTED

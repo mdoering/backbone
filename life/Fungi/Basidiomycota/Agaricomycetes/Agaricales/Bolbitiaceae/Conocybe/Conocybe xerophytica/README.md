@@ -1,5 +1,4 @@
-Conocybe xerophytica Singer SPECIES
-=======
+# Conocybe xerophytica Singer SPECIES
 
 #### Status
 ACCEPTED

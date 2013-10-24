@@ -1,5 +1,4 @@
-Angatia eugeniae Syd. & P. Syd., 1914 SPECIES
-=======
+# Angatia eugeniae Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

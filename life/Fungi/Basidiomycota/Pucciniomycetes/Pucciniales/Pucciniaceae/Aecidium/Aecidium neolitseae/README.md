@@ -1,5 +1,4 @@
-Aecidium neolitseae Y.C. Wang & J.Y. Zhuang SPECIES
-=======
+# Aecidium neolitseae Y.C. Wang & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

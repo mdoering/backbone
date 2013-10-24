@@ -1,5 +1,4 @@
-Phyllosticta affinis Tassi SPECIES
-=======
+# Phyllosticta affinis Tassi SPECIES
 
 #### Status
 ACCEPTED

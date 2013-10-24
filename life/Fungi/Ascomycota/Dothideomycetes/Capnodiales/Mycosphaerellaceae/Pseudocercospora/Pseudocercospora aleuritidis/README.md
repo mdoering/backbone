@@ -1,5 +1,4 @@
-Pseudocercospora aleuritidis (I. Miyake) Deighton SPECIES
-=======
+# Pseudocercospora aleuritidis (I. Miyake) Deighton SPECIES
 
 #### Status
 ACCEPTED

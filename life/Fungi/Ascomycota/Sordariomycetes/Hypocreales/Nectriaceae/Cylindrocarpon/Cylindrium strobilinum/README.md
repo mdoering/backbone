@@ -1,5 +1,4 @@
-Cylindrium strobilinum Sacc. SPECIES
-=======
+# Cylindrium strobilinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudovorticella mollis SPECIES
-=======
+# Pseudovorticella mollis SPECIES
 
 #### Status
 ACCEPTED

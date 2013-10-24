@@ -1,5 +1,4 @@
-Buellia conformis Vain. SPECIES
-=======
+# Buellia conformis Vain. SPECIES
 
 #### Status
 ACCEPTED

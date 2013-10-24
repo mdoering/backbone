@@ -1,5 +1,4 @@
-Haplographium smilacis Dearn. & House SPECIES
-=======
+# Haplographium smilacis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

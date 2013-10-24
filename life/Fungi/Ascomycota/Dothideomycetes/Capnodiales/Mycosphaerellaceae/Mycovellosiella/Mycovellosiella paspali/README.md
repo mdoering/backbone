@@ -1,5 +1,4 @@
-Mycovellosiella paspali Deighton SPECIES
-=======
+# Mycovellosiella paspali Deighton SPECIES
 
 #### Status
 ACCEPTED

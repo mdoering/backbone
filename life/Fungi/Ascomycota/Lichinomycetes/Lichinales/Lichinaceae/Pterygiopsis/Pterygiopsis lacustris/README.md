@@ -1,5 +1,4 @@
-Pterygiopsis lacustris P. M. Jørg. & R. Sant. SPECIES
-=======
+# Pterygiopsis lacustris P. M. Jørg. & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

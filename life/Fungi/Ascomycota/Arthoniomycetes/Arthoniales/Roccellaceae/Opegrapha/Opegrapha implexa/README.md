@@ -1,5 +1,4 @@
-Opegrapha implexa Chevall. SPECIES
-=======
+# Opegrapha implexa Chevall. SPECIES
 
 #### Status
 ACCEPTED

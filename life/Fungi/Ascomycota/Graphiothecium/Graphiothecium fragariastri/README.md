@@ -1,5 +1,4 @@
-Graphiothecium fragariastri (Schwein.) Sacc. SPECIES
-=======
+# Graphiothecium fragariastri (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

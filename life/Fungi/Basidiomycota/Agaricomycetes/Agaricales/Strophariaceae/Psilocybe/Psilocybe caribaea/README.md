@@ -1,5 +1,4 @@
-Psilocybe caribaea Guzmán, T.J. Baroni & Tapia SPECIES
-=======
+# Psilocybe caribaea Guzmán, T.J. Baroni & Tapia SPECIES
 
 #### Status
 ACCEPTED

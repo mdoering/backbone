@@ -1,5 +1,4 @@
-Bacidia pelidniza (Nyl.) H. Olivier SPECIES
-=======
+# Bacidia pelidniza (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium hysteriiforme Westend. SPECIES
-=======
+# Fusidium hysteriiforme Westend. SPECIES
 
 #### Status
 ACCEPTED

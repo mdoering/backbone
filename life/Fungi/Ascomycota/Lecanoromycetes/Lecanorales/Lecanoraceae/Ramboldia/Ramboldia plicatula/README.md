@@ -1,14 +1,13 @@
-Protoparmelia plicatula (Müll. Arg.) Rambold SPECIES
-=======
+# Ramboldia plicatula (Müll. Arg.) Kantvilas & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 34: 137 (1989)
+Bryologist 97(3): 299 (1994)
 
 #### Original name
 null

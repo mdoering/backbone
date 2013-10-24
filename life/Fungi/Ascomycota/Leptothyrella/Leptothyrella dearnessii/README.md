@@ -1,5 +1,4 @@
-Leptothyrella dearnessii (Ellis & Everh.) Sacc. SPECIES
-=======
+# Leptothyrella dearnessii (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

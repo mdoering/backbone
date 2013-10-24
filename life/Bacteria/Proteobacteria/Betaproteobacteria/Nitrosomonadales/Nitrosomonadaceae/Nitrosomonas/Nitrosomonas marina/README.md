@@ -1,5 +1,4 @@
-Nitrosomonas marina Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas marina Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

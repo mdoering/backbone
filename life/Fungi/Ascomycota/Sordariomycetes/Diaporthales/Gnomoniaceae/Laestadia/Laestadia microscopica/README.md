@@ -1,5 +1,4 @@
-Laestadia microscopica (Niessl) Berl. & Voglino SPECIES
-=======
+# Laestadia microscopica (Niessl) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

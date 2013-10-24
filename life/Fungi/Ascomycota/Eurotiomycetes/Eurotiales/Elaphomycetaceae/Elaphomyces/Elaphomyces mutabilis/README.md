@@ -1,5 +1,4 @@
-Elaphomyces mutabilis Vittad. SPECIES
-=======
+# Elaphomyces mutabilis Vittad. SPECIES
 
 #### Status
 ACCEPTED

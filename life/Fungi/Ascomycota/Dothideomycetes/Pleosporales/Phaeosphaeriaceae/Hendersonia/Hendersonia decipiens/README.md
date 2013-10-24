@@ -1,5 +1,4 @@
-Hendersonia decipiens Thüm. SPECIES
-=======
+# Hendersonia decipiens Thüm. SPECIES
 
 #### Status
 ACCEPTED

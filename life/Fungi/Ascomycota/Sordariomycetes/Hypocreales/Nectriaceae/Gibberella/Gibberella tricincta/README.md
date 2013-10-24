@@ -1,17 +1,16 @@
-Fusarium tricinctum f. tricinctum (Corda) Sacc., 1886 FORM
-=======
+# Gibberella tricincta El-Gholl, McRitchie, Schoult. & Ridings, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 700 (1886)
+Can. J. Bot. 56(18): 2206 (1978)
 
 #### Original name
-Selenosporium tricinctum Corda, 1838
+Gibberella tricincta El-Gholl, McRitchie, Schoult. & Ridings, 1978
 
 ### Remarks
 null

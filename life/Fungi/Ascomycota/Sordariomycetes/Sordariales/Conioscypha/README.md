@@ -1,5 +1,4 @@
-Conioscypha von Höhnel, 1904 GENUS
-=======
+# Conioscypha von Höhnel, 1904 GENUS
 
 #### Status
 ACCEPTED

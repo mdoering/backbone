@@ -1,5 +1,4 @@
-Scriniocassis weberi Gocht, 1964 SPECIES
-=======
+# Scriniocassis weberi Gocht, 1964 SPECIES
 
 #### Status
 ACCEPTED

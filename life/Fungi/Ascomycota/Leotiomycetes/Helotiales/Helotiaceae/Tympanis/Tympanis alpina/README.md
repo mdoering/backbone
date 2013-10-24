@@ -1,5 +1,4 @@
-Tympanis alpina Ouell. & Piroz. SPECIES
-=======
+# Tympanis alpina Ouell. & Piroz. SPECIES
 
 #### Status
 ACCEPTED

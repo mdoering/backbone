@@ -1,5 +1,4 @@
-Hysterostegiella lapponica Défago SPECIES
-=======
+# Hysterostegiella lapponica Défago SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeurus antarcticus Skottsberg SPECIES
-=======
+# Phaeurus antarcticus Skottsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia dactyloctenii Vánky, 1995 SPECIES
-=======
+# Tilletia dactyloctenii Vánky, 1995 SPECIES
 
 #### Status
 ACCEPTED

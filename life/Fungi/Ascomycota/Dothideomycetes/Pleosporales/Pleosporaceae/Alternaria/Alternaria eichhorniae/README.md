@@ -1,5 +1,4 @@
-Alternaria eichhorniae Nag Raj & Ponnappa, 1970 SPECIES
-=======
+# Alternaria eichhorniae Nag Raj & Ponnappa, 1970 SPECIES
 
 #### Status
 ACCEPTED

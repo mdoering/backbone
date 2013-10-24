@@ -1,5 +1,4 @@
-Lecidea magnussonii Lynge SPECIES
-=======
+# Lecidea magnussonii Lynge SPECIES
 
 #### Status
 ACCEPTED

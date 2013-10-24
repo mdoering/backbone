@@ -1,5 +1,4 @@
-Septoria obscurata Thüm. SPECIES
-=======
+# Septoria obscurata Thüm. SPECIES
 
 #### Status
 ACCEPTED

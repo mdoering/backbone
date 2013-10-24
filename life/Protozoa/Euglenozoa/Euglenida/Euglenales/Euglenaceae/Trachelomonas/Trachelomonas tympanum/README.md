@@ -1,5 +1,4 @@
-Trachelomonas tympanum Pascher SPECIES
-=======
+# Trachelomonas tympanum Pascher SPECIES
 
 #### Status
 ACCEPTED

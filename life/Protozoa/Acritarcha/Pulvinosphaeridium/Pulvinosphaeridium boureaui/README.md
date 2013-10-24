@@ -1,5 +1,4 @@
-Pulvinosphaeridium boureaui Moreau-Benoît, 1969 SPECIES
-=======
+# Pulvinosphaeridium boureaui Moreau-Benoît, 1969 SPECIES
 
 #### Status
 ACCEPTED

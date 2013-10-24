@@ -1,5 +1,4 @@
-Peronospora segetum anon. SPECIES
-=======
+# Peronospora segetum anon. SPECIES
 
 #### Status
 ACCEPTED

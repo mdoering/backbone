@@ -1,5 +1,4 @@
-Lecanora ripartii Lamy SPECIES
-=======
+# Lecanora ripartii Lamy SPECIES
 
 #### Status
 ACCEPTED

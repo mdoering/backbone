@@ -1,5 +1,4 @@
-Ramaria verna (Coker) Corner SPECIES
-=======
+# Ramaria verna (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED

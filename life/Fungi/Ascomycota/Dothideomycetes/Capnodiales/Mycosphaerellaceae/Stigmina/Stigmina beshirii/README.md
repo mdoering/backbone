@@ -1,5 +1,4 @@
-Stigmina beshirii M.B. Ellis SPECIES
-=======
+# Stigmina beshirii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

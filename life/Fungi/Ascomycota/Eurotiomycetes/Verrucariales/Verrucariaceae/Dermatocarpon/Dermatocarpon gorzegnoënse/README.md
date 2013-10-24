@@ -1,8 +1,7 @@
-Dermatocarpon gorzegnoense Servít SPECIES
-=======
+# Dermatocarpon gorzegnoënse Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatocarpon gorzegnoense Servít
+Dermatocarpon gorzegnoënse Servít
 
 ### Remarks
 null

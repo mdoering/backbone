@@ -1,5 +1,4 @@
-Hymenochaete pellicula Berk. & Broome, 1875 SPECIES
-=======
+# Hymenochaete pellicula Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

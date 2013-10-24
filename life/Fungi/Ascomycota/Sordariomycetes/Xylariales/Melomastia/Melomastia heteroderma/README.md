@@ -1,5 +1,4 @@
-Melomastia heteroderma Syd. SPECIES
-=======
+# Melomastia heteroderma Syd. SPECIES
 
 #### Status
 ACCEPTED

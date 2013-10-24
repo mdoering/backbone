@@ -1,5 +1,4 @@
-Lactarius siccus Velen. SPECIES
-=======
+# Lactarius siccus Velen. SPECIES
 
 #### Status
 ACCEPTED

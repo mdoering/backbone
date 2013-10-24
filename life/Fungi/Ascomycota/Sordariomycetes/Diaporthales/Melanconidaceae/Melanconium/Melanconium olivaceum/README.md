@@ -1,5 +1,4 @@
-Melanconium olivaceum (Corda) Sacc. SPECIES
-=======
+# Melanconium olivaceum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

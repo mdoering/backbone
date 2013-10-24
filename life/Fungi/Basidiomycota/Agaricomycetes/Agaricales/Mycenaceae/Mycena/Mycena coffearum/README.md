@@ -1,5 +1,4 @@
-Mycena coffearum Métrod SPECIES
-=======
+# Mycena coffearum Métrod SPECIES
 
 #### Status
 ACCEPTED

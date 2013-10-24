@@ -1,5 +1,4 @@
-Dictyoneurum reticulatum (De A.Saunders) P.C.Silva in Pedroche, Silva, Aguilar Rosas, Dreckmann & Aguilar Rosas, 2008 SPECIES
-=======
+# Dictyoneurum reticulatum (De A.Saunders) P.C.Silva in Pedroche, Silva, Aguilar Rosas, Dreckmann & Aguilar Rosas, 2008 SPECIES
 
 #### Status
 ACCEPTED

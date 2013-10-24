@@ -1,5 +1,4 @@
-Clastidium setigerum Kirchner SPECIES
-=======
+# Clastidium setigerum Kirchner SPECIES
 
 #### Status
 ACCEPTED

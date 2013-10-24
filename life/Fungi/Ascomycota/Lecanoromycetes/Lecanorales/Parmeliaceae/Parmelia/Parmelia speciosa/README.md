@@ -1,5 +1,4 @@
-Parmelia speciosa f. speciosa FORM
-=======
+# Parmelia speciosa b hypoleuca Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia speciosa f. speciosa
+Parmelia speciosa b hypoleuca Ach.
 
 ### Remarks
 null

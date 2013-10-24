@@ -1,5 +1,4 @@
-Aposphaeriopsis GENUS
-=======
+# Aposphaeriopsis GENUS
 
 #### Status
 ACCEPTED

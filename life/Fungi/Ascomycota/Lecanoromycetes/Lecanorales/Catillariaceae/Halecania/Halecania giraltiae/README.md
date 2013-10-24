@@ -1,5 +1,4 @@
-Halecania giraltiae van den Boom & Etayo SPECIES
-=======
+# Halecania giraltiae van den Boom & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea phaeophthalma Zahlbr. SPECIES
-=======
+# Lecidea phaeophthalma Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

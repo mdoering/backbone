@@ -1,5 +1,4 @@
-Buellia yaucoënsis Vain. SPECIES
-=======
+# Buellia yaucoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

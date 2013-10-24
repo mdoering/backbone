@@ -1,5 +1,4 @@
-Cornusphaera Fuchs, 1967 GENUS
-=======
+# Cornusphaera Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

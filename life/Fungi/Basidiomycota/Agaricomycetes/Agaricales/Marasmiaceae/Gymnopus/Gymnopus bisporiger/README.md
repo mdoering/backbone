@@ -1,5 +1,4 @@
-Gymnopus bisporiger Antonín & Noordel. SPECIES
-=======
+# Gymnopus bisporiger Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

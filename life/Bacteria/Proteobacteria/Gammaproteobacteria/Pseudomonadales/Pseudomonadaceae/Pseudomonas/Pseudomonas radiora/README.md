@@ -1,5 +1,4 @@
-Pseudomonas radiora Ito & Iizuka, 1971 SPECIES
-=======
+# Pseudomonas radiora Ito & Iizuka, 1971 SPECIES
 
 #### Status
 ACCEPTED

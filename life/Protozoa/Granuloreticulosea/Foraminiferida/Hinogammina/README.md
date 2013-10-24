@@ -1,5 +1,4 @@
-Hinogammina Neagu, 2000 GENUS
-=======
+# Hinogammina Neagu, 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cronartium gentianeum Thüm. SPECIES
-=======
+# Cronartium gentianeum Thüm. SPECIES
 
 #### Status
 ACCEPTED

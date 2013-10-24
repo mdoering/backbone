@@ -1,5 +1,4 @@
-Macrophoma salicaria (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma salicaria (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia stigmatodes (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Laestadia stigmatodes (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor carneus (Schumach.) Link SPECIES
-=======
+# Mucor carneus (Schumach.) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia umbrina Lloyd SPECIES
-=======
+# Calvatia umbrina Lloyd SPECIES
 
 #### Status
 ACCEPTED

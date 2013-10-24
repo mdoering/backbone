@@ -1,5 +1,4 @@
-Verrucaria segestria (Neck.) Gärtner, Meyer & Scherb. SPECIES
-=======
+# Verrucaria segestria (Neck.) Gärtner, Meyer & Scherb. SPECIES
 
 #### Status
 ACCEPTED

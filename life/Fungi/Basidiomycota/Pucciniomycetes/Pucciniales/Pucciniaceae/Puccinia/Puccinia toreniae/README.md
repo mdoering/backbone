@@ -1,5 +1,4 @@
-Puccinia toreniae Racib. SPECIES
-=======
+# Puccinia toreniae Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius nitens Rob. Henry SPECIES
-=======
+# Cortinarius nitens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

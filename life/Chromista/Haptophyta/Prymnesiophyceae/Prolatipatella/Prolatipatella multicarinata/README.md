@@ -1,5 +1,4 @@
-Prolatipatella multicarinata Gartner, 1968 SPECIES
-=======
+# Prolatipatella multicarinata Gartner, 1968 SPECIES
 
 #### Status
 ACCEPTED

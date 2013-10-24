@@ -1,5 +1,4 @@
-Imbricaria parietina var. parietina VARIETY
-=======
+# Imbricaria parietina (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

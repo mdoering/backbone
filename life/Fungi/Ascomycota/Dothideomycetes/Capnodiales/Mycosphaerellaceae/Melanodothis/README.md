@@ -1,5 +1,4 @@
-Melanodothis R.H. Arnold GENUS
-=======
+# Melanodothis R.H. Arnold GENUS
 
 #### Status
 ACCEPTED

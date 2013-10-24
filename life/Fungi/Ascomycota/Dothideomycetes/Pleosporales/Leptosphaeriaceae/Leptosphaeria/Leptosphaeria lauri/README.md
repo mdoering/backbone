@@ -1,5 +1,4 @@
-Leptosphaeria lauri Maubl. SPECIES
-=======
+# Leptosphaeria lauri Maubl. SPECIES
 
 #### Status
 ACCEPTED

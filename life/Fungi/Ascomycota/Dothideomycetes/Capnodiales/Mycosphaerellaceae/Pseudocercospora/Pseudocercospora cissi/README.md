@@ -1,5 +1,4 @@
-Pseudocercospora cissi Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Pseudocercospora cissi Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

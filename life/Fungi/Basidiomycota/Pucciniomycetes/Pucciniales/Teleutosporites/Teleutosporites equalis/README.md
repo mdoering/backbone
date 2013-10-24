@@ -1,5 +1,4 @@
-Teleutosporites equalis Trivedi & C.L. Verma SPECIES
-=======
+# Teleutosporites equalis Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

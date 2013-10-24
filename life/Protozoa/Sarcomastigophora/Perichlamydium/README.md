@@ -1,5 +1,4 @@
-Perichlamydium Ehrenberg, 1847 GENUS
-=======
+# Perichlamydium Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinobacter litoralis Yoon et al., 2003 SPECIES
-=======
+# Marinobacter litoralis Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

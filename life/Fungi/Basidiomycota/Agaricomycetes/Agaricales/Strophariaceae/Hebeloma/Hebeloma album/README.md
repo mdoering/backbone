@@ -1,5 +1,4 @@
-Hebeloma album Velen. SPECIES
-=======
+# Hebeloma album Velen. SPECIES
 
 #### Status
 ACCEPTED

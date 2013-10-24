@@ -1,5 +1,4 @@
-Truncicola parasitica Velen. SPECIES
-=======
+# Truncicola parasitica Velen. SPECIES
 
 #### Status
 ACCEPTED

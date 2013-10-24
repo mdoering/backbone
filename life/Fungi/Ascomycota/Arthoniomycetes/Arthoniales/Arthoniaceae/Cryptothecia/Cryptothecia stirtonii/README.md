@@ -1,5 +1,4 @@
-Cryptothecia stirtonii A.L. Sm. SPECIES
-=======
+# Cryptothecia stirtonii A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

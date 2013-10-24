@@ -1,5 +1,4 @@
-Ceriomyces inedulis Murrill SPECIES
-=======
+# Ceriomyces inedulis Murrill SPECIES
 
 #### Status
 ACCEPTED

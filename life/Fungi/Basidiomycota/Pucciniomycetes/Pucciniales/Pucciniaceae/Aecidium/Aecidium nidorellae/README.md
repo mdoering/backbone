@@ -1,5 +1,4 @@
-Aecidium nidorellae Doidge SPECIES
-=======
+# Aecidium nidorellae Doidge SPECIES
 
 #### Status
 ACCEPTED

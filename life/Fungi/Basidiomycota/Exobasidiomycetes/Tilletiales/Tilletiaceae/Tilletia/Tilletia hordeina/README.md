@@ -1,5 +1,4 @@
-Tilletia hordeina Ranoj. SPECIES
-=======
+# Tilletia hordeina Ranoj. SPECIES
 
 #### Status
 ACCEPTED

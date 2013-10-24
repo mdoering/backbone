@@ -1,5 +1,4 @@
-Septonema harknessii (Ellis) S. Hughes SPECIES
-=======
+# Septonema harknessii (Ellis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

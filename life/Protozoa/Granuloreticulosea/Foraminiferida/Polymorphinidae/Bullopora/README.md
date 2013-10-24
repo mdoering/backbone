@@ -1,14 +1,13 @@
-Placopsum Rhumbler, 1913 GENUS
-=======
+# Bullopora Quenstedt, 1856 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Der Jura, No. 2, 292.
 
 #### Original name
 null

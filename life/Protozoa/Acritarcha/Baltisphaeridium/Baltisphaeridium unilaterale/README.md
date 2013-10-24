@@ -1,5 +1,4 @@
-Baltisphaeridium unilaterale Pykhova, 1973 SPECIES
-=======
+# Baltisphaeridium unilaterale Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

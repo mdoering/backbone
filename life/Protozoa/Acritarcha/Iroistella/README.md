@@ -1,5 +1,4 @@
-Iroistella J. Deunff, 1980 GENUS
-=======
+# Iroistella J. Deunff, 1980 GENUS
 
 #### Status
 ACCEPTED

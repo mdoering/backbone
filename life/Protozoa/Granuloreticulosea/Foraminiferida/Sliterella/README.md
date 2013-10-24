@@ -1,5 +1,4 @@
-Sliterella Kaiho, 1998 GENUS
-=======
+# Sliterella Kaiho, 1998 GENUS
 
 #### Status
 ACCEPTED

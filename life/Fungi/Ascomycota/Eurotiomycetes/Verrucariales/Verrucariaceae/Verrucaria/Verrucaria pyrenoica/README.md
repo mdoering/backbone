@@ -1,5 +1,4 @@
-Verrucaria pyrenoica Meyen & Flot. SPECIES
-=======
+# Verrucaria pyrenoica Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

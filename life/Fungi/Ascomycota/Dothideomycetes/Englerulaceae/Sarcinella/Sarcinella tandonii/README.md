@@ -1,5 +1,4 @@
-Sarcinella tandonii Mitter SPECIES
-=======
+# Sarcinella tandonii Mitter SPECIES
 
 #### Status
 ACCEPTED

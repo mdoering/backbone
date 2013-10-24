@@ -1,5 +1,4 @@
-Sporisorium panici-fasciculati Vánky SPECIES
-=======
+# Sporisorium panici-fasciculati Vánky SPECIES
 
 #### Status
 ACCEPTED

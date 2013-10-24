@@ -1,5 +1,4 @@
-Pyrenula fusco-olivacea SPECIES
-=======
+# Pyrenula fusco-olivacea SPECIES
 
 #### Status
 ACCEPTED

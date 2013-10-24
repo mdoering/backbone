@@ -1,5 +1,4 @@
-Bacidia heterocarpa Zahlbr. SPECIES
-=======
+# Bacidia heterocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

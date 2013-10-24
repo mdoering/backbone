@@ -1,5 +1,4 @@
-Trechispora brassicicola (Bres.) Melo & Tellería SPECIES
-=======
+# Trechispora brassicicola (Bres.) Melo & Tellería SPECIES
 
 #### Status
 ACCEPTED

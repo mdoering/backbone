@@ -1,5 +1,4 @@
-Drosophila brevipes Murrill SPECIES
-=======
+# Drosophila brevipes Murrill SPECIES
 
 #### Status
 ACCEPTED

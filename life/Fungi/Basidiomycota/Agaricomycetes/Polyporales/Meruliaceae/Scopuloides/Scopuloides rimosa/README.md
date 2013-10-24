@@ -1,17 +1,16 @@
-Odontia conspersa var. conspersa Bres. VARIETY
-=======
+# Scopuloides rimosa (Cooke) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Imp. Regia Accad. Rovereto, ser. 3 3(1): 10 (1897)
+Persoonia 11(4): 422 (1982)
 
 #### Original name
-Odontia conspersa var. conspersa Bres.
+Peniophora rimosa Cooke, 1881
 
 ### Remarks
 null

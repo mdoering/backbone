@@ -1,5 +1,4 @@
-Amphistegina haueri d'Orbigny SPECIES
-=======
+# Amphistegina haueri d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

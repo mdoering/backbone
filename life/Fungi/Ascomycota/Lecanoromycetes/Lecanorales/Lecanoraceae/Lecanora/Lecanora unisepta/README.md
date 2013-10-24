@@ -1,5 +1,4 @@
-Lecanora unisepta Stizenb. SPECIES
-=======
+# Lecanora unisepta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

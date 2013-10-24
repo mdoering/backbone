@@ -1,5 +1,4 @@
-Microtetraspora helvata (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora helvata (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

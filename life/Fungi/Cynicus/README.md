@@ -1,5 +1,4 @@
-Cynicus Rafinesque, 1815 GENUS
-=======
+# Cynicus Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

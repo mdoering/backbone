@@ -1,5 +1,4 @@
-Cystidiella valdensis Malan, 1943 SPECIES
-=======
+# Cystidiella valdensis Malan, 1943 SPECIES
 
 #### Status
 ACCEPTED

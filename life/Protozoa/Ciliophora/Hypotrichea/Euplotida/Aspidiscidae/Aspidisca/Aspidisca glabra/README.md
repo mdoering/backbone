@@ -1,5 +1,4 @@
-Aspidisca glabra Kahl, 1928 SPECIES
-=======
+# Aspidisca glabra Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

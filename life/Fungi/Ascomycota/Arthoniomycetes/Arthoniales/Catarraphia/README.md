@@ -1,5 +1,4 @@
-Catarraphia A. Massal. GENUS
-=======
+# Catarraphia A. Massal. GENUS
 
 #### Status
 ACCEPTED

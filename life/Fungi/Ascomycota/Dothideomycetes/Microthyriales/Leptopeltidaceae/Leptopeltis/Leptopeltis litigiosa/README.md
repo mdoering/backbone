@@ -1,17 +1,16 @@
-Pycnothyrium litigiosum f. litigiosum FORM
-=======
+# Leptopeltis litigiosa (Desm.) L. Holm & K. Holm, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 130(2): 221 (1977)
 
 #### Original name
-Pycnothyrium litigiosum f. litigiosum
+Leptostroma litigiosum Desm., 1843
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnosporium harknessioides Ellis & Holw. SPECIES
-=======
+# Gymnosporium harknessioides Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

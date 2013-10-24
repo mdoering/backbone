@@ -1,5 +1,4 @@
-Flammulina ferrugineolutea (Beeli) Singer SPECIES
-=======
+# Flammulina ferrugineolutea (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

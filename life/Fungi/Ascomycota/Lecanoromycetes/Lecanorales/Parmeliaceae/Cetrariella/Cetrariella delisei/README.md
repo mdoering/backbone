@@ -1,17 +1,16 @@
-Cetraria delisei var. delisei VARIETY
-=======
+# Cetrariella delisei (Bory ex Schaer.) Kärnefelt & A. Thell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. svenska Vetensk-Akad. Handl. 7(2): 11 (1867)
+Bryologist 96(3): 403 (1993)
 
 #### Original name
-Cetraria delisei var. delisei
+Cetraria islandica (L.) Ach.
 
 ### Remarks
 null

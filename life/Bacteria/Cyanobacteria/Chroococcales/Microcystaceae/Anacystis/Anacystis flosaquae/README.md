@@ -1,5 +1,4 @@
-Anacystis flosaquae SPECIES
-=======
+# Anacystis flosaquae SPECIES
 
 #### Status
 ACCEPTED

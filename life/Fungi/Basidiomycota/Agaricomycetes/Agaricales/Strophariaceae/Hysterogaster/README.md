@@ -1,5 +1,4 @@
-Hysterogaster GENUS
-=======
+# Hysterogaster GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella sumacis Madej SPECIES
-=======
+# Sphaerella sumacis Madej SPECIES
 
 #### Status
 ACCEPTED

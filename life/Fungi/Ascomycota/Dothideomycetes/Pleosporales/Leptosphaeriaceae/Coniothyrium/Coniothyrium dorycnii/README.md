@@ -1,5 +1,4 @@
-Coniothyrium dorycnii Urries SPECIES
-=======
+# Coniothyrium dorycnii Urries SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoisotricha Kopperi, 1937 GENUS
-=======
+# Protoisotricha Kopperi, 1937 GENUS
 
 #### Status
 ACCEPTED

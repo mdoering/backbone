@@ -1,5 +1,4 @@
-Rinodina aequalis (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina aequalis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

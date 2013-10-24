@@ -1,5 +1,4 @@
-Septobasidium rugulosum Couch SPECIES
-=======
+# Septobasidium rugulosum Couch SPECIES
 
 #### Status
 ACCEPTED

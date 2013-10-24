@@ -1,5 +1,4 @@
-Gloeosporium alvarezi Speg. SPECIES
-=======
+# Gloeosporium alvarezi Speg. SPECIES
 
 #### Status
 ACCEPTED

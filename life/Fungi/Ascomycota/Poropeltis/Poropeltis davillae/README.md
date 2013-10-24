@@ -1,17 +1,16 @@
-Poropeltis davillae var. davillae Henn. VARIETY
-=======
+# Poropeltis davillae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 43: (1904)
 
 #### Original name
-Poropeltis davillae var. davillae Henn.
+Poropeltis davillae Henn., 1904
 
 ### Remarks
 null

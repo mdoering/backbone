@@ -1,5 +1,4 @@
-Lecanora subvaria Nyl. SPECIES
-=======
+# Lecanora subvaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

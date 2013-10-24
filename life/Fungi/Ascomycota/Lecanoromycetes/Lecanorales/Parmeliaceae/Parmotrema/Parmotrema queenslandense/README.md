@@ -1,5 +1,4 @@
-Parmotrema queenslandense Elix SPECIES
-=======
+# Parmotrema queenslandense Elix SPECIES
 
 #### Status
 ACCEPTED

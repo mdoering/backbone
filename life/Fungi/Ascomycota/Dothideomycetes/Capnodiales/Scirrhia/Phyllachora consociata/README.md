@@ -1,5 +1,4 @@
-Phyllachora consociata Chardón, 1932 SPECIES
-=======
+# Phyllachora consociata Chardón, 1932 SPECIES
 
 #### Status
 DOUBTFUL

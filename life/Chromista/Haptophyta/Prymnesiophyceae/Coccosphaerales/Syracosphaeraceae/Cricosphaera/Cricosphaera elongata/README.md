@@ -1,5 +1,4 @@
-Cricosphaera elongata SPECIES
-=======
+# Cricosphaera elongata SPECIES
 
 #### Status
 ACCEPTED

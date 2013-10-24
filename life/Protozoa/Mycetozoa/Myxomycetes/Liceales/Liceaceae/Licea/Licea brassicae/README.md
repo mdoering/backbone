@@ -1,5 +1,4 @@
-Licea brassicae Skvortsov SPECIES
-=======
+# Licea brassicae Skvortsov SPECIES
 
 #### Status
 ACCEPTED

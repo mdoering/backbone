@@ -1,5 +1,4 @@
-Ploesconia crassa Dujardin, 1841 SPECIES
-=======
+# Ploesconia crassa Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

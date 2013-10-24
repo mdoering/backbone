@@ -1,5 +1,4 @@
-Discinella badicolor Boud. SPECIES
-=======
+# Discinella badicolor Boud. SPECIES
 
 #### Status
 ACCEPTED

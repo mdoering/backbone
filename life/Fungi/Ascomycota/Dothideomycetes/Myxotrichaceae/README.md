@@ -1,5 +1,4 @@
-Myxotrichaceae Locq. ex Currah FAMILY
-=======
+# Myxotrichaceae Locq. ex Currah FAMILY
 
 #### Status
 ACCEPTED

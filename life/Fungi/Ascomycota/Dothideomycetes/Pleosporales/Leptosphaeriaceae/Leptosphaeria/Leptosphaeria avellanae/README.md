@@ -1,5 +1,4 @@
-Leptosphaeria avellanae Fabre SPECIES
-=======
+# Leptosphaeria avellanae Fabre SPECIES
 
 #### Status
 ACCEPTED

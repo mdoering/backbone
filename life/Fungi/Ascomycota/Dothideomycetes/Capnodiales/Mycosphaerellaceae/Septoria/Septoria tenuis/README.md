@@ -1,5 +1,4 @@
-Septoria tenuis Dearn. & House SPECIES
-=======
+# Septoria tenuis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

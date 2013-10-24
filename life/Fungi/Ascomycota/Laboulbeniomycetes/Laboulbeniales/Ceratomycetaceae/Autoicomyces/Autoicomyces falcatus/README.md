@@ -1,5 +1,4 @@
-Autoicomyces falcatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Autoicomyces falcatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

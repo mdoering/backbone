@@ -1,5 +1,4 @@
-Pestalotiopsis terminaliae G.P. Agarwal & Hasija SPECIES
-=======
+# Pestalotiopsis terminaliae G.P. Agarwal & Hasija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla haynaldii Schulzer & Sacc. SPECIES
-=======
+# Zignoëlla haynaldii Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

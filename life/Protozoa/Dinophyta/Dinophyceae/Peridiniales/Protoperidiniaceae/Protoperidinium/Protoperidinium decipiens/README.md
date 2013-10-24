@@ -1,5 +1,4 @@
-Protoperidinium decipiens (Jörgensen) Parke & Dodge SPECIES
-=======
+# Protoperidinium decipiens (Jörgensen) Parke & Dodge SPECIES
 
 #### Status
 ACCEPTED

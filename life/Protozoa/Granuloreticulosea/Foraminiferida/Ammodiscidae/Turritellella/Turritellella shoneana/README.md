@@ -1,5 +1,4 @@
-Turritellella shoneana (Siddall, 1878) SPECIES
-=======
+# Turritellella shoneana (Siddall, 1878) SPECIES
 
 #### Status
 ACCEPTED

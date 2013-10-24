@@ -1,5 +1,4 @@
-Phoma buteae Kamal, R.P. Singh & A.K. Singh SPECIES
-=======
+# Phoma buteae Kamal, R.P. Singh & A.K. Singh SPECIES
 
 #### Status
 ACCEPTED

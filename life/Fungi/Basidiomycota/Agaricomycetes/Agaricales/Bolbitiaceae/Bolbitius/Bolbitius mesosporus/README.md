@@ -1,5 +1,4 @@
-Bolbitius mesosporus Singer SPECIES
-=======
+# Bolbitius mesosporus Singer SPECIES
 
 #### Status
 ACCEPTED

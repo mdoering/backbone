@@ -1,5 +1,4 @@
-Agaricus olivaceofuscus Hornem. SPECIES
-=======
+# Agaricus olivaceofuscus Hornem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota ossaeiformispora S. Imai SPECIES
-=======
+# Lepiota ossaeiformispora S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allassoida Loeblich & Tappan, 1994 GENUS
-=======
+# Allassoida Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

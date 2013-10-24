@@ -1,8 +1,7 @@
-Limacinia abietis Sacc., 1897 SPECIES
-=======
+# Meliola abietis Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

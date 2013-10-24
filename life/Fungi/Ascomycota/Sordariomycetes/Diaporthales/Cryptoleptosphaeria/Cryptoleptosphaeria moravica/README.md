@@ -1,5 +1,4 @@
-Cryptoleptosphaeria moravica Petr., 1923 SPECIES
-=======
+# Cryptoleptosphaeria moravica Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

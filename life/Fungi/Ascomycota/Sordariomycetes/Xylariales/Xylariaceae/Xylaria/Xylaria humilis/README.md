@@ -1,5 +1,4 @@
-Xylaria humilis Penz. & Sacc. SPECIES
-=======
+# Xylaria humilis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

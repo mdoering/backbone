@@ -1,5 +1,4 @@
-Lecidea vexabilis Nyl. SPECIES
-=======
+# Lecidea vexabilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

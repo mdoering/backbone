@@ -1,5 +1,4 @@
-Apectodinium geometricum (Downie & Sarjeant, 1965) SPECIES
-=======
+# Apectodinium geometricum (Downie & Sarjeant, 1965) SPECIES
 
 #### Status
 ACCEPTED

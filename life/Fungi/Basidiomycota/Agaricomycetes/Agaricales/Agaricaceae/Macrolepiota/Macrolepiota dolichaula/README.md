@@ -1,17 +1,16 @@
-Leucocoprinus dolichaulus var. dolichaulus VARIETY
-=======
+# Macrolepiota dolichaula (Berk. & Broome) Pegler & R.W. Rayner, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 23(3): 365 (1969)
 
 #### Original name
-Leucocoprinus dolichaulus var. dolichaulus
+Agaricus dolichaulus Berk. & Broome, 1870
 
 ### Remarks
 null

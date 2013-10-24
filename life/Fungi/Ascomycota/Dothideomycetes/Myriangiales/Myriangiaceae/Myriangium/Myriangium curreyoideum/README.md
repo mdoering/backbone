@@ -1,5 +1,4 @@
-Myriangium curreyoideum (Theiss.) Sacc. & Trotter SPECIES
-=======
+# Myriangium curreyoideum (Theiss.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

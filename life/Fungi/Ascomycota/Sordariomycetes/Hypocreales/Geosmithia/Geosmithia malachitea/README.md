@@ -1,5 +1,4 @@
-Geosmithia malachitea Yaguchi & Udagawa, 1993 SPECIES
-=======
+# Geosmithia malachitea Yaguchi & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

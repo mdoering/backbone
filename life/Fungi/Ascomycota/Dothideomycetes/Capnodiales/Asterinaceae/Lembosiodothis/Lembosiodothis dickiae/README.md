@@ -1,5 +1,4 @@
-Lembosiodothis dickiae Höhn. SPECIES
-=======
+# Lembosiodothis dickiae Höhn. SPECIES
 
 #### Status
 ACCEPTED

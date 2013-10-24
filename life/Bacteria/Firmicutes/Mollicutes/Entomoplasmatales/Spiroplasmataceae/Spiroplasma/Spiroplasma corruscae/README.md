@@ -1,5 +1,4 @@
-Spiroplasma corruscae Hackett et al., 1996 SPECIES
-=======
+# Spiroplasma corruscae Hackett et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

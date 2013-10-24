@@ -1,5 +1,4 @@
-Hendersonia fissurata Cooke SPECIES
-=======
+# Hendersonia fissurata Cooke SPECIES
 
 #### Status
 ACCEPTED

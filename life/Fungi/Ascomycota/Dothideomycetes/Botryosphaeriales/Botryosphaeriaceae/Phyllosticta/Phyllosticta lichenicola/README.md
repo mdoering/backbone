@@ -1,5 +1,4 @@
-Phyllosticta lichenicola Allesch. SPECIES
-=======
+# Phyllosticta lichenicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

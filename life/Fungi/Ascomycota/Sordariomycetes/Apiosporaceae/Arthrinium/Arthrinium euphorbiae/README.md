@@ -1,5 +1,4 @@
-Arthrinium euphorbiae M.B. Ellis, 1965 SPECIES
-=======
+# Arthrinium euphorbiae M.B. Ellis, 1965 SPECIES
 
 #### Status
 ACCEPTED

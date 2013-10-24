@@ -1,17 +1,16 @@
-Ascotaiwania pennisetarum M.K.M. Wong & K.D. Hyde SPECIES
-=======
+# Ascotaiwania pennisetorum M.K.M. Wong & K.D. Hyde, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 22(1): 20 (2001)
 
 #### Original name
-Ascotaiwania pennisetarum M.K.M. Wong & K.D. Hyde
+Ascotaiwania pennisetorum M.K.M. Wong & K.D. Hyde, 2001
 
 ### Remarks
 null

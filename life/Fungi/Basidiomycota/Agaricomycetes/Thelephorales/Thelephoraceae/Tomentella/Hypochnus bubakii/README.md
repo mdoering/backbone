@@ -1,17 +1,16 @@
-Hypochnus bubaci Velen. SPECIES
-=======
+# Hypochnus bubakii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 4-5: 744 (1922)
 
 #### Original name
-Hypochnus bubaci Velen.
+Hypochnus bubakii Velen.
 
 ### Remarks
 null

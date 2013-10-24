@@ -1,5 +1,4 @@
-Asterina champereiicola B. Song & T.H. Li, 2004 SPECIES
-=======
+# Asterina champereiicola B. Song & T.H. Li, 2004 SPECIES
 
 #### Status
 ACCEPTED

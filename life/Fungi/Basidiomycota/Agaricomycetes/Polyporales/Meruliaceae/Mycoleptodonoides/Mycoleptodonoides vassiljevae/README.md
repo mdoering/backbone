@@ -1,5 +1,4 @@
-Mycoleptodonoides vassiljevae Nikol., 1952 SPECIES
-=======
+# Mycoleptodonoides vassiljevae Nikol., 1952 SPECIES
 
 #### Status
 ACCEPTED

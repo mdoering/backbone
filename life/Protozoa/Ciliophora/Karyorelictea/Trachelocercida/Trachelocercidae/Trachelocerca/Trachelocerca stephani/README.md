@@ -1,8 +1,7 @@
-Tracheloraphis stephani Dragesco, 1965 SPECIES
-=======
+# Trachelocerca stephani (Dragesco, 1965) Dragesco, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hyaloscypha microstoma (Wallr.) Boud. SPECIES
-=======
+# Hyaloscypha microstoma (Wallr.) Boud. SPECIES
 
 #### Status
 ACCEPTED

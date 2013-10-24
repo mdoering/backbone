@@ -1,5 +1,4 @@
-Quezelia hoggariana Faurel & Schotter, 1965 SPECIES
-=======
+# Quezelia hoggariana Faurel & Schotter, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia detonsa SPECIES
-=======
+# Parmelia detonsa SPECIES
 
 #### Status
 ACCEPTED

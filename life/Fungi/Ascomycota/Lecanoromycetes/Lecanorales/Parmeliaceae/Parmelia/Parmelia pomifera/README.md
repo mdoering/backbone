@@ -1,5 +1,4 @@
-Parmelia pomifera Zahlbr. SPECIES
-=======
+# Parmelia pomifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

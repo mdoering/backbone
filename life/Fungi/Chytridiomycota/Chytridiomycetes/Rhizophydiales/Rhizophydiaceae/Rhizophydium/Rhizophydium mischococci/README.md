@@ -1,5 +1,4 @@
-Rhizophydium mischococci Scherff. SPECIES
-=======
+# Rhizophydium mischococci Scherff. SPECIES
 
 #### Status
 ACCEPTED

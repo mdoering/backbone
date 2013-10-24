@@ -1,5 +1,4 @@
-Sphaerophragmium boanense Cummins, 1940 SPECIES
-=======
+# Sphaerophragmium boanense Cummins, 1940 SPECIES
 
 #### Status
 ACCEPTED

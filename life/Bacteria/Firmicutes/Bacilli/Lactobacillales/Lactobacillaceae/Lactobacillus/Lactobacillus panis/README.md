@@ -1,5 +1,4 @@
-Lactobacillus panis Wiese et al., 1996 SPECIES
-=======
+# Lactobacillus panis Wiese et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

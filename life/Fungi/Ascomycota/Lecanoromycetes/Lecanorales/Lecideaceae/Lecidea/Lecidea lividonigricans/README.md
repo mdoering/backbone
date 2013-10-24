@@ -1,5 +1,4 @@
-Lecidea lividonigricans (Tuck.) Nyl. SPECIES
-=======
+# Lecidea lividonigricans (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

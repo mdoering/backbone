@@ -1,11 +1,10 @@
-Desulfovibrio orientis Adams & Postgate, 1959 SPECIES
-=======
+# Desulfosporosinus orientis (Campbell & Postgate, 1965) Stackebrandt et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

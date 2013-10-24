@@ -1,8 +1,7 @@
-Lubetiella micheli Puytorac, 1959 SPECIES
-=======
+# Lubetiella proditrix (Puytorac, 1959) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

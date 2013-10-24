@@ -1,5 +1,4 @@
-Meliola borbonicae Mibey SPECIES
-=======
+# Meliola borbonicae Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gypsina crassitesta Chapman, 1900 SPECIES
-=======
+# Gypsina crassitesta Chapman, 1900 SPECIES
 
 #### Status
 ACCEPTED

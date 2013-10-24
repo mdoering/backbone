@@ -1,5 +1,4 @@
-Colletotrichum trillii Overh. SPECIES
-=======
+# Colletotrichum trillii Overh. SPECIES
 
 #### Status
 ACCEPTED

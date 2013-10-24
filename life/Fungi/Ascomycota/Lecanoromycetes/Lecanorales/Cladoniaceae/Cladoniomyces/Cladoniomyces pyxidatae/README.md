@@ -1,5 +1,4 @@
-Cladoniomyces pyxidatae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Cladoniomyces pyxidatae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

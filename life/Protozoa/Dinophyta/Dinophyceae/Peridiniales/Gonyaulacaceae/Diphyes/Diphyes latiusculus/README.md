@@ -1,5 +1,4 @@
-Diphyes latiusculus K. Matsuoka SPECIES
-=======
+# Diphyes latiusculus K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

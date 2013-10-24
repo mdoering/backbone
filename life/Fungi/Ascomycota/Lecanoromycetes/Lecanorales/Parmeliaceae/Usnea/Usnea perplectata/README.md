@@ -1,5 +1,4 @@
-Usnea perplectata Motyka SPECIES
-=======
+# Usnea perplectata Motyka SPECIES
 
 #### Status
 ACCEPTED

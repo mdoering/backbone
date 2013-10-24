@@ -1,5 +1,4 @@
-Trinacrium subtropicale Speg. SPECIES
-=======
+# Trinacrium subtropicale Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora andrographidis Thirum. & Govindu SPECIES
-=======
+# Cercospora andrographidis Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

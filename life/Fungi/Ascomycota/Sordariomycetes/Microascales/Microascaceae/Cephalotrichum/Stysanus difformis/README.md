@@ -1,5 +1,4 @@
-Stysanus difformis Oudem. SPECIES
-=======
+# Stysanus difformis Oudem. SPECIES
 
 #### Status
 ACCEPTED

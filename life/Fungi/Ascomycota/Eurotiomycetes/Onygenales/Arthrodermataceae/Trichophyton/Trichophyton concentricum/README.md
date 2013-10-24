@@ -1,14 +1,13 @@
-Aspergillus concentricum (R. Blanch.) Castell., 1907 SPECIES
-=======
+# Trichophyton concentricum R. Blanch., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Int. Derm. Congr. 6: 671 (1907)
+in Bouchard, Traité Path. Gen. (Paris) 2: 916 (1895)
 
 #### Original name
 Trichophyton concentricum R. Blanch., 1895

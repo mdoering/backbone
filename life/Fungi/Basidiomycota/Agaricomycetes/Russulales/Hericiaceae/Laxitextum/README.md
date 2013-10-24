@@ -1,5 +1,4 @@
-Laxitextum Lentz, 1956 GENUS
-=======
+# Laxitextum Lentz, 1956 GENUS
 
 #### Status
 ACCEPTED

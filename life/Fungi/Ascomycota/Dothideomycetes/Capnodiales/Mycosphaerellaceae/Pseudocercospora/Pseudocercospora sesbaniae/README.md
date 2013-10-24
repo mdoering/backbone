@@ -1,5 +1,4 @@
-Pseudocercospora sesbaniae (Henn.) Deighton SPECIES
-=======
+# Pseudocercospora sesbaniae (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

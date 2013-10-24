@@ -1,5 +1,4 @@
-Inocybe asinia Kalchbr. SPECIES
-=======
+# Inocybe asinia Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrionaceae FAMILY
-=======
+# Vibrionaceae FAMILY
 
 #### Status
 ACCEPTED

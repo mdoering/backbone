@@ -1,5 +1,4 @@
-Aspicilia maroccana B. de Lesd. SPECIES
-=======
+# Aspicilia maroccana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

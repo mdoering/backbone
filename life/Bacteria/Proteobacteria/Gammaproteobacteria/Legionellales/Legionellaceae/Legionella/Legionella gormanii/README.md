@@ -1,8 +1,7 @@
-Fluoribacter gormanii (Morris et al., 1980) Brown et al., 1981 SPECIES
-=======
+# Legionella gormanii Morris et al., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

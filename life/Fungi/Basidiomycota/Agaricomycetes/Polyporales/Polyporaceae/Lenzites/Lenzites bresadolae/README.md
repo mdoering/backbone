@@ -1,5 +1,4 @@
-Lenzites bresadolae Schulzer SPECIES
-=======
+# Lenzites bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia rickii Killerm. SPECIES
-=======
+# Omphalia rickii Killerm. SPECIES
 
 #### Status
 ACCEPTED

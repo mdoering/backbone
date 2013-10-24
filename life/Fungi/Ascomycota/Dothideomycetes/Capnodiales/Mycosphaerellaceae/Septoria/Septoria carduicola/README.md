@@ -1,5 +1,4 @@
-Septoria carduicola T.M. Achundov SPECIES
-=======
+# Septoria carduicola T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

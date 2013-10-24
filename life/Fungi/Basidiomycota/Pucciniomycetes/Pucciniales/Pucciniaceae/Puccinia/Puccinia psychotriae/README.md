@@ -1,5 +1,4 @@
-Puccinia psychotriae Henn. SPECIES
-=======
+# Puccinia psychotriae Henn. SPECIES
 
 #### Status
 ACCEPTED

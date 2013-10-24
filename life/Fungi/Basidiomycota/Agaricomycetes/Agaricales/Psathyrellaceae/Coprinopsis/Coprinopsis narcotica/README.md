@@ -1,5 +1,4 @@
-Coprinopsis narcotica (Batsch) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis narcotica (Batsch) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

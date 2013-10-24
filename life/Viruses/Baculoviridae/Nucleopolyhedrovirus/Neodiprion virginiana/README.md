@@ -1,5 +1,4 @@
-Neodiprion virginiana Npv SPECIES
-=======
+# Neodiprion virginiana Npv SPECIES
 
 #### Status
 ACCEPTED

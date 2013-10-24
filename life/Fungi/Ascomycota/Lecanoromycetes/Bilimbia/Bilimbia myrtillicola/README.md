@@ -1,5 +1,4 @@
-Bilimbia myrtillicola Erichsen SPECIES
-=======
+# Bilimbia myrtillicola Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta sepium Lobik SPECIES
-=======
+# Phyllosticta sepium Lobik SPECIES
 
 #### Status
 ACCEPTED

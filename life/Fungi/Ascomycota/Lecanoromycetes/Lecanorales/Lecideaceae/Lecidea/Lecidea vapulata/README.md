@@ -1,5 +1,4 @@
-Lecidea vapulata Anzi SPECIES
-=======
+# Lecidea vapulata Anzi SPECIES
 
 #### Status
 ACCEPTED

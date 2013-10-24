@@ -1,5 +1,4 @@
-Micrhystridium charakion Colbath, 1979 SPECIES
-=======
+# Micrhystridium charakion Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

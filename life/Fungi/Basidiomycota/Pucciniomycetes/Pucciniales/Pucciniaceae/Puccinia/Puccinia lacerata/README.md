@@ -1,5 +1,4 @@
-Puccinia lacerata (Doidge) Sacc. & Trotter SPECIES
-=======
+# Puccinia lacerata (Doidge) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

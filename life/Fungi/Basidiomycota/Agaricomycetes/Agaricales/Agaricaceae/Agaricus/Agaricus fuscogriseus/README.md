@@ -1,5 +1,4 @@
-Agaricus fuscogriseus Pers. SPECIES
-=======
+# Agaricus fuscogriseus Pers. SPECIES
 
 #### Status
 ACCEPTED

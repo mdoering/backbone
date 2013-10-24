@@ -1,5 +1,4 @@
-Chaetosticta cylindrocollifera Matsush. SPECIES
-=======
+# Chaetosticta cylindrocollifera Matsush. SPECIES
 
 #### Status
 ACCEPTED

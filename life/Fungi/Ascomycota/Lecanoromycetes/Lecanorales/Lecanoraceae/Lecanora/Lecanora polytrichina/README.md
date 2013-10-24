@@ -1,5 +1,4 @@
-Lecanora polytrichina (Th. Fr.) Vain. SPECIES
-=======
+# Lecanora polytrichina (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

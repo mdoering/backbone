@@ -1,5 +1,4 @@
-Inocybe clavata Takah. Kobay. SPECIES
-=======
+# Inocybe clavata Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Myrothecium carmichaeli Grev. SPECIES
-=======
+# Myrothecium carmichaelii Grev., 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. crypt. fl. (Edinburgh) no. 140 (1824)
 
 #### Original name
-Myrothecium carmichaeli Grev.
+Myrothecium carmichaelii Grev., 1824
 
 ### Remarks
 null

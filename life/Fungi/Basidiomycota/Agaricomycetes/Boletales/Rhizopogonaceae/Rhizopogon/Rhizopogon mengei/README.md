@@ -1,5 +1,4 @@
-Rhizopogon mengei M.F. Allen, Trappe & T.R. Horton, 1999 SPECIES
-=======
+# Rhizopogon mengei M.F. Allen, Trappe & T.R. Horton, 1999 SPECIES
 
 #### Status
 ACCEPTED

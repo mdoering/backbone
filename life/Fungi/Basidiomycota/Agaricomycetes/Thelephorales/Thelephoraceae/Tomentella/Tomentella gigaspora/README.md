@@ -1,5 +1,4 @@
-Tomentella gigaspora Hjortstam & Ryvarden, 1995 SPECIES
-=======
+# Tomentella gigaspora Hjortstam & Ryvarden, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caudospora J. Weiser, 1946 GENUS
-=======
+# Caudospora J. Weiser, 1946 GENUS
 
 #### Status
 ACCEPTED

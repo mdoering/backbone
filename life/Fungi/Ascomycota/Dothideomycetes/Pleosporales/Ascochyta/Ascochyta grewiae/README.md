@@ -1,5 +1,4 @@
-Ascochyta grewiae Cejp SPECIES
-=======
+# Ascochyta grewiae Cejp SPECIES
 
 #### Status
 ACCEPTED

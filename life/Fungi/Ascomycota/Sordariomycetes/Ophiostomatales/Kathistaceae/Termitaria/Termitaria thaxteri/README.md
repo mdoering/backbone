@@ -1,5 +1,4 @@
-Termitaria thaxteri Reichensp. SPECIES
-=======
+# Termitaria thaxteri Reichensp. SPECIES
 
 #### Status
 ACCEPTED

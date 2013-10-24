@@ -1,5 +1,4 @@
-Lecanora declarata Nyl. SPECIES
-=======
+# Lecanora declarata Nyl. SPECIES
 
 #### Status
 ACCEPTED

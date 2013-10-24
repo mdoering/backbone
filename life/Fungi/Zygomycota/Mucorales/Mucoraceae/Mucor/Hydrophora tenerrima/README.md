@@ -1,5 +1,4 @@
-Hydrophora tenerrima Berk. SPECIES
-=======
+# Hydrophora tenerrima Berk. SPECIES
 
 #### Status
 ACCEPTED

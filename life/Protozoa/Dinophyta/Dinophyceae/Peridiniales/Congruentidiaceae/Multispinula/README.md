@@ -1,14 +1,13 @@
-Multispinulosa R. Harland, 1977 GENUS
-=======
+# Multispinula M.R. Bradford, 1975 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Can. J. Bot. 53: 3067.
 
 #### Original name
 null

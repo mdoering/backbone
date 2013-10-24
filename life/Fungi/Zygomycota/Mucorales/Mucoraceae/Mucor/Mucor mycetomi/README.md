@@ -1,5 +1,4 @@
-Mucor mycetomi Gelonesi SPECIES
-=======
+# Mucor mycetomi Gelonesi SPECIES
 
 #### Status
 ACCEPTED

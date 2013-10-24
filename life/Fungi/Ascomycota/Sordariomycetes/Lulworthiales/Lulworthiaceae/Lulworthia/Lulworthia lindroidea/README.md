@@ -1,5 +1,4 @@
-Lulworthia lindroidea Kohlm., 1980 SPECIES
-=======
+# Lulworthia lindroidea Kohlm., 1980 SPECIES
 
 #### Status
 ACCEPTED

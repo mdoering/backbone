@@ -1,5 +1,4 @@
-Lecidella commutata Knoph & Leuckert SPECIES
-=======
+# Lecidella commutata Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

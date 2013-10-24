@@ -1,5 +1,4 @@
-Puccinia agnesiae Syd. SPECIES
-=======
+# Puccinia agnesiae Syd. SPECIES
 
 #### Status
 ACCEPTED

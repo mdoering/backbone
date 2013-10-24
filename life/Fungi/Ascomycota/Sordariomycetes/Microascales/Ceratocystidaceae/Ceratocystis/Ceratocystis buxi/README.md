@@ -1,5 +1,4 @@
-Ceratocystis buxi (Borissov) C. Moreau SPECIES
-=======
+# Ceratocystis buxi (Borissov) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

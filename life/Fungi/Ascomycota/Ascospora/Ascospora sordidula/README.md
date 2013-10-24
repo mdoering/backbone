@@ -1,5 +1,4 @@
-Ascospora sordidula Lév. SPECIES
-=======
+# Ascospora sordidula Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metanectria sigmatospora Speg. SPECIES
-=======
+# Metanectria sigmatospora Speg. SPECIES
 
 #### Status
 ACCEPTED

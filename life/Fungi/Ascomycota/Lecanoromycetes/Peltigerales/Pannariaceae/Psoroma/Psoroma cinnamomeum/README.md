@@ -1,5 +1,4 @@
-Psoroma cinnamomeum Malme SPECIES
-=======
+# Psoroma cinnamomeum Malme SPECIES
 
 #### Status
 ACCEPTED

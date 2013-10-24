@@ -1,5 +1,4 @@
-Marasmius stypinoides Petch SPECIES
-=======
+# Marasmius stypinoides Petch SPECIES
 
 #### Status
 ACCEPTED

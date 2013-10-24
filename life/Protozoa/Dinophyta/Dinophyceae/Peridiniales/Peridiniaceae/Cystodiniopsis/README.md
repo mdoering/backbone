@@ -1,5 +1,4 @@
-Cystodiniopsis T.F. Vozzhennikova, 1967 GENUS
-=======
+# Cystodiniopsis T.F. Vozzhennikova, 1967 GENUS
 
 #### Status
 ACCEPTED

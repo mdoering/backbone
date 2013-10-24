@@ -1,5 +1,4 @@
-Anthocyrtura Haeckel, 1887 GENUS
-=======
+# Anthocyrtura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

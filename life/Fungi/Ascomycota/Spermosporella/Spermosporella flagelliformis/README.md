@@ -1,5 +1,4 @@
-Spermosporella flagelliformis K. Matsush. & Matsush. SPECIES
-=======
+# Spermosporella flagelliformis K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

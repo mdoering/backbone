@@ -1,5 +1,4 @@
-Hyphoderma budingtonii Lindsey & Gilb., 1977 SPECIES
-=======
+# Hyphoderma budingtonii Lindsey & Gilb., 1977 SPECIES
 
 #### Status
 ACCEPTED

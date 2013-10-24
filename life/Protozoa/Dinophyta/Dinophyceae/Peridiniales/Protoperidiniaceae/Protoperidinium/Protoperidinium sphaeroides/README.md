@@ -1,5 +1,4 @@
-Protoperidinium sphaeroides (Dangeard) Balech SPECIES
-=======
+# Protoperidinium sphaeroides (Dangeard) Balech SPECIES
 
 #### Status
 ACCEPTED

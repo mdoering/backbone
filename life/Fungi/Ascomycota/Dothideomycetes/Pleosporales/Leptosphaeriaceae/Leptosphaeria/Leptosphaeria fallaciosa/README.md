@@ -1,5 +1,4 @@
-Leptosphaeria fallaciosa Berl., 1889 SPECIES
-=======
+# Leptosphaeria fallaciosa Berl., 1889 SPECIES
 
 #### Status
 ACCEPTED

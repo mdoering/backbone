@@ -1,5 +1,4 @@
-Acarospora carnegiei Zahlbr. SPECIES
-=======
+# Acarospora carnegiei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

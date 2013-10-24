@@ -1,5 +1,4 @@
-Haplaria repens Bonord. SPECIES
-=======
+# Haplaria repens Bonord. SPECIES
 
 #### Status
 ACCEPTED

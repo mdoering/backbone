@@ -1,5 +1,4 @@
-Euthythyrites Cookson GENUS
-=======
+# Euthythyrites Cookson GENUS
 
 #### Status
 ACCEPTED

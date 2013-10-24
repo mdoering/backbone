@@ -1,5 +1,4 @@
-Stephanodiscus nemanensis G. K. Khursevich SPECIES
-=======
+# Stephanodiscus nemanensis G. K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladostephus spongiosum SPECIES
-=======
+# Cladostephus spongiosum SPECIES
 
 #### Status
 ACCEPTED

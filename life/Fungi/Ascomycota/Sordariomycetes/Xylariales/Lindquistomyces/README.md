@@ -1,5 +1,4 @@
-Lindquistomyces Aramb., E. Müll. & Gamundí GENUS
-=======
+# Lindquistomyces Aramb., E. Müll. & Gamundí GENUS
 
 #### Status
 ACCEPTED

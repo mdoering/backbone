@@ -1,14 +1,13 @@
-Parmelia willisii Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia willisii (Kurok. & Filson) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Filson, Aust. J. Bot. 30(5): 577 (1982)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 355 (1986)
 
 #### Original name
 Parmelia willisii Kurok. & Filson

@@ -1,5 +1,4 @@
-Rickia uropodae Thaxt. SPECIES
-=======
+# Rickia uropodae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

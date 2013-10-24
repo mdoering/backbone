@@ -1,17 +1,16 @@
-Lichina pygmaea var. pygmaea (Lightf.) C. Agardh VARIETY
-=======
+# Lichina pygmaea (Lightf.) C. Agardh SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Alg. Scand. 1: xii, 9 (1821)
 
 #### Original name
-Lichina pygmaea var. pygmaea (Lightf.) C. Agardh
+Fucus pygmaea Lightf.
 
 ### Remarks
 null

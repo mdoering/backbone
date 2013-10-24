@@ -1,5 +1,4 @@
-Cyrtidula idaeica Minks SPECIES
-=======
+# Cyrtidula idaeica Minks SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera hommae U. Braun SPECIES
-=======
+# Microsphaera hommae U. Braun SPECIES
 
 #### Status
 ACCEPTED

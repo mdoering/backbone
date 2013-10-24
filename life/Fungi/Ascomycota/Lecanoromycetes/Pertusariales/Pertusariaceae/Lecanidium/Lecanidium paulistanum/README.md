@@ -1,5 +1,4 @@
-Lecanidium paulistanum Speg. SPECIES
-=======
+# Lecanidium paulistanum Speg. SPECIES
 
 #### Status
 ACCEPTED

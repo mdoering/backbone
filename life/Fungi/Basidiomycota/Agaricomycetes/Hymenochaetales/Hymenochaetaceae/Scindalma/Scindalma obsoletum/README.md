@@ -1,5 +1,4 @@
-Scindalma obsoletum (Fr.) Kuntze SPECIES
-=======
+# Scindalma obsoletum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doguetia GENUS
-=======
+# Doguetia GENUS
 
 #### Status
 ACCEPTED

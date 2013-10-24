@@ -1,5 +1,4 @@
-Phomopsis lamii Sacc. & D. Sacc. SPECIES
-=======
+# Phomopsis lamii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

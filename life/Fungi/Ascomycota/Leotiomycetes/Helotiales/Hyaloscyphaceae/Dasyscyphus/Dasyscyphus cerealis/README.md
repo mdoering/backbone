@@ -1,17 +1,16 @@
-Dasyscypha cerealis Velen. SPECIES
-=======
+# Dasyscyphus cerealis Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 240 (1934)
 
 #### Original name
-Dasyscypha cerealis Velen.
+Dasyscyphus cerealis Velen.
 
 ### Remarks
 null

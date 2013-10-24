@@ -1,5 +1,4 @@
-Monodictys parvispora R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Monodictys parvispora R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

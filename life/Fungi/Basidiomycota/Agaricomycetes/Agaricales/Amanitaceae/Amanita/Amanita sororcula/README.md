@@ -1,5 +1,4 @@
-Amanita sororcula Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita sororcula Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

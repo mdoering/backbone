@@ -1,5 +1,4 @@
-Mycocladus Beauverie GENUS
-=======
+# Mycocladus Beauverie GENUS
 
 #### Status
 ACCEPTED

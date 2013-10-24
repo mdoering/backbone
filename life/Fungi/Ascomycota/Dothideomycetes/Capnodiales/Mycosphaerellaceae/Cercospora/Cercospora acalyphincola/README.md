@@ -1,5 +1,4 @@
-Cercospora acalyphincola Petr. SPECIES
-=======
+# Cercospora acalyphincola Petr. SPECIES
 
 #### Status
 ACCEPTED

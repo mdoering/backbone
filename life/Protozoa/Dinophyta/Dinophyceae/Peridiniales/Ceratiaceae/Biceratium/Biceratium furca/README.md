@@ -1,5 +1,4 @@
-Biceratium furca (Ehrenberg) Vanhoeffen SPECIES
-=======
+# Biceratium furca (Ehrenberg) Vanhoeffen SPECIES
 
 #### Status
 ACCEPTED

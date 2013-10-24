@@ -1,5 +1,4 @@
-Litonotus folium SPECIES
-=======
+# Litonotus folium SPECIES
 
 #### Status
 ACCEPTED

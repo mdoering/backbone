@@ -1,14 +1,13 @@
-Septoria empetri Rostr., 1888 SPECIES
-=======
+# Coleophoma empetri (Rostr.) Petr., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 27(5/6): 331 (1929)
 
 #### Original name
 null

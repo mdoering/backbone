@@ -1,5 +1,4 @@
-Graphis dendrogramma Nyl. SPECIES
-=======
+# Graphis dendrogramma Nyl. SPECIES
 
 #### Status
 ACCEPTED

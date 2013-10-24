@@ -1,5 +1,4 @@
-Cantharellula lilacinopruinatus Hermitte, Eyssart. & Poumarat SPECIES
-=======
+# Cantharellula lilacinopruinatus Hermitte, Eyssart. & Poumarat SPECIES
 
 #### Status
 ACCEPTED

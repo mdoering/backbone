@@ -1,5 +1,4 @@
-Gyalectidium palmicola Farkas & Vezda SPECIES
-=======
+# Gyalectidium palmicola Farkas & Vezda SPECIES
 
 #### Status
 ACCEPTED

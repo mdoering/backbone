@@ -1,5 +1,4 @@
-Euglena ascusformis Schiller, 1925 SPECIES
-=======
+# Euglena ascusformis Schiller, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia psoraleae Zaprom. SPECIES
-=======
+# Puccinia psoraleae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

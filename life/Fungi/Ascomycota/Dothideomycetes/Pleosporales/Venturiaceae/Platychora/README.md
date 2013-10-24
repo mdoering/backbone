@@ -1,5 +1,4 @@
-Platychora Petrak, 1925 GENUS
-=======
+# Platychora Petrak, 1925 GENUS
 
 #### Status
 ACCEPTED

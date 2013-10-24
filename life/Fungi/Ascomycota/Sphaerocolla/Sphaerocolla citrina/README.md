@@ -1,5 +1,4 @@
-Sphaerocolla citrina Speg. SPECIES
-=======
+# Sphaerocolla citrina Speg. SPECIES
 
 #### Status
 ACCEPTED

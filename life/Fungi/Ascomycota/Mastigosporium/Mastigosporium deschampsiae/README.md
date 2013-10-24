@@ -1,5 +1,4 @@
-Mastigosporium deschampsiae Jørst., 1947 SPECIES
-=======
+# Mastigosporium deschampsiae Jørst., 1947 SPECIES
 
 #### Status
 ACCEPTED

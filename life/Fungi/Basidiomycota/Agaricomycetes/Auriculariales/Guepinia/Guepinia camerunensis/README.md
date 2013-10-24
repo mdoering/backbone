@@ -1,5 +1,4 @@
-Guepinia camerunensis Henn. SPECIES
-=======
+# Guepinia camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ochromicra Nyl. SPECIES
-=======
+# Lecanora ochromicra Nyl. SPECIES
 
 #### Status
 ACCEPTED

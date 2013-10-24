@@ -1,5 +1,4 @@
-Russula pseudodelica J.E. Lange SPECIES
-=======
+# Russula pseudodelica J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

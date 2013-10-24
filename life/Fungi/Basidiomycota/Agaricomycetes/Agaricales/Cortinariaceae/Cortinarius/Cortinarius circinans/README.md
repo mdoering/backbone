@@ -1,5 +1,4 @@
-Cortinarius circinans Rob. Henry SPECIES
-=======
+# Cortinarius circinans Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

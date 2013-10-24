@@ -1,5 +1,4 @@
-Amazonspora C. Azevedo & E. Matos GENUS
-=======
+# Amazonspora C. Azevedo & E. Matos GENUS
 
 #### Status
 ACCEPTED

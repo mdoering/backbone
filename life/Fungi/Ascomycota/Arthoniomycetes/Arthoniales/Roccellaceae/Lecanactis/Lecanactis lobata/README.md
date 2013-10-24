@@ -1,5 +1,4 @@
-Lecanactis lobata Flot. SPECIES
-=======
+# Lecanactis lobata Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius apatelius Singer SPECIES
-=======
+# Marasmius apatelius Singer SPECIES
 
 #### Status
 ACCEPTED

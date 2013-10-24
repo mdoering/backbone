@@ -1,5 +1,4 @@
-Macrophoma phacidioides (Cooke & Ellis) Berl. & Voglino SPECIES
-=======
+# Macrophoma phacidioides (Cooke & Ellis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora bogoriensis-rubra (De Kruyff) Sacc. & Trotter SPECIES
-=======
+# Oospora bogoriensis-rubra (De Kruyff) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

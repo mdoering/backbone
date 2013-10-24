@@ -1,5 +1,4 @@
-Pucciniastrum corni Dietel SPECIES
-=======
+# Pucciniastrum corni Dietel SPECIES
 
 #### Status
 ACCEPTED

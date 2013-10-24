@@ -1,17 +1,16 @@
-Thyrea pachyphylla var. pachyphylla (Müll. Arg.) Henssen VARIETY
-=======
+# Thyrea pachyphylla (Müll. Arg.) Henssen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Henssen & Jørgensen, Lichenologist 22(2): 146 (1990)
 
 #### Original name
-Thyrea pachyphylla var. pachyphylla (Müll. Arg.) Henssen
+Omphalaria pulvinata var. pachyphylla Müll. Arg.
 
 ### Remarks
 null

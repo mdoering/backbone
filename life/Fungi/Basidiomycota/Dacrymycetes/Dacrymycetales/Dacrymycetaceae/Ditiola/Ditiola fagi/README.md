@@ -1,5 +1,4 @@
-Ditiola fagi Oudem. SPECIES
-=======
+# Ditiola fagi Oudem. SPECIES
 
 #### Status
 ACCEPTED

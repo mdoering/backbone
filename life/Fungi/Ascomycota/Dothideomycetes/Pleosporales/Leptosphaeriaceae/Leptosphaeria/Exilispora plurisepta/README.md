@@ -1,5 +1,4 @@
-Exilispora plurisepta Tehon & E.Y. Daniels SPECIES
-=======
+# Exilispora plurisepta Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

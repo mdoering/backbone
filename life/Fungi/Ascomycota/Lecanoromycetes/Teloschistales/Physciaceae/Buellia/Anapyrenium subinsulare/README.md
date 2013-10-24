@@ -1,5 +1,4 @@
-Anapyrenium subinsulare Werner SPECIES
-=======
+# Anapyrenium subinsulare Werner SPECIES
 
 #### Status
 ACCEPTED

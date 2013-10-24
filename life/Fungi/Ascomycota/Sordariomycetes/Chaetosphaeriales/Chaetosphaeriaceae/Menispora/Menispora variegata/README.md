@@ -1,5 +1,4 @@
-Menispora variegata Preuss SPECIES
-=======
+# Menispora variegata Preuss SPECIES
 
 #### Status
 ACCEPTED

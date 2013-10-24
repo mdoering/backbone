@@ -1,5 +1,4 @@
-Polystictus virgineus (Schwein.) Cooke SPECIES
-=======
+# Polystictus virgineus (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chaetopyrena trichostoma (Pass.) Sacc., 1928 SPECIES
-=======
+# Metasphaeria trichostoma (Pass.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Leptosphaeria trichostoma Pass.
 
 ### Remarks
 null

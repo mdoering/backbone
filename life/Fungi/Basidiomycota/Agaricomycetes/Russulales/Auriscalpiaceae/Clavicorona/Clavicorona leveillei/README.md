@@ -1,5 +1,4 @@
-Clavicorona leveillei var. leveillei VARIETY
-=======
+# Clavicorona leveillei SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavicorona leveillei var. leveillei
+Clavicorona leveillei
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stephensia colomboi De Vito, 2003 SPECIES
-=======
+# Stephensia colomboi De Vito, 2003 SPECIES
 
 #### Status
 ACCEPTED

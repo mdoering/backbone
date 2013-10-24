@@ -1,5 +1,4 @@
-Lophodermium canangae Henn. & E. Nyman SPECIES
-=======
+# Lophodermium canangae Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

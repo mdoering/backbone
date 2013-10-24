@@ -1,5 +1,4 @@
-Mycena congolensis Beeli SPECIES
-=======
+# Mycena congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

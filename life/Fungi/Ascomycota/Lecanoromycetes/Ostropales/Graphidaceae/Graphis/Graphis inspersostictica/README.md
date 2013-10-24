@@ -1,5 +1,4 @@
-Graphis inspersostictica Sipman & Lücking SPECIES
-=======
+# Graphis inspersostictica Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

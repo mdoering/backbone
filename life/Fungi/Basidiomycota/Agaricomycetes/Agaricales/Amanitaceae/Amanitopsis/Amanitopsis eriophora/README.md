@@ -1,5 +1,4 @@
-Amanitopsis eriophora (Berk.) Sacc. SPECIES
-=======
+# Amanitopsis eriophora (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizogaster muscicola Reinsch SPECIES
-=======
+# Rhizogaster muscicola Reinsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia australis Körn. SPECIES
-=======
+# Puccinia australis Körn. SPECIES
 
 #### Status
 ACCEPTED

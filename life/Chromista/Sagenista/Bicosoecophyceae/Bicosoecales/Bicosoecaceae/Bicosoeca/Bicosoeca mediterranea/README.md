@@ -1,5 +1,4 @@
-Bicosoeca mediterranea Pavard SPECIES
-=======
+# Bicosoeca mediterranea Pavard SPECIES
 
 #### Status
 ACCEPTED

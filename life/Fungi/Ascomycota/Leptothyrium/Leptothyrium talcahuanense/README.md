@@ -1,5 +1,4 @@
-Leptothyrium talcahuanense Speg. SPECIES
-=======
+# Leptothyrium talcahuanense Speg. SPECIES
 
 #### Status
 ACCEPTED

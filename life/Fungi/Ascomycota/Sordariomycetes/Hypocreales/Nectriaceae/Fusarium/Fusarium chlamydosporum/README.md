@@ -1,5 +1,4 @@
-Fusarium chlamydosporum var. chlamydosporum Wollenw. & Reinking, 1925 VARIETY
-=======
+# Fusarium chlamydosporum Wollenw. & Reinking SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Phytopathology 15: 156 (1925)
 
 #### Original name
-Fusarium chlamydosporum var. chlamydosporum Wollenw. & Reinking, 1925
+Fusarium chlamydosporum Wollenw. & Reinking
 
 ### Remarks
 null

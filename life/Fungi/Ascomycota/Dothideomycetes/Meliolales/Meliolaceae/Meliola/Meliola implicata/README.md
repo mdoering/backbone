@@ -1,5 +1,4 @@
-Meliola implicata (Doidge) Cif. SPECIES
-=======
+# Meliola implicata (Doidge) Cif. SPECIES
 
 #### Status
 ACCEPTED

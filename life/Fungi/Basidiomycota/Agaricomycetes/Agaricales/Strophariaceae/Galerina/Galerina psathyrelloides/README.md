@@ -1,5 +1,4 @@
-Galerina psathyrelloides A.H. Sm. SPECIES
-=======
+# Galerina psathyrelloides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Scutomollisia pallide-ochracea Graddon SPECIES
-=======
+# Scutomollisia pallido-ochracea Graddon, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 83(3): 381 (1984)
 
 #### Original name
-Scutomollisia pallide-ochracea Graddon
+Scutomollisia pallido-ochracea Graddon, 1984
 
 ### Remarks
 null

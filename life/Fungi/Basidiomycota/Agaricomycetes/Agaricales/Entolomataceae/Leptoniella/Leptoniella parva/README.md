@@ -1,5 +1,4 @@
-Leptoniella parva (Peck) Murrill SPECIES
-=======
+# Leptoniella parva (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

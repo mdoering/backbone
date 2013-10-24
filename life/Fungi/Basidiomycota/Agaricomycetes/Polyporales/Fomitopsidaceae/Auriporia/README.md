@@ -1,5 +1,4 @@
-Auriporia Ryvarden GENUS
-=======
+# Auriporia Ryvarden GENUS
 
 #### Status
 ACCEPTED

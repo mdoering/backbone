@@ -1,17 +1,16 @@
-Ectosticta Spegazzini, 1912 GENUS
-=======
+# Rhizosphaera L. Mangin & Hariot, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 23: 107 (1912)
+Bull. Soc. mycol. Fr. 23: 56 (1907)
 
 #### Original name
-Ectosticta Spegazzini, 1912
+Rhizosphaera L. Mangin & Hariot, 1907
 
 ### Remarks
 null

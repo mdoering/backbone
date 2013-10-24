@@ -1,5 +1,4 @@
-Agaricus argutus Kalchbr. SPECIES
-=======
+# Agaricus argutus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

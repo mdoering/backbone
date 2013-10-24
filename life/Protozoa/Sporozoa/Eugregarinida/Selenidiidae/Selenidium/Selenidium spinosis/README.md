@@ -1,5 +1,4 @@
-Selenidium spinosis Ganapati, 1946 SPECIES
-=======
+# Selenidium spinosis Ganapati, 1946 SPECIES
 
 #### Status
 ACCEPTED

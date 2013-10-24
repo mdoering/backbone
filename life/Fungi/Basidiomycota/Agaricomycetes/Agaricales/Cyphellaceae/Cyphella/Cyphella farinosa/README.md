@@ -1,5 +1,4 @@
-Cyphella farinosa Pat. SPECIES
-=======
+# Cyphella farinosa Pat. SPECIES
 
 #### Status
 ACCEPTED

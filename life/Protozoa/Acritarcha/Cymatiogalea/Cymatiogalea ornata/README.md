@@ -1,5 +1,4 @@
-Cymatiogalea ornata Deunff in Deunff et al., 1961 SPECIES
-=======
+# Cymatiogalea ornata Deunff in Deunff et al., 1961 SPECIES
 
 #### Status
 ACCEPTED

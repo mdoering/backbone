@@ -1,5 +1,4 @@
-Dyadosporites scabratus (P. Kumar) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites scabratus (P. Kumar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

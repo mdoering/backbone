@@ -1,17 +1,16 @@
-Volvariella parvispora D.A. Reid, 1977 SPECIES
-=======
+# Volvariella reidii Heinem., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Reid, Murton & Westwood, Trans. Br. mycol. Soc. 68: 327 (1977)
+Bull. Jard. Bot. Nat. Belg. 48(1-2): 239 (1978)
 
 #### Original name
-Volvariella parvispora D.A. Reid, 1977
+Volvariella reidii Heinem., 1978
 
 ### Remarks
 null

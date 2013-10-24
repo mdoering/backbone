@@ -1,5 +1,4 @@
-Dendrophoma mori Sawada SPECIES
-=======
+# Dendrophoma mori Sawada SPECIES
 
 #### Status
 ACCEPTED

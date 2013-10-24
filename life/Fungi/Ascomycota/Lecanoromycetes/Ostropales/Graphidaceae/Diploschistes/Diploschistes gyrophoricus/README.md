@@ -1,5 +1,4 @@
-Diploschistes gyrophoricus Lumbsch & Elix SPECIES
-=======
+# Diploschistes gyrophoricus Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

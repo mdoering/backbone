@@ -1,5 +1,4 @@
-Pseudonectria gigaspora (Cooke & Massee) Petch SPECIES
-=======
+# Pseudonectria gigaspora (Cooke & Massee) Petch SPECIES
 
 #### Status
 ACCEPTED

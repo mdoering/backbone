@@ -1,5 +1,4 @@
-Bombulina Mikhalevich, 1983 GENUS
-=======
+# Bombulina Mikhalevich, 1983 GENUS
 
 #### Status
 ACCEPTED

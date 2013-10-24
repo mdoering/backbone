@@ -1,17 +1,16 @@
-Amanita submenbranacea var. griseoargentea Contu VARIETY
-=======
+# Amanita submembranacea (Bon) Gröger, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boletus 3(2): 27 (1979)
 
 #### Original name
-Amanita submenbranacea var. griseoargentea Contu
+Amanitopsis submembranacea Bon, 1975
 
 ### Remarks
 null

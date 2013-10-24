@@ -1,5 +1,4 @@
-Rhytidocaulon vulpinum (L.) Elenk. SPECIES
-=======
+# Rhytidocaulon vulpinum (L.) Elenk. SPECIES
 
 #### Status
 ACCEPTED

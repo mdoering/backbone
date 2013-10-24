@@ -1,5 +1,4 @@
-Valvorotalia Ujiie, 1997 GENUS
-=======
+# Valvorotalia Ujiie, 1997 GENUS
 
 #### Status
 ACCEPTED

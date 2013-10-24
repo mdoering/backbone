@@ -1,5 +1,4 @@
-Puccinia nonerumpens W.T. Dale SPECIES
-=======
+# Puccinia nonerumpens W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

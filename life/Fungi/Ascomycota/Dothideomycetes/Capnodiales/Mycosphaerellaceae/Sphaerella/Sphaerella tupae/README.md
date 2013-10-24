@@ -1,5 +1,4 @@
-Sphaerella tupae Speg. SPECIES
-=======
+# Sphaerella tupae Speg. SPECIES
 
 #### Status
 ACCEPTED

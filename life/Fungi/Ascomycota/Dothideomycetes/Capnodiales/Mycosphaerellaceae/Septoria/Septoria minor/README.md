@@ -1,5 +1,4 @@
-Septoria minor Sacc. SPECIES
-=======
+# Septoria minor Sacc. SPECIES
 
 #### Status
 ACCEPTED

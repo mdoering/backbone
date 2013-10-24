@@ -1,17 +1,16 @@
-Kabatiella babajanii Negru SPECIES
-=======
+# Kabatiella babajaniae Negru SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Izv. Acad. Sci. Armyan S. S. R. 13(2): 87 (1960)
 
 #### Original name
-Kabatiella babajanii Negru
+Kabatiella babajaniae Negru
 
 ### Remarks
 null

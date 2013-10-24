@@ -1,5 +1,4 @@
-Collema cristatum var. cristatum VARIETY
-=======
+# Collema cristatum (L.) F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Prim. fl. holsat. (Kiliae) 89 (1780)
+null
 
 #### Original name
-Collema cristatum var. cristatum
+null
 
 ### Remarks
 null

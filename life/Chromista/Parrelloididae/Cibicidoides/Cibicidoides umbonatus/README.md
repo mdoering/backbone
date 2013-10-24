@@ -1,5 +1,4 @@
-Cibicidoides umbonatus (Phleger & Parker, 1951) SPECIES
-=======
+# Cibicidoides umbonatus (Phleger & Parker, 1951) SPECIES
 
 #### Status
 ACCEPTED

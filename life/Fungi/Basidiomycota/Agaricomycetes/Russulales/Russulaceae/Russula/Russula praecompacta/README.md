@@ -1,5 +1,4 @@
-Russula praecompacta Murrill SPECIES
-=======
+# Russula praecompacta Murrill SPECIES
 
 #### Status
 ACCEPTED

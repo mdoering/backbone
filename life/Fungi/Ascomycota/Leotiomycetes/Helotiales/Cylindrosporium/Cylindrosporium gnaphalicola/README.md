@@ -1,5 +1,4 @@
-Cylindrosporium gnaphalicola G.F. Atk. SPECIES
-=======
+# Cylindrosporium gnaphalicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

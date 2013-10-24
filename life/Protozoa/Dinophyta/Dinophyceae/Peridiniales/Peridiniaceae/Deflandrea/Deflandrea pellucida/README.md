@@ -1,5 +1,4 @@
-Deflandrea pellucida Cookson & Eisenack SPECIES
-=======
+# Deflandrea pellucida Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

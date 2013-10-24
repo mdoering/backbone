@@ -1,5 +1,4 @@
-Rhytisma lonicerae Henn. SPECIES
-=======
+# Rhytisma lonicerae Henn. SPECIES
 
 #### Status
 ACCEPTED

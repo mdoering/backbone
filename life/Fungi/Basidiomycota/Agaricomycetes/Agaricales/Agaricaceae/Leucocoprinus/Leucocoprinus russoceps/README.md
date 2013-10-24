@@ -1,5 +1,4 @@
-Leucocoprinus russoceps (Berk. & Broome) Raithelh. SPECIES
-=======
+# Leucocoprinus russoceps (Berk. & Broome) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

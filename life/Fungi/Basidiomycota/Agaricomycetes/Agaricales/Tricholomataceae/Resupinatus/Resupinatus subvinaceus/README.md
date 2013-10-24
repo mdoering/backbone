@@ -1,5 +1,4 @@
-Resupinatus subvinaceus Corner SPECIES
-=======
+# Resupinatus subvinaceus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula alnea Peck SPECIES
-=======
+# Torula alnea Peck SPECIES
 
 #### Status
 ACCEPTED

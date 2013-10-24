@@ -1,5 +1,4 @@
-Volutella petrii Cif. SPECIES
-=======
+# Volutella petrii Cif. SPECIES
 
 #### Status
 ACCEPTED

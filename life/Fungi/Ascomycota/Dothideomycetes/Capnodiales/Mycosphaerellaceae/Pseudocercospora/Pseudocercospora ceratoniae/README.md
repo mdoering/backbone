@@ -1,5 +1,4 @@
-Pseudocercospora ceratoniae (Pat. & Trab.) Deighton SPECIES
-=======
+# Pseudocercospora ceratoniae (Pat. & Trab.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora davillae (A.S. Mull. & Chupp) U. Braun, J.C. David & F.O. Freire SPECIES
-=======
+# Passalora davillae (A.S. Mull. & Chupp) U. Braun, J.C. David & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

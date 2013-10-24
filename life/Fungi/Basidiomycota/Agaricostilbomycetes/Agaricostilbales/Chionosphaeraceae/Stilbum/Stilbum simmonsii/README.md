@@ -1,5 +1,4 @@
-Stilbum simmonsii Rostr. SPECIES
-=======
+# Stilbum simmonsii Rostr. SPECIES
 
 #### Status
 ACCEPTED

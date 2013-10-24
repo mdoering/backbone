@@ -1,17 +1,16 @@
-Sporotrichum sulphureum f. sulphureum FORM
-=======
+# Arthrographis sulphurea (Grev.) Stalpers & Oorschot, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Wern. nat. Hist. Soc. 4: 69 (1822)
+in Stalpers, Stud. Mycol. 24: 87 (1984)
 
 #### Original name
-Sporotrichum sulphureum f. sulphureum
+Sporotrichum sulphureum Grev., 1822
 
 ### Remarks
 null

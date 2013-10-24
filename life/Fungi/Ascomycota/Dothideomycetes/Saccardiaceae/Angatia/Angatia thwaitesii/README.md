@@ -1,14 +1,13 @@
-Myriangium thwaitesii Petch, 1924 SPECIES
-=======
+# Angatia thwaitesii (Petch) Arx, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 10(1-2): 79 (1924)
+Persoonia 2(4): 429 (1963)
 
 #### Original name
 Myriangium thwaitesii Petch, 1924

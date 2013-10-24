@@ -1,5 +1,4 @@
-Lecidea heterospora (A. Massal) Nyl. SPECIES
-=======
+# Lecidea heterospora (A. Massal) Nyl. SPECIES
 
 #### Status
 ACCEPTED

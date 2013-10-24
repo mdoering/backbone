@@ -1,5 +1,4 @@
-Pluteus albolineatus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pluteus albolineatus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia romana Speg. SPECIES
-=======
+# Laboulbenia romana Speg. SPECIES
 
 #### Status
 ACCEPTED

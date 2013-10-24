@@ -1,5 +1,4 @@
-Pilidium Kunze, 1823 GENUS
-=======
+# Pilidium Kunze, 1823 GENUS
 
 #### Status
 ACCEPTED

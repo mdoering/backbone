@@ -1,5 +1,4 @@
-Ectocarpus corticulans SPECIES
-=======
+# Ectocarpus corticulans SPECIES
 
 #### Status
 ACCEPTED

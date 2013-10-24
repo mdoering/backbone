@@ -1,5 +1,4 @@
-Dicaeoma pithecoctenii (Pazschke) Kuntze SPECIES
-=======
+# Dicaeoma pithecoctenii (Pazschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora sibirica Grebenjuk SPECIES
-=======
+# Podospora sibirica Grebenjuk SPECIES
 
 #### Status
 ACCEPTED

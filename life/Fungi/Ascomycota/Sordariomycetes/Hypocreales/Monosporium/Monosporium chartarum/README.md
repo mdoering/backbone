@@ -1,5 +1,4 @@
-Monosporium chartarum Therry SPECIES
-=======
+# Monosporium chartarum Therry SPECIES
 
 #### Status
 ACCEPTED

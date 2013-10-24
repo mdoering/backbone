@@ -1,5 +1,4 @@
-Gonamophyton A.G. Vologdin & N.A. Drosdova, 1964 GENUS
-=======
+# Gonamophyton A.G. Vologdin & N.A. Drosdova, 1964 GENUS
 
 #### Status
 ACCEPTED

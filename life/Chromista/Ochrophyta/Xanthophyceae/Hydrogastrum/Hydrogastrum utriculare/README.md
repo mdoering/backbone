@@ -1,5 +1,4 @@
-Hydrogastrum utriculare (Roth) Endlicher SPECIES
-=======
+# Hydrogastrum utriculare (Roth) Endlicher SPECIES
 
 #### Status
 ACCEPTED

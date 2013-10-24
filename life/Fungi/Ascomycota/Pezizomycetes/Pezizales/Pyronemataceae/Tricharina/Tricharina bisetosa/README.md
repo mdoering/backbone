@@ -1,5 +1,4 @@
-Tricharina bisetosa K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Tricharina bisetosa K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

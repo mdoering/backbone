@@ -1,5 +1,4 @@
-Amphitiarospora neottiosporoides Agnihothr. SPECIES
-=======
+# Amphitiarospora neottiosporoides Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

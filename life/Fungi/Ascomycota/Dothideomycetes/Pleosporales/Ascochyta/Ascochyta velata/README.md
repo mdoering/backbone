@@ -1,5 +1,4 @@
-Ascochyta velata Kabát & Bubák SPECIES
-=======
+# Ascochyta velata Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

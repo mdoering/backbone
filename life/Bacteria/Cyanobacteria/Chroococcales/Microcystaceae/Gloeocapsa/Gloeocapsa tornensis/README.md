@@ -1,5 +1,4 @@
-Gloeocapsa tornensis Skuja SPECIES
-=======
+# Gloeocapsa tornensis Skuja SPECIES
 
 #### Status
 ACCEPTED

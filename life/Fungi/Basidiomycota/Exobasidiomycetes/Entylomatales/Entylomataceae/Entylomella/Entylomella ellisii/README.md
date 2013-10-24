@@ -1,5 +1,4 @@
-Entylomella ellisii (Halst.) Cif. SPECIES
-=======
+# Entylomella ellisii (Halst.) Cif. SPECIES
 
 #### Status
 ACCEPTED

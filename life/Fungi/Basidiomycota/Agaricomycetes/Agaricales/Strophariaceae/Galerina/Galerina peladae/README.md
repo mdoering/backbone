@@ -1,5 +1,4 @@
-Galerina peladae Singer SPECIES
-=======
+# Galerina peladae Singer SPECIES
 
 #### Status
 ACCEPTED

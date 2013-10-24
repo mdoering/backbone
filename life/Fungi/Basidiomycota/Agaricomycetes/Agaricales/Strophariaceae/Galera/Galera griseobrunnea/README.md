@@ -1,5 +1,4 @@
-Galera griseobrunnea Rick SPECIES
-=======
+# Galera griseobrunnea Rick SPECIES
 
 #### Status
 ACCEPTED

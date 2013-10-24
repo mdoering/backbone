@@ -1,5 +1,4 @@
-Uluguria permira (Vezda) Vezda SPECIES
-=======
+# Uluguria permira (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

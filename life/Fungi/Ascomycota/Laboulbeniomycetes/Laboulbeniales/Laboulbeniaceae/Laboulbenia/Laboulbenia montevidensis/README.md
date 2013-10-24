@@ -1,5 +1,4 @@
-Laboulbenia montevidensis Speg. SPECIES
-=======
+# Laboulbenia montevidensis Speg. SPECIES
 
 #### Status
 ACCEPTED

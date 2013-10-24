@@ -1,5 +1,4 @@
-Opegrapha subsulcata Müll. Arg. SPECIES
-=======
+# Opegrapha subsulcata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

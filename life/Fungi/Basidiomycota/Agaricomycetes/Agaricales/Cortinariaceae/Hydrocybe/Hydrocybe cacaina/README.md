@@ -1,5 +1,4 @@
-Hydrocybe cacaina Velen. SPECIES
-=======
+# Hydrocybe cacaina Velen. SPECIES
 
 #### Status
 ACCEPTED

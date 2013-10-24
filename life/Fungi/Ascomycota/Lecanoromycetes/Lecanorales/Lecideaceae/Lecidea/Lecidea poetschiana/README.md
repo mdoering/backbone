@@ -1,5 +1,4 @@
-Lecidea poetschiana (Körb.) Lettau SPECIES
-=======
+# Lecidea poetschiana (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

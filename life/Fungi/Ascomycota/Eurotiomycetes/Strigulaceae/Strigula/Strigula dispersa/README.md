@@ -1,5 +1,4 @@
-Strigula dispersa Vain. SPECIES
-=======
+# Strigula dispersa Vain. SPECIES
 
 #### Status
 ACCEPTED

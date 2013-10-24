@@ -1,5 +1,4 @@
-Godronia lobata (Cash) Seaver SPECIES
-=======
+# Godronia lobata (Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium baeticum Picb. SPECIES
-=======
+# Coniothyrium baeticum Picb. SPECIES
 
 #### Status
 ACCEPTED

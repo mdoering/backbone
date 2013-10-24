@@ -1,5 +1,4 @@
-Jaffuela chilensis Speg., 1921 SPECIES
-=======
+# Jaffuela chilensis Speg., 1921 SPECIES
 
 #### Status
 ACCEPTED

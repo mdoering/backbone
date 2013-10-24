@@ -1,5 +1,4 @@
-Lyophyllum subeustygium Fern. Sas., Pérez-De-Greg. & Contu SPECIES
-=======
+# Lyophyllum subeustygium Fern. Sas., Pérez-De-Greg. & Contu SPECIES
 
 #### Status
 ACCEPTED

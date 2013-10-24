@@ -1,5 +1,4 @@
-Verrucaria aijazevi Servít SPECIES
-=======
+# Verrucaria aijazevi Servít SPECIES
 
 #### Status
 ACCEPTED

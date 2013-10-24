@@ -1,5 +1,4 @@
-Pithothorax rotundus Kahl, 1926 SPECIES
-=======
+# Pithothorax rotundus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon euphorbiae Schrank SPECIES
-=======
+# Lycoperdon euphorbiae Schrank SPECIES
 
 #### Status
 ACCEPTED

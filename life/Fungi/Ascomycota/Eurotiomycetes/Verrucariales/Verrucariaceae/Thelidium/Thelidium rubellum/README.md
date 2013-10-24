@@ -1,5 +1,4 @@
-Thelidium rubellum A. Massal. SPECIES
-=======
+# Thelidium rubellum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

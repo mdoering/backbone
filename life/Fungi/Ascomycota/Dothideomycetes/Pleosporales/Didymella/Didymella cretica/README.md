@@ -1,5 +1,4 @@
-Didymella cretica Petr. SPECIES
-=======
+# Didymella cretica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium fragile Holw. SPECIES
-=======
+# Aecidium fragile Holw. SPECIES
 
 #### Status
 ACCEPTED

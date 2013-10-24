@@ -1,5 +1,4 @@
-Xanthoparmelia verdonii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia verdonii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora rosulata (Körb.) Stizenb. SPECIES
-=======
+# Lecanora rosulata (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

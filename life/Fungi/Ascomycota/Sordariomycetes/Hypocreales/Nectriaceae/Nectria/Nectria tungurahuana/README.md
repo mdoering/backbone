@@ -1,5 +1,4 @@
-Nectria tungurahuana Petr. SPECIES
-=======
+# Nectria tungurahuana Petr. SPECIES
 
 #### Status
 ACCEPTED

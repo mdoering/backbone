@@ -1,5 +1,4 @@
-Lasiobolidium helicoideum Locq.-Lin. SPECIES
-=======
+# Lasiobolidium helicoideum Locq.-Lin. SPECIES
 
 #### Status
 ACCEPTED

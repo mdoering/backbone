@@ -1,5 +1,4 @@
-Opegrapha epiphega (Ach.) Ach. SPECIES
-=======
+# Opegrapha epiphega (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

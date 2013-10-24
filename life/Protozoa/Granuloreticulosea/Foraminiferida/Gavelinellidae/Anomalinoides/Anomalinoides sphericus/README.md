@@ -1,5 +1,4 @@
-Anomalinoides sphericus var. frigindex Vella, 1957 VARIETY
-=======
+# Anomalinoides sphericus (Finlay, 1940) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora fuliginea SPECIES
-=======
+# Biatora fuliginea SPECIES
 
 #### Status
 ACCEPTED

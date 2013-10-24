@@ -1,17 +1,16 @@
-Septoria bidentis var. bidentis VARIETY
-=======
+# Septoria bidentis Sacc. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fungi venet. nov. vel. Crit. 5: 205 (1876)
 
 #### Original name
-null
+Septoria bidentis Sacc.
 
 ### Remarks
 null

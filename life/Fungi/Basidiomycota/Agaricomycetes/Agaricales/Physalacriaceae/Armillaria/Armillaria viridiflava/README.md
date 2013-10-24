@@ -1,5 +1,4 @@
-Armillaria viridiflava (Singer) T.J. Volk & Burds. SPECIES
-=======
+# Armillaria viridiflava (Singer) T.J. Volk & Burds. SPECIES
 
 #### Status
 ACCEPTED

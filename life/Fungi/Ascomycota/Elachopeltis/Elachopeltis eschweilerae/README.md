@@ -1,5 +1,4 @@
-Elachopeltis eschweilerae Bat. & H. Maia SPECIES
-=======
+# Elachopeltis eschweilerae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

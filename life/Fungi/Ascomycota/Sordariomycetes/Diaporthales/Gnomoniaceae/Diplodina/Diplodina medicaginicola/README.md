@@ -1,5 +1,4 @@
-Diplodina medicaginicola Karimov SPECIES
-=======
+# Diplodina medicaginicola Karimov SPECIES
 
 #### Status
 ACCEPTED

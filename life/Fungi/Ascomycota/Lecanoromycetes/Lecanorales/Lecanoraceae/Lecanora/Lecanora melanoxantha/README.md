@@ -1,5 +1,4 @@
-Lecanora melanoxantha Zenker SPECIES
-=======
+# Lecanora melanoxantha Zenker SPECIES
 
 #### Status
 ACCEPTED

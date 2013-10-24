@@ -1,5 +1,4 @@
-Phoma montenegrina Bubák SPECIES
-=======
+# Phoma montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

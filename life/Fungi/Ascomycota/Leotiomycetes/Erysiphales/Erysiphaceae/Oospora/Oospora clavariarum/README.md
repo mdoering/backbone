@@ -1,5 +1,4 @@
-Oospora clavariarum P. Karst. SPECIES
-=======
+# Oospora clavariarum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo egenula Arthur SPECIES
-=======
+# Uredo egenula Arthur SPECIES
 
 #### Status
 ACCEPTED

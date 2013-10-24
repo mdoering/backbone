@@ -1,5 +1,4 @@
-Pyrgo elongata SPECIES
-=======
+# Pyrgo elongata SPECIES
 
 #### Status
 ACCEPTED

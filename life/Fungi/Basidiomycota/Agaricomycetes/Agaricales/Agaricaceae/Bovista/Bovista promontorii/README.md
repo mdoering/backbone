@@ -1,5 +1,4 @@
-Bovista promontorii Kreisel SPECIES
-=======
+# Bovista promontorii Kreisel SPECIES
 
 #### Status
 ACCEPTED

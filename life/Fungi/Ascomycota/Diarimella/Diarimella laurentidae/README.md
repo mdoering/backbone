@@ -1,5 +1,4 @@
-Diarimella laurentidae Vujan., St-Arn., P. Neumann & Fortin SPECIES
-=======
+# Diarimella laurentidae Vujan., St-Arn., P. Neumann & Fortin SPECIES
 
 #### Status
 ACCEPTED

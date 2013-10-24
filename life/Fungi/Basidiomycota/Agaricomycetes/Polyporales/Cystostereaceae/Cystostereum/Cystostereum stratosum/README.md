@@ -1,5 +1,4 @@
-Cystostereum stratosum Hallenb., 1978 SPECIES
-=======
+# Cystostereum stratosum Hallenb., 1978 SPECIES
 
 #### Status
 ACCEPTED

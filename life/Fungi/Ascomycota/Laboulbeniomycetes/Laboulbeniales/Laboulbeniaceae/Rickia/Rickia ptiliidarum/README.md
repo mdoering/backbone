@@ -1,5 +1,4 @@
-Rickia ptiliidarum T. Majewski SPECIES
-=======
+# Rickia ptiliidarum T. Majewski SPECIES
 
 #### Status
 ACCEPTED

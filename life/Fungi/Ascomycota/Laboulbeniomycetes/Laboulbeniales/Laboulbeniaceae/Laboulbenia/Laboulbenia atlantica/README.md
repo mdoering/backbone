@@ -1,5 +1,4 @@
-Laboulbenia atlantica Thaxt. SPECIES
-=======
+# Laboulbenia atlantica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

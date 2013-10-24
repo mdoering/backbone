@@ -1,5 +1,4 @@
-Peziza tiliacea (Vacek) J. Moravec SPECIES
-=======
+# Peziza tiliacea (Vacek) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis intermedia Tiegh., 1875 SPECIES
-=======
+# Syncephalis intermedia Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

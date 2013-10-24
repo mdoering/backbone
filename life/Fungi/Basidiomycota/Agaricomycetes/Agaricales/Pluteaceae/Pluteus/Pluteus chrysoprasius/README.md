@@ -1,5 +1,4 @@
-Pluteus chrysoprasius Berk. SPECIES
-=======
+# Pluteus chrysoprasius Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichaptum fumosoavellaneum (Romell) Rajchenb. & Bianchin., 1991 SPECIES
-=======
+# Trichaptum fumosoavellaneum (Romell) Rajchenb. & Bianchin., 1991 SPECIES
 
 #### Status
 ACCEPTED

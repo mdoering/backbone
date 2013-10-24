@@ -1,5 +1,4 @@
-Cylindrocarpon panacis Matuo & Miyaz. SPECIES
-=======
+# Cylindrocarpon panacis Matuo & Miyaz. SPECIES
 
 #### Status
 ACCEPTED

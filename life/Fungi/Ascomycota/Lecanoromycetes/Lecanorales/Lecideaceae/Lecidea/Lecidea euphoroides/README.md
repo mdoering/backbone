@@ -1,5 +1,4 @@
-Lecidea euphoroides Nyl. SPECIES
-=======
+# Lecidea euphoroides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Englerulaster geniospori Hansf. SPECIES
-=======
+# Englerulaster geniospori Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus albides Roques SPECIES
-=======
+# Boletus albides Roques SPECIES
 
 #### Status
 ACCEPTED

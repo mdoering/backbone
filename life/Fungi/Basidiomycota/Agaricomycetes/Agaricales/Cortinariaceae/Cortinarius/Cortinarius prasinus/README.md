@@ -1,5 +1,4 @@
-Cortinarius prasinus f. prasinus FORM
-=======
+# Cortinarius prasinus (Schaeff.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 268 (1838)
 
 #### Original name
-Cortinarius prasinus f. prasinus
+Agaricus prasinus Schaeff.
 
 ### Remarks
 null

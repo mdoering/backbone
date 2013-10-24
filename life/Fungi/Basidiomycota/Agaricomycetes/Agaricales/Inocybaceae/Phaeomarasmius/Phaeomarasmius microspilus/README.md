@@ -1,5 +1,4 @@
-Phaeomarasmius microspilus (Romagn.) M.M. Moser SPECIES
-=======
+# Phaeomarasmius microspilus (Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

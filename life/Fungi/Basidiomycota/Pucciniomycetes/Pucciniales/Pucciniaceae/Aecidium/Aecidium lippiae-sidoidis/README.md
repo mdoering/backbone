@@ -1,5 +1,4 @@
-Aecidium lippiae-sidoidis Syd. & P. Syd. SPECIES
-=======
+# Aecidium lippiae-sidoidis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

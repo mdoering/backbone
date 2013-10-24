@@ -1,5 +1,4 @@
-Rhinotrichum fusiferum Berk. & M.A. Curtis SPECIES
-=======
+# Rhinotrichum fusiferum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

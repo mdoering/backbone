@@ -1,8 +1,7 @@
-Cothurnia socialis Gruber, 1879 SPECIES
-=======
+# Pyxicola socialis (Gruber, 1879) Kent, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

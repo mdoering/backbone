@@ -1,14 +1,13 @@
-Hypocrea delicatula Tul. & C. Tul., 1865 SPECIES
-=======
+# Protocrea delicatula (Tul.) Petch, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 3: 33 (1865)
+J. Bot. 75: 219 (1937)
 
 #### Original name
 Hypocrea delicatula Tul. & C. Tul., 1865

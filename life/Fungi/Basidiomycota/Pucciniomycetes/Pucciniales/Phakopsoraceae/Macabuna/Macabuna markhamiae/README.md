@@ -1,5 +1,4 @@
-Macabuna markhamiae Buriticá & J.F. Hennen, 1994 SPECIES
-=======
+# Macabuna markhamiae Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myelophycus cavus J.Tanaka & Chihara, 1984 SPECIES
-=======
+# Myelophycus cavus J.Tanaka & Chihara, 1984 SPECIES
 
 #### Status
 ACCEPTED

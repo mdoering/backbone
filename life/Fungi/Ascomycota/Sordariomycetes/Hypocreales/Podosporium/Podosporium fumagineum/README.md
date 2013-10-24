@@ -1,5 +1,4 @@
-Podosporium fumagineum Cif., Bat. & Nascim. SPECIES
-=======
+# Podosporium fumagineum Cif., Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma peckiana (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma peckiana (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

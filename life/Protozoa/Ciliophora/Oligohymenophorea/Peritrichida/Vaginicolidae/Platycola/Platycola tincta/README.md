@@ -1,5 +1,4 @@
-Platycola tincta Fromentel, 1876 SPECIES
-=======
+# Platycola tincta Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

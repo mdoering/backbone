@@ -1,5 +1,4 @@
-Haglundia crispula Aebi, Harr, E. Müll. & Ouell. SPECIES
-=======
+# Haglundia crispula Aebi, Harr, E. Müll. & Ouell. SPECIES
 
 #### Status
 ACCEPTED

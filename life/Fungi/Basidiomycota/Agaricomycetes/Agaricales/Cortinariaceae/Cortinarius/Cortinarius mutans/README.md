@@ -1,5 +1,4 @@
-Cortinarius mutans Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius mutans Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

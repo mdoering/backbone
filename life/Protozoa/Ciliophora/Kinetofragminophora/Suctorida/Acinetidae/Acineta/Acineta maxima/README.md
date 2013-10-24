@@ -1,5 +1,4 @@
-Acineta maxima SPECIES
-=======
+# Acineta maxima SPECIES
 
 #### Status
 ACCEPTED

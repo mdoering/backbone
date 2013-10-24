@@ -1,5 +1,4 @@
-Pyrenophora saviczii Gucevic SPECIES
-=======
+# Pyrenophora saviczii Gucevic SPECIES
 
 #### Status
 ACCEPTED

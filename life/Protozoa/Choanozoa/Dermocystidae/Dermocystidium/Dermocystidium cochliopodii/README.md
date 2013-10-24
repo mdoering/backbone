@@ -1,5 +1,4 @@
-Dermocystidium cochliopodii Valkanov SPECIES
-=======
+# Dermocystidium cochliopodii Valkanov SPECIES
 
 #### Status
 ACCEPTED

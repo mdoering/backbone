@@ -1,5 +1,4 @@
-Meliola maerenhoutiana Berk. & Broome SPECIES
-=======
+# Meliola maerenhoutiana Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acanthochisma GENUS
-=======
+# Acanthochiasma Krohn, 1861 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+in Haeckel, Monatsber. Akad. Berlin, 1860, 810.
 
 #### Original name
 null

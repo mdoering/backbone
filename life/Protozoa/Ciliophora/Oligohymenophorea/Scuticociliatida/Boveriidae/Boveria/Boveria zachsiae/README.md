@@ -1,5 +1,4 @@
-Boveria zachsiae SPECIES
-=======
+# Boveria zachsiae SPECIES
 
 #### Status
 ACCEPTED

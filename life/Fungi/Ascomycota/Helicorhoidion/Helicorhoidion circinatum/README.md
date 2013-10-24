@@ -1,5 +1,4 @@
-Helicorhoidion circinatum (Cooke & Harkn.) B. Sutton SPECIES
-=======
+# Helicorhoidion circinatum (Cooke & Harkn.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

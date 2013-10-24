@@ -1,5 +1,4 @@
-Usnea flotowii var. flotowii VARIETY
-=======
+# Usnea flotowii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea flotowii var. flotowii
+Usnea barbata var. cornuta Flot.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Protogonyaulax compressa Y. Fukuyo, K. Yoshida & H. Inoue SPECIES
-=======
+# Alexandrium compressum (Fukuyo, Yoshida & Inoue) Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

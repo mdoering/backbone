@@ -1,5 +1,4 @@
-Stylonethes tardus Sterki, 1878 SPECIES
-=======
+# Stylonethes tardus Sterki, 1878 SPECIES
 
 #### Status
 ACCEPTED

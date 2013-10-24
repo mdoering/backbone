@@ -1,5 +1,4 @@
-Oospora decussata (Langeron & Chev. {?} ) Sartory SPECIES
-=======
+# Oospora decussata (Langeron & Chev. {?} ) Sartory SPECIES
 
 #### Status
 ACCEPTED

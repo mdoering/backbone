@@ -1,5 +1,4 @@
-Sphaerella omalanthi (Syd. & P. Syd.) Trotter SPECIES
-=======
+# Sphaerella omalanthi (Syd. & P. Syd.) Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echidnodella natalensis (Doidge) Arx SPECIES
-=======
+# Echidnodella natalensis (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaerella halymii Alcalde SPECIES
-=======
+# Phaeosphaerella halymii Alcalde SPECIES
 
 #### Status
 ACCEPTED

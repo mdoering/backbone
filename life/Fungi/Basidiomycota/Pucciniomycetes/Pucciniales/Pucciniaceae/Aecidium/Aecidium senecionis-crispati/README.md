@@ -1,5 +1,4 @@
-Aecidium senecionis-crispati J. Schröt. SPECIES
-=======
+# Aecidium senecionis-crispati J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

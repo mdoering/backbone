@@ -1,5 +1,4 @@
-Sphaerodes ellipsospora (Takada) Dania García, Stchigel & Guarro SPECIES
-=======
+# Sphaerodes ellipsospora (Takada) Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

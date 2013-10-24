@@ -1,5 +1,4 @@
-Aecidium hepaticae Berk. SPECIES
-=======
+# Aecidium hepaticae Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina quadrifera (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina quadrifera (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

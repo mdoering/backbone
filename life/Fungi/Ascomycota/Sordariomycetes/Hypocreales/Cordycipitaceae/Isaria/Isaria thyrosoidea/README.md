@@ -1,5 +1,4 @@
-Isaria thyrosoidea Penz. & Sacc. SPECIES
-=======
+# Isaria thyrosoidea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

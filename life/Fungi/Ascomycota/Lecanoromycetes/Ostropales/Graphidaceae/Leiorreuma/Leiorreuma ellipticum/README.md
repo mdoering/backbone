@@ -1,5 +1,4 @@
-Leiorreuma ellipticum (Müll. Arg.) Staiger SPECIES
-=======
+# Leiorreuma ellipticum (Müll. Arg.) Staiger SPECIES
 
 #### Status
 ACCEPTED

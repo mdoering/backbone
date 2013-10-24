@@ -1,14 +1,13 @@
-Parmelia albinea Ach. SPECIES
-=======
+# Physcia albinea (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+Bull. Soc. Amis Sci. Nat. Rouen, Série II 3: 482 (1867)
 
 #### Original name
 Parmelia albinea Ach.

@@ -1,5 +1,4 @@
-Pleomeris dactylidina (Bubák) Syd. SPECIES
-=======
+# Pleomeris dactylidina (Bubák) Syd. SPECIES
 
 #### Status
 ACCEPTED

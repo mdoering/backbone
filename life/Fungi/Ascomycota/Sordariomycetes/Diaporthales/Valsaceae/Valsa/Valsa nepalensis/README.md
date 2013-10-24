@@ -1,5 +1,4 @@
-Valsa nepalensis (Berk.) Sacc. SPECIES
-=======
+# Valsa nepalensis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

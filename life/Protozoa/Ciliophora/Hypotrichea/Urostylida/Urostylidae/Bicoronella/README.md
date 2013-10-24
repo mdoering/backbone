@@ -1,5 +1,4 @@
-Bicoronella Foissner, 1995 GENUS
-=======
+# Bicoronella Foissner, 1995 GENUS
 
 #### Status
 ACCEPTED

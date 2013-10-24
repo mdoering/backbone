@@ -1,5 +1,4 @@
-Pseudocercospora rhamnaceicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora rhamnaceicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

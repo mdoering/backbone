@@ -1,5 +1,4 @@
-Cercospora cybistacis Henn. SPECIES
-=======
+# Cercospora cybistacis Henn. SPECIES
 
 #### Status
 ACCEPTED

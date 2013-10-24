@@ -1,5 +1,4 @@
-Latentifistula Nazarov & Ormiston, 1983 GENUS
-=======
+# Latentifistula Nazarov & Ormiston, 1983 GENUS
 
 #### Status
 ACCEPTED

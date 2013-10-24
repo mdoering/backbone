@@ -1,5 +1,4 @@
-Herpetophrya Siedlecki, 1902 GENUS
-=======
+# Herpetophrya Siedlecki, 1902 GENUS
 
 #### Status
 ACCEPTED

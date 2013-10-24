@@ -1,5 +1,4 @@
-Phyllosticta pilispora Speschnew SPECIES
-=======
+# Phyllosticta pilispora Speschnew SPECIES
 
 #### Status
 ACCEPTED

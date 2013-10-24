@@ -1,5 +1,4 @@
-Skoteinospora coccolobae Bat. SPECIES
-=======
+# Skoteinospora coccolobae Bat. SPECIES
 
 #### Status
 ACCEPTED

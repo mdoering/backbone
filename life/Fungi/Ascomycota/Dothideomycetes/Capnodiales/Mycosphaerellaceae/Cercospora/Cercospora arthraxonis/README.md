@@ -1,5 +1,4 @@
-Cercospora arthraxonis M.S. Patil & Sawant SPECIES
-=======
+# Cercospora arthraxonis M.S. Patil & Sawant SPECIES
 
 #### Status
 ACCEPTED

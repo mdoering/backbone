@@ -1,5 +1,4 @@
-Diplodia foeniculina Thüm. SPECIES
-=======
+# Diplodia foeniculina Thüm. SPECIES
 
 #### Status
 ACCEPTED

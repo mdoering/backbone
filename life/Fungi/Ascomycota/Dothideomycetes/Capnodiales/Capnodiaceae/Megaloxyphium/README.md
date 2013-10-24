@@ -1,5 +1,4 @@
-Megaloxyphium GENUS
-=======
+# Megaloxyphium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium impatientis M.T. Cook SPECIES
-=======
+# Synchytrium impatientis M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza virescens Schumach. SPECIES
-=======
+# Peziza virescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

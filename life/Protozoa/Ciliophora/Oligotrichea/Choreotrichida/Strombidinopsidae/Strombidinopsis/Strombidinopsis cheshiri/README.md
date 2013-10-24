@@ -1,5 +1,4 @@
-Strombidinopsis cheshiri Snyder & Ohman, 1991 SPECIES
-=======
+# Strombidinopsis cheshiri Snyder & Ohman, 1991 SPECIES
 
 #### Status
 ACCEPTED

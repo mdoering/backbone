@@ -1,5 +1,4 @@
-Roccella endocrocea M. Choisy SPECIES
-=======
+# Roccella endocrocea M. Choisy SPECIES
 
 #### Status
 ACCEPTED

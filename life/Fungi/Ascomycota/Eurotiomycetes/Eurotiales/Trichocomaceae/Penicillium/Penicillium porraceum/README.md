@@ -1,5 +1,4 @@
-Penicillium porraceum Biourge SPECIES
-=======
+# Penicillium porraceum Biourge SPECIES
 
 #### Status
 ACCEPTED

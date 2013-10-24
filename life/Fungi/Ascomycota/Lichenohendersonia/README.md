@@ -1,5 +1,4 @@
-Lichenohendersonia Calat. & Etayo GENUS
-=======
+# Lichenohendersonia Calat. & Etayo GENUS
 
 #### Status
 ACCEPTED

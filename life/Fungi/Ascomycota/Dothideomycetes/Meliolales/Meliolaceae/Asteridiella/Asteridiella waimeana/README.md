@@ -1,5 +1,4 @@
-Asteridiella waimeana Hansf. SPECIES
-=======
+# Asteridiella waimeana Hansf. SPECIES
 
 #### Status
 ACCEPTED

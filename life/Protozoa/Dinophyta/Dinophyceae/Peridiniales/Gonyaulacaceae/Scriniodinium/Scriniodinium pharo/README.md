@@ -1,5 +1,4 @@
-Scriniodinium pharo (S. Duxbury) R. J. Davey SPECIES
-=======
+# Scriniodinium pharo (S. Duxbury) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

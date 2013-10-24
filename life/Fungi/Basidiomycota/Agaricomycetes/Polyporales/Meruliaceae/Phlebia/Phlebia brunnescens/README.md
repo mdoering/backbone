@@ -1,5 +1,4 @@
-Phlebia brunnescens Burds. & Nakasone SPECIES
-=======
+# Phlebia brunnescens Burds. & Nakasone SPECIES
 
 #### Status
 ACCEPTED

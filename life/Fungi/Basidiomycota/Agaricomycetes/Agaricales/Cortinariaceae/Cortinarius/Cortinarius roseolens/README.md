@@ -1,5 +1,4 @@
-Cortinarius roseolens Rob. Henry SPECIES
-=======
+# Cortinarius roseolens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

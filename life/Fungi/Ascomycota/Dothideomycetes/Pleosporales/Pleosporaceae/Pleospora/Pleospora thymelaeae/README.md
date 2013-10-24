@@ -1,5 +1,4 @@
-Pleospora thymelaeae Pat. SPECIES
-=======
+# Pleospora thymelaeae Pat. SPECIES
 
 #### Status
 ACCEPTED

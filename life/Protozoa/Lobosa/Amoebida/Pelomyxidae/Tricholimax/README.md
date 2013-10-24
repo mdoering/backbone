@@ -1,5 +1,4 @@
-Tricholimax Frenzel GENUS
-=======
+# Tricholimax Frenzel GENUS
 
 #### Status
 ACCEPTED

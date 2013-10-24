@@ -1,5 +1,4 @@
-Scenidium aculeatum (Mont.) Kuntze SPECIES
-=======
+# Scenidium aculeatum (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

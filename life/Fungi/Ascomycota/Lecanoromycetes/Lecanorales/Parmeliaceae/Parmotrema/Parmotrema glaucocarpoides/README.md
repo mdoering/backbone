@@ -1,5 +1,4 @@
-Parmotrema glaucocarpoides (Zahlbr.) Hale SPECIES
-=======
+# Parmotrema glaucocarpoides (Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

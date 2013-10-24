@@ -1,5 +1,4 @@
-Eiffellithus equibiramus SPECIES
-=======
+# Eiffellithus equibiramus SPECIES
 
 #### Status
 ACCEPTED

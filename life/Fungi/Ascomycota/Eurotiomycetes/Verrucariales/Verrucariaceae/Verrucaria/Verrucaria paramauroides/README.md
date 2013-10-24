@@ -1,5 +1,4 @@
-Verrucaria paramauroides Servít SPECIES
-=======
+# Verrucaria paramauroides Servít SPECIES
 
 #### Status
 ACCEPTED

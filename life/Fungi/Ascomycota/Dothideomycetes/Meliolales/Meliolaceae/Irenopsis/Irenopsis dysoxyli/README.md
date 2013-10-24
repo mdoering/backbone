@@ -1,5 +1,4 @@
-Irenopsis dysoxyli Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Irenopsis dysoxyli Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

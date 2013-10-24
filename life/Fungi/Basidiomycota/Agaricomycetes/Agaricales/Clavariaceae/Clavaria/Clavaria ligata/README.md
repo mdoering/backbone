@@ -1,5 +1,4 @@
-Clavaria ligata Britzelm. SPECIES
-=======
+# Clavaria ligata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

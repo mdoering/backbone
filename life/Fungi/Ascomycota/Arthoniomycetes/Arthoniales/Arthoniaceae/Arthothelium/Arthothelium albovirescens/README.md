@@ -1,5 +1,4 @@
-Arthothelium albovirescens (Nyl.) Fink SPECIES
-=======
+# Arthothelium albovirescens (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

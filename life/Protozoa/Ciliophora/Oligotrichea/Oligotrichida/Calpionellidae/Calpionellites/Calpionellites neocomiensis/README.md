@@ -1,5 +1,4 @@
-Calpionellites neocomiensis SPECIES
-=======
+# Calpionellites neocomiensis SPECIES
 
 #### Status
 ACCEPTED

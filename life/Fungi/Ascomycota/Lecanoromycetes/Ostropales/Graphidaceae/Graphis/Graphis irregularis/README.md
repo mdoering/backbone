@@ -1,5 +1,4 @@
-Graphis irregularis (Fée) Nyl. SPECIES
-=======
+# Graphis irregularis (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

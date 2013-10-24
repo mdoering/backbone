@@ -1,5 +1,4 @@
-Pseudoomphalina arsitophylli Singer SPECIES
-=======
+# Pseudoomphalina arsitophylli Singer SPECIES
 
 #### Status
 ACCEPTED

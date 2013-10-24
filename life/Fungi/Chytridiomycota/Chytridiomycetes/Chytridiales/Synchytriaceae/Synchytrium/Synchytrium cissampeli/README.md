@@ -1,5 +1,4 @@
-Synchytrium cissampeli G.P. Singh SPECIES
-=======
+# Synchytrium cissampeli G.P. Singh SPECIES
 
 #### Status
 ACCEPTED

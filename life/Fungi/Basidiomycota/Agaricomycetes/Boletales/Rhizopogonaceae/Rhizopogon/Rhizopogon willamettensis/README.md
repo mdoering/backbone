@@ -1,5 +1,4 @@
-Rhizopogon willamettensis H.V. Sm. & A.H. Sm. SPECIES
-=======
+# Rhizopogon willamettensis H.V. Sm. & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

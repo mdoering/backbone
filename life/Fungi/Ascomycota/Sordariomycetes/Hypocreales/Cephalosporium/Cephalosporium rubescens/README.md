@@ -1,5 +1,4 @@
-Cephalosporium rubescens Schimon SPECIES
-=======
+# Cephalosporium rubescens Schimon SPECIES
 
 #### Status
 ACCEPTED

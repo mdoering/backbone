@@ -1,5 +1,4 @@
-Cladonia gigantea (Bory) H. Olivier SPECIES
-=======
+# Cladonia gigantea (Bory) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

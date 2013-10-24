@@ -1,5 +1,4 @@
-Septoria helianthemi Gonz. Frag. SPECIES
-=======
+# Septoria helianthemi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis carecomoeis f. carecomoeis FORM
-=======
+# Crinipellis carecomoeis (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 8: 487 (1943)
 
 #### Original name
-Crinipellis carecomoeis f. carecomoeis
+Agaricus carecomoeis Berk. & M.A. Curtis
 
 ### Remarks
 null

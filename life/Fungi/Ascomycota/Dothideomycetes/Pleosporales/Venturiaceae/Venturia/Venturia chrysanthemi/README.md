@@ -1,5 +1,4 @@
-Venturia chrysanthemi E. Müll. SPECIES
-=======
+# Venturia chrysanthemi E. Müll. SPECIES
 
 #### Status
 ACCEPTED

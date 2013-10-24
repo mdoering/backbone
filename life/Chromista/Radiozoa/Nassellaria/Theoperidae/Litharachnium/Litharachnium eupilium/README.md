@@ -1,5 +1,4 @@
-Litharachnium eupilium Takahashi, 1991 SPECIES
-=======
+# Litharachnium eupilium Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

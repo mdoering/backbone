@@ -1,5 +1,4 @@
-Amanita barlae Quél. SPECIES
-=======
+# Amanita barlae Quél. SPECIES
 
 #### Status
 ACCEPTED

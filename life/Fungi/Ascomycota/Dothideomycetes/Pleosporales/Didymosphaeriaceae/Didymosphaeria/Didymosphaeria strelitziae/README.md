@@ -1,5 +1,4 @@
-Didymosphaeria strelitziae Tassi SPECIES
-=======
+# Didymosphaeria strelitziae Tassi SPECIES
 
 #### Status
 ACCEPTED

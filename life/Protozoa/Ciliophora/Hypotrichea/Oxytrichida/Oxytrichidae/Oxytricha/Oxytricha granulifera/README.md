@@ -1,5 +1,4 @@
-Oxytricha granulifera subsp. granulifera Foissner & Adam, 1983 SUBSPECIES
-=======
+# Oxytricha granulifera Foissner & Adam, 1983 SPECIES
 
 #### Status
 ACCEPTED

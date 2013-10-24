@@ -1,5 +1,4 @@
-Plicaria adae var. adae VARIETY
-=======
+# Plicaria adae (J. Sadler) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Plicaria adae var. adae
+Peziza adae J. Sadler ex Cooke, 1857
 
 ### Remarks
 null

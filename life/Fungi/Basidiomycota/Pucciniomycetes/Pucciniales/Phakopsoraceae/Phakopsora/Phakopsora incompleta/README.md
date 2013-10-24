@@ -1,5 +1,4 @@
-Phakopsora incompleta (Syd. & P. Syd.) Cummins SPECIES
-=======
+# Phakopsora incompleta (Syd. & P. Syd.) Cummins SPECIES
 
 #### Status
 ACCEPTED

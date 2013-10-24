@@ -1,5 +1,4 @@
-Diplonaevia foveolaris Rehm SPECIES
-=======
+# Diplonaevia foveolaris Rehm SPECIES
 
 #### Status
 ACCEPTED

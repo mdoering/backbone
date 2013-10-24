@@ -1,5 +1,4 @@
-Ramaria cartilaginea Marr & D.E. Stuntz SPECIES
-=======
+# Ramaria cartilaginea Marr & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

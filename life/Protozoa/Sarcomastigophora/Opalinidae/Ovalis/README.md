@@ -1,5 +1,4 @@
-Ovalis Amaro, 1966 GENUS
-=======
+# Ovalis Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

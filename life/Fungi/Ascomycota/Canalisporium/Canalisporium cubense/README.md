@@ -1,5 +1,4 @@
-Canalisporium cubense anon. SPECIES
-=======
+# Canalisporium cubense anon. SPECIES
 
 #### Status
 ACCEPTED

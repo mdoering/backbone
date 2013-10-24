@@ -1,5 +1,4 @@
-Meliola mayaguesiana var. mayaguesiana VARIETY
-=======
+# Meliola mayaguesiana F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Illinois Biol. Monogr. (Urbana) 2: 32 (1916)
 
 #### Original name
-Meliola mayaguesiana var. mayaguesiana
+Meliola mayaguesiana F. Stevens
 
 ### Remarks
 null

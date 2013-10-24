@@ -1,5 +1,4 @@
-Sphaerotheca pseudofusca U. Braun SPECIES
-=======
+# Sphaerotheca pseudofusca U. Braun SPECIES
 
 #### Status
 ACCEPTED

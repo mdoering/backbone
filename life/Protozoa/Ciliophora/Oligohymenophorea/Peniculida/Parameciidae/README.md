@@ -1,5 +1,4 @@
-Parameciidae Dujardin, 1840 FAMILY
-=======
+# Parameciidae Dujardin, 1840 FAMILY
 
 #### Status
 ACCEPTED

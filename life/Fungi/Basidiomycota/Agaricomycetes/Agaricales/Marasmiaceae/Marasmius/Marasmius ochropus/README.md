@@ -1,5 +1,4 @@
-Marasmius ochropus Singer SPECIES
-=======
+# Marasmius ochropus Singer SPECIES
 
 #### Status
 ACCEPTED

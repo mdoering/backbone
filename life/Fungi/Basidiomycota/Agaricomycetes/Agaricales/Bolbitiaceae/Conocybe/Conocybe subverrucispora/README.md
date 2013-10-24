@@ -1,5 +1,4 @@
-Conocybe subverrucispora J. Veselský & Watling SPECIES
-=======
+# Conocybe subverrucispora J. Veselský & Watling SPECIES
 
 #### Status
 ACCEPTED

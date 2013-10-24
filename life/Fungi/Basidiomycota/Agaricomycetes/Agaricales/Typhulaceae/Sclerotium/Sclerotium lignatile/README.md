@@ -1,5 +1,4 @@
-Sclerotium lignatile Schwein. SPECIES
-=======
+# Sclerotium lignatile Schwein. SPECIES
 
 #### Status
 ACCEPTED

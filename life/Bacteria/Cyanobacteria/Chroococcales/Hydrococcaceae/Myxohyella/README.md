@@ -1,5 +1,4 @@
-Myxohyella Geitler, 1925 GENUS
-=======
+# Myxohyella Geitler, 1925 GENUS
 
 #### Status
 ACCEPTED

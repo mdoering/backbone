@@ -1,5 +1,4 @@
-Phomopsis sorghicola Punith., 1975 SPECIES
-=======
+# Phomopsis sorghicola Punith., 1975 SPECIES
 
 #### Status
 ACCEPTED

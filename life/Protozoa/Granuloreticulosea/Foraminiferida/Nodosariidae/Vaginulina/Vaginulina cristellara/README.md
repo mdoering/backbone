@@ -1,5 +1,4 @@
-Vaginulina cristellara (Stache) SPECIES
-=======
+# Vaginulina cristellara (Stache) SPECIES
 
 #### Status
 ACCEPTED

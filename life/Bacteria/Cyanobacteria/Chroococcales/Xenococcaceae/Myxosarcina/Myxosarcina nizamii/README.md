@@ -1,5 +1,4 @@
-Myxosarcina nizamii P. Srivastava SPECIES
-=======
+# Myxosarcina nizamii P. Srivastava SPECIES
 
 #### Status
 ACCEPTED

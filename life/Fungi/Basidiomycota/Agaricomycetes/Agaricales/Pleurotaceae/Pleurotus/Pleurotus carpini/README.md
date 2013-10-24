@@ -1,5 +1,4 @@
-Pleurotus carpini Fr. SPECIES
-=======
+# Pleurotus carpini Fr. SPECIES
 
 #### Status
 ACCEPTED

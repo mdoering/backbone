@@ -1,5 +1,4 @@
-Corollithion fractum SPECIES
-=======
+# Corollithion fractum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lecideoides (Nyl.) Harm. SPECIES
-=======
+# Lecanora lecideoides (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

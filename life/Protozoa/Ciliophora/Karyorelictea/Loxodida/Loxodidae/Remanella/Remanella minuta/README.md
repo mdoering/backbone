@@ -1,5 +1,4 @@
-Remanella minuta (Dragesco, 1954) Foissner, 1996 SPECIES
-=======
+# Remanella minuta (Dragesco, 1954) Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collemopsidium cephalodiorum (Triebel & Grube) Grube SPECIES
-=======
+# Collemopsidium cephalodiorum (Triebel & Grube) Grube SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Distephanopsis macilenta (Deflandre) P. Prema & T. V. Desikachary SPECIES
-=======
+# Distephanopsis macilenta (Deflandre) P. Prema & T. V. Desikachary SPECIES
 
 #### Status
 ACCEPTED

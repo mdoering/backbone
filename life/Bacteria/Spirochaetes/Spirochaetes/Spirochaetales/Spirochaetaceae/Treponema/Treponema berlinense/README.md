@@ -1,5 +1,4 @@
-Treponema berlinense Nordhoff et al., 2005 SPECIES
-=======
+# Treponema berlinense Nordhoff et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

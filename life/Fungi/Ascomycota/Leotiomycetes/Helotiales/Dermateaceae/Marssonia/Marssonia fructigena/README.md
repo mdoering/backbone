@@ -1,5 +1,4 @@
-Marssonia fructigena (Rick) Bres. SPECIES
-=======
+# Marssonia fructigena (Rick) Bres. SPECIES
 
 #### Status
 ACCEPTED

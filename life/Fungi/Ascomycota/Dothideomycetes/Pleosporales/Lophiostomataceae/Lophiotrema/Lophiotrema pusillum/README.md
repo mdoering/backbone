@@ -1,5 +1,4 @@
-Lophiotrema pusillum f. pusillum FORM
-=======
+# Lophiotrema pusillum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophiotrema pusillum f. pusillum
+Lophiostoma pusillum Fuckel
 
 ### Remarks
 null

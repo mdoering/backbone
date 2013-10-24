@@ -1,5 +1,4 @@
-Candida galis Lachance SPECIES
-=======
+# Candida galis Lachance SPECIES
 
 #### Status
 ACCEPTED

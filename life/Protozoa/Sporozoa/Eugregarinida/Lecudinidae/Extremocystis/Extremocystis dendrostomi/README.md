@@ -1,5 +1,4 @@
-Extremocystis dendrostomi Setna, 1931 SPECIES
-=======
+# Extremocystis dendrostomi Setna, 1931 SPECIES
 
 #### Status
 ACCEPTED

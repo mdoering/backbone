@@ -1,14 +1,13 @@
-Caeoma melanogramma (DC.) Schltdl., 1826 SPECIES
-=======
+# Schizonella melanogramma (DC.) J. Schröt., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 1: 238 (1826)
+in Cohn, Beitr. Biol. Pfl. 2: 362 (1877)
 
 #### Original name
 Uredo melanogramma DC., 1815

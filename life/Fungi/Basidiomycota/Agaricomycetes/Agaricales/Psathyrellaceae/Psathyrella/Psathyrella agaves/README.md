@@ -1,5 +1,4 @@
-Psathyrella agaves (Maire) Konrad & Maubl. SPECIES
-=======
+# Psathyrella agaves (Maire) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

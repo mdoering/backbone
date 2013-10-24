@@ -1,5 +1,4 @@
-Filisphaeridium annolovaense (Timofeev, 1966) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium annolovaense (Timofeev, 1966) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

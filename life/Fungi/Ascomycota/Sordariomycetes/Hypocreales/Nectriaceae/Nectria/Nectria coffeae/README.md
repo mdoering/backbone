@@ -1,5 +1,4 @@
-Nectria coffeae Saccas SPECIES
-=======
+# Nectria coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

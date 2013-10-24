@@ -1,5 +1,4 @@
-Rhizocarpon ochrodelum (Nyl.) SPECIES
-=======
+# Rhizocarpon ochrodelum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentomita quercina Gonz. Frag. SPECIES
-=======
+# Lentomita quercina Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

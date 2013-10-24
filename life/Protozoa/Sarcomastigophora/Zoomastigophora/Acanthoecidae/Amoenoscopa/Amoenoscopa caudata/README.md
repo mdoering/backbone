@@ -1,5 +1,4 @@
-Amoenoscopa caudata Hara & Takahashi, 1987 SPECIES
-=======
+# Amoenoscopa caudata Hara & Takahashi, 1987 SPECIES
 
 #### Status
 ACCEPTED

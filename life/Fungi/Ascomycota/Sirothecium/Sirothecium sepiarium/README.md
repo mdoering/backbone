@@ -1,5 +1,4 @@
-Sirothecium sepiarium P. Karst. SPECIES
-=======
+# Sirothecium sepiarium P. Karst. SPECIES
 
 #### Status
 ACCEPTED

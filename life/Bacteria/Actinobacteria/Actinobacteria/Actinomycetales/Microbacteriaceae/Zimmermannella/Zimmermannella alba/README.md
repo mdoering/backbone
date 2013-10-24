@@ -1,5 +1,4 @@
-Zimmermannella alba Lin et al., 2004 SPECIES
-=======
+# Zimmermannella alba Lin et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

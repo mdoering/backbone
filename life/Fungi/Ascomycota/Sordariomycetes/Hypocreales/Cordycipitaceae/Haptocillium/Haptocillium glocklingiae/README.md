@@ -1,5 +1,4 @@
-Haptocillium glocklingiae Zare & W. Gams, 2001 SPECIES
-=======
+# Haptocillium glocklingiae Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED

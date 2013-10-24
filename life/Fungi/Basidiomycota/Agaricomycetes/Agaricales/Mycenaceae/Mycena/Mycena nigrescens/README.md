@@ -1,5 +1,4 @@
-Mycena nigrescens Maas Geest. & de Meijer SPECIES
-=======
+# Mycena nigrescens Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

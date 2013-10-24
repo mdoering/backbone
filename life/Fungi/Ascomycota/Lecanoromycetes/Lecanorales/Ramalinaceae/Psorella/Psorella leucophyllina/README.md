@@ -1,5 +1,4 @@
-Psorella leucophyllina (Nyl.) Zahlbr. SPECIES
-=======
+# Psorella leucophyllina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

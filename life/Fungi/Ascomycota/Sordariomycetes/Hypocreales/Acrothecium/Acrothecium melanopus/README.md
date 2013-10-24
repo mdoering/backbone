@@ -1,5 +1,4 @@
-Acrothecium melanopus (Schwein.) Sacc. SPECIES
-=======
+# Acrothecium melanopus (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

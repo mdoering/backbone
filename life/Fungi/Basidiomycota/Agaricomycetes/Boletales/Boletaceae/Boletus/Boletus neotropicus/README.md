@@ -1,5 +1,4 @@
-Boletus neotropicus Ortiz & T.J. Baroni SPECIES
-=======
+# Boletus neotropicus Ortiz & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

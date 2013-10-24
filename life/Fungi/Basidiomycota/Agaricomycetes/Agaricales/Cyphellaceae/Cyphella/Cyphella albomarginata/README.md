@@ -1,5 +1,4 @@
-Cyphella albomarginata Pat. SPECIES
-=======
+# Cyphella albomarginata Pat. SPECIES
 
 #### Status
 ACCEPTED

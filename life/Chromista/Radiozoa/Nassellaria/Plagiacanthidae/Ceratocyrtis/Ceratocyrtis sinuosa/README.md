@@ -1,5 +1,4 @@
-Ceratocyrtis sinuosa Petrushevskaya, 1971 SPECIES
-=======
+# Ceratocyrtis sinuosa Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

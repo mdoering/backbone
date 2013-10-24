@@ -1,5 +1,4 @@
-Torula fusigona Fr. SPECIES
-=======
+# Torula fusigona Fr. SPECIES
 
 #### Status
 ACCEPTED

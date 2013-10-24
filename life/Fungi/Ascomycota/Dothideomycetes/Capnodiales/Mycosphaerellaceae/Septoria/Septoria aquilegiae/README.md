@@ -1,5 +1,4 @@
-Septoria aquilegiae Penz. & Sacc. SPECIES
-=======
+# Septoria aquilegiae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

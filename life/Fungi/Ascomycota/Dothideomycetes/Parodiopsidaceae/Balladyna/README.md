@@ -1,5 +1,4 @@
-Balladyna Raciborski, 1900 GENUS
-=======
+# Balladyna Raciborski, 1900 GENUS
 
 #### Status
 ACCEPTED

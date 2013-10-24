@@ -1,5 +1,4 @@
-Stagonospora brunchorstii Sacc. SPECIES
-=======
+# Stagonospora brunchorstii Sacc. SPECIES
 
 #### Status
 ACCEPTED

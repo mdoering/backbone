@@ -1,5 +1,4 @@
-Russula roseoaurantia Sarnari SPECIES
-=======
+# Russula roseoaurantia Sarnari SPECIES
 
 #### Status
 ACCEPTED

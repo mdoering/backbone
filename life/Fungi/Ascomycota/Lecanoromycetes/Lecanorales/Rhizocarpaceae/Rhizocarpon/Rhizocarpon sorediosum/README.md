@@ -1,5 +1,4 @@
-Rhizocarpon sorediosum Runemark SPECIES
-=======
+# Rhizocarpon sorediosum Runemark SPECIES
 
 #### Status
 ACCEPTED

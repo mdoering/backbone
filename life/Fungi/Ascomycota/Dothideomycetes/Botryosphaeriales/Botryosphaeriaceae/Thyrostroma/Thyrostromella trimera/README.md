@@ -1,5 +1,4 @@
-Thyrostromella trimera (Sacc.) Syd. SPECIES
-=======
+# Thyrostromella trimera (Sacc.) Syd. SPECIES
 
 #### Status
 ACCEPTED

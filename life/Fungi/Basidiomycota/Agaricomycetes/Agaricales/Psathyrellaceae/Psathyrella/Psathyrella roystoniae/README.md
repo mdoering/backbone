@@ -1,5 +1,4 @@
-Psathyrella roystoniae (Earle) Singer SPECIES
-=======
+# Psathyrella roystoniae (Earle) Singer SPECIES
 
 #### Status
 ACCEPTED

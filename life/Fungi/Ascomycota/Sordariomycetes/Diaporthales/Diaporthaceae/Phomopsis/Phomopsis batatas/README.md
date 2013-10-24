@@ -1,5 +1,4 @@
-Phomopsis batatas (Ellis & Halst.) Trotter SPECIES
-=======
+# Phomopsis batatas (Ellis & Halst.) Trotter SPECIES
 
 #### Status
 ACCEPTED

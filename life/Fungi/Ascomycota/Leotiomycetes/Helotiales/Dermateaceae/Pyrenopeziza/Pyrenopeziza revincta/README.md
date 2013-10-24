@@ -1,14 +1,13 @@
-Mollisia cinerea f. revincta P. Karst., 1871 FORM
-=======
+# Pyrenopeziza revincta (P. Karst.) Gremmen, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: (1871)
+Fungus 28: 42 (1958)
 
 #### Original name
 Mollisia cinerea f. revincta P. Karst., 1871

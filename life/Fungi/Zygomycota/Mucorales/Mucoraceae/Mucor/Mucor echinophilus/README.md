@@ -1,17 +1,16 @@
-Mucor echinophila Schwein. SPECIES
-=======
+# Mucor echinophilus Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Am. phil. Soc. , Ser. 2 4(2): 285 (1832)
 
 #### Original name
-Mucor echinophila Schwein.
+Mucor echinophilus Schwein.
 
 ### Remarks
 null

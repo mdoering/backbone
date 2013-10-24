@@ -1,5 +1,4 @@
-Hymenogaster barnardii Rodway SPECIES
-=======
+# Hymenogaster barnardii Rodway SPECIES
 
 #### Status
 ACCEPTED

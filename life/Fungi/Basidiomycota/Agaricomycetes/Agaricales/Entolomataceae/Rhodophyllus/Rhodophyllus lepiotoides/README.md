@@ -1,5 +1,4 @@
-Rhodophyllus lepiotoides Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus lepiotoides Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

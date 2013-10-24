@@ -1,5 +1,4 @@
-Esoptrodinium gemma P. Javornick SPECIES
-=======
+# Esoptrodinium gemma P. Javornick SPECIES
 
 #### Status
 ACCEPTED

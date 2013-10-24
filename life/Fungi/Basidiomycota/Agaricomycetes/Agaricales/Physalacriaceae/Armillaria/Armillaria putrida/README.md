@@ -1,5 +1,4 @@
-Armillaria putrida (Scop.) Murrill SPECIES
-=======
+# Armillaria putrida (Scop.) Murrill SPECIES
 
 #### Status
 ACCEPTED

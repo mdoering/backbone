@@ -1,8 +1,7 @@
-Trichosphaeria paraënsis Syd. {?} SPECIES
-=======
+# Trichosphaeria paraensis Syd. {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichosphaeria paraënsis Syd. {?}
+Trichosphaeria paraensis Syd. {?}
 
 ### Remarks
 null

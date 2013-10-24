@@ -1,5 +1,4 @@
-Trichodina antedonis SPECIES
-=======
+# Trichodina antedonis SPECIES
 
 #### Status
 ACCEPTED

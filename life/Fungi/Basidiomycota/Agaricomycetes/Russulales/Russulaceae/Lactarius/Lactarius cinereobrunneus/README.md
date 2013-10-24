@@ -1,5 +1,4 @@
-Lactarius cinereobrunneus Stubbe & Verbeken SPECIES
-=======
+# Lactarius cinereobrunneus Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

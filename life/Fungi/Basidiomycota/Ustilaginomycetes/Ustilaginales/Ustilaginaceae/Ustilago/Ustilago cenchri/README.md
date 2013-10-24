@@ -1,5 +1,4 @@
-Ustilago cenchri Lagerh. SPECIES
-=======
+# Ustilago cenchri Lagerh. SPECIES
 
 #### Status
 ACCEPTED

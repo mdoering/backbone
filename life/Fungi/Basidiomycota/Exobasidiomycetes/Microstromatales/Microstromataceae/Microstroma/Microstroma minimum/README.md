@@ -1,5 +1,4 @@
-Microstroma minimum Sacc. SPECIES
-=======
+# Microstroma minimum Sacc. SPECIES
 
 #### Status
 ACCEPTED

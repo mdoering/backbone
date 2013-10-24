@@ -1,5 +1,4 @@
-Simithorax GENUS
-=======
+# Simithorax GENUS
 
 #### Status
 ACCEPTED

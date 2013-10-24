@@ -1,5 +1,4 @@
-Raphidiopsis cuvata Fritsch & Rich. SPECIES
-=======
+# Raphidiopsis cuvata Fritsch & Rich. SPECIES
 
 #### Status
 ACCEPTED

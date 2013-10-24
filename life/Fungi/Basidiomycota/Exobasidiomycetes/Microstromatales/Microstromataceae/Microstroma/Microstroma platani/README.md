@@ -1,5 +1,4 @@
-Microstroma platani Eddelb. & Engelke SPECIES
-=======
+# Microstroma platani Eddelb. & Engelke SPECIES
 
 #### Status
 ACCEPTED

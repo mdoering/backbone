@@ -1,5 +1,4 @@
-Phaeographis diagrapta (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis diagrapta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

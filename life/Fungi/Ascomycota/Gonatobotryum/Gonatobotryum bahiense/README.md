@@ -1,5 +1,4 @@
-Gonatobotryum bahiense Bat. SPECIES
-=======
+# Gonatobotryum bahiense Bat. SPECIES
 
 #### Status
 ACCEPTED

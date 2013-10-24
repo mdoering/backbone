@@ -1,5 +1,4 @@
-Humicola spinospora Siddique SPECIES
-=======
+# Humicola spinospora Siddique SPECIES
 
 #### Status
 ACCEPTED

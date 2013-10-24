@@ -1,5 +1,4 @@
-Phaeographis endophaeiza (Stirt.) Zahlbr. SPECIES
-=======
+# Phaeographis endophaeiza (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

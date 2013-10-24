@@ -1,5 +1,4 @@
-Agaricus heteropus Speg. SPECIES
-=======
+# Agaricus heteropus Speg. SPECIES
 
 #### Status
 ACCEPTED

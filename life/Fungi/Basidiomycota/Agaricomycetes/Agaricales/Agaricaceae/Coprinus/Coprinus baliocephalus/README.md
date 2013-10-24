@@ -1,5 +1,4 @@
-Coprinus baliocephalus Bogart SPECIES
-=======
+# Coprinus baliocephalus Bogart SPECIES
 
 #### Status
 ACCEPTED

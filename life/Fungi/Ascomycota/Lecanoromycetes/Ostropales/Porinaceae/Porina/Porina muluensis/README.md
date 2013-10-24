@@ -1,5 +1,4 @@
-Porina muluensis P. M. McCarthy & Coppins SPECIES
-=======
+# Porina muluensis P. M. McCarthy & Coppins SPECIES
 
 #### Status
 ACCEPTED

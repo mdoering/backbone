@@ -1,5 +1,4 @@
-Uredo collinae Gjaerum SPECIES
-=======
+# Uredo collinae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

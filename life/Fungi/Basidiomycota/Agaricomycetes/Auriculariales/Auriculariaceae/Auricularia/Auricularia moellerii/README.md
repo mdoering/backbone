@@ -1,5 +1,4 @@
-Auricularia moellerii Lloyd SPECIES
-=======
+# Auricularia moellerii Lloyd SPECIES
 
 #### Status
 ACCEPTED

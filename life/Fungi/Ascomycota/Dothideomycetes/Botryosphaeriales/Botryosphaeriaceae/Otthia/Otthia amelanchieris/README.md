@@ -1,5 +1,4 @@
-Otthia amelanchieris P. Karst. SPECIES
-=======
+# Otthia amelanchieris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

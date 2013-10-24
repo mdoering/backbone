@@ -1,5 +1,4 @@
-Psora citrina (Hedw.) Hoffm. SPECIES
-=======
+# Psora citrina (Hedw.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

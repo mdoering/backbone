@@ -1,5 +1,4 @@
-Rhabdospora solanicola Henn. SPECIES
-=======
+# Rhabdospora solanicola Henn. SPECIES
 
 #### Status
 ACCEPTED

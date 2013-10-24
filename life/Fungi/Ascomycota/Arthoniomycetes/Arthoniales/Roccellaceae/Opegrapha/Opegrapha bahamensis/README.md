@@ -1,5 +1,4 @@
-Opegrapha bahamensis Riddle SPECIES
-=======
+# Opegrapha bahamensis Riddle SPECIES
 
 #### Status
 ACCEPTED

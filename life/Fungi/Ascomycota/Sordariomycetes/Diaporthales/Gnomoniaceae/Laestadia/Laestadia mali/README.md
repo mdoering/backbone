@@ -1,5 +1,4 @@
-Laestadia mali Erbar {?} SPECIES
-=======
+# Laestadia mali Erbar {?} SPECIES
 
 #### Status
 ACCEPTED

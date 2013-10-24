@@ -1,5 +1,4 @@
-Nectria sepultariae (Ade) Petr. SPECIES
-=======
+# Nectria sepultariae (Ade) Petr. SPECIES
 
 #### Status
 ACCEPTED

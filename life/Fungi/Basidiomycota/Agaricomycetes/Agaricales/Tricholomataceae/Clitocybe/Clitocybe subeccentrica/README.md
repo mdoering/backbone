@@ -1,5 +1,4 @@
-Clitocybe subeccentrica Murrill SPECIES
-=======
+# Clitocybe subeccentrica Murrill SPECIES
 
 #### Status
 ACCEPTED

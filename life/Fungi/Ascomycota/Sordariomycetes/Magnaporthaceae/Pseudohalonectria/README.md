@@ -1,5 +1,4 @@
-Pseudohalonectria Minoura & T. Muroi GENUS
-=======
+# Pseudohalonectria Minoura & T. Muroi GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia zeravschanica Tranzschel & Erem. SPECIES
-=======
+# Puccinia zeravschanica Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

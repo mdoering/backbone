@@ -1,17 +1,16 @@
-Trogia königii Fr. SPECIES
-=======
+# Trogia koenigii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 402 (1838)
 
 #### Original name
-Trogia königii Fr.
+Trogia koenigii Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stereocaulon exutoides I.M. Lamb ex M. Satô SPECIES
-=======
+# Stereocaulon exutoides I.M. Lamb ex M. Satô SPECIES
 
 #### Status
 ACCEPTED

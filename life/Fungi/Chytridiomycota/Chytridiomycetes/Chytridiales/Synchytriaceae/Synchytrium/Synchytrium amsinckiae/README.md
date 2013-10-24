@@ -1,5 +1,4 @@
-Synchytrium amsinckiae McMurphy {?} SPECIES
-=======
+# Synchytrium amsinckiae McMurphy {?} SPECIES
 
 #### Status
 ACCEPTED

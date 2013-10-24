@@ -1,5 +1,4 @@
-Agaricus cinnamomicolor Krombh. SPECIES
-=======
+# Agaricus cinnamomicolor Krombh. SPECIES
 
 #### Status
 ACCEPTED

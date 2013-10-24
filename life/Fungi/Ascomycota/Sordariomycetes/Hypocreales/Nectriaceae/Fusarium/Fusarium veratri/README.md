@@ -1,5 +1,4 @@
-Fusarium veratri (Allesch.) Höhn. SPECIES
-=======
+# Fusarium veratri (Allesch.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

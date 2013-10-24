@@ -1,5 +1,4 @@
-Hansfordiella S. Hughes GENUS
-=======
+# Hansfordiella S. Hughes GENUS
 
 #### Status
 ACCEPTED

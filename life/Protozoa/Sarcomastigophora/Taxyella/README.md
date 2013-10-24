@@ -1,5 +1,4 @@
-Taxyella Anglada & Magne, 1969 GENUS
-=======
+# Taxyella Anglada & Magne, 1969 GENUS
 
 #### Status
 ACCEPTED

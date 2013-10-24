@@ -1,5 +1,4 @@
-Graphina pauciloculata Coppins & P. James SPECIES
-=======
+# Graphina pauciloculata Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

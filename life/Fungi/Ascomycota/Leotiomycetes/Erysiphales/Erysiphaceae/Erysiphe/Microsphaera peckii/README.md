@@ -1,5 +1,4 @@
-Microsphaera peckii U. Braun SPECIES
-=======
+# Microsphaera peckii U. Braun SPECIES
 
 #### Status
 ACCEPTED

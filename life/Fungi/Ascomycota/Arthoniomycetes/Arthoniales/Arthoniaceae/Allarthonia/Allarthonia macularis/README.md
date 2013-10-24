@@ -1,5 +1,4 @@
-Allarthonia macularis (Almq.) Zahlbr. SPECIES
-=======
+# Allarthonia macularis (Almq.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

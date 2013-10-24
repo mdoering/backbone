@@ -1,5 +1,4 @@
-Peridinium striolatum var. rugosum Playfair VARIETY
-=======
+# Peridinium striolatum Playfair SPECIES
 
 #### Status
 ACCEPTED

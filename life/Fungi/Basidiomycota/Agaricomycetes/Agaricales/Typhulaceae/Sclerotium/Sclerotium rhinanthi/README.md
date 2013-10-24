@@ -1,5 +1,4 @@
-Sclerotium rhinanthi Magnus SPECIES
-=======
+# Sclerotium rhinanthi Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidites Mesch. GENUS
-=======
+# Dothidites Mesch. GENUS
 
 #### Status
 ACCEPTED

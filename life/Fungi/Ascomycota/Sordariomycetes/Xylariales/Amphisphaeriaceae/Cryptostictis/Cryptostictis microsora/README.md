@@ -1,5 +1,4 @@
-Cryptostictis microsora (Sacc.) Guba SPECIES
-=======
+# Cryptostictis microsora (Sacc.) Guba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triplosporium fumosum (Speare) A. Batko SPECIES
-=======
+# Triplosporium fumosum (Speare) A. Batko SPECIES
 
 #### Status
 ACCEPTED

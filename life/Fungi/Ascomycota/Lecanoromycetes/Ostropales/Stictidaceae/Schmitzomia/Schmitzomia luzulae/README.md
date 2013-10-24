@@ -1,5 +1,4 @@
-Schmitzomia luzulae var. luzulae VARIETY
-=======
+# Schmitzomia luzulae anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Schmitzomia luzulae var. luzulae
+Schmitzomia luzulae anon.
 
 ### Remarks
 null

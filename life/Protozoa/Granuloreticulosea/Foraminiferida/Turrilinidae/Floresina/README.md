@@ -1,5 +1,4 @@
-Floresina Revets, 1990 GENUS
-=======
+# Floresina Revets, 1990 GENUS
 
 #### Status
 ACCEPTED

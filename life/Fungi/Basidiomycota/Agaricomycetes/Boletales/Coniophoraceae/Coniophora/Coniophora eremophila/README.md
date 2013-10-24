@@ -1,5 +1,4 @@
-Coniophora eremophila Lindsey & Gilb. SPECIES
-=======
+# Coniophora eremophila Lindsey & Gilb. SPECIES
 
 #### Status
 ACCEPTED

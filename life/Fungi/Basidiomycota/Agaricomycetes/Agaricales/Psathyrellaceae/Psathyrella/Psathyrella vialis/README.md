@@ -1,5 +1,4 @@
-Psathyrella vialis A.H. Sm. SPECIES
-=======
+# Psathyrella vialis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

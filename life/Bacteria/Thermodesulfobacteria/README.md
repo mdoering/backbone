@@ -1,5 +1,4 @@
-Thermodesulfobacteria Garrity & Holt, 2002 PHYLUM
-=======
+# Thermodesulfobacteria Garrity & Holt, 2002 PHYLUM
 
 #### Status
 ACCEPTED

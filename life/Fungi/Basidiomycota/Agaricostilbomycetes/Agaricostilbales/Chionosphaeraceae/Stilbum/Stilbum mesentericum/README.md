@@ -1,5 +1,4 @@
-Stilbum mesentericum (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Stilbum mesentericum (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

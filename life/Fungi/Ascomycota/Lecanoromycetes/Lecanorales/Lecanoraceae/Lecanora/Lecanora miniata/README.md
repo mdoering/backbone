@@ -1,5 +1,4 @@
-Lecanora miniata (Hoffm.) Ach. SPECIES
-=======
+# Lecanora miniata (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

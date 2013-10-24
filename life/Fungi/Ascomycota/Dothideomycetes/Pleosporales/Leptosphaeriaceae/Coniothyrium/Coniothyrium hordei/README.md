@@ -1,5 +1,4 @@
-Coniothyrium hordei Sawada SPECIES
-=======
+# Coniothyrium hordei Sawada SPECIES
 
 #### Status
 ACCEPTED

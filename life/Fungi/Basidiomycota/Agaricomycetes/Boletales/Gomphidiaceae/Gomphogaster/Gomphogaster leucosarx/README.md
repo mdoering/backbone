@@ -1,5 +1,4 @@
-Gomphogaster leucosarx (A.H. Sm. & Singer) O.K. Mill., 1973 SPECIES
-=======
+# Gomphogaster leucosarx (A.H. Sm. & Singer) O.K. Mill., 1973 SPECIES
 
 #### Status
 ACCEPTED

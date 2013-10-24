@@ -1,5 +1,4 @@
-Alasphaera H. Keupp, 1979 GENUS
-=======
+# Alasphaera H. Keupp, 1979 GENUS
 
 #### Status
 ACCEPTED

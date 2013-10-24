@@ -1,5 +1,4 @@
-Puccinia tetuanensis Guyot SPECIES
-=======
+# Puccinia tetuanensis Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium lupini anon. SPECIES
-=======
+# Fusarium lupini anon. SPECIES
 
 #### Status
 ACCEPTED

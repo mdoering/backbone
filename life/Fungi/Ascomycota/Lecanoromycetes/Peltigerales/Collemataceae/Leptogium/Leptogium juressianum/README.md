@@ -1,5 +1,4 @@
-Leptogium juressianum Tav. SPECIES
-=======
+# Leptogium juressianum Tav. SPECIES
 
 #### Status
 ACCEPTED

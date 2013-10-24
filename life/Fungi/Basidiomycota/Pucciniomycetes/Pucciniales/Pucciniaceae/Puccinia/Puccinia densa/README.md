@@ -1,5 +1,4 @@
-Puccinia densa Dietel & Holw. SPECIES
-=======
+# Puccinia densa Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

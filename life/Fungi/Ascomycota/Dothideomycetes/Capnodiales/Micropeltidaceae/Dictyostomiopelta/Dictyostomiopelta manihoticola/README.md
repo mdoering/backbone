@@ -1,17 +1,16 @@
-Dictyostomiopelta manigoticola Viégas SPECIES
-=======
+# Dictyostomiopelta manihoticola Viégas, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bragantia 4(1-6): 54 (1944)
 
 #### Original name
-Dictyostomiopelta manigoticola Viégas
+Dictyostomiopelta manihoticola Viégas, 1944
 
 ### Remarks
 null

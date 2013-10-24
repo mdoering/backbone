@@ -1,5 +1,4 @@
-Leptomitus ammoniatus Kütz. SPECIES
-=======
+# Leptomitus ammoniatus Kütz. SPECIES
 
 #### Status
 ACCEPTED

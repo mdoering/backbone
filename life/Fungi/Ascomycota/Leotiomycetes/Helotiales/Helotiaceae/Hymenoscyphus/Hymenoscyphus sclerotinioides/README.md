@@ -1,14 +1,13 @@
-Hymenoscyphus sclerotinodes (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus sclerotinioides (Rehm) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 486 (1898)
 
 #### Original name
 Pezizella sclerotinioides Rehm

@@ -1,5 +1,4 @@
-Allophylaria basalifusca Graddon, 1977 SPECIES
-=======
+# Allophylaria basalifusca Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

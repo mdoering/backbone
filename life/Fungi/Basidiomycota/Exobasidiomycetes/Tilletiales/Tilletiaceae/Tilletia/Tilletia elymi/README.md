@@ -1,5 +1,4 @@
-Tilletia elymi Dietel & Holw. SPECIES
-=======
+# Tilletia elymi Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

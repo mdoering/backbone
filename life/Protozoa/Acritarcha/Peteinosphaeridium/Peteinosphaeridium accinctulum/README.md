@@ -1,5 +1,4 @@
-Peteinosphaeridium accinctulum Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Peteinosphaeridium accinctulum Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

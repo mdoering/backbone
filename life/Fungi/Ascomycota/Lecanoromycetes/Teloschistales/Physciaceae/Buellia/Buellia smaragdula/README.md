@@ -1,5 +1,4 @@
-Buellia smaragdula B. de Lesd. SPECIES
-=======
+# Buellia smaragdula B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus boletiformis (Beeli) Heinem. SPECIES
-=======
+# Xerocomus boletiformis (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

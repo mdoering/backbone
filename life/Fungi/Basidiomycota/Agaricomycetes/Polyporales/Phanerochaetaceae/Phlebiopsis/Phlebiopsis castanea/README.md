@@ -1,14 +1,13 @@
-Phlebia castanea Lloyd, 1922 SPECIES
-=======
+# Phlebiopsis castanea (Lloyd) Hjortstam, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Notes (Cincinnati) 7(1): 1108 (1922)
+null
 
 #### Original name
 Phlebia castanea Lloyd, 1922

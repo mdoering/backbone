@@ -1,5 +1,4 @@
-Dictyosporium polystichum (Höhn.) Damon SPECIES
-=======
+# Dictyosporium polystichum (Höhn.) Damon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria bogoriensis Henn. SPECIES
-=======
+# Nectria bogoriensis Henn. SPECIES
 
 #### Status
 ACCEPTED

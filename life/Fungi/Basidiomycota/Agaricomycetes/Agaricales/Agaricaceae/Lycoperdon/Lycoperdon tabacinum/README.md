@@ -1,5 +1,4 @@
-Lycoperdon tabacinum Ellis SPECIES
-=======
+# Lycoperdon tabacinum Ellis SPECIES
 
 #### Status
 ACCEPTED

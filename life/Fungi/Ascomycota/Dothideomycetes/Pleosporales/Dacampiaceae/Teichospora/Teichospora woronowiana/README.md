@@ -1,5 +1,4 @@
-Teichospora woronowiana Rehm SPECIES
-=======
+# Teichospora woronowiana Rehm SPECIES
 
 #### Status
 ACCEPTED

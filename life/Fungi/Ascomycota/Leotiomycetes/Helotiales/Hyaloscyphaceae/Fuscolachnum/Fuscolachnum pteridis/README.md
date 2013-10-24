@@ -1,17 +1,16 @@
-Fuscolachnum pteridis var. pteridis VARIETY
-=======
+# Fuscolachnum pteridis (Alb. & Schwein.) J.H. Haines, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mem. N. Y. bot. Gdn 49: 317 (1989)
 
 #### Original name
-Fuscolachnum pteridis var. pteridis
+null
 
 ### Remarks
 null

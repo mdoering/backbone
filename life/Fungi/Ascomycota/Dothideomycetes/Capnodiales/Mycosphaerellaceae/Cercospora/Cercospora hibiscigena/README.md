@@ -1,5 +1,4 @@
-Cercospora hibiscigena Kamal SPECIES
-=======
+# Cercospora hibiscigena Kamal SPECIES
 
 #### Status
 ACCEPTED

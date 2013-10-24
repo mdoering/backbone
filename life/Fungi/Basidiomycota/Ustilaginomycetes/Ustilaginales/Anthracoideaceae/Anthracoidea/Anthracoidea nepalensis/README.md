@@ -1,5 +1,4 @@
-Anthracoidea nepalensis Kakish. & Y. Ono SPECIES
-=======
+# Anthracoidea nepalensis Kakish. & Y. Ono SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia stolonifera (Jungh.) Sacc. SPECIES
-=======
+# Collybia stolonifera (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

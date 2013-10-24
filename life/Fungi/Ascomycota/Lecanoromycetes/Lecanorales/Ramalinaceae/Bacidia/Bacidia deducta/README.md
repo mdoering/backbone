@@ -1,5 +1,4 @@
-Bacidia deducta (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia deducta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

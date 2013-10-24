@@ -1,5 +1,4 @@
-Cladosporium solutum Link SPECIES
-=======
+# Cladosporium solutum Link SPECIES
 
 #### Status
 ACCEPTED

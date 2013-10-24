@@ -1,5 +1,4 @@
-Xerocomus chostensis Vassilkov SPECIES
-=======
+# Xerocomus chostensis Vassilkov SPECIES
 
 #### Status
 ACCEPTED

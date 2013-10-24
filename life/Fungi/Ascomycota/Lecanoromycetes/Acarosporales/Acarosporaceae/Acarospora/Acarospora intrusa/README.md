@@ -1,5 +1,4 @@
-Acarospora intrusa H. Magn. SPECIES
-=======
+# Acarospora intrusa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

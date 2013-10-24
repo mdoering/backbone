@@ -1,5 +1,4 @@
-Didymium infundibuliforme D. Wrigley, Lado & Estrada, 2009 SPECIES
-=======
+# Didymium infundibuliforme D. Wrigley, Lado & Estrada, 2009 SPECIES
 
 #### Status
 ACCEPTED

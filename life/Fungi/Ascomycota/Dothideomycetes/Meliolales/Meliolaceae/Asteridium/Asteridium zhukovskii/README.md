@@ -1,5 +1,4 @@
-Asteridium zhukovskii Gucevic SPECIES
-=======
+# Asteridium zhukovskii Gucevic SPECIES
 
 #### Status
 ACCEPTED

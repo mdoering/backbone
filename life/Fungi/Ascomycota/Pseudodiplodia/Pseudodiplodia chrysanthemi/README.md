@@ -1,5 +1,4 @@
-Pseudodiplodia chrysanthemi (Hollós) H. Ruppr. SPECIES
-=======
+# Pseudodiplodia chrysanthemi (Hollós) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

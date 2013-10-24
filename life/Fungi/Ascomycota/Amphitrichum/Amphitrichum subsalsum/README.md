@@ -1,5 +1,4 @@
-Amphitrichum subsalsum (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Amphitrichum subsalsum (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

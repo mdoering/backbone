@@ -1,5 +1,4 @@
-Ormathodium bombycinum (Speg.) Subram. SPECIES
-=======
+# Ormathodium bombycinum (Speg.) Subram. SPECIES
 
 #### Status
 ACCEPTED

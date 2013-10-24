@@ -1,5 +1,4 @@
-Boletus rugulosiceps Ortiz, T.J. Baroni & Lodge SPECIES
-=======
+# Boletus rugulosiceps Ortiz, T.J. Baroni & Lodge SPECIES
 
 #### Status
 ACCEPTED

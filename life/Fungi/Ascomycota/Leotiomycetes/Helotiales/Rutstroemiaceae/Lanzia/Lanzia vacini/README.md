@@ -1,14 +1,13 @@
-Helotium vacini Velen., 1939 SPECIES
-=======
+# Lanzia vacini (Velen.) Spooner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 185 (1939)
+in Kirk & Spooner, Kew Bull. 38(4): 570 (1984)
 
 #### Original name
 Helotium vacini Velen., 1939

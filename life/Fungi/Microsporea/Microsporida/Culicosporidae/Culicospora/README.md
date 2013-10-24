@@ -1,5 +1,4 @@
-Culicospora J. Weiser GENUS
-=======
+# Culicospora J. Weiser GENUS
 
 #### Status
 ACCEPTED

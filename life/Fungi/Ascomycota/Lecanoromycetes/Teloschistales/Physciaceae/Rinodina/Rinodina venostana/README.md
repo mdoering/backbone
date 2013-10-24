@@ -1,5 +1,4 @@
-Rinodina venostana Buschardt & H. Mayrhofer SPECIES
-=======
+# Rinodina venostana Buschardt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

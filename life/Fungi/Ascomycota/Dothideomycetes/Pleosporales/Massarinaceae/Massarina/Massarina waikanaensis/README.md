@@ -1,14 +1,13 @@
-Phaeosphaeria waikanaensis G.S. Ridl., 1988 SPECIES
-=======
+# Massarina waikanaensis (G.S. Ridl.) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 26(3): 417 (1988)
+Can. J. Bot. 67(5): 1581 (1989)
 
 #### Original name
 Phaeosphaeria waikanaensis G.S. Ridl., 1988

@@ -1,5 +1,4 @@
-Clostridium josui Sukhumavasi et al., 1988 SPECIES
-=======
+# Clostridium josui Sukhumavasi et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus junghuhnii Höhn. SPECIES
-=======
+# Boletus junghuhnii Höhn. SPECIES
 
 #### Status
 ACCEPTED

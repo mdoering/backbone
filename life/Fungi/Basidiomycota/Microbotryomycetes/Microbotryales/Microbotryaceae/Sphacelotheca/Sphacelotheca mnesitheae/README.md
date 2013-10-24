@@ -1,5 +1,4 @@
-Sphacelotheca mnesitheae Mundk. & Thirum. SPECIES
-=======
+# Sphacelotheca mnesitheae Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

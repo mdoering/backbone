@@ -1,5 +1,4 @@
-Pertusaria murrayi Elix & A.W. Archer SPECIES
-=======
+# Pertusaria murrayi Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

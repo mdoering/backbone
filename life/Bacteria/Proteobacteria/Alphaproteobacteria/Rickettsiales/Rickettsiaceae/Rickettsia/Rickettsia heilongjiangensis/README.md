@@ -1,5 +1,4 @@
-Rickettsia heilongjiangensis Fournier et al., 2006 SPECIES
-=======
+# Rickettsia heilongjiangensis Fournier et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

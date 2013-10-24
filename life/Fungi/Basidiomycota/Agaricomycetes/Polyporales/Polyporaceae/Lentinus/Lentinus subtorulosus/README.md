@@ -1,5 +1,4 @@
-Lentinus subtorulosus (Cooke) Henn. SPECIES
-=======
+# Lentinus subtorulosus (Cooke) Henn. SPECIES
 
 #### Status
 ACCEPTED

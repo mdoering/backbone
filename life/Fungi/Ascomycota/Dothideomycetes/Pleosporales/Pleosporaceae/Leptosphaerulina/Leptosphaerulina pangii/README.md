@@ -1,5 +1,4 @@
-Leptosphaerulina pangii (Syd.) C. Booth SPECIES
-=======
+# Leptosphaerulina pangii (Syd.) C. Booth SPECIES
 
 #### Status
 ACCEPTED

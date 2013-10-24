@@ -1,17 +1,16 @@
-Haplosporella passifloridis A. Pande SPECIES
-=======
+# Aplosporella passiflorae A. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 10(1): 75 (1980)
 
 #### Original name
-Haplosporella passifloridis A. Pande
+Aplosporella passiflorae A. Pande
 
 ### Remarks
 null

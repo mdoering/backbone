@@ -1,17 +1,16 @@
-Xylaria placenta (Petch) A. Pande, 2008 SPECIES
-=======
+# Penzigia placenta Petch, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 8: 142 (1924)
 
 #### Original name
-null
+Penzigia placenta Petch, 1924
 
 ### Remarks
 null

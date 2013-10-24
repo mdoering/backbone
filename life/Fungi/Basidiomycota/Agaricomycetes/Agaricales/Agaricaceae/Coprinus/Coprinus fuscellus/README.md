@@ -1,5 +1,4 @@
-Coprinus fuscellus Britzelm. SPECIES
-=======
+# Coprinus fuscellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira brunii F. Akiba & Y. Yanagisawa SPECIES
-=======
+# Thalassiosira brunii F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

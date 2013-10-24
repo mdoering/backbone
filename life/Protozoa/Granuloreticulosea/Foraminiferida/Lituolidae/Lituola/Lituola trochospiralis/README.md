@@ -1,5 +1,4 @@
-Lituola trochospiralis Zheng & Fu, 2001 SPECIES
-=======
+# Lituola trochospiralis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

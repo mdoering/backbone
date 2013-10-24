@@ -1,5 +1,4 @@
-Cronartium conigenum Hedgc. & N.R. Hunt, 1922 SPECIES
-=======
+# Cronartium conigenum Hedgc. & N.R. Hunt, 1922 SPECIES
 
 #### Status
 ACCEPTED

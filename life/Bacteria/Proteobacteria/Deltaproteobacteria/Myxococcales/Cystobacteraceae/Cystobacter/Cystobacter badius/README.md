@@ -1,5 +1,4 @@
-Cystobacter badius SPECIES
-=======
+# Cystobacter badius SPECIES
 
 #### Status
 ACCEPTED

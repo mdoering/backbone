@@ -1,5 +1,4 @@
-Xanthoparmelia assimilis (Brusse) Elix SPECIES
-=======
+# Xanthoparmelia assimilis (Brusse) Elix SPECIES
 
 #### Status
 ACCEPTED

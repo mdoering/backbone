@@ -1,14 +1,13 @@
-Protoperidinium crassiformis Abé, 1981 SPECIES
-=======
+# Protoperidinium R. Bergh, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Morphol. Jahrb. , 7, 227.
 
 #### Original name
 null

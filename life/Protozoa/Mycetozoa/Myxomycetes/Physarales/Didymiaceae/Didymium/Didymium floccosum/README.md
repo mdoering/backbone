@@ -1,5 +1,4 @@
-Didymium floccosum G.W. Martin, K.S. Thind & Rehill, 1959 SPECIES
-=======
+# Didymium floccosum G.W. Martin, K.S. Thind & Rehill, 1959 SPECIES
 
 #### Status
 ACCEPTED

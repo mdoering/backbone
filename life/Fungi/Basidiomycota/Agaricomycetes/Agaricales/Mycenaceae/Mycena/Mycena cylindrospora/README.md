@@ -1,5 +1,4 @@
-Mycena cylindrospora A.H. Sm. SPECIES
-=======
+# Mycena cylindrospora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

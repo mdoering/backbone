@@ -1,5 +1,4 @@
-Depazea trientalis Lasch SPECIES
-=======
+# Depazea trientalis Lasch SPECIES
 
 #### Status
 ACCEPTED

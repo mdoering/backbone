@@ -1,5 +1,4 @@
-Arthonia somaliensis Müll. Arg. SPECIES
-=======
+# Arthonia somaliensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium telmateiae Velen. SPECIES
-=======
+# Helotium telmateiae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta symphoriella Sacc. & Marchal SPECIES
-=======
+# Phyllosticta symphoriella Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

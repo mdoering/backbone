@@ -1,5 +1,4 @@
-Helotium pallidulum Sacc. SPECIES
-=======
+# Helotium pallidulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

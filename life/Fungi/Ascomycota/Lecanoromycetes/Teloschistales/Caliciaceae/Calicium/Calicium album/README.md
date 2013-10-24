@@ -1,5 +1,4 @@
-Calicium album Schumach. SPECIES
-=======
+# Calicium album Schumach. SPECIES
 
 #### Status
 ACCEPTED

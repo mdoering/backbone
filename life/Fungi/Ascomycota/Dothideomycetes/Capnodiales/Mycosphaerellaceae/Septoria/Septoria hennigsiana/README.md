@@ -1,5 +1,4 @@
-Septoria hennigsiana G. Winter SPECIES
-=======
+# Septoria hennigsiana G. Winter SPECIES
 
 #### Status
 ACCEPTED

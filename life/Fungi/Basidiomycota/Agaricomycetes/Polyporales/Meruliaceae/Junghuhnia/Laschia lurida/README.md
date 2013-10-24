@@ -1,5 +1,4 @@
-Laschia lurida Ces. SPECIES
-=======
+# Laschia lurida Ces. SPECIES
 
 #### Status
 ACCEPTED

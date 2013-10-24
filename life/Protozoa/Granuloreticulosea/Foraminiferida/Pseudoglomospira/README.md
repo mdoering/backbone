@@ -1,5 +1,4 @@
-Pseudoglomospira GENUS
-=======
+# Pseudoglomospira GENUS
 
 #### Status
 ACCEPTED

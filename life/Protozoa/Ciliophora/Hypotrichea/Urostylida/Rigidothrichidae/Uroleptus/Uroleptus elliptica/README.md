@@ -1,5 +1,4 @@
-Uroleptus elliptica Wang & Nie, 1933 SPECIES
-=======
+# Uroleptus elliptica Wang & Nie, 1933 SPECIES
 
 #### Status
 ACCEPTED

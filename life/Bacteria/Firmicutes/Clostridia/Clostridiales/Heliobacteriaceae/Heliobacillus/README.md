@@ -1,5 +1,4 @@
-Heliobacillus Beer-Romero & Gest, 1998 GENUS
-=======
+# Heliobacillus Beer-Romero & Gest, 1998 GENUS
 
 #### Status
 ACCEPTED

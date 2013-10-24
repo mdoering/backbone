@@ -1,5 +1,4 @@
-Strobilomyces ligulatus Cooke SPECIES
-=======
+# Strobilomyces ligulatus Cooke SPECIES
 
 #### Status
 ACCEPTED

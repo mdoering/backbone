@@ -1,5 +1,4 @@
-Mycocalicium pusillum SPECIES
-=======
+# Mycocalicium pusillum SPECIES
 
 #### Status
 ACCEPTED

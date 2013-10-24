@@ -1,5 +1,4 @@
-Emericellopsis sphaerospora Udagawa & Furuya, 1988 SPECIES
-=======
+# Emericellopsis sphaerospora Udagawa & Furuya, 1988 SPECIES
 
 #### Status
 ACCEPTED

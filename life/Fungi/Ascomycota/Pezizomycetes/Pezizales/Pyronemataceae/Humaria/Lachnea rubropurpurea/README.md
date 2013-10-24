@@ -1,5 +1,4 @@
-Lachnea rubropurpurea (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea rubropurpurea (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fusarium stilbaster (Link) Link SPECIES
-=======
+# Atractium stilbaster Link, 1809 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Willdenow, Willd. , Sp. pl. , Edn 4 6(2): 106 (1825)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): (1809)
 
 #### Original name
 Atractium stilbaster Link, 1809

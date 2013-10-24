@@ -1,5 +1,4 @@
-Rhizopus fructicola (Corda) Berl. & De Toni SPECIES
-=======
+# Rhizopus fructicola (Corda) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

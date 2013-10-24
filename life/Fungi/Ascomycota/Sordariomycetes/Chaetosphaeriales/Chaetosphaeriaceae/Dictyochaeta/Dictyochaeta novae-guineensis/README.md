@@ -1,5 +1,4 @@
-Dictyochaeta novae-guineensis (Matsush.) A.I. Romero SPECIES
-=======
+# Dictyochaeta novae-guineensis (Matsush.) A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

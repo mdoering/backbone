@@ -1,5 +1,4 @@
-Methanomethylovorans Lomans et al., 2004 GENUS
-=======
+# Methanomethylovorans Lomans et al., 2004 GENUS
 
 #### Status
 ACCEPTED

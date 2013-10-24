@@ -1,5 +1,4 @@
-Lachnum arcticum Raitv. SPECIES
-=======
+# Lachnum arcticum Raitv. SPECIES
 
 #### Status
 ACCEPTED

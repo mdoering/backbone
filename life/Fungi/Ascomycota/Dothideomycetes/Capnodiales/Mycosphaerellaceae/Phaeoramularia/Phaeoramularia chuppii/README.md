@@ -1,14 +1,13 @@
-Phaeoramularia chupii (Viégas) Inácio & Dianese SPECIES
-=======
+# Phaeoramularia chuppii (Viégas) Inácio & Dianese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Inácio, Furlanetto, Hernández-Gutierrez & Dianese, Fitopatol. Brasil. 21(4): 407 (1996)
 
 #### Original name
 Cercospora chuppii Viégas

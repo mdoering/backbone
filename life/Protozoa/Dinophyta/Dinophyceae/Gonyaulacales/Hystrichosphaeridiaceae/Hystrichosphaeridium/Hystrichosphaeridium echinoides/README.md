@@ -1,5 +1,4 @@
-Hystrichosphaeridium echinoides Maier, 1959 SPECIES
-=======
+# Hystrichosphaeridium echinoides Maier, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samuelsia Chaverri & K.T. Hodge GENUS
-=======
+# Samuelsia Chaverri & K.T. Hodge GENUS
 
 #### Status
 ACCEPTED

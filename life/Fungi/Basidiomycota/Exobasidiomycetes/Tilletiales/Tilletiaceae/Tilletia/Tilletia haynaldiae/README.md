@@ -1,5 +1,4 @@
-Tilletia haynaldiae Maire SPECIES
-=======
+# Tilletia haynaldiae Maire SPECIES
 
 #### Status
 ACCEPTED

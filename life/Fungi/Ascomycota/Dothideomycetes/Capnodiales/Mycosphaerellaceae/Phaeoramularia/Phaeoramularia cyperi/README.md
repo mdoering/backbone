@@ -1,5 +1,4 @@
-Phaeoramularia cyperi D. Gupta, Padhi & Chowdhry SPECIES
-=======
+# Phaeoramularia cyperi D. Gupta, Padhi & Chowdhry SPECIES
 
 #### Status
 ACCEPTED

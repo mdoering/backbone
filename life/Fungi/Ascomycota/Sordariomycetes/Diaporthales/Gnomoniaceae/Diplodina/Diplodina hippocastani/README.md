@@ -1,5 +1,4 @@
-Diplodina hippocastani (Lib.) Sacc. SPECIES
-=======
+# Diplodina hippocastani (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

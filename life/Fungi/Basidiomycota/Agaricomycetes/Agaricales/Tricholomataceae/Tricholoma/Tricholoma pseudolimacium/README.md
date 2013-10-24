@@ -1,5 +1,4 @@
-Tricholoma pseudolimacium Velen. SPECIES
-=======
+# Tricholoma pseudolimacium Velen. SPECIES
 
 #### Status
 ACCEPTED

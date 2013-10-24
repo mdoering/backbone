@@ -1,5 +1,4 @@
-Gloiocephala occidentalis (Dennis) Singer SPECIES
-=======
+# Gloiocephala occidentalis (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

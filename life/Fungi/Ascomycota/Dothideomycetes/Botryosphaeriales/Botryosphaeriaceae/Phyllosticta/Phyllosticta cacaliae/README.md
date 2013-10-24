@@ -1,5 +1,4 @@
-Phyllosticta cacaliae H.C. Greene SPECIES
-=======
+# Phyllosticta cacaliae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

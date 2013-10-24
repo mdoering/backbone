@@ -1,5 +1,4 @@
-Leiopoda quercina Velen. SPECIES
-=======
+# Leiopoda quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

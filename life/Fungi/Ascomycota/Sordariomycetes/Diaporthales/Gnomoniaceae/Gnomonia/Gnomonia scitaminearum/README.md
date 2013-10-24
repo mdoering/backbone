@@ -1,5 +1,4 @@
-Gnomonia scitaminearum Höhn. SPECIES
-=======
+# Gnomonia scitaminearum Höhn. SPECIES
 
 #### Status
 ACCEPTED

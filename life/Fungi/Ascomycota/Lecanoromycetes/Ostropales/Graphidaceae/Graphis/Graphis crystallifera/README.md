@@ -1,5 +1,4 @@
-Graphis crystallifera (Redinger) Staiger SPECIES
-=======
+# Graphis crystallifera (Redinger) Staiger SPECIES
 
 #### Status
 ACCEPTED

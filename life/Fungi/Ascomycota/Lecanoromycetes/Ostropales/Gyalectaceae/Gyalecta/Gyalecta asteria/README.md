@@ -1,5 +1,4 @@
-Gyalecta asteria Tuck. SPECIES
-=======
+# Gyalecta asteria Tuck. SPECIES
 
 #### Status
 ACCEPTED

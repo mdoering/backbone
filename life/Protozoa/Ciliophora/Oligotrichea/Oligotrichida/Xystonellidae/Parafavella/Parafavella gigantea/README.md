@@ -1,5 +1,4 @@
-Parafavella gigantea Brandt SPECIES
-=======
+# Parafavella gigantea Brandt SPECIES
 
 #### Status
 ACCEPTED

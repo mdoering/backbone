@@ -1,5 +1,4 @@
-Papillaria ventricosa J. Kickx f. SPECIES
-=======
+# Papillaria ventricosa J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

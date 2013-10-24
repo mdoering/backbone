@@ -1,5 +1,4 @@
-Loxophyllum multiplicatum Kahl, 1931 SPECIES
-=======
+# Loxophyllum multiplicatum Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

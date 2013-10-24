@@ -1,17 +1,16 @@
-Cystodermella granulosa var. ambrosii (Bres.) I. Saar, 2009 VARIETY
-=======
+# Cystodermella ambrosii (Bres.) Harmaja, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 42(2): 45 (2002)
 
 #### Original name
-null
+Armillaria ambrosii Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eutypella doidgeae Syd. SPECIES
-=======
+# Eutypella doidgeae Syd. SPECIES
 
 #### Status
 ACCEPTED

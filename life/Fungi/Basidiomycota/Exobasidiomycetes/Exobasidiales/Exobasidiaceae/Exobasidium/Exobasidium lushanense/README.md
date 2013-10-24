@@ -1,5 +1,4 @@
-Exobasidium lushanense Zhen Ying Li & L. Guo SPECIES
-=======
+# Exobasidium lushanense Zhen Ying Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

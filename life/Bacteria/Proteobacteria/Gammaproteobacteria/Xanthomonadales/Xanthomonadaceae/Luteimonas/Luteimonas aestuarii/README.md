@@ -1,5 +1,4 @@
-Luteimonas aestuarii Roh, Kim, Nam, Chang, Kim, Yoon, Oh & Bae, 2009 SPECIES
-=======
+# Luteimonas aestuarii Roh, Kim, Nam, Chang, Kim, Yoon, Oh & Bae, 2009 SPECIES
 
 #### Status
 ACCEPTED

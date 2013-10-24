@@ -1,5 +1,4 @@
-Stemonitis irregularis (Rex) Hertel SPECIES
-=======
+# Stemonitis irregularis (Rex) Hertel SPECIES
 
 #### Status
 ACCEPTED

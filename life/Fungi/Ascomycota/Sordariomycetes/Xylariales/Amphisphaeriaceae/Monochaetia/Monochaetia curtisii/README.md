@@ -1,5 +1,4 @@
-Monochaetia curtisii Guba SPECIES
-=======
+# Monochaetia curtisii Guba SPECIES
 
 #### Status
 ACCEPTED

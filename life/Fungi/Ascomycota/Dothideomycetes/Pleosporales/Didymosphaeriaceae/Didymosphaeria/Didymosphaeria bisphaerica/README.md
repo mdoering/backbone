@@ -1,5 +1,4 @@
-Didymosphaeria bisphaerica (Cooke & Ellis) Scheinpflug, 1958 SPECIES
-=======
+# Didymosphaeria bisphaerica (Cooke & Ellis) Scheinpflug, 1958 SPECIES
 
 #### Status
 ACCEPTED

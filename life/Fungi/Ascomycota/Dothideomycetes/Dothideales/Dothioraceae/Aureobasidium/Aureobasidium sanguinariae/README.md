@@ -1,5 +1,4 @@
-Aureobasidium sanguinariae (Ellis & Everh.) Herm.-Nijh. SPECIES
-=======
+# Aureobasidium sanguinariae (Ellis & Everh.) Herm.-Nijh. SPECIES
 
 #### Status
 ACCEPTED

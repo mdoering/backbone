@@ -1,5 +1,4 @@
-Ramaria eosanguinea R.H. Petersen, 1976 SPECIES
-=======
+# Ramaria eosanguinea R.H. Petersen, 1976 SPECIES
 
 #### Status
 ACCEPTED

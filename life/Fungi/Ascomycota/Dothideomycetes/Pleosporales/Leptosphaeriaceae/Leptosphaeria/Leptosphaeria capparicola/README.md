@@ -1,17 +1,16 @@
-Leptosphaeria capparidicola Mundk. & S. Ahmad SPECIES
-=======
+# Leptosphaeria capparicola Mundk. & S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 18: 4 (1946)
 
 #### Original name
-Leptosphaeria capparidicola Mundk. & S. Ahmad
+Leptosphaeria capparicola Mundk. & S. Ahmad
 
 ### Remarks
 null

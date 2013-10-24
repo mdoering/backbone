@@ -1,5 +1,4 @@
-Lembadion discoides Dumas, 1930 SPECIES
-=======
+# Lembadion discoides Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

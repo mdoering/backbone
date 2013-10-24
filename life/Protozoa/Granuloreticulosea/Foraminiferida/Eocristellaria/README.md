@@ -1,5 +1,4 @@
-Eocristellaria GENUS
-=======
+# Eocristellaria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Virgariella ovoidea P.M. Kirk, 1981 SPECIES
-=======
+# Virgariella ovoidea P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

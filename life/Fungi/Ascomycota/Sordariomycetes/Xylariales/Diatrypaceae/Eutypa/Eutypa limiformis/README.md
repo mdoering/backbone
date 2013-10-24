@@ -1,14 +1,13 @@
-Eutypa limaeformis (Schwein.) Berk. SPECIES
-=======
+# Eutypa limiformis (Schwein.) Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 31): 97 (1876)
 
 #### Original name
 Sphaeria limiformis Schwein.

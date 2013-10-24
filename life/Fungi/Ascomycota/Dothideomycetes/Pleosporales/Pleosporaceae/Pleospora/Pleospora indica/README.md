@@ -1,5 +1,4 @@
-Pleospora indica (Tandon & Bilgrami) K.S. Thind & Mandahar SPECIES
-=======
+# Pleospora indica (Tandon & Bilgrami) K.S. Thind & Mandahar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora lapponum Lindf. SPECIES
-=======
+# Melampsora lapponum Lindf. SPECIES
 
 #### Status
 ACCEPTED

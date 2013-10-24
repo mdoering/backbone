@@ -1,5 +1,4 @@
-Agrocybe underwoodii (Murrill) Singer SPECIES
-=======
+# Agrocybe underwoodii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Floresina philippinensis (McCulloch, 1977) SPECIES
-=======
+# Floresina philippinensis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

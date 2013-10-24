@@ -1,5 +1,4 @@
-Cortinarius robinsonii Mont. SPECIES
-=======
+# Cortinarius robinsonii Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopsora hakodatensis Hirats. f. SPECIES
-=======
+# Hyalopsora hakodatensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

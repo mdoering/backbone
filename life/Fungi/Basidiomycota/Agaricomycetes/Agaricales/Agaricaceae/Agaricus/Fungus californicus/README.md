@@ -1,5 +1,4 @@
-Fungus californicus (Peck) Kuntze SPECIES
-=======
+# Fungus californicus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abelspora C. Azevedo GENUS
-=======
+# Abelspora C. Azevedo GENUS
 
 #### Status
 ACCEPTED

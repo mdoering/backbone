@@ -1,17 +1,16 @@
-Aithaloderma himalayana G.S. Mer & Sati SPECIES
-=======
+# Aithaloderma himalayanum G.S. Mer & Sati SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 47(1-2): 207 (1988)
 
 #### Original name
-Aithaloderma himalayana G.S. Mer & Sati
+Aithaloderma himalayanum G.S. Mer & Sati
 
 ### Remarks
 null

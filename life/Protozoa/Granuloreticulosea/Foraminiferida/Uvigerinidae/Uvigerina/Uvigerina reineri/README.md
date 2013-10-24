@@ -1,8 +1,7 @@
-Euuvigerina reineri Belford, 1966 SPECIES
-=======
+# Uvigerina reineri (Belford, 1966) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

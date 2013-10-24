@@ -1,5 +1,4 @@
-Mollisia puberula Velen. SPECIES
-=======
+# Mollisia puberula Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria cetera Breuss SPECIES
-=======
+# Verrucaria cetera Breuss SPECIES
 
 #### Status
 ACCEPTED

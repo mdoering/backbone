@@ -1,5 +1,4 @@
-Dicaeoma cyperi Kuntze SPECIES
-=======
+# Dicaeoma cyperi Kuntze SPECIES
 
 #### Status
 ACCEPTED

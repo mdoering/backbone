@@ -1,5 +1,4 @@
-Stelligera GENUS
-=======
+# Stelligera GENUS
 
 #### Status
 ACCEPTED

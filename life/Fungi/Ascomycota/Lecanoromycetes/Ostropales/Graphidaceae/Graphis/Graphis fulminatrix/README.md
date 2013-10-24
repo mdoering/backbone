@@ -1,5 +1,4 @@
-Graphis fulminatrix Zenker SPECIES
-=======
+# Graphis fulminatrix Zenker SPECIES
 
 #### Status
 ACCEPTED

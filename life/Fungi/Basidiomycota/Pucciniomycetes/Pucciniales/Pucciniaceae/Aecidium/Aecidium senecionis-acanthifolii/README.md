@@ -1,5 +1,4 @@
-Aecidium senecionis-acanthifolii Dietel SPECIES
-=======
+# Aecidium senecionis-acanthifolii Dietel SPECIES
 
 #### Status
 ACCEPTED

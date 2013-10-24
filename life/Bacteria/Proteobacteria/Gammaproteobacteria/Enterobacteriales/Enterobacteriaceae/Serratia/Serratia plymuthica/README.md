@@ -1,11 +1,10 @@
-Bacterium plymuthicum Lehmann & Neumann, 1896 SPECIES
-=======
+# Serratia plymuthica (Lehmann and Neumann, 1896) Breed et al., 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

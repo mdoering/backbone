@@ -1,5 +1,4 @@
-Agaricus ferruginascens Batsch SPECIES
-=======
+# Agaricus ferruginascens Batsch SPECIES
 
 #### Status
 ACCEPTED

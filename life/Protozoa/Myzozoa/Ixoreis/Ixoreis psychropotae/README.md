@@ -1,5 +1,4 @@
-Ixoreis psychropotae SPECIES
-=======
+# Ixoreis psychropotae SPECIES
 
 #### Status
 ACCEPTED

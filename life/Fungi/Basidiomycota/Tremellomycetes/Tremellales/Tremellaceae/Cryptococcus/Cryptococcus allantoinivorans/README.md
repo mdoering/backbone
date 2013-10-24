@@ -1,5 +1,4 @@
-Cryptococcus allantoinivorans Middelhoven SPECIES
-=======
+# Cryptococcus allantoinivorans Middelhoven SPECIES
 
 #### Status
 ACCEPTED

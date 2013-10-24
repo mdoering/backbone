@@ -1,5 +1,4 @@
-Didymobotryum Sacc. GENUS
-=======
+# Didymobotryum Sacc. GENUS
 
 #### Status
 ACCEPTED

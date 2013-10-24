@@ -1,5 +1,4 @@
-Marasmius baumannii Henn. SPECIES
-=======
+# Marasmius baumannii Henn. SPECIES
 
 #### Status
 ACCEPTED

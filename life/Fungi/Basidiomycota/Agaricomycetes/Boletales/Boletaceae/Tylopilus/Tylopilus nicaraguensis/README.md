@@ -1,5 +1,4 @@
-Tylopilus nicaraguensis Singer & M.H. Ivory SPECIES
-=======
+# Tylopilus nicaraguensis Singer & M.H. Ivory SPECIES
 
 #### Status
 ACCEPTED

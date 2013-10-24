@@ -1,5 +1,4 @@
-Aecidium rhamni-alpinae DC. SPECIES
-=======
+# Aecidium rhamni-alpinae DC. SPECIES
 
 #### Status
 ACCEPTED

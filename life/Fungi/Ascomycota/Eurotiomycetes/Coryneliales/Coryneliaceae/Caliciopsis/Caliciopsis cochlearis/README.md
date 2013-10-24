@@ -1,5 +1,4 @@
-Caliciopsis cochlearis Butin SPECIES
-=======
+# Caliciopsis cochlearis Butin SPECIES
 
 #### Status
 ACCEPTED

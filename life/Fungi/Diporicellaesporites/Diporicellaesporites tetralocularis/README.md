@@ -1,5 +1,4 @@
-Diporicellaesporites tetralocularis Sheffy & Dilcher SPECIES
-=======
+# Diporicellaesporites tetralocularis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

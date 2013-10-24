@@ -1,5 +1,4 @@
-Lacrymaria rugocephala (G.F. Atk.) Watling SPECIES
-=======
+# Lacrymaria rugocephala (G.F. Atk.) Watling SPECIES
 
 #### Status
 ACCEPTED

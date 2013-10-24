@@ -1,5 +1,4 @@
-Mycosphaerella syringicola (G.H. Otth) Lindau SPECIES
-=======
+# Mycosphaerella syringicola (G.H. Otth) Lindau SPECIES
 
 #### Status
 ACCEPTED

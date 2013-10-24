@@ -1,5 +1,4 @@
-Anisostagma K.R.L. Petersen & Jørg. Koch GENUS
-=======
+# Anisostagma K.R.L. Petersen & Jørg. Koch GENUS
 
 #### Status
 ACCEPTED

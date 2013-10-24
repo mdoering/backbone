@@ -1,5 +1,4 @@
-Lecidea corisopitensis SPECIES
-=======
+# Lecidea corisopitensis SPECIES
 
 #### Status
 ACCEPTED

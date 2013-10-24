@@ -1,5 +1,4 @@
-Sarcopodium fuscum (Corda) Sacc. SPECIES
-=======
+# Sarcopodium fuscum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

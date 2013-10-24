@@ -1,5 +1,4 @@
-Termitomyces bulborhizus T.Z. Wei, Y.J. Yao, B. Wang & Pegler, 2004 SPECIES
-=======
+# Termitomyces bulborhizus T.Z. Wei, Y.J. Yao, B. Wang & Pegler, 2004 SPECIES
 
 #### Status
 ACCEPTED

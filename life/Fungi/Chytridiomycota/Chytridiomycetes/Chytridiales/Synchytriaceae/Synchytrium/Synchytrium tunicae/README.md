@@ -1,5 +1,4 @@
-Synchytrium tunicae Golovin SPECIES
-=======
+# Synchytrium tunicae Golovin SPECIES
 
 #### Status
 ACCEPTED

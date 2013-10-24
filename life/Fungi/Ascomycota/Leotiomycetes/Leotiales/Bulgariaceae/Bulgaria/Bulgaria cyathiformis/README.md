@@ -1,5 +1,4 @@
-Bulgaria cyathiformis Henn. SPECIES
-=======
+# Bulgaria cyathiformis Henn. SPECIES
 
 #### Status
 ACCEPTED

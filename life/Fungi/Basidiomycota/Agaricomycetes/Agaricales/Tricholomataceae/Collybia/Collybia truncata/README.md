@@ -1,5 +1,4 @@
-Collybia truncata Peck SPECIES
-=======
+# Collybia truncata Peck SPECIES
 
 #### Status
 ACCEPTED

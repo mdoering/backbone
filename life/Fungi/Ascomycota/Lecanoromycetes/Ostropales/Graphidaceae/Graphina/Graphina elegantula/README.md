@@ -1,5 +1,4 @@
-Graphina elegantula Müll. Arg. SPECIES
-=======
+# Graphina elegantula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

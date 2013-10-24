@@ -1,5 +1,4 @@
-Hertelidea pseudobotryosa R. C. Harris, Ladd & Printzen SPECIES
-=======
+# Hertelidea pseudobotryosa R. C. Harris, Ladd & Printzen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia insidiens (Vouaux) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia insidiens (Vouaux) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

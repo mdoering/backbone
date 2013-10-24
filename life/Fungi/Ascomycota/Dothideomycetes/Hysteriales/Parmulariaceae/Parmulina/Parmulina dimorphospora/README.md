@@ -1,5 +1,4 @@
-Parmulina dimorphospora (Maire) Theiss. & Syd. SPECIES
-=======
+# Parmulina dimorphospora (Maire) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

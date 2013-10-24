@@ -1,5 +1,4 @@
-Cyclostomella atramentaria (Berk. & M.A. Curtis) Inácio & P.F. Cannon SPECIES
-=======
+# Cyclostomella atramentaria (Berk. & M.A. Curtis) Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

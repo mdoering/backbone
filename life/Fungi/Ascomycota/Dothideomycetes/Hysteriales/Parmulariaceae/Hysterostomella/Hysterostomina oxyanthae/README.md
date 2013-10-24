@@ -1,5 +1,4 @@
-Hysterostomina oxyanthae (Doidge) Doidge SPECIES
-=======
+# Hysterostomina oxyanthae (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

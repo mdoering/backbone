@@ -1,5 +1,4 @@
-Lepiota bickhamensis P.D. Orton, 1984 SPECIES
-=======
+# Lepiota bickhamensis P.D. Orton, 1984 SPECIES
 
 #### Status
 ACCEPTED

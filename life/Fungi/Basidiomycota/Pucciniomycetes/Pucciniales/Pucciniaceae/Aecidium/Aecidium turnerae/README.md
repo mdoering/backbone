@@ -1,5 +1,4 @@
-Aecidium turnerae Henn. SPECIES
-=======
+# Aecidium turnerae Henn. SPECIES
 
 #### Status
 ACCEPTED

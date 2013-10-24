@@ -1,5 +1,4 @@
-Paractinozygus M.K.E. Cooper, 1987 GENUS
-=======
+# Paractinozygus M.K.E. Cooper, 1987 GENUS
 
 #### Status
 ACCEPTED

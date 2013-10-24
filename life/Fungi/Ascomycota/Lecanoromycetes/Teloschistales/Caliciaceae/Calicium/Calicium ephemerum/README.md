@@ -1,5 +1,4 @@
-Calicium ephemerum Zwackh SPECIES
-=======
+# Calicium ephemerum Zwackh SPECIES
 
 #### Status
 ACCEPTED

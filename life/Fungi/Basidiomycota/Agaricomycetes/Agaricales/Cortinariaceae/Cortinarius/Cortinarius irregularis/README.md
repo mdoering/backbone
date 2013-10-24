@@ -1,5 +1,4 @@
-Cortinarius irregularis (Fr.) Fr. SPECIES
-=======
+# Cortinarius irregularis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

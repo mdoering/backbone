@@ -1,17 +1,16 @@
-Parmelia laxa f. laxa FORM
-=======
+# Xanthoparmelia tasmanica (Hook. f. & Taylor) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Repert. Spec. Nov. Regni Veg. 35: 371 (1934)
+Phytologia 28: 489 (1974)
 
 #### Original name
-Parmelia laxa f. laxa
+Parmelia tasmanica Hook. f. & Taylor
 
 ### Remarks
 null

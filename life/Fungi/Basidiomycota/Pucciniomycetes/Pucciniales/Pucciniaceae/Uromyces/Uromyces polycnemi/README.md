@@ -1,5 +1,4 @@
-Uromyces polycnemi McAlpine SPECIES
-=======
+# Uromyces polycnemi McAlpine SPECIES
 
 #### Status
 ACCEPTED

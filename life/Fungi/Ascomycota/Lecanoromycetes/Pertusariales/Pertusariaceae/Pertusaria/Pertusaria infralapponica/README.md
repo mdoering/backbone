@@ -1,5 +1,4 @@
-Pertusaria infralapponica Vain. SPECIES
-=======
+# Pertusaria infralapponica Vain. SPECIES
 
 #### Status
 ACCEPTED

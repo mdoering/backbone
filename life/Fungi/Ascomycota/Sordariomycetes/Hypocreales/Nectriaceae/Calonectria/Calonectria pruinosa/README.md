@@ -1,5 +1,4 @@
-Calonectria pruinosa Petch SPECIES
-=======
+# Calonectria pruinosa Petch SPECIES
 
 #### Status
 ACCEPTED

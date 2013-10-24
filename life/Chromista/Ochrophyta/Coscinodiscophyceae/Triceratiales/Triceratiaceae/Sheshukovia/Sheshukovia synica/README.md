@@ -1,5 +1,4 @@
-Sheshukovia synica (N. I. Strelnikova) Z. I. Glezer SPECIES
-=======
+# Sheshukovia synica (N. I. Strelnikova) Z. I. Glezer SPECIES
 
 #### Status
 ACCEPTED

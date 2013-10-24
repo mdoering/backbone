@@ -1,5 +1,4 @@
-Sclerotinia cassiopes Rostr. SPECIES
-=======
+# Sclerotinia cassiopes Rostr. SPECIES
 
 #### Status
 ACCEPTED

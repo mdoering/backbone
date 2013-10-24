@@ -1,5 +1,4 @@
-Lacunalites D.O.Hemer & P.W.Nygreen, 1967 GENUS
-=======
+# Lacunalites D.O.Hemer & P.W.Nygreen, 1967 GENUS
 
 #### Status
 ACCEPTED

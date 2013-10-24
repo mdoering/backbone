@@ -1,5 +1,4 @@
-Sporidesmium celtidis Syd. SPECIES
-=======
+# Sporidesmium celtidis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssocystis GENUS
-=======
+# Byssocystis GENUS
 
 #### Status
 ACCEPTED

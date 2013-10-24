@@ -1,5 +1,4 @@
-Phakopsora chavesii Dianese, L.T.P. Santos & R.B. Medeiros SPECIES
-=======
+# Phakopsora chavesii Dianese, L.T.P. Santos & R.B. Medeiros SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe magnispora var. levis Singer VARIETY
-=======
+# Conocybe magnispora (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lilloa 25: 306 (1952)
+Sydowia 4(1-6): 135 (1950)
 
 #### Original name
-Conocybe magnispora var. levis Singer
+Galerula magnispora Murrill
 
 ### Remarks
 null

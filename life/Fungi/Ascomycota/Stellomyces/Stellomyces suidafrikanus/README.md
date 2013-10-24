@@ -1,5 +1,4 @@
-Stellomyces suidafrikanus Morgan-Jones, R.C. Sinclair & Eicker, 1987 SPECIES
-=======
+# Stellomyces suidafrikanus Morgan-Jones, R.C. Sinclair & Eicker, 1987 SPECIES
 
 #### Status
 ACCEPTED

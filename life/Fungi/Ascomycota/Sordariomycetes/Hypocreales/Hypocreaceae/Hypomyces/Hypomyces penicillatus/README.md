@@ -1,5 +1,4 @@
-Hypomyces penicillatus Tokiwa & Okuda SPECIES
-=======
+# Hypomyces penicillatus Tokiwa & Okuda SPECIES
 
 #### Status
 ACCEPTED

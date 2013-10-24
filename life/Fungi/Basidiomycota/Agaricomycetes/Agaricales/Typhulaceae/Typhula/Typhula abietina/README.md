@@ -1,14 +1,13 @@
-Pistillaria abietina Fuckel, 1871 SPECIES
-=======
+# Typhula abietina (Fuckel) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 25-26: 292 (1871)
+Ann. Bot. Mem. 1: 664 (1950)
 
 #### Original name
 Pistillaria abietina Fuckel, 1871

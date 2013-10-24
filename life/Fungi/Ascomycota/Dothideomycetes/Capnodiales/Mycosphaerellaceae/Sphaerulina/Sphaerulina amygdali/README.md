@@ -1,5 +1,4 @@
-Sphaerulina amygdali Politis SPECIES
-=======
+# Sphaerulina amygdali Politis SPECIES
 
 #### Status
 ACCEPTED

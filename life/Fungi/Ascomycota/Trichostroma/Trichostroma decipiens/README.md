@@ -1,5 +1,4 @@
-Trichostroma decipiens F. Strauss SPECIES
-=======
+# Trichostroma decipiens F. Strauss SPECIES
 
 #### Status
 ACCEPTED

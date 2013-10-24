@@ -1,5 +1,4 @@
-Selenomonas dianae Moore et al., 1987 SPECIES
-=======
+# Selenomonas dianae Moore et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

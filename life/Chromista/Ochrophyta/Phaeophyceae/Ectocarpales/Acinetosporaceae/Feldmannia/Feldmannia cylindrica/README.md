@@ -1,11 +1,10 @@
-Feldmannia flocculiformis SPECIES
-=======
+# Feldmannia cylindrica (Saunders) Hollenberg & I.A. Abbott SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

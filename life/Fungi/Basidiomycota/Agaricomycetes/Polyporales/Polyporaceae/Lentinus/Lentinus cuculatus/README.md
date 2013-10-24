@@ -1,5 +1,4 @@
-Lentinus cuculatus Bres. SPECIES
-=======
+# Lentinus cuculatus Bres. SPECIES
 
 #### Status
 ACCEPTED

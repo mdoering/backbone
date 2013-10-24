@@ -1,5 +1,4 @@
-Uredo freycinetiae Racib. SPECIES
-=======
+# Uredo freycinetiae Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Darluca teliosporae Subhedar & V.G. Rao SPECIES
-=======
+# Darluca teliosporae Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

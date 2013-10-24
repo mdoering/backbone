@@ -1,5 +1,4 @@
-Fusoidispora aquatica Vijaykr., Jeewon & K.D. Hyde, 2005 SPECIES
-=======
+# Fusoidispora aquatica Vijaykr., Jeewon & K.D. Hyde, 2005 SPECIES
 
 #### Status
 ACCEPTED

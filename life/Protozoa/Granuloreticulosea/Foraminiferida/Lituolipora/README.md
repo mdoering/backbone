@@ -1,5 +1,4 @@
-Lituolipora Gusic & Velic, 1978 GENUS
-=======
+# Lituolipora Gusic & Velic, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prillieuxia cinereoviolacea Rick SPECIES
-=======
+# Prillieuxia cinereoviolacea Rick SPECIES
 
 #### Status
 ACCEPTED

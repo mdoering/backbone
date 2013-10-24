@@ -1,5 +1,4 @@
-Entyloma obionum Speg. SPECIES
-=======
+# Entyloma obionum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha scaphella Ach. SPECIES
-=======
+# Opegrapha scaphella Ach. SPECIES
 
 #### Status
 ACCEPTED

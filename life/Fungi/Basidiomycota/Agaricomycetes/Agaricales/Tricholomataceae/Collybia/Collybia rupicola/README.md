@@ -1,5 +1,4 @@
-Collybia rupicola Massee SPECIES
-=======
+# Collybia rupicola Massee SPECIES
 
 #### Status
 ACCEPTED

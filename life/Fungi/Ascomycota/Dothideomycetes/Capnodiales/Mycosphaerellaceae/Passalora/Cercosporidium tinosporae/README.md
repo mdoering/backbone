@@ -1,5 +1,4 @@
-Cercosporidium tinosporae A.K. Kar & J.B. Ray SPECIES
-=======
+# Cercosporidium tinosporae A.K. Kar & J.B. Ray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapyrenis lichenicola Aptroot & Diederich SPECIES
-=======
+# Parapyrenis lichenicola Aptroot & Diederich SPECIES
 
 #### Status
 ACCEPTED

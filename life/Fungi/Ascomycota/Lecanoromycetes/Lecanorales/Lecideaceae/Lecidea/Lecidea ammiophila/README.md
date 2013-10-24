@@ -1,5 +1,4 @@
-Lecidea ammiophila Vain. SPECIES
-=======
+# Lecidea ammiophila Vain. SPECIES
 
 #### Status
 ACCEPTED

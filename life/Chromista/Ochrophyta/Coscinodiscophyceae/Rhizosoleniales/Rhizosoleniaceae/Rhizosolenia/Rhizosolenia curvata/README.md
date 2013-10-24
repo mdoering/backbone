@@ -1,8 +1,7 @@
-Rhizosolenia curva Karsten, 1905 SPECIES
-=======
+# Rhizosolenia curvata Zacharias, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

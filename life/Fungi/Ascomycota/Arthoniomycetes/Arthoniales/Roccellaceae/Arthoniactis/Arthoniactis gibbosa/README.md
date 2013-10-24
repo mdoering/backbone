@@ -1,5 +1,4 @@
-Arthoniactis gibbosa (Vain.) C.W. Dodge SPECIES
-=======
+# Arthoniactis gibbosa (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta hydnocarpi S.M. Lin & P.K. Chi SPECIES
-=======
+# Ascochyta hydnocarpi S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

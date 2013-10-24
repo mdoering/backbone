@@ -1,5 +1,4 @@
-Parmelia hendrickxii C.W. Dodge SPECIES
-=======
+# Parmelia hendrickxii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

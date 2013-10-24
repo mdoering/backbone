@@ -1,5 +1,4 @@
-Handkea capensis (Lloyd) Kreisel & G. Moreno SPECIES
-=======
+# Handkea capensis (Lloyd) Kreisel & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

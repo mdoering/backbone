@@ -1,5 +1,4 @@
-Synura echinulata Korshikov SPECIES
-=======
+# Synura echinulata Korshikov SPECIES
 
 #### Status
 ACCEPTED

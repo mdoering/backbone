@@ -1,5 +1,4 @@
-Graphis serpens Fée SPECIES
-=======
+# Graphis serpens Fée SPECIES
 
 #### Status
 ACCEPTED

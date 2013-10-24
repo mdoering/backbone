@@ -1,5 +1,4 @@
-Hydnochaete tuberculosa (Cooke) Pat. SPECIES
-=======
+# Hydnochaete tuberculosa (Cooke) Pat. SPECIES
 
 #### Status
 ACCEPTED

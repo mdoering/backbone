@@ -1,17 +1,16 @@
-Hexajuga Fayod GENUS
-=======
+# Clitopilus (E.M. Fries ex Rabenhorst) P. Kummer, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 7 9: 389 (1889)
+null
 
 #### Original name
-Hexajuga Fayod
+null
 
 ### Remarks
 null

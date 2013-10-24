@@ -1,5 +1,4 @@
-Leptodothiorella von Höhnel, 1918 GENUS
-=======
+# Leptodothiorella von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

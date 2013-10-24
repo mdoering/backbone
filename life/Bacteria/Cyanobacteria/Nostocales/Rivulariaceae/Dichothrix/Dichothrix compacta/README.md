@@ -1,5 +1,4 @@
-Dichothrix compacta var. calcarata Woronichin VARIETY
-=======
+# Dichothrix compacta Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

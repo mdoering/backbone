@@ -1,8 +1,7 @@
-Massartia glauca (Lebour) Schiller SPECIES
-=======
+# Katodinium glaucum (Lebour) Loeblich Iii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Stegotricha Bower & Meyer, 1993 GENUS
-=======
+# Stegotricha Bower & Meyer, 1993 GENUS
 
 #### Status
 ACCEPTED

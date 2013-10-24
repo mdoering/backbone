@@ -1,5 +1,4 @@
-Ceratocystis tsitsikammensis Kamgan & Jol. Roux SPECIES
-=======
+# Ceratocystis tsitsikammensis Kamgan & Jol. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Blitridium subsidum (Cooke & Ellis) Sacc. SPECIES
-=======
+# Blitridium subsiduum (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

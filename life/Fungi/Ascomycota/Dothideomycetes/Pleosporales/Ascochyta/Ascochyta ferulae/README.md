@@ -1,5 +1,4 @@
-Ascochyta ferulae Pat., 1896 SPECIES
-=======
+# Ascochyta ferulae Pat., 1896 SPECIES
 
 #### Status
 ACCEPTED

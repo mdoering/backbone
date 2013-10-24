@@ -1,17 +1,16 @@
-Ophioparma juniperiicola I. Martínez & Aragón SPECIES
-=======
+# Ophioparma junipericola I. Martínez & Aragón SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bryologist 106(4): 528 (2003)
 
 #### Original name
-Ophioparma juniperiicola I. Martínez & Aragón
+Ophioparma junipericola I. Martínez & Aragón
 
 ### Remarks
 null

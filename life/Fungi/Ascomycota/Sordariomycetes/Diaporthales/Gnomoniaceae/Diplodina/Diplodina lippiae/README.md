@@ -1,5 +1,4 @@
-Diplodina lippiae Tassi SPECIES
-=======
+# Diplodina lippiae Tassi SPECIES
 
 #### Status
 ACCEPTED

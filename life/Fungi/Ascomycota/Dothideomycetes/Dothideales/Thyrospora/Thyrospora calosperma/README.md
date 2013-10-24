@@ -1,5 +1,4 @@
-Thyrospora calosperma Kirschst., 1938 SPECIES
-=======
+# Thyrospora calosperma Kirschst., 1938 SPECIES
 
 #### Status
 ACCEPTED

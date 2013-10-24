@@ -1,5 +1,4 @@
-Puccinia stenotaphricola J. Walker SPECIES
-=======
+# Puccinia stenotaphricola J. Walker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia henricii B. de Lesd. SPECIES
-=======
+# Aspicilia henricii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

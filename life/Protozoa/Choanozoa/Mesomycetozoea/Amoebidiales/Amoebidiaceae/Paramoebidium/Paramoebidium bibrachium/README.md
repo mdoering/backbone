@@ -1,5 +1,4 @@
-Paramoebidium bibrachium M.C. Williams & Lichtw., 1990 SPECIES
-=======
+# Paramoebidium bibrachium M.C. Williams & Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

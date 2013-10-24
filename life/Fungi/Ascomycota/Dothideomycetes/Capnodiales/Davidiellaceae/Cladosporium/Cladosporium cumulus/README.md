@@ -1,5 +1,4 @@
-Cladosporium cumulus Preuss SPECIES
-=======
+# Cladosporium cumulus Preuss SPECIES
 
 #### Status
 ACCEPTED

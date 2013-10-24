@@ -1,17 +1,16 @@
-Achlyogeton rostratum Sorokin SPECIES
-=======
+# Achlyogeton rostratus Sorokin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 6 4: 62 (1876)
 
 #### Original name
-Achlyogeton rostratum Sorokin
+Achlyogeton rostratus Sorokin
 
 ### Remarks
 null

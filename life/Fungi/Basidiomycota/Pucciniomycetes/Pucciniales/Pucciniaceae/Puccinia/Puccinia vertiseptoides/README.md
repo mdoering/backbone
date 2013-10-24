@@ -1,5 +1,4 @@
-Puccinia vertiseptoides Cummins SPECIES
-=======
+# Puccinia vertiseptoides Cummins SPECIES
 
 #### Status
 ACCEPTED

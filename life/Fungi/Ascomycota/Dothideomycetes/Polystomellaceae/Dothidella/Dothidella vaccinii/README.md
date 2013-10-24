@@ -1,5 +1,4 @@
-Dothidella vaccinii Rostr. SPECIES
-=======
+# Dothidella vaccinii Rostr. SPECIES
 
 #### Status
 ACCEPTED

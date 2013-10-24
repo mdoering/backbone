@@ -1,5 +1,4 @@
-Lecanora circularis var. circularis VARIETY
-=======
+# Lecanora circularis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora circularis var. circularis
+Lecanora circularis H. Magn.
 
 ### Remarks
 null

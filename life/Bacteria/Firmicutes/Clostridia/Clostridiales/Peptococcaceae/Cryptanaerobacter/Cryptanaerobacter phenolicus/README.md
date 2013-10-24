@@ -1,5 +1,4 @@
-Cryptanaerobacter phenolicus Juteau et al., 2005 SPECIES
-=======
+# Cryptanaerobacter phenolicus Juteau et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linochora patula Syd. SPECIES
-=======
+# Linochora patula Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicogonium psilachni Baral, 1999 SPECIES
-=======
+# Helicogonium psilachni Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptopeltella perexigua (Speg.) Höhn. SPECIES
-=======
+# Leptopeltella perexigua (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

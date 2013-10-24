@@ -1,5 +1,4 @@
-Amanitina manginiana (Har. & Pat.) E.-J. Gilbert SPECIES
-=======
+# Amanitina manginiana (Har. & Pat.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

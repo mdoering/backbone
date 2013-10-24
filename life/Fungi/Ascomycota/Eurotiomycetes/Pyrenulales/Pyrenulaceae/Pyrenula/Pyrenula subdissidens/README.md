@@ -1,5 +1,4 @@
-Pyrenula subdissidens SPECIES
-=======
+# Pyrenula subdissidens SPECIES
 
 #### Status
 ACCEPTED

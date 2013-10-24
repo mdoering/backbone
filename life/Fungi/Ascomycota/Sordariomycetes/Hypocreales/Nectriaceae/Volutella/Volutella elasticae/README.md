@@ -1,5 +1,4 @@
-Volutella elasticae Koord. SPECIES
-=======
+# Volutella elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

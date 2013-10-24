@@ -1,5 +1,4 @@
-Lecidea submersula SPECIES
-=======
+# Lecidea submersula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium reticulatum (Berk. & Broome) Pat. SPECIES
-=======
+# Septobasidium reticulatum (Berk. & Broome) Pat. SPECIES
 
 #### Status
 ACCEPTED

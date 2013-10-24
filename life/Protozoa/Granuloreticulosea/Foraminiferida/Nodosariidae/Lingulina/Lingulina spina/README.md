@@ -1,5 +1,4 @@
-Lingulina spina (Crosse & Fischer) SPECIES
-=======
+# Lingulina spina (Crosse & Fischer) SPECIES
 
 #### Status
 ACCEPTED

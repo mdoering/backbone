@@ -1,5 +1,4 @@
-Tulostoma xerophilum Long SPECIES
-=======
+# Tulostoma xerophilum Long SPECIES
 
 #### Status
 ACCEPTED

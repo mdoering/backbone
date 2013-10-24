@@ -1,5 +1,4 @@
-Leptostroma marginatum Schwein. SPECIES
-=======
+# Leptostroma marginatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

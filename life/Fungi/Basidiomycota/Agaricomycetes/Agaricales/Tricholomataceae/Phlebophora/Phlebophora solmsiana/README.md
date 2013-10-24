@@ -1,5 +1,4 @@
-Phlebophora solmsiana Henn. SPECIES
-=======
+# Phlebophora solmsiana Henn. SPECIES
 
 #### Status
 ACCEPTED

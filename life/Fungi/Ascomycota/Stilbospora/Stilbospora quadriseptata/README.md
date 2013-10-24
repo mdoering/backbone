@@ -1,5 +1,4 @@
-Stilbospora quadriseptata Schwein. SPECIES
-=======
+# Stilbospora quadriseptata Schwein. SPECIES
 
 #### Status
 ACCEPTED

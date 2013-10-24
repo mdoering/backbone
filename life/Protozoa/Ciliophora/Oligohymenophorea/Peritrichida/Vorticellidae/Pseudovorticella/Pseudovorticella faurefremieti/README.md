@@ -1,5 +1,4 @@
-Pseudovorticella faurefremieti Sun, Song & Xu, 2007 SPECIES
-=======
+# Pseudovorticella faurefremieti Sun, Song & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

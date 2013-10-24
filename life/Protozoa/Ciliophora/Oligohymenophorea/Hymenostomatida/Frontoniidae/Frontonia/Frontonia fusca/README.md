@@ -1,5 +1,4 @@
-Frontonia fusca Quennerstedt, 1869 SPECIES
-=======
+# Frontonia fusca Quennerstedt, 1869 SPECIES
 
 #### Status
 ACCEPTED

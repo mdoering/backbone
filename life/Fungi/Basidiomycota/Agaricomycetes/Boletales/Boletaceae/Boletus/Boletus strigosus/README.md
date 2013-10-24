@@ -1,5 +1,4 @@
-Boletus strigosus Schultz SPECIES
-=======
+# Boletus strigosus Schultz SPECIES
 
 #### Status
 ACCEPTED

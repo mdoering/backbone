@@ -1,5 +1,4 @@
-Erysiphe altingiae Z.X. Chen & Y.J. Yao SPECIES
-=======
+# Erysiphe altingiae Z.X. Chen & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chorostate macounii (Dearn.) Sacc. SPECIES
-=======
+# Chorostate macounii (Dearn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

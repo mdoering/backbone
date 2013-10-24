@@ -1,5 +1,4 @@
-Cortinarius sericeolazulinus Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius sericeolazulinus Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

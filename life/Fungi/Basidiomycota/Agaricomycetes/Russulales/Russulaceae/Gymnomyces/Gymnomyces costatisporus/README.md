@@ -1,5 +1,4 @@
-Gymnomyces costatisporus T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces costatisporus T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

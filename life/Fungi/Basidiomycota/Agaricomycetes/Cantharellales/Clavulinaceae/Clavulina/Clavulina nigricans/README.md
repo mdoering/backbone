@@ -1,5 +1,4 @@
-Clavulina nigricans Thacker & T.W. Henkel, 2004 SPECIES
-=======
+# Clavulina nigricans Thacker & T.W. Henkel, 2004 SPECIES
 
 #### Status
 ACCEPTED

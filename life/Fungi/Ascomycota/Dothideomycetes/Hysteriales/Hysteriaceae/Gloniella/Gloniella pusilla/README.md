@@ -1,5 +1,4 @@
-Gloniella pusilla Sacc. SPECIES
-=======
+# Gloniella pusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

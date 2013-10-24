@@ -1,5 +1,4 @@
-Cercidospora collematum var. collematum VARIETY
-=======
+# Didymellopsis collematum (J. Steiner) Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 102: 184 (1883)
+Nova Hedwigia 51(3-4): 297 (1990)
 
 #### Original name
-Cercidospora collematum var. collematum
+Cercidospora collematum J. Steiner
 
 ### Remarks
 null

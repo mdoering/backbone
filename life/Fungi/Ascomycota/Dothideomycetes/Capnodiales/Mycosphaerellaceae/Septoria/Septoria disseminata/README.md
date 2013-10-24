@@ -1,5 +1,4 @@
-Septoria disseminata Desm. SPECIES
-=======
+# Septoria disseminata Desm. SPECIES
 
 #### Status
 ACCEPTED

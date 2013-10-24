@@ -1,5 +1,4 @@
-Metraria Cooke & Massee GENUS
-=======
+# Metraria Cooke & Massee GENUS
 
 #### Status
 ACCEPTED

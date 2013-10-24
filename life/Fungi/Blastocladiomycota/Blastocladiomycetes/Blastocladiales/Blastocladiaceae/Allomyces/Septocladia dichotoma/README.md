@@ -1,5 +1,4 @@
-Septocladia dichotoma Coker & F.A. Grant SPECIES
-=======
+# Septocladia dichotoma Coker & F.A. Grant SPECIES
 
 #### Status
 ACCEPTED

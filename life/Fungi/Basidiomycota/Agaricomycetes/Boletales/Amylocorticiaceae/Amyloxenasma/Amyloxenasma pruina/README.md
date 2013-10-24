@@ -1,14 +1,13 @@
-Xenasma pruina (Bourdot & Galzin) J. Erikss., 1958 SPECIES
-=======
+# Amyloxenasma pruina (Bourdot & Galzin) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 16(no. 1): 65 (1958)
+Syn. Fung. (Oslo) 20: 34 (2005)
 
 #### Original name
 null

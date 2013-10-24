@@ -1,5 +1,4 @@
-Gyalideopsis monospora Kalb & Vezda SPECIES
-=======
+# Gyalideopsis monospora Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

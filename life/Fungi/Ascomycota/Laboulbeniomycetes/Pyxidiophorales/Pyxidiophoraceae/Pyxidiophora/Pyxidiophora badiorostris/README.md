@@ -1,5 +1,4 @@
-Pyxidiophora badiorostris N. Lundq. SPECIES
-=======
+# Pyxidiophora badiorostris N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

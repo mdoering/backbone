@@ -1,5 +1,4 @@
-Caloplaca sandwiciensis (H. Magn.) SPECIES
-=======
+# Caloplaca sandwiciensis (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

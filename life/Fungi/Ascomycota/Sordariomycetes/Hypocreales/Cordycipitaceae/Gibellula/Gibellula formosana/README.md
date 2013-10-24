@@ -1,5 +1,4 @@
-Gibellula formosana Sawada SPECIES
-=======
+# Gibellula formosana Sawada SPECIES
 
 #### Status
 ACCEPTED

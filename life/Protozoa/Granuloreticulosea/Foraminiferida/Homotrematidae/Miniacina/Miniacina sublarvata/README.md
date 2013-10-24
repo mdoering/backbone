@@ -1,8 +1,7 @@
-Planorbulinella sublarvata Hatta & Ujiie, 1992 SPECIES
-=======
+# Miniacina sublarvata (Hatta & Ujiie, 1992) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

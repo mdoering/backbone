@@ -1,5 +1,4 @@
-Pleurotus anastomosans Rick SPECIES
-=======
+# Pleurotus anastomosans Rick SPECIES
 
 #### Status
 ACCEPTED

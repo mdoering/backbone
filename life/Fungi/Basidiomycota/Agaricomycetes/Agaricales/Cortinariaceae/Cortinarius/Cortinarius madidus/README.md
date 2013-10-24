@@ -1,5 +1,4 @@
-Cortinarius madidus Gasparini SPECIES
-=======
+# Cortinarius madidus Gasparini SPECIES
 
 #### Status
 ACCEPTED

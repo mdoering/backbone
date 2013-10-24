@@ -1,5 +1,4 @@
-Puccinia cryptica var. cryptica VARIETY
-=======
+# Puccinia cryptica Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Proc. Am. philos. Soc. 64: 163 (1925)
 
 #### Original name
-Puccinia cryptica var. cryptica
+Puccinia cryptica Arthur & Holw.
 
 ### Remarks
 null

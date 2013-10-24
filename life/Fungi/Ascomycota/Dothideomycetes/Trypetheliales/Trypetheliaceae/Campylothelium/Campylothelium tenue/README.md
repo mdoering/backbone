@@ -1,5 +1,4 @@
-Campylothelium tenue Aptroot SPECIES
-=======
+# Campylothelium tenue Aptroot SPECIES
 
 #### Status
 ACCEPTED

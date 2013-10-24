@@ -1,5 +1,4 @@
-Lenzites platyphylla Lév. SPECIES
-=======
+# Lenzites platyphylla Lév. SPECIES
 
 #### Status
 ACCEPTED

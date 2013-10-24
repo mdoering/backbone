@@ -1,5 +1,4 @@
-Cyclanura A.C.Stokes GENUS
-=======
+# Cyclanura A.C.Stokes GENUS
 
 #### Status
 ACCEPTED

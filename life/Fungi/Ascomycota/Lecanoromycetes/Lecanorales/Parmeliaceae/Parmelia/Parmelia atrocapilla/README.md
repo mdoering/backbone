@@ -1,5 +1,4 @@
-Parmelia atrocapilla SPECIES
-=======
+# Parmelia atrocapilla SPECIES
 
 #### Status
 ACCEPTED

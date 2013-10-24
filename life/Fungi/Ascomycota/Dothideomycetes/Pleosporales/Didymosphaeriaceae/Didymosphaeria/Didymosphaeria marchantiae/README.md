@@ -1,5 +1,4 @@
-Didymosphaeria marchantiae Starbäck SPECIES
-=======
+# Didymosphaeria marchantiae Starbäck SPECIES
 
 #### Status
 ACCEPTED

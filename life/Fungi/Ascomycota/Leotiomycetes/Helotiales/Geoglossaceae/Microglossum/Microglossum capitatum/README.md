@@ -1,5 +1,4 @@
-Microglossum capitatum F.L. Tai SPECIES
-=======
+# Microglossum capitatum F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

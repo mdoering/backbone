@@ -1,5 +1,4 @@
-Endocarpon anzianum Garov. SPECIES
-=======
+# Endocarpon anzianum Garov. SPECIES
 
 #### Status
 ACCEPTED

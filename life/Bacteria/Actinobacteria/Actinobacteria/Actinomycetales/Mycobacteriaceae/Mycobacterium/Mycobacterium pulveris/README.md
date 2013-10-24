@@ -1,5 +1,4 @@
-Mycobacterium pulveris Tsukamura et al., 1983 SPECIES
-=======
+# Mycobacterium pulveris Tsukamura et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

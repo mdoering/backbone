@@ -1,5 +1,4 @@
-Arthonia asteroma (Chevall.) Malbr. SPECIES
-=======
+# Arthonia asteroma (Chevall.) Malbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza uncinata W. Phillips SPECIES
-=======
+# Peziza uncinata W. Phillips SPECIES
 
 #### Status
 ACCEPTED

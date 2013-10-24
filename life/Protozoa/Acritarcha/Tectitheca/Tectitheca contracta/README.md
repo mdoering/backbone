@@ -1,5 +1,4 @@
-Tectitheca contracta Burmann, 1968 SPECIES
-=======
+# Tectitheca contracta Burmann, 1968 SPECIES
 
 #### Status
 ACCEPTED

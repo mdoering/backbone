@@ -1,5 +1,4 @@
-Actiniopsis juruensis Henn. SPECIES
-=======
+# Actiniopsis juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

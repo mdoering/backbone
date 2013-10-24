@@ -1,5 +1,4 @@
-Agaricus microcoelius Berk. & Broome SPECIES
-=======
+# Agaricus microcoelius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

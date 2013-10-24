@@ -1,5 +1,4 @@
-Lecidea sendaiensis Zahlbr. SPECIES
-=======
+# Lecidea sendaiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

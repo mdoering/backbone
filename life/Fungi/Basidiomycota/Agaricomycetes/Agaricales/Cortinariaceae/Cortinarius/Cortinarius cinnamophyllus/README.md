@@ -1,5 +1,4 @@
-Cortinarius cinnamophyllus M.M. Moser SPECIES
-=======
+# Cortinarius cinnamophyllus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

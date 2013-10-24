@@ -1,5 +1,4 @@
-Graphis subscribillans Nyl. SPECIES
-=======
+# Graphis subscribillans Nyl. SPECIES
 
 #### Status
 ACCEPTED

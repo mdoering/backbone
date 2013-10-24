@@ -1,5 +1,4 @@
-Tarichium bereshkovaeanum Lavrov & Smirnova {?} SPECIES
-=======
+# Tarichium bereshkovaeanum Lavrov & Smirnova {?} SPECIES
 
 #### Status
 ACCEPTED

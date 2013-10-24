@@ -1,5 +1,4 @@
-Anabaenopsis raciborskii Woloszynska SPECIES
-=======
+# Anabaenopsis raciborskii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

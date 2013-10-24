@@ -1,8 +1,7 @@
-Kahlia bacilliformis Gelei, 1954 SPECIES
-=======
+# Deviata bacilliformis (Gelei, 1954) Eigner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

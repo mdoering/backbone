@@ -1,5 +1,4 @@
-Passalora ciferrii (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora ciferrii (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

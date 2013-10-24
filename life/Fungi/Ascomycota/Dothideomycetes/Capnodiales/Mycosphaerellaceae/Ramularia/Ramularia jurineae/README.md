@@ -1,5 +1,4 @@
-Ramularia jurineae Hollós SPECIES
-=======
+# Ramularia jurineae Hollós SPECIES
 
 #### Status
 ACCEPTED

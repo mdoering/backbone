@@ -1,5 +1,4 @@
-Asteromella trautmanniana (Moesz) Moesz SPECIES
-=======
+# Asteromella trautmanniana (Moesz) Moesz SPECIES
 
 #### Status
 ACCEPTED

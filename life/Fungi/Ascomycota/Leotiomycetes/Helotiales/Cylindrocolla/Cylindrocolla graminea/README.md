@@ -1,5 +1,4 @@
-Cylindrocolla graminea P. Karst. SPECIES
-=======
+# Cylindrocolla graminea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca psoricida E.S. Hansen, Poelt & Søchting SPECIES
-=======
+# Caloplaca psoricida E.S. Hansen, Poelt & Søchting SPECIES
 
 #### Status
 ACCEPTED

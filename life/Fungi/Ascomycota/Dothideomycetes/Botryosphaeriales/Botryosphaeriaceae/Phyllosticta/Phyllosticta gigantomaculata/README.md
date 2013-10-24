@@ -1,5 +1,4 @@
-Phyllosticta gigantomaculata Miura SPECIES
-=======
+# Phyllosticta gigantomaculata Miura SPECIES
 
 #### Status
 ACCEPTED

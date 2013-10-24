@@ -1,5 +1,4 @@
-Camarosporium rhodotypi Staritz SPECIES
-=======
+# Camarosporium rhodotypi Staritz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma fici-caricae Sawada SPECIES
-=======
+# Macrophoma fici-caricae Sawada SPECIES
 
 #### Status
 ACCEPTED

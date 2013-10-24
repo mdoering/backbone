@@ -1,5 +1,4 @@
-Microsphaera neglecta U. Braun SPECIES
-=======
+# Microsphaera neglecta U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia hypsophila Speg. SPECIES
-=======
+# Tilletia hypsophila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma galactis Dearn. & House SPECIES
-=======
+# Phoma galactis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

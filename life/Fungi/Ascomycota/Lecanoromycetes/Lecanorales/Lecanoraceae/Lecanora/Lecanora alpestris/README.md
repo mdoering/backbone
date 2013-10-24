@@ -1,5 +1,4 @@
-Lecanora alpestris Ach. SPECIES
-=======
+# Lecanora alpestris Ach. SPECIES
 
 #### Status
 ACCEPTED

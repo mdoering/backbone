@@ -1,14 +1,13 @@
-Agaricus anthiceps Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Omphalia anthiceps (Berk. & M.A. Curtis) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 45): 286 (1868)
+Syll. fung. (Abellini) 5: 317 (1887)
 
 #### Original name
 Agaricus anthiceps Berk. & M.A. Curtis, 1868

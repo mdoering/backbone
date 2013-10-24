@@ -1,5 +1,4 @@
-Valsaria melastroma (Fr.) Sacc. SPECIES
-=======
+# Valsaria melastroma (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

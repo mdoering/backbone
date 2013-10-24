@@ -1,5 +1,4 @@
-Perisporium E.M. Fries, 1821 GENUS
-=======
+# Perisporium E.M. Fries, 1821 GENUS
 
 #### Status
 ACCEPTED

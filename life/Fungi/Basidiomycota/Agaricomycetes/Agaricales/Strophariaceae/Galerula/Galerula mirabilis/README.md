@@ -1,5 +1,4 @@
-Galerula mirabilis G.F. Atk. SPECIES
-=======
+# Galerula mirabilis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

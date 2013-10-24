@@ -1,5 +1,4 @@
-Podostictina GENUS
-=======
+# Podostictina GENUS
 
 #### Status
 ACCEPTED

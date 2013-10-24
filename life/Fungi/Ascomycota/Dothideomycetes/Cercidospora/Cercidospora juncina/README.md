@@ -1,5 +1,4 @@
-Cercidospora juncina (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Cercidospora juncina (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

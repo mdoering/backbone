@@ -1,5 +1,4 @@
-Gymnopus lodgeae (Singer) J.L. Mata SPECIES
-=======
+# Gymnopus lodgeae (Singer) J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

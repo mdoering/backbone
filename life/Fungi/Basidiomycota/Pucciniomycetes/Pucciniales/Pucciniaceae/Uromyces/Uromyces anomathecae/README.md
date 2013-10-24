@@ -1,5 +1,4 @@
-Uromyces anomathecae Cooke SPECIES
-=======
+# Uromyces anomathecae Cooke SPECIES
 
 #### Status
 ACCEPTED

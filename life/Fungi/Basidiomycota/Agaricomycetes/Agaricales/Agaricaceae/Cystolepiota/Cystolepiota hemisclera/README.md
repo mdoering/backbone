@@ -1,5 +1,4 @@
-Cystolepiota hemisclera (Berk. & M.A. Curtis) Pegler SPECIES
-=======
+# Cystolepiota hemisclera (Berk. & M.A. Curtis) Pegler SPECIES
 
 #### Status
 ACCEPTED

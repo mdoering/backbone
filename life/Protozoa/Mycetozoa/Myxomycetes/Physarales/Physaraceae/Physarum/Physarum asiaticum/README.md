@@ -1,5 +1,4 @@
-Physarum asiaticum Skvortsov SPECIES
-=======
+# Physarum asiaticum Skvortsov SPECIES
 
 #### Status
 ACCEPTED

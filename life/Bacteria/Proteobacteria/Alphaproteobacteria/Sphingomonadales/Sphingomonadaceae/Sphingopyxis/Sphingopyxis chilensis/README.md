@@ -1,5 +1,4 @@
-Sphingopyxis chilensis Godoy et al., 2003 SPECIES
-=======
+# Sphingopyxis chilensis Godoy et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

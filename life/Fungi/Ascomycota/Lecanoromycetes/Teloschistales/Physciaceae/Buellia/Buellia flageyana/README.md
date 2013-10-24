@@ -1,5 +1,4 @@
-Buellia flageyana Servít SPECIES
-=======
+# Buellia flageyana Servít SPECIES
 
 #### Status
 ACCEPTED

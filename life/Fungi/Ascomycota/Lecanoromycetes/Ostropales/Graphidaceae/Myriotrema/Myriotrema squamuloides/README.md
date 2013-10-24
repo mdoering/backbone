@@ -1,5 +1,4 @@
-Myriotrema squamuloides Sipman SPECIES
-=======
+# Myriotrema squamuloides Sipman SPECIES
 
 #### Status
 ACCEPTED

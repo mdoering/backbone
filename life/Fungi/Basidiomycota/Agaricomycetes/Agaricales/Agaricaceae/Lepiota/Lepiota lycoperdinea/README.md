@@ -1,5 +1,4 @@
-Lepiota lycoperdinea Rick SPECIES
-=======
+# Lepiota lycoperdinea Rick SPECIES
 
 #### Status
 ACCEPTED

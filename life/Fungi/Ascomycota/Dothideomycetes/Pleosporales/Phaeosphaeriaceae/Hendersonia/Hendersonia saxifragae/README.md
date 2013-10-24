@@ -1,5 +1,4 @@
-Hendersonia saxifragae Fautrey & Rolland SPECIES
-=======
+# Hendersonia saxifragae Fautrey & Rolland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporium warneckeanum Henn. SPECIES
-=======
+# Brachysporium warneckeanum Henn. SPECIES
 
 #### Status
 ACCEPTED

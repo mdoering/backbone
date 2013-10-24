@@ -1,5 +1,4 @@
-Thelidium xyloderma Norman SPECIES
-=======
+# Thelidium xyloderma Norman SPECIES
 
 #### Status
 ACCEPTED

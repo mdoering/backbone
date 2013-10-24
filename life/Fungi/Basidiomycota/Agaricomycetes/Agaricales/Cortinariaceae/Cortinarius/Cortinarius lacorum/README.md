@@ -1,5 +1,4 @@
-Cortinarius lacorum A.H. Sm. SPECIES
-=======
+# Cortinarius lacorum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

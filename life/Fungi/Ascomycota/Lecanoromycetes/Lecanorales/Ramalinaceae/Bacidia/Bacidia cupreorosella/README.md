@@ -1,5 +1,4 @@
-Bacidia cupreorosella (Nyl.) A. Schneid. SPECIES
-=======
+# Bacidia cupreorosella (Nyl.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

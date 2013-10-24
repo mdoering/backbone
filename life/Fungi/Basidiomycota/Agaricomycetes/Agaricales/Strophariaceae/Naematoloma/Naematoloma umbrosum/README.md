@@ -1,14 +1,13 @@
-Nematoloma umbrosum (Velen.) Singer SPECIES
-=======
+# Naematoloma umbrosum (Velen.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fieldiana, Bot. 21: 108 (1989)
 
 #### Original name
 Galera umbrosa Velen.

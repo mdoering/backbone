@@ -1,5 +1,4 @@
-Coniothyrium anserinum Sacc. SPECIES
-=======
+# Coniothyrium anserinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

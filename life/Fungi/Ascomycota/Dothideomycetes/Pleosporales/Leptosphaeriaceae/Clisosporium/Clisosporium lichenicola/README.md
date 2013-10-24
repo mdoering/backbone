@@ -1,5 +1,4 @@
-Clisosporium lichenicola (P. Karst.) Kuntze SPECIES
-=======
+# Clisosporium lichenicola (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

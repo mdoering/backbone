@@ -1,5 +1,4 @@
-Phaeotrichosphaeria Sivan. GENUS
-=======
+# Phaeotrichosphaeria Sivan. GENUS
 
 #### Status
 ACCEPTED

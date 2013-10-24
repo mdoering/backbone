@@ -1,5 +1,4 @@
-Spiroloculina perforata d'Orbigny, 1839 SPECIES
-=======
+# Spiroloculina perforata d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

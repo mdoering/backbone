@@ -1,5 +1,4 @@
-Urocystis agropyri-juncei (Vienn.-Bourg.) H. Zogg SPECIES
-=======
+# Urocystis agropyri-juncei (Vienn.-Bourg.) H. Zogg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrioconium scirpicola (Rehm) Ferd. & Winge SPECIES
-=======
+# Myrioconium scirpicola (Rehm) Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

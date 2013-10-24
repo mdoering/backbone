@@ -1,5 +1,4 @@
-Nocardiopsis metallicus Schippers et al., 2002 SPECIES
-=======
+# Nocardiopsis metallicus Schippers et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

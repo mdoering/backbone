@@ -1,8 +1,7 @@
-Geaster linkii Spreng. SPECIES
-=======
+# Geastrum linkii Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster linkii Spreng.
+Geastrum linkii Spreng.
 
 ### Remarks
 null

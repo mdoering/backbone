@@ -1,5 +1,4 @@
-Planispinocyrtis GENUS
-=======
+# Planispinocyrtis GENUS
 
 #### Status
 ACCEPTED

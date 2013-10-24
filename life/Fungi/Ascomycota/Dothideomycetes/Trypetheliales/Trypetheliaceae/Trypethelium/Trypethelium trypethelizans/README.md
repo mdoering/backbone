@@ -1,5 +1,4 @@
-Trypethelium trypethelizans (Nyl.) R.C. Harris SPECIES
-=======
+# Trypethelium trypethelizans (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium thuringiacum Zschacke SPECIES
-=======
+# Thelidium thuringiacum Zschacke SPECIES
 
 #### Status
 ACCEPTED

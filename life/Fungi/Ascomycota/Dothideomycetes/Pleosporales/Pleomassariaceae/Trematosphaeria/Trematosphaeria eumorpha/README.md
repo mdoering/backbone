@@ -1,5 +1,4 @@
-Trematosphaeria eumorpha Kirschst. SPECIES
-=======
+# Trematosphaeria eumorpha Kirschst. SPECIES
 
 #### Status
 ACCEPTED

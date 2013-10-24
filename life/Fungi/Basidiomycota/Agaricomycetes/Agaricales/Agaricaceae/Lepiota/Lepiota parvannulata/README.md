@@ -1,17 +1,16 @@
-Agaricus parvannulatus var. parvannulatus VARIETY
-=======
+# Lepiota parvannulata (Lasch) Gillet, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) (1874)
 
 #### Original name
-null
+Agaricus parvannulatus Lasch, 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Atractobolus phaeotrichus (Durieu & Lév.) Kuntze SPECIES
-=======
+# Atractobolus phaeotrichus (Durieu & Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

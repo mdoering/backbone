@@ -1,5 +1,4 @@
-Phyllosticta pithecellobii var. pithecellobii VARIETY
-=======
+# Phyllosticta pithecellobii Shreem. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycologia 7(3): 145 (1915)
+Curr. Sci. 39(16): 378 (1970)
 
 #### Original name
-Phyllosticta pithecellobii var. pithecellobii
+Phyllosticta pithecellobii Shreem.
 
 ### Remarks
 null

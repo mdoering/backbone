@@ -1,5 +1,4 @@
-Uredo crepidis-japonicae Lindr. SPECIES
-=======
+# Uredo crepidis-japonicae Lindr. SPECIES
 
 #### Status
 ACCEPTED

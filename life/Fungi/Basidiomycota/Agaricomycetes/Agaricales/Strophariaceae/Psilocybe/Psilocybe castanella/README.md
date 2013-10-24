@@ -1,5 +1,4 @@
-Psilocybe castanella var. castanella Peck VARIETY
-=======
+# Psilocybe castanella Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psilocybe castanella var. castanella Peck
+Psilocybe castanella Peck
 
 ### Remarks
 null

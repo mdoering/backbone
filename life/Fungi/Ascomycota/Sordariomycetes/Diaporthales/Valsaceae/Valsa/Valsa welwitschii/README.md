@@ -1,5 +1,4 @@
-Valsa welwitschii Berk. SPECIES
-=======
+# Valsa welwitschii Berk. SPECIES
 
 #### Status
 ACCEPTED

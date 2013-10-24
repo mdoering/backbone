@@ -1,5 +1,4 @@
-Minchinia chitonis (Lankester, 1885) Labbé, 1896 SPECIES
-=======
+# Minchinia chitonis (Lankester, 1885) Labbé, 1896 SPECIES
 
 #### Status
 ACCEPTED

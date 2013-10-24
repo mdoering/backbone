@@ -1,5 +1,4 @@
-Rhodocybe cancrinella (M. Lange) E. Horak SPECIES
-=======
+# Rhodocybe cancrinella (M. Lange) E. Horak SPECIES
 
 #### Status
 ACCEPTED

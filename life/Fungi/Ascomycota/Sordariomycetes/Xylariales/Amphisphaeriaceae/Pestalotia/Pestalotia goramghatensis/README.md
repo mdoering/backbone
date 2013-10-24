@@ -1,5 +1,4 @@
-Pestalotia goramghatensis Purohit, Geholt & N.L.Vyas SPECIES
-=======
+# Pestalotia goramghatensis Purohit, Geholt & N.L.Vyas SPECIES
 
 #### Status
 ACCEPTED

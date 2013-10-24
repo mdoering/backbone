@@ -1,5 +1,4 @@
-Stagonospora sumacis Pass. SPECIES
-=======
+# Stagonospora sumacis Pass. SPECIES
 
 #### Status
 ACCEPTED

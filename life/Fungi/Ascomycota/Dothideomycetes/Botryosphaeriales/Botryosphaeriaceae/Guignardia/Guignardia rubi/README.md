@@ -1,5 +1,4 @@
-Guignardia rubi Sawada SPECIES
-=======
+# Guignardia rubi Sawada SPECIES
 
 #### Status
 ACCEPTED

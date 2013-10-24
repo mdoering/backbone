@@ -1,5 +1,4 @@
-Bulbothrix australiensis Hale SPECIES
-=======
+# Bulbothrix australiensis Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melampsora punctiformis Barclay & Dietel, 1890 SPECIES
-=======
+# Phakopsora punctiformis (Barclay & Dietel) Dietel, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 13: 333 (1895)
 
 #### Original name
 Melampsora punctiformis Barclay & Dietel, 1890

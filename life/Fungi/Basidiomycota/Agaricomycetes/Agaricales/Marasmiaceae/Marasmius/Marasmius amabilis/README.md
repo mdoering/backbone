@@ -1,5 +1,4 @@
-Marasmius amabilis Har. & Pat. SPECIES
-=======
+# Marasmius amabilis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena vibecina A. Pearson SPECIES
-=======
+# Mycena vibecina A. Pearson SPECIES
 
 #### Status
 ACCEPTED

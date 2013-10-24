@@ -1,5 +1,4 @@
-Blastenia phaea (Tuck.) Müll. Arg. SPECIES
-=======
+# Blastenia phaea (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

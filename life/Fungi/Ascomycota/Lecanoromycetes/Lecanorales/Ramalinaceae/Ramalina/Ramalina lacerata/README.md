@@ -1,5 +1,4 @@
-Ramalina lacerata Müll. Arg. SPECIES
-=======
+# Ramalina lacerata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

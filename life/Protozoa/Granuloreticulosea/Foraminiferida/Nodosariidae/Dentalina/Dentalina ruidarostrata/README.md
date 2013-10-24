@@ -1,5 +1,4 @@
-Dentalina ruidarostrata Loeblich & Tappan, 1994 SPECIES
-=======
+# Dentalina ruidarostrata Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

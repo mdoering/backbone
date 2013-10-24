@@ -1,5 +1,4 @@
-Lichen saxosus G.F. Gmel. SPECIES
-=======
+# Lichen saxosus G.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus uranius Fr., 1818 SPECIES
-=======
+# Mycena urania (Fr.) Quél., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 156 (1818)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 243 (1872)
 
 #### Original name
 Agaricus uranius Fr., 1818

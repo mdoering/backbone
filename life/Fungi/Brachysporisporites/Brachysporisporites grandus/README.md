@@ -1,5 +1,4 @@
-Brachysporisporites grandus Z.C. Song & Liu Cao SPECIES
-=======
+# Brachysporisporites grandus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

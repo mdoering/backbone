@@ -1,5 +1,4 @@
-Pyrrhoglossum stipitatum Singer, 1948 SPECIES
-=======
+# Pyrrhoglossum stipitatum Singer, 1948 SPECIES
 
 #### Status
 ACCEPTED

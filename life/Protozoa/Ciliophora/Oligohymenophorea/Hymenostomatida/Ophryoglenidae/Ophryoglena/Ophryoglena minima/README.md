@@ -1,5 +1,4 @@
-Ophryoglena minima SPECIES
-=======
+# Ophryoglena minima SPECIES
 
 #### Status
 ACCEPTED

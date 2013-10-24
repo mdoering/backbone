@@ -1,5 +1,4 @@
-Verrucaria aemula Servít SPECIES
-=======
+# Verrucaria aemula Servít SPECIES
 
 #### Status
 ACCEPTED

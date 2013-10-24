@@ -1,5 +1,4 @@
-Gonyaulaceae FAMILY
-=======
+# Gonyaulaceae FAMILY
 
 #### Status
 ACCEPTED

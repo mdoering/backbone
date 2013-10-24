@@ -1,11 +1,10 @@
-Difflugia platystoma Penard, 1890 SPECIES
-=======
+# Centropyxis platystoma (Penard, 1890) Deflandre, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

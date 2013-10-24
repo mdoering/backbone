@@ -1,5 +1,4 @@
-Coprinus vosoustii var. vosoustii VARIETY
-=======
+# Coprinus vosoustii Pilát SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Stud. Bot. Cechoslav. 5: 207 (1942)
 
 #### Original name
-Coprinus vosoustii var. vosoustii
+Coprinus vosoustii Pilát
 
 ### Remarks
 null

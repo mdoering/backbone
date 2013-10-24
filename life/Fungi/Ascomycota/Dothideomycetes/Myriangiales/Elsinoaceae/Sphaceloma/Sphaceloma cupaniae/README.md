@@ -1,5 +1,4 @@
-Sphaceloma cupaniae Bitanc. & Jenkins, 1950 SPECIES
-=======
+# Sphaceloma cupaniae Bitanc. & Jenkins, 1950 SPECIES
 
 #### Status
 ACCEPTED

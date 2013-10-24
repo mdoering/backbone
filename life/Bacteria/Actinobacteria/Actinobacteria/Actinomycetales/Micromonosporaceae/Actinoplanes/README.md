@@ -1,5 +1,4 @@
-Actinoplanes Couch GENUS
-=======
+# Actinoplanes Couch GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltula congregata (Nyl.) Swinscow & Krog SPECIES
-=======
+# Peltula congregata (Nyl.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

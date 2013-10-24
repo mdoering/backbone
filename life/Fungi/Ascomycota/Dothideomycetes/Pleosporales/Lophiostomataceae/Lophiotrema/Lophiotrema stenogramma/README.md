@@ -1,5 +1,4 @@
-Lophiotrema stenogramma (Durieu & Mont.) Sacc. SPECIES
-=======
+# Lophiotrema stenogramma (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

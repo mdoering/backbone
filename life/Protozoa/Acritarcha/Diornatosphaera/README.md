@@ -1,5 +1,4 @@
-Diornatosphaera C.Downie GENUS
-=======
+# Diornatosphaera C.Downie GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe pruni Ellis & Everh. SPECIES
-=======
+# Diaporthe pruni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

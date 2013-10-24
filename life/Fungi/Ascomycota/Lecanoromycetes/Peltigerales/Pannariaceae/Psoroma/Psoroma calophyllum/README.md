@@ -1,5 +1,4 @@
-Psoroma calophyllum Müll. Arg. SPECIES
-=======
+# Psoroma calophyllum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

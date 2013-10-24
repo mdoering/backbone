@@ -1,5 +1,4 @@
-Corticium rufum (Fr.) SPECIES
-=======
+# Corticium rufum (Fr.) SPECIES
 
 #### Status
 ACCEPTED

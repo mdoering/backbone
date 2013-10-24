@@ -1,5 +1,4 @@
-Corynophrya macropus Meunier, 1910 SPECIES
-=======
+# Corynophrya macropus Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita floridana (Murrill) Dav. T. Jenkins ex Tulloss SPECIES
-=======
+# Amanita floridana (Murrill) Dav. T. Jenkins ex Tulloss SPECIES
 
 #### Status
 ACCEPTED

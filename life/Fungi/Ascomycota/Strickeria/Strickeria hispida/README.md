@@ -1,5 +1,4 @@
-Strickeria hispida (Fuckel) G. Winter SPECIES
-=======
+# Strickeria hispida (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

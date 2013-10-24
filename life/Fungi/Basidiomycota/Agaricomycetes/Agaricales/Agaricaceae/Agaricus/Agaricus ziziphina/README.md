@@ -1,5 +1,4 @@
-Agaricus ziziphina Viv. SPECIES
-=======
+# Agaricus ziziphina Viv. SPECIES
 
 #### Status
 ACCEPTED

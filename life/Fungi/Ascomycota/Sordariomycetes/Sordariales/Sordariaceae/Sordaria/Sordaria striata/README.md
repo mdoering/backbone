@@ -1,5 +1,4 @@
-Sordaria striata Ellis & Everh. SPECIES
-=======
+# Sordaria striata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

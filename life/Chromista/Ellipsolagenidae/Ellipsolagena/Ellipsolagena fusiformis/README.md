@@ -1,5 +1,4 @@
-Ellipsolagena fusiformis Wiesner, 1931 SPECIES
-=======
+# Ellipsolagena fusiformis Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

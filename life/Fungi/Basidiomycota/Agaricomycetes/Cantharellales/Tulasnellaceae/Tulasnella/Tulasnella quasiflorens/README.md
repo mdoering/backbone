@@ -1,5 +1,4 @@
-Tulasnella quasiflorens P. Roberts, 1994 SPECIES
-=======
+# Tulasnella quasiflorens P. Roberts, 1994 SPECIES
 
 #### Status
 ACCEPTED

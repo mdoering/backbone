@@ -1,5 +1,4 @@
-Chaetozythia amylospora (P. Karst.) Höhn. SPECIES
-=======
+# Chaetozythia amylospora (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

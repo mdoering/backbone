@@ -1,5 +1,4 @@
-Hydrocybe fascicularis Velen. SPECIES
-=======
+# Hydrocybe fascicularis Velen. SPECIES
 
 #### Status
 ACCEPTED

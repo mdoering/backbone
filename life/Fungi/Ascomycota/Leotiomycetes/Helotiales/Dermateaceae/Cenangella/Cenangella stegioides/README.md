@@ -1,5 +1,4 @@
-Cenangella stegioides (Speg.) Sacc. SPECIES
-=======
+# Cenangella stegioides (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

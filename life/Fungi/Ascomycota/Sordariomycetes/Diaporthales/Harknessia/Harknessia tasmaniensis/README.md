@@ -1,5 +1,4 @@
-Harknessia tasmaniensis Z.Q. Yuan, Wardlaw & C. Mohammed SPECIES
-=======
+# Harknessia tasmaniensis Z.Q. Yuan, Wardlaw & C. Mohammed SPECIES
 
 #### Status
 ACCEPTED

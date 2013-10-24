@@ -1,5 +1,4 @@
-Mirimyces Nag Raj GENUS
-=======
+# Mirimyces Nag Raj GENUS
 
 #### Status
 ACCEPTED

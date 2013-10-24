@@ -1,5 +1,4 @@
-Sphaeria chenopodii Opiz SPECIES
-=======
+# Sphaeria chenopodii Opiz SPECIES
 
 #### Status
 ACCEPTED

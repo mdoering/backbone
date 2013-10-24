@@ -1,5 +1,4 @@
-Aecidium micropunctum Ellis & Everh. SPECIES
-=======
+# Aecidium micropunctum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

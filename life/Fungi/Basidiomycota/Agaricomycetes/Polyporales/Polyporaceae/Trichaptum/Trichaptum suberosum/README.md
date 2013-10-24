@@ -1,5 +1,4 @@
-Trichaptum suberosum Corner, 1987 SPECIES
-=======
+# Trichaptum suberosum Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

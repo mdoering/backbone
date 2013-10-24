@@ -1,5 +1,4 @@
-Didymaria cambari H. Mann & Pieplow SPECIES
-=======
+# Didymaria cambari H. Mann & Pieplow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosterigma attenuatum Petch SPECIES
-=======
+# Trichosterigma attenuatum Petch SPECIES
 
 #### Status
 ACCEPTED

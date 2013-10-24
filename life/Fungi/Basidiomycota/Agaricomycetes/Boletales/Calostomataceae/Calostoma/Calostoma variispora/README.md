@@ -1,5 +1,4 @@
-Calostoma variispora B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Calostoma variispora B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

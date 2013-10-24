@@ -1,5 +1,4 @@
-Traponora Aptroot GENUS
-=======
+# Traponora Aptroot GENUS
 
 #### Status
 ACCEPTED

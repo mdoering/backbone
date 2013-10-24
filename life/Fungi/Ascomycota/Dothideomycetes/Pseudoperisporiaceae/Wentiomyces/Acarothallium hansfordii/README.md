@@ -1,5 +1,4 @@
-Acarothallium hansfordii Syd. SPECIES
-=======
+# Acarothallium hansfordii Syd. SPECIES
 
 #### Status
 ACCEPTED

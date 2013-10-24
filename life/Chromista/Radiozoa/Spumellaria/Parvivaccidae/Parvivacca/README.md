@@ -1,5 +1,4 @@
-Parvivacca Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
-=======
+# Parvivacca Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
 
 #### Status
 ACCEPTED

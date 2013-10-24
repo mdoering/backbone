@@ -1,5 +1,4 @@
-Myxosporium plantanicola Ellis & Everh. SPECIES
-=======
+# Myxosporium plantanicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

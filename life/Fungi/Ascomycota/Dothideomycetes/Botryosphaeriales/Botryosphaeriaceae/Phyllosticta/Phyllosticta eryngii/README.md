@@ -1,5 +1,4 @@
-Phyllosticta eryngii Speg. SPECIES
-=======
+# Phyllosticta eryngii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aerococcus urinae Aguirre & Collins, 1992 SPECIES
-=======
+# Aerococcus urinae Aguirre & Collins, 1992 SPECIES
 
 #### Status
 ACCEPTED

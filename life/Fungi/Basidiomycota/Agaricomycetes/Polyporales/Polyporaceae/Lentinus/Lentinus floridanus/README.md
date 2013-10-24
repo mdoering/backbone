@@ -1,5 +1,4 @@
-Lentinus floridanus (Murrill) Murrill SPECIES
-=======
+# Lentinus floridanus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

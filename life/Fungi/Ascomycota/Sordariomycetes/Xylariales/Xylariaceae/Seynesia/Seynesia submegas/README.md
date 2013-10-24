@@ -1,5 +1,4 @@
-Seynesia submegas Henn. SPECIES
-=======
+# Seynesia submegas Henn. SPECIES
 
 #### Status
 ACCEPTED

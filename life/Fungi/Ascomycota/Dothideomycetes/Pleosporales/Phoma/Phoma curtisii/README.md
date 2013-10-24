@@ -1,5 +1,4 @@
-Phoma curtisii Sacc. SPECIES
-=======
+# Phoma curtisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ypsilon GENUS
-=======
+# Ypsilon GENUS
 
 #### Status
 ACCEPTED

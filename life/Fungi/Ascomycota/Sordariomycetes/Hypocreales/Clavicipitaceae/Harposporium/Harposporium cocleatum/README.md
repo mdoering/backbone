@@ -1,5 +1,4 @@
-Harposporium cocleatum Drechsler SPECIES
-=======
+# Harposporium cocleatum Drechsler SPECIES
 
 #### Status
 ACCEPTED

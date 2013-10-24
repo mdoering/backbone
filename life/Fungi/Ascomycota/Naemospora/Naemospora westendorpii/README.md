@@ -1,5 +1,4 @@
-Naemospora westendorpii Sacc. SPECIES
-=======
+# Naemospora westendorpii Sacc. SPECIES
 
 #### Status
 ACCEPTED

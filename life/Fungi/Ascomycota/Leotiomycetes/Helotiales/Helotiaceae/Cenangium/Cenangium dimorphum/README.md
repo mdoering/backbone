@@ -1,5 +1,4 @@
-Cenangium dimorphum (Seaver) Seaver SPECIES
-=======
+# Cenangium dimorphum (Seaver) Seaver SPECIES
 
 #### Status
 ACCEPTED

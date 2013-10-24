@@ -1,8 +1,7 @@
-Ovularia carletoni Ellis & Kellerm. SPECIES
-=======
+# Ovularia carletonii Ellis & Kellerm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ovularia carletoni Ellis & Kellerm.
+Ovularia carletonii Ellis & Kellerm.
 
 ### Remarks
 null

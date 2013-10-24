@@ -1,5 +1,4 @@
-Uncinula althaeae Zaprom. SPECIES
-=======
+# Uncinula althaeae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

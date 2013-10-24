@@ -1,5 +1,4 @@
-Hydnum albocanum Britzelm. SPECIES
-=======
+# Hydnum albocanum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

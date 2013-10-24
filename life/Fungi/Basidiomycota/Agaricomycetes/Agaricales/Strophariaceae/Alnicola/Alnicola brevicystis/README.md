@@ -1,5 +1,4 @@
-Alnicola brevicystis Métrod SPECIES
-=======
+# Alnicola brevicystis Métrod SPECIES
 
 #### Status
 ACCEPTED

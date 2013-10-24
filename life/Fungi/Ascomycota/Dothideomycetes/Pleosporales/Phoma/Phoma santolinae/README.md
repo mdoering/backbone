@@ -1,5 +1,4 @@
-Phoma santolinae var. santolinae VARIETY
-=======
+# Phoma santolinae Hollós SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma santolinae var. santolinae
+Phoma santolinae Hollós
 
 ### Remarks
 null

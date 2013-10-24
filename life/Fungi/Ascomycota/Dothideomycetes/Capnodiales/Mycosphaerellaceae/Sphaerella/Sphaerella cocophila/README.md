@@ -1,5 +1,4 @@
-Sphaerella cocophila Cooke SPECIES
-=======
+# Sphaerella cocophila Cooke SPECIES
 
 #### Status
 ACCEPTED

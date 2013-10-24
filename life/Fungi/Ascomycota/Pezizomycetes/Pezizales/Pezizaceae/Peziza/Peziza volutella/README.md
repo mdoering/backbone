@@ -1,5 +1,4 @@
-Peziza volutella Fr. SPECIES
-=======
+# Peziza volutella Fr. SPECIES
 
 #### Status
 ACCEPTED

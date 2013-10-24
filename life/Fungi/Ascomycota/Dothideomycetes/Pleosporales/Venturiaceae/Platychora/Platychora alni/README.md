@@ -1,5 +1,4 @@
-Platychora alni (Peck) Petr., 1934 SPECIES
-=======
+# Platychora alni (Peck) Petr., 1934 SPECIES
 
 #### Status
 ACCEPTED

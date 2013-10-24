@@ -1,5 +1,4 @@
-Pertusaria leucopsara Kremp. SPECIES
-=======
+# Pertusaria leucopsara Kremp. SPECIES
 
 #### Status
 ACCEPTED

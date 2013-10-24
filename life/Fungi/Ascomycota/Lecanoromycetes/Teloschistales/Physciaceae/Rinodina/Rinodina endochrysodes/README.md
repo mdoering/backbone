@@ -1,5 +1,4 @@
-Rinodina endochrysodes (Nyl.) Müll. Arg. SPECIES
-=======
+# Rinodina endochrysodes (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

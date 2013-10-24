@@ -1,5 +1,4 @@
-Diplodinis Clem. GENUS
-=======
+# Diplodinis Clem. GENUS
 
 #### Status
 ACCEPTED

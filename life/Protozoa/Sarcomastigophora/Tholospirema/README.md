@@ -1,5 +1,4 @@
-Tholospirema Haeckel, 1887 GENUS
-=======
+# Tholospirema Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

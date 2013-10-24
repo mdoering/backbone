@@ -1,5 +1,4 @@
-Coniothyrium paeoniae Montemart. SPECIES
-=======
+# Coniothyrium paeoniae Montemart. SPECIES
 
 #### Status
 ACCEPTED

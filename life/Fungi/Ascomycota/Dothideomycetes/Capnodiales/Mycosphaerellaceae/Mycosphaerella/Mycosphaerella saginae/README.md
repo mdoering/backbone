@@ -1,5 +1,4 @@
-Mycosphaerella saginae Urries SPECIES
-=======
+# Mycosphaerella saginae Urries SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia halseyana Tuck. SPECIES
-=======
+# Parmelia halseyana Tuck. SPECIES
 
 #### Status
 ACCEPTED

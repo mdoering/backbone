@@ -1,5 +1,4 @@
-Lahmia Körb. GENUS
-=======
+# Lahmia Körb. GENUS
 
 #### Status
 ACCEPTED

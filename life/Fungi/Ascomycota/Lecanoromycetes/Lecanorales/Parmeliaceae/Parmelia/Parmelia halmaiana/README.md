@@ -1,5 +1,4 @@
-Parmelia halmaiana Gyeln. SPECIES
-=======
+# Parmelia halmaiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

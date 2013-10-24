@@ -1,5 +1,4 @@
-Dichomyces anisopleurus Speg. SPECIES
-=======
+# Dichomyces anisopleurus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kirramyces J. Walker, B. Sutton & Pascoe GENUS
-=======
+# Kirramyces J. Walker, B. Sutton & Pascoe GENUS
 
 #### Status
 ACCEPTED

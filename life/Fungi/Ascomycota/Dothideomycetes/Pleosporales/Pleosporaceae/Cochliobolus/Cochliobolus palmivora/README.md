@@ -1,5 +1,4 @@
-Cochliobolus palmivora P.N. Rao & Chaudhury SPECIES
-=======
+# Cochliobolus palmivora P.N. Rao & Chaudhury SPECIES
 
 #### Status
 ACCEPTED

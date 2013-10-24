@@ -1,5 +1,4 @@
-Galerina norvegica A.H. Sm. SPECIES
-=======
+# Galerina norvegica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

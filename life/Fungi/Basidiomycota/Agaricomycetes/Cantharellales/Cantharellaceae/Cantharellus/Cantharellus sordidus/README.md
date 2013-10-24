@@ -1,5 +1,4 @@
-Cantharellus sordidus Corner SPECIES
-=======
+# Cantharellus sordidus Corner SPECIES
 
 #### Status
 ACCEPTED

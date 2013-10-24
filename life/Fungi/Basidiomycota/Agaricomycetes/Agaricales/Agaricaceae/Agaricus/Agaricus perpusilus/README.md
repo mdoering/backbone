@@ -1,5 +1,4 @@
-Agaricus perpusilus SPECIES
-=======
+# Agaricus perpusilus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Urocystis colchici f. narcissi Gonz. Frag., 1914 FORM
-=======
+# Urocystis narcissi (Gonz. Frag.) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trabajos del Museos Nacional de Ciencias Naturales, Seria Botanica 7: 22 (1914)
+Mycotaxon 48: 41 (1993)
 
 #### Original name
 Urocystis colchici f. narcissi Gonz. Frag., 1914

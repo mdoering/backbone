@@ -1,5 +1,4 @@
-Agaricus horrens Berk. SPECIES
-=======
+# Agaricus horrens Berk. SPECIES
 
 #### Status
 ACCEPTED

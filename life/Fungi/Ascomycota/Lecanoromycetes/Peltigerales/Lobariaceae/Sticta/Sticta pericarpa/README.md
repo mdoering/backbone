@@ -1,5 +1,4 @@
-Sticta pericarpa Nyl. SPECIES
-=======
+# Sticta pericarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

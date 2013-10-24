@@ -1,5 +1,4 @@
-Dermocybe flavotomentosa M.M. Moser SPECIES
-=======
+# Dermocybe flavotomentosa M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

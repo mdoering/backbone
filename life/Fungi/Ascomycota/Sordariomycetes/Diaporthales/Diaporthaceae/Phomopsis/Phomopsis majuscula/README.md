@@ -1,5 +1,4 @@
-Phomopsis majuscula Sacc. SPECIES
-=======
+# Phomopsis majuscula Sacc. SPECIES
 
 #### Status
 ACCEPTED

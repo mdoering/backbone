@@ -1,17 +1,16 @@
-Cytospora pruinosa var. pruinosa VARIETY
-=======
+# Cytospora pruinosa Défago, 1942 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 519 (1879)
+Phytopath. Z. 14: 125 (1942)
 
 #### Original name
-Cytospora pruinosa var. pruinosa
+Cytospora pruinosa Défago, 1942
 
 ### Remarks
 null

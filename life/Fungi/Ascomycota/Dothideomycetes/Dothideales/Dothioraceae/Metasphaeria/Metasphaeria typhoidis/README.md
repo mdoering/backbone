@@ -1,5 +1,4 @@
-Metasphaeria typhoidis Petr. SPECIES
-=======
+# Metasphaeria typhoidis Petr. SPECIES
 
 #### Status
 ACCEPTED

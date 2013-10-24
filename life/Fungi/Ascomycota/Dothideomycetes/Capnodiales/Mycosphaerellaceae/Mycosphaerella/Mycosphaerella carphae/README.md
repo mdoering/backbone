@@ -1,5 +1,4 @@
-Mycosphaerella carphae (Speg.) Cash SPECIES
-=======
+# Mycosphaerella carphae (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

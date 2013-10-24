@@ -1,5 +1,4 @@
-Cassythae GENUS
-=======
+# Cassythae GENUS
 
 #### Status
 ACCEPTED

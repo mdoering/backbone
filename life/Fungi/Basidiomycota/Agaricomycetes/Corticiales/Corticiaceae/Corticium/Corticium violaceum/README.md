@@ -1,5 +1,4 @@
-Corticium violaceum Bref. SPECIES
-=======
+# Corticium violaceum Bref. SPECIES
 
 #### Status
 ACCEPTED

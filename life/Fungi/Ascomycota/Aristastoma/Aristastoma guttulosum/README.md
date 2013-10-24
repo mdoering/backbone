@@ -1,5 +1,4 @@
-Aristastoma guttulosum B. Sutton SPECIES
-=======
+# Aristastoma guttulosum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

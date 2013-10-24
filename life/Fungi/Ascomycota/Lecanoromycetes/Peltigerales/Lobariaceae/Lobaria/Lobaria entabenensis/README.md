@@ -1,5 +1,4 @@
-Lobaria entabenensis Cretz. SPECIES
-=======
+# Lobaria entabenensis Cretz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracryptophiale pirozynskii W.P. Wu & B. Sutton, 2003 SPECIES
-=======
+# Paracryptophiale pirozynskii W.P. Wu & B. Sutton, 2003 SPECIES
 
 #### Status
 ACCEPTED

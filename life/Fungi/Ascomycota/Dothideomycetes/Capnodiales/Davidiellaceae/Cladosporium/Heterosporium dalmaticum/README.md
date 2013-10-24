@@ -1,5 +1,4 @@
-Heterosporium dalmaticum Jaap SPECIES
-=======
+# Heterosporium dalmaticum Jaap SPECIES
 
 #### Status
 ACCEPTED

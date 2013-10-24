@@ -1,5 +1,4 @@
-Meliola phaeocephala Cif. SPECIES
-=======
+# Meliola phaeocephala Cif. SPECIES
 
 #### Status
 ACCEPTED

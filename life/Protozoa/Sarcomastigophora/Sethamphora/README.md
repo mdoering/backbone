@@ -1,5 +1,4 @@
-Sethamphora Haeckel, 1887 GENUS
-=======
+# Sethamphora Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

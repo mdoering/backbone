@@ -1,5 +1,4 @@
-Dothichloë subnodosa (G.F. Atk.) Chardón SPECIES
-=======
+# Dothichloë subnodosa (G.F. Atk.) Chardón SPECIES
 
 #### Status
 ACCEPTED

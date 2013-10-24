@@ -1,5 +1,4 @@
-Peltigera scabrosella Holt.-Hartw. SPECIES
-=======
+# Peltigera scabrosella Holt.-Hartw. SPECIES
 
 #### Status
 ACCEPTED

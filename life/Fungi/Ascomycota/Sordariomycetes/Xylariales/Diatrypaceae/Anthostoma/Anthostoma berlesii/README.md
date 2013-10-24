@@ -1,5 +1,4 @@
-Anthostoma berlesii Sacc. & P. Syd. SPECIES
-=======
+# Anthostoma berlesii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera enterogena var. africana P. Joly VARIETY
-=======
+# Xylosphaera enterogena (Mont.) P. Joly SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylosphaera enterogena var. africana P. Joly
+Hypoxylon enterogenum Mont.
 
 ### Remarks
 null

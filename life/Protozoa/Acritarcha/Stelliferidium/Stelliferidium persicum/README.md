@@ -1,5 +1,4 @@
-Stelliferidium persicum Ghavidel-Syooki, 2000 SPECIES
-=======
+# Stelliferidium persicum Ghavidel-Syooki, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smardaea reticulosperma (Donadini, Riousset & G. Riousset) Benkert SPECIES
-=======
+# Smardaea reticulosperma (Donadini, Riousset & G. Riousset) Benkert SPECIES
 
 #### Status
 ACCEPTED

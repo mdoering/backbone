@@ -1,5 +1,4 @@
-Henningsomyces pallens (Fr.) Kuntze SPECIES
-=======
+# Henningsomyces pallens (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

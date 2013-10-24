@@ -1,5 +1,4 @@
-Schizofusa sinica Yan Yuzhong, 1982 SPECIES
-=======
+# Schizofusa sinica Yan Yuzhong, 1982 SPECIES
 
 #### Status
 ACCEPTED

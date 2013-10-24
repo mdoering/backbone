@@ -1,5 +1,4 @@
-Stephanopyxis marginata Grunow SPECIES
-=======
+# Stephanopyxis marginata Grunow SPECIES
 
 #### Status
 ACCEPTED

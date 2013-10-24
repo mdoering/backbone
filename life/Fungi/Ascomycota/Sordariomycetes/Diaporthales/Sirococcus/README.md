@@ -1,5 +1,4 @@
-Sirococcus Preuss GENUS
-=======
+# Sirococcus Preuss GENUS
 
 #### Status
 ACCEPTED

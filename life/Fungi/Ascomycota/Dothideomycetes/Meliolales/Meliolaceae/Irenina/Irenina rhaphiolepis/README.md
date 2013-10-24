@@ -1,5 +1,4 @@
-Irenina rhaphiolepis W. Yamam. SPECIES
-=======
+# Irenina rhaphiolepis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

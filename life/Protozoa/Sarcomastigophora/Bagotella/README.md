@@ -1,5 +1,4 @@
-Bagotella Tikhomirova, 1987 GENUS
-=======
+# Bagotella Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

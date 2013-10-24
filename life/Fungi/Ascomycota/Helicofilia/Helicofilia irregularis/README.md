@@ -1,14 +1,13 @@
-Helicoma irregulare P.M. Kirk, 1984 SPECIES
-=======
+# Helicofilia irregularis (P.M. Kirk) G.Z. Zhao, Xing Z. Liu & W.P. Wu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kirk & Spooner, Kew Bull. 38(4): 588 (1984)
+Fungal Diversity 26(2): 432 (2007)
 
 #### Original name
 Helicoma irregulare P.M. Kirk, 1984

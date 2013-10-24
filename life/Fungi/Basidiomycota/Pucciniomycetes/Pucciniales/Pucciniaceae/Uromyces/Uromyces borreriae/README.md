@@ -1,5 +1,4 @@
-Uromyces borreriae Henn. SPECIES
-=======
+# Uromyces borreriae Henn. SPECIES
 
 #### Status
 ACCEPTED

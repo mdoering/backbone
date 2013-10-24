@@ -1,5 +1,4 @@
-Marasmiellus violae Murrill SPECIES
-=======
+# Marasmiellus violae Murrill SPECIES
 
 #### Status
 ACCEPTED

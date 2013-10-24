@@ -1,5 +1,4 @@
-Perenniporia truncata (Lloyd) Ryvarden SPECIES
-=======
+# Perenniporia truncata (Lloyd) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

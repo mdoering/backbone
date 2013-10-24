@@ -1,5 +1,4 @@
-Sphaeria asphalatum Link & Fr. SPECIES
-=======
+# Sphaeria asphalatum Link & Fr. SPECIES
 
 #### Status
 ACCEPTED

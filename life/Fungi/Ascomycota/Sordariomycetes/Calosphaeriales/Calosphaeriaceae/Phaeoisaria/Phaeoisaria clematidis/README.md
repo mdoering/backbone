@@ -1,8 +1,7 @@
-Graphiopsis cornui Bainier, 1907 SPECIES
-=======
+# Phaeoisaria clematidis (Fuckel) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

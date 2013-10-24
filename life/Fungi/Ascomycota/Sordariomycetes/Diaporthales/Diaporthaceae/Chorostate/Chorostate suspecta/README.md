@@ -1,5 +1,4 @@
-Chorostate suspecta Sacc. SPECIES
-=======
+# Chorostate suspecta Sacc. SPECIES
 
 #### Status
 ACCEPTED

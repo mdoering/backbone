@@ -1,5 +1,4 @@
-Barbestiastra W.A.S. Sarjeant & Stancliffe, 1994 GENUS
-=======
+# Barbestiastra W.A.S. Sarjeant & Stancliffe, 1994 GENUS
 
 #### Status
 ACCEPTED

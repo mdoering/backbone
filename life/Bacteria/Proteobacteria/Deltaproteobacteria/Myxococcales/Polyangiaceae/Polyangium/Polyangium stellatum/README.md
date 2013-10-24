@@ -1,5 +1,4 @@
-Polyangium stellatum Kofler SPECIES
-=======
+# Polyangium stellatum Kofler SPECIES
 
 #### Status
 ACCEPTED

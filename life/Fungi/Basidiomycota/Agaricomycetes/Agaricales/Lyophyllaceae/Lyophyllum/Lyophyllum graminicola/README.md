@@ -1,5 +1,4 @@
-Lyophyllum graminicola (Bon) Contu SPECIES
-=======
+# Lyophyllum graminicola (Bon) Contu SPECIES
 
 #### Status
 ACCEPTED

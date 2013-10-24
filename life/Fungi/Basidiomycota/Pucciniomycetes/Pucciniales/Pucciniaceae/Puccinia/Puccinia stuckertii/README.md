@@ -1,5 +1,4 @@
-Puccinia stuckertii Speg. SPECIES
-=======
+# Puccinia stuckertii Speg. SPECIES
 
 #### Status
 ACCEPTED

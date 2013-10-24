@@ -1,17 +1,16 @@
-Inocybe vulpinella var. vulpinella VARIETY
-=======
+# Inocybe vulpinella Bruyl., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. trimest. Soc. mycol. Fr. 85: 341 (1970)
 
 #### Original name
-Inocybe vulpinella var. vulpinella
+Inocybe vulpinella Bruyl., 1970
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Corticium galzinii Bourdot, 1910 SPECIES
-=======
+# Leptosporomyces galzinii (Bourdot) Jülich, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Willdenowia, Beih. 7: 192 (1972)
 
 #### Original name
 null

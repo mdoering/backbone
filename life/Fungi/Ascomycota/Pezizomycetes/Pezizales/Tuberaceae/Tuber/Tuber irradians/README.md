@@ -1,5 +1,4 @@
-Tuber irradians Gilkey SPECIES
-=======
+# Tuber irradians Gilkey SPECIES
 
 #### Status
 ACCEPTED

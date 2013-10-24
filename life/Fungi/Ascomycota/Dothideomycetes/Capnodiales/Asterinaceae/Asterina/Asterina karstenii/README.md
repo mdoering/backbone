@@ -1,5 +1,4 @@
-Asterina karstenii Starbäck SPECIES
-=======
+# Asterina karstenii Starbäck SPECIES
 
 #### Status
 ACCEPTED

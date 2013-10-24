@@ -1,5 +1,4 @@
-Oospora pulmonalis Roger, L. Bory & Sartory SPECIES
-=======
+# Oospora pulmonalis Roger, L. Bory & Sartory SPECIES
 
 #### Status
 ACCEPTED

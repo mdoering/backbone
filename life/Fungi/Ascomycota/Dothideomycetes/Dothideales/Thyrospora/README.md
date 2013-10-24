@@ -1,5 +1,4 @@
-Thyrospora Kirschstein, 1938 GENUS
-=======
+# Thyrospora Kirschstein, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria nymani (Starbäck) Sacc. & P. Syd. SPECIES
-=======
+# Humaria nymani (Starbäck) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

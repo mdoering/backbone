@@ -1,5 +1,4 @@
-Pseudocercospora alpiniae S.Q. Chen & P.K. Chi SPECIES
-=======
+# Pseudocercospora alpiniae S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

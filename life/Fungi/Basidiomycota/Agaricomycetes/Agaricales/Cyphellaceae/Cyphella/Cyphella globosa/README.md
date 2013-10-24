@@ -1,5 +1,4 @@
-Cyphella globosa Pat. SPECIES
-=======
+# Cyphella globosa Pat. SPECIES
 
 #### Status
 ACCEPTED

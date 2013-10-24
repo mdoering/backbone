@@ -1,5 +1,4 @@
-Collemodium sahariense Flagey SPECIES
-=======
+# Collemodium sahariense Flagey SPECIES
 
 #### Status
 ACCEPTED

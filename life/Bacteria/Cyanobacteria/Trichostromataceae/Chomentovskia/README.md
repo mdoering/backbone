@@ -1,5 +1,4 @@
-Chomentovskia A.G. Vologdin, 1962 GENUS
-=======
+# Chomentovskia A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Splanchnomyces broomeanus Corda SPECIES
-=======
+# Splanchnomyces broomeanus Corda SPECIES
 
 #### Status
 ACCEPTED

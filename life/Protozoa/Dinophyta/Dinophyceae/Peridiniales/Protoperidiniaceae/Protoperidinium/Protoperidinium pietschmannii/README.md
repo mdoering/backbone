@@ -1,5 +1,4 @@
-Protoperidinium pietschmannii (Böhm, 1931) Balech, 1974 SPECIES
-=======
+# Protoperidinium pietschmannii (Böhm, 1931) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

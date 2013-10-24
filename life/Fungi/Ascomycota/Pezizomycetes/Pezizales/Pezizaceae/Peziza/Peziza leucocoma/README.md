@@ -1,5 +1,4 @@
-Peziza leucocoma Pers. SPECIES
-=======
+# Peziza leucocoma Pers. SPECIES
 
 #### Status
 ACCEPTED

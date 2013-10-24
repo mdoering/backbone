@@ -1,5 +1,4 @@
-Phoma protracta Sacc. SPECIES
-=======
+# Phoma protracta Sacc. SPECIES
 
 #### Status
 ACCEPTED

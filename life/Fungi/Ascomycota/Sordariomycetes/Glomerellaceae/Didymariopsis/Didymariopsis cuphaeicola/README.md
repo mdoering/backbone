@@ -1,5 +1,4 @@
-Didymariopsis cuphaeicola Speg. SPECIES
-=======
+# Didymariopsis cuphaeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia caricis-oederi Lehtola SPECIES
-=======
+# Cintractia caricis-oederi Lehtola SPECIES
 
 #### Status
 ACCEPTED

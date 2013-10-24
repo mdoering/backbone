@@ -1,17 +1,16 @@
-Geotrichum purpurascens var. purpurascens VARIETY
-=======
+# Sporendonema purpurascens (Bonord.) E.W. Mason & S. Hughes, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 40 (1886)
+in Wood, Nature, Lond. 179: 328 (1957)
 
 #### Original name
-Geotrichum purpurascens var. purpurascens
+Coprotrichum purpurascens Bonord., 1851
 
 ### Remarks
 null

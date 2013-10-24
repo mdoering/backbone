@@ -1,5 +1,4 @@
-Cothurnia scyphoides Dumas, 1930 SPECIES
-=======
+# Cothurnia scyphoides Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

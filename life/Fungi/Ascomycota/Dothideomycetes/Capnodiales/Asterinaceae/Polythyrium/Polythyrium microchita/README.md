@@ -1,5 +1,4 @@
-Polythyrium microchita (Syd.) R.W. Ryan SPECIES
-=======
+# Polythyrium microchita (Syd.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

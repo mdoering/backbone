@@ -1,5 +1,4 @@
-Septoria cunninghamii Syd., 1924 SPECIES
-=======
+# Septoria cunninghamii Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

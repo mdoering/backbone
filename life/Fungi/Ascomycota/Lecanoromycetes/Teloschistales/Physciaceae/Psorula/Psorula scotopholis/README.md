@@ -1,5 +1,4 @@
-Psorula scotopholis (Tuck.) Gotth. Schneid. SPECIES
-=======
+# Psorula scotopholis (Tuck.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

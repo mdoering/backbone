@@ -1,5 +1,4 @@
-Amanita verrucosa Lam. SPECIES
-=======
+# Amanita verrucosa Lam. SPECIES
 
 #### Status
 ACCEPTED

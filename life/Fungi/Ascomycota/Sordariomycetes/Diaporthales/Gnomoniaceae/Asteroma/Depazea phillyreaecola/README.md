@@ -1,5 +1,4 @@
-Depazea phillyreaecola Rabenh. SPECIES
-=======
+# Depazea phillyreaecola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

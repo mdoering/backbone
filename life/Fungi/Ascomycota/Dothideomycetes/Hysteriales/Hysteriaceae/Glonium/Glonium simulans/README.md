@@ -1,17 +1,16 @@
-Psiloglonium simulans (W.R. Gerard) E. Boehm, C.L. Schoch & Spatafora, 2009 SPECIES
-=======
+# Glonium simulans W.R. Gerard, 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 4: 78 (1873)
 
 #### Original name
-null
+Glonium simulans W.R. Gerard, 1873
 
 ### Remarks
 null

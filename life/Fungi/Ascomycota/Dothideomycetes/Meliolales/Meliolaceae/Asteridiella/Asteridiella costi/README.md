@@ -1,5 +1,4 @@
-Asteridiella costi (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella costi (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

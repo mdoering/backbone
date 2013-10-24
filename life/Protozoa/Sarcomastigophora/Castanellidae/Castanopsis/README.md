@@ -1,5 +1,4 @@
-Castanopsis Haeckel, 1887 GENUS
-=======
+# Castanopsis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Azovibrio restrictus Reinhold-Hurek & Hurek, 2000 SPECIES
-=======
+# Azovibrio restrictus Reinhold-Hurek & Hurek, 2000 SPECIES
 
 #### Status
 ACCEPTED

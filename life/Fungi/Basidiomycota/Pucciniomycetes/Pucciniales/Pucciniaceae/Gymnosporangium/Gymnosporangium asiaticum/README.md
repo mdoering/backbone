@@ -1,17 +1,16 @@
-Gymnosporangium koreaënsis H.S. Jacks. SPECIES
-=======
+# Gymnosporangium asiaticum Miyabe ex G. Yamada, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Shokubutse Byorigaku (Pl. Path) Tokyo Hakubunkwan 37(9): 304-306 (1904)
 
 #### Original name
-Gymnosporangium koreaënsis H.S. Jacks.
+Gymnosporangium asiaticum Miyabe ex G. Yamada, 1904
 
 ### Remarks
 null

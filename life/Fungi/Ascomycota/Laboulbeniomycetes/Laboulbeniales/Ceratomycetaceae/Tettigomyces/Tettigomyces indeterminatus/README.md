@@ -1,5 +1,4 @@
-Tettigomyces indeterminatus Thaxt. SPECIES
-=======
+# Tettigomyces indeterminatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

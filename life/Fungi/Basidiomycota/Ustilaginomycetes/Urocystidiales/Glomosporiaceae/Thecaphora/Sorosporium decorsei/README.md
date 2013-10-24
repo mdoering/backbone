@@ -1,5 +1,4 @@
-Sorosporium decorsei (Har. & Pat.) L. Ling SPECIES
-=======
+# Sorosporium decorsei (Har. & Pat.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

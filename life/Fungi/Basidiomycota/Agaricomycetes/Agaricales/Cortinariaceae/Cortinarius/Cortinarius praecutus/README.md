@@ -1,5 +1,4 @@
-Cortinarius praecutus Kärcher SPECIES
-=======
+# Cortinarius praecutus Kärcher SPECIES
 
 #### Status
 ACCEPTED

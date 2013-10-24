@@ -1,5 +1,4 @@
-Clisosporium laburni (Richon) Kuntze SPECIES
-=======
+# Clisosporium laburni (Richon) Kuntze SPECIES
 
 #### Status
 ACCEPTED

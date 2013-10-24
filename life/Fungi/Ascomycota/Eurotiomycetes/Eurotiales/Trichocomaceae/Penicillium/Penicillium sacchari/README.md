@@ -1,5 +1,4 @@
-Penicillium sacchari J.B. Ray SPECIES
-=======
+# Penicillium sacchari J.B. Ray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe albocinerea Singer SPECIES
-=======
+# Conocybe albocinerea Singer SPECIES
 
 #### Status
 ACCEPTED

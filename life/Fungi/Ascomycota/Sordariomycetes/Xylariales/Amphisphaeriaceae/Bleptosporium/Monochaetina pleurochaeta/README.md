@@ -1,5 +1,4 @@
-Monochaetina pleurochaeta (Speg.) Subram. SPECIES
-=======
+# Monochaetina pleurochaeta (Speg.) Subram. SPECIES
 
 #### Status
 ACCEPTED

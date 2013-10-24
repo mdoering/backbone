@@ -1,5 +1,4 @@
-Nothoravenelia atrides (Syd. & P. Syd.) Buritica SPECIES
-=======
+# Nothoravenelia atrides (Syd. & P. Syd.) Buritica SPECIES
 
 #### Status
 ACCEPTED

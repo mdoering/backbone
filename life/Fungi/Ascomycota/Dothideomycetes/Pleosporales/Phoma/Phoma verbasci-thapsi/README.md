@@ -1,5 +1,4 @@
-Phoma verbasci-thapsi Politis SPECIES
-=======
+# Phoma verbasci-thapsi Politis SPECIES
 
 #### Status
 ACCEPTED

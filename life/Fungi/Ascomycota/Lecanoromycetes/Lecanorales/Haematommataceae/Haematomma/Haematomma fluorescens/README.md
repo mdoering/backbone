@@ -1,17 +1,16 @@
-Haematomma fluorescens var. fluorescens VARIETY
-=======
+# Haematomma fluorescens Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 59: 114 (1995)
+in Staiger & Kalb, Biblthca Lichenol. 59: 114 (1995)
 
 #### Original name
-Haematomma fluorescens var. fluorescens
+Haematomma fluorescens Kalb & Staiger
 
 ### Remarks
 null

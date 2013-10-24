@@ -1,5 +1,4 @@
-Haemogregarina dakarensis Léger & Leger, 1920 SPECIES
-=======
+# Haemogregarina dakarensis Léger & Leger, 1920 SPECIES
 
 #### Status
 ACCEPTED

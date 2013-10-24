@@ -1,8 +1,7 @@
-Micromphale roriduliformis (Murrill) Dennis SPECIES
-=======
+# Micromphale roriduliforme (Murrill) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

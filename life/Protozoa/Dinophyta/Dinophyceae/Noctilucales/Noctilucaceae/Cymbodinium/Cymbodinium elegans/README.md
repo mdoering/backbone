@@ -1,5 +1,4 @@
-Cymbodinium elegans Cachon & Cachon SPECIES
-=======
+# Cymbodinium elegans Cachon & Cachon SPECIES
 
 #### Status
 ACCEPTED

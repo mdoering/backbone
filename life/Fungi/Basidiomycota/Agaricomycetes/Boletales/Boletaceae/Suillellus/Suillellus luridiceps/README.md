@@ -1,5 +1,4 @@
-Suillellus luridiceps Murrill SPECIES
-=======
+# Suillellus luridiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

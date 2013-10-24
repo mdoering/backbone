@@ -1,17 +1,16 @@
-Zygorhynchus vuilleminii agamus Namysl., 1911 INFRASPECIFIC_NAME
-=======
+# Zygorhynchus moelleri Vuill., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 19: 117 (1903)
 
 #### Original name
-null
+Zygorhynchus moelleri Vuill., 1903
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Distephanus rosae K. Perch-Nielsen SPECIES
-=======
+# Distephanus rosae K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

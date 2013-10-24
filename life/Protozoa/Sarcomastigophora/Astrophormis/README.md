@@ -1,5 +1,4 @@
-Astrophormis Haeckel, 1887 GENUS
-=======
+# Astrophormis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

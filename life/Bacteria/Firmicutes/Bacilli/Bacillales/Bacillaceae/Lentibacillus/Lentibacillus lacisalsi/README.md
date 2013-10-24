@@ -1,5 +1,4 @@
-Lentibacillus lacisalsi Lim et al., 2005 SPECIES
-=======
+# Lentibacillus lacisalsi Lim et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

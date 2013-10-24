@@ -1,5 +1,4 @@
-Phyllosticta flourensiicola Speg. SPECIES
-=======
+# Phyllosticta flourensiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

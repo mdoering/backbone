@@ -1,5 +1,4 @@
-Bankera violacea (Quél.) Pouzar SPECIES
-=======
+# Bankera violacea (Quél.) Pouzar SPECIES
 
 #### Status
 ACCEPTED

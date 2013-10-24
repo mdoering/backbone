@@ -1,5 +1,4 @@
-Marasmius testaceus Henn. SPECIES
-=======
+# Marasmius testaceus Henn. SPECIES
 
 #### Status
 ACCEPTED

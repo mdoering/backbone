@@ -1,5 +1,4 @@
-Sistotrema spathulatum Schwein. SPECIES
-=======
+# Sistotrema spathulatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

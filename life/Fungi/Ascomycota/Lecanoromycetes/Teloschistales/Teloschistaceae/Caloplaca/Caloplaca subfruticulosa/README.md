@@ -1,5 +1,4 @@
-Caloplaca subfruticulosa (Elenkin) Zahlbr. SPECIES
-=======
+# Caloplaca subfruticulosa (Elenkin) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

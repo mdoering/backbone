@@ -1,5 +1,4 @@
-Rhabdospora crambes Petr. SPECIES
-=======
+# Rhabdospora crambes Petr. SPECIES
 
 #### Status
 ACCEPTED

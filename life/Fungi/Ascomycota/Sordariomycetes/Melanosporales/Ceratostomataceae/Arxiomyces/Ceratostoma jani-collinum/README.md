@@ -1,5 +1,4 @@
-Ceratostoma jani-collinum Sacc. & Speg. SPECIES
-=======
+# Ceratostoma jani-collinum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

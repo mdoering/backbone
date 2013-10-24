@@ -1,5 +1,4 @@
-Saporlegnia GENUS
-=======
+# Saporlegnia GENUS
 
 #### Status
 ACCEPTED

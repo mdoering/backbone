@@ -1,5 +1,4 @@
-Leptomitus ceratophylli (Bory) C. Agardh SPECIES
-=======
+# Leptomitus ceratophylli (Bory) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia macra Arthur & Holw. SPECIES
-=======
+# Puccinia macra Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

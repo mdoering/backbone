@@ -1,5 +1,4 @@
-Uredo musae Cummins, 1941 SPECIES
-=======
+# Uredo musae Cummins, 1941 SPECIES
 
 #### Status
 ACCEPTED

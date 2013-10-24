@@ -1,5 +1,4 @@
-Allomyces attomyces S.N. Dasgupta SPECIES
-=======
+# Allomyces attomyces S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

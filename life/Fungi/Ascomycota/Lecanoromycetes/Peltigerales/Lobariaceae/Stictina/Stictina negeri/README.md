@@ -1,5 +1,4 @@
-Stictina negeri (Vain.) Darb. SPECIES
-=======
+# Stictina negeri (Vain.) Darb. SPECIES
 
 #### Status
 ACCEPTED

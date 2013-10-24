@@ -1,17 +1,16 @@
-Corticium niphodes Pat., 1915 SPECIES
-=======
+# Hypochnicium punctulatum (Cooke) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 101 (1958)
 
 #### Original name
-null
+Corticium punctulatum Cooke, 1878
 
 ### Remarks
 null

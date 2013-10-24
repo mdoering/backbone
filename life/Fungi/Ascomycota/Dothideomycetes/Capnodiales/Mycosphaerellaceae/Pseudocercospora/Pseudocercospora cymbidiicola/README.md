@@ -1,5 +1,4 @@
-Pseudocercospora cymbidiicola U. Braun & C.F. Hill, 2002 SPECIES
-=======
+# Pseudocercospora cymbidiicola U. Braun & C.F. Hill, 2002 SPECIES
 
 #### Status
 ACCEPTED

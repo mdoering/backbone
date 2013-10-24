@@ -1,17 +1,16 @@
-Sarcodon armeniacus Maas Geest., 1963 SPECIES
-=======
+# Sarcodon martioflavus (Snell, K.A. Harrison & H.A.C. Jacks.) Maas Geest., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nytt Mag. Bot. 10: 169 (1963)
+Persoonia 3(2): 164 (1964)
 
 #### Original name
-Sarcodon armeniacus Maas Geest., 1963
+Hydnum martioflavum Snell, K.A. Harrison & H.A.C. Jacks., 1962
 
 ### Remarks
 null

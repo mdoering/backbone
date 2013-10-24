@@ -1,5 +1,4 @@
-Placodium bracteatum (Hoffm.) Nyl. SPECIES
-=======
+# Placodium bracteatum (Hoffm.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

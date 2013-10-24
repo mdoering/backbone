@@ -1,5 +1,4 @@
-Cortinarius xantholamellatus Bidaud SPECIES
-=======
+# Cortinarius xantholamellatus Bidaud SPECIES
 
 #### Status
 ACCEPTED

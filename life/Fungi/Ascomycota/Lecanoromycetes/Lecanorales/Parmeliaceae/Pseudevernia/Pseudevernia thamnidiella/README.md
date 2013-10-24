@@ -1,5 +1,4 @@
-Pseudevernia thamnidiella (Stirt.) C.W. Dodge SPECIES
-=======
+# Pseudevernia thamnidiella (Stirt.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

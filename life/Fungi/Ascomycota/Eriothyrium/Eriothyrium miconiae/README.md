@@ -1,5 +1,4 @@
-Eriothyrium miconiae M.L. Farr SPECIES
-=======
+# Eriothyrium miconiae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

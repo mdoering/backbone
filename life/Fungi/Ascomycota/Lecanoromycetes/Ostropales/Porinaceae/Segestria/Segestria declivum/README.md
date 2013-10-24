@@ -1,5 +1,4 @@
-Segestria declivum (Bagl. & Carestia) Dalla Torre & Sarnth. SPECIES
-=======
+# Segestria declivum (Bagl. & Carestia) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

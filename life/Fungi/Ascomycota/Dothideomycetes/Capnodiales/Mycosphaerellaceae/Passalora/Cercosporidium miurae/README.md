@@ -1,14 +1,13 @@
-Cercosporidium miwrae (Syd. & P. Syd.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercosporidium miurae (Syd. & P. Syd.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 1(2): 98 (1982)
 
 #### Original name
 Cercospora miurae Syd. & P. Syd.

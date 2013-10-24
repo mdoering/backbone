@@ -1,5 +1,4 @@
-Cortinarius glutinosus Peck SPECIES
-=======
+# Cortinarius glutinosus Peck SPECIES
 
 #### Status
 ACCEPTED

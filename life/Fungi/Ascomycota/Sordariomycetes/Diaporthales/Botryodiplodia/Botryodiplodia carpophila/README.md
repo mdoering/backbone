@@ -1,5 +1,4 @@
-Botryodiplodia carpophila Petr. SPECIES
-=======
+# Botryodiplodia carpophila Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria conicopapillata (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Naucoria conicopapillata (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

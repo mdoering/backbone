@@ -1,5 +1,4 @@
-Colletotrichum helianthi Davis SPECIES
-=======
+# Colletotrichum helianthi Davis SPECIES
 
 #### Status
 ACCEPTED

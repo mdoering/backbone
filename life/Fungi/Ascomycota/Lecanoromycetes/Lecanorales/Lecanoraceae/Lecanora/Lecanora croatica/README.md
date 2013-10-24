@@ -1,5 +1,4 @@
-Lecanora croatica Szatala SPECIES
-=======
+# Lecanora croatica Szatala SPECIES
 
 #### Status
 ACCEPTED

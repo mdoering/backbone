@@ -1,5 +1,4 @@
-Heterodermia spinulosa (Kurok.) Trass SPECIES
-=======
+# Heterodermia spinulosa (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

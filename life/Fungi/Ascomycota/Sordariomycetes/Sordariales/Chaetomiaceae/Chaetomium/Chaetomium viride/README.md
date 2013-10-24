@@ -1,5 +1,4 @@
-Chaetomium viride Lév. SPECIES
-=======
+# Chaetomium viride Lév. SPECIES
 
 #### Status
 ACCEPTED

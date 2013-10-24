@@ -1,5 +1,4 @@
-Albuginales Thines ORDER
-=======
+# Albuginales Thines ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium tabacinum Ellis & Everh. SPECIES
-=======
+# Sporidesmium tabacinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

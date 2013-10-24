@@ -1,5 +1,4 @@
-Streblacantha circumtexta (Joergensen, 1900) SPECIES
-=======
+# Streblacantha circumtexta (Joergensen, 1900) SPECIES
 
 #### Status
 ACCEPTED

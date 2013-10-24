@@ -1,5 +1,4 @@
-Adelosina inconstans (Terquem, 1878) SPECIES
-=======
+# Adelosina inconstans (Terquem, 1878) SPECIES
 
 #### Status
 ACCEPTED

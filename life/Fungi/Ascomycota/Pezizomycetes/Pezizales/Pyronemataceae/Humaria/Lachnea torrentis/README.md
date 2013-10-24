@@ -1,5 +1,4 @@
-Lachnea torrentis Rehm SPECIES
-=======
+# Lachnea torrentis Rehm SPECIES
 
 #### Status
 ACCEPTED

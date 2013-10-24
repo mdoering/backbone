@@ -1,5 +1,4 @@
-Hymenula megarrhizae Cooke & Harkn. SPECIES
-=======
+# Hymenula megarrhizae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

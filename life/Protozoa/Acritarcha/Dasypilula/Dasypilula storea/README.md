@@ -1,5 +1,4 @@
-Dasypilula storea Wicander & Loeblich, 1977 SPECIES
-=======
+# Dasypilula storea Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

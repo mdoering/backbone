@@ -1,5 +1,4 @@
-Catillaria subintermixta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria subintermixta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

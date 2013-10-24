@@ -1,5 +1,4 @@
-Cortinarius sporadicus Britzelm. SPECIES
-=======
+# Cortinarius sporadicus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

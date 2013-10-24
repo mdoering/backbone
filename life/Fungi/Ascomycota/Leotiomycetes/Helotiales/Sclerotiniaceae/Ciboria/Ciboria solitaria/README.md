@@ -1,5 +1,4 @@
-Ciboria solitaria Rehm SPECIES
-=======
+# Ciboria solitaria Rehm SPECIES
 
 #### Status
 ACCEPTED

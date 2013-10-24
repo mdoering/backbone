@@ -1,17 +1,16 @@
-Cortinarius bataillei var. bataillei VARIETY
-=======
+# Cortinarius bataillei J. Favre, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ergebn. wiss. Unters. schweiz. NatnParks, N. S. 515 (1960)
 
 #### Original name
-Cortinarius bataillei var. bataillei
+Cortinarius bataillei J. Favre, 1960
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mucor limpidus Bainier SPECIES
-=======
+# Mucor limpidus Bainier SPECIES
 
 #### Status
 ACCEPTED

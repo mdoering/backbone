@@ -1,5 +1,4 @@
-Verrucaria holopolia Nyl. SPECIES
-=======
+# Verrucaria holopolia Nyl. SPECIES
 
 #### Status
 ACCEPTED

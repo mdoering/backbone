@@ -1,5 +1,4 @@
-Acrostalagmus galeoides A.L. Sm., 1907 SPECIES
-=======
+# Acrostalagmus galeoides A.L. Sm., 1907 SPECIES
 
 #### Status
 ACCEPTED

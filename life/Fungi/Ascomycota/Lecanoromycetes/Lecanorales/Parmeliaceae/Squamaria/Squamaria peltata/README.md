@@ -1,5 +1,4 @@
-Squamaria peltata var. peltata VARIETY
-=======
+# Squamaria peltata Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria peltata var. peltata
+Squamaria peltata Lam. & DC.
 
 ### Remarks
 null

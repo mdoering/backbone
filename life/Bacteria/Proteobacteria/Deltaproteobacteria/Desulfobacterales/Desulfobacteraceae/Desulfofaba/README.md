@@ -1,5 +1,4 @@
-Desulfofaba Knoblauch et al., 1999 GENUS
-=======
+# Desulfofaba Knoblauch et al., 1999 GENUS
 
 #### Status
 ACCEPTED

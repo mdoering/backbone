@@ -1,17 +1,16 @@
-Stirtonia sprucei R. Sant. SPECIES
-=======
+# Amazonomyces sprucei (R. Sant.) Lücking, Sérus. & G. Thor. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lücking, Sérusiaux, Maia & Pereira, Lichenologist 30(2): 134 (1998)
 
 #### Original name
-null
+Stirtonia sprucei R. Sant.
 
 ### Remarks
 null

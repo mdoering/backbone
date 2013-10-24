@@ -1,5 +1,4 @@
-Patellaria loranthi Henn. SPECIES
-=======
+# Patellaria loranthi Henn. SPECIES
 
 #### Status
 ACCEPTED

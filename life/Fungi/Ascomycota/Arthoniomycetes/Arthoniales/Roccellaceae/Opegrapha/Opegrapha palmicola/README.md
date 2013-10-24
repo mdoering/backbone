@@ -1,5 +1,4 @@
-Opegrapha palmicola Müll. Arg. SPECIES
-=======
+# Opegrapha palmicola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

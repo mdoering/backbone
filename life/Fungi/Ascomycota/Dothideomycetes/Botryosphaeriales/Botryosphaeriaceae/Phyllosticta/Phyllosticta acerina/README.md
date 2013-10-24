@@ -1,5 +1,4 @@
-Phyllosticta acerina Allesch. SPECIES
-=======
+# Phyllosticta acerina Allesch. SPECIES
 
 #### Status
 ACCEPTED

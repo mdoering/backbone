@@ -1,8 +1,7 @@
-Verticillium graphii Harz & Bezold, 1889 SPECIES
-=======
+# Glenospora graphii (Harz & Bezold) Vuill., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

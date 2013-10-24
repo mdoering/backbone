@@ -1,17 +1,16 @@
-Polystictus flabelliformis var. flabelliformis VARIETY
-=======
+# Microporus affinis (Blume & T. Nees) Kuntze, 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 74 (1851)
+Revis. gen. pl. (Leipzig) 3(2): 494 (1898)
 
 #### Original name
-Polystictus flabelliformis var. flabelliformis
+Polyporus affinis Blume & T. Nees, 1826
 
 ### Remarks
 null

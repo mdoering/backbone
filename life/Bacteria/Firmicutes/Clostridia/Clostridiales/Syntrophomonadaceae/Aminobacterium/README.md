@@ -1,5 +1,4 @@
-Aminobacterium Baena, Fardeau, Labat, Ollivier, Thomas, Garcia & Patel, 1999 GENUS
-=======
+# Aminobacterium Baena, Fardeau, Labat, Ollivier, Thomas, Garcia & Patel, 1999 GENUS
 
 #### Status
 ACCEPTED

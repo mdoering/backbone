@@ -1,5 +1,4 @@
-Kanousea megalospora (Petr. & Cif.) Bat. & Cif. SPECIES
-=======
+# Kanousea megalospora (Petr. & Cif.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

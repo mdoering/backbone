@@ -1,5 +1,4 @@
-Ectostroma populina Naumov SPECIES
-=======
+# Ectostroma populina Naumov SPECIES
 
 #### Status
 ACCEPTED

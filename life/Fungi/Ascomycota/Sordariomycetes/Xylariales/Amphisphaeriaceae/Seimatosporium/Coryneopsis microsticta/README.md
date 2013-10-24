@@ -1,5 +1,4 @@
-Coryneopsis microsticta Grove, 1932 SPECIES
-=======
+# Coryneopsis microsticta Grove, 1932 SPECIES
 
 #### Status
 ACCEPTED

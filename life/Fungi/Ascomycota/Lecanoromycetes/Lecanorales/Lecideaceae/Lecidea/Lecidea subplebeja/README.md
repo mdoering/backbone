@@ -1,5 +1,4 @@
-Lecidea subplebeja Vain. SPECIES
-=======
+# Lecidea subplebeja Vain. SPECIES
 
 #### Status
 ACCEPTED

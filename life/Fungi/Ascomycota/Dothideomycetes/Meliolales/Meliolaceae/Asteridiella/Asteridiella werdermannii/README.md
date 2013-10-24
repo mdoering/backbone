@@ -1,5 +1,4 @@
-Asteridiella werdermannii (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella werdermannii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina juglandis J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Diplodina juglandis J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

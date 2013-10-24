@@ -1,5 +1,4 @@
-Bovista cisneroi Speg. SPECIES
-=======
+# Bovista cisneroi Speg. SPECIES
 
 #### Status
 ACCEPTED

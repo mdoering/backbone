@@ -1,5 +1,4 @@
-Massilia lutea Zhang et al., 2006 SPECIES
-=======
+# Massilia lutea Zhang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

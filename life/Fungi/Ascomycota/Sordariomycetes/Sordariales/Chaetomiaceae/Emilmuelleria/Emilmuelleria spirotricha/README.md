@@ -1,14 +1,13 @@
-Kernia spirotricha (R.K. Benj.) R.K. Benj., 1956 SPECIES
-=======
+# Emilmuelleria spirotricha (R.K. Benj.) Arx, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aliso 3: 344 (1956)
+Sydowia 38: 6 (1986)
 
 #### Original name
 Magnusia spirotricha R.K. Benj., 1955

@@ -1,5 +1,4 @@
-Laevidentalina antarctica (Parr, 1950) SPECIES
-=======
+# Laevidentalina antarctica (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

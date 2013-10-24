@@ -1,17 +1,16 @@
-Lophorhynchus Schneider, 1882 GENUS
-=======
+# Lophocephalus Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Arch. Zool. exp. gén. Paris, 10, 435.
+Tierreich, 5, 31.
 
 #### Original name
-null
+Lophorhynchus Schneider, 1882
 
 ### Remarks
 null

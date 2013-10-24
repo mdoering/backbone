@@ -1,17 +1,16 @@
-Ciboriopsis brunii A.K. Kar & K.P. Pal SPECIES
-=======
+# Ciboriopsis brunea A.K. Kar & K.P. Pal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 62(4): 685 (1970)
 
 #### Original name
-Ciboriopsis brunii A.K. Kar & K.P. Pal
+Ciboriopsis brunea A.K. Kar & K.P. Pal
 
 ### Remarks
 null

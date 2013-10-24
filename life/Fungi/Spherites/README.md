@@ -1,5 +1,4 @@
-Spherites Dijkstra GENUS
-=======
+# Spherites Dijkstra GENUS
 
 #### Status
 ACCEPTED

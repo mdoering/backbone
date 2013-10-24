@@ -1,5 +1,4 @@
-Didymella oligospora Sacc. SPECIES
-=======
+# Didymella oligospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

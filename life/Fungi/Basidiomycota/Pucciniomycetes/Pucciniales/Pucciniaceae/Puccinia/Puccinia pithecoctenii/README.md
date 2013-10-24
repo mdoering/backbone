@@ -1,5 +1,4 @@
-Puccinia pithecoctenii Pazschke SPECIES
-=======
+# Puccinia pithecoctenii Pazschke SPECIES
 
 #### Status
 ACCEPTED

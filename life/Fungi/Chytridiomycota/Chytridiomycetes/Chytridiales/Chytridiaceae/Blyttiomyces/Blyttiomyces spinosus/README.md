@@ -1,5 +1,4 @@
-Blyttiomyces spinosus S.N. Dasgupta & R. John SPECIES
-=======
+# Blyttiomyces spinosus S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

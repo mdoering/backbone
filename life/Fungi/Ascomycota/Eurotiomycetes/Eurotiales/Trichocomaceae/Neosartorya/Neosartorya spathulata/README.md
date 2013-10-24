@@ -1,5 +1,4 @@
-Neosartorya spathulata Takada & Udagawa, 1985 SPECIES
-=======
+# Neosartorya spathulata Takada & Udagawa, 1985 SPECIES
 
 #### Status
 ACCEPTED

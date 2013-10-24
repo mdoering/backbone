@@ -1,5 +1,4 @@
-Phyllopsora haemophaea (Nyl.) Müll. Arg. SPECIES
-=======
+# Phyllopsora haemophaea (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

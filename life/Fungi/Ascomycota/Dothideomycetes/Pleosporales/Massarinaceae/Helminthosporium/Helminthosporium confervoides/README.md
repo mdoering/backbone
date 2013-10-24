@@ -1,17 +1,16 @@
-Helmisporium confervoides Corda SPECIES
-=======
+# Helminthosporium confervoides Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 14 (1837)
 
 #### Original name
-Helmisporium confervoides Corda
+Helminthosporium confervoides Corda
 
 ### Remarks
 null

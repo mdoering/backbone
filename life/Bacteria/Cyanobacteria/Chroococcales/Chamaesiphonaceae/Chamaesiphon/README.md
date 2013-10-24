@@ -1,14 +1,13 @@
-Hyellococcus W. Schmidle, 1905 GENUS
-=======
+# Chamaesiphon A. Braun & Grunow, 1726 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Allg. Bot. Ztschr. 11: 64.
+In L. Rabenhorst, Algen Eur. Decaden 72/73: 1726.
 
 #### Original name
 null

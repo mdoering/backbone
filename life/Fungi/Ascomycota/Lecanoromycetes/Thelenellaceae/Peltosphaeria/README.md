@@ -1,5 +1,4 @@
-Peltosphaeria GENUS
-=======
+# Peltosphaeria GENUS
 
 #### Status
 ACCEPTED

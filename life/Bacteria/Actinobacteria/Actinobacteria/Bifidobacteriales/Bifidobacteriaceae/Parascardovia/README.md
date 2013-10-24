@@ -1,5 +1,4 @@
-Parascardovia Jian & Dong, 2002 GENUS
-=======
+# Parascardovia Jian & Dong, 2002 GENUS
 
 #### Status
 ACCEPTED

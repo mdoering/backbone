@@ -1,5 +1,4 @@
-Alphitomorpha divaricata Wallr. SPECIES
-=======
+# Alphitomorpha divaricata Wallr. SPECIES
 
 #### Status
 ACCEPTED

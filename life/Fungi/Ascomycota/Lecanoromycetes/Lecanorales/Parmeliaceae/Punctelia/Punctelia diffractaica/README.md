@@ -1,5 +1,4 @@
-Punctelia diffractaica Kurok. SPECIES
-=======
+# Punctelia diffractaica Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella fici (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella fici (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

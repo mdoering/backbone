@@ -1,5 +1,4 @@
-Inopilus kamerunensis (Bres.) Pegler SPECIES
-=======
+# Inopilus kamerunensis (Bres.) Pegler SPECIES
 
 #### Status
 ACCEPTED

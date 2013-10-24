@@ -1,5 +1,4 @@
-Palaeohystrichophora isodiametrica Cookson & Eisenack SPECIES
-=======
+# Palaeohystrichophora isodiametrica Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

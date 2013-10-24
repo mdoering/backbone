@@ -1,5 +1,4 @@
-Leptogium leptophyllinum (Meyen & Flot.) Zahlbr. SPECIES
-=======
+# Leptogium leptophyllinum (Meyen & Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

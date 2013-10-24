@@ -1,5 +1,4 @@
-Mallomonas rasilis Dürrschm. SPECIES
-=======
+# Mallomonas rasilis Dürrschm. SPECIES
 
 #### Status
 ACCEPTED

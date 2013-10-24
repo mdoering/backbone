@@ -1,5 +1,4 @@
-Physalospora physciae P. Karst. SPECIES
-=======
+# Physalospora physciae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

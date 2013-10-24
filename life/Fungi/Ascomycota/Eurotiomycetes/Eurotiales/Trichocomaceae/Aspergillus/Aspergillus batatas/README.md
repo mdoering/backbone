@@ -1,17 +1,16 @@
-Aspergillus batatae Saito SPECIES
-=======
+# Aspergillus batatas Saito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 18: 34 (1907)
 
 #### Original name
-Aspergillus batatae Saito
+Aspergillus batatas Saito
 
 ### Remarks
 null

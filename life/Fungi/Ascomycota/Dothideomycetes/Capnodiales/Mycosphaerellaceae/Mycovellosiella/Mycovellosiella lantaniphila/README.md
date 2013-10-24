@@ -1,5 +1,4 @@
-Mycovellosiella lantaniphila Crous & M.J. Morris SPECIES
-=======
+# Mycovellosiella lantaniphila Crous & M.J. Morris SPECIES
 
 #### Status
 ACCEPTED

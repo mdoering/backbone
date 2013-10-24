@@ -1,5 +1,4 @@
-Lembidium macrocarpum (Körb.) Hampe SPECIES
-=======
+# Lembidium macrocarpum (Körb.) Hampe SPECIES
 
 #### Status
 ACCEPTED

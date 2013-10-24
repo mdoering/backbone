@@ -1,5 +1,4 @@
-Pseudolecanactis filicicola Zahlbr. SPECIES
-=======
+# Pseudolecanactis filicicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

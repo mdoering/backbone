@@ -1,5 +1,4 @@
-Sticta carpoloma var. carpoloma VARIETY
-=======
+# Sticta carpoloma SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta carpoloma var. carpoloma
+null
 
 ### Remarks
 null

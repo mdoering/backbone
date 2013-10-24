@@ -1,5 +1,4 @@
-Verrucaria delita Nyl. SPECIES
-=======
+# Verrucaria delita Nyl. SPECIES
 
 #### Status
 ACCEPTED

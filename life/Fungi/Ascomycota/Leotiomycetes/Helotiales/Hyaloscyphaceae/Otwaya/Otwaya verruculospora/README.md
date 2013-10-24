@@ -1,5 +1,4 @@
-Otwaya verruculospora G.W. Beaton, 1978 SPECIES
-=======
+# Otwaya verruculospora G.W. Beaton, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta arctostaphyli (Vestergr.) Allesch. SPECIES
-=======
+# Phyllosticta arctostaphyli (Vestergr.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

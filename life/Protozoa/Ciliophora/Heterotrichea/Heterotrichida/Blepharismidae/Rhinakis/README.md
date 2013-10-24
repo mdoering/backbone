@@ -1,5 +1,4 @@
-Rhinakis Iftode, Fryd-Versavel & Deroux in Deroux, 1994 GENUS
-=======
+# Rhinakis Iftode, Fryd-Versavel & Deroux in Deroux, 1994 GENUS
 
 #### Status
 ACCEPTED

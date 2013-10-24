@@ -1,5 +1,4 @@
-Puccinia lyngbyei Miura SPECIES
-=======
+# Puccinia lyngbyei Miura SPECIES
 
 #### Status
 ACCEPTED

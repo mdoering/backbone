@@ -1,5 +1,4 @@
-Uredo newbouldiae Vienn.-Bourg. SPECIES
-=======
+# Uredo newbouldiae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

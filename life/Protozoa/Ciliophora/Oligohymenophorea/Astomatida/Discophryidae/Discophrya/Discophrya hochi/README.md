@@ -1,5 +1,4 @@
-Discophrya hochi Matthes, 1954 SPECIES
-=======
+# Discophrya hochi Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

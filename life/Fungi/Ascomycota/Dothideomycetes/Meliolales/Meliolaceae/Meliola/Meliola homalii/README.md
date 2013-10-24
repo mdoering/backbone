@@ -1,5 +1,4 @@
-Meliola homalii Hansf. SPECIES
-=======
+# Meliola homalii Hansf. SPECIES
 
 #### Status
 ACCEPTED

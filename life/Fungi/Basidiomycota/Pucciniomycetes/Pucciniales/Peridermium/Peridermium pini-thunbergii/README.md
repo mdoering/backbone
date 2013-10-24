@@ -1,5 +1,4 @@
-Peridermium pini-thunbergii Dietel SPECIES
-=======
+# Peridermium pini-thunbergii Dietel SPECIES
 
 #### Status
 ACCEPTED

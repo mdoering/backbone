@@ -1,5 +1,4 @@
-Platycarpium weirianum (Sacc.) Petr. SPECIES
-=======
+# Platycarpium weirianum (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

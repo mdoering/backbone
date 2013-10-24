@@ -1,5 +1,4 @@
-Schroeteria banatica Vánky, 1981 SPECIES
-=======
+# Schroeteria banatica Vánky, 1981 SPECIES
 
 #### Status
 ACCEPTED

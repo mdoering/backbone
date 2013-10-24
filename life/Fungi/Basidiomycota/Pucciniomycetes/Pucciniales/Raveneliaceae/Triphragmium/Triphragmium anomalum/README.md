@@ -1,5 +1,4 @@
-Triphragmium anomalum Tranzschel SPECIES
-=======
+# Triphragmium anomalum Tranzschel SPECIES
 
 #### Status
 ACCEPTED

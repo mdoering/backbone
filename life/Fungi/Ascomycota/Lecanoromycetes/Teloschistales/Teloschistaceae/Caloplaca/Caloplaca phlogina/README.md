@@ -1,5 +1,4 @@
-Caloplaca phlogina f. phlogina FORM
-=======
+# Caloplaca phlogina (Ach.) Flagey SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. Soc. d'Emulat. Doubs 250 (1886)
 
 #### Original name
 Parmelia citrina var. phlogina Ach.

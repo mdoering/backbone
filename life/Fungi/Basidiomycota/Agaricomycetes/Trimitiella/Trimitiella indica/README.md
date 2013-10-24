@@ -1,5 +1,4 @@
-Trimitiella indica Dhingra, 2008 SPECIES
-=======
+# Trimitiella indica Dhingra, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium vignae Cooke SPECIES
-=======
+# Aecidium vignae Cooke SPECIES
 
 #### Status
 ACCEPTED

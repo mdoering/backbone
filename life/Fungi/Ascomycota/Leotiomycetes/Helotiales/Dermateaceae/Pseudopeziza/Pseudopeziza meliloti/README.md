@@ -1,5 +1,4 @@
-Pseudopeziza meliloti Syd. SPECIES
-=======
+# Pseudopeziza meliloti Syd. SPECIES
 
 #### Status
 ACCEPTED

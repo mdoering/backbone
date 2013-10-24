@@ -1,5 +1,4 @@
-Stempellia muelleri SPECIES
-=======
+# Stempellia muelleri SPECIES
 
 #### Status
 ACCEPTED

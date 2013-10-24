@@ -1,5 +1,4 @@
-Lichen fistulosus Lam. SPECIES
-=======
+# Lichen fistulosus Lam. SPECIES
 
 #### Status
 ACCEPTED

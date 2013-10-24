@@ -1,5 +1,4 @@
-Arcyria papilla Ejale & L.S.Gill, 1992 SPECIES
-=======
+# Arcyria papilla Ejale & L.S.Gill, 1992 SPECIES
 
 #### Status
 ACCEPTED

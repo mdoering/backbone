@@ -1,5 +1,4 @@
-Puccinia cundinamarcensis Mayor SPECIES
-=======
+# Puccinia cundinamarcensis Mayor SPECIES
 
 #### Status
 ACCEPTED

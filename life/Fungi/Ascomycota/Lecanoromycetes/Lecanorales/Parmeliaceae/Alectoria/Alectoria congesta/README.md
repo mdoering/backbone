@@ -1,5 +1,4 @@
-Alectoria congesta (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Alectoria congesta (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triscutum beaminsterensis SPECIES
-=======
+# Triscutum beaminsterensis SPECIES
 
 #### Status
 ACCEPTED

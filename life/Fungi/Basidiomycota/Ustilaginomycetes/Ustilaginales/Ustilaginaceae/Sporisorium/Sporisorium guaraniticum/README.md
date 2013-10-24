@@ -1,5 +1,4 @@
-Sporisorium guaraniticum (Speg.) Vánky SPECIES
-=======
+# Sporisorium guaraniticum (Speg.) Vánky SPECIES
 
 #### Status
 ACCEPTED

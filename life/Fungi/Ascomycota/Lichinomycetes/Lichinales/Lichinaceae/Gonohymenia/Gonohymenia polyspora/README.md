@@ -1,5 +1,4 @@
-Gonohymenia polyspora (H. Magn.) Henssen SPECIES
-=======
+# Gonohymenia polyspora (H. Magn.) Henssen SPECIES
 
 #### Status
 ACCEPTED

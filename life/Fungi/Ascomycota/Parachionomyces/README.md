@@ -1,17 +1,16 @@
-Parachinomyces Thaung GENUS
-=======
+# Parachionomyces Thaung GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 72(2): 333 (1979)
 
 #### Original name
-Parachinomyces Thaung
+Parachionomyces Thaung
 
 ### Remarks
 null

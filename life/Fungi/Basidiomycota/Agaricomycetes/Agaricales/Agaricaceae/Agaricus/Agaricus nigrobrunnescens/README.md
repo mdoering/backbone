@@ -1,5 +1,4 @@
-Agaricus nigrobrunnescens K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus nigrobrunnescens K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella delicatula Hustedt SPECIES
-=======
+# Cyclotella delicatula Hustedt SPECIES
 
 #### Status
 ACCEPTED

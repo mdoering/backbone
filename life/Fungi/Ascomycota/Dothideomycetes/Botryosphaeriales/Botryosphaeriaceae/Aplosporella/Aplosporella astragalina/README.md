@@ -1,5 +1,4 @@
-Aplosporella astragalina S. Ahmad SPECIES
-=======
+# Aplosporella astragalina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

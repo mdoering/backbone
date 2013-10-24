@@ -1,5 +1,4 @@
-Physcia pseudospeciosa J. W. Thomson SPECIES
-=======
+# Physcia pseudospeciosa J. W. Thomson SPECIES
 
 #### Status
 ACCEPTED

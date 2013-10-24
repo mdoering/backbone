@@ -1,5 +1,4 @@
-Cercospora cynanchi Lobik SPECIES
-=======
+# Cercospora cynanchi Lobik SPECIES
 
 #### Status
 ACCEPTED

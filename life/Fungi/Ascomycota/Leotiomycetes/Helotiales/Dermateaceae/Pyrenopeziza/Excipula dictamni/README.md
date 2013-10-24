@@ -1,5 +1,4 @@
-Excipula dictamni Fairm. SPECIES
-=======
+# Excipula dictamni Fairm. SPECIES
 
 #### Status
 ACCEPTED

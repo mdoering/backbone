@@ -1,5 +1,4 @@
-Balantidium amblystomatis Jirovec, 1930 SPECIES
-=======
+# Balantidium amblystomatis Jirovec, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strongylidium martimum SPECIES
-=======
+# Strongylidium martimum SPECIES
 
 #### Status
 ACCEPTED

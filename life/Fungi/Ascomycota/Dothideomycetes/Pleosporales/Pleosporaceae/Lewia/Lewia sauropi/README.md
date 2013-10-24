@@ -1,5 +1,4 @@
-Lewia sauropi T.Y. Zhang & J.C. David, 1996 SPECIES
-=======
+# Lewia sauropi T.Y. Zhang & J.C. David, 1996 SPECIES
 
 #### Status
 ACCEPTED

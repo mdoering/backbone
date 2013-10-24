@@ -1,5 +1,4 @@
-Rhabdospora tecomae Hollós SPECIES
-=======
+# Rhabdospora tecomae Hollós SPECIES
 
 #### Status
 ACCEPTED

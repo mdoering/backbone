@@ -1,5 +1,4 @@
-Coprinus velatus Quél. SPECIES
-=======
+# Coprinus velatus Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta arbutifolia Ellis & G. Martin SPECIES
-=======
+# Phyllosticta arbutifolia Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

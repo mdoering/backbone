@@ -1,5 +1,4 @@
-Pholiota crassivela Speg. SPECIES
-=======
+# Pholiota crassivela Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaerellula fagi Gucevic, 1952 SPECIES
-=======
+# Amphisphaerellula fagi Gucevic, 1952 SPECIES
 
 #### Status
 ACCEPTED

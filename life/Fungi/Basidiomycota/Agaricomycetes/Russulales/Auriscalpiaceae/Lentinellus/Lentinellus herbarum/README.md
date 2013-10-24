@@ -1,5 +1,4 @@
-Lentinellus herbarum (Fr.) P.-A. Moreau, Guy Garcia & P. Roux SPECIES
-=======
+# Lentinellus herbarum (Fr.) P.-A. Moreau, Guy Garcia & P. Roux SPECIES
 
 #### Status
 ACCEPTED

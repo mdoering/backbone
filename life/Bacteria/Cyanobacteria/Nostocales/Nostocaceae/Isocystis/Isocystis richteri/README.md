@@ -1,5 +1,4 @@
-Isocystis richteri (Elenkin) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Isocystis richteri (Elenkin) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

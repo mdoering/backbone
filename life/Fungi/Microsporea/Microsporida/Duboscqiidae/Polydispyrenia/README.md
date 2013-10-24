@@ -1,5 +1,4 @@
-Polydispyrenia E.U. Canning & E.I. Hazard GENUS
-=======
+# Polydispyrenia E.U. Canning & E.I. Hazard GENUS
 
 #### Status
 ACCEPTED

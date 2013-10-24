@@ -1,5 +1,4 @@
-Hypomyces siamensis K. Põldmaa & Samuels SPECIES
-=======
+# Hypomyces siamensis K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

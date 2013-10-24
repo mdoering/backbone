@@ -1,5 +1,4 @@
-Alternaria rhadina E.G. Simmons, 1993 SPECIES
-=======
+# Alternaria rhadina E.G. Simmons, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanosaeta harundinacea Ma et al., 2006 SPECIES
-=======
+# Methanosaeta harundinacea Ma et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

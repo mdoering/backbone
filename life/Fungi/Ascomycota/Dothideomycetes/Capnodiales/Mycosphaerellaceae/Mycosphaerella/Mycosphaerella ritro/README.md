@@ -1,5 +1,4 @@
-Mycosphaerella ritro (Pass.) Woronow SPECIES
-=======
+# Mycosphaerella ritro (Pass.) Woronow SPECIES
 
 #### Status
 ACCEPTED

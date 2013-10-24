@@ -1,5 +1,4 @@
-Ovulum T.V. Jankauskas, 1975 GENUS
-=======
+# Ovulum T.V. Jankauskas, 1975 GENUS
 
 #### Status
 ACCEPTED

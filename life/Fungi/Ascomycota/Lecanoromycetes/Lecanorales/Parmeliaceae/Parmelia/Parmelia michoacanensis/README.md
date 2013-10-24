@@ -1,5 +1,4 @@
-Parmelia michoacanensis B. de Lesd. SPECIES
-=======
+# Parmelia michoacanensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

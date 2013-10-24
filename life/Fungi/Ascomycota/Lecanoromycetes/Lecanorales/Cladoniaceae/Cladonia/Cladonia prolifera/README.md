@@ -1,5 +1,4 @@
-Cladonia prolifera SPECIES
-=======
+# Cladonia prolifera SPECIES
 
 #### Status
 ACCEPTED

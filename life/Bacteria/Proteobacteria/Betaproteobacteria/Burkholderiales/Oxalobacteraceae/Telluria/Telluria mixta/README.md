@@ -1,8 +1,7 @@
-Pseudomonas mixta Bowman et al., 1989 SPECIES
-=======
+# Telluria mixta (Bowman et al., 1989) Bowman et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

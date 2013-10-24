@@ -1,5 +1,4 @@
-Cladonia prolifica S. Hammer & Ahti SPECIES
-=======
+# Cladonia prolifica S. Hammer & Ahti SPECIES
 
 #### Status
 ACCEPTED

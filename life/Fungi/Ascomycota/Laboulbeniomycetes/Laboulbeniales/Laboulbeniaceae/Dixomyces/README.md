@@ -1,5 +1,4 @@
-Dixomyces I.I. Tav. GENUS
-=======
+# Dixomyces I.I. Tav. GENUS
 
 #### Status
 ACCEPTED

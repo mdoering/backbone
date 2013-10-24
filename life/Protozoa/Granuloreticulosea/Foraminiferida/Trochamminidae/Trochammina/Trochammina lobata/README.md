@@ -1,5 +1,4 @@
-Trochammina lobata SPECIES
-=======
+# Trochammina lobata SPECIES
 
 #### Status
 ACCEPTED

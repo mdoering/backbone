@@ -1,5 +1,4 @@
-Hypocopra aviaria P. Karst. SPECIES
-=======
+# Hypocopra aviaria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

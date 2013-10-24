@@ -1,5 +1,4 @@
-Solorinaria chudeaui (Hue) Faurel, Ozenda & Schotter SPECIES
-=======
+# Solorinaria chudeaui (Hue) Faurel, Ozenda & Schotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tecta Lynge SPECIES
-=======
+# Lecidea tecta Lynge SPECIES
 
 #### Status
 ACCEPTED

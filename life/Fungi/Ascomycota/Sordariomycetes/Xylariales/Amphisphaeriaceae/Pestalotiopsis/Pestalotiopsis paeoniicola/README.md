@@ -1,5 +1,4 @@
-Pestalotiopsis paeoniicola (Tsukam. & T. Hino) J.G. Wei & T. Xu SPECIES
-=======
+# Pestalotiopsis paeoniicola (Tsukam. & T. Hino) J.G. Wei & T. Xu SPECIES
 
 #### Status
 ACCEPTED

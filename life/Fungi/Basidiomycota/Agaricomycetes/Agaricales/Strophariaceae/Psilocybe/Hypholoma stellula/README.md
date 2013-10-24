@@ -1,5 +1,4 @@
-Hypholoma stellula Speg. SPECIES
-=======
+# Hypholoma stellula Speg. SPECIES
 
 #### Status
 ACCEPTED

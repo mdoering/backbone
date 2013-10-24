@@ -1,5 +1,4 @@
-Galerula semiglobata Murrill SPECIES
-=======
+# Galerula semiglobata Murrill SPECIES
 
 #### Status
 ACCEPTED

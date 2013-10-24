@@ -1,5 +1,4 @@
-Cytosporina syringae Oudem. SPECIES
-=======
+# Cytosporina syringae Oudem. SPECIES
 
 #### Status
 ACCEPTED

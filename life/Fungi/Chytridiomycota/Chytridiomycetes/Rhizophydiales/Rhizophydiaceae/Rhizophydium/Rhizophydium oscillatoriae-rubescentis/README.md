@@ -1,5 +1,4 @@
-Rhizophydium oscillatoriae-rubescentis Jaag & Nipkow SPECIES
-=======
+# Rhizophydium oscillatoriae-rubescentis Jaag & Nipkow SPECIES
 
 #### Status
 ACCEPTED

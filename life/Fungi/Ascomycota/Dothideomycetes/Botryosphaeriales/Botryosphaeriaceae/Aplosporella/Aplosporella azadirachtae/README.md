@@ -1,5 +1,4 @@
-Aplosporella azadirachtae Tilak & R. Rao SPECIES
-=======
+# Aplosporella azadirachtae Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

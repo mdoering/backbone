@@ -1,5 +1,4 @@
-Trachelomonas spinigera Da Cuncha SPECIES
-=======
+# Trachelomonas spinigera Da Cuncha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium deliculatum SPECIES
-=======
+# Lopadium deliculatum SPECIES
 
 #### Status
 ACCEPTED

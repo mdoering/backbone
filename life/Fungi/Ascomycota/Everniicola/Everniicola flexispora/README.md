@@ -1,5 +1,4 @@
-Everniicola flexispora D. Hawksw., 1982 SPECIES
-=======
+# Everniicola flexispora D. Hawksw., 1982 SPECIES
 
 #### Status
 ACCEPTED

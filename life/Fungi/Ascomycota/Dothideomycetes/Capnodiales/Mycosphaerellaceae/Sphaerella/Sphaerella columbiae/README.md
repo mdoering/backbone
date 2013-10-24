@@ -1,5 +1,4 @@
-Sphaerella columbiae (Syd.) Sacc. SPECIES
-=======
+# Sphaerella columbiae (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

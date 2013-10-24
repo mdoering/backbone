@@ -1,5 +1,4 @@
-Microthyrium boivinii Mouton SPECIES
-=======
+# Microthyrium boivinii Mouton SPECIES
 
 #### Status
 ACCEPTED

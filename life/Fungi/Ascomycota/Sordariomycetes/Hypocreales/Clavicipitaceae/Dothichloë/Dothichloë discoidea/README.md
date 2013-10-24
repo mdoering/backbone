@@ -1,5 +1,4 @@
-Dothichloë discoidea (Henn.) Diehl SPECIES
-=======
+# Dothichloë discoidea (Henn.) Diehl SPECIES
 
 #### Status
 ACCEPTED

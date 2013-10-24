@@ -1,5 +1,4 @@
-Naucoria melleipes Murrill SPECIES
-=======
+# Naucoria melleipes Murrill SPECIES
 
 #### Status
 ACCEPTED

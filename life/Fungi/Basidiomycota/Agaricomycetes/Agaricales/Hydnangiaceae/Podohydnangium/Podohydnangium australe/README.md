@@ -1,5 +1,4 @@
-Podohydnangium australe G.W. Beaton, Pegler & T.W.K. Young, 1984 SPECIES
-=======
+# Podohydnangium australe G.W. Beaton, Pegler & T.W.K. Young, 1984 SPECIES
 
 #### Status
 ACCEPTED

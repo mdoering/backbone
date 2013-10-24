@@ -1,5 +1,4 @@
-Eiglera Hafellner GENUS
-=======
+# Eiglera Hafellner GENUS
 
 #### Status
 ACCEPTED

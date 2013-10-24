@@ -1,5 +1,4 @@
-Entoloma glycosmum (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma glycosmum (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

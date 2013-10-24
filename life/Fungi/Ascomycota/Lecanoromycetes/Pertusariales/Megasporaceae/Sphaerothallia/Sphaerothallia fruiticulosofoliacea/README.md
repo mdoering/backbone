@@ -1,5 +1,4 @@
-Sphaerothallia fruiticulosofoliacea (Elenkin) Szatala SPECIES
-=======
+# Sphaerothallia fruiticulosofoliacea (Elenkin) Szatala SPECIES
 
 #### Status
 ACCEPTED

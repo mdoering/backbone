@@ -1,5 +1,4 @@
-Thelephora pulvinulata Speg. SPECIES
-=======
+# Thelephora pulvinulata Speg. SPECIES
 
 #### Status
 ACCEPTED

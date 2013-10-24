@@ -1,5 +1,4 @@
-Boletus parvulus (Hongo) Har. Takah. SPECIES
-=======
+# Boletus parvulus (Hongo) Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lignorum Scop. SPECIES
-=======
+# Agaricus lignorum Scop. SPECIES
 
 #### Status
 ACCEPTED

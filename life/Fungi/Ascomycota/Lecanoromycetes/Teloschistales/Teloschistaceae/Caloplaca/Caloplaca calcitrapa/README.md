@@ -1,5 +1,4 @@
-Caloplaca calcitrapa Nav.-Ros., Gaya & Cl. Roux SPECIES
-=======
+# Caloplaca calcitrapa Nav.-Ros., Gaya & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

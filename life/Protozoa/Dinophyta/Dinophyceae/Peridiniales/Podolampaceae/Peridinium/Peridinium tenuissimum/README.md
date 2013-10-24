@@ -1,5 +1,4 @@
-Peridinium tenuissimum Kofoid, 1907 SPECIES
-=======
+# Peridinium tenuissimum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

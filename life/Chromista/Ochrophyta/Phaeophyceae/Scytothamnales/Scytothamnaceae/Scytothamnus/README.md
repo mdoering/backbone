@@ -1,5 +1,4 @@
-Scytothamnus J.D.Hooker & Harvey, 1845 GENUS
-=======
+# Scytothamnus J.D.Hooker & Harvey, 1845 GENUS
 
 #### Status
 ACCEPTED

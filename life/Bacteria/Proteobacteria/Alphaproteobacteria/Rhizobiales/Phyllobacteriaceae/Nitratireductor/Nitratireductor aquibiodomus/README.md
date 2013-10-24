@@ -1,5 +1,4 @@
-Nitratireductor aquibiodomus Labbé et al., 2004 SPECIES
-=======
+# Nitratireductor aquibiodomus Labbé et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

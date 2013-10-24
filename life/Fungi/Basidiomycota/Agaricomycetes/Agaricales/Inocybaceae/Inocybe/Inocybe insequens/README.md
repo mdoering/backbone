@@ -1,5 +1,4 @@
-Inocybe insequens (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe insequens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

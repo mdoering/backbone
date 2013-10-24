@@ -1,5 +1,4 @@
-Graphina plumbicolor Zahlbr. SPECIES
-=======
+# Graphina plumbicolor Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

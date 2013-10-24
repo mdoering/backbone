@@ -1,5 +1,4 @@
-Bisporella polygoni (Velen.) S.E. Carp. SPECIES
-=======
+# Bisporella polygoni (Velen.) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

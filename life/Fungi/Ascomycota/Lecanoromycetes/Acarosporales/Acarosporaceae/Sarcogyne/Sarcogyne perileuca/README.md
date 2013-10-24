@@ -1,5 +1,4 @@
-Sarcogyne perileuca var. perileuca VARIETY
-=======
+# Sarcogyne perileuca Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sarcogyne perileuca var. perileuca
+Sarcogyne perileuca Vain.
 
 ### Remarks
 null

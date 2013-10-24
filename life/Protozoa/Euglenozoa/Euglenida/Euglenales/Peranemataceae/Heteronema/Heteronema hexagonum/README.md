@@ -1,5 +1,4 @@
-Heteronema hexagonum var. elegans Playfair, 1921 VARIETY
-=======
+# Heteronema hexagonum (Playfair) Skuja, 1948 SPECIES
 
 #### Status
 ACCEPTED

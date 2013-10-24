@@ -1,5 +1,4 @@
-Bacidia thalassina Zahlbr. SPECIES
-=======
+# Bacidia thalassina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

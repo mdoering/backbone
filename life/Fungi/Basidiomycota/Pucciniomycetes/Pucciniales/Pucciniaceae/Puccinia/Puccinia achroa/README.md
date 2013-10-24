@@ -1,5 +1,4 @@
-Puccinia achroa P. Syd. & Syd. SPECIES
-=======
+# Puccinia achroa P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

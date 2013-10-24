@@ -1,5 +1,4 @@
-Rosellinia cornicola Naumov SPECIES
-=======
+# Rosellinia cornicola Naumov SPECIES
 
 #### Status
 ACCEPTED

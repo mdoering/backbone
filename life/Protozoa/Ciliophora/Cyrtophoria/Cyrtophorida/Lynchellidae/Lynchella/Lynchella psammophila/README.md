@@ -1,5 +1,4 @@
-Lynchella psammophila Vacelet, 1961 SPECIES
-=======
+# Lynchella psammophila Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

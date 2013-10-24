@@ -1,5 +1,4 @@
-Rhabdospora xanthii Peck SPECIES
-=======
+# Rhabdospora xanthii Peck SPECIES
 
 #### Status
 ACCEPTED

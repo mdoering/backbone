@@ -1,5 +1,4 @@
-Neoovularia vogeliana (Sacc. & P. Syd.) U. Braun SPECIES
-=======
+# Neoovularia vogeliana (Sacc. & P. Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

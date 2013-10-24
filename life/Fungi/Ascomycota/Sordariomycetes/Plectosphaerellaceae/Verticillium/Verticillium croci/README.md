@@ -1,5 +1,4 @@
-Verticillium croci Oudem. SPECIES
-=======
+# Verticillium croci Oudem. SPECIES
 
 #### Status
 ACCEPTED

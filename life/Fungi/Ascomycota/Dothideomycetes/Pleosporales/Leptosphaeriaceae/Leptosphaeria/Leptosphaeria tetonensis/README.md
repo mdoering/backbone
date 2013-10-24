@@ -1,5 +1,4 @@
-Leptosphaeria tetonensis Wehm. SPECIES
-=======
+# Leptosphaeria tetonensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

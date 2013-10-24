@@ -1,5 +1,4 @@
-Protoperidinium perradiatum Balech, 1978 SPECIES
-=======
+# Protoperidinium perradiatum Balech, 1978 SPECIES
 
 #### Status
 ACCEPTED

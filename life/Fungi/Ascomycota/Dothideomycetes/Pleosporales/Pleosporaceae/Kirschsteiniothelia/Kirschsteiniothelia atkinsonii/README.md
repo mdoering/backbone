@@ -1,5 +1,4 @@
-Kirschsteiniothelia atkinsonii (F. Stevens & R.W. Ryan) K.D. Hyde SPECIES
-=======
+# Kirschsteiniothelia atkinsonii (F. Stevens & R.W. Ryan) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoisariopsis argyreiae J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Phaeoisariopsis argyreiae J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

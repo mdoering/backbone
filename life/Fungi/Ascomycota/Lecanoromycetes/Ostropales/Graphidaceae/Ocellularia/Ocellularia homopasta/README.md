@@ -1,14 +1,13 @@
-Thelotrema homopastum Nyl. SPECIES
-=======
+# Ocellularia homopasta (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 59: 561 (1876)
+Biblthca Lichenol. 92: 190 (2006)
 
 #### Original name
 Thelotrema homopastum Nyl.

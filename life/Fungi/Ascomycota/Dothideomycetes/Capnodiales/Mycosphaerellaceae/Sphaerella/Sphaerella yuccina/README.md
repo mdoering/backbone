@@ -1,5 +1,4 @@
-Sphaerella yuccina (Woron.) Sacc. SPECIES
-=======
+# Sphaerella yuccina (Woron.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

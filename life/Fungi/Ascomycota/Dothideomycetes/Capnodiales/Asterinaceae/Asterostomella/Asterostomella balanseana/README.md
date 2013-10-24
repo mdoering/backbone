@@ -1,5 +1,4 @@
-Asterostomella balanseana (P. Karst. & Roum.) Theiss. SPECIES
-=======
+# Asterostomella balanseana (P. Karst. & Roum.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

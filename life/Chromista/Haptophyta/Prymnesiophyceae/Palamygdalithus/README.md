@@ -1,5 +1,4 @@
-Palamygdalithus G. Deflandre, 1970 GENUS
-=======
+# Palamygdalithus G. Deflandre, 1970 GENUS
 
 #### Status
 ACCEPTED

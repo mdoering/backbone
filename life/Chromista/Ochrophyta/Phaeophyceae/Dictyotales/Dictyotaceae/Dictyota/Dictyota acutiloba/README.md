@@ -1,5 +1,4 @@
-Dictyota acutiloba J. Agardh SPECIES
-=======
+# Dictyota acutiloba J. Agardh SPECIES
 
 #### Status
 ACCEPTED

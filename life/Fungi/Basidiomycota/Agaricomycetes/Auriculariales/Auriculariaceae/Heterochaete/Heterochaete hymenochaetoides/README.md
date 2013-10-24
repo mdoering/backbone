@@ -1,5 +1,4 @@
-Heterochaete hymenochaetoides Rick SPECIES
-=======
+# Heterochaete hymenochaetoides Rick SPECIES
 
 #### Status
 ACCEPTED

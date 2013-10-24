@@ -1,5 +1,4 @@
-Aspergillus pseudoelatior Mosseray SPECIES
-=======
+# Aspergillus pseudoelatior Mosseray SPECIES
 
 #### Status
 ACCEPTED

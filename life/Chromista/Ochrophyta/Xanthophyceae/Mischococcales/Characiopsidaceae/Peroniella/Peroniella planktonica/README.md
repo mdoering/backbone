@@ -1,5 +1,4 @@
-Peroniella planktonica Gobi SPECIES
-=======
+# Peroniella planktonica Gobi SPECIES
 
 #### Status
 ACCEPTED

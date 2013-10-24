@@ -1,5 +1,4 @@
-Trichophyton expansum Cazalbou SPECIES
-=======
+# Trichophyton expansum Cazalbou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia chrysosplenium Höhn. SPECIES
-=======
+# Tilletia chrysosplenium Höhn. SPECIES
 
 #### Status
 ACCEPTED

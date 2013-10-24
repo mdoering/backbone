@@ -1,5 +1,4 @@
-Galerula tenuissima (Weinm.) G.F. Atk. SPECIES
-=======
+# Galerula tenuissima (Weinm.) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

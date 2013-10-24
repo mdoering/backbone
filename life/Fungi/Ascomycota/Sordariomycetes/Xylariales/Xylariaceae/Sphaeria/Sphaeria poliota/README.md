@@ -1,5 +1,4 @@
-Sphaeria poliota Kunze SPECIES
-=======
+# Sphaeria poliota Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hendersonia striaeforme Petr. SPECIES
-=======
+# Hendersonia striiformis Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 25: 320 (1927)
 
 #### Original name
-Hendersonia striaeforme Petr.
+Hendersonia striiformis Petr.
 
 ### Remarks
 null

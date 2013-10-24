@@ -1,5 +1,4 @@
-Rinodina dirinoides Zahlbr. SPECIES
-=======
+# Rinodina dirinoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

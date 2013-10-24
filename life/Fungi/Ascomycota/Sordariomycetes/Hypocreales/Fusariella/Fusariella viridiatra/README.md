@@ -1,5 +1,4 @@
-Fusariella viridiatra Sacc. SPECIES
-=======
+# Fusariella viridiatra Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boveria concharum SPECIES
-=======
+# Boveria concharum SPECIES
 
 #### Status
 ACCEPTED

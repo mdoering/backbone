@@ -1,5 +1,4 @@
-Opercularia epistyliformis SPECIES
-=======
+# Opercularia epistyliformis SPECIES
 
 #### Status
 ACCEPTED

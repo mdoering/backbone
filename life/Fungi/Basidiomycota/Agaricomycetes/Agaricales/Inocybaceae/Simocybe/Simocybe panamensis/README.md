@@ -1,5 +1,4 @@
-Simocybe panamensis Singer SPECIES
-=======
+# Simocybe panamensis Singer SPECIES
 
 #### Status
 ACCEPTED

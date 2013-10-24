@@ -1,5 +1,4 @@
-Verrucaria sublevata Erichsen SPECIES
-=======
+# Verrucaria sublevata Erichsen SPECIES
 
 #### Status
 ACCEPTED

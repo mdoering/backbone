@@ -1,5 +1,4 @@
-Calycina furfuracea (Harkn. & W. Phillips) Kuntze SPECIES
-=======
+# Calycina furfuracea (Harkn. & W. Phillips) Kuntze SPECIES
 
 #### Status
 ACCEPTED

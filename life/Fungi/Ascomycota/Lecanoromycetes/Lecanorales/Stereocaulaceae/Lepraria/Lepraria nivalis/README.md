@@ -1,5 +1,4 @@
-Lepraria nivalis J. R. Laundon SPECIES
-=======
+# Lepraria nivalis J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED

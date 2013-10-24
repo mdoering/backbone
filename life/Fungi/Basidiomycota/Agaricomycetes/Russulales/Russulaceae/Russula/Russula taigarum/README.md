@@ -1,5 +1,4 @@
-Russula taigarum Ruots. & Vauras SPECIES
-=======
+# Russula taigarum Ruots. & Vauras SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporina GENUS
-=======
+# Perisporina GENUS
 
 #### Status
 ACCEPTED

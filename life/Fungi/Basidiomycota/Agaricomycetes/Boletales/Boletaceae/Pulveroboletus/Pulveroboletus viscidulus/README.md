@@ -1,5 +1,4 @@
-Pulveroboletus viscidulus (Pat. & C.F. Baker) Singer SPECIES
-=======
+# Pulveroboletus viscidulus (Pat. & C.F. Baker) Singer SPECIES
 
 #### Status
 ACCEPTED

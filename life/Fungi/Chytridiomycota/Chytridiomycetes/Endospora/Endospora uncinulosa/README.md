@@ -1,17 +1,16 @@
-Endospora uncinolosa Szathmary {?} SPECIES
-=======
+# Endospora uncinulosa Szathmary {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mykosen 17(2): 38 (1974)
 
 #### Original name
-Endospora uncinolosa Szathmary {?}
+Endospora uncinulosa Szathmary {?}
 
 ### Remarks
 null

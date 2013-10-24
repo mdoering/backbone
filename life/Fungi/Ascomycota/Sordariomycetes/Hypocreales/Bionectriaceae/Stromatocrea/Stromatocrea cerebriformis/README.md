@@ -1,17 +1,16 @@
-Stromatocrea cerebriforme W.B. Cooke SPECIES
-=======
+# Stromatocrea cerebriformis W.B. Cooke, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 44(2): 248 (1952)
 
 #### Original name
-Stromatocrea cerebriforme W.B. Cooke
+Stromatocrea cerebriformis W.B. Cooke, 1952
 
 ### Remarks
 null

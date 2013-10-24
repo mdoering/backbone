@@ -1,5 +1,4 @@
-Cryptovalsa uberrima (Tul.) Sacc. SPECIES
-=======
+# Cryptovalsa uberrima (Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

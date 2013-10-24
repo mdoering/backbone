@@ -1,17 +1,16 @@
-Hirneola dacryomycetospora Speg. SPECIES
-=======
+# Hirneola dacrymycetospora Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 17(2): 83 (1884)
 
 #### Original name
-Hirneola dacryomycetospora Speg.
+Hirneola dacrymycetospora Speg.
 
 ### Remarks
 null

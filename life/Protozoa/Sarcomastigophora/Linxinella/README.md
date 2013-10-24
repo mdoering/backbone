@@ -1,5 +1,4 @@
-Linxinella Zhuang, 1989 GENUS
-=======
+# Linxinella Zhuang, 1989 GENUS
 
 #### Status
 ACCEPTED

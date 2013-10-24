@@ -1,5 +1,4 @@
-Phoma ariae Oudem. SPECIES
-=======
+# Phoma ariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

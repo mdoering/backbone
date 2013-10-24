@@ -1,5 +1,4 @@
-Diorygma dealbatum B.O. Sharma & Makhija SPECIES
-=======
+# Diorygma dealbatum B.O. Sharma & Makhija SPECIES
 
 #### Status
 ACCEPTED

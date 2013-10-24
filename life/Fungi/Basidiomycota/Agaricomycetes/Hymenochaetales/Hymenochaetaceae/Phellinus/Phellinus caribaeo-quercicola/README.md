@@ -1,17 +1,16 @@
-Phellinus caribaeo-quercicolus Decock & S. Herrera SPECIES
-=======
+# Phellinus caribaeo-quercicola Decock & S. Herrera SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Decock, Herrera Figueroa, Robledo, Castillo, Mycologia 98(2): 269 (2006)
 
 #### Original name
-Phellinus caribaeo-quercicolus Decock & S. Herrera
+Phellinus caribaeo-quercicola Decock & S. Herrera
 
 ### Remarks
 null

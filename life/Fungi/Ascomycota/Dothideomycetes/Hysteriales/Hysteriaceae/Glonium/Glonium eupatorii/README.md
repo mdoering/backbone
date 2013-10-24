@@ -1,5 +1,4 @@
-Glonium eupatorii (Lasch) Sacc. SPECIES
-=======
+# Glonium eupatorii (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

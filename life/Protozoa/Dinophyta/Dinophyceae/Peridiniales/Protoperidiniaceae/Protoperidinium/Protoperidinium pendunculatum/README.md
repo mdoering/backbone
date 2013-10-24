@@ -1,5 +1,4 @@
-Protoperidinium pendunculatum (Schiltt) Balech SPECIES
-=======
+# Protoperidinium pendunculatum (Schiltt) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium grewiae Bacc. SPECIES
-=======
+# Cladosporium grewiae Bacc. SPECIES
 
 #### Status
 ACCEPTED

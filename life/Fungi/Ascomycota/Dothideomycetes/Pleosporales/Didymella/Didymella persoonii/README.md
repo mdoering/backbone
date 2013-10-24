@@ -1,5 +1,4 @@
-Didymella persoonii (A. Massal.) H. Magn. SPECIES
-=======
+# Didymella persoonii (A. Massal.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

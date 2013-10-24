@@ -1,5 +1,4 @@
-Lecidea endoreagens Tomin SPECIES
-=======
+# Lecidea endoreagens Tomin SPECIES
 
 #### Status
 ACCEPTED

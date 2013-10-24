@@ -1,5 +1,4 @@
-Aposphaeria arachidis R.L. Kulk. SPECIES
-=======
+# Aposphaeria arachidis R.L. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cordiae J.M. Yen SPECIES
-=======
+# Cercospora cordiae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

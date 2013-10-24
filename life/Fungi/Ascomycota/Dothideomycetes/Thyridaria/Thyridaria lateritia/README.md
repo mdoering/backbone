@@ -1,5 +1,4 @@
-Thyridaria lateritia (Ellis) Sacc. SPECIES
-=======
+# Thyridaria lateritia (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

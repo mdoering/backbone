@@ -1,5 +1,4 @@
-Pluteus cristatulus Rick SPECIES
-=======
+# Pluteus cristatulus Rick SPECIES
 
 #### Status
 ACCEPTED

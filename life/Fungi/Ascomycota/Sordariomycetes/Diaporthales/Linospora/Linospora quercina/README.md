@@ -1,5 +1,4 @@
-Linospora quercina Teng SPECIES
-=======
+# Linospora quercina Teng SPECIES
 
 #### Status
 ACCEPTED

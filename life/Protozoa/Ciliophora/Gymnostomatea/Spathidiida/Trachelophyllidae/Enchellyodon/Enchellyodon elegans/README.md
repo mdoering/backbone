@@ -1,5 +1,4 @@
-Enchellyodon elegans SPECIES
-=======
+# Enchellyodon elegans SPECIES
 
 #### Status
 ACCEPTED

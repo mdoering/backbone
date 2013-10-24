@@ -1,5 +1,4 @@
-Strattonia grandis A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Strattonia grandis A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbispora indica Rao et al., 1987 SPECIES
-=======
+# Microbispora indica Rao et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

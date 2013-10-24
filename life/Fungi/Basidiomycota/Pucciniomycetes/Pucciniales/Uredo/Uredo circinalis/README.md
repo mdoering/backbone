@@ -1,5 +1,4 @@
-Uredo circinalis F. Strauss SPECIES
-=======
+# Uredo circinalis F. Strauss SPECIES
 
 #### Status
 ACCEPTED

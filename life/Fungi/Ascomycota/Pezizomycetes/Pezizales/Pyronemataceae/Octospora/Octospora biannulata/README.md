@@ -1,5 +1,4 @@
-Octospora biannulata (Beauseign.) Caillet & Moyne SPECIES
-=======
+# Octospora biannulata (Beauseign.) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

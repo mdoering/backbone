@@ -1,8 +1,7 @@
-Lagynophrya gibba Kahl, 1935 SPECIES
-=======
+# Kamburophrys gibba (Kahl, 1935) Foissner & Örtel, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

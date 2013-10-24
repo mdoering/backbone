@@ -1,5 +1,4 @@
-Gymnopus subabundans Murrill SPECIES
-=======
+# Gymnopus subabundans Murrill SPECIES
 
 #### Status
 ACCEPTED

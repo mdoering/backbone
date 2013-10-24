@@ -1,5 +1,4 @@
-Collema actinoptychum Nyl. SPECIES
-=======
+# Collema actinoptychum Nyl. SPECIES
 
 #### Status
 ACCEPTED

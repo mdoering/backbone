@@ -1,5 +1,4 @@
-Xanthoparmelia erosa (Elix & P. M. Armstr.) Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia erosa (Elix & P. M. Armstr.) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

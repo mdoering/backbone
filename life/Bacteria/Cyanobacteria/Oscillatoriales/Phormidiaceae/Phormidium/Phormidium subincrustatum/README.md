@@ -1,5 +1,4 @@
-Phormidium subincrustatum F. E. Fritsch & F. Rich SPECIES
-=======
+# Phormidium subincrustatum F. E. Fritsch & F. Rich SPECIES
 
 #### Status
 ACCEPTED

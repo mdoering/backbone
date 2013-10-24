@@ -1,5 +1,4 @@
-Resupinatus multilamellatus Corner SPECIES
-=======
+# Resupinatus multilamellatus Corner SPECIES
 
 #### Status
 ACCEPTED

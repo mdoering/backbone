@@ -1,5 +1,4 @@
-Didymosphaeria coccifera Vain. SPECIES
-=======
+# Didymosphaeria coccifera Vain. SPECIES
 
 #### Status
 ACCEPTED

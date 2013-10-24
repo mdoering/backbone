@@ -1,5 +1,4 @@
-Lasiodiplodia pseudotheobromae A.J.L. Phillips, A. Alves & Crous SPECIES
-=======
+# Lasiodiplodia pseudotheobromae A.J.L. Phillips, A. Alves & Crous SPECIES
 
 #### Status
 ACCEPTED

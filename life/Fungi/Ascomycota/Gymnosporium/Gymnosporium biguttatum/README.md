@@ -1,5 +1,4 @@
-Gymnosporium biguttatum Corda SPECIES
-=======
+# Gymnosporium biguttatum Corda SPECIES
 
 #### Status
 ACCEPTED

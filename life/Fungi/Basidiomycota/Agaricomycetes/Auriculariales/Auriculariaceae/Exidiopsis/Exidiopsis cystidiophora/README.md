@@ -1,17 +1,16 @@
-Exidiopsis cystidophora Höhn. SPECIES
-=======
+# Exidiopsis cystidiophora Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 3: 323 (1905)
 
 #### Original name
-Exidiopsis cystidophora Höhn.
+Exidiopsis cystidiophora Höhn.
 
 ### Remarks
 null

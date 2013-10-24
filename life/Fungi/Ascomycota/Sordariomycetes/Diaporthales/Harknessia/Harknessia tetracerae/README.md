@@ -1,5 +1,4 @@
-Harknessia tetracerae Ellis & Everh. SPECIES
-=======
+# Harknessia tetracerae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella corallizoides M. Westb. SPECIES
-=======
+# Candelariella corallizoides M. Westb. SPECIES
 
 #### Status
 ACCEPTED

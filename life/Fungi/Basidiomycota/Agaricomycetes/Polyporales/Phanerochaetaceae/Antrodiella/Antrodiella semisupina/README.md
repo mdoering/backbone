@@ -1,14 +1,13 @@
-Polyporus semisupinus Berk. & M.A. Curtis, 1872 SPECIES
-=======
+# Antrodiella semisupina (Berk. & M.A. Curtis) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 4): 50 (1872)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 261 (1980)
 
 #### Original name
 Polyporus semisupinus Berk. & M.A. Curtis, 1872

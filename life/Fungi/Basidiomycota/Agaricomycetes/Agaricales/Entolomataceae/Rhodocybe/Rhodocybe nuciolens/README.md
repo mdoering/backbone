@@ -1,5 +1,4 @@
-Rhodocybe nuciolens (Murrill) Singer SPECIES
-=======
+# Rhodocybe nuciolens (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria leptalea Stirt. SPECIES
-=======
+# Verrucaria leptalea Stirt. SPECIES
 
 #### Status
 ACCEPTED

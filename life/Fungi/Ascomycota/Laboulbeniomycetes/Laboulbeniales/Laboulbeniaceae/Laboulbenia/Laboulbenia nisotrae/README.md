@@ -1,5 +1,4 @@
-Laboulbenia nisotrae (Thaxt.) Balazuc SPECIES
-=======
+# Laboulbenia nisotrae (Thaxt.) Balazuc SPECIES
 
 #### Status
 ACCEPTED

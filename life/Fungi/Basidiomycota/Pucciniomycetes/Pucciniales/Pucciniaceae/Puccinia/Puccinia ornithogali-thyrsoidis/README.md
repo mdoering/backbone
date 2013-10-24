@@ -1,17 +1,16 @@
-Puccinia ornithogali-thyrsoides Dietel SPECIES
-=======
+# Puccinia ornithogali-thyrsoidis Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 44: 178 (1905)
 
 #### Original name
-Puccinia ornithogali-thyrsoides Dietel
+Puccinia ornithogali-thyrsoidis Dietel
 
 ### Remarks
 null

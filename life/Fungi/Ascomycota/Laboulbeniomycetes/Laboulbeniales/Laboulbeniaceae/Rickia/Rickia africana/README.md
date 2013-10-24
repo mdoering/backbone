@@ -1,5 +1,4 @@
-Rickia africana Thaxt. SPECIES
-=======
+# Rickia africana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

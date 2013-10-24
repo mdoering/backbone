@@ -1,5 +1,4 @@
-Goodfellowia coeruleoviolacea (Preobrazhenskaya & Terekhova, 1987) Labeda & Kroppenstedt, 2006 SPECIES
-=======
+# Goodfellowia coeruleoviolacea (Preobrazhenskaya & Terekhova, 1987) Labeda & Kroppenstedt, 2006 SPECIES
 
 #### Status
 ACCEPTED

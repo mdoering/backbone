@@ -1,5 +1,4 @@
-Linderina macrospora Y. Chang, 1967 SPECIES
-=======
+# Linderina macrospora Y. Chang, 1967 SPECIES
 
 #### Status
 ACCEPTED

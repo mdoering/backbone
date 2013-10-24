@@ -1,5 +1,4 @@
-Lichen grandis Pers. SPECIES
-=======
+# Lichen grandis Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia microplaca (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia microplaca (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

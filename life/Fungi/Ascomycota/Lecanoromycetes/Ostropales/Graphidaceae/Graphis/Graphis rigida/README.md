@@ -1,5 +1,4 @@
-Graphis rigida (Fée) Spreng. SPECIES
-=======
+# Graphis rigida (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

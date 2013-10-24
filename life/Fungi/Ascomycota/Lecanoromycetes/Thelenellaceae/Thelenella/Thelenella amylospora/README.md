@@ -1,5 +1,4 @@
-Thelenella amylospora Vain. SPECIES
-=======
+# Thelenella amylospora Vain. SPECIES
 
 #### Status
 ACCEPTED

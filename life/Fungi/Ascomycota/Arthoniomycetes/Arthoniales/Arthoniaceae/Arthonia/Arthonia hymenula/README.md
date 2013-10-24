@@ -1,5 +1,4 @@
-Arthonia hymenula Müll. Arg. SPECIES
-=======
+# Arthonia hymenula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

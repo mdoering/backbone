@@ -1,5 +1,4 @@
-Enterographa frustulosa (Kremp.) Müll. Arg. SPECIES
-=======
+# Enterographa frustulosa (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

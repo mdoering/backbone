@@ -1,5 +1,4 @@
-Cladosporium lauri Raybaud SPECIES
-=======
+# Cladosporium lauri Raybaud SPECIES
 
 #### Status
 ACCEPTED

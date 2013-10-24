@@ -1,5 +1,4 @@
-Megatrichophyton vinosum (Sabour.) Neveu-Lem. SPECIES
-=======
+# Megatrichophyton vinosum (Sabour.) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella longipes (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella longipes (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

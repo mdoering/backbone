@@ -1,5 +1,4 @@
-Mimeomyces deplanatus I.I. Tav. SPECIES
-=======
+# Mimeomyces deplanatus I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

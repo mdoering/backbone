@@ -1,5 +1,4 @@
-Catillaria arachnoidea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Catillaria arachnoidea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

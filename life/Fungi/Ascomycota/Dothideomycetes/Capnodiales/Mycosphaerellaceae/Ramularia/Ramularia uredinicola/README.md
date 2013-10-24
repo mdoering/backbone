@@ -1,5 +1,4 @@
-Ramularia uredinicola Khodap. & U. Braun SPECIES
-=======
+# Ramularia uredinicola Khodap. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

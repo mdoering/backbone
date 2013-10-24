@@ -1,5 +1,4 @@
-Cortinarius subfilamentosus Reumaux SPECIES
-=======
+# Cortinarius subfilamentosus Reumaux SPECIES
 
 #### Status
 ACCEPTED

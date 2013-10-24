@@ -1,5 +1,4 @@
-Virgatospora natarajanensis D'Souza, S.K. Singh & Bhat SPECIES
-=======
+# Virgatospora natarajanensis D'Souza, S.K. Singh & Bhat SPECIES
 
 #### Status
 ACCEPTED

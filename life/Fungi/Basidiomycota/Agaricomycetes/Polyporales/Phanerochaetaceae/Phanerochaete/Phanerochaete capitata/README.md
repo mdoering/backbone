@@ -1,5 +1,4 @@
-Phanerochaete capitata Sheng H. Wu SPECIES
-=======
+# Phanerochaete capitata Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

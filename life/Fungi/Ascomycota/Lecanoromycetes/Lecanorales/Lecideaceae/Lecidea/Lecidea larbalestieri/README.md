@@ -1,5 +1,4 @@
-Lecidea larbalestieri Cromb. SPECIES
-=======
+# Lecidea larbalestieri Cromb. SPECIES
 
 #### Status
 ACCEPTED

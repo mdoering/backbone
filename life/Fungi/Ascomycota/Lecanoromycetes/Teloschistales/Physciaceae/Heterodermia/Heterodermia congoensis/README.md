@@ -1,5 +1,4 @@
-Heterodermia congoensis (Kurok.) Swinscow & Krog SPECIES
-=======
+# Heterodermia congoensis (Kurok.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

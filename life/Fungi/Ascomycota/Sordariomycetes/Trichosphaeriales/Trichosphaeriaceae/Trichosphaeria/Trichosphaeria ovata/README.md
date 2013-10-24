@@ -1,5 +1,4 @@
-Trichosphaeria ovata Butin SPECIES
-=======
+# Trichosphaeria ovata Butin SPECIES
 
 #### Status
 ACCEPTED

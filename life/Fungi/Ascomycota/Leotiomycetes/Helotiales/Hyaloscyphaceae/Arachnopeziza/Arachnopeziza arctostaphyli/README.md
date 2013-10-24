@@ -1,5 +1,4 @@
-Arachnopeziza arctostaphyli Cash SPECIES
-=======
+# Arachnopeziza arctostaphyli Cash SPECIES
 
 #### Status
 ACCEPTED

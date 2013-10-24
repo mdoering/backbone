@@ -1,17 +1,16 @@
-Poikiloderma Füisting GENUS
-=======
+# Amphisphaeria Ces. & De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 26: 369 (1868)
+Comm. Soc. crittog. Ital. 1: 223 (1863)
 
 #### Original name
-Poikiloderma Füisting
+Amphisphaeria Ces. & De Not.
 
 ### Remarks
 null

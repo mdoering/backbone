@@ -1,5 +1,4 @@
-Phoma astrocarpi Gonz. Frag. SPECIES
-=======
+# Phoma astrocarpi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

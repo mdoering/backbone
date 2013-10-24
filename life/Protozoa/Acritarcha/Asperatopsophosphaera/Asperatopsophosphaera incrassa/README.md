@@ -1,5 +1,4 @@
-Asperatopsophosphaera incrassa Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Asperatopsophosphaera incrassa Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

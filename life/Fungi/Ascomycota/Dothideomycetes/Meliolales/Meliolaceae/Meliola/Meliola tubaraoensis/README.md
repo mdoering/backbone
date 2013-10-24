@@ -1,5 +1,4 @@
-Meliola tubaraoensis Hansf. SPECIES
-=======
+# Meliola tubaraoensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

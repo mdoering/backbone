@@ -1,5 +1,4 @@
-Agaricus rutaceus Lasch SPECIES
-=======
+# Agaricus rutaceus Lasch SPECIES
 
 #### Status
 ACCEPTED

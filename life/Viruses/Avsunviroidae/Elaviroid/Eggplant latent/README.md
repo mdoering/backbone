@@ -1,5 +1,4 @@
-Eggplant latent SPECIES
-=======
+# Eggplant latent SPECIES
 
 #### Status
 ACCEPTED

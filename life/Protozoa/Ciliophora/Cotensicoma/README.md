@@ -1,5 +1,4 @@
-Cotensicoma Yankovskij, 1982 GENUS
-=======
+# Cotensicoma Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

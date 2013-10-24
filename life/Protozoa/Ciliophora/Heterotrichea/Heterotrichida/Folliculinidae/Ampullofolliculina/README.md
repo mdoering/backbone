@@ -1,5 +1,4 @@
-Ampullofolliculina Hadzi, 1951 GENUS
-=======
+# Ampullofolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

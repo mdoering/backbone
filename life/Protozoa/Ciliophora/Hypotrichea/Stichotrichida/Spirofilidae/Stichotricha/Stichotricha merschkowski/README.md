@@ -1,5 +1,4 @@
-Stichotricha merschkowski Kahl, 1932 SPECIES
-=======
+# Stichotricha merschkowski Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius payettensis A.H. Sm. SPECIES
-=======
+# Lactarius payettensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

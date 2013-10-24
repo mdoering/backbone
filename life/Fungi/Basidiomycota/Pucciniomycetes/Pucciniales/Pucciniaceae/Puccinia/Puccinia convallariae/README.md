@@ -1,5 +1,4 @@
-Puccinia convallariae Schumach. SPECIES
-=======
+# Puccinia convallariae Schumach. SPECIES
 
 #### Status
 ACCEPTED

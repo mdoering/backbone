@@ -1,14 +1,13 @@
-Parmelia pulla subsp. luteonotata (J. Steiner) Clauzade & Cl. Roux SUBSPECIES
-=======
+# Xanthoparmelia luteonotata (J. Steiner) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 827 (1985)
+Taxon 53(4): 968 (2004)
 
 #### Original name
 Parmelia luteonotata J. Steiner

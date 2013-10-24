@@ -1,5 +1,4 @@
-Hymenochaete papyracea G.A. Escobar ex J.C. Léger, 1990 SPECIES
-=======
+# Hymenochaete papyracea G.A. Escobar ex J.C. Léger, 1990 SPECIES
 
 #### Status
 ACCEPTED

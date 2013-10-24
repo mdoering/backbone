@@ -1,5 +1,4 @@
-Frontonia schaeferi Bullington, 1940 SPECIES
-=======
+# Frontonia schaeferi Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

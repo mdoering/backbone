@@ -1,5 +1,4 @@
-Camarosporium armeriae Unamuno SPECIES
-=======
+# Camarosporium armeriae Unamuno SPECIES
 
 #### Status
 ACCEPTED

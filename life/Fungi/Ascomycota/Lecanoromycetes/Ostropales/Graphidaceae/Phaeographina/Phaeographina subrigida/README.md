@@ -1,5 +1,4 @@
-Phaeographina subrigida (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina subrigida (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

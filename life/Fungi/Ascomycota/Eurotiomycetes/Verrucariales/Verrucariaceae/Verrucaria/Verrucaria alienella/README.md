@@ -1,5 +1,4 @@
-Verrucaria alienella Nyl. SPECIES
-=======
+# Verrucaria alienella Nyl. SPECIES
 
 #### Status
 ACCEPTED

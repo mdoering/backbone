@@ -1,5 +1,4 @@
-Cortinarius largentii Ammirati & M.M. Moser SPECIES
-=======
+# Cortinarius largentii Ammirati & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

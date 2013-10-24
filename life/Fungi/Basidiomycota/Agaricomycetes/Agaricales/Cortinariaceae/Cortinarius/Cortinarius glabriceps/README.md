@@ -1,5 +1,4 @@
-Cortinarius glabriceps Peintner SPECIES
-=======
+# Cortinarius glabriceps Peintner SPECIES
 
 #### Status
 ACCEPTED

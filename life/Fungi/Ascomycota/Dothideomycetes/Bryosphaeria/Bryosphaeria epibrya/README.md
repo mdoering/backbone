@@ -1,14 +1,13 @@
-Trichohleria epibrya Racov., 1959 SPECIES
-=======
+# Bryosphaeria epibrya (Racov.) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mus. natn. Hist. nat. , Paris, Ser. B, N. S. 10: 98 (1959)
+Mitt. bot. StSamml. , Münch. 14: 163 (1978)
 
 #### Original name
 Trichohleria epibrya Racov., 1959

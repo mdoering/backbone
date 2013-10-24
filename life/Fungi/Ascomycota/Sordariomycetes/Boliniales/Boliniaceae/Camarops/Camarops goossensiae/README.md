@@ -1,14 +1,13 @@
-Camarops goossensii (Dennis) Nannf. SPECIES
-=======
+# Camarops goossensiae (Dennis) Nannf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Svensk bot. Tidskr. 66(4): 363 (1972)
 
 #### Original name
 Peridoxylon goossensiae Dennis

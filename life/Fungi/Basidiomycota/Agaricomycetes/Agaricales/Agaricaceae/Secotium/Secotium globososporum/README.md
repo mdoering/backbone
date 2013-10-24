@@ -1,5 +1,4 @@
-Secotium globososporum Lloyd SPECIES
-=======
+# Secotium globososporum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium deformans J. Schröt. SPECIES
-=======
+# Fusarium deformans J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

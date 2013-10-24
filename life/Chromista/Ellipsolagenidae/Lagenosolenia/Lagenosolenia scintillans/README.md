@@ -1,5 +1,4 @@
-Lagenosolenia scintillans (McCulloch, 1977) SPECIES
-=======
+# Lagenosolenia scintillans (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

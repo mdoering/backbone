@@ -1,5 +1,4 @@
-Phyllachora ectophytica Tilak, 1958 SPECIES
-=======
+# Phyllachora ectophytica Tilak, 1958 SPECIES
 
 #### Status
 DOUBTFUL

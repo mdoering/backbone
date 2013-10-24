@@ -1,5 +1,4 @@
-Corannulus germanicus Stradner, 1962 SPECIES
-=======
+# Corannulus germanicus Stradner, 1962 SPECIES
 
 #### Status
 ACCEPTED

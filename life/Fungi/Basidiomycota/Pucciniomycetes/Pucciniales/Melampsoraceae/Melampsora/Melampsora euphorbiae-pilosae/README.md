@@ -1,5 +1,4 @@
-Melampsora euphorbiae-pilosae Vatt. & D.K. Agarwal SPECIES
-=======
+# Melampsora euphorbiae-pilosae Vatt. & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

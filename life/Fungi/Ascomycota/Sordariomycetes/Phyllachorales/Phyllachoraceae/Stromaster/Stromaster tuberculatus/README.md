@@ -1,14 +1,13 @@
-Hypocrea tuberculata Pat., 1890 SPECIES
-=======
+# Stromaster tuberculatus (Pat.) Höhn., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , Paris 4: 64 (1890)
+Mitt. bot. Inst. tech. Hochsch. Wien 7: 93 (1930)
 
 #### Original name
 Hypocrea tuberculata Pat., 1890

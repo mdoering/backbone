@@ -1,5 +1,4 @@
-Menegazzia encausta (Sm.) Navás SPECIES
-=======
+# Menegazzia encausta (Sm.) Navás SPECIES
 
 #### Status
 ACCEPTED

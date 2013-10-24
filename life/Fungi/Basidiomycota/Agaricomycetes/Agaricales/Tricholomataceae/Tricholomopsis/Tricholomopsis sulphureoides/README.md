@@ -1,17 +1,16 @@
-Agaricus sulfureoides Peck SPECIES
-=======
+# Tricholomopsis sulphureoides (Peck) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1/3): 69 (1943)
 
 #### Original name
-Agaricus sulfureoides Peck
+Agaricus sulphureoides Peck, 1872
 
 ### Remarks
 null

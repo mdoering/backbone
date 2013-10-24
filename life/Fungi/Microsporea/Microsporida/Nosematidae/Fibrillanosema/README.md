@@ -1,5 +1,4 @@
-Fibrillanosema G.M. Johanna, S. Galbreath, J.E. Smith, R.S. Terry, J.J. Becnel & A.M. Dunn GENUS
-=======
+# Fibrillanosema G.M. Johanna, S. Galbreath, J.E. Smith, R.S. Terry, J.J. Becnel & A.M. Dunn GENUS
 
 #### Status
 ACCEPTED

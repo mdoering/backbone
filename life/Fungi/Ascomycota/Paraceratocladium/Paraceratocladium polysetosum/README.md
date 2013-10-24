@@ -1,5 +1,4 @@
-Paraceratocladium polysetosum R.F. Castañeda SPECIES
-=======
+# Paraceratocladium polysetosum R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

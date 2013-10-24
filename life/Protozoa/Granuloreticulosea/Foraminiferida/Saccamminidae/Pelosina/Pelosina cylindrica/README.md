@@ -1,5 +1,4 @@
-Pelosina cylindrica SPECIES
-=======
+# Pelosina cylindrica SPECIES
 
 #### Status
 ACCEPTED

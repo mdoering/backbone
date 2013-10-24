@@ -1,5 +1,4 @@
-Poria alboatra (P. Karst.) Sacc. SPECIES
-=======
+# Poria alboatra (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

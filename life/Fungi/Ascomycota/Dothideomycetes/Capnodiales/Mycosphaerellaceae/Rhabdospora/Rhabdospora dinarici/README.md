@@ -1,5 +1,4 @@
-Rhabdospora dinarici Moesz SPECIES
-=======
+# Rhabdospora dinarici Moesz SPECIES
 
 #### Status
 ACCEPTED

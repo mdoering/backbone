@@ -1,5 +1,4 @@
-Zignoëlla garciniae Henn. SPECIES
-=======
+# Zignoëlla garciniae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria conformis Vain. SPECIES
-=======
+# Pertusaria conformis Vain. SPECIES
 
 #### Status
 ACCEPTED

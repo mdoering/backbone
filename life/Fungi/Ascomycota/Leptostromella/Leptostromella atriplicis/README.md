@@ -1,5 +1,4 @@
-Leptostromella atriplicis Bubák & Krieg. SPECIES
-=======
+# Leptostromella atriplicis Bubák & Krieg. SPECIES
 
 #### Status
 ACCEPTED

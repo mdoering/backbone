@@ -1,5 +1,4 @@
-Visbysphaera T.R.Lister GENUS
-=======
+# Visbysphaera T.R.Lister GENUS
 
 #### Status
 ACCEPTED

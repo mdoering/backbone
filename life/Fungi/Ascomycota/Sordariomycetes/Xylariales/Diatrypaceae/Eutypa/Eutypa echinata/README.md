@@ -1,5 +1,4 @@
-Eutypa echinata Ellis & Everh. SPECIES
-=======
+# Eutypa echinata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

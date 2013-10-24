@@ -1,5 +1,4 @@
-Synalissa sphaerospora Nyl. SPECIES
-=======
+# Synalissa sphaerospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

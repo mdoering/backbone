@@ -1,5 +1,4 @@
-Uredo rhoina Syd. & P. Syd. SPECIES
-=======
+# Uredo rhoina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

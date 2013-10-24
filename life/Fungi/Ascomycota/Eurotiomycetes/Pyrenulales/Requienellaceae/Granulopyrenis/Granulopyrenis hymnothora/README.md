@@ -1,5 +1,4 @@
-Granulopyrenis hymnothora (Ach.) Aptroot SPECIES
-=======
+# Granulopyrenis hymnothora (Ach.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

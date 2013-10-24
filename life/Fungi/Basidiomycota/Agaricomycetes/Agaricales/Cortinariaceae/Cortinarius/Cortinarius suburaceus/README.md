@@ -1,14 +1,13 @@
-Cortinarius uraceus f. suburaceus (M.M. Moser) Nespiak, 1981 FORM
-=======
+# Cortinarius suburaceus M.M. Moser, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska (Warszawa-Kraków), Grzyby (Mycota). Basidiomycetes, Agaricales, Cortinariaceae, Cortinarius II 14: 98 (1981)
+Guida alla Determinazione dei Funghi (Trento), 1° Polyporales, Boletales, Agaricales, Russulales. Edn 2 439 (1986)
 
 #### Original name
 Cortinarius suburaceus M.M. Moser, 1986

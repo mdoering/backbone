@@ -1,5 +1,4 @@
-Spegazzinna tessarthra (Berkeley & Curtis) Saccardo. SPECIES
-=======
+# Spegazzinna tessarthra (Berkeley & Curtis) Saccardo. SPECIES
 
 #### Status
 ACCEPTED

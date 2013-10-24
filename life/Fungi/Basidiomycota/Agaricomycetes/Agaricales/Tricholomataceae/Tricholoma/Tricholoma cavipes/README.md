@@ -1,5 +1,4 @@
-Tricholoma cavipes Corner SPECIES
-=======
+# Tricholoma cavipes Corner SPECIES
 
 #### Status
 ACCEPTED

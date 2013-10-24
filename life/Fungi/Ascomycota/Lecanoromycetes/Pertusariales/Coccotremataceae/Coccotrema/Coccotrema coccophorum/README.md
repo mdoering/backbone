@@ -1,5 +1,4 @@
-Coccotrema coccophorum (Mont.) I. Schmitt, Messuti & Lumbsch SPECIES
-=======
+# Coccotrema coccophorum (Mont.) I. Schmitt, Messuti & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

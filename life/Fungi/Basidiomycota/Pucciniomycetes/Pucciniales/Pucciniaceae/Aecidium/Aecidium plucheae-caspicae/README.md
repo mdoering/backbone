@@ -1,5 +1,4 @@
-Aecidium plucheae-caspicae Zaprom. SPECIES
-=======
+# Aecidium plucheae-caspicae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

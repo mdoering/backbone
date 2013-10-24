@@ -1,5 +1,4 @@
-Peziza lentifera Vent. SPECIES
-=======
+# Peziza lentifera Vent. SPECIES
 
 #### Status
 ACCEPTED

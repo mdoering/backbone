@@ -1,5 +1,4 @@
-Russula tawai McNabb, 1973 SPECIES
-=======
+# Russula tawai McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

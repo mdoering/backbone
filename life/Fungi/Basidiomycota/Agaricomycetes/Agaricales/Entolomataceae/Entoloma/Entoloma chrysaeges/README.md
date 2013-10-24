@@ -1,5 +1,4 @@
-Entoloma chrysaeges Berk. & Broome SPECIES
-=======
+# Entoloma chrysaeges Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

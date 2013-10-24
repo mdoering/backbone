@@ -1,8 +1,7 @@
-Acanthoecopsis apoda Leadbeater, 1972 SPECIES
-=======
+# Acanthocorbis apoda (Leadbeater, 1972) Hara & Takahashi, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

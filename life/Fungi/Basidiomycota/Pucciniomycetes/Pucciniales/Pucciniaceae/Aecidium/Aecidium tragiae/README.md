@@ -1,5 +1,4 @@
-Aecidium tragiae Cooke SPECIES
-=======
+# Aecidium tragiae Cooke SPECIES
 
 #### Status
 ACCEPTED

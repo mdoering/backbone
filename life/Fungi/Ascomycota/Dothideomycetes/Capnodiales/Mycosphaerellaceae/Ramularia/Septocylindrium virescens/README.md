@@ -1,5 +1,4 @@
-Septocylindrium virescens (Corda) Sacc. SPECIES
-=======
+# Septocylindrium virescens (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

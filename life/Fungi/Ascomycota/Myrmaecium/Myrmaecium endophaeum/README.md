@@ -1,5 +1,4 @@
-Myrmaecium endophaeum Speg. SPECIES
-=======
+# Myrmaecium endophaeum Speg. SPECIES
 
 #### Status
 ACCEPTED

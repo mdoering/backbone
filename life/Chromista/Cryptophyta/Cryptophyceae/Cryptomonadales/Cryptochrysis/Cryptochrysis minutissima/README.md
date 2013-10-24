@@ -1,5 +1,4 @@
-Cryptochrysis minutissima R. E. Norris SPECIES
-=======
+# Cryptochrysis minutissima R. E. Norris SPECIES
 
 #### Status
 ACCEPTED

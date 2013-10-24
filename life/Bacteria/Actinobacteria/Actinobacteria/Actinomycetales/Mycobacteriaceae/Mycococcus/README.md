@@ -1,5 +1,4 @@
-Mycococcus Krassilnikov, 1938 GENUS
-=======
+# Mycococcus Krassilnikov, 1938 GENUS
 
 #### Status
 ACCEPTED

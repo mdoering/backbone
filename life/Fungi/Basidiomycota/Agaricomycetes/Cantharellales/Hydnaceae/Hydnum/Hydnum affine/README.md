@@ -1,5 +1,4 @@
-Hydnum affine Lloyd SPECIES
-=======
+# Hydnum affine Lloyd SPECIES
 
 #### Status
 ACCEPTED

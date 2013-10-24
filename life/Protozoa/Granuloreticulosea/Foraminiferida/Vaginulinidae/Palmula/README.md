@@ -1,5 +1,4 @@
-Palmula Lea, 1833 GENUS
-=======
+# Palmula Lea, 1833 GENUS
 
 #### Status
 ACCEPTED

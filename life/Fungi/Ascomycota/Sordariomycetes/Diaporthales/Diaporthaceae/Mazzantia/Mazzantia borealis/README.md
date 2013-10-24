@@ -1,5 +1,4 @@
-Mazzantia borealis (Sacc.) M. Monod SPECIES
-=======
+# Mazzantia borealis (Sacc.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

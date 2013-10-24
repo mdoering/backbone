@@ -1,5 +1,4 @@
-Monospermella GENUS
-=======
+# Monospermella GENUS
 
 #### Status
 ACCEPTED

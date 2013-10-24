@@ -1,14 +1,13 @@
-Leptosphaeria setosa (Leuchtm.) Shoemaker & C.E. Babc., 1989 SPECIES
-=======
+# Phaeosphaeria setosa Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 67(5): 1580 (1989)
+Sydowia 37: 159 (1984)
 
 #### Original name
 Phaeosphaeria setosa Leuchtm., 1984

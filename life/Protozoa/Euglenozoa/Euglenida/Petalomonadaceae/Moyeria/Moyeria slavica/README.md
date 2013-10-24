@@ -1,5 +1,4 @@
-Moyeria slavica Vavrdová, 1989 SPECIES
-=======
+# Moyeria slavica Vavrdová, 1989 SPECIES
 
 #### Status
 ACCEPTED

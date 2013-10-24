@@ -1,5 +1,4 @@
-Caliciopsis pseudotsugae Fitzp., 1942 SPECIES
-=======
+# Caliciopsis pseudotsugae Fitzp., 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus yellowstonensis Copeland SPECIES
-=======
+# Chroococcus yellowstonensis Copeland SPECIES
 
 #### Status
 ACCEPTED

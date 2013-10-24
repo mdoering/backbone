@@ -1,5 +1,4 @@
-Notocladonia undulata S. Hammer SPECIES
-=======
+# Notocladonia undulata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

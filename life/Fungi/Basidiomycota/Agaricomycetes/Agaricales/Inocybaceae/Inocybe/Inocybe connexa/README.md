@@ -1,5 +1,4 @@
-Inocybe connexa Kauffman SPECIES
-=======
+# Inocybe connexa Kauffman SPECIES
 
 #### Status
 ACCEPTED

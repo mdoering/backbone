@@ -1,5 +1,4 @@
-Lecanora geophila (Th. Fr.) Poelt SPECIES
-=======
+# Lecanora geophila (Th. Fr.) Poelt SPECIES
 
 #### Status
 ACCEPTED

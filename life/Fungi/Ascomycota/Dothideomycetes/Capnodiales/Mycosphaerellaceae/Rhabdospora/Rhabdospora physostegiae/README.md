@@ -1,5 +1,4 @@
-Rhabdospora physostegiae Peck SPECIES
-=======
+# Rhabdospora physostegiae Peck SPECIES
 
 #### Status
 ACCEPTED

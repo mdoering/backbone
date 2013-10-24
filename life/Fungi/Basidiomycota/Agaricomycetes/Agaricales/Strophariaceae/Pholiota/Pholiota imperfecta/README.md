@@ -1,5 +1,4 @@
-Pholiota imperfecta Cleland SPECIES
-=======
+# Pholiota imperfecta Cleland SPECIES
 
 #### Status
 ACCEPTED

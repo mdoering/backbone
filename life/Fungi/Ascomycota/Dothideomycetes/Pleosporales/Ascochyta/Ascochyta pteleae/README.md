@@ -1,5 +1,4 @@
-Ascochyta pteleae Bubák & Kabát SPECIES
-=======
+# Ascochyta pteleae Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

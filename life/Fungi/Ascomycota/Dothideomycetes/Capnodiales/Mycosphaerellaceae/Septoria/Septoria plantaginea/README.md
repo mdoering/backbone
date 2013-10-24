@@ -1,17 +1,16 @@
-Septoria plantaginea var. plantaginea VARIETY
-=======
+# Septoria plantaginea Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Funghi Parm. Septor. no. 105 (1879)
 
 #### Original name
-Septoria plantaginea var. plantaginea
+Septoria plantaginea Pass., 1879
 
 ### Remarks
 null

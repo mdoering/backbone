@@ -1,5 +1,4 @@
-Caeoma iridis Schwein. SPECIES
-=======
+# Caeoma iridis Schwein. SPECIES
 
 #### Status
 ACCEPTED

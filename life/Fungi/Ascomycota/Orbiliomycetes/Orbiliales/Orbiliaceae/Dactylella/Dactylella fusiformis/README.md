@@ -1,5 +1,4 @@
-Dactylella fusiformis Grove SPECIES
-=======
+# Dactylella fusiformis Grove SPECIES
 
 #### Status
 ACCEPTED

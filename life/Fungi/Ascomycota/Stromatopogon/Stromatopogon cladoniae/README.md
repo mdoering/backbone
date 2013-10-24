@@ -1,5 +1,4 @@
-Stromatopogon cladoniae Diederich & Sérus. SPECIES
-=======
+# Stromatopogon cladoniae Diederich & Sérus. SPECIES
 
 #### Status
 ACCEPTED

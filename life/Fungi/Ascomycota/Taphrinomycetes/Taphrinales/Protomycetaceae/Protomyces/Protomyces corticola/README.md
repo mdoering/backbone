@@ -1,5 +1,4 @@
-Protomyces corticola P. Karst. SPECIES
-=======
+# Protomyces corticola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

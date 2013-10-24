@@ -1,14 +1,13 @@
-Mycena irritans E. Horak, 1978 SPECIES
-=======
+# Roridomyces irritans (E. Horak) Rexer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. schweiz. bot. Ges. 88(12): 25 (1978)
+Die Gattung Mycena s. l. (Tübingen), Studien zu Ihrer Anatomie, Morphologie und Systematik 140 (1994)
 
 #### Original name
 Mycena irritans E. Horak, 1978

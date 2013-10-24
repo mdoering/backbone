@@ -1,5 +1,4 @@
-Marssonia rubiginosa Ellis & Everh. SPECIES
-=======
+# Marssonia rubiginosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subradians Nyl. SPECIES
-=======
+# Lecanora subradians Nyl. SPECIES
 
 #### Status
 ACCEPTED

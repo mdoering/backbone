@@ -1,5 +1,4 @@
-Parmelia pelobata Essl. SPECIES
-=======
+# Parmelia pelobata Essl. SPECIES
 
 #### Status
 ACCEPTED

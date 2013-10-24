@@ -1,5 +1,4 @@
-Arcyria dentata Schumach. SPECIES
-=======
+# Arcyria dentata Schumach. SPECIES
 
 #### Status
 ACCEPTED

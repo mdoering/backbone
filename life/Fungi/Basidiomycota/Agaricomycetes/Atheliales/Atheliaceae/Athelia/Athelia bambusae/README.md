@@ -1,5 +1,4 @@
-Athelia bambusae Gilb. & Adask., 1993 SPECIES
-=======
+# Athelia bambusae Gilb. & Adask., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia subcyanula (Fr.) P. Kumm., 1871 SPECIES
-=======
+# Leptonia subcyanula (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED

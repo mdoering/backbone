@@ -1,5 +1,4 @@
-Cantharellus roseus (Schwein.) Fr. SPECIES
-=======
+# Cantharellus roseus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

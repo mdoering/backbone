@@ -1,14 +1,13 @@
-Menispora aurea Corda, 1838 SPECIES
-=======
+# Chalara aurea (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 2: 43 (1838)
+Can. J. Bot. 36: 747 (1958)
 
 #### Original name
 Menispora aurea Corda, 1838

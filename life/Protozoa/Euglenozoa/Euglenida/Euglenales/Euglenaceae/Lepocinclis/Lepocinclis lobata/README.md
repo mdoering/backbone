@@ -1,5 +1,4 @@
-Lepocinclis lobata Conrad SPECIES
-=======
+# Lepocinclis lobata Conrad SPECIES
 
 #### Status
 ACCEPTED

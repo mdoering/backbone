@@ -1,5 +1,4 @@
-Pseudocercospora torta (Tracy & Earle) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora torta (Tracy & Earle) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

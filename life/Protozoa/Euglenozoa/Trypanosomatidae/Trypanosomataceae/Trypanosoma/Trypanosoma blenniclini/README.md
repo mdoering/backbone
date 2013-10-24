@@ -1,5 +1,4 @@
-Trypanosoma blenniclini Fantham, 1930 SPECIES
-=======
+# Trypanosoma blenniclini Fantham, 1930 SPECIES
 
 #### Status
 ACCEPTED

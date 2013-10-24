@@ -1,5 +1,4 @@
-Sclerophomina phalaridis Petr. SPECIES
-=======
+# Sclerophomina phalaridis Petr. SPECIES
 
 #### Status
 ACCEPTED

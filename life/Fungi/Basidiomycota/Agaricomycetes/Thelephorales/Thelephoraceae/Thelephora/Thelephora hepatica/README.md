@@ -1,5 +1,4 @@
-Thelephora hepatica Fr. SPECIES
-=======
+# Thelephora hepatica Fr. SPECIES
 
 #### Status
 ACCEPTED

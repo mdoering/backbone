@@ -1,5 +1,4 @@
-Metasphaeria tetrasperma Koord. SPECIES
-=======
+# Metasphaeria tetrasperma Koord. SPECIES
 
 #### Status
 ACCEPTED

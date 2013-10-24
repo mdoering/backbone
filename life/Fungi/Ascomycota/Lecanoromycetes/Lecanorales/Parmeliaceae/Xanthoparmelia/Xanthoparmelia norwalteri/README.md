@@ -1,5 +1,4 @@
-Xanthoparmelia norwalteri Hale SPECIES
-=======
+# Xanthoparmelia norwalteri Hale SPECIES
 
 #### Status
 ACCEPTED

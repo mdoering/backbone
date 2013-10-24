@@ -1,5 +1,4 @@
-Lecidea viriduloatra B. de Lesd. SPECIES
-=======
+# Lecidea viriduloatra B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

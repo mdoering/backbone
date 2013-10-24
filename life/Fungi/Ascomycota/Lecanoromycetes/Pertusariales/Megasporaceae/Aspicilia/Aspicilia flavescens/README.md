@@ -1,5 +1,4 @@
-Aspicilia flavescens Anzi SPECIES
-=======
+# Aspicilia flavescens Anzi SPECIES
 
 #### Status
 ACCEPTED

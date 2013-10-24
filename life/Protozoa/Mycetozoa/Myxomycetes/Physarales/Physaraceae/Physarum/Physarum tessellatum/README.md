@@ -1,8 +1,7 @@
-Physarum spinulosum K.S. Thind & H.S. Sehgal, 1964 SPECIES
-=======
+# Physarum tessellatum G.W. Martin & M.L. Farr, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

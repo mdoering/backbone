@@ -1,5 +1,4 @@
-Apocubus Haeckel, 1887 GENUS
-=======
+# Apocubus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

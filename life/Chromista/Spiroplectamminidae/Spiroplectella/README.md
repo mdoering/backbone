@@ -1,5 +1,4 @@
-Spiroplectella Earland, 1934 GENUS
-=======
+# Spiroplectella Earland, 1934 GENUS
 
 #### Status
 ACCEPTED

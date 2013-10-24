@@ -1,5 +1,4 @@
-Scytosiphon echinatus (Roth) Trevisan SPECIES
-=======
+# Scytosiphon echinatus (Roth) Trevisan SPECIES
 
 #### Status
 ACCEPTED

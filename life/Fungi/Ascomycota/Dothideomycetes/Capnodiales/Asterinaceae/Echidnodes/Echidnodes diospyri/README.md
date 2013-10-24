@@ -1,5 +1,4 @@
-Echidnodes diospyri Hansf. SPECIES
-=======
+# Echidnodes diospyri Hansf. SPECIES
 
 #### Status
 ACCEPTED

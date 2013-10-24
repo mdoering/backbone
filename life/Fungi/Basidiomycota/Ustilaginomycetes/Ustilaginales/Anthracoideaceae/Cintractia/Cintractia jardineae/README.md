@@ -1,5 +1,4 @@
-Cintractia jardineae Zambett. SPECIES
-=======
+# Cintractia jardineae Zambett. SPECIES
 
 #### Status
 ACCEPTED

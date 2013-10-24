@@ -1,5 +1,4 @@
-Boletinus griseopallidus Vassilkov SPECIES
-=======
+# Boletinus griseopallidus Vassilkov SPECIES
 
 #### Status
 ACCEPTED

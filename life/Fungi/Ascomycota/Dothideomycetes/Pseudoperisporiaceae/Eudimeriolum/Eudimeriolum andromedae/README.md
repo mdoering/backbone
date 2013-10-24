@@ -1,5 +1,4 @@
-Eudimeriolum andromedae (Rehm) M.E. Barr SPECIES
-=======
+# Eudimeriolum andromedae (Rehm) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiostictis elegans (Grelet) Honrubia SPECIES
-=======
+# Lasiostictis elegans (Grelet) Honrubia SPECIES
 
 #### Status
 ACCEPTED

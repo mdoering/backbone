@@ -1,5 +1,4 @@
-Phyllosticta liatridis Davis SPECIES
-=======
+# Phyllosticta liatridis Davis SPECIES
 
 #### Status
 ACCEPTED

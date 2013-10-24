@@ -1,5 +1,4 @@
-Claudopus paludosus Velen. SPECIES
-=======
+# Claudopus paludosus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina discoidella (Nyl.) Arnold SPECIES
-=======
+# Biatorina discoidella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia schweinfurthii (Müll. Arg.) Vain. SPECIES
-=======
+# Heppia schweinfurthii (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

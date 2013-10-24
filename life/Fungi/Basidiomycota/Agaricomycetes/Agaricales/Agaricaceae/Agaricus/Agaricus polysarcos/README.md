@@ -1,5 +1,4 @@
-Agaricus polysarcos Kalchbr. & MacOwan SPECIES
-=======
+# Agaricus polysarcos Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

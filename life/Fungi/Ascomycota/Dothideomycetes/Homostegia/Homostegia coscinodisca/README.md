@@ -1,5 +1,4 @@
-Homostegia coscinodisca Ellis & Everh. SPECIES
-=======
+# Homostegia coscinodisca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

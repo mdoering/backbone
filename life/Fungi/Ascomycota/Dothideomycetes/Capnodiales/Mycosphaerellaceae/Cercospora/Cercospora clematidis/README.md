@@ -1,5 +1,4 @@
-Cercospora clematidis Boedijn SPECIES
-=======
+# Cercospora clematidis Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella entebbeensis (Hansf. & F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella entebbeensis (Hansf. & F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

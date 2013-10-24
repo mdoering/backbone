@@ -1,5 +1,4 @@
-Puccinia archibaccharidis J.F. Hennen, León-Gall. & Cummins SPECIES
-=======
+# Puccinia archibaccharidis J.F. Hennen, León-Gall. & Cummins SPECIES
 
 #### Status
 ACCEPTED

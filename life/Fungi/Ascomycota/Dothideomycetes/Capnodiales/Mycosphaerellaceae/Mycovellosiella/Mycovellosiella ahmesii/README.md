@@ -1,5 +1,4 @@
-Mycovellosiella ahmesii Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella ahmesii Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

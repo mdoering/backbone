@@ -1,5 +1,4 @@
-Ramularia babajaniae (Osipian) U. Braun SPECIES
-=======
+# Ramularia babajaniae (Osipian) U. Braun SPECIES
 
 #### Status
 ACCEPTED

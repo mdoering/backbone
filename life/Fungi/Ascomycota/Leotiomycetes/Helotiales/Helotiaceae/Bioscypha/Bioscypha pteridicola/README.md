@@ -1,5 +1,4 @@
-Bioscypha pteridicola Samuels & Rogerson, 1990 SPECIES
-=======
+# Bioscypha pteridicola Samuels & Rogerson, 1990 SPECIES
 
 #### Status
 ACCEPTED

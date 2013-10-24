@@ -1,5 +1,4 @@
-Oospora sommeri (Greco) Sartory SPECIES
-=======
+# Oospora sommeri (Greco) Sartory SPECIES
 
 #### Status
 ACCEPTED

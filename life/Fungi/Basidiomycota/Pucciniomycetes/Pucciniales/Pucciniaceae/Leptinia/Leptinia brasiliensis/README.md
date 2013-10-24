@@ -1,5 +1,4 @@
-Leptinia brasiliensis Juel SPECIES
-=======
+# Leptinia brasiliensis Juel SPECIES
 
 #### Status
 ACCEPTED

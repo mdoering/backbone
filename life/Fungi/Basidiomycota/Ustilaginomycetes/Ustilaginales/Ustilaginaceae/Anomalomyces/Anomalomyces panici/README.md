@@ -1,5 +1,4 @@
-Anomalomyces panici Vánky, R.G. Shivas & M. Lutz, 2006 SPECIES
-=======
+# Anomalomyces panici Vánky, R.G. Shivas & M. Lutz, 2006 SPECIES
 
 #### Status
 ACCEPTED

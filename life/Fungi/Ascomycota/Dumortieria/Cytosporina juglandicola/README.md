@@ -1,5 +1,4 @@
-Cytosporina juglandicola (Sacc.) Sacc. SPECIES
-=======
+# Cytosporina juglandicola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

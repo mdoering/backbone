@@ -1,5 +1,4 @@
-Phoma myriospora Syd. SPECIES
-=======
+# Phoma myriospora Syd. SPECIES
 
 #### Status
 ACCEPTED

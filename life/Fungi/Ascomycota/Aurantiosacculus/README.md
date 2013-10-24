@@ -1,5 +1,4 @@
-Aurantiosacculus Dyko & B. Sutton GENUS
-=======
+# Aurantiosacculus Dyko & B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium pruni-lusitanicae Oudem. SPECIES
-=======
+# Camarosporium pruni-lusitanicae Oudem. SPECIES
 
 #### Status
 ACCEPTED

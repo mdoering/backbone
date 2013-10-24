@@ -1,17 +1,16 @@
-Hebeloma longicaudum var. longicaudum VARIETY
-=======
+# Hebeloma leucosarx P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 80 (1871)
+Trans. Br. mycol. Soc. 43: 244 (1960)
 
 #### Original name
-Hebeloma longicaudum var. longicaudum
+Hebeloma leucosarx P.D. Orton, 1960
 
 ### Remarks
 null

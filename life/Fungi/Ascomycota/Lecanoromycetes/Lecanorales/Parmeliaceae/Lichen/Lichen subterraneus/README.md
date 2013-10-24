@@ -1,5 +1,4 @@
-Lichen subterraneus Willd. SPECIES
-=======
+# Lichen subterraneus Willd. SPECIES
 
 #### Status
 ACCEPTED

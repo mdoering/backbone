@@ -1,5 +1,4 @@
-Xanthochrous pullus (Mont. & Berk.) Pat. SPECIES
-=======
+# Xanthochrous pullus (Mont. & Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulparia brevicostatispora (J. Moravec) Donadini SPECIES
-=======
+# Pulparia brevicostatispora (J. Moravec) Donadini SPECIES
 
 #### Status
 ACCEPTED

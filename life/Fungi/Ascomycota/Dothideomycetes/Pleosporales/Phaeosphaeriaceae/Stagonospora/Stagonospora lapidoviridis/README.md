@@ -1,5 +1,4 @@
-Stagonospora lapidoviridis Dearn. SPECIES
-=======
+# Stagonospora lapidoviridis Dearn. SPECIES
 
 #### Status
 ACCEPTED

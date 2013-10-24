@@ -1,5 +1,4 @@
-Septoria leptostachya Ellis & Kellerm. SPECIES
-=======
+# Septoria leptostachya Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

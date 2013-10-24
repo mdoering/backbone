@@ -1,5 +1,4 @@
-Ortonella cipitensis (E. Ott) O. Dragastan SPECIES
-=======
+# Ortonella cipitensis (E. Ott) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

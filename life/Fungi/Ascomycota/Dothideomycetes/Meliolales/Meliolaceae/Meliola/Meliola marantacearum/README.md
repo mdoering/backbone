@@ -1,5 +1,4 @@
-Meliola marantacearum F. Stevens SPECIES
-=======
+# Meliola marantacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira rosulata Takano SPECIES
-=======
+# Thalassiosira rosulata Takano SPECIES
 
 #### Status
 ACCEPTED

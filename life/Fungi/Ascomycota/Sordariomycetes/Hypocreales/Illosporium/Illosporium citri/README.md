@@ -1,5 +1,4 @@
-Illosporium citri Muthappa SPECIES
-=======
+# Illosporium citri Muthappa SPECIES
 
 #### Status
 ACCEPTED

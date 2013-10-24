@@ -1,5 +1,4 @@
-Compsonema immixtum Setchell & Gardner SPECIES
-=======
+# Compsonema immixtum Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

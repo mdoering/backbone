@@ -1,5 +1,4 @@
-Coltricia gracilipes Corner SPECIES
-=======
+# Coltricia gracilipes Corner SPECIES
 
 #### Status
 ACCEPTED

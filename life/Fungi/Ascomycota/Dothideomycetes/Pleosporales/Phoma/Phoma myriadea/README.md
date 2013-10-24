@@ -1,5 +1,4 @@
-Phoma myriadea (Preuss) Sacc. SPECIES
-=======
+# Phoma myriadea (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craniaspis Haeckel, 1887 GENUS
-=======
+# Craniaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

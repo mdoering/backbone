@@ -1,5 +1,4 @@
-Porina sagedioides (Zahlbr.) P. M. McCarthy SPECIES
-=======
+# Porina sagedioides (Zahlbr.) P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

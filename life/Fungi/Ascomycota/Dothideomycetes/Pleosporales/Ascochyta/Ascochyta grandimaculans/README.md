@@ -1,5 +1,4 @@
-Ascochyta grandimaculans Kabát & Bubák SPECIES
-=======
+# Ascochyta grandimaculans Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auliscus lucidus Rattray SPECIES
-=======
+# Auliscus lucidus Rattray SPECIES
 
 #### Status
 ACCEPTED

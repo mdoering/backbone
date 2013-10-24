@@ -1,5 +1,4 @@
-Marinobacter zhejiangensis Huo, Wang, Yang, Wu & Xu, 2008 SPECIES
-=======
+# Marinobacter zhejiangensis Huo, Wang, Yang, Wu & Xu, 2008 SPECIES
 
 #### Status
 ACCEPTED

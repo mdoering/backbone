@@ -1,5 +1,4 @@
-Cercospora sphaeralceicola (Speg.) Chupp SPECIES
-=======
+# Cercospora sphaeralceicola (Speg.) Chupp SPECIES
 
 #### Status
 ACCEPTED

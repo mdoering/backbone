@@ -1,5 +1,4 @@
-Gorgonisphaeridium granatum Playford, 1977 SPECIES
-=======
+# Gorgonisphaeridium granatum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

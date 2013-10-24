@@ -1,5 +1,4 @@
-Septoria cenchrina Davis SPECIES
-=======
+# Septoria cenchrina Davis SPECIES
 
 #### Status
 ACCEPTED

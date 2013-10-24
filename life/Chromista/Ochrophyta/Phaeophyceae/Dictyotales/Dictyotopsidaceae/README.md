@@ -1,5 +1,4 @@
-Dictyotopsidaceae Allender, 1980 FAMILY
-=======
+# Dictyotopsidaceae Allender, 1980 FAMILY
 
 #### Status
 ACCEPTED

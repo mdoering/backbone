@@ -1,5 +1,4 @@
-Porina minutissima Henssen, Lücking & Vezda, 1998 SPECIES
-=======
+# Porina minutissima Henssen, Lücking & Vezda, 1998 SPECIES
 
 #### Status
 DOUBTFUL

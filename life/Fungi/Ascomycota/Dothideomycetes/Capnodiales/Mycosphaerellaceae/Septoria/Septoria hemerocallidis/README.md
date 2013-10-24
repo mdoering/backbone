@@ -1,5 +1,4 @@
-Septoria hemerocallidis Teng SPECIES
-=======
+# Septoria hemerocallidis Teng SPECIES
 
 #### Status
 ACCEPTED

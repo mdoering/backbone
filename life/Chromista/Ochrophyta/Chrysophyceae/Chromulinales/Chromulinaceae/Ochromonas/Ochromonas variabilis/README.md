@@ -1,5 +1,4 @@
-Ochromonas variabilis Meyer SPECIES
-=======
+# Ochromonas variabilis Meyer SPECIES
 
 #### Status
 ACCEPTED

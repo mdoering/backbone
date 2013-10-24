@@ -1,17 +1,16 @@
-Danaea Caneva & Rambelli, 1981 GENUS
-=======
+# Kiliophora Kuthub. & Nawawi GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 48: 239 (1993)
 
 #### Original name
-null
+Kiliophora Kuthub. & Nawawi
 
 ### Remarks
 null

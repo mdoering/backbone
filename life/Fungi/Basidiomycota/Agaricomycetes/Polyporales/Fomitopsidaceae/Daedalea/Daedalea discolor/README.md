@@ -1,5 +1,4 @@
-Daedalea discolor Klotzsch SPECIES
-=======
+# Daedalea discolor Klotzsch SPECIES
 
 #### Status
 ACCEPTED

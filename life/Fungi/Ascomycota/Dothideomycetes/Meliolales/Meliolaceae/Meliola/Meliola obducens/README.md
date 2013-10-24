@@ -1,5 +1,4 @@
-Meliola obducens Gaillard SPECIES
-=======
+# Meliola obducens Gaillard SPECIES
 
 #### Status
 ACCEPTED

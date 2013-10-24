@@ -1,5 +1,4 @@
-Guepinia dilatata Berk. SPECIES
-=======
+# Guepinia dilatata Berk. SPECIES
 
 #### Status
 ACCEPTED

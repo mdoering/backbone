@@ -1,5 +1,4 @@
-Jeotgalicoccus Yoon, Lee, Weiss, Kahg & Park, 2003 GENUS
-=======
+# Jeotgalicoccus Yoon, Lee, Weiss, Kahg & Park, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypoxylon maculum (Schwein.) J.H. Mill., 1941 SPECIES
-=======
+# Biscogniauxia schweinitzii Y.M. Ju & J.D. Rogers, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 33(1): 75 (1941)
+in Ju, Rogers, San Martín & Granmo, Mycotaxon 66: 53 (1998)
 
 #### Original name
 Sphaeria macula Schwein., 1822

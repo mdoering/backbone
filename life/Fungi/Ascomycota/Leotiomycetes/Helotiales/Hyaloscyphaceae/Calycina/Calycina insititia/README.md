@@ -1,5 +1,4 @@
-Calycina insititia (P. Karst.) Kuntze SPECIES
-=======
+# Calycina insititia (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

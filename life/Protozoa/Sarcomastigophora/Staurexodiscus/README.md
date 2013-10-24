@@ -1,5 +1,4 @@
-Staurexodiscus Haeckel, 1887 GENUS
-=======
+# Staurexodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

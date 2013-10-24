@@ -1,11 +1,10 @@
-Salpingella acuminata var. secata Brandt, 1906 VARIETY
-=======
+# Salpingella acuminata (Claparède & Lachmann, 1858) Jorgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

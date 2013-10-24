@@ -1,5 +1,4 @@
-Neotremella guzmanii Lowy, 1979 SPECIES
-=======
+# Neotremella guzmanii Lowy, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis torta Ellis & Everh. SPECIES
-=======
+# Botrytis torta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

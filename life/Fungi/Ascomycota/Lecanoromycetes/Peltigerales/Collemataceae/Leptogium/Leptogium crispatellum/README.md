@@ -1,5 +1,4 @@
-Leptogium crispatellum Nyl. SPECIES
-=======
+# Leptogium crispatellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

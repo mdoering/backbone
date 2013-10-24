@@ -1,5 +1,4 @@
-Cintractia majewskii Piatek & Vánky, 2005 SPECIES
-=======
+# Cintractia majewskii Piatek & Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

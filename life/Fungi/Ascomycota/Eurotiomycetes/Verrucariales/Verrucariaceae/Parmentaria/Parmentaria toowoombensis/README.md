@@ -1,14 +1,13 @@
-Anthracothecium toowoombense (Müll. Arg.) Aptroot SPECIES
-=======
+# Parmentaria toowoombensis Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Australasian Lichenology 60: 35 (2007)
+Annln K. K. naturh. Hofmus. Wien 7: 305 (1892)
 
 #### Original name
 Parmentaria toowoombensis Müll. Arg.

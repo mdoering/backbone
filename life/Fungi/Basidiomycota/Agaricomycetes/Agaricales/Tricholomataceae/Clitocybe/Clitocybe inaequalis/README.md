@@ -1,5 +1,4 @@
-Clitocybe inaequalis Velen. SPECIES
-=======
+# Clitocybe inaequalis Velen. SPECIES
 
 #### Status
 ACCEPTED

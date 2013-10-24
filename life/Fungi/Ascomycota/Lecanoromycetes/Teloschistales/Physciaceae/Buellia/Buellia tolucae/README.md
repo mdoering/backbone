@@ -1,5 +1,4 @@
-Buellia tolucae B. de Lesd. SPECIES
-=======
+# Buellia tolucae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

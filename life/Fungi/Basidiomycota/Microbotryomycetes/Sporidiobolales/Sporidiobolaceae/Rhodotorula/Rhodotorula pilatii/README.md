@@ -1,5 +1,4 @@
-Rhodotorula pilatii (F.H. Jacob, Faure-Reayn. & Berton) Weijman SPECIES
-=======
+# Rhodotorula pilatii (F.H. Jacob, Faure-Reayn. & Berton) Weijman SPECIES
 
 #### Status
 ACCEPTED

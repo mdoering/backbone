@@ -1,5 +1,4 @@
-Leucoagaricus olgae (Velen.) M.M. Moser SPECIES
-=======
+# Leucoagaricus olgae (Velen.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

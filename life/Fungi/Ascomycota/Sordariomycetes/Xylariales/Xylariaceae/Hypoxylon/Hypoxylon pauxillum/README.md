@@ -1,5 +1,4 @@
-Hypoxylon pauxillum Ces. SPECIES
-=======
+# Hypoxylon pauxillum Ces. SPECIES
 
 #### Status
 ACCEPTED

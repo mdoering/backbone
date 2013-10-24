@@ -1,5 +1,4 @@
-Xanthoparmelia schmidtii Hale SPECIES
-=======
+# Xanthoparmelia schmidtii Hale SPECIES
 
 #### Status
 ACCEPTED

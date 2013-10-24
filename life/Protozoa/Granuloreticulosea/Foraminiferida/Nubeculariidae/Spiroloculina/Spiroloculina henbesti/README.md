@@ -1,5 +1,4 @@
-Spiroloculina henbesti SPECIES
-=======
+# Spiroloculina henbesti SPECIES
 
 #### Status
 ACCEPTED

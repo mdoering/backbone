@@ -1,5 +1,4 @@
-Schizoderma Kunze, 1825 GENUS
-=======
+# Schizoderma Kunze, 1825 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hansenula citrica Sacch. SPECIES
-=======
+# Hansenula citrica Sacch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria chilensis Speg. SPECIES
-=======
+# Valsaria chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

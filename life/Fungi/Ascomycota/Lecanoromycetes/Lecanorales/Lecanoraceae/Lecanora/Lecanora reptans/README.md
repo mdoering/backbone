@@ -1,5 +1,4 @@
-Lecanora reptans Looman SPECIES
-=======
+# Lecanora reptans Looman SPECIES
 
 #### Status
 ACCEPTED

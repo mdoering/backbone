@@ -1,5 +1,4 @@
-Pseudonocardia asaccharolytica Reichert et al., 1998 SPECIES
-=======
+# Pseudonocardia asaccharolytica Reichert et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

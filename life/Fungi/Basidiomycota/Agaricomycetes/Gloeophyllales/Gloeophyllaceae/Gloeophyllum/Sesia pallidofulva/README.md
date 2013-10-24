@@ -1,5 +1,4 @@
-Sesia pallidofulva (Berk.) Murrill SPECIES
-=======
+# Sesia pallidofulva (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

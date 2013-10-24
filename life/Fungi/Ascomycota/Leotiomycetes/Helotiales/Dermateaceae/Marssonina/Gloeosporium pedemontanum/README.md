@@ -1,5 +1,4 @@
-Gloeosporium pedemontanum Pupillo, 1952 SPECIES
-=======
+# Gloeosporium pedemontanum Pupillo, 1952 SPECIES
 
 #### Status
 ACCEPTED

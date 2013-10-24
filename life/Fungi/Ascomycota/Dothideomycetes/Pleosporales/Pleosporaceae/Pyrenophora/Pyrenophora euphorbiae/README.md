@@ -1,5 +1,4 @@
-Pyrenophora euphorbiae Politis SPECIES
-=======
+# Pyrenophora euphorbiae Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothideales Lindau ORDER
-=======
+# Dothideales Lindau ORDER
 
 #### Status
 ACCEPTED

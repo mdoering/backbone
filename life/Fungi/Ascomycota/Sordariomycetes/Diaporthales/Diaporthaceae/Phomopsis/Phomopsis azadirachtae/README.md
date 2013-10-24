@@ -1,5 +1,4 @@
-Phomopsis azadirachtae Sateesh, Shank. Bhat & Devaki SPECIES
-=======
+# Phomopsis azadirachtae Sateesh, Shank. Bhat & Devaki SPECIES
 
 #### Status
 ACCEPTED

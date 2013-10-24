@@ -1,5 +1,4 @@
-Eucyrtidium dictyopodium (Haeckel) Takahashi, 1991 SPECIES
-=======
+# Eucyrtidium dictyopodium (Haeckel) Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

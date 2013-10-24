@@ -1,5 +1,4 @@
-Pestalozzina metasequoiae Gucevic SPECIES
-=======
+# Pestalozzina metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

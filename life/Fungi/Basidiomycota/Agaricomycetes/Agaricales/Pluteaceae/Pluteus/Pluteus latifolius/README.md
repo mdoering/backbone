@@ -1,5 +1,4 @@
-Pluteus latifolius Murrill SPECIES
-=======
+# Pluteus latifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

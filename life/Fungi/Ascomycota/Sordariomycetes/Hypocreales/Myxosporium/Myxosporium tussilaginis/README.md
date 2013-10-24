@@ -1,5 +1,4 @@
-Myxosporium tussilaginis Sacc. SPECIES
-=======
+# Myxosporium tussilaginis Sacc. SPECIES
 
 #### Status
 ACCEPTED

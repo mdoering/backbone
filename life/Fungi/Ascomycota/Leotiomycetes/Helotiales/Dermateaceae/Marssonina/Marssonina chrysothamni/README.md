@@ -1,5 +1,4 @@
-Marssonina chrysothamni Solheim SPECIES
-=======
+# Marssonina chrysothamni Solheim SPECIES
 
 #### Status
 ACCEPTED

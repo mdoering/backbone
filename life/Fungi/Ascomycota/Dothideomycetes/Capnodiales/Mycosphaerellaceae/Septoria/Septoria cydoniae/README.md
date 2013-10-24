@@ -1,5 +1,4 @@
-Septoria cydoniae Fuckel SPECIES
-=======
+# Septoria cydoniae Fuckel SPECIES
 
 #### Status
 ACCEPTED

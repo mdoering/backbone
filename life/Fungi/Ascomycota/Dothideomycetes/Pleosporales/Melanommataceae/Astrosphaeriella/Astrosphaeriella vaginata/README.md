@@ -1,5 +1,4 @@
-Astrosphaeriella vaginata F. San Martín & P. Lavín SPECIES
-=======
+# Astrosphaeriella vaginata F. San Martín & P. Lavín SPECIES
 
 #### Status
 ACCEPTED

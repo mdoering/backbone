@@ -1,5 +1,4 @@
-Stylocoronis Haeckel, 1887 GENUS
-=======
+# Stylocoronis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

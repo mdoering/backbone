@@ -1,5 +1,4 @@
-Cylindrosporium propinquum (Bubák & Vleugel) Vassiljevsky SPECIES
-=======
+# Cylindrosporium propinquum (Bubák & Vleugel) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

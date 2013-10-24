@@ -1,5 +1,4 @@
-Pestalotia sarcomphali (Cif. & Gonz. Frag.) Cif. SPECIES
-=======
+# Pestalotia sarcomphali (Cif. & Gonz. Frag.) Cif. SPECIES
 
 #### Status
 ACCEPTED

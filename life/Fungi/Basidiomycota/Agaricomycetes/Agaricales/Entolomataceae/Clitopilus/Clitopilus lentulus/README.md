@@ -1,5 +1,4 @@
-Clitopilus lentulus P. Karst. SPECIES
-=======
+# Clitopilus lentulus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

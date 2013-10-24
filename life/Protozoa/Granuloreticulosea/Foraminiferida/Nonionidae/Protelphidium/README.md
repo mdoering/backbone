@@ -1,5 +1,4 @@
-Protelphidium Haynes, 1956 GENUS
-=======
+# Protelphidium Haynes, 1956 GENUS
 
 #### Status
 ACCEPTED

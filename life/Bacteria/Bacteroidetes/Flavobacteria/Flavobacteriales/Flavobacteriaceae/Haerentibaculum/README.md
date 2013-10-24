@@ -1,5 +1,4 @@
-Haerentibaculum GENUS
-=======
+# Haerentibaculum GENUS
 
 #### Status
 ACCEPTED

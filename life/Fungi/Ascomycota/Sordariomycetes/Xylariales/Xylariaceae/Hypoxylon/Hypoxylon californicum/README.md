@@ -1,5 +1,4 @@
-Hypoxylon californicum Ellis & Everh., 1895 SPECIES
-=======
+# Hypoxylon californicum Ellis & Everh., 1895 SPECIES
 
 #### Status
 ACCEPTED

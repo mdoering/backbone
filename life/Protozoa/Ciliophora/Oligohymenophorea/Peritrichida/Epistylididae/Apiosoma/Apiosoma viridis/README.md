@@ -1,5 +1,4 @@
-Apiosoma viridis SPECIES
-=======
+# Apiosoma viridis SPECIES
 
 #### Status
 ACCEPTED

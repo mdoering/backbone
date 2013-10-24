@@ -1,5 +1,4 @@
-Microthyrium punctiforme (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Microthyrium punctiforme (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

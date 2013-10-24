@@ -1,5 +1,4 @@
-Dothiorella populina P. Karst., 1890 SPECIES
-=======
+# Dothiorella populina P. Karst., 1890 SPECIES
 
 #### Status
 ACCEPTED

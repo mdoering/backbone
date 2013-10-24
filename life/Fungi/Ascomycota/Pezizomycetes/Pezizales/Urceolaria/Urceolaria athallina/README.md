@@ -1,5 +1,4 @@
-Urceolaria athallina (Nyl.) Motyka SPECIES
-=======
+# Urceolaria athallina (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

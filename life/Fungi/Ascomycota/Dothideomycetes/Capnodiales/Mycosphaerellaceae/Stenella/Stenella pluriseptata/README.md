@@ -1,5 +1,4 @@
-Stenella pluriseptata Gadp., C.D. Sharma, Firdousi, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Stenella pluriseptata Gadp., C.D. Sharma, Firdousi, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

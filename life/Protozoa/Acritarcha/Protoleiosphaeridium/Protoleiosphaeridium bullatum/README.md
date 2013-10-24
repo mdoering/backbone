@@ -1,5 +1,4 @@
-Protoleiosphaeridium bullatum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium bullatum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

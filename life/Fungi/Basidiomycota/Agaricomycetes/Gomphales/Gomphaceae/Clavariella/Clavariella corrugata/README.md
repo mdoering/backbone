@@ -1,5 +1,4 @@
-Clavariella corrugata (P. Karst.) P. Karst. SPECIES
-=======
+# Clavariella corrugata (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

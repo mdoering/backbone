@@ -1,5 +1,4 @@
-Helotium belisense Kanouse SPECIES
-=======
+# Helotium belisense Kanouse SPECIES
 
 #### Status
 ACCEPTED

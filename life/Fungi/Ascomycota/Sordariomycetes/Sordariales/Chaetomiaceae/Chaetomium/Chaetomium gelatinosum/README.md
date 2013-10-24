@@ -1,5 +1,4 @@
-Chaetomium gelatinosum Ehrenb. SPECIES
-=======
+# Chaetomium gelatinosum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

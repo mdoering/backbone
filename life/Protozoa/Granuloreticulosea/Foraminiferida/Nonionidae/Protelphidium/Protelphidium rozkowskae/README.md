@@ -1,5 +1,4 @@
-Protelphidium rozkowskae Brodniewicz, 1972 SPECIES
-=======
+# Protelphidium rozkowskae Brodniewicz, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoloma ascoboloides Rehm SPECIES
-=======
+# Leucoloma ascoboloides Rehm SPECIES
 
 #### Status
 ACCEPTED

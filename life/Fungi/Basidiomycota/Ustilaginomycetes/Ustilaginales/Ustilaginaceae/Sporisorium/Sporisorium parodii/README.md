@@ -1,5 +1,4 @@
-Sporisorium parodii (Hirschh.) Vánky SPECIES
-=======
+# Sporisorium parodii (Hirschh.) Vánky SPECIES
 
 #### Status
 ACCEPTED

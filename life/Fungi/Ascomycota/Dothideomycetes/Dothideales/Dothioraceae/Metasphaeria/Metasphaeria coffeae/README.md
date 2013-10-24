@@ -1,5 +1,4 @@
-Metasphaeria coffeae Rehm SPECIES
-=======
+# Metasphaeria coffeae Rehm SPECIES
 
 #### Status
 ACCEPTED

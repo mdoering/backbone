@@ -1,5 +1,4 @@
-Diatrype vitellina Mont. SPECIES
-=======
+# Diatrype vitellina Mont. SPECIES
 
 #### Status
 ACCEPTED

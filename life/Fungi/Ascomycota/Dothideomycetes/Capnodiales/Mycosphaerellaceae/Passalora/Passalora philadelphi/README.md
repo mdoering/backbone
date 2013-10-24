@@ -1,5 +1,4 @@
-Passalora philadelphi (Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora philadelphi (Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

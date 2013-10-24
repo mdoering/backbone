@@ -1,5 +1,4 @@
-Sphaerella woronowii (Jacz.) Sacc. & Trotter SPECIES
-=======
+# Sphaerella woronowii (Jacz.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora centellae Manohar., Kunwar & Sharath SPECIES
-=======
+# Cercospora centellae Manohar., Kunwar & Sharath SPECIES
 
 #### Status
 ACCEPTED

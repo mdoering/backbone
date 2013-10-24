@@ -1,5 +1,4 @@
-Beella Banner & Blow, 1960 GENUS
-=======
+# Beella Banner & Blow, 1960 GENUS
 
 #### Status
 ACCEPTED

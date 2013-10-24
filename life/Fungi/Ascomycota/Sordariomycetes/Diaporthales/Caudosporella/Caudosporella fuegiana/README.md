@@ -1,5 +1,4 @@
-Caudosporella fuegiana (Speg.) Höhn. SPECIES
-=======
+# Caudosporella fuegiana (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

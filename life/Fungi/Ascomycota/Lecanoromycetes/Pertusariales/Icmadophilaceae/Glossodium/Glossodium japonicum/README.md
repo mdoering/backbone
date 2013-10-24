@@ -1,5 +1,4 @@
-Glossodium japonicum Zahlbr. SPECIES
-=======
+# Glossodium japonicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

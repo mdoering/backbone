@@ -1,5 +1,4 @@
-Leptosphaeria cladophila J. Schröt. SPECIES
-=======
+# Leptosphaeria cladophila J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

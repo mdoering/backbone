@@ -1,5 +1,4 @@
-Gerronema setipes (Fr.) Singer SPECIES
-=======
+# Gerronema setipes (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

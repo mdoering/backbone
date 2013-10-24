@@ -1,5 +1,4 @@
-Helotium rhytidodes Berk. & M.A. Curtis SPECIES
-=======
+# Helotium rhytidodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

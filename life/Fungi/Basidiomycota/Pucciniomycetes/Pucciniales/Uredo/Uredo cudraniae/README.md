@@ -1,5 +1,4 @@
-Uredo cudraniae Petch SPECIES
-=======
+# Uredo cudraniae Petch SPECIES
 
 #### Status
 ACCEPTED

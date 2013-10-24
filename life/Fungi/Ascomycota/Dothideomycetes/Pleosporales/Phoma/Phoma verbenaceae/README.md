@@ -1,5 +1,4 @@
-Phoma verbenaceae Tassi SPECIES
-=======
+# Phoma verbenaceae Tassi SPECIES
 
 #### Status
 ACCEPTED

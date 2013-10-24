@@ -1,5 +1,4 @@
-Asterionella candelabrum Manguin SPECIES
-=======
+# Asterionella candelabrum Manguin SPECIES
 
 #### Status
 ACCEPTED

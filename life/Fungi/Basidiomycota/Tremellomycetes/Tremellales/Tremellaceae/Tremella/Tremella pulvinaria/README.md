@@ -1,5 +1,4 @@
-Tremella pulvinaria Kobayasi SPECIES
-=======
+# Tremella pulvinaria Kobayasi SPECIES
 
 #### Status
 ACCEPTED

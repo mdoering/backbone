@@ -1,5 +1,4 @@
-Amerosporium platense Speg., 1902 SPECIES
-=======
+# Amerosporium platense Speg., 1902 SPECIES
 
 #### Status
 ACCEPTED

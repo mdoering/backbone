@@ -1,5 +1,4 @@
-Asteridium rubtzovii Gucevic SPECIES
-=======
+# Asteridium rubtzovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella cubana B. de Lesd. SPECIES
-=======
+# Dimerella cubana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

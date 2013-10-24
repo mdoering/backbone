@@ -1,5 +1,4 @@
-Lysobacter spongiicola Romanenko, Uchino, Tanaka, Frolova & Mikhailov, 2008 SPECIES
-=======
+# Lysobacter spongiicola Romanenko, Uchino, Tanaka, Frolova & Mikhailov, 2008 SPECIES
 
 #### Status
 ACCEPTED

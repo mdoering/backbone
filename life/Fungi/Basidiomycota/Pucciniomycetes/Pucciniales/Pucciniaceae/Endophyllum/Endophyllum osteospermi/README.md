@@ -1,5 +1,4 @@
-Endophyllum osteospermi (Doidge) A.R. Wood, 1998 SPECIES
-=======
+# Endophyllum osteospermi (Doidge) A.R. Wood, 1998 SPECIES
 
 #### Status
 ACCEPTED

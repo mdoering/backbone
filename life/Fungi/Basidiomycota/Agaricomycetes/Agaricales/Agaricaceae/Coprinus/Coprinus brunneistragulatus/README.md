@@ -1,5 +1,4 @@
-Coprinus brunneistragulatus Bogart SPECIES
-=======
+# Coprinus brunneistragulatus Bogart SPECIES
 
 #### Status
 ACCEPTED

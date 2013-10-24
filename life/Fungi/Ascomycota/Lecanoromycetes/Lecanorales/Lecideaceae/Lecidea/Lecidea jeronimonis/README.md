@@ -1,5 +1,4 @@
-Lecidea jeronimonis B. de Lesd. SPECIES
-=======
+# Lecidea jeronimonis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

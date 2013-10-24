@@ -1,5 +1,4 @@
-Cucurbitaria adelphica (Cooke & Massee) Kuntze SPECIES
-=======
+# Cucurbitaria adelphica (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Descolea Singer GENUS
-=======
+# Descolea Singer GENUS
 
 #### Status
 ACCEPTED

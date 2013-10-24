@@ -1,5 +1,4 @@
-Astrorhiza vermiculata Le Calvez, 1935 SPECIES
-=======
+# Astrorhiza vermiculata Le Calvez, 1935 SPECIES
 
 #### Status
 ACCEPTED

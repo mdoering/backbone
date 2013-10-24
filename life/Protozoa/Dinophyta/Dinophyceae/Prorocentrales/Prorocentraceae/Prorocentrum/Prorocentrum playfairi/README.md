@@ -1,8 +1,7 @@
-Exuviaella lima var. major Playfair VARIETY
-=======
+# Prorocentrum playfairi Croome & P.A. Tyler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

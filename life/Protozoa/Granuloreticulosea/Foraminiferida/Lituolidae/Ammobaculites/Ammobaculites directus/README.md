@@ -1,5 +1,4 @@
-Ammobaculites directus SPECIES
-=======
+# Ammobaculites directus SPECIES
 
 #### Status
 ACCEPTED

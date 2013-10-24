@@ -1,5 +1,4 @@
-Pleospora ranunculi Keissl. SPECIES
-=======
+# Pleospora ranunculi Keissl. SPECIES
 
 #### Status
 ACCEPTED

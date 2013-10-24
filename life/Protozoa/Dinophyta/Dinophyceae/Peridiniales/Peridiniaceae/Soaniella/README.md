@@ -1,5 +1,4 @@
-Soaniella T.F. Vozzhennikova, 1967 GENUS
-=======
+# Soaniella T.F. Vozzhennikova, 1967 GENUS
 
 #### Status
 ACCEPTED

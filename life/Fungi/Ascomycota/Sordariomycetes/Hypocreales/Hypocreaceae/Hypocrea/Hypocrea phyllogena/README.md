@@ -1,5 +1,4 @@
-Hypocrea phyllogena Mont. SPECIES
-=======
+# Hypocrea phyllogena Mont. SPECIES
 
 #### Status
 ACCEPTED

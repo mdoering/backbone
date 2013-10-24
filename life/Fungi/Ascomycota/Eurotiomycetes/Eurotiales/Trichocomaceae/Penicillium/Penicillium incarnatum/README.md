@@ -1,5 +1,4 @@
-Penicillium incarnatum Berk. & Broome SPECIES
-=======
+# Penicillium incarnatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

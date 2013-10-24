@@ -1,5 +1,4 @@
-Tromeropsis Sherwood GENUS
-=======
+# Tromeropsis Sherwood GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina pallido-ochracea Räsänen SPECIES
-=======
+# Rinodina pallido-ochracea Räsänen SPECIES
 
 #### Status
 ACCEPTED

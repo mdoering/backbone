@@ -1,5 +1,4 @@
-Pseudocercospora celosiarum (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora celosiarum (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella subhyalinispora A.H. Sm. SPECIES
-=======
+# Psathyrella subhyalinispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

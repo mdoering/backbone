@@ -1,5 +1,4 @@
-Acriora areolata (Jardiné, Combaz, Magloire, Peniguel & Vachey, 1974) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Acriora areolata (Jardiné, Combaz, Magloire, Peniguel & Vachey, 1974) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

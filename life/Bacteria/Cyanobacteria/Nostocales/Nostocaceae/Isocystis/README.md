@@ -1,5 +1,4 @@
-Isocystis Woron. GENUS
-=======
+# Isocystis Woron. GENUS
 
 #### Status
 ACCEPTED

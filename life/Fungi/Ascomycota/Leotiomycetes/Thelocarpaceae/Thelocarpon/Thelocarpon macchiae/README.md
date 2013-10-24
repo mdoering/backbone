@@ -1,5 +1,4 @@
-Thelocarpon macchiae Nimis, Poelt & Puntillo SPECIES
-=======
+# Thelocarpon macchiae Nimis, Poelt & Puntillo SPECIES
 
 #### Status
 ACCEPTED

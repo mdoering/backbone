@@ -1,5 +1,4 @@
-Dufourea muricata Laurer SPECIES
-=======
+# Dufourea muricata Laurer SPECIES
 
 #### Status
 ACCEPTED

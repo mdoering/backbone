@@ -1,5 +1,4 @@
-Cercosporina marmorata (Tranzschel) Sacc. SPECIES
-=======
+# Cercosporina marmorata (Tranzschel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candeina d'Orbigny, 1839 GENUS
-=======
+# Candeina d'Orbigny, 1839 GENUS
 
 #### Status
 ACCEPTED

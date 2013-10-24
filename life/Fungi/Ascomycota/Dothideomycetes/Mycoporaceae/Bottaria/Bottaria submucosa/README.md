@@ -1,5 +1,4 @@
-Bottaria submucosa SPECIES
-=======
+# Bottaria submucosa SPECIES
 
 #### Status
 ACCEPTED

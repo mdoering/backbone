@@ -1,5 +1,4 @@
-Asteridiella ozamensis (Cif.) Hansf. SPECIES
-=======
+# Asteridiella ozamensis (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

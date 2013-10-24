@@ -1,8 +1,7 @@
-Piptocephalis fusispora var. fusispora Tiegh., 1875 VARIETY
-=======
+# Piptocephalis fusispora Tiegh., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Annls Sci. Nat. , Bot. , sér. 6 1: 146 (1875)
 
 #### Original name
-Piptocephalis fusispora var. fusispora Tiegh., 1875
+Piptocephalis fusispora Tiegh., 1875
 
 ### Remarks
 null

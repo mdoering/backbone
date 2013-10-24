@@ -1,5 +1,4 @@
-Dimerium cayaponiae Garman SPECIES
-=======
+# Dimerium cayaponiae Garman SPECIES
 
 #### Status
 ACCEPTED

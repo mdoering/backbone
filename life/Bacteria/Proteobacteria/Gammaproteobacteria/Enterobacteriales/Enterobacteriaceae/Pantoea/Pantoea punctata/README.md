@@ -1,5 +1,4 @@
-Pantoea punctata Kageyama et al., 1992 SPECIES
-=======
+# Pantoea punctata Kageyama et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

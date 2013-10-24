@@ -1,5 +1,4 @@
-Drechslera lini (Gentner) Ondrej SPECIES
-=======
+# Drechslera lini (Gentner) Ondrej SPECIES
 
 #### Status
 ACCEPTED

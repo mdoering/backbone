@@ -1,5 +1,4 @@
-Hemicristellaria gotoensis Asano, 1956 SPECIES
-=======
+# Hemicristellaria gotoensis Asano, 1956 SPECIES
 
 #### Status
 DOUBTFUL

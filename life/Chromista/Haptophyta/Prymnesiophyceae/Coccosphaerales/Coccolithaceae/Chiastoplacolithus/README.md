@@ -1,5 +1,4 @@
-Chiastoplacolithus Barrier, 1977 GENUS
-=======
+# Chiastoplacolithus Barrier, 1977 GENUS
 
 #### Status
 ACCEPTED

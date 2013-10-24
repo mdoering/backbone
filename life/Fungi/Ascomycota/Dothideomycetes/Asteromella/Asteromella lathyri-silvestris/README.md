@@ -1,5 +1,4 @@
-Asteromella lathyri-silvestris H. Ruppr. SPECIES
-=======
+# Asteromella lathyri-silvestris H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

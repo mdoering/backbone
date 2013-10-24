@@ -1,5 +1,4 @@
-Armatella tetradeniae Hansf. SPECIES
-=======
+# Armatella tetradeniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

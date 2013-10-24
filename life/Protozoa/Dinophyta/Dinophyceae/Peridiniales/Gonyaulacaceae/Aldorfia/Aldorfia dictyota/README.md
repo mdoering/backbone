@@ -1,5 +1,4 @@
-Aldorfia dictyota (Cookson & Eisenack) R. J. Davey SPECIES
-=======
+# Aldorfia dictyota (Cookson & Eisenack) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

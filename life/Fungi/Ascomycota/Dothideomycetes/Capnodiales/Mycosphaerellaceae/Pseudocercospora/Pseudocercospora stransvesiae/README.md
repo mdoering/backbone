@@ -1,5 +1,4 @@
-Pseudocercospora stransvesiae (Katsuki & Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora stransvesiae (Katsuki & Ts. Kobay.) Deighton SPECIES
 
 #### Status
 ACCEPTED

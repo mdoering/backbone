@@ -1,5 +1,4 @@
-Balansia sessilis Henn. SPECIES
-=======
+# Balansia sessilis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Creangium sydowii Petr. SPECIES
-=======
+# Creangium sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya digueti Gomont SPECIES
-=======
+# Lyngbya digueti Gomont SPECIES
 
 #### Status
 ACCEPTED

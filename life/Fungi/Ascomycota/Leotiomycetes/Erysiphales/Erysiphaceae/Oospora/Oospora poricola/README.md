@@ -1,5 +1,4 @@
-Oospora poricola Kauffman SPECIES
-=======
+# Oospora poricola Kauffman SPECIES
 
 #### Status
 ACCEPTED

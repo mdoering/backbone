@@ -1,5 +1,4 @@
-Coprinus miniatoflexuosus Bres. & Pat. SPECIES
-=======
+# Coprinus miniatoflexuosus Bres. & Pat. SPECIES
 
 #### Status
 ACCEPTED

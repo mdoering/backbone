@@ -1,5 +1,4 @@
-Marssonina carpogena (Cooke & Harkn.) Arx SPECIES
-=======
+# Marssonina carpogena (Cooke & Harkn.) Arx SPECIES
 
 #### Status
 ACCEPTED

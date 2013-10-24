@@ -1,5 +1,4 @@
-Agaricus lonchophorus Berk. & Broome SPECIES
-=======
+# Agaricus lonchophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

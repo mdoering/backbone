@@ -1,5 +1,4 @@
-Phormacantha Jörgensen in Nordgaard & Jörgensen, 1905 GENUS
-=======
+# Phormacantha Jörgensen in Nordgaard & Jörgensen, 1905 GENUS
 
 #### Status
 ACCEPTED

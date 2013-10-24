@@ -1,5 +1,4 @@
-Uleomyces brenesii (Petr.) Arx, 1963 SPECIES
-=======
+# Uleomyces brenesii (Petr.) Arx, 1963 SPECIES
 
 #### Status
 ACCEPTED

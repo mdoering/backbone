@@ -1,14 +1,13 @@
-Dothidea fatiscens Schwein. ex Berk. & M.A. Curtis, 1853 SPECIES
-=======
+# Phyllachora fatiscens (Schwein. ex Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Acad. nat. Sci. Philad. 2: 288 (1853)
+Syll. fung. (Abellini) 2: 600 (1883)
 
 #### Original name
 Dothidea fatiscens Schwein. ex Berk. & M.A. Curtis, 1853

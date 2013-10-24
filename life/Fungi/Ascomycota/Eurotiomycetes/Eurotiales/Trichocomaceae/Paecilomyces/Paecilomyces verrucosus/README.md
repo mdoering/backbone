@@ -1,5 +1,4 @@
-Paecilomyces verrucosus Samson & Tansey SPECIES
-=======
+# Paecilomyces verrucosus Samson & Tansey SPECIES
 
 #### Status
 ACCEPTED

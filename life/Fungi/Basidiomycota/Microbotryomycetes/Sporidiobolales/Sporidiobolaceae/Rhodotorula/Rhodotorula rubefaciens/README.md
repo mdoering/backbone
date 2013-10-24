@@ -1,5 +1,4 @@
-Rhodotorula rubefaciens (Grosb.) F.C. Harrison SPECIES
-=======
+# Rhodotorula rubefaciens (Grosb.) F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

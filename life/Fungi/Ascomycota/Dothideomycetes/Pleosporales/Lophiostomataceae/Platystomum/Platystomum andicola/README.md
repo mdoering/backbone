@@ -1,5 +1,4 @@
-Platystomum andicola Speg. SPECIES
-=======
+# Platystomum andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

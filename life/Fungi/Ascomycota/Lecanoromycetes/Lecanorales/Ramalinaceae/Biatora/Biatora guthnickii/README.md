@@ -1,5 +1,4 @@
-Biatora guthnickii Hepp SPECIES
-=======
+# Biatora guthnickii Hepp SPECIES
 
 #### Status
 ACCEPTED

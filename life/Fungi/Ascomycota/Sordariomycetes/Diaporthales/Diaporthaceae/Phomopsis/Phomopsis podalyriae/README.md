@@ -1,5 +1,4 @@
-Phomopsis podalyriae (Henn.) Died. SPECIES
-=======
+# Phomopsis podalyriae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

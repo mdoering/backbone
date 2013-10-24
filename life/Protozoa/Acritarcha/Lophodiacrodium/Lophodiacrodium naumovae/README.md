@@ -1,5 +1,4 @@
-Lophodiacrodium naumovae Fensome et al., 1990 SPECIES
-=======
+# Lophodiacrodium naumovae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

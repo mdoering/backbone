@@ -1,5 +1,4 @@
-Peziza gyalectoides Saut. SPECIES
-=======
+# Peziza gyalectoides Saut. SPECIES
 
 #### Status
 ACCEPTED

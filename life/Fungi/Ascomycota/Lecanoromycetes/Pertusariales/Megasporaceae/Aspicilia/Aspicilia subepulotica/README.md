@@ -1,5 +1,4 @@
-Aspicilia subepulotica (Nyl.) Arnold SPECIES
-=======
+# Aspicilia subepulotica (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

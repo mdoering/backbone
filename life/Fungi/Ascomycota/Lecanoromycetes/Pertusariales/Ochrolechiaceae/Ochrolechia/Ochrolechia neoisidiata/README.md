@@ -1,5 +1,4 @@
-Ochrolechia neoisidiata Elix SPECIES
-=======
+# Ochrolechia neoisidiata Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valensiella vermiculata Gocht, 1970 SPECIES
-=======
+# Valensiella vermiculata Gocht, 1970 SPECIES
 
 #### Status
 ACCEPTED

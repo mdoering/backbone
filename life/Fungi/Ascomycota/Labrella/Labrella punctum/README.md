@@ -1,5 +1,4 @@
-Labrella punctum Corda SPECIES
-=======
+# Labrella punctum Corda SPECIES
 
 #### Status
 ACCEPTED

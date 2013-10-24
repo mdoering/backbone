@@ -1,5 +1,4 @@
-Dothidea borealis Heer SPECIES
-=======
+# Dothidea borealis Heer SPECIES
 
 #### Status
 ACCEPTED

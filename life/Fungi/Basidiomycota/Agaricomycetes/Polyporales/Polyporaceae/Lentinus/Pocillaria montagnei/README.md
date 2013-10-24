@@ -1,5 +1,4 @@
-Pocillaria montagnei Kuntze SPECIES
-=======
+# Pocillaria montagnei Kuntze SPECIES
 
 #### Status
 ACCEPTED

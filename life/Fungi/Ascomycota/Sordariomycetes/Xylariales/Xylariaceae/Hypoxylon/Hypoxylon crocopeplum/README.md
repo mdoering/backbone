@@ -1,17 +1,16 @@
-Hypoxylon crocatum Mont., 1850 SPECIES
-=======
+# Hypoxylon crocopeplum Berk. & M.A. Curtis, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gay, Fl. Chil. 7: 343 (1850)
+in Berkeley, Grevillea 4(no. 30): 49 (1875)
 
 #### Original name
-Hypoxylon crocatum Mont., 1850
+Hypoxylon crocopeplum Berk. & M.A. Curtis, 1875
 
 ### Remarks
 null

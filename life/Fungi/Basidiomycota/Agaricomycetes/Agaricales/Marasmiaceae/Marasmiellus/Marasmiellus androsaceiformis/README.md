@@ -1,5 +1,4 @@
-Marasmiellus androsaceiformis Singer SPECIES
-=======
+# Marasmiellus androsaceiformis Singer SPECIES
 
 #### Status
 ACCEPTED

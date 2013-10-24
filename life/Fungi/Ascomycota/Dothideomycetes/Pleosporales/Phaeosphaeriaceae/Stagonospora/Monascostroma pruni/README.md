@@ -1,5 +1,4 @@
-Monascostroma pruni M.E. Barr SPECIES
-=======
+# Monascostroma pruni M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

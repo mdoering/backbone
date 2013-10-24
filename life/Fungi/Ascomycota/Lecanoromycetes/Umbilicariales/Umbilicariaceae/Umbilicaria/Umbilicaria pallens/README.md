@@ -1,5 +1,4 @@
-Umbilicaria pallens Poelt SPECIES
-=======
+# Umbilicaria pallens Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria lonicerae (Seeler) Rossman SPECIES
-=======
+# Nectria lonicerae (Seeler) Rossman SPECIES
 
 #### Status
 ACCEPTED

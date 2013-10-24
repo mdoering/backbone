@@ -1,5 +1,4 @@
-Thecacinetidae Matthes, 1956 FAMILY
-=======
+# Thecacinetidae Matthes, 1956 FAMILY
 
 #### Status
 ACCEPTED

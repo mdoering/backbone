@@ -1,5 +1,4 @@
-Rhizophydium minutum G.F. Atk. SPECIES
-=======
+# Rhizophydium minutum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

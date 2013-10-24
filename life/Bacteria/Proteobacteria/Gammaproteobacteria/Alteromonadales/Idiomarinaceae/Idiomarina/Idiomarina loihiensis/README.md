@@ -1,5 +1,4 @@
-Idiomarina loihiensis Donachie et al., 2003 SPECIES
-=======
+# Idiomarina loihiensis Donachie et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

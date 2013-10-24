@@ -1,5 +1,4 @@
-Helminthopeltis almeidaeana Sousa da Câmara, 1950 SPECIES
-=======
+# Helminthopeltis almeidaeana Sousa da Câmara, 1950 SPECIES
 
 #### Status
 ACCEPTED

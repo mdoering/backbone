@@ -1,5 +1,4 @@
-Phoma boltoniae Dearn. SPECIES
-=======
+# Phoma boltoniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

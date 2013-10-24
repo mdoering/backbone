@@ -1,5 +1,4 @@
-Pezicula purpurascens (Ellis & Everh.) Seaver SPECIES
-=======
+# Pezicula purpurascens (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

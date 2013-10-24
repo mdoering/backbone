@@ -1,5 +1,4 @@
-Hypocrea rogersonii Samuels SPECIES
-=======
+# Hypocrea rogersonii Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa alnifraga Nitschke SPECIES
-=======
+# Valsa alnifraga Nitschke SPECIES
 
 #### Status
 ACCEPTED

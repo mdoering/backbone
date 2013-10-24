@@ -1,5 +1,4 @@
-Clitopilus recollectus (Britzelm.) Sacc. SPECIES
-=======
+# Clitopilus recollectus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

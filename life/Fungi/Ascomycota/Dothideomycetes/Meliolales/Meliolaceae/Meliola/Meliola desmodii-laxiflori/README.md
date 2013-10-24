@@ -1,5 +1,4 @@
-Meliola desmodii-laxiflori var. desmodii-laxiflori VARIETY
-=======
+# Meliola desmodii-laxiflori Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 11: 103 (1958)
 
 #### Original name
-Meliola desmodii-laxiflori var. desmodii-laxiflori
+Meliola desmodii-laxiflori Deighton
 
 ### Remarks
 null

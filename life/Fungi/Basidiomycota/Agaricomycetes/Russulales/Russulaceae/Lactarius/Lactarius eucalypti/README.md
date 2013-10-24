@@ -1,5 +1,4 @@
-Lactarius eucalypti O.K. Mill. & R.N. Hilton SPECIES
-=======
+# Lactarius eucalypti O.K. Mill. & R.N. Hilton SPECIES
 
 #### Status
 ACCEPTED

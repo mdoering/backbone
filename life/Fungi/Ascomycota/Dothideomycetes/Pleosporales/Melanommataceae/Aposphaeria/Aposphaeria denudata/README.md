@@ -1,5 +1,4 @@
-Aposphaeria denudata (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Aposphaeria denudata (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

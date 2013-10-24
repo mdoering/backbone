@@ -1,5 +1,4 @@
-Hypopteris GENUS
-=======
+# Hypopteris GENUS
 
 #### Status
 ACCEPTED

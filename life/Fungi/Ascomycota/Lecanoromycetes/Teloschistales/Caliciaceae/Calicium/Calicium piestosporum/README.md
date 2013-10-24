@@ -1,5 +1,4 @@
-Calicium piestosporum F. Wilson SPECIES
-=======
+# Calicium piestosporum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

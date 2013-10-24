@@ -1,5 +1,4 @@
-Discosia thesii Hollós SPECIES
-=======
+# Discosia thesii Hollós SPECIES
 
 #### Status
 ACCEPTED

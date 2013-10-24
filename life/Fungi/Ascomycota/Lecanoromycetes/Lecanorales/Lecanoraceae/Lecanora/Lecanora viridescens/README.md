@@ -1,5 +1,4 @@
-Lecanora viridescens f. pruinosa (Kremp.) Zahlbr. FORM
-=======
+# Lecanora viridescens B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 1: 39 (1893)
 
 #### Original name
-null
+Lecanora viridescens B. de Lesd.
 
 ### Remarks
 null

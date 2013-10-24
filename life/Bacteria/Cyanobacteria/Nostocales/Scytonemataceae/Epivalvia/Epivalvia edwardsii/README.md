@@ -1,5 +1,4 @@
-Epivalvia edwardsii SPECIES
-=======
+# Epivalvia edwardsii SPECIES
 
 #### Status
 ACCEPTED

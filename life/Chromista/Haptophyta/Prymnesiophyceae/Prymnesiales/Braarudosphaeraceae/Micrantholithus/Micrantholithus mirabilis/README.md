@@ -1,5 +1,4 @@
-Micrantholithus mirabilis Locker, 1965 SPECIES
-=======
+# Micrantholithus mirabilis Locker, 1965 SPECIES
 
 #### Status
 ACCEPTED

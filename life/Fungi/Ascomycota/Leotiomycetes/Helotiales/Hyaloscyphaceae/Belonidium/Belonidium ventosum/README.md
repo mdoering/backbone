@@ -1,5 +1,4 @@
-Belonidium ventosum (P. Karst.) SPECIES
-=======
+# Belonidium ventosum (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium patagonicum Balech, 1971 SPECIES
-=======
+# Gymnodinium patagonicum Balech, 1971 SPECIES
 
 #### Status
 ACCEPTED

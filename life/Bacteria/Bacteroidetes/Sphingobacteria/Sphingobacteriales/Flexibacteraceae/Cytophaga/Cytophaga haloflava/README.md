@@ -1,5 +1,4 @@
-Cytophaga haloflava SPECIES
-=======
+# Cytophaga haloflava SPECIES
 
 #### Status
 ACCEPTED

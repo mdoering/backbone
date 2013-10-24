@@ -1,5 +1,4 @@
-Cortinarius aurasiacus Pat. SPECIES
-=======
+# Cortinarius aurasiacus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma lilii-martagonis Allesch. SPECIES
-=======
+# Asteroma lilii-martagonis Allesch. SPECIES
 
 #### Status
 ACCEPTED

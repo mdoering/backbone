@@ -1,5 +1,4 @@
-Gymnopus cremoraceus (Peck) Murrill SPECIES
-=======
+# Gymnopus cremoraceus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

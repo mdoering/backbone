@@ -1,5 +1,4 @@
-Crystallocystidium subcrustosum Rick SPECIES
-=======
+# Crystallocystidium subcrustosum Rick SPECIES
 
 #### Status
 ACCEPTED

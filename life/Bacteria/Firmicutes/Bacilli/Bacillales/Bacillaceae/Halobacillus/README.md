@@ -1,5 +1,4 @@
-Halobacillus Spring et al., 1996 GENUS
-=======
+# Halobacillus Spring et al., 1996 GENUS
 
 #### Status
 ACCEPTED

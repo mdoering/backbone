@@ -1,5 +1,4 @@
-Buelliopsis vernicoma (Tuck.) A. Schneid. SPECIES
-=======
+# Buelliopsis vernicoma (Tuck.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius radicans (Velen.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius radicans (Velen.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriomycopsis aristata B. Sutton & Hodges SPECIES
-=======
+# Eriomycopsis aristata B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

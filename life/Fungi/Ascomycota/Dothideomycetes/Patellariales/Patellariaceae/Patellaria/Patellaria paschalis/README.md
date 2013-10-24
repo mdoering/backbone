@@ -1,5 +1,4 @@
-Patellaria paschalis SPECIES
-=======
+# Patellaria paschalis SPECIES
 
 #### Status
 ACCEPTED

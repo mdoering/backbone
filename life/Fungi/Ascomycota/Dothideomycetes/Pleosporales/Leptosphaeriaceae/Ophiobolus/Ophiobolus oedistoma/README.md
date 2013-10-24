@@ -1,5 +1,4 @@
-Ophiobolus oedistoma Speg. SPECIES
-=======
+# Ophiobolus oedistoma Speg. SPECIES
 
 #### Status
 ACCEPTED

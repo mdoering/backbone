@@ -1,5 +1,4 @@
-Biatora consanguinea Anzi SPECIES
-=======
+# Biatora consanguinea Anzi SPECIES
 
 #### Status
 ACCEPTED

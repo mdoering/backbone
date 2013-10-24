@@ -1,5 +1,4 @@
-Sporidesmium acinosum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium acinosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

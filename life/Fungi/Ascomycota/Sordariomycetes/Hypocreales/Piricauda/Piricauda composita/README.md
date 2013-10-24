@@ -1,5 +1,4 @@
-Piricauda composita (Berk. & Ravenel) R.T. Moore SPECIES
-=======
+# Piricauda composita (Berk. & Ravenel) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

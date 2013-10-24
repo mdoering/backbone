@@ -1,5 +1,4 @@
-Mycoporum rhypontoides Nyl. SPECIES
-=======
+# Mycoporum rhypontoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

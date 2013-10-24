@@ -1,5 +1,4 @@
-Hygrophorus subminiatus Murrill SPECIES
-=======
+# Hygrophorus subminiatus Murrill SPECIES
 
 #### Status
 ACCEPTED

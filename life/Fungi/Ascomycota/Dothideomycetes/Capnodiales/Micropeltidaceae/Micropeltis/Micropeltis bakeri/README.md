@@ -1,5 +1,4 @@
-Micropeltis bakeri Bat. & Peres SPECIES
-=======
+# Micropeltis bakeri Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

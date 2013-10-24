@@ -1,5 +1,4 @@
-Rhabdospora pleioblasti Hara SPECIES
-=======
+# Rhabdospora pleioblasti Hara SPECIES
 
 #### Status
 ACCEPTED

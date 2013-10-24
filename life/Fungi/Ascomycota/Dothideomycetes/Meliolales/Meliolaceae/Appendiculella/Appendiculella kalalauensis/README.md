@@ -1,5 +1,4 @@
-Appendiculella kalalauensis Hansf. SPECIES
-=======
+# Appendiculella kalalauensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

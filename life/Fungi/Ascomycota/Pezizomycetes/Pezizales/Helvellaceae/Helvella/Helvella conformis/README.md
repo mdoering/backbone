@@ -1,5 +1,4 @@
-Helvella conformis Pers. SPECIES
-=======
+# Helvella conformis Pers. SPECIES
 
 #### Status
 ACCEPTED

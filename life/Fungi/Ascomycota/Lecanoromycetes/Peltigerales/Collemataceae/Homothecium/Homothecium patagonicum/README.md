@@ -1,5 +1,4 @@
-Homothecium patagonicum (Räsänen) Henssen SPECIES
-=======
+# Homothecium patagonicum (Räsänen) Henssen SPECIES
 
 #### Status
 ACCEPTED

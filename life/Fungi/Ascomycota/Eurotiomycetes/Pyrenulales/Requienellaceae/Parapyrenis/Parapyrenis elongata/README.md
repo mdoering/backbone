@@ -1,5 +1,4 @@
-Parapyrenis elongata Aptroot SPECIES
-=======
+# Parapyrenis elongata Aptroot SPECIES
 
 #### Status
 ACCEPTED

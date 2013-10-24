@@ -1,5 +1,4 @@
-Baltisphaeridium triradiatum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium triradiatum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

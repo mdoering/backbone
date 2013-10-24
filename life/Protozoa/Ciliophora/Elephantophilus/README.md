@@ -1,5 +1,4 @@
-Elephantophilus Kofoid, 1935 GENUS
-=======
+# Elephantophilus Kofoid, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochilia sygmoides SPECIES
-=======
+# Trochilia sygmoides SPECIES
 
 #### Status
 ACCEPTED

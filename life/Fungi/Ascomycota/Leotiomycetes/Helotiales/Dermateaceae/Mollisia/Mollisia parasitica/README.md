@@ -1,5 +1,4 @@
-Mollisia parasitica (G. Winter) Sacc. SPECIES
-=======
+# Mollisia parasitica (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stanhughesia nipponica K. Matsush. & Matsush. SPECIES
-=======
+# Stanhughesia nipponica K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

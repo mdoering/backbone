@@ -1,5 +1,4 @@
-Jeotgalibacillus Yoon, Weiss, Lee, Lee, Kang & Park, 2001 GENUS
-=======
+# Jeotgalibacillus Yoon, Weiss, Lee, Lee, Kang & Park, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus lentinoides (Henn.) Lloyd SPECIES
-=======
+# Polyporus lentinoides (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporopodium fulgurans Vain. SPECIES
-=======
+# Sporopodium fulgurans Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria sphaerellula Peck SPECIES
-=======
+# Sphaeria sphaerellula Peck SPECIES
 
 #### Status
 ACCEPTED

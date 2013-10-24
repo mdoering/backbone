@@ -1,5 +1,4 @@
-Septoria adanensis Petr., 1953 SPECIES
-=======
+# Septoria adanensis Petr., 1953 SPECIES
 
 #### Status
 ACCEPTED

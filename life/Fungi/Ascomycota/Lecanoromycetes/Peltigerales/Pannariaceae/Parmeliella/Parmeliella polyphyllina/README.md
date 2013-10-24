@@ -1,5 +1,4 @@
-Parmeliella polyphyllina P.M. Jørg. SPECIES
-=======
+# Parmeliella polyphyllina P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

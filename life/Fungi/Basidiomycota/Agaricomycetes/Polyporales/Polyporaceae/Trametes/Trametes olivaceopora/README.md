@@ -1,5 +1,4 @@
-Trametes olivaceopora Ryvarden & Iturr., 2003 SPECIES
-=======
+# Trametes olivaceopora Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

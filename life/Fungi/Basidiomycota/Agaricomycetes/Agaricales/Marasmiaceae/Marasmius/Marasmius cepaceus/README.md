@@ -1,5 +1,4 @@
-Marasmius cepaceus Fr. SPECIES
-=======
+# Marasmius cepaceus Fr. SPECIES
 
 #### Status
 ACCEPTED

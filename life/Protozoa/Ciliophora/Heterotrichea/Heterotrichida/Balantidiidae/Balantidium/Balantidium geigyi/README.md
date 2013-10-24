@@ -1,5 +1,4 @@
-Balantidium geigyi Gisler, 1967 SPECIES
-=======
+# Balantidium geigyi Gisler, 1967 SPECIES
 
 #### Status
 ACCEPTED

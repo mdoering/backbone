@@ -1,5 +1,4 @@
-Endoconospora indica U. Braun & Hosag., 1993 SPECIES
-=======
+# Endoconospora indica U. Braun & Hosag., 1993 SPECIES
 
 #### Status
 ACCEPTED

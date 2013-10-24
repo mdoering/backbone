@@ -1,5 +1,4 @@
-Cortinarius acutocephalus Bidaud SPECIES
-=======
+# Cortinarius acutocephalus Bidaud SPECIES
 
 #### Status
 ACCEPTED

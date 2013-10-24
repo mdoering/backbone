@@ -1,5 +1,4 @@
-Lecidea verrucata Hue SPECIES
-=======
+# Lecidea verrucata Hue SPECIES
 
 #### Status
 ACCEPTED

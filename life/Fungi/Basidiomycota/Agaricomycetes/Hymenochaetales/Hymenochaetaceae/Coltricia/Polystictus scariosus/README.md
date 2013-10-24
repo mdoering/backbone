@@ -1,5 +1,4 @@
-Polystictus scariosus Berk. & M.A. Curtis SPECIES
-=======
+# Polystictus scariosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

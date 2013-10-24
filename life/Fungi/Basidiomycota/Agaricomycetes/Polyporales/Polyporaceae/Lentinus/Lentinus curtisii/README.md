@@ -1,5 +1,4 @@
-Lentinus curtisii Sacc. & Cub. SPECIES
-=======
+# Lentinus curtisii Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

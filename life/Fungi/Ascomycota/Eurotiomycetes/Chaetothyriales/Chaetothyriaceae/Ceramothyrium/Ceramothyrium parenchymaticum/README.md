@@ -1,5 +1,4 @@
-Ceramothyrium parenchymaticum (Doidge) Bat. SPECIES
-=======
+# Ceramothyrium parenchymaticum (Doidge) Bat. SPECIES
 
 #### Status
 ACCEPTED

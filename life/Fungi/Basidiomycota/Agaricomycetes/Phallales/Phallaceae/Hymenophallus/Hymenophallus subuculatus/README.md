@@ -1,5 +1,4 @@
-Hymenophallus subuculatus Mont. SPECIES
-=======
+# Hymenophallus subuculatus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia granosa (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia granosa (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

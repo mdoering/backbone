@@ -1,5 +1,4 @@
-Aecidium cryptotaeniae Dietel SPECIES
-=======
+# Aecidium cryptotaeniae Dietel SPECIES
 
 #### Status
 ACCEPTED

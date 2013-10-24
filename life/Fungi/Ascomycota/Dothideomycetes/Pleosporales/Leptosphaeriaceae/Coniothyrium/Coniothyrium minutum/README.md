@@ -1,5 +1,4 @@
-Coniothyrium minutum (Died.) Petr. & Syd. SPECIES
-=======
+# Coniothyrium minutum (Died.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

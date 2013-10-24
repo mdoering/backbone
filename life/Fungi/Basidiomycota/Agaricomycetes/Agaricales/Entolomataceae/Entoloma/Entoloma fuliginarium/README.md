@@ -1,5 +1,4 @@
-Entoloma fuliginarium P. Karst. SPECIES
-=======
+# Entoloma fuliginarium P. Karst. SPECIES
 
 #### Status
 ACCEPTED

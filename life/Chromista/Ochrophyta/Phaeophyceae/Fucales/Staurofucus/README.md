@@ -1,5 +1,4 @@
-Staurofucus G.P. Radczenko in L.D. Kiparisova, B.P. Markovskij & G.P. Radczenko, 1956 GENUS
-=======
+# Staurofucus G.P. Radczenko in L.D. Kiparisova, B.P. Markovskij & G.P. Radczenko, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila bulgarioides Sacc. SPECIES
-=======
+# Ombrophila bulgarioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

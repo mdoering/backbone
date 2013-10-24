@@ -1,5 +1,4 @@
-Bacidia euphorbiicola Werner SPECIES
-=======
+# Bacidia euphorbiicola Werner SPECIES
 
 #### Status
 ACCEPTED

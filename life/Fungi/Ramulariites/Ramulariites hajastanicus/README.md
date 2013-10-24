@@ -1,5 +1,4 @@
-Ramulariites hajastanicus Babajan & Tasl. SPECIES
-=======
+# Ramulariites hajastanicus Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

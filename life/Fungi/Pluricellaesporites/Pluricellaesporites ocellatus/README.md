@@ -1,5 +1,4 @@
-Pluricellaesporites ocellatus Z.C. Song & Liu Cao SPECIES
-=======
+# Pluricellaesporites ocellatus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

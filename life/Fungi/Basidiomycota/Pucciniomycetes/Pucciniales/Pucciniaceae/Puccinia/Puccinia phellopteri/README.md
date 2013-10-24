@@ -1,5 +1,4 @@
-Puccinia phellopteri P. Syd. & Syd. SPECIES
-=======
+# Puccinia phellopteri P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

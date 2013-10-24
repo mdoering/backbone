@@ -1,5 +1,4 @@
-Verneuilina tricarinata SPECIES
-=======
+# Verneuilina tricarinata SPECIES
 
 #### Status
 ACCEPTED

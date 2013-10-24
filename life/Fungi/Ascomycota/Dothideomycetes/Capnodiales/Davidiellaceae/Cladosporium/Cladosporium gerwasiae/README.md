@@ -1,5 +1,4 @@
-Cladosporium gerwasiae Heuchert, U. Braun & K. Schub. SPECIES
-=======
+# Cladosporium gerwasiae Heuchert, U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia allenii anon. SPECIES
-=======
+# Parmelia allenii anon. SPECIES
 
 #### Status
 ACCEPTED

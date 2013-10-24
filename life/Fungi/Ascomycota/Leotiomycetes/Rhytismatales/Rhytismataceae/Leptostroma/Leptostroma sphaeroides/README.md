@@ -1,5 +1,4 @@
-Leptostroma sphaeroides ß nitens (Schwein.) Fr. SPECIES
-=======
+# Leptostroma sphaeroides ß nitens (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

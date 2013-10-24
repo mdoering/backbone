@@ -1,5 +1,4 @@
-Cantharellus hypnorum Brond. SPECIES
-=======
+# Cantharellus hypnorum Brond. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoisariopsis chonemorphae R.C. Rajak & A.K. Pandey SPECIES
-=======
+# Phaeoisariopsis chonemorphae R.C. Rajak & A.K. Pandey SPECIES
 
 #### Status
 ACCEPTED

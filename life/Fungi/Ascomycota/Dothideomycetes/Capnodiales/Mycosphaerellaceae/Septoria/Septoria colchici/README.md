@@ -1,5 +1,4 @@
-Septoria colchici Pass. SPECIES
-=======
+# Septoria colchici Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auerswaldia felipponeana Sacc. SPECIES
-=======
+# Auerswaldia felipponeana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria vulpiellae Maire SPECIES
-=======
+# Septoria vulpiellae Maire SPECIES
 
 #### Status
 ACCEPTED

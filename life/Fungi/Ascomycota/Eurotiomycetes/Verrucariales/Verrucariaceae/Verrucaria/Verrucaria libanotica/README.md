@@ -1,5 +1,4 @@
-Verrucaria libanotica Servít SPECIES
-=======
+# Verrucaria libanotica Servít SPECIES
 
 #### Status
 ACCEPTED

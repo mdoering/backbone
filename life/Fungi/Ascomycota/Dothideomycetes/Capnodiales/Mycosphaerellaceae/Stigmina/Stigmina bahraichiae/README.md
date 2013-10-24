@@ -1,5 +1,4 @@
-Stigmina bahraichiae A.K. Singh & Kamal SPECIES
-=======
+# Stigmina bahraichiae A.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

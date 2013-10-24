@@ -1,5 +1,4 @@
-Hypoxylon turbinatum var. turbinatum Berk. VARIETY
-=======
+# Hypoxylon turbinatum Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 15: 51 (1876)
 
 #### Original name
-Hypoxylon turbinatum var. turbinatum Berk.
+Hypoxylon turbinatum Berk.
 
 ### Remarks
 null

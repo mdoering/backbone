@@ -1,5 +1,4 @@
-Uredo diplostephiicola Berndt SPECIES
-=======
+# Uredo diplostephiicola Berndt SPECIES
 
 #### Status
 ACCEPTED

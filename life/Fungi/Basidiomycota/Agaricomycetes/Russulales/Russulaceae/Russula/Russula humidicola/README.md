@@ -1,5 +1,4 @@
-Russula humidicola Burl. SPECIES
-=======
+# Russula humidicola Burl. SPECIES
 
 #### Status
 ACCEPTED

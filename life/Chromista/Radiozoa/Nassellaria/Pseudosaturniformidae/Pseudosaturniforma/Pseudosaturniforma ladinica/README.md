@@ -1,5 +1,4 @@
-Pseudosaturniforma ladinica SPECIES
-=======
+# Pseudosaturniforma ladinica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodomyces erubescens K.R. Appel SPECIES
-=======
+# Rhodomyces erubescens K.R. Appel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium euphorbiae Politis SPECIES
-=======
+# Cladosporium euphorbiae Politis SPECIES
 
 #### Status
 ACCEPTED

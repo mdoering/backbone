@@ -1,5 +1,4 @@
-Polyporus eucalypticola F. Muell. SPECIES
-=======
+# Polyporus eucalypticola F. Muell. SPECIES
 
 #### Status
 ACCEPTED

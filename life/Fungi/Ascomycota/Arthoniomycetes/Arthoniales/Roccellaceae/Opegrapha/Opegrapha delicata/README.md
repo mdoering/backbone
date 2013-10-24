@@ -1,5 +1,4 @@
-Opegrapha delicata Vain. SPECIES
-=======
+# Opegrapha delicata Vain. SPECIES
 
 #### Status
 ACCEPTED

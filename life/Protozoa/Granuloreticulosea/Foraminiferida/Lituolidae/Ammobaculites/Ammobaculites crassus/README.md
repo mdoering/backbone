@@ -1,5 +1,4 @@
-Ammobaculites crassus Warren, 1957 SPECIES
-=======
+# Ammobaculites crassus Warren, 1957 SPECIES
 
 #### Status
 ACCEPTED

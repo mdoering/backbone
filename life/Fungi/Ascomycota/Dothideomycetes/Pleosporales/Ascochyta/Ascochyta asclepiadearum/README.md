@@ -1,17 +1,16 @@
-Ascochyta asclepiadearum var. macrospora C. Massal. VARIETY
-=======
+# Ascochyta asclepiadearum Traverso, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 1(3): 312 (1903)
 
 #### Original name
-Ascochyta asclepiadearum var. macrospora C. Massal.
+Ascochyta asclepiadearum Traverso, 1903
 
 ### Remarks
 null

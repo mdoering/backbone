@@ -1,5 +1,4 @@
-Xerotus griseus Berk. SPECIES
-=======
+# Xerotus griseus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitariopsis gemmicida (Naumov) Vassilkov SPECIES
-=======
+# Cucurbitariopsis gemmicida (Naumov) Vassilkov SPECIES
 
 #### Status
 ACCEPTED

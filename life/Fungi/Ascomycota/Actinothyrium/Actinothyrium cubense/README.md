@@ -1,5 +1,4 @@
-Actinothyrium cubense Berk. & M.A. Curtis SPECIES
-=======
+# Actinothyrium cubense Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

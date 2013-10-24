@@ -1,5 +1,4 @@
-Tapesia pezizellaeformis Velen. SPECIES
-=======
+# Tapesia pezizellaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

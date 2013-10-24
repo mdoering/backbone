@@ -1,5 +1,4 @@
-Lasiosphaeria rhacodium Speg. SPECIES
-=======
+# Lasiosphaeria rhacodium Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridiopsis ovicola Léger & Hollande SPECIES
-=======
+# Chytridiopsis ovicola Léger & Hollande SPECIES
 
 #### Status
 ACCEPTED

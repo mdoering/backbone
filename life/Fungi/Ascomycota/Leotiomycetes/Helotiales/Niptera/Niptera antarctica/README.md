@@ -1,5 +1,4 @@
-Niptera antarctica Speg. SPECIES
-=======
+# Niptera antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

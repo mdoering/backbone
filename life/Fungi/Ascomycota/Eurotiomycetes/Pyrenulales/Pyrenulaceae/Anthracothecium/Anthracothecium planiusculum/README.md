@@ -1,5 +1,4 @@
-Anthracothecium planiusculum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium planiusculum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

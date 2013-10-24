@@ -1,5 +1,4 @@
-Parmentaria mamillata Ajay Singh SPECIES
-=======
+# Parmentaria mamillata Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subrugulosus Bidaud & Armada SPECIES
-=======
+# Cortinarius subrugulosus Bidaud & Armada SPECIES
 
 #### Status
 ACCEPTED

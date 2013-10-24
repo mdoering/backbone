@@ -1,5 +1,4 @@
-Nostoc kihlmani Lemmermann SPECIES
-=======
+# Nostoc kihlmani Lemmermann SPECIES
 
 #### Status
 ACCEPTED

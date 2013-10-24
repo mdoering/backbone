@@ -1,5 +1,4 @@
-Pronectria solorinae Lowen & R. Sant. SPECIES
-=======
+# Pronectria solorinae Lowen & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

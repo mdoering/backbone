@@ -1,5 +1,4 @@
-Tricholoma quercetorum Contu SPECIES
-=======
+# Tricholoma quercetorum Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomula loranthi Theiss., 1916 SPECIES
-=======
+# Asterostomula loranthi Theiss., 1916 SPECIES
 
 #### Status
 ACCEPTED

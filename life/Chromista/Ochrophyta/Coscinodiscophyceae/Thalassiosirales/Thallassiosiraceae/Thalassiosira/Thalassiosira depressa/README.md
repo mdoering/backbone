@@ -1,5 +1,4 @@
-Thalassiosira depressa M. Shiono SPECIES
-=======
+# Thalassiosira depressa M. Shiono SPECIES
 
 #### Status
 ACCEPTED

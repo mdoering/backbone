@@ -1,17 +1,16 @@
-Stictostroma von Höhnel, 1917 GENUS
-=======
+# Rhytisma E.M. Fries, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(5): 322 (1917)
+null
 
 #### Original name
-Stictostroma von Höhnel, 1917
+Rhytisma E.M. Fries, 1818
 
 ### Remarks
 null

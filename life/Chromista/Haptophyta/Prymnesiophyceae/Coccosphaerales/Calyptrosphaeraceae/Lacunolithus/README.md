@@ -1,5 +1,4 @@
-Lacunolithus P.R. Bown, 1993 GENUS
-=======
+# Lacunolithus P.R. Bown, 1993 GENUS
 
 #### Status
 ACCEPTED

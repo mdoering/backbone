@@ -1,5 +1,4 @@
-Gnomonia tenella Ellis & Everh. SPECIES
-=======
+# Gnomonia tenella Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

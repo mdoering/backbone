@@ -1,5 +1,4 @@
-Acompsomyces ootypi Santam. SPECIES
-=======
+# Acompsomyces ootypi Santam. SPECIES
 
 #### Status
 ACCEPTED

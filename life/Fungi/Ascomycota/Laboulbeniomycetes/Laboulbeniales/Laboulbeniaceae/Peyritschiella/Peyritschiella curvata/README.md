@@ -1,5 +1,4 @@
-Peyritschiella curvata Thaxt., 1890 SPECIES
-=======
+# Peyritschiella curvata Thaxt., 1890 SPECIES
 
 #### Status
 ACCEPTED

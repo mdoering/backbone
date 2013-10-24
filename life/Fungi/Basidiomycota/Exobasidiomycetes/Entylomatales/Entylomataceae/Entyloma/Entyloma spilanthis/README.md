@@ -1,5 +1,4 @@
-Entyloma spilanthis Speg. SPECIES
-=======
+# Entyloma spilanthis Speg. SPECIES
 
 #### Status
 ACCEPTED

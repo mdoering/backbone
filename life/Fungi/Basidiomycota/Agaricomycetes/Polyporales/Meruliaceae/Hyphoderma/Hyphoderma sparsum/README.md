@@ -1,5 +1,4 @@
-Hyphoderma sparsum Sacc. SPECIES
-=======
+# Hyphoderma sparsum Sacc. SPECIES
 
 #### Status
 ACCEPTED

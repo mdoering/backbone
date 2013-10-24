@@ -1,14 +1,13 @@
-Isaria tenuipes Peck, 1879 SPECIES
-=======
+# Paecilomyces tenuipes (Peck) Samson, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 31: 44 (1879)
+Stud. Mycol. 6: 49 (1974)
 
 #### Original name
 Isaria tenuipes Peck, 1879

@@ -1,5 +1,4 @@
-Pterulaceae FAMILY
-=======
+# Pterulaceae FAMILY
 
 #### Status
 ACCEPTED

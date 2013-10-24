@@ -1,5 +1,4 @@
-Proteus inconstans (Ornstein, 1920) Shaw and Clarke, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Proteus inconstans (Ornstein, 1920) Shaw and Clarke, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

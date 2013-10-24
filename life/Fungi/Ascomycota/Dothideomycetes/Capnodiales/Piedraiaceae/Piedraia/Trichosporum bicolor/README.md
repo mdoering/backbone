@@ -1,5 +1,4 @@
-Trichosporum bicolor P. Karst. & Har. SPECIES
-=======
+# Trichosporum bicolor P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

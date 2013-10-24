@@ -1,5 +1,4 @@
-Corticium auriforme Berk. & M.A. Curtis SPECIES
-=======
+# Corticium auriforme Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

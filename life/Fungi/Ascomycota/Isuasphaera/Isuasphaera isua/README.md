@@ -1,5 +1,4 @@
-Isuasphaera isua H.D. Pflug SPECIES
-=======
+# Isuasphaera isua H.D. Pflug SPECIES
 
 #### Status
 ACCEPTED

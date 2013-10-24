@@ -1,5 +1,4 @@
-Paenibacillus rhizosphaerae Rivas et al., 2005 SPECIES
-=======
+# Paenibacillus rhizosphaerae Rivas et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

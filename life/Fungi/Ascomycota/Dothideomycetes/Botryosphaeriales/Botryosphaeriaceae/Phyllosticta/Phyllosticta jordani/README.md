@@ -1,5 +1,4 @@
-Phyllosticta jordani Unamuno SPECIES
-=======
+# Phyllosticta jordani Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis globosa (Fée) Spreng. SPECIES
-=======
+# Graphis globosa (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium pellucidum M. Choisy SPECIES
-=======
+# Leptogium pellucidum M. Choisy SPECIES
 
 #### Status
 ACCEPTED

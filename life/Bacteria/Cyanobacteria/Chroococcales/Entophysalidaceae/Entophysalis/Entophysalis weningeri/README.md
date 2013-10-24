@@ -1,5 +1,4 @@
-Entophysalis weningeri Bourrelly SPECIES
-=======
+# Entophysalis weningeri Bourrelly SPECIES
 
 #### Status
 ACCEPTED

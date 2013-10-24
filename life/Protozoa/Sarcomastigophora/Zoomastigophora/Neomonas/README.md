@@ -1,5 +1,4 @@
-Neomonas Penso GENUS
-=======
+# Neomonas Penso GENUS
 
 #### Status
 ACCEPTED

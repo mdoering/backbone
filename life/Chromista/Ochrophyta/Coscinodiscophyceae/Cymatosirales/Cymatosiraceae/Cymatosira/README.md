@@ -1,5 +1,4 @@
-Cymatosira Grunow GENUS
-=======
+# Cymatosira Grunow GENUS
 
 #### Status
 ACCEPTED

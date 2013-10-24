@@ -1,5 +1,4 @@
-Phaeoisaria bambusae Höhn., 1909 SPECIES
-=======
+# Phaeoisaria bambusae Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

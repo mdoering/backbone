@@ -1,5 +1,4 @@
-Cladosporium episphaerium Schwein. SPECIES
-=======
+# Cladosporium episphaerium Schwein. SPECIES
 
 #### Status
 ACCEPTED

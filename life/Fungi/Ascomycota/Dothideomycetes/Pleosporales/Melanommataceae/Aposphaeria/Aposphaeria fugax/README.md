@@ -1,5 +1,4 @@
-Aposphaeria fugax Sacc. SPECIES
-=======
+# Aposphaeria fugax Sacc. SPECIES
 
 #### Status
 ACCEPTED

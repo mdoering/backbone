@@ -1,5 +1,4 @@
-Perispira Stein, 1859 GENUS
-=======
+# Perispira Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

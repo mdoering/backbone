@@ -1,5 +1,4 @@
-Stereum vespillaceus Berk. SPECIES
-=======
+# Stereum vespillaceus Berk. SPECIES
 
 #### Status
 ACCEPTED

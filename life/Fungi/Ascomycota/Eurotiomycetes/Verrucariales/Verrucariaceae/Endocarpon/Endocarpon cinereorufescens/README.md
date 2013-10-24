@@ -1,5 +1,4 @@
-Endocarpon cinereorufescens Vain. SPECIES
-=======
+# Endocarpon cinereorufescens Vain. SPECIES
 
 #### Status
 ACCEPTED

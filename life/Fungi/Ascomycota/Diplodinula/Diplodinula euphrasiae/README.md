@@ -1,5 +1,4 @@
-Diplodinula euphrasiae (Oudem.) Tassi SPECIES
-=======
+# Diplodinula euphrasiae (Oudem.) Tassi SPECIES
 
 #### Status
 ACCEPTED

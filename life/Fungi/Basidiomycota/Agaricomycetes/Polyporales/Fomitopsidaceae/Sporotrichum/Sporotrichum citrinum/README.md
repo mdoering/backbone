@@ -1,5 +1,4 @@
-Sporotrichum citrinum Bres. & Torrend SPECIES
-=======
+# Sporotrichum citrinum Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED

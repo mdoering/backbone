@@ -1,17 +1,16 @@
-Tephrocybe coracina var. coracina (Fr.) M.M. Moser VARIETY
-=======
+# Tephrocybe boudieri (Kühner & Romagn.) Derbsch, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 116 (1967)
+Z. Pilzk. 43(2): 186 (1977)
 
 #### Original name
-Tephrocybe coracina var. coracina (Fr.) M.M. Moser
+Lyophyllum boudieri Kühner & Romagn., 1954
 
 ### Remarks
 null

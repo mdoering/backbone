@@ -1,5 +1,4 @@
-Hexalaspidae Haeckel, 1887 FAMILY
-=======
+# Hexalaspidae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

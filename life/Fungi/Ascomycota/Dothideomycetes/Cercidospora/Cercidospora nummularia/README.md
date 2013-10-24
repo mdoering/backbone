@@ -1,5 +1,4 @@
-Cercidospora nummularia (R.G. Bagn.) Kuntze SPECIES
-=======
+# Cercidospora nummularia (R.G. Bagn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

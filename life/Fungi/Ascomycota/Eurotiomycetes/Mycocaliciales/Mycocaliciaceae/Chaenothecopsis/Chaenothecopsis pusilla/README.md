@@ -1,14 +1,13 @@
-Cyphelium pusillum (Flörke) A. Massal. SPECIES
-=======
+# Chaenothecopsis pusilla (Flörke) Alb. Schmidt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. Staatsinst. Allg. Bot. Hamburg 13: 148 (1970)
 
 #### Original name
 Calicium pusillum Sommerf.

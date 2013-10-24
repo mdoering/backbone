@@ -1,5 +1,4 @@
-Lecanora ehrenbergii (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora ehrenbergii (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

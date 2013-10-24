@@ -1,5 +1,4 @@
-Melanotus hartii Ammirati, 1979 SPECIES
-=======
+# Melanotus hartii Ammirati, 1979 SPECIES
 
 #### Status
 ACCEPTED

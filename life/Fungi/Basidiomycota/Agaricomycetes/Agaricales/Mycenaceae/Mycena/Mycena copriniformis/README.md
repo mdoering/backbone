@@ -1,5 +1,4 @@
-Mycena copriniformis Speg. SPECIES
-=======
+# Mycena copriniformis Speg. SPECIES
 
 #### Status
 ACCEPTED

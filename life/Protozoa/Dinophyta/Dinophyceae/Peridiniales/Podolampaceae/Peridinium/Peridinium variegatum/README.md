@@ -1,5 +1,4 @@
-Peridinium variegatum Peters, 1928 SPECIES
-=======
+# Peridinium variegatum Peters, 1928 SPECIES
 
 #### Status
 ACCEPTED

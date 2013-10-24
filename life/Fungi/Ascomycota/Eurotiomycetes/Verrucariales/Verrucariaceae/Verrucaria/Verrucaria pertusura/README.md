@@ -1,5 +1,4 @@
-Verrucaria pertusura Nyl. SPECIES
-=======
+# Verrucaria pertusura Nyl. SPECIES
 
 #### Status
 ACCEPTED

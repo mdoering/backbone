@@ -1,5 +1,4 @@
-Cylindrocarpon obclavatum Matsush. SPECIES
-=======
+# Cylindrocarpon obclavatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

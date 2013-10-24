@@ -1,5 +1,4 @@
-Hebelomatis GENUS
-=======
+# Hebelomatis GENUS
 
 #### Status
 ACCEPTED

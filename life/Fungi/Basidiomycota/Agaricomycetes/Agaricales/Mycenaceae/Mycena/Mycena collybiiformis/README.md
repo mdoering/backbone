@@ -1,5 +1,4 @@
-Mycena collybiiformis (Murrill) Murrill SPECIES
-=======
+# Mycena collybiiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia insidiosa Massee SPECIES
-=======
+# Laestadia insidiosa Massee SPECIES
 
 #### Status
 ACCEPTED

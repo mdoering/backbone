@@ -1,5 +1,4 @@
-Resupinatus lanatiechinatus Lib.-Barnes SPECIES
-=======
+# Resupinatus lanatiechinatus Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

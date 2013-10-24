@@ -1,5 +1,4 @@
-Chnoopsora sancti-johannis (Barclay) Dietel SPECIES
-=======
+# Chnoopsora sancti-johannis (Barclay) Dietel SPECIES
 
 #### Status
 ACCEPTED

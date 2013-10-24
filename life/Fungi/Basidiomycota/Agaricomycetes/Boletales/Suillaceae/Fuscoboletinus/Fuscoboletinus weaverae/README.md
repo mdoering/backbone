@@ -1,5 +1,4 @@
-Fuscoboletinus weaverae A.H. Sm. & Shaffer SPECIES
-=======
+# Fuscoboletinus weaverae A.H. Sm. & Shaffer SPECIES
 
 #### Status
 ACCEPTED

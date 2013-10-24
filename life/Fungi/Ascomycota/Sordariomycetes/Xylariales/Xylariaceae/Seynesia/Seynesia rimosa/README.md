@@ -1,5 +1,4 @@
-Seynesia rimosa Pat. SPECIES
-=======
+# Seynesia rimosa Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma fontii Gonz. Frag. SPECIES
-=======
+# Phoma fontii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

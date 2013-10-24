@@ -1,5 +1,4 @@
-Radulum stramineum var. stramineum VARIETY
-=======
+# Radulum stramineum Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 38(1): 58 (1940)
 
 #### Original name
-Radulum stramineum var. stramineum
+Radulum stramineum Rick
 
 ### Remarks
 null

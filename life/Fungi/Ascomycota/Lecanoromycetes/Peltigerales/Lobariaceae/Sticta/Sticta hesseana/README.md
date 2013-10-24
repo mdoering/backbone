@@ -1,5 +1,4 @@
-Sticta hesseana Meyen SPECIES
-=======
+# Sticta hesseana Meyen SPECIES
 
 #### Status
 ACCEPTED

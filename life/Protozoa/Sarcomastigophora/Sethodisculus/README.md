@@ -1,5 +1,4 @@
-Sethodisculus Haeckel, 1887 GENUS
-=======
+# Sethodisculus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

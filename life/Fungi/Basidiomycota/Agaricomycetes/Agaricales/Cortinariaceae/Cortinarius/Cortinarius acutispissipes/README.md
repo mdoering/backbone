@@ -1,5 +1,4 @@
-Cortinarius acutispissipes Rob. Henry SPECIES
-=======
+# Cortinarius acutispissipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

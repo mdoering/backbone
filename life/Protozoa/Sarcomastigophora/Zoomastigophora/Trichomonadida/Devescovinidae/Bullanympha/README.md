@@ -1,5 +1,4 @@
-Bullanympha Kirby, 1939 GENUS
-=======
+# Bullanympha Kirby, 1939 GENUS
 
 #### Status
 ACCEPTED

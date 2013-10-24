@@ -1,5 +1,4 @@
-Spiniferomonas abei Takahashi SPECIES
-=======
+# Spiniferomonas abei Takahashi SPECIES
 
 #### Status
 ACCEPTED

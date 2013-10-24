@@ -1,5 +1,4 @@
-Monogrammia GENUS
-=======
+# Monogrammia GENUS
 
 #### Status
 ACCEPTED

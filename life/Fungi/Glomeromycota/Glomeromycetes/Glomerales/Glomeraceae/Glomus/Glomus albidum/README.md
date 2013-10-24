@@ -1,17 +1,16 @@
-Glomus albidus C. Walker & L.H. Rhodes SPECIES
-=======
+# Glomus albidum C. Walker & L.H. Rhodes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 12(2): 509 (1981)
 
 #### Original name
-Glomus albidus C. Walker & L.H. Rhodes
+Glomus albidum C. Walker & L.H. Rhodes
 
 ### Remarks
 null

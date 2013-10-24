@@ -1,17 +1,16 @@
-Hypocenia albifructua (Peck) Petr. & Syd. SPECIES
-=======
+# Hypocenia albifructa (Peck) Petr. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 22(3/6): 375 (1924)
 
 #### Original name
-Phoma albifructua Peck
+Phoma albifructa Peck
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Paraparmelia ballingallii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia ballingalliae (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 32(1): 400 (1988)
+null
 
 #### Original name
-Paraparmelia ballingallii Elix & J. Johnst.
+null
 
 ### Remarks
 null

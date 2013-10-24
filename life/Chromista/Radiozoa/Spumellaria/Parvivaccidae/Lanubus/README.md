@@ -1,5 +1,4 @@
-Lanubus Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
-=======
+# Lanubus Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
 
 #### Status
 ACCEPTED

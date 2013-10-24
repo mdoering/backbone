@@ -1,5 +1,4 @@
-Clitocybe lazulina H.E. Bigelow SPECIES
-=======
+# Clitocybe lazulina H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

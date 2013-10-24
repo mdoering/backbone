@@ -1,5 +1,4 @@
-Microthrix Blackall et al., 1996 GENUS
-=======
+# Microthrix Blackall et al., 1996 GENUS
 
 #### Status
 ACCEPTED

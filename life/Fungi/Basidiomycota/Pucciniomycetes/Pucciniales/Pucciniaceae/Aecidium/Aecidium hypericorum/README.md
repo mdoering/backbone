@@ -1,5 +1,4 @@
-Aecidium hypericorum Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium hypericorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

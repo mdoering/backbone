@@ -1,5 +1,4 @@
-Macrophoma heptapleuri S. Ahmad SPECIES
-=======
+# Macrophoma heptapleuri S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

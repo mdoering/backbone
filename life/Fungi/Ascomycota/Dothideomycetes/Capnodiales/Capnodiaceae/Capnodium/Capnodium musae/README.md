@@ -1,5 +1,4 @@
-Capnodium musae Viégas SPECIES
-=======
+# Capnodium musae Viégas SPECIES
 
 #### Status
 ACCEPTED

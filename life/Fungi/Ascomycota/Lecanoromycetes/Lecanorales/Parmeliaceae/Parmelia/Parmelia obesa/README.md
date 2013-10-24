@@ -1,5 +1,4 @@
-Parmelia obesa (Pers.) Mont. SPECIES
-=======
+# Parmelia obesa (Pers.) Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthoseptobasidium flavocremeum Rick, 1958 SPECIES
-=======
+# Anthoseptobasidium flavocremeum Rick, 1958 SPECIES
 
 #### Status
 ACCEPTED

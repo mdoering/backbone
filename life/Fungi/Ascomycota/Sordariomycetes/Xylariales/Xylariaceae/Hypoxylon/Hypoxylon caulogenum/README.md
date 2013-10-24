@@ -1,17 +1,16 @@
-Hypoxylon caulogeneum I. Hino & Katum. SPECIES
-=======
+# Hypoxylon caulogenum I. Hino & Katum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 59 (1955)
 
 #### Original name
-Hypoxylon caulogeneum I. Hino & Katum.
+Hypoxylon caulogenum I. Hino & Katum.
 
 ### Remarks
 null

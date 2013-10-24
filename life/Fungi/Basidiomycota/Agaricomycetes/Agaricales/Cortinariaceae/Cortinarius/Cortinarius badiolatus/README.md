@@ -1,5 +1,4 @@
-Cortinarius badiolatus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius badiolatus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

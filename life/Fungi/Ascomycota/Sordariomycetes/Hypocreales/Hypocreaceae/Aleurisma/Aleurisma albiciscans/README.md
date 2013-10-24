@@ -1,5 +1,4 @@
-Aleurisma albiciscans (Nieuwenh.) C.W. Dodge SPECIES
-=======
+# Aleurisma albiciscans (Nieuwenh.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

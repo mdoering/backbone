@@ -1,5 +1,4 @@
-Wolskyella solitaria Ehresmann & Claus SPECIES
-=======
+# Wolskyella solitaria Ehresmann & Claus SPECIES
 
 #### Status
 ACCEPTED

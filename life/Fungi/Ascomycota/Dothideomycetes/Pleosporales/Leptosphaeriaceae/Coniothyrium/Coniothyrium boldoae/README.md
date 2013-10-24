@@ -1,5 +1,4 @@
-Coniothyrium boldoae Speg. SPECIES
-=======
+# Coniothyrium boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

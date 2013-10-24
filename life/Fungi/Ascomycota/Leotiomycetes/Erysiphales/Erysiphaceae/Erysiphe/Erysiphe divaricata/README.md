@@ -1,5 +1,4 @@
-Erysiphe divaricata (Wallr.) Schltdl. SPECIES
-=======
+# Erysiphe divaricata (Wallr.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora richardsoniae Ellis & Everh. SPECIES
-=======
+# Cercospora richardsoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

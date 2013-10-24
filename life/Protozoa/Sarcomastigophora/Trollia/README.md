@@ -1,5 +1,4 @@
-Trollia Haman, 1988 GENUS
-=======
+# Trollia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

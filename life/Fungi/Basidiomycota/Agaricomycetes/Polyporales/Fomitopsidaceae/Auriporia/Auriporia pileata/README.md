@@ -1,14 +1,13 @@
-Postia pileata (Parmasto) Y.C. Dai & Renvall, 1996 SPECIES
-=======
+# Auriporia pileata Parmasto, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dai, Fungal Science, Taipei 11(3, 4): 98 (1996)
+Mycotaxon 11(1): 173 (1980)
 
 #### Original name
 Auriporia pileata Parmasto, 1980

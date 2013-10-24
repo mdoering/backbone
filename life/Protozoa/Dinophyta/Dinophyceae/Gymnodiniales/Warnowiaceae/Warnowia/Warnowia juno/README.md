@@ -1,5 +1,4 @@
-Warnowia juno (Schütt) Schiller, 1933 SPECIES
-=======
+# Warnowia juno (Schütt) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

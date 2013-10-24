@@ -1,5 +1,4 @@
-Rhabdospora caulogena (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora caulogena (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

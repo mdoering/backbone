@@ -1,5 +1,4 @@
-Pentactinocarpus Dumitrica, 1978 GENUS
-=======
+# Pentactinocarpus Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

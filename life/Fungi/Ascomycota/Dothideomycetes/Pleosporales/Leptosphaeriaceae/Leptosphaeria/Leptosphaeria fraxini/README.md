@@ -1,5 +1,4 @@
-Leptosphaeria fraxini Ellis & Everh. SPECIES
-=======
+# Leptosphaeria fraxini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

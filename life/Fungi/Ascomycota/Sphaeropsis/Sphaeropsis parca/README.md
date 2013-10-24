@@ -1,5 +1,4 @@
-Sphaeropsis parca Berk. & Broome, 1850 SPECIES
-=======
+# Sphaeropsis parca Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

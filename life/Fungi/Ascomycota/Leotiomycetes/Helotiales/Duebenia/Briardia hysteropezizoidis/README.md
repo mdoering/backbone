@@ -1,5 +1,4 @@
-Briardia hysteropezizoidis Rehm SPECIES
-=======
+# Briardia hysteropezizoidis Rehm SPECIES
 
 #### Status
 ACCEPTED

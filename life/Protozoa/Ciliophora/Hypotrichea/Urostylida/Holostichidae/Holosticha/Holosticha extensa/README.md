@@ -1,5 +1,4 @@
-Holosticha extensa Kahl, 1932 SPECIES
-=======
+# Holosticha extensa Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

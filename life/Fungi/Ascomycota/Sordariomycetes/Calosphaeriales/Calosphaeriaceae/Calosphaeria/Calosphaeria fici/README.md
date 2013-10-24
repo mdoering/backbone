@@ -1,5 +1,4 @@
-Calosphaeria fici S.B. Kale SPECIES
-=======
+# Calosphaeria fici S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

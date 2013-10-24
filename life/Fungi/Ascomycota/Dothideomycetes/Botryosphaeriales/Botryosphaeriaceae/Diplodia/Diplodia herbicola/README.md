@@ -1,5 +1,4 @@
-Diplodia herbicola Berk. & M.A. Curtis SPECIES
-=======
+# Diplodia herbicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

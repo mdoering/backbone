@@ -1,5 +1,4 @@
-Constrictosphaerina alaica Lopukhin, 1966 SPECIES
-=======
+# Constrictosphaerina alaica Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Naevia caricum (Auersw.) Fuckel SPECIES
-=======
+# Diplonaevia caricum (Auersw.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 666 (1889)
 
 #### Original name
 Stictis caricum Auersw.

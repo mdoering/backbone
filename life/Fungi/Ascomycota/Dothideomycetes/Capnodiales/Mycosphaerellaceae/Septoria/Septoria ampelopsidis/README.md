@@ -1,5 +1,4 @@
-Septoria ampelopsidis Ellis SPECIES
-=======
+# Septoria ampelopsidis Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptostroma pinorum var. pinorum Sacc. VARIETY
-=======
+# Lophodermium conigenum (Brunaud) Hilitzer, 1929 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 632 (1882)
+Ved. Spisy csl. Akad. zemed. 3: 76 (1929)
 
 #### Original name
-Leptostroma pinorum var. pinorum Sacc.
+Lophodermium pinastri f. conigenum Brunaud, 1888
 
 ### Remarks
 null

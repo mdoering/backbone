@@ -1,5 +1,4 @@
-Lecanora kurdistanica J. Steiner SPECIES
-=======
+# Lecanora kurdistanica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

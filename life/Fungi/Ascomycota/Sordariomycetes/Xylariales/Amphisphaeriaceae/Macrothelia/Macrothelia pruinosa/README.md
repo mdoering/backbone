@@ -1,5 +1,4 @@
-Macrothelia pruinosa M. Choisy SPECIES
-=======
+# Macrothelia pruinosa M. Choisy SPECIES
 
 #### Status
 ACCEPTED

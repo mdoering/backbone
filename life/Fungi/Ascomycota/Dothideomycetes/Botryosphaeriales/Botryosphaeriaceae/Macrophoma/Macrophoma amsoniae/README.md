@@ -1,5 +1,4 @@
-Macrophoma amsoniae Tassi SPECIES
-=======
+# Macrophoma amsoniae Tassi SPECIES
 
 #### Status
 ACCEPTED

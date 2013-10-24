@@ -1,5 +1,4 @@
-Chaetosphaeria montana Réblová, 1998 SPECIES
-=======
+# Chaetosphaeria montana Réblová, 1998 SPECIES
 
 #### Status
 ACCEPTED

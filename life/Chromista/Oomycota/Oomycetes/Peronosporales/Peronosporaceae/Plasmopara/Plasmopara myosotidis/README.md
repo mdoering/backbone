@@ -1,5 +1,4 @@
-Plasmopara myosotidis C.G. Shaw SPECIES
-=======
+# Plasmopara myosotidis C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

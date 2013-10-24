@@ -1,5 +1,4 @@
-Inocybe subvatricosa S. Imai SPECIES
-=======
+# Inocybe subvatricosa S. Imai SPECIES
 
 #### Status
 ACCEPTED

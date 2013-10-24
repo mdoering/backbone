@@ -1,5 +1,4 @@
-Naucoria appendiculata Murrill SPECIES
-=======
+# Naucoria appendiculata Murrill SPECIES
 
 #### Status
 ACCEPTED

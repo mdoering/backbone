@@ -1,5 +1,4 @@
-Peteinosphaeridium Staplin, Jansonius & Pocock, 1965 GENUS
-=======
+# Peteinosphaeridium Staplin, Jansonius & Pocock, 1965 GENUS
 
 #### Status
 ACCEPTED

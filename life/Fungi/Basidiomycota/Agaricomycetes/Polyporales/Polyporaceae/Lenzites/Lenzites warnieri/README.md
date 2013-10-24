@@ -1,17 +1,16 @@
-Cellularia faventina (Caldesi) Kuntze, 1898 SPECIES
-=======
+# Lenzites warnieri Durieu & Mont., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 452 (1898)
+Annls Sci. Nat. , Bot. , sér. 4 14: 182 (1860)
 
 #### Original name
-Lenzites faventina Caldesi, 1869
+Lenzites warnieri Durieu & Mont., 1860
 
 ### Remarks
 null

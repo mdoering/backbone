@@ -1,5 +1,4 @@
-Lasiosphaeria acicola Cooke SPECIES
-=======
+# Lasiosphaeria acicola Cooke SPECIES
 
 #### Status
 ACCEPTED

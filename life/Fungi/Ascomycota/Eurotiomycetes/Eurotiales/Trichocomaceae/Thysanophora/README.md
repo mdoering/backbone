@@ -1,5 +1,4 @@
-Thysanophora W.B. Kendrick, 1961 GENUS
-=======
+# Thysanophora W.B. Kendrick, 1961 GENUS
 
 #### Status
 ACCEPTED

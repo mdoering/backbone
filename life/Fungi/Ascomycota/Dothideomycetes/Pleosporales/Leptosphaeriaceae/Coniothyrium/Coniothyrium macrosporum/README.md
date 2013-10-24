@@ -1,5 +1,4 @@
-Coniothyrium macrosporum S. Ahmad SPECIES
-=======
+# Coniothyrium macrosporum S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

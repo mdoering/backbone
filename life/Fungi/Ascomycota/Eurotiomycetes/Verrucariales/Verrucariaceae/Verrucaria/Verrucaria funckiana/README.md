@@ -1,5 +1,4 @@
-Verrucaria funckiana Servít SPECIES
-=======
+# Verrucaria funckiana Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprolepa gigaspora Ellis & Everh. SPECIES
-=======
+# Coprolepa gigaspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

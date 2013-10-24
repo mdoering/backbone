@@ -1,5 +1,4 @@
-Irene werdermannii Hansf. SPECIES
-=======
+# Irene werdermannii Hansf. SPECIES
 
 #### Status
 ACCEPTED

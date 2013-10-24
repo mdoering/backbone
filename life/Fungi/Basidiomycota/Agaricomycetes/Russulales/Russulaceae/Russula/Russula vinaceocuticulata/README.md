@@ -1,5 +1,4 @@
-Russula vinaceocuticulata McNabb, 1973 SPECIES
-=======
+# Russula vinaceocuticulata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota saponella M. Bodin & Priou SPECIES
-=======
+# Lepiota saponella M. Bodin & Priou SPECIES
 
 #### Status
 ACCEPTED

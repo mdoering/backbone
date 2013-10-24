@@ -1,5 +1,4 @@
-Bovista brasiliensis (Fr.) De Toni SPECIES
-=======
+# Bovista brasiliensis (Fr.) De Toni SPECIES
 
 #### Status
 ACCEPTED

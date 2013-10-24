@@ -1,5 +1,4 @@
-Bovistoides GENUS
-=======
+# Bovistoides GENUS
 
 #### Status
 ACCEPTED

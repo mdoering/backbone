@@ -1,5 +1,4 @@
-Helvella tomentosa Raddi SPECIES
-=======
+# Helvella tomentosa Raddi SPECIES
 
 #### Status
 ACCEPTED

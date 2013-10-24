@@ -1,5 +1,4 @@
-Cellularia gigantea (Czern.) Kuntze SPECIES
-=======
+# Cellularia gigantea (Czern.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Corynebacterium ovis Bergey et al., 1923 SPECIES
-=======
+# Corynebacterium pseudotuberculosis (Buchanan, 1911) Eberson, 1918 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

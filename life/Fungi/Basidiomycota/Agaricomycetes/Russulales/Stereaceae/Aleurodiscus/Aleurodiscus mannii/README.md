@@ -1,17 +1,16 @@
-Aleurodiscus manni C.F. Baker SPECIES
-=======
+# Aleurodiscus mannii C.F. Baker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Agricultural Research 25: 253 (1925)
 
 #### Original name
-Aleurodiscus manni C.F. Baker
+Aleurodiscus mannii C.F. Baker
 
 ### Remarks
 null

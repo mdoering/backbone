@@ -1,5 +1,4 @@
-Psilocybe aerugineomaculans (Höhn.) Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe aerugineomaculans (Höhn.) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

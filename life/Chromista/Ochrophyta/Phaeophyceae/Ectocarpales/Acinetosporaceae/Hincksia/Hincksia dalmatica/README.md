@@ -1,5 +1,4 @@
-Hincksia dalmatica (Ercegovic) Cormaci & G. Furnari SPECIES
-=======
+# Hincksia dalmatica (Ercegovic) Cormaci & G. Furnari SPECIES
 
 #### Status
 ACCEPTED

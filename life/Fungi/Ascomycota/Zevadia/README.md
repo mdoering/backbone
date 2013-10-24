@@ -1,5 +1,4 @@
-Zevadia J.C. David & D. Hawksw. GENUS
-=======
+# Zevadia J.C. David & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polskanella Fuchs, 1973 GENUS
-=======
+# Polskanella Fuchs, 1973 GENUS
 
 #### Status
 ACCEPTED

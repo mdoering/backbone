@@ -1,5 +1,4 @@
-Ramalina hierrensis Krog & Østh. SPECIES
-=======
+# Ramalina hierrensis Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

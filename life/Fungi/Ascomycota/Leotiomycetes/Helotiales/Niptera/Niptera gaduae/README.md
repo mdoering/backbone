@@ -1,5 +1,4 @@
-Niptera gaduae Henn. SPECIES
-=======
+# Niptera gaduae Henn. SPECIES
 
 #### Status
 ACCEPTED

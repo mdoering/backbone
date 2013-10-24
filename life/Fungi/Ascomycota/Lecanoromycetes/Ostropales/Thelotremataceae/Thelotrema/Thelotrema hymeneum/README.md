@@ -1,5 +1,4 @@
-Thelotrema hymeneum var. hymeneum VARIETY
-=======
+# Thelotrema hymeneum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelotrema hymeneum var. hymeneum
+null
 
 ### Remarks
 null

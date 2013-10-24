@@ -1,5 +1,4 @@
-Pertusaria rubroreagens H. Magn. SPECIES
-=======
+# Pertusaria rubroreagens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

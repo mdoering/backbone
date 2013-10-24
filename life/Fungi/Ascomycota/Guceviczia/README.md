@@ -1,5 +1,4 @@
-Guceviczia GENUS
-=======
+# Guceviczia GENUS
 
 #### Status
 ACCEPTED

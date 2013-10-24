@@ -1,5 +1,4 @@
-Dermatea minuta Peck SPECIES
-=======
+# Dermatea minuta Peck SPECIES
 
 #### Status
 ACCEPTED

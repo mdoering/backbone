@@ -1,5 +1,4 @@
-Leptopuccinia xeranthemi (H. Mori) Syd. SPECIES
-=======
+# Leptopuccinia xeranthemi (H. Mori) Syd. SPECIES
 
 #### Status
 ACCEPTED

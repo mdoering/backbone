@@ -1,5 +1,4 @@
-Chaetodochium buxi (DC.) Höhn. SPECIES
-=======
+# Chaetodochium buxi (DC.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

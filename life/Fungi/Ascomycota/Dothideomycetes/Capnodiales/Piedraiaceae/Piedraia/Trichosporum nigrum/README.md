@@ -1,5 +1,4 @@
-Trichosporum nigrum (Preuss) Sacc. SPECIES
-=======
+# Trichosporum nigrum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

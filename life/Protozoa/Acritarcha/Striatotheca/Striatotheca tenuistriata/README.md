@@ -1,5 +1,4 @@
-Striatotheca tenuistriata Burmann, 1970 SPECIES
-=======
+# Striatotheca tenuistriata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopora longii (Seaver) Korf & Burds. SPECIES
-=======
+# Geopora longii (Seaver) Korf & Burds. SPECIES
 
 #### Status
 ACCEPTED

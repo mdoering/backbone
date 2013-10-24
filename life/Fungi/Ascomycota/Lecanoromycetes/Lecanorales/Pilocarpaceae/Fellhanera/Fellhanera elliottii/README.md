@@ -1,17 +1,16 @@
-Lecidea elliottii Vain. SPECIES
-=======
+# Fellhanera elliottii (Vain.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 21(2): 214 (1986)
 
 #### Original name
-null
+Lecidea elliottii Vain.
 
 ### Remarks
 null

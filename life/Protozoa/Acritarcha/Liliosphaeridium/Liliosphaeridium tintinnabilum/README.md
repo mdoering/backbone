@@ -1,5 +1,4 @@
-Liliosphaeridium tintinnabilum Bagnoli & Ribecai, 2001 SPECIES
-=======
+# Liliosphaeridium tintinnabilum Bagnoli & Ribecai, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina polycarpa B. de Lesd. SPECIES
-=======
+# Rinodina polycarpa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

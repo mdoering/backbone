@@ -1,5 +1,4 @@
-Hendersonia hapalocystis Cooke SPECIES
-=======
+# Hendersonia hapalocystis Cooke SPECIES
 
 #### Status
 ACCEPTED

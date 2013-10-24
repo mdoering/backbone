@@ -1,5 +1,4 @@
-Hyphomyces destruens C.H. Bridges & C.W. Emmons SPECIES
-=======
+# Hyphomyces destruens C.H. Bridges & C.W. Emmons SPECIES
 
 #### Status
 ACCEPTED

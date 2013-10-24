@@ -1,8 +1,7 @@
-Avelia martinicense (Nouzarède, 1975) Nouzarède, 1977 SPECIES
-=======
+# Avelia martinicensis (Nouzarède, 1975) Nouzarède, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

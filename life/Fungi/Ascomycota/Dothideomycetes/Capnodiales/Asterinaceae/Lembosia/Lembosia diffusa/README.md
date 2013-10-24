@@ -1,5 +1,4 @@
-Lembosia diffusa G. Winter SPECIES
-=======
+# Lembosia diffusa G. Winter SPECIES
 
 #### Status
 ACCEPTED

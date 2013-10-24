@@ -1,5 +1,4 @@
-Nectriella kalchbrenneri Fuckel SPECIES
-=======
+# Nectriella kalchbrenneri Fuckel SPECIES
 
 #### Status
 ACCEPTED

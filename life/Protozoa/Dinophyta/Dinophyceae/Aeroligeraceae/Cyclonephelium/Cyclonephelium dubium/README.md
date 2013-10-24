@@ -1,8 +1,7 @@
-Tenua dubia K.P. Jain & P. Millepied SPECIES
-=======
+# Cyclonephelium dubium (K.P. Jain & P. Millepied) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

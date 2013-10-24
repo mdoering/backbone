@@ -1,5 +1,4 @@
-Tropidoscyphus ovatus Skuja SPECIES
-=======
+# Tropidoscyphus ovatus Skuja SPECIES
 
 #### Status
 ACCEPTED

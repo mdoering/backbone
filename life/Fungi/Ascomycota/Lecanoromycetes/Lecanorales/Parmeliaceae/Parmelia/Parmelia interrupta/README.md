@@ -1,5 +1,4 @@
-Parmelia interrupta Stizenb. SPECIES
-=======
+# Parmelia interrupta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

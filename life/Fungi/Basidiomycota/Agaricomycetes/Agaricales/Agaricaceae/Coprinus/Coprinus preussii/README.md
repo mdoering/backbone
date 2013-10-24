@@ -1,5 +1,4 @@
-Coprinus preussii Henn. SPECIES
-=======
+# Coprinus preussii Henn. SPECIES
 
 #### Status
 ACCEPTED

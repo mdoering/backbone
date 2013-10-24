@@ -1,5 +1,4 @@
-Hemithecium oryzaeforme (Fée) Staiger SPECIES
-=======
+# Hemithecium oryzaeforme (Fée) Staiger SPECIES
 
 #### Status
 ACCEPTED

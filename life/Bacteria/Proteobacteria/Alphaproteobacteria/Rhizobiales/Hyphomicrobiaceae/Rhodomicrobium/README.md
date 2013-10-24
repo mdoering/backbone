@@ -1,5 +1,4 @@
-Rhodomicrobium Duchow & Douglas, 1949 GENUS
-=======
+# Rhodomicrobium Duchow & Douglas, 1949 GENUS
 
 #### Status
 ACCEPTED

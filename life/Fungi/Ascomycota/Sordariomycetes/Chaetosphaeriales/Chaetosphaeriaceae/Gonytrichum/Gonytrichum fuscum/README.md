@@ -1,5 +1,4 @@
-Gonytrichum fuscum Corda SPECIES
-=======
+# Gonytrichum fuscum Corda SPECIES
 
 #### Status
 ACCEPTED

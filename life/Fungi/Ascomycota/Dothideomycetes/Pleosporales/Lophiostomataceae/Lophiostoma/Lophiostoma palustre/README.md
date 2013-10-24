@@ -1,5 +1,4 @@
-Lophiostoma palustre Nitschke SPECIES
-=======
+# Lophiostoma palustre Nitschke SPECIES
 
 #### Status
 ACCEPTED

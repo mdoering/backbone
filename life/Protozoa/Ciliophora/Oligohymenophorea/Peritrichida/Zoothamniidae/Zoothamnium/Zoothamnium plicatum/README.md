@@ -1,5 +1,4 @@
-Zoothamnium plicatum Gourret & Roeser, 1886 SPECIES
-=======
+# Zoothamnium plicatum Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

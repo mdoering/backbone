@@ -1,5 +1,4 @@
-Thecaphora bulbinellae P.H.B. Talbot SPECIES
-=======
+# Thecaphora bulbinellae P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

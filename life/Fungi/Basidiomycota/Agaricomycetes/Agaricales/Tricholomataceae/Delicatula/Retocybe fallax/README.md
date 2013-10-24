@@ -1,5 +1,4 @@
-Retocybe fallax Velen. SPECIES
-=======
+# Retocybe fallax Velen. SPECIES
 
 #### Status
 ACCEPTED

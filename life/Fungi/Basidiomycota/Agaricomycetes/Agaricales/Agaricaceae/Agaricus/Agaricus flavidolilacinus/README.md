@@ -1,5 +1,4 @@
-Agaricus flavidolilacinus Britzelm. SPECIES
-=======
+# Agaricus flavidolilacinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

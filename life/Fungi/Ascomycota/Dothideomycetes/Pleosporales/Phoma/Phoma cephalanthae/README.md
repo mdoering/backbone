@@ -1,5 +1,4 @@
-Phoma cephalanthae Sawada SPECIES
-=======
+# Phoma cephalanthae Sawada SPECIES
 
 #### Status
 ACCEPTED

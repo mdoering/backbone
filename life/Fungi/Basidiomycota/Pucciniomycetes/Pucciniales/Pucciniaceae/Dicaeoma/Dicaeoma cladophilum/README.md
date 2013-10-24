@@ -1,5 +1,4 @@
-Dicaeoma cladophilum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma cladophilum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

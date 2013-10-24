@@ -1,5 +1,4 @@
-Dictyostelium ibericum Romeralo, Cavender & S. Baldauf, 2009 SPECIES
-=======
+# Dictyostelium ibericum Romeralo, Cavender & S. Baldauf, 2009 SPECIES
 
 #### Status
 ACCEPTED

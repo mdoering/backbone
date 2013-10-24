@@ -1,5 +1,4 @@
-Entoloma robinsonii Berk. & Mont. SPECIES
-=======
+# Entoloma robinsonii Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Embolidium adaequatum var. adaequatum VARIETY
-=======
+# Embolidium adaequatum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Embolidium adaequatum var. adaequatum
+Calicium adaequatum Nyl.
 
 ### Remarks
 null

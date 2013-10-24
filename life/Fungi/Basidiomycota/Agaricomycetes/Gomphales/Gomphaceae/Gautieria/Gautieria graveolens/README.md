@@ -1,17 +1,16 @@
-Gautieria graveolens f. graveolens Vittad. FORM
-=======
+# Gautieria graveolens Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 27 (1831)
 
 #### Original name
-Gautieria graveolens f. graveolens Vittad.
+Gautieria graveolens Vittad., 1831
 
 ### Remarks
 null

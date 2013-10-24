@@ -1,5 +1,4 @@
-Mycolangloisia hysterostomellae Hansf. SPECIES
-=======
+# Mycolangloisia hysterostomellae Hansf. SPECIES
 
 #### Status
 ACCEPTED

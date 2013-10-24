@@ -1,5 +1,4 @@
-Tintinnopsis capulus Brandt, 1906 SPECIES
-=======
+# Tintinnopsis capulus Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

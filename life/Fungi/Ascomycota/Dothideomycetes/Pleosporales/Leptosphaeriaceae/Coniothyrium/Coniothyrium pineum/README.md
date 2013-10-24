@@ -1,5 +1,4 @@
-Coniothyrium pineum (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium pineum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

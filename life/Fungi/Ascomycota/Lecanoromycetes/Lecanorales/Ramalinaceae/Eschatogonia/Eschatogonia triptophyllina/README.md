@@ -1,5 +1,4 @@
-Eschatogonia triptophyllina (Nyl.) Kalb SPECIES
-=======
+# Eschatogonia triptophyllina (Nyl.) Kalb SPECIES
 
 #### Status
 ACCEPTED

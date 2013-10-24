@@ -1,5 +1,4 @@
-Microquadrula Golemansky, 1968 GENUS
-=======
+# Microquadrula Golemansky, 1968 GENUS
 
 #### Status
 ACCEPTED

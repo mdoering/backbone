@@ -1,5 +1,4 @@
-Merulius buccinalis (Batsch) With. SPECIES
-=======
+# Merulius buccinalis (Batsch) With. SPECIES
 
 #### Status
 ACCEPTED

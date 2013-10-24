@@ -1,5 +1,4 @@
-Pertusaria sandwicensis Zahlbr. SPECIES
-=======
+# Pertusaria sandwicensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

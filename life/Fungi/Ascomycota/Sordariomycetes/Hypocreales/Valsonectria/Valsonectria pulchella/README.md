@@ -1,5 +1,4 @@
-Valsonectria pulchella Speg., 1881 SPECIES
-=======
+# Valsonectria pulchella Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

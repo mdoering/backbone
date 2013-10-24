@@ -1,5 +1,4 @@
-Melanobasidium abrupta (Berk. & M.A. Curtis) Weese SPECIES
-=======
+# Melanobasidium abrupta (Berk. & M.A. Curtis) Weese SPECIES
 
 #### Status
 ACCEPTED

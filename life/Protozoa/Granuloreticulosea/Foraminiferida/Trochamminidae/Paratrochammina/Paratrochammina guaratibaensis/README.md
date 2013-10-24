@@ -1,5 +1,4 @@
-Paratrochammina guaratibaensis Brönnimann, 1986 SPECIES
-=======
+# Paratrochammina guaratibaensis Brönnimann, 1986 SPECIES
 
 #### Status
 ACCEPTED

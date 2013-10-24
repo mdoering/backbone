@@ -1,5 +1,4 @@
-Hydrocybe unimoda (Britzelm.) M.M. Moser SPECIES
-=======
+# Hydrocybe unimoda (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

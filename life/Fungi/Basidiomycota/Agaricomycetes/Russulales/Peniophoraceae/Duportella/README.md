@@ -1,5 +1,4 @@
-Duportella Patouillard, 1915 GENUS
-=======
+# Duportella Patouillard, 1915 GENUS
 
 #### Status
 ACCEPTED

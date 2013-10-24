@@ -1,5 +1,4 @@
-Lophiostoma vagans Fabre, 1879 SPECIES
-=======
+# Lophiostoma vagans Fabre, 1879 SPECIES
 
 #### Status
 ACCEPTED

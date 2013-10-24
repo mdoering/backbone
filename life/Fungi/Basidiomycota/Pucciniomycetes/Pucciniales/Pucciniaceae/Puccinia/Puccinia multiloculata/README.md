@@ -1,5 +1,4 @@
-Puccinia multiloculata Cummins SPECIES
-=======
+# Puccinia multiloculata Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronophora macrosperma Fuckel SPECIES
-=======
+# Coronophora macrosperma Fuckel SPECIES
 
 #### Status
 ACCEPTED

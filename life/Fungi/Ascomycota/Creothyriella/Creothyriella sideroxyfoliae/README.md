@@ -1,5 +1,4 @@
-Creothyriella sideroxyfoliae Bat. & C.A.A. Costa, 1957 SPECIES
-=======
+# Creothyriella sideroxyfoliae Bat. & C.A.A. Costa, 1957 SPECIES
 
 #### Status
 ACCEPTED

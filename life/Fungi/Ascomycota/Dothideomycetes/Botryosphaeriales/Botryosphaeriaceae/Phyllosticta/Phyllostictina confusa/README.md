@@ -1,5 +1,4 @@
-Phyllostictina confusa (Petr.) Petr. SPECIES
-=======
+# Phyllostictina confusa (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

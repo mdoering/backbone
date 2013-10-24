@@ -1,5 +1,4 @@
-Peltigera kenyensis C.W. Dodge SPECIES
-=======
+# Peltigera kenyensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

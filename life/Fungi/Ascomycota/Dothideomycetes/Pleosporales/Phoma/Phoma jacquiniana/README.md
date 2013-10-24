@@ -1,5 +1,4 @@
-Phoma jacquiniana Cooke & Massee, 1889 SPECIES
-=======
+# Phoma jacquiniana Cooke & Massee, 1889 SPECIES
 
 #### Status
 ACCEPTED

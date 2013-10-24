@@ -1,5 +1,4 @@
-Tholosina centroforata Rhumbler, 1935 SPECIES
-=======
+# Tholosina centroforata Rhumbler, 1935 SPECIES
 
 #### Status
 ACCEPTED

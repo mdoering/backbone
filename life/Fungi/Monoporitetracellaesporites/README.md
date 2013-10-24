@@ -1,5 +1,4 @@
-Monoporitetracellaesporites Frunzescu & Bacaran GENUS
-=======
+# Monoporitetracellaesporites Frunzescu & Bacaran GENUS
 
 #### Status
 ACCEPTED

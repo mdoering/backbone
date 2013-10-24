@@ -1,5 +1,4 @@
-Entoloma duplocoloratum E. Horak, 2008 SPECIES
-=======
+# Entoloma duplocoloratum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

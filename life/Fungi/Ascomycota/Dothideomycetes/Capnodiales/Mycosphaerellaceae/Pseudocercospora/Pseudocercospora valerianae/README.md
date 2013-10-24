@@ -1,5 +1,4 @@
-Pseudocercospora valerianae (Solheim) U. Braun SPECIES
-=======
+# Pseudocercospora valerianae (Solheim) U. Braun SPECIES
 
 #### Status
 ACCEPTED

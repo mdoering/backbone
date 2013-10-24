@@ -1,5 +1,4 @@
-Ophiobolus hesperidis var. hesperidis VARIETY
-=======
+# Ophiobolus hesperidis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophiobolus hesperidis var. hesperidis
+Rhaphidophora hesperidis Sacc.
 
 ### Remarks
 null

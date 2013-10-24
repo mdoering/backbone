@@ -1,5 +1,4 @@
-Ciboria pygmaea Rehm SPECIES
-=======
+# Ciboria pygmaea Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithodesmium duckerae H.A. von Stosch, 1987 SPECIES
-=======
+# Lithodesmium duckerae H.A. von Stosch, 1987 SPECIES
 
 #### Status
 ACCEPTED

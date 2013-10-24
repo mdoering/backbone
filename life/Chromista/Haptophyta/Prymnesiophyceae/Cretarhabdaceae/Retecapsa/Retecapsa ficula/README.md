@@ -1,5 +1,4 @@
-Retecapsa ficula SPECIES
-=======
+# Retecapsa ficula SPECIES
 
 #### Status
 ACCEPTED

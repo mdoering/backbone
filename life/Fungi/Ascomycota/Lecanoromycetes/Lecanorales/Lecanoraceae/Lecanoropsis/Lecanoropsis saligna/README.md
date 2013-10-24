@@ -1,5 +1,4 @@
-Lecanoropsis saligna SPECIES
-=======
+# Lecanoropsis saligna SPECIES
 
 #### Status
 ACCEPTED

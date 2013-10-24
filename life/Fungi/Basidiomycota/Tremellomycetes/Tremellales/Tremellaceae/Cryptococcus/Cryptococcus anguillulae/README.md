@@ -1,5 +1,4 @@
-Cryptococcus anguillulae (P.A. Dang.) Nann. SPECIES
-=======
+# Cryptococcus anguillulae (P.A. Dang.) Nann. SPECIES
 
 #### Status
 ACCEPTED

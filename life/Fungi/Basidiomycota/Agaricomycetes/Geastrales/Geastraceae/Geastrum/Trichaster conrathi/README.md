@@ -1,5 +1,4 @@
-Trichaster conrathi (Hollós) Long SPECIES
-=======
+# Trichaster conrathi (Hollós) Long SPECIES
 
 #### Status
 ACCEPTED

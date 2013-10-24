@@ -1,5 +1,4 @@
-Entylomaster Vánky & R.G. Shivas GENUS
-=======
+# Entylomaster Vánky & R.G. Shivas GENUS
 
 #### Status
 ACCEPTED

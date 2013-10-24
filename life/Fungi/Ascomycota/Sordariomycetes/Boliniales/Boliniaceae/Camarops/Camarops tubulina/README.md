@@ -1,17 +1,16 @@
-Endoxyla operculata var. compressispora Kauffman VARIETY
-=======
+# Camarops tubulina (Alb. & Schwein.) Shear, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 11: 161 (1930)
+Mycologia 30: 585 (1938)
 
 #### Original name
-Endoxyla operculata var. compressispora Kauffman
+Sphaeria tubulina Alb. & Schwein., 1805
 
 ### Remarks
 null

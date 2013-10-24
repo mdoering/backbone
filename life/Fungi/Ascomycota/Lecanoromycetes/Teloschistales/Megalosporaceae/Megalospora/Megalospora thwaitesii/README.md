@@ -1,5 +1,4 @@
-Megalospora thwaitesii Malme SPECIES
-=======
+# Megalospora thwaitesii Malme SPECIES
 
 #### Status
 ACCEPTED

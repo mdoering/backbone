@@ -1,5 +1,4 @@
-Teloschistes africanus (A. Massal.) Zahlbr. SPECIES
-=======
+# Teloschistes africanus (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

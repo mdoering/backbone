@@ -1,5 +1,4 @@
-Gyrocerus saxonicum J. Lindau SPECIES
-=======
+# Gyrocerus saxonicum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

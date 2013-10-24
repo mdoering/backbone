@@ -1,5 +1,4 @@
-Lecanidion corticola (Starbäck) Sacc. & P. Syd. SPECIES
-=======
+# Lecanidion corticola (Starbäck) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

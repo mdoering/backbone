@@ -1,5 +1,4 @@
-Parmelia gentyi Maheu & A. Gillet SPECIES
-=======
+# Parmelia gentyi Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

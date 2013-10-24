@@ -1,5 +1,4 @@
-Inocybe fuscospinulosa Corner & E. Horak SPECIES
-=======
+# Inocybe fuscospinulosa Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

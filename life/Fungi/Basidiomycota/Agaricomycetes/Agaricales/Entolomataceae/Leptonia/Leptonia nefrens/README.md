@@ -1,5 +1,4 @@
-Leptonia nefrens (Fr.) P. Kumm. SPECIES
-=======
+# Leptonia nefrens (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

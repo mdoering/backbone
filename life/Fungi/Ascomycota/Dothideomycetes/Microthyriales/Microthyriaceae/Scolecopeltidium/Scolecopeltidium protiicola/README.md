@@ -1,5 +1,4 @@
-Scolecopeltidium protiicola Bat. SPECIES
-=======
+# Scolecopeltidium protiicola Bat. SPECIES
 
 #### Status
 ACCEPTED

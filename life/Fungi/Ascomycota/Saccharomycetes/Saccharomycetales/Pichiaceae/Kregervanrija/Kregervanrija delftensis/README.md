@@ -1,14 +1,13 @@
-Pichia delftensis Beech, 1965 SPECIES
-=======
+# Kregervanrija delftensis (Beech) Kurtzman, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 31: 82 (1965)
+FEMS Yeast Res. 6(2): 291 (2006)
 
 #### Original name
 Pichia delftensis Beech, 1965

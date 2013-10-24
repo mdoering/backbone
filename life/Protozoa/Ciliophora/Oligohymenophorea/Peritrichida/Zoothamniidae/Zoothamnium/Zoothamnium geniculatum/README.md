@@ -1,5 +1,4 @@
-Zoothamnium geniculatum Ayrton, 1902 SPECIES
-=======
+# Zoothamnium geniculatum Ayrton, 1902 SPECIES
 
 #### Status
 ACCEPTED

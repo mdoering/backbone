@@ -1,5 +1,4 @@
-Pycnodothis tetracerae F. Stevens SPECIES
-=======
+# Pycnodothis tetracerae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

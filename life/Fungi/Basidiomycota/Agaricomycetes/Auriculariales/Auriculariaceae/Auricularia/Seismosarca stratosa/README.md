@@ -1,5 +1,4 @@
-Seismosarca stratosa Viégas SPECIES
-=======
+# Seismosarca stratosa Viégas SPECIES
 
 #### Status
 ACCEPTED

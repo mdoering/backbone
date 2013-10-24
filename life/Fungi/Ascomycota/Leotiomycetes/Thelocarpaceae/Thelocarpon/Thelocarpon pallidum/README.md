@@ -1,5 +1,4 @@
-Thelocarpon pallidum G. Salisb. SPECIES
-=======
+# Thelocarpon pallidum G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

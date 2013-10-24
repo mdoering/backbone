@@ -1,17 +1,16 @@
-Tremella ater-globosa Lloyd SPECIES
-=======
+# Tremella atroglobosa Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(no. 67): 1148 (1922)
 
 #### Original name
-Tremella ater-globosa Lloyd
+Tremella atroglobosa Lloyd
 
 ### Remarks
 null

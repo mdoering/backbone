@@ -1,5 +1,4 @@
-Capnodium mori Catt. SPECIES
-=======
+# Capnodium mori Catt. SPECIES
 
 #### Status
 ACCEPTED

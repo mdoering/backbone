@@ -1,5 +1,4 @@
-Oxyporus andinus Iturr. & Ryvarden, 2010 SPECIES
-=======
+# Oxyporus andinus Iturr. & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

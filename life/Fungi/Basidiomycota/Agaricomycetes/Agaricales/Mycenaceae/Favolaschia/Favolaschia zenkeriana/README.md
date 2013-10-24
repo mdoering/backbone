@@ -1,14 +1,13 @@
-Favolaschia thwaitesii subsp. zenkeriana Singer SUBSPECIES
-=======
+# Favolaschia zenkeriana (Singer) Singer, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 8: 211 (1945)
+Beih. Nova Hedwigia 50: 40 (1974)
 
 #### Original name
 Favolaschia thwaitesii subsp. zenkeriana Singer

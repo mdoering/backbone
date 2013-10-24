@@ -1,5 +1,4 @@
-Aspicilia lacteola Oxner SPECIES
-=======
+# Aspicilia lacteola Oxner SPECIES
 
 #### Status
 ACCEPTED

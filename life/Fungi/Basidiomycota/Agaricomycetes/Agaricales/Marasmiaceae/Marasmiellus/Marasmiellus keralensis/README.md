@@ -1,17 +1,16 @@
-Marasmiellus keralense Sathe & J.T. Daniel SPECIES
-=======
+# Marasmiellus keralensis Sathe & J.T. Daniel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Association for the Cultivation of Science, Monograph No. 1 Agaricales (Mushrooms) of South West India (Pune) 89 (1981)
 
 #### Original name
-Marasmiellus keralense Sathe & J.T. Daniel
+Marasmiellus keralensis Sathe & J.T. Daniel
 
 ### Remarks
 null

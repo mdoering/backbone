@@ -1,5 +1,4 @@
-Lembosia quercicola Katum. SPECIES
-=======
+# Lembosia quercicola Katum. SPECIES
 
 #### Status
 ACCEPTED

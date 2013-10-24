@@ -1,5 +1,4 @@
-Rugobolivinella pendens (Collins, 1974) SPECIES
-=======
+# Rugobolivinella pendens (Collins, 1974) SPECIES
 
 #### Status
 ACCEPTED

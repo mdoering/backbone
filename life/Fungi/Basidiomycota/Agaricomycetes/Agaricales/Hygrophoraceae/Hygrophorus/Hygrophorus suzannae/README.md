@@ -1,5 +1,4 @@
-Hygrophorus suzannae Melot SPECIES
-=======
+# Hygrophorus suzannae Melot SPECIES
 
 #### Status
 ACCEPTED

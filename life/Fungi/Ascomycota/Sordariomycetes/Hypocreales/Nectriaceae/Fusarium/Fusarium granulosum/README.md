@@ -1,5 +1,4 @@
-Fusarium granulosum Ellis & Everh. SPECIES
-=======
+# Fusarium granulosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansia panici (Massee) Petch SPECIES
-=======
+# Balansia panici (Massee) Petch SPECIES
 
 #### Status
 ACCEPTED

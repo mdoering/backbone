@@ -1,5 +1,4 @@
-Phacopsis menegazziae Triebel & Rambold SPECIES
-=======
+# Phacopsis menegazziae Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED

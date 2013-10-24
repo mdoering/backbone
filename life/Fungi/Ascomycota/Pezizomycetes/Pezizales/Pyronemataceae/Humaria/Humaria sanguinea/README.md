@@ -1,5 +1,4 @@
-Humaria sanguinea Velen. SPECIES
-=======
+# Humaria sanguinea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaxterogaster mustella M.M. Moser SPECIES
-=======
+# Thaxterogaster mustella M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia maritima B. de Lesd. SPECIES
-=======
+# Pharcidia maritima B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

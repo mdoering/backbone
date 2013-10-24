@@ -1,5 +1,4 @@
-Sphaerella mimosicola (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella mimosicola (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria formosa SPECIES
-=======
+# Squamaria formosa SPECIES
 
 #### Status
 ACCEPTED

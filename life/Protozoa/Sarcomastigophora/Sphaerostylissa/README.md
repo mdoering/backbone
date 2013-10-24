@@ -1,5 +1,4 @@
-Sphaerostylissa Haeckel, 1887 GENUS
-=======
+# Sphaerostylissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

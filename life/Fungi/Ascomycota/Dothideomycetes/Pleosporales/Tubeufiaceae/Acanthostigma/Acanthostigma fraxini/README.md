@@ -1,5 +1,4 @@
-Acanthostigma fraxini Ellis SPECIES
-=======
+# Acanthostigma fraxini Ellis SPECIES
 
 #### Status
 ACCEPTED

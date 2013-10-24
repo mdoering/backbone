@@ -1,5 +1,4 @@
-Hygrocybe cinerella (Kühner) Arnolds SPECIES
-=======
+# Hygrocybe cinerella (Kühner) Arnolds SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyriculariopsis theobromae R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Pyriculariopsis theobromae R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

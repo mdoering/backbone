@@ -1,5 +1,4 @@
-Spirema Haeckel, 1881 GENUS
-=======
+# Spirema Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

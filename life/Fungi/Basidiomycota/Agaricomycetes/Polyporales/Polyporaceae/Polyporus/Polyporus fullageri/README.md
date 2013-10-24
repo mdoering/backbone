@@ -1,5 +1,4 @@
-Polyporus fullageri Berk. SPECIES
-=======
+# Polyporus fullageri Berk. SPECIES
 
 #### Status
 ACCEPTED

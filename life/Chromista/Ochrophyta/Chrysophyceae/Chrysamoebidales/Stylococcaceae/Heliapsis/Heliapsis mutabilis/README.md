@@ -1,5 +1,4 @@
-Heliapsis mutabilis Pascher SPECIES
-=======
+# Heliapsis mutabilis Pascher SPECIES
 
 #### Status
 ACCEPTED

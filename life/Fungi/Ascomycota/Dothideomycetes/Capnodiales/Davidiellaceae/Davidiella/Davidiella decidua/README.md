@@ -1,17 +1,16 @@
-Sphaerella decidua var. decidua VARIETY
-=======
+# Davidiella decidua (Ellis & Kellerm.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 70 (2006)
 
 #### Original name
-null
+Sphaerella decidua Ellis & Kellerm., 1884
 
 ### Remarks
 null

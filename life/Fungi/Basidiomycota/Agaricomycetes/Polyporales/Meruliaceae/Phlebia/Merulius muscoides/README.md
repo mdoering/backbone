@@ -1,5 +1,4 @@
-Merulius muscoides (Wulfen) Kuntze SPECIES
-=======
+# Merulius muscoides (Wulfen) Kuntze SPECIES
 
 #### Status
 ACCEPTED

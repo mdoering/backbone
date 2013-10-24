@@ -1,5 +1,4 @@
-Lactarius subzonarius Hongo SPECIES
-=======
+# Lactarius subzonarius Hongo SPECIES
 
 #### Status
 ACCEPTED

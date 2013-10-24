@@ -1,5 +1,4 @@
-Cortinarius cinctipes Bidaud, Eyssart. & Hermitte SPECIES
-=======
+# Cortinarius cinctipes Bidaud, Eyssart. & Hermitte SPECIES
 
 #### Status
 ACCEPTED

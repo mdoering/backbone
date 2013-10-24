@@ -1,5 +1,4 @@
-Phycomyces microsporus Tiegh., 1875 SPECIES
-=======
+# Phycomyces microsporus Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

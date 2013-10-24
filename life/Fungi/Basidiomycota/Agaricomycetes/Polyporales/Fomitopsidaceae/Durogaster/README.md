@@ -1,5 +1,4 @@
-Durogaster Lloyd GENUS
-=======
+# Durogaster Lloyd GENUS
 
 #### Status
 ACCEPTED

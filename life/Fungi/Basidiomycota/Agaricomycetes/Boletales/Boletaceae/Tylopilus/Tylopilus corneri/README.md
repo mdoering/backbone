@@ -1,5 +1,4 @@
-Tylopilus corneri Singer, J. García & L.D. Gómez SPECIES
-=======
+# Tylopilus corneri Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

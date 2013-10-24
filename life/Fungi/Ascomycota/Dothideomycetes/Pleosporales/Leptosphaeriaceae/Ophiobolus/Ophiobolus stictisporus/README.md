@@ -1,5 +1,4 @@
-Ophiobolus stictisporus (Cooke & Ellis) Sacc. SPECIES
-=======
+# Ophiobolus stictisporus (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

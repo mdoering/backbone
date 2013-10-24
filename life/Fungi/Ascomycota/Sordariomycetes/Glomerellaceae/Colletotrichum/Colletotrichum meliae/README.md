@@ -1,5 +1,4 @@
-Colletotrichum meliae Sousa da Câmara SPECIES
-=======
+# Colletotrichum meliae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

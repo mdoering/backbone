@@ -1,5 +1,4 @@
-Bacidia jucunda SPECIES
-=======
+# Bacidia jucunda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia collignoniae Speg. SPECIES
-=======
+# Puccinia collignoniae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium vanillae Bouriquet SPECIES
-=======
+# Penicillium vanillae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanopeltis phoebes Syd., 1927 SPECIES
-=======
+# Aphanopeltis phoebes Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

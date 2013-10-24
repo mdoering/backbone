@@ -1,5 +1,4 @@
-Pseudosphaeritaceae M.W. Dick FAMILY
-=======
+# Pseudosphaeritaceae M.W. Dick FAMILY
 
 #### Status
 ACCEPTED

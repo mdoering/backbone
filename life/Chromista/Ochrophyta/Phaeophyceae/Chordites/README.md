@@ -1,5 +1,4 @@
-Chordites P. Fliche, 1905 GENUS
-=======
+# Chordites P. Fliche, 1905 GENUS
 
 #### Status
 ACCEPTED

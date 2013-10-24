@@ -1,5 +1,4 @@
-Condylostoma Bory de St. Vincent, 1826 GENUS
-=======
+# Condylostoma Bory de St. Vincent, 1826 GENUS
 
 #### Status
 ACCEPTED

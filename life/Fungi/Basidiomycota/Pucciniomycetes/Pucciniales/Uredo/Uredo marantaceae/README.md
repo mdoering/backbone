@@ -1,5 +1,4 @@
-Uredo marantaceae Henn. SPECIES
-=======
+# Uredo marantaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phytophthora vesicula Anastasiou & Churchl., 1969 SPECIES
-=======
+# Halophytophthora vesicula (Anastasiou & Churchl.) H.H. Ho & S.C. Jong, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 47: 252 (1969)
+Mycotaxon 36(2): 380 (1990)
 
 #### Original name
 Phytophthora vesicula Anastasiou & Churchl., 1969

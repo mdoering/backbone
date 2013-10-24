@@ -1,5 +1,4 @@
-Aphelaria aurantiaca (Henn.) Corner SPECIES
-=======
+# Aphelaria aurantiaca (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

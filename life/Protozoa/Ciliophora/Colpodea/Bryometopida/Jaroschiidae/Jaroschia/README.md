@@ -1,5 +1,4 @@
-Jaroschia Foissner, 1993 GENUS
-=======
+# Jaroschia Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

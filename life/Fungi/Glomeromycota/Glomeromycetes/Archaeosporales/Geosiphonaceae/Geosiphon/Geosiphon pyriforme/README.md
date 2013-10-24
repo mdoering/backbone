@@ -1,5 +1,4 @@
-Geosiphon pyriforme (Kütz.) F. Wettst., 1915 SPECIES
-=======
+# Geosiphon pyriforme (Kütz.) F. Wettst., 1915 SPECIES
 
 #### Status
 ACCEPTED

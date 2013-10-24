@@ -1,5 +1,4 @@
-Diplodina minima Richon SPECIES
-=======
+# Diplodina minima Richon SPECIES
 
 #### Status
 ACCEPTED

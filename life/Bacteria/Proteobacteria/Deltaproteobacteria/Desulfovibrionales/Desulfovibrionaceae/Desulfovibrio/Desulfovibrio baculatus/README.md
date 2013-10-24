@@ -1,5 +1,4 @@
-Desulfovibrio baculatus Rozanova & Nazina, 1984 SPECIES
-=======
+# Desulfovibrio baculatus Rozanova & Nazina, 1984 SPECIES
 
 #### Status
 ACCEPTED

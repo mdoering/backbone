@@ -1,5 +1,4 @@
-Phaeosperma ailanthi G.H. Otth SPECIES
-=======
+# Phaeosperma ailanthi G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

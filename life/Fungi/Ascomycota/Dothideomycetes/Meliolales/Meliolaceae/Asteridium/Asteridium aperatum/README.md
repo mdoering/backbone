@@ -1,5 +1,4 @@
-Asteridium aperatum Pat. SPECIES
-=======
+# Asteridium aperatum Pat. SPECIES
 
 #### Status
 ACCEPTED

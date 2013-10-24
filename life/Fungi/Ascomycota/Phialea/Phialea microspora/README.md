@@ -1,5 +1,4 @@
-Phialea microspora Seaver SPECIES
-=======
+# Phialea microspora Seaver SPECIES
 
 #### Status
 ACCEPTED

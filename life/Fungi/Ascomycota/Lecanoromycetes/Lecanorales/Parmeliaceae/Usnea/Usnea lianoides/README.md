@@ -1,5 +1,4 @@
-Usnea lianoides Motyka SPECIES
-=======
+# Usnea lianoides Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola tylophorae-indicae Hosag. & Manojk. SPECIES
-=======
+# Meliola tylophorae-indicae Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

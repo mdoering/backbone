@@ -1,5 +1,4 @@
-Puccinia linariae Kirgizb. SPECIES
-=======
+# Puccinia linariae Kirgizb. SPECIES
 
 #### Status
 ACCEPTED

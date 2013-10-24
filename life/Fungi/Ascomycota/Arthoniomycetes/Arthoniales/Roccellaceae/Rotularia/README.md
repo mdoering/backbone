@@ -1,5 +1,4 @@
-Rotularia GENUS
-=======
+# Rotularia GENUS
 
 #### Status
 ACCEPTED

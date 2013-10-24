@@ -1,5 +1,4 @@
-Aspergillus simplex Pers. SPECIES
-=======
+# Aspergillus simplex Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia heterocarpa F.T. Benn. SPECIES
-=======
+# Sclerotinia heterocarpa F.T. Benn. SPECIES
 
 #### Status
 ACCEPTED

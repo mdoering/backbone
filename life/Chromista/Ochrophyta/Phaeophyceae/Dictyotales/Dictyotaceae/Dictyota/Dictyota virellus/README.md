@@ -1,5 +1,4 @@
-Dictyota virellus Noda SPECIES
-=======
+# Dictyota virellus Noda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphaerozyga saccata Wolle SPECIES
-=======
+# Wollea saccata (Wolle) Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

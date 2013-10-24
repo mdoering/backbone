@@ -1,17 +1,16 @@
-Galera vestita var. vestita VARIETY
-=======
+# Conocybe vestita (Fr.) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 7: 155 (1935)
 
 #### Original name
-null
+Galera vestita Fr., 1872
 
 ### Remarks
 null

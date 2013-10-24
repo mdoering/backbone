@@ -1,5 +1,4 @@
-Lecanora atroaeruginosa Vain. SPECIES
-=======
+# Lecanora atroaeruginosa Vain. SPECIES
 
 #### Status
 ACCEPTED

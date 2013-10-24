@@ -1,5 +1,4 @@
-Thekopsora asteridis Tranzschel SPECIES
-=======
+# Thekopsora asteridis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

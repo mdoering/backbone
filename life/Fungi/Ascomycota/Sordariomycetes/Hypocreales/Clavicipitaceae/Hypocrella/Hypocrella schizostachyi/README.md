@@ -1,5 +1,4 @@
-Hypocrella schizostachyi Henn. SPECIES
-=======
+# Hypocrella schizostachyi Henn. SPECIES
 
 #### Status
 ACCEPTED

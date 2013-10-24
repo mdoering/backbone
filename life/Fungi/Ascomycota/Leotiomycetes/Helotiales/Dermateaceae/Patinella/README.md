@@ -1,5 +1,4 @@
-Patinella Saccardo, 1875 GENUS
-=======
+# Patinella Saccardo, 1875 GENUS
 
 #### Status
 ACCEPTED

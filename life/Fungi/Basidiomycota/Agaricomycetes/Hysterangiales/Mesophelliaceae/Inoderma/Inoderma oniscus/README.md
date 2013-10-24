@@ -1,5 +1,4 @@
-Inoderma oniscus (Fr.) P. Karst. SPECIES
-=======
+# Inoderma oniscus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

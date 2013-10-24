@@ -1,5 +1,4 @@
-Ctenosporites wolfei Elsik & Janson. SPECIES
-=======
+# Ctenosporites wolfei Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes dogieli Agamaliev, 1967 SPECIES
-=======
+# Euplotes dogieli Agamaliev, 1967 SPECIES
 
 #### Status
 ACCEPTED

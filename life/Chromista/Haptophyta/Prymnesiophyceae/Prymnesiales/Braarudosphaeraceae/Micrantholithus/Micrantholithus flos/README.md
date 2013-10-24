@@ -1,5 +1,4 @@
-Micrantholithus flos Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Micrantholithus flos Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

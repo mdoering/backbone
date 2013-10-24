@@ -1,5 +1,4 @@
-Porina nanella Malme SPECIES
-=======
+# Porina nanella Malme SPECIES
 
 #### Status
 ACCEPTED

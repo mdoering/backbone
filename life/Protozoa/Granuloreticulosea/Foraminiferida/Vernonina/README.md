@@ -1,5 +1,4 @@
-Vernonina Puri, 1957 GENUS
-=======
+# Vernonina Puri, 1957 GENUS
 
 #### Status
 ACCEPTED

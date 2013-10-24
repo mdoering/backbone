@@ -1,5 +1,4 @@
-Diplodia rumicina S. Ahmad SPECIES
-=======
+# Diplodia rumicina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

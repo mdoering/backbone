@@ -1,5 +1,4 @@
-Dictyocodella Haeckel, 1887 GENUS
-=======
+# Dictyocodella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

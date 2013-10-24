@@ -1,5 +1,4 @@
-Parmelia robertyi C.W. Dodge SPECIES
-=======
+# Parmelia robertyi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

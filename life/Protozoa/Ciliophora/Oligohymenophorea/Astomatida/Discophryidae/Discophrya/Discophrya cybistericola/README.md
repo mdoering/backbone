@@ -1,5 +1,4 @@
-Discophrya cybistericola SPECIES
-=======
+# Discophrya cybistericola SPECIES
 
 #### Status
 ACCEPTED

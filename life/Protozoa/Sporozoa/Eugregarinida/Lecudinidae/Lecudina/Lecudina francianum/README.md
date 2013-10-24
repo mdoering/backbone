@@ -1,5 +1,4 @@
-Lecudina francianum (Arvy, 1952) SPECIES
-=======
+# Lecudina francianum (Arvy, 1952) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria rostrata Kabát & Bubák SPECIES
-=======
+# Septoria rostrata Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

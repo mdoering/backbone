@@ -1,5 +1,4 @@
-Pseudocercospora polygonorum (Cooke) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora polygonorum (Cooke) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

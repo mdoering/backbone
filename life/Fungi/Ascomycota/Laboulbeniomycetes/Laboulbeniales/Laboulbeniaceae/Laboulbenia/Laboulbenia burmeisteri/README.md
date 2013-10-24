@@ -1,5 +1,4 @@
-Laboulbenia burmeisteri Speg. SPECIES
-=======
+# Laboulbenia burmeisteri Speg. SPECIES
 
 #### Status
 ACCEPTED

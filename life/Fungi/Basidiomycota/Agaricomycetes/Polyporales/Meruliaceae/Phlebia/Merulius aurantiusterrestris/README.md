@@ -1,5 +1,4 @@
-Merulius aurantiusterrestris Secr. SPECIES
-=======
+# Merulius aurantiusterrestris Secr. SPECIES
 
 #### Status
 ACCEPTED

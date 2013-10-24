@@ -1,5 +1,4 @@
-Caloplaca cernia (Ehrh. ex Hedw.) Th. Fr. SPECIES
-=======
+# Caloplaca cernia (Ehrh. ex Hedw.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cheiromyces beaumontii Berk. & M.A. Curtis SPECIES
-=======
+# Cheiromyces beaumontii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

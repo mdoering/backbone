@@ -1,5 +1,4 @@
-Camarosporium forsythiae Staritz SPECIES
-=======
+# Camarosporium forsythiae Staritz SPECIES
 
 #### Status
 ACCEPTED

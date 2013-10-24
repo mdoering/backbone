@@ -1,5 +1,4 @@
-Lindgomyces rotundatus K. Hirayama & Kaz. Tanaka, 2010 SPECIES
-=======
+# Lindgomyces rotundatus K. Hirayama & Kaz. Tanaka, 2010 SPECIES
 
 #### Status
 ACCEPTED

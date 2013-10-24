@@ -1,5 +1,4 @@
-Cytospora acuum Cooke & Ellis SPECIES
-=======
+# Cytospora acuum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

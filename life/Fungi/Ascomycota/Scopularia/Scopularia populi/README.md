@@ -1,5 +1,4 @@
-Scopularia populi Dearn. & Bisby SPECIES
-=======
+# Scopularia populi Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

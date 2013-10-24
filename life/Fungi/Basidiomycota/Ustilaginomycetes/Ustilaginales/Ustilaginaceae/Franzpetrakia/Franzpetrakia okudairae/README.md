@@ -1,14 +1,13 @@
-Tilletia okudairae (Miyabe) L. Ling, 1953 SPECIES
-=======
+# Franzpetrakia okudairae (Miyabe) L. Guo, Vánky & Mordue, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 4: 308 (1953)
+Mycosystema 3: 65 (1990)
 
 #### Original name
 Ustilago okudairae Miyabe, 1935

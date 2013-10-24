@@ -1,5 +1,4 @@
-Phyllachora fici-minahassae Henn., 1908 SPECIES
-=======
+# Phyllachora fici-minahassae Henn., 1908 SPECIES
 
 #### Status
 DOUBTFUL

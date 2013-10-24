@@ -1,5 +1,4 @@
-Stereocaulon didymicum I.M. Lamb SPECIES
-=======
+# Stereocaulon didymicum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

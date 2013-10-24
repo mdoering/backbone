@@ -1,5 +1,4 @@
-Aplosporella baptisiae Petr. & Syd. SPECIES
-=======
+# Aplosporella baptisiae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

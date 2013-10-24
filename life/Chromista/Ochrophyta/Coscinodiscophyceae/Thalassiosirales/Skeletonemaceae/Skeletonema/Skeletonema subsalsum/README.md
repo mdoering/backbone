@@ -1,5 +1,4 @@
-Skeletonema subsalsum (A.Cleve) Bethge SPECIES
-=======
+# Skeletonema subsalsum (A.Cleve) Bethge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoophagus cornus Glockling, 1997 SPECIES
-=======
+# Zoophagus cornus Glockling, 1997 SPECIES
 
 #### Status
 ACCEPTED

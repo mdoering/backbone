@@ -1,5 +1,4 @@
-Parasterina indecora Syd. SPECIES
-=======
+# Parasterina indecora Syd. SPECIES
 
 #### Status
 ACCEPTED

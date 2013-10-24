@@ -1,5 +1,4 @@
-Rhodotorula yunnanensis K.Y. Xu SPECIES
-=======
+# Rhodotorula yunnanensis K.Y. Xu SPECIES
 
 #### Status
 ACCEPTED

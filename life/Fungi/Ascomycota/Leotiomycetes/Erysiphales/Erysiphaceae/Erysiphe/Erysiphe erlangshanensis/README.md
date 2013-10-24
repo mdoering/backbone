@@ -1,5 +1,4 @@
-Erysiphe erlangshanensis (Y.N. Yu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe erlangshanensis (Y.N. Yu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

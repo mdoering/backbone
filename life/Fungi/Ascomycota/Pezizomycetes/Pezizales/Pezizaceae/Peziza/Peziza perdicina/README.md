@@ -1,5 +1,4 @@
-Peziza perdicina (Velen.) Svrcek SPECIES
-=======
+# Peziza perdicina (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium paulense Henn. SPECIES
-=======
+# Dimerosporium paulense Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphosphaeridium Gao Lianda, 1988 GENUS
-=======
+# Gomphosphaeridium Gao Lianda, 1988 GENUS
 
 #### Status
 ACCEPTED

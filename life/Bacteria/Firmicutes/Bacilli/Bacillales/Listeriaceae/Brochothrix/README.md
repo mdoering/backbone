@@ -1,5 +1,4 @@
-Brochothrix Sneath & Jones, 1976 GENUS
-=======
+# Brochothrix Sneath & Jones, 1976 GENUS
 
 #### Status
 ACCEPTED

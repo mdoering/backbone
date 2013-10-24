@@ -1,5 +1,4 @@
-Miliolinella circularis SPECIES
-=======
+# Miliolinella circularis SPECIES
 
 #### Status
 ACCEPTED

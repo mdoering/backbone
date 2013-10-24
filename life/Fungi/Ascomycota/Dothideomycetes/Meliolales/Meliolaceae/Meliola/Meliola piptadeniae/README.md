@@ -1,5 +1,4 @@
-Meliola piptadeniae Cif. SPECIES
-=======
+# Meliola piptadeniae Cif. SPECIES
 
 #### Status
 ACCEPTED

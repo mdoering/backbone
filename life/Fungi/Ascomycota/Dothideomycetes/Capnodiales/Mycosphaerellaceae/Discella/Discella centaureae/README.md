@@ -1,5 +1,4 @@
-Discella centaureae Rolland & Fautrey SPECIES
-=======
+# Discella centaureae Rolland & Fautrey SPECIES
 
 #### Status
 ACCEPTED

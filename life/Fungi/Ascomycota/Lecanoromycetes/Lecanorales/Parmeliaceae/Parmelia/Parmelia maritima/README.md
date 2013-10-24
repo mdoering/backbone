@@ -1,5 +1,4 @@
-Parmelia maritima (Sommerf.) Spreng. SPECIES
-=======
+# Parmelia maritima (Sommerf.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

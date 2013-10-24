@@ -1,5 +1,4 @@
-Hypodermium effusum Schwein. SPECIES
-=======
+# Hypodermium effusum Schwein. SPECIES
 
 #### Status
 ACCEPTED

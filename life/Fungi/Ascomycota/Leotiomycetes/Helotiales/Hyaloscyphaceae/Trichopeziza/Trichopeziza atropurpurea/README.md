@@ -1,5 +1,4 @@
-Trichopeziza atropurpurea (Durieu) Raitv. SPECIES
-=======
+# Trichopeziza atropurpurea (Durieu) Raitv. SPECIES
 
 #### Status
 ACCEPTED

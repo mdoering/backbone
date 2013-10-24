@@ -1,5 +1,4 @@
-Oshania Wang, F., Zhou, G. & Chen, Q., 1980 GENUS
-=======
+# Oshania Wang, F., Zhou, G. & Chen, Q., 1980 GENUS
 
 #### Status
 ACCEPTED

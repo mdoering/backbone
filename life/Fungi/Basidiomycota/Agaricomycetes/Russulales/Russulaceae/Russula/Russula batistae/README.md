@@ -1,5 +1,4 @@
-Russula batistae Singer SPECIES
-=======
+# Russula batistae Singer SPECIES
 
 #### Status
 ACCEPTED

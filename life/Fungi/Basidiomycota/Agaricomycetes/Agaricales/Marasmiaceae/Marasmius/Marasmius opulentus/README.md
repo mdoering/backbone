@@ -1,5 +1,4 @@
-Marasmius opulentus Har. Takah. SPECIES
-=======
+# Marasmius opulentus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

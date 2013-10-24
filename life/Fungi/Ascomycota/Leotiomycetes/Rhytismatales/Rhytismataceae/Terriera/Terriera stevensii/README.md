@@ -1,5 +1,4 @@
-Terriera stevensii P.R. Johnst., 2001 SPECIES
-=======
+# Terriera stevensii P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

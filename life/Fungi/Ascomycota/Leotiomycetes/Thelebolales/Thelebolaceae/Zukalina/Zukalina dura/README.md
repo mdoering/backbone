@@ -1,5 +1,4 @@
-Zukalina dura (Zukal) Sacc. SPECIES
-=======
+# Zukalina dura (Zukal) Sacc. SPECIES
 
 #### Status
 ACCEPTED

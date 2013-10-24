@@ -1,5 +1,4 @@
-Lentinus egregius Massee SPECIES
-=======
+# Lentinus egregius Massee SPECIES
 
 #### Status
 ACCEPTED

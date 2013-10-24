@@ -1,5 +1,4 @@
-Pseudohepatica duidensis V. Marcano, Palacios-Prü & A. Morales SPECIES
-=======
+# Pseudohepatica duidensis V. Marcano, Palacios-Prü & A. Morales SPECIES
 
 #### Status
 ACCEPTED

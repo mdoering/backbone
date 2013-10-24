@@ -1,5 +1,4 @@
-Tricladium minimum Matsush. SPECIES
-=======
+# Tricladium minimum Matsush. SPECIES
 
 #### Status
 ACCEPTED

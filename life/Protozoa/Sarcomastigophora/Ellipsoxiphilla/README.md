@@ -1,5 +1,4 @@
-Ellipsoxiphilla Haeckel, 1887 GENUS
-=======
+# Ellipsoxiphilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

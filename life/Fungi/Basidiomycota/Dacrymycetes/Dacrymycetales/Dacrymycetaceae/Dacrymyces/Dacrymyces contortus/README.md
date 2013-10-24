@@ -1,5 +1,4 @@
-Dacrymyces contortus SPECIES
-=======
+# Dacrymyces contortus SPECIES
 
 #### Status
 ACCEPTED

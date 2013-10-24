@@ -1,5 +1,4 @@
-Pneumocystidomycetes O.E. Erikss. & Winka CLASS
-=======
+# Pneumocystidomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

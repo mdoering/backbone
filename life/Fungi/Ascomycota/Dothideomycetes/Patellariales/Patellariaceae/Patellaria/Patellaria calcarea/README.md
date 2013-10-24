@@ -1,5 +1,4 @@
-Patellaria calcarea Hoffm. SPECIES
-=======
+# Patellaria calcarea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon denudatulum Flörke SPECIES
-=======
+# Stereocaulon denudatulum Flörke SPECIES
 
 #### Status
 ACCEPTED

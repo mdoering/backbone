@@ -1,5 +1,4 @@
-Tulasnella cruciata Warcup & P.H.B. Talbot, 1971 SPECIES
-=======
+# Tulasnella cruciata Warcup & P.H.B. Talbot, 1971 SPECIES
 
 #### Status
 ACCEPTED

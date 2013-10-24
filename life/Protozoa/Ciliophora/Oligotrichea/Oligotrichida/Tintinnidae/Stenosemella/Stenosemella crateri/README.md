@@ -1,5 +1,4 @@
-Stenosemella crateri SPECIES
-=======
+# Stenosemella crateri SPECIES
 
 #### Status
 ACCEPTED

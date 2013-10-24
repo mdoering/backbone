@@ -1,5 +1,4 @@
-Xylaria australis Cooke SPECIES
-=======
+# Xylaria australis Cooke SPECIES
 
 #### Status
 ACCEPTED

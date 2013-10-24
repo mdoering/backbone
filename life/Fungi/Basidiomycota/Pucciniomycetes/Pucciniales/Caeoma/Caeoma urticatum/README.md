@@ -1,5 +1,4 @@
-Caeoma urticatum Schwein. SPECIES
-=======
+# Caeoma urticatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

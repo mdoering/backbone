@@ -1,5 +1,4 @@
-Diplotomma penichrum (Tuck.) Szatala SPECIES
-=======
+# Diplotomma penichrum (Tuck.) Szatala SPECIES
 
 #### Status
 ACCEPTED

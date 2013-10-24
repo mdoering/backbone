@@ -1,5 +1,4 @@
-Septoria trifolii-scabri Unamuno SPECIES
-=======
+# Septoria trifolii-scabri Unamuno SPECIES
 
 #### Status
 ACCEPTED

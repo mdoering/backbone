@@ -1,5 +1,4 @@
-Mycena vasilievae Singer SPECIES
-=======
+# Mycena vasilievae Singer SPECIES
 
 #### Status
 ACCEPTED

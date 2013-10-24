@@ -1,5 +1,4 @@
-Taphrina letifera (Peck) Sacc. SPECIES
-=======
+# Taphrina letifera (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus ochraceus Lloyd SPECIES
-=======
+# Lentinus ochraceus Lloyd SPECIES
 
 #### Status
 ACCEPTED

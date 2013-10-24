@@ -1,17 +1,16 @@
-Kneiffiella barba-jobi (Bull.) P. Karst. SPECIES
-=======
+# Hyphodontia barba-jovis (Bull.) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 104 (1958)
 
 #### Original name
-Hydnum barba-jobi Bull.
+Hydnum barba-jovis Bull., 1791
 
 ### Remarks
 null

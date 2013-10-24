@@ -1,5 +1,4 @@
-Amanita nitens Lam. SPECIES
-=======
+# Amanita nitens Lam. SPECIES
 
 #### Status
 ACCEPTED

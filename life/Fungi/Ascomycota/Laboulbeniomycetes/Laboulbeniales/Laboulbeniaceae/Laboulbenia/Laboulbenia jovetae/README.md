@@ -1,5 +1,4 @@
-Laboulbenia jovetae Balazuc SPECIES
-=======
+# Laboulbenia jovetae Balazuc SPECIES
 
 #### Status
 ACCEPTED

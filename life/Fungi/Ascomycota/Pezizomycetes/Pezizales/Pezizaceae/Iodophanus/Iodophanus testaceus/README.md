@@ -1,17 +1,16 @@
-Ascophanus testaceus var. testaceus VARIETY
-=======
+# Iodophanus testaceus (Moug.) Korf, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 54(1): 19 (1967)
 
 #### Original name
-Ascophanus testaceus var. testaceus
+Peziza testacea Moug., 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella asiminae Ellis & Kellerm. SPECIES
-=======
+# Sphaerella asiminae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

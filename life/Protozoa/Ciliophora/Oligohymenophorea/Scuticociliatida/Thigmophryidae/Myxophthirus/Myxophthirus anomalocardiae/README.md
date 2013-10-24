@@ -1,5 +1,4 @@
-Myxophthirus anomalocardiae Silva Neto, 1992 SPECIES
-=======
+# Myxophthirus anomalocardiae Silva Neto, 1992 SPECIES
 
 #### Status
 ACCEPTED

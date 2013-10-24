@@ -1,5 +1,4 @@
-Davidiella ornithogali (J.E. Jacques) Crous & U. Braun, 2003 SPECIES
-=======
+# Davidiella ornithogali (J.E. Jacques) Crous & U. Braun, 2003 SPECIES
 
 #### Status
 ACCEPTED

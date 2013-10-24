@@ -1,5 +1,4 @@
-Lecidea sudetica Körb. SPECIES
-=======
+# Lecidea sudetica Körb. SPECIES
 
 #### Status
 ACCEPTED

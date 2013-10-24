@@ -1,8 +1,7 @@
-Deinobacter grandis Oyaizu et al., 1987 SPECIES
-=======
+# Deinococcus grandis (Oyaizu et al., 1987) Rainey et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

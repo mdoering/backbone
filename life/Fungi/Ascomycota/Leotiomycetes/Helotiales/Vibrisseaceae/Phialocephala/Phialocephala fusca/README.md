@@ -1,5 +1,4 @@
-Phialocephala fusca W.B. Kendr., 1963 SPECIES
-=======
+# Phialocephala fusca W.B. Kendr., 1963 SPECIES
 
 #### Status
 ACCEPTED

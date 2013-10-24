@@ -1,5 +1,4 @@
-Gloniella gilliesi Speg. SPECIES
-=======
+# Gloniella gilliesi Speg. SPECIES
 
 #### Status
 ACCEPTED

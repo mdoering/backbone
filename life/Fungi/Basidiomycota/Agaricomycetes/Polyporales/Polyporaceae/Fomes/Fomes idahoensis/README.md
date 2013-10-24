@@ -1,5 +1,4 @@
-Fomes idahoensis R.W. Br. SPECIES
-=======
+# Fomes idahoensis R.W. Br. SPECIES
 
 #### Status
 ACCEPTED

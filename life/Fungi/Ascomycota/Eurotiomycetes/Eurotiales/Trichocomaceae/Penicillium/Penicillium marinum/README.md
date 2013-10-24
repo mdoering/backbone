@@ -1,5 +1,4 @@
-Penicillium marinum Frisvad & Samson SPECIES
-=======
+# Penicillium marinum Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

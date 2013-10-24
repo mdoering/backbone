@@ -1,5 +1,4 @@
-Schizoplasma GENUS
-=======
+# Schizoplasma GENUS
 
 #### Status
 ACCEPTED

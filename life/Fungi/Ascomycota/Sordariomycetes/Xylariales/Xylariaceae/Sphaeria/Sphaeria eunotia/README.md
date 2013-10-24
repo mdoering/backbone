@@ -1,5 +1,4 @@
-Sphaeria eunotia Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria eunotia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

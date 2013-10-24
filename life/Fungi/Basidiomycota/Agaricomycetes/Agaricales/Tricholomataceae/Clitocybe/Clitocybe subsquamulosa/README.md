@@ -1,5 +1,4 @@
-Clitocybe subsquamulosa Singer SPECIES
-=======
+# Clitocybe subsquamulosa Singer SPECIES
 
 #### Status
 ACCEPTED

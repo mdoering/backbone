@@ -1,5 +1,4 @@
-Grimsdaleinella Bolli, 1959 GENUS
-=======
+# Grimsdaleinella Bolli, 1959 GENUS
 
 #### Status
 ACCEPTED

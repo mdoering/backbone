@@ -1,5 +1,4 @@
-Aplosporella ruthenica Petr. SPECIES
-=======
+# Aplosporella ruthenica Petr. SPECIES
 
 #### Status
 ACCEPTED

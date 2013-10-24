@@ -1,5 +1,4 @@
-Biatorella bambusarum Zahlbr. SPECIES
-=======
+# Biatorella bambusarum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

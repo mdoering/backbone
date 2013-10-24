@@ -1,5 +1,4 @@
-Marasmius applanatipes Desjardin SPECIES
-=======
+# Marasmius applanatipes Desjardin SPECIES
 
 #### Status
 ACCEPTED

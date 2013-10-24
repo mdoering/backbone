@@ -1,5 +1,4 @@
-Cercosporina GENUS
-=======
+# Cercosporina GENUS
 
 #### Status
 ACCEPTED

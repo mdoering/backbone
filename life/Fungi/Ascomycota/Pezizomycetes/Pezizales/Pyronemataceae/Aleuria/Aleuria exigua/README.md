@@ -1,5 +1,4 @@
-Aleuria exigua Rifai SPECIES
-=======
+# Aleuria exigua Rifai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora abri Deighton SPECIES
-=======
+# Pseudocercospora abri Deighton SPECIES
 
 #### Status
 ACCEPTED

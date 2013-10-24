@@ -1,5 +1,4 @@
-Podospora cainii Narendra & V.G. Rao SPECIES
-=======
+# Podospora cainii Narendra & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

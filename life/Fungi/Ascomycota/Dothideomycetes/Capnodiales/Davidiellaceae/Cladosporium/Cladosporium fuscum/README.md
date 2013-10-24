@@ -1,5 +1,4 @@
-Cladosporium fuscum Link SPECIES
-=======
+# Cladosporium fuscum Link SPECIES
 
 #### Status
 ACCEPTED

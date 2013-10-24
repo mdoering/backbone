@@ -1,5 +1,4 @@
-Pholiota spinulifera (Murrill) Singer SPECIES
-=======
+# Pholiota spinulifera (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

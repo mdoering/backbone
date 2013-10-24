@@ -1,5 +1,4 @@
-Wakefieldia striaespora Corner & Hawker, 1953 SPECIES
-=======
+# Wakefieldia striaespora Corner & Hawker, 1953 SPECIES
 
 #### Status
 ACCEPTED

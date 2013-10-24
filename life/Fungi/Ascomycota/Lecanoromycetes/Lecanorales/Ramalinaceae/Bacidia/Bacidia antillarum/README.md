@@ -1,5 +1,4 @@
-Bacidia antillarum f. antillarum B. de Lesd. FORM
-=======
+# Bacidia antillarum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia antillarum f. antillarum B. de Lesd.
+Bacidia antillarum B. de Lesd.
 
 ### Remarks
 null

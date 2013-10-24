@@ -1,5 +1,4 @@
-Gloeosporium papulatum Dearn. SPECIES
-=======
+# Gloeosporium papulatum Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorothecium pyrenopsoides Forssell SPECIES
-=======
+# Psorothecium pyrenopsoides Forssell SPECIES
 
 #### Status
 ACCEPTED

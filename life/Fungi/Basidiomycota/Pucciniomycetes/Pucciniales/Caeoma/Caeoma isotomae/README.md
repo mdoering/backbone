@@ -1,17 +1,16 @@
-Caeoma isotomatis Petr. SPECIES
-=======
+# Caeoma isotomae Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8(1-6): 192 (1954)
 
 #### Original name
-Caeoma isotomatis Petr.
+Caeoma isotomae Petr.
 
 ### Remarks
 null

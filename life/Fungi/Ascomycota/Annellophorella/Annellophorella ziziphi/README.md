@@ -1,17 +1,16 @@
-Annellophorella zizyphi Manohar. & P.Rama Rao SPECIES
-=======
+# Annellophorella ziziphi Manohar. & P.Rama Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 40(17): 471 (1971)
 
 #### Original name
-Annellophorella zizyphi Manohar. & P.Rama Rao
+Annellophorella ziziphi Manohar. & P.Rama Rao
 
 ### Remarks
 null

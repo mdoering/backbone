@@ -1,5 +1,4 @@
-Ophiobolus drechsleri Shoemaker SPECIES
-=======
+# Ophiobolus drechsleri Shoemaker SPECIES
 
 #### Status
 ACCEPTED

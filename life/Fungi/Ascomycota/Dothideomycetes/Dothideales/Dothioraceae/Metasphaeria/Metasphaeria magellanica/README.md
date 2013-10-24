@@ -1,5 +1,4 @@
-Metasphaeria magellanica Speg. SPECIES
-=======
+# Metasphaeria magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

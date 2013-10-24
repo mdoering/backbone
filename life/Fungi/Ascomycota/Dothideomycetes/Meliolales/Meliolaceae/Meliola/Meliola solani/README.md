@@ -1,5 +1,4 @@
-Meliola solani F. Stevens SPECIES
-=======
+# Meliola solani F. Stevens SPECIES
 
 #### Status
 ACCEPTED

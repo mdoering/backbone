@@ -1,5 +1,4 @@
-Coprinus fimbriatus Berk. & Broome SPECIES
-=======
+# Coprinus fimbriatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

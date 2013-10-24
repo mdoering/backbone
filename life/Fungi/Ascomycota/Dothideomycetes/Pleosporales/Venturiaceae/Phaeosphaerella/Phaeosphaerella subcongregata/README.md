@@ -1,5 +1,4 @@
-Phaeosphaerella subcongregata (Ellis & Everh.) Tomilin SPECIES
-=======
+# Phaeosphaerella subcongregata (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

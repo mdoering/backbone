@@ -1,5 +1,4 @@
-Uredo leucadicola Gjaerum SPECIES
-=======
+# Uredo leucadicola Gjaerum SPECIES
 
 #### Status
 ACCEPTED

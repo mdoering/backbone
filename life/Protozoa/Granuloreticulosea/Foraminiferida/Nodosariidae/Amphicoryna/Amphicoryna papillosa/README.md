@@ -1,5 +1,4 @@
-Amphicoryna papillosa (Silverstri, 1872) SPECIES
-=======
+# Amphicoryna papillosa (Silverstri, 1872) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastrostyla mystacea subsp. mystacea SUBSPECIES
-=======
+# Gastrostyla mystacea Stein SPECIES
 
 #### Status
 ACCEPTED

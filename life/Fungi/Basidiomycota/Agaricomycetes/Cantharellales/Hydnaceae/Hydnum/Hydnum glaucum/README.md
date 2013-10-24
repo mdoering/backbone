@@ -1,5 +1,4 @@
-Hydnum glaucum Pat. SPECIES
-=======
+# Hydnum glaucum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea lignicola (Eitner) Zahlbr. SPECIES
-=======
+# Lecidea lignicola (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora scutellata Hedw. SPECIES
-=======
+# Octospora scutellata Hedw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium benacense SPECIES
-=======
+# Placodium benacense SPECIES
 
 #### Status
 ACCEPTED

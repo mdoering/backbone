@@ -1,5 +1,4 @@
-Physcidia endococcinea Zahlbr. SPECIES
-=======
+# Physcidia endococcinea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

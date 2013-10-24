@@ -1,5 +1,4 @@
-Graphis subserpentina Nyl. SPECIES
-=======
+# Graphis subserpentina Nyl. SPECIES
 
 #### Status
 ACCEPTED

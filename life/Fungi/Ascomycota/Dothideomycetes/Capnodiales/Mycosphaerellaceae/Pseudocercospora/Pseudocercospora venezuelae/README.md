@@ -1,5 +1,4 @@
-Pseudocercospora venezuelae (Chupp) Deighton SPECIES
-=======
+# Pseudocercospora venezuelae (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora catamarcae H. Magn. SPECIES
-=======
+# Acarospora catamarcae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

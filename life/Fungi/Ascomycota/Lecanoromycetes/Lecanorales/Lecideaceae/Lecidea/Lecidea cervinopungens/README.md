@@ -1,5 +1,4 @@
-Lecidea cervinopungens Zahlbr. SPECIES
-=======
+# Lecidea cervinopungens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

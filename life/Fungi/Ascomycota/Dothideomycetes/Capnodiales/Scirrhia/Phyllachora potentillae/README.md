@@ -1,5 +1,4 @@
-Phyllachora potentillae (Schwein.) Peck, 1929 SPECIES
-=======
+# Phyllachora potentillae (Schwein.) Peck, 1929 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Lamprospora spitsbergensis T. Schumach. SPECIES
-=======
+# Lamprospora spitsbergensis T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

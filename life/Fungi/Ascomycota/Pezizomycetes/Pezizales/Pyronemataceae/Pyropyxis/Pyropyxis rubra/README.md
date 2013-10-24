@@ -1,14 +1,13 @@
-Peziza rubra Peck, 1872 SPECIES
-=======
+# Pyropyxis rubra (Peck) Egger, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes fig. 142 (1875)
+Can. J. Bot. 62(4): 705 (1984)
 
 #### Original name
 Peziza rubra Peck, 1872

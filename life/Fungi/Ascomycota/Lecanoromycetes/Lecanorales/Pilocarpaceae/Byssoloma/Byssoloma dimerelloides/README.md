@@ -1,5 +1,4 @@
-Byssoloma dimerelloides Sipman & Aptroot SPECIES
-=======
+# Byssoloma dimerelloides Sipman & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora hysteriiformis (Preuss) Sacc. SPECIES
-=======
+# Cytospora hysteriiformis (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

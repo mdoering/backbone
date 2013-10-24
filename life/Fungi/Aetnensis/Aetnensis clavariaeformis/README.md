@@ -1,5 +1,4 @@
-Aetnensis clavariaeformis McGinty SPECIES
-=======
+# Aetnensis clavariaeformis McGinty SPECIES
 
 #### Status
 ACCEPTED

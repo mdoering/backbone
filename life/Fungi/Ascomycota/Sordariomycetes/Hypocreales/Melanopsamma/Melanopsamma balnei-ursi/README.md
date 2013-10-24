@@ -1,5 +1,4 @@
-Melanopsamma balnei-ursi Rehm SPECIES
-=======
+# Melanopsamma balnei-ursi Rehm SPECIES
 
 #### Status
 ACCEPTED

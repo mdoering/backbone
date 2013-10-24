@@ -1,5 +1,4 @@
-Spiralum helicosporum J.L. Mulder, 1975 SPECIES
-=======
+# Spiralum helicosporum J.L. Mulder, 1975 SPECIES
 
 #### Status
 ACCEPTED

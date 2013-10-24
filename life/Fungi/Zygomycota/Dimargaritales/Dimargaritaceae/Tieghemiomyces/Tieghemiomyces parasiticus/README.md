@@ -1,5 +1,4 @@
-Tieghemiomyces parasiticus R.K. Benj., 1961 SPECIES
-=======
+# Tieghemiomyces parasiticus R.K. Benj., 1961 SPECIES
 
 #### Status
 ACCEPTED

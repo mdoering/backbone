@@ -1,5 +1,4 @@
-Achlya abortispora B. Paul & El Andr. SPECIES
-=======
+# Achlya abortispora B. Paul & El Andr. SPECIES
 
 #### Status
 ACCEPTED

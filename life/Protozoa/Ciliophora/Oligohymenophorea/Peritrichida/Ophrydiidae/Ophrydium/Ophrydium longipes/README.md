@@ -1,5 +1,4 @@
-Ophrydium longipes SPECIES
-=======
+# Ophrydium longipes SPECIES
 
 #### Status
 ACCEPTED

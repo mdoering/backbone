@@ -1,17 +1,16 @@
-Hydrothyria venosa J. L. Russell SPECIES
-=======
+# Peltigera hydrothyria Miadl. & Lutzoni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Pl. Sci. 161(6): 949 (2000)
 
 #### Original name
-null
+Hydrothyria venosa J. L. Russell
 
 ### Remarks
 null

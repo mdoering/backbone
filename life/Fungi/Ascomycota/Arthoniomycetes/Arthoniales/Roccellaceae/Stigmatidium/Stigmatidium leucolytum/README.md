@@ -1,5 +1,4 @@
-Stigmatidium leucolytum Nyl. SPECIES
-=======
+# Stigmatidium leucolytum Nyl. SPECIES
 
 #### Status
 ACCEPTED

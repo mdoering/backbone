@@ -1,5 +1,4 @@
-Pyrenopeziza valderia E. Müll. SPECIES
-=======
+# Pyrenopeziza valderia E. Müll. SPECIES
 
 #### Status
 ACCEPTED

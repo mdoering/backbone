@@ -1,5 +1,4 @@
-Triplicaria P. Karst. GENUS
-=======
+# Triplicaria P. Karst. GENUS
 
 #### Status
 ACCEPTED

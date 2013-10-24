@@ -1,5 +1,4 @@
-Nectria calami (Henn. & E. Nyman) Rossman, 1979 SPECIES
-=======
+# Nectria calami (Henn. & E. Nyman) Rossman, 1979 SPECIES
 
 #### Status
 ACCEPTED

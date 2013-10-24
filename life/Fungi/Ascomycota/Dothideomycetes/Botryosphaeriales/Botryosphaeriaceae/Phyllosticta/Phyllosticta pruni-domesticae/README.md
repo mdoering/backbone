@@ -1,5 +1,4 @@
-Phyllosticta pruni-domesticae Voglino SPECIES
-=======
+# Phyllosticta pruni-domesticae Voglino SPECIES
 
 #### Status
 ACCEPTED

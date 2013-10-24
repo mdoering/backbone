@@ -1,5 +1,4 @@
-Diplodina pedilanthi Syd. {?} SPECIES
-=======
+# Diplodina pedilanthi Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

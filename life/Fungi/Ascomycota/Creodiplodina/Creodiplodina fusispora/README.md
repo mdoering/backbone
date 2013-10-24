@@ -1,5 +1,4 @@
-Creodiplodina fusispora Petr., 1957 SPECIES
-=======
+# Creodiplodina fusispora Petr., 1957 SPECIES
 
 #### Status
 ACCEPTED

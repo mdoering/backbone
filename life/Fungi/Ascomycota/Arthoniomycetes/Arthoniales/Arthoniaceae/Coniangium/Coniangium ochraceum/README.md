@@ -1,5 +1,4 @@
-Coniangium ochraceum (Dufour) Fr. SPECIES
-=======
+# Coniangium ochraceum (Dufour) Fr. SPECIES
 
 #### Status
 ACCEPTED

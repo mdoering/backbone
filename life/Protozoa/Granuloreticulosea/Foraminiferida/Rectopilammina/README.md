@@ -1,5 +1,4 @@
-Rectopilammina Urosevic, 1992 GENUS
-=======
+# Rectopilammina Urosevic, 1992 GENUS
 
 #### Status
 ACCEPTED

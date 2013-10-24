@@ -1,5 +1,4 @@
-Taeniella L. Léger & Duboscq GENUS
-=======
+# Taeniella L. Léger & Duboscq GENUS
 
 #### Status
 ACCEPTED

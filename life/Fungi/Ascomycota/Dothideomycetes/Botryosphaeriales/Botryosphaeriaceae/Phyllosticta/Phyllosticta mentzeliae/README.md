@@ -1,5 +1,4 @@
-Phyllosticta mentzeliae Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta mentzeliae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pantocarpus De la Pylaie, 1829 GENUS
-=======
+# Pantocarpus De la Pylaie, 1829 GENUS
 
 #### Status
 ACCEPTED

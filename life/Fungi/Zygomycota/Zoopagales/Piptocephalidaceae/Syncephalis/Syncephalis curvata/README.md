@@ -1,8 +1,7 @@
-Monocephalis curvata (Bainier) Bainier, 1882 SPECIES
-=======
+# Syncephalis curvata Bainier, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

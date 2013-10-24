@@ -1,5 +1,4 @@
-Termitomyces fuliginosus R. Heim SPECIES
-=======
+# Termitomyces fuliginosus R. Heim SPECIES
 
 #### Status
 ACCEPTED

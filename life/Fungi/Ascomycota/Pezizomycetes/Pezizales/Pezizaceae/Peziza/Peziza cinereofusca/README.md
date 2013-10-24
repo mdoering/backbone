@@ -1,5 +1,4 @@
-Peziza cinereofusca Schwein. SPECIES
-=======
+# Peziza cinereofusca Schwein. SPECIES
 
 #### Status
 ACCEPTED

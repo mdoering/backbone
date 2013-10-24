@@ -1,14 +1,13 @@
-Cercidospora hyporhodia (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Didymella hyporrhodia Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 454 (1898)
+Michelia 2(no. 7): 316 (1881)
 
 #### Original name
 Didymella hyporrhodia Sacc., 1881

@@ -1,5 +1,4 @@
-Phyllosticta celastricola Sawada SPECIES
-=======
+# Phyllosticta celastricola Sawada SPECIES
 
 #### Status
 ACCEPTED

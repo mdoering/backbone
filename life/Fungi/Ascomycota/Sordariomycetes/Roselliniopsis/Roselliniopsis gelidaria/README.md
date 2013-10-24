@@ -1,14 +1,13 @@
-Polycoccum gelidaria (Mudd) D. Hawksw. SPECIES
-=======
+# Roselliniopsis gelidaria (Mudd) Matzer, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 14(1): 15 (1993)
 
 #### Original name
 Sphaeria gelidaria Mudd, 1861

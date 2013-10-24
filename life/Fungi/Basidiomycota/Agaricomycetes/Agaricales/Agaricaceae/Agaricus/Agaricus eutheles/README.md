@@ -1,5 +1,4 @@
-Agaricus eutheles Berk. SPECIES
-=======
+# Agaricus eutheles Berk. SPECIES
 
 #### Status
 ACCEPTED

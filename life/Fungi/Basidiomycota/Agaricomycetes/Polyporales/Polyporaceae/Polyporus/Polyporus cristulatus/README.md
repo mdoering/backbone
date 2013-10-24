@@ -1,5 +1,4 @@
-Polyporus cristulatus Speg. SPECIES
-=======
+# Polyporus cristulatus Speg. SPECIES
 
 #### Status
 ACCEPTED

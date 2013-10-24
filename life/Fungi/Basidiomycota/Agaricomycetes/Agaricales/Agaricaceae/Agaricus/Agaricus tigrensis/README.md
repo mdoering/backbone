@@ -1,5 +1,4 @@
-Agaricus tigrensis Speg. SPECIES
-=======
+# Agaricus tigrensis Speg. SPECIES
 
 #### Status
 ACCEPTED

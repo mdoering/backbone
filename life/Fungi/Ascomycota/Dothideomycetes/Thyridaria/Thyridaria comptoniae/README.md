@@ -1,5 +1,4 @@
-Thyridaria comptoniae (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Thyridaria comptoniae (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

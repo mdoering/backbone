@@ -1,5 +1,4 @@
-Parmelina hayachinensis (Kurok.) Hale SPECIES
-=======
+# Parmelina hayachinensis (Kurok.) Hale SPECIES
 
 #### Status
 ACCEPTED

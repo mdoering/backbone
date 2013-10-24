@@ -1,5 +1,4 @@
-Melaspilea arenacea Redinger SPECIES
-=======
+# Melaspilea arenacea Redinger SPECIES
 
 #### Status
 ACCEPTED

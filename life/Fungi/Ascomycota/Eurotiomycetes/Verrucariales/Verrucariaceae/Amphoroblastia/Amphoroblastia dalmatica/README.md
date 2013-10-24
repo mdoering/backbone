@@ -1,5 +1,4 @@
-Amphoroblastia dalmatica Servít SPECIES
-=======
+# Amphoroblastia dalmatica Servít SPECIES
 
 #### Status
 ACCEPTED

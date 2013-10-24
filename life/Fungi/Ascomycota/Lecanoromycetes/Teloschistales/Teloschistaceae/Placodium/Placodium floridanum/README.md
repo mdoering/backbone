@@ -1,5 +1,4 @@
-Placodium floridanum (Tuck.) Tuck. SPECIES
-=======
+# Placodium floridanum (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

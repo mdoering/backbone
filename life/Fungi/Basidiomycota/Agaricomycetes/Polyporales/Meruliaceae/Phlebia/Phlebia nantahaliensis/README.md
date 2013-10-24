@@ -1,5 +1,4 @@
-Phlebia nantahaliensis Nakasone & Burds., 1995 SPECIES
-=======
+# Phlebia nantahaliensis Nakasone & Burds., 1995 SPECIES
 
 #### Status
 ACCEPTED

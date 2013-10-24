@@ -1,5 +1,4 @@
-Actinomyces candidus Krassiln. SPECIES
-=======
+# Actinomyces candidus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus sedi (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus sedi (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

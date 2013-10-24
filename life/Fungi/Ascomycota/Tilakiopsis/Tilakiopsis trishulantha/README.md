@@ -1,5 +1,4 @@
-Tilakiopsis trishulantha V. Rao, 1994 SPECIES
-=======
+# Tilakiopsis trishulantha V. Rao, 1994 SPECIES
 
 #### Status
 ACCEPTED

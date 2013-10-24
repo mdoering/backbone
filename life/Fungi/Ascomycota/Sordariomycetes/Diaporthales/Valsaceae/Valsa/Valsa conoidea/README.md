@@ -1,5 +1,4 @@
-Valsa conoidea Rehm SPECIES
-=======
+# Valsa conoidea Rehm SPECIES
 
 #### Status
 ACCEPTED

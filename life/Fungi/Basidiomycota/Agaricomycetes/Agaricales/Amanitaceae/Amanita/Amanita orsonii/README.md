@@ -1,5 +1,4 @@
-Amanita orsonii Ash. Kumar & T.N. Lakh. SPECIES
-=======
+# Amanita orsonii Ash. Kumar & T.N. Lakh. SPECIES
 
 #### Status
 ACCEPTED

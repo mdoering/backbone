@@ -1,5 +1,4 @@
-Vorticella floridensis Stokes, 1886 SPECIES
-=======
+# Vorticella floridensis Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

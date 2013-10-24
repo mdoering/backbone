@@ -1,5 +1,4 @@
-Tylopilus louisii Heinem. SPECIES
-=======
+# Tylopilus louisii Heinem. SPECIES
 
 #### Status
 ACCEPTED

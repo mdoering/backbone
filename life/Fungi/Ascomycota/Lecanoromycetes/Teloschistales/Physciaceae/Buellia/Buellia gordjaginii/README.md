@@ -1,5 +1,4 @@
-Buellia gordjaginii Oxner SPECIES
-=======
+# Buellia gordjaginii Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Calicium rubescens (Vain.) Oxner SPECIES
-=======
+# Chaenothecopsis rubescens Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 57(1): (1927)
 
 #### Original name
 Chaenothecopsis rubescens Vain.

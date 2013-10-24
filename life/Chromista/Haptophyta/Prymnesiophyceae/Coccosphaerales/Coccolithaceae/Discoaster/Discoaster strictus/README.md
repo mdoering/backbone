@@ -1,5 +1,4 @@
-Discoaster strictus Stradner, 1961 SPECIES
-=======
+# Discoaster strictus Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

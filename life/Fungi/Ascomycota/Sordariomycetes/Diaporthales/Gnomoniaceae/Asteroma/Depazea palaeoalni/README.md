@@ -1,5 +1,4 @@
-Depazea palaeoalni Ettingsh. SPECIES
-=======
+# Depazea palaeoalni Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia philippinensis Räsänen SPECIES
-=======
+# Arthopyrenia philippinensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

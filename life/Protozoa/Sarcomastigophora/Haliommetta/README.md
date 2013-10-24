@@ -1,5 +1,4 @@
-Haliommetta Haeckel, 1887 GENUS
-=======
+# Haliommetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

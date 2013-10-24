@@ -1,5 +1,4 @@
-Parmeliella nigrocinerea (Nyl.) Vain. SPECIES
-=======
+# Parmeliella nigrocinerea (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

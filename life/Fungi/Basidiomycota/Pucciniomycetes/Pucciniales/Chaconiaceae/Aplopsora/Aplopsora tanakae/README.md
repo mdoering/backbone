@@ -1,14 +1,13 @@
-Cerotelium tanakae S. Ito, 1938 SPECIES
-=======
+# Aplopsora tanakae (S. Ito) Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ito & Homma, Trans. Sapporo nat. Hist. Soc. 15: 118 (1938)
+in Buriticá, Revta Acad. colomb. cienc. exact. fís. nat. 22(no. 84): 332 (1998)
 
 #### Original name
 Cerotelium tanakae S. Ito, 1938

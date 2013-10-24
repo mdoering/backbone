@@ -1,5 +1,4 @@
-Guttulina glacialis Cushman & Ozawa SPECIES
-=======
+# Guttulina glacialis Cushman & Ozawa SPECIES
 
 #### Status
 ACCEPTED

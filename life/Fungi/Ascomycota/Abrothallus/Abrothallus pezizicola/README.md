@@ -1,5 +1,4 @@
-Abrothallus pezizicola Diederich & R.C. Harris SPECIES
-=======
+# Abrothallus pezizicola Diederich & R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

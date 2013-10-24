@@ -1,14 +1,13 @@
-Hygrophorus peckianus Howe, 1874 SPECIES
-=======
+# Camarophyllopsis peckiana (Howe) Boertm., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 5: 43 (1874)
+Biblthca Mycol. 192: 75 (2002)
 
 #### Original name
 Hygrophorus peckianus Howe, 1874

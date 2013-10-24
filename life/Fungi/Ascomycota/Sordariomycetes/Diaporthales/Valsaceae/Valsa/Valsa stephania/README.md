@@ -1,5 +1,4 @@
-Valsa stephania Pass. SPECIES
-=======
+# Valsa stephania Pass. SPECIES
 
 #### Status
 ACCEPTED

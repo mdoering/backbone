@@ -1,5 +1,4 @@
-Isaria fasciculata Sommerf. SPECIES
-=======
+# Isaria fasciculata Sommerf. SPECIES
 
 #### Status
 ACCEPTED

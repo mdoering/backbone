@@ -1,5 +1,4 @@
-Marasmius subcastaneus Henn. SPECIES
-=======
+# Marasmius subcastaneus Henn. SPECIES
 
 #### Status
 ACCEPTED

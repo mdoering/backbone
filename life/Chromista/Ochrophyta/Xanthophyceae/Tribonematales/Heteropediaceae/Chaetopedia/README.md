@@ -1,5 +1,4 @@
-Chaetopedia A. Pascher, 1939 GENUS
-=======
+# Chaetopedia A. Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

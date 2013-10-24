@@ -1,5 +1,4 @@
-Kindella Yankovskii, 1967 GENUS
-=======
+# Kindella Yankovskii, 1967 GENUS
 
 #### Status
 ACCEPTED

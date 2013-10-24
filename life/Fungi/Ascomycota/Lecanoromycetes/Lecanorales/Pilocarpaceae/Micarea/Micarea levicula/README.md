@@ -1,5 +1,4 @@
-Micarea levicula (Nyl.) Coppins SPECIES
-=======
+# Micarea levicula (Nyl.) Coppins SPECIES
 
 #### Status
 ACCEPTED

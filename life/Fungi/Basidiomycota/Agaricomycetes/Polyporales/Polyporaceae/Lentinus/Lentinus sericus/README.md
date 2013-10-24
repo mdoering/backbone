@@ -1,5 +1,4 @@
-Lentinus sericus Massee SPECIES
-=======
+# Lentinus sericus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frondiculina Gerke, 1957 GENUS
-=======
+# Frondiculina Gerke, 1957 GENUS
 
 #### Status
 ACCEPTED

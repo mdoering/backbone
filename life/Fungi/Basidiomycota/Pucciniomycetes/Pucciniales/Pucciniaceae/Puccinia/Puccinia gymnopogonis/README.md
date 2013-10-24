@@ -1,5 +1,4 @@
-Puccinia gymnopogonis P. Syd. & Syd. SPECIES
-=======
+# Puccinia gymnopogonis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea venenata Cooke & Ellis SPECIES
-=======
+# Dothidea venenata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

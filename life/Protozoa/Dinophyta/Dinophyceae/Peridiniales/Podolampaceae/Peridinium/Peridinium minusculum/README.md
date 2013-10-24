@@ -1,5 +1,4 @@
-Peridinium minusculum Pavillard SPECIES
-=======
+# Peridinium minusculum Pavillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clitocybe geotropa var. geotropa VARIETY
-=======
+# Infundibulicybe geotropa (Bull.) Harmaja, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 89 (1872)
+Ann. bot. fenn. 40(3): 216 (2003)
 
 #### Original name
-Clitocybe geotropa var. geotropa
+Agaricus geotropus Bull., 1792
 
 ### Remarks
 null

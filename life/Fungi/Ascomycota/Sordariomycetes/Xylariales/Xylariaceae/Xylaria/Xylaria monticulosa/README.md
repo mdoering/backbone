@@ -1,5 +1,4 @@
-Xylaria monticulosa Lév. SPECIES
-=======
+# Xylaria monticulosa Lév. SPECIES
 
 #### Status
 ACCEPTED

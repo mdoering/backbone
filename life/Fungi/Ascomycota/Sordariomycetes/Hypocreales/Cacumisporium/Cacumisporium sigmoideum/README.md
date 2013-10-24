@@ -1,5 +1,4 @@
-Cacumisporium sigmoideum Mercado & R.F. Castañeda SPECIES
-=======
+# Cacumisporium sigmoideum Mercado & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

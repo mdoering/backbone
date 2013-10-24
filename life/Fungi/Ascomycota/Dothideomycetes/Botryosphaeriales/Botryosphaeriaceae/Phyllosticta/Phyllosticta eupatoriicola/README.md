@@ -1,17 +1,16 @@
-Phyllosticta eupatoricola Kabát & Bubák SPECIES
-=======
+# Phyllosticta eupatoriicola Kabát & Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 18(2-4): 560 (1970)
 
 #### Original name
-Phyllosticta eupatoricola Kabát & Bubák
+Phyllosticta eupatoriicola Kabát & Bubák
 
 ### Remarks
 null

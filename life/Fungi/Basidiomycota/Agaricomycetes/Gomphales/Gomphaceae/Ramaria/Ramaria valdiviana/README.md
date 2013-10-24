@@ -1,5 +1,4 @@
-Ramaria valdiviana Singer, 1969 SPECIES
-=======
+# Ramaria valdiviana Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

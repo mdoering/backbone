@@ -1,5 +1,4 @@
-Tintinnopsis cyathus Daday, 1887 SPECIES
-=======
+# Tintinnopsis cyathus Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

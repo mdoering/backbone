@@ -1,5 +1,4 @@
-Phoma lutescens Bubák & Kabát SPECIES
-=======
+# Phoma lutescens Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora albida H. Magn. SPECIES
-=======
+# Acarospora albida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

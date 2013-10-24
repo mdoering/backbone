@@ -1,5 +1,4 @@
-Lecidea hornii Lynge SPECIES
-=======
+# Lecidea hornii Lynge SPECIES
 
 #### Status
 ACCEPTED

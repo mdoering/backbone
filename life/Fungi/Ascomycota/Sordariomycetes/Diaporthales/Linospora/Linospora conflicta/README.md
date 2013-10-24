@@ -1,5 +1,4 @@
-Linospora conflicta (Cooke) Sacc. SPECIES
-=======
+# Linospora conflicta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

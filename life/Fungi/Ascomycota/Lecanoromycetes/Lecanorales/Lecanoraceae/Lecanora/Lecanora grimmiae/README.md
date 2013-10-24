@@ -1,5 +1,4 @@
-Lecanora grimmiae Nyl. SPECIES
-=======
+# Lecanora grimmiae Nyl. SPECIES
 
 #### Status
 ACCEPTED

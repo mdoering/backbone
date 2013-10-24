@@ -1,5 +1,4 @@
-Discella abnormis Berk. & Broome, 1850 SPECIES
-=======
+# Discella abnormis Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

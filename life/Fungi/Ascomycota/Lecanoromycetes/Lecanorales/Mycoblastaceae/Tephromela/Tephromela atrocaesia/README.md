@@ -1,5 +1,4 @@
-Tephromela atrocaesia (Nyl. ex Cromb.) Fryday SPECIES
-=======
+# Tephromela atrocaesia (Nyl. ex Cromb.) Fryday SPECIES
 
 #### Status
 ACCEPTED

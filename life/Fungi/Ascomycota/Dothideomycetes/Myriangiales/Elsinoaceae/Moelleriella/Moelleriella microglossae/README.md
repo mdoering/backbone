@@ -1,17 +1,16 @@
-Molleriella microglossae Hansf. SPECIES
-=======
+# Moelleriella microglossae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 158: 28 (1947)
 
 #### Original name
-Molleriella microglossae Hansf.
+Moelleriella microglossae Hansf.
 
 ### Remarks
 null

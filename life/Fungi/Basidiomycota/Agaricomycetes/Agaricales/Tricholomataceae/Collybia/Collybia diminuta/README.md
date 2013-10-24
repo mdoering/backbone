@@ -1,5 +1,4 @@
-Collybia diminuta (Berk. & Broome) Sacc. SPECIES
-=======
+# Collybia diminuta (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

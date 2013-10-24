@@ -1,5 +1,4 @@
-Rhizocarpon porphyrostrotum (Vain.) Vain. SPECIES
-=======
+# Rhizocarpon porphyrostrotum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora mulanjeensis B. Sutton SPECIES
-=======
+# Corynespora mulanjeensis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena clavicularis (Fr.) Gillet SPECIES
-=======
+# Mycena clavicularis (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

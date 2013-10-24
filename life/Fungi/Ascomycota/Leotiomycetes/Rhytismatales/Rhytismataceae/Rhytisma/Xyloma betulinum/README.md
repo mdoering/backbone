@@ -1,5 +1,4 @@
-Xyloma betulinum Schultz SPECIES
-=======
+# Xyloma betulinum Schultz SPECIES
 
 #### Status
 ACCEPTED

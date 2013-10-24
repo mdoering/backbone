@@ -1,5 +1,4 @@
-Asteromella tiliicola (Oudem.) Arx SPECIES
-=======
+# Asteromella tiliicola (Oudem.) Arx SPECIES
 
 #### Status
 ACCEPTED

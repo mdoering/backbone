@@ -1,5 +1,4 @@
-Coniothyrium commixtum Tassi SPECIES
-=======
+# Coniothyrium commixtum Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium pectinis-veneris Kirgizb. SPECIES
-=======
+# Aecidium pectinis-veneris Kirgizb. SPECIES
 
 #### Status
 ACCEPTED

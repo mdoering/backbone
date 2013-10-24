@@ -1,5 +1,4 @@
-Graphina sierraleonensis C.W. Dodge SPECIES
-=======
+# Graphina sierraleonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia khandalensis Patw. & A.K. Pande SPECIES
-=======
+# Ramularia khandalensis Patw. & A.K. Pande SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecideopsis dubia Starbäck SPECIES
-=======
+# Lecideopsis dubia Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Johansoniella Bat., J.L. Bezerra & Cavalc. GENUS
-=======
+# Johansonia Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 3: 85 (1966)
+Syll. fung. (Abellini) 8: 785 (1889)
 
 #### Original name
-Johansoniella Bat., J.L. Bezerra & Cavalc.
+Johansonia Sacc.
 
 ### Remarks
 null

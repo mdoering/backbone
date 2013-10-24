@@ -1,5 +1,4 @@
-Coelostylus Haeckel, 1887 GENUS
-=======
+# Coelostylus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium serrulatum Velen. SPECIES
-=======
+# Phlegmacium serrulatum Velen. SPECIES
 
 #### Status
 ACCEPTED

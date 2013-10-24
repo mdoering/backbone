@@ -1,5 +1,4 @@
-Hoehneliella perplexa Bres. & Sacc., 1902 SPECIES
-=======
+# Hoehneliella perplexa Bres. & Sacc., 1902 SPECIES
 
 #### Status
 ACCEPTED

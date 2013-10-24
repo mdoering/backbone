@@ -1,5 +1,4 @@
-Russulina GENUS
-=======
+# Russulina GENUS
 
 #### Status
 ACCEPTED

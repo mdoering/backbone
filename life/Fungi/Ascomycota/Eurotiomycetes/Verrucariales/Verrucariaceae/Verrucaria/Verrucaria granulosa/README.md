@@ -1,5 +1,4 @@
-Verrucaria granulosa (J. Steiner) Zahlbr. SPECIES
-=======
+# Verrucaria granulosa (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

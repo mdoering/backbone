@@ -1,5 +1,4 @@
-Marasmius inaequalis Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius inaequalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

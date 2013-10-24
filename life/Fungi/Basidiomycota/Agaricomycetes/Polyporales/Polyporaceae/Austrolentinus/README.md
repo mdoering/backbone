@@ -1,5 +1,4 @@
-Austrolentinus Ryvarden GENUS
-=======
+# Austrolentinus Ryvarden GENUS
 
 #### Status
 ACCEPTED

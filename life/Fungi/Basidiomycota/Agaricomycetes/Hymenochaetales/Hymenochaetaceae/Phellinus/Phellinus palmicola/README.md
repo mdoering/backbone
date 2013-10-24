@@ -1,14 +1,13 @@
-Poria palmicola (Berk. & M.A. Curtis) Cooke, 1886 SPECIES
-=======
+# Phellinus palmicola (Berk. & M.A. Curtis) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 114 (1886)
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
 Polyporus palmicola Berk. & M.A. Curtis, 1868

@@ -1,5 +1,4 @@
-Chaetoceros seriacanthus Gran SPECIES
-=======
+# Chaetoceros seriacanthus Gran SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanobacterium aarhusense Shlimon et al., 2004 SPECIES
-=======
+# Methanobacterium aarhusense Shlimon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

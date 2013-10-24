@@ -1,17 +1,16 @@
-Trichosia Batista & R. Garnier, 1960 GENUS
-=======
+# Trichasterina G. Arnaud, 1918 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 295: 14 (1960)
+Annals d'École National d'Agric. de Montpellier, Série 2 16(1-4): 172 (1918)
 
 #### Original name
-Trichosia Batista & R. Garnier, 1960
+Trichasterina G. Arnaud, 1918
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polyporus eriopus Ces. SPECIES
-=======
+# Polyporus eriopus Ces. SPECIES
 
 #### Status
 ACCEPTED

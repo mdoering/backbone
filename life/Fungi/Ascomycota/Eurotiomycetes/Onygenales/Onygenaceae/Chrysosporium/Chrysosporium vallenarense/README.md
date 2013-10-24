@@ -1,5 +1,4 @@
-Chrysosporium vallenarense Oorschot & Piont., 1985 SPECIES
-=======
+# Chrysosporium vallenarense Oorschot & Piont., 1985 SPECIES
 
 #### Status
 ACCEPTED

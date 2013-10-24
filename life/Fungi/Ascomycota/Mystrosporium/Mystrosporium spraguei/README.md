@@ -1,5 +1,4 @@
-Mystrosporium spraguei Cooke SPECIES
-=======
+# Mystrosporium spraguei Cooke SPECIES
 
 #### Status
 ACCEPTED

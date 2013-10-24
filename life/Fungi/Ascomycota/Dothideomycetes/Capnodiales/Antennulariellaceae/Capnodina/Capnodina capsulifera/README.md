@@ -1,5 +1,4 @@
-Capnodina capsulifera (Rehm) Sacc. ex Clem. & Shear SPECIES
-=======
+# Capnodina capsulifera (Rehm) Sacc. ex Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

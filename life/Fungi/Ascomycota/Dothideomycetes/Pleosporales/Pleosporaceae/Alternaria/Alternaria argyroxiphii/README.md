@@ -1,5 +1,4 @@
-Alternaria argyroxiphii E.G. Simmons & Aragaki SPECIES
-=======
+# Alternaria argyroxiphii E.G. Simmons & Aragaki SPECIES
 
 #### Status
 ACCEPTED

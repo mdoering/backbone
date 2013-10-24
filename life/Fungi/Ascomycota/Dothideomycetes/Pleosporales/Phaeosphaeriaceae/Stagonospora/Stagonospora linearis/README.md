@@ -1,5 +1,4 @@
-Stagonospora linearis Peck SPECIES
-=======
+# Stagonospora linearis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium oxycocci Shear SPECIES
-=======
+# Leptothyrium oxycocci Shear SPECIES
 
 #### Status
 ACCEPTED

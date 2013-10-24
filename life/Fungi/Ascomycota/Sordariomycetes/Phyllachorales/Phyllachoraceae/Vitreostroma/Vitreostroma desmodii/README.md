@@ -1,17 +1,16 @@
-Vitreostroma desmodii subsp. lespedezae (E. Müll.) P.F. Cannon SUBSPECIES
-=======
+# Vitreostroma desmodii (Henn.) P.F. Cannon, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 163: 210 (1991)
+null
 
 #### Original name
-Diachora lespedezae E. Müll., 1986
+null
 
 ### Remarks
 null

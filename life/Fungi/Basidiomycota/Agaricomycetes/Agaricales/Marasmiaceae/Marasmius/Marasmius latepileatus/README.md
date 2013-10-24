@@ -1,5 +1,4 @@
-Marasmius latepileatus Antonín & C. Sharp SPECIES
-=======
+# Marasmius latepileatus Antonín & C. Sharp SPECIES
 
 #### Status
 ACCEPTED

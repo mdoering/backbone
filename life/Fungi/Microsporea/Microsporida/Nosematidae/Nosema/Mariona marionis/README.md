@@ -1,5 +1,4 @@
-Mariona marionis Stempell SPECIES
-=======
+# Mariona marionis Stempell SPECIES
 
 #### Status
 ACCEPTED

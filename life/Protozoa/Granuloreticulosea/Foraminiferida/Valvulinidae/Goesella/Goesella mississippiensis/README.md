@@ -1,5 +1,4 @@
-Goesella mississippiensis Parker, 1954 SPECIES
-=======
+# Goesella mississippiensis Parker, 1954 SPECIES
 
 #### Status
 ACCEPTED

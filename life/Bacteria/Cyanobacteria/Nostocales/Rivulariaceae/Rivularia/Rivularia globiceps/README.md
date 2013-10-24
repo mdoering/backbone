@@ -1,5 +1,4 @@
-Rivularia globiceps G.S. West SPECIES
-=======
+# Rivularia globiceps G.S. West SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium holstii Henn. SPECIES
-=======
+# Sorosporium holstii Henn. SPECIES
 
 #### Status
 ACCEPTED

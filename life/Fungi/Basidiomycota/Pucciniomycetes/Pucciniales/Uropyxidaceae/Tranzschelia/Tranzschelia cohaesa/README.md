@@ -1,17 +1,16 @@
-Puccinia cohaesa var. cohaesa VARIETY
-=======
+# Tranzschelia cohaesa (Long) Arthur, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Résult. Sci. Congr. Bot. Vienne 340 (1906)
 
 #### Original name
-Puccinia cohaesa var. cohaesa
+Puccinia cohaesa Long, 1902
 
 ### Remarks
 null

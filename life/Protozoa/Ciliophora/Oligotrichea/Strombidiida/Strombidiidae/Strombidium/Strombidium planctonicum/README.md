@@ -1,5 +1,4 @@
-Strombidium planctonicum subsp. planctonicum SUBSPECIES
-=======
+# Strombidium planctonicum SPECIES
 
 #### Status
 ACCEPTED

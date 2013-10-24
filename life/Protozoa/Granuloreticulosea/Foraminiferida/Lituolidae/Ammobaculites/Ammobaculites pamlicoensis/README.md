@@ -1,5 +1,4 @@
-Ammobaculites pamlicoensis Grossman, 1967 SPECIES
-=======
+# Ammobaculites pamlicoensis Grossman, 1967 SPECIES
 
 #### Status
 ACCEPTED

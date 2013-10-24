@@ -1,5 +1,4 @@
-Septoria anthyllidis Sacc. SPECIES
-=======
+# Septoria anthyllidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

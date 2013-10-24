@@ -1,5 +1,4 @@
-Mycovellosiella acericola (X.J. Liu & Y.L. Guo) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Mycovellosiella acericola (X.J. Liu & Y.L. Guo) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

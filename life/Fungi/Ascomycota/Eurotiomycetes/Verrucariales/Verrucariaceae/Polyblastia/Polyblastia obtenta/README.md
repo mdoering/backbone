@@ -1,5 +1,4 @@
-Polyblastia obtenta (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastia obtenta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

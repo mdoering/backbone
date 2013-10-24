@@ -1,5 +1,4 @@
-Sphaerella heveae Petch SPECIES
-=======
+# Sphaerella heveae Petch SPECIES
 
 #### Status
 ACCEPTED

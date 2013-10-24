@@ -1,5 +1,4 @@
-Psora paradoxa Hoffm. SPECIES
-=======
+# Psora paradoxa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

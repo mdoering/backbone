@@ -1,5 +1,4 @@
-Inocybe cinchonensis (Murrill) Dennis SPECIES
-=======
+# Inocybe cinchonensis (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

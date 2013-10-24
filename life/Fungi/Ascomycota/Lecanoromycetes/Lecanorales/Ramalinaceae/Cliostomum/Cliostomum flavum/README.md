@@ -1,5 +1,4 @@
-Cliostomum flavum (Zahlbr.) Brusse SPECIES
-=======
+# Cliostomum flavum (Zahlbr.) Brusse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdosphaera stylifera SPECIES
-=======
+# Rhabdosphaera stylifera SPECIES
 
 #### Status
 ACCEPTED

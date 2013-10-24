@@ -1,5 +1,4 @@
-Parmulariopsis Petr. GENUS
-=======
+# Parmulariopsis Petr. GENUS
 
 #### Status
 ACCEPTED

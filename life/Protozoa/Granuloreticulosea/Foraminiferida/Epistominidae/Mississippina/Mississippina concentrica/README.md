@@ -1,5 +1,4 @@
-Mississippina concentrica SPECIES
-=======
+# Mississippina concentrica SPECIES
 
 #### Status
 ACCEPTED

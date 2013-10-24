@@ -1,5 +1,4 @@
-Lecidea rissoensis Malme SPECIES
-=======
+# Lecidea rissoensis Malme SPECIES
 
 #### Status
 ACCEPTED

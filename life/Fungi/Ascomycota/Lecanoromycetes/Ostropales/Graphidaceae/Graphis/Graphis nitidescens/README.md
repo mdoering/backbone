@@ -1,5 +1,4 @@
-Graphis nitidescens Vain. SPECIES
-=======
+# Graphis nitidescens Vain. SPECIES
 
 #### Status
 ACCEPTED

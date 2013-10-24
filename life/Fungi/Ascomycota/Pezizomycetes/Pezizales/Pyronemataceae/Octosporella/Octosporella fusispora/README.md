@@ -1,5 +1,4 @@
-Octosporella fusispora Y.J. Yao & Spooner, 2006 SPECIES
-=======
+# Octosporella fusispora Y.J. Yao & Spooner, 2006 SPECIES
 
 #### Status
 ACCEPTED

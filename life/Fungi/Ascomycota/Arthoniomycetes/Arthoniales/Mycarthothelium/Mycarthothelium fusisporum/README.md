@@ -1,5 +1,4 @@
-Mycarthothelium fusisporum SPECIES
-=======
+# Mycarthothelium fusisporum SPECIES
 
 #### Status
 ACCEPTED

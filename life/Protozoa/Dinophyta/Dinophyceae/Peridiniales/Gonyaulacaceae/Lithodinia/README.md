@@ -1,5 +1,4 @@
-Lithodinia A. Eisenack, 1935 GENUS
-=======
+# Lithodinia A. Eisenack, 1935 GENUS
 
 #### Status
 ACCEPTED

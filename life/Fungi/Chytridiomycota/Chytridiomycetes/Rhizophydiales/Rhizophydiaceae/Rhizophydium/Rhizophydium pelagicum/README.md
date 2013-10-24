@@ -1,5 +1,4 @@
-Rhizophydium pelagicum R.A. Peterson SPECIES
-=======
+# Rhizophydium pelagicum R.A. Peterson SPECIES
 
 #### Status
 ACCEPTED

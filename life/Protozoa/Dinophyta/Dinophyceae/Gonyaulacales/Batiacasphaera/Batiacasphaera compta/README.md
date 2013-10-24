@@ -1,5 +1,4 @@
-Batiacasphaera compta Drugg, 1970 SPECIES
-=======
+# Batiacasphaera compta Drugg, 1970 SPECIES
 
 #### Status
 ACCEPTED

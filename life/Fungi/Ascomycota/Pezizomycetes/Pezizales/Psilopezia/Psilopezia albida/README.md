@@ -1,5 +1,4 @@
-Psilopezia albida Kanouse SPECIES
-=======
+# Psilopezia albida Kanouse SPECIES
 
 #### Status
 ACCEPTED

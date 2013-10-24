@@ -1,5 +1,4 @@
-Acaulopage baculispora Drechsler, 1948 SPECIES
-=======
+# Acaulopage baculispora Drechsler, 1948 SPECIES
 
 #### Status
 ACCEPTED

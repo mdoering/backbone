@@ -1,5 +1,4 @@
-Syncephalis aurantiaca Vuill., 1902 SPECIES
-=======
+# Syncephalis aurantiaca Vuill., 1902 SPECIES
 
 #### Status
 ACCEPTED

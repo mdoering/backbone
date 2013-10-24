@@ -1,5 +1,4 @@
-Cladosporium virgultorum Schwein. SPECIES
-=======
+# Cladosporium virgultorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

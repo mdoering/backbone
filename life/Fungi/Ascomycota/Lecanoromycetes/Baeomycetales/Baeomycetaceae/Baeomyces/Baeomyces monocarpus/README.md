@@ -1,5 +1,4 @@
-Baeomyces monocarpus (Ach.) Ach. SPECIES
-=======
+# Baeomyces monocarpus (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

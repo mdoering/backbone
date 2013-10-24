@@ -1,5 +1,4 @@
-Cryptothecia striata G. Thor SPECIES
-=======
+# Cryptothecia striata G. Thor SPECIES
 
 #### Status
 ACCEPTED

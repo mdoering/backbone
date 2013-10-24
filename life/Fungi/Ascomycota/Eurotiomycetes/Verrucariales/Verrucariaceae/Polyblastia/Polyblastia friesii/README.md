@@ -1,5 +1,4 @@
-Polyblastia friesii Lynge SPECIES
-=======
+# Polyblastia friesii Lynge SPECIES
 
 #### Status
 ACCEPTED

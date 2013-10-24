@@ -1,5 +1,4 @@
-Cryptococcus luteolus (Saito) C.E. Skinner, 1950 SPECIES
-=======
+# Cryptococcus luteolus (Saito) C.E. Skinner, 1950 SPECIES
 
 #### Status
 ACCEPTED

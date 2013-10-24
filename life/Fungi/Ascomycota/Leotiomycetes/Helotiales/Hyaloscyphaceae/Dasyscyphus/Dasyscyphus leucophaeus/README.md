@@ -1,14 +1,13 @@
-Dasyscypha leucophaeus (Pers.) Massee SPECIES
-=======
+# Dasyscyphus leucophaeus (Pers.) Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi Flor. 351 (1895)
 
 #### Original name
 Peziza sulphurea var. leucophaea Pers.

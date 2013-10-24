@@ -1,14 +1,13 @@
-Laestadia hepaticarum Cooke SPECIES
-=======
+# Punctillum hepaticarum (Cooke) Petr. & Syd., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 89): 3 (1890)
+Annls mycol. 22(3/6): 363 (1924)
 
 #### Original name
 Laestadia hepaticarum Cooke

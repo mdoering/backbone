@@ -1,5 +1,4 @@
-Eu-Oxytoxum GENUS
-=======
+# Eu-Oxytoxum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium oxalidis Trail SPECIES
-=======
+# Cylindrosporium oxalidis Trail SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia merrillii Henn. SPECIES
-=======
+# Puccinia merrillii Henn. SPECIES
 
 #### Status
 ACCEPTED

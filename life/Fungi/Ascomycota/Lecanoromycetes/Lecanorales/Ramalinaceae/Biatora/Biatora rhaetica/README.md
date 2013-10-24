@@ -1,5 +1,4 @@
-Biatora rhaetica (Th. Fr.) Hepp SPECIES
-=======
+# Biatora rhaetica (Th. Fr.) Hepp SPECIES
 
 #### Status
 ACCEPTED

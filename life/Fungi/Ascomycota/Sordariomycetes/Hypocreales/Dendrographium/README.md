@@ -1,5 +1,4 @@
-Dendrographium Massee GENUS
-=======
+# Dendrographium Massee GENUS
 
 #### Status
 ACCEPTED

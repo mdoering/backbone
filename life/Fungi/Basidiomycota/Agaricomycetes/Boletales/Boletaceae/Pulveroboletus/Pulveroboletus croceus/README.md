@@ -1,5 +1,4 @@
-Pulveroboletus croceus Heinem. SPECIES
-=======
+# Pulveroboletus croceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

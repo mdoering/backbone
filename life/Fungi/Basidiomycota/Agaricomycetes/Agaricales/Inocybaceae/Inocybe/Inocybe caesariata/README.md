@@ -1,5 +1,4 @@
-Inocybe caesariata var. caesariata VARIETY
-=======
+# Inocybe caesariata (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bidr. Känn. Finl. Nat. Folk 32: 459 (1879)
 
 #### Original name
-Agaricus caesariatus Fr.
+Inocybe caesariata (Fr.) P. Karst.
 
 ### Remarks
 null

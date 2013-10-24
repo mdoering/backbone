@@ -1,5 +1,4 @@
-Acarospora stictica K. Knudsen & Elix SPECIES
-=======
+# Acarospora stictica K. Knudsen & Elix SPECIES
 
 #### Status
 ACCEPTED

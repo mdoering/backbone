@@ -1,5 +1,4 @@
-Verpatinia morchelloides (Mains) Redhead SPECIES
-=======
+# Verpatinia morchelloides (Mains) Redhead SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon pulchrum P.M.D. Martin SPECIES
-=======
+# Hypoxylon pulchrum P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

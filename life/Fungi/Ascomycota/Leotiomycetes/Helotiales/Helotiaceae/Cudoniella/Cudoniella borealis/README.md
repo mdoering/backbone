@@ -1,5 +1,4 @@
-Cudoniella borealis Linder SPECIES
-=======
+# Cudoniella borealis Linder SPECIES
 
 #### Status
 ACCEPTED

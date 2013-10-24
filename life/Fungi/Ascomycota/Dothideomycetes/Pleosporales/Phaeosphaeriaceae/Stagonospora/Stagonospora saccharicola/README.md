@@ -1,5 +1,4 @@
-Stagonospora saccharicola S. Ahmad SPECIES
-=======
+# Stagonospora saccharicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

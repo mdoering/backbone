@@ -1,5 +1,4 @@
-Jannaschia cystaugens Adachi et al., 2004 SPECIES
-=======
+# Jannaschia cystaugens Adachi et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

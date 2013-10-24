@@ -1,5 +1,4 @@
-Actinomadura kijaniata Horan & Brodsky, 1982 SPECIES
-=======
+# Actinomadura kijaniata Horan & Brodsky, 1982 SPECIES
 
 #### Status
 ACCEPTED

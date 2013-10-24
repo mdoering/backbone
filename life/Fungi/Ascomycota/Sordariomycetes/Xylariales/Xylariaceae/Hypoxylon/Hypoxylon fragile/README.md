@@ -1,5 +1,4 @@
-Hypoxylon fragile Nitschke SPECIES
-=======
+# Hypoxylon fragile Nitschke SPECIES
 
 #### Status
 ACCEPTED

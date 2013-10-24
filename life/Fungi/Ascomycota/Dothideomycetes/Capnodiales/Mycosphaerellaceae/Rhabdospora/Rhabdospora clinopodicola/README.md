@@ -1,5 +1,4 @@
-Rhabdospora clinopodicola Hollós SPECIES
-=======
+# Rhabdospora clinopodicola Hollós SPECIES
 
 #### Status
 ACCEPTED

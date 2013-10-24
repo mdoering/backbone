@@ -1,5 +1,4 @@
-Gerronema oligophyllum (Singer) Singer SPECIES
-=======
+# Gerronema oligophyllum (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

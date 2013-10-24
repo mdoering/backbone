@@ -1,5 +1,4 @@
-Microdiplodia franconica Petr. SPECIES
-=======
+# Microdiplodia franconica Petr. SPECIES
 
 #### Status
 ACCEPTED

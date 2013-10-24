@@ -1,5 +1,4 @@
-Asterina chlorophorae Hansf. SPECIES
-=======
+# Asterina chlorophorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

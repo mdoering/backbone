@@ -1,5 +1,4 @@
-Endopyrenium crustosum (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium crustosum (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

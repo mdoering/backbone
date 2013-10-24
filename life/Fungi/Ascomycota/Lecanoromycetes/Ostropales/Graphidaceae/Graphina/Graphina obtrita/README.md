@@ -1,5 +1,4 @@
-Graphina obtrita (Fée) Müll. Arg. SPECIES
-=======
+# Graphina obtrita (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

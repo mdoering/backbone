@@ -1,5 +1,4 @@
-Cryptococcus pachydermatis (Fox) Nann. SPECIES
-=======
+# Cryptococcus pachydermatis (Fox) Nann. SPECIES
 
 #### Status
 ACCEPTED

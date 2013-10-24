@@ -1,5 +1,4 @@
-Phaeangella socia Henn. SPECIES
-=======
+# Phaeangella socia Henn. SPECIES
 
 #### Status
 ACCEPTED

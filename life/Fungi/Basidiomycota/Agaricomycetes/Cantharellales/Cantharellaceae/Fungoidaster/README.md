@@ -1,5 +1,4 @@
-Fungoidaster GENUS
-=======
+# Fungoidaster GENUS
 
 #### Status
 ACCEPTED

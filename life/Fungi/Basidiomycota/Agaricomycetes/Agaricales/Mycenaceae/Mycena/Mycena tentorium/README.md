@@ -1,5 +1,4 @@
-Mycena tentorium Raithelh. SPECIES
-=======
+# Mycena tentorium Raithelh. SPECIES
 
 #### Status
 ACCEPTED

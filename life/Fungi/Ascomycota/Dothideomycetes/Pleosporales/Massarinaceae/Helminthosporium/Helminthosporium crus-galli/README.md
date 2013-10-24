@@ -1,5 +1,4 @@
-Helminthosporium crus-galli Y. Nisik. SPECIES
-=======
+# Helminthosporium crus-galli Y. Nisik. SPECIES
 
 #### Status
 ACCEPTED

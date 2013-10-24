@@ -1,5 +1,4 @@
-Polyporus bowmanii Lindl. & Hulting SPECIES
-=======
+# Polyporus bowmanii Lindl. & Hulting SPECIES
 
 #### Status
 ACCEPTED

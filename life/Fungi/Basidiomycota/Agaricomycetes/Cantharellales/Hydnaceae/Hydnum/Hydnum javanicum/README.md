@@ -1,5 +1,4 @@
-Hydnum javanicum Pat. SPECIES
-=======
+# Hydnum javanicum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora greenei Deighton SPECIES
-=======
+# Pseudocercospora greenei Deighton SPECIES
 
 #### Status
 ACCEPTED

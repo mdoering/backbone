@@ -1,5 +1,4 @@
-Ustilago plumbea Rostr. SPECIES
-=======
+# Ustilago plumbea Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria nervisequa G. Winter SPECIES
-=======
+# Leptosphaeria nervisequa G. Winter SPECIES
 
 #### Status
 ACCEPTED

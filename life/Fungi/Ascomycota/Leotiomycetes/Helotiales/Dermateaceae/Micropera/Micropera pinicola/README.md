@@ -1,5 +1,4 @@
-Micropera pinicola (Linder) A. Funk SPECIES
-=======
+# Micropera pinicola (Linder) A. Funk SPECIES
 
 #### Status
 ACCEPTED

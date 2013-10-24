@@ -1,5 +1,4 @@
-Septoria inclusa H.C. Greene SPECIES
-=======
+# Septoria inclusa H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

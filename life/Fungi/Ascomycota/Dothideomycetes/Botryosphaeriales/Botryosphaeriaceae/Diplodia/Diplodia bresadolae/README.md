@@ -1,5 +1,4 @@
-Diplodia bresadolae Tassi SPECIES
-=======
+# Diplodia bresadolae Tassi SPECIES
 
 #### Status
 ACCEPTED

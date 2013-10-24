@@ -1,5 +1,4 @@
-Diplodia sambuci Bondartsev SPECIES
-=======
+# Diplodia sambuci Bondartsev SPECIES
 
 #### Status
 ACCEPTED

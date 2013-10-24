@@ -1,5 +1,4 @@
-Lecanora rudis (Ach.) Motyka SPECIES
-=======
+# Lecanora rudis (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

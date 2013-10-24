@@ -1,5 +1,4 @@
-Cortinarius pallidolamellatus var. pallidolamellatus VARIETY
-=======
+# Cortinarius pallidolamellatus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Moser & Horak, Beih. Nova Hedwigia 52: 74 (1975)
 
 #### Original name
-Cortinarius pallidolamellatus var. pallidolamellatus
+Cortinarius pallidolamellatus E. Horak & M.M. Moser
 
 ### Remarks
 null

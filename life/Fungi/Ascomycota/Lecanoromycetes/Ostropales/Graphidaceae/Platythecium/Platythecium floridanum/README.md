@@ -1,14 +1,13 @@
-Graphis floridana Tuck. SPECIES
-=======
+# Platythecium floridanum (Tuck.) Lendemer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 103: 83 (2008)
 
 #### Original name
 Graphis floridana Tuck.

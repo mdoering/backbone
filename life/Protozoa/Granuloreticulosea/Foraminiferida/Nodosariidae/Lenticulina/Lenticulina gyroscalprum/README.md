@@ -1,5 +1,4 @@
-Lenticulina gyroscalprum (Stache) SPECIES
-=======
+# Lenticulina gyroscalprum (Stache) SPECIES
 
 #### Status
 ACCEPTED

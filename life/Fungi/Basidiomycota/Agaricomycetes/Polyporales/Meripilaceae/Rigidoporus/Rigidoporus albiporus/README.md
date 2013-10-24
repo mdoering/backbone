@@ -1,5 +1,4 @@
-Rigidoporus albiporus Corner, 1992 SPECIES
-=======
+# Rigidoporus albiporus Corner, 1992 SPECIES
 
 #### Status
 ACCEPTED

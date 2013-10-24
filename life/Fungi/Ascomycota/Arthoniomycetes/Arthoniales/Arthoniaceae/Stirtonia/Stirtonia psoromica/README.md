@@ -1,5 +1,4 @@
-Stirtonia psoromica Aptroot & Wolseley SPECIES
-=======
+# Stirtonia psoromica Aptroot & Wolseley SPECIES
 
 #### Status
 ACCEPTED

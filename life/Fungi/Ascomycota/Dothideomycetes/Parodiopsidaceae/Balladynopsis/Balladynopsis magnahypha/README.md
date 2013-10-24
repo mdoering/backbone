@@ -1,5 +1,4 @@
-Balladynopsis magnahypha Syd. SPECIES
-=======
+# Balladynopsis magnahypha Syd. SPECIES
 
 #### Status
 ACCEPTED

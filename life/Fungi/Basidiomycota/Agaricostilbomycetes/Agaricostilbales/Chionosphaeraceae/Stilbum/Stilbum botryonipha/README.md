@@ -1,5 +1,4 @@
-Stilbum botryonipha Sacc. SPECIES
-=======
+# Stilbum botryonipha Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria staphyleae Dearn. & House SPECIES
-=======
+# Metasphaeria staphyleae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

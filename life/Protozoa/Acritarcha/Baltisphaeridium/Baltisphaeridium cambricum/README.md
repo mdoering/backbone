@@ -1,5 +1,4 @@
-Baltisphaeridium cambricum Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium cambricum Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

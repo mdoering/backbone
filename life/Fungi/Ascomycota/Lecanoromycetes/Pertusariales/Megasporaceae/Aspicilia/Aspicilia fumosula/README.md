@@ -1,5 +1,4 @@
-Aspicilia fumosula (Müll. Arg.) Hue SPECIES
-=======
+# Aspicilia fumosula (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

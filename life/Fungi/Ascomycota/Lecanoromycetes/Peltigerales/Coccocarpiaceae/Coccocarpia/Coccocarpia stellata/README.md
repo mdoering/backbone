@@ -1,17 +1,16 @@
-Placodium stellatum var. cinereum (Müll. Arg.) Gyeln. VARIETY
-=======
+# Coccocarpia stellata (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 5: 402 (1862)
 
 #### Original name
-null
+Coccocarpia stellata (Nyl.) Tuck.
 
 ### Remarks
 null

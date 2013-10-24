@@ -1,5 +1,4 @@
-Phomites Fritel GENUS
-=======
+# Phomites Fritel GENUS
 
 #### Status
 ACCEPTED

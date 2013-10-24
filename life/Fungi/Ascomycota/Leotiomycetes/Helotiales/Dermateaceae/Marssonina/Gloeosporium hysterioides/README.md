@@ -1,5 +1,4 @@
-Gloeosporium hysterioides Ellis & Everh. SPECIES
-=======
+# Gloeosporium hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

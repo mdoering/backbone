@@ -1,5 +1,4 @@
-Operculinoides panamensis (Cushman) SPECIES
-=======
+# Operculinoides panamensis (Cushman) SPECIES
 
 #### Status
 ACCEPTED

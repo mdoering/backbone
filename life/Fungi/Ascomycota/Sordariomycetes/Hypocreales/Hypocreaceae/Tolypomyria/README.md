@@ -1,5 +1,4 @@
-Tolypomyria GENUS
-=======
+# Tolypomyria GENUS
 
 #### Status
 ACCEPTED

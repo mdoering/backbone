@@ -1,5 +1,4 @@
-Discomorpha GENUS
-=======
+# Discomorpha GENUS
 
 #### Status
 ACCEPTED

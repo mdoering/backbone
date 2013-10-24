@@ -1,5 +1,4 @@
-Lingulina simplex Buchner, 1942 SPECIES
-=======
+# Lingulina simplex Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

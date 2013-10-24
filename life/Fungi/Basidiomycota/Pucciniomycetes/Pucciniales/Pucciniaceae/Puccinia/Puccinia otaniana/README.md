@@ -1,5 +1,4 @@
-Puccinia otaniana Hirats. f. SPECIES
-=======
+# Puccinia otaniana Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

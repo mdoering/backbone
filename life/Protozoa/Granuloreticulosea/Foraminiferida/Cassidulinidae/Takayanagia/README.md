@@ -1,5 +1,4 @@
-Takayanagia Nomura, 1983 GENUS
-=======
+# Takayanagia Nomura, 1983 GENUS
 
 #### Status
 ACCEPTED

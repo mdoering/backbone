@@ -1,5 +1,4 @@
-Sporites circulus H. Wolff bis SPECIES
-=======
+# Sporites circulus H. Wolff bis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hansenia abietina (Pers.) P. Karst. SPECIES
-=======
+# Hansenia abietina (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

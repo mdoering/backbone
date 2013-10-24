@@ -1,17 +1,16 @@
-Rhopalomyces elegans f. elegans FORM
-=======
+# Rhopalomyces elegans Corda, 1839 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prachtflora 3 (1839)
+null
 
 #### Original name
-Rhopalomyces elegans f. elegans
+null
 
 ### Remarks
 null

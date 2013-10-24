@@ -1,5 +1,4 @@
-Cyathipodia longipes Boud. SPECIES
-=======
+# Cyathipodia longipes Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma zeae Tehon & E.Y. Daniels SPECIES
-=======
+# Macrophoma zeae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

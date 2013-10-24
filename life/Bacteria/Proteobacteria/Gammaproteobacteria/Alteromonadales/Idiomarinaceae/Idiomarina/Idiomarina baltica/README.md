@@ -1,5 +1,4 @@
-Idiomarina baltica Brettar et al., 2003 SPECIES
-=======
+# Idiomarina baltica Brettar et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

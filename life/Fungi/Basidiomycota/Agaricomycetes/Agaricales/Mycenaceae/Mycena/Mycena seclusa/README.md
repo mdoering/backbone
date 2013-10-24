@@ -1,5 +1,4 @@
-Mycena seclusa Maas Geest. & Ovrebo SPECIES
-=======
+# Mycena seclusa Maas Geest. & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina corruscans (Rehm) R. Sant., 1952 SPECIES
-=======
+# Porina corruscans (Rehm) R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

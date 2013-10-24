@@ -1,14 +1,13 @@
-Sphaeria deflectens (P. Karst.) W. Phillips & Plowr. SPECIES
-=======
+# Teichospora deflectens P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 23: 67 (1872)
 
 #### Original name
 Teichospora deflectens P. Karst.

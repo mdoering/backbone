@@ -1,5 +1,4 @@
-Sphaceloma khandalense Wani & Thirum. SPECIES
-=======
+# Sphaceloma khandalense Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

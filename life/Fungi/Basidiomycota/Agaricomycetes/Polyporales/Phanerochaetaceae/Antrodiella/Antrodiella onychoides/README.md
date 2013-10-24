@@ -1,14 +1,13 @@
-Polyporus onychoides Egeland, 1913 SPECIES
-=======
+# Antrodiella onychoides (Egeland) Niemelä, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nytt Mag. Natur. 22: 11 (1913)
+Karstenia 22(1): 11 (1982)
 
 #### Original name
 Polyporus onychoides Egeland, 1913

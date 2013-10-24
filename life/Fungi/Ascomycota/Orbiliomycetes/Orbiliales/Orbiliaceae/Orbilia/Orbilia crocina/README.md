@@ -1,5 +1,4 @@
-Orbilia crocina (Mont. & Fr.) Sacc. SPECIES
-=======
+# Orbilia crocina (Mont. & Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

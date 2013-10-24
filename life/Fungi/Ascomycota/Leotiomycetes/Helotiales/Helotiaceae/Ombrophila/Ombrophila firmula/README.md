@@ -1,5 +1,4 @@
-Ombrophila firmula (Rolland) Sacc. SPECIES
-=======
+# Ombrophila firmula (Rolland) Sacc. SPECIES
 
 #### Status
 ACCEPTED

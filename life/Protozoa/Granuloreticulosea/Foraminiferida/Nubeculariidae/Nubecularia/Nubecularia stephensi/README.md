@@ -1,5 +1,4 @@
-Nubecularia stephensi Howchin SPECIES
-=======
+# Nubecularia stephensi Howchin SPECIES
 
 #### Status
 ACCEPTED

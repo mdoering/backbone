@@ -1,5 +1,4 @@
-Omphalia muapensis Henn. SPECIES
-=======
+# Omphalia muapensis Henn. SPECIES
 
 #### Status
 ACCEPTED

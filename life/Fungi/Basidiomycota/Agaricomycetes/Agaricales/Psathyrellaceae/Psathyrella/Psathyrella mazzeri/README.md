@@ -1,5 +1,4 @@
-Psathyrella mazzeri A.H. Sm. SPECIES
-=======
+# Psathyrella mazzeri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

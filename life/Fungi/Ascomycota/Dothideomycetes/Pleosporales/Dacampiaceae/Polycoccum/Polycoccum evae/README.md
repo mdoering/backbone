@@ -1,5 +1,4 @@
-Polycoccum evae Calat. & V.J. Rico SPECIES
-=======
+# Polycoccum evae Calat. & V.J. Rico SPECIES
 
 #### Status
 ACCEPTED

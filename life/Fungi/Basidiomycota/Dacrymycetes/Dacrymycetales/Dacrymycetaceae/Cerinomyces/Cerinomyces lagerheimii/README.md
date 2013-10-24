@@ -1,14 +1,13 @@
-Ceracea lagerheimii Pat., 1893 SPECIES
-=======
+# Cerinomyces lagerheimii (Pat.) McNabb, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 9: 141 (1893)
+N. Z. Jl Bot. 2(4): 421 (1964)
 
 #### Original name
 Ceracea lagerheimii Pat., 1893

@@ -1,5 +1,4 @@
-Agaricus pruinatus Batsch SPECIES
-=======
+# Agaricus pruinatus Batsch SPECIES
 
 #### Status
 ACCEPTED

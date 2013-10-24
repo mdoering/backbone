@@ -1,5 +1,4 @@
-Cryptococcus sennae Thüm. SPECIES
-=======
+# Cryptococcus sennae Thüm. SPECIES
 
 #### Status
 ACCEPTED

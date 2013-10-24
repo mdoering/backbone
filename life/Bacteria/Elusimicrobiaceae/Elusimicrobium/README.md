@@ -1,5 +1,4 @@
-Elusimicrobium Geissinger, Herlemann, Morschel, Maier & Brune, 2009 GENUS
-=======
+# Elusimicrobium Geissinger, Herlemann, Morschel, Maier & Brune, 2009 GENUS
 
 #### Status
 ACCEPTED

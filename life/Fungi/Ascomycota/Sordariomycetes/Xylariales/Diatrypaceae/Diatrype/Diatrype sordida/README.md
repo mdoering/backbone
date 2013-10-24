@@ -1,14 +1,13 @@
-Diatrypella sordida (Pers.) Nitschke, 1867 SPECIES
-=======
+# Diatrype sordida (Pers.) Cooke, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 1: 73 (1867)
+Grevillea 17(no. 82): 38 (1888)
 
 #### Original name
 Sphaeria sordida Pers., 1801

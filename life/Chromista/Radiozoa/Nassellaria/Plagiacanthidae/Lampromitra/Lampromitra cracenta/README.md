@@ -1,5 +1,4 @@
-Lampromitra cracenta Takahashi, 1991 SPECIES
-=======
+# Lampromitra cracenta Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

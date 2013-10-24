@@ -1,5 +1,4 @@
-Pestalotia burchelliae Laughton SPECIES
-=======
+# Pestalotia burchelliae Laughton SPECIES
 
 #### Status
 ACCEPTED

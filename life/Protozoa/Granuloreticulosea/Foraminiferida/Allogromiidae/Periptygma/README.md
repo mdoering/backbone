@@ -1,5 +1,4 @@
-Periptygma Arnold, 1978 GENUS
-=======
+# Periptygma Arnold, 1978 GENUS
 
 #### Status
 ACCEPTED

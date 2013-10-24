@@ -1,5 +1,4 @@
-Agaricus amplus Pers. SPECIES
-=======
+# Agaricus amplus Pers. SPECIES
 
 #### Status
 ACCEPTED

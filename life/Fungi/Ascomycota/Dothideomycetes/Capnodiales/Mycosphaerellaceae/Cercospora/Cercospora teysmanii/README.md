@@ -1,17 +1,16 @@
-Cercospora teijsmannii G.C.S. Barua & K.C. Barua SPECIES
-=======
+# Cercospora teysmanii G.C.S. Barua & K.C. Barua SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sci. Cult. 35(9): 488 (1969)
 
 #### Original name
-Cercospora teijsmannii G.C.S. Barua & K.C. Barua
+Cercospora teysmanii G.C.S. Barua & K.C. Barua
 
 ### Remarks
 null

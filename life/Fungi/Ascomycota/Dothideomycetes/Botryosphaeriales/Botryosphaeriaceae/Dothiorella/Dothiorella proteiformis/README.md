@@ -1,5 +1,4 @@
-Dothiorella proteiformis Speg. SPECIES
-=======
+# Dothiorella proteiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Tretomphalus atlanticus Cushman, 1934 SPECIES
-=======
+# Cymbaloporetta atlantica (Cushman, 1934) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

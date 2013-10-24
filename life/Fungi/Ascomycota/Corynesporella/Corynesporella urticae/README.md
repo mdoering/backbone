@@ -1,5 +1,4 @@
-Corynesporella urticae Munjal & H.S. Gill, 1961 SPECIES
-=======
+# Corynesporella urticae Munjal & H.S. Gill, 1961 SPECIES
 
 #### Status
 ACCEPTED

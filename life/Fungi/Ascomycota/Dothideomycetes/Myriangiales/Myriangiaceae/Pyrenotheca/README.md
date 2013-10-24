@@ -1,5 +1,4 @@
-Pyrenotheca GENUS
-=======
+# Pyrenotheca GENUS
 
 #### Status
 ACCEPTED

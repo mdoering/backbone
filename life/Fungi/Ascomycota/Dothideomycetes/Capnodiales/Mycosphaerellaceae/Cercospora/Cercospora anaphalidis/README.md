@@ -1,5 +1,4 @@
-Cercospora anaphalidis Munjal, Lall & Chona SPECIES
-=======
+# Cercospora anaphalidis Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

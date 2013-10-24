@@ -1,5 +1,4 @@
-Solenia stipitata subsp. stipitata SUBSPECIES
-=======
+# Solenia stipitata Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Vestník. Krá. Ceské Spolec. Nauk, Trída Mathem. -Prírod. 1: 2 (1871)
 
 #### Original name
-Solenia stipitata subsp. stipitata
+Solenia stipitata Fuckel
 
 ### Remarks
 null

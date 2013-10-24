@@ -1,5 +1,4 @@
-Cryptococcus mycelialis Golubev & N.W. Golubev SPECIES
-=======
+# Cryptococcus mycelialis Golubev & N.W. Golubev SPECIES
 
 #### Status
 ACCEPTED

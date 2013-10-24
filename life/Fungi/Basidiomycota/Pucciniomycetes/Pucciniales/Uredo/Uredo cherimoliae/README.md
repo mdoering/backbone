@@ -1,5 +1,4 @@
-Uredo cherimoliae Lagerh. SPECIES
-=======
+# Uredo cherimoliae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

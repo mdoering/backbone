@@ -1,5 +1,4 @@
-Guignardia magnoliae (Schwein.) J.H. Mill. SPECIES
-=======
+# Guignardia magnoliae (Schwein.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

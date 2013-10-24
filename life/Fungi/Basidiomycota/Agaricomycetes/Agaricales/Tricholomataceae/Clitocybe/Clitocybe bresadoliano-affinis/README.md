@@ -1,5 +1,4 @@
-Clitocybe bresadoliano-affinis Singer SPECIES
-=======
+# Clitocybe bresadoliano-affinis Singer SPECIES
 
 #### Status
 ACCEPTED

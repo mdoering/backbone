@@ -1,5 +1,4 @@
-Cercosporella pyri (Farl.) Karak. SPECIES
-=======
+# Cercosporella pyri (Farl.) Karak. SPECIES
 
 #### Status
 ACCEPTED

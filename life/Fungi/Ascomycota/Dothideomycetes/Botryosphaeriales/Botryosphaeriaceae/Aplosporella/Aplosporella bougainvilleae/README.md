@@ -1,5 +1,4 @@
-Aplosporella bougainvilleae (Sousa da Câmara) Petr. & Syd. SPECIES
-=======
+# Aplosporella bougainvilleae (Sousa da Câmara) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

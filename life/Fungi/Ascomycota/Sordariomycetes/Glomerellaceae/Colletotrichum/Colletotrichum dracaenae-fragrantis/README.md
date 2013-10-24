@@ -1,5 +1,4 @@
-Colletotrichum dracaenae-fragrantis (H. Mori) Petr. & Syd. SPECIES
-=======
+# Colletotrichum dracaenae-fragrantis (H. Mori) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

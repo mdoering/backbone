@@ -1,5 +1,4 @@
-Buedingiisphaeridium papillatum (Piskun, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium papillatum (Piskun, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

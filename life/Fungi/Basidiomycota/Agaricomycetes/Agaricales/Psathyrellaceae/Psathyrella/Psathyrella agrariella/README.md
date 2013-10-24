@@ -1,5 +1,4 @@
-Psathyrella agrariella var. agrariella VARIETY
-=======
+# Psathyrella agrariella (G.F. Atk.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 411 (1972)
 
 #### Original name
-Psathyrella agrariella var. agrariella
+Psilocybe agrariella G.F. Atk.
 
 ### Remarks
 null

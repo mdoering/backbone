@@ -1,5 +1,4 @@
-Rickia zanettii W. Rossi & Cesari, 1978 SPECIES
-=======
+# Rickia zanettii W. Rossi & Cesari, 1978 SPECIES
 
 #### Status
 ACCEPTED

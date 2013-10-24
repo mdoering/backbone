@@ -1,5 +1,4 @@
-Boletus pseudoboletus Jacq. SPECIES
-=======
+# Boletus pseudoboletus Jacq. SPECIES
 
 #### Status
 ACCEPTED

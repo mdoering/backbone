@@ -1,5 +1,4 @@
-Chroococcus prescottii Drouet & Daily SPECIES
-=======
+# Chroococcus prescottii Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

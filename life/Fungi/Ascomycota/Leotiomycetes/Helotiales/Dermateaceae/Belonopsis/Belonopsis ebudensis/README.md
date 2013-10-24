@@ -1,5 +1,4 @@
-Belonopsis ebudensis Dennis, 1990 SPECIES
-=======
+# Belonopsis ebudensis Dennis, 1990 SPECIES
 
 #### Status
 ACCEPTED

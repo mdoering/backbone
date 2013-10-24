@@ -1,5 +1,4 @@
-Sphaeria pericarpii Schwein. SPECIES
-=======
+# Sphaeria pericarpii Schwein. SPECIES
 
 #### Status
 ACCEPTED

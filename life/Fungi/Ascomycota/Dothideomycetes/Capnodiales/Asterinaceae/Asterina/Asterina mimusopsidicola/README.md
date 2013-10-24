@@ -1,5 +1,4 @@
-Asterina mimusopsidicola Hosag., Sabeena & D.K. Agarwal, 2009 SPECIES
-=======
+# Asterina mimusopsidicola Hosag., Sabeena & D.K. Agarwal, 2009 SPECIES
 
 #### Status
 ACCEPTED

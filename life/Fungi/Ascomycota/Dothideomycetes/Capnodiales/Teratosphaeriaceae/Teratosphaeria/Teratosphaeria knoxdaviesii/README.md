@@ -1,5 +1,4 @@
-Teratosphaeria knoxdaviesii Crous, 2008 SPECIES
-=======
+# Teratosphaeria knoxdaviesii Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

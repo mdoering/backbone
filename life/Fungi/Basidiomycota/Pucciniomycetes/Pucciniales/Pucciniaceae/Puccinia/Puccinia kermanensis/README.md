@@ -1,5 +1,4 @@
-Puccinia kermanensis P. Syd. & Syd. SPECIES
-=======
+# Puccinia kermanensis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma friesii Brunaud SPECIES
-=======
+# Phoma friesii Brunaud SPECIES
 
 #### Status
 ACCEPTED

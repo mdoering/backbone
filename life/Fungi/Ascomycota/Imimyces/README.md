@@ -1,5 +1,4 @@
-Imimyces GENUS
-=======
+# Imimyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mixtoconidium Etayo GENUS
-=======
+# Mixtoconidium Etayo GENUS
 
 #### Status
 ACCEPTED

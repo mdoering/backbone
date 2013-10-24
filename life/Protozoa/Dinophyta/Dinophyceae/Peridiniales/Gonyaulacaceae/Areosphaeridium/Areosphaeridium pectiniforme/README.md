@@ -1,5 +1,4 @@
-Areosphaeridium pectiniforme (Gerlach, 1961) Stover & Evitt SPECIES
-=======
+# Areosphaeridium pectiniforme (Gerlach, 1961) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

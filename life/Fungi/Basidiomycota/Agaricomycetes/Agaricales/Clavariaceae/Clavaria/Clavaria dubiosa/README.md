@@ -1,5 +1,4 @@
-Clavaria dubiosa Speg. SPECIES
-=======
+# Clavaria dubiosa Speg. SPECIES
 
 #### Status
 ACCEPTED

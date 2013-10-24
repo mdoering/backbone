@@ -1,5 +1,4 @@
-Acaropeltis costaricensis Petr., 1937 SPECIES
-=======
+# Acaropeltis costaricensis Petr., 1937 SPECIES
 
 #### Status
 ACCEPTED

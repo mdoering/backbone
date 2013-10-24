@@ -1,5 +1,4 @@
-Varicosporium tricladiiforme A. Roldán & Marvanová SPECIES
-=======
+# Varicosporium tricladiiforme A. Roldán & Marvanová SPECIES
 
 #### Status
 ACCEPTED

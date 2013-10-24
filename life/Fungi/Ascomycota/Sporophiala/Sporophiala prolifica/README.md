@@ -1,5 +1,4 @@
-Sporophiala prolifica P.Rag. Rao, 1970 SPECIES
-=======
+# Sporophiala prolifica P.Rag. Rao, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha granulosa Schmitz, 1986 SPECIES
-=======
+# Oxytricha granulosa Schmitz, 1986 SPECIES
 
 #### Status
 ACCEPTED

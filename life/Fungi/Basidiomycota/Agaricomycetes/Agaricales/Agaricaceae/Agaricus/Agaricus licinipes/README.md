@@ -1,5 +1,4 @@
-Agaricus licinipes Fr. SPECIES
-=======
+# Agaricus licinipes Fr. SPECIES
 
 #### Status
 ACCEPTED

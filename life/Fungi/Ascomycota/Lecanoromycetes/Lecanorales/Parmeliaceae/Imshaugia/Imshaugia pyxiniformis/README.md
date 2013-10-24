@@ -1,5 +1,4 @@
-Imshaugia pyxiniformis Elix SPECIES
-=======
+# Imshaugia pyxiniformis Elix SPECIES
 
 #### Status
 ACCEPTED

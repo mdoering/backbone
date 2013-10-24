@@ -1,5 +1,4 @@
-Vascellum djurense (Henn.) P. Ponce de León SPECIES
-=======
+# Vascellum djurense (Henn.) P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

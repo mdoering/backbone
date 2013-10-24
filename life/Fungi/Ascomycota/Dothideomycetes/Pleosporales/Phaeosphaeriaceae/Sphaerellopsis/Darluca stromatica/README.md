@@ -1,5 +1,4 @@
-Darluca stromatica Fuckel SPECIES
-=======
+# Darluca stromatica Fuckel SPECIES
 
 #### Status
 ACCEPTED

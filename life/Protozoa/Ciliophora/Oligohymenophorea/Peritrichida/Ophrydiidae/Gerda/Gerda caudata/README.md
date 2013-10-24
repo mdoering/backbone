@@ -1,5 +1,4 @@
-Gerda caudata Phillips, 1883 SPECIES
-=======
+# Gerda caudata Phillips, 1883 SPECIES
 
 #### Status
 ACCEPTED

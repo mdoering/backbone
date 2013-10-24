@@ -1,5 +1,4 @@
-Spirulina subsalsa subsp. oceanica SUBSPECIES
-=======
+# Spirulina subsalsa Oersted SPECIES
 
 #### Status
 ACCEPTED

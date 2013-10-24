@@ -1,5 +1,4 @@
-Mycena balanicola Velen. SPECIES
-=======
+# Mycena balanicola Velen. SPECIES
 
 #### Status
 ACCEPTED

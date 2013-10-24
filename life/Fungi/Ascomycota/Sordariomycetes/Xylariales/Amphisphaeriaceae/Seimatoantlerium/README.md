@@ -1,5 +1,4 @@
-Seimatoantlerium Strobel, E. Ford, J. Yi Li, J. Sears, Sidhu & W.M. Hess GENUS
-=======
+# Seimatoantlerium Strobel, E. Ford, J. Yi Li, J. Sears, Sidhu & W.M. Hess GENUS
 
 #### Status
 ACCEPTED

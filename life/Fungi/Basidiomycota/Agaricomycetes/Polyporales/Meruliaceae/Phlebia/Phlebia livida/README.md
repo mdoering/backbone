@@ -1,17 +1,16 @@
-Thelephora viscosa var. viscosa VARIETY
-=======
+# Phlebia livida (Pers.) Bres., 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Acad. Agiato Rovereto 3: 105 (1897)
 
 #### Original name
-Thelephora viscosa var. viscosa
+Corticium lividum Pers., 1796
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma sublividum (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma sublividum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

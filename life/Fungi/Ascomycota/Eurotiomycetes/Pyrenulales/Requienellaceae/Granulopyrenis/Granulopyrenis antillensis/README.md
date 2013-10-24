@@ -1,5 +1,4 @@
-Granulopyrenis antillensis Aptroot SPECIES
-=======
+# Granulopyrenis antillensis Aptroot SPECIES
 
 #### Status
 ACCEPTED

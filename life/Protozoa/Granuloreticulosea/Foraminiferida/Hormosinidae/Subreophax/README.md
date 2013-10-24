@@ -1,5 +1,4 @@
-Subreophax Saidova, 1975 GENUS
-=======
+# Subreophax Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

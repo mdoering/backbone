@@ -1,5 +1,4 @@
-Verrucaria maculata Zschacke SPECIES
-=======
+# Verrucaria maculata Zschacke SPECIES
 
 #### Status
 ACCEPTED

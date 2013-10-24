@@ -1,5 +1,4 @@
-Parmelia angustior Nyl. SPECIES
-=======
+# Parmelia angustior Nyl. SPECIES
 
 #### Status
 ACCEPTED

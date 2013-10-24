@@ -1,5 +1,4 @@
-Filaspora centranthi (Brunaud) Kuntze SPECIES
-=======
+# Filaspora centranthi (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

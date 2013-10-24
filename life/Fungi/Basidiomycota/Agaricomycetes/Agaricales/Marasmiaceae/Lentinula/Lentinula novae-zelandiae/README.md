@@ -1,14 +1,13 @@
-Lentinula novaezelandiae (G. Stev.) Pegler SPECIES
-=======
+# Lentinula novae-zelandiae (G. Stev.) Pegler, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 36: 243 (1983)
 
 #### Original name
 Crinipellis novae-zelandiae G. Stev., 1964

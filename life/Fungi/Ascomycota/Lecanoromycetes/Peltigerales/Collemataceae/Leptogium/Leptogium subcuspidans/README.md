@@ -1,5 +1,4 @@
-Leptogium subcuspidans (Nyl.) Zahlbr. SPECIES
-=======
+# Leptogium subcuspidans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype patagonica (Speg.) Rappaz SPECIES
-=======
+# Diatrype patagonica (Speg.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

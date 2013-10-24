@@ -1,5 +1,4 @@
-Stannophyllum globigerinum Haeckel, 1889 SPECIES
-=======
+# Stannophyllum globigerinum Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

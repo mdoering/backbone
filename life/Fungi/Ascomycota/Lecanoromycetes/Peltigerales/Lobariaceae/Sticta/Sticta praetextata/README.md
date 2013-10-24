@@ -1,5 +1,4 @@
-Sticta praetextata (Räsänen) D.D. Awasthi SPECIES
-=======
+# Sticta praetextata (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

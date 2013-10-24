@@ -1,17 +1,16 @@
-Nesolechia erichsenii Räsänen SPECIES
-=======
+# Ramboldia insidiosa (Th. Fr.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hafellner & Türk, Carinthia II 185/105: 624 (1995)
 
 #### Original name
-null
+Lecidea insidiosa Th. Fr.
 
 ### Remarks
 null

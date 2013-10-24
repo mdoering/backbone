@@ -1,5 +1,4 @@
-Platygrapha psaroleuca Nyl. SPECIES
-=======
+# Platygrapha psaroleuca Nyl. SPECIES
 
 #### Status
 ACCEPTED

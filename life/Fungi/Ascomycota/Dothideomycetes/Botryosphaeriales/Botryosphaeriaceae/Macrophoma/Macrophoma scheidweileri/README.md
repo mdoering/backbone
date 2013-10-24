@@ -1,5 +1,4 @@
-Macrophoma scheidweileri (Westend.) Berl. & Voglino SPECIES
-=======
+# Macrophoma scheidweileri (Westend.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

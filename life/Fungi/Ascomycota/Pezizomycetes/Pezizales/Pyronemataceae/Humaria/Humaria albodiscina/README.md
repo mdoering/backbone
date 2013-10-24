@@ -1,5 +1,4 @@
-Humaria albodiscina Velen. SPECIES
-=======
+# Humaria albodiscina Velen. SPECIES
 
 #### Status
 ACCEPTED

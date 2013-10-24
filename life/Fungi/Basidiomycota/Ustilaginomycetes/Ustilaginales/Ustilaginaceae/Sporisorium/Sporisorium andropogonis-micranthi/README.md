@@ -1,5 +1,4 @@
-Sporisorium andropogonis-micranthi (L. Ling & T.L. Chen) Vánky SPECIES
-=======
+# Sporisorium andropogonis-micranthi (L. Ling & T.L. Chen) Vánky SPECIES
 
 #### Status
 ACCEPTED

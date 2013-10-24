@@ -1,5 +1,4 @@
-Leptothyrina exigua Höhn. SPECIES
-=======
+# Leptothyrina exigua Höhn. SPECIES
 
 #### Status
 ACCEPTED

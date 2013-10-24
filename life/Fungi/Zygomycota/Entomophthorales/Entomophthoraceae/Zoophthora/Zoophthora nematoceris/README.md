@@ -1,5 +1,4 @@
-Zoophthora nematoceris Balazy, 1993 SPECIES
-=======
+# Zoophthora nematoceris Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

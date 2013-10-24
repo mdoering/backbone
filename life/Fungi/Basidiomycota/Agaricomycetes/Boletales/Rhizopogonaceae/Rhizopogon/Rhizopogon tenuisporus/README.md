@@ -1,5 +1,4 @@
-Rhizopogon tenuisporus Velen. SPECIES
-=======
+# Rhizopogon tenuisporus Velen. SPECIES
 
 #### Status
 ACCEPTED

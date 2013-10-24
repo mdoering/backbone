@@ -1,5 +1,4 @@
-Nocardia calcarea Metcalf and Brown, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Nocardia calcarea Metcalf and Brown, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

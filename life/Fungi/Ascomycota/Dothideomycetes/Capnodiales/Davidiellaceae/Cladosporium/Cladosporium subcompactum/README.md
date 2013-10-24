@@ -1,5 +1,4 @@
-Cladosporium subcompactum Sacc. SPECIES
-=======
+# Cladosporium subcompactum Sacc. SPECIES
 
 #### Status
 ACCEPTED

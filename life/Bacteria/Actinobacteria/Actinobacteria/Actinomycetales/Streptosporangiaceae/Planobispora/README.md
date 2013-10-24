@@ -1,5 +1,4 @@
-Planobispora Thiemann & Beretta GENUS
-=======
+# Planobispora Thiemann & Beretta GENUS
 
 #### Status
 ACCEPTED

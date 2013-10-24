@@ -1,5 +1,4 @@
-Caloplaca succinea (Martin-Donos {?} & Jeanbert {?} ) Zahlbr. SPECIES
-=======
+# Caloplaca succinea (Martin-Donos {?} & Jeanbert {?} ) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

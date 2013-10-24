@@ -1,5 +1,4 @@
-Diaporthe hippophaes E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
-=======
+# Diaporthe hippophaes E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED

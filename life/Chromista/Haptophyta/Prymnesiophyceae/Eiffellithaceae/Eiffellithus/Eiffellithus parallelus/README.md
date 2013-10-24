@@ -1,8 +1,7 @@
-Eiffellithus multicostatus Gazdzicka, 1978 SPECIES
-=======
+# Eiffellithus parallelus Perch-Nielsen, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

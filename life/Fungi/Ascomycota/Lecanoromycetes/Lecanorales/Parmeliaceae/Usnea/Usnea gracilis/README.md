@@ -1,5 +1,4 @@
-Usnea gracilis var. gracilis VARIETY
-=======
+# Usnea gracilis Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. 627 (1810)
 
 #### Original name
-Usnea gracilis var. gracilis
+Usnea gracilis Ach.
 
 ### Remarks
 null

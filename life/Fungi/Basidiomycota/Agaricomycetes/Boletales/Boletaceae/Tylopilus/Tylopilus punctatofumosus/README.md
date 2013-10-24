@@ -1,5 +1,4 @@
-Tylopilus punctatofumosus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Tylopilus punctatofumosus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

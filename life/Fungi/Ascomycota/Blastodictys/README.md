@@ -1,5 +1,4 @@
-Blastodictys M.B. Ellis GENUS
-=======
+# Blastodictys M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

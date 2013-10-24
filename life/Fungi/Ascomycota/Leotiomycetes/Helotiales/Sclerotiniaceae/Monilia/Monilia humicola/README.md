@@ -1,17 +1,16 @@
-Monilia humicola var. humicola VARIETY
-=======
+# Monilia humicola SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Arch. Néerlandaises des Sc. exacts et nat. 7: 286 (1902)
+null
 
 #### Original name
-Monilia humicola var. humicola
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asteridiella malloti (Hansf. & Thirum.) Hansf. SPECIES
-=======
+# Asteridiella malloti (Hansf. & Thirum.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

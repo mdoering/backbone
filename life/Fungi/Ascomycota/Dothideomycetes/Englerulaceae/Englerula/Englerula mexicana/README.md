@@ -1,5 +1,4 @@
-Englerula mexicana Theiss. SPECIES
-=======
+# Englerula mexicana Theiss. SPECIES
 
 #### Status
 ACCEPTED

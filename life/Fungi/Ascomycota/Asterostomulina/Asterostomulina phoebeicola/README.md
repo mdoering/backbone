@@ -1,17 +1,16 @@
-Asterostomulina phoebicola Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Asterostomulina phoebeicola Bat., J.L. Bezerra & Cavalc., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Portug. acta biol. , Sér. B 7(4): 387 (1964)
 
 #### Original name
-Asterostomulina phoebicola Bat., J.L. Bezerra & Cavalc.
+Asterostomulina phoebeicola Bat., J.L. Bezerra & Cavalc., 1964
 
 ### Remarks
 null

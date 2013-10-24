@@ -1,5 +1,4 @@
-Lichen terrestris Lam. SPECIES
-=======
+# Lichen terrestris Lam. SPECIES
 
 #### Status
 ACCEPTED

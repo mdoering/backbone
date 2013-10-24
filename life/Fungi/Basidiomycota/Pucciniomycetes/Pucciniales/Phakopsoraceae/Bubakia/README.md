@@ -1,5 +1,4 @@
-Bubakia GENUS
-=======
+# Bubakia GENUS
 
 #### Status
 ACCEPTED

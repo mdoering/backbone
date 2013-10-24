@@ -1,5 +1,4 @@
-Caloplaca russeola (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca russeola (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

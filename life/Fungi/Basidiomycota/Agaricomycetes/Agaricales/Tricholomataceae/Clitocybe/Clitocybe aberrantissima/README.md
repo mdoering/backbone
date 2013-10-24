@@ -1,5 +1,4 @@
-Clitocybe aberrantissima Singer SPECIES
-=======
+# Clitocybe aberrantissima Singer SPECIES
 
 #### Status
 ACCEPTED

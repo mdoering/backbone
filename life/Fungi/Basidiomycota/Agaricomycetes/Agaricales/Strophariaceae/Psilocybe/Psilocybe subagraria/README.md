@@ -1,5 +1,4 @@
-Psilocybe subagraria G.F. Atk. SPECIES
-=======
+# Psilocybe subagraria G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

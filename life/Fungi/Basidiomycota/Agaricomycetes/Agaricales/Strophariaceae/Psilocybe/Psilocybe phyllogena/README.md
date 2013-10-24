@@ -1,17 +1,16 @@
-Deconica phyllogena (Peck) Noordel., 2009 SPECIES
-=======
+# Psilocybe phyllogena (Peck) Peck, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 157: 99 (1912)
 
 #### Original name
-null
+Agaricus phyllogenus Peck, 1874
 
 ### Remarks
 null

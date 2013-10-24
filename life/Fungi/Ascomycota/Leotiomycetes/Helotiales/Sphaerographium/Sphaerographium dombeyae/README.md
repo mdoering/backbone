@@ -1,5 +1,4 @@
-Sphaerographium dombeyae Dias & Sousa da Câmara SPECIES
-=======
+# Sphaerographium dombeyae Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

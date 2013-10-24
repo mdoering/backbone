@@ -1,5 +1,4 @@
-Sporendonema terrestre Oudem. SPECIES
-=======
+# Sporendonema terrestre Oudem. SPECIES
 
 #### Status
 ACCEPTED

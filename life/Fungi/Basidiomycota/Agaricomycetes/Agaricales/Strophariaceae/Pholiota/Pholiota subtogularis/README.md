@@ -1,5 +1,4 @@
-Pholiota subtogularis Cleland SPECIES
-=======
+# Pholiota subtogularis Cleland SPECIES
 
 #### Status
 ACCEPTED

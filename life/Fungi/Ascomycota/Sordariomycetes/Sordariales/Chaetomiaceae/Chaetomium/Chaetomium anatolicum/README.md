@@ -1,5 +1,4 @@
-Chaetomium anatolicum Karaca & Turhan, 1973 SPECIES
-=======
+# Chaetomium anatolicum Karaca & Turhan, 1973 SPECIES
 
 #### Status
 ACCEPTED

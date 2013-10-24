@@ -1,5 +1,4 @@
-Dimerium asterinacearum M.L. Farr SPECIES
-=======
+# Dimerium asterinacearum M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

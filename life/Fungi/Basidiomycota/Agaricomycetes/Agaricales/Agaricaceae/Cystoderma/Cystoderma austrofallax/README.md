@@ -1,5 +1,4 @@
-Cystoderma austrofallax Singer SPECIES
-=======
+# Cystoderma austrofallax Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stelomorpha crassula (Vavrdová, 1990) Tongiorgi, Yin & Di Milia, 2003 SPECIES
-=======
+# Stelomorpha crassula (Vavrdová, 1990) Tongiorgi, Yin & Di Milia, 2003 SPECIES
 
 #### Status
 ACCEPTED

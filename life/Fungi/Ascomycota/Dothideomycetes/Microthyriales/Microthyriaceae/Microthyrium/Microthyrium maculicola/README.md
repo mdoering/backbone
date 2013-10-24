@@ -1,17 +1,16 @@
-Microthyrium maculicolum Doidge SPECIES
-=======
+# Microthyrium maculicola Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Roy. Soc. South Africa 8(4): 241 (1920)
 
 #### Original name
-Microthyrium maculicolum Doidge
+Microthyrium maculicola Doidge
 
 ### Remarks
 null

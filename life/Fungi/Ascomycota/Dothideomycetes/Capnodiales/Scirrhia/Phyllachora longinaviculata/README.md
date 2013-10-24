@@ -1,5 +1,4 @@
-Phyllachora longinaviculata Parbery, 1967 SPECIES
-=======
+# Phyllachora longinaviculata Parbery, 1967 SPECIES
 
 #### Status
 DOUBTFUL

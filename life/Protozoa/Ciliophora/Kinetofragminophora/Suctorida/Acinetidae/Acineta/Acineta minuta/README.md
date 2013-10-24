@@ -1,5 +1,4 @@
-Acineta minuta SPECIES
-=======
+# Acineta minuta SPECIES
 
 #### Status
 ACCEPTED

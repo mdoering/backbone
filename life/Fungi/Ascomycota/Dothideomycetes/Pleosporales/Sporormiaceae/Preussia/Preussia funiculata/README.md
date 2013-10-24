@@ -1,5 +1,4 @@
-Preussia funiculata (Preuss) Fuckel, 1870 SPECIES
-=======
+# Preussia funiculata (Preuss) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

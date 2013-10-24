@@ -1,5 +1,4 @@
-Hemiselmis simplex Butcher, 1967 SPECIES
-=======
+# Hemiselmis simplex Butcher, 1967 SPECIES
 
 #### Status
 ACCEPTED

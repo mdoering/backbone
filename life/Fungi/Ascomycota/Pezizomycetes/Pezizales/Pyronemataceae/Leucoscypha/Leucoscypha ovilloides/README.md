@@ -1,5 +1,4 @@
-Leucoscypha ovilloides Harmaja SPECIES
-=======
+# Leucoscypha ovilloides Harmaja SPECIES
 
 #### Status
 ACCEPTED

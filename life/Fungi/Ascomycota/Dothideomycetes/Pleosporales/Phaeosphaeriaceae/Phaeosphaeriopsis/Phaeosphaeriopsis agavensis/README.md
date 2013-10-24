@@ -1,17 +1,16 @@
-Camarosporium agavensis A.W. Ramaley & M.E. Barr, 1995 SPECIES
-=======
+# Phaeosphaeriopsis agavensis (A.W. Ramaley, M.E. Palm & M.E. Barr) M.P.S. Câmara, M.E. Palm & A.W. Ramaley, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 86 (1995)
+in Câmara, Ramaley, Castlebury & Palm, Mycol. Res. 107(5): 519 (2003)
 
 #### Original name
-Camarosporium agavensis A.W. Ramaley & M.E. Barr, 1995
+Paraphaeosphaeria agavensis A.W. Ramaley, M.E. Palm & M.E. Barr, 1997
 
 ### Remarks
 null

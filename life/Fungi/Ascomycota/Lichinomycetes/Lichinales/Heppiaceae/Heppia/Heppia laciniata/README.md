@@ -1,5 +1,4 @@
-Heppia laciniata (Bagl. & Carestia) Lettau SPECIES
-=======
+# Heppia laciniata (Bagl. & Carestia) Lettau SPECIES
 
 #### Status
 ACCEPTED

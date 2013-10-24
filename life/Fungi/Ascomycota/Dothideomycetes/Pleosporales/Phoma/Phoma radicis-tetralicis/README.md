@@ -1,5 +1,4 @@
-Phoma radicis-tetralicis Ternetz SPECIES
-=======
+# Phoma radicis-tetralicis Ternetz SPECIES
 
 #### Status
 ACCEPTED

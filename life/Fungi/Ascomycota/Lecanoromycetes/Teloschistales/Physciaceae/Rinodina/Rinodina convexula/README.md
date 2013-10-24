@@ -1,5 +1,4 @@
-Rinodina convexula H. Magn. SPECIES
-=======
+# Rinodina convexula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

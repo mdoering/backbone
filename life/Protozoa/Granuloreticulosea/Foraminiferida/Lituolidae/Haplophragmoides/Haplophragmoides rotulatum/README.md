@@ -1,5 +1,4 @@
-Haplophragmoides rotulatum SPECIES
-=======
+# Haplophragmoides rotulatum SPECIES
 
 #### Status
 ACCEPTED

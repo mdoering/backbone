@@ -1,5 +1,4 @@
-Boletus gyrodontoides Corner SPECIES
-=======
+# Boletus gyrodontoides Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina guppyi SPECIES
-=======
+# Spiroloculina guppyi SPECIES
 
 #### Status
 ACCEPTED

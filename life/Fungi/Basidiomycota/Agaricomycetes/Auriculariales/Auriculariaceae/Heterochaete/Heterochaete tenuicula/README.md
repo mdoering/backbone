@@ -1,5 +1,4 @@
-Heterochaete tenuicula (Lév.) Pat. SPECIES
-=======
+# Heterochaete tenuicula (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

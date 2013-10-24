@@ -1,5 +1,4 @@
-Orbilia geralensis (Henn.) Rick SPECIES
-=======
+# Orbilia geralensis (Henn.) Rick SPECIES
 
 #### Status
 ACCEPTED

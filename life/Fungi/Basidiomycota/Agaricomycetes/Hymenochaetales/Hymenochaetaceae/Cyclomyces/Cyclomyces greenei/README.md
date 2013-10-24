@@ -1,8 +1,7 @@
-Cyclomyces greenii Berk. SPECIES
-=======
+# Cyclomyces greenei Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cyclomyces greenii Berk.
+Cyclomyces greenei Berk.
 
 ### Remarks
 null

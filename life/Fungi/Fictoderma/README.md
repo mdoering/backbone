@@ -1,5 +1,4 @@
-Fictoderma Preuss GENUS
-=======
+# Fictoderma Preuss GENUS
 
 #### Status
 ACCEPTED

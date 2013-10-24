@@ -1,5 +1,4 @@
-Dicaeoma modicum (Holw.) Arthur SPECIES
-=======
+# Dicaeoma modicum (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

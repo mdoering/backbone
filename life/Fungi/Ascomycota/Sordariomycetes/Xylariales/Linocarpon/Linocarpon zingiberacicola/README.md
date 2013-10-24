@@ -1,5 +1,4 @@
-Linocarpon zingiberacicola K.D. Hyde SPECIES
-=======
+# Linocarpon zingiberacicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

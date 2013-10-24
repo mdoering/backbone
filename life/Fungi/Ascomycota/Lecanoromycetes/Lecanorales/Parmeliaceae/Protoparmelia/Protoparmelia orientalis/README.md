@@ -1,8 +1,7 @@
-Maronina orientalis var. orientalis Kantvilas & Papong VARIETY
-=======
+# Protoparmelia orientalis (Kantvilas & Papong) Kantvilas, Papong & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

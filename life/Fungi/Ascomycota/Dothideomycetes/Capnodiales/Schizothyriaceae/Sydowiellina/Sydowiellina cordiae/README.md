@@ -1,5 +1,4 @@
-Sydowiellina cordiae Bat. & I.H. Lima SPECIES
-=======
+# Sydowiellina cordiae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

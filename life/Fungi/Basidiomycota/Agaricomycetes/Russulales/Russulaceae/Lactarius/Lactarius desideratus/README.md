@@ -1,5 +1,4 @@
-Lactarius desideratus Verbeken & Stubbe SPECIES
-=======
+# Lactarius desideratus Verbeken & Stubbe SPECIES
 
 #### Status
 ACCEPTED

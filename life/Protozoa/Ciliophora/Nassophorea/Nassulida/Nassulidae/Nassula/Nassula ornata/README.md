@@ -1,8 +1,7 @@
-Nassula ornatus Ehrenberg, 1833 SPECIES
-=======
+# Nassula ornata Ehrenberg, 1834 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,8 +1,7 @@
-Murrayella intermedia Pavillard SPECIES
-=======
+# Pavillardinium intermedia (Pavillard) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

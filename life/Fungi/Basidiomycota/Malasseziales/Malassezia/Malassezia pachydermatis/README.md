@@ -1,14 +1,13 @@
-Pityrosporum pachydermatis Weidman, 1925 SPECIES
-=======
+# Malassezia pachydermatis (Weidman) C.W. Dodge, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Medical mycology. Fungous diseases of men and other mammals 370 (1935)
 
 #### Original name
 Pityrosporum pachydermatis Weidman, 1925

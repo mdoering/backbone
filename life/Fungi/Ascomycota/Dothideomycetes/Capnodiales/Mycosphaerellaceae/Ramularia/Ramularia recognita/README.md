@@ -1,5 +1,4 @@
-Ramularia recognita C. Massal. SPECIES
-=======
+# Ramularia recognita C. Massal. SPECIES
 
 #### Status
 ACCEPTED

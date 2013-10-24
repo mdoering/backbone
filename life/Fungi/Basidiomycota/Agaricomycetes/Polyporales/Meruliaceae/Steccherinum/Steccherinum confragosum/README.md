@@ -1,14 +1,13 @@
-Irpex confragosus (Maas Geest. & Lanq.) Kotir. & Saaren., 2002 SPECIES
-=======
+# Steccherinum confragosum Maas Geest. & Lanq., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Polish Botanical Journal 47(2): 104 (2002)
+Persoonia 8(2): 149 (1975)
 
 #### Original name
 Steccherinum confragosum Maas Geest. & Lanq., 1975

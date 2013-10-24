@@ -1,5 +1,4 @@
-Lecanora meolansii B. de Lesd. SPECIES
-=======
+# Lecanora meolansii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

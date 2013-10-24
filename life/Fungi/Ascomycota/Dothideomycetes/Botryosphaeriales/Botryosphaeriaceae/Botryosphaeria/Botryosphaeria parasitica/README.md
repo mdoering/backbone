@@ -1,5 +1,4 @@
-Botryosphaeria parasitica (Rick) Weese SPECIES
-=======
+# Botryosphaeria parasitica (Rick) Weese SPECIES
 
 #### Status
 ACCEPTED

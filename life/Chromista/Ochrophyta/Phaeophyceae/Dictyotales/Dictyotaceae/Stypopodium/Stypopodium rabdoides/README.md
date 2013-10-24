@@ -1,8 +1,7 @@
-Stypopodium flabelliforme var. rabdoides Allender & Kraft, 1983 VARIETY
-=======
+# Stypopodium rabdoides (Allender & Kraft) Kraft, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

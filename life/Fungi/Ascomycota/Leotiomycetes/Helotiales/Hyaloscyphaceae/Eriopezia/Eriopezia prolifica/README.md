@@ -1,5 +1,4 @@
-Eriopezia prolifica (Ellis) Rehm SPECIES
-=======
+# Eriopezia prolifica (Ellis) Rehm SPECIES
 
 #### Status
 ACCEPTED

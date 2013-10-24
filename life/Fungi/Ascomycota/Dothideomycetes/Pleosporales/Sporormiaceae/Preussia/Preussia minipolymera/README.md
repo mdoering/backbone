@@ -1,5 +1,4 @@
-Preussia minipolymera J.H. Chang & Y.Z. Wang, 2009 SPECIES
-=======
+# Preussia minipolymera J.H. Chang & Y.Z. Wang, 2009 SPECIES
 
 #### Status
 ACCEPTED

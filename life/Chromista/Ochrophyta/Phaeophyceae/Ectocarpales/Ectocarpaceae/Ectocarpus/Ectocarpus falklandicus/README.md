@@ -1,5 +1,4 @@
-Ectocarpus falklandicus Skottsberg SPECIES
-=======
+# Ectocarpus falklandicus Skottsberg SPECIES
 
 #### Status
 ACCEPTED

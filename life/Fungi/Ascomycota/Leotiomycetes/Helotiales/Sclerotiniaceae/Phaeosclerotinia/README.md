@@ -1,5 +1,4 @@
-Phaeosclerotinia Hori GENUS
-=======
+# Phaeosclerotinia Hori GENUS
 
 #### Status
 ACCEPTED

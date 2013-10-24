@@ -1,5 +1,4 @@
-Monilia accraensis Macfie SPECIES
-=======
+# Monilia accraensis Macfie SPECIES
 
 #### Status
 ACCEPTED

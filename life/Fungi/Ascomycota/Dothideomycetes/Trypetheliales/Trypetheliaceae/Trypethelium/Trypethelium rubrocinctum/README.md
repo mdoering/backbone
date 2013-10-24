@@ -1,5 +1,4 @@
-Trypethelium rubrocinctum Makhija & Patw. SPECIES
-=======
+# Trypethelium rubrocinctum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

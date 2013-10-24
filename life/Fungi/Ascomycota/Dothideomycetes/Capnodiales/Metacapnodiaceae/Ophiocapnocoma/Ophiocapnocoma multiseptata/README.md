@@ -1,17 +1,16 @@
-Ophiocapnocoma multiseptatum Bat. & Cif. SPECIES
-=======
+# Ophiocapnocoma multiseptata Bat. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Saccardoa 2: 166 (1963)
 
 #### Original name
-Ophiocapnocoma multiseptatum Bat. & Cif.
+Ophiocapnocoma multiseptata Bat. & Cif.
 
 ### Remarks
 null

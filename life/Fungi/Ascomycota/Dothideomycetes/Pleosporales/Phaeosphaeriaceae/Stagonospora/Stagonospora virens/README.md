@@ -1,8 +1,7 @@
-Stagonospora virentis Ellis & G. Martin SPECIES
-=======
+# Stagonospora virens Ellis & G. Martin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stagonospora virentis Ellis & G. Martin
+Stagonospora virens Ellis & G. Martin
 
 ### Remarks
 null

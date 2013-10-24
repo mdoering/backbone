@@ -1,5 +1,4 @@
-Lecidea romeana Stizenb. SPECIES
-=======
+# Lecidea romeana Stizenb. SPECIES
 
 #### Status
 ACCEPTED

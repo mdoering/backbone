@@ -1,5 +1,4 @@
-Hercyniana meissneri Burmann, 1976 SPECIES
-=======
+# Hercyniana meissneri Burmann, 1976 SPECIES
 
 #### Status
 ACCEPTED

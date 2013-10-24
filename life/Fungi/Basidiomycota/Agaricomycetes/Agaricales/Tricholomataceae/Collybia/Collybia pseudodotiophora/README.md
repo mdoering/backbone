@@ -1,5 +1,4 @@
-Collybia pseudodotiophora Hruby SPECIES
-=======
+# Collybia pseudodotiophora Hruby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma limnophila Sacc. SPECIES
-=======
+# Phoma limnophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

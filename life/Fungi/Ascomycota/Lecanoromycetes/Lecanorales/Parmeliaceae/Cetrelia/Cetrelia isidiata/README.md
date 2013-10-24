@@ -1,5 +1,4 @@
-Cetrelia isidiata (Asahina) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Cetrelia isidiata (Asahina) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

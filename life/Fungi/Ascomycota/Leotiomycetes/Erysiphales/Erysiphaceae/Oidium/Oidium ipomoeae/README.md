@@ -1,5 +1,4 @@
-Oidium ipomoeae (J.M. Yen & Chin C. Wang) U. Braun SPECIES
-=======
+# Oidium ipomoeae (J.M. Yen & Chin C. Wang) U. Braun SPECIES
 
 #### Status
 ACCEPTED

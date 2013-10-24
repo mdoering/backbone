@@ -1,5 +1,4 @@
-Tetraditryma Baumgartner, 1980 GENUS
-=======
+# Tetraditryma Baumgartner, 1980 GENUS
 
 #### Status
 ACCEPTED

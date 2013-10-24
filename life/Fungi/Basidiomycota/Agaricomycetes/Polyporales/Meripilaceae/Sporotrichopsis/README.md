@@ -1,5 +1,4 @@
-Sporotrichopsis Stalpers, 2000 GENUS
-=======
+# Sporotrichopsis Stalpers, 2000 GENUS
 
 #### Status
 ACCEPTED

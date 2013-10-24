@@ -1,5 +1,4 @@
-Camarosporium canariense Petr. SPECIES
-=======
+# Camarosporium canariense Petr. SPECIES
 
 #### Status
 ACCEPTED

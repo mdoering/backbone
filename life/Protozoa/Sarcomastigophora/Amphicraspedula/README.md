@@ -1,5 +1,4 @@
-Amphicraspedula Haeckel, 1887 GENUS
-=======
+# Amphicraspedula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum xylophilum Shuang L. Chen & Yu Li, 1998 SPECIES
-=======
+# Physarum xylophilum Shuang L. Chen & Yu Li, 1998 SPECIES
 
 #### Status
 ACCEPTED

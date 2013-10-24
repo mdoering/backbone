@@ -1,5 +1,4 @@
-Pezizellaster similis Höhn. SPECIES
-=======
+# Pezizellaster similis Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gilbertina GENUS
-=======
+# Gilbertina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichohylas GENUS
-=======
+# Trichohylas GENUS
 
 #### Status
 ACCEPTED

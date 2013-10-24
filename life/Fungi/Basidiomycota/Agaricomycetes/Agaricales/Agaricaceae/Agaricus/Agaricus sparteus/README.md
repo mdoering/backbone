@@ -1,5 +1,4 @@
-Agaricus sparteus Fr. SPECIES
-=======
+# Agaricus sparteus Fr. SPECIES
 
 #### Status
 ACCEPTED

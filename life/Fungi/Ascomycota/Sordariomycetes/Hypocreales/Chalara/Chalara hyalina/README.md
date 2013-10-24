@@ -1,5 +1,4 @@
-Chalara hyalina Morgan-Jones & Gintis, 1984 SPECIES
-=======
+# Chalara hyalina Morgan-Jones & Gintis, 1984 SPECIES
 
 #### Status
 ACCEPTED

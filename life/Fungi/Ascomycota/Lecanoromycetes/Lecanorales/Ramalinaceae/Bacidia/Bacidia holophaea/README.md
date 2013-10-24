@@ -1,5 +1,4 @@
-Bacidia holophaea Anzi SPECIES
-=======
+# Bacidia holophaea Anzi SPECIES
 
 #### Status
 ACCEPTED

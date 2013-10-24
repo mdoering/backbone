@@ -1,5 +1,4 @@
-Biscutum zulloi SPECIES
-=======
+# Biscutum zulloi SPECIES
 
 #### Status
 ACCEPTED

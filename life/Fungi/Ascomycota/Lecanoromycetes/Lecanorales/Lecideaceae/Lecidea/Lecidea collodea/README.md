@@ -1,5 +1,4 @@
-Lecidea collodea Th. Fr. SPECIES
-=======
+# Lecidea collodea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

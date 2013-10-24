@@ -1,5 +1,4 @@
-Pleurotus herbarum Velen. SPECIES
-=======
+# Pleurotus herbarum Velen. SPECIES
 
 #### Status
 ACCEPTED

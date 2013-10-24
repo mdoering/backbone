@@ -1,5 +1,4 @@
-Sphaeria minutella Peck SPECIES
-=======
+# Sphaeria minutella Peck SPECIES
 
 #### Status
 ACCEPTED

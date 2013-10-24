@@ -1,14 +1,13 @@
-Fusarium herbarum var. graminum (Corda) Wollenw., 1930 VARIETY
-=======
+# Fusarium graminum Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusaria autographica delineata, Edn 1 no. 891 (1930)
+Herb. myc. 188 (1857)
 
 #### Original name
 Fusarium graminum Corda, 1837

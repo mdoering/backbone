@@ -1,5 +1,4 @@
-Agaricus directus Berk. & Broome SPECIES
-=======
+# Agaricus directus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

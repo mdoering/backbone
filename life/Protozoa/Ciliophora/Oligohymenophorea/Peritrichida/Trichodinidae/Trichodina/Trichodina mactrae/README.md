@@ -1,5 +1,4 @@
-Trichodina mactrae Xu, Song & Warren, 2000 SPECIES
-=======
+# Trichodina mactrae Xu, Song & Warren, 2000 SPECIES
 
 #### Status
 ACCEPTED

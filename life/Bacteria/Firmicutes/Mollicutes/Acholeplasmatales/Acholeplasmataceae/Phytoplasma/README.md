@@ -1,5 +1,4 @@
-Phytoplasma GENUS
-=======
+# Phytoplasma GENUS
 
 #### Status
 ACCEPTED

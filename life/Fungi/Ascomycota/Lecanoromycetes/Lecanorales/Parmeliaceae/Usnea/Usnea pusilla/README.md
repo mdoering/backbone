@@ -1,5 +1,4 @@
-Usnea pusilla Räsänen SPECIES
-=======
+# Usnea pusilla Räsänen SPECIES
 
 #### Status
 ACCEPTED

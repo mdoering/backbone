@@ -1,5 +1,4 @@
-Cortinarius acerbus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius acerbus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

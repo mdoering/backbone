@@ -1,5 +1,4 @@
-Phyllosticta gaillardiae Movss. SPECIES
-=======
+# Phyllosticta gaillardiae Movss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriopsis discicola (Rogerson & Samuels) Samuels SPECIES
-=======
+# Nectriopsis discicola (Rogerson & Samuels) Samuels SPECIES
 
 #### Status
 ACCEPTED

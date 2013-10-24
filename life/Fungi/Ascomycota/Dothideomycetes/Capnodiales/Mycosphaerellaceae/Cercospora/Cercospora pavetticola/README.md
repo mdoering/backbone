@@ -1,5 +1,4 @@
-Cercospora pavetticola Thirum. & Govindu SPECIES
-=======
+# Cercospora pavetticola Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina chlamydis Xu, Song & Warren, 1999 SPECIES
-=======
+# Trichodina chlamydis Xu, Song & Warren, 1999 SPECIES
 
 #### Status
 ACCEPTED

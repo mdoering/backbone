@@ -1,5 +1,4 @@
-Leucogyrophana pseudomollusca (Parmasto) Parmasto, 1967 SPECIES
-=======
+# Leucogyrophana pseudomollusca (Parmasto) Parmasto, 1967 SPECIES
 
 #### Status
 ACCEPTED

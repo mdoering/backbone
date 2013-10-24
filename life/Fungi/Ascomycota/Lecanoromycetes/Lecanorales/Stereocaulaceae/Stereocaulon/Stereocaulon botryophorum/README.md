@@ -1,5 +1,4 @@
-Stereocaulon botryophorum Müll. Arg. SPECIES
-=======
+# Stereocaulon botryophorum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

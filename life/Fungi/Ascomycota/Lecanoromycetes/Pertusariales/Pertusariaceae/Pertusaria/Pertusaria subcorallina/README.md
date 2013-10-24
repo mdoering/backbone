@@ -1,5 +1,4 @@
-Pertusaria subcorallina Nyl. SPECIES
-=======
+# Pertusaria subcorallina Nyl. SPECIES
 
 #### Status
 ACCEPTED

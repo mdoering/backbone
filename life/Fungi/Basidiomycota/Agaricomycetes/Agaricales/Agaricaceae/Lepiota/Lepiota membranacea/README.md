@@ -1,5 +1,4 @@
-Lepiota membranacea (Cooke & Massee) McAlpine SPECIES
-=======
+# Lepiota membranacea (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

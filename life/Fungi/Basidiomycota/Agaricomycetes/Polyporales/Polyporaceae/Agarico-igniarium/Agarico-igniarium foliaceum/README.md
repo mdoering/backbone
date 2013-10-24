@@ -1,5 +1,4 @@
-Agarico-igniarium foliaceum Paulet SPECIES
-=======
+# Agarico-igniarium foliaceum Paulet SPECIES
 
 #### Status
 ACCEPTED

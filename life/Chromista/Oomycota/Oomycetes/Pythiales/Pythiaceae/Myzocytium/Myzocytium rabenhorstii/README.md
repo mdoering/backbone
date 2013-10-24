@@ -1,14 +1,13 @@
-Lagenidium rabenhorstii Zopf, 1878 SPECIES
-=======
+# Myzocytium rabenhorstii (Zopf) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 20: 70 (1878)
+Straminipilous Fungi (Dordrecht) 295 (2001)
 
 #### Original name
 Lagenidium rabenhorstii Zopf, 1878

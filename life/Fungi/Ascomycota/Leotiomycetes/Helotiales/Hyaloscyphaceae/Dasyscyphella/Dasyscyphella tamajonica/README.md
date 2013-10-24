@@ -1,5 +1,4 @@
-Dasyscyphella tamajonica (Raitv. & R. Galán) Raitv. SPECIES
-=======
+# Dasyscyphella tamajonica (Raitv. & R. Galán) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces glyptomeri Thaxt. SPECIES
-=======
+# Rhachomyces glyptomeri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

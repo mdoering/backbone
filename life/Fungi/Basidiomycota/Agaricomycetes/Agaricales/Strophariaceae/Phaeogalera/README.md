@@ -1,5 +1,4 @@
-Phaeogalera GENUS
-=======
+# Phaeogalera GENUS
 
 #### Status
 ACCEPTED

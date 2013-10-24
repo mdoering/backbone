@@ -1,5 +1,4 @@
-Hemicyclium Schmidt, 1914 GENUS
-=======
+# Hemicyclium Schmidt, 1914 GENUS
 
 #### Status
 ACCEPTED

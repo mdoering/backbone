@@ -1,5 +1,4 @@
-Mycena aronsenii Maas Geest. SPECIES
-=======
+# Mycena aronsenii Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

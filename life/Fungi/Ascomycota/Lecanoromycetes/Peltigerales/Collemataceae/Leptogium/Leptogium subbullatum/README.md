@@ -1,5 +1,4 @@
-Leptogium subbullatum Kremp. SPECIES
-=======
+# Leptogium subbullatum Kremp. SPECIES
 
 #### Status
 ACCEPTED

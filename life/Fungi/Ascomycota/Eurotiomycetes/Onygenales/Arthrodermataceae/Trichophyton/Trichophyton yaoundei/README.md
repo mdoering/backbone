@@ -1,14 +1,13 @@
-Achorion yaoundei (G. Cochet & Doby-Dub.) R.O. Novak & Galgoczy, 1969 SPECIES
-=======
+# Trichophyton yaoundei G. Cochet & Doby-Dub., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. hung. 15(1-2): 131 (1969)
+Annls Parasit. hum. comp. 32: 585 (1957)
 
 #### Original name
 Trichophyton yaoundei G. Cochet & Doby-Dub., 1957

@@ -1,5 +1,4 @@
-Hymenogaster bucholtzii Soehner SPECIES
-=======
+# Hymenogaster bucholtzii Soehner SPECIES
 
 #### Status
 ACCEPTED

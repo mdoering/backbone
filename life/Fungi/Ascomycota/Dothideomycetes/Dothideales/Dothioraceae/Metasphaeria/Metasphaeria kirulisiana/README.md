@@ -1,5 +1,4 @@
-Metasphaeria kirulisiana Kirschst. SPECIES
-=======
+# Metasphaeria kirulisiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

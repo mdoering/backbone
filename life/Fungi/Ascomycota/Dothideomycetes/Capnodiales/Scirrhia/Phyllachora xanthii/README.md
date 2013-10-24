@@ -1,8 +1,7 @@
-Xyloma xanthii DC., 1817 SPECIES
-=======
+# Phyllachora xanthii (DC.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Botryodiplodia valdiviana Speg. SPECIES
-=======
+# Botryodiplodia valdiviana Speg. SPECIES
 
 #### Status
 ACCEPTED

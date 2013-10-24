@@ -1,5 +1,4 @@
-Mycosphaerella donacis Munjal, Chona & J.N. Kapoor SPECIES
-=======
+# Mycosphaerella donacis Munjal, Chona & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

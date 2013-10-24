@@ -1,5 +1,4 @@
-Phaeophleospora proteae (B. Sutton) Crous, F.A. Ferreira & B. Sutton SPECIES
-=======
+# Phaeophleospora proteae (B. Sutton) Crous, F.A. Ferreira & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

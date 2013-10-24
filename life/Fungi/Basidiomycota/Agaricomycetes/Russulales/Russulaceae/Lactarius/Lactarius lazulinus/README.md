@@ -1,5 +1,4 @@
-Lactarius lazulinus Stubbe, Verbeken & Watling SPECIES
-=======
+# Lactarius lazulinus Stubbe, Verbeken & Watling SPECIES
 
 #### Status
 ACCEPTED

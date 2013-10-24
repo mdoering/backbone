@@ -1,5 +1,4 @@
-Saccothecium cornicola Lar.N. Vassiljeva, 2006 SPECIES
-=======
+# Saccothecium cornicola Lar.N. Vassiljeva, 2006 SPECIES
 
 #### Status
 ACCEPTED

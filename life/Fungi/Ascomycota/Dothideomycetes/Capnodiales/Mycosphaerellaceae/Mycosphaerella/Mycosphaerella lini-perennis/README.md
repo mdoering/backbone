@@ -1,5 +1,4 @@
-Mycosphaerella lini-perennis Lobik SPECIES
-=======
+# Mycosphaerella lini-perennis Lobik SPECIES
 
 #### Status
 ACCEPTED

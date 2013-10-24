@@ -1,5 +1,4 @@
-Tremella compacta Möller SPECIES
-=======
+# Tremella compacta Möller SPECIES
 
 #### Status
 ACCEPTED

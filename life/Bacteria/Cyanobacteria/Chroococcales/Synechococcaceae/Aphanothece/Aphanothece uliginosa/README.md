@@ -1,5 +1,4 @@
-Aphanothece uliginosa Taylor SPECIES
-=======
+# Aphanothece uliginosa Taylor SPECIES
 
 #### Status
 ACCEPTED

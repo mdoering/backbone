@@ -1,5 +1,4 @@
-Ceratostomella cuspidata (Fr.) Réblová SPECIES
-=======
+# Ceratostomella cuspidata (Fr.) Réblová SPECIES
 
 #### Status
 ACCEPTED

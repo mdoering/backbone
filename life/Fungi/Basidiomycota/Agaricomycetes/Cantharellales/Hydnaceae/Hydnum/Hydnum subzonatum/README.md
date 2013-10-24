@@ -1,5 +1,4 @@
-Hydnum subzonatum (Peck) Sacc. SPECIES
-=======
+# Hydnum subzonatum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca clandestina Zahlbr. SPECIES
-=======
+# Caloplaca clandestina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

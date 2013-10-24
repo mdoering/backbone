@@ -1,5 +1,4 @@
-Mycena alexandri Singer, 1961 SPECIES
-=======
+# Mycena alexandri Singer, 1961 SPECIES
 
 #### Status
 ACCEPTED

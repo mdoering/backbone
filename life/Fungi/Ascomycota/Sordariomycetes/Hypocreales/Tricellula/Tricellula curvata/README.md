@@ -1,17 +1,16 @@
-Tricellula curvatis Haskins SPECIES
-=======
+# Tricellula curvata Haskins, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Microbiol. 4(3): 283 (1958)
 
 #### Original name
-Tricellula curvatis Haskins
+Tricellula curvata Haskins, 1958
 
 ### Remarks
 null

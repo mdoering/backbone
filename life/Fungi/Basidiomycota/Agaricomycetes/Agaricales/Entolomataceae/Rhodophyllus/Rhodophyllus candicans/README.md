@@ -1,5 +1,4 @@
-Rhodophyllus candicans Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus candicans Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

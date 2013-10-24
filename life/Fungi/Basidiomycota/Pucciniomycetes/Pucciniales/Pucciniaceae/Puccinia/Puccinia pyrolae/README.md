@@ -1,5 +1,4 @@
-Puccinia pyrolae Cooke SPECIES
-=======
+# Puccinia pyrolae Cooke SPECIES
 
 #### Status
 ACCEPTED

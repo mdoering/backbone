@@ -1,5 +1,4 @@
-Secotium obtusum Lloyd SPECIES
-=======
+# Secotium obtusum Lloyd SPECIES
 
 #### Status
 ACCEPTED

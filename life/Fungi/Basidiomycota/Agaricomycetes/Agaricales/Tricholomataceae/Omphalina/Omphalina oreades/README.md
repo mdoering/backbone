@@ -1,5 +1,4 @@
-Omphalina oreades Singer SPECIES
-=======
+# Omphalina oreades Singer SPECIES
 
 #### Status
 ACCEPTED

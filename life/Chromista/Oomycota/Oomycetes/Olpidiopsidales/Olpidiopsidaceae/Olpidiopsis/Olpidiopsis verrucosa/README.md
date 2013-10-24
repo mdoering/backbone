@@ -1,17 +1,16 @@
-Olpidiopsis verrucosa var. radicicola Dalla Torre VARIETY
-=======
+# Olpidiopsis verrucosa T.W. Johnson, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Olpidiopsis verrucosa var. radicicola Dalla Torre
+Olpidiopsis verrucosa T.W. Johnson, 1955
 
 ### Remarks
 null

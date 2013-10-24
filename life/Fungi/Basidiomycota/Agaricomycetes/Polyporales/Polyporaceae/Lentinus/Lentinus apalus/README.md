@@ -1,5 +1,4 @@
-Lentinus apalus Berk. & Broome SPECIES
-=======
+# Lentinus apalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

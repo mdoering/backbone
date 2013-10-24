@@ -1,5 +1,4 @@
-Lichenopsis sphaeroboloidea Schwein. SPECIES
-=======
+# Lichenopsis sphaeroboloidea Schwein. SPECIES
 
 #### Status
 ACCEPTED

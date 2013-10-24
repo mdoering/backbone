@@ -1,5 +1,4 @@
-Cyathicula lepidula Marchal & É.J. Marchal SPECIES
-=======
+# Cyathicula lepidula Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

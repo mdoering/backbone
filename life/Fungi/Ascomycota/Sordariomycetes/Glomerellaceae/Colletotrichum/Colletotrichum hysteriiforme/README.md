@@ -1,14 +1,13 @@
-Colletotrichum hysteriiformis (Peck) H.C. Greene SPECIES
-=======
+# Colletotrichum hysteriiforme (Peck) H.C. Greene SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. Midl. Nat. 44(3): 641 (1951)
 
 #### Original name
 Vermicularia hysteriiformis Peck

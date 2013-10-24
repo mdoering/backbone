@@ -1,5 +1,4 @@
-Diederichia D. Hawksw. GENUS
-=======
+# Diederichia D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis bignoniaceifolii Bat. & W.A. Campb. SPECIES
-=======
+# Micropeltis bignoniaceifolii Bat. & W.A. Campb. SPECIES
 
 #### Status
 ACCEPTED

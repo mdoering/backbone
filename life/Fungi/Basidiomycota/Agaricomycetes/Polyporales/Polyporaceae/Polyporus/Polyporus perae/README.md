@@ -1,5 +1,4 @@
-Polyporus perae G. Arnaud SPECIES
-=======
+# Polyporus perae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

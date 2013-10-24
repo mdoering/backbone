@@ -1,5 +1,4 @@
-Sphaerella longispora Penz. & Sacc. SPECIES
-=======
+# Sphaerella longispora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

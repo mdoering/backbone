@@ -1,5 +1,4 @@
-Micropsalliota brunneola Heinem. SPECIES
-=======
+# Micropsalliota brunneola Heinem. SPECIES
 
 #### Status
 ACCEPTED

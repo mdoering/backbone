@@ -1,5 +1,4 @@
-Fuscidea pusilla Tønsberg SPECIES
-=======
+# Fuscidea pusilla Tønsberg SPECIES
 
 #### Status
 ACCEPTED

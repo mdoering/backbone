@@ -1,5 +1,4 @@
-Oedocephalum agaricinum Richon SPECIES
-=======
+# Oedocephalum agaricinum Richon SPECIES
 
 #### Status
 ACCEPTED

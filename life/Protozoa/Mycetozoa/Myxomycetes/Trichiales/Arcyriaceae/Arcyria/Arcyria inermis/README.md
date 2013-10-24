@@ -1,5 +1,4 @@
-Arcyria inermis Racib. SPECIES
-=======
+# Arcyria inermis Racib. SPECIES
 
 #### Status
 ACCEPTED

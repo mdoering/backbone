@@ -1,5 +1,4 @@
-Vascellum delicatum Homrich SPECIES
-=======
+# Vascellum delicatum Homrich SPECIES
 
 #### Status
 ACCEPTED

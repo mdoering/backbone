@@ -1,5 +1,4 @@
-Coryneum anceps Sacc. SPECIES
-=======
+# Coryneum anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

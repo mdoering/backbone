@@ -1,5 +1,4 @@
-Chytrium citriforme Sparrow SPECIES
-=======
+# Chytrium citriforme Sparrow SPECIES
 
 #### Status
 ACCEPTED

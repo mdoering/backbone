@@ -1,5 +1,4 @@
-Arthonia quatuorseptata Vain. SPECIES
-=======
+# Arthonia quatuorseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ascospora Fr. GENUS
-=======
+# Mycosphaerella Johanson GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. orb. veg. (Lundae) 1: 112 (1825)
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 41(9): 163 (1884)
 
 #### Original name
-Ascospora Fr.
+Mycosphaerella Johanson
 
 ### Remarks
 null

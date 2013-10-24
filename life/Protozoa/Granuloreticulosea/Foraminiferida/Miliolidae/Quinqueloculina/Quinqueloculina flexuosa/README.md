@@ -1,5 +1,4 @@
-Quinqueloculina flexuosa d'Orbigny, 1839 SPECIES
-=======
+# Quinqueloculina flexuosa d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

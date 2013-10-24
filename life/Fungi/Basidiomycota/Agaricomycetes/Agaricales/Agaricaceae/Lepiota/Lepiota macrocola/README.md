@@ -1,5 +1,4 @@
-Lepiota macrocola Berk. & Broome SPECIES
-=======
+# Lepiota macrocola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Pseudomonas desmolytica Gray & Thornton, 1928 SPECIES
-=======
+# Delftia acidovorans (den Dooren de Jong, 1926) Wen et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

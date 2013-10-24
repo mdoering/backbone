@@ -1,5 +1,4 @@
-Cercospora vicoae var. vicoae VARIETY
-=======
+# Cercospora vicoae Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annals Cryptog. Exot. 2: 270 (1929)
 
 #### Original name
-Cercospora vicoae var. vicoae
+Cercospora vicoae Syd.
 
 ### Remarks
 null

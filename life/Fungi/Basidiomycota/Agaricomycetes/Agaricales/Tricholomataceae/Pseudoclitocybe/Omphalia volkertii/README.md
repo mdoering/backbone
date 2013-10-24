@@ -1,5 +1,4 @@
-Omphalia volkertii Murrill SPECIES
-=======
+# Omphalia volkertii Murrill SPECIES
 
 #### Status
 ACCEPTED

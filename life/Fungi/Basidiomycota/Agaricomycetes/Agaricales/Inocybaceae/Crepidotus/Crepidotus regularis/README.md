@@ -1,5 +1,4 @@
-Crepidotus regularis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus regularis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

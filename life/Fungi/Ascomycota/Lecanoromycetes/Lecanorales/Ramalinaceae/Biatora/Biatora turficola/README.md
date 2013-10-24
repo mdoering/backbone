@@ -1,5 +1,4 @@
-Biatora turficola Hellb. SPECIES
-=======
+# Biatora turficola Hellb. SPECIES
 
 #### Status
 ACCEPTED

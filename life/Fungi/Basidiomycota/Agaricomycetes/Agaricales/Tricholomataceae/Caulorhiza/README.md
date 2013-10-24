@@ -1,5 +1,4 @@
-Caulorhiza Lennox GENUS
-=======
+# Caulorhiza Lennox GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia torulosa Berk. & M.A. Curtis SPECIES
-=======
+# Pestalotia torulosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

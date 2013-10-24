@@ -1,5 +1,4 @@
-Microthyrium pustulatum (Ellis & G. Martin) Theiss. SPECIES
-=======
+# Microthyrium pustulatum (Ellis & G. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

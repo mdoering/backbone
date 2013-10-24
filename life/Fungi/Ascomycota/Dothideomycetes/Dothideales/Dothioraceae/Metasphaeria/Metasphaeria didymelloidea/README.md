@@ -1,5 +1,4 @@
-Metasphaeria didymelloidea Petr. SPECIES
-=======
+# Metasphaeria didymelloidea Petr. SPECIES
 
 #### Status
 ACCEPTED

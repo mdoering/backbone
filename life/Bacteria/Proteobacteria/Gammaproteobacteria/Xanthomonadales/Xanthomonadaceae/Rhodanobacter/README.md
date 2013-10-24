@@ -1,5 +1,4 @@
-Rhodanobacter Nalin et al., 1999 GENUS
-=======
+# Rhodanobacter Nalin et al., 1999 GENUS
 
 #### Status
 ACCEPTED

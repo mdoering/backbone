@@ -1,5 +1,4 @@
-Camarosporium rosae Grove, 1937 SPECIES
-=======
+# Camarosporium rosae Grove, 1937 SPECIES
 
 #### Status
 ACCEPTED

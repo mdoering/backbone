@@ -1,5 +1,4 @@
-Stagonospora cypericola Hollós SPECIES
-=======
+# Stagonospora cypericola Hollós SPECIES
 
 #### Status
 ACCEPTED

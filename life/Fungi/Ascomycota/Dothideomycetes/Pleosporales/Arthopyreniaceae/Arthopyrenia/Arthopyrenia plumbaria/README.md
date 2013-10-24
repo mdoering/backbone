@@ -1,5 +1,4 @@
-Arthopyrenia plumbaria (Stizenb.) R. C. Harris SPECIES
-=======
+# Arthopyrenia plumbaria (Stizenb.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

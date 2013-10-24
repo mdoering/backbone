@@ -1,5 +1,4 @@
-Ganoderma guianensis Decock & Ryvarden, 2004 SPECIES
-=======
+# Ganoderma guianensis Decock & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

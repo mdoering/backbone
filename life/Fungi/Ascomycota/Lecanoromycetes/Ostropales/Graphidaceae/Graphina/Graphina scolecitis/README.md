@@ -1,5 +1,4 @@
-Graphina scolecitis (Tuck.) Fink SPECIES
-=======
+# Graphina scolecitis (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

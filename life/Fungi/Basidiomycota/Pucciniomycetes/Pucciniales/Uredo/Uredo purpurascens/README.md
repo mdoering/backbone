@@ -1,5 +1,4 @@
-Uredo purpurascens Henn. SPECIES
-=======
+# Uredo purpurascens Henn. SPECIES
 
 #### Status
 ACCEPTED

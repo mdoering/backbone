@@ -1,14 +1,13 @@
-Hydropus marginella (Pers.) Singer SPECIES
-=======
+# Hydropus marginellus (Pers.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 32: 127 (1948)
 
 #### Original name
 Agaricus marginellus Pers.

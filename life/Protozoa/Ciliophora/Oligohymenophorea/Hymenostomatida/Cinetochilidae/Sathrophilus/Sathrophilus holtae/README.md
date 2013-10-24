@@ -1,5 +1,4 @@
-Sathrophilus holtae Long, Song, Warren, Al-Rasheid, Gong & Chen, 2007 SPECIES
-=======
+# Sathrophilus holtae Long, Song, Warren, Al-Rasheid, Gong & Chen, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeostalagmus rossicus B. Sutton & Melnik SPECIES
-=======
+# Phaeostalagmus rossicus B. Sutton & Melnik SPECIES
 
 #### Status
 ACCEPTED

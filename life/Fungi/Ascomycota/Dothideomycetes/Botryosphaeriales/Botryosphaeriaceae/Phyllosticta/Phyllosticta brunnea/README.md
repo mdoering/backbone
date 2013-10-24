@@ -1,5 +1,4 @@
-Phyllosticta brunnea Dearn. & Barthol. SPECIES
-=======
+# Phyllosticta brunnea Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

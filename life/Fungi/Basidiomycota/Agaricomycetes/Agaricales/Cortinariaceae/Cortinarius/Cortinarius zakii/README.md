@@ -1,5 +1,4 @@
-Cortinarius zakii Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius zakii Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

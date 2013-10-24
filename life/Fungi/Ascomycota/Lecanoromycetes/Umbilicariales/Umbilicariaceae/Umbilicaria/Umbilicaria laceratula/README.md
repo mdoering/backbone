@@ -1,5 +1,4 @@
-Umbilicaria laceratula Vain. SPECIES
-=======
+# Umbilicaria laceratula Vain. SPECIES
 
 #### Status
 ACCEPTED

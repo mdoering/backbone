@@ -1,5 +1,4 @@
-Macrophoma gordoniae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Macrophoma gordoniae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pavillardinium kofoidii (Gaardner) Sournia SPECIES
-=======
+# Pavillardinium kofoidii (Gaardner) Sournia SPECIES
 
 #### Status
 ACCEPTED

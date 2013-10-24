@@ -1,5 +1,4 @@
-Parmelia micans Eschw. SPECIES
-=======
+# Parmelia micans Eschw. SPECIES
 
 #### Status
 ACCEPTED

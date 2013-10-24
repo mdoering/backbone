@@ -1,5 +1,4 @@
-Zeauvigerina Finlay, 1939 GENUS
-=======
+# Zeauvigerina Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

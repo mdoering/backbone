@@ -1,5 +1,4 @@
-Sclerotium mirabile Speg. SPECIES
-=======
+# Sclerotium mirabile Speg. SPECIES
 
 #### Status
 ACCEPTED

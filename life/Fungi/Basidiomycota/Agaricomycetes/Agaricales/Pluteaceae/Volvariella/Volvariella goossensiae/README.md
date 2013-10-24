@@ -1,5 +1,4 @@
-Volvariella goossensiae (Beeli) Shaffer SPECIES
-=======
+# Volvariella goossensiae (Beeli) Shaffer SPECIES
 
 #### Status
 ACCEPTED

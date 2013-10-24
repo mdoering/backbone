@@ -1,5 +1,4 @@
-Karsteniomyces llimonae Boqueras & Diederich SPECIES
-=======
+# Karsteniomyces llimonae Boqueras & Diederich SPECIES
 
 #### Status
 ACCEPTED

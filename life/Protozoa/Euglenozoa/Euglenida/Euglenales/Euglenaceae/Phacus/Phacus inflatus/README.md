@@ -1,5 +1,4 @@
-Phacus inflatus var. pterophora Skuja VARIETY
-=======
+# Phacus inflatus Playfair SPECIES
 
 #### Status
 ACCEPTED

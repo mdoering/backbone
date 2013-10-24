@@ -1,5 +1,4 @@
-Aecidium glycines Henn., 1895 SPECIES
-=======
+# Aecidium glycines Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

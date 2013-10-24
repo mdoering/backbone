@@ -1,5 +1,4 @@
-Opegrapha diaphorella Stizenb. SPECIES
-=======
+# Opegrapha diaphorella Stizenb. SPECIES
 
 #### Status
 ACCEPTED

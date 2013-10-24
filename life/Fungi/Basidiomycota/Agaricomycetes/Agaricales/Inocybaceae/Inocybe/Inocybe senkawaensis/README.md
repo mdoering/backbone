@@ -1,5 +1,4 @@
-Inocybe senkawaensis Kobayasi SPECIES
-=======
+# Inocybe senkawaensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

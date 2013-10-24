@@ -1,5 +1,4 @@
-Prospodium couraliae Syd. SPECIES
-=======
+# Prospodium couraliae Syd. SPECIES
 
 #### Status
 ACCEPTED

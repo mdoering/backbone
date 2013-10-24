@@ -1,5 +1,4 @@
-Cystocybe GENUS
-=======
+# Cystocybe GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta caatingae Bat. SPECIES
-=======
+# Phyllosticta caatingae Bat. SPECIES
 
 #### Status
 ACCEPTED

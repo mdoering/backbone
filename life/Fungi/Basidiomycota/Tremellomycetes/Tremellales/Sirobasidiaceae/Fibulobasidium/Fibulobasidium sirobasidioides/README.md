@@ -1,5 +1,4 @@
-Fibulobasidium sirobasidioides Bandoni, 1999 SPECIES
-=======
+# Fibulobasidium sirobasidioides Bandoni, 1999 SPECIES
 
 #### Status
 ACCEPTED

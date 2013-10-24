@@ -1,5 +1,4 @@
-Thalloidima leucophyllinum (Nyl.) SPECIES
-=======
+# Thalloidima leucophyllinum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

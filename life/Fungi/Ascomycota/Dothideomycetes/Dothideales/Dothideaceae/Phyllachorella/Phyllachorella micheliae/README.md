@@ -1,14 +1,13 @@
-Vestergrenia micheliae (Syd.) Arx & E. Müll., 1954 SPECIES
-=======
+# Phyllachorella micheliae Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(no. 1): 75 (1954)
+Annls mycol. 12: (1914)
 
 #### Original name
 Phyllachorella micheliae Syd., 1914

@@ -1,5 +1,4 @@
-Copromyxella spicata Raper, Worley & Kurzynski, 1978 SPECIES
-=======
+# Copromyxella spicata Raper, Worley & Kurzynski, 1978 SPECIES
 
 #### Status
 ACCEPTED

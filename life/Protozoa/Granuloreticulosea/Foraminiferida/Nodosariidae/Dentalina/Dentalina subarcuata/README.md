@@ -1,8 +1,7 @@
-Nautilus subarcuatus Montagu, 1803 SPECIES
-=======
+# Dentalina subarcuata (Montagu, 1803) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

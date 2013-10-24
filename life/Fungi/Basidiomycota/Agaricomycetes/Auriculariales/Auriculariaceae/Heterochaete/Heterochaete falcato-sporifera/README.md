@@ -1,5 +1,4 @@
-Heterochaete falcato-sporifera Y.B. Peng & X.W. Hu SPECIES
-=======
+# Heterochaete falcato-sporifera Y.B. Peng & X.W. Hu SPECIES
 
 #### Status
 ACCEPTED

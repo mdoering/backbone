@@ -1,5 +1,4 @@
-Strobilomyces fasciculatus Cooke SPECIES
-=======
+# Strobilomyces fasciculatus Cooke SPECIES
 
 #### Status
 ACCEPTED

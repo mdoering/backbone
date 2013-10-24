@@ -1,5 +1,4 @@
-Puccinia wedeliicola H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia wedeliicola H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

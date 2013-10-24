@@ -1,5 +1,4 @@
-Phoma sambuciphila anon. SPECIES
-=======
+# Phoma sambuciphila anon. SPECIES
 
 #### Status
 ACCEPTED

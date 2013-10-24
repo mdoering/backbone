@@ -1,5 +1,4 @@
-Pseudocercospora stephanicola Y.L. Guo SPECIES
-=======
+# Pseudocercospora stephanicola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella baccharidiphila (Speg.) Cash SPECIES
-=======
+# Mycosphaerella baccharidiphila (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

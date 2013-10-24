@@ -1,5 +1,4 @@
-Mycena receptibilis (Britzelm.) Sacc. SPECIES
-=======
+# Mycena receptibilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

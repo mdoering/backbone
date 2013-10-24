@@ -1,5 +1,4 @@
-Boletus romanus Ottaviani ex Badham SPECIES
-=======
+# Boletus romanus Ottaviani ex Badham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seiridina GENUS
-=======
+# Seiridina GENUS
 
 #### Status
 ACCEPTED

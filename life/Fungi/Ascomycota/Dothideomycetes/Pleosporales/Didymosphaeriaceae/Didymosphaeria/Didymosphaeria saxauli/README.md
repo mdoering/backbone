@@ -1,5 +1,4 @@
-Didymosphaeria saxauli Kravtzev SPECIES
-=======
+# Didymosphaeria saxauli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

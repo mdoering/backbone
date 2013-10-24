@@ -1,5 +1,4 @@
-Hendersonulina rubiginosa (Brunaud) Tassi SPECIES
-=======
+# Hendersonulina rubiginosa (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

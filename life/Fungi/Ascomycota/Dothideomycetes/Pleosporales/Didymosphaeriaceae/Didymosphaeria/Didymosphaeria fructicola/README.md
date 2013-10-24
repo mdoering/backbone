@@ -1,5 +1,4 @@
-Didymosphaeria fructicola Naumov SPECIES
-=======
+# Didymosphaeria fructicola Naumov SPECIES
 
 #### Status
 ACCEPTED

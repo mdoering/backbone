@@ -1,5 +1,4 @@
-Inocybe heterogenea (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe heterogenea (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

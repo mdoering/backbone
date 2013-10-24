@@ -1,5 +1,4 @@
-Gyalidea kawanae H. Harada & Vezda SPECIES
-=======
+# Gyalidea kawanae H. Harada & Vezda SPECIES
 
 #### Status
 ACCEPTED

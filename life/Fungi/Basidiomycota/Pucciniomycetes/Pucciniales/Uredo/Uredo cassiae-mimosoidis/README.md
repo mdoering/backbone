@@ -1,5 +1,4 @@
-Uredo cassiae-mimosoidis Doidge SPECIES
-=======
+# Uredo cassiae-mimosoidis Doidge SPECIES
 
 #### Status
 ACCEPTED

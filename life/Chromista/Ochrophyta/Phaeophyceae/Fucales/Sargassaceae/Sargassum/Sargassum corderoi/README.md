@@ -1,5 +1,4 @@
-Sargassum corderoi R.B. Modelo, I. Umezaki & L.M. Liao SPECIES
-=======
+# Sargassum corderoi R.B. Modelo, I. Umezaki & L.M. Liao SPECIES
 
 #### Status
 ACCEPTED

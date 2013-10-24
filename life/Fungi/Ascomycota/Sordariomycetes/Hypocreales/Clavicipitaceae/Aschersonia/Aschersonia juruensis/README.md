@@ -1,5 +1,4 @@
-Aschersonia juruensis Henn. SPECIES
-=======
+# Aschersonia juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

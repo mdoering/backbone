@@ -1,5 +1,4 @@
-Daedalea epigaea Lenz SPECIES
-=======
+# Daedalea epigaea Lenz SPECIES
 
 #### Status
 ACCEPTED

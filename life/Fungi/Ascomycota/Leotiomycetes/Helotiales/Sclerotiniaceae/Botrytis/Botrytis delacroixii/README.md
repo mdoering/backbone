@@ -1,5 +1,4 @@
-Botrytis delacroixii Sacc. SPECIES
-=======
+# Botrytis delacroixii Sacc. SPECIES
 
 #### Status
 ACCEPTED

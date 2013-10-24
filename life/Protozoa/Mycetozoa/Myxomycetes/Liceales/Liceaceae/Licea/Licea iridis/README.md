@@ -1,5 +1,4 @@
-Licea iridis Ing & McHugh, 1988 SPECIES
-=======
+# Licea iridis Ing & McHugh, 1988 SPECIES
 
 #### Status
 ACCEPTED

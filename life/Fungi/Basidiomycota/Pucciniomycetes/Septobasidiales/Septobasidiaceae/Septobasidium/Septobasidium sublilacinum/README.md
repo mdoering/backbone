@@ -1,14 +1,13 @@
-Thelephora sublilacina Ellis & Everh., 1896 SPECIES
-=======
+# Septobasidium sublilacinum (Ellis & Everh.) Burt, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Lab. Nat. Hist. Iowa State Univ. 13: 67 (1896)
+Ann. Mo. bot. Gdn 3: 331 (1916)
 
 #### Original name
 Thelephora sublilacina Ellis & Everh., 1896

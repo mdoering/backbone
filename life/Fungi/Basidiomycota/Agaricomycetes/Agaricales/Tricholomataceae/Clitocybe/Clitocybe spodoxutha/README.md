@@ -1,5 +1,4 @@
-Clitocybe spodoxutha Singer SPECIES
-=======
+# Clitocybe spodoxutha Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus spiculipes Corner SPECIES
-=======
+# Boletus spiculipes Corner SPECIES
 
 #### Status
 ACCEPTED

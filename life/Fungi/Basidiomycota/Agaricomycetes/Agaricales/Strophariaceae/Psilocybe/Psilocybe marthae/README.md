@@ -1,5 +1,4 @@
-Psilocybe marthae Singer SPECIES
-=======
+# Psilocybe marthae Singer SPECIES
 
 #### Status
 ACCEPTED

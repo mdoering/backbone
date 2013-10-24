@@ -1,5 +1,4 @@
-Platysma collatum f. collatum FORM
-=======
+# Platysma collatum Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Platysma collatum f. collatum
+Platysma collatum Nyl.
 
 ### Remarks
 null

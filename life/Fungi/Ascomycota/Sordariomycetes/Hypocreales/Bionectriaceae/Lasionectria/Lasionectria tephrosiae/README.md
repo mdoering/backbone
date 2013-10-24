@@ -1,5 +1,4 @@
-Lasionectria tephrosiae Sawada SPECIES
-=======
+# Lasionectria tephrosiae Sawada SPECIES
 
 #### Status
 ACCEPTED

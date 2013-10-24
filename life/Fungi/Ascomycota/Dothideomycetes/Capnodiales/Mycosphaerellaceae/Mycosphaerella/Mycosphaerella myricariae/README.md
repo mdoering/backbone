@@ -1,5 +1,4 @@
-Mycosphaerella myricariae (Fuckel) Lindau SPECIES
-=======
+# Mycosphaerella myricariae (Fuckel) Lindau SPECIES
 
 #### Status
 ACCEPTED

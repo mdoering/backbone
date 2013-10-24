@@ -1,17 +1,16 @@
-Kuettlingeria macquariensis C.W. Dodge SPECIES
-=======
+# Caloplaca cribrosa (Hue) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nova Hedwigia 19: 451 (1971)
+Cat. Lich. Univers. 7: 274 (1931)
 
 #### Original name
-Kuettlingeria macquariensis C.W. Dodge
+Polycauliona cribrosa Hue
 
 ### Remarks
 null

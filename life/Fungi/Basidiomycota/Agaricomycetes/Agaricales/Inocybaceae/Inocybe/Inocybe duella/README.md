@@ -1,5 +1,4 @@
-Inocybe duella (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe duella (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

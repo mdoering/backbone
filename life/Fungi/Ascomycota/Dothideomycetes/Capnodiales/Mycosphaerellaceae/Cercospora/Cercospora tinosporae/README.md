@@ -1,5 +1,4 @@
-Cercospora tinosporae Kamal, A.S. Moses & R.K. Chaudhary SPECIES
-=======
+# Cercospora tinosporae Kamal, A.S. Moses & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

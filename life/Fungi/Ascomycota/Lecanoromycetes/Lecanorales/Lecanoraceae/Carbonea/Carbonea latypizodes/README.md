@@ -1,17 +1,16 @@
-Lecidea latypizodes Nyl. SPECIES
-=======
+# Carbonea latypizodes (Nyl.) Knoph & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hertel, Sendtnera 7: 96 (2001)
 
 #### Original name
-null
+Lecidea latypizodes Nyl.
 
 ### Remarks
 null

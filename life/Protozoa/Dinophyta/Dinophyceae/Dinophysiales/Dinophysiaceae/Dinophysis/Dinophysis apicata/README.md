@@ -1,5 +1,4 @@
-Dinophysis apicata (Kofoid & Skogsberg) Abd SPECIES
-=======
+# Dinophysis apicata (Kofoid & Skogsberg) Abd SPECIES
 
 #### Status
 ACCEPTED

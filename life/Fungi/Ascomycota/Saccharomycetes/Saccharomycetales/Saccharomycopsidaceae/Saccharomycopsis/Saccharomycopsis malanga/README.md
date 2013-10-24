@@ -1,5 +1,4 @@
-Saccharomycopsis malanga (Dwidjos.) Kurtzman, Vesonder & M.J. Smiley, 1974 SPECIES
-=======
+# Saccharomycopsis malanga (Dwidjos.) Kurtzman, Vesonder & M.J. Smiley, 1974 SPECIES
 
 #### Status
 ACCEPTED

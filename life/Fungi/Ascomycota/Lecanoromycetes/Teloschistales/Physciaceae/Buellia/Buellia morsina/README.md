@@ -1,5 +1,4 @@
-Buellia morsina A. Nordin SPECIES
-=======
+# Buellia morsina A. Nordin SPECIES
 
 #### Status
 ACCEPTED

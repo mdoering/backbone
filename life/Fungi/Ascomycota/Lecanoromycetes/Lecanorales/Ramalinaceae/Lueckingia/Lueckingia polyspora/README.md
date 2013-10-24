@@ -1,5 +1,4 @@
-Lueckingia polyspora Aptroot & Umaña SPECIES
-=======
+# Lueckingia polyspora Aptroot & Umaña SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexastylettus Haeckel, 1887 GENUS
-=======
+# Hexastylettus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

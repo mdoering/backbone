@@ -1,5 +1,4 @@
-Tephromela variabilis Øvstedal SPECIES
-=======
+# Tephromela variabilis Øvstedal SPECIES
 
 #### Status
 ACCEPTED

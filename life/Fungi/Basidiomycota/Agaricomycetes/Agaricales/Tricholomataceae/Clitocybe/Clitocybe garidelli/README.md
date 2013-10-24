@@ -1,5 +1,4 @@
-Clitocybe garidelli (Paulet) Sacc. SPECIES
-=======
+# Clitocybe garidelli (Paulet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

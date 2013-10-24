@@ -1,5 +1,4 @@
-Catapyrenium exaratum Breuss SPECIES
-=======
+# Catapyrenium exaratum Breuss SPECIES
 
 #### Status
 ACCEPTED

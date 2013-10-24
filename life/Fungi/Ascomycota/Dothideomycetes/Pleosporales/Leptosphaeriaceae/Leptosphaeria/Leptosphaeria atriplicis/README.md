@@ -1,5 +1,4 @@
-Leptosphaeria atriplicis Lobik SPECIES
-=======
+# Leptosphaeria atriplicis Lobik SPECIES
 
 #### Status
 ACCEPTED

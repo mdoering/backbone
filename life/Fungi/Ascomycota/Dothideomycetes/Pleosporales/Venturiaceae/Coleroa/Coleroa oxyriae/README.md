@@ -1,5 +1,4 @@
-Coleroa oxyriae Rostr. SPECIES
-=======
+# Coleroa oxyriae Rostr. SPECIES
 
 #### Status
 ACCEPTED

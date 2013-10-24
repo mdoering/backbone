@@ -1,5 +1,4 @@
-Tricholosporum subporphyrophyllum Guzmán SPECIES
-=======
+# Tricholosporum subporphyrophyllum Guzmán SPECIES
 
 #### Status
 ACCEPTED

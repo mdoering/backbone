@@ -1,5 +1,4 @@
-Rhizophlyctis palmellacearum Schröd. SPECIES
-=======
+# Rhizophlyctis palmellacearum Schröd. SPECIES
 
 #### Status
 ACCEPTED

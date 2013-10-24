@@ -1,17 +1,16 @@
-Siroscyphella Höhn. GENUS
-=======
+# Pseudocenangium P. Karsten, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 650 (1910)
+Meddn Soc. Fauna Flora fenn. 13: 163 (1886)
 
 #### Original name
-Siroscyphella Höhn.
+Pseudocenangium P. Karsten, 1886
 
 ### Remarks
 null

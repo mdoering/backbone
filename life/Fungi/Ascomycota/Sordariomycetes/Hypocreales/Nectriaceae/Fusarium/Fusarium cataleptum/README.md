@@ -1,5 +1,4 @@
-Fusarium cataleptum Cooke & Harkn. SPECIES
-=======
+# Fusarium cataleptum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

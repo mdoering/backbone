@@ -1,5 +1,4 @@
-Mallomonas ploesslii Perty, 1852 SPECIES
-=======
+# Mallomonas ploesslii Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

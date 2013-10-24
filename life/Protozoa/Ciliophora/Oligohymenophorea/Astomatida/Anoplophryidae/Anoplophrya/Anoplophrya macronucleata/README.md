@@ -1,5 +1,4 @@
-Anoplophrya macronucleata Wichtermann, 1942 SPECIES
-=======
+# Anoplophrya macronucleata Wichtermann, 1942 SPECIES
 
 #### Status
 ACCEPTED

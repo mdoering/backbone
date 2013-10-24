@@ -1,5 +1,4 @@
-Dictyonella dictyospora (Petr. & Cif.) Arx, 1963 SPECIES
-=======
+# Dictyonella dictyospora (Petr. & Cif.) Arx, 1963 SPECIES
 
 #### Status
 ACCEPTED

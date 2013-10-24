@@ -1,5 +1,4 @@
-Sphaerella burnatii (Cruchet) Sacc. & Traverso SPECIES
-=======
+# Sphaerella burnatii (Cruchet) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

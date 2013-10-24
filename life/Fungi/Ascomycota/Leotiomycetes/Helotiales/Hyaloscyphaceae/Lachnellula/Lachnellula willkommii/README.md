@@ -1,14 +1,13 @@
-Lachnella calycina var. trevelyanii (Cooke) W. Phillips, 1887 VARIETY
-=======
+# Lachnellula willkommii (Hartig) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(2): 184 (1962)
 
 #### Original name
 null

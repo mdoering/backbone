@@ -1,5 +1,4 @@
-Pleurotus subostreatus Cleland & Cheel SPECIES
-=======
+# Pleurotus subostreatus Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

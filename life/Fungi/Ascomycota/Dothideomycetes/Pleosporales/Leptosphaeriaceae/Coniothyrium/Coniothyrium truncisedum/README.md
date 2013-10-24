@@ -1,5 +1,4 @@
-Coniothyrium truncisedum Vestergr. SPECIES
-=======
+# Coniothyrium truncisedum Vestergr. SPECIES
 
 #### Status
 ACCEPTED

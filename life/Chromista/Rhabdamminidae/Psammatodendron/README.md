@@ -1,5 +1,4 @@
-Psammatodendron Norman, 1881 GENUS
-=======
+# Psammatodendron Norman, 1881 GENUS
 
 #### Status
 ACCEPTED

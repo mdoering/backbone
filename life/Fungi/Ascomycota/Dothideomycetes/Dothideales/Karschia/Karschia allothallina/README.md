@@ -1,5 +1,4 @@
-Karschia allothallina (Nyl.) Rehm SPECIES
-=======
+# Karschia allothallina (Nyl.) Rehm SPECIES
 
 #### Status
 ACCEPTED

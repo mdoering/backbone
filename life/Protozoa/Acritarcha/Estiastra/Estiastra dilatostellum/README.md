@@ -1,5 +1,4 @@
-Estiastra dilatostellum Wicander, 1974 SPECIES
-=======
+# Estiastra dilatostellum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

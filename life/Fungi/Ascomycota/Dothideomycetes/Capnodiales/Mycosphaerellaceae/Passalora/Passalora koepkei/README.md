@@ -1,17 +1,16 @@
-Cercospora koepkei var. koepkei W. Krüger VARIETY
-=======
+# Passalora koepkei (W. Krüger) U. Braun & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 238 (2003)
 
 #### Original name
-Cercospora koepkei var. koepkei W. Krüger
+Cercospora koepkei W. Krüger, 1890
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Zygaenobia intestinalis Weiser, 1951 SPECIES
-=======
+# Zygaenobia intestinalis Weiser, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium berberidis S. Ahmad SPECIES
-=======
+# Capnodium berberidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

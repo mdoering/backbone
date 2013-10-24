@@ -1,5 +1,4 @@
-Yichangia L.M. Yin, 1987 GENUS
-=======
+# Yichangia L.M. Yin, 1987 GENUS
 
 #### Status
 ACCEPTED

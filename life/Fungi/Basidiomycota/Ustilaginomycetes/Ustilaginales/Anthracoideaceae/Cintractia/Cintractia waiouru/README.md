@@ -1,5 +1,4 @@
-Cintractia waiouru G. Cunn. SPECIES
-=======
+# Cintractia waiouru G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

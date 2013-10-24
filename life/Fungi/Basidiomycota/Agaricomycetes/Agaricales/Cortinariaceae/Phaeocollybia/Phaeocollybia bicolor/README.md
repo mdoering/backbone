@@ -1,5 +1,4 @@
-Phaeocollybia bicolor E. Horak SPECIES
-=======
+# Phaeocollybia bicolor E. Horak SPECIES
 
 #### Status
 ACCEPTED

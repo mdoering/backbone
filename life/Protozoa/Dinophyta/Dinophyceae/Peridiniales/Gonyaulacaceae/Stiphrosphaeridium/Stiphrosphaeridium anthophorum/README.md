@@ -1,5 +1,4 @@
-Stiphrosphaeridium anthophorum (Cookson & Eisenack) R. J. Davey SPECIES
-=======
+# Stiphrosphaeridium anthophorum (Cookson & Eisenack) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

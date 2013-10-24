@@ -1,5 +1,4 @@
-Brigantiaea ionoexcipula (Patw. & Makhija) D.D. Awasthi SPECIES
-=======
+# Brigantiaea ionoexcipula (Patw. & Makhija) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

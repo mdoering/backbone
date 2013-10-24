@@ -1,5 +1,4 @@
-Pseudocercospora cinerea (Pavgi & U.P. Singh) Deighton SPECIES
-=======
+# Pseudocercospora cinerea (Pavgi & U.P. Singh) Deighton SPECIES
 
 #### Status
 ACCEPTED

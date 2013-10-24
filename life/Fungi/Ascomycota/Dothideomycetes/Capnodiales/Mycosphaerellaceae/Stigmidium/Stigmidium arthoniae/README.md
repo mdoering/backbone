@@ -1,14 +1,13 @@
-Pharcidia arthoniae (Arnold) G. Winter, 1874 SPECIES
-=======
+# Stigmidium arthoniae (Arnold) Hafellner, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Herzogia 10: 23 (1994)
 
 #### Original name
 Sphaeria arthoniae Arnold, 1874

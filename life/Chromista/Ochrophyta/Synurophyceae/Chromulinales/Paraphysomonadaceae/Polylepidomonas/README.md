@@ -1,5 +1,4 @@
-Polylepidomonas Preisig & D.J.Hibberd, 1983 GENUS
-=======
+# Polylepidomonas Preisig & D.J.Hibberd, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra perpusilla Kützing SPECIES
-=======
+# Synedra perpusilla Kützing SPECIES
 
 #### Status
 ACCEPTED

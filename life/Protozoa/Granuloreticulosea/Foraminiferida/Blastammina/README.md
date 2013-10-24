@@ -1,5 +1,4 @@
-Blastammina Eisenack, 1932 GENUS
-=======
+# Blastammina Eisenack, 1932 GENUS
 
 #### Status
 ACCEPTED

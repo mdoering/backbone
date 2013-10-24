@@ -1,5 +1,4 @@
-Hydrocybe tuber (Peck) Murrill SPECIES
-=======
+# Hydrocybe tuber (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

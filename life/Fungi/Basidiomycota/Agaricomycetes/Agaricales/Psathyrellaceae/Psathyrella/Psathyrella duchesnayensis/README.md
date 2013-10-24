@@ -1,5 +1,4 @@
-Psathyrella duchesnayensis A.H. Sm. SPECIES
-=======
+# Psathyrella duchesnayensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces vaccimaxillae Hall et al., 2003 SPECIES
-=======
+# Actinomyces vaccimaxillae Hall et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria subtilis (Schrad.) Bres. SPECIES
-=======
+# Poria subtilis (Schrad.) Bres. SPECIES
 
 #### Status
 ACCEPTED

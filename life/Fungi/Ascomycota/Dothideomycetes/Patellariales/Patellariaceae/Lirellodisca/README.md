@@ -1,5 +1,4 @@
-Lirellodisca Aptroot GENUS
-=======
+# Lirellodisca Aptroot GENUS
 
 #### Status
 ACCEPTED

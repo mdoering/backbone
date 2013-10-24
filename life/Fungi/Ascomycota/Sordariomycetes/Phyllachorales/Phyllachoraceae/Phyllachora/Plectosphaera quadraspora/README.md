@@ -1,14 +1,13 @@
-Physalospora quadraspora F. Stevens & Solheim, 1930 SPECIES
-=======
+# Plectosphaera quadraspora (F. Stevens & Solheim) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 28(5/6): 367 (1930)
+Beitr. Kryptfl. Schweiz 11(no. 1): 209 (1954)
 
 #### Original name
 Physalospora quadraspora F. Stevens & Solheim, 1930

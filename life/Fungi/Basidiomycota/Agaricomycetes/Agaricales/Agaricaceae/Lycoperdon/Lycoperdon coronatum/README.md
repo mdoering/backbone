@@ -1,5 +1,4 @@
-Lycoperdon coronatum Scop. SPECIES
-=======
+# Lycoperdon coronatum Scop. SPECIES
 
 #### Status
 ACCEPTED

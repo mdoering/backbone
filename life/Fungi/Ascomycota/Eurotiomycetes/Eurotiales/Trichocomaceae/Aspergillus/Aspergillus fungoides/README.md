@@ -1,5 +1,4 @@
-Aspergillus fungoides Greco SPECIES
-=======
+# Aspergillus fungoides Greco SPECIES
 
 #### Status
 ACCEPTED

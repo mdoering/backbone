@@ -1,5 +1,4 @@
-Thelebolus sudans Fr. SPECIES
-=======
+# Thelebolus sudans Fr. SPECIES
 
 #### Status
 ACCEPTED

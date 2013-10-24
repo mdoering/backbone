@@ -1,5 +1,4 @@
-Desulfonatronumaceae FAMILY
-=======
+# Desulfonatronumaceae FAMILY
 
 #### Status
 ACCEPTED

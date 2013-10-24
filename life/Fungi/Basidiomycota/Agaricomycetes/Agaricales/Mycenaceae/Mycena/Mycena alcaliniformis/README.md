@@ -1,5 +1,4 @@
-Mycena alcaliniformis Murrill SPECIES
-=======
+# Mycena alcaliniformis Murrill SPECIES
 
 #### Status
 ACCEPTED

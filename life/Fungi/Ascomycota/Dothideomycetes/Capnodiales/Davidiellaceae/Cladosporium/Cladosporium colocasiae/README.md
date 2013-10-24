@@ -1,5 +1,4 @@
-Cladosporium colocasiae Sawada, 1916 SPECIES
-=======
+# Cladosporium colocasiae Sawada, 1916 SPECIES
 
 #### Status
 ACCEPTED

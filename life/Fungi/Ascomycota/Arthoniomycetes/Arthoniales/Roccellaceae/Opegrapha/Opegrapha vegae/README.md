@@ -1,5 +1,4 @@
-Opegrapha vegae R. Sant. SPECIES
-=======
+# Opegrapha vegae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

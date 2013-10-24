@@ -1,5 +1,4 @@
-Plasmodiophora fici-repentis Andreucci SPECIES
-=======
+# Plasmodiophora fici-repentis Andreucci SPECIES
 
 #### Status
 ACCEPTED

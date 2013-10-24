@@ -1,5 +1,4 @@
-Phoma datiscae Henn. SPECIES
-=======
+# Phoma datiscae Henn. SPECIES
 
 #### Status
 ACCEPTED

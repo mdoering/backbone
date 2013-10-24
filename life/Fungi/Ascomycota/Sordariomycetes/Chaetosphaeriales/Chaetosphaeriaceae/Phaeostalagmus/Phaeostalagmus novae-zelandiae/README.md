@@ -1,5 +1,4 @@
-Phaeostalagmus novae-zelandiae S. Hughes, 1978 SPECIES
-=======
+# Phaeostalagmus novae-zelandiae S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta phragmitis Nagorny SPECIES
-=======
+# Phyllosticta phragmitis Nagorny SPECIES
 
 #### Status
 ACCEPTED

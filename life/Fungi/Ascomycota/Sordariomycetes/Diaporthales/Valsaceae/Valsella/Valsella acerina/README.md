@@ -1,5 +1,4 @@
-Valsella acerina (Peck) M.E. Barr SPECIES
-=======
+# Valsella acerina (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

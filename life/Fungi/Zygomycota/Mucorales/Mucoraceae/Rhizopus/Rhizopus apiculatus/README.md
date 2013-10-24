@@ -1,5 +1,4 @@
-Rhizopus apiculatus McAlpine SPECIES
-=======
+# Rhizopus apiculatus McAlpine SPECIES
 
 #### Status
 ACCEPTED

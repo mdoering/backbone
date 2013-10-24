@@ -1,5 +1,4 @@
-Tintinnopsis gracilis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis gracilis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

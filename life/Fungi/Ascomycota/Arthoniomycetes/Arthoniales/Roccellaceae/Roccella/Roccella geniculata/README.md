@@ -1,5 +1,4 @@
-Roccella geniculata Follmann & B. Werner SPECIES
-=======
+# Roccella geniculata Follmann & B. Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia attenuata (Crié) Sacc. SPECIES
-=======
+# Laestadia attenuata (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

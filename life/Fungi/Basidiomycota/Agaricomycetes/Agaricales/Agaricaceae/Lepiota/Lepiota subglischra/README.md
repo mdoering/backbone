@@ -1,5 +1,4 @@
-Lepiota subglischra S. Imai SPECIES
-=======
+# Lepiota subglischra S. Imai SPECIES
 
 #### Status
 ACCEPTED

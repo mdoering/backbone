@@ -1,5 +1,4 @@
-Lagynophrya mamillata SPECIES
-=======
+# Lagynophrya mamillata SPECIES
 
 #### Status
 ACCEPTED

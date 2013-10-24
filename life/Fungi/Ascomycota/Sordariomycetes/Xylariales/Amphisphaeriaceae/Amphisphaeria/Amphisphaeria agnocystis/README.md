@@ -1,5 +1,4 @@
-Amphisphaeria agnocystis (Berk. & Broome) Sacc. SPECIES
-=======
+# Amphisphaeria agnocystis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

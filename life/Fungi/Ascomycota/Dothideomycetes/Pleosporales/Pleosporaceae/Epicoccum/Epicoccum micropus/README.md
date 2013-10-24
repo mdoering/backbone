@@ -1,5 +1,4 @@
-Epicoccum micropus Corda SPECIES
-=======
+# Epicoccum micropus Corda SPECIES
 
 #### Status
 ACCEPTED

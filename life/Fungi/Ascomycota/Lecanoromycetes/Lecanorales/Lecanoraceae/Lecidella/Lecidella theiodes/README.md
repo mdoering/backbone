@@ -1,5 +1,4 @@
-Lecidella theiodes (Sommerf.) Körb. SPECIES
-=======
+# Lecidella theiodes (Sommerf.) Körb. SPECIES
 
 #### Status
 ACCEPTED

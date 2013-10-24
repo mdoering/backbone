@@ -1,5 +1,4 @@
-Leptographium longiclavatus SPECIES
-=======
+# Leptographium longiclavatus SPECIES
 
 #### Status
 ACCEPTED

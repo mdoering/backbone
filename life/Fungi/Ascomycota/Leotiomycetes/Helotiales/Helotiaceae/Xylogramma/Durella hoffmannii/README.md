@@ -1,17 +1,16 @@
-Durella hoffmanni Sacc. SPECIES
-=======
+# Durella hoffmannii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 793 (1889)
 
 #### Original name
-Durella hoffmanni Sacc.
+Patellaria socialis De Not.
 
 ### Remarks
 null

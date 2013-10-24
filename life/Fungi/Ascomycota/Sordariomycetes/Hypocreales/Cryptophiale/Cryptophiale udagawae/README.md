@@ -1,5 +1,4 @@
-Cryptophiale udagawae Piroz. & Ichinoe, 1968 SPECIES
-=======
+# Cryptophiale udagawae Piroz. & Ichinoe, 1968 SPECIES
 
 #### Status
 ACCEPTED

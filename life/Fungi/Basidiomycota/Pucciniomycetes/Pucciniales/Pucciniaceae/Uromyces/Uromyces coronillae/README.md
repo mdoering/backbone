@@ -1,5 +1,4 @@
-Uromyces coronillae Vienn.-Bourg. SPECIES
-=======
+# Uromyces coronillae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amoeba proteus (Pal.) SPECIES
-=======
+# Amoeba proteus (Pal.) SPECIES
 
 #### Status
 ACCEPTED

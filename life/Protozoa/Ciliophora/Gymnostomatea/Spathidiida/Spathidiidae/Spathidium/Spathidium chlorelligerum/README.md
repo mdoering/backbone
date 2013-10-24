@@ -1,5 +1,4 @@
-Spathidium chlorelligerum Kahl SPECIES
-=======
+# Spathidium chlorelligerum Kahl SPECIES
 
 #### Status
 ACCEPTED

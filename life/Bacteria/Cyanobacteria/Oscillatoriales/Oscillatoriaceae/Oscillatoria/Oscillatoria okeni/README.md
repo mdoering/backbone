@@ -1,5 +1,4 @@
-Oscillatoria okeni Agardh SPECIES
-=======
+# Oscillatoria okeni Agardh SPECIES
 
 #### Status
 ACCEPTED

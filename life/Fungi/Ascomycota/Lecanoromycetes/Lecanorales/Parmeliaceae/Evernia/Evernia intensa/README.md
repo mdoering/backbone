@@ -1,5 +1,4 @@
-Evernia intensa Nyl. SPECIES
-=======
+# Evernia intensa Nyl. SPECIES
 
 #### Status
 ACCEPTED

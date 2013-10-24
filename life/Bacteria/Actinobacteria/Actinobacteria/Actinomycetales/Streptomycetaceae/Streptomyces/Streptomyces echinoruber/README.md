@@ -1,5 +1,4 @@
-Streptomyces echinoruber Palleroni et al., 1981 SPECIES
-=======
+# Streptomyces echinoruber Palleroni et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

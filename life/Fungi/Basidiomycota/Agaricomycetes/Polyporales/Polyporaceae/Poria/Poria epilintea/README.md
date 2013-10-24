@@ -1,5 +1,4 @@
-Poria epilintea (Berk. & Broome) Sacc. SPECIES
-=======
+# Poria epilintea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

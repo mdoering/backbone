@@ -1,5 +1,4 @@
-Samarospora potamogetonis Rostr., 1892 SPECIES
-=======
+# Samarospora potamogetonis Rostr., 1892 SPECIES
 
 #### Status
 ACCEPTED

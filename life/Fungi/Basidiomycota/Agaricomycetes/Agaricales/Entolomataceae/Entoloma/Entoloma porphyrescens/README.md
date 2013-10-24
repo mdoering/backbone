@@ -1,5 +1,4 @@
-Entoloma porphyrescens E. Horak, 1973 SPECIES
-=======
+# Entoloma porphyrescens E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema robiniae Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema robiniae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glischroderma cinctum Fuckel, 1870 SPECIES
-=======
+# Glischroderma cinctum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

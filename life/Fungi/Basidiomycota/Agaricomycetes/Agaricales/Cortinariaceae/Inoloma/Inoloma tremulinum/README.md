@@ -1,5 +1,4 @@
-Inoloma tremulinum Velen. SPECIES
-=======
+# Inoloma tremulinum Velen. SPECIES
 
 #### Status
 ACCEPTED

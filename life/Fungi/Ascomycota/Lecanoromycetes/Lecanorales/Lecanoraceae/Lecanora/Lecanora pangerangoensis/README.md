@@ -1,5 +1,4 @@
-Lecanora pangerangoensis Zahlbr. SPECIES
-=======
+# Lecanora pangerangoensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

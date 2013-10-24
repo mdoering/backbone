@@ -1,5 +1,4 @@
-Tricholoma multipunctum Peck SPECIES
-=======
+# Tricholoma multipunctum Peck SPECIES
 
 #### Status
 ACCEPTED

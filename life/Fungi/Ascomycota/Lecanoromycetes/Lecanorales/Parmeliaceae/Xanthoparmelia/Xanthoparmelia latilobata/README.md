@@ -1,5 +1,4 @@
-Xanthoparmelia latilobata Hale SPECIES
-=======
+# Xanthoparmelia latilobata Hale SPECIES
 
 #### Status
 ACCEPTED

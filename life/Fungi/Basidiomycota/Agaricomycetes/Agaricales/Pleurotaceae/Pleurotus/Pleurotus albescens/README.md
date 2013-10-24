@@ -1,5 +1,4 @@
-Pleurotus albescens Murrill SPECIES
-=======
+# Pleurotus albescens Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ruttneri Fischer {?} SPECIES
-=======
+# Puccinia ruttneri Fischer {?} SPECIES
 
 #### Status
 ACCEPTED

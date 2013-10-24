@@ -1,5 +1,4 @@
-Hymenoscyphus varicosporoides Tubaki SPECIES
-=======
+# Hymenoscyphus varicosporoides Tubaki SPECIES
 
 #### Status
 ACCEPTED

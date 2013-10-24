@@ -1,5 +1,4 @@
-Discocyphella bambusicola (Fr.) Sacc. & Trotter SPECIES
-=======
+# Discocyphella bambusicola (Fr.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

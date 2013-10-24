@@ -1,5 +1,4 @@
-Trypethelium superbum Fr. SPECIES
-=======
+# Trypethelium superbum Fr. SPECIES
 
 #### Status
 ACCEPTED

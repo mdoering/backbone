@@ -1,5 +1,4 @@
-Pontibacillus Lim, Jeon, Song & Kim, 2005 GENUS
-=======
+# Pontibacillus Lim, Jeon, Song & Kim, 2005 GENUS
 
 #### Status
 ACCEPTED

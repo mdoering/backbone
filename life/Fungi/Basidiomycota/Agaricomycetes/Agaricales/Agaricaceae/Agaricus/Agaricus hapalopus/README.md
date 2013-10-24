@@ -1,5 +1,4 @@
-Agaricus hapalopus Kalchbr. SPECIES
-=======
+# Agaricus hapalopus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

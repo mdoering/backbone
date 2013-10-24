@@ -1,8 +1,7 @@
-Spirobütschliella Hovasse, 1950 GENUS
-=======
+# Spirobuetschliella Hovasse, 1950 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

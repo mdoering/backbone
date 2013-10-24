@@ -1,5 +1,4 @@
-Sistotrema dermatodon Pers. SPECIES
-=======
+# Sistotrema dermatodon Pers. SPECIES
 
 #### Status
 ACCEPTED

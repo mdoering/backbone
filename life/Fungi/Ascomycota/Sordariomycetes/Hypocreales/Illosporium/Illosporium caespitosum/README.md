@@ -1,5 +1,4 @@
-Illosporium caespitosum Ellis & Everh. SPECIES
-=======
+# Illosporium caespitosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

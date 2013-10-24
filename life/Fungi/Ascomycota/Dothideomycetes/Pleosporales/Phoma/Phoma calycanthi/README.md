@@ -1,5 +1,4 @@
-Phoma calycanthi Schwein. SPECIES
-=======
+# Phoma calycanthi Schwein. SPECIES
 
 #### Status
 ACCEPTED

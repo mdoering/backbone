@@ -1,17 +1,16 @@
-Antimanopsis Petr. GENUS
-=======
+# Monostichella von Höhnel, 1916 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 2: 46 (1948)
+null
 
 #### Original name
-Antimanopsis Petr.
+null
 
 ### Remarks
 null

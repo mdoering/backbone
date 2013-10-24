@@ -1,5 +1,4 @@
-Mycena aestiva Fr. SPECIES
-=======
+# Mycena aestiva Fr. SPECIES
 
 #### Status
 ACCEPTED

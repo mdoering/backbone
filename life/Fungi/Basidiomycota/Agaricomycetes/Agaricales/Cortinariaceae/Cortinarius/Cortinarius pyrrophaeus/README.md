@@ -1,5 +1,4 @@
-Cortinarius pyrrophaeus Rob. Henry SPECIES
-=======
+# Cortinarius pyrrophaeus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

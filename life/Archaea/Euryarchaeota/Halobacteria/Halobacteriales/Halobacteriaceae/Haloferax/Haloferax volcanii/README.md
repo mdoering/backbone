@@ -1,8 +1,7 @@
-Halobacterium volcanii Mullakhanbhai and Larsen, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Haloferax volcanii (Mullakhanbhai & Larsen, 1975) Torreblanca et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

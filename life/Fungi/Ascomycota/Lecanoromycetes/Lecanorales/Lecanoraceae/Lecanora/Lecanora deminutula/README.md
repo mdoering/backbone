@@ -1,5 +1,4 @@
-Lecanora deminutula SPECIES
-=======
+# Lecanora deminutula SPECIES
 
 #### Status
 ACCEPTED

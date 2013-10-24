@@ -1,5 +1,4 @@
-Sporodinia candida Wallr. SPECIES
-=======
+# Sporodinia candida Wallr. SPECIES
 
 #### Status
 ACCEPTED

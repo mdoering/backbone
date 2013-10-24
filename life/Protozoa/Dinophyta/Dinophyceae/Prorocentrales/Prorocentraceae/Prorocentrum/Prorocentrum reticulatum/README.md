@@ -1,5 +1,4 @@
-Prorocentrum reticulatum M. A. Faust SPECIES
-=======
+# Prorocentrum reticulatum M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

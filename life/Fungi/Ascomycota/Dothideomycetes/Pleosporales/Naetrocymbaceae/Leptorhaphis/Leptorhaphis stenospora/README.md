@@ -1,5 +1,4 @@
-Leptorhaphis stenospora (Körb.) H. Magn. SPECIES
-=======
+# Leptorhaphis stenospora (Körb.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces serriferus Thaxt. SPECIES
-=======
+# Dimeromyces serriferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

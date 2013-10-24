@@ -1,5 +1,4 @@
-Dothidella dalmatica Picb. SPECIES
-=======
+# Dothidella dalmatica Picb. SPECIES
 
 #### Status
 ACCEPTED

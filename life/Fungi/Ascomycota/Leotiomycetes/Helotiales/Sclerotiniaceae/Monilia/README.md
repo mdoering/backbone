@@ -1,17 +1,16 @@
-Halobyssus Zukal GENUS
-=======
+# Monilia Bonorden, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 43: 279 (1893)
+Handb. Allgem. mykol. (Stuttgart) 7 (1851)
 
 #### Original name
-Halobyssus Zukal
+Monilia Bonorden, 1851
 
 ### Remarks
 null

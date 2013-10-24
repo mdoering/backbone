@@ -1,5 +1,4 @@
-Lynchellodon aspidisciformis (Kahl, 1933) Jankowski, 2007 SPECIES
-=======
+# Lynchellodon aspidisciformis (Kahl, 1933) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria erinacea Starbäck SPECIES
-=======
+# Nectria erinacea Starbäck SPECIES
 
 #### Status
 ACCEPTED

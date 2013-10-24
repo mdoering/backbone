@@ -1,5 +1,4 @@
-Mycosphaerella bellona (Sacc.) Hara SPECIES
-=======
+# Mycosphaerella bellona (Sacc.) Hara SPECIES
 
 #### Status
 ACCEPTED

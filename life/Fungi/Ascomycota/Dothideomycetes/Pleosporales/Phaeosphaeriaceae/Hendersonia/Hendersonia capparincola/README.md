@@ -1,17 +1,16 @@
-Hendersonia capparidincola Petr. SPECIES
-=======
+# Hendersonia capparincola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(1-4): 71 (1953)
 
 #### Original name
-Hendersonia capparidincola Petr.
+Hendersonia capparincola Petr.
 
 ### Remarks
 null

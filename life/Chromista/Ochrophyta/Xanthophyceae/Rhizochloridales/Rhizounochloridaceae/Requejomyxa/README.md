@@ -1,5 +1,4 @@
-Requejomyxa Skvortzov, 1972 GENUS
-=======
+# Requejomyxa Skvortzov, 1972 GENUS
 
 #### Status
 ACCEPTED

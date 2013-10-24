@@ -1,5 +1,4 @@
-Pessonella Pussard, 1973 GENUS
-=======
+# Pessonella Pussard, 1973 GENUS
 
 #### Status
 ACCEPTED

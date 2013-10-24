@@ -1,5 +1,4 @@
-Gloniella pluriseptata P. Karst. & Malbr. SPECIES
-=======
+# Gloniella pluriseptata P. Karst. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

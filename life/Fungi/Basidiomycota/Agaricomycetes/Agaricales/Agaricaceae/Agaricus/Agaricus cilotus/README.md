@@ -1,5 +1,4 @@
-Agaricus cilotus Speg. SPECIES
-=======
+# Agaricus cilotus Speg. SPECIES
 
 #### Status
 ACCEPTED

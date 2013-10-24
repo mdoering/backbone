@@ -1,5 +1,4 @@
-Gorgoniceps kuitönsis Henn. SPECIES
-=======
+# Gorgoniceps kuitönsis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subcongruella Vain. SPECIES
-=======
+# Lecidea subcongruella Vain. SPECIES
 
 #### Status
 ACCEPTED

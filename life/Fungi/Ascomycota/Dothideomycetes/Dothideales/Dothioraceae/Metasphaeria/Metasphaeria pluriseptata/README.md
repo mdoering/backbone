@@ -1,5 +1,4 @@
-Metasphaeria pluriseptata (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Metasphaeria pluriseptata (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elenia Volkova, 1984 GENUS
-=======
+# Elenia Volkova, 1984 GENUS
 
 #### Status
 ACCEPTED

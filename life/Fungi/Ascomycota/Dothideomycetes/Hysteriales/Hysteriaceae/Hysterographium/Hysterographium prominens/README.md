@@ -1,5 +1,4 @@
-Hysterographium prominens (W. Phillips & Harkn.) Berl. & Voglino SPECIES
-=======
+# Hysterographium prominens (W. Phillips & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

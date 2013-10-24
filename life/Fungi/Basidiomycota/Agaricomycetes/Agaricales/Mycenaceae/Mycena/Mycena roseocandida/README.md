@@ -1,5 +1,4 @@
-Mycena roseocandida Peck SPECIES
-=======
+# Mycena roseocandida Peck SPECIES
 
 #### Status
 ACCEPTED

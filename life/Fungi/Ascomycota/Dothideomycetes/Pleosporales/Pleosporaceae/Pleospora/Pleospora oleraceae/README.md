@@ -1,5 +1,4 @@
-Pleospora oleraceae Tehon & G.L. Stout SPECIES
-=======
+# Pleospora oleraceae Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

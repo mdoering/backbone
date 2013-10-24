@@ -1,5 +1,4 @@
-Amaurolithus S.Gartner & D.Bukry, 1975 GENUS
-=======
+# Amaurolithus S.Gartner & D.Bukry, 1975 GENUS
 
 #### Status
 ACCEPTED

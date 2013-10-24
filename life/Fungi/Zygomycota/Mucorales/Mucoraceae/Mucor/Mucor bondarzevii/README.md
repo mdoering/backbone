@@ -1,5 +1,4 @@
-Mucor bondarzevii S.A. Kulik SPECIES
-=======
+# Mucor bondarzevii S.A. Kulik SPECIES
 
 #### Status
 ACCEPTED

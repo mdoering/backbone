@@ -1,5 +1,4 @@
-Stylonychia appendiculatus Ehrenberg, 1838 SPECIES
-=======
+# Stylonychia appendiculatus Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

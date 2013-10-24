@@ -1,5 +1,4 @@
-Russula diversicolor Pegler SPECIES
-=======
+# Russula diversicolor Pegler SPECIES
 
 #### Status
 ACCEPTED

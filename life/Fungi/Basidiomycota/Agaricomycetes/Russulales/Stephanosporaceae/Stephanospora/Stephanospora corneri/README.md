@@ -1,5 +1,4 @@
-Stephanospora corneri Pegler & T.W.K. Young, 1979 SPECIES
-=======
+# Stephanospora corneri Pegler & T.W.K. Young, 1979 SPECIES
 
 #### Status
 ACCEPTED

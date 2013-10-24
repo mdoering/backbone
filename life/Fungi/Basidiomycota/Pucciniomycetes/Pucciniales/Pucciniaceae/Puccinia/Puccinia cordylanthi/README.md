@@ -1,5 +1,4 @@
-Puccinia cordylanthi Blasdale SPECIES
-=======
+# Puccinia cordylanthi Blasdale SPECIES
 
 #### Status
 ACCEPTED

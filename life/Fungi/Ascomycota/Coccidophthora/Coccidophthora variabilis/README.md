@@ -1,5 +1,4 @@
-Coccidophthora variabilis Syd. & P. Syd. SPECIES
-=======
+# Coccidophthora variabilis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

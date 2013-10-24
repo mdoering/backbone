@@ -1,5 +1,4 @@
-Ceuthospora euonymi Grove, 1916 SPECIES
-=======
+# Ceuthospora euonymi Grove, 1916 SPECIES
 
 #### Status
 ACCEPTED

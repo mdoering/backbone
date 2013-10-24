@@ -1,11 +1,10 @@
-Zignoella subcorticale (Cooke) Sacc., 1891 SPECIES
-=======
+# Wallrothiella subcorticalis (Cooke) Kirschst., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

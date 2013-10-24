@@ -1,5 +1,4 @@
-Candida incommunis Y. Ohara, Nonom. & M. Yamaz., 1965 SPECIES
-=======
+# Candida incommunis Y. Ohara, Nonom. & M. Yamaz., 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tricholoma immaculata Beeli SPECIES
-=======
+# Tricholoma immaculatum Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 60: 76 (1927)
 
 #### Original name
-Tricholoma immaculata Beeli
+Tricholoma immaculatum Beeli
 
 ### Remarks
 null

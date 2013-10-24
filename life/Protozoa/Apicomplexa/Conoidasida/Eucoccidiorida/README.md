@@ -1,5 +1,4 @@
-Eucoccidiorida Léger, 1911 ORDER
-=======
+# Eucoccidiorida Léger, 1911 ORDER
 
 #### Status
 ACCEPTED

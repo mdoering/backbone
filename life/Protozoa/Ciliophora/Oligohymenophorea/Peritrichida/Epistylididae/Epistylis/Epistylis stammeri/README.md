@@ -1,5 +1,4 @@
-Epistylis stammeri Nenninger, 1948 SPECIES
-=======
+# Epistylis stammeri Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

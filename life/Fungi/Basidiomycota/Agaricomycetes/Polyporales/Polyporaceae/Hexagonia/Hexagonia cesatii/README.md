@@ -1,5 +1,4 @@
-Hexagonia cesatii Berk. SPECIES
-=======
+# Hexagonia cesatii Berk. SPECIES
 
 #### Status
 ACCEPTED

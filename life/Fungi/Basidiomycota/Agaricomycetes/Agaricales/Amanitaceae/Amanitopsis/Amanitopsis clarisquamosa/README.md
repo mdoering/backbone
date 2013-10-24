@@ -1,5 +1,4 @@
-Amanitopsis clarisquamosa S. Imai SPECIES
-=======
+# Amanitopsis clarisquamosa S. Imai SPECIES
 
 #### Status
 ACCEPTED

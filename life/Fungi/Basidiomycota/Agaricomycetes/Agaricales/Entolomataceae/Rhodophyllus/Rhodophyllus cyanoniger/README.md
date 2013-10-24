@@ -1,5 +1,4 @@
-Rhodophyllus cyanoniger (Hongo) Hongo SPECIES
-=======
+# Rhodophyllus cyanoniger (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

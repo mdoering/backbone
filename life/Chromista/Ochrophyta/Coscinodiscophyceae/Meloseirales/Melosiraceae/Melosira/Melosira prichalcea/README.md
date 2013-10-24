@@ -1,5 +1,4 @@
-Melosira prichalcea (Mert. Ex Juerg.) Kuetz. SPECIES
-=======
+# Melosira prichalcea (Mert. Ex Juerg.) Kuetz. SPECIES
 
 #### Status
 ACCEPTED

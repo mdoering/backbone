@@ -1,5 +1,4 @@
-Trypethelium uberinum Leight. SPECIES
-=======
+# Trypethelium uberinum Leight. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peronospora digitalidis Gäum. SPECIES
-=======
+# Peronospora digitalis Gäum., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 5(4): 162 (1923)
 
 #### Original name
-Peronospora digitalidis Gäum.
+Peronospora digitalis Gäum., 1923
 
 ### Remarks
 null

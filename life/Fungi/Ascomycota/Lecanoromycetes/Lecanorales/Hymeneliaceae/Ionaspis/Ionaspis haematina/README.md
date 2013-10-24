@@ -1,5 +1,4 @@
-Ionaspis haematina (Körb.) Th. Fr. SPECIES
-=======
+# Ionaspis haematina (Körb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

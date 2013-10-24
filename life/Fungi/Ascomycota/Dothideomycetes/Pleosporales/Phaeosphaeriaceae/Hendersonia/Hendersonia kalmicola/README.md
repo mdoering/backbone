@@ -1,5 +1,4 @@
-Hendersonia kalmicola Ellis & Barthol. SPECIES
-=======
+# Hendersonia kalmicola Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

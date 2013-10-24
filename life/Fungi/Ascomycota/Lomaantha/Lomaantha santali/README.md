@@ -1,17 +1,16 @@
-Lomaantha santalii Udayal. & Satyanar. SPECIES
-=======
+# Lomaantha santali Udayal. & Satyanar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Santosh Reddy et al. , Indian J. Bot. 1(1-2): 148 (1978)
 
 #### Original name
-Lomaantha santalii Udayal. & Satyanar.
+Lomaantha santali Udayal. & Satyanar.
 
 ### Remarks
 null

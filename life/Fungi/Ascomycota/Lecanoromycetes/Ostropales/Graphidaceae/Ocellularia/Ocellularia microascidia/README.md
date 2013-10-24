@@ -1,14 +1,13 @@
-Thelotrema microascidium Vain. SPECIES
-=======
+# Ocellularia microascidia (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 46: 176 (1907)
+Cat. Lich. Univers. 2: 595 (1923)
 
 #### Original name
 Thelotrema microascidium Vain.

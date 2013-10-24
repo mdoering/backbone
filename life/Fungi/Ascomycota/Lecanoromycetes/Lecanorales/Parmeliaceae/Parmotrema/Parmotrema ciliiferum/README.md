@@ -1,5 +1,4 @@
-Parmotrema ciliiferum Hale SPECIES
-=======
+# Parmotrema ciliiferum Hale SPECIES
 
 #### Status
 ACCEPTED

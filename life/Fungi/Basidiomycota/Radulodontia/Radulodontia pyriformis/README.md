@@ -1,5 +1,4 @@
-Radulodontia pyriformis Hjortstam & Ryvarden SPECIES
-=======
+# Radulodontia pyriformis Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

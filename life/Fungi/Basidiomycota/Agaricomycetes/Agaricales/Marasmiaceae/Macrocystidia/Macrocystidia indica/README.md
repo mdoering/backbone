@@ -1,5 +1,4 @@
-Macrocystidia indica Saini, Atri & Singer SPECIES
-=======
+# Macrocystidia indica Saini, Atri & Singer SPECIES
 
 #### Status
 ACCEPTED

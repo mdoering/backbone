@@ -1,5 +1,4 @@
-Fomes petchii Lloyd SPECIES
-=======
+# Fomes petchii Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma cryptocystidiatum Arnolds & Noordel. SPECIES
-=======
+# Entoloma cryptocystidiatum Arnolds & Noordel. SPECIES
 
 #### Status
 ACCEPTED

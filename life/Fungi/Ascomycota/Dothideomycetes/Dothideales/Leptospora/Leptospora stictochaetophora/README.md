@@ -1,5 +1,4 @@
-Leptospora stictochaetophora Fairm. SPECIES
-=======
+# Leptospora stictochaetophora Fairm. SPECIES
 
 #### Status
 ACCEPTED

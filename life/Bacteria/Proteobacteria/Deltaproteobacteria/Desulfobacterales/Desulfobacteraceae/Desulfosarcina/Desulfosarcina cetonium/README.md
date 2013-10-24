@@ -1,5 +1,4 @@
-Desulfosarcina cetonium SPECIES
-=======
+# Desulfosarcina cetonium SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma assimulans (Britzelm.) Sacc. SPECIES
-=======
+# Hypholoma assimulans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

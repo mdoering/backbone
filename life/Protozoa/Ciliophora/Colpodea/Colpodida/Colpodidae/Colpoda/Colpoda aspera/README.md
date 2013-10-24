@@ -1,5 +1,4 @@
-Colpoda aspera Kahl, 1926 SPECIES
-=======
+# Colpoda aspera Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

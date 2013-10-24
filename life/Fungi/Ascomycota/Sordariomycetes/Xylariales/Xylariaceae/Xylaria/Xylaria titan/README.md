@@ -1,5 +1,4 @@
-Xylaria titan Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria titan Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

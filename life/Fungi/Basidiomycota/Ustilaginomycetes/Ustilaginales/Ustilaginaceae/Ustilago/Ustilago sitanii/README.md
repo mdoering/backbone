@@ -1,5 +1,4 @@
-Ustilago sitanii G.W. Fisch. SPECIES
-=======
+# Ustilago sitanii G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

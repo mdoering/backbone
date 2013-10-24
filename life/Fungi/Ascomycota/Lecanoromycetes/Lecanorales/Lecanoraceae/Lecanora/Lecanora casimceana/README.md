@@ -1,5 +1,4 @@
-Lecanora casimceana Vezda SPECIES
-=======
+# Lecanora casimceana Vezda SPECIES
 
 #### Status
 ACCEPTED

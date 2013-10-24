@@ -1,5 +1,4 @@
-Xerotus viticola Berk. & M.A. Curtis SPECIES
-=======
+# Xerotus viticola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombomonas acuminata var. deflandeana W. Conrad VARIETY
-=======
+# Strombomonas acuminata (Schmarda) Deflandre SPECIES
 
 #### Status
 ACCEPTED

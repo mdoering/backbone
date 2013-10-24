@@ -1,8 +1,7 @@
-Actinoplanes minutisporangius Ruan et al., 1986 SPECIES
-=======
+# Cryptosporangium minutisporangium (Ruan et al., 1986) Tamura & Hatano, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

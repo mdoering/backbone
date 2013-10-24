@@ -1,5 +1,4 @@
-Pyxine kibweziensis Swinscow & Krog SPECIES
-=======
+# Pyxine kibweziensis Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dasyscypha uleanus (Rehm) Dennis SPECIES
-=======
+# Dasyscyphus uleanus (Rehm) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 311 (1954)
 
 #### Original name
 Dasyscyphella uleanus Rehm

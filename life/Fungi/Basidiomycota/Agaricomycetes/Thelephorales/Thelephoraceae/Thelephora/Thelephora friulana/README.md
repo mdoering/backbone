@@ -1,5 +1,4 @@
-Thelephora friulana Zecchin SPECIES
-=======
+# Thelephora friulana Zecchin SPECIES
 
 #### Status
 ACCEPTED

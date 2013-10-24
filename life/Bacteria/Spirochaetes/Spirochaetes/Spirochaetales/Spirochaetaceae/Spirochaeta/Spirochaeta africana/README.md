@@ -1,5 +1,4 @@
-Spirochaeta africana Zhilina et al., 1996 SPECIES
-=======
+# Spirochaeta africana Zhilina et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

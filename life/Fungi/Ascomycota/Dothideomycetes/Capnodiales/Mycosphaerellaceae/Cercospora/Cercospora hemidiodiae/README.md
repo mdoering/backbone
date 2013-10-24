@@ -1,5 +1,4 @@
-Cercospora hemidiodiae Toro SPECIES
-=======
+# Cercospora hemidiodiae Toro SPECIES
 
 #### Status
 ACCEPTED

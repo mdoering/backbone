@@ -1,5 +1,4 @@
-Calothrix linearis Gardner SPECIES
-=======
+# Calothrix linearis Gardner SPECIES
 
 #### Status
 ACCEPTED

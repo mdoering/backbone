@@ -1,5 +1,4 @@
-Trypethelium varium (Fée) Nyl. SPECIES
-=======
+# Trypethelium varium (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

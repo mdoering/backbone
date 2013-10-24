@@ -1,5 +1,4 @@
-Rhachomyces richardii Balazuc SPECIES
-=======
+# Rhachomyces richardii Balazuc SPECIES
 
 #### Status
 ACCEPTED

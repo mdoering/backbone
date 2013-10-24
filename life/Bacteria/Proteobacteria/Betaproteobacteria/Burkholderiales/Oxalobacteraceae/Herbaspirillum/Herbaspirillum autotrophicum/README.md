@@ -1,8 +1,7 @@
-Aquaspirillum autotrophicum Aragno and Schlegel, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Herbaspirillum autotrophicum (Aragno & Schlegel, 1978) Ding & Yokota, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

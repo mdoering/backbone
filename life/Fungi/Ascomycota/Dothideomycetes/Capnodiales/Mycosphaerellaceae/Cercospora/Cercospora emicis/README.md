@@ -1,5 +1,4 @@
-Cercospora emicis Pat. SPECIES
-=======
+# Cercospora emicis Pat. SPECIES
 
 #### Status
 ACCEPTED

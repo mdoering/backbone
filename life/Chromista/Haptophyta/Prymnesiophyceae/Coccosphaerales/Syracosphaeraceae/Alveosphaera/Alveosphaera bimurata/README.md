@@ -1,5 +1,4 @@
-Alveosphaera bimurata (Okada & McIntyre) Jordan & Young, 1990 SPECIES
-=======
+# Alveosphaera bimurata (Okada & McIntyre) Jordan & Young, 1990 SPECIES
 
 #### Status
 ACCEPTED

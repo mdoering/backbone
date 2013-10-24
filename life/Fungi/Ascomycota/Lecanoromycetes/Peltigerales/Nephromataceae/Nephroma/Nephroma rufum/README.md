@@ -1,14 +1,13 @@
-Nephroma helveticum var. rufum (C. Bab.) J. S. Murray VARIETY
-=======
+# Nephroma rufum (C. Bab.) P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 88: 386 (1960)
+in Galloway, N. Z. Jl Bot. 21(2): 195 (1983)
 
 #### Original name
 Nephroma resupinatum var. rufa C. Bab.

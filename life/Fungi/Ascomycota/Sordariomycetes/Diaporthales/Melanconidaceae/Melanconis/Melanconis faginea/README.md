@@ -1,5 +1,4 @@
-Melanconis faginea Sacc. SPECIES
-=======
+# Melanconis faginea Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium pateraeforme (Berk.) Cooke SPECIES
-=======
+# Helotium pateraeforme (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

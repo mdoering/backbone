@@ -1,5 +1,4 @@
-Puccinia polygalae Pazschke, 1896 SPECIES
-=======
+# Puccinia polygalae Pazschke, 1896 SPECIES
 
 #### Status
 ACCEPTED

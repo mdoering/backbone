@@ -1,5 +1,4 @@
-Lecanora polycarpella Zahlbr. SPECIES
-=======
+# Lecanora polycarpella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

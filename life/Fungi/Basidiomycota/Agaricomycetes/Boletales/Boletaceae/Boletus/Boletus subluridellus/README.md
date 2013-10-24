@@ -1,5 +1,4 @@
-Boletus subluridellus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus subluridellus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

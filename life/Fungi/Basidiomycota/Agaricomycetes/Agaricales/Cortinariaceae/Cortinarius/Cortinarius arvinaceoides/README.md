@@ -1,5 +1,4 @@
-Cortinarius arvinaceoides Bidaud SPECIES
-=======
+# Cortinarius arvinaceoides Bidaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporisporites opimus (Elsik & Janson.) G. Norris SPECIES
-=======
+# Brachysporisporites opimus (Elsik & Janson.) G. Norris SPECIES
 
 #### Status
 ACCEPTED

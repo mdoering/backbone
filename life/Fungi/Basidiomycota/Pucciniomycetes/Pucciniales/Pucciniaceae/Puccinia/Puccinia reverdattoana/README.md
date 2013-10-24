@@ -1,5 +1,4 @@
-Puccinia reverdattoana Lavrov SPECIES
-=======
+# Puccinia reverdattoana Lavrov SPECIES
 
 #### Status
 ACCEPTED

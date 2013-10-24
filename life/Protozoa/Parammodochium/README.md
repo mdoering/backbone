@@ -1,5 +1,4 @@
-Parammodochium Deflandre GENUS
-=======
+# Parammodochium Deflandre GENUS
 
 #### Status
 ACCEPTED

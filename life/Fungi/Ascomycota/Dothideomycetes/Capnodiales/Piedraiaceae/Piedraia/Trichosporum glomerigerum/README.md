@@ -1,5 +1,4 @@
-Trichosporum glomerigerum Demelius SPECIES
-=======
+# Trichosporum glomerigerum Demelius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora chionanthi Ellis & Everh. SPECIES
-=======
+# Cercospora chionanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

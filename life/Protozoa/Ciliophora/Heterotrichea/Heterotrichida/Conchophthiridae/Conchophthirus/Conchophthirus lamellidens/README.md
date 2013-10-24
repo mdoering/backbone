@@ -1,5 +1,4 @@
-Conchophthirus lamellidens Ghosh, 1918 SPECIES
-=======
+# Conchophthirus lamellidens Ghosh, 1918 SPECIES
 
 #### Status
 ACCEPTED

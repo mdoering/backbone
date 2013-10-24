@@ -1,5 +1,4 @@
-Nectria phyllogena Sacc. SPECIES
-=======
+# Nectria phyllogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

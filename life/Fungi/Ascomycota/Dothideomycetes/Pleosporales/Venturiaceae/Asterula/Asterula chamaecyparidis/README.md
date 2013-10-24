@@ -1,8 +1,7 @@
-Asterula chamaecyparissi Shirai & Hara SPECIES
-=======
+# Asterula chamaecyparidis Shirai & Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterula chamaecyparissi Shirai & Hara
+Asterula chamaecyparidis Shirai & Hara
 
 ### Remarks
 null

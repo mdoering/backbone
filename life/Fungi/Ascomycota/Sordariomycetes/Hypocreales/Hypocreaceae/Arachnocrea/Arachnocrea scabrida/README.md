@@ -1,5 +1,4 @@
-Arachnocrea scabrida Yoshim. Doi, 1972 SPECIES
-=======
+# Arachnocrea scabrida Yoshim. Doi, 1972 SPECIES
 
 #### Status
 ACCEPTED

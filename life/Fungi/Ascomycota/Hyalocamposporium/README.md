@@ -1,5 +1,4 @@
-Hyalocamposporium Révay & J. Gönczöl GENUS
-=======
+# Hyalocamposporium Révay & J. Gönczöl GENUS
 
 #### Status
 ACCEPTED

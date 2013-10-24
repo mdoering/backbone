@@ -1,5 +1,4 @@
-Tricholoma niveipes var. niveipes VARIETY
-=======
+# Tricholoma niveipes Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tricholoma niveipes var. niveipes
+Tricholoma niveipes Peck
 
 ### Remarks
 null

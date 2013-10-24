@@ -1,5 +1,4 @@
-Paurocotylis pila Berk., 1855 SPECIES
-=======
+# Paurocotylis pila Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora trifolii (Ellis) Kuntze SPECIES
-=======
+# Filaspora trifolii (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha semicincta f. semicincta FORM
-=======
+# Opegrapha semicincta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha semicincta f. semicincta
+null
 
 ### Remarks
 null

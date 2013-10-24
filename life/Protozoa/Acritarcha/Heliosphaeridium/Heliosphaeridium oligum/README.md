@@ -1,5 +1,4 @@
-Heliosphaeridium oligum (Jankauskas in Jankauskas & Posti, 1976) Moczydlowska, 1998 SPECIES
-=======
+# Heliosphaeridium oligum (Jankauskas in Jankauskas & Posti, 1976) Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

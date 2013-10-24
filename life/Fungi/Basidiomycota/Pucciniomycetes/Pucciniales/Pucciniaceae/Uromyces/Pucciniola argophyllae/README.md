@@ -1,5 +1,4 @@
-Pucciniola argophyllae (Seym.) Arthur SPECIES
-=======
+# Pucciniola argophyllae (Seym.) Arthur SPECIES
 
 #### Status
 ACCEPTED

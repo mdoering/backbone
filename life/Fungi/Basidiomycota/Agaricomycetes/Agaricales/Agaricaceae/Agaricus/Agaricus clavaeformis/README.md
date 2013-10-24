@@ -1,5 +1,4 @@
-Agaricus clavaeformis Schaeff. SPECIES
-=======
+# Agaricus clavaeformis Schaeff. SPECIES
 
 #### Status
 ACCEPTED

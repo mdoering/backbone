@@ -1,5 +1,4 @@
-Eumitria trullifera (Nyl.) Vain. SPECIES
-=======
+# Eumitria trullifera (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

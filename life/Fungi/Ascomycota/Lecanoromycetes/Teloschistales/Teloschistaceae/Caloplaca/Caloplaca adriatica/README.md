@@ -1,5 +1,4 @@
-Caloplaca adriatica (Zahlbr.) Servít SPECIES
-=======
+# Caloplaca adriatica (Zahlbr.) Servít SPECIES
 
 #### Status
 ACCEPTED

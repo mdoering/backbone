@@ -1,5 +1,4 @@
-Scolecopeltidium paypayrolae Bat. SPECIES
-=======
+# Scolecopeltidium paypayrolae Bat. SPECIES
 
 #### Status
 ACCEPTED

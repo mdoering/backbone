@@ -1,5 +1,4 @@
-Puccinia rubricans Holw. SPECIES
-=======
+# Puccinia rubricans Holw. SPECIES
 
 #### Status
 ACCEPTED

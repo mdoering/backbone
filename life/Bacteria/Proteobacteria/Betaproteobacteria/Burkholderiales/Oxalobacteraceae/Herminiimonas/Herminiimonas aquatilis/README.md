@@ -1,5 +1,4 @@
-Herminiimonas aquatilis Kämpfer et al., 2006 SPECIES
-=======
+# Herminiimonas aquatilis Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

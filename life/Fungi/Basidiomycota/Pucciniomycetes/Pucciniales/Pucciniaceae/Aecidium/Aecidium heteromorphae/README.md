@@ -1,5 +1,4 @@
-Aecidium heteromorphae A.L. Sm. SPECIES
-=======
+# Aecidium heteromorphae A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagedia chiomela Norman SPECIES
-=======
+# Sagedia chiomela Norman SPECIES
 
 #### Status
 ACCEPTED

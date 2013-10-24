@@ -1,5 +1,4 @@
-Cortinarius helobius Romagn. SPECIES
-=======
+# Cortinarius helobius Romagn. SPECIES
 
 #### Status
 ACCEPTED

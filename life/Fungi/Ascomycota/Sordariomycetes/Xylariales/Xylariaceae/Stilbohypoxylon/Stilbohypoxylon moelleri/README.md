@@ -1,17 +1,16 @@
-Kretzschmaria rehmii SPECIES
-=======
+# Stilbohypoxylon moelleri Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 41: 16 (1902)
 
 #### Original name
-Kretzschmaria rehmii
+Stilbohypoxylon moelleri Henn., 1902
 
 ### Remarks
 null

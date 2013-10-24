@@ -1,17 +1,16 @@
-Oidium biforme Linder, 1942 SPECIES
-=======
+# Haplotrichum simile (Berk.) Hol.-Jech., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5(3): 188 (1942)
+Ceská Mykol. 30(1): 4 (1976)
 
 #### Original name
-Oidium biforme Linder, 1942
+Oidium simile Berk., 1845
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta arborea Cejp SPECIES
-=======
+# Phyllosticta arborea Cejp SPECIES
 
 #### Status
 ACCEPTED

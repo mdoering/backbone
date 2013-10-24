@@ -1,5 +1,4 @@
-Phyllohendersonia daphnes (Pass.) Tassi SPECIES
-=======
+# Phyllohendersonia daphnes (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

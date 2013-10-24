@@ -1,5 +1,4 @@
-Macroplodia viticola (Pass.) Kuntze SPECIES
-=======
+# Macroplodia viticola (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

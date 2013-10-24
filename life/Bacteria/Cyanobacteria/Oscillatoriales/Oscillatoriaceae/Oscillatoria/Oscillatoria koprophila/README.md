@@ -1,5 +1,4 @@
-Oscillatoria koprophila Skuja SPECIES
-=======
+# Oscillatoria koprophila Skuja SPECIES
 
 #### Status
 ACCEPTED

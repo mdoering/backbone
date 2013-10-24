@@ -1,17 +1,16 @@
-Phoma capsici var. capsici VARIETY
-=======
+# Phoma capsici SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Atti Ist. bot. R. Univ. Pavia, 2 Sér. 7: 113-114 (1902)
+null
 
 #### Original name
-Phoma capsici var. capsici
+null
 
 ### Remarks
 null

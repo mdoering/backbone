@@ -1,5 +1,4 @@
-Lactarius rugosus Velen. SPECIES
-=======
+# Lactarius rugosus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha medusuliza Nyl. SPECIES
-=======
+# Opegrapha medusuliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

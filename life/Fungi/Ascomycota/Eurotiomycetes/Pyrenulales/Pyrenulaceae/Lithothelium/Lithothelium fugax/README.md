@@ -1,5 +1,4 @@
-Lithothelium fugax (Müll. Arg.) Aptroot SPECIES
-=======
+# Lithothelium fugax (Müll. Arg.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena hispida SPECIES
-=======
+# Lagena hispida SPECIES
 
 #### Status
 ACCEPTED

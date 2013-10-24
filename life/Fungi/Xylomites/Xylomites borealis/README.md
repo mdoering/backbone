@@ -1,5 +1,4 @@
-Xylomites borealis Heer SPECIES
-=======
+# Xylomites borealis Heer SPECIES
 
 #### Status
 ACCEPTED

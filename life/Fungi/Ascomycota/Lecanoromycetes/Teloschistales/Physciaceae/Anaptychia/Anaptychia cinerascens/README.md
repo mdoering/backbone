@@ -1,5 +1,4 @@
-Anaptychia cinerascens (Nyl.) C.W. Dodge SPECIES
-=======
+# Anaptychia cinerascens (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

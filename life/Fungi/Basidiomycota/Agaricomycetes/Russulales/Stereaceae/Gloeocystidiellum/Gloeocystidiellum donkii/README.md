@@ -1,5 +1,4 @@
-Gloeocystidiellum donkii S.S. Rattan SPECIES
-=======
+# Gloeocystidiellum donkii S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

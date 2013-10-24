@@ -1,5 +1,4 @@
-Schizothyrium macrosporum J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Schizothyrium macrosporum J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

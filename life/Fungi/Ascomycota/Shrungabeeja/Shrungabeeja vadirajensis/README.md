@@ -1,5 +1,4 @@
-Shrungabeeja vadirajensis V.G. Rao & K.A. Reddy, 1981 SPECIES
-=======
+# Shrungabeeja vadirajensis V.G. Rao & K.A. Reddy, 1981 SPECIES
 
 #### Status
 ACCEPTED

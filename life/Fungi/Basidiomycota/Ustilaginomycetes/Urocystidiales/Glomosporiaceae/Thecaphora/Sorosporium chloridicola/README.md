@@ -1,5 +1,4 @@
-Sorosporium chloridicola Beeli SPECIES
-=======
+# Sorosporium chloridicola Beeli SPECIES
 
 #### Status
 ACCEPTED

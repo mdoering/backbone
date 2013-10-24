@@ -1,5 +1,4 @@
-Pseudoaristastoma indicum Suj. Singh, 1979 SPECIES
-=======
+# Pseudoaristastoma indicum Suj. Singh, 1979 SPECIES
 
 #### Status
 ACCEPTED

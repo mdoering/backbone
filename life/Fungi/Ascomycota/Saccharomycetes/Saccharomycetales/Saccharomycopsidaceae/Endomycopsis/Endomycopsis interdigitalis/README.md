@@ -1,5 +1,4 @@
-Endomycopsis interdigitalis Bat. & Coêlho SPECIES
-=======
+# Endomycopsis interdigitalis Bat. & Coêlho SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ramularia areola G.F. Atk., 1890 SPECIES
-=======
+# Mycosphaerella areola Ehrlich & F.A. Wolf, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 15: 168 (1890)
+Phytopathology 22: 238 (1932)
 
 #### Original name
-Ramularia areola G.F. Atk., 1890
+Mycosphaerella areola Ehrlich & F.A. Wolf, 1932
 
 ### Remarks
 null

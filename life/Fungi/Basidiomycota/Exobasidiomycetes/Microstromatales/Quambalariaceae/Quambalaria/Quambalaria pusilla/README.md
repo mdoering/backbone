@@ -1,14 +1,13 @@
-Sporothrix pusilla U. Braun & Crous, 1998 SPECIES
-=======
+# Quambalaria pusilla (U. Braun & Crous) J.A. Simpson, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Braun, Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 418 (1998)
+Australas. Mycol. 19(2): 61 (2000)
 
 #### Original name
 Sporothrix pusilla U. Braun & Crous, 1998

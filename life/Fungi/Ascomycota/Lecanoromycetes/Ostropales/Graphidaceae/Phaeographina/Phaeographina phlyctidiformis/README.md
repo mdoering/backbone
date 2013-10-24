@@ -1,5 +1,4 @@
-Phaeographina phlyctidiformis Müll. Arg. SPECIES
-=======
+# Phaeographina phlyctidiformis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

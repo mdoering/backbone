@@ -1,14 +1,13 @@
-Pocillaria umbrina (Reichardt) Kuntze, 1891 SPECIES
-=======
+# Lentinus umbrinus Reichardt, 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Verh. zool. -bot. Ges. Wein 16: 375 (1866)
 
 #### Original name
 Lentinus umbrinus Reichardt, 1866

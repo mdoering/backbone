@@ -1,5 +1,4 @@
-Buellia atrocinerella (Nyl.) Scheid. SPECIES
-=======
+# Buellia atrocinerella (Nyl.) Scheid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatiella sinensis C.H. Chow SPECIES
-=======
+# Calvatiella sinensis C.H. Chow SPECIES
 
 #### Status
 ACCEPTED

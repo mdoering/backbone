@@ -1,5 +1,4 @@
-Peteinosphaeridium polyfurcatum Tynni, 1982 SPECIES
-=======
+# Peteinosphaeridium polyfurcatum Tynni, 1982 SPECIES
 
 #### Status
 ACCEPTED

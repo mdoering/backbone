@@ -1,5 +1,4 @@
-Verticicladus amazonensis Matsush., 1993 SPECIES
-=======
+# Verticicladus amazonensis Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

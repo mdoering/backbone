@@ -1,5 +1,4 @@
-Rhabdospora coluteae Sousa da Câmara SPECIES
-=======
+# Rhabdospora coluteae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

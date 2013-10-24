@@ -1,5 +1,4 @@
-Fusarium pezizoideum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Fusarium pezizoideum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

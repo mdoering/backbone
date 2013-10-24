@@ -1,5 +1,4 @@
-Lyngbya spirulinoides Gomont SPECIES
-=======
+# Lyngbya spirulinoides Gomont SPECIES
 
 #### Status
 ACCEPTED

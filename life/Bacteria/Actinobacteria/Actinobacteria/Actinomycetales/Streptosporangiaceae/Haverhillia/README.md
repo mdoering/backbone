@@ -1,5 +1,4 @@
-Haverhillia GENUS
-=======
+# Haverhillia GENUS
 
 #### Status
 ACCEPTED

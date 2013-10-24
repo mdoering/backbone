@@ -1,5 +1,4 @@
-Sticta boliviana Nyl. SPECIES
-=======
+# Sticta boliviana Nyl. SPECIES
 
 #### Status
 ACCEPTED

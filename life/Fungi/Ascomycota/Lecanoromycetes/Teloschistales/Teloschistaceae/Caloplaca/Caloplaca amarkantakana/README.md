@@ -1,5 +1,4 @@
-Caloplaca amarkantakana Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca amarkantakana Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

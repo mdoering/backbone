@@ -1,5 +1,4 @@
-Rhopographina GENUS
-=======
+# Rhopographina GENUS
 
 #### Status
 ACCEPTED

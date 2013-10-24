@@ -1,17 +1,16 @@
-Uredo centrosemae Viégas SPECIES
-=======
+# Uredo centrosematis Viégas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bragantia 5(1): 81 (1945)
 
 #### Original name
-Uredo centrosemae Viégas
+Uredo centrosematis Viégas
 
 ### Remarks
 null

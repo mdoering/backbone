@@ -1,5 +1,4 @@
-Solenophrya dubia SPECIES
-=======
+# Solenophrya dubia SPECIES
 
 #### Status
 ACCEPTED

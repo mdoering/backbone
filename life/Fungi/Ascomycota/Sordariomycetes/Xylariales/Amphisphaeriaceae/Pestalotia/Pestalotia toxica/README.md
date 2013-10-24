@@ -1,5 +1,4 @@
-Pestalotia toxica Ellis & Everh. SPECIES
-=======
+# Pestalotia toxica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

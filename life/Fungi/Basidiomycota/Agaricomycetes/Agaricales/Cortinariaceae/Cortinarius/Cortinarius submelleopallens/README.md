@@ -1,5 +1,4 @@
-Cortinarius submelleopallens Rob. Henry SPECIES
-=======
+# Cortinarius submelleopallens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

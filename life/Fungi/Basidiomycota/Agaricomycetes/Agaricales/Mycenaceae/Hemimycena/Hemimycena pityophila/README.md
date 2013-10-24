@@ -1,5 +1,4 @@
-Hemimycena pityophila A. Ortega & Esteve-Rav. SPECIES
-=======
+# Hemimycena pityophila A. Ortega & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

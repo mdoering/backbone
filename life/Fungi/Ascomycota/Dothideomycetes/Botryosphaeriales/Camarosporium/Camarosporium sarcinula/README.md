@@ -1,5 +1,4 @@
-Camarosporium sarcinula Sacc. & Berl. SPECIES
-=======
+# Camarosporium sarcinula Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

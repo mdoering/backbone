@@ -1,5 +1,4 @@
-Pelagodictyon fritzii Clarke SPECIES
-=======
+# Pelagodictyon fritzii Clarke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma montanum Pat. SPECIES
-=======
+# Tulostoma montanum Pat. SPECIES
 
 #### Status
 ACCEPTED

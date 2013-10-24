@@ -1,5 +1,4 @@
-Lecudina lankesteri (Théodoridès & Desportes, 1986) SPECIES
-=======
+# Lecudina lankesteri (Théodoridès & Desportes, 1986) SPECIES
 
 #### Status
 ACCEPTED

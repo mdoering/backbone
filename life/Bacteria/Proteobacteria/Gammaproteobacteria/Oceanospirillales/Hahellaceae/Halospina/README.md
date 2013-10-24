@@ -1,5 +1,4 @@
-Halospina Sorokin et al., 2006 GENUS
-=======
+# Halospina Sorokin et al., 2006 GENUS
 
 #### Status
 ACCEPTED

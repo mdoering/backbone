@@ -1,5 +1,4 @@
-Ascochyta gorlenkoi Melnik SPECIES
-=======
+# Ascochyta gorlenkoi Melnik SPECIES
 
 #### Status
 ACCEPTED

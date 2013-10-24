@@ -1,5 +1,4 @@
-Physma terricola (Rehm) Arnold SPECIES
-=======
+# Physma terricola (Rehm) Arnold SPECIES
 
 #### Status
 ACCEPTED

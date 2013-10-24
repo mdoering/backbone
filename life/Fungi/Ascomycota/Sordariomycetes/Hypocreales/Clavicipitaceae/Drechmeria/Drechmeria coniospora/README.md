@@ -1,5 +1,4 @@
-Drechmeria coniospora (Drechsler) W. Gams & H.-B. Jansson, 1985 SPECIES
-=======
+# Drechmeria coniospora (Drechsler) W. Gams & H.-B. Jansson, 1985 SPECIES
 
 #### Status
 ACCEPTED

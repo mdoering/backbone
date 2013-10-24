@@ -1,5 +1,4 @@
-Cortinarius laetargutus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius laetargutus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

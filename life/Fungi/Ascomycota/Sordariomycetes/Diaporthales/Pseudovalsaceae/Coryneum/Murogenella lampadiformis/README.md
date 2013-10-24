@@ -1,5 +1,4 @@
-Murogenella lampadiformis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Murogenella lampadiformis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

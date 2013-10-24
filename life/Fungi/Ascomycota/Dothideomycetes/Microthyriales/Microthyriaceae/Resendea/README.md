@@ -1,5 +1,4 @@
-Resendea Bat. GENUS
-=======
+# Resendea Bat. GENUS
 
 #### Status
 ACCEPTED

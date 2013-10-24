@@ -1,17 +1,16 @@
-Phaeocyphella endophila (Ces.) Pat., 1900 SPECIES
-=======
+# Phaeosolenia inconspicua (Berk. & M.A. Curtis) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 58 (1900)
+Persoonia 2(3): 344 (1962)
 
 #### Original name
-Cyphella endophila Ces., 1872
+Peziza inconspicua Berk. & M.A. Curtis, 1860
 
 ### Remarks
 null

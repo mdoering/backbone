@@ -1,17 +1,16 @@
-Callopisma variabile var. variabile VARIETY
-=======
+# Caloplaca variabilis (Pers.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16: 387 (1862)
 
 #### Original name
-null
+Psora variabilis Pers.
 
 ### Remarks
 null

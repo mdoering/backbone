@@ -1,5 +1,4 @@
-Discomycetoidea Matsush. GENUS
-=======
+# Discomycetoidea Matsush. GENUS
 
 #### Status
 ACCEPTED

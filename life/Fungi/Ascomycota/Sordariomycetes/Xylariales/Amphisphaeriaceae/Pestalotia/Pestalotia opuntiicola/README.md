@@ -1,5 +1,4 @@
-Pestalotia opuntiicola Cif. & Gonz. Frag. SPECIES
-=======
+# Pestalotia opuntiicola Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

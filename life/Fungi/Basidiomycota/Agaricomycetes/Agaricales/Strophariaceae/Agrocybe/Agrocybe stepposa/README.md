@@ -1,5 +1,4 @@
-Agrocybe stepposa Svrcek SPECIES
-=======
+# Agrocybe stepposa Svrcek SPECIES
 
 #### Status
 ACCEPTED

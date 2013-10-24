@@ -1,5 +1,4 @@
-Desmazieria tumidula (Taylor) Follmann & Huneck SPECIES
-=======
+# Desmazieria tumidula (Taylor) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

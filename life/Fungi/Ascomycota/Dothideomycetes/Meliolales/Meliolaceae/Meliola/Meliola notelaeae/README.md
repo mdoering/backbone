@@ -1,5 +1,4 @@
-Meliola notelaeae Hansf., 1953 SPECIES
-=======
+# Meliola notelaeae Hansf., 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium geminellum Syd. & P. Syd. SPECIES
-=======
+# Sorosporium geminellum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

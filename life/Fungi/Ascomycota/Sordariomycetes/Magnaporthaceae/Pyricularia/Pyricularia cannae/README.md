@@ -1,5 +1,4 @@
-Pyricularia cannae Roldan SPECIES
-=======
+# Pyricularia cannae Roldan SPECIES
 
 #### Status
 ACCEPTED

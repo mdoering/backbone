@@ -1,5 +1,4 @@
-Cylindrocolla cylindrosperma (Corda) Lindtner SPECIES
-=======
+# Cylindrocolla cylindrosperma (Corda) Lindtner SPECIES
 
 #### Status
 ACCEPTED

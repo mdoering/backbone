@@ -1,5 +1,4 @@
-Buellia navajoensis Bungartz SPECIES
-=======
+# Buellia navajoensis Bungartz SPECIES
 
 #### Status
 ACCEPTED

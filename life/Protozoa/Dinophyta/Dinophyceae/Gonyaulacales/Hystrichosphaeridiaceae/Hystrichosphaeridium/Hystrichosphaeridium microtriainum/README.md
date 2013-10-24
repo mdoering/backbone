@@ -1,5 +1,4 @@
-Hystrichosphaeridium microtriainum B. Klumpp SPECIES
-=======
+# Hystrichosphaeridium microtriainum B. Klumpp SPECIES
 
 #### Status
 ACCEPTED

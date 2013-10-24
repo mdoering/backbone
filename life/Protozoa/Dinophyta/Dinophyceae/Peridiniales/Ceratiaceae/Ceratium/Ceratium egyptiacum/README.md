@@ -1,5 +1,4 @@
-Ceratium egyptiacum Halim, 1963 SPECIES
-=======
+# Ceratium egyptiacum Halim, 1963 SPECIES
 
 #### Status
 ACCEPTED

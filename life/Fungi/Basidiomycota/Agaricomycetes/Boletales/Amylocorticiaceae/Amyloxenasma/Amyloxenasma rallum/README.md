@@ -1,14 +1,13 @@
-Aphanobasidium rallum (H.S. Jacks.) Jülich, 1979 SPECIES
-=======
+# Amyloxenasma rallum (H.S. Jacks.) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(3): 326 (1979)
+Syn. Fung. (Oslo) 20: 35 (2005)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Karschia linitaria Vouaux SPECIES
-=======
+# Karschia linitaria Vouaux SPECIES
 
 #### Status
 ACCEPTED

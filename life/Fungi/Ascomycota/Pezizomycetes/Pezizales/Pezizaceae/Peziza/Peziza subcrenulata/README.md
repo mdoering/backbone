@@ -1,5 +1,4 @@
-Peziza subcrenulata Nyl. SPECIES
-=======
+# Peziza subcrenulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

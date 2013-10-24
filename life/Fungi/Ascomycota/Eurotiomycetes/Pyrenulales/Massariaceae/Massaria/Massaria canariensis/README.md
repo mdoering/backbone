@@ -1,5 +1,4 @@
-Massaria canariensis Petr. SPECIES
-=======
+# Massaria canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

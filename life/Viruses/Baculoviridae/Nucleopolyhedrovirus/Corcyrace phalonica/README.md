@@ -1,5 +1,4 @@
-Corcyrace phalonica Npv SPECIES
-=======
+# Corcyrace phalonica Npv SPECIES
 
 #### Status
 ACCEPTED

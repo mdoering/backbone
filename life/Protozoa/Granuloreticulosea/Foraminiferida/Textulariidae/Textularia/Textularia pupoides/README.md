@@ -1,5 +1,4 @@
-Textularia pupoides var. conica Goes, 1882 VARIETY
-=======
+# Textularia pupoides (d’Orbigny, 1840) SPECIES
 
 #### Status
 ACCEPTED

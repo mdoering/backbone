@@ -1,5 +1,4 @@
-Chrysocystis fragilis C.S. Lobban, D.Honda & M. Chihara SPECIES
-=======
+# Chrysocystis fragilis C.S. Lobban, D.Honda & M. Chihara SPECIES
 
 #### Status
 ACCEPTED

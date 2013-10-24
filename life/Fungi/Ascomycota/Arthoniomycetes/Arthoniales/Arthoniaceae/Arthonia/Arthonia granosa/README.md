@@ -1,5 +1,4 @@
-Arthonia granosa B. de Lesd. SPECIES
-=======
+# Arthonia granosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

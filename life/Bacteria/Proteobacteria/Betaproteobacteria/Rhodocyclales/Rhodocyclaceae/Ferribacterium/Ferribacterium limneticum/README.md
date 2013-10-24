@@ -1,5 +1,4 @@
-Ferribacterium limneticum Cummings et al., 2000 SPECIES
-=======
+# Ferribacterium limneticum Cummings et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

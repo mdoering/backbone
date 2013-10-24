@@ -1,5 +1,4 @@
-Sulfurospirillum deleyianum Schumacher et al., 1993 SPECIES
-=======
+# Sulfurospirillum deleyianum Schumacher et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium stevensii (G. Arnaud) Toro SPECIES
-=======
+# Clasterosporium stevensii (G. Arnaud) Toro SPECIES
 
 #### Status
 ACCEPTED

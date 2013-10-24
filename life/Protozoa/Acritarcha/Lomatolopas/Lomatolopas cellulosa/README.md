@@ -1,5 +1,4 @@
-Lomatolopas cellulosa Playford in Playford & Dring, 1981 SPECIES
-=======
+# Lomatolopas cellulosa Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

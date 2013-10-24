@@ -1,5 +1,4 @@
-Proplectella parva Kofoid & Campbell, 1929 SPECIES
-=======
+# Proplectella parva Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

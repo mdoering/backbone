@@ -1,5 +1,4 @@
-Penicillium szaferi K.M. Zalessky SPECIES
-=======
+# Penicillium szaferi K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

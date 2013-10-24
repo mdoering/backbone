@@ -1,5 +1,4 @@
-Micrhystridium subcarpaticum Pautsch, 1971 SPECIES
-=======
+# Micrhystridium subcarpaticum Pautsch, 1971 SPECIES
 
 #### Status
 ACCEPTED

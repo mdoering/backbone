@@ -1,5 +1,4 @@
-Brustiospora Kundu & Haldar, 1981 GENUS
-=======
+# Brustiospora Kundu & Haldar, 1981 GENUS
 
 #### Status
 ACCEPTED

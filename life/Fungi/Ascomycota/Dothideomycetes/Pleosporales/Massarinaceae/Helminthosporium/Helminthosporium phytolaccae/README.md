@@ -1,5 +1,4 @@
-Helminthosporium phytolaccae Thüm. SPECIES
-=======
+# Helminthosporium phytolaccae Thüm. SPECIES
 
 #### Status
 ACCEPTED

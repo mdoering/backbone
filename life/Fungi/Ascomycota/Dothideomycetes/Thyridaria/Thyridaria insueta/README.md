@@ -1,5 +1,4 @@
-Thyridaria insueta Petr. SPECIES
-=======
+# Thyridaria insueta Petr. SPECIES
 
 #### Status
 ACCEPTED

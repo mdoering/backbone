@@ -1,5 +1,4 @@
-Caeomurus rudbeckiae (Arthur & Holw.) Kuntze SPECIES
-=======
+# Caeomurus rudbeckiae (Arthur & Holw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

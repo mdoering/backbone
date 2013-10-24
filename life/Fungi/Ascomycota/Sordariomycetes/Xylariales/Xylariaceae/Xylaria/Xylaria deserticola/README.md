@@ -1,5 +1,4 @@
-Xylaria deserticola Speg. SPECIES
-=======
+# Xylaria deserticola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis angusta Meunier, 1910 SPECIES
-=======
+# Tintinnopsis angusta Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

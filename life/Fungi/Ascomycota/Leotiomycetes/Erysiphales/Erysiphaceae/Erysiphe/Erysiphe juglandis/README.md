@@ -1,5 +1,4 @@
-Erysiphe juglandis (Golovin) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe juglandis (Golovin) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

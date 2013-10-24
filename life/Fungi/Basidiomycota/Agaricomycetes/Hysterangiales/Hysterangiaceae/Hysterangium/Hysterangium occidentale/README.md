@@ -1,5 +1,4 @@
-Hysterangium occidentale Harkn. SPECIES
-=======
+# Hysterangium occidentale Harkn. SPECIES
 
 #### Status
 ACCEPTED

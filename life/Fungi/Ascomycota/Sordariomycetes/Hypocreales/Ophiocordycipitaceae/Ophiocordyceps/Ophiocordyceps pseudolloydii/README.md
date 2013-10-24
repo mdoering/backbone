@@ -1,5 +1,4 @@
-Ophiocordyceps pseudolloydii (H.C. Evans & Samson) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps pseudolloydii (H.C. Evans & Samson) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

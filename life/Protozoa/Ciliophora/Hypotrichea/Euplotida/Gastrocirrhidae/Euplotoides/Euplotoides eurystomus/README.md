@@ -1,5 +1,4 @@
-Euplotoides eurystomus SPECIES
-=======
+# Euplotoides eurystomus SPECIES
 
 #### Status
 ACCEPTED

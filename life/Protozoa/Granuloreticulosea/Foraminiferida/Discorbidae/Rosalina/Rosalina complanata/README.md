@@ -1,5 +1,4 @@
-Rosalina complanata d'Orbigny, 1846 SPECIES
-=======
+# Rosalina complanata d'Orbigny, 1846 SPECIES
 
 #### Status
 ACCEPTED

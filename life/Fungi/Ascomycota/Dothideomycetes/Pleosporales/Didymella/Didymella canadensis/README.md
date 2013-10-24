@@ -1,5 +1,4 @@
-Didymella canadensis Ellis & Everh. SPECIES
-=======
+# Didymella canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

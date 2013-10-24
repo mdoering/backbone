@@ -1,5 +1,4 @@
-Entoloma gerriae Noordel. SPECIES
-=======
+# Entoloma gerriae Noordel. SPECIES
 
 #### Status
 ACCEPTED

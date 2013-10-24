@@ -1,5 +1,4 @@
-Tricholoma catulus E.H.L. Krause SPECIES
-=======
+# Tricholoma catulus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

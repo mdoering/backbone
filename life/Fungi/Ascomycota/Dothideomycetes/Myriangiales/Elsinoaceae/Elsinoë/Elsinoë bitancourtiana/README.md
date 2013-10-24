@@ -1,5 +1,4 @@
-Elsinoë bitancourtiana Thirum., 1946 SPECIES
-=======
+# Elsinoë bitancourtiana Thirum., 1946 SPECIES
 
 #### Status
 ACCEPTED

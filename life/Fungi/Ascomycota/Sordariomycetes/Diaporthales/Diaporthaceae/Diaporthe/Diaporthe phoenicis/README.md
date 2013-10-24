@@ -1,5 +1,4 @@
-Diaporthe phoenicis Pat. SPECIES
-=======
+# Diaporthe phoenicis Pat. SPECIES
 
 #### Status
 ACCEPTED

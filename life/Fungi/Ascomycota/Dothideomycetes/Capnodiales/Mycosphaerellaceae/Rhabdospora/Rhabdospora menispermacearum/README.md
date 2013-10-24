@@ -1,5 +1,4 @@
-Rhabdospora menispermacearum var. menispermacearum VARIETY
-=======
+# Rhabdospora menispermacearum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora menispermacearum var. menispermacearum
+Rhabdospora menispermacearum Gonz. Frag.
 
 ### Remarks
 null

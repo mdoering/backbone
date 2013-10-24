@@ -1,5 +1,4 @@
-Melanotheca polillensis (Vain.) Zahlbr. SPECIES
-=======
+# Melanotheca polillensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

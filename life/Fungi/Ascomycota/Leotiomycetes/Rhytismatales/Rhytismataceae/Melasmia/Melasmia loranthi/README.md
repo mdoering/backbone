@@ -1,5 +1,4 @@
-Melasmia loranthi Henn. SPECIES
-=======
+# Melasmia loranthi Henn. SPECIES
 
 #### Status
 ACCEPTED

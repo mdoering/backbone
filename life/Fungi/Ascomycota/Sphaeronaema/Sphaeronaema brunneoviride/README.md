@@ -1,5 +1,4 @@
-Sphaeronaema brunneoviride Auersw. SPECIES
-=======
+# Sphaeronaema brunneoviride Auersw. SPECIES
 
 #### Status
 ACCEPTED

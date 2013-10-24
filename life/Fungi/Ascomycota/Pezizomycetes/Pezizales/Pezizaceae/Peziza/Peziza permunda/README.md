@@ -1,5 +1,4 @@
-Peziza permunda Cooke SPECIES
-=======
+# Peziza permunda Cooke SPECIES
 
 #### Status
 ACCEPTED

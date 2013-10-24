@@ -1,5 +1,4 @@
-Torula maculans var. maculans VARIETY
-=======
+# Torula maculans Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Torula maculans var. maculans
+Torula maculans Cooke
 
 ### Remarks
 null

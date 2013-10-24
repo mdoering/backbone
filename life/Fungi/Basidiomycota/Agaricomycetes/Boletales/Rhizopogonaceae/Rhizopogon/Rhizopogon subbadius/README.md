@@ -1,5 +1,4 @@
-Rhizopogon subbadius A.H. Sm. SPECIES
-=======
+# Rhizopogon subbadius A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

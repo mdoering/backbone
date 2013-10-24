@@ -1,5 +1,4 @@
-Trametes hololeuca (Kalchbr.) G. Cunn. SPECIES
-=======
+# Trametes hololeuca (Kalchbr.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

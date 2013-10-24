@@ -1,5 +1,4 @@
-Aphanopeltis lasianthi Hansf. SPECIES
-=======
+# Aphanopeltis lasianthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina weinmanniae Syd. SPECIES
-=======
+# Asterina weinmanniae Syd. SPECIES
 
 #### Status
 ACCEPTED

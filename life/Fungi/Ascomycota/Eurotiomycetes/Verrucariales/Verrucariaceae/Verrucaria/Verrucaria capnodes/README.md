@@ -1,5 +1,4 @@
-Verrucaria capnodes var. capnodes VARIETY
-=======
+# Verrucaria capnodes Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria capnodes var. capnodes
+Verrucaria capnodes Nyl.
 
 ### Remarks
 null

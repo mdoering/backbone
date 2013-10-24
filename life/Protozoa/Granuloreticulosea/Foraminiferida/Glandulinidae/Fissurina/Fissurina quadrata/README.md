@@ -1,5 +1,4 @@
-Fissurina quadrata SPECIES
-=======
+# Fissurina quadrata SPECIES
 
 #### Status
 ACCEPTED

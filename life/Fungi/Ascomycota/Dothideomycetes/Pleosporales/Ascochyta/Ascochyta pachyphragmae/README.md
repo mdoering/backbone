@@ -1,5 +1,4 @@
-Ascochyta pachyphragmae Lobik SPECIES
-=======
+# Ascochyta pachyphragmae Lobik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudonectria tabacina (Ces.) Petch SPECIES
-=======
+# Pseudonectria tabacina (Ces.) Petch SPECIES
 
 #### Status
 ACCEPTED

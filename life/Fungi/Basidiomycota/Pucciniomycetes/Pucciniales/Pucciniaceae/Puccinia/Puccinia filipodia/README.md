@@ -1,5 +1,4 @@
-Puccinia filipodia Cummins SPECIES
-=======
+# Puccinia filipodia Cummins SPECIES
 
 #### Status
 ACCEPTED

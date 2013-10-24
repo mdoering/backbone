@@ -1,5 +1,4 @@
-Heterochona peregra Jankowski, 1973 SPECIES
-=======
+# Heterochona peregra Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

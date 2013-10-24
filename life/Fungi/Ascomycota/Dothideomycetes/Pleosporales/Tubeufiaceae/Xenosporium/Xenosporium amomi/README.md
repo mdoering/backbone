@@ -1,5 +1,4 @@
-Xenosporium amomi Bussaban SPECIES
-=======
+# Xenosporium amomi Bussaban SPECIES
 
 #### Status
 ACCEPTED

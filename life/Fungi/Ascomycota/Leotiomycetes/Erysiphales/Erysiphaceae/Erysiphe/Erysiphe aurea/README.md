@@ -1,5 +1,4 @@
-Erysiphe aurea R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe aurea R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

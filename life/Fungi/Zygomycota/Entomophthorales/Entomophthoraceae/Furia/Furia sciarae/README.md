@@ -1,14 +1,13 @@
-Pandora sciarae (Olive) S. Keller, 2007 SPECIES
-=======
+# Furia sciarae (Olive) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 59(1): 104 (2007)
+Mycotaxon 34(2): 451 (1989)
 
 #### Original name
 Empusa sciarae Olive, 1906

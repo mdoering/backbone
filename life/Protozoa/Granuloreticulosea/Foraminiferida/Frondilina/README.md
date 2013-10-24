@@ -1,5 +1,4 @@
-Frondilina Bykova, 1952 GENUS
-=======
+# Frondilina Bykova, 1952 GENUS
 
 #### Status
 ACCEPTED

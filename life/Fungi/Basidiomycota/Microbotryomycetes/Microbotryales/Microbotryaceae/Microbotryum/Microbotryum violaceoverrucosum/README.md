@@ -1,14 +1,13 @@
-Ustilago violaceoverrucosa Brandenb. & Schwinn, 1974 SPECIES
-=======
+# Microbotryum violaceoverrucosum (Brandenb. & Schwinn) Vánky, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 22(3-4): 883 (1974)
+Mycotaxon 33: 372 (1988)
 
 #### Original name
 Ustilago violaceoverrucosa Brandenb. & Schwinn, 1974

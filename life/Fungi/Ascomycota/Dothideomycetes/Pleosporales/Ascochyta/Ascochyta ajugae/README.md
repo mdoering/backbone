@@ -1,5 +1,4 @@
-Ascochyta ajugae J. Bég. & Chevassut SPECIES
-=======
+# Ascochyta ajugae J. Bég. & Chevassut SPECIES
 
 #### Status
 ACCEPTED

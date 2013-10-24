@@ -1,5 +1,4 @@
-Lecidea athallina (Hepp) SPECIES
-=======
+# Lecidea athallina (Hepp) SPECIES
 
 #### Status
 ACCEPTED

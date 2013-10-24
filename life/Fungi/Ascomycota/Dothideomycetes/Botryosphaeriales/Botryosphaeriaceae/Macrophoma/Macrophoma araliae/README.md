@@ -1,5 +1,4 @@
-Macrophoma araliae Sacc. & Berl. SPECIES
-=======
+# Macrophoma araliae Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

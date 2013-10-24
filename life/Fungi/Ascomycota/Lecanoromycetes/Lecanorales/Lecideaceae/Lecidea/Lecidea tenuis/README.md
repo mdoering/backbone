@@ -1,5 +1,4 @@
-Lecidea tenuis Müll. Arg. SPECIES
-=======
+# Lecidea tenuis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

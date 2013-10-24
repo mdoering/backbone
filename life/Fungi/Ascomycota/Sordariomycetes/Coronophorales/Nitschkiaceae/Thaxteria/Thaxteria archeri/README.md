@@ -1,5 +1,4 @@
-Thaxteria archeri (Berk.) Hansf. SPECIES
-=======
+# Thaxteria archeri (Berk.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

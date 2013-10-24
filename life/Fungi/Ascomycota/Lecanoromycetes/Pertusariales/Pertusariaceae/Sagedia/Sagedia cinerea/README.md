@@ -1,5 +1,4 @@
-Sagedia cinerea Fr. SPECIES
-=======
+# Sagedia cinerea Fr. SPECIES
 
 #### Status
 ACCEPTED

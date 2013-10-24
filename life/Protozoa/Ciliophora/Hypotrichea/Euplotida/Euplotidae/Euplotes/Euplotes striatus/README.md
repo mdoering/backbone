@@ -1,5 +1,4 @@
-Euplotes striatus Ehrenberg, 1838 SPECIES
-=======
+# Euplotes striatus Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

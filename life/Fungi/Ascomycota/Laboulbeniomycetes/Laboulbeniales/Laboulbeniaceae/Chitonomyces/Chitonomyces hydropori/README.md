@@ -1,5 +1,4 @@
-Chitonomyces hydropori Thaxt. SPECIES
-=======
+# Chitonomyces hydropori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

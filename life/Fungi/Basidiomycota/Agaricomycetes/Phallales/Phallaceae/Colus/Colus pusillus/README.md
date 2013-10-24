@@ -1,5 +1,4 @@
-Colus pusillus (Berk.) Reichert SPECIES
-=======
+# Colus pusillus (Berk.) Reichert SPECIES
 
 #### Status
 ACCEPTED

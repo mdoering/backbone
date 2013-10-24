@@ -1,5 +1,4 @@
-Phaeoisariopsis cryptostegiae H.C. Evans & Punith. SPECIES
-=======
+# Phaeoisariopsis cryptostegiae H.C. Evans & Punith. SPECIES
 
 #### Status
 ACCEPTED

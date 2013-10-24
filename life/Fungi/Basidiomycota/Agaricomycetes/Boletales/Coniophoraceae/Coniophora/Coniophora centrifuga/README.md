@@ -1,5 +1,4 @@
-Coniophora centrifuga (Weinm.) Fr. SPECIES
-=======
+# Coniophora centrifuga (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

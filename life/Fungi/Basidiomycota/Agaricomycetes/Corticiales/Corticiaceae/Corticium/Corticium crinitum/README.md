@@ -1,5 +1,4 @@
-Corticium crinitum (Fr.) Fr. SPECIES
-=======
+# Corticium crinitum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

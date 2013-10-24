@@ -1,5 +1,4 @@
-Ustalia pyrrhochroa Mont. & Bosch SPECIES
-=======
+# Ustalia pyrrhochroa Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

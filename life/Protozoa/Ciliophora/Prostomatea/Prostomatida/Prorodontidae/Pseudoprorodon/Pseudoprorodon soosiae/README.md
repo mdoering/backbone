@@ -1,5 +1,4 @@
-Pseudoprorodon soosiae SPECIES
-=======
+# Pseudoprorodon soosiae SPECIES
 
 #### Status
 ACCEPTED

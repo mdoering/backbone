@@ -1,5 +1,4 @@
-Rhodocybe naucoria Singer SPECIES
-=======
+# Rhodocybe naucoria Singer SPECIES
 
 #### Status
 ACCEPTED

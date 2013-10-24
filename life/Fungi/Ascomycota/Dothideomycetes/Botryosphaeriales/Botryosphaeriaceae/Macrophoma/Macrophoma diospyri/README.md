@@ -1,5 +1,4 @@
-Macrophoma diospyri Earle SPECIES
-=======
+# Macrophoma diospyri Earle SPECIES
 
 #### Status
 ACCEPTED

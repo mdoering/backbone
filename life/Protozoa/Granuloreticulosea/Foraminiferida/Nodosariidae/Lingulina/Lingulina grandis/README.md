@@ -1,5 +1,4 @@
-Lingulina grandis Cushman, 1917 SPECIES
-=======
+# Lingulina grandis Cushman, 1917 SPECIES
 
 #### Status
 ACCEPTED

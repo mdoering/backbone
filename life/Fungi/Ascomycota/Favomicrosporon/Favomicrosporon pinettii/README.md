@@ -1,5 +1,4 @@
-Favomicrosporon pinettii Benedek, 1967 SPECIES
-=======
+# Favomicrosporon pinettii Benedek, 1967 SPECIES
 
 #### Status
 ACCEPTED

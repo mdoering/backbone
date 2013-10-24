@@ -1,5 +1,4 @@
-Crinolina aperta (Leadbeater) Thomsen, 1976 SPECIES
-=======
+# Crinolina aperta (Leadbeater) Thomsen, 1976 SPECIES
 
 #### Status
 ACCEPTED

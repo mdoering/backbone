@@ -1,5 +1,4 @@
-Gloeochloris A. Pascher, 1932 GENUS
-=======
+# Gloeochloris A. Pascher, 1932 GENUS
 
 #### Status
 ACCEPTED

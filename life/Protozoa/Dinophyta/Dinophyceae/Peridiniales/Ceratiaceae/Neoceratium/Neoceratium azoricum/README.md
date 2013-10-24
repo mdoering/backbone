@@ -1,5 +1,4 @@
-Neoceratium azoricum (Cleve) F.Gómez, D.Moreira & P.López-Garcia, 2001 SPECIES
-=======
+# Neoceratium azoricum (Cleve) F.Gómez, D.Moreira & P.López-Garcia, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guanduella Bronniman & Zaninetti, 1984 GENUS
-=======
+# Guanduella Bronniman & Zaninetti, 1984 GENUS
 
 #### Status
 ACCEPTED

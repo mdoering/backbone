@@ -1,5 +1,4 @@
-Agaricus guidottii (Mattir.) E. Castell. & Cif. SPECIES
-=======
+# Agaricus guidottii (Mattir.) E. Castell. & Cif. SPECIES
 
 #### Status
 ACCEPTED

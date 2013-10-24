@@ -1,5 +1,4 @@
-Plenodomus wallnerianus (Allesch.) Bubák SPECIES
-=======
+# Plenodomus wallnerianus (Allesch.) Bubák SPECIES
 
 #### Status
 ACCEPTED

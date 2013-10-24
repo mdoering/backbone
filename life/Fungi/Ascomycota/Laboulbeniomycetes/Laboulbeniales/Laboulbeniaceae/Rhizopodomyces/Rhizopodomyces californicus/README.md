@@ -1,5 +1,4 @@
-Rhizopodomyces californicus R.K. Benj. SPECIES
-=======
+# Rhizopodomyces californicus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

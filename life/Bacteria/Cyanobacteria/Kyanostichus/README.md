@@ -1,5 +1,4 @@
-Kyanostichus M.A. Romanov, 1964 GENUS
-=======
+# Kyanostichus M.A. Romanov, 1964 GENUS
 
 #### Status
 ACCEPTED

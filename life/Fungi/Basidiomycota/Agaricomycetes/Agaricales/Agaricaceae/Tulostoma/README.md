@@ -1,17 +1,16 @@
-Tulasnodea Fr. GENUS
-=======
+# Tulostoma Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 440 (1849)
+Neues Mag. Bot. 1: 86 (1794)
 
 #### Original name
-Tulasnodea Fr.
+Tulostoma Persoon, 1794
 
 ### Remarks
 null

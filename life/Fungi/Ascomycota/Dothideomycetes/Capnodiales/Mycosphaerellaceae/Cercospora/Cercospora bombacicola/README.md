@@ -1,5 +1,4 @@
-Cercospora bombacicola Munjal, Lall & Chona SPECIES
-=======
+# Cercospora bombacicola Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

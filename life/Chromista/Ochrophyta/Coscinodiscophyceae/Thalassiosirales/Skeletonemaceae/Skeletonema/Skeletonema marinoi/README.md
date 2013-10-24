@@ -1,5 +1,4 @@
-Skeletonema marinoi Sarno & Zingone, 2005 SPECIES
-=======
+# Skeletonema marinoi Sarno & Zingone, 2005 SPECIES
 
 #### Status
 ACCEPTED

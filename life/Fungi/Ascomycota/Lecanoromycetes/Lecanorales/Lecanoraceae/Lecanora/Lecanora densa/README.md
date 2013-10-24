@@ -1,5 +1,4 @@
-Lecanora densa (Sliwa & Wetmore) Printzen SPECIES
-=======
+# Lecanora densa (Sliwa & Wetmore) Printzen SPECIES
 
 #### Status
 ACCEPTED

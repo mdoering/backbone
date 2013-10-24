@@ -1,5 +1,4 @@
-Leptogium incavatum Szatala SPECIES
-=======
+# Leptogium incavatum Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum chlorelligerum SPECIES
-=======
+# Loxophyllum chlorelligerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeoconis cinnamomea Thüm. & P.C. Bolle SPECIES
-=======
+# Phloeoconis cinnamomea Thüm. & P.C. Bolle SPECIES
 
 #### Status
 ACCEPTED

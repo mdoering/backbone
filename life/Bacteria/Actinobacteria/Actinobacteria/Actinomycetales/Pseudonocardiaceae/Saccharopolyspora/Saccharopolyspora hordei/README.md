@@ -1,5 +1,4 @@
-Saccharopolyspora hordei Goodfellow et al., 1989 SPECIES
-=======
+# Saccharopolyspora hordei Goodfellow et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

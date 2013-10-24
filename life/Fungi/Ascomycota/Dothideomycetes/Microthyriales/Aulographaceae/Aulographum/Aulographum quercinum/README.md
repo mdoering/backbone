@@ -1,5 +1,4 @@
-Aulographum quercinum Ellis & G. Martin SPECIES
-=======
+# Aulographum quercinum Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

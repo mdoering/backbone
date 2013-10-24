@@ -1,5 +1,4 @@
-Rosellinia magellanica Speg. SPECIES
-=======
+# Rosellinia magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

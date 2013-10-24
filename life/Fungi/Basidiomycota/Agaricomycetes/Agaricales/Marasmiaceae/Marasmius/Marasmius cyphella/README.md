@@ -1,5 +1,4 @@
-Marasmius cyphella Dennis & D.A. Reid SPECIES
-=======
+# Marasmius cyphella Dennis & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena aeruginosa Beeli SPECIES
-=======
+# Mycena aeruginosa Beeli SPECIES
 
 #### Status
 ACCEPTED

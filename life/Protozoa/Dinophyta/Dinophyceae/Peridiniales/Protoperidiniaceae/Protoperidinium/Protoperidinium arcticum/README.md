@@ -1,5 +1,4 @@
-Protoperidinium arcticum (Grøntved & Seidenfaden, 1938) Okolodkov, 1997 SPECIES
-=======
+# Protoperidinium arcticum (Grøntved & Seidenfaden, 1938) Okolodkov, 1997 SPECIES
 
 #### Status
 ACCEPTED

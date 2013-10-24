@@ -1,14 +1,13 @@
-Hypoderma seriatum (Lib.) Kuntze, 1898 SPECIES
-=======
+# Lophodermium seriatum (Lib.) De Not., 1847 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+G. bot. ital. 2(7-8): 47 (1847)
 
 #### Original name
 Hysterium seriatum Lib., 1834

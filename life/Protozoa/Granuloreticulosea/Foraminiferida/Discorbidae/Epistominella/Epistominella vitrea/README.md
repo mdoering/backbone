@@ -1,5 +1,4 @@
-Epistominella vitrea SPECIES
-=======
+# Epistominella vitrea SPECIES
 
 #### Status
 ACCEPTED

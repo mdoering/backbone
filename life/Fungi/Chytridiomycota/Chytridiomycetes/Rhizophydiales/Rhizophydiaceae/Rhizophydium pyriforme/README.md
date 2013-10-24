@@ -1,5 +1,4 @@
-Rhizophydium pyriforme Valkanov SPECIES
-=======
+# Rhizophydium pyriforme Valkanov SPECIES
 
 #### Status
 ACCEPTED

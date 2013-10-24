@@ -1,5 +1,4 @@
-Axisporonites Kalgutkar & Janson. GENUS
-=======
+# Axisporonites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Liulaobeisphaera densa Yang Qinghe et al., 1980 SPECIES
-=======
+# Liulaobeisphaera densa Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

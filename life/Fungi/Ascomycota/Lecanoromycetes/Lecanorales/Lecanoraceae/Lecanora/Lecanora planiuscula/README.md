@@ -1,5 +1,4 @@
-Lecanora planiuscula H. Magn. SPECIES
-=======
+# Lecanora planiuscula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

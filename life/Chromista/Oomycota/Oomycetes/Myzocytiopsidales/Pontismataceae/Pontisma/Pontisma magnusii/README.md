@@ -1,14 +1,13 @@
-Olpidiopsis magnusii Feldmann & Feldm.-Maz., 1955 SPECIES
-=======
+# Pontisma magnusii (Feldmann & Feldm.-Maz.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 20: 243 (1955)
+Straminipilous Fungi (Dordrecht) 363 (2001)
 
 #### Original name
 Olpidiopsis magnusii Feldmann & Feldm.-Maz., 1955

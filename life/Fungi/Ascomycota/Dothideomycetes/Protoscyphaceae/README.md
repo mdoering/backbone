@@ -1,5 +1,4 @@
-Protoscyphaceae Kutorga & D. Hawksw. FAMILY
-=======
+# Protoscyphaceae Kutorga & D. Hawksw. FAMILY
 
 #### Status
 ACCEPTED

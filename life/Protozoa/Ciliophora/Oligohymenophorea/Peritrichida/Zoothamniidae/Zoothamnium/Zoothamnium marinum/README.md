@@ -1,5 +1,4 @@
-Zoothamnium marinum Mereschkowski, 1879 SPECIES
-=======
+# Zoothamnium marinum Mereschkowski, 1879 SPECIES
 
 #### Status
 ACCEPTED

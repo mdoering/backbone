@@ -1,5 +1,4 @@
-Uredo inulae-candidae Trotter SPECIES
-=======
+# Uredo inulae-candidae Trotter SPECIES
 
 #### Status
 ACCEPTED

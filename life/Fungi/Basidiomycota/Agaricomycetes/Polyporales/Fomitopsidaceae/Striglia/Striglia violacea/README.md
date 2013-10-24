@@ -1,5 +1,4 @@
-Striglia violacea (Lév.) Kuntze SPECIES
-=======
+# Striglia violacea (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosalina concinna SPECIES
-=======
+# Rosalina concinna SPECIES
 
 #### Status
 ACCEPTED

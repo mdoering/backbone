@@ -1,5 +1,4 @@
-Trachelomonas olla Conrad SPECIES
-=======
+# Trachelomonas olla Conrad SPECIES
 
 #### Status
 ACCEPTED

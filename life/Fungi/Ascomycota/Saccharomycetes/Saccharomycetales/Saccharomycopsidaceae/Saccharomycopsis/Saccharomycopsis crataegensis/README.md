@@ -1,5 +1,4 @@
-Saccharomycopsis crataegensis Kurtzman & Wick., 1973 SPECIES
-=======
+# Saccharomycopsis crataegensis Kurtzman & Wick., 1973 SPECIES
 
 #### Status
 ACCEPTED

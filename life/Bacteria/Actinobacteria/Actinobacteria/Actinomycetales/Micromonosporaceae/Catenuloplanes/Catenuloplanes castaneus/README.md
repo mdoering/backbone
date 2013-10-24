@@ -1,5 +1,4 @@
-Catenuloplanes castaneus Tamura et al., 1995 SPECIES
-=======
+# Catenuloplanes castaneus Tamura et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

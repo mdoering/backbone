@@ -1,5 +1,4 @@
-Nectria astromata Rossman SPECIES
-=======
+# Nectria astromata Rossman SPECIES
 
 #### Status
 ACCEPTED

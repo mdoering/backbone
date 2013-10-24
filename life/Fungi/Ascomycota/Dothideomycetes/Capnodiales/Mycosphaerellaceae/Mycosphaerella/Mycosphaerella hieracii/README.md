@@ -1,14 +1,13 @@
-Ramularisphaerella hieracii (Sacc. & Briard) Kleb., 1918 SPECIES
-=======
+# Mycosphaerella hieracii (Sacc. & Briard) Jaap, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Haupt- und Nebenfruchtformen der Ascomyzeten (Leipzig) (1918)
+Verh. bot. Ver. Prov. Brandenb. 50: 36 (1908)
 
 #### Original name
 Sphaerella hieracii Cooke & Massee, 1887

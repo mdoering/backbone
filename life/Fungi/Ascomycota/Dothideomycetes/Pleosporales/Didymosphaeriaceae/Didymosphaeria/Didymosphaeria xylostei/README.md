@@ -1,5 +1,4 @@
-Didymosphaeria xylostei Fuckel SPECIES
-=======
+# Didymosphaeria xylostei Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corrugaria alba Dennis SPECIES
-=======
+# Corrugaria alba Dennis SPECIES
 
 #### Status
 ACCEPTED

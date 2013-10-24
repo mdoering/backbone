@@ -1,14 +1,13 @@
-Stagonospora sanstedeana Keissl. SPECIES
-=======
+# Keissleriomyces sandstedeanus (Keissl.) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 25 (1981)
 
 #### Original name
 Stagonospora sanstedeana Keissl.

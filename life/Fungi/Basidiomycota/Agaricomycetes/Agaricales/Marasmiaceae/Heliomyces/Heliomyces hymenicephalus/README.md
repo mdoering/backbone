@@ -1,5 +1,4 @@
-Heliomyces hymenicephalus (Speg.) Speg. SPECIES
-=======
+# Heliomyces hymenicephalus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

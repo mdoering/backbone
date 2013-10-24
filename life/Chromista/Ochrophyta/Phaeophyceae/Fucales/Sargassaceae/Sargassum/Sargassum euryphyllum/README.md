@@ -1,8 +1,7 @@
-Sargassum ilicifolium var. euryphylla Grunow VARIETY
-=======
+# Sargassum euryphyllum (Grunow) Tseng & Lu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

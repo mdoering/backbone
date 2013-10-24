@@ -1,5 +1,4 @@
-Psathyrella sphaerocystis P.D. Orton, 1964 SPECIES
-=======
+# Psathyrella sphaerocystis P.D. Orton, 1964 SPECIES
 
 #### Status
 ACCEPTED

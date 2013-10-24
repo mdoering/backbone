@@ -1,5 +1,4 @@
-Herpomyces paranensis Thaxt. SPECIES
-=======
+# Herpomyces paranensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

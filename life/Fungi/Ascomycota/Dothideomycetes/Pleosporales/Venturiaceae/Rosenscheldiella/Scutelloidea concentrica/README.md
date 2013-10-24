@@ -1,5 +1,4 @@
-Scutelloidea concentrica Tim SPECIES
-=======
+# Scutelloidea concentrica Tim SPECIES
 
 #### Status
 ACCEPTED

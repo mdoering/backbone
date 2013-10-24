@@ -1,5 +1,4 @@
-Chroococcus mediocris Gardner SPECIES
-=======
+# Chroococcus mediocris Gardner SPECIES
 
 #### Status
 ACCEPTED

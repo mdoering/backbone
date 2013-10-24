@@ -1,5 +1,4 @@
-Dictyocha rhombus Haeckel SPECIES
-=======
+# Dictyocha rhombus Haeckel SPECIES
 
 #### Status
 ACCEPTED

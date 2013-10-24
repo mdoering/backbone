@@ -1,5 +1,4 @@
-Lactarius subvellereus var. subvellereus VARIETY
-=======
+# Lactarius subvellereus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Torrey bot. Club 25: 369 (1898)
 
 #### Original name
-Lactarius subvellereus var. subvellereus
+Lactarius subvellereus Peck
 
 ### Remarks
 null

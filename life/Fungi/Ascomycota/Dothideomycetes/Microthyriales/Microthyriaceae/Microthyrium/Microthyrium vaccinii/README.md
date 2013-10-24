@@ -1,5 +1,4 @@
-Microthyrium vaccinii De Not. SPECIES
-=======
+# Microthyrium vaccinii De Not. SPECIES
 
 #### Status
 ACCEPTED

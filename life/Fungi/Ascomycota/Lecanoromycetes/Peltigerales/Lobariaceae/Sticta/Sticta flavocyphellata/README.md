@@ -1,5 +1,4 @@
-Sticta flavocyphellata D.J. Galloway SPECIES
-=======
+# Sticta flavocyphellata D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

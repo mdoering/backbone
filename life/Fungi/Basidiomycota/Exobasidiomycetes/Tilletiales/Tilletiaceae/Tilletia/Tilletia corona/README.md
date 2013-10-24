@@ -1,5 +1,4 @@
-Tilletia corona Scribn. SPECIES
-=======
+# Tilletia corona Scribn. SPECIES
 
 #### Status
 ACCEPTED

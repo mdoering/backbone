@@ -1,17 +1,16 @@
-Cercospora canadensis A.B. Frank SPECIES
-=======
+# Cercosporella virgaureae (Thüm.) Allesch., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 34: 286 (1895)
 
 #### Original name
-null
+Ramularia virgaureae Thüm., 1874
 
 ### Remarks
 null

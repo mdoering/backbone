@@ -1,5 +1,4 @@
-Menegazzia monospora Bjerke & Sipman SPECIES
-=======
+# Menegazzia monospora Bjerke & Sipman SPECIES
 
 #### Status
 ACCEPTED

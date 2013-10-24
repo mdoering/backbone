@@ -1,5 +1,4 @@
-Amphoridium caesiopsilum Arnold SPECIES
-=======
+# Amphoridium caesiopsilum Arnold SPECIES
 
 #### Status
 ACCEPTED

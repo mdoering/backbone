@@ -1,5 +1,4 @@
-Peziza clavariarum (Desm.) SPECIES
-=======
+# Peziza clavariarum (Desm.) SPECIES
 
 #### Status
 ACCEPTED

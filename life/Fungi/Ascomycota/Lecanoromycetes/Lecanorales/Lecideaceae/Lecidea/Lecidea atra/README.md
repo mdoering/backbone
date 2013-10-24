@@ -1,5 +1,4 @@
-Lecidea atra subsp. atra SUBSPECIES
-=======
+# Lecidea atra Clemente SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea atra subsp. atra
+Lecidea atra Clemente
 
 ### Remarks
 null

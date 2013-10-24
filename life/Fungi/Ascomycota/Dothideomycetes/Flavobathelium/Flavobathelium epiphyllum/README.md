@@ -1,5 +1,4 @@
-Flavobathelium epiphyllum Lücking, Aptroot & G. Thor, 1997 SPECIES
-=======
+# Flavobathelium epiphyllum Lücking, Aptroot & G. Thor, 1997 SPECIES
 
 #### Status
 ACCEPTED

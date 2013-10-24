@@ -1,5 +1,4 @@
-Sporisorium punctatum (L. Ling) Vánky SPECIES
-=======
+# Sporisorium punctatum (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

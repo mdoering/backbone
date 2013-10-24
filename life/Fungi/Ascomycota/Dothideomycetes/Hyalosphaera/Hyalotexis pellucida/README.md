@@ -1,5 +1,4 @@
-Hyalotexis pellucida Syd. SPECIES
-=======
+# Hyalotexis pellucida Syd. SPECIES
 
 #### Status
 ACCEPTED

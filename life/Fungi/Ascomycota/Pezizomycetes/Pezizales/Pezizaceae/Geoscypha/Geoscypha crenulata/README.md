@@ -1,5 +1,4 @@
-Geoscypha crenulata (Berk. & Broome) Lloyd SPECIES
-=======
+# Geoscypha crenulata (Berk. & Broome) Lloyd SPECIES
 
 #### Status
 ACCEPTED

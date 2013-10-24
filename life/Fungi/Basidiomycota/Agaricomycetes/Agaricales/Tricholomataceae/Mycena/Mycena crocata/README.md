@@ -1,5 +1,4 @@
-Mycena crocata (Schrad. Fr.) P. Kumm. SPECIES
-=======
+# Mycena crocata (Schrad. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

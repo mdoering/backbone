@@ -1,5 +1,4 @@
-Microsphaeropsis hakeae (Bond.-Mont.) Vanev & Aa SPECIES
-=======
+# Microsphaeropsis hakeae (Bond.-Mont.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

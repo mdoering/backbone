@@ -1,5 +1,4 @@
-Stagonospora alstoniae D.V. Singh & B.M. Khanna {?} SPECIES
-=======
+# Stagonospora alstoniae D.V. Singh & B.M. Khanna {?} SPECIES
 
 #### Status
 ACCEPTED

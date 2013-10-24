@@ -1,5 +1,4 @@
-Lecidea pertusariicola Jatta SPECIES
-=======
+# Lecidea pertusariicola Jatta SPECIES
 
 #### Status
 ACCEPTED

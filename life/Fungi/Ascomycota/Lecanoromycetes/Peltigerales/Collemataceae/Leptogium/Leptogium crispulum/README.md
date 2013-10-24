@@ -1,5 +1,4 @@
-Leptogium crispulum Kremp. SPECIES
-=======
+# Leptogium crispulum Kremp. SPECIES
 
 #### Status
 ACCEPTED

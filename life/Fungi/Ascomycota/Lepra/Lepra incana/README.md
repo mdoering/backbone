@@ -1,5 +1,4 @@
-Lepra incana (L.) F.H. Wigg. SPECIES
-=======
+# Lepra incana (L.) F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

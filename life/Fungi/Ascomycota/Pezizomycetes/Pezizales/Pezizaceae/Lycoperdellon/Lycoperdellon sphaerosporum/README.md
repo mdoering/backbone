@@ -1,5 +1,4 @@
-Lycoperdellon sphaerosporum Dissing & M. Lange SPECIES
-=======
+# Lycoperdellon sphaerosporum Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

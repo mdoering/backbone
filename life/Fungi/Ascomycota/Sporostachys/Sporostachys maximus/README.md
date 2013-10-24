@@ -1,17 +1,16 @@
-Sporostachys maxima Sacc. SPECIES
-=======
+# Sporostachys maximus Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Accad. Sci. Ven. -Trent. -Istr. 10: 92 (1917)
 
 #### Original name
-Sporostachys maxima Sacc.
+Sporostachys maximus Sacc.
 
 ### Remarks
 null

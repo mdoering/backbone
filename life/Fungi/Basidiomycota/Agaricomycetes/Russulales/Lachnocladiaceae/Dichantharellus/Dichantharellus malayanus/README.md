@@ -1,5 +1,4 @@
-Dichantharellus malayanus Corner, 1966 SPECIES
-=======
+# Dichantharellus malayanus Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

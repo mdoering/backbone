@@ -1,17 +1,16 @@
-Kneiffiella byssoidea (H. Furuk.) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia byssoidea (H. Furuk.) N. Maek., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 31: 12 (1993)
 
 #### Original name
-null
+Odontia byssoidea H. Furuk., 1974
 
 ### Remarks
 null

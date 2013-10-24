@@ -1,5 +1,4 @@
-Meandropsina Munier-Chalmas, 1898 GENUS
-=======
+# Meandropsina Munier-Chalmas, 1898 GENUS
 
 #### Status
 ACCEPTED

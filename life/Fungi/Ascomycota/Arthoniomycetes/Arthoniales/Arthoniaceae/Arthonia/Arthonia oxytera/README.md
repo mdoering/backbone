@@ -1,5 +1,4 @@
-Arthonia oxytera Nyl. SPECIES
-=======
+# Arthonia oxytera Nyl. SPECIES
 
 #### Status
 ACCEPTED

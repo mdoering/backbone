@@ -1,5 +1,4 @@
-Blitridium megalosporum Clem. SPECIES
-=======
+# Blitridium megalosporum Clem. SPECIES
 
 #### Status
 ACCEPTED

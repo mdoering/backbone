@@ -1,5 +1,4 @@
-Lecanidiella contortae Sherwood, 1986 SPECIES
-=======
+# Lecanidiella contortae Sherwood, 1986 SPECIES
 
 #### Status
 ACCEPTED

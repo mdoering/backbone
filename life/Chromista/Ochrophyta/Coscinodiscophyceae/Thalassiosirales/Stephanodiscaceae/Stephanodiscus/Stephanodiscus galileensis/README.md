@@ -1,5 +1,4 @@
-Stephanodiscus galileensis Håk. & Ehrlich SPECIES
-=======
+# Stephanodiscus galileensis Håk. & Ehrlich SPECIES
 
 #### Status
 ACCEPTED

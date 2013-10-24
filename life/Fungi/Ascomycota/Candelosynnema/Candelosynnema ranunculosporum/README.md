@@ -1,5 +1,4 @@
-Candelosynnema ranunculosporum K.D. Hyde & Seifert, 1992 SPECIES
-=======
+# Candelosynnema ranunculosporum K.D. Hyde & Seifert, 1992 SPECIES
 
 #### Status
 ACCEPTED

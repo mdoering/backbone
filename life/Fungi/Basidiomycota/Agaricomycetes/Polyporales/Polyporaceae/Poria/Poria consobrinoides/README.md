@@ -1,5 +1,4 @@
-Poria consobrinoides Pilát SPECIES
-=======
+# Poria consobrinoides Pilát SPECIES
 
 #### Status
 ACCEPTED

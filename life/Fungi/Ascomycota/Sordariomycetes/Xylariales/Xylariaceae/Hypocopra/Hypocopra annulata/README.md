@@ -1,5 +1,4 @@
-Hypocopra annulata J.C. Krug & Cain SPECIES
-=======
+# Hypocopra annulata J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

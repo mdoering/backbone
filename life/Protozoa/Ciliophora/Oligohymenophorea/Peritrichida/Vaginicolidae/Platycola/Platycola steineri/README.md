@@ -1,5 +1,4 @@
-Platycola steineri (Penard, 1914) Kahl, 1935 SPECIES
-=======
+# Platycola steineri (Penard, 1914) Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola ficium var. ficium VARIETY
-=======
+# Meliola ficium H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola ficium var. ficium
+Meliola ficium H.S. Yates
 
 ### Remarks
 null

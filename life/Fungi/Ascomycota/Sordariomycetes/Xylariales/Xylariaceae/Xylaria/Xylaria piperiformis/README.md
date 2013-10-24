@@ -1,5 +1,4 @@
-Xylaria piperiformis Berk. SPECIES
-=======
+# Xylaria piperiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

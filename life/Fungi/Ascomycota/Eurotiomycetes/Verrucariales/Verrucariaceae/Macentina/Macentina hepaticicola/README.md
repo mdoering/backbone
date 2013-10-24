@@ -1,17 +1,16 @@
-Macentina hepaticola Döbbeler & Vezda SPECIES
-=======
+# Macentina hepaticicola Döbbeler & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 18: 2 (1982)
 
 #### Original name
-Macentina hepaticola Döbbeler & Vezda
+Macentina hepaticicola Döbbeler & Vezda
 
 ### Remarks
 null

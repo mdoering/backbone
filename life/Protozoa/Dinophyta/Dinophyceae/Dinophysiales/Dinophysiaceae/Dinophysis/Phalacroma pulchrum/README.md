@@ -1,5 +1,4 @@
-Phalacroma pulchrum Kofoid & Michener, 1911 SPECIES
-=======
+# Phalacroma pulchrum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 DOUBTFUL

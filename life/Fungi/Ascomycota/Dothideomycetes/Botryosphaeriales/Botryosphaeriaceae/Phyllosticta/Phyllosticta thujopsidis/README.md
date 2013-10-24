@@ -1,5 +1,4 @@
-Phyllosticta thujopsidis Sawada SPECIES
-=======
+# Phyllosticta thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

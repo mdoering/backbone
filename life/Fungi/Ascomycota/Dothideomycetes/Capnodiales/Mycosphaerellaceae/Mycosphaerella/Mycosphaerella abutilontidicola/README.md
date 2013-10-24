@@ -1,5 +1,4 @@
-Mycosphaerella abutilontidicola Miura SPECIES
-=======
+# Mycosphaerella abutilontidicola Miura SPECIES
 
 #### Status
 ACCEPTED

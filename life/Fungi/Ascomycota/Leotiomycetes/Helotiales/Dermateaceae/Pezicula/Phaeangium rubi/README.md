@@ -1,5 +1,4 @@
-Phaeangium rubi (Bäumler) Sacc. & P. Syd. SPECIES
-=======
+# Phaeangium rubi (Bäumler) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

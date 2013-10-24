@@ -1,5 +1,4 @@
-Microthyriacites cephalotaxi (Krassilov) Kalgutkar & Janson. SPECIES
-=======
+# Microthyriacites cephalotaxi (Krassilov) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

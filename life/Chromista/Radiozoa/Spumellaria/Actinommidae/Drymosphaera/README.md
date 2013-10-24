@@ -1,5 +1,4 @@
-Drymosphaera Haeckel, 1881 GENUS
-=======
+# Drymosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

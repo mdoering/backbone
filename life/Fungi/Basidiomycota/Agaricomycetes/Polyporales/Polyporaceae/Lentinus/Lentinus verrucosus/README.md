@@ -1,5 +1,4 @@
-Lentinus verrucosus (J. Kickx f.) Sacc. SPECIES
-=======
+# Lentinus verrucosus (J. Kickx f.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

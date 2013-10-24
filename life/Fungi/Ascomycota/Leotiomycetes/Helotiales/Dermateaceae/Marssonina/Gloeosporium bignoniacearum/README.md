@@ -1,5 +1,4 @@
-Gloeosporium bignoniacearum Speg. SPECIES
-=======
+# Gloeosporium bignoniacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

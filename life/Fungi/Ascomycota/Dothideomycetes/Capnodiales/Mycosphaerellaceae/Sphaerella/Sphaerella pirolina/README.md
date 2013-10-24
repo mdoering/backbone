@@ -1,5 +1,4 @@
-Sphaerella pirolina (Kirschst.) Kirschst. SPECIES
-=======
+# Sphaerella pirolina (Kirschst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus microthecius Samson & W. Gams SPECIES
-=======
+# Aspergillus microthecius Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

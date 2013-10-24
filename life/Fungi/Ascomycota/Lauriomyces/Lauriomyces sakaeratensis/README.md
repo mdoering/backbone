@@ -1,5 +1,4 @@
-Lauriomyces sakaeratensis Somrith., Kosol & E.B.G. Jones SPECIES
-=======
+# Lauriomyces sakaeratensis Somrith., Kosol & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

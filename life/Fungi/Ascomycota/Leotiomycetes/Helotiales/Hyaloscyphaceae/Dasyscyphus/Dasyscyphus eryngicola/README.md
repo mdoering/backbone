@@ -1,8 +1,7 @@
-Dasyscypha eryngiicola Ellis & Everh. SPECIES
-=======
+# Dasyscyphus eryngicola Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha eryngiicola Ellis & Everh.
+Dasyscyphus eryngicola Ellis & Everh.
 
 ### Remarks
 null

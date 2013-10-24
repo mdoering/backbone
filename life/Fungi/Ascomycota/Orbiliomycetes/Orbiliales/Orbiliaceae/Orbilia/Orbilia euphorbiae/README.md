@@ -1,5 +1,4 @@
-Orbilia euphorbiae (Henn.) Svrcek SPECIES
-=======
+# Orbilia euphorbiae (Henn.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

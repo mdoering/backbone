@@ -1,5 +1,4 @@
-Culicospora magna (R. Kudo, 1920) J. Weiser SPECIES
-=======
+# Culicospora magna (R. Kudo, 1920) J. Weiser SPECIES
 
 #### Status
 ACCEPTED

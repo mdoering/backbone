@@ -1,5 +1,4 @@
-Ustilago epicampida Zundel SPECIES
-=======
+# Ustilago epicampida Zundel SPECIES
 
 #### Status
 ACCEPTED

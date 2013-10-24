@@ -1,5 +1,4 @@
-Cladochytrium alsimatis SPECIES
-=======
+# Cladochytrium alsimatis SPECIES
 
 #### Status
 ACCEPTED

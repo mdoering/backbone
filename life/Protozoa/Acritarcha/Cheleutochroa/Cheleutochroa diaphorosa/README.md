@@ -1,5 +1,4 @@
-Cheleutochroa diaphorosa Turner, 1984 SPECIES
-=======
+# Cheleutochroa diaphorosa Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

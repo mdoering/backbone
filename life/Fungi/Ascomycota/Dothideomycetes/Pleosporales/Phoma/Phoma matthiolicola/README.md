@@ -1,5 +1,4 @@
-Phoma matthiolicola Brunaud SPECIES
-=======
+# Phoma matthiolicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

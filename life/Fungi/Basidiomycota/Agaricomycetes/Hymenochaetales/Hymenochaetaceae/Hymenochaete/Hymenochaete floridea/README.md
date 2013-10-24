@@ -1,5 +1,4 @@
-Hymenochaete floridea Berk. & Broome, 1875 SPECIES
-=======
+# Hymenochaete floridea Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

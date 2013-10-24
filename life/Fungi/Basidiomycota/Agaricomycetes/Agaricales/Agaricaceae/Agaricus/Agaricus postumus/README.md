@@ -1,5 +1,4 @@
-Agaricus postumus Britzelm. SPECIES
-=======
+# Agaricus postumus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

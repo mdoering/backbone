@@ -1,5 +1,4 @@
-Botryohypoxylon amazonense Samuels & J.D. Rogers, 1986 SPECIES
-=======
+# Botryohypoxylon amazonense Samuels & J.D. Rogers, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormisciopsis gelatinosa Sumst., 1914 SPECIES
-=======
+# Hormisciopsis gelatinosa Sumst., 1914 SPECIES
 
 #### Status
 ACCEPTED

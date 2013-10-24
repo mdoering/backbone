@@ -1,5 +1,4 @@
-Peziza spiralis (Hazsl.) Sacc. & Traverso SPECIES
-=======
+# Peziza spiralis (Hazsl.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

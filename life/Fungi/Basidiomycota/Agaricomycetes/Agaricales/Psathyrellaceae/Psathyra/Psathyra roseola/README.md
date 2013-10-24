@@ -1,5 +1,4 @@
-Psathyra roseola Clem. SPECIES
-=======
+# Psathyra roseola Clem. SPECIES
 
 #### Status
 ACCEPTED

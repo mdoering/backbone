@@ -1,5 +1,4 @@
-Ceratoporthe didymospora Petr., 1925 SPECIES
-=======
+# Ceratoporthe didymospora Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

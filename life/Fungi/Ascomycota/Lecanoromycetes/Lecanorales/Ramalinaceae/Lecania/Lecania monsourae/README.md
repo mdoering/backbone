@@ -1,5 +1,4 @@
-Lecania monsourae SPECIES
-=======
+# Lecania monsourae SPECIES
 
 #### Status
 ACCEPTED

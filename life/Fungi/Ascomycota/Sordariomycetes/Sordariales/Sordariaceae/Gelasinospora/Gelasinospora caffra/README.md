@@ -1,17 +1,16 @@
-Gelasinospora caffera Matsush. SPECIES
-=======
+# Gelasinospora caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 11 (1996)
 
 #### Original name
-Gelasinospora caffera Matsush.
+Gelasinospora caffra Matsush.
 
 ### Remarks
 null

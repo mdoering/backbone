@@ -1,5 +1,4 @@
-Uredo carpini Desm. SPECIES
-=======
+# Uredo carpini Desm. SPECIES
 
 #### Status
 ACCEPTED

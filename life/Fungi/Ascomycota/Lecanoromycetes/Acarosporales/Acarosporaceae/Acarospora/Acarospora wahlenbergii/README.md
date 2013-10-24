@@ -1,5 +1,4 @@
-Acarospora wahlenbergii H. Magn. SPECIES
-=======
+# Acarospora wahlenbergii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

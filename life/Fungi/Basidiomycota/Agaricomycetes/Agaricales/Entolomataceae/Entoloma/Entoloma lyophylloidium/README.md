@@ -1,5 +1,4 @@
-Entoloma lyophylloidium Largent SPECIES
-=======
+# Entoloma lyophylloidium Largent SPECIES
 
 #### Status
 ACCEPTED

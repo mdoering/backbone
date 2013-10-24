@@ -1,5 +1,4 @@
-Schistodeutomeritus Avdeev & Avdeeva, 1989 GENUS
-=======
+# Schistodeutomeritus Avdeev & Avdeeva, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linotolypa sverdrupensis Staplin, 1978 SPECIES
-=======
+# Linotolypa sverdrupensis Staplin, 1978 SPECIES
 
 #### Status
 ACCEPTED

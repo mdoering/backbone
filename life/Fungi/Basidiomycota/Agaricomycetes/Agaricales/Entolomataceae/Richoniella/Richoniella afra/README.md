@@ -1,17 +1,16 @@
-Entoloma afrum (Pegler) Noordel. & Co-David, 2009 SPECIES
-=======
+# Richoniella afra Pegler, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 32(1): 12 (1977)
 
 #### Original name
-null
+Richoniella afra Pegler, 1977
 
 ### Remarks
 null

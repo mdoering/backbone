@@ -1,5 +1,4 @@
-Buttiauxella izardii Müller et al., 1996 SPECIES
-=======
+# Buttiauxella izardii Müller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

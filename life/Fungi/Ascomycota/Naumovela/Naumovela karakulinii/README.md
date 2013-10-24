@@ -1,5 +1,4 @@
-Naumovela karakulinii Kravtzev SPECIES
-=======
+# Naumovela karakulinii Kravtzev SPECIES
 
 #### Status
 ACCEPTED

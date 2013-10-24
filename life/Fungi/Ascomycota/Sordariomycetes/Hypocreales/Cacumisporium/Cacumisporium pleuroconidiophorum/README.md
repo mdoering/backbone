@@ -1,5 +1,4 @@
-Cacumisporium pleuroconidiophorum (Davydkina & Melnik) R.F. Castañeda, Heredia & Iturr. SPECIES
-=======
+# Cacumisporium pleuroconidiophorum (Davydkina & Melnik) R.F. Castañeda, Heredia & Iturr. SPECIES
 
 #### Status
 ACCEPTED

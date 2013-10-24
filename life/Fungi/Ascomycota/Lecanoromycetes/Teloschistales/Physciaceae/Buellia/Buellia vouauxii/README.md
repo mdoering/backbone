@@ -1,5 +1,4 @@
-Buellia vouauxii Calat. & Barreno SPECIES
-=======
+# Buellia vouauxii Calat. & Barreno SPECIES
 
 #### Status
 ACCEPTED

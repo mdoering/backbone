@@ -1,5 +1,4 @@
-Cystotheca vignae M.S. Patil & Maham. SPECIES
-=======
+# Cystotheca vignae M.S. Patil & Maham. SPECIES
 
 #### Status
 ACCEPTED

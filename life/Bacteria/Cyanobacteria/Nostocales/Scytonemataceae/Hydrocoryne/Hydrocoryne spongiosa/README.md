@@ -1,5 +1,4 @@
-Hydrocoryne spongiosa (Schwabe) ex Bornet & Flahault SPECIES
-=======
+# Hydrocoryne spongiosa (Schwabe) ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

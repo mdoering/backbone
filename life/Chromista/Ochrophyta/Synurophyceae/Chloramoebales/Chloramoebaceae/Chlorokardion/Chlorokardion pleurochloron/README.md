@@ -1,5 +1,4 @@
-Chlorokardion pleurochloron Pascher SPECIES
-=======
+# Chlorokardion pleurochloron Pascher SPECIES
 
 #### Status
 ACCEPTED

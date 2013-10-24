@@ -1,5 +1,4 @@
-Diplodia umbellulariae Ellis & Everh. SPECIES
-=======
+# Diplodia umbellulariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

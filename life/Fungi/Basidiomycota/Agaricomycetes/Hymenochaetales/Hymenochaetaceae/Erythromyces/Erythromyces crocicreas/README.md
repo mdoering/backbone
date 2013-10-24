@@ -1,14 +1,13 @@
-Hymenochaete crocicreas Berk. & Broome, 1875 SPECIES
-=======
+# Erythromyces crocicreas (Berk. & Broome) Hjortstam & Ryvarden, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 68 (1875)
+in Hjortstam & Tellería, Mycotaxon 37: 55 (1990)
 
 #### Original name
 Hymenochaete crocicreas Berk. & Broome, 1875

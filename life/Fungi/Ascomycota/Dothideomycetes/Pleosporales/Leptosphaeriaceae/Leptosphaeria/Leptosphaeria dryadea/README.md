@@ -1,5 +1,4 @@
-Leptosphaeria dryadea Sacc. SPECIES
-=======
+# Leptosphaeria dryadea Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homaromyces R.K. Benj. GENUS
-=======
+# Homaromyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

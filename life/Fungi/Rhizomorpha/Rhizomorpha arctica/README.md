@@ -1,5 +1,4 @@
-Rhizomorpha arctica Fuckel SPECIES
-=======
+# Rhizomorpha arctica Fuckel SPECIES
 
 #### Status
 ACCEPTED

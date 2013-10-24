@@ -1,17 +1,16 @@
-Tuburcinia occulta var. occulta VARIETY
-=======
+# Urocystis occulta (Wallr.) Rabenh., 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): 12 (1922)
+Jb. nassau. Ver. Naturk. 23-24: 41 (1870)
 
 #### Original name
-Tuburcinia occulta var. occulta
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca xanthopa (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca xanthopa (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

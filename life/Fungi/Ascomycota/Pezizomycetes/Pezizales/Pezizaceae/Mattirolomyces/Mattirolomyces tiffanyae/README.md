@@ -1,5 +1,4 @@
-Mattirolomyces tiffanyae Healy SPECIES
-=======
+# Mattirolomyces tiffanyae Healy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella syringicola M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Dothiorella syringicola M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

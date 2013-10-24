@@ -1,5 +1,4 @@
-Patinella subcaerulescens (P. Karst.) Sacc. SPECIES
-=======
+# Patinella subcaerulescens (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

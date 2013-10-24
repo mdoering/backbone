@@ -1,5 +1,4 @@
-Thetisolala GENUS
-=======
+# Thetisolala GENUS
 
 #### Status
 ACCEPTED

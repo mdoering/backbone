@@ -1,5 +1,4 @@
-Leptosphaeria nashi (Hara) Sacc. SPECIES
-=======
+# Leptosphaeria nashi (Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

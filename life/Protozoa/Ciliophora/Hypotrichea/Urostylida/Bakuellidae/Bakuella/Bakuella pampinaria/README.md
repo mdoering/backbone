@@ -1,5 +1,4 @@
-Bakuella pampinaria subsp. pampinaria SUBSPECIES
-=======
+# Bakuella pampinaria Eigner & Foissner SPECIES
 
 #### Status
 ACCEPTED

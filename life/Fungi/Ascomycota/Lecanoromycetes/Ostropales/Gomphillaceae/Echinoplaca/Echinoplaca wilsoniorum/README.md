@@ -1,5 +1,4 @@
-Echinoplaca wilsoniorum Lücking SPECIES
-=======
+# Echinoplaca wilsoniorum Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiodothella tithoniae Chardón, 1934 SPECIES
-=======
+# Ophiodothella tithoniae Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

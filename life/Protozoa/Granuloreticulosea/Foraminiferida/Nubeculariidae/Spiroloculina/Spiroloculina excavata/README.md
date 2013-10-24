@@ -1,5 +1,4 @@
-Spiroloculina excavata d'Orbigny, 1846 SPECIES
-=======
+# Spiroloculina excavata d'Orbigny, 1846 SPECIES
 
 #### Status
 ACCEPTED

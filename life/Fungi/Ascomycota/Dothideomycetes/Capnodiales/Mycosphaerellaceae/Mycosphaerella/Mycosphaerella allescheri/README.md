@@ -1,5 +1,4 @@
-Mycosphaerella allescheri (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella allescheri (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

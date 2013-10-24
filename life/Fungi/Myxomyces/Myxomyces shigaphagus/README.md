@@ -1,5 +1,4 @@
-Myxomyces shigaphagus Salimbeni SPECIES
-=======
+# Myxomyces shigaphagus Salimbeni SPECIES
 
 #### Status
 ACCEPTED

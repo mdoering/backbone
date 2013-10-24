@@ -1,5 +1,4 @@
-Chromulina nebulosa Cienkowski SPECIES
-=======
+# Chromulina nebulosa Cienkowski SPECIES
 
 #### Status
 ACCEPTED

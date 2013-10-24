@@ -1,5 +1,4 @@
-Myriotrema permaculatum Nagarkar & Hale SPECIES
-=======
+# Myriotrema permaculatum Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

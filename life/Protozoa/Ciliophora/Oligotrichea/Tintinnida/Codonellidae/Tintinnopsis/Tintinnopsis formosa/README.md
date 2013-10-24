@@ -1,5 +1,4 @@
-Tintinnopsis formosa SPECIES
-=======
+# Tintinnopsis formosa SPECIES
 
 #### Status
 ACCEPTED

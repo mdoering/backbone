@@ -1,5 +1,4 @@
-Diplodia ceratoniae Politis SPECIES
-=======
+# Diplodia ceratoniae Politis SPECIES
 
 #### Status
 ACCEPTED

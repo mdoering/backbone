@@ -1,5 +1,4 @@
-Dendrophoma teres Berl. SPECIES
-=======
+# Dendrophoma teres Berl. SPECIES
 
 #### Status
 ACCEPTED

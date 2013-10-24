@@ -1,5 +1,4 @@
-Caloplaca carphinea var. carphinea VARIETY
-=======
+# Caloplaca carphinea (Fr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

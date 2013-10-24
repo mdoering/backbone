@@ -1,8 +1,7 @@
-Gyrodinium acrotrochum Larsen SPECIES
-=======
+# Takayama acrotrochum (Larsen, 1996) de Salas, Bolch & Hallegraeff, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

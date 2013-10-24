@@ -1,5 +1,4 @@
-Lactarius flammans Verbeken SPECIES
-=======
+# Lactarius flammans Verbeken SPECIES
 
 #### Status
 ACCEPTED

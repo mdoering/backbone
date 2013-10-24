@@ -1,5 +1,4 @@
-Conidiobolus lachnodes Drechsler, 1955 SPECIES
-=======
+# Conidiobolus lachnodes Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

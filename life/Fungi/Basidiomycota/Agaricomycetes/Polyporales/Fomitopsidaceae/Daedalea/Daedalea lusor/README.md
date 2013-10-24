@@ -1,5 +1,4 @@
-Daedalea lusor (Corner) T. Hatt. SPECIES
-=======
+# Daedalea lusor (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

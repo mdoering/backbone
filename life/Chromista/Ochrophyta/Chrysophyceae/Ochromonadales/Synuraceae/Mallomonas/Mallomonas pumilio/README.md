@@ -1,5 +1,4 @@
-Mallomonas pumilio var. silvicola Harris & Bradley VARIETY
-=======
+# Mallomonas pumilio Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

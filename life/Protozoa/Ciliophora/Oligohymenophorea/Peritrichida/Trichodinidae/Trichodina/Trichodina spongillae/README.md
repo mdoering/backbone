@@ -1,8 +1,7 @@
-Cyclochaeta spongillae Jackson, 1875 SPECIES
-=======
+# Trichodina spongillae (Jackson, 1875) Haider, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

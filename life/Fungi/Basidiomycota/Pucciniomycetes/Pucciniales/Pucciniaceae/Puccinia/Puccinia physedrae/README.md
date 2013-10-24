@@ -1,5 +1,4 @@
-Puccinia physedrae Syd., 1938 SPECIES
-=======
+# Puccinia physedrae Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

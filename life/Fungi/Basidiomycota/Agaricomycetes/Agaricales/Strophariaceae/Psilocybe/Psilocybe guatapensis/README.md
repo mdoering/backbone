@@ -1,5 +1,4 @@
-Psilocybe guatapensis Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
-=======
+# Psilocybe guatapensis Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
 
 #### Status
 ACCEPTED

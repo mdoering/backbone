@@ -1,5 +1,4 @@
-Anomalina globulosa SPECIES
-=======
+# Anomalina globulosa SPECIES
 
 #### Status
 ACCEPTED

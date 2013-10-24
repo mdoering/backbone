@@ -1,5 +1,4 @@
-Indonyctus Yankovskij, 1978 GENUS
-=======
+# Indonyctus Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis sclerotiorum (Horvers & de Cock) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis sclerotiorum (Horvers & de Cock) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

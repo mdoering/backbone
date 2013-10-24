@@ -1,14 +1,13 @@
-Microdiplodia henriquesii (Thüm.) Petr. & Syd., 1925 SPECIES
-=======
+# Diplodia henriquesii Thüm., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23: 219 (1925)
+Mycotheca universalis no. 2087 (1884)
 
 #### Original name
 Diplodia henriquesii Thüm., 1884

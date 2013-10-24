@@ -1,5 +1,4 @@
-Hystrichosphaeridium anthrophorum Cookson & Eisenack SPECIES
-=======
+# Hystrichosphaeridium anthrophorum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

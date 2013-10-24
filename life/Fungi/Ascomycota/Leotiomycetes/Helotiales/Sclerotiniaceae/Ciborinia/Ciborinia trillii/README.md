@@ -1,5 +1,4 @@
-Ciborinia trillii L.R. Batra & Korf SPECIES
-=======
+# Ciborinia trillii L.R. Batra & Korf SPECIES
 
 #### Status
 ACCEPTED

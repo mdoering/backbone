@@ -1,5 +1,4 @@
-Lachnea macrothelis Syd. {?} SPECIES
-=======
+# Lachnea macrothelis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

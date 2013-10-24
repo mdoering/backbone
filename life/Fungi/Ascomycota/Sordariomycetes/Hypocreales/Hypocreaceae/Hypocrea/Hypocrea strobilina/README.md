@@ -1,5 +1,4 @@
-Hypocrea strobilina W. Phillips & Plowr., 1885 SPECIES
-=======
+# Hypocrea strobilina W. Phillips & Plowr., 1885 SPECIES
 
 #### Status
 ACCEPTED

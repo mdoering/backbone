@@ -1,5 +1,4 @@
-Sphaerulina oryzae I. Miyake SPECIES
-=======
+# Sphaerulina oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

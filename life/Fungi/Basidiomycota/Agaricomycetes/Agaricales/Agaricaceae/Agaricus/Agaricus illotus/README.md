@@ -1,5 +1,4 @@
-Agaricus illotus var. illotus VARIETY
-=======
+# Agaricus illotus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 11(no. 56): 552 (1871)
 
 #### Original name
-Agaricus illotus var. illotus
+Agaricus illotus Berk. & Broome
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Catapyrenium lachneum var. lachneum VARIETY
-=======
+# Catapyrenium lachneum (Ach.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Hawksworth, James & Coppins, Lichenologist 12(1): 106 (1980)
 
 #### Original name
-Catapyrenium lachneum var. lachneum
+Lichen lachneus Ach.
 
 ### Remarks
 null

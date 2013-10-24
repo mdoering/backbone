@@ -1,5 +1,4 @@
-Cercidospora eriostoma (Sacc.) Kuntze SPECIES
-=======
+# Cercidospora eriostoma (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

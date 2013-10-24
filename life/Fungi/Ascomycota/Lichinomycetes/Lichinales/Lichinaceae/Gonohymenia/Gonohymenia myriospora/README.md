@@ -1,5 +1,4 @@
-Gonohymenia myriospora var. myriospora VARIETY
-=======
+# Gonohymenia myriospora (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gonohymenia myriospora var. myriospora
+Gonohymeniomyces myriosporae Cif. & Tomas.
 
 ### Remarks
 null

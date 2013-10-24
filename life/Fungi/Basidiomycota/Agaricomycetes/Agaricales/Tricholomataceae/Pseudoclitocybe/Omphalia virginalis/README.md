@@ -1,5 +1,4 @@
-Omphalia virginalis Quél. SPECIES
-=======
+# Omphalia virginalis Quél. SPECIES
 
 #### Status
 ACCEPTED

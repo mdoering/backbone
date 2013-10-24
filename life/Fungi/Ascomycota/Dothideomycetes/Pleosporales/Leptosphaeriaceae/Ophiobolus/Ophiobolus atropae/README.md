@@ -1,5 +1,4 @@
-Ophiobolus atropae Gucevic SPECIES
-=======
+# Ophiobolus atropae Gucevic SPECIES
 
 #### Status
 ACCEPTED

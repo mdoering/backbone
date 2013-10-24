@@ -1,5 +1,4 @@
-Passalora ziziphi (S.S. Prasad & R.A.B. Verma) U. Braun & Crous SPECIES
-=======
+# Passalora ziziphi (S.S. Prasad & R.A.B. Verma) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

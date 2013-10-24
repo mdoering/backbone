@@ -1,5 +1,4 @@
-Clitocybe dilatata (Pers.) P. Karst. SPECIES
-=======
+# Clitocybe dilatata (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

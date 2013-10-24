@@ -1,5 +1,4 @@
-Scotiosphaeria endoxylinae Sivan., 1977 SPECIES
-=======
+# Scotiosphaeria endoxylinae Sivan., 1977 SPECIES
 
 #### Status
 ACCEPTED

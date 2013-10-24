@@ -1,5 +1,4 @@
-Catillaria ricasolii A. Massal. SPECIES
-=======
+# Catillaria ricasolii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium brunneum W. A. Weber SPECIES
-=======
+# Cyphelium brunneum W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

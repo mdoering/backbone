@@ -1,5 +1,4 @@
-Ustilago panici-petrosi Syd. & P. Syd. SPECIES
-=======
+# Ustilago panici-petrosi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

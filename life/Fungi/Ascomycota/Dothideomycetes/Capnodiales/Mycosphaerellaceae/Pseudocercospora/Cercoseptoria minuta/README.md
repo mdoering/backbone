@@ -1,5 +1,4 @@
-Cercoseptoria minuta Davis SPECIES
-=======
+# Cercoseptoria minuta Davis SPECIES
 
 #### Status
 ACCEPTED

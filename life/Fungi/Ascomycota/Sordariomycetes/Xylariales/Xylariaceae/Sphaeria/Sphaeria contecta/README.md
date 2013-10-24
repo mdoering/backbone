@@ -1,5 +1,4 @@
-Sphaeria contecta Desm. SPECIES
-=======
+# Sphaeria contecta Desm. SPECIES
 
 #### Status
 ACCEPTED

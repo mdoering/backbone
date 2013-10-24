@@ -1,5 +1,4 @@
-Coccidium Wernicke GENUS
-=======
+# Coccidium Wernicke GENUS
 
 #### Status
 ACCEPTED

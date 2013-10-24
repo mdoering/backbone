@@ -1,5 +1,4 @@
-Amphiloma murorum f. murorum FORM
-=======
+# Amphiloma murorum SPECIES
 
 #### Status
 ACCEPTED

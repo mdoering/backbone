@@ -1,5 +1,4 @@
-Berwaldia schaefernai (Jírovec) J. Vávra & J.I.R. Larsson SPECIES
-=======
+# Berwaldia schaefernai (Jírovec) J. Vávra & J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

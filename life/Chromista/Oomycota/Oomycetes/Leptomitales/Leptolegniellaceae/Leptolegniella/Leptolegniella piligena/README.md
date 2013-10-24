@@ -1,5 +1,4 @@
-Leptolegniella piligena M. Ôkubo & Kobayasi SPECIES
-=======
+# Leptolegniella piligena M. Ôkubo & Kobayasi SPECIES
 
 #### Status
 ACCEPTED

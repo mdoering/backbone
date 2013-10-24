@@ -1,5 +1,4 @@
-Trichosporum calcigenum (Link) Sacc. SPECIES
-=======
+# Trichosporum calcigenum (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

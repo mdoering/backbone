@@ -1,5 +1,4 @@
-Mollicarpus Ginns GENUS
-=======
+# Mollicarpus Ginns GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microstroma castanopsis E. Müll. & Sanwal SPECIES
-=======
+# Microstroma castanopsidis E. Müll. & Sanwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 12: 30 (1959)
 
 #### Original name
-Microstroma castanopsis E. Müll. & Sanwal
+Microstroma castanopsidis E. Müll. & Sanwal
 
 ### Remarks
 null

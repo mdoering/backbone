@@ -1,5 +1,4 @@
-Tetrachaetum elegans Ingold, 1942 SPECIES
-=======
+# Tetrachaetum elegans Ingold, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium armeniacum Berk. SPECIES
-=======
+# Penicillium armeniacum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirulina albida Kolkwitz SPECIES
-=======
+# Spirulina albida Kolkwitz SPECIES
 
 #### Status
 ACCEPTED

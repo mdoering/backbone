@@ -1,5 +1,4 @@
-Aspicilia oleifera (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia oleifera (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

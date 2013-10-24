@@ -1,5 +1,4 @@
-Phoma fallax Berk., 1855 SPECIES
-=======
+# Phoma fallax Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

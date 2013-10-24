@@ -1,5 +1,4 @@
-Aleuria arvernensis Roze & Boud. SPECIES
-=======
+# Aleuria arvernensis Roze & Boud. SPECIES
 
 #### Status
 ACCEPTED

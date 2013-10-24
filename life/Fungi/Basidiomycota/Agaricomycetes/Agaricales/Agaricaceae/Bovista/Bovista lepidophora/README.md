@@ -1,5 +1,4 @@
-Bovista lepidophora (Ellis & Everh.) De Toni SPECIES
-=======
+# Bovista lepidophora (Ellis & Everh.) De Toni SPECIES
 
 #### Status
 ACCEPTED

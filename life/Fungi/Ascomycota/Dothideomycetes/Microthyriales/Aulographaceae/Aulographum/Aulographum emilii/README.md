@@ -1,5 +1,4 @@
-Aulographum emilii Petrini, Cand. & L.E. Petrini SPECIES
-=======
+# Aulographum emilii Petrini, Cand. & L.E. Petrini SPECIES
 
 #### Status
 ACCEPTED

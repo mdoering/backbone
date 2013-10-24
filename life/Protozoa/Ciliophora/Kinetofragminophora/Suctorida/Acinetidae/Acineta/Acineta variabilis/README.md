@@ -1,5 +1,4 @@
-Acineta variabilis SPECIES
-=======
+# Acineta variabilis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelopsis Nyl. GENUS
-=======
+# Thelopsis Nyl. GENUS
 
 #### Status
 ACCEPTED

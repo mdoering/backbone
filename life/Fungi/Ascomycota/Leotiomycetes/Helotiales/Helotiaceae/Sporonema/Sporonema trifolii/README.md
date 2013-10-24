@@ -1,5 +1,4 @@
-Sporonema trifolii H.C. Greene SPECIES
-=======
+# Sporonema trifolii H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

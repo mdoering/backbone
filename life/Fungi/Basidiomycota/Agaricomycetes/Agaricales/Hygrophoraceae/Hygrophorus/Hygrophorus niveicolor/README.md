@@ -1,5 +1,4 @@
-Hygrophorus niveicolor (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus niveicolor (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

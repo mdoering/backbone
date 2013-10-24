@@ -1,5 +1,4 @@
-Puccinia barbareae Cooke SPECIES
-=======
+# Puccinia barbareae Cooke SPECIES
 
 #### Status
 ACCEPTED

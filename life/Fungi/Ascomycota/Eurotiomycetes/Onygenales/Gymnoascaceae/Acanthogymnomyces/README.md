@@ -1,5 +1,4 @@
-Acanthogymnomyces Udagawa & Uchiyama GENUS
-=======
+# Acanthogymnomyces Udagawa & Uchiyama GENUS
 
 #### Status
 ACCEPTED

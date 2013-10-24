@@ -1,5 +1,4 @@
-Camarosporium dolichi McAlpine SPECIES
-=======
+# Camarosporium dolichi McAlpine SPECIES
 
 #### Status
 ACCEPTED

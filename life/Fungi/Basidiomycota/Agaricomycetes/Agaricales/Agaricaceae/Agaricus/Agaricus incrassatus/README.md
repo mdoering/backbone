@@ -1,5 +1,4 @@
-Agaricus incrassatus Sowerby SPECIES
-=======
+# Agaricus incrassatus Sowerby SPECIES
 
 #### Status
 ACCEPTED

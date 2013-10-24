@@ -1,5 +1,4 @@
-Lohwagia Petr. GENUS
-=======
+# Lohwagia Petr. GENUS
 
 #### Status
 ACCEPTED

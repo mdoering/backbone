@@ -1,5 +1,4 @@
-Biatora piperis f. piperis FORM
-=======
+# Biatora piperis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora piperis f. piperis
+null
 
 ### Remarks
 null

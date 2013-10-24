@@ -1,5 +1,4 @@
-Diaporthe stictostoma Ellis, 1883 SPECIES
-=======
+# Diaporthe stictostoma Ellis, 1883 SPECIES
 
 #### Status
 ACCEPTED

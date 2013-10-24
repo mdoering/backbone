@@ -1,5 +1,4 @@
-Trachelomonas hamelli Van Oye SPECIES
-=======
+# Trachelomonas hamelli Van Oye SPECIES
 
 #### Status
 ACCEPTED

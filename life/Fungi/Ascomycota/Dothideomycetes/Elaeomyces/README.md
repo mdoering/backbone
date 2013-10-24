@@ -1,5 +1,4 @@
-Elaeomyces Kirchn. GENUS
-=======
+# Elaeomyces Kirchn. GENUS
 
 #### Status
 ACCEPTED

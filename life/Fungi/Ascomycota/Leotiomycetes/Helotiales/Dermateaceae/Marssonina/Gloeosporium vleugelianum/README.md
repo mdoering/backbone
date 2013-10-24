@@ -1,5 +1,4 @@
-Gloeosporium vleugelianum Bubák SPECIES
-=======
+# Gloeosporium vleugelianum Bubák SPECIES
 
 #### Status
 ACCEPTED

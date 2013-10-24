@@ -1,5 +1,4 @@
-Aleuria zandbaiensis Henn. & E. Nyman SPECIES
-=======
+# Aleuria zandbaiensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Posadasia pyriformis M. Moore SPECIES
-=======
+# Posadasia pyriformis M. Moore SPECIES
 
 #### Status
 ACCEPTED

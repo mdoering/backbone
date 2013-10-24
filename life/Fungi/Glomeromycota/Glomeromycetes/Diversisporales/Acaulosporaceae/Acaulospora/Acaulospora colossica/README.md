@@ -1,5 +1,4 @@
-Acaulospora colossica P.A. Schultz, Bever & J.B. Morton SPECIES
-=======
+# Acaulospora colossica P.A. Schultz, Bever & J.B. Morton SPECIES
 
 #### Status
 ACCEPTED

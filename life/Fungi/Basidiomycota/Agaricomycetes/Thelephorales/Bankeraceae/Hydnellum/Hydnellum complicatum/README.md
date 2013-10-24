@@ -1,14 +1,13 @@
-Hydnum complicatum (Banker) Sacc. & Trotter, 1912 SPECIES
-=======
+# Hydnellum complicatum Banker, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 371 (1912)
+Mem. Torrey bot. Club 12: 161 (1906)
 
 #### Original name
 Hydnellum complicatum Banker, 1906

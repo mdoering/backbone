@@ -1,5 +1,4 @@
-Lactarius pseudodeliciosus var. pseudodeliciosus VARIETY
-=======
+# Lactarius pseudodeliciosus Beardslee & Burl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 32: 582 (1940)
 
 #### Original name
-Lactarius pseudodeliciosus var. pseudodeliciosus
+Lactarius pseudodeliciosus Beardslee & Burl.
 
 ### Remarks
 null

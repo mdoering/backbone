@@ -1,5 +1,4 @@
-Tintinnopsella Colom, 1948 GENUS
-=======
+# Tintinnopsella Colom, 1948 GENUS
 
 #### Status
 ACCEPTED

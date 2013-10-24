@@ -1,5 +1,4 @@
-Uredo decipiens var. decipiens F. Strauss VARIETY
-=======
+# Uredo decipiens ß graminum F. Strauss SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo decipiens var. decipiens F. Strauss
+Uredo decipiens ß graminum F. Strauss
 
 ### Remarks
 null

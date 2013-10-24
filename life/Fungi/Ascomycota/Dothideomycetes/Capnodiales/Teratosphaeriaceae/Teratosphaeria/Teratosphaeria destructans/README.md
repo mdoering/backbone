@@ -1,5 +1,4 @@
-Teratosphaeria destructans (M.J. Wingf. & Crous) M.J. Wingf. & Crous, 2009 SPECIES
-=======
+# Teratosphaeria destructans (M.J. Wingf. & Crous) M.J. Wingf. & Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

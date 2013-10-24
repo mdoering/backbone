@@ -1,5 +1,4 @@
-Gloiocephala zeylanica Petch SPECIES
-=======
+# Gloiocephala zeylanica Petch SPECIES
 
 #### Status
 ACCEPTED

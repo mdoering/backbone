@@ -1,5 +1,4 @@
-Psiloboletinus Singer GENUS
-=======
+# Psiloboletinus Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota scorpioides (Fr.) M.M. Moser SPECIES
-=======
+# Pholiota scorpioides (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

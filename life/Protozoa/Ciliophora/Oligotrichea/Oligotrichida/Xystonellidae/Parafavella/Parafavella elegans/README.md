@@ -1,5 +1,4 @@
-Parafavella elegans (Ostenfeld, 1899) SPECIES
-=======
+# Parafavella elegans (Ostenfeld, 1899) SPECIES
 
 #### Status
 ACCEPTED

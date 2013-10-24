@@ -1,5 +1,4 @@
-Mycoacia bulliardii (Nikol.) Parmasto SPECIES
-=======
+# Mycoacia bulliardii (Nikol.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

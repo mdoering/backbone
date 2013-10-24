@@ -1,5 +1,4 @@
-Arthonia melanopsis Stirt. SPECIES
-=======
+# Arthonia melanopsis Stirt. SPECIES
 
 #### Status
 ACCEPTED

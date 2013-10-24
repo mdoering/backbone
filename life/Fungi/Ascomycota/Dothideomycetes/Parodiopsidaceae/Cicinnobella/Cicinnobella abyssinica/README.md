@@ -1,5 +1,4 @@
-Cicinnobella abyssinica E. Castell. SPECIES
-=======
+# Cicinnobella abyssinica E. Castell. SPECIES
 
 #### Status
 ACCEPTED

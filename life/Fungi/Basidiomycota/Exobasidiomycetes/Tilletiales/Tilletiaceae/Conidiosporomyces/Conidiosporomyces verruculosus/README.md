@@ -1,14 +1,13 @@
-Tilletia verruculosa (Wakef.) M. Piepenbr., 2004 SPECIES
-=======
+# Conidiosporomyces verruculosus (Wakef.) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Frontiers in Basidiomycote Mycology 160 (2004)
+Mycotaxon 48: 39 (1993)
 
 #### Original name
 Ustilago verruculosa Wakef., 1922

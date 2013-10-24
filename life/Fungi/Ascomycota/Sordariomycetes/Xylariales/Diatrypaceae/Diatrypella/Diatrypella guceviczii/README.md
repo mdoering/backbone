@@ -1,5 +1,4 @@
-Diatrypella guceviczii Glezer SPECIES
-=======
+# Diatrypella guceviczii Glezer SPECIES
 
 #### Status
 ACCEPTED

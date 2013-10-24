@@ -1,5 +1,4 @@
-Lophodermium himalayense P.F. Cannon & Minter, 1986 SPECIES
-=======
+# Lophodermium himalayense P.F. Cannon & Minter, 1986 SPECIES
 
 #### Status
 ACCEPTED

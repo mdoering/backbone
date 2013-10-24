@@ -1,5 +1,4 @@
-Uredo andina (Faull) Hirats. f. SPECIES
-=======
+# Uredo andina (Faull) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

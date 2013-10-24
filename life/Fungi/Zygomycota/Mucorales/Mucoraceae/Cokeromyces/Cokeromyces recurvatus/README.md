@@ -1,5 +1,4 @@
-Cokeromyces recurvatus Poitras, 1950 SPECIES
-=======
+# Cokeromyces recurvatus Poitras, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doassansia gossypii Lagerh. SPECIES
-=======
+# Doassansia gossypii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

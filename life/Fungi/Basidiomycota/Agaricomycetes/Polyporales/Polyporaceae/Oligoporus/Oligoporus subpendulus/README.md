@@ -1,5 +1,4 @@
-Oligoporus subpendulus (G.F. Atk.) Gilb. & Ryvarden SPECIES
-=======
+# Oligoporus subpendulus (G.F. Atk.) Gilb. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

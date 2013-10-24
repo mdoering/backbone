@@ -1,5 +1,4 @@
-Clitopilus flavidus Massee SPECIES
-=======
+# Clitopilus flavidus Massee SPECIES
 
 #### Status
 ACCEPTED

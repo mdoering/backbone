@@ -1,5 +1,4 @@
-Pertusaria atrospilota A.W. Archer & Elix SPECIES
-=======
+# Pertusaria atrospilota A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

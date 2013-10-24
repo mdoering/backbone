@@ -1,5 +1,4 @@
-Protectocarpus hecatonemoides SPECIES
-=======
+# Protectocarpus hecatonemoides SPECIES
 
 #### Status
 ACCEPTED

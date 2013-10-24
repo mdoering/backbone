@@ -1,5 +1,4 @@
-Brevibacterium epidermidis Collins et al., 1983 SPECIES
-=======
+# Brevibacterium epidermidis Collins et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gloeosoma vitellinum (Lév.) Bres., 1920 SPECIES
-=======
+# Aleurodiscus vitellinus (Lév.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 51 (1920)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 54 (1900)
 
 #### Original name
 Stereum vitellinum (Durieu & Lév.) Sacc.

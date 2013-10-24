@@ -1,5 +1,4 @@
-Lecidea camptidia (Tuck.) Hue SPECIES
-=======
+# Lecidea camptidia (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

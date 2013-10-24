@@ -1,5 +1,4 @@
-Stereocaulon curtatoides Asahina SPECIES
-=======
+# Stereocaulon curtatoides Asahina SPECIES
 
 #### Status
 ACCEPTED

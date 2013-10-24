@@ -1,5 +1,4 @@
-Hystrichosphaeridium dictyophorum Cookson & Eisenack SPECIES
-=======
+# Hystrichosphaeridium dictyophorum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

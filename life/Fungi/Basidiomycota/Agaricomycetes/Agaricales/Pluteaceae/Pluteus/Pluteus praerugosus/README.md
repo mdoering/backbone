@@ -1,5 +1,4 @@
-Pluteus praerugosus Murrill SPECIES
-=======
+# Pluteus praerugosus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma teesdaliae Alcalde SPECIES
-=======
+# Phoma teesdaliae Alcalde SPECIES
 
 #### Status
 ACCEPTED

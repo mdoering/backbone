@@ -1,5 +1,4 @@
-Cortinarius sulfurinodibaphus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius sulfurinodibaphus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

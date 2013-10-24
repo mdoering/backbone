@@ -1,5 +1,4 @@
-Agaricus novissimus Speg. SPECIES
-=======
+# Agaricus novissimus Speg. SPECIES
 
 #### Status
 ACCEPTED

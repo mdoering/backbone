@@ -1,5 +1,4 @@
-Polyporus engelii Harz SPECIES
-=======
+# Polyporus engelii Harz SPECIES
 
 #### Status
 ACCEPTED

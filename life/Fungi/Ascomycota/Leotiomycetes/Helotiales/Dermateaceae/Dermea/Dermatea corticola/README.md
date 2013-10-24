@@ -1,5 +1,4 @@
-Dermatea corticola G. Arnaud SPECIES
-=======
+# Dermatea corticola G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

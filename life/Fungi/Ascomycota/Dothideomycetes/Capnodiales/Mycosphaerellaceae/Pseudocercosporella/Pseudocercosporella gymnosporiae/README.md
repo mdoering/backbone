@@ -1,5 +1,4 @@
-Pseudocercosporella gymnosporiae Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Pseudocercosporella gymnosporiae Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

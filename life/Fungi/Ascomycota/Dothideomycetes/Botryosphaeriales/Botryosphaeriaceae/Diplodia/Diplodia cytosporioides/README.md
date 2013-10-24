@@ -1,5 +1,4 @@
-Diplodia cytosporioides Roum. SPECIES
-=======
+# Diplodia cytosporioides Roum. SPECIES
 
 #### Status
 ACCEPTED

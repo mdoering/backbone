@@ -1,5 +1,4 @@
-Graphina dividens (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina dividens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

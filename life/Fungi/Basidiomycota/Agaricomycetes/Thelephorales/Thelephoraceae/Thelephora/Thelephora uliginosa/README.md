@@ -1,5 +1,4 @@
-Thelephora uliginosa Boud. SPECIES
-=======
+# Thelephora uliginosa Boud. SPECIES
 
 #### Status
 ACCEPTED

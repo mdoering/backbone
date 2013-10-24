@@ -1,5 +1,4 @@
-Athelicium hallenbergii Yurchenko & Kotir. SPECIES
-=======
+# Athelicium hallenbergii Yurchenko & Kotir. SPECIES
 
 #### Status
 ACCEPTED

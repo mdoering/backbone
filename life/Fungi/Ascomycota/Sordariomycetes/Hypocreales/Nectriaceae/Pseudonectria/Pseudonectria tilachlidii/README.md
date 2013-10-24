@@ -1,5 +1,4 @@
-Pseudonectria tilachlidii W. Gams SPECIES
-=======
+# Pseudonectria tilachlidii W. Gams SPECIES
 
 #### Status
 ACCEPTED

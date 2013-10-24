@@ -1,5 +1,4 @@
-Lecidea haysomii C.W. Dodge SPECIES
-=======
+# Lecidea haysomii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

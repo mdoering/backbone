@@ -1,5 +1,4 @@
-Hyalodictyum colchicum Woron., 1916 SPECIES
-=======
+# Hyalodictyum colchicum Woron., 1916 SPECIES
 
 #### Status
 ACCEPTED

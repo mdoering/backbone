@@ -1,5 +1,4 @@
-Boletus subdepauperatus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus subdepauperatus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

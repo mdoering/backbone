@@ -1,5 +1,4 @@
-Seiridium eriobotryae Y.X. Chen & G. Wei SPECIES
-=======
+# Seiridium eriobotryae Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothyridium nobile (Petr.) Petr. SPECIES
-=======
+# Mycothyridium nobile (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

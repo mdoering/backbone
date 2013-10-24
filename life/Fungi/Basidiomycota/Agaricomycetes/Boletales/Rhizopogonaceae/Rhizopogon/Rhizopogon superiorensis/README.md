@@ -1,5 +1,4 @@
-Rhizopogon superiorensis A.H. Sm. SPECIES
-=======
+# Rhizopogon superiorensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera golovinii (Domashova) U. Braun SPECIES
-=======
+# Microsphaera golovinii (Domashova) U. Braun SPECIES
 
 #### Status
 ACCEPTED

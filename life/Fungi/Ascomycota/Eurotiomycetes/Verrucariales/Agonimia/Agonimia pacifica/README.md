@@ -1,5 +1,4 @@
-Agonimia pacifica (H. Harada) Diederich SPECIES
-=======
+# Agonimia pacifica (H. Harada) Diederich SPECIES
 
 #### Status
 ACCEPTED

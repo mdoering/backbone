@@ -1,5 +1,4 @@
-Ophidiomonas Agassiz, 1846 GENUS
-=======
+# Ophidiomonas Agassiz, 1846 GENUS
 
 #### Status
 ACCEPTED

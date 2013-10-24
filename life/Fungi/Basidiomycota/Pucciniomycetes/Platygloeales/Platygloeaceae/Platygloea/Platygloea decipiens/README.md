@@ -1,5 +1,4 @@
-Platygloea decipiens G.W. Martin SPECIES
-=======
+# Platygloea decipiens G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

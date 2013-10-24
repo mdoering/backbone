@@ -1,5 +1,4 @@
-Pseudoconium Petr. GENUS
-=======
+# Pseudoconium Petr. GENUS
 
 #### Status
 ACCEPTED

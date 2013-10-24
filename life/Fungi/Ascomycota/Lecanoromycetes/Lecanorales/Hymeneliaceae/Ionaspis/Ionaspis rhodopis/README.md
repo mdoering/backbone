@@ -1,5 +1,4 @@
-Ionaspis rhodopis SPECIES
-=======
+# Ionaspis rhodopis SPECIES
 
 #### Status
 ACCEPTED

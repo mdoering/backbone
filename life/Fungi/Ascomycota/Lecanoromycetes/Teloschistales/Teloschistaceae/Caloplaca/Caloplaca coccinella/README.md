@@ -1,5 +1,4 @@
-Caloplaca coccinella (Stizenb.) Zahlbr. SPECIES
-=======
+# Caloplaca coccinella (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

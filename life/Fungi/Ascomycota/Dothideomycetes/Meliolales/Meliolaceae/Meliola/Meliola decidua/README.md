@@ -1,5 +1,4 @@
-Meliola decidua Speg. SPECIES
-=======
+# Meliola decidua Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina sareptana (Tomin) H. Magn. SPECIES
-=======
+# Rinodina sareptana (Tomin) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

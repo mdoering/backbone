@@ -1,5 +1,4 @@
-Dermocybe pallidipes M.M. Moser SPECIES
-=======
+# Dermocybe pallidipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

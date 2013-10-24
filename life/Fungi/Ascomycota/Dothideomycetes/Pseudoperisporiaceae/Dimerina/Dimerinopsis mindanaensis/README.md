@@ -1,5 +1,4 @@
-Dimerinopsis mindanaensis (Henn.) Syd. SPECIES
-=======
+# Dimerinopsis mindanaensis (Henn.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe hydrophyllacearum U. Braun SPECIES
-=======
+# Erysiphe hydrophyllacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

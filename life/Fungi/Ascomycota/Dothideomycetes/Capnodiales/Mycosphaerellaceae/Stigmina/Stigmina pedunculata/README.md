@@ -1,5 +1,4 @@
-Stigmina pedunculata (Ellis & Everh.) M.B. Ellis SPECIES
-=======
+# Stigmina pedunculata (Ellis & Everh.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

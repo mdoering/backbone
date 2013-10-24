@@ -1,5 +1,4 @@
-Amanita Adanson, 1763 GENUS
-=======
+# Amanita Adanson, 1763 GENUS
 
 #### Status
 ACCEPTED

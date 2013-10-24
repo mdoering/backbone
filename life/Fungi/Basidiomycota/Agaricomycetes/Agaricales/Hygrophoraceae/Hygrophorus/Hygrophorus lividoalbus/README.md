@@ -1,5 +1,4 @@
-Hygrophorus lividoalbus var. lividoalbus VARIETY
-=======
+# Hygrophorus lividoalbus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 324 (1838)
 
 #### Original name
-Hygrophorus lividoalbus var. lividoalbus
+Hygrophorus lividoalbus Fr.
 
 ### Remarks
 null

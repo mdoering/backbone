@@ -1,5 +1,4 @@
-Agaricus typhoides Bull. SPECIES
-=======
+# Agaricus typhoides Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wickerhamomyces rabaulensis (Soneda & S. Uchida) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces rabaulensis (Soneda & S. Uchida) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

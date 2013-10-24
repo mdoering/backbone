@@ -1,5 +1,4 @@
-Massariopsis subtecta Niessl SPECIES
-=======
+# Massariopsis subtecta Niessl SPECIES
 
 #### Status
 ACCEPTED

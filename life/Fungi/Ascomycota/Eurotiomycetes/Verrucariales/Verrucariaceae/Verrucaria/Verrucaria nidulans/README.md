@@ -1,5 +1,4 @@
-Verrucaria nidulans Stenh. SPECIES
-=======
+# Verrucaria nidulans Stenh. SPECIES
 
 #### Status
 ACCEPTED

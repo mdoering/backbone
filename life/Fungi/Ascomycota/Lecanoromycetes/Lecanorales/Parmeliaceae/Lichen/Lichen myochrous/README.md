@@ -1,5 +1,4 @@
-Lichen myochrous Ehrh. SPECIES
-=======
+# Lichen myochrous Ehrh. SPECIES
 
 #### Status
 ACCEPTED

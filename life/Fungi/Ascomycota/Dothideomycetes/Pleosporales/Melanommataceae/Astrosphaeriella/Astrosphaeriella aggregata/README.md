@@ -1,5 +1,4 @@
-Astrosphaeriella aggregata (I. Hino & Katum.) Kaz. Tanaka & Y. Harada SPECIES
-=======
+# Astrosphaeriella aggregata (I. Hino & Katum.) Kaz. Tanaka & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

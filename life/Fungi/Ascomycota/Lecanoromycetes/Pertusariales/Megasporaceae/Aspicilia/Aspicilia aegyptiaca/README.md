@@ -1,5 +1,4 @@
-Aspicilia aegyptiaca (Müll. Arg.) Hue SPECIES
-=======
+# Aspicilia aegyptiaca (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

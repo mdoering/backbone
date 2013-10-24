@@ -1,5 +1,4 @@
-Quadracaea mediterranea Lunghini, Pinzari & Zucconi, 1996 SPECIES
-=======
+# Quadracaea mediterranea Lunghini, Pinzari & Zucconi, 1996 SPECIES
 
 #### Status
 ACCEPTED

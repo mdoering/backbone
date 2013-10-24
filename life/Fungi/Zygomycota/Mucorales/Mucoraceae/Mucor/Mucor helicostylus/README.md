@@ -1,5 +1,4 @@
-Mucor helicostylus Sacc. SPECIES
-=======
+# Mucor helicostylus Sacc. SPECIES
 
 #### Status
 ACCEPTED

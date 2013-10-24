@@ -1,5 +1,4 @@
-Tapesia laburni Velen. SPECIES
-=======
+# Tapesia laburni Velen. SPECIES
 
 #### Status
 ACCEPTED

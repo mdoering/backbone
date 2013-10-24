@@ -1,5 +1,4 @@
-Elphidium spinatum var. magnificum Cushman & McCulloch, 1940 VARIETY
-=======
+# Elphidium spinatum Cushman & Valentine, 1930 SPECIES
 
 #### Status
 ACCEPTED

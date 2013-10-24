@@ -1,5 +1,4 @@
-Placodium lamarckii (DC.) Müll. Arg. SPECIES
-=======
+# Placodium lamarckii (DC.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

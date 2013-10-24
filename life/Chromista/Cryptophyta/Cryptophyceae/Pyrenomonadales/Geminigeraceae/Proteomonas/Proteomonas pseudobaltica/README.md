@@ -1,5 +1,4 @@
-Proteomonas pseudobaltica var. leonardiana G. Novarino VARIETY
-=======
+# Proteomonas pseudobaltica G. Novarino SPECIES
 
 #### Status
 ACCEPTED

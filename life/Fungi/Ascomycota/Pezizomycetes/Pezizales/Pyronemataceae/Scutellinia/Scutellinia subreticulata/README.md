@@ -1,5 +1,4 @@
-Scutellinia subreticulata (K.S. Thind, E.K. Cash & Pr. Singh) R. Kaushal SPECIES
-=======
+# Scutellinia subreticulata (K.S. Thind, E.K. Cash & Pr. Singh) R. Kaushal SPECIES
 
 #### Status
 ACCEPTED

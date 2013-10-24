@@ -1,5 +1,4 @@
-Blepharisma candidum Yagiu & Shigenaka, 1956 SPECIES
-=======
+# Blepharisma candidum Yagiu & Shigenaka, 1956 SPECIES
 
 #### Status
 ACCEPTED

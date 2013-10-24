@@ -1,5 +1,4 @@
-Eutreptia pyrenoidifera Matvienko SPECIES
-=======
+# Eutreptia pyrenoidifera Matvienko SPECIES
 
 #### Status
 ACCEPTED

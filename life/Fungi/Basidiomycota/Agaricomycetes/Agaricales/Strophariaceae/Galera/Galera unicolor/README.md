@@ -1,5 +1,4 @@
-Galera unicolor (Vahl) SPECIES
-=======
+# Galera unicolor (Vahl) SPECIES
 
 #### Status
 ACCEPTED

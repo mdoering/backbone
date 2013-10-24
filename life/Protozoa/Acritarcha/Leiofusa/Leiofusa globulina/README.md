@@ -1,5 +1,4 @@
-Leiofusa globulina Cramer & Díez, 1976 SPECIES
-=======
+# Leiofusa globulina Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

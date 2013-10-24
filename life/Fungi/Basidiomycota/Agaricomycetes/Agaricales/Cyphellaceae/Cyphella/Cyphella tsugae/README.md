@@ -1,5 +1,4 @@
-Cyphella tsugae Coker SPECIES
-=======
+# Cyphella tsugae Coker SPECIES
 
 #### Status
 ACCEPTED

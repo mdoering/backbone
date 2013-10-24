@@ -1,5 +1,4 @@
-Stecchericium abditum Maas Geest., 1976 SPECIES
-=======
+# Stecchericium abditum Maas Geest., 1976 SPECIES
 
 #### Status
 ACCEPTED

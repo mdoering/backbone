@@ -1,5 +1,4 @@
-Hymenula equiseti Lib. SPECIES
-=======
+# Hymenula equiseti Lib. SPECIES
 
 #### Status
 ACCEPTED

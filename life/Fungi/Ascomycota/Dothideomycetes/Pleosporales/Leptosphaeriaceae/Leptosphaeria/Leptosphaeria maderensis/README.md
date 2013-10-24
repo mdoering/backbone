@@ -1,5 +1,4 @@
-Leptosphaeria maderensis Petr. SPECIES
-=======
+# Leptosphaeria maderensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius longivelutinus X.H. Wang & Verbeken SPECIES
-=======
+# Lactarius longivelutinus X.H. Wang & Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes kamphoeveneri (Fr.) Sacc. SPECIES
-=======
+# Fomes kamphoeveneri (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

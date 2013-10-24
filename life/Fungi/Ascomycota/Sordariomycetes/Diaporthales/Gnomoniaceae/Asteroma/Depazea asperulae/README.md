@@ -1,5 +1,4 @@
-Depazea asperulae Lasch SPECIES
-=======
+# Depazea asperulae Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neotyphodium australiense C.D. Moon & Schardl SPECIES
-=======
+# Neotyphodium australiense C.D. Moon & Schardl SPECIES
 
 #### Status
 ACCEPTED

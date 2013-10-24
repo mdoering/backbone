@@ -1,5 +1,4 @@
-Meliola chaetachmes Hansf. SPECIES
-=======
+# Meliola chaetachmes Hansf. SPECIES
 
 #### Status
 ACCEPTED

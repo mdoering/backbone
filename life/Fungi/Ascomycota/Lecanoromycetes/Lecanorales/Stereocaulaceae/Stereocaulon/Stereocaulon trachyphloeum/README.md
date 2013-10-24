@@ -1,5 +1,4 @@
-Stereocaulon trachyphloeum I.M. Lamb SPECIES
-=======
+# Stereocaulon trachyphloeum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

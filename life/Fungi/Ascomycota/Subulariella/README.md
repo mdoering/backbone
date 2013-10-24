@@ -1,5 +1,4 @@
-Subulariella Höhn. GENUS
-=======
+# Subulariella Höhn. GENUS
 
 #### Status
 ACCEPTED

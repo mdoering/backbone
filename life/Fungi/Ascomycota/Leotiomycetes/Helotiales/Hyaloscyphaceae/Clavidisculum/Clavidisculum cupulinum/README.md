@@ -1,5 +1,4 @@
-Clavidisculum cupulinum Kirschst. SPECIES
-=======
+# Clavidisculum cupulinum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

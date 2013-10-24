@@ -1,17 +1,16 @@
-Helminthosporium lablabis Sawada & Katsuki SPECIES
-=======
+# Helminthosporium lablab Sawada & Katsuki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 201 (1959)
 
 #### Original name
-Helminthosporium lablabis Sawada & Katsuki
+Helminthosporium lablab Sawada & Katsuki
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rosellinia caudata Petch, 1926 SPECIES
-=======
+# Rosellinia caudata Petch, 1926 SPECIES
 
 #### Status
 ACCEPTED

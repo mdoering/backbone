@@ -1,5 +1,4 @@
-Abrothallus grossum (Körb.) D. Hawksw. SPECIES
-=======
+# Abrothallus grossum (Körb.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

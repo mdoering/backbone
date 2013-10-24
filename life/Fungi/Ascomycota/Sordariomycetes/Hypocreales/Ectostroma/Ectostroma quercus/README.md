@@ -1,5 +1,4 @@
-Ectostroma quercus Desm. SPECIES
-=======
+# Ectostroma quercus Desm. SPECIES
 
 #### Status
 ACCEPTED

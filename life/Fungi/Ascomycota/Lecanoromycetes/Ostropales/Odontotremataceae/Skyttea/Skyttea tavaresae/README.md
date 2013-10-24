@@ -1,5 +1,4 @@
-Skyttea tavaresae R. Sant., Etayo & Diederich SPECIES
-=======
+# Skyttea tavaresae R. Sant., Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

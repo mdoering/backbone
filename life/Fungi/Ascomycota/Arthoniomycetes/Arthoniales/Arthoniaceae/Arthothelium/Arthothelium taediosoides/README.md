@@ -1,5 +1,4 @@
-Arthothelium taediosoides Giralt & Grube SPECIES
-=======
+# Arthothelium taediosoides Giralt & Grube SPECIES
 
 #### Status
 ACCEPTED

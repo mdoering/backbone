@@ -1,5 +1,4 @@
-Annelophrya sphaeronucleata (Georgevitch, 1948) Lom, 1959 SPECIES
-=======
+# Annelophrya sphaeronucleata (Georgevitch, 1948) Lom, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia melaxantha Spreng. SPECIES
-=======
+# Parmelia melaxantha Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercidospora picconei (De Not.) Kuntze SPECIES
-=======
+# Cercidospora picconii (De Not.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 454 (1898)
 
 #### Original name
 Sphaerella picconii De Not.

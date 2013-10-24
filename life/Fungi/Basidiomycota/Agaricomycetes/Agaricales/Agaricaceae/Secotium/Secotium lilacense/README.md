@@ -1,5 +1,4 @@
-Secotium lilacense Berk. SPECIES
-=======
+# Secotium lilacense Berk. SPECIES
 
 #### Status
 ACCEPTED

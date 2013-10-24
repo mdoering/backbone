@@ -1,5 +1,4 @@
-Helicomina anomala (Berk. & M.A. Curtis) Deighton SPECIES
-=======
+# Helicomina anomala (Berk. & M.A. Curtis) Deighton SPECIES
 
 #### Status
 ACCEPTED

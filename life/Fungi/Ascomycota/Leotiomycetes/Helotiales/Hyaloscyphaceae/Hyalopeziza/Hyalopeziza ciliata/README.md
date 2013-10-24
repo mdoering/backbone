@@ -1,14 +1,13 @@
-Trichopeziza ciliata (Fuckel) Sacc., 1889 SPECIES
-=======
+# Hyalopeziza ciliata Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 417 (1889)
+Jb. nassau. Ver. Naturk. 23-24: 298 (1870)
 
 #### Original name
 Hyalopeziza ciliata Fuckel, 1870

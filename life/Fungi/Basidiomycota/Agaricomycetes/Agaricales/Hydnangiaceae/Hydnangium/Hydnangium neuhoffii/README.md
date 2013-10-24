@@ -1,5 +1,4 @@
-Hydnangium neuhoffii Soehner SPECIES
-=======
+# Hydnangium neuhoffii Soehner SPECIES
 
 #### Status
 ACCEPTED

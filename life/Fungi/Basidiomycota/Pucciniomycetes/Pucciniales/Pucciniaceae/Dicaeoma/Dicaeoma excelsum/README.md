@@ -1,5 +1,4 @@
-Dicaeoma excelsum (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma excelsum (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

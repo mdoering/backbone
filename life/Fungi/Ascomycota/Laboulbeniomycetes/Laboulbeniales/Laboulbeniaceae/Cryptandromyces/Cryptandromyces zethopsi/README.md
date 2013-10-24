@@ -1,5 +1,4 @@
-Cryptandromyces zethopsi (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces zethopsi (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

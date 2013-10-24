@@ -1,5 +1,4 @@
-Botryosphaeria diplodioides (Durieu & Mont.) Sacc. SPECIES
-=======
+# Botryosphaeria diplodioides (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

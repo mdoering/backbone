@@ -1,5 +1,4 @@
-Chaetomium biostiolatum R.Y. Roy & Bharadwaj SPECIES
-=======
+# Chaetomium biostiolatum R.Y. Roy & Bharadwaj SPECIES
 
 #### Status
 ACCEPTED

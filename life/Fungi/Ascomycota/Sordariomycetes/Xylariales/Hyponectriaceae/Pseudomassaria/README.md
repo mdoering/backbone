@@ -1,17 +1,16 @@
-Pseudapiospora Petr. GENUS
-=======
+# Pseudomassaria Jacz. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 68: 233 (1928)
+Bull. Herb. Boissier 2: 663 (1894)
 
 #### Original name
-Pseudapiospora Petr.
+Pseudomassaria Jacz.
 
 ### Remarks
 null

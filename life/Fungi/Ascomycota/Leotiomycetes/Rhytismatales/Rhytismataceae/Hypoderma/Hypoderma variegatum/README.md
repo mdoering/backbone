@@ -1,5 +1,4 @@
-Hypoderma variegatum (Berk. & M.A. Curtis) Duby SPECIES
-=======
+# Hypoderma variegatum (Berk. & M.A. Curtis) Duby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe obsoleta Sacc., 1875 SPECIES
-=======
+# Diaporthe obsoleta Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

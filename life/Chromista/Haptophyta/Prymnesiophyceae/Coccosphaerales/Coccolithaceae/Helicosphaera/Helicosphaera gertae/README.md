@@ -1,5 +1,4 @@
-Helicosphaera gertae D. Bukry SPECIES
-=======
+# Helicosphaera gertae D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora pertusa Sacc. & Cavara SPECIES
-=======
+# Pleospora pertusa Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

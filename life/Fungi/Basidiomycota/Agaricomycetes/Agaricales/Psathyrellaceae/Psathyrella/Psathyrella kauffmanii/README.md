@@ -1,5 +1,4 @@
-Psathyrella kauffmanii var. kauffmanii VARIETY
-=======
+# Psathyrella kauffmanii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 69 (1972)
 
 #### Original name
-Psathyrella kauffmanii var. kauffmanii
+Psathyrella kauffmanii A.H. Sm.
 
 ### Remarks
 null

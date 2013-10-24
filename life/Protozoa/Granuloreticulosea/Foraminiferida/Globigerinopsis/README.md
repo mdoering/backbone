@@ -1,5 +1,4 @@
-Globigerinopsis Bolli, 1962 GENUS
-=======
+# Globigerinopsis Bolli, 1962 GENUS
 
 #### Status
 ACCEPTED

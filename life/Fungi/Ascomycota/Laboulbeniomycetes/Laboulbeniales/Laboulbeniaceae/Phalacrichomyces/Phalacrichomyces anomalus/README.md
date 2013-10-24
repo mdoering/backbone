@@ -1,5 +1,4 @@
-Phalacrichomyces anomalus R.K. Benj., 1992 SPECIES
-=======
+# Phalacrichomyces anomalus R.K. Benj., 1992 SPECIES
 
 #### Status
 ACCEPTED

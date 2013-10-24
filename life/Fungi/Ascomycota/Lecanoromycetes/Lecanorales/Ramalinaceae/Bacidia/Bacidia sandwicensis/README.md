@@ -1,5 +1,4 @@
-Bacidia sandwicensis H. Magn. SPECIES
-=======
+# Bacidia sandwicensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

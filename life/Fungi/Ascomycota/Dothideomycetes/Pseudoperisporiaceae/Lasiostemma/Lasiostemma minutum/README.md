@@ -1,5 +1,4 @@
-Lasiostemma minutum M.L. Farr SPECIES
-=======
+# Lasiostemma minutum M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

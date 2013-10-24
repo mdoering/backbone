@@ -1,5 +1,4 @@
-Arthrobacter luteolus Wauters et al., 2000 SPECIES
-=======
+# Arthrobacter luteolus Wauters et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

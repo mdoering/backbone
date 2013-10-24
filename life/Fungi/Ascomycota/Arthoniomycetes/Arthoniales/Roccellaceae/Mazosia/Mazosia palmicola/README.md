@@ -1,5 +1,4 @@
-Mazosia palmicola Fink SPECIES
-=======
+# Mazosia palmicola Fink SPECIES
 
 #### Status
 ACCEPTED

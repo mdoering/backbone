@@ -1,5 +1,4 @@
-Lecidea adglutinata Nyl. SPECIES
-=======
+# Lecidea adglutinata Nyl. SPECIES
 
 #### Status
 ACCEPTED

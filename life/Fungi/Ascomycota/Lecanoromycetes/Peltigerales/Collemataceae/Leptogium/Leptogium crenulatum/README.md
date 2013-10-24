@@ -1,5 +1,4 @@
-Leptogium crenulatum Walt. Watson SPECIES
-=======
+# Leptogium crenulatum Walt. Watson SPECIES
 
 #### Status
 ACCEPTED

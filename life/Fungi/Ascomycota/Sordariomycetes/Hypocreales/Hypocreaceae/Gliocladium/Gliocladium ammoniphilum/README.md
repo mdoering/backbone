@@ -1,5 +1,4 @@
-Gliocladium ammoniphilum Pidopl. & Bilai, 1953 SPECIES
-=======
+# Gliocladium ammoniphilum Pidopl. & Bilai, 1953 SPECIES
 
 #### Status
 ACCEPTED

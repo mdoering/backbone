@@ -1,5 +1,4 @@
-Puccinia pucarae Berndt SPECIES
-=======
+# Puccinia pucarae Berndt SPECIES
 
 #### Status
 ACCEPTED

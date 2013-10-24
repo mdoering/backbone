@@ -1,5 +1,4 @@
-Pterosphermaceae FAMILY
-=======
+# Pterosphermaceae FAMILY
 
 #### Status
 ACCEPTED

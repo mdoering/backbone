@@ -1,5 +1,4 @@
-Streblus parkinsoniana (d'Orbigny) SPECIES
-=======
+# Streblus parkinsoniana (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

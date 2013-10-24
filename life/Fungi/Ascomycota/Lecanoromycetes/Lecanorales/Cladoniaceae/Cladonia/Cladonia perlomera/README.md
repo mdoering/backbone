@@ -1,5 +1,4 @@
-Cladonia perlomera Kristinsson SPECIES
-=======
+# Cladonia perlomera Kristinsson SPECIES
 
 #### Status
 ACCEPTED

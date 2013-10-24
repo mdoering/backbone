@@ -1,5 +1,4 @@
-Neophaeosphaeria M.P.S. Câmara, M.E. Palm & A.W. Ramaley GENUS
-=======
+# Neophaeosphaeria M.P.S. Câmara, M.E. Palm & A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

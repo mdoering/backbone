@@ -1,5 +1,4 @@
-Penicillium pinsaporum C. Ramírez & A.T. Martínez SPECIES
-=======
+# Penicillium pinsaporum C. Ramírez & A.T. Martínez SPECIES
 
 #### Status
 ACCEPTED

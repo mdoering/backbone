@@ -1,5 +1,4 @@
-Candida chrysomelidarum Nguyen, S.O. Suh, Erbil & M. Blackw., 2006 SPECIES
-=======
+# Candida chrysomelidarum Nguyen, S.O. Suh, Erbil & M. Blackw., 2006 SPECIES
 
 #### Status
 ACCEPTED

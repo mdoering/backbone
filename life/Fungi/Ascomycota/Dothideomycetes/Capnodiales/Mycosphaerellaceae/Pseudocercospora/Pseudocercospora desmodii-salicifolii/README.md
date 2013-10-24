@@ -1,5 +1,4 @@
-Pseudocercospora desmodii-salicifolii Deighton SPECIES
-=======
+# Pseudocercospora desmodii-salicifolii Deighton SPECIES
 
 #### Status
 ACCEPTED

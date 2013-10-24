@@ -1,5 +1,4 @@
-Sphaeria brunnea Schwein. SPECIES
-=======
+# Sphaeria brunnea Schwein. SPECIES
 
 #### Status
 ACCEPTED

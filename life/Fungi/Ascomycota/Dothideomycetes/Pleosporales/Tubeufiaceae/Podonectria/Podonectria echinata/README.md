@@ -1,5 +1,4 @@
-Podonectria echinata Petch, 1921 SPECIES
-=======
+# Podonectria echinata Petch, 1921 SPECIES
 
 #### Status
 ACCEPTED

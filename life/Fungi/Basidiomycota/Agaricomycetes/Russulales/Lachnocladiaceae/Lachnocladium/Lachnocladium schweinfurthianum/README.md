@@ -1,5 +1,4 @@
-Lachnocladium schweinfurthianum Henn. SPECIES
-=======
+# Lachnocladium schweinfurthianum Henn. SPECIES
 
 #### Status
 ACCEPTED

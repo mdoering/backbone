@@ -1,5 +1,4 @@
-Auerswaldia pandani Rehm SPECIES
-=======
+# Auerswaldia pandani Rehm SPECIES
 
 #### Status
 ACCEPTED

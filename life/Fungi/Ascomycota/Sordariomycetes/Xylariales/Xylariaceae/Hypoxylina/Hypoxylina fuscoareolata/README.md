@@ -1,5 +1,4 @@
-Hypoxylina fuscoareolata (Rehm) Lloyd SPECIES
-=======
+# Hypoxylina fuscoareolata (Rehm) Lloyd SPECIES
 
 #### Status
 ACCEPTED

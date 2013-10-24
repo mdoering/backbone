@@ -1,14 +1,13 @@
-Cryptodiscus astroideus (Berk. & Broome) Sacc. SPECIES
-=======
+# Thelotrema astroideum (Berk. & Broome) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 8: 674 (1889)
+Mycotaxon 11(1): 131 (1980)
 
 #### Original name
 Platygrapha astroidea Berk. & Broome

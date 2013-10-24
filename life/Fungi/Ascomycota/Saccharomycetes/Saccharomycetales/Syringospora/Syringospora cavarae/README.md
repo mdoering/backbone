@@ -1,5 +1,4 @@
-Syringospora cavarae (Pollacci & Turconi) C.W. Dodge SPECIES
-=======
+# Syringospora cavarae (Pollacci & Turconi) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

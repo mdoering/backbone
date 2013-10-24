@@ -1,5 +1,4 @@
-Verrucaria lacustris I.M. Lamb SPECIES
-=======
+# Verrucaria lacustris I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

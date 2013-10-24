@@ -1,5 +1,4 @@
-Cryptococcus clava Wedl {?} SPECIES
-=======
+# Cryptococcus clava Wedl {?} SPECIES
 
 #### Status
 ACCEPTED

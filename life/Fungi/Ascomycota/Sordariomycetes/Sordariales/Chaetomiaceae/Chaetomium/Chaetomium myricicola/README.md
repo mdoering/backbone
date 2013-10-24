@@ -1,5 +1,4 @@
-Chaetomium myricicola Y. Horie & Udagawa SPECIES
-=======
+# Chaetomium myricicola Y. Horie & Udagawa SPECIES
 
 #### Status
 ACCEPTED

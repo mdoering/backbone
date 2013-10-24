@@ -1,5 +1,4 @@
-Strickeria populina (Ellis & Everh.) Frolov SPECIES
-=======
+# Strickeria populina (Ellis & Everh.) Frolov SPECIES
 
 #### Status
 ACCEPTED

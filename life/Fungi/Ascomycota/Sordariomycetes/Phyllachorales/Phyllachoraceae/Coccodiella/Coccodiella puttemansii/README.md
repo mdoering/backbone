@@ -1,14 +1,13 @@
-Auerswaldia puttemansii Henn., 1902 SPECIES
-=======
+# Coccodiella puttemansii (Henn.) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 41: 111 (1902)
+J. Jap. Bot. 43: 283 (1968)
 
 #### Original name
 Auerswaldia puttemansii Henn., 1902

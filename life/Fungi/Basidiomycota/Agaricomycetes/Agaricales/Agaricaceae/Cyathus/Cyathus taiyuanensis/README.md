@@ -1,5 +1,4 @@
-Cyathus taiyuanensis B. Liu & Y.M. Li SPECIES
-=======
+# Cyathus taiyuanensis B. Liu & Y.M. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus houstonii Lloyd SPECIES
-=======
+# Polystictus houstonii Lloyd SPECIES
 
 #### Status
 ACCEPTED

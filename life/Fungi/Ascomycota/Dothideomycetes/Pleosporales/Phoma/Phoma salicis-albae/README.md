@@ -1,5 +1,4 @@
-Phoma salicis-albae Politis SPECIES
-=======
+# Phoma salicis-albae Politis SPECIES
 
 #### Status
 ACCEPTED

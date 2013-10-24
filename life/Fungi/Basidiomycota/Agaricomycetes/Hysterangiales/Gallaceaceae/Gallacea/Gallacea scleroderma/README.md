@@ -1,14 +1,13 @@
-Mesophellia scleroderma Cooke, 1885 SPECIES
-=======
+# Gallacea scleroderma (Cooke) Lloyd, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 69): 11 (1885)
+Mycol. Writings 1. Lycoperd. Australia 38 (1905)
 
 #### Original name
 Mesophellia scleroderma Cooke, 1885

@@ -1,5 +1,4 @@
-Crepidotus flavomarginatus Berk. & Broome SPECIES
-=======
+# Crepidotus flavomarginatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

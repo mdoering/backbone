@@ -1,5 +1,4 @@
-Staurothele alpina Zschacke SPECIES
-=======
+# Staurothele alpina Zschacke SPECIES
 
 #### Status
 ACCEPTED

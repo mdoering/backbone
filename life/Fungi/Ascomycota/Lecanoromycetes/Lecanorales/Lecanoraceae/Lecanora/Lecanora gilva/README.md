@@ -1,5 +1,4 @@
-Lecanora gilva (Vain.) K.G.W. Lång SPECIES
-=======
+# Lecanora gilva (Vain.) K.G.W. Lång SPECIES
 
 #### Status
 ACCEPTED

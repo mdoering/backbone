@@ -1,5 +1,4 @@
-Phoma acanthi Sacc. & D. Sacc. SPECIES
-=======
+# Phoma acanthi Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

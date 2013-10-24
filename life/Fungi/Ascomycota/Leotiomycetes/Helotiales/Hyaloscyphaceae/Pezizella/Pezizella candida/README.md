@@ -1,5 +1,4 @@
-Pezizella candida Starbäck SPECIES
-=======
+# Pezizella candida Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus veluticeps (Pat. & C.F. Baker) Singer SPECIES
-=======
+# Tylopilus veluticeps (Pat. & C.F. Baker) Singer SPECIES
 
 #### Status
 ACCEPTED

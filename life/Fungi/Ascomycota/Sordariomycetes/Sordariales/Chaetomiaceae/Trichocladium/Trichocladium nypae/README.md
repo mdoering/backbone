@@ -1,5 +1,4 @@
-Trichocladium nypae K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Trichocladium nypae K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

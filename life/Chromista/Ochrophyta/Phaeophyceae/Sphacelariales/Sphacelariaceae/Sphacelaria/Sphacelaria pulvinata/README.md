@@ -1,5 +1,4 @@
-Sphacelaria pulvinata J.D. Hooker & Harvey SPECIES
-=======
+# Sphacelaria pulvinata J.D. Hooker & Harvey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora pocsii Vezda SPECIES
-=======
+# Phyllopsora pocsii Vezda SPECIES
 
 #### Status
 ACCEPTED

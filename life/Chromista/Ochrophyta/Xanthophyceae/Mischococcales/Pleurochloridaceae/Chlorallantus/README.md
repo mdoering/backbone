@@ -1,5 +1,4 @@
-Chlorallantus A.Pascher GENUS
-=======
+# Chlorallantus A.Pascher GENUS
 
 #### Status
 ACCEPTED

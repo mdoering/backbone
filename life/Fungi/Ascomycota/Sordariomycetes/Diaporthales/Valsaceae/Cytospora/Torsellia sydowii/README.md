@@ -1,5 +1,4 @@
-Torsellia sydowii Petr. SPECIES
-=======
+# Torsellia sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

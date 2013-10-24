@@ -1,5 +1,4 @@
-Pseudocercosporella lantanicola (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercosporella lantanicola (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

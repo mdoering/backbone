@@ -1,5 +1,4 @@
-Rinodina ectolechioides SPECIES
-=======
+# Rinodina ectolechioides SPECIES
 
 #### Status
 ACCEPTED

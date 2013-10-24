@@ -1,5 +1,4 @@
-Tricholoma parvisporum Corner SPECIES
-=======
+# Tricholoma parvisporum Corner SPECIES
 
 #### Status
 ACCEPTED

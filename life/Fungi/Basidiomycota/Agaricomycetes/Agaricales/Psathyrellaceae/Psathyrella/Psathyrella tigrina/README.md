@@ -1,5 +1,4 @@
-Psathyrella tigrina (Pat.) A.H. Sm. SPECIES
-=======
+# Psathyrella tigrina (Pat.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

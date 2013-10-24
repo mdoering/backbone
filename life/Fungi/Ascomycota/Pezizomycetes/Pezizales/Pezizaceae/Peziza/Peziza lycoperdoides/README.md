@@ -1,8 +1,7 @@
-Peziza lycoperdioides DC. SPECIES
-=======
+# Peziza lycoperdoides DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza lycoperdioides DC.
+Peziza lycoperdoides DC.
 
 ### Remarks
 null

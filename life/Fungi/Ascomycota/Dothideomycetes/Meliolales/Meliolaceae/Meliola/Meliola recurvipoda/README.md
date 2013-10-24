@@ -1,5 +1,4 @@
-Meliola recurvipoda Hansf. SPECIES
-=======
+# Meliola recurvipoda Hansf. SPECIES
 
 #### Status
 ACCEPTED

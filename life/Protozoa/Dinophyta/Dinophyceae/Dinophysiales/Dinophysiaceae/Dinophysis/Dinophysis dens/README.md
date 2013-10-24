@@ -1,5 +1,4 @@
-Dinophysis dens Pavillard SPECIES
-=======
+# Dinophysis dens Pavillard SPECIES
 
 #### Status
 ACCEPTED

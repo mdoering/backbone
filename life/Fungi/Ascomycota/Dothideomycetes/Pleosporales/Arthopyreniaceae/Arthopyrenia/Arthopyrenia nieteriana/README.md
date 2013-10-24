@@ -1,5 +1,4 @@
-Arthopyrenia nieteriana Müll. Arg. SPECIES
-=======
+# Arthopyrenia nieteriana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

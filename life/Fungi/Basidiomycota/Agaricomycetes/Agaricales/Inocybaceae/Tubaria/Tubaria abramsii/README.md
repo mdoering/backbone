@@ -1,5 +1,4 @@
-Tubaria abramsii Murrill SPECIES
-=======
+# Tubaria abramsii Murrill SPECIES
 
 #### Status
 ACCEPTED

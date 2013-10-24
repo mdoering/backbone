@@ -1,5 +1,4 @@
-Kuehneromyces vinicolor (Pat.) Pegler SPECIES
-=======
+# Kuehneromyces vinicolor (Pat.) Pegler SPECIES
 
 #### Status
 ACCEPTED

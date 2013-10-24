@@ -1,5 +1,4 @@
-Verrucaria melanophthalma Mont. SPECIES
-=======
+# Verrucaria melanophthalma Mont. SPECIES
 
 #### Status
 ACCEPTED

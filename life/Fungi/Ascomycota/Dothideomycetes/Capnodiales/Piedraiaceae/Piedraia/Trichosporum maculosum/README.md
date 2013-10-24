@@ -1,5 +1,4 @@
-Trichosporum maculosum Sacc. SPECIES
-=======
+# Trichosporum maculosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

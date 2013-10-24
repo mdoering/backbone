@@ -1,5 +1,4 @@
-Protoleiosphaeridium tichovii Timofeev, 1963 SPECIES
-=======
+# Protoleiosphaeridium tichovii Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

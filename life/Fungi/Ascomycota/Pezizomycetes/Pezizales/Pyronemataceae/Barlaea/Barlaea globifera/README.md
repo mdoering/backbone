@@ -1,5 +1,4 @@
-Barlaea globifera var. globifera VARIETY
-=======
+# Barlaea globifera (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 8: 114 (1889)
 
 #### Original name
-Barlaea globifera var. globifera
+Sporidesmium globiferum Berk. & M.A. Curtis
 
 ### Remarks
 null

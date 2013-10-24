@@ -1,5 +1,4 @@
-Ustilago americana Speg. SPECIES
-=======
+# Ustilago americana Speg. SPECIES
 
 #### Status
 ACCEPTED

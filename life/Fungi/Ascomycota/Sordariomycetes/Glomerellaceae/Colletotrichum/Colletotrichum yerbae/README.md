@@ -1,5 +1,4 @@
-Colletotrichum yerbae Speg. SPECIES
-=======
+# Colletotrichum yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

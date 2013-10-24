@@ -1,5 +1,4 @@
-Verrucaria subducta Kremp. SPECIES
-=======
+# Verrucaria subducta Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxyphysis Kofoid, 1926 GENUS
-=======
+# Oxyphysis Kofoid, 1926 GENUS
 
 #### Status
 ACCEPTED

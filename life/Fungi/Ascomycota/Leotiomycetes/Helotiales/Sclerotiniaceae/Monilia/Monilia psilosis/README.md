@@ -1,5 +1,4 @@
-Monilia psilosis Ashford SPECIES
-=======
+# Monilia psilosis Ashford SPECIES
 
 #### Status
 ACCEPTED

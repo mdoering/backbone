@@ -1,5 +1,4 @@
-Ascobolus porphyrosporus (Hedw.) Fr. SPECIES
-=======
+# Ascobolus porphyrosporus (Hedw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina perminuta Groenh. ex H. Mayrhofer SPECIES
-=======
+# Rinodina perminuta Groenh. ex H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

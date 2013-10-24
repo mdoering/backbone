@@ -1,5 +1,4 @@
-Peltigera crenulata Vain. SPECIES
-=======
+# Peltigera crenulata Vain. SPECIES
 
 #### Status
 ACCEPTED

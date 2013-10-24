@@ -1,5 +1,4 @@
-Bulbothrix lopezii Hale SPECIES
-=======
+# Bulbothrix lopezii Hale SPECIES
 
 #### Status
 ACCEPTED

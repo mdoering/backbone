@@ -1,5 +1,4 @@
-Ascochyta atropunctata G. Winter SPECIES
-=======
+# Ascochyta atropunctata G. Winter SPECIES
 
 #### Status
 ACCEPTED

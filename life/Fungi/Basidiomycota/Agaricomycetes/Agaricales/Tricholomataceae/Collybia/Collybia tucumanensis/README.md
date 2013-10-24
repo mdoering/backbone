@@ -1,5 +1,4 @@
-Collybia tucumanensis Singer SPECIES
-=======
+# Collybia tucumanensis Singer SPECIES
 
 #### Status
 ACCEPTED

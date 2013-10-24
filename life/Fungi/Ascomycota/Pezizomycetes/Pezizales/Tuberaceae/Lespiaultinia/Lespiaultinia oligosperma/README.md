@@ -1,5 +1,4 @@
-Lespiaultinia oligosperma (Tul. & C. Tul.) Gilkey SPECIES
-=======
+# Lespiaultinia oligosperma (Tul. & C. Tul.) Gilkey SPECIES
 
 #### Status
 ACCEPTED

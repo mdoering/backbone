@@ -1,5 +1,4 @@
-Pseudocercospora swieteniae U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora swieteniae U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

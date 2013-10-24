@@ -1,5 +1,4 @@
-Heterobasidion Brefeld, 1888 GENUS
-=======
+# Heterobasidion Brefeld, 1888 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histobalantium marinum Kahl, 1933 SPECIES
-=======
+# Histobalantium marinum Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

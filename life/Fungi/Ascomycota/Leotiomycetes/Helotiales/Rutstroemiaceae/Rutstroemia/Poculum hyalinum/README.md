@@ -1,5 +1,4 @@
-Poculum hyalinum S.E. Carp. & Dumont SPECIES
-=======
+# Poculum hyalinum S.E. Carp. & Dumont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea spadana B. de Lesd. SPECIES
-=======
+# Lecidea spadana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

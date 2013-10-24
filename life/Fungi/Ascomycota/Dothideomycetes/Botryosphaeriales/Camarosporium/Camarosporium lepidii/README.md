@@ -1,5 +1,4 @@
-Camarosporium lepidii Hollós SPECIES
-=======
+# Camarosporium lepidii Hollós SPECIES
 
 #### Status
 ACCEPTED

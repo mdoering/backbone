@@ -1,5 +1,4 @@
-Cothurnia cyathus Jaworowski, 1893 SPECIES
-=======
+# Cothurnia cyathus Jaworowski, 1893 SPECIES
 
 #### Status
 ACCEPTED

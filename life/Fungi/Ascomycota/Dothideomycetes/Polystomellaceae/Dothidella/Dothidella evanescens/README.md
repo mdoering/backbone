@@ -1,5 +1,4 @@
-Dothidella evanescens Rehm SPECIES
-=======
+# Dothidella evanescens Rehm SPECIES
 
 #### Status
 ACCEPTED

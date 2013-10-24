@@ -1,5 +1,4 @@
-Cercospora naitoi Togashi SPECIES
-=======
+# Cercospora naitoi Togashi SPECIES
 
 #### Status
 ACCEPTED

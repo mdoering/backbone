@@ -1,5 +1,4 @@
-Leptothyrium vassiljevskii Czerepan. SPECIES
-=======
+# Leptothyrium vassiljevskii Czerepan. SPECIES
 
 #### Status
 ACCEPTED

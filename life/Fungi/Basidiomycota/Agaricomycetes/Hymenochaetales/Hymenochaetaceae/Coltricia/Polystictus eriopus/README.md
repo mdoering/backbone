@@ -1,5 +1,4 @@
-Polystictus eriopus Ces. SPECIES
-=======
+# Polystictus eriopus Ces. SPECIES
 
 #### Status
 ACCEPTED

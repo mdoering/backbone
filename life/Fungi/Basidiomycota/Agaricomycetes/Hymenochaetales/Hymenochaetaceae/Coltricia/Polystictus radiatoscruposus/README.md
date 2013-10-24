@@ -1,5 +1,4 @@
-Polystictus radiatoscruposus Henn. SPECIES
-=======
+# Polystictus radiatoscruposus Henn. SPECIES
 
 #### Status
 ACCEPTED

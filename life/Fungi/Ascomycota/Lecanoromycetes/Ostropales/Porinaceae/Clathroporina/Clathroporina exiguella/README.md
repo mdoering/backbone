@@ -1,5 +1,4 @@
-Clathroporina exiguella Zahlbr. SPECIES
-=======
+# Clathroporina exiguella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

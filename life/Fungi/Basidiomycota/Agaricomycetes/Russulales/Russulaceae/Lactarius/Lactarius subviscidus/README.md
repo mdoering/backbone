@@ -1,5 +1,4 @@
-Lactarius subviscidus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius subviscidus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia adducta Arthur SPECIES
-=======
+# Puccinia adducta Arthur SPECIES
 
 #### Status
 ACCEPTED

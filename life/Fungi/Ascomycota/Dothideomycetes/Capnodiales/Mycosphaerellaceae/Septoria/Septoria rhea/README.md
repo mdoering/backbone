@@ -1,5 +1,4 @@
-Septoria rhea Fautrey SPECIES
-=======
+# Septoria rhea Fautrey SPECIES
 
 #### Status
 ACCEPTED

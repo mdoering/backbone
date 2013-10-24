@@ -1,17 +1,16 @@
-Xerocarpus laeticolor P. Karst., 1882 SPECIES
-=======
+# Crustoderma dryinum (Berk. & M.A. Curtis) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 37: 137 (1882)
+Consp. System. Corticiac. (Tartu) 88 (1968)
 
 #### Original name
-Xerocarpus laeticolor P. Karst., 1882
+Corticium dryinum Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

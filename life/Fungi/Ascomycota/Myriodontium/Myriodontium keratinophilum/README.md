@@ -1,5 +1,4 @@
-Myriodontium keratinophilum Samson & Polon., 1978 SPECIES
-=======
+# Myriodontium keratinophilum Samson & Polon., 1978 SPECIES
 
 #### Status
 ACCEPTED

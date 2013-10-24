@@ -1,17 +1,16 @@
-Tremella tubercularia SPECIES
-=======
+# Tremella globispora D.A. Reid, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 55: 414 (1970)
 
 #### Original name
-Tremella tubercularia
+Tremella globispora D.A. Reid, 1970
 
 ### Remarks
 null

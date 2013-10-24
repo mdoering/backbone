@@ -1,5 +1,4 @@
-Octomastix Alexeieff, 1917 GENUS
-=======
+# Octomastix Alexeieff, 1917 GENUS
 
 #### Status
 ACCEPTED

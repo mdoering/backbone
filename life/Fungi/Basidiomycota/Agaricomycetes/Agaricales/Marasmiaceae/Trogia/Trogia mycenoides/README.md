@@ -1,5 +1,4 @@
-Trogia mycenoides Corner SPECIES
-=======
+# Trogia mycenoides Corner SPECIES
 
 #### Status
 ACCEPTED

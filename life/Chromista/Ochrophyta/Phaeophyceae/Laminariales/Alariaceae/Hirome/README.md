@@ -1,5 +1,4 @@
-Hirome K.Yendo, 1903 GENUS
-=======
+# Hirome K.Yendo, 1903 GENUS
 
 #### Status
 ACCEPTED

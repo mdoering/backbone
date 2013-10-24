@@ -1,5 +1,4 @@
-Sporopodium gigantosporum (Rehm) Zahlbr. SPECIES
-=======
+# Sporopodium gigantosporum (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

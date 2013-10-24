@@ -1,5 +1,4 @@
-Coniosporium triticinum Gaja SPECIES
-=======
+# Coniosporium triticinum Gaja SPECIES
 
 #### Status
 ACCEPTED

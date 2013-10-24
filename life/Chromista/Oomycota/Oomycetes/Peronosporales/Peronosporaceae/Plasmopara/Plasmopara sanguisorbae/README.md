@@ -1,5 +1,4 @@
-Plasmopara sanguisorbae C.J. Li, Z.Q. Yuan & Z.Y. Zhao SPECIES
-=======
+# Plasmopara sanguisorbae C.J. Li, Z.Q. Yuan & Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

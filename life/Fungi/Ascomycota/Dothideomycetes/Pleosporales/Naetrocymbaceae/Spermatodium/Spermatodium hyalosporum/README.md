@@ -1,5 +1,4 @@
-Spermatodium hyalosporum (Nyl.) Trevis. SPECIES
-=======
+# Spermatodium hyalosporum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

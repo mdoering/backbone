@@ -1,5 +1,4 @@
-Polystictus tenuis Link ex Cooke SPECIES
-=======
+# Polystictus tenuis Link ex Cooke SPECIES
 
 #### Status
 ACCEPTED

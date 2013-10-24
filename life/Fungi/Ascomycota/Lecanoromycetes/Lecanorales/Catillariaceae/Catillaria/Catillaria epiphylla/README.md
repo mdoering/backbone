@@ -1,5 +1,4 @@
-Catillaria epiphylla Fink SPECIES
-=======
+# Catillaria epiphylla Fink SPECIES
 
 #### Status
 ACCEPTED

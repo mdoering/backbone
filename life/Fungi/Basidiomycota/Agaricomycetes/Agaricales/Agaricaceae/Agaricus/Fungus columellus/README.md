@@ -1,5 +1,4 @@
-Fungus columellus Scop. SPECIES
-=======
+# Fungus columellus Scop. SPECIES
 
 #### Status
 ACCEPTED

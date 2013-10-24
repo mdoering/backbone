@@ -1,5 +1,4 @@
-Stygamoeba regulata Smirnov, 1996 SPECIES
-=======
+# Stygamoeba regulata Smirnov, 1996 SPECIES
 
 #### Status
 ACCEPTED

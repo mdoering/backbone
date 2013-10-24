@@ -1,5 +1,4 @@
-Biatora vesicularis (Hoffm.) SPECIES
-=======
+# Biatora vesicularis (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

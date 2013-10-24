@@ -1,5 +1,4 @@
-Tephromela elixii Kalb SPECIES
-=======
+# Tephromela elixii Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius mirificus Reumaux SPECIES
-=======
+# Cortinarius mirificus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Grandiniella P. Karst. GENUS
-=======
+# Phanerochaete P. Karsten, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hedwigia 34: 8 (1895)
+null
 
 #### Original name
-Grandiniella P. Karst.
+null
 
 ### Remarks
 null

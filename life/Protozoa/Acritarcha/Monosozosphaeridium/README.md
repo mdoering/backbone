@@ -1,5 +1,4 @@
-Monosozosphaeridium Zang & Walter, 1992 GENUS
-=======
+# Monosozosphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

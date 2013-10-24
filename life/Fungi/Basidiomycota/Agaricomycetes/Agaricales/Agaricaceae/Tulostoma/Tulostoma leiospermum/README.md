@@ -1,17 +1,16 @@
-Tulostoma lejospermum Speg. SPECIES
-=======
+# Tulostoma leiospermum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 31: 375 (1922)
 
 #### Original name
-Tulostoma lejospermum Speg.
+Tulostoma leiospermum Speg.
 
 ### Remarks
 null

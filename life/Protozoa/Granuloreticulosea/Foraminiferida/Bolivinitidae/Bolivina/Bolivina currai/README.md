@@ -1,5 +1,4 @@
-Bolivina currai SPECIES
-=======
+# Bolivina currai SPECIES
 
 #### Status
 ACCEPTED

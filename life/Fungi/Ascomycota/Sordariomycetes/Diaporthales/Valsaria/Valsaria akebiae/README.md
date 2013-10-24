@@ -1,5 +1,4 @@
-Valsaria akebiae Ellis & Everh. SPECIES
-=======
+# Valsaria akebiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

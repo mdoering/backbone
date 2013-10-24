@@ -1,5 +1,4 @@
-Aposphaeria compressa Pass. SPECIES
-=======
+# Aposphaeria compressa Pass. SPECIES
 
 #### Status
 ACCEPTED

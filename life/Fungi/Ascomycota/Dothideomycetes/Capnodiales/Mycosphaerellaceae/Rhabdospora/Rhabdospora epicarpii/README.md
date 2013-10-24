@@ -1,5 +1,4 @@
-Rhabdospora epicarpii (Thüm.) Died. SPECIES
-=======
+# Rhabdospora epicarpii (Thüm.) Died. SPECIES
 
 #### Status
 ACCEPTED

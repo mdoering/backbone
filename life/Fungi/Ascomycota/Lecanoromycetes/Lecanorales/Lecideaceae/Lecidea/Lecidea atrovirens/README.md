@@ -1,5 +1,4 @@
-Lecidea atrovirens SPECIES
-=======
+# Lecidea atrovirens SPECIES
 
 #### Status
 ACCEPTED

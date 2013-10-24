@@ -1,5 +1,4 @@
-Metasphaeria leguminosa Fairm. SPECIES
-=======
+# Metasphaeria leguminosa Fairm. SPECIES
 
 #### Status
 ACCEPTED

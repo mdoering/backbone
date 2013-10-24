@@ -1,17 +1,16 @@
-Sirogloea evonymi Petr. SPECIES
-=======
+# Sirogloea euonymi Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 21(3/4): 247 (1923)
 
 #### Original name
-Sirogloea evonymi Petr.
+Sirogloea euonymi Petr., 1923
 
 ### Remarks
 null

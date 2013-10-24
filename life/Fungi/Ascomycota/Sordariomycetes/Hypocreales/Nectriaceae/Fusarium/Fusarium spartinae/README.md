@@ -1,5 +1,4 @@
-Fusarium spartinae Ellis & Everh. SPECIES
-=======
+# Fusarium spartinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocenia obtusa Berk. & M.A. Curtis SPECIES
-=======
+# Hypocenia obtusa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca subphysciospora H. Magn. SPECIES
-=======
+# Caloplaca subphysciospora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

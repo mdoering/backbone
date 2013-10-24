@@ -1,5 +1,4 @@
-Gerronema tenue Dennis SPECIES
-=======
+# Gerronema tenue Dennis SPECIES
 
 #### Status
 ACCEPTED

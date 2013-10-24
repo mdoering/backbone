@@ -1,5 +1,4 @@
-Polystictus vicinus Bres. SPECIES
-=======
+# Polystictus vicinus Bres. SPECIES
 
 #### Status
 ACCEPTED

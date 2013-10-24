@@ -1,5 +1,4 @@
-Pyrenopsis haemaleella (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Pyrenopsis haemaleella (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

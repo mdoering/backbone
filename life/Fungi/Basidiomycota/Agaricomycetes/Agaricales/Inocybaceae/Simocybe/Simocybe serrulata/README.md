@@ -1,5 +1,4 @@
-Simocybe serrulata (Murrill) Singer SPECIES
-=======
+# Simocybe serrulata (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

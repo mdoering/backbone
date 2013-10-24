@@ -1,5 +1,4 @@
-Diatrypella deusta Ellis & G. Martin SPECIES
-=======
+# Diatrypella deusta Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

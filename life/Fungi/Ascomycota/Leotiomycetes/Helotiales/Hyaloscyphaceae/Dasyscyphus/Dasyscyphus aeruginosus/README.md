@@ -1,5 +1,4 @@
-Dasyscyphus aeruginosus (Mont. & Durieu) Dennis SPECIES
-=======
+# Dasyscyphus aeruginosus (Mont. & Durieu) Dennis SPECIES
 
 #### Status
 ACCEPTED

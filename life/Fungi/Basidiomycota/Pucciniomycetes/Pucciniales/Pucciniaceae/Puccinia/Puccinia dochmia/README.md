@@ -1,5 +1,4 @@
-Puccinia dochmia Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia dochmia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

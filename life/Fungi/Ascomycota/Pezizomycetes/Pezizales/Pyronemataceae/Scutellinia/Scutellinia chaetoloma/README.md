@@ -1,5 +1,4 @@
-Scutellinia chaetoloma Clem. SPECIES
-=======
+# Scutellinia chaetoloma Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia recurva Goward, C. R. Björk & Hollinger SPECIES
-=======
+# Hypogymnia recurva Goward, C. R. Björk & Hollinger SPECIES
 
 #### Status
 ACCEPTED

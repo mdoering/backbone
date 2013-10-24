@@ -1,5 +1,4 @@
-Monochaetia muehlenbeckiae McAlpine SPECIES
-=======
+# Monochaetia muehlenbeckiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

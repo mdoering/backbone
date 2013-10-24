@@ -1,5 +1,4 @@
-Sticta lutescens Taylor SPECIES
-=======
+# Sticta lutescens Taylor SPECIES
 
 #### Status
 ACCEPTED

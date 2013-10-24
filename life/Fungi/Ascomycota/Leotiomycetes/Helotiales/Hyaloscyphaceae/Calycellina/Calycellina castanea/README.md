@@ -1,5 +1,4 @@
-Calycellina castanea (Sacc. & Ellis) Dennis SPECIES
-=======
+# Calycellina castanea (Sacc. & Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

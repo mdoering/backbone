@@ -1,5 +1,4 @@
-Gloeosporium perseae-drymifoliae var. perseae-drymifoliae VARIETY
-=======
+# Gloeosporium perseae-drymifoliae Calvino SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium perseae-drymifoliae var. perseae-drymifoliae
+Gloeosporium perseae-drymifoliae Calvino
 
 ### Remarks
 null

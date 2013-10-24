@@ -1,5 +1,4 @@
-Stauronema cruciferum (Ellis) Syd., P. Syd. & E.J. Butler, 1916 SPECIES
-=======
+# Stauronema cruciferum (Ellis) Syd., P. Syd. & E.J. Butler, 1916 SPECIES
 
 #### Status
 ACCEPTED

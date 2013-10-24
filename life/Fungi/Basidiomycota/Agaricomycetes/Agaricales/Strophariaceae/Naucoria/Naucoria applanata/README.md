@@ -1,5 +1,4 @@
-Naucoria applanata Velen. SPECIES
-=======
+# Naucoria applanata Velen. SPECIES
 
 #### Status
 ACCEPTED

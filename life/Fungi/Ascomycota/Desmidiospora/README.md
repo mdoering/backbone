@@ -1,5 +1,4 @@
-Desmidiospora Thaxt. GENUS
-=======
+# Desmidiospora Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora orientalis Togashi & Tsukam. SPECIES
-=======
+# Rhabdospora orientalis Togashi & Tsukam. SPECIES
 
 #### Status
 ACCEPTED

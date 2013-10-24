@@ -1,17 +1,16 @@
-Inocybe brevispora Huijsman, 1955 SPECIES
-=======
+# Inocybe soluta Velen., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 25: 23 (1955)
+Ceské Houby 2: 365 (1920)
 
 #### Original name
-Inocybe brevispora Huijsman, 1955
+Inocybe soluta Velen., 1920
 
 ### Remarks
 null

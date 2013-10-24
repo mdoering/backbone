@@ -1,5 +1,4 @@
-Pseudocercospora rauwolfiae-serpentinae H.S. Rao, Arch. Singh & Kamal SPECIES
-=======
+# Pseudocercospora rauwolfiae-serpentinae H.S. Rao, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

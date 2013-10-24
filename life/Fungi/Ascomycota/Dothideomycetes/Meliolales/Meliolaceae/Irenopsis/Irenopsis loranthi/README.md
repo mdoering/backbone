@@ -1,5 +1,4 @@
-Irenopsis loranthi Y.X. Hu SPECIES
-=======
+# Irenopsis loranthi Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria matricariae Syd., 1921 SPECIES
-=======
+# Septoria matricariae Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

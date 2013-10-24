@@ -1,5 +1,4 @@
-Anigsteinia arenicola SPECIES
-=======
+# Anigsteinia arenicola SPECIES
 
 #### Status
 ACCEPTED

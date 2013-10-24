@@ -1,17 +1,16 @@
-Herpotrichia schiedermayeriana var. schiedermayeriana VARIETY
-=======
+# Byssosphaeria schiedermayeriana (Fuckel) M.E. Barr, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 27-28: 27 (1873)
+Mycotaxon 20(1): 34 (1984)
 
 #### Original name
-Herpotrichia schiedermayeriana var. schiedermayeriana
+Herpotrichia schiedermayeriana Fuckel, 1874
 
 ### Remarks
 null

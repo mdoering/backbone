@@ -1,5 +1,4 @@
-Pacillina vanhöffenii Kufferath, 1950 SPECIES
-=======
+# Pacillina vanhöffenii Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

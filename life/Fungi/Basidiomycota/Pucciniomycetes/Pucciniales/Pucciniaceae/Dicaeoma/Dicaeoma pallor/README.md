@@ -1,5 +1,4 @@
-Dicaeoma pallor (Arthur & Holw.) Arthur SPECIES
-=======
+# Dicaeoma pallor (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

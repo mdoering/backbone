@@ -1,5 +1,4 @@
-Cercospora ticinensis Cavara SPECIES
-=======
+# Cercospora ticinensis Cavara SPECIES
 
 #### Status
 ACCEPTED

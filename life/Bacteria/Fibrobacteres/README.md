@@ -1,5 +1,4 @@
-Fibrobacteres PHYLUM
-=======
+# Fibrobacteres PHYLUM
 
 #### Status
 ACCEPTED

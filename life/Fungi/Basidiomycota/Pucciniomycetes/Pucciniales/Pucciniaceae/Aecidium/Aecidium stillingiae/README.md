@@ -1,5 +1,4 @@
-Aecidium stillingiae Tracy & Earle SPECIES
-=======
+# Aecidium stillingiae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

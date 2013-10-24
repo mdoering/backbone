@@ -1,5 +1,4 @@
-Vorticella incerta Nenninger, 1948 SPECIES
-=======
+# Vorticella incerta Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymostilbe coprophila J.H. Mirza & M. Qureshi SPECIES
-=======
+# Didymostilbe coprophila J.H. Mirza & M. Qureshi SPECIES
 
 #### Status
 ACCEPTED

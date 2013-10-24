@@ -1,5 +1,4 @@
-Arthonia gyalectoides Müll. Arg. SPECIES
-=======
+# Arthonia gyalectoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

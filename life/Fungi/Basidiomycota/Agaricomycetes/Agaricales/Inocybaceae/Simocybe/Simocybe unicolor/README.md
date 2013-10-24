@@ -1,5 +1,4 @@
-Simocybe unicolor (Peck) Singer SPECIES
-=======
+# Simocybe unicolor (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

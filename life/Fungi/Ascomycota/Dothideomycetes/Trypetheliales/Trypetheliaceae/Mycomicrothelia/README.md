@@ -1,5 +1,4 @@
-Mycomicrothelia Keissl. GENUS
-=======
+# Mycomicrothelia Keissl. GENUS
 
 #### Status
 ACCEPTED

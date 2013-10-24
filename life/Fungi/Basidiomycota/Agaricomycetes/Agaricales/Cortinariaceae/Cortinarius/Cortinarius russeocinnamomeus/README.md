@@ -1,5 +1,4 @@
-Cortinarius russeocinnamomeus Cleland SPECIES
-=======
+# Cortinarius russeocinnamomeus Cleland SPECIES
 
 #### Status
 ACCEPTED

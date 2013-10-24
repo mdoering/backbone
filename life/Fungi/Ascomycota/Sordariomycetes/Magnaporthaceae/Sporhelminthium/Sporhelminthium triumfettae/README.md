@@ -1,5 +1,4 @@
-Sporhelminthium triumfettae (Henn.) Speg. SPECIES
-=======
+# Sporhelminthium triumfettae (Henn.) Speg. SPECIES
 
 #### Status
 ACCEPTED

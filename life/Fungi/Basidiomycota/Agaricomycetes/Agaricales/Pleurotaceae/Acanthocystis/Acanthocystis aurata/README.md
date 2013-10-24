@@ -1,17 +1,16 @@
-Acanthocystis auratus Singer SPECIES
-=======
+# Acanthocystis aurata Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 40: 148 (1943)
 
 #### Original name
-Acanthocystis auratus Singer
+Acanthocystis aurata Singer
 
 ### Remarks
 null

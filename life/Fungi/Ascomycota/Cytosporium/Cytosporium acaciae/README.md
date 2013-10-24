@@ -1,5 +1,4 @@
-Cytosporium acaciae Pat. SPECIES
-=======
+# Cytosporium acaciae Pat. SPECIES
 
 #### Status
 ACCEPTED

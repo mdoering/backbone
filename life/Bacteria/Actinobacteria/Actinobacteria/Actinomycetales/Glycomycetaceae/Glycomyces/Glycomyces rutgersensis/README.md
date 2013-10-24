@@ -1,5 +1,4 @@
-Glycomyces rutgersensis Labeda et al., 1985 SPECIES
-=======
+# Glycomyces rutgersensis Labeda et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

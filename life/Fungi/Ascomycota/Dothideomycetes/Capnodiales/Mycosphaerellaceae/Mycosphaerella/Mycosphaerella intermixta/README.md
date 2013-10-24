@@ -1,5 +1,4 @@
-Mycosphaerella intermixta Lindau SPECIES
-=======
+# Mycosphaerella intermixta Lindau SPECIES
 
 #### Status
 ACCEPTED

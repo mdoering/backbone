@@ -1,5 +1,4 @@
-Lachnum patena (Lév.) J.H. Haines & Dumont SPECIES
-=======
+# Lachnum patena (Lév.) J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

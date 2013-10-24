@@ -1,5 +1,4 @@
-Ditrabs Baumgartner, 1980 GENUS
-=======
+# Ditrabs Baumgartner, 1980 GENUS
 
 #### Status
 ACCEPTED

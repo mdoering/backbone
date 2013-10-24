@@ -1,17 +1,16 @@
-Belonia russula var. terrigena (Eitner) Keissl. VARIETY
-=======
+# Belonia incarnata Th. Fr. & Graewe ex Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 21: 274 (1865)
 
 #### Original name
-null
+Belonia incarnata Th. Fr. & Graewe ex Th. Fr.
 
 ### Remarks
 null

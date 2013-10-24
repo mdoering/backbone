@@ -1,5 +1,4 @@
-Anthostomella hemileuca Speg. SPECIES
-=======
+# Anthostomella hemileuca Speg. SPECIES
 
 #### Status
 ACCEPTED

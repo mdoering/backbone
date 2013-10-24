@@ -1,5 +1,4 @@
-Lundquistia fascicularis Vánky SPECIES
-=======
+# Lundquistia fascicularis Vánky SPECIES
 
 #### Status
 ACCEPTED

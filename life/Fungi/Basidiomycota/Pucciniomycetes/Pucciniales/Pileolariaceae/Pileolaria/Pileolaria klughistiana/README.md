@@ -1,5 +1,4 @@
-Pileolaria klughistiana (Diet.) Diet. SPECIES
-=======
+# Pileolaria klughistiana (Diet.) Diet. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta yakushimensis T. Kobay. {?} SPECIES
-=======
+# Ascochyta yakushimensis T. Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

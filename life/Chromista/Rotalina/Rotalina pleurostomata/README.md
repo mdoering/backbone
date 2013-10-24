@@ -1,5 +1,4 @@
-Rotalina pleurostomata Schlumberger, 1883 SPECIES
-=======
+# Rotalina pleurostomata Schlumberger, 1883 SPECIES
 
 #### Status
 ACCEPTED

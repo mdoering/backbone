@@ -1,5 +1,4 @@
-Physcia fimbriatula SPECIES
-=======
+# Physcia fimbriatula SPECIES
 
 #### Status
 ACCEPTED

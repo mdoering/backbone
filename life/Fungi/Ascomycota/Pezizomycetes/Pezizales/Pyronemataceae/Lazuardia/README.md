@@ -1,5 +1,4 @@
-Lazuardia Rifai GENUS
-=======
+# Lazuardia Rifai GENUS
 
 #### Status
 ACCEPTED

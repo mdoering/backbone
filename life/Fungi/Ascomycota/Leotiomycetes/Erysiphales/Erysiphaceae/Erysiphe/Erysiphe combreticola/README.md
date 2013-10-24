@@ -1,5 +1,4 @@
-Erysiphe combreticola (Doidge) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe combreticola (Doidge) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus subpulverulentes Speg. SPECIES
-=======
+# Polyporus subpulverulentes Speg. SPECIES
 
 #### Status
 ACCEPTED

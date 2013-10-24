@@ -1,5 +1,4 @@
-Afipia felis Brenner et al., 1992 SPECIES
-=======
+# Afipia felis Brenner et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

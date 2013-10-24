@@ -1,5 +1,4 @@
-Lepocinclis kufferathii Deflandre SPECIES
-=======
+# Lepocinclis kufferathii Deflandre SPECIES
 
 #### Status
 ACCEPTED

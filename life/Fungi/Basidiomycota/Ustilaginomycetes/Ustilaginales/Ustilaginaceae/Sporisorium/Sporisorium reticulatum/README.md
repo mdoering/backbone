@@ -1,5 +1,4 @@
-Sporisorium reticulatum (B. Liu, Z.Y. Li & Du) Vánky SPECIES
-=======
+# Sporisorium reticulatum (B. Liu, Z.Y. Li & Du) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alboleptonia GENUS
-=======
+# Alboleptonia GENUS
 
 #### Status
 ACCEPTED

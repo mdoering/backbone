@@ -1,5 +1,4 @@
-Aggregata vagans Léger & Duboscq, 1903 SPECIES
-=======
+# Aggregata vagans Léger & Duboscq, 1903 SPECIES
 
 #### Status
 ACCEPTED

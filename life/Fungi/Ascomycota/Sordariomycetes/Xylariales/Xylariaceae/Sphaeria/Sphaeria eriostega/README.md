@@ -1,5 +1,4 @@
-Sphaeria eriostega Cooke & Ellis SPECIES
-=======
+# Sphaeria eriostega Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

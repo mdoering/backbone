@@ -1,5 +1,4 @@
-Campylobacter hyoilei Alderton et al., 1995 SPECIES
-=======
+# Campylobacter hyoilei Alderton et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

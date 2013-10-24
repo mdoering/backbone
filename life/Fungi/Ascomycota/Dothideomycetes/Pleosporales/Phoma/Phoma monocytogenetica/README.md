@@ -1,5 +1,4 @@
-Phoma monocytogenetica Curzi SPECIES
-=======
+# Phoma monocytogenetica Curzi SPECIES
 
 #### Status
 ACCEPTED

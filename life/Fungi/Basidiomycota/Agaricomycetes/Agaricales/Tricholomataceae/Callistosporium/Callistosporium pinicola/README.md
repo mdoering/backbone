@@ -1,5 +1,4 @@
-Callistosporium pinicola Arnolds, 2006 SPECIES
-=======
+# Callistosporium pinicola Arnolds, 2006 SPECIES
 
 #### Status
 ACCEPTED

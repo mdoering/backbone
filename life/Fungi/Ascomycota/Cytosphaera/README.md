@@ -1,5 +1,4 @@
-Cytosphaera Died. GENUS
-=======
+# Cytosphaera Died. GENUS
 
 #### Status
 ACCEPTED

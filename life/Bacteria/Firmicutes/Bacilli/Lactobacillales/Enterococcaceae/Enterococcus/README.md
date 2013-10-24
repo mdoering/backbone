@@ -1,5 +1,4 @@
-Enterococcus Thiercelin & Jouhaud, 1903 GENUS
-=======
+# Enterococcus Thiercelin & Jouhaud, 1903 GENUS
 
 #### Status
 ACCEPTED

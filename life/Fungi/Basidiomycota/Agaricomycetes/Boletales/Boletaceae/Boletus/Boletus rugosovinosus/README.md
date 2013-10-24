@@ -1,5 +1,4 @@
-Boletus rugosovinosus Raithelh. SPECIES
-=======
+# Boletus rugosovinosus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

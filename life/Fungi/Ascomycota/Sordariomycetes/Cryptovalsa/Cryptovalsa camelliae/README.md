@@ -1,5 +1,4 @@
-Cryptovalsa camelliae Syd. & P. Syd. SPECIES
-=======
+# Cryptovalsa camelliae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

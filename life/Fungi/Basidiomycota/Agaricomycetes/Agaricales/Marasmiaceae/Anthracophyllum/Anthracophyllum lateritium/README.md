@@ -1,14 +1,13 @@
-Plicatura lateritia (Berk. & M.A. Curtis) Murrill, 1910 SPECIES
-=======
+# Anthracophyllum lateritium (Berk. & M.A. Curtis) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(3): 164 (1910)
+Lilloa 22: 206 (1951)
 
 #### Original name
 Xerotus lateritius Berk. & M.A. Curtis, 1868

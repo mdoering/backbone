@@ -1,5 +1,4 @@
-Cantharellus triangularis Cleland & Cheel SPECIES
-=======
+# Cantharellus triangularis Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

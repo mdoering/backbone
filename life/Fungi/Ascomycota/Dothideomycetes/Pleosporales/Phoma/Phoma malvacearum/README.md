@@ -1,5 +1,4 @@
-Phoma malvacearum Sacc. SPECIES
-=======
+# Phoma malvacearum Sacc. SPECIES
 
 #### Status
 ACCEPTED

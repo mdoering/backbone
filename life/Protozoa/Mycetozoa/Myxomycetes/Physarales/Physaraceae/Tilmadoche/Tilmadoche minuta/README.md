@@ -1,5 +1,4 @@
-Tilmadoche minuta (J. Kickx f.) Berl. SPECIES
-=======
+# Tilmadoche minuta (J. Kickx f.) Berl. SPECIES
 
 #### Status
 ACCEPTED

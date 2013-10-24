@@ -1,5 +1,4 @@
-Sphaerella leucophaea Ellis & Kellerm. SPECIES
-=======
+# Sphaerella leucophaea Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria lophiostoma Werner & Choisy SPECIES
-=======
+# Trematosphaeria lophiostoma Werner & Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anhellia tetracerae (Hansf.) Arx SPECIES
-=======
+# Anhellia tetracerae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

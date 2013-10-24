@@ -1,5 +1,4 @@
-Entoloma camarophyllus G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma camarophyllus G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

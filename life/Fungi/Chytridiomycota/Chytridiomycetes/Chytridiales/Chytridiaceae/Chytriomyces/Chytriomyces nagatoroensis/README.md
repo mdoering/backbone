@@ -1,5 +1,4 @@
-Chytriomyces nagatoroensis K. Konno, 1972 SPECIES
-=======
+# Chytriomyces nagatoroensis K. Konno, 1972 SPECIES
 
 #### Status
 ACCEPTED

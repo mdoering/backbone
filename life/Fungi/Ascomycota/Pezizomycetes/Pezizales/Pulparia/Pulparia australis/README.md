@@ -1,5 +1,4 @@
-Pulparia australis Speg. SPECIES
-=======
+# Pulparia australis Speg. SPECIES
 
 #### Status
 ACCEPTED

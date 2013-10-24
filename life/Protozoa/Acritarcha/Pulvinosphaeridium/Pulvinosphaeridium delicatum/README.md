@@ -1,5 +1,4 @@
-Pulvinosphaeridium delicatum Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Pulvinosphaeridium delicatum Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

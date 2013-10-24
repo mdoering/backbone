@@ -1,5 +1,4 @@
-Stylopage scoliospora Drechsler, 1939 SPECIES
-=======
+# Stylopage scoliospora Drechsler, 1939 SPECIES
 
 #### Status
 ACCEPTED

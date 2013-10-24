@@ -1,5 +1,4 @@
-Inderites microreticulatus Dyupina, 1970 SPECIES
-=======
+# Inderites microreticulatus Dyupina, 1970 SPECIES
 
 #### Status
 ACCEPTED

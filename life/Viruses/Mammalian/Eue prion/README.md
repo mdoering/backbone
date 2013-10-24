@@ -1,5 +1,4 @@
-Eue prion (Exotic ungulate encephalopathy) SPECIES
-=======
+# Eue prion (Exotic ungulate encephalopathy) SPECIES
 
 #### Status
 ACCEPTED

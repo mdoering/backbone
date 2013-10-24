@@ -1,8 +1,7 @@
-Diplocystis wesenbergii Komárek SPECIES
-=======
+# Microcystis wesenbergii (Komárek) Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

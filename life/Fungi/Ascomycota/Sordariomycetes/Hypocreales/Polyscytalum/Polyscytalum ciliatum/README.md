@@ -1,5 +1,4 @@
-Polyscytalum ciliatum J.A. Cooper, 2005 SPECIES
-=======
+# Polyscytalum ciliatum J.A. Cooper, 2005 SPECIES
 
 #### Status
 ACCEPTED

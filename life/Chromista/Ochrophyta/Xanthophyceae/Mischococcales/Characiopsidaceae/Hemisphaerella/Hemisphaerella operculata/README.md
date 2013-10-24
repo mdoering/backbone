@@ -1,5 +1,4 @@
-Hemisphaerella operculata Pascher SPECIES
-=======
+# Hemisphaerella operculata Pascher SPECIES
 
 #### Status
 ACCEPTED

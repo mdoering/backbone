@@ -1,5 +1,4 @@
-Marasmius striaepileus Antonín & P. Roberts SPECIES
-=======
+# Marasmius striaepileus Antonín & P. Roberts SPECIES
 
 #### Status
 ACCEPTED

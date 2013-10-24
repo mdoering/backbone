@@ -1,5 +1,4 @@
-Lepiota ochracea Massee SPECIES
-=======
+# Lepiota ochracea Massee SPECIES
 
 #### Status
 ACCEPTED

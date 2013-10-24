@@ -1,5 +1,4 @@
-Geleenites Dijkstra GENUS
-=======
+# Geleenites Dijkstra GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cruciferae McAlpine SPECIES
-=======
+# Puccinia cruciferae McAlpine SPECIES
 
 #### Status
 ACCEPTED

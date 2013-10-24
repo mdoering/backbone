@@ -1,5 +1,4 @@
-Phyllosticta alliicola Lobik SPECIES
-=======
+# Phyllosticta alliicola Lobik SPECIES
 
 #### Status
 ACCEPTED

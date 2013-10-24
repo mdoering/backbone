@@ -1,5 +1,4 @@
-Tintinnopsis buetschlii Daday, 1887 SPECIES
-=======
+# Tintinnopsis buetschlii Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

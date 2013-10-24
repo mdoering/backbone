@@ -1,17 +1,16 @@
-Synchytrium hemigraphis S.D. Patil & Mahab. SPECIES
-=======
+# Synchytrium hemigraphidis S.D. Patil & Mahab. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 26: 76 (1964)
 
 #### Original name
-Synchytrium hemigraphis S.D. Patil & Mahab.
+Synchytrium hemigraphidis S.D. Patil & Mahab.
 
 ### Remarks
 null

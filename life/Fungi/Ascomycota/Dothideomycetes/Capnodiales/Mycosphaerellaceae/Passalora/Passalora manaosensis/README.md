@@ -1,5 +1,4 @@
-Passalora manaosensis (Henn.) U. Braun & Crous SPECIES
-=======
+# Passalora manaosensis (Henn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

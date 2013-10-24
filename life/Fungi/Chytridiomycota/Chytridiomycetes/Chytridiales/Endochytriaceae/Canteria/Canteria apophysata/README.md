@@ -1,14 +1,13 @@
-Phlyctidium apophysatum Canter, 1947 SPECIES
-=======
+# Canteria apophysata (Canter) Karling, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 31: 95 (1947)
+Arch. Mikrobiol. 76(2): 130 (1971)
 
 #### Original name
 Phlyctidium apophysatum Canter, 1947

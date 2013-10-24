@@ -1,5 +1,4 @@
-Sporisorium pollinianum (Zundel) Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium pollinianum (Zundel) Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

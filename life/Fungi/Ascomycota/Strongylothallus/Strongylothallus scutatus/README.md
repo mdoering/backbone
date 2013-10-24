@@ -1,5 +1,4 @@
-Strongylothallus scutatus Bat., Cif. & C.A.A. Costa, 1959 SPECIES
-=======
+# Strongylothallus scutatus Bat., Cif. & C.A.A. Costa, 1959 SPECIES
 
 #### Status
 ACCEPTED

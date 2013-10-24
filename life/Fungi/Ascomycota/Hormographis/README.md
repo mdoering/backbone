@@ -1,5 +1,4 @@
-Hormographis Guarro, Punsola & Arx GENUS
-=======
+# Hormographis Guarro, Punsola & Arx GENUS
 
 #### Status
 ACCEPTED

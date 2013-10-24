@@ -1,5 +1,4 @@
-Globigerinoides (Globigerinoidesella) fistulosus (Schubert) SPECIES
-=======
+# Globigerinoides (Globigerinoidesella) fistulosus (Schubert) SPECIES
 
 #### Status
 ACCEPTED

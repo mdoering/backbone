@@ -1,5 +1,4 @@
-Phyllosticta banatica Bubák SPECIES
-=======
+# Phyllosticta banatica Bubák SPECIES
 
 #### Status
 ACCEPTED

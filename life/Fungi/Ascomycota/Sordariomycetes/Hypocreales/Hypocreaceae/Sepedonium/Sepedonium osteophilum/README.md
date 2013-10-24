@@ -1,5 +1,4 @@
-Sepedonium osteophilum Bonord. SPECIES
-=======
+# Sepedonium osteophilum Bonord. SPECIES
 
 #### Status
 ACCEPTED

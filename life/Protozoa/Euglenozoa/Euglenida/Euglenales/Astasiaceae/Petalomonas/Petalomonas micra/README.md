@@ -1,5 +1,4 @@
-Petalomonas micra R. E. Norris SPECIES
-=======
+# Petalomonas micra R. E. Norris SPECIES
 
 #### Status
 ACCEPTED

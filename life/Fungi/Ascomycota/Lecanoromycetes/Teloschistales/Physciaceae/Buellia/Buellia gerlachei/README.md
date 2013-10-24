@@ -1,5 +1,4 @@
-Buellia gerlachei (Vain.) C.W. Dodge SPECIES
-=======
+# Buellia gerlachei (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

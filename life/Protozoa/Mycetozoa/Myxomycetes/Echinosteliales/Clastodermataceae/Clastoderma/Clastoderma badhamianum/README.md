@@ -1,5 +1,4 @@
-Clastoderma badhamianum anon. SPECIES
-=======
+# Clastoderma badhamianum anon. SPECIES
 
 #### Status
 ACCEPTED

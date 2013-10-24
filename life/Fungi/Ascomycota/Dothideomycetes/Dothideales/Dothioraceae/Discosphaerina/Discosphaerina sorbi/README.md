@@ -1,5 +1,4 @@
-Discosphaerina sorbi L. Holm, K. Holm & M.E. Barr SPECIES
-=======
+# Discosphaerina sorbi L. Holm, K. Holm & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

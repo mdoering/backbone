@@ -1,5 +1,4 @@
-Nostocella lichenoides (Vaucher) Gaillon SPECIES
-=======
+# Nostocella lichenoides (Vaucher) Gaillon SPECIES
 
 #### Status
 ACCEPTED

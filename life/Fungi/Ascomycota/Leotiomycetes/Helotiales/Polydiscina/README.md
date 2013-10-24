@@ -1,5 +1,4 @@
-Polydiscina Syd. GENUS
-=======
+# Polydiscina Syd. GENUS
 
 #### Status
 ACCEPTED

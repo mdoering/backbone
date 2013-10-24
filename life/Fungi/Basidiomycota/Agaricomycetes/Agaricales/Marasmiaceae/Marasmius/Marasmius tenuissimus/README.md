@@ -1,5 +1,4 @@
-Marasmius tenuissimus (Jungh.) Singer SPECIES
-=======
+# Marasmius tenuissimus (Jungh.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium brunaudianum (Thüm.) Kuntze SPECIES
-=======
+# Coniothyrium brunaudianum (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

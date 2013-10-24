@@ -1,5 +1,4 @@
-Catillaria variegata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria variegata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

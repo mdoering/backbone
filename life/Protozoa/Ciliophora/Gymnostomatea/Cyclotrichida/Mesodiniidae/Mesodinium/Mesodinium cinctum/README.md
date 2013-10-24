@@ -1,5 +1,4 @@
-Mesodinium cinctum Calkins, 1902 SPECIES
-=======
+# Mesodinium cinctum Calkins, 1902 SPECIES
 
 #### Status
 ACCEPTED

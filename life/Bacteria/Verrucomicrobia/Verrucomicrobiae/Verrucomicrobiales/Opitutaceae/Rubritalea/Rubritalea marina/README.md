@@ -1,5 +1,4 @@
-Rubritalea marina Scheuermayer et al., 2006 SPECIES
-=======
+# Rubritalea marina Scheuermayer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

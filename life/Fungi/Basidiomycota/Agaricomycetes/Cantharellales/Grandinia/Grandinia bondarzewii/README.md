@@ -1,5 +1,4 @@
-Grandinia bondarzewii Bres. SPECIES
-=======
+# Grandinia bondarzewii Bres. SPECIES
 
 #### Status
 ACCEPTED

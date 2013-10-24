@@ -1,5 +1,4 @@
-Lecanora smaragdophora Harm. SPECIES
-=======
+# Lecanora smaragdophora Harm. SPECIES
 
 #### Status
 ACCEPTED

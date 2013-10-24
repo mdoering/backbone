@@ -1,14 +1,13 @@
-Nectriopsis sasae (Yoshim. Doi) Rossman & Samuels, 1999 SPECIES
-=======
+# Peloronectriella sasae Yoshim. Doi, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 52 (1999)
+Bull. natn. Sci. Mus. , Tokyo, N. S. 11: 179 (1968)
 
 #### Original name
 Peloronectriella sasae Yoshim. Doi, 1968

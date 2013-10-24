@@ -1,5 +1,4 @@
-Verrucaria muscicola Ach. SPECIES
-=======
+# Verrucaria muscicola Ach. SPECIES
 
 #### Status
 ACCEPTED

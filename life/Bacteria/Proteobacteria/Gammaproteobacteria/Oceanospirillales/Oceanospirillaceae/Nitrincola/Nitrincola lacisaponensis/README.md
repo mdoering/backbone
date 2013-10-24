@@ -1,5 +1,4 @@
-Nitrincola lacisaponensis Dimitriu et al., 2005 SPECIES
-=======
+# Nitrincola lacisaponensis Dimitriu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

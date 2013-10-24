@@ -1,5 +1,4 @@
-Stachybotrys reniverrucosa Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Stachybotrys reniverrucosa Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

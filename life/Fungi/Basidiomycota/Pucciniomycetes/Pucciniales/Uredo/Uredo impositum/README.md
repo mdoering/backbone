@@ -1,5 +1,4 @@
-Uredo impositum Arthur SPECIES
-=======
+# Uredo impositum Arthur SPECIES
 
 #### Status
 ACCEPTED

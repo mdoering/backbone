@@ -1,5 +1,4 @@
-Seynesiopsis Henn. GENUS
-=======
+# Seynesiopsis Henn. GENUS
 
 #### Status
 ACCEPTED

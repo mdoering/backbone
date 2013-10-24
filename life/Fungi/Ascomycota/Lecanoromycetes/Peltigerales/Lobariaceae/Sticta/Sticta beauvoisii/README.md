@@ -1,5 +1,4 @@
-Sticta beauvoisii Delise SPECIES
-=======
+# Sticta beauvoisii Delise SPECIES
 
 #### Status
 ACCEPTED

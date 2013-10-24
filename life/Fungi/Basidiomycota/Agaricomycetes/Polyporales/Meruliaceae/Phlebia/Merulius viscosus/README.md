@@ -1,5 +1,4 @@
-Merulius viscosus (Berk.) Kuntze SPECIES
-=======
+# Merulius viscosus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

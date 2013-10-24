@@ -1,8 +1,7 @@
-Meliola penzigi Sacc. SPECIES
-=======
+# Meliola penzigii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola penzigi Sacc.
+Meliola penzigii Sacc.
 
 ### Remarks
 null

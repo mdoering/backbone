@@ -1,5 +1,4 @@
-Thelotrema monobactrium var. monobactrium VARIETY
-=======
+# Thelotrema monobactrium (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelotrema monobactrium var. monobactrium
+Ascidium monobactrium Nyl.
 
 ### Remarks
 null

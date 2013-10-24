@@ -1,5 +1,4 @@
-Cytospora melasperma var. melasperma VARIETY
-=======
+# Cytospora melasperma (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 545 (1823)
 
 #### Original name
 Sphaeria melasperma Fr.

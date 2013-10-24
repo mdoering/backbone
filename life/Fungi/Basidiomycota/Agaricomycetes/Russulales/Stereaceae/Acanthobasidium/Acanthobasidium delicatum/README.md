@@ -1,14 +1,13 @@
-Acanthophysium delicatum (Wakef.) Parmasto, 1967 SPECIES
-=======
+# Acanthobasidium delicatum (Wakef.) Oberw. ex Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 378 (1967)
+Persoonia 10(3): 335 (1979)
 
 #### Original name
 Aleurodiscus delicatus Wakef., 1952

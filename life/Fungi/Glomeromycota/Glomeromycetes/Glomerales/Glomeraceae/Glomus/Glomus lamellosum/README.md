@@ -1,5 +1,4 @@
-Glomus lamellosum Dalpé, Koske & Tews, 1992 SPECIES
-=======
+# Glomus lamellosum Dalpé, Koske & Tews, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella vaga Römer, 1893 SPECIES
-=======
+# Vorticella vaga Römer, 1893 SPECIES
 
 #### Status
 ACCEPTED

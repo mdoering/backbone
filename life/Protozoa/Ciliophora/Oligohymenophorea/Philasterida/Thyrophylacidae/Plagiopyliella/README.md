@@ -1,5 +1,4 @@
-Plagiopyliella Poljanskij, 1951 GENUS
-=======
+# Plagiopyliella Poljanskij, 1951 GENUS
 
 #### Status
 ACCEPTED

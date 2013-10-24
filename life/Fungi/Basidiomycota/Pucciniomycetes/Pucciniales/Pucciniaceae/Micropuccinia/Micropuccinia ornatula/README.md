@@ -1,5 +1,4 @@
-Micropuccinia ornatula (Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia ornatula (Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

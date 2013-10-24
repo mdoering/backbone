@@ -1,5 +1,4 @@
-Mimeomyces formicetorum (Speg.) I.I. Tav. SPECIES
-=======
+# Mimeomyces formicetorum (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

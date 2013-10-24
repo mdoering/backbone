@@ -1,5 +1,4 @@
-Sphaeria malvicola Schwein. SPECIES
-=======
+# Sphaeria malvicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

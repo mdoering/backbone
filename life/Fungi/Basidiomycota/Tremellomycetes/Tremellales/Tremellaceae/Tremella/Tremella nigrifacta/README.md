@@ -1,5 +1,4 @@
-Tremella nigrifacta Bandoni & J. Carranza SPECIES
-=======
+# Tremella nigrifacta Bandoni & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

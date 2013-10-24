@@ -1,5 +1,4 @@
-Euglena allorgei Deflandre SPECIES
-=======
+# Euglena allorgei Deflandre SPECIES
 
 #### Status
 ACCEPTED

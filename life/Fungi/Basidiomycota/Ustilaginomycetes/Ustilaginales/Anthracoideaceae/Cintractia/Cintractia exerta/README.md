@@ -1,5 +1,4 @@
-Cintractia exerta McAlpine SPECIES
-=======
+# Cintractia exerta McAlpine SPECIES
 
 #### Status
 ACCEPTED

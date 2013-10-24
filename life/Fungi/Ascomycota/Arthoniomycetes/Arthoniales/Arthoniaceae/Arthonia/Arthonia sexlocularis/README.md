@@ -1,5 +1,4 @@
-Arthonia sexlocularis Zahlbr. SPECIES
-=======
+# Arthonia sexlocularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

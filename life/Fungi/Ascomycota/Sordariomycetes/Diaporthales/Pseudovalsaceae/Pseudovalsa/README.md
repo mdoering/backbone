@@ -1,17 +1,16 @@
-Oostroma Bonord. GENUS
-=======
+# Pseudovalsa Cesati & De Notaris, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Abh. naturforsch. Ges. Halle 8: 84 (1864)
+null
 
 #### Original name
-Oostroma Bonord.
+null
 
 ### Remarks
 null

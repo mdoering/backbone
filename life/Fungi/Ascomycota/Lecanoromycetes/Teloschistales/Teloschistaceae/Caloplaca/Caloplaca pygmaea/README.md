@@ -1,5 +1,4 @@
-Caloplaca pygmaea Wetmore SPECIES
-=======
+# Caloplaca pygmaea Wetmore SPECIES
 
 #### Status
 ACCEPTED

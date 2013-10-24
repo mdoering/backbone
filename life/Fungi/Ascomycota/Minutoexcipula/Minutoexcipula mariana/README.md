@@ -1,5 +1,4 @@
-Minutoexcipula mariana V. Atienza, 2001 SPECIES
-=======
+# Minutoexcipula mariana V. Atienza, 2001 SPECIES
 
 #### Status
 ACCEPTED

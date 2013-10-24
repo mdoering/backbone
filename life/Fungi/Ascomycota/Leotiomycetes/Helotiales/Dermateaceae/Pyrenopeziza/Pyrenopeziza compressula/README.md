@@ -1,17 +1,16 @@
-Pyrenopeziza compressula var. compressula Rehm VARIETY
-=======
+# Pyrenopeziza compressula Rehm, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 618 (1892)
 
 #### Original name
-Pyrenopeziza compressula var. compressula Rehm
+Pyrenopeziza compressula Rehm, 1892
 
 ### Remarks
 null

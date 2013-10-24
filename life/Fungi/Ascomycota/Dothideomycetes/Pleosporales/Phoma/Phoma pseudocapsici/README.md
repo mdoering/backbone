@@ -1,5 +1,4 @@
-Phoma pseudocapsici Tassi SPECIES
-=======
+# Phoma pseudocapsici Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus cainii Brumm. SPECIES
-=======
+# Ascobolus cainii Brumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Colletotrichum linicolum Pethybr. & Laff. SPECIES
-=======
+# Colletotrichum linicola Pethybr. & Laff., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scientific Proc. R. Dublin Soc. , N. S. 15(no. 30): 368 (1918)
 
 #### Original name
-Colletotrichum linicolum Pethybr. & Laff.
+Colletotrichum linicola Pethybr. & Laff., 1918
 
 ### Remarks
 null

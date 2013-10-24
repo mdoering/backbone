@@ -1,5 +1,4 @@
-Erioderma verruculosum Vain. SPECIES
-=======
+# Erioderma verruculosum Vain. SPECIES
 
 #### Status
 ACCEPTED

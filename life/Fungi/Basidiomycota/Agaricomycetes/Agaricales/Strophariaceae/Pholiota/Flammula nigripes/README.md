@@ -1,5 +1,4 @@
-Flammula nigripes (Bull.) Cooke SPECIES
-=======
+# Flammula nigripes (Bull.) Cooke SPECIES
 
 #### Status
 ACCEPTED

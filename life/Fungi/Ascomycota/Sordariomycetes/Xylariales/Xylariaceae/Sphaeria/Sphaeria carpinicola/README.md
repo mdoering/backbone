@@ -1,5 +1,4 @@
-Sphaeria carpinicola Fr. SPECIES
-=======
+# Sphaeria carpinicola Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargogyne bolleana SPECIES
-=======
+# Sargogyne bolleana SPECIES
 
 #### Status
 ACCEPTED

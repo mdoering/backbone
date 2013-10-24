@@ -1,8 +1,7 @@
-Tryblidium clavaesporum Peck SPECIES
-=======
+# Triblidium clavaesporum Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium clavaesporum Peck
+Triblidium clavaesporum Peck
 
 ### Remarks
 null

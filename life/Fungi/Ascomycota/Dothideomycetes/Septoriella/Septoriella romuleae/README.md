@@ -1,5 +1,4 @@
-Septoriella romuleae Sacc. & Trotter SPECIES
-=======
+# Septoriella romuleae Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

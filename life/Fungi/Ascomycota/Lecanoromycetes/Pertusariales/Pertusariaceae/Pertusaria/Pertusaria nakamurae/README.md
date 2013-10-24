@@ -1,5 +1,4 @@
-Pertusaria nakamurae (Räsänen) Dibben SPECIES
-=======
+# Pertusaria nakamurae (Räsänen) Dibben SPECIES
 
 #### Status
 ACCEPTED

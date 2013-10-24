@@ -1,5 +1,4 @@
-Tintinnopsis brevicollis Hada, 1937 SPECIES
-=======
+# Tintinnopsis brevicollis Hada, 1937 SPECIES
 
 #### Status
 ACCEPTED

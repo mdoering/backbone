@@ -1,5 +1,4 @@
-Verrucaria davosiensis SPECIES
-=======
+# Verrucaria davosiensis SPECIES
 
 #### Status
 ACCEPTED

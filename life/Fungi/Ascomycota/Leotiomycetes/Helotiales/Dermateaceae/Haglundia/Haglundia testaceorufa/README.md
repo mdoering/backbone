@@ -1,5 +1,4 @@
-Haglundia testaceorufa (Speg.) Gamundí SPECIES
-=======
+# Haglundia testaceorufa (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

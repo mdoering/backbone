@@ -1,5 +1,4 @@
-Leprocaulon albicans (Th. Fr.) Nyl. SPECIES
-=======
+# Leprocaulon albicans (Th. Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

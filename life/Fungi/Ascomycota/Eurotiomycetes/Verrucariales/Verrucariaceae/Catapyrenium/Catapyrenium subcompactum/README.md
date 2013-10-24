@@ -1,5 +1,4 @@
-Catapyrenium subcompactum (J. Steiner) J.C. Wei SPECIES
-=======
+# Catapyrenium subcompactum (J. Steiner) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

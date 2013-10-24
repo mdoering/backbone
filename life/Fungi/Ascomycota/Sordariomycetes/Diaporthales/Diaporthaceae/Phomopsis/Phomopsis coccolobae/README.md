@@ -1,5 +1,4 @@
-Phomopsis coccolobae Sacc. SPECIES
-=======
+# Phomopsis coccolobae Sacc. SPECIES
 
 #### Status
 ACCEPTED

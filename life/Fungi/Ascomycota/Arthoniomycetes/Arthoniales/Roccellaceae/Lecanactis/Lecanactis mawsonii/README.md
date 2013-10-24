@@ -1,17 +1,16 @@
-Lecanactis mawsoni C.W. Dodge SPECIES
-=======
+# Lecanactis mawsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 62 (1948)
 
 #### Original name
-Lecanactis mawsoni C.W. Dodge
+Lecanactis mawsonii C.W. Dodge
 
 ### Remarks
 null

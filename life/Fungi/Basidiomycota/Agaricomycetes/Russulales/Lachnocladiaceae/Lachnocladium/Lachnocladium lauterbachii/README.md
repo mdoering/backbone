@@ -1,5 +1,4 @@
-Lachnocladium lauterbachii Henn. SPECIES
-=======
+# Lachnocladium lauterbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

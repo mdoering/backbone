@@ -1,5 +1,4 @@
-Tintinnopsis mortensenii Schmidt, 1901 SPECIES
-=======
+# Tintinnopsis mortensenii Schmidt, 1901 SPECIES
 
 #### Status
 ACCEPTED

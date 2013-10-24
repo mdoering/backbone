@@ -1,5 +1,4 @@
-Brobdingnagia K.D. Hyde & P.F. Cannon GENUS
-=======
+# Brobdingnagia K.D. Hyde & P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

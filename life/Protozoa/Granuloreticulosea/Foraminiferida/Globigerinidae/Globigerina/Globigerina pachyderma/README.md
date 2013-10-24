@@ -1,5 +1,4 @@
-Globigerina pachyderma SPECIES
-=======
+# Globigerina pachyderma SPECIES
 
 #### Status
 ACCEPTED

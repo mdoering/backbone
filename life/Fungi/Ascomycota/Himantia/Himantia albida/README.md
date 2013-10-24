@@ -1,5 +1,4 @@
-Himantia albida Pers. SPECIES
-=======
+# Himantia albida Pers. SPECIES
 
 #### Status
 ACCEPTED

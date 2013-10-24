@@ -1,5 +1,4 @@
-Ramaria inedulis Singer, 1969 SPECIES
-=======
+# Ramaria inedulis Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

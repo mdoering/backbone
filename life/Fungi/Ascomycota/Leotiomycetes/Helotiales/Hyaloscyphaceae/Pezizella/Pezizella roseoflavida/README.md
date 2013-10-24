@@ -1,5 +1,4 @@
-Pezizella roseoflavida Rehm SPECIES
-=======
+# Pezizella roseoflavida Rehm SPECIES
 
 #### Status
 ACCEPTED

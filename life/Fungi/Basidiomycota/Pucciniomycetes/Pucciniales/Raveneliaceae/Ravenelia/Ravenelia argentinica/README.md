@@ -1,17 +1,16 @@
-Ravenelia argentinensis Speg., 1925 SPECIES
-=======
+# Ravenelia argentinica J.R. Hern. & J.F. Hennen, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Argent. Bot. 1(2-3): 129 (1925)
+Mycol. Res. 106(8): 955 (2002)
 
 #### Original name
-Ravenelia argentinensis Speg., 1925
+Ravenelia argentinica J.R. Hern. & J.F. Hennen, 2002
 
 ### Remarks
 null

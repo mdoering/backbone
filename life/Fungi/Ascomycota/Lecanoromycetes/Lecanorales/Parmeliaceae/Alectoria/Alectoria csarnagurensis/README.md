@@ -1,5 +1,4 @@
-Alectoria csarnagurensis Gyeln. SPECIES
-=======
+# Alectoria csarnagurensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

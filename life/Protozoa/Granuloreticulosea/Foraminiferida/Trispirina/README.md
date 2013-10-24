@@ -1,5 +1,4 @@
-Trispirina Danich, 1977 GENUS
-=======
+# Trispirina Danich, 1977 GENUS
 
 #### Status
 ACCEPTED

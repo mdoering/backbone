@@ -1,5 +1,4 @@
-Corticium rutilans Fr. SPECIES
-=======
+# Corticium rutilans Fr. SPECIES
 
 #### Status
 ACCEPTED

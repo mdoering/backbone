@@ -1,5 +1,4 @@
-Funalia kuzyana (Pilát ex Pilát) Bondartsev SPECIES
-=======
+# Funalia kuzyana (Pilát ex Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

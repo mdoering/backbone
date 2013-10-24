@@ -1,5 +1,4 @@
-Boletus heteroclitus Bolton SPECIES
-=======
+# Boletus heteroclitus Bolton SPECIES
 
 #### Status
 ACCEPTED

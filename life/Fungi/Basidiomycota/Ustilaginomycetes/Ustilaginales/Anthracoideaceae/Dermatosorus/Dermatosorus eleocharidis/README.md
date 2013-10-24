@@ -1,14 +1,13 @@
-Doassansia eleocharidis (Sawada ex L. Ling) Cif., 1963 SPECIES
-=======
+# Dermatosorus eleocharidis Sawada ex L. Ling, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 18 (1963)
+Mycologia 41(3): 267 (1949)
 
 #### Original name
 Dermatosorus eleocharidis Sawada ex L. Ling, 1949

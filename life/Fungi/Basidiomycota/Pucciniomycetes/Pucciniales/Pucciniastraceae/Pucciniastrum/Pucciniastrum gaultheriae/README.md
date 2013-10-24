@@ -1,5 +1,4 @@
-Pucciniastrum gaultheriae Syd. & P. Syd. SPECIES
-=======
+# Pucciniastrum gaultheriae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

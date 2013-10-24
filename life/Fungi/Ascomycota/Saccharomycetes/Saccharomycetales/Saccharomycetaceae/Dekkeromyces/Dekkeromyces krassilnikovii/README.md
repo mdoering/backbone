@@ -1,5 +1,4 @@
-Dekkeromyces krassilnikovii (Kudryavtsev) E.K. Novák & Zsolt SPECIES
-=======
+# Dekkeromyces krassilnikovii (Kudryavtsev) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

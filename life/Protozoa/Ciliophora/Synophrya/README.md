@@ -1,5 +1,4 @@
-Synophrya Chatton & Lwoff, 1926 GENUS
-=======
+# Synophrya Chatton & Lwoff, 1926 GENUS
 
 #### Status
 ACCEPTED

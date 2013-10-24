@@ -1,5 +1,4 @@
-Engelhardtiella A. Funk GENUS
-=======
+# Engelhardtiella A. Funk GENUS
 
 #### Status
 ACCEPTED

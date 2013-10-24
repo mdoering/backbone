@@ -1,5 +1,4 @@
-Alternaria selini E.G. Simmons, 1995 SPECIES
-=======
+# Alternaria selini E.G. Simmons, 1995 SPECIES
 
 #### Status
 ACCEPTED

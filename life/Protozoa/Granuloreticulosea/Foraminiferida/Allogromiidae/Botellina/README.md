@@ -1,5 +1,4 @@
-Botellina Carpenter, 1869 GENUS
-=======
+# Botellina Carpenter, 1869 GENUS
 
 #### Status
 ACCEPTED

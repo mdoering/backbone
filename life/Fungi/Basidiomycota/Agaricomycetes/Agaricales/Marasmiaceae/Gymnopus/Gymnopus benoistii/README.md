@@ -1,5 +1,4 @@
-Gymnopus benoistii (Boud.) Antonín & Noordel., 1997 SPECIES
-=======
+# Gymnopus benoistii (Boud.) Antonín & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

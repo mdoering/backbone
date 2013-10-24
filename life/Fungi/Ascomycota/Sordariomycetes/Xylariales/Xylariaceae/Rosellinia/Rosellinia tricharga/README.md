@@ -1,5 +1,4 @@
-Rosellinia tricharga Hazsl. SPECIES
-=======
+# Rosellinia tricharga Hazsl. SPECIES
 
 #### Status
 ACCEPTED

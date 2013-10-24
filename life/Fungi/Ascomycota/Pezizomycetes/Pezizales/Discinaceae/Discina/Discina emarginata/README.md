@@ -1,5 +1,4 @@
-Discina emarginata Berk. & Broome SPECIES
-=======
+# Discina emarginata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

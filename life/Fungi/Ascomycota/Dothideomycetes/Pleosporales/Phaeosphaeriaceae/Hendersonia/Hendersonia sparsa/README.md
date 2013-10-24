@@ -1,5 +1,4 @@
-Hendersonia sparsa G. Winter SPECIES
-=======
+# Hendersonia sparsa G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria curvipes Singer SPECIES
-=======
+# Naucoria curvipes Singer SPECIES
 
 #### Status
 ACCEPTED

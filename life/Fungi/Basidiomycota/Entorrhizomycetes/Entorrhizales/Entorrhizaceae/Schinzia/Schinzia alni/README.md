@@ -1,5 +1,4 @@
-Schinzia alni Woronin SPECIES
-=======
+# Schinzia alni Woronin SPECIES
 
 #### Status
 ACCEPTED

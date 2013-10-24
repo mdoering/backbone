@@ -1,5 +1,4 @@
-Humaria phoenicea Speg. SPECIES
-=======
+# Humaria phoenicea Speg. SPECIES
 
 #### Status
 ACCEPTED

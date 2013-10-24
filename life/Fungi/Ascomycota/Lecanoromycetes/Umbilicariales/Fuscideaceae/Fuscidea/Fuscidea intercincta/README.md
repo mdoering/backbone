@@ -1,17 +1,16 @@
-Lecanora decincta Nyl. SPECIES
-=======
+# Fuscidea intercincta (Nyl.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 452 (1882)
+Norw. Jl Bot. 25(2): 127 (1978)
 
 #### Original name
-Lecanora decincta Nyl.
+Lecanora intercincta Nyl.
 
 ### Remarks
 null

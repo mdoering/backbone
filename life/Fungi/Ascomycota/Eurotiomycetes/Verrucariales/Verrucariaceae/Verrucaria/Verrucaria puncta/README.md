@@ -1,5 +1,4 @@
-Verrucaria puncta (A. Massal.) H. Olivier SPECIES
-=======
+# Verrucaria puncta (A. Massal.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus nigricans Berk. SPECIES
-=======
+# Hygrophorus nigricans Berk. SPECIES
 
 #### Status
 ACCEPTED

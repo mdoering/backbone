@@ -1,5 +1,4 @@
-Didymascus kitmanoffii Sacc. SPECIES
-=======
+# Didymascus kitmanoffii Sacc. SPECIES
 
 #### Status
 ACCEPTED

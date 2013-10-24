@@ -1,5 +1,4 @@
-Parmelia megaleia Nyl. SPECIES
-=======
+# Parmelia megaleia Nyl. SPECIES
 
 #### Status
 ACCEPTED

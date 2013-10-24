@@ -1,5 +1,4 @@
-Fusisporium hordei Wm. G. Sm. SPECIES
-=======
+# Fusisporium hordei Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

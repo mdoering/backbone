@@ -1,17 +1,16 @@
-Panus cantharelloides Mont., 1854 SPECIES
-=======
+# Trogia cantharelloides (Mont.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 1: 120 (1854)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 129 (1900)
 
 #### Original name
-Panus cantharelloides Mont., 1854
+Pleurotus cantharelloides Berk. ex Sacc.
 
 ### Remarks
 null

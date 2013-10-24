@@ -1,5 +1,4 @@
-Bacillus endophyticus Reva et al., 2002 SPECIES
-=======
+# Bacillus endophyticus Reva et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

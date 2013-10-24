@@ -1,5 +1,4 @@
-Leptonia fibulata (Romagn.) Pegler SPECIES
-=======
+# Leptonia fibulata (Romagn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachysphaeridium peregrinum (Tynni, 1982) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium peregrinum (Tynni, 1982) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus diabolicus Fr. SPECIES
-=======
+# Agaricus diabolicus Fr. SPECIES
 
 #### Status
 ACCEPTED

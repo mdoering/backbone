@@ -1,17 +1,16 @@
-Tolyposporium ehrenbergii var. grandiglobum Uppal & Patel VARIETY
-=======
+# Tolyposporium ehrenbergii (J.G. Kühn) Pat., 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Journal of Agricultural Research 13: 521 (1943)
+Bull. Soc. mycol. Fr. 19: 254 (1903)
 
 #### Original name
-Tolyposporium ehrenbergii var. grandiglobum Uppal & Patel
+Sorosporium ehrenbergii J.G. Kühn, 1877
 
 ### Remarks
 null

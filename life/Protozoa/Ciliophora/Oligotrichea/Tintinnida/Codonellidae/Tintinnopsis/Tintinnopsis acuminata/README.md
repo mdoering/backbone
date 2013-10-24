@@ -1,5 +1,4 @@
-Tintinnopsis acuminata Imhof SPECIES
-=======
+# Tintinnopsis acuminata Imhof SPECIES
 
 #### Status
 ACCEPTED

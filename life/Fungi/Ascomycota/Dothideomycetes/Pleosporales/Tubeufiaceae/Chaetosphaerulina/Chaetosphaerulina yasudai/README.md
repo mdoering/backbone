@@ -1,8 +1,7 @@
-Tubeufia yasudai (I. Hino) Sivan., 1984 SPECIES
-=======
+# Chaetosphaerulina yasudai I. Hino, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

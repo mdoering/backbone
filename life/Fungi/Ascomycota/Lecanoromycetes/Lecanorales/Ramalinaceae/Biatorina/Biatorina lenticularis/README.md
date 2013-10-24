@@ -1,5 +1,4 @@
-Biatorina lenticularis var. lenticularis VARIETY
-=======
+# Biatorina lenticularis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatorina lenticularis var. lenticularis
+null
 
 ### Remarks
 null

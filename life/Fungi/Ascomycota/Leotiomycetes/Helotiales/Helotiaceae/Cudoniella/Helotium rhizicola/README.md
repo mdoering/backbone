@@ -1,5 +1,4 @@
-Helotium rhizicola Seaver SPECIES
-=======
+# Helotium rhizicola Seaver SPECIES
 
 #### Status
 ACCEPTED

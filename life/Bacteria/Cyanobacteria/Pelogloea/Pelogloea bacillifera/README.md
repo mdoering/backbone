@@ -1,5 +1,4 @@
-Pelogloea bacillifera Lauterborn SPECIES
-=======
+# Pelogloea bacillifera Lauterborn SPECIES
 
 #### Status
 ACCEPTED

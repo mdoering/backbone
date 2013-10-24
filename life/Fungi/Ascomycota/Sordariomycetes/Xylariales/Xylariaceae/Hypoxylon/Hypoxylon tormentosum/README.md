@@ -1,5 +1,4 @@
-Hypoxylon tormentosum Ces. SPECIES
-=======
+# Hypoxylon tormentosum Ces. SPECIES
 
 #### Status
 ACCEPTED

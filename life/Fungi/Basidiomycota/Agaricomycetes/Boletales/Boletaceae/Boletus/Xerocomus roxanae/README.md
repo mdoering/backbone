@@ -1,5 +1,4 @@
-Xerocomus roxanae (Frost) Snell SPECIES
-=======
+# Xerocomus roxanae (Frost) Snell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia sacchari-spontanei S. Ahmad SPECIES
-=======
+# Diplodia sacchari-spontanei S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

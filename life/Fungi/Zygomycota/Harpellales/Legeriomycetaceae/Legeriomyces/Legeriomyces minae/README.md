@@ -1,5 +1,4 @@
-Legeriomyces minae Strongman, 2007 SPECIES
-=======
+# Legeriomyces minae Strongman, 2007 SPECIES
 
 #### Status
 ACCEPTED

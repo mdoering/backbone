@@ -1,5 +1,4 @@
-Hormographiella Guarro & Gené, 1992 GENUS
-=======
+# Hormographiella Guarro & Gené, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctis stromatophora C. Knight SPECIES
-=======
+# Phlyctis stromatophora C. Knight SPECIES
 
 #### Status
 ACCEPTED

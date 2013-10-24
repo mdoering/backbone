@@ -1,5 +1,4 @@
-Trachelomonas rara var. punctata Skvortzov VARIETY
-=======
+# Trachelomonas rara Skvortzov SPECIES
 
 #### Status
 ACCEPTED

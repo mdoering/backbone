@@ -1,5 +1,4 @@
-Cortinarius carpinamicus Rob. Henry SPECIES
-=======
+# Cortinarius carpinamicus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

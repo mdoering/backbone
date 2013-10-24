@@ -1,5 +1,4 @@
-Monosporium viridescens Bonord. SPECIES
-=======
+# Monosporium viridescens Bonord. SPECIES
 
 #### Status
 ACCEPTED

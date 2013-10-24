@@ -1,5 +1,4 @@
-Agaricus mappa Schumach. SPECIES
-=======
+# Agaricus mappa Schumach. SPECIES
 
 #### Status
 ACCEPTED

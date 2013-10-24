@@ -1,5 +1,4 @@
-Cantharellus atrolilacinus Eyssart., Buyck & Halling, 2003 SPECIES
-=======
+# Cantharellus atrolilacinus Eyssart., Buyck & Halling, 2003 SPECIES
 
 #### Status
 ACCEPTED

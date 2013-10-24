@@ -1,5 +1,4 @@
-Urceolaria argillosa (Ach.) Röhl. SPECIES
-=======
+# Urceolaria argillosa (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

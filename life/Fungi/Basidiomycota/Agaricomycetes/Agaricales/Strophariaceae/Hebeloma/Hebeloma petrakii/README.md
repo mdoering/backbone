@@ -1,5 +1,4 @@
-Hebeloma petrakii (Hruby) Singer SPECIES
-=======
+# Hebeloma petrakii (Hruby) Singer SPECIES
 
 #### Status
 ACCEPTED

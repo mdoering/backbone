@@ -1,5 +1,4 @@
-Lactarius cocosiolens Methven SPECIES
-=======
+# Lactarius cocosiolens Methven SPECIES
 
 #### Status
 ACCEPTED

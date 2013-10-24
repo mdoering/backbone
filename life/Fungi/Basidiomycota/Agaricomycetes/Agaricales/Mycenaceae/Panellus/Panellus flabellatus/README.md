@@ -1,5 +1,4 @@
-Panellus flabellatus Murrill SPECIES
-=======
+# Panellus flabellatus Murrill SPECIES
 
 #### Status
 ACCEPTED

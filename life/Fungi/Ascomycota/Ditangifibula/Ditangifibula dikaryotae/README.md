@@ -1,5 +1,4 @@
-Ditangifibula dikaryotae G.C. Adams, 1996 SPECIES
-=======
+# Ditangifibula dikaryotae G.C. Adams, 1996 SPECIES
 
 #### Status
 ACCEPTED

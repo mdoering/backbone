@@ -1,5 +1,4 @@
-Sporidesmium takashii Subram. SPECIES
-=======
+# Sporidesmium takashii Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis splendens Schwein. SPECIES
-=======
+# Botrytis splendens Schwein. SPECIES
 
 #### Status
 ACCEPTED

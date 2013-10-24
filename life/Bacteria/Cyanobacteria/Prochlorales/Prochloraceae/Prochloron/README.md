@@ -1,5 +1,4 @@
-Prochloron R.A.Lewin, 1977 GENUS
-=======
+# Prochloron R.A.Lewin, 1977 GENUS
 
 #### Status
 ACCEPTED

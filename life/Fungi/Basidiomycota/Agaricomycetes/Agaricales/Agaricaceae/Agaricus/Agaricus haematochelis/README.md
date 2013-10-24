@@ -1,5 +1,4 @@
-Agaricus haematochelis Bull. SPECIES
-=======
+# Agaricus haematochelis Bull. SPECIES
 
 #### Status
 ACCEPTED

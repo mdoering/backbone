@@ -1,5 +1,4 @@
-Helvella coralloides Scop. SPECIES
-=======
+# Helvella coralloides Scop. SPECIES
 
 #### Status
 ACCEPTED

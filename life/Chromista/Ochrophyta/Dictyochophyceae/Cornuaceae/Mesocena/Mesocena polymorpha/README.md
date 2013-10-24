@@ -1,5 +1,4 @@
-Mesocena polymorpha var. quadrangula (Ehrenberg ex Haeckel) Lemmermann VARIETY
-=======
+# Mesocena polymorpha Lemmerman SPECIES
 
 #### Status
 ACCEPTED

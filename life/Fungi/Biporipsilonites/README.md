@@ -1,5 +1,4 @@
-Biporipsilonites Kalgutkar & Janson. GENUS
-=======
+# Biporipsilonites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

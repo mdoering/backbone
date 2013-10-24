@@ -1,5 +1,4 @@
-Anthostoma dubium Feltgen SPECIES
-=======
+# Anthostoma dubium Feltgen SPECIES
 
 #### Status
 ACCEPTED

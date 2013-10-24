@@ -1,5 +1,4 @@
-Asterina hansfordii Syd. SPECIES
-=======
+# Asterina hansfordii Syd. SPECIES
 
 #### Status
 ACCEPTED

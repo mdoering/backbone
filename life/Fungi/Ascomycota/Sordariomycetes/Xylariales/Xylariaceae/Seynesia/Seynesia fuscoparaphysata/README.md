@@ -1,5 +1,4 @@
-Seynesia fuscoparaphysata Henn. SPECIES
-=======
+# Seynesia fuscoparaphysata Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula megapotamica Malme SPECIES
-=======
+# Pyrenula megapotamica Malme SPECIES
 
 #### Status
 ACCEPTED

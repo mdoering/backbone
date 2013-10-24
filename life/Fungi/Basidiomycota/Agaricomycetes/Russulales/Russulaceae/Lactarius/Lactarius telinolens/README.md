@@ -1,5 +1,4 @@
-Lactarius telinolens (Bellardi) Sacc. & Trotter SPECIES
-=======
+# Lactarius telinolens (Bellardi) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

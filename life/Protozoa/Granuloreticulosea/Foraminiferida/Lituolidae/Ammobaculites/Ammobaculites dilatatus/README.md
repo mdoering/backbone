@@ -1,5 +1,4 @@
-Ammobaculites dilatatus Cushman & Brönnimann, 1948 SPECIES
-=======
+# Ammobaculites dilatatus Cushman & Brönnimann, 1948 SPECIES
 
 #### Status
 ACCEPTED

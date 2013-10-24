@@ -1,5 +1,4 @@
-Discosia julia Speg., 1881 SPECIES
-=======
+# Discosia julia Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

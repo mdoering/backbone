@@ -1,5 +1,4 @@
-Acarospora emergens C.W. Dodge SPECIES
-=======
+# Acarospora emergens C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

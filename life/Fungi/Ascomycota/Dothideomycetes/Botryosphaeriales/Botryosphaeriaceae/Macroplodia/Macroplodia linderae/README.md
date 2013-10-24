@@ -1,5 +1,4 @@
-Macroplodia linderae (Peck) Kuntze SPECIES
-=======
+# Macroplodia linderae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

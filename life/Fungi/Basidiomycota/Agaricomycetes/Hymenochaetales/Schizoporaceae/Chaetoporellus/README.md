@@ -1,5 +1,4 @@
-Chaetoporellus GENUS
-=======
+# Chaetoporellus GENUS
 
 #### Status
 ACCEPTED

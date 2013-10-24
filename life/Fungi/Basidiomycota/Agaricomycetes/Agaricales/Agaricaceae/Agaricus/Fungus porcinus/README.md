@@ -1,5 +1,4 @@
-Fungus porcinus Paulet SPECIES
-=======
+# Fungus porcinus Paulet SPECIES
 
 #### Status
 ACCEPTED

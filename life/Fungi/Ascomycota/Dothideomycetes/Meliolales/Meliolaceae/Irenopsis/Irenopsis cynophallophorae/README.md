@@ -1,5 +1,4 @@
-Irenopsis cynophallophorae Bat. & A.F. Vital SPECIES
-=======
+# Irenopsis cynophallophorae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

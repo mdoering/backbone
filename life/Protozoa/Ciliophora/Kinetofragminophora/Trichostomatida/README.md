@@ -1,5 +1,4 @@
-Trichostomatida ORDER
-=======
+# Trichostomatida ORDER
 
 #### Status
 ACCEPTED

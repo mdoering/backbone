@@ -1,17 +1,16 @@
-Trichophaea paludosa var. paludosa VARIETY
-=======
+# Trichophaeopsis paludosa (Boud.) Häffner & L.G. Krieglst., 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 57(1): 169 (1991)
 
 #### Original name
-Trichophaea paludosa var. paludosa
+Ciliaria paludosa Boud., 1894
 
 ### Remarks
 null

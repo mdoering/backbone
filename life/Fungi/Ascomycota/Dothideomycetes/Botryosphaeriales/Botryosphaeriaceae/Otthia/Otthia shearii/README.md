@@ -1,5 +1,4 @@
-Otthia shearii Petr. SPECIES
-=======
+# Otthia shearii Petr. SPECIES
 
 #### Status
 ACCEPTED

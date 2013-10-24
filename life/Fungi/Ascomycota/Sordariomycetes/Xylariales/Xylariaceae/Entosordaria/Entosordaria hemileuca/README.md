@@ -1,5 +1,4 @@
-Entosordaria hemileuca (Speg.) Höhn. SPECIES
-=======
+# Entosordaria hemileuca (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

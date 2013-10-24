@@ -1,5 +1,4 @@
-Syncephalis nana Dade, 1937 SPECIES
-=======
+# Syncephalis nana Dade, 1937 SPECIES
 
 #### Status
 ACCEPTED

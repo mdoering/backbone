@@ -1,5 +1,4 @@
-Hygrocybe arcohastata A.M. Young SPECIES
-=======
+# Hygrocybe arcohastata A.M. Young SPECIES
 
 #### Status
 ACCEPTED

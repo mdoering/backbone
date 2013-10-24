@@ -1,5 +1,4 @@
-Hymenoscyphus glanduliformis (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus glanduliformis (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

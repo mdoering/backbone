@@ -1,5 +1,4 @@
-Uromyces zeyheri Bubák SPECIES
-=======
+# Uromyces zeyheri Bubák SPECIES
 
 #### Status
 ACCEPTED

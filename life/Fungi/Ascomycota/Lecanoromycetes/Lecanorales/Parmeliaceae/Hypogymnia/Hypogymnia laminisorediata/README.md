@@ -1,5 +1,4 @@
-Hypogymnia laminisorediata D. Hawksw. & Poelt SPECIES
-=======
+# Hypogymnia laminisorediata D. Hawksw. & Poelt SPECIES
 
 #### Status
 ACCEPTED

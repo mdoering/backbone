@@ -1,14 +1,13 @@
-Chrysocelis coaetanea (Syd.) Thirum., 1961 SPECIES
-=======
+# Chaconia coaetanea (Syd.) Cummins, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 52(5): 690 (1961)
+Bull. Torrey bot. Club 87: 33 (1960)
 
 #### Original name
 Desmotelium coaetaneum Syd., 1937

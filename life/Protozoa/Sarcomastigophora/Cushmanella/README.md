@@ -1,5 +1,4 @@
-Cushmanella Zadorozhnyij in Zadorozhnyj & Yuferev, 1984 GENUS
-=======
+# Cushmanella Zadorozhnyij in Zadorozhnyj & Yuferev, 1984 GENUS
 
 #### Status
 ACCEPTED

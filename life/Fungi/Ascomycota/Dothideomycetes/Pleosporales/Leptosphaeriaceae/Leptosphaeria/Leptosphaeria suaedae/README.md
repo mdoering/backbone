@@ -1,5 +1,4 @@
-Leptosphaeria suaedae Hansf. SPECIES
-=======
+# Leptosphaeria suaedae Hansf. SPECIES
 
 #### Status
 ACCEPTED

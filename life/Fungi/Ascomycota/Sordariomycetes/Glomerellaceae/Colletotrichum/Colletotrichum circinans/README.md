@@ -1,17 +1,16 @@
-Vermicularia circinans Berk., 1851 SPECIES
-=======
+# Colletotrichum circinans (Berk.) Voglino, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gard. Chron. , London 595 (1851)
+Atti Ist. bot. Univ. Lab. crittog. Pavia 3: 206 (1927)
 
 #### Original name
-Vermicularia circinans Berk., 1851
+Colletotrichum circinans (Berk.) Voglino, 1921
 
 ### Remarks
 null

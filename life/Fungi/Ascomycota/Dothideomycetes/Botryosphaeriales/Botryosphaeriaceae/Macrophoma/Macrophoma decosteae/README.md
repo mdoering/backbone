@@ -1,5 +1,4 @@
-Macrophoma decosteae (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma decosteae (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

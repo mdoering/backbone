@@ -1,5 +1,4 @@
-Dothiorella castaneae Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Dothiorella castaneae Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

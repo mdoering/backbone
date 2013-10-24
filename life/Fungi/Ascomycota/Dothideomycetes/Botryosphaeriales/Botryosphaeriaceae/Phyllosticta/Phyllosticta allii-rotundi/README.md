@@ -1,5 +1,4 @@
-Phyllosticta allii-rotundi Lobik SPECIES
-=======
+# Phyllosticta allii-rotundi Lobik SPECIES
 
 #### Status
 ACCEPTED

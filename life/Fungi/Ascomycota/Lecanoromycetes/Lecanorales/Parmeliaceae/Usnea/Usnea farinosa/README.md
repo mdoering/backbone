@@ -1,5 +1,4 @@
-Usnea farinosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Usnea farinosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

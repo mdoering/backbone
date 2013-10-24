@@ -1,5 +1,4 @@
-Fissurina danica (Madsen, 1895) SPECIES
-=======
+# Fissurina danica (Madsen, 1895) SPECIES
 
 #### Status
 ACCEPTED

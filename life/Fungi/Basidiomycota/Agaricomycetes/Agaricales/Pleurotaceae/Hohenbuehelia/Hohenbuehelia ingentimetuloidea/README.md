@@ -1,5 +1,4 @@
-Hohenbuehelia ingentimetuloidea X. He SPECIES
-=======
+# Hohenbuehelia ingentimetuloidea X. He SPECIES
 
 #### Status
 ACCEPTED

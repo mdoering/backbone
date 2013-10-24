@@ -1,5 +1,4 @@
-Anellaria conicodiffracta Rick SPECIES
-=======
+# Anellaria conicodiffracta Rick SPECIES
 
 #### Status
 ACCEPTED

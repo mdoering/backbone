@@ -1,5 +1,4 @@
-Hebeloma mentiens P. Karst. SPECIES
-=======
+# Hebeloma mentiens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

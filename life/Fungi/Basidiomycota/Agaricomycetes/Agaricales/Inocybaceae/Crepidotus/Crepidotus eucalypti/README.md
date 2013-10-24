@@ -1,5 +1,4 @@
-Crepidotus eucalypti (Torrend) Singer SPECIES
-=======
+# Crepidotus eucalypti (Torrend) Singer SPECIES
 
 #### Status
 ACCEPTED

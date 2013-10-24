@@ -1,5 +1,4 @@
-Urocystis andina (Speg.) Zundel SPECIES
-=======
+# Urocystis andina (Speg.) Zundel SPECIES
 
 #### Status
 ACCEPTED

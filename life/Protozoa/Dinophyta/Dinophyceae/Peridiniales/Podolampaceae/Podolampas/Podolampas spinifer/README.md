@@ -1,5 +1,4 @@
-Podolampas spinifer SPECIES
-=======
+# Podolampas spinifer SPECIES
 
 #### Status
 ACCEPTED

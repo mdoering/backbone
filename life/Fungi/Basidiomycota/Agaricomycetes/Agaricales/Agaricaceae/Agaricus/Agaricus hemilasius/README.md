@@ -1,5 +1,4 @@
-Agaricus hemilasius Berk. & Broome SPECIES
-=======
+# Agaricus hemilasius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

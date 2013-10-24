@@ -1,5 +1,4 @@
-Aplosporella brasiliensis Speg. SPECIES
-=======
+# Aplosporella brasiliensis Speg. SPECIES
 
 #### Status
 ACCEPTED

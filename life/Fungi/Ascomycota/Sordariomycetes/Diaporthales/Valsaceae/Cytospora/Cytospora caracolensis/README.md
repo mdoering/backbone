@@ -1,5 +1,4 @@
-Cytospora caracolensis Speg. SPECIES
-=======
+# Cytospora caracolensis Speg. SPECIES
 
 #### Status
 ACCEPTED

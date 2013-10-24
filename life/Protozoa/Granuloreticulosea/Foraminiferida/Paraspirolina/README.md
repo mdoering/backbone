@@ -1,5 +1,4 @@
-Paraspirolina Fleury, 1997 GENUS
-=======
+# Paraspirolina Fleury, 1997 GENUS
 
 #### Status
 ACCEPTED

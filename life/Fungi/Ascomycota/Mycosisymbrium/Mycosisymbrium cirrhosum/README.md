@@ -1,5 +1,4 @@
-Mycosisymbrium cirrhosum Carris SPECIES
-=======
+# Mycosisymbrium cirrhosum Carris SPECIES
 
 #### Status
 ACCEPTED

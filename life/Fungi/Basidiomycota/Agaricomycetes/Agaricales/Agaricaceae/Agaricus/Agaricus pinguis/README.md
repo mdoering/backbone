@@ -1,5 +1,4 @@
-Agaricus pinguis Fr. SPECIES
-=======
+# Agaricus pinguis Fr. SPECIES
 
 #### Status
 ACCEPTED

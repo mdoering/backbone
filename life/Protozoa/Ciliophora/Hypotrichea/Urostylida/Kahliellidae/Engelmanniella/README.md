@@ -1,5 +1,4 @@
-Engelmanniella Foissner, 1982 GENUS
-=======
+# Engelmanniella Foissner, 1982 GENUS
 
 #### Status
 ACCEPTED

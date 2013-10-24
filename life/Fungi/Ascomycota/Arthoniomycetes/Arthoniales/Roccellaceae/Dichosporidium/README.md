@@ -1,5 +1,4 @@
-Dichosporidium Pat. GENUS
-=======
+# Dichosporidium Pat. GENUS
 
 #### Status
 ACCEPTED

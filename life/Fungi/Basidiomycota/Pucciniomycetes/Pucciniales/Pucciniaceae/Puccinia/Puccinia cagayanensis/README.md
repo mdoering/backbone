@@ -1,5 +1,4 @@
-Puccinia cagayanensis Syd. SPECIES
-=======
+# Puccinia cagayanensis Syd. SPECIES
 
 #### Status
 ACCEPTED

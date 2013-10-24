@@ -1,17 +1,16 @@
-Podosporium himalensis Balf.-Browne SPECIES
-=======
+# Podosporium himalense Balf.-Browne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 4(3): 138 (1968)
 
 #### Original name
-Podosporium himalensis Balf.-Browne
+Podosporium himalense Balf.-Browne
 
 ### Remarks
 null

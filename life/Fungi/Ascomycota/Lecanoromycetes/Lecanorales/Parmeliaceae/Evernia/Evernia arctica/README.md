@@ -1,5 +1,4 @@
-Evernia arctica (Elenkin & Savicz) Lynge SPECIES
-=======
+# Evernia arctica (Elenkin & Savicz) Lynge SPECIES
 
 #### Status
 ACCEPTED

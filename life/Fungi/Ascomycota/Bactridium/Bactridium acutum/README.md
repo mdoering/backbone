@@ -1,5 +1,4 @@
-Bactridium acutum Berk. & F.B. White, 1878 SPECIES
-=======
+# Bactridium acutum Berk. & F.B. White, 1878 SPECIES
 
 #### Status
 ACCEPTED

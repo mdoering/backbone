@@ -1,5 +1,4 @@
-Diomedella disjungenda (Cromb.) Hertel SPECIES
-=======
+# Diomedella disjungenda (Cromb.) Hertel SPECIES
 
 #### Status
 ACCEPTED

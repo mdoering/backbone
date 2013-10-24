@@ -1,5 +1,4 @@
-Platystomum desertorum Tracy & Earle SPECIES
-=======
+# Platystomum desertorum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

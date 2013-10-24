@@ -1,17 +1,16 @@
-Eutypella andrussowii Rehm SPECIES
-=======
+# Eutypella androssowii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 9(4): 370 (1911)
 
 #### Original name
-Eutypella andrussowii Rehm
+Eutypella androssowii Rehm
 
 ### Remarks
 null

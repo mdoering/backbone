@@ -1,5 +1,4 @@
-Plasmopara helichrysi (Togashi & Egami) J.F. Tao SPECIES
-=======
+# Plasmopara helichrysi (Togashi & Egami) J.F. Tao SPECIES
 
 #### Status
 ACCEPTED

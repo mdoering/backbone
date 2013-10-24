@@ -1,5 +1,4 @@
-Crocynia novae-caledoniae Hue SPECIES
-=======
+# Crocynia novae-caledoniae Hue SPECIES
 
 #### Status
 ACCEPTED

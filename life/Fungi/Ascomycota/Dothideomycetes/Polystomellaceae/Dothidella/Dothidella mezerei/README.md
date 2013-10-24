@@ -1,14 +1,13 @@
-Plowrightia mezerei (Schleich. ex Fr.) Sacc., 1883 SPECIES
-=======
+# Dothidella mezerei (Schleich. ex Fr.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(3/4): 310 (1915)
 
 #### Original name
 Sphaeria mezerei Schleich. ex Fr., 1815

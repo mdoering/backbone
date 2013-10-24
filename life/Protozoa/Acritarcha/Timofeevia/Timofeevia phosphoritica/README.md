@@ -1,5 +1,4 @@
-Timofeevia phosphoritica Vanguestaine, 1978 SPECIES
-=======
+# Timofeevia phosphoritica Vanguestaine, 1978 SPECIES
 
 #### Status
 ACCEPTED

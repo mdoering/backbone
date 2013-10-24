@@ -1,17 +1,16 @@
-Sphaeria fimeti var. fimeti VARIETY
-=======
+# Hypocopra fimeti (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 397 (1849)
 
 #### Original name
-null
+Sphaeria fimeti Pers., 1801
 
 ### Remarks
 null

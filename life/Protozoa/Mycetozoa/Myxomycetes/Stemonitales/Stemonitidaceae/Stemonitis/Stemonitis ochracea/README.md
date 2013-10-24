@@ -1,5 +1,4 @@
-Stemonitis ochracea Opiz SPECIES
-=======
+# Stemonitis ochracea Opiz SPECIES
 
 #### Status
 ACCEPTED

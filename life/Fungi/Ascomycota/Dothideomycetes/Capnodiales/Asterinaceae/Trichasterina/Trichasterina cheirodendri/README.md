@@ -1,5 +1,4 @@
-Trichasterina cheirodendri Hansf. SPECIES
-=======
+# Trichasterina cheirodendri Hansf. SPECIES
 
 #### Status
 ACCEPTED

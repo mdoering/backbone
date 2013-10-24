@@ -1,14 +1,13 @@
-Naevia seriata (Lib.) Fuckel, 1888 SPECIES
-=======
+# Diplonaevia seriata (Lib.) B. Hein, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 1(3): 147 (1888)
+Sydowia 36: 88 (1983)
 
 #### Original name
 Stictis seriata Lib.

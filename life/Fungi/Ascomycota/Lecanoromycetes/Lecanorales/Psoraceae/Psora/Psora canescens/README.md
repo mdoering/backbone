@@ -1,5 +1,4 @@
-Psora canescens (Dicks.) Hoffm. SPECIES
-=======
+# Psora canescens (Dicks.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis tumidula (Fée) Spreng. SPECIES
-=======
+# Graphis tumidula (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

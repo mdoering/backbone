@@ -1,5 +1,4 @@
-Valsa cristata Nitschke SPECIES
-=======
+# Valsa cristata Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patella michiganensis Povah SPECIES
-=======
+# Patella michiganensis Povah SPECIES
 
 #### Status
 ACCEPTED

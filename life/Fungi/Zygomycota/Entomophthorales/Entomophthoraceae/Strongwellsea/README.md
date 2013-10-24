@@ -1,5 +1,4 @@
-Strongwellsea A. Batko & Weiser GENUS
-=======
+# Strongwellsea A. Batko & Weiser GENUS
 
 #### Status
 ACCEPTED

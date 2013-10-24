@@ -1,5 +1,4 @@
-Chiasmolithus inconspicuus S. E. van Heck & B. Prins SPECIES
-=======
+# Chiasmolithus inconspicuus S. E. van Heck & B. Prins SPECIES
 
 #### Status
 ACCEPTED

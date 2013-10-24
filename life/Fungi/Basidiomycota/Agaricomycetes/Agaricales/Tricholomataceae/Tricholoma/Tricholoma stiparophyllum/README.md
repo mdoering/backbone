@@ -1,17 +1,16 @@
-Agaricus stiparophyllus S. Lundell, 1857 SPECIES
-=======
+# Tricholoma stiparophyllum (S. Lundell) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Hymenomyc. Suec. (Upsaliae) 1: 29 (1857)
+Meddn Soc. Fauna Flora fenn. 31: 42 (1879)
 
 #### Original name
-Agaricus stiparophyllus S. Lundell, 1857
+Tricholoma stiparophyllum (S. Lundell) P. Karst., 1879
 
 ### Remarks
 null

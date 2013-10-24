@@ -1,5 +1,4 @@
-Hypogymnia delavayi (Hue) Rass. SPECIES
-=======
+# Hypogymnia delavayi (Hue) Rass. SPECIES
 
 #### Status
 ACCEPTED

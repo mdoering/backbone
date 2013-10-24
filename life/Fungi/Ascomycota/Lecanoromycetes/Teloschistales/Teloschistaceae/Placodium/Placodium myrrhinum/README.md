@@ -1,5 +1,4 @@
-Placodium myrrhinum (Ach.) Savicz SPECIES
-=======
+# Placodium myrrhinum (Ach.) Savicz SPECIES
 
 #### Status
 ACCEPTED

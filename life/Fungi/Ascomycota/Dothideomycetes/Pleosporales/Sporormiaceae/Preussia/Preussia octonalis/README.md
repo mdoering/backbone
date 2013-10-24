@@ -1,5 +1,4 @@
-Preussia octonalis (S.I. Ahmed & Cain) Soláns SPECIES
-=======
+# Preussia octonalis (S.I. Ahmed & Cain) Soláns SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratophyton circufunctum Zang Wen-long in Gravestock et al., 2001 SPECIES
-=======
+# Ceratophyton circufunctum Zang Wen-long in Gravestock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

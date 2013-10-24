@@ -1,5 +1,4 @@
-Megalaria beechingii Lendemer SPECIES
-=======
+# Megalaria beechingii Lendemer SPECIES
 
 #### Status
 ACCEPTED

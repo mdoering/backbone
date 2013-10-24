@@ -1,5 +1,4 @@
-Lagena tetragona Jones & Parker SPECIES
-=======
+# Lagena tetragona Jones & Parker SPECIES
 
 #### Status
 ACCEPTED

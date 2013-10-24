@@ -1,5 +1,4 @@
-Stropharia aureofulva (Berk.) Sacc. SPECIES
-=======
+# Stropharia aureofulva (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

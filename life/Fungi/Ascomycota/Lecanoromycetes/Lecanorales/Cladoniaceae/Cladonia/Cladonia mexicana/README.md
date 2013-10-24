@@ -1,5 +1,4 @@
-Cladonia mexicana Vain. SPECIES
-=======
+# Cladonia mexicana Vain. SPECIES
 
 #### Status
 ACCEPTED

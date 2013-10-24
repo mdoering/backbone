@@ -1,5 +1,4 @@
-Anderseniella baltica Brettar, Christen, Botel, Lunsdorf & Hofle, 2007 SPECIES
-=======
+# Anderseniella baltica Brettar, Christen, Botel, Lunsdorf & Hofle, 2007 SPECIES
 
 #### Status
 ACCEPTED

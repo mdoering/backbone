@@ -1,5 +1,4 @@
-Leptosphaeria salsolae Hollós SPECIES
-=======
+# Leptosphaeria salsolae Hollós SPECIES
 
 #### Status
 ACCEPTED

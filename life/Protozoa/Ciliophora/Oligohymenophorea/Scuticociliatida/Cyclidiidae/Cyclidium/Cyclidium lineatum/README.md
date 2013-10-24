@@ -1,5 +1,4 @@
-Cyclidium lineatum SPECIES
-=======
+# Cyclidium lineatum SPECIES
 
 #### Status
 ACCEPTED

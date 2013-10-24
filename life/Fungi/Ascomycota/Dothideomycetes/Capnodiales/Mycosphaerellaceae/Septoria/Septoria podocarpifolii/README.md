@@ -1,5 +1,4 @@
-Septoria podocarpifolii Bat. & Peres SPECIES
-=======
+# Septoria podocarpifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces leptosporus Speg., 1885 SPECIES
-=======
+# Coccomyces leptosporus Speg., 1885 SPECIES
 
 #### Status
 ACCEPTED

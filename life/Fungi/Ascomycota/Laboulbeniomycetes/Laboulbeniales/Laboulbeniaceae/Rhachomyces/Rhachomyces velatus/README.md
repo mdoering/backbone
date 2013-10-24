@@ -1,5 +1,4 @@
-Rhachomyces velatus Thaxt. SPECIES
-=======
+# Rhachomyces velatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeothecoidea intermedia Crous & Summerell, 2009 SPECIES
-=======
+# Phaeothecoidea intermedia Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

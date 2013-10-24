@@ -1,5 +1,4 @@
-Asteridiella monninae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella monninae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

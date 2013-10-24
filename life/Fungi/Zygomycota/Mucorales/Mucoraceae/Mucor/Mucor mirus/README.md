@@ -1,5 +1,4 @@
-Mucor mirus F.S. Paine SPECIES
-=======
+# Mucor mirus F.S. Paine SPECIES
 
 #### Status
 ACCEPTED

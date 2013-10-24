@@ -1,5 +1,4 @@
-Sticta stenoloba Vain. SPECIES
-=======
+# Sticta stenoloba Vain. SPECIES
 
 #### Status
 ACCEPTED

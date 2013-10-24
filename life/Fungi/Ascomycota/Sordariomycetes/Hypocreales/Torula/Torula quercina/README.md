@@ -1,5 +1,4 @@
-Torula quercina Opiz SPECIES
-=======
+# Torula quercina Opiz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria griseotecta Berk. & Broome SPECIES
-=======
+# Sphaeria griseotecta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

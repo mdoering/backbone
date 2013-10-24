@@ -1,5 +1,4 @@
-Evernia terrestris (Tomin) N.S. Golubk. SPECIES
-=======
+# Evernia terrestris (Tomin) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

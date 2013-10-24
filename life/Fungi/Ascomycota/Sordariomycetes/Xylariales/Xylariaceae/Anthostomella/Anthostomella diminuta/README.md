@@ -1,5 +1,4 @@
-Anthostomella diminuta (Rehm) Höhn. SPECIES
-=======
+# Anthostomella diminuta (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

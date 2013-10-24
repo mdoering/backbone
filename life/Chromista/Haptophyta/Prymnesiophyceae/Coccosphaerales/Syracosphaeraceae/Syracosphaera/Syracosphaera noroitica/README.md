@@ -1,5 +1,4 @@
-Syracosphaera noroitica M. Knappertsbusch SPECIES
-=======
+# Syracosphaera noroitica M. Knappertsbusch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmia globulosa B. Sutton SPECIES
-=======
+# Endophragmia globulosa B. Sutton SPECIES
 
 #### Status
 ACCEPTED

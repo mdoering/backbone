@@ -1,5 +1,4 @@
-Sporocadus diversispora Preuss SPECIES
-=======
+# Sporocadus diversispora Preuss SPECIES
 
 #### Status
 ACCEPTED

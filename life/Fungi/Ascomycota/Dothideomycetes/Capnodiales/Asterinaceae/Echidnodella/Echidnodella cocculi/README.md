@@ -1,5 +1,4 @@
-Echidnodella cocculi F. Stevens & R.W. Ryan SPECIES
-=======
+# Echidnodella cocculi F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

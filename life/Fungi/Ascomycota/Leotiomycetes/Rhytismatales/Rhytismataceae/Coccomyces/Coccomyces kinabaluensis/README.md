@@ -1,5 +1,4 @@
-Coccomyces kinabaluensis Spooner, 1990 SPECIES
-=======
+# Coccomyces kinabaluensis Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

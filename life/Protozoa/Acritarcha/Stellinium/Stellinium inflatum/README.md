@@ -1,5 +1,4 @@
-Stellinium inflatum Wicander, 1974 SPECIES
-=======
+# Stellinium inflatum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

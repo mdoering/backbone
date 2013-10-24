@@ -1,5 +1,4 @@
-Pholiota mucigera Holec & Niemelä SPECIES
-=======
+# Pholiota mucigera Holec & Niemelä SPECIES
 
 #### Status
 ACCEPTED

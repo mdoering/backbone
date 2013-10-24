@@ -1,5 +1,4 @@
-Resupinatus sordulentus (Berk. & Broome) G. Stev. SPECIES
-=======
+# Resupinatus sordulentus (Berk. & Broome) G. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina lesdainii Samp. SPECIES
-=======
+# Rinodina lesdainii Samp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe bubalina H.E. Bigelow & O.K. Mill. SPECIES
-=======
+# Clitocybe bubalina H.E. Bigelow & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

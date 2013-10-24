@@ -1,5 +1,4 @@
-Textularia pigmaea d’Orbigny, 1826 SPECIES
-=======
+# Textularia pigmaea d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

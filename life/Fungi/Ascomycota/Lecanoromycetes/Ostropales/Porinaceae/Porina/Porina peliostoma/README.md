@@ -1,5 +1,4 @@
-Porina peliostoma Ach. SPECIES
-=======
+# Porina peliostoma Ach. SPECIES
 
 #### Status
 ACCEPTED

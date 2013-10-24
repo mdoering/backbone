@@ -1,5 +1,4 @@
-Coprinus parapellucidus Bogart SPECIES
-=======
+# Coprinus parapellucidus Bogart SPECIES
 
 #### Status
 ACCEPTED

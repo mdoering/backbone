@@ -1,5 +1,4 @@
-Eutypa dimorpha (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Eutypa dimorpha (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

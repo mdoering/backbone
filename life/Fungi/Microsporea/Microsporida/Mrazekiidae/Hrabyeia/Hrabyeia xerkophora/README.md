@@ -1,5 +1,4 @@
-Hrabyeia xerkophora J. Lom & I. Dykova SPECIES
-=======
+# Hrabyeia xerkophora J. Lom & I. Dykova SPECIES
 
 #### Status
 ACCEPTED

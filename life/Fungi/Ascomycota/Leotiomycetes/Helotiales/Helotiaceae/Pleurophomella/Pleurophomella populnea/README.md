@@ -1,5 +1,4 @@
-Pleurophomella populnea (Thüm.) Petr. SPECIES
-=======
+# Pleurophomella populnea (Thüm.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia conspicua Nyl. SPECIES
-=======
+# Arthonia conspicua Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Goidanichia scopula (Goid.) G. Arnaud, 1954 SPECIES
-=======
+# Goidanichiella scopula (Goid.) G.L. Barron, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 69: 281 (1954)
+Genera of Hyphomycetes from soil 180 (1968)
 
 #### Original name
 Scopularia scopula Goid., 1933

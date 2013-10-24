@@ -1,5 +1,4 @@
-Sporidesmium minutissimum Peck SPECIES
-=======
+# Sporidesmium minutissimum Peck SPECIES
 
 #### Status
 ACCEPTED

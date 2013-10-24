@@ -1,5 +1,4 @@
-Crinipellis albipes Singer SPECIES
-=======
+# Crinipellis albipes Singer SPECIES
 
 #### Status
 ACCEPTED

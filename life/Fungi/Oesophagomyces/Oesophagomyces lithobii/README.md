@@ -1,5 +1,4 @@
-Oesophagomyces lithobii Manier & Ormières SPECIES
-=======
+# Oesophagomyces lithobii Manier & Ormières SPECIES
 
 #### Status
 ACCEPTED

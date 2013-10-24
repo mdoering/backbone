@@ -1,5 +1,4 @@
-Mallomonas apochromatica Conrad SPECIES
-=======
+# Mallomonas apochromatica Conrad SPECIES
 
 #### Status
 ACCEPTED

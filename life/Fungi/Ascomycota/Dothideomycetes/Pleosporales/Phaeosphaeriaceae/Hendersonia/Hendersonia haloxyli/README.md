@@ -1,5 +1,4 @@
-Hendersonia haloxyli Trotter SPECIES
-=======
+# Hendersonia haloxyli Trotter SPECIES
 
 #### Status
 ACCEPTED

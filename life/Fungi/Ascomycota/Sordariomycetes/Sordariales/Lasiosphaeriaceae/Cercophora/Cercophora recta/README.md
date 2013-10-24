@@ -1,5 +1,4 @@
-Cercophora recta A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Cercophora recta A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

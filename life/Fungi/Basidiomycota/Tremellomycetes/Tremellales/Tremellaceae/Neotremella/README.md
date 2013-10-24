@@ -1,5 +1,4 @@
-Neotremella Lowy GENUS
-=======
+# Neotremella Lowy GENUS
 
 #### Status
 ACCEPTED

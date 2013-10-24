@@ -1,5 +1,4 @@
-Entomophthora egressa D.M. MacLeod & Tyrrell SPECIES
-=======
+# Entomophthora egressa D.M. MacLeod & Tyrrell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Varicosporium elodeae W. Kegel, 1906 SPECIES
-=======
+# Varicosporium elodeae W. Kegel, 1906 SPECIES
 
 #### Status
 ACCEPTED

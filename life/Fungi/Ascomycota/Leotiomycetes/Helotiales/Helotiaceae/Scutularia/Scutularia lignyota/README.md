@@ -1,5 +1,4 @@
-Scutularia lignyota (Fuckel) Sacc. SPECIES
-=======
+# Scutularia lignyota (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

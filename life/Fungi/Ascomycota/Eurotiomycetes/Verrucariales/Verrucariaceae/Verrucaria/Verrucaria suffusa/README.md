@@ -1,5 +1,4 @@
-Verrucaria suffusa C. Knight SPECIES
-=======
+# Verrucaria suffusa C. Knight SPECIES
 
 #### Status
 ACCEPTED

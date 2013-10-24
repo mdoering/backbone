@@ -1,5 +1,4 @@
-Lecidea adpressa (Hepp) Nyl. SPECIES
-=======
+# Lecidea adpressa (Hepp) Nyl. SPECIES
 
 #### Status
 ACCEPTED

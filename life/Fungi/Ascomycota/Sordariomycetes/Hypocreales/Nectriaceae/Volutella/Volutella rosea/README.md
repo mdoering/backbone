@@ -1,5 +1,4 @@
-Volutella rosea Sacc. SPECIES
-=======
+# Volutella rosea Sacc. SPECIES
 
 #### Status
 ACCEPTED

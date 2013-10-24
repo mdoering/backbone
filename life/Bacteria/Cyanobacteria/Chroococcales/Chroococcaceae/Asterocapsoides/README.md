@@ -1,5 +1,4 @@
-Asterocapsoides L.M. Yin & Z.P. Li, 1978 GENUS
-=======
+# Asterocapsoides L.M. Yin & Z.P. Li, 1978 GENUS
 
 #### Status
 ACCEPTED

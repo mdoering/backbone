@@ -1,5 +1,4 @@
-Ophiosphaeria tenella Kirschst. SPECIES
-=======
+# Ophiosphaeria tenella Kirschst. SPECIES
 
 #### Status
 ACCEPTED

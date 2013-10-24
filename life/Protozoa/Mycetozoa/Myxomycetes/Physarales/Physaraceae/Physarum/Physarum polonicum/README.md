@@ -1,5 +1,4 @@
-Physarum polonicum Skup. SPECIES
-=======
+# Physarum polonicum Skup. SPECIES
 
 #### Status
 ACCEPTED

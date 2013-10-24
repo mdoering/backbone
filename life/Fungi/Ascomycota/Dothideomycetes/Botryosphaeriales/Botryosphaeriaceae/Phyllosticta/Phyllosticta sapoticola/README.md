@@ -1,5 +1,4 @@
-Phyllosticta sapoticola V.G. Rao SPECIES
-=======
+# Phyllosticta sapoticola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

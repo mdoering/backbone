@@ -1,5 +1,4 @@
-Oligoclonium A.B.Klugh GENUS
-=======
+# Oligoclonium A.B.Klugh GENUS
 
 #### Status
 ACCEPTED

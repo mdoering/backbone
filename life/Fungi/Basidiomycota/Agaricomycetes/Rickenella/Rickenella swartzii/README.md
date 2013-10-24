@@ -1,17 +1,16 @@
-Rickenella swartzii f. swartzii FORM
-=======
+# Rickenella swartzii (Fr.) Kuyper, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Persoonia 12(2): 188 (1984)
 
 #### Original name
-Rickenella swartzii f. swartzii
+Agaricus swartzii Fr., 1815
 
 ### Remarks
 null

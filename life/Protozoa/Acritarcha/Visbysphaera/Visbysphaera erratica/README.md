@@ -1,5 +1,4 @@
-Visbysphaera erratica (Eisenack, 1954) Lister, 1970 SPECIES
-=======
+# Visbysphaera erratica (Eisenack, 1954) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

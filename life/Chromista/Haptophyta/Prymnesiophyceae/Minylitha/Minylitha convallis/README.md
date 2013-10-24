@@ -1,5 +1,4 @@
-Minylitha convallis Bukry, 1973 SPECIES
-=======
+# Minylitha convallis Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

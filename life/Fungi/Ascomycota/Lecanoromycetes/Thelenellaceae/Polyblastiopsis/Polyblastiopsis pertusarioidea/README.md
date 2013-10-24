@@ -1,14 +1,13 @@
-Pyrenula pertusarioidea Kremp. SPECIES
-=======
+# Polyblastiopsis pertusarioidea (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 30: 342 (1880)
+Cat. Lich. Univers. 1: 351 (1922)
 
 #### Original name
 Pyrenula pertusarioidea Kremp.

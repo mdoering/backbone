@@ -1,5 +1,4 @@
-Laboulbenia olistopi Speg. SPECIES
-=======
+# Laboulbenia olistopi Speg. SPECIES
 
 #### Status
 ACCEPTED

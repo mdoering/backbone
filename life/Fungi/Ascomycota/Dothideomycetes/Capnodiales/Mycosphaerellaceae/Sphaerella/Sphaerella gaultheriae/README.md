@@ -1,5 +1,4 @@
-Sphaerella gaultheriae Cooke & Plowr. SPECIES
-=======
+# Sphaerella gaultheriae Cooke & Plowr. SPECIES
 
 #### Status
 ACCEPTED

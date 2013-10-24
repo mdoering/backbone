@@ -1,5 +1,4 @@
-Ophiognomonia umbelliferarum (M.E. Barr) Lar.N. Vassiljeva SPECIES
-=======
+# Ophiognomonia umbelliferarum (M.E. Barr) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

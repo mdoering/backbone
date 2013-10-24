@@ -1,5 +1,4 @@
-Calocybe pusilla (Peck) Harmaja SPECIES
-=======
+# Calocybe pusilla (Peck) Harmaja SPECIES
 
 #### Status
 ACCEPTED

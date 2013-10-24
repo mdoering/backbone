@@ -1,5 +1,4 @@
-Marasmius umbonifer Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius umbonifer Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

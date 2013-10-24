@@ -1,5 +1,4 @@
-Aporomyces Thaxt. GENUS
-=======
+# Aporomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

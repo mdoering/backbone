@@ -1,5 +1,4 @@
-Lecidea diffluens Nyl. SPECIES
-=======
+# Lecidea diffluens Nyl. SPECIES
 
 #### Status
 ACCEPTED

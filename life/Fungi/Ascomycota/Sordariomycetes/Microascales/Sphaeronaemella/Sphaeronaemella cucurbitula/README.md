@@ -1,5 +1,4 @@
-Sphaeronaemella cucurbitula (Ces.) Sacc. & P. Syd. SPECIES
-=======
+# Sphaeronaemella cucurbitula (Ces.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

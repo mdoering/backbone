@@ -1,5 +1,4 @@
-Euglandulina symmetrica McCulloch, 1977 SPECIES
-=======
+# Euglandulina symmetrica McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

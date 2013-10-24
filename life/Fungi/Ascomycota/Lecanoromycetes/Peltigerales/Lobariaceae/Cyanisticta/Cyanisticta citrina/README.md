@@ -1,5 +1,4 @@
-Cyanisticta citrina Gyeln. SPECIES
-=======
+# Cyanisticta citrina Gyeln. SPECIES
 
 #### Status
 ACCEPTED

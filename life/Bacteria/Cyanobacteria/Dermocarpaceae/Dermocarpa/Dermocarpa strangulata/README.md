@@ -1,5 +1,4 @@
-Dermocarpa strangulata Sauvageau SPECIES
-=======
+# Dermocarpa strangulata Sauvageau SPECIES
 
 #### Status
 ACCEPTED

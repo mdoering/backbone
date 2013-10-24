@@ -1,8 +1,7 @@
-Rhizocarpon coniopsidium SPECIES
-=======
+# Rhizocarpon coniopsideum Hepp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon coniopsidium
+Rhizocarpon coniopsideum Hepp
 
 ### Remarks
 null

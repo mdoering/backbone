@@ -1,5 +1,4 @@
-Puccinia cladophila Peck SPECIES
-=======
+# Puccinia cladophila Peck SPECIES
 
 #### Status
 ACCEPTED

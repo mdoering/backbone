@@ -1,5 +1,4 @@
-Hypotrachyna carchiensis Yánez-Ayabaca & Eliasaro SPECIES
-=======
+# Hypotrachyna carchiensis Yánez-Ayabaca & Eliasaro SPECIES
 
 #### Status
 ACCEPTED

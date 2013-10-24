@@ -1,5 +1,4 @@
-Lecidea russeola Kremp. SPECIES
-=======
+# Lecidea russeola Kremp. SPECIES
 
 #### Status
 ACCEPTED

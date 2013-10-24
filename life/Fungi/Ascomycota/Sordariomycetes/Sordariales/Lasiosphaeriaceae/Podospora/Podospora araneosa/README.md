@@ -1,5 +1,4 @@
-Podospora araneosa (Cain) Cain SPECIES
-=======
+# Podospora araneosa (Cain) Cain SPECIES
 
 #### Status
 ACCEPTED

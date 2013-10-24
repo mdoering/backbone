@@ -1,14 +1,13 @@
-Phaeotrema samaranum (Vain.) Zahlbr. SPECIES
-=======
+# Thelotrema samaranum Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 610 (1923)
+Ann. Acad. Sci. fenn. , Ser. A 15(6): 185 (1921)
 
 #### Original name
 Thelotrema samaranum Vain.

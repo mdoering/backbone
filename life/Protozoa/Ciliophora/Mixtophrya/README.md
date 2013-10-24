@@ -1,5 +1,4 @@
-Mixtophrya de Puytorac, 1969 GENUS
-=======
+# Mixtophrya de Puytorac, 1969 GENUS
 
 #### Status
 ACCEPTED

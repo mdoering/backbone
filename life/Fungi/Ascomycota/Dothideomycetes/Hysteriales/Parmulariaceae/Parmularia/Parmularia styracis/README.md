@@ -1,17 +1,16 @@
-Parmularia arechavaletae (Speg.) G. Arnaud, 1918 SPECIES
-=======
+# Parmularia styracis Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 286 (1846)
 
 #### Original name
-null
+Parmularia styracis Lév., 1846
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterocapsa aerophytica F. Lederer SPECIES
-=======
+# Asterocapsa aerophytica F. Lederer SPECIES
 
 #### Status
 ACCEPTED

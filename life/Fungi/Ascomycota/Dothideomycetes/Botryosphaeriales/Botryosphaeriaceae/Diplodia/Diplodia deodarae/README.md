@@ -1,5 +1,4 @@
-Diplodia deodarae Thüm. SPECIES
-=======
+# Diplodia deodarae Thüm. SPECIES
 
 #### Status
 ACCEPTED

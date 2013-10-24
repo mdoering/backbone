@@ -1,5 +1,4 @@
-Asterostromina solaris Bat. & A.F. Vital, 1957 SPECIES
-=======
+# Asterostromina solaris Bat. & A.F. Vital, 1957 SPECIES
 
 #### Status
 ACCEPTED

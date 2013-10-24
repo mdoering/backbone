@@ -1,5 +1,4 @@
-Polyporus sublignosus J.D. Zhao & X.Q. Zhang SPECIES
-=======
+# Polyporus sublignosus J.D. Zhao & X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

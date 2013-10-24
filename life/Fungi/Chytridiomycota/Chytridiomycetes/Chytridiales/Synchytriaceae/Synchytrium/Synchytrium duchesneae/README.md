@@ -1,5 +1,4 @@
-Synchytrium duchesneae M.T. Cook SPECIES
-=======
+# Synchytrium duchesneae M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abrothallus peyritschii (Stein) Kotte SPECIES
-=======
+# Abrothallus peyritschii (Stein) Kotte SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taeniola pinophila (Corda) Bonord. SPECIES
-=======
+# Taeniola pinophila (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

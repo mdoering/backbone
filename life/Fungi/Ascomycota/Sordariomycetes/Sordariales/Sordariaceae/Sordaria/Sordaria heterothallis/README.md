@@ -1,5 +1,4 @@
-Sordaria heterothallis Fields & Maniotis SPECIES
-=======
+# Sordaria heterothallis Fields & Maniotis SPECIES
 
 #### Status
 ACCEPTED

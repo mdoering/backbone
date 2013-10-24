@@ -1,5 +1,4 @@
-Diplodina dictamni Kabát & Bubák SPECIES
-=======
+# Diplodina dictamni Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

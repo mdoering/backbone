@@ -1,5 +1,4 @@
-Lecidea dalekarlica Hedl. SPECIES
-=======
+# Lecidea dalekarlica Hedl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma paeoniae Kuros. SPECIES
-=======
+# Sphaceloma paeoniae Kuros. SPECIES
 
 #### Status
 ACCEPTED

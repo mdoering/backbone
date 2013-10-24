@@ -1,5 +1,4 @@
-Tremella myricae Berk. & Cooke SPECIES
-=======
+# Tremella myricae Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

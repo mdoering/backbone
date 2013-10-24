@@ -1,5 +1,4 @@
-Chiodecton albineum (Nyl.) Zahlbr. SPECIES
-=======
+# Chiodecton albineum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

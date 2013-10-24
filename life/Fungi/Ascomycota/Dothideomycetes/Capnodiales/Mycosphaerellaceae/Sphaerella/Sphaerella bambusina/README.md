@@ -1,5 +1,4 @@
-Sphaerella bambusina Syd. {?} & E.J. Butler SPECIES
-=======
+# Sphaerella bambusina Syd. {?} & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

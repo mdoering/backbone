@@ -1,5 +1,4 @@
-Diplomitoporus taquarae G. Coelho SPECIES
-=======
+# Diplomitoporus taquarae G. Coelho SPECIES
 
 #### Status
 ACCEPTED

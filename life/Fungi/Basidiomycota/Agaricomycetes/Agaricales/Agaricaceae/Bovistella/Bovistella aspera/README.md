@@ -1,5 +1,4 @@
-Bovistella aspera (Lév.) Lloyd SPECIES
-=======
+# Bovistella aspera (Lév.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

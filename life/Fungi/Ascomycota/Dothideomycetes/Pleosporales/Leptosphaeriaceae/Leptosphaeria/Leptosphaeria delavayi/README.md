@@ -1,5 +1,4 @@
-Leptosphaeria delavayi Pat. SPECIES
-=======
+# Leptosphaeria delavayi Pat. SPECIES
 
 #### Status
 ACCEPTED

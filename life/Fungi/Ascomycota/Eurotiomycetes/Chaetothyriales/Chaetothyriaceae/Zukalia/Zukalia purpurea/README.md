@@ -1,5 +1,4 @@
-Zukalia purpurea (Ellis & G. Martin) Theiss. SPECIES
-=======
+# Zukalia purpurea (Ellis & G. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catillaria apatetica A. Massal. SPECIES
-=======
+# Arthonia apatetica (A. Massal.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symmict. Lich. 50 (1855)
+Bot. Notiser 56 (1866)
 
 #### Original name
 Catillaria apatetica A. Massal.

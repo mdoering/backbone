@@ -1,5 +1,4 @@
-Asterina inconspicua (Doidge) Doidge SPECIES
-=======
+# Asterina inconspicua (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

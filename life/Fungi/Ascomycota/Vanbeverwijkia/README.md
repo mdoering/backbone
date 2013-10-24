@@ -1,5 +1,4 @@
-Vanbeverwijkia Agnihothr. GENUS
-=======
+# Vanbeverwijkia Agnihothr. GENUS
 
 #### Status
 ACCEPTED

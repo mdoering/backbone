@@ -1,5 +1,4 @@
-Coniothyrium coptospermae Henn. SPECIES
-=======
+# Coniothyrium coptospermae Henn. SPECIES
 
 #### Status
 ACCEPTED

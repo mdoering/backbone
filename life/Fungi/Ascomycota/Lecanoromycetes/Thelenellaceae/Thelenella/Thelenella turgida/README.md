@@ -1,5 +1,4 @@
-Thelenella turgida Vain. SPECIES
-=======
+# Thelenella turgida Vain. SPECIES
 
 #### Status
 ACCEPTED

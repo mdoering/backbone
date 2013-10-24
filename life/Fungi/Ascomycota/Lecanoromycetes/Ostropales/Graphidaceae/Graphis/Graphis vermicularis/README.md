@@ -1,5 +1,4 @@
-Graphis vermicularis Vain. SPECIES
-=======
+# Graphis vermicularis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceramothyrium gymnopogonis Bat. & Cif. SPECIES
-=======
+# Ceramothyrium gymnopogonis Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

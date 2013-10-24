@@ -1,5 +1,4 @@
-Dermatocarpon atrogranulosum Breuss SPECIES
-=======
+# Dermatocarpon atrogranulosum Breuss SPECIES
 
 #### Status
 ACCEPTED

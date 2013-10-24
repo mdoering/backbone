@@ -1,5 +1,4 @@
-Phyllosticta tabebuiae Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta tabebuiae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

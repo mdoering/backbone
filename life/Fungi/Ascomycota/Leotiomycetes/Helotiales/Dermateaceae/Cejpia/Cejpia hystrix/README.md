@@ -1,14 +1,13 @@
-Belonidium hystrix De Not., 1863 SPECIES
-=======
+# Cejpia hystrix (De Not.) Baral, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1: 381 (1864)
+Syst. Ascom. 13(1): 116 (1994)
 
 #### Original name
 Belonidium hystrix De Not., 1863

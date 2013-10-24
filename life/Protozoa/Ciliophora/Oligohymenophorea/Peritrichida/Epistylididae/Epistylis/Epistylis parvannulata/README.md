@@ -1,5 +1,4 @@
-Epistylis parvannulata Dumas, 1929 SPECIES
-=======
+# Epistylis parvannulata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

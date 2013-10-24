@@ -1,5 +1,4 @@
-Parahistioneis rotundata (Kofoid & Michener) Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Parahistioneis rotundata (Kofoid & Michener) Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

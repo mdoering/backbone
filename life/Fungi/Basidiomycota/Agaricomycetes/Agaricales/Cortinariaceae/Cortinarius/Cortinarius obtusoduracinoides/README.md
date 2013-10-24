@@ -1,5 +1,4 @@
-Cortinarius obtusoduracinoides Rob. Henry SPECIES
-=======
+# Cortinarius obtusoduracinoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

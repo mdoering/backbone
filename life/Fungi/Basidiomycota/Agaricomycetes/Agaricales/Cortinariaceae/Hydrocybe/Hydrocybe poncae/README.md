@@ -1,5 +1,4 @@
-Hydrocybe poncae Velen. SPECIES
-=======
+# Hydrocybe poncae Velen. SPECIES
 
 #### Status
 ACCEPTED

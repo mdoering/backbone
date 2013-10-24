@@ -1,5 +1,4 @@
-Exobasidium otanianum Ezuka SPECIES
-=======
+# Exobasidium otanianum Ezuka SPECIES
 
 #### Status
 ACCEPTED

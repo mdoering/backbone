@@ -1,5 +1,4 @@
-Macroplodia ulmi (Sacc. & Roum.) Kuntze SPECIES
-=======
+# Macroplodia ulmi (Sacc. & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia stachydis-palustris Pospelov SPECIES
-=======
+# Ramularia stachydis-palustris Pospelov SPECIES
 
 #### Status
 ACCEPTED

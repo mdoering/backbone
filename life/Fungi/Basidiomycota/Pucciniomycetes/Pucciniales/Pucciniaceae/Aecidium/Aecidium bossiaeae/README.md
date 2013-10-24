@@ -1,5 +1,4 @@
-Aecidium bossiaeae Henn. SPECIES
-=======
+# Aecidium bossiaeae Henn. SPECIES
 
 #### Status
 ACCEPTED

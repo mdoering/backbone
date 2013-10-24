@@ -1,5 +1,4 @@
-Valsaria diospyri (Schwein.) De Not. SPECIES
-=======
+# Valsaria diospyri (Schwein.) De Not. SPECIES
 
 #### Status
 ACCEPTED

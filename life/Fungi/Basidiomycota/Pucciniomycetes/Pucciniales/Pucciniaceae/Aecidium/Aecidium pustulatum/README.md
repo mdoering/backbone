@@ -1,5 +1,4 @@
-Aecidium pustulatum M.A. Curtis SPECIES
-=======
+# Aecidium pustulatum M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

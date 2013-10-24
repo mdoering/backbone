@@ -1,5 +1,4 @@
-Macrophoma pyrenacanthae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Macrophoma pyrenacanthae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

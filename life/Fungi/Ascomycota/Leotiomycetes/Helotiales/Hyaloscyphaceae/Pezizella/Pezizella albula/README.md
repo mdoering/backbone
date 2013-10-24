@@ -1,5 +1,4 @@
-Pezizella albula (W. Phillips) Sacc., 1889 SPECIES
-=======
+# Pezizella albula (W. Phillips) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

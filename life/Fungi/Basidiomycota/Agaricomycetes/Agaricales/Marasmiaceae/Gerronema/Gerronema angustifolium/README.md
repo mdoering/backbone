@@ -1,5 +1,4 @@
-Gerronema angustifolium Singer SPECIES
-=======
+# Gerronema angustifolium Singer SPECIES
 
 #### Status
 ACCEPTED

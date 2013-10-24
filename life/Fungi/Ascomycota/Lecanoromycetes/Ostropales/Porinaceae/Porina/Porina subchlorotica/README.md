@@ -1,5 +1,4 @@
-Porina subchlorotica (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina subchlorotica (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

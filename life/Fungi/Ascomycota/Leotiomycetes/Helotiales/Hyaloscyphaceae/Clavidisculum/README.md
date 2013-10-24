@@ -1,5 +1,4 @@
-Clavidisculum Kirschst. GENUS
-=======
+# Clavidisculum Kirschst. GENUS
 
 #### Status
 ACCEPTED

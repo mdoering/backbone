@@ -1,5 +1,4 @@
-Agaricus spurius Pers. SPECIES
-=======
+# Agaricus spurius Pers. SPECIES
 
 #### Status
 ACCEPTED

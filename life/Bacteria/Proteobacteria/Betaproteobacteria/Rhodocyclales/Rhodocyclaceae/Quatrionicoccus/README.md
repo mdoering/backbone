@@ -1,5 +1,4 @@
-Quatrionicoccus Tindall & Euzéby, 2006 GENUS
-=======
+# Quatrionicoccus Tindall & Euzéby, 2006 GENUS
 
 #### Status
 ACCEPTED

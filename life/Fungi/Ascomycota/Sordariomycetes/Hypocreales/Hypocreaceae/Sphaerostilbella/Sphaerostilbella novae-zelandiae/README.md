@@ -1,17 +1,16 @@
-Sphaerostilbella novaezelandiae Seifert, Samuels & W. Gams SPECIES
-=======
+# Sphaerostilbella novae-zelandiae Seifert, Samuels & W. Gams, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Seifert, Stud. Mycol. 27: 153 (1985)
 
 #### Original name
-Sphaerostilbella novaezelandiae Seifert, Samuels & W. Gams
+Sphaerostilbella novae-zelandiae Seifert, Samuels & W. Gams, 1985
 
 ### Remarks
 null

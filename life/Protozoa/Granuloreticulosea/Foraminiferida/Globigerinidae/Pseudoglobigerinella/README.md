@@ -1,5 +1,4 @@
-Pseudoglobigerinella Olsson & Pearson, 2006 GENUS
-=======
+# Pseudoglobigerinella Olsson & Pearson, 2006 GENUS
 
 #### Status
 ACCEPTED

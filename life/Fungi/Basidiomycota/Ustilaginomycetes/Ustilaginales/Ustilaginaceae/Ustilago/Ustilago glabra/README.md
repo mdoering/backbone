@@ -1,5 +1,4 @@
-Ustilago glabra (A.R. Patil, T.M. Patil & M.S. Patil) Vánky & A.R. Patil SPECIES
-=======
+# Ustilago glabra (A.R. Patil, T.M. Patil & M.S. Patil) Vánky & A.R. Patil SPECIES
 
 #### Status
 ACCEPTED

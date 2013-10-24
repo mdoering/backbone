@@ -1,5 +1,4 @@
-Graphis umbrata (Fée) Spreng. SPECIES
-=======
+# Graphis umbrata (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

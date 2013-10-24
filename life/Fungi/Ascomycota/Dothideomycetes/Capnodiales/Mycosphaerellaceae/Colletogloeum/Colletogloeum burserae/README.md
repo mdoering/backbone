@@ -1,5 +1,4 @@
-Colletogloeum burserae B. Sutton SPECIES
-=======
+# Colletogloeum burserae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

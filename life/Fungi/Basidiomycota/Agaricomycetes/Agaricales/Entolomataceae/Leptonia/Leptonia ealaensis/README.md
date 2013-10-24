@@ -1,5 +1,4 @@
-Leptonia ealaensis Beeli SPECIES
-=======
+# Leptonia ealaensis Beeli SPECIES
 
 #### Status
 ACCEPTED

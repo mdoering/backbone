@@ -1,5 +1,4 @@
-Galera crassipes Rick SPECIES
-=======
+# Galera crassipes Rick SPECIES
 
 #### Status
 ACCEPTED

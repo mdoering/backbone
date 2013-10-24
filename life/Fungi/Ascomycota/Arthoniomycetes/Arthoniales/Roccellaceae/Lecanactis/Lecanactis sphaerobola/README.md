@@ -1,5 +1,4 @@
-Lecanactis sphaerobola Lettau SPECIES
-=======
+# Lecanactis sphaerobola Lettau SPECIES
 
 #### Status
 ACCEPTED

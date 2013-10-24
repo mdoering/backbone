@@ -1,5 +1,4 @@
-Vermiculariopsis von Höhnel, 1929 GENUS
-=======
+# Vermiculariopsis von Höhnel, 1929 GENUS
 
 #### Status
 ACCEPTED

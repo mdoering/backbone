@@ -1,5 +1,4 @@
-Conicospirillina coronata Cushman, 1933 SPECIES
-=======
+# Conicospirillina coronata Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

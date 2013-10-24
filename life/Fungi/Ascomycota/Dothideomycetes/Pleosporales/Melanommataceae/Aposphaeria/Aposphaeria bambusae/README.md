@@ -1,5 +1,4 @@
-Aposphaeria bambusae M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Aposphaeria bambusae M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

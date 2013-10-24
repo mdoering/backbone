@@ -1,5 +1,4 @@
-Discophrya koeppeli Matthes, 1954 SPECIES
-=======
+# Discophrya koeppeli Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

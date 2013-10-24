@@ -1,5 +1,4 @@
-Verrucaria consociata Servít SPECIES
-=======
+# Verrucaria consociata Servít SPECIES
 
 #### Status
 ACCEPTED

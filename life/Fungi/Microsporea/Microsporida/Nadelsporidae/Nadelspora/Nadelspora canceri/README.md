@@ -1,5 +1,4 @@
-Nadelspora canceri Olson, Tiekotter & Reno SPECIES
-=======
+# Nadelspora canceri Olson, Tiekotter & Reno SPECIES
 
 #### Status
 ACCEPTED

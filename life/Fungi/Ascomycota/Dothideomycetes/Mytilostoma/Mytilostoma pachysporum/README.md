@@ -1,14 +1,13 @@
-Mytilostoma brachysporium (Sacc.) P. Karst. SPECIES
-=======
+# Mytilostoma pachysporum (Sacc.) P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 5: 50 (1879)
 
 #### Original name
 Lophiostoma pachysporum Sacc.

@@ -1,5 +1,4 @@
-Clavaria simplicissima Willd. SPECIES
-=======
+# Clavaria simplicissima Willd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Geastrum badium Pers., 1809 SPECIES
-=======
+# Geastrum elegans Vittad., 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. (Desvaux) 2: 31 (1809)
+Monograph Lyc. 15 (1842)
 
 #### Original name
-Geastrum badium Pers., 1809
+Geastrum elegans Vittad., 1842
 
 ### Remarks
 null

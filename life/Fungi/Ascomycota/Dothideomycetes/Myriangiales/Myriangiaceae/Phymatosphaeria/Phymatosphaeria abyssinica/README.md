@@ -1,5 +1,4 @@
-Phymatosphaeria abyssinica Pass. SPECIES
-=======
+# Phymatosphaeria abyssinica Pass. SPECIES
 
 #### Status
 ACCEPTED

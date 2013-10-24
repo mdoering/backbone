@@ -1,8 +1,7 @@
-Boletus kauffmani Lohwag SPECIES
-=======
+# Boletus kauffmanii Lohwag SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus kauffmani Lohwag
+Boletus kauffmanii Lohwag
 
 ### Remarks
 null

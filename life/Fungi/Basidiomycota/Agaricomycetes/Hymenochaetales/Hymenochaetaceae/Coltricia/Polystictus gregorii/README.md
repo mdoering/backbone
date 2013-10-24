@@ -1,5 +1,4 @@
-Polystictus gregorii A.L. Sm. SPECIES
-=======
+# Polystictus gregorii A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stigmopsis Bubák GENUS
-=======
+# Cheiromyces Berk. & M.A. Curtis GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(2): 218 (1914)
+in Berkeley, Intr. crypt. bot. (London) 312, 313 (1857)
 
 #### Original name
-Stigmopsis Bubák
+Cheiromyces Berk. & M.A. Curtis
 
 ### Remarks
 null

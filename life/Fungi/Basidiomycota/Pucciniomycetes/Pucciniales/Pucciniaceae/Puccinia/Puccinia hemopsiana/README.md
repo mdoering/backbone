@@ -1,5 +1,4 @@
-Puccinia hemopsiana Doidge SPECIES
-=======
+# Puccinia hemopsiana Doidge SPECIES
 
 #### Status
 ACCEPTED

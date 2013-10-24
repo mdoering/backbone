@@ -1,5 +1,4 @@
-Aposphaeria lentisci (Mont. & Durieu) Pat. SPECIES
-=======
+# Aposphaeria lentisci (Mont. & Durieu) Pat. SPECIES
 
 #### Status
 ACCEPTED

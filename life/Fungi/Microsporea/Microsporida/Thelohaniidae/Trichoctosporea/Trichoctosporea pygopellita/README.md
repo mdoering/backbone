@@ -1,5 +1,4 @@
-Trichoctosporea pygopellita J.I.R. Larsson SPECIES
-=======
+# Trichoctosporea pygopellita J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

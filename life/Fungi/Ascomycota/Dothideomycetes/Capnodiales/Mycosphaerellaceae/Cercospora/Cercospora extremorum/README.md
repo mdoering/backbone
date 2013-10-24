@@ -1,5 +1,4 @@
-Cercospora extremorum Syd. & P. Syd. SPECIES
-=======
+# Cercospora extremorum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

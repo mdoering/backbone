@@ -1,5 +1,4 @@
-Periconia cecropiae Bat. & A.F. Vital SPECIES
-=======
+# Periconia cecropiae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

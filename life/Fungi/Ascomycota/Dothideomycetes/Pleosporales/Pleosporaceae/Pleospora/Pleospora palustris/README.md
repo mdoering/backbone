@@ -1,5 +1,4 @@
-Pleospora palustris Berl., 1888 SPECIES
-=======
+# Pleospora palustris Berl., 1888 SPECIES
 
 #### Status
 ACCEPTED

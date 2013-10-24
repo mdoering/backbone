@@ -1,5 +1,4 @@
-Dendrophoma alpina Ferraris SPECIES
-=======
+# Dendrophoma alpina Ferraris SPECIES
 
 #### Status
 ACCEPTED

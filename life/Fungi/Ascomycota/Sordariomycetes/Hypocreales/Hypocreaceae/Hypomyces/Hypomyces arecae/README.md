@@ -1,5 +1,4 @@
-Hypomyces arecae Bacc. SPECIES
-=======
+# Hypomyces arecae Bacc. SPECIES
 
 #### Status
 ACCEPTED

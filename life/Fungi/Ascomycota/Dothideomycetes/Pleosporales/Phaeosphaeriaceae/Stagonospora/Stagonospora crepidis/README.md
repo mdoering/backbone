@@ -1,5 +1,4 @@
-Stagonospora crepidis Hollós SPECIES
-=======
+# Stagonospora crepidis Hollós SPECIES
 
 #### Status
 ACCEPTED

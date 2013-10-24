@@ -1,5 +1,4 @@
-Volvaria paraguayensis Speg. SPECIES
-=======
+# Volvaria paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

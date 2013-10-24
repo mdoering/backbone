@@ -1,5 +1,4 @@
-Helicobacter pullorum Stanley et al., 1995 SPECIES
-=======
+# Helicobacter pullorum Stanley et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

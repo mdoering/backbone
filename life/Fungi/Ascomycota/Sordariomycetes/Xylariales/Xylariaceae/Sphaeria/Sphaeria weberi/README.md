@@ -1,5 +1,4 @@
-Sphaeria weberi Heer SPECIES
-=======
+# Sphaeria weberi Heer SPECIES
 
 #### Status
 ACCEPTED

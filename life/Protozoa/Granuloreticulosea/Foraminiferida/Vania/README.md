@@ -1,5 +1,4 @@
-Vania Sirel & Guenduez, 1985 GENUS
-=======
+# Vania Sirel & Guenduez, 1985 GENUS
 
 #### Status
 ACCEPTED

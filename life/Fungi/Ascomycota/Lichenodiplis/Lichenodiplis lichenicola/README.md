@@ -1,5 +1,4 @@
-Lichenodiplis lichenicola Dyko & D. Hawksw., 1979 SPECIES
-=======
+# Lichenodiplis lichenicola Dyko & D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

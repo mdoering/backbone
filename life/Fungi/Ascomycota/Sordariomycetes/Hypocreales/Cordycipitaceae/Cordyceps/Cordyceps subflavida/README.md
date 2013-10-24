@@ -1,5 +1,4 @@
-Cordyceps subflavida Mains SPECIES
-=======
+# Cordyceps subflavida Mains SPECIES
 
 #### Status
 ACCEPTED

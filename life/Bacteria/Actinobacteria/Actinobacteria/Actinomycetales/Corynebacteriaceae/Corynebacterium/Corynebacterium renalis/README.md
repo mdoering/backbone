@@ -1,5 +1,4 @@
-Corynebacterium renalis SPECIES
-=======
+# Corynebacterium renalis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria porinoides (Mont.) Trevis. SPECIES
-=======
+# Segestria porinoides (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium thymicola Frisvad & Samson, 2004 SPECIES
-=======
+# Penicillium thymicola Frisvad & Samson, 2004 SPECIES
 
 #### Status
 ACCEPTED

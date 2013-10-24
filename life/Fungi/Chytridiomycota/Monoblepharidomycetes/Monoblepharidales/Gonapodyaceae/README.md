@@ -1,5 +1,4 @@
-Gonapodyaceae H.E. Petersen FAMILY
-=======
+# Gonapodyaceae H.E. Petersen FAMILY
 
 #### Status
 ACCEPTED

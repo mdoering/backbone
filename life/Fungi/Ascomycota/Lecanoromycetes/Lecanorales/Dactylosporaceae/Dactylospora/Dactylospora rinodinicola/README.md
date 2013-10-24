@@ -1,5 +1,4 @@
-Dactylospora rinodinicola Alstrup & D. Hawksw. SPECIES
-=======
+# Dactylospora rinodinicola Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

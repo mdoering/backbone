@@ -1,5 +1,4 @@
-Matsushimaea magna Matsush., 1996 SPECIES
-=======
+# Matsushimaea magna Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

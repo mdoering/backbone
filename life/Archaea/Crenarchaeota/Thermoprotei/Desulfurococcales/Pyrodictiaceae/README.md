@@ -1,5 +1,4 @@
-Pyrodictiaceae Burggraf, Huber & Stetter, 1997 FAMILY
-=======
+# Pyrodictiaceae Burggraf, Huber & Stetter, 1997 FAMILY
 
 #### Status
 ACCEPTED

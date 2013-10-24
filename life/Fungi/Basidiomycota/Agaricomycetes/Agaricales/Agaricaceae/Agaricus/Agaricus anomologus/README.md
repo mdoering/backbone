@@ -1,5 +1,4 @@
-Agaricus anomologus Berk. & Broome SPECIES
-=======
+# Agaricus anomologus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

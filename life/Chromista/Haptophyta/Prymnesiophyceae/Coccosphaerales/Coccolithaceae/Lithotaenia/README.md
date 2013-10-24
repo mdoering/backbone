@@ -1,5 +1,4 @@
-Lithotaenia Bernard, 1965 GENUS
-=======
+# Lithotaenia Bernard, 1965 GENUS
 
 #### Status
 ACCEPTED

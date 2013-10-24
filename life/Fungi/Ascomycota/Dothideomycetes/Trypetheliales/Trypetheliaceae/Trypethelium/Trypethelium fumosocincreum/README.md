@@ -1,5 +1,4 @@
-Trypethelium fumosocincreum C. Knight SPECIES
-=======
+# Trypethelium fumosocincreum C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas tridentata S.L. Nygaard SPECIES
-=======
+# Mallomonas tridentata S.L. Nygaard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stigmatomyces stilici Thaxt., 1931 SPECIES
-=======
+# Zeugandromyces stilici (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 167 (1931)
+Mycol. Mem. 9: 347 (1985)
 
 #### Original name
 Stigmatomyces stilici Thaxt., 1931

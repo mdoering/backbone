@@ -1,5 +1,4 @@
-Rhinozetidae FAMILY
-=======
+# Rhinozetidae FAMILY
 
 #### Status
 ACCEPTED

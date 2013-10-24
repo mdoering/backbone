@@ -1,17 +1,16 @@
-Cercospora capensis var. capensis VARIETY
-=======
+# Pleurophragmium capense (Thüm.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 36: 796 (1958)
 
 #### Original name
-null
+Helminthosporium capense Thüm., 1876
 
 ### Remarks
 null

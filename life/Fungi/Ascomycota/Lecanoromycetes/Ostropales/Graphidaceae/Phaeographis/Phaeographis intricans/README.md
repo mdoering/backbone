@@ -1,17 +1,16 @@
-Sarcographa intricans f. intricans FORM
-=======
+# Phaeographis intricans (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sarcographa intricans f. intricans
+null
 
 ### Remarks
 null

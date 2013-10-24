@@ -1,5 +1,4 @@
-Cenangiomyces Dyko & B. Sutton GENUS
-=======
+# Cenangiomyces Dyko & B. Sutton GENUS
 
 #### Status
 ACCEPTED

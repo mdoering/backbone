@@ -1,5 +1,4 @@
-Flabelliforma E.U. Canning, R. Killick-Kendrick & M. Killick-Kendrick GENUS
-=======
+# Flabelliforma E.U. Canning, R. Killick-Kendrick & M. Killick-Kendrick GENUS
 
 #### Status
 ACCEPTED

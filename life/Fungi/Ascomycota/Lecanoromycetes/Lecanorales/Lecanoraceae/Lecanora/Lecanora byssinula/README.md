@@ -1,5 +1,4 @@
-Lecanora byssinula Kalb SPECIES
-=======
+# Lecanora byssinula Kalb SPECIES
 
 #### Status
 ACCEPTED

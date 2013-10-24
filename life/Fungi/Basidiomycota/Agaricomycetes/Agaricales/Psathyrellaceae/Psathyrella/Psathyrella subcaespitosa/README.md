@@ -1,5 +1,4 @@
-Psathyrella subcaespitosa A.H. Sm. SPECIES
-=======
+# Psathyrella subcaespitosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

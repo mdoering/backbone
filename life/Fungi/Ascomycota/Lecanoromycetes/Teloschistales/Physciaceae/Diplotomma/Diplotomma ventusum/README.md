@@ -1,5 +1,4 @@
-Diplotomma ventusum (Körb.) Lettau SPECIES
-=======
+# Diplotomma ventusum (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

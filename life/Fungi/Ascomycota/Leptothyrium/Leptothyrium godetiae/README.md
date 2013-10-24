@@ -1,5 +1,4 @@
-Leptothyrium godetiae Oudem. SPECIES
-=======
+# Leptothyrium godetiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

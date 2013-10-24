@@ -1,5 +1,4 @@
-Septoria ostryae Peck SPECIES
-=======
+# Septoria ostryae Peck SPECIES
 
 #### Status
 ACCEPTED

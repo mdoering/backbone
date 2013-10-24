@@ -1,5 +1,4 @@
-Stictis thelotrema Mont. SPECIES
-=======
+# Stictis thelotrema Mont. SPECIES
 
 #### Status
 ACCEPTED

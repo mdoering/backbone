@@ -1,5 +1,4 @@
-Ophioceras guttulatum K.M. Tsui, H.Y.M. Leung, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Ophioceras guttulatum K.M. Tsui, H.Y.M. Leung, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

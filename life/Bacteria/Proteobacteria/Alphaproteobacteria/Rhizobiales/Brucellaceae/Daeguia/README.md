@@ -1,5 +1,4 @@
-Daeguia Yoon et al., 2008 GENUS
-=======
+# Daeguia Yoon et al., 2008 GENUS
 
 #### Status
 ACCEPTED

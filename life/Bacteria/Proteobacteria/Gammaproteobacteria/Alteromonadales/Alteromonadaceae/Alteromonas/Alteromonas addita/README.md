@@ -1,5 +1,4 @@
-Alteromonas addita Ivanova et al., 2005 SPECIES
-=======
+# Alteromonas addita Ivanova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

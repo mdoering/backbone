@@ -1,17 +1,16 @@
-Lecanora chlorophaeodes var. chloroleprosa VARIETY
-=======
+# Lecanora chlorophaeodes Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 56: 290 (1873)
 
 #### Original name
-Lecanora chlorophaeodes subsp. chloroleprosa Vain.
+Lecanora chlorophaeodes Nyl.
 
 ### Remarks
 null

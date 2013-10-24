@@ -1,5 +1,4 @@
-Tirisporella appendiculata ined. SPECIES
-=======
+# Tirisporella appendiculata ined. SPECIES
 
 #### Status
 ACCEPTED

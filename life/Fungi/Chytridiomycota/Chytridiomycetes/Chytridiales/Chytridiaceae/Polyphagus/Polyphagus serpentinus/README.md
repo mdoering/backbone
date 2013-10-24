@@ -1,5 +1,4 @@
-Polyphagus serpentinus Canter, 1963 SPECIES
-=======
+# Polyphagus serpentinus Canter, 1963 SPECIES
 
 #### Status
 ACCEPTED

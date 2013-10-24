@@ -1,5 +1,4 @@
-Hypocrea grevilleae S.D. Patil & M.S. Patil SPECIES
-=======
+# Hypocrea grevilleae S.D. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

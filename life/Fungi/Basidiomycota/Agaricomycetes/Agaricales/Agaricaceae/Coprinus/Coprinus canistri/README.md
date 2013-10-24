@@ -1,5 +1,4 @@
-Coprinus canistri Uljé & Verbeken SPECIES
-=======
+# Coprinus canistri Uljé & Verbeken SPECIES
 
 #### Status
 ACCEPTED

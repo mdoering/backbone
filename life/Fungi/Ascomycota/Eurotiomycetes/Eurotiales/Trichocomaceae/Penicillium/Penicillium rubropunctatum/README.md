@@ -1,5 +1,4 @@
-Penicillium rubropunctatum Dierckx SPECIES
-=======
+# Penicillium rubropunctatum Dierckx SPECIES
 
 #### Status
 ACCEPTED

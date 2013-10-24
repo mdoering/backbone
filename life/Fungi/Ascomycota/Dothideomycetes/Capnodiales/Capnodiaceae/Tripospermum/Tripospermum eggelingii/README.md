@@ -1,5 +1,4 @@
-Tripospermum eggelingii Hansf. SPECIES
-=======
+# Tripospermum eggelingii Hansf. SPECIES
 
 #### Status
 ACCEPTED

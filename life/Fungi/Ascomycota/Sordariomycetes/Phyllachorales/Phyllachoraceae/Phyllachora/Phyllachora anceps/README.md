@@ -1,5 +1,4 @@
-Phyllachora anceps Sacc., 1890 SPECIES
-=======
+# Phyllachora anceps Sacc., 1890 SPECIES
 
 #### Status
 ACCEPTED

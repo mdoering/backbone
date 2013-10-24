@@ -1,5 +1,4 @@
-Collybia leucocephaloides (Peck) Singer SPECIES
-=======
+# Collybia leucocephaloides (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

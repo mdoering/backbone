@@ -1,5 +1,4 @@
-Kostermansindiopsis R.F. Castañeda GENUS
-=======
+# Kostermansindiopsis R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

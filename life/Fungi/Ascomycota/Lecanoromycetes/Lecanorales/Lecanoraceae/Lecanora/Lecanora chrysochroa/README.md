@@ -1,5 +1,4 @@
-Lecanora chrysochroa (Mont.) Nyl. SPECIES
-=======
+# Lecanora chrysochroa (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

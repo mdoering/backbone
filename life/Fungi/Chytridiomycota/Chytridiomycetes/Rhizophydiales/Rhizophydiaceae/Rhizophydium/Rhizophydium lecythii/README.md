@@ -1,5 +1,4 @@
-Rhizophydium lecythii Ingold SPECIES
-=======
+# Rhizophydium lecythii Ingold SPECIES
 
 #### Status
 ACCEPTED

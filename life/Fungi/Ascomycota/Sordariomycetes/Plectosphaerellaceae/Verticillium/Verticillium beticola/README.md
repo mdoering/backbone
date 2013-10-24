@@ -1,5 +1,4 @@
-Verticillium beticola Pidopl. SPECIES
-=======
+# Verticillium beticola Pidopl. SPECIES
 
 #### Status
 ACCEPTED

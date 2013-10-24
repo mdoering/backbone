@@ -1,8 +1,7 @@
-Parmelia calycaris (L.) Spreng. SPECIES
-=======
+# Parmelia calicaris (L.) Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Rickia nipponensis Ishik. SPECIES
-=======
+# Rickia nipponensis Ishik. SPECIES
 
 #### Status
 ACCEPTED

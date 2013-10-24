@@ -1,14 +1,13 @@
-Macrosporium dianthi (F. Stevens & J.G. Hall) Bewley, 1923 SPECIES
-=======
+# Alternaria dianthi F. Stevens & J.G. Hall, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Diseases of Glasshouse Plants 106 (1923)
+Revista Agronomica 1: 59 (1903)
 
 #### Original name
 Alternaria dianthi F. Stevens & J.G. Hall, 1909

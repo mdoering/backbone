@@ -1,5 +1,4 @@
-Puccinia paihuashanensis Y.C. Wang SPECIES
-=======
+# Puccinia paihuashanensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

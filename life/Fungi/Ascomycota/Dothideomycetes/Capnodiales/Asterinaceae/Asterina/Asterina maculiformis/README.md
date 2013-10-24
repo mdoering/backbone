@@ -1,8 +1,7 @@
-Asterina maculaeformis (Berk.) Cooke SPECIES
-=======
+# Asterina maculiformis (Berk.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

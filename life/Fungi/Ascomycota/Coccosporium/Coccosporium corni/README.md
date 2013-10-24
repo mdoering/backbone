@@ -1,5 +1,4 @@
-Coccosporium corni Naumov & Kusnezowa SPECIES
-=======
+# Coccosporium corni Naumov & Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

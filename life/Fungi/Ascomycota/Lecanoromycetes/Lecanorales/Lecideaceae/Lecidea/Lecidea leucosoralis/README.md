@@ -1,5 +1,4 @@
-Lecidea leucosoralis Vain. SPECIES
-=======
+# Lecidea leucosoralis Vain. SPECIES
 
 #### Status
 ACCEPTED

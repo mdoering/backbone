@@ -1,17 +1,16 @@
-Pseudaegerita caffera Matsush. SPECIES
-=======
+# Pseudaegerita caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 22 (1996)
 
 #### Original name
-Pseudaegerita caffera Matsush.
+Pseudaegerita caffra Matsush.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidesmium fusus Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium fusus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

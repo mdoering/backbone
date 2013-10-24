@@ -1,5 +1,4 @@
-Heteroconium kleinziense Crous & Z.A. Pretorius SPECIES
-=======
+# Heteroconium kleinziense Crous & Z.A. Pretorius SPECIES
 
 #### Status
 ACCEPTED

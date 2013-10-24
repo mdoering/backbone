@@ -1,5 +1,4 @@
-Gasparrinia scrobiculata (H. Magn.) Kudratov SPECIES
-=======
+# Gasparrinia scrobiculata (H. Magn.) Kudratov SPECIES
 
 #### Status
 ACCEPTED

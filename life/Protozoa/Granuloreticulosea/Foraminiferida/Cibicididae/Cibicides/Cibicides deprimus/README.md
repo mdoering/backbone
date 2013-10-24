@@ -1,5 +1,4 @@
-Cibicides deprimus SPECIES
-=======
+# Cibicides deprimus SPECIES
 
 #### Status
 ACCEPTED

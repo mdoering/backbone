@@ -1,17 +1,16 @@
-Ramaria rubella f. rubella FORM
-=======
+# Ramaria rubella (Schaeff.) R.H. Petersen, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Am. J. Bot. 61(7): 746 (1974)
 
 #### Original name
-Ramaria rubella f. rubella
+Clavaria rubella Schaeff., 1774
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fragilaria inflata (Heiden) Hustedt SPECIES
-=======
+# Fragilaria inflata (Heiden) Hustedt SPECIES
 
 #### Status
 ACCEPTED

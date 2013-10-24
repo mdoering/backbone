@@ -1,5 +1,4 @@
-Phoma myricae-gales Died. SPECIES
-=======
+# Phoma myricae-gales Died. SPECIES
 
 #### Status
 ACCEPTED

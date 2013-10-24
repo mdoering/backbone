@@ -1,5 +1,4 @@
-Acineta grahami Allgin, 1955 SPECIES
-=======
+# Acineta grahami Allgin, 1955 SPECIES
 
 #### Status
 ACCEPTED

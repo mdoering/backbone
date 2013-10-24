@@ -1,5 +1,4 @@
-Eubacterium tardum Cheeseman et al., 1996 SPECIES
-=======
+# Eubacterium tardum Cheeseman et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

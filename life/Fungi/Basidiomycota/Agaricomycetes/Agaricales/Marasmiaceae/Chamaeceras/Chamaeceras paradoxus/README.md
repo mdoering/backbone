@@ -1,5 +1,4 @@
-Chamaeceras paradoxus (Henn.) Kuntze SPECIES
-=======
+# Chamaeceras paradoxus (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

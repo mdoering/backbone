@@ -1,5 +1,4 @@
-Xerotus anastomosus Lloyd SPECIES
-=======
+# Xerotus anastomosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

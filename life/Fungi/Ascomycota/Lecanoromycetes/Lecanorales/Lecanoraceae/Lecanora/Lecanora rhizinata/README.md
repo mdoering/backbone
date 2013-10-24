@@ -1,5 +1,4 @@
-Lecanora rhizinata Poelt, Barreno & V.J. Rico SPECIES
-=======
+# Lecanora rhizinata Poelt, Barreno & V.J. Rico SPECIES
 
 #### Status
 ACCEPTED

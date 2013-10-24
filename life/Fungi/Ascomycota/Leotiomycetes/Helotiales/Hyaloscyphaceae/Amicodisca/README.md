@@ -1,5 +1,4 @@
-Amicodisca Svrcek GENUS
-=======
+# Amicodisca Svrcek GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia aegilopis Golovin SPECIES
-=======
+# Tilletia aegilopis Golovin SPECIES
 
 #### Status
 ACCEPTED

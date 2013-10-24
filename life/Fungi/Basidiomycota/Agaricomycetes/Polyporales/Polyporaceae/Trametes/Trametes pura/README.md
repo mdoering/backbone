@@ -1,5 +1,4 @@
-Trametes pura Berk. & M.A. Curtis SPECIES
-=======
+# Trametes pura Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

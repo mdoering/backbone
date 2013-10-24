@@ -1,5 +1,4 @@
-Mycena dinghuensis Z.S. Bi SPECIES
-=======
+# Mycena dinghuensis Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichormus subtropicus (N. L. Gardner) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus subtropicus (N. L. Gardner) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

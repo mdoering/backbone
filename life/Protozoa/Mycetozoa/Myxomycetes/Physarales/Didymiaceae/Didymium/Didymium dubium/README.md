@@ -1,17 +1,16 @@
-Didymium wilczekii var. pulverulenta Meyl. VARIETY
-=======
+# Didymium dubium Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 152 (1875)
 
 #### Original name
-Didymium wilczekii var. pulverulenta Meyl.
+Didymium dubium Rostaf., 1874
 
 ### Remarks
 null

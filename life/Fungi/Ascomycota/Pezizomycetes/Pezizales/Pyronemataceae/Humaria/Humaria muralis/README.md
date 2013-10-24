@@ -1,5 +1,4 @@
-Humaria muralis Quél. SPECIES
-=======
+# Humaria muralis Quél. SPECIES
 
 #### Status
 ACCEPTED

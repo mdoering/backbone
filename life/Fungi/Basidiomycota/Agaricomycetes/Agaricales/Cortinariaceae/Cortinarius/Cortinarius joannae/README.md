@@ -1,5 +1,4 @@
-Cortinarius joannae Rob. Henry SPECIES
-=======
+# Cortinarius joannae Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

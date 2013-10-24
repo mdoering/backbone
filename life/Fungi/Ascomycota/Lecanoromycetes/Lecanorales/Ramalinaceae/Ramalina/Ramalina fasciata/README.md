@@ -1,5 +1,4 @@
-Ramalina fasciata Kremp. SPECIES
-=======
+# Ramalina fasciata Kremp. SPECIES
 
 #### Status
 ACCEPTED

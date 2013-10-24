@@ -1,5 +1,4 @@
-Chrysothrix septemseptata Jagadeesh, Lumbsch, Lücking & G. P. Sinha SPECIES
-=======
+# Chrysothrix septemseptata Jagadeesh, Lumbsch, Lücking & G. P. Sinha SPECIES
 
 #### Status
 ACCEPTED

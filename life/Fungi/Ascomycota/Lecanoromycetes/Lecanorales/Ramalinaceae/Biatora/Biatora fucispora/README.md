@@ -1,5 +1,4 @@
-Biatora fucispora Hepp SPECIES
-=======
+# Biatora fucispora Hepp SPECIES
 
 #### Status
 ACCEPTED

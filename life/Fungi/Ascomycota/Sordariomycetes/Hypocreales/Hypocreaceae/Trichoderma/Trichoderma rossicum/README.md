@@ -1,5 +1,4 @@
-Trichoderma rossicum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
-=======
+# Trichoderma rossicum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
 
 #### Status
 ACCEPTED

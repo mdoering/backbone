@@ -1,17 +1,16 @@
-Graphis consocians Nyl. SPECIES
-=======
+# Acanthothecis consocians (Nyl.) Staiger & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 73: 97 (1999)
 
 #### Original name
-null
+Graphis consocians Nyl.
 
 ### Remarks
 null

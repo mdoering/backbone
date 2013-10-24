@@ -1,5 +1,4 @@
-Myrothecium compactum R.F. Castañeda, Gusmão, Stchigel & M. Stadler SPECIES
-=======
+# Myrothecium compactum R.F. Castañeda, Gusmão, Stchigel & M. Stadler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella ambusta A.H. Sm. SPECIES
-=======
+# Psathyrella ambusta A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elachista chondrii Areschoug SPECIES
-=======
+# Elachista chondrii Areschoug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megasacculina atava Naumova, 1961 SPECIES
-=======
+# Megasacculina atava Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

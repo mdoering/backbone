@@ -1,17 +1,16 @@
-Mycovellosiella codonopsis Y.L. Guo SPECIES
-=======
+# Mycovellosiella codonopsidis Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 76: 369 (2000)
 
 #### Original name
-Mycovellosiella codonopsis Y.L. Guo
+Mycovellosiella codonopsidis Y.L. Guo
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coprinus candidolanatus Doveri & Uljé SPECIES
-=======
+# Coprinus candidolanatus Doveri & Uljé SPECIES
 
 #### Status
 ACCEPTED

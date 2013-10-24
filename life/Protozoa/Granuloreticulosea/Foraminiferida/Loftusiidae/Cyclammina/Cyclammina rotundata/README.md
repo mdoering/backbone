@@ -1,5 +1,4 @@
-Cyclammina rotundata Chapman, W.D. & Crespin, I., 1930 SPECIES
-=======
+# Cyclammina rotundata Chapman, W.D. & Crespin, I., 1930 SPECIES
 
 #### Status
 ACCEPTED

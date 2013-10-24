@@ -1,5 +1,4 @@
-Lecidea asserculorum f. asserculorum FORM
-=======
+# Lecidea asserculorum Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Lecidea asserculorum f. asserculorum
+Lecidea asserculorum Ach.
 
 ### Remarks
 null

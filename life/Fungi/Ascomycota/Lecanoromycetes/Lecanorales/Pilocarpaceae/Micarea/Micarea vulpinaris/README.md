@@ -1,14 +1,13 @@
-Biatora vulpinaris (Nyl.) Arnold SPECIES
-=======
+# Micarea vulpinaris (Nyl.) Muhr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 53: 476 (1870)
+Svensk bot. Tidskr. 81(1): 25 (1987)
 
 #### Original name
 Lecidea vulpinaris Nyl.

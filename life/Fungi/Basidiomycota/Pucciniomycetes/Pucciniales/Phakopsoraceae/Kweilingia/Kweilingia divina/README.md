@@ -1,14 +1,13 @@
-Dasturella divina (Syd.) Mundk. & Khesw., 1943 SPECIES
-=======
+# Kweilingia divina (Syd.) Buriticá, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(2): 203 (1943)
+Revta Acad. colomb. cienc. exact. fís. nat. 22(no. 84): 330 (1998)
 
 #### Original name
 Angiopsora divina Syd., 1936

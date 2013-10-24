@@ -1,5 +1,4 @@
-Padina durvillaei Bory SPECIES
-=======
+# Padina durvillaei Bory SPECIES
 
 #### Status
 ACCEPTED

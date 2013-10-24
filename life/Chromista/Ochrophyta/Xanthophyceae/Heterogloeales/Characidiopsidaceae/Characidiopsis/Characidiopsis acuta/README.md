@@ -1,5 +1,4 @@
-Characidiopsis acuta A. Pascher SPECIES
-=======
+# Characidiopsis acuta A. Pascher SPECIES
 
 #### Status
 ACCEPTED

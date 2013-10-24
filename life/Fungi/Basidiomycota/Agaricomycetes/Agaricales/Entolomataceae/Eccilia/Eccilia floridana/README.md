@@ -1,5 +1,4 @@
-Eccilia floridana Murrill SPECIES
-=======
+# Eccilia floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

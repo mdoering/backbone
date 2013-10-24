@@ -1,5 +1,4 @@
-Pezizella avellanea var. avellanea VARIETY
-=======
+# Pezizella avellanea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pezizella avellanea var. avellanea
+Pezizella avellanea Penz. & Sacc.
 
 ### Remarks
 null

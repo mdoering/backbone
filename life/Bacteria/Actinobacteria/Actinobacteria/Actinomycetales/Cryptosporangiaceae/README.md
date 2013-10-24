@@ -1,5 +1,4 @@
-Cryptosporangiaceae Zhi, Li & Stackebrandt, 2009 FAMILY
-=======
+# Cryptosporangiaceae Zhi, Li & Stackebrandt, 2009 FAMILY
 
 #### Status
 ACCEPTED

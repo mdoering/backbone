@@ -1,5 +1,4 @@
-Prinsius bisulcus (Stradner, 1963) Hay & Mohler, 1967 SPECIES
-=======
+# Prinsius bisulcus (Stradner, 1963) Hay & Mohler, 1967 SPECIES
 
 #### Status
 ACCEPTED

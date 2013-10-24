@@ -1,5 +1,4 @@
-Rosellinia sanctae-cruciana Ferd. & Winge SPECIES
-=======
+# Rosellinia sanctae-cruciana Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

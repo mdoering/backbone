@@ -1,5 +1,4 @@
-Campanella digitalis SPECIES
-=======
+# Campanella digitalis SPECIES
 
 #### Status
 ACCEPTED

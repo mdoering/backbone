@@ -1,5 +1,4 @@
-Trichodinium castaneum (Deflandre) Clarke & Verdier, 1967 SPECIES
-=======
+# Trichodinium castaneum (Deflandre) Clarke & Verdier, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flaviporus Murrill, 1905 GENUS
-=======
+# Flaviporus Murrill, 1905 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia arenaria Müll. Arg. SPECIES
-=======
+# Buellia arenaria Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

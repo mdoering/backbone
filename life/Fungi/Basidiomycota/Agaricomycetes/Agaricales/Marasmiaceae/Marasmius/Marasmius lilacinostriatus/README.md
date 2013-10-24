@@ -1,5 +1,4 @@
-Marasmius lilacinostriatus Henn. SPECIES
-=======
+# Marasmius lilacinostriatus Henn. SPECIES
 
 #### Status
 ACCEPTED

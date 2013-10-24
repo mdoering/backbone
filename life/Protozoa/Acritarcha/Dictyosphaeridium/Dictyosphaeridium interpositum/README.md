@@ -1,5 +1,4 @@
-Dictyosphaeridium interpositum N. Umnova, 1975 SPECIES
-=======
+# Dictyosphaeridium interpositum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe zapotecoantillarum Guzmán, T.J. Baroni & Lodge SPECIES
-=======
+# Psilocybe zapotecoantillarum Guzmán, T.J. Baroni & Lodge SPECIES
 
 #### Status
 ACCEPTED

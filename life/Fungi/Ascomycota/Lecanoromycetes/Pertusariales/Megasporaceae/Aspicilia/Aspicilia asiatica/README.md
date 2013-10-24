@@ -1,5 +1,4 @@
-Aspicilia asiatica (H. Magn.) Yoshim. SPECIES
-=======
+# Aspicilia asiatica (H. Magn.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

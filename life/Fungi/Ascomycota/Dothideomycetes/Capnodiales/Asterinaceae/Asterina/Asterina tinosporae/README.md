@@ -1,5 +1,4 @@
-Asterina tinosporae Hansf. SPECIES
-=======
+# Asterina tinosporae Hansf. SPECIES
 
 #### Status
 ACCEPTED

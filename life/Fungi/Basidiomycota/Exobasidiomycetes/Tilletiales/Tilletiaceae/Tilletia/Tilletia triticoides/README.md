@@ -1,5 +1,4 @@
-Tilletia triticoides Savul. SPECIES
-=======
+# Tilletia triticoides Savul. SPECIES
 
 #### Status
 ACCEPTED

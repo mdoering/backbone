@@ -1,5 +1,4 @@
-Psammina zonaria Tendal, 1994 SPECIES
-=======
+# Psammina zonaria Tendal, 1994 SPECIES
 
 #### Status
 ACCEPTED

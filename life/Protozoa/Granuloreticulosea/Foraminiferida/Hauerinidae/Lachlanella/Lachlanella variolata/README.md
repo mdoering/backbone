@@ -1,5 +1,4 @@
-Lachlanella variolata (d'Orbigny, 1826) SPECIES
-=======
+# Lachlanella variolata (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

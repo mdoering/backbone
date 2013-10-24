@@ -1,5 +1,4 @@
-Melitasphaeridium pseudorecurvatum (Morgenroth, 1966) Bujak, Downie, Eaton & Williams SPECIES
-=======
+# Melitasphaeridium pseudorecurvatum (Morgenroth, 1966) Bujak, Downie, Eaton & Williams SPECIES
 
 #### Status
 ACCEPTED

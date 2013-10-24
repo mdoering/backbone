@@ -1,5 +1,4 @@
-Heppia aterrima (Stirt.) B. de Lesd. SPECIES
-=======
+# Heppia aterrima (Stirt.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

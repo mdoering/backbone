@@ -1,5 +1,4 @@
-Phoma radicina (McAlpine) Boerema, 1979 SPECIES
-=======
+# Phoma radicina (McAlpine) Boerema, 1979 SPECIES
 
 #### Status
 ACCEPTED

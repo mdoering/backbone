@@ -1,5 +1,4 @@
-Hymenochaete hispida Berk. ex Cooke SPECIES
-=======
+# Hymenochaete hispida Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

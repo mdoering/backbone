@@ -1,5 +1,4 @@
-Naucoria oligophylla Velen. SPECIES
-=======
+# Naucoria oligophylla Velen. SPECIES
 
 #### Status
 ACCEPTED

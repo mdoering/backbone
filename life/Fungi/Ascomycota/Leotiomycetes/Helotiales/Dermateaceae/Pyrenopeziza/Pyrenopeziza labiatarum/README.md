@@ -1,5 +1,4 @@
-Pyrenopeziza labiatarum (Ces.) Rehm SPECIES
-=======
+# Pyrenopeziza labiatarum (Ces.) Rehm SPECIES
 
 #### Status
 ACCEPTED

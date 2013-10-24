@@ -1,5 +1,4 @@
-Flammula papillata A. Pearson SPECIES
-=======
+# Flammula papillata A. Pearson SPECIES
 
 #### Status
 ACCEPTED

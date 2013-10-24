@@ -1,5 +1,4 @@
-Stigmatomyces discocerinae Thaxt. SPECIES
-=======
+# Stigmatomyces discocerinae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

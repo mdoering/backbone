@@ -1,17 +1,16 @@
-Craspedodidymum pulneyensis Subram. & Bhat SPECIES
-=======
+# Craspedodidymum pulneyense Subram. & Bhat SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 15(1-2): 52 (1989)
 
 #### Original name
-Craspedodidymum pulneyensis Subram. & Bhat
+Craspedodidymum pulneyense Subram. & Bhat
 
 ### Remarks
 null

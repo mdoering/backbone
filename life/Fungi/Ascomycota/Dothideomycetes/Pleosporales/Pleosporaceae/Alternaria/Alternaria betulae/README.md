@@ -1,5 +1,4 @@
-Alternaria betulae T.Y. Zhang & Y.L. Guo SPECIES
-=======
+# Alternaria betulae T.Y. Zhang & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

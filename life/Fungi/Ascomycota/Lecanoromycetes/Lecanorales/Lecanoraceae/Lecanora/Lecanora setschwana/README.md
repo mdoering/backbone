@@ -1,5 +1,4 @@
-Lecanora setschwana SPECIES
-=======
+# Lecanora setschwana SPECIES
 
 #### Status
 ACCEPTED

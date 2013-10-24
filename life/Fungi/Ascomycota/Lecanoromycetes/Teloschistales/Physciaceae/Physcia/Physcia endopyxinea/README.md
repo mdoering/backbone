@@ -1,5 +1,4 @@
-Physcia endopyxinea Müll. Arg. SPECIES
-=======
+# Physcia endopyxinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

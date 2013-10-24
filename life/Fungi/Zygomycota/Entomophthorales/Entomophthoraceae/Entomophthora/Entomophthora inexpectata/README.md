@@ -1,14 +1,13 @@
-Entomophthora inexspectata (Jacz.) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora inexpectata (Jacz.) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 62(1): 47 (1970)
 
 #### Original name
 Tarichium inexpectatum Jacz.

@@ -1,5 +1,4 @@
-Amphisphaeriaceae G. Winter FAMILY
-=======
+# Amphisphaeriaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena alnetorum J. Favre SPECIES
-=======
+# Mycena alnetorum J. Favre SPECIES
 
 #### Status
 ACCEPTED

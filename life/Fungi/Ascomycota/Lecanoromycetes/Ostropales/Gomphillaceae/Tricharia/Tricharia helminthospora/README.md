@@ -1,5 +1,4 @@
-Tricharia helminthospora R. Sant. SPECIES
-=======
+# Tricharia helminthospora R. Sant. SPECIES
 
 #### Status
 ACCEPTED

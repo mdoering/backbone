@@ -1,5 +1,4 @@
-Scolecopeltidium vermiforme Bat. & Cavalc. SPECIES
-=======
+# Scolecopeltidium vermiforme Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

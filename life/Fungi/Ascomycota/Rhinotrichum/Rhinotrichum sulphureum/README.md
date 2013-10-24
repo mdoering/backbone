@@ -1,5 +1,4 @@
-Rhinotrichum sulphureum Ellis & Everh. SPECIES
-=======
+# Rhinotrichum sulphureum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca plicatoverrucosa Räsänen SPECIES
-=======
+# Caloplaca plicatoverrucosa Räsänen SPECIES
 
 #### Status
 ACCEPTED

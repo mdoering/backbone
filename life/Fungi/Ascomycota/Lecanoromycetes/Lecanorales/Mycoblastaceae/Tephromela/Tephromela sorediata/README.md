@@ -1,5 +1,4 @@
-Tephromela sorediata Kalb & Elix SPECIES
-=======
+# Tephromela sorediata Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

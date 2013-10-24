@@ -1,5 +1,4 @@
-Peziza simillima Berk. & Broome SPECIES
-=======
+# Peziza simillima Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

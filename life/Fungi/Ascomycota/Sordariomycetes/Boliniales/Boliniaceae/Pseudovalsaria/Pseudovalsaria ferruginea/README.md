@@ -1,14 +1,13 @@
-Anthostoma ferrugineum Nitschke, 1867 SPECIES
-=======
+# Pseudovalsaria ferruginea (Nitschke) Rappaz, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 1: 118 (1867)
+Mycol. helv. 7(1): 159 (1995)
 
 #### Original name
 Anthostoma ferrugineum Nitschke, 1867

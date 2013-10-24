@@ -1,5 +1,4 @@
-Corticium wettsteinii (Bres.) Sacc. & Trotter SPECIES
-=======
+# Corticium wettsteinii (Bres.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

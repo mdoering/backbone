@@ -1,5 +1,4 @@
-Catinula leucoxantha Massee SPECIES
-=======
+# Catinula leucoxantha Massee SPECIES
 
 #### Status
 ACCEPTED

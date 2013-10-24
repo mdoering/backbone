@@ -1,5 +1,4 @@
-Drosophila hispida (Heinem.) Kühner & Romagn. SPECIES
-=======
+# Drosophila hispida (Heinem.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

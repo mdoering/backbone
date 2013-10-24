@@ -1,5 +1,4 @@
-Roestelia echinulata Seung K. Lee & Kakish. SPECIES
-=======
+# Roestelia echinulata Seung K. Lee & Kakish. SPECIES
 
 #### Status
 ACCEPTED

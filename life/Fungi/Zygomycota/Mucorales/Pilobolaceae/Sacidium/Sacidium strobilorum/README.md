@@ -1,5 +1,4 @@
-Sacidium strobilorum Kirschst. SPECIES
-=======
+# Sacidium strobilorum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Redbia laxa R.F. Castañeda SPECIES
-=======
+# Redbia laxa R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

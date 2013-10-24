@@ -1,17 +1,16 @@
-Dendryphion laxum Berk. & Broome, 1851 SPECIES
-=======
+# Dendryphion nanum (Nees) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 7: 176 (1851)
+Can. J. Bot. 36: 761 (1958)
 
 #### Original name
-Dendryphion laxum Berk. & Broome, 1851
+Helminthosporium nanum Nees, 1816
 
 ### Remarks
 null

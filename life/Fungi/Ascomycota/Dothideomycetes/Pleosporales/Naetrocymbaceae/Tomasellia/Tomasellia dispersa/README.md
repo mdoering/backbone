@@ -1,5 +1,4 @@
-Tomasellia dispersa (I. Hino & Katum.) I. Hino & Katum. SPECIES
-=======
+# Tomasellia dispersa (I. Hino & Katum.) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

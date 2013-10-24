@@ -1,5 +1,4 @@
-Pilosace squamosus (P. Karst.) Kuntze SPECIES
-=======
+# Pilosace squamosus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

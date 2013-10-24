@@ -1,5 +1,4 @@
-Amanita cistetorum Contu & Pacioni SPECIES
-=======
+# Amanita cistetorum Contu & Pacioni SPECIES
 
 #### Status
 ACCEPTED

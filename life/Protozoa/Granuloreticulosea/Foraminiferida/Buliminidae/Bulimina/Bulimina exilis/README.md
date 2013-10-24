@@ -1,5 +1,4 @@
-Bulimina exilis SPECIES
-=======
+# Bulimina exilis SPECIES
 
 #### Status
 ACCEPTED

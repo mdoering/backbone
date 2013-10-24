@@ -1,5 +1,4 @@
-Psoroma periculosum (Nyl.) Arnold SPECIES
-=======
+# Psoroma periculosum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

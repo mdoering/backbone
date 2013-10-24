@@ -1,5 +1,4 @@
-Russula pubescens A. Blytt SPECIES
-=======
+# Russula pubescens A. Blytt SPECIES
 
 #### Status
 ACCEPTED

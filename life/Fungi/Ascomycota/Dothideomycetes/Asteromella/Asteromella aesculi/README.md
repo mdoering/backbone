@@ -1,5 +1,4 @@
-Asteromella aesculi SPECIES
-=======
+# Asteromella aesculi SPECIES
 
 #### Status
 ACCEPTED

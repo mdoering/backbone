@@ -1,5 +1,4 @@
-Calothrix gelatinosa F.E. Fritsch SPECIES
-=======
+# Calothrix gelatinosa F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

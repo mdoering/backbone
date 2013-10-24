@@ -1,5 +1,4 @@
-Monascus paxii Lingelsh. SPECIES
-=======
+# Monascus paxii Lingelsh. SPECIES
 
 #### Status
 ACCEPTED

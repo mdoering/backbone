@@ -1,5 +1,4 @@
-Ooidium clavigerum Parsons & Anderson, 2000 SPECIES
-=======
+# Ooidium clavigerum Parsons & Anderson, 2000 SPECIES
 
 #### Status
 ACCEPTED

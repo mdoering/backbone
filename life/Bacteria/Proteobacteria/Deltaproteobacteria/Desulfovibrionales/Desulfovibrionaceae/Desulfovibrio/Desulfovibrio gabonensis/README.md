@@ -1,5 +1,4 @@
-Desulfovibrio gabonensis Tardy-Jacquenod et al., 1996 SPECIES
-=======
+# Desulfovibrio gabonensis Tardy-Jacquenod et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

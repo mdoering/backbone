@@ -1,5 +1,4 @@
-Leptonia papillata Velen. SPECIES
-=======
+# Leptonia papillata Velen. SPECIES
 
 #### Status
 ACCEPTED

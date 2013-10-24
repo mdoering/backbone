@@ -1,5 +1,4 @@
-Perisporium alneum Fr. SPECIES
-=======
+# Perisporium alneum Fr. SPECIES
 
 #### Status
 ACCEPTED

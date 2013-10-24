@@ -1,17 +1,16 @@
-Physalospora euphorbiae f. catalaunica Gonz. Frag. FORM
-=======
+# Physalospora euphorbiae (Plowr. & W. Phillips) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Junta Ciencies Nat. Barcelona, Ser. Bot. 2: 84 (1917)
+Syll. fung. (Abellini) 1: 436 (1882)
 
 #### Original name
-Physalospora euphorbiae f. catalaunica Gonz. Frag.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Turbinaria murrayana Barton SPECIES
-=======
+# Turbinaria murrayana Barton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago lycuroides Griffiths SPECIES
-=======
+# Ustilago lycuroides Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia spodochroa Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia spodochroa (Kurok. & Filson) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 1: 46 (1975)
+null
 
 #### Original name
-Parmelia spodochroa Kurok. & Filson
+null
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Tolypocladium balanoides (Drechsler) Bissett, 1983 SPECIES
-=======
+# Haptocillium balanoides (Drechsler) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 61(5): 1313 (1983)
+in Gams & Zare, Nova Hedwigia 72(3-4): 335 (2001)
 
 #### Original name
 Cephalosporium balanoides Drechsler, 1941

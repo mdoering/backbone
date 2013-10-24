@@ -1,5 +1,4 @@
-Peridermium engelmannii Thüm. SPECIES
-=======
+# Peridermium engelmannii Thüm. SPECIES
 
 #### Status
 ACCEPTED

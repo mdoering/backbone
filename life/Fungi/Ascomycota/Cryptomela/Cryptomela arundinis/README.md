@@ -1,5 +1,4 @@
-Cryptomela arundinis (Durieu & Mont.) Sacc. SPECIES
-=======
+# Cryptomela arundinis (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

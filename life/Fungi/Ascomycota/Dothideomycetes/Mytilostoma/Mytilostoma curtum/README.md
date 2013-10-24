@@ -1,5 +1,4 @@
-Mytilostoma curtum (Fr.) P. Karst. SPECIES
-=======
+# Mytilostoma curtum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

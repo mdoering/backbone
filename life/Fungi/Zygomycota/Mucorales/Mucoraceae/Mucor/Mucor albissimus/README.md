@@ -1,5 +1,4 @@
-Mucor albissimus Haller SPECIES
-=======
+# Mucor albissimus Haller SPECIES
 
 #### Status
 ACCEPTED

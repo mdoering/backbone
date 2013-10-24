@@ -1,5 +1,4 @@
-Microthyrium epimyces Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Microthyrium epimyces Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

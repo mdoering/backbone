@@ -1,5 +1,4 @@
-Bifurcaria galapagensis (Piccone & Grunow) Womersley SPECIES
-=======
+# Bifurcaria galapagensis (Piccone & Grunow) Womersley SPECIES
 
 #### Status
 ACCEPTED

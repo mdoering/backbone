@@ -1,17 +1,16 @@
-Septoria pleosporoides var. pleosporoides VARIETY
-=======
+# Rhabdospora pleosporoides (Sacc.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 588 (1884)
 
 #### Original name
-Septoria pleosporoides var. pleosporoides
+Septoria pleosporoides Sacc., 1878
 
 ### Remarks
 null

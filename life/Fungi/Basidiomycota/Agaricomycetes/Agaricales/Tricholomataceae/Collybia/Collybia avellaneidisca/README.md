@@ -1,5 +1,4 @@
-Collybia avellaneidisca (Murrill) Murrill SPECIES
-=======
+# Collybia avellaneidisca (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

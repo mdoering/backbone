@@ -1,5 +1,4 @@
-Nothopanus nsimalenensis Mossebo, 2000 SPECIES
-=======
+# Nothopanus nsimalenensis Mossebo, 2000 SPECIES
 
 #### Status
 ACCEPTED

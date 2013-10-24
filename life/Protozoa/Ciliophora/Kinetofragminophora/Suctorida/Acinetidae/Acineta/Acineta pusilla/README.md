@@ -1,5 +1,4 @@
-Acineta pusilla Swarczewsky, 1928 SPECIES
-=======
+# Acineta pusilla Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

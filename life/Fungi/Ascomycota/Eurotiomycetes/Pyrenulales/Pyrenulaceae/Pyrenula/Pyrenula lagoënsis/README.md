@@ -1,5 +1,4 @@
-Pyrenula lagoënsis Müll. Arg. SPECIES
-=======
+# Pyrenula lagoënsis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

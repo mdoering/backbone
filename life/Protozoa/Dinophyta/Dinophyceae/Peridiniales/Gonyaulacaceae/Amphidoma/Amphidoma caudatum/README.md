@@ -1,5 +1,4 @@
-Amphidoma caudatum Halldal, 1953 SPECIES
-=======
+# Amphidoma caudatum Halldal, 1953 SPECIES
 
 #### Status
 ACCEPTED

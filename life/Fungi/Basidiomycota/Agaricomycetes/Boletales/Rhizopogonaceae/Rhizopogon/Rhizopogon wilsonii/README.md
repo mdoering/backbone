@@ -1,5 +1,4 @@
-Rhizopogon wilsonii (Lloyd) Zeller & C.W. Dodge SPECIES
-=======
+# Rhizopogon wilsonii (Lloyd) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita calopus Rammeloo & Walleyn SPECIES
-=======
+# Amanita calopus Rammeloo & Walleyn SPECIES
 
 #### Status
 ACCEPTED

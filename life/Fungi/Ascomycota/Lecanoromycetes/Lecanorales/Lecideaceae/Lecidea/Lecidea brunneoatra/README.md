@@ -1,5 +1,4 @@
-Lecidea brunneoatra Vain. SPECIES
-=======
+# Lecidea brunneoatra Vain. SPECIES
 
 #### Status
 ACCEPTED

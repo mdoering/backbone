@@ -1,5 +1,4 @@
-Multiclavula R.H. Petersen, 1967 GENUS
-=======
+# Multiclavula R.H. Petersen, 1967 GENUS
 
 #### Status
 ACCEPTED

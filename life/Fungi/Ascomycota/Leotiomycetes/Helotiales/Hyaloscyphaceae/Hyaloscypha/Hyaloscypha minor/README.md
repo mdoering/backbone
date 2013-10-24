@@ -1,5 +1,4 @@
-Hyaloscypha minor (Rehm ex Starbäck) Boud. SPECIES
-=======
+# Hyaloscypha minor (Rehm ex Starbäck) Boud. SPECIES
 
 #### Status
 ACCEPTED

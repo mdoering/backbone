@@ -1,5 +1,4 @@
-Valsa ramulicola Peck SPECIES
-=======
+# Valsa ramulicola Peck SPECIES
 
 #### Status
 ACCEPTED

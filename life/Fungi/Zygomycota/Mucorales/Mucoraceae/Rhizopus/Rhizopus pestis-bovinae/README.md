@@ -1,5 +1,4 @@
-Rhizopus pestis-bovinae Hallier SPECIES
-=======
+# Rhizopus pestis-bovinae Hallier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichomonascus farinosus (de Hoog, Rant.-Leht. & M.T. Sm.) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Trichomonascus farinosus (de Hoog, Rant.-Leht. & M.T. Sm.) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

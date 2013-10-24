@@ -1,5 +1,4 @@
-Holophrya maxima Daday, 1886 SPECIES
-=======
+# Holophrya maxima Daday, 1886 SPECIES
 
 #### Status
 ACCEPTED

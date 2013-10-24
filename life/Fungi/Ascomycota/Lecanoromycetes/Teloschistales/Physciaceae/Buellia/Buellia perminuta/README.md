@@ -1,5 +1,4 @@
-Buellia perminuta Zahlbr. SPECIES
-=======
+# Buellia perminuta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

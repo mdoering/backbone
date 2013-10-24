@@ -1,5 +1,4 @@
-Chlorophyllum globosum (Mossebo) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum globosum (Mossebo) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

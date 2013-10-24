@@ -1,5 +1,4 @@
-Capronia collapsa (K. Holm & L. Holm) O.E. Erikss. SPECIES
-=======
+# Capronia collapsa (K. Holm & L. Holm) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

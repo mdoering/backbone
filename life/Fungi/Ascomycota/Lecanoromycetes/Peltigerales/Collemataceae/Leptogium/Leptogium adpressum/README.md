@@ -1,5 +1,4 @@
-Leptogium adpressum Nyl. SPECIES
-=======
+# Leptogium adpressum Nyl. SPECIES
 
 #### Status
 ACCEPTED

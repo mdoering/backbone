@@ -1,5 +1,4 @@
-Tintinnopsis chyzeri Daday, 1887 SPECIES
-=======
+# Tintinnopsis chyzeri Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

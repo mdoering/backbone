@@ -1,5 +1,4 @@
-Rhodotorula laryngis Reiersöl SPECIES
-=======
+# Rhodotorula laryngis Reiersöl SPECIES
 
 #### Status
 ACCEPTED

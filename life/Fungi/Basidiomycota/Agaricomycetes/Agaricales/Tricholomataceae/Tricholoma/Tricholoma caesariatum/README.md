@@ -1,5 +1,4 @@
-Tricholoma caesariatum (Fr.) Mussat SPECIES
-=======
+# Tricholoma caesariatum (Fr.) Mussat SPECIES
 
 #### Status
 ACCEPTED

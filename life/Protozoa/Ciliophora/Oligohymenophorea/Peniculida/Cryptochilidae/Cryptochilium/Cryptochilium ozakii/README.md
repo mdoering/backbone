@@ -1,5 +1,4 @@
-Cryptochilium ozakii SPECIES
-=======
+# Cryptochilium ozakii SPECIES
 
 #### Status
 ACCEPTED

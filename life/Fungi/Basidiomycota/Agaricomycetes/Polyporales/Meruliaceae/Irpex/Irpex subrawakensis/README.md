@@ -1,5 +1,4 @@
-Irpex subrawakensis (Murrill) Saaren. & Kotir. SPECIES
-=======
+# Irpex subrawakensis (Murrill) Saaren. & Kotir. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia subcanescens Werner SPECIES
-=======
+# Buellia subcanescens Werner SPECIES
 
 #### Status
 ACCEPTED

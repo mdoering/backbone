@@ -1,5 +1,4 @@
-Cystobacter miniatus SPECIES
-=======
+# Cystobacter miniatus SPECIES
 
 #### Status
 ACCEPTED

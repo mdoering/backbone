@@ -1,5 +1,4 @@
-Dothiorella ficina S. Ahmad SPECIES
-=======
+# Dothiorella ficina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

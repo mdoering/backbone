@@ -1,5 +1,4 @@
-Agaricus tersus Fr. SPECIES
-=======
+# Agaricus tersus Fr. SPECIES
 
 #### Status
 ACCEPTED

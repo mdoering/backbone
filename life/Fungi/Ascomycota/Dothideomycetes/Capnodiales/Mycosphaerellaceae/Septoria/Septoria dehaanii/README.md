@@ -1,5 +1,4 @@
-Septoria dehaanii Hara SPECIES
-=======
+# Septoria dehaanii Hara SPECIES
 
 #### Status
 ACCEPTED

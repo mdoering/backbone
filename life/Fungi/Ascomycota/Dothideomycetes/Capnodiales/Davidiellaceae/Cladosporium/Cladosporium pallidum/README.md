@@ -1,17 +1,16 @@
-Hormodendrum pallidum Oudem., 1902 SPECIES
-=======
+# Cladosporium pallidum Berk. & M.A. Curtis, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Néerlandaises des Sc. exacts et nat. 7: 293 (1902)
+null
 
 #### Original name
-Hormodendrum pallidum Oudem., 1902
+Cladosporium pallidum Berk. & M.A. Curtis, 1858
 
 ### Remarks
 null

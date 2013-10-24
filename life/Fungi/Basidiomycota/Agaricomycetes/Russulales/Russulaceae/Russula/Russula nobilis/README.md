@@ -1,17 +1,16 @@
-Russula mairei var. mairei VARIETY
-=======
+# Russula nobilis Velen., 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 45: 103 (1929)
+Ceské Houby 1: 138 (1920)
 
 #### Original name
-Russula mairei var. mairei
+Russula nobilis Velen., 1920
 
 ### Remarks
 null

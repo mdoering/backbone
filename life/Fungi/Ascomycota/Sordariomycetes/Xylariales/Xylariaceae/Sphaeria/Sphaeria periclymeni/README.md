@@ -1,5 +1,4 @@
-Sphaeria periclymeni P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria periclymeni P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

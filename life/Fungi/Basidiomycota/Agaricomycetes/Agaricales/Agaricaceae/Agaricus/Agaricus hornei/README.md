@@ -1,5 +1,4 @@
-Agaricus hornei Murrill SPECIES
-=======
+# Agaricus hornei Murrill SPECIES
 
 #### Status
 ACCEPTED

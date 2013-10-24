@@ -1,5 +1,4 @@
-Phoma prunicola Schwein., 1832 SPECIES
-=======
+# Phoma prunicola Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

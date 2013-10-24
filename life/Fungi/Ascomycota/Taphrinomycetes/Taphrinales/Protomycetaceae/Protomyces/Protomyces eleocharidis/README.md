@@ -1,8 +1,7 @@
-Protomyces heleocharidis Fuckel SPECIES
-=======
+# Protomyces eleocharidis Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Protomyces heleocharidis Fuckel
+Protomyces eleocharidis Fuckel
 
 ### Remarks
 null

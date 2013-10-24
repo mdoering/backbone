@@ -1,5 +1,4 @@
-Xylaria ianthinovelutina (Mont.) Fr. SPECIES
-=======
+# Xylaria ianthinovelutina (Mont.) Fr. SPECIES
 
 #### Status
 ACCEPTED

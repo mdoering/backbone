@@ -1,5 +1,4 @@
-Sarcogyne eucarpa (Nyl.) Hellb. SPECIES
-=======
+# Sarcogyne eucarpa (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

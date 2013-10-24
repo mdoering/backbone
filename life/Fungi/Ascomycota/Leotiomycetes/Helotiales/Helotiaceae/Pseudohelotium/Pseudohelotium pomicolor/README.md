@@ -1,5 +1,4 @@
-Pseudohelotium pomicolor (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Pseudohelotium pomicolor (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera fusispora Velen. SPECIES
-=======
+# Galera fusispora Velen. SPECIES
 
 #### Status
 ACCEPTED

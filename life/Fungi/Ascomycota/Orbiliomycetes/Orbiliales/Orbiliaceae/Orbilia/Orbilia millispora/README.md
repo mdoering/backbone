@@ -1,5 +1,4 @@
-Orbilia millispora Velen. SPECIES
-=======
+# Orbilia millispora Velen. SPECIES
 
 #### Status
 ACCEPTED

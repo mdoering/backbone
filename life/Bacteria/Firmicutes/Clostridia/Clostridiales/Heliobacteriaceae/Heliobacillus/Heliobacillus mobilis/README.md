@@ -1,5 +1,4 @@
-Heliobacillus mobilis Beer-Romero & Gest, 1998 SPECIES
-=======
+# Heliobacillus mobilis Beer-Romero & Gest, 1998 SPECIES
 
 #### Status
 ACCEPTED

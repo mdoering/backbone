@@ -1,5 +1,4 @@
-Peziza syrjensis P. Karst. SPECIES
-=======
+# Peziza syrjensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

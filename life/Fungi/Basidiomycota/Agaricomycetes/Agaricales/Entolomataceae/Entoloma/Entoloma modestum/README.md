@@ -1,5 +1,4 @@
-Entoloma modestum Peck SPECIES
-=======
+# Entoloma modestum Peck SPECIES
 
 #### Status
 ACCEPTED

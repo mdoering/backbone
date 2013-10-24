@@ -1,5 +1,4 @@
-Lepiota sphaerospora Beeli SPECIES
-=======
+# Lepiota sphaerospora Beeli SPECIES
 
 #### Status
 ACCEPTED

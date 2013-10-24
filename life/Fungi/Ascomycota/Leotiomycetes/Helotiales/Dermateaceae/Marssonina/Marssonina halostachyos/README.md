@@ -1,17 +1,16 @@
-Marssonina holostachyos Kalymb. SPECIES
-=======
+# Marssonina halostachyos Kalymb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trud. Inst. Bot. Acad. Sci. Kazakh SSR 13: 278 (1962)
 
 #### Original name
-Marssonina holostachyos Kalymb.
+Marssonina halostachyos Kalymb.
 
 ### Remarks
 null

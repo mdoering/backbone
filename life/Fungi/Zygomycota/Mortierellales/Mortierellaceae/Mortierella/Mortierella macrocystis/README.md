@@ -1,14 +1,13 @@
-Mortierella microspora var. macrocystis (W. Gams) Linnem., 1969 VARIETY
-=======
+# Mortierella macrocystis W. Gams, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mucorales (Lehre) 208 (1969)
+Nova Hedwigia 3: 69 (1961)
 
 #### Original name
 Mortierella macrocystis W. Gams, 1961

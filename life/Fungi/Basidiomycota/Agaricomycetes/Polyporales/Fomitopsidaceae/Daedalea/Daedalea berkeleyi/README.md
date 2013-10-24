@@ -1,5 +1,4 @@
-Daedalea berkeleyi Sacc. SPECIES
-=======
+# Daedalea berkeleyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

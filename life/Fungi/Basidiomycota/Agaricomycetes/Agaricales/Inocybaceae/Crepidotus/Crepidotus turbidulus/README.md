@@ -1,5 +1,4 @@
-Crepidotus turbidulus Berk. SPECIES
-=======
+# Crepidotus turbidulus Berk. SPECIES
 
 #### Status
 ACCEPTED

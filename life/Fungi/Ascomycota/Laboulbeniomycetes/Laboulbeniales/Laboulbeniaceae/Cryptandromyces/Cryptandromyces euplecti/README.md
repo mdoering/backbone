@@ -1,5 +1,4 @@
-Cryptandromyces euplecti Santam. SPECIES
-=======
+# Cryptandromyces euplecti Santam. SPECIES
 
 #### Status
 ACCEPTED

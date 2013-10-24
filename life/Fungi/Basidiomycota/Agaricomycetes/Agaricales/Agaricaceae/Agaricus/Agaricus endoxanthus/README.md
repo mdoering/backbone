@@ -1,5 +1,4 @@
-Agaricus endoxanthus Berk. & Broome SPECIES
-=======
+# Agaricus endoxanthus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

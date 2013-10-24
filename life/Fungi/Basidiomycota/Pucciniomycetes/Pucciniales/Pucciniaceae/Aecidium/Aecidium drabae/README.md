@@ -1,5 +1,4 @@
-Aecidium drabae Tracy & L.D. Galloway SPECIES
-=======
+# Aecidium drabae Tracy & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED

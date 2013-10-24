@@ -1,5 +1,4 @@
-Patellaria endochroma (Fée) Trevis. SPECIES
-=======
+# Patellaria endochroma (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

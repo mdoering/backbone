@@ -1,5 +1,4 @@
-Leucocoprinus minimus (Berk.) Pegler SPECIES
-=======
+# Leucocoprinus minimus (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

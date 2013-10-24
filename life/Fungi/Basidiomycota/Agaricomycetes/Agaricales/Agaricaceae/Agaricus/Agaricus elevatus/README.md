@@ -1,5 +1,4 @@
-Agaricus elevatus Weinm. SPECIES
-=======
+# Agaricus elevatus Weinm. SPECIES
 
 #### Status
 ACCEPTED

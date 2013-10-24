@@ -1,5 +1,4 @@
-Phaeostalagmus arbusculus C.J.K. Wang & B. Sutton SPECIES
-=======
+# Phaeostalagmus arbusculus C.J.K. Wang & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

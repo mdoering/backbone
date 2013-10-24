@@ -1,14 +1,13 @@
-Puccinia amorphae M.A. Curtis, 1848 SPECIES
-=======
+# Uropyxis amorphae (M.A. Curtis) J. Schröt., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Amer. J. Sci. Arts, Ser. 2 6: 353 (1848)
+Hedwigia 14: 165 (1875)
 
 #### Original name
 Puccinia amorphae M.A. Curtis, 1848

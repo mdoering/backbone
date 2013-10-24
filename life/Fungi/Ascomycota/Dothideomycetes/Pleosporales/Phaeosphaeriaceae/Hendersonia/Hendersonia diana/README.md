@@ -1,5 +1,4 @@
-Hendersonia diana Gucevic SPECIES
-=======
+# Hendersonia diana Gucevic SPECIES
 
 #### Status
 ACCEPTED

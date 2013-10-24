@@ -1,5 +1,4 @@
-Septoria oxyspora SPECIES
-=======
+# Septoria oxyspora SPECIES
 
 #### Status
 ACCEPTED

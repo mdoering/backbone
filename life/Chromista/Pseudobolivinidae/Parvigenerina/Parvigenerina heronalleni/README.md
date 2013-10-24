@@ -1,5 +1,4 @@
-Parvigenerina heronalleni Seiglie, 1964 SPECIES
-=======
+# Parvigenerina heronalleni Seiglie, 1964 SPECIES
 
 #### Status
 ACCEPTED

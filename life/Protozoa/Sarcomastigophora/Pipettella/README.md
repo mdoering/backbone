@@ -1,5 +1,4 @@
-Pipettella Haeckel, 1887 GENUS
-=======
+# Pipettella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

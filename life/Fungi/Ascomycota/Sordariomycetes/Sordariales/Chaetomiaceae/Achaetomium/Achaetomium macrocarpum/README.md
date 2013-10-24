@@ -1,17 +1,16 @@
-Achaetomium macrocarpus J.N. Rai & H.J. Chowdhery SPECIES
-=======
+# Achaetomium macrocarpum J.N. Rai & H.J. Chowdhery SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 1: 32 (1974)
 
 #### Original name
-Achaetomium macrocarpus J.N. Rai & H.J. Chowdhery
+Achaetomium macrocarpum J.N. Rai & H.J. Chowdhery
 
 ### Remarks
 null

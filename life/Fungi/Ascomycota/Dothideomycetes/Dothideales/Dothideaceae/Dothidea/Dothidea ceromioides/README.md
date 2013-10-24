@@ -1,5 +1,4 @@
-Dothidea ceromioides Duby SPECIES
-=======
+# Dothidea ceromioides Duby SPECIES
 
 #### Status
 ACCEPTED

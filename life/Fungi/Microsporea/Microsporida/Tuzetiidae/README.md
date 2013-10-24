@@ -1,5 +1,4 @@
-Tuzetiidae FAMILY
-=======
+# Tuzetiidae FAMILY
 
 #### Status
 ACCEPTED

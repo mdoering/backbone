@@ -1,5 +1,4 @@
-Campanella castaneipes Singer SPECIES
-=======
+# Campanella castaneipes Singer SPECIES
 
 #### Status
 ACCEPTED

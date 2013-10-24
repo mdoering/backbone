@@ -1,5 +1,4 @@
-Helicogloea inconspicua G.E. Baker SPECIES
-=======
+# Helicogloea inconspicua G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

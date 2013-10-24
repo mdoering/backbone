@@ -1,5 +1,4 @@
-Kazachstania solicola F.Y. Bai & Z.W. Wu, 2005 SPECIES
-=======
+# Kazachstania solicola F.Y. Bai & Z.W. Wu, 2005 SPECIES
 
 #### Status
 ACCEPTED

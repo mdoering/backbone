@@ -1,5 +1,4 @@
-Spilonemella americana Henssen & Tønsberg SPECIES
-=======
+# Spilonemella americana Henssen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

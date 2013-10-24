@@ -1,5 +1,4 @@
-Lophiotrema antarcticum Speg. SPECIES
-=======
+# Lophiotrema antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

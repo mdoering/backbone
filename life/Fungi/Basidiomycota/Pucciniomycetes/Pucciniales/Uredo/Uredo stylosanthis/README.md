@@ -1,5 +1,4 @@
-Uredo stylosanthis Henn. SPECIES
-=======
+# Uredo stylosanthis Henn. SPECIES
 
 #### Status
 ACCEPTED

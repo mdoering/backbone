@@ -1,5 +1,4 @@
-Hyphoderma rimulosum Sheng H. Wu, 1997 SPECIES
-=======
+# Hyphoderma rimulosum Sheng H. Wu, 1997 SPECIES
 
 #### Status
 ACCEPTED

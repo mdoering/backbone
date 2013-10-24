@@ -1,5 +1,4 @@
-Marchandiomyces Dieder. & D. Hawksw. GENUS
-=======
+# Marchandiomyces Dieder. & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

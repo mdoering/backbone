@@ -1,5 +1,4 @@
-Microsporum aurantiacum Conant SPECIES
-=======
+# Microsporum aurantiacum Conant SPECIES
 
 #### Status
 ACCEPTED

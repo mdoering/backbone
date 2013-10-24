@@ -1,5 +1,4 @@
-Botryodiplodia mohgaoensis Barlinge & Paradkar SPECIES
-=======
+# Botryodiplodia mohgaoensis Barlinge & Paradkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenomyces Cavalc. & A.A. Silva GENUS
-=======
+# Lagenomyces Cavalc. & A.A. Silva GENUS
 
 #### Status
 ACCEPTED

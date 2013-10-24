@@ -1,5 +1,4 @@
-Coprinus hylaeae Singer SPECIES
-=======
+# Coprinus hylaeae Singer SPECIES
 
 #### Status
 ACCEPTED

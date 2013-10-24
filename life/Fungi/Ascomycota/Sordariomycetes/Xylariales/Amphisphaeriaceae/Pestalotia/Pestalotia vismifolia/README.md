@@ -1,5 +1,4 @@
-Pestalotia vismifolia Guba SPECIES
-=======
+# Pestalotia vismifolia Guba SPECIES
 
 #### Status
 ACCEPTED

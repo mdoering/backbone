@@ -1,5 +1,4 @@
-Eutypa atomospora (Cooke) Sacc. SPECIES
-=======
+# Eutypa atomospora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma anzianum Pass. SPECIES
-=======
+# Entyloma anzianum Pass. SPECIES
 
 #### Status
 ACCEPTED

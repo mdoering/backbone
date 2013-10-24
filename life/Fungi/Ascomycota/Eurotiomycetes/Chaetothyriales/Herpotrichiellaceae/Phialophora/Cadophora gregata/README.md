@@ -1,17 +1,16 @@
-Phialophora gregata f. sp FORM
-=======
+# Cadophora gregata (Allington & D.W. Chamb.) T.C. Harr. & McNew, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. phytopath. Soc. Japan 57(2): 229 (1991)
+Mycotaxon 87: 147 (2003)
 
 #### Original name
-Phialophora gregata f. sp
+Cephalosporium gregatum Allington & D.W. Chamb., 1948
 
 ### Remarks
 null

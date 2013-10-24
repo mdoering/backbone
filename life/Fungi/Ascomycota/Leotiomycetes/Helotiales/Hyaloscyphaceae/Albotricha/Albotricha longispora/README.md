@@ -1,5 +1,4 @@
-Albotricha longispora Raitv. SPECIES
-=======
+# Albotricha longispora Raitv. SPECIES
 
 #### Status
 ACCEPTED

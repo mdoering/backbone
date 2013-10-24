@@ -1,5 +1,4 @@
-Taphridium algeriense Lagerh. & Juel SPECIES
-=======
+# Taphridium algeriense Lagerh. & Juel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta laricis Sawada SPECIES
-=======
+# Phyllosticta laricis Sawada SPECIES
 
 #### Status
 ACCEPTED

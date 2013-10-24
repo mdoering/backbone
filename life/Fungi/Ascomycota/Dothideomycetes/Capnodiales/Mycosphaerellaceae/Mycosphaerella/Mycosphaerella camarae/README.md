@@ -1,5 +1,4 @@
-Mycosphaerella camarae Dias SPECIES
-=======
+# Mycosphaerella camarae Dias SPECIES
 
 #### Status
 ACCEPTED

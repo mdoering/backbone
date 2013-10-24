@@ -1,5 +1,4 @@
-Acarospora incolor (Nyl.) Flagey SPECIES
-=======
+# Acarospora incolor (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria trachyticola Servít SPECIES
-=======
+# Verrucaria trachyticola Servít SPECIES
 
 #### Status
 ACCEPTED

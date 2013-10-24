@@ -1,5 +1,4 @@
-Gymnodinium lira Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium lira Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

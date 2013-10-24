@@ -1,14 +1,13 @@
-Sphaeropsis sambuci Peck, 1876 SPECIES
-=======
+# Aplosporella sambuci (Peck) Petr., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 56 (1876)
+in Petrak & Sydow, Feddes Repert. , Beih. 42: 85 (1926)
 
 #### Original name
 Sphaeropsis sambuci Peck, 1876

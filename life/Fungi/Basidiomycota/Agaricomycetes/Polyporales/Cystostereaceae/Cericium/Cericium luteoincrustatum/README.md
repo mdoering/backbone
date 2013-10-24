@@ -1,14 +1,13 @@
-Amethicium luteoincrustatum Hjortstam & Ryvarden, 1986 SPECIES
-=======
+# Cericium luteoincrustatum (Hjortstam & Ryvarden) Hjortstam, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 25(2): 542 (1986)
+Mycotaxon 54: 185 (1995)
 
 #### Original name
 Amethicium luteoincrustatum Hjortstam & Ryvarden, 1986

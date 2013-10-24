@@ -1,17 +1,16 @@
-Gyrophila bulbigera (Alb. & Schwein.) Quél., 1886 SPECIES
-=======
+# Leucocortinarius bulbiger (Alb. & Schwein.) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 8: 141 (1945)
 
 #### Original name
-null
+Agaricus bulbiger Alb. & Schwein., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterina dilleniae Syd. & P. Syd. SPECIES
-=======
+# Asterina dilleniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora smilacigena U. Braun & Crous SPECIES
-=======
+# Cercospora smilacigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Centrodinium pulchrum Boehm., 1933 SPECIES
-=======
+# Centrodinium pulchrum Boehm., 1933 SPECIES
 
 #### Status
 ACCEPTED

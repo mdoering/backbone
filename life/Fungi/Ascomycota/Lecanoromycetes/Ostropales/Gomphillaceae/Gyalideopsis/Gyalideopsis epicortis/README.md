@@ -1,14 +1,13 @@
-Microlychnus epicorticis A. Funk SPECIES
-=======
+# Gyalideopsis epicortis (A. Funk) Tønsberg & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Can. J. Bot. 51(6): 1249 (1973)
+Bryologist 110(4): 650 (2007)
 
 #### Original name
 Microlychnus epicorticis A. Funk

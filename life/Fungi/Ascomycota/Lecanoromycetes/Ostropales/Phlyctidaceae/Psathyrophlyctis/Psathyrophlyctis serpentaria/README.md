@@ -1,5 +1,4 @@
-Psathyrophlyctis serpentaria Brusse SPECIES
-=======
+# Psathyrophlyctis serpentaria Brusse SPECIES
 
 #### Status
 ACCEPTED

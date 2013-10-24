@@ -1,5 +1,4 @@
-Pholiota subsulphurea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subsulphurea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

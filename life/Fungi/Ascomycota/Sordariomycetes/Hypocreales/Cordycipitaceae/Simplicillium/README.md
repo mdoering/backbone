@@ -1,5 +1,4 @@
-Simplicillium W. Gams & Zare, 2001 GENUS
-=======
+# Simplicillium W. Gams & Zare, 2001 GENUS
 
 #### Status
 ACCEPTED

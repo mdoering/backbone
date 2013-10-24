@@ -1,5 +1,4 @@
-Dermocystidium ranae Guyénot & Naville SPECIES
-=======
+# Dermocystidium ranae Guyénot & Naville SPECIES
 
 #### Status
 ACCEPTED

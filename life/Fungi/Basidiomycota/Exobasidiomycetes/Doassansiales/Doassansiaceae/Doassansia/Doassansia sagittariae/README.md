@@ -1,17 +1,16 @@
-Doassansia sagittariae var. sagittariae VARIETY
-=======
+# Doassansia sagittariae (Westend.) J.C. Fisch., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ber. dt. bot. Ges. 2: 405 (1884)
 
 #### Original name
-Doassansia sagittariae var. sagittariae
+Uredo sagittariae Westend., 1857
 
 ### Remarks
 null

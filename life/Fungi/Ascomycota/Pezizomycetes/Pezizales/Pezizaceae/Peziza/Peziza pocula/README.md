@@ -1,5 +1,4 @@
-Peziza pocula Sw. SPECIES
-=======
+# Peziza pocula Sw. SPECIES
 
 #### Status
 ACCEPTED

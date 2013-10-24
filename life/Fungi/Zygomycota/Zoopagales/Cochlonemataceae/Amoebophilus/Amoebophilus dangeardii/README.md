@@ -1,5 +1,4 @@
-Amoebophilus dangeardii K. Miura, 1978 SPECIES
-=======
+# Amoebophilus dangeardii K. Miura, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adelodiscus philippinensis Syd., 1931 SPECIES
-=======
+# Adelodiscus philippinensis Syd., 1931 SPECIES
 
 #### Status
 ACCEPTED

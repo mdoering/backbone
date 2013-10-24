@@ -1,5 +1,4 @@
-Psora corallina (Eschw.) SPECIES
-=======
+# Psora corallina (Eschw.) SPECIES
 
 #### Status
 ACCEPTED

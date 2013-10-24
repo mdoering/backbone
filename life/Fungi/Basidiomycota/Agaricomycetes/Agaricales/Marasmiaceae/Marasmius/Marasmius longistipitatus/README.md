@@ -1,5 +1,4 @@
-Marasmius longistipitatus Antonín SPECIES
-=======
+# Marasmius longistipitatus Antonín SPECIES
 
 #### Status
 ACCEPTED

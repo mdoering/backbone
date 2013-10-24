@@ -1,5 +1,4 @@
-Synechoblastus stygius (Schaer.) Körb. SPECIES
-=======
+# Synechoblastus stygius (Schaer.) Körb. SPECIES
 
 #### Status
 ACCEPTED

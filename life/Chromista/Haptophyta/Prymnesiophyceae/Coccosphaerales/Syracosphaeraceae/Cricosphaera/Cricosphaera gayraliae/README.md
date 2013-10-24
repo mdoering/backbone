@@ -1,5 +1,4 @@
-Cricosphaera gayraliae Beuffe SPECIES
-=======
+# Cricosphaera gayraliae Beuffe SPECIES
 
 #### Status
 ACCEPTED

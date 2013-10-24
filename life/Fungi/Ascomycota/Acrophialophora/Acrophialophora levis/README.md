@@ -1,5 +1,4 @@
-Acrophialophora levis Samson & T. Mahmood, 1970 SPECIES
-=======
+# Acrophialophora levis Samson & T. Mahmood, 1970 SPECIES
 
 #### Status
 ACCEPTED

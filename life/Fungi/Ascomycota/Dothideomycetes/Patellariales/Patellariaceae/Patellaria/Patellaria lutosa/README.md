@@ -1,5 +1,4 @@
-Patellaria lutosa (Ach.) Spreng. SPECIES
-=======
+# Patellaria lutosa (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

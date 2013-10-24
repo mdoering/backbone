@@ -1,5 +1,4 @@
-Bdellovibrio Stolp & Starr, 1963 GENUS
-=======
+# Bdellovibrio Stolp & Starr, 1963 GENUS
 
 #### Status
 ACCEPTED

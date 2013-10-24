@@ -1,5 +1,4 @@
-Dicaeoma zizaniae (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma zizaniae (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

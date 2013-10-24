@@ -1,5 +1,4 @@
-Excipula vermicularia Corda SPECIES
-=======
+# Excipula vermicularia Corda SPECIES
 
 #### Status
 ACCEPTED

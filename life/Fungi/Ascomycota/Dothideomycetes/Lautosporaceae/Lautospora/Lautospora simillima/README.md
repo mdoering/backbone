@@ -1,5 +1,4 @@
-Lautospora simillima Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
-=======
+# Lautospora simillima Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
 
 #### Status
 ACCEPTED

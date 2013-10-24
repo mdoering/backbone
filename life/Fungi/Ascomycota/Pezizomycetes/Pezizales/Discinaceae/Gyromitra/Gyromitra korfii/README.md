@@ -1,5 +1,4 @@
-Gyromitra korfii (Raitv.) Harmaja SPECIES
-=======
+# Gyromitra korfii (Raitv.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

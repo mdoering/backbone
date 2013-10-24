@@ -1,5 +1,4 @@
-Septoria massalongiana Sacc. SPECIES
-=======
+# Septoria massalongiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

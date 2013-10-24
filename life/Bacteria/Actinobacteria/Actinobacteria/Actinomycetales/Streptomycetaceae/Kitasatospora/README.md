@@ -1,5 +1,4 @@
-Kitasatospora GENUS
-=======
+# Kitasatospora GENUS
 
 #### Status
 ACCEPTED

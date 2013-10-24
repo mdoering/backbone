@@ -1,5 +1,4 @@
-Erioderma latilobatum P.M. Jørg. & Sipman SPECIES
-=======
+# Erioderma latilobatum P.M. Jørg. & Sipman SPECIES
 
 #### Status
 ACCEPTED

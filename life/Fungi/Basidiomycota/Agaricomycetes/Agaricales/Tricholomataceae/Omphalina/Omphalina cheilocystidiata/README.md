@@ -1,5 +1,4 @@
-Omphalina cheilocystidiata (Singer) Raithelh. SPECIES
-=======
+# Omphalina cheilocystidiata (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

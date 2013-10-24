@@ -1,5 +1,4 @@
-Meliola macrochaeta Syd. SPECIES
-=======
+# Meliola macrochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

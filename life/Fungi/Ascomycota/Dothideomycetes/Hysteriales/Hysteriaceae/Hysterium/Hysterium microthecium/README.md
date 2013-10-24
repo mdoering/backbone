@@ -1,5 +1,4 @@
-Hysterium microthecium Sacc. & Speg. SPECIES
-=======
+# Hysterium microthecium Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

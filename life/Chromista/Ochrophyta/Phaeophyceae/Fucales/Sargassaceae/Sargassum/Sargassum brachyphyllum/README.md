@@ -1,5 +1,4 @@
-Sargassum brachyphyllum SPECIES
-=======
+# Sargassum brachyphyllum SPECIES
 
 #### Status
 ACCEPTED

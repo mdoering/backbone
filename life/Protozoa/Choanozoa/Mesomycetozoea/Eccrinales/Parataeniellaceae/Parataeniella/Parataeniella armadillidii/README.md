@@ -1,5 +1,4 @@
-Parataeniella armadillidii Lichtw. & A.W. Chen, 1964 SPECIES
-=======
+# Parataeniella armadillidii Lichtw. & A.W. Chen, 1964 SPECIES
 
 #### Status
 ACCEPTED

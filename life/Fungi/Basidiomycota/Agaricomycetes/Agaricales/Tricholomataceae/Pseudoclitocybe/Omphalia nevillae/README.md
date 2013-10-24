@@ -1,5 +1,4 @@
-Omphalia nevillae Berk. SPECIES
-=======
+# Omphalia nevillae Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera gibbosa (J. Favre) Pilát SPECIES
-=======
+# Galera gibbosa (J. Favre) Pilát SPECIES
 
 #### Status
 ACCEPTED

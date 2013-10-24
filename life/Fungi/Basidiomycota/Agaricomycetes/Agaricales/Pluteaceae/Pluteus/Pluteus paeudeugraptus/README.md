@@ -1,5 +1,4 @@
-Pluteus paeudeugraptus E. Horak SPECIES
-=======
+# Pluteus paeudeugraptus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina subapplanata Malcolm, Vezda, P.M. McCarthy & Kantvilas, 1999 SPECIES
-=======
+# Porina subapplanata Malcolm, Vezda, P.M. McCarthy & Kantvilas, 1999 SPECIES
 
 #### Status
 DOUBTFUL

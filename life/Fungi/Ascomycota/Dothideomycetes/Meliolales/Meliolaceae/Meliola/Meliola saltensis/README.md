@@ -1,5 +1,4 @@
-Meliola saltensis Hansf. SPECIES
-=======
+# Meliola saltensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

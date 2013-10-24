@@ -1,5 +1,4 @@
-Thujacorticium zurhausenii (Bres.) Nakasone SPECIES
-=======
+# Thujacorticium zurhausenii (Bres.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

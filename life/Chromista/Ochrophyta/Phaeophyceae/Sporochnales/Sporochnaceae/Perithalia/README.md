@@ -1,5 +1,4 @@
-Perithalia J.Agardh, 1890 GENUS
-=======
+# Perithalia J.Agardh, 1890 GENUS
 
 #### Status
 ACCEPTED

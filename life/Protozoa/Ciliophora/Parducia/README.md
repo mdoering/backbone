@@ -1,5 +1,4 @@
-Parducia GENUS
-=======
+# Parducia GENUS
 
 #### Status
 ACCEPTED

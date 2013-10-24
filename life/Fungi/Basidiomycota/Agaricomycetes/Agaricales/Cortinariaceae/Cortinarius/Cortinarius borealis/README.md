@@ -1,5 +1,4 @@
-Cortinarius borealis Bidaud SPECIES
-=======
+# Cortinarius borealis Bidaud SPECIES
 
 #### Status
 ACCEPTED

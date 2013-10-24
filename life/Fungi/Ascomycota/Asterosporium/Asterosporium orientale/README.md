@@ -1,5 +1,4 @@
-Asterosporium orientale Melnik SPECIES
-=======
+# Asterosporium orientale Melnik SPECIES
 
 #### Status
 ACCEPTED

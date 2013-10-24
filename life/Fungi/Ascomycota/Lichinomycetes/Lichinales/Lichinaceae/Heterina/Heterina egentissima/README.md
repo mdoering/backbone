@@ -1,5 +1,4 @@
-Heterina egentissima Hue SPECIES
-=======
+# Heterina egentissima Hue SPECIES
 
 #### Status
 ACCEPTED

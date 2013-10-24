@@ -1,5 +1,4 @@
-Baltisphaeridium septatum I. Cookson & A. Eisenack SPECIES
-=======
+# Baltisphaeridium septatum I. Cookson & A. Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidiobolus polyspermus Drechsler, 1962 SPECIES
-=======
+# Conidiobolus polyspermus Drechsler, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia subdiaphana Schwein. SPECIES
-=======
+# Tubercularia subdiaphana Schwein. SPECIES
 
 #### Status
 ACCEPTED

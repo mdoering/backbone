@@ -1,5 +1,4 @@
-Reophax helenae Rhumbler, 1931 SPECIES
-=======
+# Reophax helenae Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

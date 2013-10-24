@@ -1,5 +1,4 @@
-Hypomyces melanostigma Tul. SPECIES
-=======
+# Hypomyces melanostigma Tul. SPECIES
 
 #### Status
 ACCEPTED

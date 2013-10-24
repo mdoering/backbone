@@ -1,5 +1,4 @@
-Inderites elegans Dyupina, 1970 SPECIES
-=======
+# Inderites elegans Dyupina, 1970 SPECIES
 
 #### Status
 ACCEPTED

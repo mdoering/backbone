@@ -1,5 +1,4 @@
-Paleopfenderina Septfontaine, 1986 GENUS
-=======
+# Paleopfenderina Septfontaine, 1986 GENUS
 
 #### Status
 ACCEPTED

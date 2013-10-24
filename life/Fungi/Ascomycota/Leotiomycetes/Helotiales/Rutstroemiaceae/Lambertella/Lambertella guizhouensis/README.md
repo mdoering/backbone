@@ -1,5 +1,4 @@
-Lambertella guizhouensis W.Y. Zhuang & Korf SPECIES
-=======
+# Lambertella guizhouensis W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

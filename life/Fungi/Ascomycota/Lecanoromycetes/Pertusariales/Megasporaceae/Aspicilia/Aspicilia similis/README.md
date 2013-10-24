@@ -1,5 +1,4 @@
-Aspicilia similis (A. Massal.) Anzi SPECIES
-=======
+# Aspicilia similis (A. Massal.) Anzi SPECIES
 
 #### Status
 ACCEPTED

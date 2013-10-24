@@ -1,5 +1,4 @@
-Palaeostomocystis cylindrica Cookson & Eisenack SPECIES
-=======
+# Palaeostomocystis cylindrica Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

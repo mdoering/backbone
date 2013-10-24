@@ -1,5 +1,4 @@
-Phialophora sojae K. Kobay., Hid. Yamam., Negishi & Ogoshi SPECIES
-=======
+# Phialophora sojae K. Kobay., Hid. Yamam., Negishi & Ogoshi SPECIES
 
 #### Status
 ACCEPTED

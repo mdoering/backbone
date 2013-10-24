@@ -1,5 +1,4 @@
-Uromyces tricholenae Gonz. Frag. & Cif. SPECIES
-=======
+# Uromyces tricholenae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

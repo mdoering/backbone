@@ -1,5 +1,4 @@
-Cercospora dispori Togashi & Maki SPECIES
-=======
+# Cercospora dispori Togashi & Maki SPECIES
 
 #### Status
 ACCEPTED

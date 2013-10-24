@@ -1,5 +1,4 @@
-Buellia tibestica Faurel & Schotter SPECIES
-=======
+# Buellia tibestica Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lusatia dendroidea Burmann, 1970 SPECIES
-=======
+# Lusatia dendroidea Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

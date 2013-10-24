@@ -1,5 +1,4 @@
-Hemileia harunganae Cummins SPECIES
-=======
+# Hemileia harunganae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta crozalsii B. de Lesd. SPECIES
-=======
+# Gyalecta crozalsii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

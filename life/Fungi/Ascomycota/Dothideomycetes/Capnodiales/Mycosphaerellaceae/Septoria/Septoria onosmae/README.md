@@ -1,5 +1,4 @@
-Septoria onosmae Vasyag. SPECIES
-=======
+# Septoria onosmae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

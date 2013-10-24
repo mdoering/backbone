@@ -1,5 +1,4 @@
-Phellinus luteus Ryvarden, 2004 SPECIES
-=======
+# Phellinus luteus Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

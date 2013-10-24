@@ -1,5 +1,4 @@
-Cercospora aristolochiae-contortae H.D. Shin & U. Braun SPECIES
-=======
+# Cercospora aristolochiae-contortae H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

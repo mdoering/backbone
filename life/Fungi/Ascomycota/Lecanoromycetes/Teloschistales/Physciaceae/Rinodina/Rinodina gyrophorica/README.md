@@ -1,5 +1,4 @@
-Rinodina gyrophorica Kaschik SPECIES
-=======
+# Rinodina gyrophorica Kaschik SPECIES
 
 #### Status
 ACCEPTED

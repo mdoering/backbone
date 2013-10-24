@@ -1,5 +1,4 @@
-Mycena dissimulata Métrod SPECIES
-=======
+# Mycena dissimulata Métrod SPECIES
 
 #### Status
 ACCEPTED

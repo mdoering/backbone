@@ -1,5 +1,4 @@
-Sphaerella tini Arcang. SPECIES
-=======
+# Sphaerella tini Arcang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidia discostyla Svec, 1897 SPECIES
-=======
+# Scyphidia discostyla Svec, 1897 SPECIES
 
 #### Status
 ACCEPTED

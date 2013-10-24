@@ -1,5 +1,4 @@
-Stegonsporium jurineae Melnik SPECIES
-=======
+# Stegonsporium jurineae Melnik SPECIES
 
 #### Status
 ACCEPTED

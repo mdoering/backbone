@@ -1,5 +1,4 @@
-Pistillina typhae (Höhn.) Donk SPECIES
-=======
+# Pistillina typhae (Höhn.) Donk SPECIES
 
 #### Status
 ACCEPTED

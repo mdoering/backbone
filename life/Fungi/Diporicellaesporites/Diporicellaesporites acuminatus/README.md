@@ -1,5 +1,4 @@
-Diporicellaesporites acuminatus Sheffy & Dilcher SPECIES
-=======
+# Diporicellaesporites acuminatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

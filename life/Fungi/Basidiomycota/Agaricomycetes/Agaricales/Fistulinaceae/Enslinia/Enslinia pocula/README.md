@@ -1,5 +1,4 @@
-Enslinia pocula (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Enslinia pocula (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

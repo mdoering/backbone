@@ -1,5 +1,4 @@
-Diplodia phyllodiorum Penz. & Sacc. SPECIES
-=======
+# Diplodia phyllodiorum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

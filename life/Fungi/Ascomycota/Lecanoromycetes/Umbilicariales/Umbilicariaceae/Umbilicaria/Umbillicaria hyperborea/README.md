@@ -1,8 +1,7 @@
-Umbillicaria hyperborea var. hyperborea VARIETY
-=======
+# Umbillicaria hyperborea (Ach.) Hoffm. SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 Integrated Taxonomic Information System

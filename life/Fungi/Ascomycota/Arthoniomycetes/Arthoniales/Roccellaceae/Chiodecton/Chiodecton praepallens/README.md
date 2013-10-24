@@ -1,5 +1,4 @@
-Chiodecton praepallens (Nyl.) Vain. SPECIES
-=======
+# Chiodecton praepallens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

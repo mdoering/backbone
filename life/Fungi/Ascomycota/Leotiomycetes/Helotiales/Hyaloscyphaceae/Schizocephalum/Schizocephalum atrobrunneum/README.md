@@ -1,5 +1,4 @@
-Schizocephalum atrobrunneum (Cooke) Pound & Clem. SPECIES
-=======
+# Schizocephalum atrobrunneum (Cooke) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

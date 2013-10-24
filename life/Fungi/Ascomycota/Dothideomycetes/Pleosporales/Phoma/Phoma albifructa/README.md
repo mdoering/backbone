@@ -1,17 +1,16 @@
-Phoma albifructua Peck SPECIES
-=======
+# Phoma albifructa Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 95 (1885)
 
 #### Original name
-Phoma albifructua Peck
+Phoma albifructa Peck
 
 ### Remarks
 null

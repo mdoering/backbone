@@ -1,5 +1,4 @@
-Oceanicola batsensis Cho & Giovannoni, 2004 SPECIES
-=======
+# Oceanicola batsensis Cho & Giovannoni, 2004 SPECIES
 
 #### Status
 ACCEPTED

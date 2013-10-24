@@ -1,5 +1,4 @@
-Pterospora GENUS
-=======
+# Pterospora GENUS
 
 #### Status
 ACCEPTED

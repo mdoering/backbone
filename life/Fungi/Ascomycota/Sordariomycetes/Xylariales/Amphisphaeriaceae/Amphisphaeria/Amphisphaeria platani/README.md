@@ -1,5 +1,4 @@
-Amphisphaeria platani Ellis & Everh. SPECIES
-=======
+# Amphisphaeria platani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma albidocortinatum (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Hebeloma albidocortinatum (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

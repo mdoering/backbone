@@ -1,5 +1,4 @@
-Sakaguchia Y. Yamada, K. Maeda & Mikata GENUS
-=======
+# Sakaguchia Y. Yamada, K. Maeda & Mikata GENUS
 
 #### Status
 ACCEPTED

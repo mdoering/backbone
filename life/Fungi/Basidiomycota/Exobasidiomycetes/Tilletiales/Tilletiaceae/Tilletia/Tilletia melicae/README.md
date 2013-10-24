@@ -1,5 +1,4 @@
-Tilletia melicae Vánky SPECIES
-=======
+# Tilletia melicae Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma flexuosipes Peck SPECIES
-=======
+# Hebeloma flexuosipes Peck SPECIES
 
 #### Status
 ACCEPTED

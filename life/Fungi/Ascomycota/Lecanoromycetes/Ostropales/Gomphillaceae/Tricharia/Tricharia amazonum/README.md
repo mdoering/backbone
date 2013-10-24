@@ -1,5 +1,4 @@
-Tricharia amazonum Vain. SPECIES
-=======
+# Tricharia amazonum Vain. SPECIES
 
 #### Status
 ACCEPTED

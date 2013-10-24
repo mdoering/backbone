@@ -1,5 +1,4 @@
-Antennellopsis vulgaris (W. Yamam.) Bat. & Cif. SPECIES
-=======
+# Antennellopsis vulgaris (W. Yamam.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

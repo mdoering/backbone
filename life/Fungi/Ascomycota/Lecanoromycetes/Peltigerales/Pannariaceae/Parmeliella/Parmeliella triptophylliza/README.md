@@ -1,5 +1,4 @@
-Parmeliella triptophylliza (Nyl.) Dalla Torre & Sarnth. SPECIES
-=======
+# Parmeliella triptophylliza (Nyl.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

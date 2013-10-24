@@ -1,5 +1,4 @@
-Graphidium corrensi J. Lindau SPECIES
-=======
+# Graphidium corrensi J. Lindau SPECIES
 
 #### Status
 ACCEPTED

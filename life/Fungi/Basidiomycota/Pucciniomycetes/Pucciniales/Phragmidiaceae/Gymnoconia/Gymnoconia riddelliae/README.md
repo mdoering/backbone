@@ -1,5 +1,4 @@
-Gymnoconia riddelliae Griffiths SPECIES
-=======
+# Gymnoconia riddelliae Griffiths SPECIES
 
 #### Status
 ACCEPTED

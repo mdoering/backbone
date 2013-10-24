@@ -1,5 +1,4 @@
-Nectria bonii Pat. SPECIES
-=======
+# Nectria bonii Pat. SPECIES
 
 #### Status
 ACCEPTED

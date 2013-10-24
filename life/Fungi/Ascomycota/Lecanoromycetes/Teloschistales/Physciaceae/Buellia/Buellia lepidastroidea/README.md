@@ -1,5 +1,4 @@
-Buellia lepidastroidea Imshaugh ex Bungartz SPECIES
-=======
+# Buellia lepidastroidea Imshaugh ex Bungartz SPECIES
 
 #### Status
 ACCEPTED

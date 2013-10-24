@@ -1,5 +1,4 @@
-Entoloma caespitosum W.M. Zhang SPECIES
-=======
+# Entoloma caespitosum W.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

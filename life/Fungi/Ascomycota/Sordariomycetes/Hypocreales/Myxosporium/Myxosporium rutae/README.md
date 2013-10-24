@@ -1,5 +1,4 @@
-Myxosporium rutae Henn. SPECIES
-=======
+# Myxosporium rutae Henn. SPECIES
 
 #### Status
 ACCEPTED

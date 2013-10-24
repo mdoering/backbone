@@ -1,5 +1,4 @@
-Odontia rosae Bres. SPECIES
-=======
+# Odontia rosae Bres. SPECIES
 
 #### Status
 ACCEPTED

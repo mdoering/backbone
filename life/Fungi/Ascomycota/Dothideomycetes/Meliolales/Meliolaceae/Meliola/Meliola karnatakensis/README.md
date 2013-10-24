@@ -1,5 +1,4 @@
-Meliola karnatakensis Hosag., C.M. Pillai & Raghu SPECIES
-=======
+# Meliola karnatakensis Hosag., C.M. Pillai & Raghu SPECIES
 
 #### Status
 ACCEPTED

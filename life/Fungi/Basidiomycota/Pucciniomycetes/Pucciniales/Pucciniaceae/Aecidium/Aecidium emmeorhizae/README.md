@@ -1,5 +1,4 @@
-Aecidium emmeorhizae Pardo-Card. SPECIES
-=======
+# Aecidium emmeorhizae Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

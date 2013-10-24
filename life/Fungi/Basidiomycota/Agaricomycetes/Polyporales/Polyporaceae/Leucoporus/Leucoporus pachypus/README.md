@@ -1,5 +1,4 @@
-Leucoporus pachypus (Mont.) Pat. SPECIES
-=======
+# Leucoporus pachypus (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

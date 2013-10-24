@@ -1,5 +1,4 @@
-Scolecobasidium acanthacearum (Cooke) M.B. Ellis SPECIES
-=======
+# Scolecobasidium acanthacearum (Cooke) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

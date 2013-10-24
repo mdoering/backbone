@@ -1,5 +1,4 @@
-Hymenagaricus ardosiaecolor (Heinem.) Heinem. SPECIES
-=======
+# Hymenagaricus ardosiaecolor (Heinem.) Heinem. SPECIES
 
 #### Status
 ACCEPTED

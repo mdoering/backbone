@@ -1,5 +1,4 @@
-Podophrya leichtensteinii SPECIES
-=======
+# Podophrya leichtensteinii SPECIES
 
 #### Status
 ACCEPTED

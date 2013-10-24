@@ -1,5 +1,4 @@
-Placodium isidiosum Nyl. SPECIES
-=======
+# Placodium isidiosum Nyl. SPECIES
 
 #### Status
 ACCEPTED

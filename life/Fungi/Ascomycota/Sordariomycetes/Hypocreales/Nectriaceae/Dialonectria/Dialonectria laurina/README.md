@@ -1,5 +1,4 @@
-Dialonectria laurina (Sacc.) Cooke SPECIES
-=======
+# Dialonectria laurina (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

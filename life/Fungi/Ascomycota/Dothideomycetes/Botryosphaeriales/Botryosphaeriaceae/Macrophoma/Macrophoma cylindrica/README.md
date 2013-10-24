@@ -1,5 +1,4 @@
-Macrophoma cylindrica Pass. SPECIES
-=======
+# Macrophoma cylindrica Pass. SPECIES
 
 #### Status
 ACCEPTED

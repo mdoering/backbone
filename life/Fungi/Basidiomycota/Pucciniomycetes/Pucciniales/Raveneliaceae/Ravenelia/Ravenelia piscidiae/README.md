@@ -1,5 +1,4 @@
-Ravenelia piscidiae subsp. piscidiae SUBSPECIES
-=======
+# Ravenelia piscidiae Long SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Mycol. 12: 234 (1906)
 
 #### Original name
-Ravenelia piscidiae subsp. piscidiae
+Ravenelia piscidiae Long
 
 ### Remarks
 null

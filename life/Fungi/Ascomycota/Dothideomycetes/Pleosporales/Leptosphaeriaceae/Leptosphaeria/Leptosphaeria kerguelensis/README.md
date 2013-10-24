@@ -1,5 +1,4 @@
-Leptosphaeria kerguelensis Henn. SPECIES
-=======
+# Leptosphaeria kerguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

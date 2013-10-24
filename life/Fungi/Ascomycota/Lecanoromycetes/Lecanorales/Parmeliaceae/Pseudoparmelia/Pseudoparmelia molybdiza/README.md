@@ -1,5 +1,4 @@
-Pseudoparmelia molybdiza (Nyl.) Hale SPECIES
-=======
+# Pseudoparmelia molybdiza (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

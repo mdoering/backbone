@@ -1,5 +1,4 @@
-Microcoleus subtorulosus Gomont SPECIES
-=======
+# Microcoleus subtorulosus Gomont SPECIES
 
 #### Status
 ACCEPTED

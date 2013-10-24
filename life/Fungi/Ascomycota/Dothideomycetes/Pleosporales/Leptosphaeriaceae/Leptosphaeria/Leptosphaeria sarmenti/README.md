@@ -1,5 +1,4 @@
-Leptosphaeria sarmenti Sacc. SPECIES
-=======
+# Leptosphaeria sarmenti Sacc. SPECIES
 
 #### Status
 ACCEPTED

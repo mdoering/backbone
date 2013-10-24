@@ -1,5 +1,4 @@
-Irpex furfuraceovelutinus Rick SPECIES
-=======
+# Irpex furfuraceovelutinus Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dasyscypha betulihospes Velen. SPECIES
-=======
+# Dasyscyphus betulihospes Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 241 (1934)
 
 #### Original name
-Dasyscypha betulihospes Velen.
+Dasyscyphus betulihospes Velen.
 
 ### Remarks
 null

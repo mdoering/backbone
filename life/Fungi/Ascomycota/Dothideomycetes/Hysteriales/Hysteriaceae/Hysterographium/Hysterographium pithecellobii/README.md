@@ -1,17 +1,16 @@
-Hysterographium pithecolobii Seaver SPECIES
-=======
+# Hysterographium pithecellobii Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 17(2): 49 (1925)
 
 #### Original name
-Hysterographium pithecolobii Seaver
+Hysterographium pithecellobii Seaver
 
 ### Remarks
 null

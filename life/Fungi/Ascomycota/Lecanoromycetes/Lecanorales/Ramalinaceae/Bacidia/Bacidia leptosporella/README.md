@@ -1,5 +1,4 @@
-Bacidia leptosporella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia leptosporella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

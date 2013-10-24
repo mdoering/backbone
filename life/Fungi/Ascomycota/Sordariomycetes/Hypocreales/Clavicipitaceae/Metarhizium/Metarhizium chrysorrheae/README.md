@@ -1,5 +1,4 @@
-Metarhizium chrysorrheae Giard SPECIES
-=======
+# Metarhizium chrysorrheae Giard SPECIES
 
 #### Status
 ACCEPTED

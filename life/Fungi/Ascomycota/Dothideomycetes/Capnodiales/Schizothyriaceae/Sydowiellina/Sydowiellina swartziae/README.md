@@ -1,5 +1,4 @@
-Sydowiellina swartziae Bat. & I.H. Lima SPECIES
-=======
+# Sydowiellina swartziae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

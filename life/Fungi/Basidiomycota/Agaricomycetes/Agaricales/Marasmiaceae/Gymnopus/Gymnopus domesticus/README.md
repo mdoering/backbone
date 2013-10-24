@@ -1,5 +1,4 @@
-Gymnopus domesticus Murrill SPECIES
-=======
+# Gymnopus domesticus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota maackiae Singer SPECIES
-=======
+# Pholiota maackiae Singer SPECIES
 
 #### Status
 ACCEPTED

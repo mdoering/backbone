@@ -1,5 +1,4 @@
-Dictyocha californica Schrader & Murray, 1985 SPECIES
-=======
+# Dictyocha californica Schrader & Murray, 1985 SPECIES
 
 #### Status
 ACCEPTED

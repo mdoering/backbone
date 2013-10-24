@@ -1,5 +1,4 @@
-Rhizomorpha capillaris Roth SPECIES
-=======
+# Rhizomorpha capillaris Roth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stauroforma inermis Flower SPECIES
-=======
+# Stauroforma inermis Flower SPECIES
 
 #### Status
 ACCEPTED

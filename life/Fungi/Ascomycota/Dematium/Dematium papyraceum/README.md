@@ -1,5 +1,4 @@
-Dematium papyraceum (Pers.) Link SPECIES
-=======
+# Dematium papyraceum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

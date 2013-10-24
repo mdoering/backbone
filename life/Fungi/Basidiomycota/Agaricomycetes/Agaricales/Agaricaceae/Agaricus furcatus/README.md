@@ -1,5 +1,4 @@
-Agaricus furcatus var. furcatus VARIETY
-=======
+# Agaricus furcatus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 2: 446 (1801)
 
 #### Original name
-Russula furcata
+Agaricus furcatus Pers.
 
 ### Remarks
 null

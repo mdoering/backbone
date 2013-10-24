@@ -1,17 +1,16 @@
-Russula poissoni Bouriquet SPECIES
-=======
+# Russula poissonii Bouriquet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Acad. malgache 24: 64 (1942)
 
 #### Original name
-Russula poissoni Bouriquet
+Russula poissonii Bouriquet
 
 ### Remarks
 null

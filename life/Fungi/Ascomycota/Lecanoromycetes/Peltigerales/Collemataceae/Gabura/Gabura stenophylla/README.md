@@ -1,5 +1,4 @@
-Gabura stenophylla (Nyl.) Kuntze SPECIES
-=======
+# Gabura stenophylla (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

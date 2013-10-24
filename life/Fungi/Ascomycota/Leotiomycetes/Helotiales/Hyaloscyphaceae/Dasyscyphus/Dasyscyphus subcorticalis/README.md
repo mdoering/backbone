@@ -1,17 +1,16 @@
-Dasyscyphus subcorticalis subsp. subcorticalis SUBSPECIES
-=======
+# Dasyscyphus subcorticalis (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 299 (1954)
 
 #### Original name
-null
+Erinella subcorticalis Pat.
 
 ### Remarks
 null

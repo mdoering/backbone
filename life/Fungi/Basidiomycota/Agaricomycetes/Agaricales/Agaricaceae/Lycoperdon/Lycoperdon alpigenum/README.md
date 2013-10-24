@@ -1,5 +1,4 @@
-Lycoperdon alpigenum Ellis & Everh. SPECIES
-=======
+# Lycoperdon alpigenum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoconidiophora variospora R.W. Davidson SPECIES
-=======
+# Endoconidiophora variospora R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

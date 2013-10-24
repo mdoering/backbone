@@ -1,5 +1,4 @@
-Marasmius hawaiensis Henn. SPECIES
-=======
+# Marasmius hawaiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

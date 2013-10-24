@@ -1,5 +1,4 @@
-Priscogalea simplex (Deunff, 1961) emend. Rasul, 1974 SPECIES
-=======
+# Priscogalea simplex (Deunff, 1961) emend. Rasul, 1974 SPECIES
 
 #### Status
 ACCEPTED

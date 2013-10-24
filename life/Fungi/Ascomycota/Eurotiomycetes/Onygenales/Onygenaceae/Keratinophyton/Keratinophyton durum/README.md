@@ -1,5 +1,4 @@
-Keratinophyton durum (Zukal) Currah SPECIES
-=======
+# Keratinophyton durum (Zukal) Currah SPECIES
 
 #### Status
 ACCEPTED

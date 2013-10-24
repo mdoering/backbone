@@ -1,5 +1,4 @@
-Buglossoporus matangensis Corner, 1984 SPECIES
-=======
+# Buglossoporus matangensis Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

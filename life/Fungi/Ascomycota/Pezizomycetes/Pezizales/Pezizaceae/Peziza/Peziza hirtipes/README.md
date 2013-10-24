@@ -1,5 +1,4 @@
-Peziza hirtipes Cooke SPECIES
-=======
+# Peziza hirtipes Cooke SPECIES
 
 #### Status
 ACCEPTED

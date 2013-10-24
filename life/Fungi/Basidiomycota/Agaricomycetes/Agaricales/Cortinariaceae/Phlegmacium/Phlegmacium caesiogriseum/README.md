@@ -1,5 +1,4 @@
-Phlegmacium caesiogriseum (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Phlegmacium caesiogriseum (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

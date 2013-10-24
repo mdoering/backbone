@@ -1,5 +1,4 @@
-Inocybe hettematica (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Inocybe hettematica (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

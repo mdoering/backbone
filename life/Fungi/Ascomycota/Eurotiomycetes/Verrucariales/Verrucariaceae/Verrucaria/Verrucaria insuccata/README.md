@@ -1,5 +1,4 @@
-Verrucaria insuccata Erichsen SPECIES
-=======
+# Verrucaria insuccata Erichsen SPECIES
 
 #### Status
 ACCEPTED

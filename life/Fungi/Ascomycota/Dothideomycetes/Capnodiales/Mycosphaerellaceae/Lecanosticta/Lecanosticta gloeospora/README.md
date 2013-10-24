@@ -1,5 +1,4 @@
-Lecanosticta gloeospora H.C. Evans, 1984 SPECIES
-=======
+# Lecanosticta gloeospora H.C. Evans, 1984 SPECIES
 
 #### Status
 ACCEPTED

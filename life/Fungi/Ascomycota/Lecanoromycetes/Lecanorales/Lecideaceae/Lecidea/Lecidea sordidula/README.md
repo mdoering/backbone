@@ -1,5 +1,4 @@
-Lecidea sordidula Nyl. SPECIES
-=======
+# Lecidea sordidula Nyl. SPECIES
 
 #### Status
 ACCEPTED

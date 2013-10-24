@@ -1,5 +1,4 @@
-Mucophilus Plehn GENUS
-=======
+# Mucophilus Plehn GENUS
 
 #### Status
 ACCEPTED

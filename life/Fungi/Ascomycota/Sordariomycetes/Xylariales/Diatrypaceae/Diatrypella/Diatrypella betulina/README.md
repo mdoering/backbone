@@ -1,5 +1,4 @@
-Diatrypella betulina (Peck) Sacc., 1882 SPECIES
-=======
+# Diatrypella betulina (Peck) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

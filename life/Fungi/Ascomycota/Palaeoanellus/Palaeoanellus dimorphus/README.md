@@ -1,5 +1,4 @@
-Palaeoanellus dimorphus A.R. Schmidt, Dörfelt & Perrichot SPECIES
-=======
+# Palaeoanellus dimorphus A.R. Schmidt, Dörfelt & Perrichot SPECIES
 
 #### Status
 ACCEPTED

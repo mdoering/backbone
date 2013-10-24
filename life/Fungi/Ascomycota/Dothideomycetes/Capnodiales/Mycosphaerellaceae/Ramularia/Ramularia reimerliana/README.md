@@ -1,5 +1,4 @@
-Ramularia reimerliana Magnus SPECIES
-=======
+# Ramularia reimerliana Magnus SPECIES
 
 #### Status
 ACCEPTED

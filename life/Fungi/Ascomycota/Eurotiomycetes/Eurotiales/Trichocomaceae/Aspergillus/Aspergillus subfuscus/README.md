@@ -1,5 +1,4 @@
-Aspergillus subfuscus Johan-Olsen SPECIES
-=======
+# Aspergillus subfuscus Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

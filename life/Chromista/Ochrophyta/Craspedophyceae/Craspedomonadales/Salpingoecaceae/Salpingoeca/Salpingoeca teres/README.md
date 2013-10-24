@@ -1,5 +1,4 @@
-Salpingoeca teres Kent, 1880 SPECIES
-=======
+# Salpingoeca teres Kent, 1880 SPECIES
 
 #### Status
 ACCEPTED

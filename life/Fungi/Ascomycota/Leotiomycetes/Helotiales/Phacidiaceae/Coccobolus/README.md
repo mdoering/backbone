@@ -1,5 +1,4 @@
-Coccobolus GENUS
-=======
+# Coccobolus GENUS
 
 #### Status
 ACCEPTED

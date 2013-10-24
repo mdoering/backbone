@@ -1,5 +1,4 @@
-Leptosphaeria phlogis Oudem., 1900 SPECIES
-=======
+# Leptosphaeria phlogis Oudem., 1900 SPECIES
 
 #### Status
 ACCEPTED

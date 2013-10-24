@@ -1,5 +1,4 @@
-Hymenoscyphus subserotinus (Henn. & E. Nyman) Dennis SPECIES
-=======
+# Hymenoscyphus subserotinus (Henn. & E. Nyman) Dennis SPECIES
 
 #### Status
 ACCEPTED

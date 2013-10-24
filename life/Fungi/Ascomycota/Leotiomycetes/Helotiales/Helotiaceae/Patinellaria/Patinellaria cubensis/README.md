@@ -1,5 +1,4 @@
-Patinellaria cubensis (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Patinellaria cubensis (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella rhizophila (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Navicella rhizophila (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

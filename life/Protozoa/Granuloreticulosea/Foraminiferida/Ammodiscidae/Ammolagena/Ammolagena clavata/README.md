@@ -1,5 +1,4 @@
-Ammolagena clavata SPECIES
-=======
+# Ammolagena clavata SPECIES
 
 #### Status
 ACCEPTED

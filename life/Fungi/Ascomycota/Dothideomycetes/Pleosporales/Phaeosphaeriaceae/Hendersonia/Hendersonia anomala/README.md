@@ -1,5 +1,4 @@
-Hendersonia anomala Cooke & Ellis SPECIES
-=======
+# Hendersonia anomala Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

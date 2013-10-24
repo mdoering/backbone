@@ -1,5 +1,4 @@
-Lachnum luteoalbum (Schwein.) Morgan SPECIES
-=======
+# Lachnum luteoalbum (Schwein.) Morgan SPECIES
 
 #### Status
 ACCEPTED

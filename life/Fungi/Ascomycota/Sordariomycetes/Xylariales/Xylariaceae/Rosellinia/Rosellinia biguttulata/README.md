@@ -1,5 +1,4 @@
-Rosellinia biguttulata Starbäck SPECIES
-=======
+# Rosellinia biguttulata Starbäck SPECIES
 
 #### Status
 ACCEPTED

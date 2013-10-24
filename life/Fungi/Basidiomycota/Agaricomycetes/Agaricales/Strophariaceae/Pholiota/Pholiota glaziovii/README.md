@@ -1,5 +1,4 @@
-Pholiota glaziovii Berk. SPECIES
-=======
+# Pholiota glaziovii Berk. SPECIES
 
 #### Status
 ACCEPTED

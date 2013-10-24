@@ -1,5 +1,4 @@
-Volvaria pruinosa P.W. Graff SPECIES
-=======
+# Volvaria pruinosa P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

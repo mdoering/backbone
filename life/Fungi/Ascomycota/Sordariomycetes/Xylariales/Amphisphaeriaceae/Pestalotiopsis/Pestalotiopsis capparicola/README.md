@@ -1,17 +1,16 @@
-Pestalotiopsis capparidicola Bat. & H. Maia SPECIES
-=======
+# Pestalotiopsis capparicola Bat. & H. Maia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista, Vital & Maia, Revta Biol. , Lisb. 1(2): 120 (1957)
 
 #### Original name
-Pestalotiopsis capparidicola Bat. & H. Maia
+Pestalotiopsis capparicola Bat. & H. Maia
 
 ### Remarks
 null

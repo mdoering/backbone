@@ -1,5 +1,4 @@
-Russula wahgiensis Singer SPECIES
-=======
+# Russula wahgiensis Singer SPECIES
 
 #### Status
 ACCEPTED

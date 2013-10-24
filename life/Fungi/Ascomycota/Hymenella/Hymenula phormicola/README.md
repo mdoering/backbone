@@ -1,5 +1,4 @@
-Hymenula phormicola Cooke & Harkn. SPECIES
-=======
+# Hymenula phormicola Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

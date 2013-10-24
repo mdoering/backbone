@@ -1,5 +1,4 @@
-Parmelia pisacomensis (Meyen & Flot.) Nyl. SPECIES
-=======
+# Parmelia pisacomensis (Meyen & Flot.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discolithus fenestratus G. Deflandre & C. Fert SPECIES
-=======
+# Discolithus fenestratus G. Deflandre & C. Fert SPECIES
 
 #### Status
 ACCEPTED

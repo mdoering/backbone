@@ -1,5 +1,4 @@
-Ionaspis ochromicra (Nyl.) Hue SPECIES
-=======
+# Ionaspis ochromicra (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

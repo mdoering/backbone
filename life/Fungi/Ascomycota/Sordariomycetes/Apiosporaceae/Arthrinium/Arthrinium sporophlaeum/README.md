@@ -1,5 +1,4 @@
-Arthrinium sporophlaeum Kunze SPECIES
-=======
+# Arthrinium sporophlaeum Kunze SPECIES
 
 #### Status
 ACCEPTED

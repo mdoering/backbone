@@ -1,5 +1,4 @@
-Cyclotella trichonidea var. parva Economou-Amilli VARIETY
-=======
+# Cyclotella trichonidea Economou-Amilli SPECIES
 
 #### Status
 ACCEPTED

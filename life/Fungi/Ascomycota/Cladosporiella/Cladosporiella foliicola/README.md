@@ -1,5 +1,4 @@
-Cladosporiella foliicola R.F. Castañeda SPECIES
-=======
+# Cladosporiella foliicola R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurochaeta membranacea Cooke SPECIES
-=======
+# Staurochaeta membranacea Cooke SPECIES
 
 #### Status
 ACCEPTED

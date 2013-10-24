@@ -1,5 +1,4 @@
-Lepraria bassiae Ach. SPECIES
-=======
+# Lepraria bassiae Ach. SPECIES
 
 #### Status
 ACCEPTED

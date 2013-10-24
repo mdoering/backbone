@@ -1,5 +1,4 @@
-Halococcus dombrowskii Stan-Lotter et al., 2002 SPECIES
-=======
+# Halococcus dombrowskii Stan-Lotter et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

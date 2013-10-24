@@ -1,5 +1,4 @@
-Syntrophus buswellii Mountfort et al., 1984 SPECIES
-=======
+# Syntrophus buswellii Mountfort et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

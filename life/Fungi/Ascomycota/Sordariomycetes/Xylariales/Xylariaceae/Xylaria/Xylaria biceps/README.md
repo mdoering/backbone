@@ -1,5 +1,4 @@
-Xylaria biceps f. biceps FORM
-=======
+# Xylaria biceps Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria biceps f. biceps
+Xylaria biceps Speg.
 
 ### Remarks
 null

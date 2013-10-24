@@ -1,5 +1,4 @@
-Diplodia mahoniae Sacc. SPECIES
-=======
+# Diplodia mahoniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

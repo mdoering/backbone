@@ -1,5 +1,4 @@
-Helicoma binale Berk. & M.A. Curtis SPECIES
-=======
+# Helicoma binale Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

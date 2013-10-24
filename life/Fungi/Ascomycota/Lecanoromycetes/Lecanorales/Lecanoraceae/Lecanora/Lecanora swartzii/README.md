@@ -1,5 +1,4 @@
-Lecanora swartzii subsp. swartzii (Ach.) Ach. SUBSPECIES
-=======
+# Lecanora swartzii (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Lich. univ. (1810)
 
 #### Original name
-Lecanora swartzii subsp. swartzii (Ach.) Ach.
+Lichen swartzii Ach.
 
 ### Remarks
 null

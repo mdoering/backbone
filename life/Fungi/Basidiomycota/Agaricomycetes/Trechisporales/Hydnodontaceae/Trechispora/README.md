@@ -1,17 +1,16 @@
-Tomentella P. Karst. GENUS
-=======
+# Trechispora P. Karsten, 1890 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 48: 419 (1889)
+null
 
 #### Original name
-Tomentella P. Karst.
+null
 
 ### Remarks
 null

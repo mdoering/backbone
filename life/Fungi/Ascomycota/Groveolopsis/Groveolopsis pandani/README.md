@@ -1,14 +1,13 @@
-Rhabdospora pandani (Höhn.) Petr. SPECIES
-=======
+# Groveolopsis pandani (Höhn.) Boedijn, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 5: 351 (1951)
+Sydowia 5: 225 (1951)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Sphaeria schumacheri E.C. Hansen SPECIES
-=======
+# Sphaeria schumacheri E.C. Hansen SPECIES
 
 #### Status
 ACCEPTED

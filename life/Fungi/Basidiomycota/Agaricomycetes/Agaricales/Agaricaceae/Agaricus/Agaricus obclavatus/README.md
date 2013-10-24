@@ -1,5 +1,4 @@
-Agaricus obclavatus Cooke & Massee SPECIES
-=======
+# Agaricus obclavatus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

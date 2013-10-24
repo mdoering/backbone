@@ -1,5 +1,4 @@
-Massaria phillyreae Petr. SPECIES
-=======
+# Massaria phillyreae Petr. SPECIES
 
 #### Status
 ACCEPTED

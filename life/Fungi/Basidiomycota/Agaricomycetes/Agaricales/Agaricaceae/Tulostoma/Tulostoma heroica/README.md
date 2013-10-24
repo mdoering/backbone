@@ -1,5 +1,4 @@
-Tulostoma heroica Bat. & A.F. Vital SPECIES
-=======
+# Tulostoma heroica Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

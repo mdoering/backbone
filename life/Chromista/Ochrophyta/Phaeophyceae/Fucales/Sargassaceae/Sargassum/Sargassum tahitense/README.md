@@ -1,5 +1,4 @@
-Sargassum tahitense Grunow SPECIES
-=======
+# Sargassum tahitense Grunow SPECIES
 
 #### Status
 ACCEPTED

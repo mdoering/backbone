@@ -1,5 +1,4 @@
-Pestalotia pergrina Ellis & G. Martin SPECIES
-=======
+# Pestalotia pergrina Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

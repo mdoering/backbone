@@ -1,5 +1,4 @@
-Scopaphoma Dearn. & House GENUS
-=======
+# Scopaphoma Dearn. & House GENUS
 
 #### Status
 ACCEPTED

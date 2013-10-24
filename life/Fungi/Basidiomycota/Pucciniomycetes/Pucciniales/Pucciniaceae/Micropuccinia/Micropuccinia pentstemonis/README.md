@@ -1,5 +1,4 @@
-Micropuccinia pentstemonis (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia pentstemonis (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

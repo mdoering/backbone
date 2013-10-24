@@ -1,17 +1,16 @@
-Auricularia tremelloides var. tremelloides VARIETY
-=======
+# Auricularia mesenterica (Dicks.) Pers., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 97 (1822)
 
 #### Original name
-null
+Helvella mesenterica Dicks., 1785
 
 ### Remarks
 null

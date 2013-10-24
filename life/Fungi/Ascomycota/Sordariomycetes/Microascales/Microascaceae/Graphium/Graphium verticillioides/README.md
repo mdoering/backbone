@@ -1,5 +1,4 @@
-Graphium verticillioides Speg. SPECIES
-=======
+# Graphium verticillioides Speg. SPECIES
 
 #### Status
 ACCEPTED

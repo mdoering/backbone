@@ -1,5 +1,4 @@
-Boletus sinuosus Sowerby SPECIES
-=======
+# Boletus sinuosus Sowerby SPECIES
 
 #### Status
 ACCEPTED

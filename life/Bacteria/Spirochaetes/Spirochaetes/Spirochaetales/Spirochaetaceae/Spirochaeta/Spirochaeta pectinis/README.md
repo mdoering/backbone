@@ -1,5 +1,4 @@
-Spirochaeta pectinis SPECIES
-=======
+# Spirochaeta pectinis SPECIES
 
 #### Status
 ACCEPTED

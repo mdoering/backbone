@@ -1,5 +1,4 @@
-Pronectria walkerorum Zhurb. SPECIES
-=======
+# Pronectria walkerorum Zhurb. SPECIES
 
 #### Status
 ACCEPTED

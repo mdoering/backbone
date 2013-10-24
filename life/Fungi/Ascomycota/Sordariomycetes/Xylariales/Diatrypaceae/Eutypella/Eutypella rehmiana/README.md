@@ -1,5 +1,4 @@
-Eutypella rehmiana (Henn.) Höhn. SPECIES
-=======
+# Eutypella rehmiana (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

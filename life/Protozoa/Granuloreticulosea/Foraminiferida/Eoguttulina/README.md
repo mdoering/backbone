@@ -1,5 +1,4 @@
-Eoguttulina Cushman & Ozawa, 1930 GENUS
-=======
+# Eoguttulina Cushman & Ozawa, 1930 GENUS
 
 #### Status
 ACCEPTED

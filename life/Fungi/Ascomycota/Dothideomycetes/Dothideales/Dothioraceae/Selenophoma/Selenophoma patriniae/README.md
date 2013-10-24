@@ -1,5 +1,4 @@
-Selenophoma patriniae Kalymb. SPECIES
-=======
+# Selenophoma patriniae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

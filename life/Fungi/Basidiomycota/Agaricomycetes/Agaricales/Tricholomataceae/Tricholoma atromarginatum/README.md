@@ -1,5 +1,4 @@
-Tricholoma atromarginatum anon. SPECIES
-=======
+# Tricholoma atromarginatum anon. SPECIES
 
 #### Status
 ACCEPTED

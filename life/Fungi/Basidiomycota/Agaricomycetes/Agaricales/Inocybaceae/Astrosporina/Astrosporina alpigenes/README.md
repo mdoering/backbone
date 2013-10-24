@@ -1,5 +1,4 @@
-Astrosporina alpigenes E. Horak SPECIES
-=======
+# Astrosporina alpigenes E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaeria marylandica Petr. SPECIES
-=======
+# Xylosphaeria marylandica Petr. SPECIES
 
 #### Status
 ACCEPTED

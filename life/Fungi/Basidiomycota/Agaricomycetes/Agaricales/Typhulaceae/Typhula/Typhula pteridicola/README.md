@@ -1,5 +1,4 @@
-Typhula pteridicola Khurana, 1980 SPECIES
-=======
+# Typhula pteridicola Khurana, 1980 SPECIES
 
 #### Status
 ACCEPTED

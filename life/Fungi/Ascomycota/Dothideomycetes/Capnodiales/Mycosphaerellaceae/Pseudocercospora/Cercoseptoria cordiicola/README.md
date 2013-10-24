@@ -1,5 +1,4 @@
-Cercoseptoria cordiicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria cordiicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

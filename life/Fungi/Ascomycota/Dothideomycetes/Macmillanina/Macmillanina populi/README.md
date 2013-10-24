@@ -1,5 +1,4 @@
-Macmillanina populi (Bonord.) Kuntze SPECIES
-=======
+# Macmillanina populi (Bonord.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

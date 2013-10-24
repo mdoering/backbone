@@ -1,5 +1,4 @@
-Pestalotia maura Ellis & Everh. SPECIES
-=======
+# Pestalotia maura Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

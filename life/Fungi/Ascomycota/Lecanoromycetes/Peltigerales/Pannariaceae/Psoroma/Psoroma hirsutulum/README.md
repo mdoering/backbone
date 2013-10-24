@@ -1,5 +1,4 @@
-Psoroma hirsutulum Nyl. ex Cromb. SPECIES
-=======
+# Psoroma hirsutulum Nyl. ex Cromb. SPECIES
 
 #### Status
 ACCEPTED

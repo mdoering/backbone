@@ -1,5 +1,4 @@
-Pseudocercospora perillulae (Togashi & Katsuki) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora perillulae (Togashi & Katsuki) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma montropae SPECIES
-=======
+# Phoma montropae SPECIES
 
 #### Status
 ACCEPTED

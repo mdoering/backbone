@@ -1,5 +1,4 @@
-Coccochora Höhn. GENUS
-=======
+# Coccochora Höhn. GENUS
 
 #### Status
 ACCEPTED

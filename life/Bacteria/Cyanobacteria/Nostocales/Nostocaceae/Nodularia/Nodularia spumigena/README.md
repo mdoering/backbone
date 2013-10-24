@@ -1,5 +1,4 @@
-Nodularia spumigena var. crassa Voronikhin VARIETY
-=======
+# Nodularia spumigena Mertens SPECIES
 
 #### Status
 ACCEPTED

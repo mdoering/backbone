@@ -1,5 +1,4 @@
-Aspicilia rhagadiella SPECIES
-=======
+# Aspicilia rhagadiella SPECIES
 
 #### Status
 ACCEPTED

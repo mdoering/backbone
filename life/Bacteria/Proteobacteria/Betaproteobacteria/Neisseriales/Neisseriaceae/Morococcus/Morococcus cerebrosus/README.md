@@ -1,5 +1,4 @@
-Morococcus cerebrosus Long et al., 1981 SPECIES
-=======
+# Morococcus cerebrosus Long et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

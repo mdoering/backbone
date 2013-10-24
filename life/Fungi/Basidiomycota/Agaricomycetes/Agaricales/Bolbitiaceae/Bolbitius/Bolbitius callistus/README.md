@@ -1,5 +1,4 @@
-Bolbitius callistus (Peck) Watling SPECIES
-=======
+# Bolbitius callistus (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

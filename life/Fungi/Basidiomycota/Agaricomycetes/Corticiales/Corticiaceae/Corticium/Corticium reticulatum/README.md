@@ -1,5 +1,4 @@
-Corticium reticulatum (Berk.) Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Corticium reticulatum (Berk.) Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

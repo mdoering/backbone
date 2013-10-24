@@ -1,5 +1,4 @@
-Camarosporium tamaricis Hollós, 1906 SPECIES
-=======
+# Camarosporium tamaricis Hollós, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces melanocarpus Rogerson & Mazzer SPECIES
-=======
+# Hypomyces melanocarpus Rogerson & Mazzer SPECIES
 
 #### Status
 ACCEPTED

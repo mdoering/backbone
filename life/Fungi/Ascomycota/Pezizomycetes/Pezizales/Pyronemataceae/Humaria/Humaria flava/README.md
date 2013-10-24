@@ -1,5 +1,4 @@
-Humaria flava Fuckel SPECIES
-=======
+# Humaria flava Fuckel SPECIES
 
 #### Status
 ACCEPTED

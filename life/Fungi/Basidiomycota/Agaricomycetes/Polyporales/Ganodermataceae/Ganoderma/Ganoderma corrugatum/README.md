@@ -1,5 +1,4 @@
-Ganoderma corrugatum Steyaert, 1961 SPECIES
-=======
+# Ganoderma corrugatum Steyaert, 1961 SPECIES
 
 #### Status
 ACCEPTED

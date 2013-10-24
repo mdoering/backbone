@@ -1,5 +1,4 @@
-Thelidium manganophilum O. Behr SPECIES
-=======
+# Thelidium manganophilum O. Behr SPECIES
 
 #### Status
 ACCEPTED

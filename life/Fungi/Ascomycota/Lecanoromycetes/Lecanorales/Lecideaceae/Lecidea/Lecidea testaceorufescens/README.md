@@ -1,5 +1,4 @@
-Lecidea testaceorufescens Vain. SPECIES
-=======
+# Lecidea testaceorufescens Vain. SPECIES
 
 #### Status
 ACCEPTED

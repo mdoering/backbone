@@ -1,5 +1,4 @@
-Cortinarius caesiopallens P. Karst. SPECIES
-=======
+# Cortinarius caesiopallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

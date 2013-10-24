@@ -1,5 +1,4 @@
-Stagonospora betae Ishiy. SPECIES
-=======
+# Stagonospora betae Ishiy. SPECIES
 
 #### Status
 ACCEPTED

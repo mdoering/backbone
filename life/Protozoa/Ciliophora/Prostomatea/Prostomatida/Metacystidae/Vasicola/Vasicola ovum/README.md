@@ -1,5 +1,4 @@
-Vasicola ovum Kahl, 1926 SPECIES
-=======
+# Vasicola ovum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia heeringiana Kleb. SPECIES
-=======
+# Puccinia heeringiana Kleb. SPECIES
 
 #### Status
 ACCEPTED

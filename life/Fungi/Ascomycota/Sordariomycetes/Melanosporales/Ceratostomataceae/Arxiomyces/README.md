@@ -1,5 +1,4 @@
-Arxiomyces P.F. Cannon & D. Hawksw. GENUS
-=======
+# Arxiomyces P.F. Cannon & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

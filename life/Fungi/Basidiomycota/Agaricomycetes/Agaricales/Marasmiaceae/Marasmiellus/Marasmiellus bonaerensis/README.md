@@ -1,5 +1,4 @@
-Marasmiellus bonaerensis (Speg.) Singer SPECIES
-=======
+# Marasmiellus bonaerensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago setariae-aureae Henn. SPECIES
-=======
+# Ustilago setariae-aureae Henn. SPECIES
 
 #### Status
 ACCEPTED

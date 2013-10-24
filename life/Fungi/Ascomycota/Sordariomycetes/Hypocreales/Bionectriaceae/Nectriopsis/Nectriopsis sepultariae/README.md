@@ -1,5 +1,4 @@
-Nectriopsis sepultariae (Ade) Samuels SPECIES
-=======
+# Nectriopsis sepultariae (Ade) Samuels SPECIES
 
 #### Status
 ACCEPTED

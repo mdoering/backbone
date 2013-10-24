@@ -1,5 +1,4 @@
-Endopyrenium hepaticum (Ach.) Körb. SPECIES
-=======
+# Endopyrenium hepaticum (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

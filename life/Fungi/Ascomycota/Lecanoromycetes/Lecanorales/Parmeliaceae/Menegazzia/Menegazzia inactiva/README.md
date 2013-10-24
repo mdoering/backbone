@@ -1,5 +1,4 @@
-Menegazzia inactiva P. James & Kantvilas SPECIES
-=======
+# Menegazzia inactiva P. James & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

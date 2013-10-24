@@ -1,5 +1,4 @@
-Austrogautieria clelandii E.L. Stewart & Trappe, 1985 SPECIES
-=======
+# Austrogautieria clelandii E.L. Stewart & Trappe, 1985 SPECIES
 
 #### Status
 ACCEPTED

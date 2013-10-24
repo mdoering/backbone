@@ -1,5 +1,4 @@
-Phyllosticta erysiphoides Sacc. SPECIES
-=======
+# Phyllosticta erysiphoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

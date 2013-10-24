@@ -1,14 +1,13 @@
-Podospora piriformis (A. Bayer) Cain SPECIES
-=======
+# Podospora pyriformis (A. Bayer) Cain, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 40: 460 (1962)
 
 #### Original name
 Sordaria pyriformis A. Bayer, 1924

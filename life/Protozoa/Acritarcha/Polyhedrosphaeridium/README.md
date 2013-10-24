@@ -1,5 +1,4 @@
-Polyhedrosphaeridium Zang & Walter, 1992 GENUS
-=======
+# Polyhedrosphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

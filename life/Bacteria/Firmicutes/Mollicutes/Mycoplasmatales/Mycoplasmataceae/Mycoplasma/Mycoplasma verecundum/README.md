@@ -1,5 +1,4 @@
-Mycoplasma verecundum Gourlay et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma verecundum Gourlay et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

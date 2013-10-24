@@ -1,5 +1,4 @@
-Phaeographis asteriformis (Zahlbr.) M. Nakan. SPECIES
-=======
+# Phaeographis asteriformis (Zahlbr.) M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

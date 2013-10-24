@@ -1,5 +1,4 @@
-Stereum rigens (P. Karst.) Sacc. SPECIES
-=======
+# Stereum rigens (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

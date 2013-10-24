@@ -1,5 +1,4 @@
-Cyphella erosa Schulzer SPECIES
-=======
+# Cyphella erosa Schulzer SPECIES
 
 #### Status
 ACCEPTED

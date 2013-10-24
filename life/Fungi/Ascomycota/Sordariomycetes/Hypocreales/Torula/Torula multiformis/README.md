@@ -1,5 +1,4 @@
-Torula multiformis Preuss SPECIES
-=======
+# Torula multiformis Preuss SPECIES
 
 #### Status
 ACCEPTED

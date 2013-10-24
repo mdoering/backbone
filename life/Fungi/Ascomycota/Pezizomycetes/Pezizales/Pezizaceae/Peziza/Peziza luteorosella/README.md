@@ -1,5 +1,4 @@
-Peziza luteorosella (Le Gal) Pfister SPECIES
-=======
+# Peziza luteorosella (Le Gal) Pfister SPECIES
 
 #### Status
 ACCEPTED

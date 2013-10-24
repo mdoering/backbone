@@ -1,5 +1,4 @@
-Meliola dalbergiae Hansf. SPECIES
-=======
+# Meliola dalbergiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

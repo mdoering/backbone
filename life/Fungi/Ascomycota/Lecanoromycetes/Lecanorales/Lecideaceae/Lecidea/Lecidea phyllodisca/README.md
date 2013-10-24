@@ -1,5 +1,4 @@
-Lecidea phyllodisca Stirt. SPECIES
-=======
+# Lecidea phyllodisca Stirt. SPECIES
 
 #### Status
 ACCEPTED

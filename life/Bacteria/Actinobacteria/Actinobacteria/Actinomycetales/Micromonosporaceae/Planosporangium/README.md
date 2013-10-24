@@ -1,5 +1,4 @@
-Planosporangium Wiese et al., 2008 GENUS
-=======
+# Planosporangium Wiese et al., 2008 GENUS
 
 #### Status
 ACCEPTED

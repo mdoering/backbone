@@ -1,5 +1,4 @@
-Galera heterospora Velen. SPECIES
-=======
+# Galera heterospora Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe weema Grgur. SPECIES
-=======
+# Conocybe weema Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria bygdoensis (Henn.) Andrian. SPECIES
-=======
+# Septoria bygdoensis (Henn.) Andrian. SPECIES
 
 #### Status
 ACCEPTED

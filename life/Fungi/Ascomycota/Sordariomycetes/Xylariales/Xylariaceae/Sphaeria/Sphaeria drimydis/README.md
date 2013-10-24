@@ -1,5 +1,4 @@
-Sphaeria drimydis Curr. SPECIES
-=======
+# Sphaeria drimydis Curr. SPECIES
 
 #### Status
 ACCEPTED

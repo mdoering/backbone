@@ -1,5 +1,4 @@
-Broomella ichnaspidis var. ichnaspidis VARIETY
-=======
+# Broomella ichnaspidis Zimm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Broomella ichnaspidis var. ichnaspidis
+Broomella ichnaspidis Zimm.
 
 ### Remarks
 null

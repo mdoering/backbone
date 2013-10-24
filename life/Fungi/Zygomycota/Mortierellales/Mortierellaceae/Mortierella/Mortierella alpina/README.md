@@ -1,17 +1,16 @@
-Mortierella alpina var. alpina VARIETY
-=======
+# Mortierella alpina Peyronel, 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 I germi astmosferici dei fungi con micelio, (Diss. , Padova) 17 (1913)
 
 #### Original name
-Mortierella alpina var. alpina
+Mortierella alpina Peyronel, 1913
 
 ### Remarks
 null

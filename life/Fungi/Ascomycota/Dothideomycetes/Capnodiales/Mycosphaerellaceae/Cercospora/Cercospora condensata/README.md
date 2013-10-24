@@ -1,5 +1,4 @@
-Cercospora condensata var. condensata Ellis & Kellerm. VARIETY
-=======
+# Cercospora condensata Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Mycol. 1(1): 2 (1885)
 
 #### Original name
-Cercospora condensata var. condensata Ellis & Kellerm.
+Cercospora condensata Ellis & Kellerm.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Phlyctema wistariae Early SPECIES
-=======
+# Phlyctema wisteriae Early SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 61(2): 393 (1973)
 
 #### Original name
-Phlyctema wistariae Early
+Phlyctema wisteriae Early
 
 ### Remarks
 null

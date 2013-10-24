@@ -1,5 +1,4 @@
-Prillieuxina baccharidis anon. SPECIES
-=======
+# Prillieuxina baccharidis anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Protoperidinium rotundatum Abé, 1936 SPECIES
-=======
+# Protoperidinium hidemitii (Paulsen, 1949) Balech, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

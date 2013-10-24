@@ -1,5 +1,4 @@
-Asteroma dianthi Cooke & Harkn. SPECIES
-=======
+# Asteroma dianthi Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

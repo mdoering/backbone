@@ -1,5 +1,4 @@
-Geoglossum polymorphum (Sowerby) Gray SPECIES
-=======
+# Geoglossum polymorphum (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

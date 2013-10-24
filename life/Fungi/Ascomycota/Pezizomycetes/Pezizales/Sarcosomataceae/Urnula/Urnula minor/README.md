@@ -1,5 +1,4 @@
-Urnula minor Fr. SPECIES
-=======
+# Urnula minor Fr. SPECIES
 
 #### Status
 ACCEPTED

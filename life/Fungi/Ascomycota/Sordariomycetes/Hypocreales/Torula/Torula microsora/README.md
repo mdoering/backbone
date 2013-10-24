@@ -1,5 +1,4 @@
-Torula microsora Thüm. SPECIES
-=======
+# Torula microsora Thüm. SPECIES
 
 #### Status
 ACCEPTED

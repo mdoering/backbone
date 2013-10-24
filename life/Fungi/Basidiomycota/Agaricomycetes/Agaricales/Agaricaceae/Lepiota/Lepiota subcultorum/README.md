@@ -1,5 +1,4 @@
-Lepiota subcultorum Murrill SPECIES
-=======
+# Lepiota subcultorum Murrill SPECIES
 
 #### Status
 ACCEPTED

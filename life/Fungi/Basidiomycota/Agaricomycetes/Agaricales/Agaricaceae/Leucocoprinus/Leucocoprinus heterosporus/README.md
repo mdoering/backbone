@@ -1,5 +1,4 @@
-Leucocoprinus heterosporus (Locq.) Locq. SPECIES
-=======
+# Leucocoprinus heterosporus (Locq.) Locq. SPECIES
 
 #### Status
 ACCEPTED

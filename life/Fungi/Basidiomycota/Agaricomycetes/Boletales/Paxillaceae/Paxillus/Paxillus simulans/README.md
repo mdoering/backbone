@@ -1,5 +1,4 @@
-Paxillus simulans Peck SPECIES
-=======
+# Paxillus simulans Peck SPECIES
 
 #### Status
 ACCEPTED

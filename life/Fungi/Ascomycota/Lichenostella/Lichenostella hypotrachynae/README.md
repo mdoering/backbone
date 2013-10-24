@@ -1,5 +1,4 @@
-Lichenostella hypotrachynae Etayo & Calat., 1999 SPECIES
-=======
+# Lichenostella hypotrachynae Etayo & Calat., 1999 SPECIES
 
 #### Status
 ACCEPTED

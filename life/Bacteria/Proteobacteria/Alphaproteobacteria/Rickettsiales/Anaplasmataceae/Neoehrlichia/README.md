@@ -1,5 +1,4 @@
-Neoehrlichia GENUS
-=======
+# Neoehrlichia GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Venturiella Speg. GENUS
-=======
+# Neoventuria Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals Mus. Nac. Hist. Nat. , Buenos Aires 19(12): 379 (1909)
+Annls mycol. 17(1): 44 (1919)
 
 #### Original name
-Venturiella Speg.
+Neoventuria Syd. & P. Syd.
 
 ### Remarks
 null

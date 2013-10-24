@@ -1,5 +1,4 @@
-Mycosphaerella amomi P.K. Chi SPECIES
-=======
+# Mycosphaerella amomi P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

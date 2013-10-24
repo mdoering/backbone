@@ -1,5 +1,4 @@
-Epicoccum lineolatum Desm. SPECIES
-=======
+# Epicoccum lineolatum Desm. SPECIES
 
 #### Status
 ACCEPTED

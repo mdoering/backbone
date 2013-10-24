@@ -1,5 +1,4 @@
-Mycobilimbia atrosanguinea Rehm SPECIES
-=======
+# Mycobilimbia atrosanguinea Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erinella subtilissima Pat. SPECIES
-=======
+# Erinella subtilissima Pat. SPECIES
 
 #### Status
 ACCEPTED

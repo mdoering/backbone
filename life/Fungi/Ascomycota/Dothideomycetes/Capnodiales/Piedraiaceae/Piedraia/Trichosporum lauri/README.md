@@ -1,5 +1,4 @@
-Trichosporum lauri (Corda) Sacc. SPECIES
-=======
+# Trichosporum lauri (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleodesmium wrangelii (C. Agardh) Borzi SPECIES
-=======
+# Coleodesmium wrangelii (C. Agardh) Borzi SPECIES
 
 #### Status
 ACCEPTED

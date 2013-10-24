@@ -1,5 +1,4 @@
-Ustilago panici-frumentacei Bref. SPECIES
-=======
+# Ustilago panici-frumentacei Bref. SPECIES
 
 #### Status
 ACCEPTED

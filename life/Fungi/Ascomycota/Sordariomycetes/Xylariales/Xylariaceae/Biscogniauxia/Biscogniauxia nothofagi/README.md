@@ -1,5 +1,4 @@
-Biscogniauxia nothofagi Whalley, Laessøe & Kile, 1990 SPECIES
-=======
+# Biscogniauxia nothofagi Whalley, Laessøe & Kile, 1990 SPECIES
 
 #### Status
 ACCEPTED

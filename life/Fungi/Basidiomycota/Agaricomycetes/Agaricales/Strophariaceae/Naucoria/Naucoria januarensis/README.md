@@ -1,5 +1,4 @@
-Naucoria januarensis Mont. SPECIES
-=======
+# Naucoria januarensis Mont. SPECIES
 
 #### Status
 ACCEPTED

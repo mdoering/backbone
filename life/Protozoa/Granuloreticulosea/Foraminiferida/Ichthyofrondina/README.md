@@ -1,5 +1,4 @@
-Ichthyofrondina Vachard in Vachard & Ferriere, 1991 GENUS
-=======
+# Ichthyofrondina Vachard in Vachard & Ferriere, 1991 GENUS
 
 #### Status
 ACCEPTED

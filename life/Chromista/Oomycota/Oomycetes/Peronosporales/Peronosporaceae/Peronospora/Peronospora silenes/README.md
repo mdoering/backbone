@@ -1,5 +1,4 @@
-Peronospora silenes G.W. Wilson SPECIES
-=======
+# Peronospora silenes G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

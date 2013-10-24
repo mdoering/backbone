@@ -1,5 +1,4 @@
-Bornetina corium L. Mangin & Viala, 1903 SPECIES
-=======
+# Bornetina corium L. Mangin & Viala, 1903 SPECIES
 
 #### Status
 ACCEPTED

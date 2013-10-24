@@ -1,5 +1,4 @@
-Coriolus hirtellus (Fr.) Murrill SPECIES
-=======
+# Coriolus hirtellus (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

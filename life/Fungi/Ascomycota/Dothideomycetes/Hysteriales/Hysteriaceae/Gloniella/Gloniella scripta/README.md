@@ -1,5 +1,4 @@
-Gloniella scripta Henn. SPECIES
-=======
+# Gloniella scripta Henn. SPECIES
 
 #### Status
 ACCEPTED

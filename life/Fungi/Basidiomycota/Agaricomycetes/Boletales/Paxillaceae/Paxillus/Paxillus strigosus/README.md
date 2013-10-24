@@ -1,5 +1,4 @@
-Paxillus strigosus Peck SPECIES
-=======
+# Paxillus strigosus Peck SPECIES
 
 #### Status
 ACCEPTED

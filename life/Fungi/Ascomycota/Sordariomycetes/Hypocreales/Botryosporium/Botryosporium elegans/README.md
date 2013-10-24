@@ -1,5 +1,4 @@
-Botryosporium elegans (Corda) Corda SPECIES
-=======
+# Botryosporium elegans (Corda) Corda SPECIES
 
 #### Status
 ACCEPTED

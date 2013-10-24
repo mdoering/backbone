@@ -1,5 +1,4 @@
-Sphaeronaema fuckelianum Sacc. SPECIES
-=======
+# Sphaeronaema fuckelianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

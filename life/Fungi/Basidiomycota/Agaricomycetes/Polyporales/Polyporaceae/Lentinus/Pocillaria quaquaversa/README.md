@@ -1,5 +1,4 @@
-Pocillaria quaquaversa (Berk.) Kuntze SPECIES
-=======
+# Pocillaria quaquaversa (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

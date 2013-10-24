@@ -1,5 +1,4 @@
-Polyporus populneus Pollini SPECIES
-=======
+# Polyporus populneus Pollini SPECIES
 
 #### Status
 ACCEPTED

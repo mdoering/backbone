@@ -1,5 +1,4 @@
-Gloiocephala helisca (Berk. & Broome) Pegler SPECIES
-=======
+# Gloiocephala helisca (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia pellica Ces. SPECIES
-=======
+# Diplodia pellica Ces. SPECIES
 
 #### Status
 ACCEPTED

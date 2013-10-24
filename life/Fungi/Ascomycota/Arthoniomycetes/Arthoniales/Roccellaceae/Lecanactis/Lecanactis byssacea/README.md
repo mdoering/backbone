@@ -1,5 +1,4 @@
-Lecanactis byssacea (Weigel) Arnold SPECIES
-=======
+# Lecanactis byssacea (Weigel) Arnold SPECIES
 
 #### Status
 ACCEPTED

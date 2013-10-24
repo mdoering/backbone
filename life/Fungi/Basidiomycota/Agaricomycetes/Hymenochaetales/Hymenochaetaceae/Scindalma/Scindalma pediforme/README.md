@@ -1,5 +1,4 @@
-Scindalma pediforme (Fr.) Kuntze SPECIES
-=======
+# Scindalma pediforme (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

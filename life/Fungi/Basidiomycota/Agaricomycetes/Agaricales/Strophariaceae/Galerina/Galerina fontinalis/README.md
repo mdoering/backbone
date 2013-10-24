@@ -1,5 +1,4 @@
-Galerina fontinalis A.H. Sm. SPECIES
-=======
+# Galerina fontinalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

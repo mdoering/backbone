@@ -1,5 +1,4 @@
-Agrocybe platysperma (Peck) Singer SPECIES
-=======
+# Agrocybe platysperma (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

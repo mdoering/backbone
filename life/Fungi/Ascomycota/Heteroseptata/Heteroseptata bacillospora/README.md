@@ -1,5 +1,4 @@
-Heteroseptata bacillospora E.F. Morris, 1972 SPECIES
-=======
+# Heteroseptata bacillospora E.F. Morris, 1972 SPECIES
 
 #### Status
 ACCEPTED

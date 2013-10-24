@@ -1,5 +1,4 @@
-Arthrobacter histidinolovorans Adams, 1954 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter histidinolovorans Adams, 1954 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

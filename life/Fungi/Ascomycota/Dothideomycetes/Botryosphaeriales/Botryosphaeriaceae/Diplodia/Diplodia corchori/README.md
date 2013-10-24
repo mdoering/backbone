@@ -1,5 +1,4 @@
-Diplodia corchori Syd. & P. Syd. SPECIES
-=======
+# Diplodia corchori Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

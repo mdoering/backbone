@@ -1,5 +1,4 @@
-Gymnopilus submarasmioides Singer SPECIES
-=======
+# Gymnopilus submarasmioides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pertusaria depressa var. depressa VARIETY
-=======
+# Pertusaria depressa (Fée) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Miquel, Pl. Jungh. 4: 482 (1855)
 
 #### Original name
-Pertusaria depressa var. depressa
+Porina depressa Fée
 
 ### Remarks
 null

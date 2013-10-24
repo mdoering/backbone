@@ -1,5 +1,4 @@
-Sporotomaculum Brauman et al., 1998 GENUS
-=======
+# Sporotomaculum Brauman et al., 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium laceratulum Nyl. SPECIES
-=======
+# Leptogium laceratulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

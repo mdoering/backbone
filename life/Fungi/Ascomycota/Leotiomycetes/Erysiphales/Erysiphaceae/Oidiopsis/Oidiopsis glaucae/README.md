@@ -1,5 +1,4 @@
-Oidiopsis glaucae A. Pande & V.G. Rao SPECIES
-=======
+# Oidiopsis glaucae A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

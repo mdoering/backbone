@@ -1,5 +1,4 @@
-Tubercularia absoluta (Tuck.) Kuntze SPECIES
-=======
+# Tubercularia absoluta (Tuck.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

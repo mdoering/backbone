@@ -1,5 +1,4 @@
-Alternaria granulosa (Bubák) E.G. Simmons SPECIES
-=======
+# Alternaria granulosa (Bubák) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

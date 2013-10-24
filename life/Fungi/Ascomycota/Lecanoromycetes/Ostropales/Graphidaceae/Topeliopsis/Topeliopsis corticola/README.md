@@ -1,5 +1,4 @@
-Topeliopsis corticola Kalb SPECIES
-=======
+# Topeliopsis corticola Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella euphorbiicola S. Chaudhary & R.K. Chaudhary SPECIES
-=======
+# Stenella euphorbiicola S. Chaudhary & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

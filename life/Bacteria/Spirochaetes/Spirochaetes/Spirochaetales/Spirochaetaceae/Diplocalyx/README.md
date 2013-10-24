@@ -1,5 +1,4 @@
-Diplocalyx (ex Gharagozlou, 1968) Bermudes et al., 1988 GENUS
-=======
+# Diplocalyx (ex Gharagozlou, 1968) Bermudes et al., 1988 GENUS
 
 #### Status
 ACCEPTED

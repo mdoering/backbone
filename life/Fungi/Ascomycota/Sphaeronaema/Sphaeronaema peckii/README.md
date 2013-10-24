@@ -1,5 +1,4 @@
-Sphaeronaema peckii Sacc. & P. Syd. SPECIES
-=======
+# Sphaeronaema peckii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

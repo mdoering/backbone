@@ -1,5 +1,4 @@
-Protoperidinium excentricum (Paulsen) Balech SPECIES
-=======
+# Protoperidinium excentricum (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

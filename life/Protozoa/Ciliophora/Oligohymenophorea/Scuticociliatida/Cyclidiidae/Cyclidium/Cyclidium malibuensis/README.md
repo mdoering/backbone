@@ -1,5 +1,4 @@
-Cyclidium malibuensis SPECIES
-=======
+# Cyclidium malibuensis SPECIES
 
 #### Status
 ACCEPTED

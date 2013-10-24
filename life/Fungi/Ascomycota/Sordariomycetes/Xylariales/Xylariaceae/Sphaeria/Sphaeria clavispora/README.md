@@ -1,5 +1,4 @@
-Sphaeria clavispora Ellis SPECIES
-=======
+# Sphaeria clavispora Ellis SPECIES
 
 #### Status
 ACCEPTED

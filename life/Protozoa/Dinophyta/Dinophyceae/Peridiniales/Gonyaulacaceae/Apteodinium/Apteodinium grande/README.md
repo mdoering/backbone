@@ -1,5 +1,4 @@
-Apteodinium grande Cookson & Hughes, 1964 SPECIES
-=======
+# Apteodinium grande Cookson & Hughes, 1964 SPECIES
 
 #### Status
 ACCEPTED

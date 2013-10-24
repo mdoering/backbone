@@ -1,5 +1,4 @@
-Cladonia submitis A. Evans SPECIES
-=======
+# Cladonia submitis A. Evans SPECIES
 
 #### Status
 ACCEPTED

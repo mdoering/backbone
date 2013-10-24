@@ -1,5 +1,4 @@
-Cribraria pallida Schrad. ex J.F. Gmel. SPECIES
-=======
+# Cribraria pallida Schrad. ex J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

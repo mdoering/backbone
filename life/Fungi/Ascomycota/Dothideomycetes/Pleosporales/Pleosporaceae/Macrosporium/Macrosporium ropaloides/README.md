@@ -1,5 +1,4 @@
-Macrosporium ropaloides Renault & Roche SPECIES
-=======
+# Macrosporium ropaloides Renault & Roche SPECIES
 
 #### Status
 ACCEPTED

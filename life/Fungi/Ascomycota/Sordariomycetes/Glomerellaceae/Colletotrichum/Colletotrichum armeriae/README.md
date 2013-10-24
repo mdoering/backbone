@@ -1,5 +1,4 @@
-Colletotrichum armeriae Nicolas & N. Aggéry SPECIES
-=======
+# Colletotrichum armeriae Nicolas & N. Aggéry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Usnea neoguineensis var. neoguineensis Asahina VARIETY
-=======
+# Usnea himantodes Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 43: 496 (1968)
+Scott. Natural. 7: 75 (1883)
 
 #### Original name
-Usnea neoguineensis var. neoguineensis Asahina
+Usnea himantodes Stirt.
 
 ### Remarks
 null

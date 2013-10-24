@@ -1,5 +1,4 @@
-Pleochaeta salicicola R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Pleochaeta salicicola R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

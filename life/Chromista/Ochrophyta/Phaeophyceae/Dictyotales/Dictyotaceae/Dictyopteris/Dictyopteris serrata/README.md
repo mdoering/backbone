@@ -1,5 +1,4 @@
-Dictyopteris serrata (Areschoug) Hoyt SPECIES
-=======
+# Dictyopteris serrata (Areschoug) Hoyt SPECIES
 
 #### Status
 ACCEPTED

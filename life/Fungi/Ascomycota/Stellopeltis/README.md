@@ -1,5 +1,4 @@
-Stellopeltis Bat. & A.F. Vital GENUS
-=======
+# Stellopeltis Bat. & A.F. Vital GENUS
 
 #### Status
 ACCEPTED

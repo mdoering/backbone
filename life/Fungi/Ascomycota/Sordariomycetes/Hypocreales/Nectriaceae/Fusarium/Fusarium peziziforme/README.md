@@ -1,17 +1,16 @@
-Fusarium pezizaeforme Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium peziziforme Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 360 (1868)
 
 #### Original name
-Fusarium pezizaeforme Berk. & M.A. Curtis
+Fusarium peziziforme Berk. & M.A. Curtis
 
 ### Remarks
 null

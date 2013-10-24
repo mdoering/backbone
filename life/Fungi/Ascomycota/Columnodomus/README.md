@@ -1,5 +1,4 @@
-Columnodomus Petr. GENUS
-=======
+# Columnodomus Petr. GENUS
 
 #### Status
 ACCEPTED

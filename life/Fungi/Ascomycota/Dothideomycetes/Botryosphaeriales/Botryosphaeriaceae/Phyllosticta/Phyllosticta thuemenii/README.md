@@ -1,5 +1,4 @@
-Phyllosticta thuemenii Tassi SPECIES
-=======
+# Phyllosticta thuemenii Tassi SPECIES
 
 #### Status
 ACCEPTED

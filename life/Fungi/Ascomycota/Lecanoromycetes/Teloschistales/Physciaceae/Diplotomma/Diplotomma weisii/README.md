@@ -1,5 +1,4 @@
-Diplotomma weisii A. Massal. SPECIES
-=======
+# Diplotomma weisii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

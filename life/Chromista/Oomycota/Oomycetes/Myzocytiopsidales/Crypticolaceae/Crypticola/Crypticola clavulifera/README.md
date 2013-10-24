@@ -1,5 +1,4 @@
-Crypticola clavulifera Humber, Frances & A.W. Sweeney, 1989 SPECIES
-=======
+# Crypticola clavulifera Humber, Frances & A.W. Sweeney, 1989 SPECIES
 
 #### Status
 ACCEPTED

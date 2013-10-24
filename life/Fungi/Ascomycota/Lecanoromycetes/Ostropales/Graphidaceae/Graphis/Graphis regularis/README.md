@@ -1,5 +1,4 @@
-Graphis regularis Müll. Arg. SPECIES
-=======
+# Graphis regularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

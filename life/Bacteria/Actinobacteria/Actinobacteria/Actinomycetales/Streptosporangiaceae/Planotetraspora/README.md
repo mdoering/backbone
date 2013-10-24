@@ -1,5 +1,4 @@
-Planotetraspora Runmao, Guizhen & Junying, 1993 GENUS
-=======
+# Planotetraspora Runmao, Guizhen & Junying, 1993 GENUS
 
 #### Status
 ACCEPTED

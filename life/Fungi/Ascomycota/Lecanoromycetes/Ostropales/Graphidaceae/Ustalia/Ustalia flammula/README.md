@@ -1,5 +1,4 @@
-Ustalia flammula (Eschw.) Eschw. SPECIES
-=======
+# Ustalia flammula (Eschw.) Eschw. SPECIES
 
 #### Status
 ACCEPTED

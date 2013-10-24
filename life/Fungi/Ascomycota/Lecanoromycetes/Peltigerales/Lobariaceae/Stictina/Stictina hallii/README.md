@@ -1,5 +1,4 @@
-Stictina hallii (Tuck.) Stizenb. SPECIES
-=======
+# Stictina hallii (Tuck.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

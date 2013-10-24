@@ -1,5 +1,4 @@
-Cryptosphaeria propagata (Plowr.) Sacc. SPECIES
-=======
+# Cryptosphaeria propagata (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

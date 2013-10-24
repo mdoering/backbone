@@ -1,5 +1,4 @@
-Vorticella vermicularis Muller, 1773 SPECIES
-=======
+# Vorticella vermicularis Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

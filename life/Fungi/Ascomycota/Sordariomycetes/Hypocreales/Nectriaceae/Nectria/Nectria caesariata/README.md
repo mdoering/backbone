@@ -1,5 +1,4 @@
-Nectria caesariata Pat. SPECIES
-=======
+# Nectria caesariata Pat. SPECIES
 
 #### Status
 ACCEPTED

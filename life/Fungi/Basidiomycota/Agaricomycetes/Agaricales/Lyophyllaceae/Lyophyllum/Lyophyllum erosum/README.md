@@ -1,5 +1,4 @@
-Lyophyllum erosum (Fr.) Svrcek SPECIES
-=======
+# Lyophyllum erosum (Fr.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista echinata Hazsl. SPECIES
-=======
+# Bovista echinata Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius rimosellus Peck SPECIES
-=======
+# Lactarius rimosellus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hiatula pellicida (Massee) Singer SPECIES
-=======
+# Hiatula pellucida (Massee) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

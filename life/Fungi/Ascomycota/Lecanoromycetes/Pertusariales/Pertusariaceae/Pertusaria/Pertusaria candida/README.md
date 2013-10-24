@@ -1,5 +1,4 @@
-Pertusaria candida Müll. Arg. SPECIES
-=======
+# Pertusaria candida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

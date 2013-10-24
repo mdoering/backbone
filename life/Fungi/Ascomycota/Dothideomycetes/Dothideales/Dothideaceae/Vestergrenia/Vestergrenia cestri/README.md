@@ -1,14 +1,13 @@
-Phyllachora cestri Pat., 1891 SPECIES
-=======
+# Vestergrenia cestri (Pat.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 7: 176 (1891)
+Beitr. Kryptfl. Schweiz 11(no. 1): 75 (1954)
 
 #### Original name
 Phyllachora cestri Pat., 1891

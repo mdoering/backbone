@@ -1,5 +1,4 @@
-Cintractia luzulae (Sacc.) Clinton SPECIES
-=======
+# Cintractia luzulae (Sacc.) Clinton SPECIES
 
 #### Status
 ACCEPTED

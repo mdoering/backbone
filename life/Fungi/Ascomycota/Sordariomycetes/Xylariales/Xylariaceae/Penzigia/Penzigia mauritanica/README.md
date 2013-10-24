@@ -1,5 +1,4 @@
-Penzigia mauritanica (Durieu & Mont.) J.H. Mill. SPECIES
-=======
+# Penzigia mauritanica (Durieu & Mont.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

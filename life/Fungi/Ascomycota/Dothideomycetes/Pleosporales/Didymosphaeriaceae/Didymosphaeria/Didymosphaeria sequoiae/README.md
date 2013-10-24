@@ -1,5 +1,4 @@
-Didymosphaeria sequoiae Gucevic SPECIES
-=======
+# Didymosphaeria sequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

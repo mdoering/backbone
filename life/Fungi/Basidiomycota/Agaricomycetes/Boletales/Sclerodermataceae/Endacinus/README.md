@@ -1,5 +1,4 @@
-Endacinus GENUS
-=======
+# Endacinus GENUS
 
 #### Status
 ACCEPTED

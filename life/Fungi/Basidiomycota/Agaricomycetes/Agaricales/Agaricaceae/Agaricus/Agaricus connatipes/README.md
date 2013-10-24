@@ -1,5 +1,4 @@
-Agaricus connatipes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus connatipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

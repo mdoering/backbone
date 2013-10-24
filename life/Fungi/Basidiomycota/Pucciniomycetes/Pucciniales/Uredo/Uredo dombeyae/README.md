@@ -1,5 +1,4 @@
-Uredo dombeyae Doidge SPECIES
-=======
+# Uredo dombeyae Doidge SPECIES
 
 #### Status
 ACCEPTED

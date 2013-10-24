@@ -1,5 +1,4 @@
-Sporormia lata Griffiths SPECIES
-=======
+# Sporormia lata Griffiths SPECIES
 
 #### Status
 ACCEPTED

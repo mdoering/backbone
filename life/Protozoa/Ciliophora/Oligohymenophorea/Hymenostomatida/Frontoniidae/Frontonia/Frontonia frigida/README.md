@@ -1,5 +1,4 @@
-Frontonia frigida Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Frontonia frigida Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

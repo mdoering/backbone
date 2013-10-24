@@ -1,5 +1,4 @@
-Amanita goosensiae Rammeloo & Walleyn SPECIES
-=======
+# Amanita goosensiae Rammeloo & Walleyn SPECIES
 
 #### Status
 ACCEPTED

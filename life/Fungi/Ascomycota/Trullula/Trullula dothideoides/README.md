@@ -1,5 +1,4 @@
-Trullula dothideoides Sacc. & Berl. SPECIES
-=======
+# Trullula dothideoides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

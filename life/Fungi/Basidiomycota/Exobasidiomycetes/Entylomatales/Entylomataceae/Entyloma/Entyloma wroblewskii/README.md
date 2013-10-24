@@ -1,5 +1,4 @@
-Entyloma wroblewskii Kochman SPECIES
-=======
+# Entyloma wroblewskii Kochman SPECIES
 
 #### Status
 ACCEPTED

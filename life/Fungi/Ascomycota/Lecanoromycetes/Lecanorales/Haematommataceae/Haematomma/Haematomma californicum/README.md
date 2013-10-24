@@ -1,5 +1,4 @@
-Haematomma californicum Sigal & D.R. Toren SPECIES
-=======
+# Haematomma californicum Sigal & D.R. Toren SPECIES
 
 #### Status
 ACCEPTED

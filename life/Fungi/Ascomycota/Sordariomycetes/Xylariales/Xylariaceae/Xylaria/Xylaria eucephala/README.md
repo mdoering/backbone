@@ -1,5 +1,4 @@
-Xylaria eucephala Sacc. & Paol. SPECIES
-=======
+# Xylaria eucephala Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

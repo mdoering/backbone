@@ -1,5 +1,4 @@
-Phloeosporella kitajimae Dianese, R.B. Medeiros & L.T.P. Santos SPECIES
-=======
+# Phloeosporella kitajimae Dianese, R.B. Medeiros & L.T.P. Santos SPECIES
 
 #### Status
 ACCEPTED

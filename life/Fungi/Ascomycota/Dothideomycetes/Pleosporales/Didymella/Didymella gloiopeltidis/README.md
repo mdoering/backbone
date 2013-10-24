@@ -1,5 +1,4 @@
-Didymella gloiopeltidis (Miyabe & Tokida) Kohlm. & E. Kohlm., 1979 SPECIES
-=======
+# Didymella gloiopeltidis (Miyabe & Tokida) Kohlm. & E. Kohlm., 1979 SPECIES
 
 #### Status
 ACCEPTED

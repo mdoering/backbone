@@ -1,5 +1,4 @@
-Sphacelotheca taiana (Syd.) L. Ling SPECIES
-=======
+# Sphacelotheca taiana (Syd.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

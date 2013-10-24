@@ -1,17 +1,16 @@
-Aegerita duthiei Berk., 1882 SPECIES
-=======
+# Termitosphaera duthiei (Berk.) Cif., 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Ist. Bot. 'Giovanni Briosi', ser. 4 (1935)
 
 #### Original name
-null
+Aegerita duthei Berk.
 
 ### Remarks
 null

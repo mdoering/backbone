@@ -1,5 +1,4 @@
-Phragmidium rosae-lacerantis Dietel SPECIES
-=======
+# Phragmidium rosae-lacerantis Dietel SPECIES
 
 #### Status
 ACCEPTED

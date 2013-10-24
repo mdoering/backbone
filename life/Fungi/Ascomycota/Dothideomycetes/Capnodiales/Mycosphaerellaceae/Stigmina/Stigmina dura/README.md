@@ -1,5 +1,4 @@
-Stigmina dura (Sacc.) S. Hughes, 1958 SPECIES
-=======
+# Stigmina dura (Sacc.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED

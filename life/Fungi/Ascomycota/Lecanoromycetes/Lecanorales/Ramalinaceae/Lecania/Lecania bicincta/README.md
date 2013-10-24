@@ -1,5 +1,4 @@
-Lecania bicincta Ramond SPECIES
-=======
+# Lecania bicincta Ramond SPECIES
 
 #### Status
 ACCEPTED

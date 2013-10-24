@@ -1,5 +1,4 @@
-Glomus taiwanianum Hu SPECIES
-=======
+# Glomus taiwanianum Hu SPECIES
 
 #### Status
 ACCEPTED

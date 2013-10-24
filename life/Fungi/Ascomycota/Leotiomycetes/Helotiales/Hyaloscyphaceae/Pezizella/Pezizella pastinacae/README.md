@@ -1,5 +1,4 @@
-Pezizella pastinacae (Schwein.) Sacc. SPECIES
-=======
+# Pezizella pastinacae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe vernalis P. Karst. SPECIES
-=======
+# Erysiphe vernalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

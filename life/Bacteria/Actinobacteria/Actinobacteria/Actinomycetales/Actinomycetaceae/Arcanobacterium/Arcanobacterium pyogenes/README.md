@@ -1,8 +1,7 @@
-Corynebacterium pyogenes (Glage, 1903) Eberson, 1918 (Approved Lists, 1980) SPECIES
-=======
+# Arcanobacterium pyogenes (Glage, 1903) Pascual Ramos et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hydnocystis arenaria Tul. & C. Tul., 1845 SPECIES
-=======
+# Hydnocystis arenaria Tul. & C. Tul., 1845 SPECIES
 
 #### Status
 ACCEPTED

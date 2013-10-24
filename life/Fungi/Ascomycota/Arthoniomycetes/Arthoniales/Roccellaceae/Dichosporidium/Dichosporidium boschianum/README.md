@@ -1,17 +1,16 @@
-Hypochnus nigrocinctus Ehrenb. SPECIES
-=======
+# Dichosporidium boschianum (Mont.) G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Enum. fung. Chamisso coll. 85 (1820)
+Op. bot. 103: 64 (1991)
 
 #### Original name
-Hypochnus nigrocinctus Ehrenb.
+Chiodecton boschianum Mont.
 
 ### Remarks
 null

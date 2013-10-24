@@ -1,5 +1,4 @@
-Coelocaulon crespoae Barreno & Vázquez SPECIES
-=======
+# Coelocaulon crespoae Barreno & Vázquez SPECIES
 
 #### Status
 ACCEPTED

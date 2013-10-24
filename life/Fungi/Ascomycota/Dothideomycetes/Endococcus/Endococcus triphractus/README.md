@@ -1,5 +1,4 @@
-Endococcus triphractus Nyl. SPECIES
-=======
+# Endococcus triphractus Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium vestergrenii (Rehm) B. Erikss. SPECIES
-=======
+# Phacidium vestergrenii (Rehm) B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

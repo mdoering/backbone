@@ -1,5 +1,4 @@
-Schizothrix friesii (C. Agardh) Gomont SPECIES
-=======
+# Schizothrix friesii (C. Agardh) Gomont SPECIES
 
 #### Status
 ACCEPTED

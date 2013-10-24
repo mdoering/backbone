@@ -1,5 +1,4 @@
-Meliola opposita var. opposita VARIETY
-=======
+# Meliola opposita Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Leafl. of Philipp. Bot. 6: 1924 (1913)
 
 #### Original name
-Meliola opposita var. opposita
+Meliola opposita Syd. & P. Syd.
 
 ### Remarks
 null

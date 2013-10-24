@@ -1,5 +1,4 @@
-Pyrenomonas ovalis P. Kugrens, B.L. Clay & R.E. Lee SPECIES
-=======
+# Pyrenomonas ovalis P. Kugrens, B.L. Clay & R.E. Lee SPECIES
 
 #### Status
 ACCEPTED

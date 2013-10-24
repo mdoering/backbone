@@ -1,14 +1,13 @@
-Dendrographa pulcherrima (Darb.) M. Choisy SPECIES
-=======
+# Ingaderia pulcherrima Darb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 15: (1897)
 
 #### Original name
 Ingaderia pulcherrima Darb.

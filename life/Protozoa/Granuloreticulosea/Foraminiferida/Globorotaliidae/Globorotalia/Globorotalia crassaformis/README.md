@@ -1,5 +1,4 @@
-Globorotalia crassaformis subsp. crassaformis SUBSPECIES
-=======
+# Globorotalia crassaformis (Galloway & Wissler, 1927) SPECIES
 
 #### Status
 ACCEPTED

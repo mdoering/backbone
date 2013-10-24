@@ -1,5 +1,4 @@
-Disciseda compacta Czern. SPECIES
-=======
+# Disciseda compacta Czern. SPECIES
 
 #### Status
 ACCEPTED

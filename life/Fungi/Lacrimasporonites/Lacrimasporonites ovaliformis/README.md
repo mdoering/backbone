@@ -1,5 +1,4 @@
-Lacrimasporonites ovaliformis A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Lacrimasporonites ovaliformis A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

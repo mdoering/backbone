@@ -1,5 +1,4 @@
-Pseudobaeomyces M. Satô GENUS
-=======
+# Pseudobaeomyces M. Satô GENUS
 
 #### Status
 ACCEPTED

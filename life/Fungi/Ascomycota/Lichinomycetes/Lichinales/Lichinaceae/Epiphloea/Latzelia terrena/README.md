@@ -1,5 +1,4 @@
-Latzelia terrena Nyl. SPECIES
-=======
+# Latzelia terrena Nyl. SPECIES
 
 #### Status
 ACCEPTED

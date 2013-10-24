@@ -1,5 +1,4 @@
-Agaricus algeriensis Fr. SPECIES
-=======
+# Agaricus algeriensis Fr. SPECIES
 
 #### Status
 ACCEPTED

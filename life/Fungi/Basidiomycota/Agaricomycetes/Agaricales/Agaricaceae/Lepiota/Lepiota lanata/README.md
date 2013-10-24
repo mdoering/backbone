@@ -1,5 +1,4 @@
-Lepiota lanata Rick SPECIES
-=======
+# Lepiota lanata Rick SPECIES
 
 #### Status
 ACCEPTED

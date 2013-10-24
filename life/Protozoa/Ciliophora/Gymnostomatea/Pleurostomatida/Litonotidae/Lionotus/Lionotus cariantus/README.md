@@ -1,5 +1,4 @@
-Lionotus cariantus Stokes, 1885 SPECIES
-=======
+# Lionotus cariantus Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

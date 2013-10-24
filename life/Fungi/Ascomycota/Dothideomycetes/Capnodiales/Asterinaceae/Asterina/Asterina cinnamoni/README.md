@@ -1,5 +1,4 @@
-Asterina cinnamoni Syd. & P. Syd. SPECIES
-=======
+# Asterina cinnamoni Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

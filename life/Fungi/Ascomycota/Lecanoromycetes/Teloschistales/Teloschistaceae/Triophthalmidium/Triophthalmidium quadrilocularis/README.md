@@ -1,5 +1,4 @@
-Triophthalmidium quadrilocularis (Nyl.) Gyeln. SPECIES
-=======
+# Triophthalmidium quadrilocularis (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene ditricha (Kalchbr. & Cooke) Doidge SPECIES
-=======
+# Irene ditricha (Kalchbr. & Cooke) Doidge SPECIES
 
 #### Status
 ACCEPTED

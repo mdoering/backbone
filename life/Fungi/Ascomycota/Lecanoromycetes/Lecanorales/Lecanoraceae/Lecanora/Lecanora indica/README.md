@@ -1,5 +1,4 @@
-Lecanora indica Zahlbr. SPECIES
-=======
+# Lecanora indica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

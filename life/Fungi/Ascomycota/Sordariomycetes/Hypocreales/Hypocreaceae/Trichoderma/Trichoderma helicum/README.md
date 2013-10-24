@@ -1,5 +1,4 @@
-Trichoderma helicum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
-=======
+# Trichoderma helicum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
 
 #### Status
 ACCEPTED

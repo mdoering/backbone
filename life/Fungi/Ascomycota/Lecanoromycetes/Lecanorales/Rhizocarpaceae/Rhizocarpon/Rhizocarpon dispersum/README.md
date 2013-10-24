@@ -1,5 +1,4 @@
-Rhizocarpon dispersum Runemark SPECIES
-=======
+# Rhizocarpon dispersum Runemark SPECIES
 
 #### Status
 ACCEPTED

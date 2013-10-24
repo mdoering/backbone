@@ -1,5 +1,4 @@
-Lagena favosopunctata Brady SPECIES
-=======
+# Lagena favosopunctata Brady SPECIES
 
 #### Status
 ACCEPTED

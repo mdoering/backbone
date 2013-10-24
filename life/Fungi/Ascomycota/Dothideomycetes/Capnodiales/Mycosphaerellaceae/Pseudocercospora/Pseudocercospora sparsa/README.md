@@ -1,5 +1,4 @@
-Pseudocercospora sparsa (Cooke) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora sparsa (Cooke) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

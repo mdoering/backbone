@@ -1,5 +1,4 @@
-Sphenospora xylopiae J.M. Yen & Sulmont SPECIES
-=======
+# Sphenospora xylopiae J.M. Yen & Sulmont SPECIES
 
 #### Status
 ACCEPTED

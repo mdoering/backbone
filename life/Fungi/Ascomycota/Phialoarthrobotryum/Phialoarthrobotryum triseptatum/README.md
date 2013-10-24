@@ -1,5 +1,4 @@
-Phialoarthrobotryum triseptatum Matsush., 1975 SPECIES
-=======
+# Phialoarthrobotryum triseptatum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

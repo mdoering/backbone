@@ -1,5 +1,4 @@
-Euryachora Fuckel GENUS
-=======
+# Euryachora Fuckel GENUS
 
 #### Status
 ACCEPTED

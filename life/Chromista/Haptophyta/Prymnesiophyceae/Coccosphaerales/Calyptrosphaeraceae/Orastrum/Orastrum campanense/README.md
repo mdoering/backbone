@@ -1,5 +1,4 @@
-Orastrum campanense (P. Cepek) F.H. Wind & S.W. Wise SPECIES
-=======
+# Orastrum campanense (P. Cepek) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

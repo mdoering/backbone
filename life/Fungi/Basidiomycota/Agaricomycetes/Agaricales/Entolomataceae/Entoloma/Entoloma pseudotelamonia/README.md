@@ -1,5 +1,4 @@
-Entoloma pseudotelamonia Noordel. SPECIES
-=======
+# Entoloma pseudotelamonia Noordel. SPECIES
 
 #### Status
 ACCEPTED

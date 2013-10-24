@@ -1,5 +1,4 @@
-Calonectria cinnabarina Henn. SPECIES
-=======
+# Calonectria cinnabarina Henn. SPECIES
 
 #### Status
 ACCEPTED

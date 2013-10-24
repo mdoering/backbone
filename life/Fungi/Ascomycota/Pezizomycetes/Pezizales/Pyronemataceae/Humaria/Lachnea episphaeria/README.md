@@ -1,5 +1,4 @@
-Lachnea episphaeria Henn. SPECIES
-=======
+# Lachnea episphaeria Henn. SPECIES
 
 #### Status
 ACCEPTED

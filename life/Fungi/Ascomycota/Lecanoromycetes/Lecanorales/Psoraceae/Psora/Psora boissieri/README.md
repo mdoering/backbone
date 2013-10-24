@@ -1,5 +1,4 @@
-Psora boissieri (Müll. Arg.) Boistel SPECIES
-=======
+# Psora boissieri (Müll. Arg.) Boistel SPECIES
 
 #### Status
 ACCEPTED

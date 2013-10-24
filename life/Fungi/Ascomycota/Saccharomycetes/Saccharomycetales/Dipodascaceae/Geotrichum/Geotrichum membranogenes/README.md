@@ -1,5 +1,4 @@
-Geotrichum membranogenes (C. Martins) C.W. Dodge SPECIES
-=======
+# Geotrichum membranogenes (C. Martins) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

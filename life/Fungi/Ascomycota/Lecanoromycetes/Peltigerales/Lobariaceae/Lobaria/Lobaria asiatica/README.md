@@ -1,5 +1,4 @@
-Lobaria asiatica Vain. SPECIES
-=======
+# Lobaria asiatica Vain. SPECIES
 
 #### Status
 ACCEPTED

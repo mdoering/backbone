@@ -1,8 +1,7 @@
-Podaxon macrosporus Speg. SPECIES
-=======
+# Podaxis macrosporus Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon macrosporus Speg.
+Podaxis macrosporus Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paradidymella hyperborea (P. Karst.) Petr. SPECIES
-=======
+# Paradidymella hyperborea (P. Karst.) Petr. SPECIES
 
 #### Status
 ACCEPTED

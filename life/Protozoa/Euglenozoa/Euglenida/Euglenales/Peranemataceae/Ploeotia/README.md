@@ -1,14 +1,13 @@
-Pseudamoeba K. Behre, 1961 GENUS
-=======
+# Ploeotia Dujardin, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+(Roret's Suite à Buffon) Infusoires, 345.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Mycosphaerella gastonis (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella gastonis (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

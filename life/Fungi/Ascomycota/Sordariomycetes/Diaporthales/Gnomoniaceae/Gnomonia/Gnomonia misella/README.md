@@ -1,5 +1,4 @@
-Gnomonia misella Niessl SPECIES
-=======
+# Gnomonia misella Niessl SPECIES
 
 #### Status
 ACCEPTED

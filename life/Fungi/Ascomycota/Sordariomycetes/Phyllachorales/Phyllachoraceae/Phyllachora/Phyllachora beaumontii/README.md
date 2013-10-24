@@ -1,5 +1,4 @@
-Phyllachora beaumontii Cooke, 1885 SPECIES
-=======
+# Phyllachora beaumontii Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

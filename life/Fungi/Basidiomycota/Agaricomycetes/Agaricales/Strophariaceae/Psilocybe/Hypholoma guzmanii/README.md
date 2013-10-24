@@ -1,5 +1,4 @@
-Hypholoma guzmanii (Natarajan & Raman) Guzmán SPECIES
-=======
+# Hypholoma guzmanii (Natarajan & Raman) Guzmán SPECIES
 
 #### Status
 ACCEPTED

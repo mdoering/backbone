@@ -1,5 +1,4 @@
-Stenosemella Jørgensen GENUS
-=======
+# Stenosemella Jørgensen GENUS
 
 #### Status
 ACCEPTED

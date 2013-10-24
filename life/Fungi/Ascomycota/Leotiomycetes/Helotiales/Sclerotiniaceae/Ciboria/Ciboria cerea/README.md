@@ -1,5 +1,4 @@
-Ciboria cerea Rick SPECIES
-=======
+# Ciboria cerea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia ahlesiana (Hepp) Keissl. SPECIES
-=======
+# Guignardia ahlesiana (Hepp) Keissl. SPECIES
 
 #### Status
 ACCEPTED

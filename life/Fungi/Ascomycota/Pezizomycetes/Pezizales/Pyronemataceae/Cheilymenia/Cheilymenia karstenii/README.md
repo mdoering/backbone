@@ -1,5 +1,4 @@
-Cheilymenia karstenii J. Moravec SPECIES
-=======
+# Cheilymenia karstenii J. Moravec SPECIES
 
 #### Status
 ACCEPTED

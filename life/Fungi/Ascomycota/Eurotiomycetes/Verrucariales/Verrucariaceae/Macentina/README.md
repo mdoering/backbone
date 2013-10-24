@@ -1,5 +1,4 @@
-Macentina Vezda GENUS
-=======
+# Macentina Vezda GENUS
 
 #### Status
 ACCEPTED

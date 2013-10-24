@@ -1,5 +1,4 @@
-Staurolithites leptostaurus SPECIES
-=======
+# Staurolithites leptostaurus SPECIES
 
 #### Status
 ACCEPTED

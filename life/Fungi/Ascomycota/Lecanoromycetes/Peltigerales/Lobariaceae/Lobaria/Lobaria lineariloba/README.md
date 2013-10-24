@@ -1,5 +1,4 @@
-Lobaria lineariloba (Mont.) Trevis. SPECIES
-=======
+# Lobaria lineariloba (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

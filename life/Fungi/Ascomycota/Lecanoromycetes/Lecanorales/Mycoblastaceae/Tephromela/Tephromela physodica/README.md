@@ -1,5 +1,4 @@
-Tephromela physodica Kalb & Elix SPECIES
-=======
+# Tephromela physodica Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

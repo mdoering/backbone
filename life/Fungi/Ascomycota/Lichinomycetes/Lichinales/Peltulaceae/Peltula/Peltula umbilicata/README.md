@@ -1,5 +1,4 @@
-Peltula umbilicata (Vain.) Swinscow & Krog SPECIES
-=======
+# Peltula umbilicata (Vain.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

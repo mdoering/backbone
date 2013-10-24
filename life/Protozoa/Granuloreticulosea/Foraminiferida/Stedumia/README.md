@@ -1,5 +1,4 @@
-Stedumia Bertram & Kemper, 1982 GENUS
-=======
+# Stedumia Bertram & Kemper, 1982 GENUS
 
 #### Status
 ACCEPTED

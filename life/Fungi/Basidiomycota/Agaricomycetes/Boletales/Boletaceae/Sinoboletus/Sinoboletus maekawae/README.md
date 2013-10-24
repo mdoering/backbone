@@ -1,5 +1,4 @@
-Sinoboletus maekawae M. Zang & R.H. Petersen, 2001 SPECIES
-=======
+# Sinoboletus maekawae M. Zang & R.H. Petersen, 2001 SPECIES
 
 #### Status
 ACCEPTED

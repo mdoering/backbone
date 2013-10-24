@@ -1,5 +1,4 @@
-Lecanora subolivacea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecanora subolivacea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

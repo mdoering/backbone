@@ -1,5 +1,4 @@
-Holophrya virescens SPECIES
-=======
+# Holophrya virescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium trzebuskii SPECIES
-=======
+# Penicillium trzebuskii SPECIES
 
 #### Status
 ACCEPTED

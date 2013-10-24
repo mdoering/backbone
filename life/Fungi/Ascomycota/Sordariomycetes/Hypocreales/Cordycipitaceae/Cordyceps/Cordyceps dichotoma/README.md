@@ -1,5 +1,4 @@
-Cordyceps dichotoma Lév. SPECIES
-=======
+# Cordyceps dichotoma Lév. SPECIES
 
 #### Status
 ACCEPTED

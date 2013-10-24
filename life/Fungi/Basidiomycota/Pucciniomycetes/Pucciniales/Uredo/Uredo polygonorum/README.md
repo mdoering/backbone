@@ -1,17 +1,16 @@
-Uromyces polygonorum (DC.) Lév., 1847 SPECIES
-=======
+# Uredo polygonorum DC., 1815 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 6: 71 (1815)
 
 #### Original name
-null
+Uredo polygonorum DC., 1815
 
 ### Remarks
 null

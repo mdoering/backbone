@@ -1,5 +1,4 @@
-Microcera coccidophthora Petch SPECIES
-=======
+# Microcera coccidophthora Petch SPECIES
 
 #### Status
 ACCEPTED

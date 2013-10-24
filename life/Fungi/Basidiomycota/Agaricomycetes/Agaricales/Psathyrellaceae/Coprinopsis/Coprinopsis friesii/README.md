@@ -1,5 +1,4 @@
-Coprinopsis friesii (Quél.) P. Karst., 1881 SPECIES
-=======
+# Coprinopsis friesii (Quél.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED

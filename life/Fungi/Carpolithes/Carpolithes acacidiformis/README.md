@@ -1,5 +1,4 @@
-Carpolithes acacidiformis SPECIES
-=======
+# Carpolithes acacidiformis SPECIES
 
 #### Status
 ACCEPTED

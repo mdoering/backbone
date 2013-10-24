@@ -1,5 +1,4 @@
-Cercospora elaeidis Steyaert, 1948 SPECIES
-=======
+# Cercospora elaeidis Steyaert, 1948 SPECIES
 
 #### Status
 ACCEPTED

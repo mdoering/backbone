@@ -1,5 +1,4 @@
-Inocybe tristis Malençon SPECIES
-=======
+# Inocybe tristis Malençon SPECIES
 
 #### Status
 ACCEPTED

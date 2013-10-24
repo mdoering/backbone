@@ -1,5 +1,4 @@
-Phaeosphaeria lunata Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria lunata Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

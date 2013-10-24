@@ -1,5 +1,4 @@
-Placolecanora usbekica (Poelt) Kopach. SPECIES
-=======
+# Placolecanora usbekica (Poelt) Kopach. SPECIES
 
 #### Status
 ACCEPTED

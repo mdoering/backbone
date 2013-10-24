@@ -1,5 +1,4 @@
-Helotium cortisedum (P. Karst.) SPECIES
-=======
+# Helotium cortisedum (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

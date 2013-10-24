@@ -1,5 +1,4 @@
-Clitocybe maculosa Peck SPECIES
-=======
+# Clitocybe maculosa Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psychromonas boydii Auman, Breezee, Gosink, Schumann, Barnes, Kampfer & Staley, 2009 SPECIES
-=======
+# Psychromonas boydii Auman, Breezee, Gosink, Schumann, Barnes, Kampfer & Staley, 2009 SPECIES
 
 #### Status
 ACCEPTED

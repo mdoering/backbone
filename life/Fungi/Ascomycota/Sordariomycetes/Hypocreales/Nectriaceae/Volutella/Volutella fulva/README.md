@@ -1,5 +1,4 @@
-Volutella fulva (Lév.) Sacc. SPECIES
-=======
+# Volutella fulva (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

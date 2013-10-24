@@ -1,5 +1,4 @@
-Lepraria torii Pérez-Ortega & T. Sprib. SPECIES
-=======
+# Lepraria torii Pérez-Ortega & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

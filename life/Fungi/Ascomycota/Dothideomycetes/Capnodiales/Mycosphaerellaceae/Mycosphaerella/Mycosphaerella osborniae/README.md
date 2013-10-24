@@ -1,5 +1,4 @@
-Mycosphaerella osborniae D. Hawksw. & Sivan., 1976 SPECIES
-=======
+# Mycosphaerella osborniae D. Hawksw. & Sivan., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracytum GENUS
-=======
+# Tetracytum GENUS
 
 #### Status
 ACCEPTED

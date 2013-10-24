@@ -1,5 +1,4 @@
-Marasmius ciliatomarginatus Desjardin SPECIES
-=======
+# Marasmius ciliatomarginatus Desjardin SPECIES
 
 #### Status
 ACCEPTED

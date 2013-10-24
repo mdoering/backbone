@@ -1,5 +1,4 @@
-Cortinarius pluvialis Kühner SPECIES
-=======
+# Cortinarius pluvialis Kühner SPECIES
 
 #### Status
 ACCEPTED

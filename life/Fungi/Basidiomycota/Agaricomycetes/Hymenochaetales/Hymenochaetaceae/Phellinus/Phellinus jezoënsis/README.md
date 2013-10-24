@@ -1,14 +1,13 @@
-Daedalea jezoënsis Yamano SPECIES
-=======
+# Phellinus jezoënsis (Yamano) Parmasto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 8(1): 207 (1979)
 
 #### Original name
 Daedalea jezoënsis Yamano

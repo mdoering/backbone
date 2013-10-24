@@ -1,17 +1,16 @@
-Dimerium stromaticolum Petr. SPECIES
-=======
+# Dimerium stromaticola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4: 477 (1950)
 
 #### Original name
-Dimerium stromaticolum Petr.
+Dimerium stromaticola Petr.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Bullaria elatipes (Arthur & Holw.) Arthur & Mains, 1922 SPECIES
-=======
+# Porotenus elatipes (Arthur & Holw.) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(7): 493 (1922)
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
 
 #### Original name
 Puccinia elatipes Arthur & Holw., 1918

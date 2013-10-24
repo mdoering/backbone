@@ -1,5 +1,4 @@
-Ceriomyces chromapes (Frost) Murrill SPECIES
-=======
+# Ceriomyces chromapes (Frost) Murrill SPECIES
 
 #### Status
 ACCEPTED

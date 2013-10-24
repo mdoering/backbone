@@ -1,17 +1,16 @@
-Pythium periplocum var. coimbatorensis M.S. Balakr. VARIETY
-=======
+# Pythium periplocum Drechsler, 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Wash. Acad. Sci. 20: 405 (1930)
 
 #### Original name
-Pythium periplocum var. coimbatorensis M.S. Balakr.
+Pythium periplocum Drechsler, 1930
 
 ### Remarks
 null

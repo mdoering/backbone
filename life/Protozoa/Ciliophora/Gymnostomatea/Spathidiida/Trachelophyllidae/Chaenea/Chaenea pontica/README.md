@@ -1,5 +1,4 @@
-Chaenea pontica Lepsi, 1926 SPECIES
-=======
+# Chaenea pontica Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

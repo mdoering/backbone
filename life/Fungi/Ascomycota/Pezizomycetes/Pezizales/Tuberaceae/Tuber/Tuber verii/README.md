@@ -1,5 +1,4 @@
-Tuber verii Pacioni & Lalli SPECIES
-=======
+# Tuber verii Pacioni & Lalli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletinellus Murrill GENUS
-=======
+# Boletinellus Murrill GENUS
 
 #### Status
 ACCEPTED

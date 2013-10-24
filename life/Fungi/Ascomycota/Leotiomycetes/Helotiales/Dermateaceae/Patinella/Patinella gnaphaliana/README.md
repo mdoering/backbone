@@ -1,5 +1,4 @@
-Patinella gnaphaliana (Cooke & Ellis) Sacc. SPECIES
-=======
+# Patinella gnaphaliana (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochytulina smilacina Punith., 1988 SPECIES
-=======
+# Ascochytulina smilacina Punith., 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria peruviana (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria peruviana (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

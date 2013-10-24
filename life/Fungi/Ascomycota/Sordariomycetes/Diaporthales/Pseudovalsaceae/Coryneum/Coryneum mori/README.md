@@ -1,5 +1,4 @@
-Coryneum mori Nomura SPECIES
-=======
+# Coryneum mori Nomura SPECIES
 
 #### Status
 ACCEPTED

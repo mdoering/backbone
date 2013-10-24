@@ -1,5 +1,4 @@
-Septoria andryalae Gonz. Frag. SPECIES
-=======
+# Septoria andryalae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

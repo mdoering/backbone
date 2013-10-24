@@ -1,5 +1,4 @@
-Monodictys capensis R.C. Sinclair, Boshoff & Eicker, 1996 SPECIES
-=======
+# Monodictys capensis R.C. Sinclair, Boshoff & Eicker, 1996 SPECIES
 
 #### Status
 ACCEPTED

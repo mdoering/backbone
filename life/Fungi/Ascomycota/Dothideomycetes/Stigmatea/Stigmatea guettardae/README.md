@@ -1,5 +1,4 @@
-Stigmatea guettardae Tehon SPECIES
-=======
+# Stigmatea guettardae Tehon SPECIES
 
 #### Status
 ACCEPTED

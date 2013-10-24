@@ -1,5 +1,4 @@
-Locellina illuminans Henn. SPECIES
-=======
+# Locellina illuminans Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetophoma osmanthi Gucevic SPECIES
-=======
+# Chaetophoma osmanthi Gucevic SPECIES
 
 #### Status
 ACCEPTED

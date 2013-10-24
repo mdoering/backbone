@@ -1,5 +1,4 @@
-Leptonia fuscogrisella (Peck) Largent SPECIES
-=======
+# Leptonia fuscogrisella (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia lobata Trinkaus & Elix SPECIES
-=======
+# Buellia lobata Trinkaus & Elix SPECIES
 
 #### Status
 ACCEPTED

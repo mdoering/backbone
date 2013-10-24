@@ -1,5 +1,4 @@
-Pseudocercosporella Deighton, 1973 GENUS
-=======
+# Pseudocercosporella Deighton, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe sabulophila H.E. Bigelow SPECIES
-=======
+# Clitocybe sabulophila H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

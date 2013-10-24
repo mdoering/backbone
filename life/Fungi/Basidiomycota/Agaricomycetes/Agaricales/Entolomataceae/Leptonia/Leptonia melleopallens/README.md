@@ -1,5 +1,4 @@
-Leptonia melleopallens P. Karst. SPECIES
-=======
+# Leptonia melleopallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

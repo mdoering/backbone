@@ -1,14 +1,13 @@
-Bauhinus calandriniae (G.P. Clinton) Denchev, 1997 SPECIES
-=======
+# Microbotryum calandriniae (G.P. Clinton) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 422 (1997)
+Mycotaxon 67: 41 (1998)
 
 #### Original name
 Ustilago calandriniae G.P. Clinton, 1904

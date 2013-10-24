@@ -1,5 +1,4 @@
-Gloniella caruaniana Sacc., 1915 SPECIES
-=======
+# Gloniella caruaniana Sacc., 1915 SPECIES
 
 #### Status
 ACCEPTED

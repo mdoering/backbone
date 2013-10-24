@@ -1,5 +1,4 @@
-Fasciculithus aubertae Haq & Aubry, 1981 SPECIES
-=======
+# Fasciculithus aubertae Haq & Aubry, 1981 SPECIES
 
 #### Status
 ACCEPTED

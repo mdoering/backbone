@@ -1,5 +1,4 @@
-Lecanora inaequata (Hue) Zahlbr. SPECIES
-=======
+# Lecanora inaequata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

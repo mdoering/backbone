@@ -1,5 +1,4 @@
-Globosphaeridium Moczydlowska, 1991 GENUS
-=======
+# Globosphaeridium Moczydlowska, 1991 GENUS
 
 #### Status
 ACCEPTED

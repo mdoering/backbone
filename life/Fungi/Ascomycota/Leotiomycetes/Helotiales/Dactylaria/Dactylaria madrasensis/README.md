@@ -1,5 +1,4 @@
-Dactylaria madrasensis Matsush. SPECIES
-=======
+# Dactylaria madrasensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

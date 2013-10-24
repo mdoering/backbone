@@ -1,14 +1,13 @@
-Cercospora pancratii Ellis & Everh., 1887 SPECIES
-=======
+# Pseudocercospora pancratii (Ellis & Everh.) U. Braun & R.F. Castañeda, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 3(2): 15 (1887)
+Cryptog. bot. 2(2-3): 294 (1991)
 
 #### Original name
 Cercospora pancratii Ellis & Everh., 1887

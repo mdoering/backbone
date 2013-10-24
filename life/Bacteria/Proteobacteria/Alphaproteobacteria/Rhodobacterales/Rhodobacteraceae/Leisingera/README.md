@@ -1,5 +1,4 @@
-Leisingera Schaefer et al., 2002 GENUS
-=======
+# Leisingera Schaefer et al., 2002 GENUS
 
 #### Status
 ACCEPTED

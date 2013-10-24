@@ -1,5 +1,4 @@
-Dactylellina haptospora (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Dactylellina haptospora (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

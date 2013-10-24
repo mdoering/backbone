@@ -1,5 +1,4 @@
-Haplotrichum morganii (Linder) Partr. & Morgan-Jones SPECIES
-=======
+# Haplotrichum morganii (Linder) Partr. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora pruinosa (Körb.) Stizenb. SPECIES
-=======
+# Acarospora pruinosa (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

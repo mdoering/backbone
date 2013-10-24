@@ -1,5 +1,4 @@
-Lecidea coniopsidea (Hepp) Hue SPECIES
-=======
+# Lecidea coniopsidea (Hepp) Hue SPECIES
 
 #### Status
 ACCEPTED

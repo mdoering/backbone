@@ -1,5 +1,4 @@
-Cercospora bicolor G. Winter SPECIES
-=======
+# Cercospora bicolor G. Winter SPECIES
 
 #### Status
 ACCEPTED

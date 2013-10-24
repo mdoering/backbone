@@ -1,5 +1,4 @@
-Galerina longinqua A.H. Sm. & Singer SPECIES
-=======
+# Galerina longinqua A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

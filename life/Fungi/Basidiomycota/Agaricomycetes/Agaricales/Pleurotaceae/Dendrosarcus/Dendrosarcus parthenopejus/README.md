@@ -1,14 +1,13 @@
-Dendrosarcus pathenopejus (Comes) Kuntze SPECIES
-=======
+# Dendrosarcus parthenopejus (Comes) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 464 (1898)
 
 #### Original name
 Agaricus parthenopejus Comes

@@ -1,5 +1,4 @@
-Pseudokeronopsis carnea (Cohn, 1866) Wirnsberger, Larsen & Uhlig, 1987 SPECIES
-=======
+# Pseudokeronopsis carnea (Cohn, 1866) Wirnsberger, Larsen & Uhlig, 1987 SPECIES
 
 #### Status
 ACCEPTED

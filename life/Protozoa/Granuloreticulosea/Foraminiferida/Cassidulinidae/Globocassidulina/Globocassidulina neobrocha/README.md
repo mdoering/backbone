@@ -1,5 +1,4 @@
-Globocassidulina neobrocha Nomura, 1983 SPECIES
-=======
+# Globocassidulina neobrocha Nomura, 1983 SPECIES
 
 #### Status
 ACCEPTED

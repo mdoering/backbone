@@ -1,5 +1,4 @@
-Placodium apageum (Nyl.) H. Olivier SPECIES
-=======
+# Placodium apageum (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius ludmilae Velen. SPECIES
-=======
+# Marasmius ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

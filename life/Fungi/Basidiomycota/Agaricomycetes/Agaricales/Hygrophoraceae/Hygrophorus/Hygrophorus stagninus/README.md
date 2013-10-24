@@ -1,5 +1,4 @@
-Hygrophorus stagninus Hongo SPECIES
-=======
+# Hygrophorus stagninus Hongo SPECIES
 
 #### Status
 ACCEPTED

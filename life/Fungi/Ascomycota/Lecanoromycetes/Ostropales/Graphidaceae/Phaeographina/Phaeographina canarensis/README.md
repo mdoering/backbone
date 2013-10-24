@@ -1,5 +1,4 @@
-Phaeographina canarensis Patw. & C.R. Kulk. SPECIES
-=======
+# Phaeographina canarensis Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

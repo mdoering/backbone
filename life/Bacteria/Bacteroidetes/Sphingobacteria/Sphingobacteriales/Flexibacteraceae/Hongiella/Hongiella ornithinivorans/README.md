@@ -1,5 +1,4 @@
-Hongiella ornithinivorans Yi & Chun, 2004 SPECIES
-=======
+# Hongiella ornithinivorans Yi & Chun, 2004 SPECIES
 
 #### Status
 ACCEPTED

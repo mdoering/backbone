@@ -1,5 +1,4 @@
-Colletotrichum veronicae Scaram. SPECIES
-=======
+# Colletotrichum veronicae Scaram. SPECIES
 
 #### Status
 ACCEPTED

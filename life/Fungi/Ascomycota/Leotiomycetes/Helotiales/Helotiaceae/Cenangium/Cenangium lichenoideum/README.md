@@ -1,5 +1,4 @@
-Cenangium lichenoideum Berk. & Broome SPECIES
-=======
+# Cenangium lichenoideum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

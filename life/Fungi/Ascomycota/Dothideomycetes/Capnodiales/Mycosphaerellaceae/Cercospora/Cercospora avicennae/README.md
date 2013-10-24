@@ -1,5 +1,4 @@
-Cercospora avicennae Chupp SPECIES
-=======
+# Cercospora avicennae Chupp SPECIES
 
 #### Status
 ACCEPTED

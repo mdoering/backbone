@@ -1,5 +1,4 @@
-Microthyriella azorica Dennis & Spooner SPECIES
-=======
+# Microthyriella azorica Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria smilacicola Speg. SPECIES
-=======
+# Xylaria smilacicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta spaethiana Allesch. SPECIES
-=======
+# Phyllosticta spaethiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

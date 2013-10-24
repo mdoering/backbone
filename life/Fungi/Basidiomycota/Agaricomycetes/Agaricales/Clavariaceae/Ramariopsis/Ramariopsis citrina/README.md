@@ -1,14 +1,13 @@
-Clavulinopsis citrina (Schild) Jülich, 1985 SPECIES
-=======
+# Ramariopsis citrina Schild, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 2(1): 120 (1985)
+Fungorum Rariorum Icones Coloratae 5: 25 (1971)
 
 #### Original name
 Ramariopsis citrina Schild, 1971

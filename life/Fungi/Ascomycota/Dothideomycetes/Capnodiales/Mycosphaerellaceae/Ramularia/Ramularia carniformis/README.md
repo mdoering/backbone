@@ -1,5 +1,4 @@
-Ramularia carniformis (Ellis & Tracy) Sherb. SPECIES
-=======
+# Ramularia carniformis (Ellis & Tracy) Sherb. SPECIES
 
 #### Status
 ACCEPTED

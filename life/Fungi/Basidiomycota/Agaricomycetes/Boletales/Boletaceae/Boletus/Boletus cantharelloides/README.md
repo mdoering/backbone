@@ -1,5 +1,4 @@
-Boletus cantharelloides Jacobashch SPECIES
-=======
+# Boletus cantharelloides Jacobashch SPECIES
 
 #### Status
 ACCEPTED

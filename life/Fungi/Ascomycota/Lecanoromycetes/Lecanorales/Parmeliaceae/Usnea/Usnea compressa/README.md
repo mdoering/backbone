@@ -1,5 +1,4 @@
-Usnea compressa Taylor SPECIES
-=======
+# Usnea compressa Taylor SPECIES
 
 #### Status
 ACCEPTED

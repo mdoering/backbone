@@ -1,5 +1,4 @@
-Myzocytiopsis aplanospora ined. SPECIES
-=======
+# Myzocytiopsis aplanospora ined. SPECIES
 
 #### Status
 ACCEPTED

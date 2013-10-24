@@ -1,5 +1,4 @@
-Vezdaea foliicola Sérus. SPECIES
-=======
+# Vezdaea foliicola Sérus. SPECIES
 
 #### Status
 ACCEPTED

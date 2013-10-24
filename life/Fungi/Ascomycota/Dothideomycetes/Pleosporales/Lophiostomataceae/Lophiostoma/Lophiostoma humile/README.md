@@ -1,5 +1,4 @@
-Lophiostoma humile Speg. SPECIES
-=======
+# Lophiostoma humile Speg. SPECIES
 
 #### Status
 ACCEPTED

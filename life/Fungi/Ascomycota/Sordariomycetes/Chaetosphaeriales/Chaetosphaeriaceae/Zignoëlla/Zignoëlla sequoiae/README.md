@@ -1,8 +1,7 @@
-Zignoëlla sequojae (Plowr.) Sacc. SPECIES
-=======
+# Zignoëlla sequoiae (Plowr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

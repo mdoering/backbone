@@ -1,5 +1,4 @@
-Lophiostoma viticola Sacc. SPECIES
-=======
+# Lophiostoma viticola Sacc. SPECIES
 
 #### Status
 ACCEPTED

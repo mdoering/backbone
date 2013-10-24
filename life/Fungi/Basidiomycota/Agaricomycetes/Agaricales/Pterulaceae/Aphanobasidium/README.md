@@ -1,8 +1,7 @@
-Lepidomyces Jülich, 1979 GENUS
-=======
+# Aphanobasidium Jülich, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

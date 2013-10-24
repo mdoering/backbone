@@ -1,5 +1,4 @@
-Torula donacis Henn. SPECIES
-=======
+# Torula donacis Henn. SPECIES
 
 #### Status
 ACCEPTED

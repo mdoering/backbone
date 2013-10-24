@@ -1,5 +1,4 @@
-Marasmius earlei Murrill SPECIES
-=======
+# Marasmius earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

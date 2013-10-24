@@ -1,5 +1,4 @@
-Meliola tetrorchidiicola Hansf. SPECIES
-=======
+# Meliola tetrorchidiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

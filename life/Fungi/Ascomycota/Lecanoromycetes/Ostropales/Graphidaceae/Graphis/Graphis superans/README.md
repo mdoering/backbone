@@ -1,5 +1,4 @@
-Graphis superans Müll. Arg. SPECIES
-=======
+# Graphis superans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo hidalgensis Cummins SPECIES
-=======
+# Uredo hidalgensis Cummins SPECIES
 
 #### Status
 ACCEPTED

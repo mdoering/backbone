@@ -1,5 +1,4 @@
-Ureibacillus terrenus Fortina et al., 2001 SPECIES
-=======
+# Ureibacillus terrenus Fortina et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderma maculatum (Peck) Lloyd SPECIES
-=======
+# Scleroderma maculatum (Peck) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus perplexans Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Ascobolus perplexans Massee & E.S. Salmon, 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes praerimosus (Murrill) Sacc. & D. Sacc. SPECIES
-=======
+# Fomes praerimosus (Murrill) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

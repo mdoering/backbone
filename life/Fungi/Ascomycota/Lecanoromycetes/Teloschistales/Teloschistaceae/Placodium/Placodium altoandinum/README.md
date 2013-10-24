@@ -1,5 +1,4 @@
-Placodium altoandinum (Malme) Räsänen SPECIES
-=======
+# Placodium altoandinum (Malme) Räsänen SPECIES
 
 #### Status
 ACCEPTED

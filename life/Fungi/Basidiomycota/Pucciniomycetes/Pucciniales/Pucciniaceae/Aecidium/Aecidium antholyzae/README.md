@@ -1,5 +1,4 @@
-Aecidium antholyzae Bubák SPECIES
-=======
+# Aecidium antholyzae Bubák SPECIES
 
 #### Status
 ACCEPTED

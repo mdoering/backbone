@@ -1,5 +1,4 @@
-Aspergillus wangduanlii D.M. Li, Y. Horie, Yu X. Wang & R.Y. Li, 1998 SPECIES
-=======
+# Aspergillus wangduanlii D.M. Li, Y. Horie, Yu X. Wang & R.Y. Li, 1998 SPECIES
 
 #### Status
 ACCEPTED

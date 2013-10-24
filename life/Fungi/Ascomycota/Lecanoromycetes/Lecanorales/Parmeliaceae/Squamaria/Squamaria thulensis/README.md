@@ -1,5 +1,4 @@
-Squamaria thulensis (Th. Fr.) SPECIES
-=======
+# Squamaria thulensis (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

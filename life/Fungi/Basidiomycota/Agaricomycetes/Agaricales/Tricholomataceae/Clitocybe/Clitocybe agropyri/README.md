@@ -1,5 +1,4 @@
-Clitocybe agropyri Velen. SPECIES
-=======
+# Clitocybe agropyri Velen. SPECIES
 
 #### Status
 ACCEPTED

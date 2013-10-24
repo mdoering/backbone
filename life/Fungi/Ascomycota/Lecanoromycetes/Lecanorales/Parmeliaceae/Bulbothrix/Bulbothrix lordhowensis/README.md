@@ -1,5 +1,4 @@
-Bulbothrix lordhowensis Elix SPECIES
-=======
+# Bulbothrix lordhowensis Elix SPECIES
 
 #### Status
 ACCEPTED

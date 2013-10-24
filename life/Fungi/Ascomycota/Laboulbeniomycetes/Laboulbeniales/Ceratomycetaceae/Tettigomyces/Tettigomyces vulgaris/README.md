@@ -1,5 +1,4 @@
-Tettigomyces vulgaris Thaxt. SPECIES
-=======
+# Tettigomyces vulgaris Thaxt. SPECIES
 
 #### Status
 ACCEPTED

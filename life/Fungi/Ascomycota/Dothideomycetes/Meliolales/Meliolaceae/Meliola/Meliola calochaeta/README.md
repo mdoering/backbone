@@ -1,5 +1,4 @@
-Meliola calochaeta Syd. SPECIES
-=======
+# Meliola calochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

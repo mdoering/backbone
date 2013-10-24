@@ -1,5 +1,4 @@
-Skeletonema mirabile Grunow ex Van Heurck SPECIES
-=======
+# Skeletonema mirabile Grunow ex Van Heurck SPECIES
 
 #### Status
 ACCEPTED

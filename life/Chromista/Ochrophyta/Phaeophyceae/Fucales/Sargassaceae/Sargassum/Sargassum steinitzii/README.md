@@ -1,5 +1,4 @@
-Sargassum steinitzii Lipkin & P.C. Silva SPECIES
-=======
+# Sargassum steinitzii Lipkin & P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalospyrella Haeckel, 1887 GENUS
-=======
+# Petalospyrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

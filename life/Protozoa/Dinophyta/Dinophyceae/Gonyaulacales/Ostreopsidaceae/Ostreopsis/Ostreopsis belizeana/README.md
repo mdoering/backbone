@@ -1,5 +1,4 @@
-Ostreopsis belizeana M. A. Faust SPECIES
-=======
+# Ostreopsis belizeana M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

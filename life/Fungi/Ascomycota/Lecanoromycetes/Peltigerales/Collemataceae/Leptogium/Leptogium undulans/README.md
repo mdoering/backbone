@@ -1,5 +1,4 @@
-Leptogium undulans Vain. SPECIES
-=======
+# Leptogium undulans Vain. SPECIES
 
 #### Status
 ACCEPTED

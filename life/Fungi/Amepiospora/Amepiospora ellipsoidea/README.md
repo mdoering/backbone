@@ -1,5 +1,4 @@
-Amepiospora ellipsoidea Sal.-Cheb. & Locq. SPECIES
-=======
+# Amepiospora ellipsoidea Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

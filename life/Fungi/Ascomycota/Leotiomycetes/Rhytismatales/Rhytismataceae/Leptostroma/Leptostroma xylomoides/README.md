@@ -1,5 +1,4 @@
-Leptostroma xylomoides Fr. SPECIES
-=======
+# Leptostroma xylomoides Fr. SPECIES
 
 #### Status
 ACCEPTED

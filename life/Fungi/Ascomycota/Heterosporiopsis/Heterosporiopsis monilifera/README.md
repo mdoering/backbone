@@ -1,5 +1,4 @@
-Heterosporiopsis monilifera Petr., 1950 SPECIES
-=======
+# Heterosporiopsis monilifera Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

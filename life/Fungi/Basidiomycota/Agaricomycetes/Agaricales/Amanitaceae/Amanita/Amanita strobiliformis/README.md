@@ -1,17 +1,16 @@
-Amanita strobiliformis var. strobiliformis VARIETY
-=======
+# Amanita strobiliformis (Paulet ex Vittad.) Bertill., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Essai Crypt. Exot. (Paris) 3: 499 (1866)
 
 #### Original name
-Amanita strobiliformis var. strobiliformis
+Agaricus strobiliformis Paulet ex Vittad., 1832
 
 ### Remarks
 null

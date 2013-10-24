@@ -1,5 +1,4 @@
-Acrothecium nitidum P. Karst. SPECIES
-=======
+# Acrothecium nitidum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

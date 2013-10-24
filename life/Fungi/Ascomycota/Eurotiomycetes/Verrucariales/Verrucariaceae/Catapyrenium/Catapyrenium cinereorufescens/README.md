@@ -1,5 +1,4 @@
-Catapyrenium cinereorufescens (Vain.) J.C. Wei SPECIES
-=======
+# Catapyrenium cinereorufescens (Vain.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scoliciosporum doriae (Bagl.) Jatta SPECIES
-=======
+# Scoliciosporum doriae (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

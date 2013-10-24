@@ -1,5 +1,4 @@
-Cercospora meliae Ellis & Everh., 1887 SPECIES
-=======
+# Cercospora meliae Ellis & Everh., 1887 SPECIES
 
 #### Status
 ACCEPTED

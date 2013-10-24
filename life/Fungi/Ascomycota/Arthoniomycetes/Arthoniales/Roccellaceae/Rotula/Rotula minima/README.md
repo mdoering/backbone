@@ -1,5 +1,4 @@
-Rotula minima (Kremp.) Müll. Arg. SPECIES
-=======
+# Rotula minima (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

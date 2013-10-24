@@ -1,5 +1,4 @@
-Herpotrichia nigrotuberculata (I. Hino & Katum.) Piroz., 1972 SPECIES
-=======
+# Herpotrichia nigrotuberculata (I. Hino & Katum.) Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

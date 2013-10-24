@@ -1,14 +1,13 @@
-Gyalecta rivularis Eitner SPECIES
-=======
+# Gyalidea rivularis (Eitner) Nowak & Tobol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jber. schles. Ges. vaterl. Kultur 78: 12 (1901)
+Porosty Polskie (Warszawa/Krakow) 1118 (1975)
 
 #### Original name
 Gyalecta rivularis Eitner

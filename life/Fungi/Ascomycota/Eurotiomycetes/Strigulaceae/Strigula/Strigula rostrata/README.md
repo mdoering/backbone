@@ -1,5 +1,4 @@
-Strigula rostrata R. C. Harris & Aptroot SPECIES
-=======
+# Strigula rostrata R. C. Harris & Aptroot SPECIES
 
 #### Status
 ACCEPTED

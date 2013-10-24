@@ -1,5 +1,4 @@
-Peziza cyanea Weinm. SPECIES
-=======
+# Peziza cyanea Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morchella vaporaria Brond., 1830 SPECIES
-=======
+# Morchella vaporaria Brond., 1830 SPECIES
 
 #### Status
 ACCEPTED

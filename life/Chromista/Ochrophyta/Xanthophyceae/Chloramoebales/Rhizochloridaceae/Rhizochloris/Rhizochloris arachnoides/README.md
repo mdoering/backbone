@@ -1,5 +1,4 @@
-Rhizochloris arachnoides N. Carter SPECIES
-=======
+# Rhizochloris arachnoides N. Carter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia pyrenaeica Bon & Ballarà SPECIES
-=======
+# Collybia pyrenaeica Bon & Ballarà SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ricasolia flava Stizenb. SPECIES
-=======
+# Ricasolia flava Stizenb. SPECIES
 
 #### Status
 ACCEPTED

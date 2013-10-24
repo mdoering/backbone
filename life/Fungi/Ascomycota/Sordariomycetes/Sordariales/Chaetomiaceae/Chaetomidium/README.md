@@ -1,5 +1,4 @@
-Chaetomidium (Zopf) Saccardo, 1882 GENUS
-=======
+# Chaetomidium (Zopf) Saccardo, 1882 GENUS
 
 #### Status
 ACCEPTED

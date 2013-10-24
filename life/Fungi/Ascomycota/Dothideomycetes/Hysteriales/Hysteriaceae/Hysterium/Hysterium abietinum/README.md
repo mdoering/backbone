@@ -1,5 +1,4 @@
-Hysterium abietinum ß abietinum Pers. SPECIES
-=======
+# Hysterium abietinum ß abietinum Pers. SPECIES
 
 #### Status
 ACCEPTED

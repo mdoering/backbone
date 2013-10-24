@@ -1,5 +1,4 @@
-Phloeospora indica V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Phloeospora indica V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
 ACCEPTED

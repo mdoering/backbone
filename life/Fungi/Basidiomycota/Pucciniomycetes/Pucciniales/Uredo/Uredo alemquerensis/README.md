@@ -1,5 +1,4 @@
-Uredo alemquerensis Speg. SPECIES
-=======
+# Uredo alemquerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

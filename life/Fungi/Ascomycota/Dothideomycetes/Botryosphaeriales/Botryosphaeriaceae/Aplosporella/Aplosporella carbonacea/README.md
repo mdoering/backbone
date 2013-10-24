@@ -1,5 +1,4 @@
-Aplosporella carbonacea Pass. SPECIES
-=======
+# Aplosporella carbonacea Pass. SPECIES
 
 #### Status
 ACCEPTED

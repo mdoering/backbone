@@ -1,5 +1,4 @@
-Lecidea marcii B. de Lesd. SPECIES
-=======
+# Lecidea marcii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

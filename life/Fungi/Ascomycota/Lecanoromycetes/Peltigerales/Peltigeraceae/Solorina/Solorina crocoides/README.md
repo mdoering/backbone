@@ -1,5 +1,4 @@
-Solorina crocoides SPECIES
-=======
+# Solorina crocoides SPECIES
 
 #### Status
 ACCEPTED

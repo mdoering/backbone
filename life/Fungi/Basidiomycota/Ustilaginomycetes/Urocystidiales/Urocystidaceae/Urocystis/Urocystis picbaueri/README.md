@@ -1,5 +1,4 @@
-Urocystis picbaueri Souck.-Tomk. SPECIES
-=======
+# Urocystis picbaueri Souck.-Tomk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxospora isidiata Kalb SPECIES
-=======
+# Loxospora isidiata Kalb SPECIES
 
 #### Status
 ACCEPTED

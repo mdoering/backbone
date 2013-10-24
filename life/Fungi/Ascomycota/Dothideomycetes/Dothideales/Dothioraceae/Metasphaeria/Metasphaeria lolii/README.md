@@ -1,5 +1,4 @@
-Metasphaeria lolii Pass. SPECIES
-=======
+# Metasphaeria lolii Pass. SPECIES
 
 #### Status
 ACCEPTED

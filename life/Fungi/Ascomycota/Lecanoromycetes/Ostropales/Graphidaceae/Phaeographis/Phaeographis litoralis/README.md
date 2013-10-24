@@ -1,14 +1,13 @@
-Phaeographina litoralis A. W. Archer SPECIES
-=======
+# Phaeographis litoralis (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Telopea 9(2): 339 (2001)
+Telopea 11(1): 76 (2005)
 
 #### Original name
 Phaeographina litoralis A. W. Archer

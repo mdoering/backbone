@@ -1,5 +1,4 @@
-Diatrypaceae Nitschke FAMILY
-=======
+# Diatrypaceae Nitschke FAMILY
 
 #### Status
 ACCEPTED

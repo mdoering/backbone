@@ -1,5 +1,4 @@
-Agaricus glaucus Batsch SPECIES
-=======
+# Agaricus glaucus Batsch SPECIES
 
 #### Status
 ACCEPTED

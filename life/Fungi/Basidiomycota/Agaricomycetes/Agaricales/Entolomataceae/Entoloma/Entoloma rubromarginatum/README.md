@@ -1,5 +1,4 @@
-Entoloma rubromarginatum E. Horak SPECIES
-=======
+# Entoloma rubromarginatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

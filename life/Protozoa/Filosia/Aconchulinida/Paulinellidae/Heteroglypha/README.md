@@ -1,5 +1,4 @@
-Heteroglypha Thomas & Gauthier-Lièvre, 1959 GENUS
-=======
+# Heteroglypha Thomas & Gauthier-Lièvre, 1959 GENUS
 
 #### Status
 ACCEPTED

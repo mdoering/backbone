@@ -1,5 +1,4 @@
-Plectonema Thuret Ex Gomont, 1892 GENUS
-=======
+# Plectonema Thuret Ex Gomont, 1892 GENUS
 
 #### Status
 ACCEPTED

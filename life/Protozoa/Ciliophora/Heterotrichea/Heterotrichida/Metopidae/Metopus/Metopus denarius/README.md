@@ -1,5 +1,4 @@
-Metopus denarius Kahl, 1932 SPECIES
-=======
+# Metopus denarius Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cervina (Wahlenb.) A. Dietr. SPECIES
-=======
+# Lecidea cervina (Wahlenb.) A. Dietr. SPECIES
 
 #### Status
 ACCEPTED

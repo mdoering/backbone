@@ -1,5 +1,4 @@
-Polyporus zenkeri Henn. SPECIES
-=======
+# Polyporus zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

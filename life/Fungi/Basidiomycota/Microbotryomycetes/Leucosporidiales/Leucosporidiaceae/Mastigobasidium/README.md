@@ -1,5 +1,4 @@
-Mastigobasidium Golubev GENUS
-=======
+# Mastigobasidium Golubev GENUS
 
 #### Status
 ACCEPTED

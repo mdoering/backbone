@@ -1,8 +1,7 @@
-Micromonospora rubra Sveshnikova et al., 1969 SPECIES
-=======
+# Actinomadura rubra (Sveshnikova et al., 1969) Meyer & Sveshnikova, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

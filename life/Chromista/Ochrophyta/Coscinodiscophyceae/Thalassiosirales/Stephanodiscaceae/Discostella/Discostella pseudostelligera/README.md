@@ -1,5 +1,4 @@
-Discostella pseudostelligera (Hustedt) Houk & Klee, 2004 SPECIES
-=======
+# Discostella pseudostelligera (Hustedt) Houk & Klee, 2004 SPECIES
 
 #### Status
 ACCEPTED

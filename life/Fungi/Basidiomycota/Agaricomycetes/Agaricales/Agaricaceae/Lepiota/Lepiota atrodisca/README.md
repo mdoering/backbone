@@ -1,5 +1,4 @@
-Lepiota atrodisca Zeller SPECIES
-=======
+# Lepiota atrodisca Zeller SPECIES
 
 #### Status
 ACCEPTED

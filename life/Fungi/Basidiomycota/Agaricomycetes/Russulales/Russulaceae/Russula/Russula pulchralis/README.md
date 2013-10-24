@@ -1,5 +1,4 @@
-Russula pulchralis Britzelm. SPECIES
-=======
+# Russula pulchralis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

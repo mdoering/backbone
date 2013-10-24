@@ -1,5 +1,4 @@
-Imbricaria camtschadalis SPECIES
-=======
+# Imbricaria camtschadalis SPECIES
 
 #### Status
 ACCEPTED

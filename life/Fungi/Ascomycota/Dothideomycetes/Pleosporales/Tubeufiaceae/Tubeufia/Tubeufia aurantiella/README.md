@@ -1,14 +1,13 @@
-Calonectria aurantiella Penz. & Sacc., 1897 SPECIES
-=======
+# Tubeufia aurantiella (Penz. & Sacc.) Rossman, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 11: 515 (1897)
+Mycotaxon 8(2): 489 (1979)
 
 #### Original name
 Calonectria aurantiella Penz. & Sacc., 1897

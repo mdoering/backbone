@@ -1,5 +1,4 @@
-Ceratocladium Corda, 1839 GENUS
-=======
+# Ceratocladium Corda, 1839 GENUS
 
 #### Status
 ACCEPTED

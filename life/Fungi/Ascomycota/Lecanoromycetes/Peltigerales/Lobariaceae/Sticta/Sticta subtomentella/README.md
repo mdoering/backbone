@@ -1,8 +1,7 @@
-Sticta suborbicularis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sticta subtomentella (C. Knight ex Shirley) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Cat. Lich. Univers. 3: 399 (1925)
 
 #### Original name
-Stictina suborbicularis Müll. Arg.
+Stictina subtomentella C. Knight ex Shirley
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tetraedrixium bernaschevium Timofeev, 1973 SPECIES
-=======
+# Tetraedrixium bernaschevium Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Penicillium ochraceum Bainier, 1930 SPECIES
-=======
+# Penicillium olivicolor Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Hydropus nigrita (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Hydropus nigrita (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

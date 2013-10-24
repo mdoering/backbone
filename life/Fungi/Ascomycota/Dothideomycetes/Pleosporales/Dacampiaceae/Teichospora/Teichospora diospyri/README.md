@@ -1,5 +1,4 @@
-Teichospora diospyri Tassi SPECIES
-=======
+# Teichospora diospyri Tassi SPECIES
 
 #### Status
 ACCEPTED

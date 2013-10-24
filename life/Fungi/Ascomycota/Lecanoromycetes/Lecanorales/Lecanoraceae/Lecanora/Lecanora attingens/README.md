@@ -1,5 +1,4 @@
-Lecanora attingens (Arnold) Nyl. SPECIES
-=======
+# Lecanora attingens (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

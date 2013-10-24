@@ -1,5 +1,4 @@
-Bolbitius subvolvatus Hauskn., Contu & Krisai SPECIES
-=======
+# Bolbitius subvolvatus Hauskn., Contu & Krisai SPECIES
 
 #### Status
 ACCEPTED

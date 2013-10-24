@@ -1,5 +1,4 @@
-Granomarginata vulgaris Naumova, 1968 SPECIES
-=======
+# Granomarginata vulgaris Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

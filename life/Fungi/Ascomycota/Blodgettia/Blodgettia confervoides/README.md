@@ -1,5 +1,4 @@
-Blodgettia confervoides Harv., 1858 SPECIES
-=======
+# Blodgettia confervoides Harv., 1858 SPECIES
 
 #### Status
 ACCEPTED

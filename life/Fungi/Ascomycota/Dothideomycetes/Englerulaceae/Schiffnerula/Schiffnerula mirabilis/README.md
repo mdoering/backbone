@@ -1,5 +1,4 @@
-Schiffnerula mirabilis Höhn., 1909 SPECIES
-=======
+# Schiffnerula mirabilis Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

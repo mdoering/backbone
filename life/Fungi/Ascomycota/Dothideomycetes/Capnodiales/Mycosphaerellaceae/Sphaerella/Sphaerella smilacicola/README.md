@@ -1,5 +1,4 @@
-Sphaerella smilacicola (Schwein.) Cooke SPECIES
-=======
+# Sphaerella smilacicola (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

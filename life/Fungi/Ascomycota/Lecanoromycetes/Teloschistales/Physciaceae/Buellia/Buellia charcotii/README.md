@@ -1,5 +1,4 @@
-Buellia charcotii (Hue) Darb. SPECIES
-=======
+# Buellia charcotii (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenophoma salsolae Pisareva SPECIES
-=======
+# Selenophoma salsolae Pisareva SPECIES
 
 #### Status
 ACCEPTED

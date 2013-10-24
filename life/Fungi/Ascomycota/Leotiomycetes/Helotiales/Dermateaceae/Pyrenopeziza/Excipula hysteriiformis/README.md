@@ -1,5 +1,4 @@
-Excipula hysteriiformis De Not. SPECIES
-=======
+# Excipula hysteriiformis De Not. SPECIES
 
 #### Status
 ACCEPTED

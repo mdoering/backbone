@@ -1,5 +1,4 @@
-Chalara brefeldii Lindau, 1906 SPECIES
-=======
+# Chalara brefeldii Lindau, 1906 SPECIES
 
 #### Status
 ACCEPTED

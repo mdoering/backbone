@@ -1,5 +1,4 @@
-Lamprospora planchonis (Dunal ex Boud.) Seaver SPECIES
-=======
+# Lamprospora planchonis (Dunal ex Boud.) Seaver SPECIES
 
 #### Status
 ACCEPTED

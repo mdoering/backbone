@@ -1,5 +1,4 @@
-Pseudocercospora subrufa (Ellis & Holw.) U. Braun SPECIES
-=======
+# Pseudocercospora subrufa (Ellis & Holw.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

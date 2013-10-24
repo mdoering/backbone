@@ -1,5 +1,4 @@
-Coniosporium carbonaceum Carmich. ex Cooke SPECIES
-=======
+# Coniosporium carbonaceum Carmich. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

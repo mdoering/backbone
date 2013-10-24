@@ -1,5 +1,4 @@
-Lepocinclis wangii S. P. Chu SPECIES
-=======
+# Lepocinclis wangii S. P. Chu SPECIES
 
 #### Status
 ACCEPTED

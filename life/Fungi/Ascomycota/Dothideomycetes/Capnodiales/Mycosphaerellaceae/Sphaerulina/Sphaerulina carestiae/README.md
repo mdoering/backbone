@@ -1,5 +1,4 @@
-Sphaerulina carestiae Sacc. SPECIES
-=======
+# Sphaerulina carestiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

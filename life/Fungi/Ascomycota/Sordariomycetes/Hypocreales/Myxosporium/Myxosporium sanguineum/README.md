@@ -1,5 +1,4 @@
-Myxosporium sanguineum Fuckel SPECIES
-=======
+# Myxosporium sanguineum Fuckel SPECIES
 
 #### Status
 ACCEPTED

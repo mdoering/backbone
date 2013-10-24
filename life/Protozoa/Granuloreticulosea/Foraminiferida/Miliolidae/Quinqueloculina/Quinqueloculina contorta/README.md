@@ -1,5 +1,4 @@
-Quinqueloculina contorta SPECIES
-=======
+# Quinqueloculina contorta SPECIES
 
 #### Status
 ACCEPTED

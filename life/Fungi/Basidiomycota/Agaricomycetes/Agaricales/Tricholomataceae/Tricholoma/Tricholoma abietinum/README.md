@@ -1,5 +1,4 @@
-Tricholoma abietinum Velen. SPECIES
-=======
+# Tricholoma abietinum Velen. SPECIES
 
 #### Status
 ACCEPTED

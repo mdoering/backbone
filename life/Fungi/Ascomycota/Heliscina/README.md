@@ -1,5 +1,4 @@
-Heliscina Marvanová GENUS
-=======
+# Heliscina Marvanová GENUS
 
 #### Status
 ACCEPTED

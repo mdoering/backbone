@@ -1,5 +1,4 @@
-Salegentibacter mishustinae Nedashkovskaya et al., 2005 SPECIES
-=======
+# Salegentibacter mishustinae Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

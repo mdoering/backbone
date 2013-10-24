@@ -1,5 +1,4 @@
-Lophiotrema auctum (Sacc.) Sacc. SPECIES
-=======
+# Lophiotrema auctum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

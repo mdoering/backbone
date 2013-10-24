@@ -1,17 +1,16 @@
-Stereocaulon vesuvianum var. pulvinatum (Schaer.) P. James VARIETY
-=======
+# Stereocaulaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 596 (1826)
 
 #### Original name
-Stereocaulon paschale var. pulvinatum Schaer.
+Stereocaulaceae Chevall.
 
 ### Remarks
 null

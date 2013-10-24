@@ -1,8 +1,7 @@
-Cicinnobolus hieracii Bubák SPECIES
-=======
+# Cicinobolus hieracii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus hieracii Bubák
+Cicinobolus hieracii Bubák
 
 ### Remarks
 null

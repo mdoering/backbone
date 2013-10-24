@@ -1,5 +1,4 @@
-Telamonia subvolvata Fayod SPECIES
-=======
+# Telamonia subvolvata Fayod SPECIES
 
 #### Status
 ACCEPTED

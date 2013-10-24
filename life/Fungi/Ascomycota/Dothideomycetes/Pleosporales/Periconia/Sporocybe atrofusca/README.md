@@ -1,5 +1,4 @@
-Sporocybe atrofusca (Mont.) Sacc. SPECIES
-=======
+# Sporocybe atrofusca (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexalithus magharensis Moshkovitz & Ehrlich, 1976 SPECIES
-=======
+# Hexalithus magharensis Moshkovitz & Ehrlich, 1976 SPECIES
 
 #### Status
 ACCEPTED

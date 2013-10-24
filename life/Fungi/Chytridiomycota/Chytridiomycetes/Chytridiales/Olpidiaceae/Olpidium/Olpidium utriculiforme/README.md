@@ -1,5 +1,4 @@
-Olpidium utriculiforme Scherff. SPECIES
-=======
+# Olpidium utriculiforme Scherff. SPECIES
 
 #### Status
 ACCEPTED

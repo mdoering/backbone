@@ -1,17 +1,16 @@
-Cercospora desmodii f. leiocarpi Gonz. Frag. & Cif. FORM
-=======
+# Passalora desmodii (Ellis & Kellerm.) U. Braun, 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Dominic. Est. Agric. Moca, Ser. B, Bot. Bull. 14: 160 (1928)
+Mycotaxon 55: 231 (1995)
 
 #### Original name
-Cercospora desmodii f. leiocarpi Gonz. Frag. & Cif.
+Cercospora desmodii Ellis & Kellerm., 1884
 
 ### Remarks
 null

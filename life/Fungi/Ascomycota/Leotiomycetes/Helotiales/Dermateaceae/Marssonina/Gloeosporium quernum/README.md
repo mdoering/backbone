@@ -1,5 +1,4 @@
-Gloeosporium quernum Harkn. SPECIES
-=======
+# Gloeosporium quernum Harkn. SPECIES
 
 #### Status
 ACCEPTED

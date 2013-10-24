@@ -1,5 +1,4 @@
-Acaromyces laviae Lavie, 1950 SPECIES
-=======
+# Acaromyces laviae Lavie, 1950 SPECIES
 
 #### Status
 ACCEPTED

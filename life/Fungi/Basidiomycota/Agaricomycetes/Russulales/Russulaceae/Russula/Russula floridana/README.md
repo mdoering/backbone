@@ -1,5 +1,4 @@
-Russula floridana Murrill SPECIES
-=======
+# Russula floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

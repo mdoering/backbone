@@ -1,5 +1,4 @@
-Platygrapha bimarginata (Eschw.) Nyl. SPECIES
-=======
+# Platygrapha bimarginata (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

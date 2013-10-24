@@ -1,5 +1,4 @@
-Nectria amygdalina (P. Karst.) Mussat SPECIES
-=======
+# Nectria amygdalina (P. Karst.) Mussat SPECIES
 
 #### Status
 ACCEPTED

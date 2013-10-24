@@ -1,5 +1,4 @@
-Capnogonium amazonense Bat. & Peres SPECIES
-=======
+# Capnogonium amazonense Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

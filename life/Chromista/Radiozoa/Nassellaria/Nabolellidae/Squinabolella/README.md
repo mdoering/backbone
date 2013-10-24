@@ -1,5 +1,4 @@
-Squinabolella Kozur & Mostler, 1979 GENUS
-=======
+# Squinabolella Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

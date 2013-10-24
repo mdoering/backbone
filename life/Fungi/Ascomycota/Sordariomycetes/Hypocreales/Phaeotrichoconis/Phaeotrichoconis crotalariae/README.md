@@ -1,17 +1,16 @@
-Phaeotrichoconis terrestre R.Y. Roy & P.C. Gupta SPECIES
-=======
+# Phaeotrichoconis crotalariae (M.A. Salam & P.N. Rao) Subram., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Indian Acad. Sci. , Sect. B 44: 2 (1956)
 
 #### Original name
-Phaeotrichoconis terrestre R.Y. Roy & P.C. Gupta
+Trichoconis crotalariae M.A. Salam & P.N. Rao, 1954
 
 ### Remarks
 null

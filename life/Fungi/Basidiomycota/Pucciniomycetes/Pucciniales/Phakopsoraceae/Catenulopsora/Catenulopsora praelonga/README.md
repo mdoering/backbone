@@ -1,5 +1,4 @@
-Catenulopsora praelonga (Speg.) Buriticá SPECIES
-=======
+# Catenulopsora praelonga (Speg.) Buriticá SPECIES
 
 #### Status
 ACCEPTED

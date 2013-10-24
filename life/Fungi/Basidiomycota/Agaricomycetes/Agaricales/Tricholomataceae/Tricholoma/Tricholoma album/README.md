@@ -1,17 +1,16 @@
-Agaricus albus var. albus VARIETY
-=======
+# Tricholoma album (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 131 (1871)
 
 #### Original name
-null
+Agaricus albus Schaeff., 1774
 
 ### Remarks
 null

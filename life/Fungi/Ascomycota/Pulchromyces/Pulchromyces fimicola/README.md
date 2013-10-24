@@ -1,14 +1,13 @@
-Phymatotrichum fimicola V. Dring, 1959 SPECIES
-=======
+# Pulchromyces fimicola (V. Dring) Hennebert, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 42: 406 (1959)
+Persoonia 7(2): 199 (1973)
 
 #### Original name
 Phymatotrichum fimicola V. Dring, 1959

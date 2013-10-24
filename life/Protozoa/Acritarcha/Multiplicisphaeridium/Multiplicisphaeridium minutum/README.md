@@ -1,5 +1,4 @@
-Multiplicisphaeridium minutum Pöthé de Baldis, 1974 SPECIES
-=======
+# Multiplicisphaeridium minutum Pöthé de Baldis, 1974 SPECIES
 
 #### Status
 ACCEPTED

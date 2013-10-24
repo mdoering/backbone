@@ -1,5 +1,4 @@
-Caecomyces communis J.J. Gold, I.B. Heath & Bauchop, 1988 SPECIES
-=======
+# Caecomyces communis J.J. Gold, I.B. Heath & Bauchop, 1988 SPECIES
 
 #### Status
 ACCEPTED

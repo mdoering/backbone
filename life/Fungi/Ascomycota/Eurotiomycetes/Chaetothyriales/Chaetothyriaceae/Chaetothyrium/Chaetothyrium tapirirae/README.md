@@ -1,5 +1,4 @@
-Chaetothyrium tapirirae Bat. SPECIES
-=======
+# Chaetothyrium tapirirae Bat. SPECIES
 
 #### Status
 ACCEPTED

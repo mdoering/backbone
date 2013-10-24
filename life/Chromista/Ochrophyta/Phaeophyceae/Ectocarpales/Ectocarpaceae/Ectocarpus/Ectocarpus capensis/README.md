@@ -1,5 +1,4 @@
-Ectocarpus capensis Kützing SPECIES
-=======
+# Ectocarpus capensis Kützing SPECIES
 
 #### Status
 ACCEPTED

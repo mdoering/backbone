@@ -1,5 +1,4 @@
-Pseudocercosporella hyaloconidiophora (Goh & W.H. Hsieh) U. Braun SPECIES
-=======
+# Pseudocercosporella hyaloconidiophora (Goh & W.H. Hsieh) U. Braun SPECIES
 
 #### Status
 ACCEPTED

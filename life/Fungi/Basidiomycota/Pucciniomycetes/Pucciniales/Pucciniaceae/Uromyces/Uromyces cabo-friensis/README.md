@@ -1,5 +1,4 @@
-Uromyces cabo-friensis Henn. SPECIES
-=======
+# Uromyces cabo-friensis Henn. SPECIES
 
 #### Status
 ACCEPTED

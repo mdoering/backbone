@@ -1,5 +1,4 @@
-Polyporus notarisii Berk. SPECIES
-=======
+# Polyporus notarisii Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lionontus crystallinus SPECIES
-=======
+# Litonotus crystallinus (Vuxanovici, 1960) Foissner, Berger, Blatterer & Kohmann, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Rugosomyces phragmitidis (Kalamees) Kalamees SPECIES
-=======
+# Rugosomyces phragmitis (Kalamees) Kalamees SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Scripta Mycol. , Tartu 18: 104 (2004)
 
 #### Original name
 Calocybe phragmitis Kalamees

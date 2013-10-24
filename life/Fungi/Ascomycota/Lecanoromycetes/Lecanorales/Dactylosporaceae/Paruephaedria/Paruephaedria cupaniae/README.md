@@ -1,5 +1,4 @@
-Paruephaedria cupaniae Bat. & A.F. Vital SPECIES
-=======
+# Paruephaedria cupaniae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

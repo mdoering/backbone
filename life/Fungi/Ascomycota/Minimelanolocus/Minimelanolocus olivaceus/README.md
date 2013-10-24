@@ -1,5 +1,4 @@
-Minimelanolocus olivaceus R.F. Castañeda & Guarro, 2003 SPECIES
-=======
+# Minimelanolocus olivaceus R.F. Castañeda & Guarro, 2003 SPECIES
 
 #### Status
 ACCEPTED

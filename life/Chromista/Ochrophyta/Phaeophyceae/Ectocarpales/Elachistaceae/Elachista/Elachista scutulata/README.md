@@ -1,8 +1,7 @@
-Elachista scutellata SPECIES
-=======
+# Elachista scutulata (J.E. Smith) Duby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

@@ -1,5 +1,4 @@
-Dicercomonas Diesing, 1866 GENUS
-=======
+# Dicercomonas Diesing, 1866 GENUS
 
 #### Status
 ACCEPTED

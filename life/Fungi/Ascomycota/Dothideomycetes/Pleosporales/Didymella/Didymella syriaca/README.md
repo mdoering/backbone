@@ -1,5 +1,4 @@
-Didymella syriaca Petr. SPECIES
-=======
+# Didymella syriaca Petr. SPECIES
 
 #### Status
 ACCEPTED

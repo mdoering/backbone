@@ -1,5 +1,4 @@
-Hendersonia vanhoffeniana Allesch. SPECIES
-=======
+# Hendersonia vanhoffeniana Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pyrrhospora fuscidiata Aptroot & Wolseley SPECIES
-=======
+# Pyrrhospora fuscisidiata Aptroot & Wolseley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot, Saipunkaew, Sipman, Sparrius & Wolseley, Fungal Diversity 24: 121 (2007)
 
 #### Original name
-Pyrrhospora fuscidiata Aptroot & Wolseley
+Pyrrhospora fuscisidiata Aptroot & Wolseley
 
 ### Remarks
 null

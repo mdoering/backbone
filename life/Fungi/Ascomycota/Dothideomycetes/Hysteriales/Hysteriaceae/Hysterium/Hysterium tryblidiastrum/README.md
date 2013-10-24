@@ -1,5 +1,4 @@
-Hysterium tryblidiastrum De Not. SPECIES
-=======
+# Hysterium tryblidiastrum De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micramphora Valkanov, 1970 GENUS
-=======
+# Micramphora Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

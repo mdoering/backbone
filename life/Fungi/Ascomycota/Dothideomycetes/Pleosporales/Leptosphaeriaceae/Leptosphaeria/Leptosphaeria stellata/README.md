@@ -1,5 +1,4 @@
-Leptosphaeria stellata Pat. SPECIES
-=======
+# Leptosphaeria stellata Pat. SPECIES
 
 #### Status
 ACCEPTED

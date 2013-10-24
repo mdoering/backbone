@@ -1,5 +1,4 @@
-Sphaerella calycicola Pass. SPECIES
-=======
+# Sphaerella calycicola Pass. SPECIES
 
 #### Status
 ACCEPTED

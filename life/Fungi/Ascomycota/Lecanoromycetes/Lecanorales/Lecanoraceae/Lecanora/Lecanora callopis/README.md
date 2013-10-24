@@ -1,5 +1,4 @@
-Lecanora callopis Meyen & Flot. SPECIES
-=======
+# Lecanora callopis Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

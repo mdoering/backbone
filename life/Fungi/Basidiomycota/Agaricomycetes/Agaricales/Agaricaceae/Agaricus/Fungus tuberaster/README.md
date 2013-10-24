@@ -1,5 +1,4 @@
-Fungus tuberaster Paulet SPECIES
-=======
+# Fungus tuberaster Paulet SPECIES
 
 #### Status
 ACCEPTED

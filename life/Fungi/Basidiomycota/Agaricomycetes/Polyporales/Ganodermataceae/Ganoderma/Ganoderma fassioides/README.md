@@ -1,5 +1,4 @@
-Ganoderma fassioides Steyaert, 1961 SPECIES
-=======
+# Ganoderma fassioides Steyaert, 1961 SPECIES
 
 #### Status
 ACCEPTED

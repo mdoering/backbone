@@ -1,5 +1,4 @@
-Cannosphaeropsis filifera Cookson & Eisenack SPECIES
-=======
+# Cannosphaeropsis filifera Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

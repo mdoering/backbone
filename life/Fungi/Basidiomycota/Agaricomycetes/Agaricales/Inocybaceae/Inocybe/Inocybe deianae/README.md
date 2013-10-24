@@ -1,5 +1,4 @@
-Inocybe deianae Eyssart. SPECIES
-=======
+# Inocybe deianae Eyssart. SPECIES
 
 #### Status
 ACCEPTED

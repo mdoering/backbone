@@ -1,5 +1,4 @@
-Mycena meyeri-ludovici (Eichelb.) Sacc. & Trotter SPECIES
-=======
+# Mycena meyeri-ludovici (Eichelb.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

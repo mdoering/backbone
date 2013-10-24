@@ -1,5 +1,4 @@
-Lambertella bouchetii Grelet SPECIES
-=======
+# Lambertella bouchetii Grelet SPECIES
 
 #### Status
 ACCEPTED

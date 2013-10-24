@@ -1,5 +1,4 @@
-Pluteus horridilamellus S. Ito & S. Imai SPECIES
-=======
+# Pluteus horridilamellus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

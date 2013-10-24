@@ -1,5 +1,4 @@
-Heterodermia neoleucomelaena f. neoleucomelaena FORM
-=======
+# Heterodermia neoleucomelaena (Kurok.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Geophytology 3: 114 (1973)
 
 #### Original name
-Heterodermia neoleucomelaena f. neoleucomelaena
+Anaptychia neoleucomelaena
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Daedalea proserpens E.H.L. Krause SPECIES
-=======
+# Daedalea proserpens E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

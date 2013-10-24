@@ -1,5 +1,4 @@
-Echidnodella africana (Doidge) Arx SPECIES
-=======
+# Echidnodella africana (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

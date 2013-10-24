@@ -1,5 +1,4 @@
-Botryosphaeria gleditschiae (Schwein.) Sacc. SPECIES
-=======
+# Botryosphaeria gleditschiae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

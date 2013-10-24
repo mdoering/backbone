@@ -1,5 +1,4 @@
-Septoria dysentericae Brunaud SPECIES
-=======
+# Septoria dysentericae Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pseudomuralis Speg. SPECIES
-=======
+# Mycena pseudomuralis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis saccharomyces (P.D. Orton) P. Roux & Guy Garcia, 2006 SPECIES
-=======
+# Coprinopsis saccharomyces (P.D. Orton) P. Roux & Guy Garcia, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia arrhenatheri Kuprev. SPECIES
-=======
+# Tuburcinia arrhenatheri Kuprev. SPECIES
 
 #### Status
 ACCEPTED

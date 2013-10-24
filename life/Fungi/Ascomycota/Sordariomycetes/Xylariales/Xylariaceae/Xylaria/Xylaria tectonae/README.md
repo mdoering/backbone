@@ -1,5 +1,4 @@
-Xylaria tectonae A. Pande & Waing. SPECIES
-=======
+# Xylaria tectonae A. Pande & Waing. SPECIES
 
 #### Status
 ACCEPTED

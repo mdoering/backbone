@@ -1,5 +1,4 @@
-Hypotrachyna carneola Kurok. & K.H. Moon SPECIES
-=======
+# Hypotrachyna carneola Kurok. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea adpressula Müll. Arg. SPECIES
-=======
+# Lecidea adpressula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

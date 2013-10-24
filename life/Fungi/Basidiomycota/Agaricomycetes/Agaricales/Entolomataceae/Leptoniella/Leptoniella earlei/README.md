@@ -1,5 +1,4 @@
-Leptoniella earlei Murrill SPECIES
-=======
+# Leptoniella earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entophysalis atroviolacea Novácek SPECIES
-=======
+# Entophysalis atroviolacea Novácek SPECIES
 
 #### Status
 ACCEPTED

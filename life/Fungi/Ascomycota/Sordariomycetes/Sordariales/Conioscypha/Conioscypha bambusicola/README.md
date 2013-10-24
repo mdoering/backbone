@@ -1,5 +1,4 @@
-Conioscypha bambusicola Matsush. SPECIES
-=======
+# Conioscypha bambusicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

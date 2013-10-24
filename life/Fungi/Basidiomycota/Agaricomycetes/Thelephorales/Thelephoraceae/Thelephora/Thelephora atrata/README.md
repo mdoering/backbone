@@ -1,5 +1,4 @@
-Thelephora atrata Sw. SPECIES
-=======
+# Thelephora atrata Sw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biddulphia schroederiana Schüssnig, 1915 SPECIES
-=======
+# Biddulphia schroederiana Schüssnig, 1915 SPECIES
 
 #### Status
 ACCEPTED

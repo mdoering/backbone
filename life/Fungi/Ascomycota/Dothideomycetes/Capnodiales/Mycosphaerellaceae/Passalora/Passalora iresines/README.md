@@ -1,5 +1,4 @@
-Passalora iresines (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora iresines (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

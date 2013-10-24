@@ -1,5 +1,4 @@
-Haplophyse oahuensis Theiss., 1916 SPECIES
-=======
+# Haplophyse oahuensis Theiss., 1916 SPECIES
 
 #### Status
 ACCEPTED

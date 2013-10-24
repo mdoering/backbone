@@ -1,5 +1,4 @@
-Dictyosporium australiense B. Sutton SPECIES
-=======
+# Dictyosporium australiense B. Sutton SPECIES
 
 #### Status
 ACCEPTED

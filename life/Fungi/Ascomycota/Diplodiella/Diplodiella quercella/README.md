@@ -1,5 +1,4 @@
-Diplodiella quercella (Sacc. & Penz.) Delacr. SPECIES
-=======
+# Diplodiella quercella (Sacc. & Penz.) Delacr. SPECIES
 
 #### Status
 ACCEPTED

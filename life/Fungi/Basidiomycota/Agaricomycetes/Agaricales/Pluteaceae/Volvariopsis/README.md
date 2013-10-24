@@ -1,5 +1,4 @@
-Volvariopsis GENUS
-=======
+# Volvariopsis GENUS
 
 #### Status
 ACCEPTED

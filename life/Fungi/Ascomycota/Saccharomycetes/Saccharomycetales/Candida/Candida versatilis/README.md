@@ -1,8 +1,7 @@
-Debaryomyces tamarii Y. Ohara & Nonom. ex Van der Walt & Johannsen, 1975 SPECIES
-=======
+# Candida versatilis (Etchells & T.A. Bell) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

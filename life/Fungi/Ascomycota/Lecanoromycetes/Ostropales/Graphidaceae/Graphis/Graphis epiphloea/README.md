@@ -1,5 +1,4 @@
-Graphis epiphloea Zahlbr. SPECIES
-=======
+# Graphis epiphloea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

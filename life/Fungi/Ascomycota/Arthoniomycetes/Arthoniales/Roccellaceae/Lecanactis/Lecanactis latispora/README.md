@@ -1,5 +1,4 @@
-Lecanactis latispora Egea & Torrente SPECIES
-=======
+# Lecanactis latispora Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

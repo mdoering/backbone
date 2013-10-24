@@ -1,5 +1,4 @@
-Diorchidium lophatheri Syd. & P. Syd. SPECIES
-=======
+# Diorchidium lophatheri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

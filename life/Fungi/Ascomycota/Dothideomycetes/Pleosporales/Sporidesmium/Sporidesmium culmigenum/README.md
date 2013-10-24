@@ -1,5 +1,4 @@
-Sporidesmium culmigenum Cooke SPECIES
-=======
+# Sporidesmium culmigenum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis passaniae (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis passaniae (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

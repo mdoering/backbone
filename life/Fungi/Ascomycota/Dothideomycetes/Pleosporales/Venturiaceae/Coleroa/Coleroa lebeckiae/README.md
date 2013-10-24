@@ -1,5 +1,4 @@
-Coleroa lebeckiae (Verwoerd & Dippen.) Arx SPECIES
-=======
+# Coleroa lebeckiae (Verwoerd & Dippen.) Arx SPECIES
 
 #### Status
 ACCEPTED

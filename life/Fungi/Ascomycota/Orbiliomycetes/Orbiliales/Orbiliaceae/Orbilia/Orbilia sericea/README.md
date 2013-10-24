@@ -1,5 +1,4 @@
-Orbilia sericea f. sericea FORM
-=======
+# Orbilia sericea Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Orbilia sericea f. sericea
+Orbilia sericea Henn.
 
 ### Remarks
 null

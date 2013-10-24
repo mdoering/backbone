@@ -1,5 +1,4 @@
-Euglena klebsi Mainx SPECIES
-=======
+# Euglena klebsi Mainx SPECIES
 
 #### Status
 ACCEPTED

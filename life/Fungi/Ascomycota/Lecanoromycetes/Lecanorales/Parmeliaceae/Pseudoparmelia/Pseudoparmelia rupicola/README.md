@@ -1,5 +1,4 @@
-Pseudoparmelia rupicola (Lynge) Hale SPECIES
-=======
+# Pseudoparmelia rupicola (Lynge) Hale SPECIES
 
 #### Status
 ACCEPTED

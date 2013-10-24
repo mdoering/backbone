@@ -1,5 +1,4 @@
-Funiliomyces Aptroot GENUS
-=======
+# Funiliomyces Aptroot GENUS
 
 #### Status
 ACCEPTED

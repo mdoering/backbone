@@ -1,5 +1,4 @@
-Pleospora ascodedicata L. Holm & Nograsek SPECIES
-=======
+# Pleospora ascodedicata L. Holm & Nograsek SPECIES
 
 #### Status
 ACCEPTED

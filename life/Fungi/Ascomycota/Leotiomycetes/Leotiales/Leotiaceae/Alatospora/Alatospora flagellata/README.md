@@ -1,5 +1,4 @@
-Alatospora flagellata (J. Gönczöl) Marvanová, 1980 SPECIES
-=======
+# Alatospora flagellata (J. Gönczöl) Marvanová, 1980 SPECIES
 
 #### Status
 ACCEPTED

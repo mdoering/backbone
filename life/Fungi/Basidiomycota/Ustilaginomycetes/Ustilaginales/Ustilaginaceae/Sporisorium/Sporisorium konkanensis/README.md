@@ -1,5 +1,4 @@
-Sporisorium konkanensis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Sporisorium konkanensis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

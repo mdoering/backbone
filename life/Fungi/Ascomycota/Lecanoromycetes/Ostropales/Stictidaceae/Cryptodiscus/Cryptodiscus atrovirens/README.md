@@ -1,5 +1,4 @@
-Cryptodiscus atrovirens (Fr.) Corda SPECIES
-=======
+# Cryptodiscus atrovirens (Fr.) Corda SPECIES
 
 #### Status
 ACCEPTED

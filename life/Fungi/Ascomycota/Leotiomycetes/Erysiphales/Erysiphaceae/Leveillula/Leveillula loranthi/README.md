@@ -1,5 +1,4 @@
-Leveillula loranthi Haajian, Moharrery & Hedjar. SPECIES
-=======
+# Leveillula loranthi Haajian, Moharrery & Hedjar. SPECIES
 
 #### Status
 ACCEPTED

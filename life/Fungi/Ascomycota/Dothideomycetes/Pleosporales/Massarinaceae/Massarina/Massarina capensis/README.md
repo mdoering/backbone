@@ -1,5 +1,4 @@
-Massarina capensis Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Massarina capensis Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniocybomyces furfuraceae Cif. & Tomas. SPECIES
-=======
+# Coniocybomyces furfuraceae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria quercina Desm., 1847 SPECIES
-=======
+# Septoria quercina Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

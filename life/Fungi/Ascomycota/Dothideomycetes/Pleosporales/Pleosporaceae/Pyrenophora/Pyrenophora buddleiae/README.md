@@ -1,5 +1,4 @@
-Pyrenophora buddleiae Gucevic SPECIES
-=======
+# Pyrenophora buddleiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

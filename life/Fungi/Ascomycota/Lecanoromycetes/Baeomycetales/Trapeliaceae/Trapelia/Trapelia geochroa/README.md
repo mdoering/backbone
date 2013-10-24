@@ -1,8 +1,7 @@
-Biatora geochroa Körb. SPECIES
-=======
+# Trapelia geochroa (Körb.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Biatora geochroa Körb.
+null
 
 ### Remarks
 null

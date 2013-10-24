@@ -1,5 +1,4 @@
-Psorotichia fuliginella (Nyl.) Vain. SPECIES
-=======
+# Psorotichia fuliginella (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

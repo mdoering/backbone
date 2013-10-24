@@ -1,5 +1,4 @@
-Podospora argentinensis (Speg.) J.H. Mirza & Cain SPECIES
-=======
+# Podospora argentinensis (Speg.) J.H. Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

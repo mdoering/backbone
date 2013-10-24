@@ -1,5 +1,4 @@
-Dendrophoma solidaginis (Fr.) Starbäck SPECIES
-=======
+# Dendrophoma solidaginis (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

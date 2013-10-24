@@ -1,5 +1,4 @@
-Eutypella manihoticola Viégas SPECIES
-=======
+# Eutypella manihoticola Viégas SPECIES
 
 #### Status
 ACCEPTED

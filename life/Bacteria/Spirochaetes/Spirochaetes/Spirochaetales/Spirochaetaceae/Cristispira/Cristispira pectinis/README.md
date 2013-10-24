@@ -1,5 +1,4 @@
-Cristispira pectinis Gross, 1910 (Approved Lists, 1980) SPECIES
-=======
+# Cristispira pectinis Gross, 1910 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

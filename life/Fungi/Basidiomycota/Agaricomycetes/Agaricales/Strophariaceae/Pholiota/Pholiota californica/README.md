@@ -1,5 +1,4 @@
-Pholiota californica (Earle) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota californica (Earle) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

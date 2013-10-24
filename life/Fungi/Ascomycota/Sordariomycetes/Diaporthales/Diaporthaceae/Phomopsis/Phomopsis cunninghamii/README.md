@@ -1,5 +1,4 @@
-Phomopsis cunninghamii Syd., 1924 SPECIES
-=======
+# Phomopsis cunninghamii Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

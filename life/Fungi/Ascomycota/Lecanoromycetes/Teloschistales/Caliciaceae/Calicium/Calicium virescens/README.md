@@ -1,5 +1,4 @@
-Calicium virescens (Schaer.) Hepp SPECIES
-=======
+# Calicium virescens (Schaer.) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochammina rotaliformis SPECIES
-=======
+# Trochammina rotaliformis SPECIES
 
 #### Status
 ACCEPTED

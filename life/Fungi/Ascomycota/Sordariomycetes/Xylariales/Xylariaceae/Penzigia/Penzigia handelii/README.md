@@ -1,5 +1,4 @@
-Penzigia handelii Petr. SPECIES
-=======
+# Penzigia handelii Petr. SPECIES
 
 #### Status
 ACCEPTED

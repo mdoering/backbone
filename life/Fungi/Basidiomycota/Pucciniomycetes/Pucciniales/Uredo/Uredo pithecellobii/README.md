@@ -1,17 +1,16 @@
-Uredo pithecolobii Racib. SPECIES
-=======
+# Uredo pithecellobii Racib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Parasit. Alg. Pilze Java's (Jakarta) 3: 12 (1900)
 
 #### Original name
-Uredo pithecolobii Racib.
+Uredo pithecellobii Racib.
 
 ### Remarks
 null

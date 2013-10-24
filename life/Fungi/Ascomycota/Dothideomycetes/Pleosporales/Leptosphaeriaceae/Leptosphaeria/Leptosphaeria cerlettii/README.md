@@ -1,5 +1,4 @@
-Leptosphaeria cerlettii Speg. SPECIES
-=======
+# Leptosphaeria cerlettii Speg. SPECIES
 
 #### Status
 ACCEPTED

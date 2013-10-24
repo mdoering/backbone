@@ -1,5 +1,4 @@
-Rozella blastocladiae (Minden) Sparrow SPECIES
-=======
+# Rozella blastocladiae (Minden) Sparrow SPECIES
 
 #### Status
 ACCEPTED

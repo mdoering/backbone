@@ -1,5 +1,4 @@
-Trachelomonas globularis f. collopraedita Hollerbach FORM
-=======
+# Trachelomonas globularis (Averintsev) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium deightonii Syd. SPECIES
-=======
+# Aecidium deightonii Syd. SPECIES
 
 #### Status
 ACCEPTED

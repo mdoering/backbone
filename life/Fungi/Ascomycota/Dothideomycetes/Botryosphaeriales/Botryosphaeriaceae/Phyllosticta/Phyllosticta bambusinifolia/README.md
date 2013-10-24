@@ -1,5 +1,4 @@
-Phyllosticta bambusinifolia Bat. SPECIES
-=======
+# Phyllosticta bambusinifolia Bat. SPECIES
 
 #### Status
 ACCEPTED

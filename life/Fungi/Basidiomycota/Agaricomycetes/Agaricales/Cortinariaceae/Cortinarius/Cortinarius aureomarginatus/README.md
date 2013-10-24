@@ -1,5 +1,4 @@
-Cortinarius aureomarginatus A. Pearson ex P.D. Orton, 1984 SPECIES
-=======
+# Cortinarius aureomarginatus A. Pearson ex P.D. Orton, 1984 SPECIES
 
 #### Status
 ACCEPTED

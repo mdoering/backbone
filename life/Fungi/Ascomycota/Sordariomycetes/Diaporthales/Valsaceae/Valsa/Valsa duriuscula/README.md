@@ -1,5 +1,4 @@
-Valsa duriuscula G.H. Otth SPECIES
-=======
+# Valsa duriuscula G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symplocastrum friesii (ex Kirchner) Agardh, 1900 SPECIES
-=======
+# Symplocastrum friesii (ex Kirchner) Agardh, 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe amoenolens Malençon SPECIES
-=======
+# Clitocybe amoenolens Malençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maupasella cepedei subsp. cepedei SUBSPECIES
-=======
+# Maupasella cepedei Puytorac SPECIES
 
 #### Status
 ACCEPTED

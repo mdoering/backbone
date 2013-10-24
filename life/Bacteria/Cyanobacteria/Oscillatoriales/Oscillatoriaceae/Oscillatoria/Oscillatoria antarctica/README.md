@@ -1,5 +1,4 @@
-Oscillatoria antarctica A. Massalski, T. Mrozinska & M. Olech SPECIES
-=======
+# Oscillatoria antarctica A. Massalski, T. Mrozinska & M. Olech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanoconis fructigena Rick SPECIES
-=======
+# Drepanoconis fructigena Rick SPECIES
 
 #### Status
 ACCEPTED

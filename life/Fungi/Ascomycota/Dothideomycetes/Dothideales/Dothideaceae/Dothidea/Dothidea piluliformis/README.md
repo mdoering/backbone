@@ -1,5 +1,4 @@
-Dothidea piluliformis Berk. & M.A. Curtis SPECIES
-=======
+# Dothidea piluliformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia exoptata Cummins SPECIES
-=======
+# Puccinia exoptata Cummins SPECIES
 
 #### Status
 ACCEPTED

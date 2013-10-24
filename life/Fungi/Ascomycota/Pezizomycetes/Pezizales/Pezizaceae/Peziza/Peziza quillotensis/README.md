@@ -1,5 +1,4 @@
-Peziza quillotensis Mont. SPECIES
-=======
+# Peziza quillotensis Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triquetrorhabdulus striatus Müller, 1974 SPECIES
-=======
+# Triquetrorhabdulus striatus Müller, 1974 SPECIES
 
 #### Status
 ACCEPTED

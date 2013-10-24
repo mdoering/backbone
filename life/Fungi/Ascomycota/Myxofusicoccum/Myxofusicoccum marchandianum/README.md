@@ -1,5 +1,4 @@
-Myxofusicoccum marchandianum (Sacc. & Roum.) Höhn. SPECIES
-=======
+# Myxofusicoccum marchandianum (Sacc. & Roum.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

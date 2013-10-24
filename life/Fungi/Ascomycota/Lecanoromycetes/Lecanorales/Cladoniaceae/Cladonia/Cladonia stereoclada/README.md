@@ -1,5 +1,4 @@
-Cladonia stereoclada Abbayes SPECIES
-=======
+# Cladonia stereoclada Abbayes SPECIES
 
 #### Status
 ACCEPTED

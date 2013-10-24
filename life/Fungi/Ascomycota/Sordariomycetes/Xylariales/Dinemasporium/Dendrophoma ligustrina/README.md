@@ -1,5 +1,4 @@
-Dendrophoma ligustrina Kirschst. SPECIES
-=======
+# Dendrophoma ligustrina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Oxytricha histriomuscorum Foissner, Blatterer, Berger & Kohmann, 1991 SPECIES
-=======
+# Sterkiella histriomuscorum (Foissner, Blatterer, Berger & Kohmann, 1991) Foissner, Blatterer, Berger & Kohmann, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

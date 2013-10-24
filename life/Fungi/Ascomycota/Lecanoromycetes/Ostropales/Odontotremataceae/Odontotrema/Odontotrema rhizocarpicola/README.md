@@ -1,5 +1,4 @@
-Odontotrema rhizocarpicola Zhurb., Diederich & Himelbrant SPECIES
-=======
+# Odontotrema rhizocarpicola Zhurb., Diederich & Himelbrant SPECIES
 
 #### Status
 ACCEPTED

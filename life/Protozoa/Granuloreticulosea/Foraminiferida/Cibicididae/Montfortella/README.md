@@ -1,5 +1,4 @@
-Montfortella Loeblich & Tappan, 1963 GENUS
-=======
+# Montfortella Loeblich & Tappan, 1963 GENUS
 
 #### Status
 ACCEPTED

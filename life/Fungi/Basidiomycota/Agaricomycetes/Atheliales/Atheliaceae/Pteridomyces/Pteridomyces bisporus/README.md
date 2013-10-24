@@ -1,17 +1,16 @@
-Athelopsis bicornis Hjortstam & Ryvarden, 2010 SPECIES
-=======
+# Pteridomyces bisporus Boidin & Gilles, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 104(2): 65 (1988)
 
 #### Original name
-null
+Pteridomyces bisporus Boidin & Gilles, 1988
 
 ### Remarks
 null

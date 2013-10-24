@@ -1,5 +1,4 @@
-Pemphidium calamicola K.D. Hyde SPECIES
-=======
+# Pemphidium calamicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

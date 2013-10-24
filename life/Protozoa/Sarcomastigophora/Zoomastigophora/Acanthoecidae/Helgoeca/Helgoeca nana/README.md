@@ -1,8 +1,7 @@
-Acanthoeca nana Thomsen, 1997 SPECIES
-=======
+# Helgoeca nana Leadbeater, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

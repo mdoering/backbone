@@ -1,5 +1,4 @@
-Porina macrocarpa Riddle SPECIES
-=======
+# Porina macrocarpa Riddle SPECIES
 
 #### Status
 ACCEPTED

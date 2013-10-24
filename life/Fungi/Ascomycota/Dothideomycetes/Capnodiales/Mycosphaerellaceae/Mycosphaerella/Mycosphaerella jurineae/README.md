@@ -1,5 +1,4 @@
-Mycosphaerella jurineae (Fuckel) Starbäck SPECIES
-=======
+# Mycosphaerella jurineae (Fuckel) Starbäck SPECIES
 
 #### Status
 ACCEPTED

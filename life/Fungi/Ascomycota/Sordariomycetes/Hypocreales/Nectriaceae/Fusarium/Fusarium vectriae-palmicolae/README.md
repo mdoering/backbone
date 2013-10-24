@@ -1,5 +1,4 @@
-Fusarium vectriae-palmicolae Henn. SPECIES
-=======
+# Fusarium vectriae-palmicolae Henn. SPECIES
 
 #### Status
 ACCEPTED

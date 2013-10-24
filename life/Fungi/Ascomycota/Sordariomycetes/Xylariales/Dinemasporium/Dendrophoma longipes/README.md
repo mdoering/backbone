@@ -1,5 +1,4 @@
-Dendrophoma longipes (Berk. & M.A. Curtis) Grove SPECIES
-=======
+# Dendrophoma longipes (Berk. & M.A. Curtis) Grove SPECIES
 
 #### Status
 ACCEPTED

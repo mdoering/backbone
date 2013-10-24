@@ -1,5 +1,4 @@
-Rhabdospora serratulae Petr. SPECIES
-=======
+# Rhabdospora serratulae Petr. SPECIES
 
 #### Status
 ACCEPTED

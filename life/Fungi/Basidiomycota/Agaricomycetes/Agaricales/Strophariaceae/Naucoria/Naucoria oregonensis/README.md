@@ -1,5 +1,4 @@
-Naucoria oregonensis (Murrill) Kaufm. SPECIES
-=======
+# Naucoria oregonensis (Murrill) Kaufm. SPECIES
 
 #### Status
 ACCEPTED

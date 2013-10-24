@@ -1,5 +1,4 @@
-Sticta subdissecta (Nyl.) Müll. Arg. SPECIES
-=======
+# Sticta subdissecta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia megalocarpa (Müll. Arg.) R. Sant. SPECIES
-=======
+# Cryptothecia megalocarpa (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

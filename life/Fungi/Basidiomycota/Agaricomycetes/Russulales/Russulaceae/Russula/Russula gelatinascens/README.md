@@ -1,5 +1,4 @@
-Russula gelatinascens Singer SPECIES
-=======
+# Russula gelatinascens Singer SPECIES
 
 #### Status
 ACCEPTED

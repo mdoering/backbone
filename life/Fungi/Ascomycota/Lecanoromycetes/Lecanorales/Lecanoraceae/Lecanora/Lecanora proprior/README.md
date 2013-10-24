@@ -1,5 +1,4 @@
-Lecanora proprior Nyl. SPECIES
-=======
+# Lecanora proprior Nyl. SPECIES
 
 #### Status
 ACCEPTED

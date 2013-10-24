@@ -1,5 +1,4 @@
-Coniophora ditissima Ellis & Everh. SPECIES
-=======
+# Coniophora ditissima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

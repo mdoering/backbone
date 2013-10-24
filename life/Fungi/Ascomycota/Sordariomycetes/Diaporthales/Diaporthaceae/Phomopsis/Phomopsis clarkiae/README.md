@@ -1,5 +1,4 @@
-Phomopsis clarkiae (Oudem.) Petr. SPECIES
-=======
+# Phomopsis clarkiae (Oudem.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria bryophila Rossman SPECIES
-=======
+# Calonectria bryophila Rossman SPECIES
 
 #### Status
 ACCEPTED

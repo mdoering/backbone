@@ -1,5 +1,4 @@
-Sarcogyne sebirana Vain. SPECIES
-=======
+# Sarcogyne sebirana Vain. SPECIES
 
 #### Status
 ACCEPTED

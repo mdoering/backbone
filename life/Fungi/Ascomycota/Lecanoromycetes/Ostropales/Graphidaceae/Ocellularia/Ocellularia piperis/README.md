@@ -1,14 +1,13 @@
-Thelotrema piperis Vain. SPECIES
-=======
+# Ocellularia piperis (Vain.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7: 78 (1890)
+Fungal Diversity 9: 30 (2002)
 
 #### Original name
 Thelotrema piperis Vain.

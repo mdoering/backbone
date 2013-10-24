@@ -1,5 +1,4 @@
-Entoloma ianthinomeleagris Courtec. SPECIES
-=======
+# Entoloma ianthinomeleagris Courtec. SPECIES
 
 #### Status
 ACCEPTED

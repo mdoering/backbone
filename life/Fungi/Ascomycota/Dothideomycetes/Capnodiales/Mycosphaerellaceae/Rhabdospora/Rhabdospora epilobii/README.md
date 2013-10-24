@@ -1,5 +1,4 @@
-Rhabdospora epilobii Höhn. SPECIES
-=======
+# Rhabdospora epilobii Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium ingae (Toro) Bat. SPECIES
-=======
+# Scolecopeltidium ingae (Toro) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus peregrinus Fr. SPECIES
-=======
+# Agaricus peregrinus Fr. SPECIES
 
 #### Status
 ACCEPTED

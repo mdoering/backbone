@@ -1,5 +1,4 @@
-Rickia hypoaspidis Thaxt. SPECIES
-=======
+# Rickia hypoaspidis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

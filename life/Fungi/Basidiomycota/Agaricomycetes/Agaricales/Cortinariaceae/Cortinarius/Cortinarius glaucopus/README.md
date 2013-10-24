@@ -1,17 +1,16 @@
-Phlegmacium glaucopus var. glaucopus VARIETY
-=======
+# Cortinarius glaucopus (Schaeff.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 264 (1838)
 
 #### Original name
-Phlegmacium glaucopus var. glaucopus
+Agaricus glaucopus Schaeff., 1774
 
 ### Remarks
 null

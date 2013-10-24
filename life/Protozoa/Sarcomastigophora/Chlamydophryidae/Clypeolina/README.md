@@ -1,5 +1,4 @@
-Clypeolina Penard, 1902 GENUS
-=======
+# Clypeolina Penard, 1902 GENUS
 
 #### Status
 ACCEPTED

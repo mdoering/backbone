@@ -1,5 +1,4 @@
-Marasmius subplexifolius Murrill SPECIES
-=======
+# Marasmius subplexifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

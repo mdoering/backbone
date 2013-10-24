@@ -1,5 +1,4 @@
-Dactyloporus archaeus Herzer SPECIES
-=======
+# Dactyloporus archaeus Herzer SPECIES
 
 #### Status
 ACCEPTED

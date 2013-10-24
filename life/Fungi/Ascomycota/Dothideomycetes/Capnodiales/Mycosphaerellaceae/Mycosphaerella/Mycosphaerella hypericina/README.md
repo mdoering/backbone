@@ -1,5 +1,4 @@
-Mycosphaerella hypericina (Ellis) Tomilin SPECIES
-=======
+# Mycosphaerella hypericina (Ellis) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria calcivora Nyl. SPECIES
-=======
+# Verrucaria calcivora Nyl. SPECIES
 
 #### Status
 ACCEPTED

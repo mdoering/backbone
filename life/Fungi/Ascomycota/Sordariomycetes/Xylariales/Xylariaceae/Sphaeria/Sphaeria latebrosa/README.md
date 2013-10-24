@@ -1,5 +1,4 @@
-Sphaeria latebrosa Ellis SPECIES
-=======
+# Sphaeria latebrosa Ellis SPECIES
 
 #### Status
 ACCEPTED

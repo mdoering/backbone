@@ -1,5 +1,4 @@
-Asterostomella alangii Hosag. & M. Mohanan SPECIES
-=======
+# Asterostomella alangii Hosag. & M. Mohanan SPECIES
 
 #### Status
 ACCEPTED

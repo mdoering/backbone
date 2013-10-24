@@ -1,5 +1,4 @@
-Physarum urne H. Singh & Pushpav. SPECIES
-=======
+# Physarum urne H. Singh & Pushpav. SPECIES
 
 #### Status
 ACCEPTED

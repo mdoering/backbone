@@ -1,5 +1,4 @@
-Macroporia Johanson & Ryvarden, 1979 GENUS
-=======
+# Macroporia Johanson & Ryvarden, 1979 GENUS
 
 #### Status
 ACCEPTED

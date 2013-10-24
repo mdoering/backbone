@@ -1,5 +1,4 @@
-Synchytrium asteracanthae M.S. Patil SPECIES
-=======
+# Synchytrium asteracanthae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

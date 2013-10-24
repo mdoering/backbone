@@ -1,5 +1,4 @@
-Lecidea opponens Nyl. SPECIES
-=======
+# Lecidea opponens Nyl. SPECIES
 
 #### Status
 ACCEPTED

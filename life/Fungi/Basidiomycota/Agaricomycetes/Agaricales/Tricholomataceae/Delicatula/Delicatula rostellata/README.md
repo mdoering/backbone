@@ -1,5 +1,4 @@
-Delicatula rostellata Velen. SPECIES
-=======
+# Delicatula rostellata Velen. SPECIES
 
 #### Status
 ACCEPTED

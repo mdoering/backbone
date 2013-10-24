@@ -1,5 +1,4 @@
-Cerion leucophaeum (Speg.) Dennis, 1959 SPECIES
-=======
+# Cerion leucophaeum (Speg.) Dennis, 1959 SPECIES
 
 #### Status
 ACCEPTED

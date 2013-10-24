@@ -1,5 +1,4 @@
-Trematosphaeria megalospora f. megalospora FORM
-=======
+# Trematosphaeria megalospora (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 2: 120 (1883)
 
 #### Original name
-Trematosphaeria megalospora f. megalospora
+Sphaeria megalospora Mont., 1840
 
 ### Remarks
 null

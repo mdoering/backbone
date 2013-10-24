@@ -1,5 +1,4 @@
-Buellia sarcogynoides H. Magn. SPECIES
-=======
+# Buellia sarcogynoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

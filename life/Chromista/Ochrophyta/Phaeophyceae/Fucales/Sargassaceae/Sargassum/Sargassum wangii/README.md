@@ -1,5 +1,4 @@
-Sargassum wangii C.K. Tseng & Lu SPECIES
-=======
+# Sargassum wangii C.K. Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

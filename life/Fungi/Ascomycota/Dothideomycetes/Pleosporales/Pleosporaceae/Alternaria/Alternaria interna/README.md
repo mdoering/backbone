@@ -1,5 +1,4 @@
-Alternaria interna (McAlpine) P. Joly SPECIES
-=======
+# Alternaria interna (McAlpine) P. Joly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora doidgeae Petr. SPECIES
-=======
+# Pleospora doidgeae Petr. SPECIES
 
 #### Status
 ACCEPTED

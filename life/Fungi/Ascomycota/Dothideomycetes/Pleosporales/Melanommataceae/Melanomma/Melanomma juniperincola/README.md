@@ -1,5 +1,4 @@
-Melanomma juniperincola Rehm SPECIES
-=======
+# Melanomma juniperincola Rehm SPECIES
 
 #### Status
 ACCEPTED

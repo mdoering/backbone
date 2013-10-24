@@ -1,5 +1,4 @@
-Actinoplanes italicus Beretta, 1973 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes italicus Beretta, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

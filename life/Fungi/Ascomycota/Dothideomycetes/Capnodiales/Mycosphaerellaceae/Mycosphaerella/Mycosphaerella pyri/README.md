@@ -1,17 +1,16 @@
-Sphaerella pyri f. pyri FORM
-=======
+# Mycosphaerella pyri (Auersw.) Boerema, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neth. Jl Pl. Path. 76(3): 166 (1970)
 
 #### Original name
-Sphaerella pyri f. pyri
+Sphaerella pyri Auersw., 1869
 
 ### Remarks
 null

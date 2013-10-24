@@ -1,14 +1,13 @@
-Peziza chloromela W. Phillips & Harkn. SPECIES
-=======
+# Chloroscypha chloromela (W. Phillips & Harkn.) Seaver, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 65): 22 (1884)
+Mycologia 23: 250 (1931)
 
 #### Original name
 Peziza chloromela W. Phillips & Harkn.

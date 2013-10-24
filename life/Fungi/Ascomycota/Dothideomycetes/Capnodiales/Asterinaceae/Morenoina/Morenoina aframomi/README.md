@@ -1,5 +1,4 @@
-Morenoina aframomi (Hansf.) Arx SPECIES
-=======
+# Morenoina aframomi (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

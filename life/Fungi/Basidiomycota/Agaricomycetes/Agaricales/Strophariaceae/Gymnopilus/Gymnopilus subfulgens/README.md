@@ -1,5 +1,4 @@
-Gymnopilus subfulgens Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus subfulgens Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

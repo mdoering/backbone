@@ -1,5 +1,4 @@
-Parmotrema sorediiferum Hale SPECIES
-=======
+# Parmotrema sorediiferum Hale SPECIES
 
 #### Status
 ACCEPTED

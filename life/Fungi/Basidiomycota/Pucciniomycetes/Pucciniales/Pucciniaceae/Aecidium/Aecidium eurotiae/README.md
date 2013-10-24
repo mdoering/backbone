@@ -1,5 +1,4 @@
-Aecidium eurotiae Ellis & Everh. SPECIES
-=======
+# Aecidium eurotiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

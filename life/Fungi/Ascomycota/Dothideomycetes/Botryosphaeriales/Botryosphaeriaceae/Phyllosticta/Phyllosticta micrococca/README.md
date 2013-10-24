@@ -1,5 +1,4 @@
-Phyllosticta micrococca Miura SPECIES
-=======
+# Phyllosticta micrococca Miura SPECIES
 
 #### Status
 ACCEPTED

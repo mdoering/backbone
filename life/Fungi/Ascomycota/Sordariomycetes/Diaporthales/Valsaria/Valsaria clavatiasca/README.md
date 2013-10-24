@@ -1,5 +1,4 @@
-Valsaria clavatiasca Speg. SPECIES
-=======
+# Valsaria clavatiasca Speg. SPECIES
 
 #### Status
 ACCEPTED

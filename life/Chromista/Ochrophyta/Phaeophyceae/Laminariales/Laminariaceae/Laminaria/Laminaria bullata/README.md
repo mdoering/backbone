@@ -1,5 +1,4 @@
-Laminaria bullata Kjellman SPECIES
-=======
+# Laminaria bullata Kjellman SPECIES
 
 #### Status
 ACCEPTED

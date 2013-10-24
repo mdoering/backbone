@@ -1,5 +1,4 @@
-Helminthosporium ischaemi Sawada SPECIES
-=======
+# Helminthosporium ischaemi Sawada SPECIES
 
 #### Status
 ACCEPTED

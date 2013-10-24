@@ -1,5 +1,4 @@
-Pertusaria commutans Vain. SPECIES
-=======
+# Pertusaria commutans Vain. SPECIES
 
 #### Status
 ACCEPTED

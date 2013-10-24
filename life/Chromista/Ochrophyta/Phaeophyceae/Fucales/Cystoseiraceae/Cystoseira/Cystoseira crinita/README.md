@@ -1,11 +1,10 @@
-Cystoseira crinita f. semispinosa Ercegovic, 1952 FORM
-=======
+# Cystoseira crinita Duby SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

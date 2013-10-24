@@ -1,5 +1,4 @@
-Parmelia samoënsis SPECIES
-=======
+# Parmelia samoënsis SPECIES
 
 #### Status
 ACCEPTED

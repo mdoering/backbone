@@ -1,5 +1,4 @@
-Cylindrosporium phillyreae Bernaux SPECIES
-=======
+# Cylindrosporium phillyreae Bernaux SPECIES
 
 #### Status
 ACCEPTED

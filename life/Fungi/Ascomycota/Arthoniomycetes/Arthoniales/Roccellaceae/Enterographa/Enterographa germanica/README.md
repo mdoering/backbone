@@ -1,5 +1,4 @@
-Enterographa germanica (A. Massal.) A. Massal. SPECIES
-=======
+# Enterographa germanica (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

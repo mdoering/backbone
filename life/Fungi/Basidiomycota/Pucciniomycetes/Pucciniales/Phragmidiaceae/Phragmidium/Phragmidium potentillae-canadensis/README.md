@@ -1,5 +1,4 @@
-Phragmidium potentillae-canadensis Dietel SPECIES
-=======
+# Phragmidium potentillae-canadensis Dietel SPECIES
 
 #### Status
 ACCEPTED

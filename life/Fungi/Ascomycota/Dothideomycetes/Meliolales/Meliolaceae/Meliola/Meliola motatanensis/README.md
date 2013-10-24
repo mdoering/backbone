@@ -1,5 +1,4 @@
-Meliola motatanensis Hansf. SPECIES
-=======
+# Meliola motatanensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

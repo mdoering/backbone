@@ -1,5 +1,4 @@
-Cladina sylvatica var. sylvatica VARIETY
-=======
+# Cladina sylvatica SPECIES
 
 #### Status
 ACCEPTED

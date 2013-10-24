@@ -1,5 +1,4 @@
-Uromyces pseudarthriae Cooke SPECIES
-=======
+# Uromyces pseudarthriae Cooke SPECIES
 
 #### Status
 ACCEPTED

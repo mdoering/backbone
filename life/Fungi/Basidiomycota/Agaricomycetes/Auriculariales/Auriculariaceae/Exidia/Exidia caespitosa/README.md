@@ -1,5 +1,4 @@
-Exidia caespitosa Lloyd SPECIES
-=======
+# Exidia caespitosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

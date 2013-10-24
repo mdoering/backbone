@@ -1,5 +1,4 @@
-Morosphaeria ramunculicola (K.D. Hyde) Suetrong, Sakay., E.B.G. Jones & C.L. Schoch, 2009 SPECIES
-=======
+# Morosphaeria ramunculicola (K.D. Hyde) Suetrong, Sakay., E.B.G. Jones & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cretax Soop, 2003 SPECIES
-=======
+# Cortinarius cretax Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

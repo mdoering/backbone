@@ -1,5 +1,4 @@
-Peroneutypa valdiviana Speg. SPECIES
-=======
+# Peroneutypa valdiviana Speg. SPECIES
 
 #### Status
 ACCEPTED

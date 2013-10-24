@@ -1,5 +1,4 @@
-Calicium huculicum Nádv. SPECIES
-=======
+# Calicium huculicum Nádv. SPECIES
 
 #### Status
 ACCEPTED

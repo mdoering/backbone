@@ -1,5 +1,4 @@
-Russula roseoalba Buyck SPECIES
-=======
+# Russula roseoalba Buyck SPECIES
 
 #### Status
 ACCEPTED

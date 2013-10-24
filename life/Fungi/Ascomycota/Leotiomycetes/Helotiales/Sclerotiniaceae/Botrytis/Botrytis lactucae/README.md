@@ -1,5 +1,4 @@
-Botrytis lactucae Unger SPECIES
-=======
+# Botrytis lactucae Unger SPECIES
 
 #### Status
 ACCEPTED

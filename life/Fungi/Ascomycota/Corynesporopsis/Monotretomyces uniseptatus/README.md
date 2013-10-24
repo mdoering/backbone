@@ -1,17 +1,16 @@
-Monotretomyces uniseptatum Morgan-Jones, R.C. Sinclair & Eicker SPECIES
-=======
+# Monotretomyces uniseptatus Morgan-Jones, R.C. Sinclair & Eicker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 29: 354 (1987)
 
 #### Original name
-Monotretomyces uniseptatum Morgan-Jones, R.C. Sinclair & Eicker
+Monotretomyces uniseptatus Morgan-Jones, R.C. Sinclair & Eicker
 
 ### Remarks
 null

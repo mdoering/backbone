@@ -1,5 +1,4 @@
-Phloeospora idahoensis R. Sprague SPECIES
-=======
+# Phloeospora idahoensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

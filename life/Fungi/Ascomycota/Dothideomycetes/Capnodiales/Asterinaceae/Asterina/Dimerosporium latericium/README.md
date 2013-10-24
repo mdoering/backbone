@@ -1,5 +1,4 @@
-Dimerosporium latericium Speg. SPECIES
-=======
+# Dimerosporium latericium Speg. SPECIES
 
 #### Status
 ACCEPTED

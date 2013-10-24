@@ -1,5 +1,4 @@
-Xyloma giganteum Rebent. SPECIES
-=======
+# Xyloma giganteum Rebent. SPECIES
 
 #### Status
 ACCEPTED

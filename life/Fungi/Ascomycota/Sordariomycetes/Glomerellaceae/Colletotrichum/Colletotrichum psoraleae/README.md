@@ -1,5 +1,4 @@
-Colletotrichum psoraleae (Peck) Arx SPECIES
-=======
+# Colletotrichum psoraleae (Peck) Arx SPECIES
 
 #### Status
 ACCEPTED

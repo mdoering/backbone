@@ -1,5 +1,4 @@
-Myxosporium melanotrichum (Castagne) Sacc. SPECIES
-=======
+# Myxosporium melanotrichum (Castagne) Sacc. SPECIES
 
 #### Status
 ACCEPTED

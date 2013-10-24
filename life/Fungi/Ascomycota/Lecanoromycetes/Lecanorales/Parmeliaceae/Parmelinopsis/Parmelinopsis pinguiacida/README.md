@@ -1,5 +1,4 @@
-Parmelinopsis pinguiacida (Louwhoff & Elix) Marcelli & Benatti SPECIES
-=======
+# Parmelinopsis pinguiacida (Louwhoff & Elix) Marcelli & Benatti SPECIES
 
 #### Status
 ACCEPTED

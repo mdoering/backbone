@@ -1,5 +1,4 @@
-Phragmospathulella matsushimae J. Mena & Mercado, 1986 SPECIES
-=======
+# Phragmospathulella matsushimae J. Mena & Mercado, 1986 SPECIES
 
 #### Status
 ACCEPTED

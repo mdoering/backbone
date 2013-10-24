@@ -1,5 +1,4 @@
-Sphaerella dejanira Sacc. SPECIES
-=======
+# Sphaerella dejanira Sacc. SPECIES
 
 #### Status
 ACCEPTED

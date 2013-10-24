@@ -1,5 +1,4 @@
-Arkonia nova Le Hérissé, 2002 SPECIES
-=======
+# Arkonia nova Le Hérissé, 2002 SPECIES
 
 #### Status
 ACCEPTED

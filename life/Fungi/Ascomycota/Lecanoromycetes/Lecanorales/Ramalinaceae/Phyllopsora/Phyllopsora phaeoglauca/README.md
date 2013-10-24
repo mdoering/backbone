@@ -1,5 +1,4 @@
-Phyllopsora phaeoglauca (Vain.) Zahlbr. SPECIES
-=======
+# Phyllopsora phaeoglauca (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

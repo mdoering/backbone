@@ -1,5 +1,4 @@
-Stachylidium parasitans Bonord. SPECIES
-=======
+# Stachylidium parasitans Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza umbilicata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Trichopeziza umbilicata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

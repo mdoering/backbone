@@ -1,5 +1,4 @@
-Excipula punctiformis Berk. SPECIES
-=======
+# Excipula punctiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

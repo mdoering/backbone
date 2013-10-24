@@ -1,5 +1,4 @@
-Schizoplasmodiopsis reticulata L.S. Olive & Stoian., 1975 SPECIES
-=======
+# Schizoplasmodiopsis reticulata L.S. Olive & Stoian., 1975 SPECIES
 
 #### Status
 ACCEPTED

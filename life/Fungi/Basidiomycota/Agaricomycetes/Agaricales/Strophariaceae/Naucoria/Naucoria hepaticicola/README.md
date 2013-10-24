@@ -1,5 +1,4 @@
-Naucoria hepaticicola Murrill SPECIES
-=======
+# Naucoria hepaticicola Murrill SPECIES
 
 #### Status
 ACCEPTED

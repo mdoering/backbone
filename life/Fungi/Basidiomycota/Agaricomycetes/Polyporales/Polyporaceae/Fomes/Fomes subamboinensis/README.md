@@ -1,5 +1,4 @@
-Fomes subamboinensis Henn. SPECIES
-=======
+# Fomes subamboinensis Henn. SPECIES
 
 #### Status
 ACCEPTED

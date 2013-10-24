@@ -1,5 +1,4 @@
-Scenidium discolor (Fr.) Kuntze SPECIES
-=======
+# Scenidium discolor (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

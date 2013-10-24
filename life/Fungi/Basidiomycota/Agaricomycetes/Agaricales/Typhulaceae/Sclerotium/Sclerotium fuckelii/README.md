@@ -1,5 +1,4 @@
-Sclerotium fuckelii Sacc. & P. Syd. SPECIES
-=======
+# Sclerotium fuckelii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

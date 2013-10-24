@@ -1,5 +1,4 @@
-Uredo chaetantherae Neger SPECIES
-=======
+# Uredo chaetantherae Neger SPECIES
 
 #### Status
 ACCEPTED

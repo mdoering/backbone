@@ -1,5 +1,4 @@
-Pluteus muscorum (Cleland) E. Horak SPECIES
-=======
+# Pluteus muscorum (Cleland) E. Horak SPECIES
 
 #### Status
 ACCEPTED

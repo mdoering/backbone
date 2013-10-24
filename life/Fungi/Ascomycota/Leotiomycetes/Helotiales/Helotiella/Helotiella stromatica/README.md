@@ -1,5 +1,4 @@
-Helotiella stromatica Cooke SPECIES
-=======
+# Helotiella stromatica Cooke SPECIES
 
 #### Status
 ACCEPTED

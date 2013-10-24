@@ -1,5 +1,4 @@
-Lepra botryoides (L.) Wiggers SPECIES
-=======
+# Lepra botryoides (L.) Wiggers SPECIES
 
 #### Status
 ACCEPTED

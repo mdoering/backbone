@@ -1,5 +1,4 @@
-Omphalina flavida SPECIES
-=======
+# Omphalina flavida SPECIES
 
 #### Status
 ACCEPTED

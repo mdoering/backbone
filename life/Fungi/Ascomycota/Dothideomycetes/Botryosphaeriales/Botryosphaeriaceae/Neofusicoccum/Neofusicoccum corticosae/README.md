@@ -1,5 +1,4 @@
-Neofusicoccum corticosae Crous & Summerell, 2006 SPECIES
-=======
+# Neofusicoccum corticosae Crous & Summerell, 2006 SPECIES
 
 #### Status
 ACCEPTED

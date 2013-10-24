@@ -1,5 +1,4 @@
-Actinomyces dori (Beurm. & Gougerot) Brumpt SPECIES
-=======
+# Actinomyces dori (Beurm. & Gougerot) Brumpt SPECIES
 
 #### Status
 ACCEPTED

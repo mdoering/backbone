@@ -1,5 +1,4 @@
-Lophiostoma astragali Koshk. & Frolov SPECIES
-=======
+# Lophiostoma astragali Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

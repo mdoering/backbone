@@ -1,5 +1,4 @@
-Ramularia angelicae Höhn., 1903 SPECIES
-=======
+# Ramularia angelicae Höhn., 1903 SPECIES
 
 #### Status
 ACCEPTED

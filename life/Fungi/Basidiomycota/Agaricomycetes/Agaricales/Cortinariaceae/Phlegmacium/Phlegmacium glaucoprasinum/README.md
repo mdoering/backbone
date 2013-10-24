@@ -1,5 +1,4 @@
-Phlegmacium glaucoprasinum M.M. Moser SPECIES
-=======
+# Phlegmacium glaucoprasinum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

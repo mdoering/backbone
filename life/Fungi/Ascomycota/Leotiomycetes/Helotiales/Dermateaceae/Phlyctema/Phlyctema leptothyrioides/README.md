@@ -1,5 +1,4 @@
-Phlyctema leptothyrioides Bubák & Kabát SPECIES
-=======
+# Phlyctema leptothyrioides Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

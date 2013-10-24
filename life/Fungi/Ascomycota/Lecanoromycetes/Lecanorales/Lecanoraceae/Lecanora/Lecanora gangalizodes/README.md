@@ -1,5 +1,4 @@
-Lecanora gangalizodes Nyl. SPECIES
-=======
+# Lecanora gangalizodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

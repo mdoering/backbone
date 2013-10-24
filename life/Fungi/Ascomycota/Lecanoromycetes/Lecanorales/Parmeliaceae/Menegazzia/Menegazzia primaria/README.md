@@ -1,5 +1,4 @@
-Menegazzia primaria Aptroot, M.J. Lai & Sparrius SPECIES
-=======
+# Menegazzia primaria Aptroot, M.J. Lai & Sparrius SPECIES
 
 #### Status
 ACCEPTED

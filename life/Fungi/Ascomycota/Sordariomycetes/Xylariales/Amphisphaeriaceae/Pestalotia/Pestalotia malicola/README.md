@@ -1,17 +1,16 @@
-Pestalozzia malicola Hori SPECIES
-=======
+# Pestalotia malicola Hori SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nakata & Takimoto, Journal of the Agricultural Experimental Station Government-General of Chosen 15: 118 (1928)
 
 #### Original name
-Pestalozzia malicola Hori
+Pestalotia malicola Hori
 
 ### Remarks
 null

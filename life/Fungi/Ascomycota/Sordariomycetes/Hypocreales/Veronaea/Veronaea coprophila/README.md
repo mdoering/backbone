@@ -1,5 +1,4 @@
-Veronaea coprophila (Subram. & Lodha) M.B. Ellis SPECIES
-=======
+# Veronaea coprophila (Subram. & Lodha) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

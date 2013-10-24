@@ -1,5 +1,4 @@
-Candida oslonensis Knutsen, V. Robert & M.T. Sm. SPECIES
-=======
+# Candida oslonensis Knutsen, V. Robert & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

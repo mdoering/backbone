@@ -1,5 +1,4 @@
-Lichenopeltella lobariae Etayo & Diederich SPECIES
-=======
+# Lichenopeltella lobariae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

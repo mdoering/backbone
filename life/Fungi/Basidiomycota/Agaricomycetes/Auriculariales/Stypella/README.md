@@ -1,17 +1,16 @@
-Gloeosebacina Neuhoff GENUS
-=======
+# Stypella A. Møller, 1895 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Arch. 8: 287 (1924)
+null
 
 #### Original name
-Gloeosebacina Neuhoff
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Massariopsis palmitis Kirschst. SPECIES
-=======
+# Massariopsis palmitis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

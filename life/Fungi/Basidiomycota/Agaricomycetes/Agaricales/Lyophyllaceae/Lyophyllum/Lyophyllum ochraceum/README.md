@@ -1,5 +1,4 @@
-Lyophyllum ochraceum (R. Haller Aar.) Schwöbel & Reutter {?} SPECIES
-=======
+# Lyophyllum ochraceum (R. Haller Aar.) Schwöbel & Reutter {?} SPECIES
 
 #### Status
 ACCEPTED

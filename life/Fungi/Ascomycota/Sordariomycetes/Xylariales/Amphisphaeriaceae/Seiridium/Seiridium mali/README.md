@@ -1,5 +1,4 @@
-Seiridium mali (Ellis & Everh.) Nag Raj SPECIES
-=======
+# Seiridium mali (Ellis & Everh.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cookeina colensoiopsis Iturr. & Pfister SPECIES
-=======
+# Cookeina colensoiopsis Iturr. & Pfister SPECIES
 
 #### Status
 ACCEPTED

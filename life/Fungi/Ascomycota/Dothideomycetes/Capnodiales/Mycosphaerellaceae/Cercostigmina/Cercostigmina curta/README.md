@@ -1,5 +1,4 @@
-Cercostigmina curta (Syd.) U. Braun SPECIES
-=======
+# Cercostigmina curta (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

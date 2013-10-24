@@ -1,5 +1,4 @@
-Barbeyella Meyl. GENUS
-=======
+# Barbeyella Meyl. GENUS
 
 #### Status
 ACCEPTED

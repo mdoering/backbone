@@ -1,5 +1,4 @@
-Camarosporium brasilianum (Speg.) Van Warmelo & B. Sutton SPECIES
-=======
+# Camarosporium brasilianum (Speg.) Van Warmelo & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

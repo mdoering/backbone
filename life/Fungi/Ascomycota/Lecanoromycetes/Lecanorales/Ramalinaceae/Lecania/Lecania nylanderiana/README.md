@@ -1,17 +1,16 @@
-Lecania nylanderiana var. nylanderiana VARIETY
-=======
+# Lecania nylanderiana A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sched. critic. 8: 152 (1856)
 
 #### Original name
-Lecania nylanderiana var. nylanderiana
+Lecania nylanderiana A. Massal.
 
 ### Remarks
 null

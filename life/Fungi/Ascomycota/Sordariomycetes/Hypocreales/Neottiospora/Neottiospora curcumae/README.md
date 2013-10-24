@@ -1,5 +1,4 @@
-Neottiospora curcumae R.K. Benj. SPECIES
-=======
+# Neottiospora curcumae R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

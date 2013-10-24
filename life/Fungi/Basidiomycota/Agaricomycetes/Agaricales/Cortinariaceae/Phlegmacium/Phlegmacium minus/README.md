@@ -1,5 +1,4 @@
-Phlegmacium minus Velen. SPECIES
-=======
+# Phlegmacium minus Velen. SPECIES
 
 #### Status
 ACCEPTED

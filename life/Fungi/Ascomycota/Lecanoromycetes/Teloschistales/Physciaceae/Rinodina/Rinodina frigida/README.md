@@ -1,5 +1,4 @@
-Rinodina frigida (Darb.) C.W. Dodge SPECIES
-=======
+# Rinodina frigida (Darb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

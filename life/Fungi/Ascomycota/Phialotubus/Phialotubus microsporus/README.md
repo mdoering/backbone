@@ -1,5 +1,4 @@
-Phialotubus microsporus R.Y. Roy & Leelav., 1966 SPECIES
-=======
+# Phialotubus microsporus R.Y. Roy & Leelav., 1966 SPECIES
 
 #### Status
 ACCEPTED

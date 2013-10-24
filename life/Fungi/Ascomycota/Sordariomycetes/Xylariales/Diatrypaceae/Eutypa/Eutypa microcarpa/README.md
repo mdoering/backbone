@@ -1,5 +1,4 @@
-Eutypa microcarpa (Fr. & Mont.) Sacc. SPECIES
-=======
+# Eutypa microcarpa (Fr. & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

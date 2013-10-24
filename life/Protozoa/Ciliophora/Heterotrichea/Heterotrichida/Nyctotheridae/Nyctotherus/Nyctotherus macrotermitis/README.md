@@ -1,5 +1,4 @@
-Nyctotherus macrotermitis Gisler, 1967 SPECIES
-=======
+# Nyctotherus macrotermitis Gisler, 1967 SPECIES
 
 #### Status
 ACCEPTED

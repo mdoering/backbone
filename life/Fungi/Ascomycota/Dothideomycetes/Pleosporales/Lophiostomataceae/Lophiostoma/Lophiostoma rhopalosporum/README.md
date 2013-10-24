@@ -1,5 +1,4 @@
-Lophiostoma rhopalosporum Ellis & Everh. SPECIES
-=======
+# Lophiostoma rhopalosporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

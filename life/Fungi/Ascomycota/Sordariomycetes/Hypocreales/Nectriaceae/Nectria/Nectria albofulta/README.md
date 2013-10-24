@@ -1,5 +1,4 @@
-Nectria albofulta Petch SPECIES
-=======
+# Nectria albofulta Petch SPECIES
 
 #### Status
 ACCEPTED

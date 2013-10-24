@@ -1,5 +1,4 @@
-Sclerotinia muscorum A.L. Sm. & Ramsb., 1913 SPECIES
-=======
+# Sclerotinia muscorum A.L. Sm. & Ramsb., 1913 SPECIES
 
 #### Status
 ACCEPTED

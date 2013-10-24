@@ -1,5 +1,4 @@
-Pseudodiplodia saponariae (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia saponariae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

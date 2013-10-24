@@ -1,5 +1,4 @@
-Verrucaria epilithea Vain. SPECIES
-=======
+# Verrucaria epilithea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyostelium menorah Vadell & Cavender, 2007 SPECIES
-=======
+# Dictyostelium menorah Vadell & Cavender, 2007 SPECIES
 
 #### Status
 ACCEPTED

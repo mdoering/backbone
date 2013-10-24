@@ -1,17 +1,16 @@
-Corticium ochraceum var. ochraceum VARIETY
-=======
+# Corticium ochraceum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 563 (1838)
+null
 
 #### Original name
-Corticium ochraceum var. ochraceum
+null
 
 ### Remarks
 null

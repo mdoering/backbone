@@ -1,5 +1,4 @@
-Phomopsis detrusa (Sacc.) Traverso SPECIES
-=======
+# Phomopsis detrusa (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

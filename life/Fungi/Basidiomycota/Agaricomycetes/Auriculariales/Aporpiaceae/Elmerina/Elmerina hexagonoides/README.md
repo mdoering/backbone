@@ -1,14 +1,13 @@
-Aporpium hexagonoides A. David & Jaq., 1977 SPECIES
-=======
+# Elmerina hexagonoides (A. David & Jaq.) Núñez, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gdns' Bull. , Singapore 29: 151 (1977)
+Folia cryptog. Estonica 33: 100 (1998)
 
 #### Original name
 Aporpium hexagonoides A. David & Jaq., 1977

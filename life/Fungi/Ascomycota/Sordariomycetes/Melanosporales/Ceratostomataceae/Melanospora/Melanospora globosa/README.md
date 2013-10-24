@@ -1,5 +1,4 @@
-Melanospora globosa Berl. SPECIES
-=======
+# Melanospora globosa Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces euphorbiae-javanicae E. Fisch. SPECIES
-=======
+# Uromyces euphorbiae-javanicae E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

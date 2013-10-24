@@ -1,5 +1,4 @@
-Nagyiella P. Palik, 1966 GENUS
-=======
+# Nagyiella P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

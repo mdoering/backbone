@@ -1,5 +1,4 @@
-Phyllachora tachirensis Chardón, 1934 SPECIES
-=======
+# Phyllachora tachirensis Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

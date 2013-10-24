@@ -1,5 +1,4 @@
-Clavaria fuscoferruginea Leathers SPECIES
-=======
+# Clavaria fuscoferruginea Leathers SPECIES
 
 #### Status
 ACCEPTED

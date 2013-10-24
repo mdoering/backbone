@@ -1,5 +1,4 @@
-Chytridium perniciosum Sparrow SPECIES
-=======
+# Chytridium perniciosum Sparrow SPECIES
 
 #### Status
 ACCEPTED

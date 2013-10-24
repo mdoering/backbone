@@ -1,5 +1,4 @@
-Hexalaspis Haeckel, 1887 GENUS
-=======
+# Hexalaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

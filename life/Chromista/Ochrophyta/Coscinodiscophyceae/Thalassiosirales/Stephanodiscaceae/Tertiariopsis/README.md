@@ -1,5 +1,4 @@
-Tertiariopsis Khursevich & Kociolek, 2002 GENUS
-=======
+# Tertiariopsis Khursevich & Kociolek, 2002 GENUS
 
 #### Status
 ACCEPTED

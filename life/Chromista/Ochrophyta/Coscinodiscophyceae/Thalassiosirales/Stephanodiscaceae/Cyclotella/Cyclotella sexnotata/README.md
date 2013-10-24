@@ -1,5 +1,4 @@
-Cyclotella sexnotata Deby SPECIES
-=======
+# Cyclotella sexnotata Deby SPECIES
 
 #### Status
 ACCEPTED

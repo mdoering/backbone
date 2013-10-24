@@ -1,5 +1,4 @@
-Phaeopezia vinacea Clem. SPECIES
-=======
+# Phaeopezia vinacea Clem. SPECIES
 
 #### Status
 ACCEPTED

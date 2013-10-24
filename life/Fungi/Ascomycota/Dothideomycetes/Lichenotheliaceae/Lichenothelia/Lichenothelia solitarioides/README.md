@@ -1,5 +1,4 @@
-Lichenothelia solitarioides Henssen SPECIES
-=======
+# Lichenothelia solitarioides Henssen SPECIES
 
 #### Status
 ACCEPTED

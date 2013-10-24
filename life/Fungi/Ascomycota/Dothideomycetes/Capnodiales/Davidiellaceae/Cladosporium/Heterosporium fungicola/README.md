@@ -1,17 +1,16 @@
-Heterosporium fungicolum Ellis & Everh. SPECIES
-=======
+# Heterosporium fungicola Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 5(2): 70 (1889)
 
 #### Original name
-Heterosporium fungicolum Ellis & Everh.
+Heterosporium fungicola Ellis & Everh.
 
 ### Remarks
 null

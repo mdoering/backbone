@@ -1,5 +1,4 @@
-Stomiopeltis chilensis Syd. SPECIES
-=======
+# Stomiopeltis chilensis Syd. SPECIES
 
 #### Status
 ACCEPTED

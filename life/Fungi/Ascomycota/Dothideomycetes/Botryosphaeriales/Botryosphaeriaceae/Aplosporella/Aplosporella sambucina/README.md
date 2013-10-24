@@ -1,5 +1,4 @@
-Aplosporella sambucina Ellis & Barthol. SPECIES
-=======
+# Aplosporella sambucina Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

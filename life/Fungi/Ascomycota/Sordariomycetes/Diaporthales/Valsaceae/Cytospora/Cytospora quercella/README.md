@@ -1,5 +1,4 @@
-Cytospora quercella Brunaud SPECIES
-=======
+# Cytospora quercella Brunaud SPECIES
 
 #### Status
 ACCEPTED

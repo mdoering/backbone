@@ -1,5 +1,4 @@
-Lachnobolus cinereus Schwein. SPECIES
-=======
+# Lachnobolus cinereus Schwein. SPECIES
 
 #### Status
 ACCEPTED

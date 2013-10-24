@@ -1,5 +1,4 @@
-Botryochytrium R. Yokoy., Salleh & D. Honda GENUS
-=======
+# Botryochytrium R. Yokoy., Salleh & D. Honda GENUS
 
 #### Status
 ACCEPTED

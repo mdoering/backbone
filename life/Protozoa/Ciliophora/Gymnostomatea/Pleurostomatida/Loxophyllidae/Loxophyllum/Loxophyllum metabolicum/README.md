@@ -1,5 +1,4 @@
-Loxophyllum metabolicum SPECIES
-=======
+# Loxophyllum metabolicum SPECIES
 
 #### Status
 ACCEPTED

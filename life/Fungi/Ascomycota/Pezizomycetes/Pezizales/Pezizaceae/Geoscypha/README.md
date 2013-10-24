@@ -1,5 +1,4 @@
-Geoscypha GENUS
-=======
+# Geoscypha GENUS
 
 #### Status
 ACCEPTED

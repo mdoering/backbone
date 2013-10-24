@@ -1,5 +1,4 @@
-Septorella salaciae Allesch. SPECIES
-=======
+# Septorella salaciae Allesch. SPECIES
 
 #### Status
 ACCEPTED

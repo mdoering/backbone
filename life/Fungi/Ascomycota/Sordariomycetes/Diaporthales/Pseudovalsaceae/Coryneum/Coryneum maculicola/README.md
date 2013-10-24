@@ -1,5 +1,4 @@
-Coryneum maculicola Fuckel SPECIES
-=======
+# Coryneum maculicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

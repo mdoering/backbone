@@ -1,5 +1,4 @@
-Meliola acaciae-binervatae Hansf. SPECIES
-=======
+# Meliola acaciae-binervatae Hansf. SPECIES
 
 #### Status
 ACCEPTED

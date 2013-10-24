@@ -1,5 +1,4 @@
-Microcystis ichtyoblable Kützing SPECIES
-=======
+# Microcystis ichtyoblable Kützing SPECIES
 
 #### Status
 ACCEPTED

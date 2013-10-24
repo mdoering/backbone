@@ -1,17 +1,16 @@
-Cercospora scrophularicola P.K. Chi SPECIES
-=======
+# Cercospora scrophulariicola P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chi & Jiang, Journal of South China Agricultural University 15(3): 15 (1994)
 
 #### Original name
-Cercospora scrophularicola P.K. Chi
+Cercospora scrophulariicola P.K. Chi
 
 ### Remarks
 null

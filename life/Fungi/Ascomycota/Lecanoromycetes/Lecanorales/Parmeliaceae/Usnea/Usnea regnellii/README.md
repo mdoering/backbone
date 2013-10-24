@@ -1,5 +1,4 @@
-Usnea regnellii Motyka SPECIES
-=======
+# Usnea regnellii Motyka SPECIES
 
 #### Status
 ACCEPTED

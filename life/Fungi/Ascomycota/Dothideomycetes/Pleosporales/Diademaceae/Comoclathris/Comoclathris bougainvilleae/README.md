@@ -1,5 +1,4 @@
-Comoclathris bougainvilleae S.D. Patil & C. Ramesh SPECIES
-=======
+# Comoclathris bougainvilleae S.D. Patil & C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

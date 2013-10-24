@@ -1,5 +1,4 @@
-Stylonichia auriformis SPECIES
-=======
+# Stylonichia auriformis SPECIES
 
 #### Status
 ACCEPTED

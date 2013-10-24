@@ -1,5 +1,4 @@
-Mucobasispora Mustafa & Abdul-Wahid GENUS
-=======
+# Mucobasispora Mustafa & Abdul-Wahid GENUS
 
 #### Status
 ACCEPTED

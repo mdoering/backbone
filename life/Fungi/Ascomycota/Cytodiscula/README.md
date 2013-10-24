@@ -1,5 +1,4 @@
-Cytodiscula Petr. GENUS
-=======
+# Cytodiscula Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucina rudis Goes, 1896 SPECIES
-=======
+# Verrucina rudis Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

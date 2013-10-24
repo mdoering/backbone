@@ -1,5 +1,4 @@
-Marasmius kaernbachii Henn. SPECIES
-=======
+# Marasmius kaernbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

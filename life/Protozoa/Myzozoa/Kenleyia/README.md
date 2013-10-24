@@ -1,5 +1,4 @@
-Kenleyia Cookson & Eisenack GENUS
-=======
+# Kenleyia Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

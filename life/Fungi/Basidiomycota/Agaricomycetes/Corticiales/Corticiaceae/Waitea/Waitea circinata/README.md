@@ -1,17 +1,16 @@
-Moniliopsis oryzae (Ryker & Gooch) R.T. Moore, 1987 SPECIES
-=======
+# Waitea circinata Warcup & P.H.B. Talbot, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 29: 95 (1987)
+Trans. Br. mycol. Soc. 45(4): 503 (1962)
 
 #### Original name
-Rhizoctonia oryzae Ryker & Gooch, 1938
+Waitea circinata Warcup & P.H.B. Talbot, 1962
 
 ### Remarks
 null

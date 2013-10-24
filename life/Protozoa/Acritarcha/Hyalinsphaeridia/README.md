@@ -1,5 +1,4 @@
-Hyalinsphaeridia Bernier & Courtinat, 1979 GENUS
-=======
+# Hyalinsphaeridia Bernier & Courtinat, 1979 GENUS
 
 #### Status
 ACCEPTED

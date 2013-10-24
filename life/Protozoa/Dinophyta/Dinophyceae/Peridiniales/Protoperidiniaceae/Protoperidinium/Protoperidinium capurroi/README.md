@@ -1,11 +1,10 @@
-Protoperidinium capurroi subsp. capurroi SUBSPECIES
-=======
+# Protoperidinium capurroi (Balech, 1959) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

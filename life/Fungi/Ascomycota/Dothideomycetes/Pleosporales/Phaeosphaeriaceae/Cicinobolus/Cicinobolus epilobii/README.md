@@ -1,8 +1,7 @@
-Cicinnobolus epilobii Ferraris SPECIES
-=======
+# Cicinobolus epilobii Ferraris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus epilobii Ferraris
+Cicinobolus epilobii Ferraris
 
 ### Remarks
 null

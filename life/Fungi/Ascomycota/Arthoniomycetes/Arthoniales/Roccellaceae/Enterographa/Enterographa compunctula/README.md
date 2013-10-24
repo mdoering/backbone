@@ -1,14 +1,13 @@
-Stigmatidium compunctulum Nyl. SPECIES
-=======
+# Enterographa compunctula (Nyl.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Repert. Spec. Nov. Regni Veg. 43: 61 (1938)
 
 #### Original name
 Stigmatidium compunctulum Nyl.

@@ -1,5 +1,4 @@
-Humaria umbrosa (Schrad.) Sacc. SPECIES
-=======
+# Humaria umbrosa (Schrad.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

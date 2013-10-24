@@ -1,5 +1,4 @@
-Collybia olivaceoalba (Cooke & Massee) Sacc. SPECIES
-=======
+# Collybia olivaceoalba (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella triangularis S.M. Francis & Millar SPECIES
-=======
+# Anthostomella triangularis S.M. Francis & Millar SPECIES
 
 #### Status
 ACCEPTED

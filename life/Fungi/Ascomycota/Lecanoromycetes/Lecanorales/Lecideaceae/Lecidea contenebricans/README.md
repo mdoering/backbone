@@ -1,5 +1,4 @@
-Lecidea contenebricans Nyl. SPECIES
-=======
+# Lecidea contenebricans Nyl. SPECIES
 
 #### Status
 ACCEPTED

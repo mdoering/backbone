@@ -1,5 +1,4 @@
-Hymenochaete subferruginea Bres. & Syd., 1914 SPECIES
-=======
+# Hymenochaete subferruginea Bres. & Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

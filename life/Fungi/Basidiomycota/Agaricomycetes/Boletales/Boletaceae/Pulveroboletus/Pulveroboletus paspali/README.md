@@ -1,5 +1,4 @@
-Pulveroboletus paspali Singer & Grinling SPECIES
-=======
+# Pulveroboletus paspali Singer & Grinling SPECIES
 
 #### Status
 ACCEPTED

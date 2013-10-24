@@ -1,5 +1,4 @@
-Pleospora feltgenii Sacc. & P. Syd. SPECIES
-=======
+# Pleospora feltgenii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

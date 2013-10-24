@@ -1,5 +1,4 @@
-Lalaria R.T. Moore, 1990 GENUS
-=======
+# Lalaria R.T. Moore, 1990 GENUS
 
 #### Status
 ACCEPTED

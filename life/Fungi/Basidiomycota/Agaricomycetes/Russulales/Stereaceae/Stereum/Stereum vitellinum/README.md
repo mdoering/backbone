@@ -1,5 +1,4 @@
-Stereum vitellinum (Durieu & Lév.) Sacc. SPECIES
-=======
+# Stereum vitellinum (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

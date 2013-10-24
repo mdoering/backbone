@@ -1,17 +1,16 @@
-Phragmotrichum freseniusii M. Morelet SPECIES
-=======
+# Phragmotrichum fresenii M. Morelet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 176: 7 (1968)
 
 #### Original name
-Phragmotrichum freseniusii M. Morelet
+Didymosporium complanatum Nees, 1816
 
 ### Remarks
 null

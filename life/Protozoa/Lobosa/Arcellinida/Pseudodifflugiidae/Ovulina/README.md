@@ -1,5 +1,4 @@
-Ovulina GENUS
-=======
+# Ovulina GENUS
 
 #### Status
 ACCEPTED

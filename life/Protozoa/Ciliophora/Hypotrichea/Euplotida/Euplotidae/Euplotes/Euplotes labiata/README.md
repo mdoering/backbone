@@ -1,5 +1,4 @@
-Euplotes labiata SPECIES
-=======
+# Euplotes labiata SPECIES
 
 #### Status
 ACCEPTED

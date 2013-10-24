@@ -1,5 +1,4 @@
-Licea hydrargyra Nann.-Bremek., T.N. Lakh. & R.K. Chopra, 1990 SPECIES
-=======
+# Licea hydrargyra Nann.-Bremek., T.N. Lakh. & R.K. Chopra, 1990 SPECIES
 
 #### Status
 ACCEPTED

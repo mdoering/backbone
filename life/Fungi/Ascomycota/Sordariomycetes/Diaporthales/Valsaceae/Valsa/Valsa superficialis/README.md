@@ -1,5 +1,4 @@
-Valsa superficialis Nitschke SPECIES
-=======
+# Valsa superficialis Nitschke SPECIES
 
 #### Status
 ACCEPTED

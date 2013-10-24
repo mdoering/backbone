@@ -1,5 +1,4 @@
-Arthonia ramosula Nyl. SPECIES
-=======
+# Arthonia ramosula Nyl. SPECIES
 
 #### Status
 ACCEPTED

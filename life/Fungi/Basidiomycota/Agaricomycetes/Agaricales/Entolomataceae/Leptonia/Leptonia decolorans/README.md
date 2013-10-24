@@ -1,17 +1,16 @@
-Leptonia decolorans f. decolorans FORM
-=======
+# Leptonia decolorans (E. Horak) Largent SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 179 (1977)
 
 #### Original name
-null
+Entoloma decolorans E. Horak
 
 ### Remarks
 null

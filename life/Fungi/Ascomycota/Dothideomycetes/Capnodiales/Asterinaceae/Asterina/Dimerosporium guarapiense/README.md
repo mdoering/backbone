@@ -1,5 +1,4 @@
-Dimerosporium guarapiense Speg. SPECIES
-=======
+# Dimerosporium guarapiense Speg. SPECIES
 
 #### Status
 ACCEPTED

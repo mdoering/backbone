@@ -1,5 +1,4 @@
-Septoria thymi Sameva & Bakalova SPECIES
-=======
+# Septoria thymi Sameva & Bakalova SPECIES
 
 #### Status
 ACCEPTED

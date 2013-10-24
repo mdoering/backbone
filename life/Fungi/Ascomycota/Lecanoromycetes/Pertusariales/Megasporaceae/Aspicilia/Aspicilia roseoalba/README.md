@@ -1,5 +1,4 @@
-Aspicilia roseoalba Räsänen SPECIES
-=======
+# Aspicilia roseoalba Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filisphaeridium roquestii (Valensi, 1949) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium roquestii (Valensi, 1949) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

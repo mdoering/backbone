@@ -1,5 +1,4 @@
-Cryptodiscus rhopaloides Sacc. SPECIES
-=======
+# Cryptodiscus rhopaloides Sacc. SPECIES
 
 #### Status
 ACCEPTED

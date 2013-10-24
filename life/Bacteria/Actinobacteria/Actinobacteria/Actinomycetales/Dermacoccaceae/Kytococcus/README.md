@@ -1,5 +1,4 @@
-Kytococcus Stackebrandt et al., 1995 GENUS
-=======
+# Kytococcus Stackebrandt et al., 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriactula gracilis van der Ben SPECIES
-=======
+# Myriactula gracilis van der Ben SPECIES
 
 #### Status
 ACCEPTED

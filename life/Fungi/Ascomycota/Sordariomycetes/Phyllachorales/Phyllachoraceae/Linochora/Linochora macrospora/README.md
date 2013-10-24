@@ -1,5 +1,4 @@
-Linochora macrospora (Speg.) Höhn. SPECIES
-=======
+# Linochora macrospora (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

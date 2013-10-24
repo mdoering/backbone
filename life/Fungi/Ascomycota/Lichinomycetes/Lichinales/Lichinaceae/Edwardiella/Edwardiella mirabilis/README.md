@@ -1,5 +1,4 @@
-Edwardiella mirabilis Henssen SPECIES
-=======
+# Edwardiella mirabilis Henssen SPECIES
 
 #### Status
 ACCEPTED

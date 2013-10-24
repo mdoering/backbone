@@ -1,5 +1,4 @@
-Plectocarpon copppinsii SPECIES
-=======
+# Plectocarpon copppinsii SPECIES
 
 #### Status
 ACCEPTED

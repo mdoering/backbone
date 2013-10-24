@@ -1,5 +1,4 @@
-Laestadia ptarmicae P. Karst. & Starbäck SPECIES
-=======
+# Laestadia ptarmicae P. Karst. & Starbäck SPECIES
 
 #### Status
 ACCEPTED

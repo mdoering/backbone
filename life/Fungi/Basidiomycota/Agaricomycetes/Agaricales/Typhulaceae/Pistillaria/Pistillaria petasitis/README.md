@@ -1,5 +1,4 @@
-Pistillaria petasitis var. petasitis VARIETY
-=======
+# Pistillaria petasitis S. Imai, 1930 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Sapporo nat. Hist. Soc. 11: 76 (1930)
+null
 
 #### Original name
-Pistillaria petasitis var. petasitis
+null
 
 ### Remarks
 null

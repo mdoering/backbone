@@ -1,17 +1,16 @@
-Rhizocarpon vainioense Lynge SPECIES
-=======
+# Rhizocarpon jemtlandicum (Malme) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 8(3): 283 (1914)
 
 #### Original name
-null
+Rhizocarpon jemtlandicum (Malme) Malme
 
 ### Remarks
 null

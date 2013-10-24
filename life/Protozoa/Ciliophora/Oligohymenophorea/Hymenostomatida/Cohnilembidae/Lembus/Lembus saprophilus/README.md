@@ -1,5 +1,4 @@
-Lembus saprophilus SPECIES
-=======
+# Lembus saprophilus SPECIES
 
 #### Status
 ACCEPTED

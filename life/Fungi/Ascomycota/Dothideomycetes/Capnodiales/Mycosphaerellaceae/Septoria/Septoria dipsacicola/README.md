@@ -1,5 +1,4 @@
-Septoria dipsacicola R.K. Verma & Kamal SPECIES
-=======
+# Septoria dipsacicola R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

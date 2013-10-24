@@ -1,5 +1,4 @@
-Catillaria lacarensis I.M. Lamb SPECIES
-=======
+# Catillaria lacarensis I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

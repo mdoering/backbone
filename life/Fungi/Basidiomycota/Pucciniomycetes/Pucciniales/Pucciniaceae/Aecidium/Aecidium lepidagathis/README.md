@@ -1,5 +1,4 @@
-Aecidium lepidagathis Syd. & P. Syd. SPECIES
-=======
+# Aecidium lepidagathis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

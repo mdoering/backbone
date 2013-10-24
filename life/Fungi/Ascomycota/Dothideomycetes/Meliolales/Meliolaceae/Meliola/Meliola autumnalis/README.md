@@ -1,5 +1,4 @@
-Meliola autumnalis Syd. & P. Syd. SPECIES
-=======
+# Meliola autumnalis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora machaerii Henn. SPECIES
-=======
+# Physalospora machaerii Henn. SPECIES
 
 #### Status
 ACCEPTED

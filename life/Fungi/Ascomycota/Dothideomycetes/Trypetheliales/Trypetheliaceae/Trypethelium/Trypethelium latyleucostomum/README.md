@@ -1,5 +1,4 @@
-Trypethelium latyleucostomum Makhija & Patw. SPECIES
-=======
+# Trypethelium latyleucostomum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

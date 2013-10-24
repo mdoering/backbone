@@ -1,5 +1,4 @@
-Hexaloncharium Haeckel, 1887 GENUS
-=======
+# Hexaloncharium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

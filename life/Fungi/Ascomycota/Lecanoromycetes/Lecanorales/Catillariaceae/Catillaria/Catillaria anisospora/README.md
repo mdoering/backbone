@@ -1,5 +1,4 @@
-Catillaria anisospora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria anisospora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

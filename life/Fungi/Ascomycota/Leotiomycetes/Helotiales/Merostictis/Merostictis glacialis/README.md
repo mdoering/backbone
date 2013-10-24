@@ -1,5 +1,4 @@
-Merostictis glacialis (Rehm) Défago SPECIES
-=======
+# Merostictis glacialis (Rehm) Défago SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discomycopsis GENUS
-=======
+# Discomycopsis GENUS
 
 #### Status
 ACCEPTED

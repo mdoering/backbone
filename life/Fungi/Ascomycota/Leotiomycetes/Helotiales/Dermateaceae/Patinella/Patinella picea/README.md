@@ -1,5 +1,4 @@
-Patinella picea Velen. SPECIES
-=======
+# Patinella picea Velen. SPECIES
 
 #### Status
 ACCEPTED

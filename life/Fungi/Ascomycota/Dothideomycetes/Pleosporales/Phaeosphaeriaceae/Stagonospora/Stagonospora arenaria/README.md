@@ -1,17 +1,16 @@
-Stagonospora arenaria var. arenaria VARIETY
-=======
+# Stagonospora arenaria (Sacc.) Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 2): 124 (1878)
 
 #### Original name
-Stagonospora arenaria var. arenaria
+Hendersonia arenaria Sacc., 1878
 
 ### Remarks
 null

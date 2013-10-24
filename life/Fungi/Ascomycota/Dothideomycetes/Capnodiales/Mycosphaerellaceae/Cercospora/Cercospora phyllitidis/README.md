@@ -1,5 +1,4 @@
-Cercospora phyllitidis H.H. Hume SPECIES
-=======
+# Cercospora phyllitidis H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

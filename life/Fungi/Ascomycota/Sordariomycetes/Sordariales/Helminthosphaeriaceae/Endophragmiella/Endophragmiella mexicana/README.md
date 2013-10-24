@@ -1,5 +1,4 @@
-Endophragmiella mexicana J. Mena, Heredia & Mercado SPECIES
-=======
+# Endophragmiella mexicana J. Mena, Heredia & Mercado SPECIES
 
 #### Status
 ACCEPTED

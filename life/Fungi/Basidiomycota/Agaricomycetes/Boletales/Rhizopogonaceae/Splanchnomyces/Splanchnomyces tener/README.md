@@ -1,5 +1,4 @@
-Splanchnomyces tener Corda SPECIES
-=======
+# Splanchnomyces tener Corda SPECIES
 
 #### Status
 ACCEPTED

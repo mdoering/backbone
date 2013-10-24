@@ -1,5 +1,4 @@
-Byssocystis textilis Riess SPECIES
-=======
+# Byssocystis textilis Riess SPECIES
 
 #### Status
 ACCEPTED

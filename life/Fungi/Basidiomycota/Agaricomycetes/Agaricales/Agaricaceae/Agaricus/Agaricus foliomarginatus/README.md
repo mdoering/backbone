@@ -1,5 +1,4 @@
-Agaricus foliomarginatus Sacc. SPECIES
-=======
+# Agaricus foliomarginatus Sacc. SPECIES
 
 #### Status
 ACCEPTED

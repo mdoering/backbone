@@ -1,17 +1,16 @@
-Bresadolia Speg. GENUS
-=======
+# Polyporus P. Micheli ex Adanson, 1763 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 16: 277 (1883)
+Fam. Pl. 2: 10 (1763)
 
 #### Original name
-Bresadolia Speg.
+Polyporus P. Micheli ex Adanson, 1763
 
 ### Remarks
 null

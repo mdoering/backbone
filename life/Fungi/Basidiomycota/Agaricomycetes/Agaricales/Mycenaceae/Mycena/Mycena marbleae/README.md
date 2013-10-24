@@ -1,5 +1,4 @@
-Mycena marbleae (Murrill) Dennis SPECIES
-=======
+# Mycena marbleae (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

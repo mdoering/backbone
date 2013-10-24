@@ -1,5 +1,4 @@
-Dendrophoma azaleae Dearn. & House SPECIES
-=======
+# Dendrophoma azaleae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

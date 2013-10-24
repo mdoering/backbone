@@ -1,5 +1,4 @@
-Diplodina degenerans Died. SPECIES
-=======
+# Diplodina degenerans Died. SPECIES
 
 #### Status
 ACCEPTED

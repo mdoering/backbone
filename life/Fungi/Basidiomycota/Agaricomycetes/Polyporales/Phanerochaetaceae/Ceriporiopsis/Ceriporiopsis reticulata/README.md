@@ -1,5 +1,4 @@
-Ceriporiopsis reticulata anon. SPECIES
-=======
+# Ceriporiopsis reticulata anon. SPECIES
 
 #### Status
 ACCEPTED

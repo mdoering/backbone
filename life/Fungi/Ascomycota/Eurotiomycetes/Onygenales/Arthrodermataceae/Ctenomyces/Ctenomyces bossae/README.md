@@ -1,5 +1,4 @@
-Ctenomyces bossae Miloch. SPECIES
-=======
+# Ctenomyces bossae Miloch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium polyceratum K. Takahashi SPECIES
-=======
+# Baltisphaeridium polyceratum K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

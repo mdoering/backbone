@@ -1,5 +1,4 @@
-Tylopilus pisciodorus (Murrill) Murrill SPECIES
-=======
+# Tylopilus pisciodorus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

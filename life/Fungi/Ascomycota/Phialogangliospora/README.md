@@ -1,5 +1,4 @@
-Phialogangliospora Udaiyan & V.S. Hosag. GENUS
-=======
+# Phialogangliospora Udaiyan & V.S. Hosag. GENUS
 
 #### Status
 ACCEPTED

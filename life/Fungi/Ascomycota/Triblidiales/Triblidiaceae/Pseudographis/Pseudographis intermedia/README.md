@@ -1,5 +1,4 @@
-Pseudographis intermedia Rehm SPECIES
-=======
+# Pseudographis intermedia Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete centrifuga (Weinm.) P. Karst. SPECIES
-=======
+# Hymenochaete centrifuga (Weinm.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

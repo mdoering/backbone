@@ -1,5 +1,4 @@
-Colletotrichum erumpens (Sacc.) Sacc. SPECIES
-=======
+# Colletotrichum erumpens (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

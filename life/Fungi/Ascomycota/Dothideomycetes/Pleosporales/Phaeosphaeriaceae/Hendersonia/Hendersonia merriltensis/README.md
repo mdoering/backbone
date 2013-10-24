@@ -1,5 +1,4 @@
-Hendersonia merriltensis Petr. SPECIES
-=======
+# Hendersonia merriltensis Petr. SPECIES
 
 #### Status
 ACCEPTED

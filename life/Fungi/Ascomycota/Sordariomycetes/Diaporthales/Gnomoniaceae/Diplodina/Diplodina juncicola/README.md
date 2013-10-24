@@ -1,5 +1,4 @@
-Diplodina juncicola (Rostr.) Lind SPECIES
-=======
+# Diplodina juncicola (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

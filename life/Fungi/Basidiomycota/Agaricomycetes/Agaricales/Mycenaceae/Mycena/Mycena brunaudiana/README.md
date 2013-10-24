@@ -1,17 +1,16 @@
-Mycena brunaudii Sacc. & Traverso SPECIES
-=======
+# Mycena brunaudiana Sacc. & Traverso SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 20: 141 (1911)
 
 #### Original name
-Mycena brunaudii Sacc. & Traverso
+Mycena brunaudiana Sacc. & Traverso
 
 ### Remarks
 null

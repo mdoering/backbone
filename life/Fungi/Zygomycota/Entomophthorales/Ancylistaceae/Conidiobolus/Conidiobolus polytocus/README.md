@@ -1,5 +1,4 @@
-Conidiobolus polytocus Drechsler, 1955 SPECIES
-=======
+# Conidiobolus polytocus Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

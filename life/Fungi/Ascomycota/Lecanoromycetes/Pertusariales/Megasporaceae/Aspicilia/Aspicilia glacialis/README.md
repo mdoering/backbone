@@ -1,5 +1,4 @@
-Aspicilia glacialis Dalla Torre & Sarnth. SPECIES
-=======
+# Aspicilia glacialis Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

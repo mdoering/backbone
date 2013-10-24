@@ -1,5 +1,4 @@
-Lobaria terrebrata Hoffm. SPECIES
-=======
+# Lobaria terrebrata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

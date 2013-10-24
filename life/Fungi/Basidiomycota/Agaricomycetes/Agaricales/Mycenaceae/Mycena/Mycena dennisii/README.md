@@ -1,5 +1,4 @@
-Mycena dennisii Singer SPECIES
-=======
+# Mycena dennisii Singer SPECIES
 
 #### Status
 ACCEPTED

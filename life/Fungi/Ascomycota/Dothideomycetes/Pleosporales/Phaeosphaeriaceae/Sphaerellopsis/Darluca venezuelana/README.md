@@ -1,5 +1,4 @@
-Darluca venezuelana Syd. SPECIES
-=======
+# Darluca venezuelana Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pezizoides Schwein. SPECIES
-=======
+# Boletus pezizoides Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus luteus (Redhead & B. Liu) Redhead, 1984 SPECIES
-=======
+# Pluteus luteus (Redhead & B. Liu) Redhead, 1984 SPECIES
 
 #### Status
 ACCEPTED

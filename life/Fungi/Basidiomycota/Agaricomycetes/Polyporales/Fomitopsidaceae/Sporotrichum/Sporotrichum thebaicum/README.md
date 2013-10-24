@@ -1,5 +1,4 @@
-Sporotrichum thebaicum Link SPECIES
-=======
+# Sporotrichum thebaicum Link SPECIES
 
 #### Status
 ACCEPTED

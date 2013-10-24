@@ -1,5 +1,4 @@
-Discoaster braarudii Bukry, 1971 SPECIES
-=======
+# Discoaster braarudii Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

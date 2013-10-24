@@ -1,5 +1,4 @@
-Phaeosphaerella donacicola Speg. SPECIES
-=======
+# Phaeosphaerella donacicola Speg. SPECIES
 
 #### Status
 ACCEPTED

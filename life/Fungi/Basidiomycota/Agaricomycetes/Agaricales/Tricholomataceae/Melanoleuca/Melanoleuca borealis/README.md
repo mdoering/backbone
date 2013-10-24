@@ -1,5 +1,4 @@
-Melanoleuca borealis L.S. Gillman & O.K. Mill. SPECIES
-=======
+# Melanoleuca borealis L.S. Gillman & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

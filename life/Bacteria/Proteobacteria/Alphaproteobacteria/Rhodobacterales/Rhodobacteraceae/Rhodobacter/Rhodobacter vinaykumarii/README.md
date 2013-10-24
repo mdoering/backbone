@@ -1,5 +1,4 @@
-Rhodobacter vinaykumarii Srinivas, Anil Kumar, Sasikala, Ramana & Imhoff, 2007 SPECIES
-=======
+# Rhodobacter vinaykumarii Srinivas, Anil Kumar, Sasikala, Ramana & Imhoff, 2007 SPECIES
 
 #### Status
 ACCEPTED

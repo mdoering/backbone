@@ -1,5 +1,4 @@
-Alterammina Brönnigmann & Whittaker, 1988 GENUS
-=======
+# Alterammina Brönnigmann & Whittaker, 1988 GENUS
 
 #### Status
 ACCEPTED

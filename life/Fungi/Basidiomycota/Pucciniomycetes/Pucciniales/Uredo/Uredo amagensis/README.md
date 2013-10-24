@@ -1,5 +1,4 @@
-Uredo amagensis Mayor SPECIES
-=======
+# Uredo amagensis Mayor SPECIES
 
 #### Status
 ACCEPTED

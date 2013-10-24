@@ -1,5 +1,4 @@
-Pseudomorulaeplecta Neagu & Neagu, 1995 GENUS
-=======
+# Pseudomorulaeplecta Neagu & Neagu, 1995 GENUS
 
 #### Status
 ACCEPTED

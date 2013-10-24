@@ -1,5 +1,4 @@
-Mycovellosiella fici-cuneae Bhalla, N. Srivast. & Kamal SPECIES
-=======
+# Mycovellosiella fici-cuneae Bhalla, N. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

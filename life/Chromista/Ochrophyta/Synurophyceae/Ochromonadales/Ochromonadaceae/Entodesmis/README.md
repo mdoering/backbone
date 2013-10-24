@@ -1,5 +1,4 @@
-Entodesmis Borzì, 1892 GENUS
-=======
+# Entodesmis Borzì, 1892 GENUS
 
 #### Status
 ACCEPTED

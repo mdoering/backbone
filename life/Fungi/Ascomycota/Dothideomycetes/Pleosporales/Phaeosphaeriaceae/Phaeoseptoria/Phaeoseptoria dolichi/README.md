@@ -1,5 +1,4 @@
-Phaeoseptoria dolichi M.I. Nikol. SPECIES
-=======
+# Phaeoseptoria dolichi M.I. Nikol. SPECIES
 
 #### Status
 ACCEPTED

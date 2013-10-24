@@ -1,5 +1,4 @@
-Rhodophyllus mesites Singer SPECIES
-=======
+# Rhodophyllus mesites Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus ovinus var. ovinus Bull. VARIETY
-=======
+# Hygrocybe ovina (Bull.) Kühner, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 13: tab. 580 (1793)
+Botaniste 17: 43 (1926)
 
 #### Original name
-Agaricus ovinus var. ovinus Bull.
+Agaricus ovinus Bull., 1793
 
 ### Remarks
 null

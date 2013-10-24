@@ -1,5 +1,4 @@
-Melanolecia micropsis (A. Massal.) Hertel SPECIES
-=======
+# Melanolecia micropsis (A. Massal.) Hertel SPECIES
 
 #### Status
 ACCEPTED

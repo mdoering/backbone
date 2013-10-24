@@ -1,5 +1,4 @@
-Surculosphaeridium vestitum (Deflandre, 1938) Davey et al., 1966 SPECIES
-=======
+# Surculosphaeridium vestitum (Deflandre, 1938) Davey et al., 1966 SPECIES
 
 #### Status
 ACCEPTED

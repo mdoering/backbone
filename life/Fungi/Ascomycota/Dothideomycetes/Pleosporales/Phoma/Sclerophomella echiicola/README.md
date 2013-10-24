@@ -1,5 +1,4 @@
-Sclerophomella echiicola Petr. SPECIES
-=======
+# Sclerophomella echiicola Petr. SPECIES
 
 #### Status
 ACCEPTED

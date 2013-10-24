@@ -1,5 +1,4 @@
-Gyrodinium lacryma (Meunier) Kofoid & Swezy SPECIES
-=======
+# Gyrodinium lacryma (Meunier) Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

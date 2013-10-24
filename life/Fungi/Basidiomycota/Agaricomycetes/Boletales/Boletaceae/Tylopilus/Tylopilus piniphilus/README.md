@@ -1,17 +1,16 @@
-Tylopilus pinophilus Wolfe & Bougher SPECIES
-=======
+# Tylopilus piniphilus Wolfe & Bougher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aust. Syst. Bot. 6(3): 203 (1993)
 
 #### Original name
-Tylopilus pinophilus Wolfe & Bougher
+Tylopilus piniphilus Wolfe & Bougher
 
 ### Remarks
 null

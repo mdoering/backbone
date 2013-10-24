@@ -1,5 +1,4 @@
-Graphis gregmuelleri Sipman & Lücking SPECIES
-=======
+# Graphis gregmuelleri Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

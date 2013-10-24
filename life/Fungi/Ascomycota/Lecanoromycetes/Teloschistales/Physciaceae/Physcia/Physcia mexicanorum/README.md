@@ -1,5 +1,4 @@
-Physcia mexicanorum SPECIES
-=======
+# Physcia mexicanorum SPECIES
 
 #### Status
 ACCEPTED

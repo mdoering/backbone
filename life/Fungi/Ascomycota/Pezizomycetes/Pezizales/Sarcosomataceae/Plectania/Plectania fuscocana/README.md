@@ -1,5 +1,4 @@
-Plectania fuscocana Alb. & Schwein. SPECIES
-=======
+# Plectania fuscocana Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

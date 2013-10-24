@@ -1,17 +1,16 @@
-Lichenoconium follmanii S.Y. Kondr. & D.J. Galloway SPECIES
-=======
+# Lichenoconium follmannii S.Y. Kondr. & D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flechten Follmann (Cologne), Contributions to Lichenology in Honour of Gerhard Follmann 256 (1995)
 
 #### Original name
-Lichenoconium follmanii S.Y. Kondr. & D.J. Galloway
+Lichenoconium follmannii S.Y. Kondr. & D.J. Galloway
 
 ### Remarks
 null

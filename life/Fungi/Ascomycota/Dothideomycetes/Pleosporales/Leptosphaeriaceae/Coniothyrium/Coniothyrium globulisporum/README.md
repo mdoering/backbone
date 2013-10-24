@@ -1,5 +1,4 @@
-Coniothyrium globulisporum Speg. SPECIES
-=======
+# Coniothyrium globulisporum Speg. SPECIES
 
 #### Status
 ACCEPTED

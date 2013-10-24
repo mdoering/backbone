@@ -1,5 +1,4 @@
-Chalciporus trinitensis var. trinitensis VARIETY
-=======
+# Chalciporus trinitensis (Heinem.) Singer, I.J. Araujo & M.H. Ivory SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 77: 86 (1983)
 
 #### Original name
-Chalciporus trinitensis var. trinitensis
+Pulveroboletus trinitensis Heinem.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Peltigera membranacea var. prolifera (J.W. Thomson) Trass VARIETY
-=======
+# Peltigera membranacea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Normandie, sér. 4 1: 74 (1887)
 
 #### Original name
-Parmelia membranacea f. prolifera J.W. Thomson
+Peltidea canina var. membranacea Ach.
 
 ### Remarks
 null

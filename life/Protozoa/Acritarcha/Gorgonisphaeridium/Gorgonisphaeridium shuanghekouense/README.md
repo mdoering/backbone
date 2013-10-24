@@ -1,5 +1,4 @@
-Gorgonisphaeridium shuanghekouense Fang Xiaosi, 1990 SPECIES
-=======
+# Gorgonisphaeridium shuanghekouense Fang Xiaosi, 1990 SPECIES
 
 #### Status
 ACCEPTED

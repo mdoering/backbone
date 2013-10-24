@@ -1,5 +1,4 @@
-Nigredo speciosa (Holw.) Arthur SPECIES
-=======
+# Nigredo speciosa (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta honbaensis Vincens SPECIES
-=======
+# Phyllosticta honbaensis Vincens SPECIES
 
 #### Status
 ACCEPTED

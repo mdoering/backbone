@@ -1,5 +1,4 @@
-Sieberina Fuchs, 1970 GENUS
-=======
+# Sieberina Fuchs, 1970 GENUS
 
 #### Status
 ACCEPTED

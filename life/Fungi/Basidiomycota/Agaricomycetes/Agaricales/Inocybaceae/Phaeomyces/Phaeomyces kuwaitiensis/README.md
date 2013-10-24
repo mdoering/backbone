@@ -1,5 +1,4 @@
-Phaeomyces kuwaitiensis ined. SPECIES
-=======
+# Phaeomyces kuwaitiensis ined. SPECIES
 
 #### Status
 ACCEPTED

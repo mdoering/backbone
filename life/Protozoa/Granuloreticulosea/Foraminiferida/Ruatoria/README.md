@@ -1,5 +1,4 @@
-Ruatoria Vella, 1961 GENUS
-=======
+# Ruatoria Vella, 1961 GENUS
 
 #### Status
 ACCEPTED

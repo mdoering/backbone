@@ -1,5 +1,4 @@
-Blastenia allorgei B. de Lesd. SPECIES
-=======
+# Blastenia allorgei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

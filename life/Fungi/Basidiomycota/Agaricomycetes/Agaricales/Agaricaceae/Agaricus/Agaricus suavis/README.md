@@ -1,5 +1,4 @@
-Agaricus suavis Lasch SPECIES
-=======
+# Agaricus suavis Lasch SPECIES
 
 #### Status
 ACCEPTED

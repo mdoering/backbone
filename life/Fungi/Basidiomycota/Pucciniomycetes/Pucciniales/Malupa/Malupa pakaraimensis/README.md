@@ -1,5 +1,4 @@
-Malupa pakaraimensis J.R. Hern. & Aime SPECIES
-=======
+# Malupa pakaraimensis J.R. Hern. & Aime SPECIES
 
 #### Status
 ACCEPTED

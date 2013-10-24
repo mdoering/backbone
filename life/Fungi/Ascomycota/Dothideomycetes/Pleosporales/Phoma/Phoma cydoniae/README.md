@@ -1,5 +1,4 @@
-Phoma cydoniae Sacc. & Schulzer SPECIES
-=======
+# Phoma cydoniae Sacc. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

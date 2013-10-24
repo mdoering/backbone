@@ -1,5 +1,4 @@
-Conglutinatosphaeridium Timofeev, 1965 GENUS
-=======
+# Conglutinatosphaeridium Timofeev, 1965 GENUS
 
 #### Status
 ACCEPTED

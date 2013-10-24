@@ -1,5 +1,4 @@
-Comatricha orthotricha Bratteng, 1975 SPECIES
-=======
+# Comatricha orthotricha Bratteng, 1975 SPECIES
 
 #### Status
 ACCEPTED

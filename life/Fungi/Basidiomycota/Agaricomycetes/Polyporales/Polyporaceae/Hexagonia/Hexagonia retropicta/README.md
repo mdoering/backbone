@@ -1,5 +1,4 @@
-Hexagonia retropicta (Bres.) Lloyd SPECIES
-=======
+# Hexagonia retropicta (Bres.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

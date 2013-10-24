@@ -1,5 +1,4 @@
-Fusarium dimorphum J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Fusarium dimorphum J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

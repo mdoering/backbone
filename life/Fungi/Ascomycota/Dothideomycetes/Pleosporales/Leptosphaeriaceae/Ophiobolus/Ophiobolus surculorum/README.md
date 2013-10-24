@@ -1,5 +1,4 @@
-Ophiobolus surculorum Pass. SPECIES
-=======
+# Ophiobolus surculorum Pass. SPECIES
 
 #### Status
 ACCEPTED

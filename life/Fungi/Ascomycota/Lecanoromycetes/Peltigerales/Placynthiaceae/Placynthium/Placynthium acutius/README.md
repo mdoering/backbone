@@ -1,5 +1,4 @@
-Placynthium acutius (Nyl.) Zahlbr. SPECIES
-=======
+# Placynthium acutius (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

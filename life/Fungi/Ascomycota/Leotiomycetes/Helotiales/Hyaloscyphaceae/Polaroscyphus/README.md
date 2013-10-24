@@ -1,5 +1,4 @@
-Polaroscyphus Huhtinen GENUS
-=======
+# Polaroscyphus Huhtinen GENUS
 
 #### Status
 ACCEPTED

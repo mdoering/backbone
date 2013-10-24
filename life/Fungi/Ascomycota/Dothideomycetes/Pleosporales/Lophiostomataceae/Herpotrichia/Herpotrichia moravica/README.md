@@ -1,5 +1,4 @@
-Herpotrichia moravica Petr. SPECIES
-=======
+# Herpotrichia moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

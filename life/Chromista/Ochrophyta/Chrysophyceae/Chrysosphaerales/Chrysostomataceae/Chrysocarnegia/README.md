@@ -1,5 +1,4 @@
-Chrysocarnegia Strand, 1929 GENUS
-=======
+# Chrysocarnegia Strand, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Slackia faecicanis Lawson et al., 2005 SPECIES
-=======
+# Slackia faecicanis Lawson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

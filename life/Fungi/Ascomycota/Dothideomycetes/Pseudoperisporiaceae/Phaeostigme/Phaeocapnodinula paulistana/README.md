@@ -1,5 +1,4 @@
-Phaeocapnodinula paulistana Speg. SPECIES
-=======
+# Phaeocapnodinula paulistana Speg. SPECIES
 
 #### Status
 ACCEPTED

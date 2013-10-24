@@ -1,5 +1,4 @@
-Cladonia salmonea S. Stenroos SPECIES
-=======
+# Cladonia salmonea S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea homala Kremp. SPECIES
-=======
+# Lecidea homala Kremp. SPECIES
 
 #### Status
 ACCEPTED

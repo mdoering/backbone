@@ -1,5 +1,4 @@
-Armillaria pinetorum Gillet SPECIES
-=======
+# Armillaria pinetorum Gillet SPECIES
 
 #### Status
 ACCEPTED

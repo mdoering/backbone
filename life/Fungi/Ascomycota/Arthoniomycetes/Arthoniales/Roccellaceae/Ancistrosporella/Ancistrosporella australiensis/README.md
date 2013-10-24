@@ -1,14 +1,13 @@
-Ancistrospora australiensis G. Thor SPECIES
-=======
+# Ancistrosporella australiensis (G. Thor) G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Op. bot. 103: 30 (1991)
+Syst. Ascom. 13(2): 181 (1995)
 
 #### Original name
 Ancistrospora australiensis G. Thor

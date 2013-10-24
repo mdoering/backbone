@@ -1,14 +1,13 @@
-Boletus reticulata (Hoffm.) Pers. SPECIES
-=======
+# Ceriporia reticulata (Hoffm.) Domanski, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Bot. Pol. 32: 732 (1963)
 
 #### Original name
 null

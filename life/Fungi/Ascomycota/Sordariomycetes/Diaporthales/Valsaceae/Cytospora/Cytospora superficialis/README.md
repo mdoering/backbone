@@ -1,5 +1,4 @@
-Cytospora superficialis Höhn. SPECIES
-=======
+# Cytospora superficialis Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichodinium digacanthum Deflandre & Cookson SPECIES
-=======
+# Hystrichodinium digacanthum Deflandre & Cookson SPECIES
 
 #### Status
 ACCEPTED

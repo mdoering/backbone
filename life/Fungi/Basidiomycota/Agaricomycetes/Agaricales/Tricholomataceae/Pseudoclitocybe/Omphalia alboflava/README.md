@@ -1,5 +1,4 @@
-Omphalia alboflava Morgan SPECIES
-=======
+# Omphalia alboflava Morgan SPECIES
 
 #### Status
 ACCEPTED

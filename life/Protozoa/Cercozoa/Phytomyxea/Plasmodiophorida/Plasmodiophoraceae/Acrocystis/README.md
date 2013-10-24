@@ -1,5 +1,4 @@
-Acrocystis GENUS
-=======
+# Acrocystis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcopodium foliicola Fuckel SPECIES
-=======
+# Sarcopodium foliicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

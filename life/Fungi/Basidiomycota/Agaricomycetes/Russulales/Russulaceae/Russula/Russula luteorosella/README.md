@@ -1,5 +1,4 @@
-Russula luteorosella Britzelm. SPECIES
-=======
+# Russula luteorosella Britzelm. SPECIES
 
 #### Status
 ACCEPTED

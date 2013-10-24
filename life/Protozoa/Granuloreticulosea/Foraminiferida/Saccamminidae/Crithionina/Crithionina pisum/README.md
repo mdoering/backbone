@@ -1,5 +1,4 @@
-Crithionina pisum SPECIES
-=======
+# Crithionina pisum SPECIES
 
 #### Status
 ACCEPTED

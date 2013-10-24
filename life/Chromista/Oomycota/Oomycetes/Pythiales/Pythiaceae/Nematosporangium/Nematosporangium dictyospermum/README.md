@@ -1,5 +1,4 @@
-Nematosporangium dictyospermum (Racib.) Jacz. SPECIES
-=======
+# Nematosporangium dictyospermum (Racib.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

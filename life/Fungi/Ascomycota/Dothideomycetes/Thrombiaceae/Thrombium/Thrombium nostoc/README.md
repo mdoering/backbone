@@ -1,5 +1,4 @@
-Thrombium nostoc Wallr. SPECIES
-=======
+# Thrombium nostoc Wallr. SPECIES
 
 #### Status
 ACCEPTED

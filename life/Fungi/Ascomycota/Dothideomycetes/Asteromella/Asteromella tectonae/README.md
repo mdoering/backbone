@@ -1,5 +1,4 @@
-Asteromella tectonae (Syd., P. Syd. & E.J. Butler) Aa SPECIES
-=======
+# Asteromella tectonae (Syd., P. Syd. & E.J. Butler) Aa SPECIES
 
 #### Status
 ACCEPTED

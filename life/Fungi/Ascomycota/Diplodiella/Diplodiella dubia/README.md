@@ -1,5 +1,4 @@
-Diplodiella dubia Delacr. SPECIES
-=======
+# Diplodiella dubia Delacr. SPECIES
 
 #### Status
 ACCEPTED

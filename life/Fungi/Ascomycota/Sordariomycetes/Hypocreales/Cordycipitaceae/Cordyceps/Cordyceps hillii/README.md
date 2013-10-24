@@ -1,5 +1,4 @@
-Cordyceps hillii Lloyd SPECIES
-=======
+# Cordyceps hillii Lloyd SPECIES
 
 #### Status
 ACCEPTED

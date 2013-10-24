@@ -1,5 +1,4 @@
-Streptothrix Cohn, 1875 GENUS
-=======
+# Streptothrix Cohn, 1875 GENUS
 
 #### Status
 ACCEPTED

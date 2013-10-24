@@ -1,5 +1,4 @@
-Trinacria senta (Witt) P. A. Sims & R. Ross SPECIES
-=======
+# Trinacria senta (Witt) P. A. Sims & R. Ross SPECIES
 
 #### Status
 ACCEPTED

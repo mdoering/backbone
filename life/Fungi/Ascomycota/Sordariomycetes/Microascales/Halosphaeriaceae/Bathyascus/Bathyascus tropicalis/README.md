@@ -1,5 +1,4 @@
-Bathyascus tropicalis Kohlm., 1980 SPECIES
-=======
+# Bathyascus tropicalis Kohlm., 1980 SPECIES
 
 #### Status
 ACCEPTED

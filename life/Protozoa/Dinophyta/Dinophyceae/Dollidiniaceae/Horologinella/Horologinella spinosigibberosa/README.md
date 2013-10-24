@@ -1,5 +1,4 @@
-Horologinella spinosigibberosa Brideaux & Fisher, 1976 SPECIES
-=======
+# Horologinella spinosigibberosa Brideaux & Fisher, 1976 SPECIES
 
 #### Status
 ACCEPTED

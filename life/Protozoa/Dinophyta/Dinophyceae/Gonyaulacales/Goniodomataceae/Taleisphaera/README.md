@@ -1,5 +1,4 @@
-Taleisphaera S. Duxbury, 1979 GENUS
-=======
+# Taleisphaera S. Duxbury, 1979 GENUS
 
 #### Status
 ACCEPTED

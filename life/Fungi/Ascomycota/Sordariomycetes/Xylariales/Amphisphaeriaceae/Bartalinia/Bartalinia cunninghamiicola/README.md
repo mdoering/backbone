@@ -1,5 +1,4 @@
-Bartalinia cunninghamiicola Ts. Kobay. & J.Z. Zhao SPECIES
-=======
+# Bartalinia cunninghamiicola Ts. Kobay. & J.Z. Zhao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa decorticans (A. Braun) Richter SPECIES
-=======
+# Gloeocapsa decorticans (A. Braun) Richter SPECIES
 
 #### Status
 ACCEPTED

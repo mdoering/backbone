@@ -1,5 +1,4 @@
-Didymosphaeria werthiana Henn. SPECIES
-=======
+# Didymosphaeria werthiana Henn. SPECIES
 
 #### Status
 ACCEPTED

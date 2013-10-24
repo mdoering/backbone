@@ -1,5 +1,4 @@
-Uromyces hedysari (DC.) Fuckel SPECIES
-=======
+# Uromyces hedysari (DC.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

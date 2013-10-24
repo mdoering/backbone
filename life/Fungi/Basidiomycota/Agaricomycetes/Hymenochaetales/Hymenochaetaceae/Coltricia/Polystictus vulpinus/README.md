@@ -1,5 +1,4 @@
-Polystictus vulpinus (Fr.) Cooke SPECIES
-=======
+# Polystictus vulpinus (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

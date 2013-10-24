@@ -1,5 +1,4 @@
-Leptosphaeria agaves Syd. & E.J. Butler SPECIES
-=======
+# Leptosphaeria agaves Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssoloma rubromarginatum Messuti & de la Rosa SPECIES
-=======
+# Byssoloma rubromarginatum Messuti & de la Rosa SPECIES
 
 #### Status
 ACCEPTED

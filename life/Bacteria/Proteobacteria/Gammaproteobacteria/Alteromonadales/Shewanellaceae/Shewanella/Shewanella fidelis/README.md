@@ -1,5 +1,4 @@
-Shewanella fidelis Ivanova et al., 2003 SPECIES
-=======
+# Shewanella fidelis Ivanova et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

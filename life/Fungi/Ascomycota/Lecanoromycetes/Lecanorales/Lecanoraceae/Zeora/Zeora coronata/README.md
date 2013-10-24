@@ -1,5 +1,4 @@
-Zeora coronata (Röhl.) Flot. SPECIES
-=======
+# Zeora coronata (Röhl.) Flot. SPECIES
 
 #### Status
 ACCEPTED

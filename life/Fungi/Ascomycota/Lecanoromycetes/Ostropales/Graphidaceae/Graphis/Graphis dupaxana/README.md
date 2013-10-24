@@ -1,5 +1,4 @@
-Graphis dupaxana Vain. SPECIES
-=======
+# Graphis dupaxana Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium rimicola P. Karst., 1896 SPECIES
-=======
+# Xenasma rimicola (P. Karst.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 45 (1896)
+Fungus, Wageningen 27: 26 (1957)
 
 #### Original name
 Corticium rimicola P. Karst., 1896

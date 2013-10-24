@@ -1,5 +1,4 @@
-Pleoconis kansana (Tuck.) Clem. SPECIES
-=======
+# Pleoconis kansana (Tuck.) Clem. SPECIES
 
 #### Status
 ACCEPTED

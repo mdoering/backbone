@@ -1,5 +1,4 @@
-Pullenia simplex Rhumbler, 1931 SPECIES
-=======
+# Pullenia simplex Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

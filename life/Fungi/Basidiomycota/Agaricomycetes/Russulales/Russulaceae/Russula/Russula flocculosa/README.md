@@ -1,5 +1,4 @@
-Russula flocculosa Burl. SPECIES
-=======
+# Russula flocculosa Burl. SPECIES
 
 #### Status
 ACCEPTED

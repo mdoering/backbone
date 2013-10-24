@@ -1,5 +1,4 @@
-Phacidium litigiosum Roberge ex Desm. SPECIES
-=======
+# Phacidium litigiosum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

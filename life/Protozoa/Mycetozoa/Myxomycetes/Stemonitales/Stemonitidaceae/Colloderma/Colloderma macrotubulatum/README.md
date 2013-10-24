@@ -1,5 +1,4 @@
-Colloderma macrotubulatum Nann.-Bremek. & Lado, 1985 SPECIES
-=======
+# Colloderma macrotubulatum Nann.-Bremek. & Lado, 1985 SPECIES
 
 #### Status
 ACCEPTED

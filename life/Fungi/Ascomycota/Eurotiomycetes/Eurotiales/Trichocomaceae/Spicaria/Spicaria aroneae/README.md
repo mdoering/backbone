@@ -1,5 +1,4 @@
-Spicaria aroneae Sawada SPECIES
-=======
+# Spicaria aroneae Sawada SPECIES
 
 #### Status
 ACCEPTED

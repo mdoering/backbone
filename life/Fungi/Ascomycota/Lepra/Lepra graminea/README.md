@@ -1,5 +1,4 @@
-Lepra graminea (Roth) Humb. SPECIES
-=======
+# Lepra graminea (Roth) Humb. SPECIES
 
 #### Status
 ACCEPTED

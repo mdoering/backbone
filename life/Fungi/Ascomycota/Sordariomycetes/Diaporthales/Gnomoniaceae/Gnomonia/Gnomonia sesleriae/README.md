@@ -1,5 +1,4 @@
-Gnomonia sesleriae Niessl SPECIES
-=======
+# Gnomonia sesleriae Niessl SPECIES
 
 #### Status
 ACCEPTED

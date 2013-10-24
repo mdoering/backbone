@@ -1,5 +1,4 @@
-Bipolaris hadrotrichoides (Ellis & Everh.) Luttr. SPECIES
-=======
+# Bipolaris hadrotrichoides (Ellis & Everh.) Luttr. SPECIES
 
 #### Status
 ACCEPTED

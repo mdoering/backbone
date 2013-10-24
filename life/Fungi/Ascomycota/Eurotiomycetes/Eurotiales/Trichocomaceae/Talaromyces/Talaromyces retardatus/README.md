@@ -1,5 +1,4 @@
-Talaromyces retardatus Udagawa, Kamiya & Kaori Osada, 1993 SPECIES
-=======
+# Talaromyces retardatus Udagawa, Kamiya & Kaori Osada, 1993 SPECIES
 
 #### Status
 ACCEPTED

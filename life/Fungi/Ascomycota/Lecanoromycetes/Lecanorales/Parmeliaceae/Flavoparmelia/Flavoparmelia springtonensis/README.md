@@ -1,14 +1,13 @@
-Parmelia springtonensis Elix SPECIES
-=======
+# Flavoparmelia springtonensis (Elix) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix & Stevens, Aust. J. Bot. 27(6): 879 (1980)
+Mycotaxon 25(2): 605 (1986)
 
 #### Original name
 Parmelia springtonensis Elix

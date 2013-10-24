@@ -1,5 +1,4 @@
-Alectoria virens var. virens VARIETY
-=======
+# Alectoria virens Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria virens var. virens
+Alectoria virens Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xenodimerium mycophilum Petr. SPECIES
-=======
+# Xenodimerium mycophilum Petr. SPECIES
 
 #### Status
 ACCEPTED

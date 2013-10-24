@@ -1,5 +1,4 @@
-Ramaria subsigmoidea (Sacc. & P. Syd.) Corner SPECIES
-=======
+# Ramaria subsigmoidea (Sacc. & P. Syd.) Corner SPECIES
 
 #### Status
 ACCEPTED

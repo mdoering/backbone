@@ -1,5 +1,4 @@
-Apiospora siamicola Hidayat & K.D. Hyde SPECIES
-=======
+# Apiospora siamicola Hidayat & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

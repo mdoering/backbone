@@ -1,5 +1,4 @@
-Phoma orthotrichi A.L. Sm. & Ramsb. SPECIES
-=======
+# Phoma orthotrichi A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

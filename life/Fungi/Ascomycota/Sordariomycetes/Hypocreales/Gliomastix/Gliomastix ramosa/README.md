@@ -1,5 +1,4 @@
-Gliomastix ramosa Matsush. SPECIES
-=======
+# Gliomastix ramosa Matsush. SPECIES
 
 #### Status
 ACCEPTED

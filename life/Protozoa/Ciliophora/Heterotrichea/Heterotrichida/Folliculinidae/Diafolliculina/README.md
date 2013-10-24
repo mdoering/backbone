@@ -1,5 +1,4 @@
-Diafolliculina Hadzi, 1951 GENUS
-=======
+# Diafolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

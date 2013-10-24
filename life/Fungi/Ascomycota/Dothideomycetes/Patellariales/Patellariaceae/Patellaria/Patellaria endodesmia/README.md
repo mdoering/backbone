@@ -1,5 +1,4 @@
-Patellaria endodesmia Müll. Arg. SPECIES
-=======
+# Patellaria endodesmia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

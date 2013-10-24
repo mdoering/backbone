@@ -1,5 +1,4 @@
-Meliola dimidiatae Hosag. SPECIES
-=======
+# Meliola dimidiatae Hosag. SPECIES
 
 #### Status
 ACCEPTED

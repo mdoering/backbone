@@ -1,5 +1,4 @@
-Sphaerobactrum Schmidt, 1920 GENUS
-=======
+# Sphaerobactrum Schmidt, 1920 GENUS
 
 #### Status
 ACCEPTED

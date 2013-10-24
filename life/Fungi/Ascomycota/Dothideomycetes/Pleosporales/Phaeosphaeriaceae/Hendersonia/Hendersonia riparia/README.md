@@ -1,5 +1,4 @@
-Hendersonia riparia Sacc. SPECIES
-=======
+# Hendersonia riparia Sacc. SPECIES
 
 #### Status
 ACCEPTED

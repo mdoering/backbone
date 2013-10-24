@@ -1,5 +1,4 @@
-Omphalia invita P. Karst. SPECIES
-=======
+# Omphalia invita P. Karst. SPECIES
 
 #### Status
 ACCEPTED

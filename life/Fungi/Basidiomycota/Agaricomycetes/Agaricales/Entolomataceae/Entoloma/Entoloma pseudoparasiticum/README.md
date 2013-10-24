@@ -1,5 +1,4 @@
-Entoloma pseudoparasiticum Noordel. SPECIES
-=======
+# Entoloma pseudoparasiticum Noordel. SPECIES
 
 #### Status
 ACCEPTED

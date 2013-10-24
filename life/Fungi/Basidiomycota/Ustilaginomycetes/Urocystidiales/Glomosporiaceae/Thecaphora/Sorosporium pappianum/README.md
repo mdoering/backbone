@@ -1,5 +1,4 @@
-Sorosporium pappianum (Bacc.) L. Ling SPECIES
-=======
+# Sorosporium pappianum (Bacc.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

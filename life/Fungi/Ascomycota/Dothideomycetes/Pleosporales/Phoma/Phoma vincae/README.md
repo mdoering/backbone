@@ -1,5 +1,4 @@
-Phoma vincae (Curr.) Sacc. SPECIES
-=======
+# Phoma vincae (Curr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

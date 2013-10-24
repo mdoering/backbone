@@ -1,5 +1,4 @@
-Pythium mycoparasiticum Deacon, S.A.K. Laing & L.A. Berry, 1991 SPECIES
-=======
+# Pythium mycoparasiticum Deacon, S.A.K. Laing & L.A. Berry, 1991 SPECIES
 
 #### Status
 ACCEPTED

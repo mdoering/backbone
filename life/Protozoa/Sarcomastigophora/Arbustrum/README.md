@@ -1,5 +1,4 @@
-Arbustrum Wang Naiwen, 1989 GENUS
-=======
+# Arbustrum Wang Naiwen, 1989 GENUS
 
 #### Status
 ACCEPTED

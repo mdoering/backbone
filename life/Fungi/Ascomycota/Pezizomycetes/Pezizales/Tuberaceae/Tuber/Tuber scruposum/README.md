@@ -1,5 +1,4 @@
-Tuber scruposum R. Hesse SPECIES
-=======
+# Tuber scruposum R. Hesse SPECIES
 
 #### Status
 ACCEPTED

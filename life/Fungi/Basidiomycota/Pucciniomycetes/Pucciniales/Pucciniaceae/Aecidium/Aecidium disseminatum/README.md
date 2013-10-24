@@ -1,5 +1,4 @@
-Aecidium disseminatum Berk. SPECIES
-=======
+# Aecidium disseminatum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus leiophyllus (Berk. & M.A. Curtis) Neda SPECIES
-=======
+# Marasmiellus leiophyllus (Berk. & M.A. Curtis) Neda SPECIES
 
 #### Status
 ACCEPTED

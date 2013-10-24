@@ -1,5 +1,4 @@
-Reticulofenestra perplexa (D.A. Burns) S.W. Wise SPECIES
-=======
+# Reticulofenestra perplexa (D.A. Burns) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

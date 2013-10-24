@@ -1,17 +1,16 @@
-Pholiotina exannulata var. exannulata VARIETY
-=======
+# Conocybe exannulata Kühner, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Analyt. Champ. Supér. (Paris) 343 (1953)
 
 #### Original name
-null
+Conocybe exannulata Kühner, 1953
 
 ### Remarks
 null

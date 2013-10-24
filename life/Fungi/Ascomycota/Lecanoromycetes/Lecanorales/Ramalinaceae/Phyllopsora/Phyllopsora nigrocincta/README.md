@@ -1,5 +1,4 @@
-Phyllopsora nigrocincta Timdal SPECIES
-=======
+# Phyllopsora nigrocincta Timdal SPECIES
 
 #### Status
 ACCEPTED

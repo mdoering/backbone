@@ -1,5 +1,4 @@
-Agaricus mugnaius Scop. SPECIES
-=======
+# Agaricus mugnaius Scop. SPECIES
 
 #### Status
 ACCEPTED

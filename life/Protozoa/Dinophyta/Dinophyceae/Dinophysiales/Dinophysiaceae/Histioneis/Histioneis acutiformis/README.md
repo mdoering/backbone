@@ -1,5 +1,4 @@
-Histioneis acutiformis Wood, 1963 SPECIES
-=======
+# Histioneis acutiformis Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

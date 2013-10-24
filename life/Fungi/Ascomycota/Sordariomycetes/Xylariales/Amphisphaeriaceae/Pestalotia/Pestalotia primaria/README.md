@@ -1,5 +1,4 @@
-Pestalotia primaria Ellis & Everh. SPECIES
-=======
+# Pestalotia primaria Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

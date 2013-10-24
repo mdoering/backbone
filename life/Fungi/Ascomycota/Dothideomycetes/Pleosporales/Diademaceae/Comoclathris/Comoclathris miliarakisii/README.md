@@ -1,5 +1,4 @@
-Comoclathris miliarakisii Maire SPECIES
-=======
+# Comoclathris miliarakisii Maire SPECIES
 
 #### Status
 ACCEPTED

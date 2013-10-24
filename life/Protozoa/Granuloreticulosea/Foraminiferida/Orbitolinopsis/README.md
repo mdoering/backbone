@@ -1,5 +1,4 @@
-Orbitolinopsis GENUS
-=======
+# Orbitolinopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia atrigilva (Murrill) Murrill SPECIES
-=======
+# Collybia atrigilva (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

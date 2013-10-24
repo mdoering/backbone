@@ -1,5 +1,4 @@
-Paracoccus GENUS
-=======
+# Paracoccus GENUS
 
 #### Status
 ACCEPTED

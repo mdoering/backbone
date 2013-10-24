@@ -1,5 +1,4 @@
-Irpex merulioides (Berk. & Broome) Lloyd SPECIES
-=======
+# Irpex merulioides (Berk. & Broome) Lloyd SPECIES
 
 #### Status
 ACCEPTED

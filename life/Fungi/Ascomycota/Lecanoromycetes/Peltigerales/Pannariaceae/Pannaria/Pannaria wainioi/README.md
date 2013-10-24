@@ -1,5 +1,4 @@
-Pannaria wainioi Zahlbr. SPECIES
-=======
+# Pannaria wainioi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

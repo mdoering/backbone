@@ -1,5 +1,4 @@
-Cortinarius inconsequens Britzelm. SPECIES
-=======
+# Cortinarius inconsequens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

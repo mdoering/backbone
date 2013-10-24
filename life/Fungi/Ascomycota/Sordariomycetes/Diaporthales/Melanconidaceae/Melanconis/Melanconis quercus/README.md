@@ -1,5 +1,4 @@
-Melanconis quercus Oudem. SPECIES
-=======
+# Melanconis quercus Oudem. SPECIES
 
 #### Status
 ACCEPTED

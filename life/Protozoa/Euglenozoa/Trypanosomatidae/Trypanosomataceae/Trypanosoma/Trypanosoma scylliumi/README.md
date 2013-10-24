@@ -1,5 +1,4 @@
-Trypanosoma scylliumi Laveran & Mesnil, 1901 SPECIES
-=======
+# Trypanosoma scylliumi Laveran & Mesnil, 1901 SPECIES
 
 #### Status
 ACCEPTED

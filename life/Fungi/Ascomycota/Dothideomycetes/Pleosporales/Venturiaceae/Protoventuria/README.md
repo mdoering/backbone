@@ -1,5 +1,4 @@
-Protoventuria GENUS
-=======
+# Protoventuria GENUS
 
 #### Status
 ACCEPTED

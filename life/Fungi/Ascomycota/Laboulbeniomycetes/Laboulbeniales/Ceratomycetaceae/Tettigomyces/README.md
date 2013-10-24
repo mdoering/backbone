@@ -1,5 +1,4 @@
-Tettigomyces Thaxt. GENUS
-=======
+# Tettigomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

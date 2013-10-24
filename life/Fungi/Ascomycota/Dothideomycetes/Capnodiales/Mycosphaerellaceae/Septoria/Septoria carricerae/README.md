@@ -1,5 +1,4 @@
-Septoria carricerae Fairm. SPECIES
-=======
+# Septoria carricerae Fairm. SPECIES
 
 #### Status
 ACCEPTED

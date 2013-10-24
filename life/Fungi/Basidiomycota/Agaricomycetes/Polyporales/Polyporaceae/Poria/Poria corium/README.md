@@ -1,5 +1,4 @@
-Poria corium (Kunze ex Cooke) G. Cunn. SPECIES
-=======
+# Poria corium (Kunze ex Cooke) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

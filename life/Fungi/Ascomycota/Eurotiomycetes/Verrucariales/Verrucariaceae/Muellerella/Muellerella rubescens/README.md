@@ -1,5 +1,4 @@
-Muellerella rubescens Döbbeler & Triebel SPECIES
-=======
+# Muellerella rubescens Döbbeler & Triebel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudolituotubella Vdovenko, 1967 GENUS
-=======
+# Pseudolituotubella Vdovenko, 1967 GENUS
 
 #### Status
 ACCEPTED

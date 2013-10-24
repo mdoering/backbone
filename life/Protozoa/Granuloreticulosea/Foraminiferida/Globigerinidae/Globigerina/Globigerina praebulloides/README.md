@@ -1,5 +1,4 @@
-Globigerina praebulloides SPECIES
-=======
+# Globigerina praebulloides SPECIES
 
 #### Status
 ACCEPTED

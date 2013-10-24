@@ -1,5 +1,4 @@
-Chlorococcites P. Palik, 1966 GENUS
-=======
+# Chlorococcites P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

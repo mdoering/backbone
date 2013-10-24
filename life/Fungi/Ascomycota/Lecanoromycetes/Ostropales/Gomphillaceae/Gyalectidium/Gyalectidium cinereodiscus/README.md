@@ -1,5 +1,4 @@
-Gyalectidium cinereodiscus Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium cinereodiscus Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

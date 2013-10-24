@@ -1,5 +1,4 @@
-Lecania furfuracea Vezda SPECIES
-=======
+# Lecania furfuracea Vezda SPECIES
 
 #### Status
 ACCEPTED

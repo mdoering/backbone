@@ -1,5 +1,4 @@
-Xylaria coronata Westend. SPECIES
-=======
+# Xylaria coronata Westend. SPECIES
 
 #### Status
 ACCEPTED

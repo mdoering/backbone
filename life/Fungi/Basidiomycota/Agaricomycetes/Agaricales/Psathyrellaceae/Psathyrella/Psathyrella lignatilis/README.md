@@ -1,5 +1,4 @@
-Psathyrella lignatilis Singer SPECIES
-=======
+# Psathyrella lignatilis Singer SPECIES
 
 #### Status
 ACCEPTED

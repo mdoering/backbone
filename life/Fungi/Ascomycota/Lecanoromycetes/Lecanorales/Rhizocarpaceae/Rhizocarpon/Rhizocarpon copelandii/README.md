@@ -1,14 +1,13 @@
-Buellia copelandii Körb. SPECIES
-=======
+# Rhizocarpon copelandii (Körb.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Zweite Deutsch. Nordpolarfahrt 2: 79 (1874)
+Lich. Scand. (Uppsala) 1: 615 (1874)
 
 #### Original name
 Buellia copelandii Körb.

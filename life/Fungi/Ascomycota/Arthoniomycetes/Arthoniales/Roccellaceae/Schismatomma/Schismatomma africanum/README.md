@@ -1,5 +1,4 @@
-Schismatomma africanum (Fée) C.W. Dodge SPECIES
-=======
+# Schismatomma africanum (Fée) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

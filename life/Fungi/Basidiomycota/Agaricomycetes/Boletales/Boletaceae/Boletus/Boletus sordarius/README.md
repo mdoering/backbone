@@ -1,5 +1,4 @@
-Boletus sordarius Fr. SPECIES
-=======
+# Boletus sordarius Fr. SPECIES
 
 #### Status
 ACCEPTED

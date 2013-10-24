@@ -1,5 +1,4 @@
-Lecanora pollinii (A. Massal.) Massee SPECIES
-=======
+# Lecanora pollinii (A. Massal.) Massee SPECIES
 
 #### Status
 ACCEPTED

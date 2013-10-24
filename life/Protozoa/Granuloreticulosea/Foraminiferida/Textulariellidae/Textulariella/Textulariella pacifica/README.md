@@ -1,5 +1,4 @@
-Textulariella pacifica Cushman SPECIES
-=======
+# Textulariella pacifica Cushman SPECIES
 
 #### Status
 ACCEPTED

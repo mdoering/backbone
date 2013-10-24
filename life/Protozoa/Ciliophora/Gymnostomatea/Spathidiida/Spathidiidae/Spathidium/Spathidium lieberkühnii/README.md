@@ -1,5 +1,4 @@
-Spathidium lieberkühnii SPECIES
-=======
+# Spathidium lieberkühnii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moriola aethalea Norman SPECIES
-=======
+# Moriola aethalea Norman SPECIES
 
 #### Status
 ACCEPTED

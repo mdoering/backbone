@@ -1,17 +1,16 @@
-Hygrophorus turundus var. turundus VARIETY
-=======
+# Hygrocybe turunda (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 330 (1838)
+Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 235 (1879)
 
 #### Original name
-Hygrophorus turundus var. turundus
+Agaricus turundus Fr., 1818
 
 ### Remarks
 null

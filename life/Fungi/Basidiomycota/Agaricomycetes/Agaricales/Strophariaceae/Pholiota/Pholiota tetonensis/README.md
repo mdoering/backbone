@@ -1,5 +1,4 @@
-Pholiota tetonensis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota tetonensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

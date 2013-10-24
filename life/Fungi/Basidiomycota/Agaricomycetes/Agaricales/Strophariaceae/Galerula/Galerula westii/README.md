@@ -1,5 +1,4 @@
-Galerula westii Murrill SPECIES
-=======
+# Galerula westii Murrill SPECIES
 
 #### Status
 ACCEPTED

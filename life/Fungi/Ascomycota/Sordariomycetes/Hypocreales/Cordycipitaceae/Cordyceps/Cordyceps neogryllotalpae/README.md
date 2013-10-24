@@ -1,5 +1,4 @@
-Cordyceps neogryllotalpae Kobayasi SPECIES
-=======
+# Cordyceps neogryllotalpae Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo pellaeae Dietel & Neger SPECIES
-=======
+# Uredo pellaeae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

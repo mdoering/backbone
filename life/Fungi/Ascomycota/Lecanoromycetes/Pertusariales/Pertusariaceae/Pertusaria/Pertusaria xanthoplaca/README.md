@@ -1,17 +1,16 @@
-Pertusaria persulphurata Müll. Arg. SPECIES
-=======
+# Pertusaria xanthoplaca Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 23: 391 (1891)
+Flora, Jena 65: 485 (1882)
 
 #### Original name
-Pertusaria persulphurata Müll. Arg.
+Pertusaria xanthoplaca Müll. Arg.
 
 ### Remarks
 null

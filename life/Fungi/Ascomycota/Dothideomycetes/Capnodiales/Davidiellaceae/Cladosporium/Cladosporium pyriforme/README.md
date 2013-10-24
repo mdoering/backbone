@@ -1,17 +1,16 @@
-Cladosporium piriforme Reichert SPECIES
-=======
+# Cladosporium pyriforme Reichert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 56: 721 (1921)
 
 #### Original name
-Cladosporium piriforme Reichert
+Cladosporium pyriforme Reichert
 
 ### Remarks
 null

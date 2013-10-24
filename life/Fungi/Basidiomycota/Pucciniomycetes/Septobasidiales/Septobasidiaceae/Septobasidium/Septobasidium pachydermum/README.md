@@ -1,5 +1,4 @@
-Septobasidium pachydermum Couch SPECIES
-=======
+# Septobasidium pachydermum Couch SPECIES
 
 #### Status
 ACCEPTED

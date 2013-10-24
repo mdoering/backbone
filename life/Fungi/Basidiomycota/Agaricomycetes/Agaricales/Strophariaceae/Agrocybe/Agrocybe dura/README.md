@@ -1,17 +1,16 @@
-Pholiota dura var. dura VARIETY
-=======
+# Agrocybe dura (Bolton) Singer, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 84 (1871)
+Beih. bot. Zbl. 56: 165 (1936)
 
 #### Original name
-Pholiota dura var. dura
+Agaricus durus Bolton, 1788
 
 ### Remarks
 null

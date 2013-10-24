@@ -1,5 +1,4 @@
-Nocardia poncetii Verdun SPECIES
-=======
+# Nocardia poncetii Verdun SPECIES
 
 #### Status
 ACCEPTED

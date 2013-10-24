@@ -1,5 +1,4 @@
-Truncospora truncatospora (Lloyd) S. Ito SPECIES
-=======
+# Truncospora truncatospora (Lloyd) S. Ito SPECIES
 
 #### Status
 ACCEPTED

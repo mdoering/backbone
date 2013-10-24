@@ -1,5 +1,4 @@
-Phialea starbaeckii Rehm SPECIES
-=======
+# Phialea starbaeckii Rehm SPECIES
 
 #### Status
 ACCEPTED

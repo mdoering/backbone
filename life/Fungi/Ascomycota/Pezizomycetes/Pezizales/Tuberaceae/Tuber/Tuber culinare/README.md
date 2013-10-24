@@ -1,5 +1,4 @@
-Tuber culinare SPECIES
-=======
+# Tuber culinare SPECIES
 
 #### Status
 ACCEPTED

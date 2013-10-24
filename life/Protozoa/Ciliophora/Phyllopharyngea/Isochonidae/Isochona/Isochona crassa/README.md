@@ -1,5 +1,4 @@
-Isochona crassa Jankowski, 1973 SPECIES
-=======
+# Isochona crassa Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

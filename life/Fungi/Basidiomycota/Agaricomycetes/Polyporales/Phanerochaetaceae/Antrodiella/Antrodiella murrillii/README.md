@@ -1,14 +1,13 @@
-Polyporus murrillii Lloyd, 1919 SPECIES
-=======
+# Antrodiella murrillii (Lloyd) Ryvarden, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 857 (1919)
+Mycotaxon 38: 93 (1990)
 
 #### Original name
 Polyporus murrillii Lloyd, 1919

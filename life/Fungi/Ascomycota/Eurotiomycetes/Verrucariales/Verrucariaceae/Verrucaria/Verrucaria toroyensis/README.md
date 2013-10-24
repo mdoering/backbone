@@ -1,5 +1,4 @@
-Verrucaria toroyensis Zahlbr. SPECIES
-=======
+# Verrucaria toroyensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

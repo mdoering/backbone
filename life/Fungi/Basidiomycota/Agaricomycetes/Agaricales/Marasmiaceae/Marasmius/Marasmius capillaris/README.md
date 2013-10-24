@@ -1,5 +1,4 @@
-Marasmius capillaris Morgan SPECIES
-=======
+# Marasmius capillaris Morgan SPECIES
 
 #### Status
 ACCEPTED

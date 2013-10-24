@@ -1,5 +1,4 @@
-Clitocybe caucasica Singer SPECIES
-=======
+# Clitocybe caucasica Singer SPECIES
 
 #### Status
 ACCEPTED

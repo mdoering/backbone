@@ -1,5 +1,4 @@
-Protospathidium vermiculus (Kahl, 1926) Foissner & Xu, 2007 SPECIES
-=======
+# Protospathidium vermiculus (Kahl, 1926) Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

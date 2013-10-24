@@ -1,5 +1,4 @@
-Mycosphaerella borreriae J. Kranz SPECIES
-=======
+# Mycosphaerella borreriae J. Kranz SPECIES
 
 #### Status
 ACCEPTED

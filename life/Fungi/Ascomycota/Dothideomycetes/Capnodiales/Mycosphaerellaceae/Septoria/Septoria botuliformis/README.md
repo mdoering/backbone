@@ -1,5 +1,4 @@
-Septoria botuliformis Bubák & Serebrian. SPECIES
-=======
+# Septoria botuliformis Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

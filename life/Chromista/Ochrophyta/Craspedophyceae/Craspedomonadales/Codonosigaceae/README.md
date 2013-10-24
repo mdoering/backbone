@@ -1,8 +1,7 @@
-Codonosigidae FAMILY
-=======
+# Codonosigaceae FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

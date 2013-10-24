@@ -1,5 +1,4 @@
-Verrucaria piliscanbensis Servít SPECIES
-=======
+# Verrucaria piliscanbensis Servít SPECIES
 
 #### Status
 ACCEPTED

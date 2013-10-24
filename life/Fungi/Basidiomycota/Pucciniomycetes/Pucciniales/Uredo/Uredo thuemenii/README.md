@@ -1,17 +1,16 @@
-Uredo theumenii Bagyan. & Ramachar SPECIES
-=======
+# Uredo thuemenii Bagyan. & Ramachar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 53(4): 215 (1984)
 
 #### Original name
-Uredo theumenii Bagyan. & Ramachar
+Uredo thuemenii Bagyan. & Ramachar
 
 ### Remarks
 null

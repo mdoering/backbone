@@ -1,5 +1,4 @@
-Lecanora coccinea (Dicks.) Cromb. SPECIES
-=======
+# Lecanora coccinea (Dicks.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

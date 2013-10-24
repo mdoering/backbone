@@ -1,5 +1,4 @@
-Coremium stysanoides Sacc. SPECIES
-=======
+# Coremium stysanoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

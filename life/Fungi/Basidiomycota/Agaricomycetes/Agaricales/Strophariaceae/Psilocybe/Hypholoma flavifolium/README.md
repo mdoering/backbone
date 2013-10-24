@@ -1,5 +1,4 @@
-Hypholoma flavifolium (A.H. Sm.) Redhead SPECIES
-=======
+# Hypholoma flavifolium (A.H. Sm.) Redhead SPECIES
 
 #### Status
 ACCEPTED

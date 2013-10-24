@@ -1,5 +1,4 @@
-Lecanora sulcata (Hue) Miyawaki SPECIES
-=======
+# Lecanora sulcata (Hue) Miyawaki SPECIES
 
 #### Status
 ACCEPTED

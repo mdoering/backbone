@@ -1,5 +1,4 @@
-Mycosphaerella pulmonariae Fakirova SPECIES
-=======
+# Mycosphaerella pulmonariae Fakirova SPECIES
 
 #### Status
 ACCEPTED

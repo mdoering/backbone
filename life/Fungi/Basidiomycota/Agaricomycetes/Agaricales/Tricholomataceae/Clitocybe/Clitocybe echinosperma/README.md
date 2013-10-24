@@ -1,5 +1,4 @@
-Clitocybe echinosperma (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe echinosperma (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium gypsophilae Oudem. SPECIES
-=======
+# Leptothyrium gypsophilae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropsalliota atropurpurea Heinem. SPECIES
-=======
+# Micropsalliota atropurpurea Heinem. SPECIES
 
 #### Status
 ACCEPTED

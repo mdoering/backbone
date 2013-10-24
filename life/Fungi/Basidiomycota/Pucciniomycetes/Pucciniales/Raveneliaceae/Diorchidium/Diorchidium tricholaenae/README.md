@@ -1,5 +1,4 @@
-Diorchidium tricholaenae Syd. & P. Syd. SPECIES
-=======
+# Diorchidium tricholaenae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

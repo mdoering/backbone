@@ -1,5 +1,4 @@
-Clavaria stegasauroides R.H. Petersen, 1978 SPECIES
-=======
+# Clavaria stegasauroides R.H. Petersen, 1978 SPECIES
 
 #### Status
 ACCEPTED

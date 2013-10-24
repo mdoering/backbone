@@ -1,5 +1,4 @@
-Pleuroflammula fagicola (Murrill) E. Horak SPECIES
-=======
+# Pleuroflammula fagicola (Murrill) E. Horak SPECIES
 
 #### Status
 ACCEPTED

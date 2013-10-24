@@ -1,5 +1,4 @@
-Thalassiphora spinosa (Clarke & Verdier, 1967) SPECIES
-=======
+# Thalassiphora spinosa (Clarke & Verdier, 1967) SPECIES
 
 #### Status
 ACCEPTED

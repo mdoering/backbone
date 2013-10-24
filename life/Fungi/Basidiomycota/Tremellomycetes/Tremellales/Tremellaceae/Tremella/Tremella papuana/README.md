@@ -1,5 +1,4 @@
-Tremella papuana Diederich SPECIES
-=======
+# Tremella papuana Diederich SPECIES
 
 #### Status
 ACCEPTED

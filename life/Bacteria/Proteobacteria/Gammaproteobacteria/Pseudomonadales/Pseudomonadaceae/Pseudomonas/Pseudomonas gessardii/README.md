@@ -1,5 +1,4 @@
-Pseudomonas gessardii Verhille et al., 1999 SPECIES
-=======
+# Pseudomonas gessardii Verhille et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora scopulicola Speg. SPECIES
-=======
+# Pleospora scopulicola Speg. SPECIES
 
 #### Status
 ACCEPTED

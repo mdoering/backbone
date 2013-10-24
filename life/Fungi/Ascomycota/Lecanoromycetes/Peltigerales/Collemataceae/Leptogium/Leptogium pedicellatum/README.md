@@ -1,5 +1,4 @@
-Leptogium pedicellatum P. M. Jørg. SPECIES
-=======
+# Leptogium pedicellatum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida tartarivorans Á. Fonseca, Fell, Kurtzman & Spenc.-Mart. SPECIES
-=======
+# Candida tartarivorans Á. Fonseca, Fell, Kurtzman & Spenc.-Mart. SPECIES
 
 #### Status
 ACCEPTED

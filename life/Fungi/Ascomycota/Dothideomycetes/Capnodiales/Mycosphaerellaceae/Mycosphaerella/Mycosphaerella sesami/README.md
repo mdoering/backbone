@@ -1,5 +1,4 @@
-Mycosphaerella sesami Sivan., 1985 SPECIES
-=======
+# Mycosphaerella sesami Sivan., 1985 SPECIES
 
 #### Status
 ACCEPTED

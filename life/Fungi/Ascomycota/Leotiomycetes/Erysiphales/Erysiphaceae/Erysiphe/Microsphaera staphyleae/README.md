@@ -1,5 +1,4 @@
-Microsphaera staphyleae Sawada SPECIES
-=======
+# Microsphaera staphyleae Sawada SPECIES
 
 #### Status
 ACCEPTED

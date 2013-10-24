@@ -1,5 +1,4 @@
-Phacus triangulus Z.X. Shi SPECIES
-=======
+# Phacus triangulus Z.X. Shi SPECIES
 
 #### Status
 ACCEPTED

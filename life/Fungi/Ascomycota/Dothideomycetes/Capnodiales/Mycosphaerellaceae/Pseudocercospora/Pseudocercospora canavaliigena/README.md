@@ -1,5 +1,4 @@
-Pseudocercospora canavaliigena J.M. Yen & Lim SPECIES
-=======
+# Pseudocercospora canavaliigena J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

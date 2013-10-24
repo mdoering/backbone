@@ -1,5 +1,4 @@
-Mycena asterophora Singer SPECIES
-=======
+# Mycena asterophora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olla quercina Velen. SPECIES
-=======
+# Olla quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha cultriformis SPECIES
-=======
+# Oxytricha cultriformis SPECIES
 
 #### Status
 ACCEPTED

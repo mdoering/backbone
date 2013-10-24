@@ -1,5 +1,4 @@
-Sterigmatocystis virens Tiegh. SPECIES
-=======
+# Sterigmatocystis virens Tiegh. SPECIES
 
 #### Status
 ACCEPTED

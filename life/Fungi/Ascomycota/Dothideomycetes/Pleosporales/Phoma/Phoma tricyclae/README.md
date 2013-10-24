@@ -1,5 +1,4 @@
-Phoma tricyclae Speg. SPECIES
-=======
+# Phoma tricyclae Speg. SPECIES
 
 #### Status
 ACCEPTED

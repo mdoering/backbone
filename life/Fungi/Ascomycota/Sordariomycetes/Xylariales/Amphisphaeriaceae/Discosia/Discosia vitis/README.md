@@ -1,5 +1,4 @@
-Discosia vitis Schulzer SPECIES
-=======
+# Discosia vitis Schulzer SPECIES
 
 #### Status
 ACCEPTED

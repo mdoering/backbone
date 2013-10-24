@@ -1,5 +1,4 @@
-Leptosphaeria lyndonvillae Fairm. SPECIES
-=======
+# Leptosphaeria lyndonvillae Fairm. SPECIES
 
 #### Status
 ACCEPTED

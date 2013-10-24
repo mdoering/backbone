@@ -1,5 +1,4 @@
-Pleiochaeta (Saccardo) S. Hughes, 1951 GENUS
-=======
+# Pleiochaeta (Saccardo) S. Hughes, 1951 GENUS
 
 #### Status
 ACCEPTED

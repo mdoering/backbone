@@ -1,17 +1,16 @@
-Chaetomium ascotrichoides Caviello, 1972 SPECIES
-=======
+# Chaetomium madrasense Natarajan, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Mus. argent. Cienc. nat. , B. Aires, Bot. 3: 372 (1972)
+Proc. Indian Acad. Sci. , Pl. Sci. 74: 255 (1971)
 
 #### Original name
-Chaetomium ascotrichoides Caviello, 1972
+Chaetomium madrasense Natarajan, 1971
 
 ### Remarks
 null

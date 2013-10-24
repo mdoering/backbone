@@ -1,5 +1,4 @@
-Pseudocryptomonas americana C. E. M. Bicudo & G. Tell SPECIES
-=======
+# Pseudocryptomonas americana C. E. M. Bicudo & G. Tell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia skottsbergiana T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia skottsbergiana T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

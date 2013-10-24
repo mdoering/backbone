@@ -1,5 +1,4 @@
-Xylaria fructigena (Pat.) Maire SPECIES
-=======
+# Xylaria fructigena (Pat.) Maire SPECIES
 
 #### Status
 ACCEPTED

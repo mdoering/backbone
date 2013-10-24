@@ -1,5 +1,4 @@
-Quinqueloculina singletoni Crespin SPECIES
-=======
+# Quinqueloculina singletoni Crespin SPECIES
 
 #### Status
 ACCEPTED

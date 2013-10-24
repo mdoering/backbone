@@ -1,5 +1,4 @@
-Erysiphe irregularis (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe irregularis (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

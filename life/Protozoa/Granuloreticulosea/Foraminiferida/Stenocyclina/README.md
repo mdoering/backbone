@@ -1,5 +1,4 @@
-Stenocyclina Caudri, 1972 GENUS
-=======
+# Stenocyclina Caudri, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha myriocarpa Tuck. SPECIES
-=======
+# Opegrapha myriocarpa Tuck. SPECIES
 
 #### Status
 ACCEPTED

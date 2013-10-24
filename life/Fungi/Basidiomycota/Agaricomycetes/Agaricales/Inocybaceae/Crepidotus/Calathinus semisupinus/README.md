@@ -1,5 +1,4 @@
-Calathinus semisupinus (Berk. & Broome) Boedijn SPECIES
-=======
+# Calathinus semisupinus (Berk. & Broome) Boedijn SPECIES
 
 #### Status
 ACCEPTED

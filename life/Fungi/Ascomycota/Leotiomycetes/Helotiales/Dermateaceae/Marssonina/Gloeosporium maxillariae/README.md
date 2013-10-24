@@ -1,5 +1,4 @@
-Gloeosporium maxillariae Allesch. SPECIES
-=======
+# Gloeosporium maxillariae Allesch. SPECIES
 
 #### Status
 ACCEPTED

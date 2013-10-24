@@ -1,5 +1,4 @@
-Phomopsis veronicae-speciosae (Henn.) Died. SPECIES
-=======
+# Phomopsis veronicae-speciosae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

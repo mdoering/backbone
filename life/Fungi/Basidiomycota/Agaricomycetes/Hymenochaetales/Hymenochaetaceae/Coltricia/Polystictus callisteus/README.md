@@ -1,5 +1,4 @@
-Polystictus callisteus Syd. SPECIES
-=======
+# Polystictus callisteus Syd. SPECIES
 
 #### Status
 ACCEPTED

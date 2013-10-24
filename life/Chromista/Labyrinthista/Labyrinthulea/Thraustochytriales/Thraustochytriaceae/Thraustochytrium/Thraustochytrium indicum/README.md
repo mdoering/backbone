@@ -1,5 +1,4 @@
-Thraustochytrium indicum D.K. Chakrav., 1979 SPECIES
-=======
+# Thraustochytrium indicum D.K. Chakrav., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrothecium basellae Álv. García SPECIES
-=======
+# Acrothecium basellae Álv. García SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletus felleus f. felleus FORM
-=======
+# Tylopilus felleus (Bull.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 8: tab. 379 (1788)
+Revue mycol. , Toulouse 3(no. 9): 16 (1881)
 
 #### Original name
-Boletus felleus f. felleus
+Boletus felleus Bull., 1788
 
 ### Remarks
 null

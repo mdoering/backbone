@@ -1,5 +1,4 @@
-Ramularia iridis (Ellis & Halst.) U. Braun SPECIES
-=======
+# Ramularia iridis (Ellis & Halst.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

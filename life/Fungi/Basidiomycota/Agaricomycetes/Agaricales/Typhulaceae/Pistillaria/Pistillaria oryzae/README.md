@@ -1,5 +1,4 @@
-Pistillaria oryzae Remsberg SPECIES
-=======
+# Pistillaria oryzae Remsberg SPECIES
 
 #### Status
 ACCEPTED

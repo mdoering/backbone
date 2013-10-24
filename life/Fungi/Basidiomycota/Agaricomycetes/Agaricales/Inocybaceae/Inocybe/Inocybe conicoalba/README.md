@@ -1,5 +1,4 @@
-Inocybe conicoalba E. Horak SPECIES
-=======
+# Inocybe conicoalba E. Horak SPECIES
 
 #### Status
 ACCEPTED

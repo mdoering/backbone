@@ -1,5 +1,4 @@
-Phoma schoeni Brunaud SPECIES
-=======
+# Phoma schoeni Brunaud SPECIES
 
 #### Status
 ACCEPTED

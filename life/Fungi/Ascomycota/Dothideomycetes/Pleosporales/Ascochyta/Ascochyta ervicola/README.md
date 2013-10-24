@@ -1,5 +1,4 @@
-Ascochyta ervicola Syd. {?} SPECIES
-=======
+# Ascochyta ervicola Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium taleola Sacc. SPECIES
-=======
+# Myxosporium taleola Sacc. SPECIES
 
 #### Status
 ACCEPTED

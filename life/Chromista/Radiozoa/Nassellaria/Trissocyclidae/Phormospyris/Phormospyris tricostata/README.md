@@ -1,5 +1,4 @@
-Phormospyris tricostata Haeckel, 1887 SPECIES
-=======
+# Phormospyris tricostata Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

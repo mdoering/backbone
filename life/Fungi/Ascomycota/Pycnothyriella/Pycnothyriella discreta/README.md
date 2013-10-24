@@ -1,5 +1,4 @@
-Pycnothyriella discreta Bat., 1952 SPECIES
-=======
+# Pycnothyriella discreta Bat., 1952 SPECIES
 
 #### Status
 ACCEPTED

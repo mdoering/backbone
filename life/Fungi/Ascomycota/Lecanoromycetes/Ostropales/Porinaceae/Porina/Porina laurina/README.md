@@ -1,5 +1,4 @@
-Porina laurina (Anzi) Zahlbr. SPECIES
-=======
+# Porina laurina (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

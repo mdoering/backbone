@@ -1,5 +1,4 @@
-Pterygium Endl. GENUS
-=======
+# Pterygium Endl. GENUS
 
 #### Status
 ACCEPTED

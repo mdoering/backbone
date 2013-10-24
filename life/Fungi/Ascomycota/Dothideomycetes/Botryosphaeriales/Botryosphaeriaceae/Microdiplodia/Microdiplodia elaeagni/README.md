@@ -1,5 +1,4 @@
-Microdiplodia elaeagni Potebnia SPECIES
-=======
+# Microdiplodia elaeagni Potebnia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora lahmii Hepp SPECIES
-=======
+# Biatora lahmii Hepp SPECIES
 
 #### Status
 ACCEPTED

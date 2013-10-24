@@ -1,5 +1,4 @@
-Dictyochaeta ciliata (Onofri & Rambelli) Bhat & W.B. Kendr. SPECIES
-=======
+# Dictyochaeta ciliata (Onofri & Rambelli) Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

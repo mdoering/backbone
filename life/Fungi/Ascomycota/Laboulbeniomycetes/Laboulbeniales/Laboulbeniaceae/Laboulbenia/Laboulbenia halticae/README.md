@@ -1,5 +1,4 @@
-Laboulbenia halticae Thaxt. SPECIES
-=======
+# Laboulbenia halticae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

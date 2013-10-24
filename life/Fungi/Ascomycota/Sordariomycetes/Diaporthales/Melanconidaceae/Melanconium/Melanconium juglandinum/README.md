@@ -1,17 +1,16 @@
-Melanconium juglandinum f. diffusa (Corda) Sacc. FORM
-=======
+# Melanconium juglandinum Kunze, 1823 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Melanconium juglandis f. diffusa Corda
+Melanconium juglandinum Kunze, 1823
 
 ### Remarks
 null

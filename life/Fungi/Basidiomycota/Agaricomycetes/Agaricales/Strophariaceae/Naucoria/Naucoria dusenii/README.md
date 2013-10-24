@@ -1,5 +1,4 @@
-Naucoria dusenii Henn. SPECIES
-=======
+# Naucoria dusenii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma denigricans Hafellner SPECIES
-=======
+# Phoma denigricans Hafellner SPECIES
 
 #### Status
 ACCEPTED

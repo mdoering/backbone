@@ -1,5 +1,4 @@
-Naucoria bogoriensis Henn. & E. Nyman SPECIES
-=======
+# Naucoria bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

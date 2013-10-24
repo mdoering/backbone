@@ -1,5 +1,4 @@
-Lacrymaria castanophylla (Berk.) Kits van Wav. SPECIES
-=======
+# Lacrymaria castanophylla (Berk.) Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

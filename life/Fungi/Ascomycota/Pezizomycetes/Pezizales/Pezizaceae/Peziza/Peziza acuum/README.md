@@ -1,5 +1,4 @@
-Peziza acuum Fr. SPECIES
-=======
+# Peziza acuum Fr. SPECIES
 
 #### Status
 ACCEPTED

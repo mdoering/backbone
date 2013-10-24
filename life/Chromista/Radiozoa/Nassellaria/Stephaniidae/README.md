@@ -1,11 +1,10 @@
-Stephanidae Haeckel, 1887 FAMILY
-=======
+# Stephaniidae Haeckel, 1887 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Cercospora paliuri Sawada SPECIES
-=======
+# Cercospora paliuri Sawada SPECIES
 
 #### Status
 ACCEPTED

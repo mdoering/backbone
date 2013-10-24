@@ -1,5 +1,4 @@
-Plicaria obscuro-olivacea Vacek SPECIES
-=======
+# Plicaria obscuro-olivacea Vacek SPECIES
 
 #### Status
 ACCEPTED

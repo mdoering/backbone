@@ -1,5 +1,4 @@
-Trichia angulata Schwein. SPECIES
-=======
+# Trichia angulata Schwein. SPECIES
 
 #### Status
 ACCEPTED

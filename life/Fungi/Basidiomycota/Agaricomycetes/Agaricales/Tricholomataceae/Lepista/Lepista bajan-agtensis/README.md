@@ -1,5 +1,4 @@
-Lepista bajan-agtensis Pilát SPECIES
-=======
+# Lepista bajan-agtensis Pilát SPECIES
 
 #### Status
 ACCEPTED

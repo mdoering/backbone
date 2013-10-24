@@ -1,5 +1,4 @@
-Boletus turbiniformis C. Mart. SPECIES
-=======
+# Boletus turbiniformis C. Mart. SPECIES
 
 #### Status
 ACCEPTED

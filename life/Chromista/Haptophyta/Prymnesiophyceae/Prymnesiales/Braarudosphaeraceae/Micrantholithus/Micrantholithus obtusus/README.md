@@ -1,5 +1,4 @@
-Micrantholithus obtusus Stradner, 1963 SPECIES
-=======
+# Micrantholithus obtusus Stradner, 1963 SPECIES
 
 #### Status
 ACCEPTED

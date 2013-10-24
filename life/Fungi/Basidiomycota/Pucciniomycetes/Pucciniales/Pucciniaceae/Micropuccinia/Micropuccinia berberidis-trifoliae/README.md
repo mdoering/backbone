@@ -1,5 +1,4 @@
-Micropuccinia berberidis-trifoliae (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia berberidis-trifoliae (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

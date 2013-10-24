@@ -1,5 +1,4 @@
-Orthodon GENUS
-=======
+# Orthodon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma caesiomarginatum E. Horak SPECIES
-=======
+# Entoloma caesiomarginatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

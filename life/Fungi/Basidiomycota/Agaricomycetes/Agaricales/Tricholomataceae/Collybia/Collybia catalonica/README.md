@@ -1,5 +1,4 @@
-Collybia catalonica Vila & Llimona SPECIES
-=======
+# Collybia catalonica Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

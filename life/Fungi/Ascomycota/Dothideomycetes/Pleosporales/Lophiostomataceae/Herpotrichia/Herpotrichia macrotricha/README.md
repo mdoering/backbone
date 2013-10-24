@@ -1,14 +1,13 @@
-Sphaeria macrotricha Berk. & Broome, 1852 SPECIES
-=======
+# Herpotrichia macrotricha (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 9: 319 (1852)
+Syll. fung. (Abellini) 2: 213 (1883)
 
 #### Original name
 Sphaeria macrotricha Berk. & Broome, 1852

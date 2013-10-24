@@ -1,5 +1,4 @@
-Russula subacris Murrill SPECIES
-=======
+# Russula subacris Murrill SPECIES
 
 #### Status
 ACCEPTED

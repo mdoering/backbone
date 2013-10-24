@@ -1,5 +1,4 @@
-Leciographa convexa (Th. Fr.) Arnold SPECIES
-=======
+# Leciographa convexa (Th. Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

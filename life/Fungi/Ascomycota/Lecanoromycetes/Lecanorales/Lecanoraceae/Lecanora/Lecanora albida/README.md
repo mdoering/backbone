@@ -1,5 +1,4 @@
-Lecanora albida (Kremp.) Nyl. SPECIES
-=======
+# Lecanora albida (Kremp.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

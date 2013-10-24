@@ -1,5 +1,4 @@
-Phoma niphonia Nomura SPECIES
-=======
+# Phoma niphonia Nomura SPECIES
 
 #### Status
 ACCEPTED

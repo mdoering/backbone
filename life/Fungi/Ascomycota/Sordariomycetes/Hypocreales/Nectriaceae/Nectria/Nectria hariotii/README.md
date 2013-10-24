@@ -1,8 +1,7 @@
-Nectria harioti P. Karst. SPECIES
-=======
+# Nectria hariotii P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nectria harioti P. Karst.
+Nectria hariotii P. Karst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodia rosmarini Pass. SPECIES
-=======
+# Diplodia rosmarini Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus hirtipes (Mouton & Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus hirtipes (Mouton & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

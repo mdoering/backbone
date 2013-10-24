@@ -1,14 +1,13 @@
-Rhombogyrus M. Black, 1973 GENUS
-=======
+# Radiolithus L.E. Stover, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-British Lower Cretaceous coccoliths. 1. Gault Clay. Palaeontogr. Soc. (Monogr. ) 127 (537): 103.
+Micropaleontology 12: 158.
 
 #### Original name
 null

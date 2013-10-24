@@ -1,8 +1,7 @@
-Pelvetia galapagensis (Piccone & Grunow) De Toni SPECIES
-=======
+# Bifurcaria galapegensis (Piccone & Grunow) Womersley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

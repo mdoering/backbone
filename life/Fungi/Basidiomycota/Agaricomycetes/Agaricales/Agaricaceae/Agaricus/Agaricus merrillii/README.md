@@ -1,5 +1,4 @@
-Agaricus merrillii Copel. SPECIES
-=======
+# Agaricus merrillii Copel. SPECIES
 
 #### Status
 ACCEPTED

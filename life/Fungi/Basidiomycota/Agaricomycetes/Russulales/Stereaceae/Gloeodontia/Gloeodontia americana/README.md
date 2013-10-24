@@ -1,17 +1,16 @@
-Irpex regularissimus Rick, 1959 SPECIES
-=======
+# Gloeodontia americana Rajchenb., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 190 (1959)
+Nordic Jl Bot. 7(5): 557 (1987)
 
 #### Original name
-Irpex regularissimus Rick, 1959
+Gloeodontia americana Rajchenb., 1987
 
 ### Remarks
 null

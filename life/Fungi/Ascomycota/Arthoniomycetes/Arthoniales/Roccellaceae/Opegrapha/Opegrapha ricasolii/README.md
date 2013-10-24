@@ -1,5 +1,4 @@
-Opegrapha ricasolii (A. Massal.) Jatta SPECIES
-=======
+# Opegrapha ricasolii (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

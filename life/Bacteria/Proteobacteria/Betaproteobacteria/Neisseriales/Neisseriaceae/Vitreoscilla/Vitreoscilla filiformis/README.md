@@ -1,5 +1,4 @@
-Vitreoscilla filiformis (ex Pringsheim, 1951) Strohl et al., 1986 SPECIES
-=======
+# Vitreoscilla filiformis (ex Pringsheim, 1951) Strohl et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia reducta Ach. SPECIES
-=======
+# Parmelia reducta Ach. SPECIES
 
 #### Status
 ACCEPTED

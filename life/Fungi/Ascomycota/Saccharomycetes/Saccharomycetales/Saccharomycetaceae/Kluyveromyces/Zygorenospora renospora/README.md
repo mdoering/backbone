@@ -1,5 +1,4 @@
-Zygorenospora renospora Krassiln. SPECIES
-=======
+# Zygorenospora renospora Krassiln. SPECIES
 
 #### Status
 ACCEPTED

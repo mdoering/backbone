@@ -1,5 +1,4 @@
-Thozetella ciliata (R.F. Castañeda, G.R.W. Arnold & A. Guerra) Hol.-Jech. & Mercado SPECIES
-=======
+# Thozetella ciliata (R.F. Castañeda, G.R.W. Arnold & A. Guerra) Hol.-Jech. & Mercado SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia cineria (Bon.) Schr. SPECIES
-=======
+# Sclerotinia cineria (Bon.) Schr. SPECIES
 
 #### Status
 ACCEPTED

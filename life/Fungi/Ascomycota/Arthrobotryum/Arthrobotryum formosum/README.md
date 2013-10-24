@@ -1,5 +1,4 @@
-Arthrobotryum formosum Bat. & J.L. Bezerra SPECIES
-=======
+# Arthrobotryum formosum Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

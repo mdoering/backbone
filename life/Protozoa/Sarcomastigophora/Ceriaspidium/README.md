@@ -1,5 +1,4 @@
-Ceriaspidium Haeckel, 1887 GENUS
-=======
+# Ceriaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vararia cinnamomea Boidin, Lanq. & Gilles, 1984 SPECIES
-=======
+# Vararia cinnamomea Boidin, Lanq. & Gilles, 1984 SPECIES
 
 #### Status
 ACCEPTED

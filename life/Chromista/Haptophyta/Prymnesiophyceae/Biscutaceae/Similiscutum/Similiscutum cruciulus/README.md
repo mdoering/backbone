@@ -1,5 +1,4 @@
-Similiscutum cruciulus SPECIES
-=======
+# Similiscutum cruciulus SPECIES
 
 #### Status
 ACCEPTED

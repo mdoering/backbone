@@ -1,5 +1,4 @@
-Puccinia tetradeniae Gjaerum SPECIES
-=======
+# Puccinia tetradeniae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

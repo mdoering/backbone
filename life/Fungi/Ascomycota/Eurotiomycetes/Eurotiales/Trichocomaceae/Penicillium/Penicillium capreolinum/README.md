@@ -1,5 +1,4 @@
-Penicillium capreolinum Biourge SPECIES
-=======
+# Penicillium capreolinum Biourge SPECIES
 
 #### Status
 ACCEPTED

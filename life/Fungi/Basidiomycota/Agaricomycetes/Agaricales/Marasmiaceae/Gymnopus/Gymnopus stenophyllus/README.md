@@ -1,5 +1,4 @@
-Gymnopus stenophyllus (Mont.) J.L. Mata & R.H. Petersen SPECIES
-=======
+# Gymnopus stenophyllus (Mont.) J.L. Mata & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

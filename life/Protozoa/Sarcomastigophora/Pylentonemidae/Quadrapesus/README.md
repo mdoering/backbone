@@ -1,5 +1,4 @@
-Quadrapesus Cheng, 1986 GENUS
-=======
+# Quadrapesus Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

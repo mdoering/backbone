@@ -1,5 +1,4 @@
-Protoleiosphaeridium laevigatum P. K. Maithy SPECIES
-=======
+# Protoleiosphaeridium laevigatum P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

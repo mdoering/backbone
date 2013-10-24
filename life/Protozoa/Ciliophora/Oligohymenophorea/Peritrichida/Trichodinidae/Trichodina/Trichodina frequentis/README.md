@@ -1,5 +1,4 @@
-Trichodina frequentis Shtein, 1979 SPECIES
-=======
+# Trichodina frequentis Shtein, 1979 SPECIES
 
 #### Status
 ACCEPTED

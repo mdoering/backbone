@@ -1,5 +1,4 @@
-Actinothyrium drimydis Speg. SPECIES
-=======
+# Actinothyrium drimydis Speg. SPECIES
 
 #### Status
 ACCEPTED

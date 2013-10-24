@@ -1,5 +1,4 @@
-Agaricus affinis Pers. SPECIES
-=======
+# Agaricus affinis Pers. SPECIES
 
 #### Status
 ACCEPTED

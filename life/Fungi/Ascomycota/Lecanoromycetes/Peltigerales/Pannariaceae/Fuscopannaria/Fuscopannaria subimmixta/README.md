@@ -1,17 +1,16 @@
-Pannaria subimmixta var. subimmixta C. Knight VARIETY
-=======
+# Fuscopannaria subimmixta (C. Knight) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 12: 369 (1880)
+N. Z. Jl Bot. 37(2): 261 (1999)
 
 #### Original name
-Pannaria subimmixta var. subimmixta C. Knight
+Pannaria subimmixta C. Knight
 
 ### Remarks
 null

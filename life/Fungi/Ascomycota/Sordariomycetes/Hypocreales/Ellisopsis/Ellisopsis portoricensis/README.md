@@ -1,5 +1,4 @@
-Ellisopsis portoricensis (F. L. Stevens) Pirozynski SPECIES
-=======
+# Ellisopsis portoricensis (F. L. Stevens) Pirozynski SPECIES
 
 #### Status
 ACCEPTED

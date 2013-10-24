@@ -1,5 +1,4 @@
-Lophodermium phragmitis Mich. {?} SPECIES
-=======
+# Lophodermium phragmitis Mich. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomma delicatulum (Dogiel) in Dogiel & Reshetnyak, 1952 SPECIES
-=======
+# Actinomma delicatulum (Dogiel) in Dogiel & Reshetnyak, 1952 SPECIES
 
 #### Status
 ACCEPTED

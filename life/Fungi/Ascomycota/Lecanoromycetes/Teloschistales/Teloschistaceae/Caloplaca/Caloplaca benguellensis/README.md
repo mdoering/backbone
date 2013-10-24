@@ -1,5 +1,4 @@
-Caloplaca benguellensis (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca benguellensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

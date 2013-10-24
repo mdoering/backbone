@@ -1,5 +1,4 @@
-Lichen pulverulentus Hoffm. SPECIES
-=======
+# Lichen pulverulentus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

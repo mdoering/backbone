@@ -1,5 +1,4 @@
-Balladynocallia Bat. GENUS
-=======
+# Balladynocallia Bat. GENUS
 
 #### Status
 ACCEPTED

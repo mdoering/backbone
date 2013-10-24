@@ -1,5 +1,4 @@
-Asterina sidicola R.W. Ryan SPECIES
-=======
+# Asterina sidicola R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

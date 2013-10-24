@@ -1,5 +1,4 @@
-Pleurotus epilobii Velen. SPECIES
-=======
+# Pleurotus epilobii Velen. SPECIES
 
 #### Status
 ACCEPTED

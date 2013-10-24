@@ -1,11 +1,10 @@
-Cyclonephelium distinctum subsp. distinctum SUBSPECIES
-=======
+# Cyclonephelium distinctum Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

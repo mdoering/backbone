@@ -1,5 +1,4 @@
-Hypomyces novae-zelandiae Dingley, 1951 SPECIES
-=======
+# Hypomyces novae-zelandiae Dingley, 1951 SPECIES
 
 #### Status
 ACCEPTED

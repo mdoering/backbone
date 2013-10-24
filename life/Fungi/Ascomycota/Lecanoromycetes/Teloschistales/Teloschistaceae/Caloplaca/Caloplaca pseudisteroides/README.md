@@ -1,5 +1,4 @@
-Caloplaca pseudisteroides Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca pseudisteroides Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

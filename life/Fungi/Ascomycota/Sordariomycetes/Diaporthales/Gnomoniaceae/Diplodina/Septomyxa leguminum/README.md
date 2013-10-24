@@ -1,5 +1,4 @@
-Septomyxa leguminum P. Karst. SPECIES
-=======
+# Septomyxa leguminum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria vincetoxici (Ficinus & C. Schub.) Auersw. SPECIES
-=======
+# Septoria vincetoxici (Ficinus & C. Schub.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

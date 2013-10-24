@@ -1,5 +1,4 @@
-Globigerinita naparimaensis Bronnimann SPECIES
-=======
+# Globigerinita naparimaensis Bronnimann SPECIES
 
 #### Status
 ACCEPTED

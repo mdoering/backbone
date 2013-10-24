@@ -1,5 +1,4 @@
-Physcia nummularia Nádv. SPECIES
-=======
+# Physcia nummularia Nádv. SPECIES
 
 #### Status
 ACCEPTED

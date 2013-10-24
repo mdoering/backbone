@@ -1,5 +1,4 @@
-Polyporus viscosus Pers. SPECIES
-=======
+# Polyporus viscosus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina maerthae Du Rietz SPECIES
-=======
+# Ramalina maerthae Du Rietz SPECIES
 
 #### Status
 ACCEPTED

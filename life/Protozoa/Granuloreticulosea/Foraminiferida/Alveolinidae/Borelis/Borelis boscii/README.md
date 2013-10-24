@@ -1,5 +1,4 @@
-Borelis boscii (Defrance) SPECIES
-=======
+# Borelis boscii (Defrance) SPECIES
 
 #### Status
 ACCEPTED

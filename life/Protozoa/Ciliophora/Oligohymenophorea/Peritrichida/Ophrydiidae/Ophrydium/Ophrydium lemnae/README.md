@@ -1,5 +1,4 @@
-Ophrydium lemnae Kahl, 1935 SPECIES
-=======
+# Ophrydium lemnae Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

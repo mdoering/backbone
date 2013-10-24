@@ -1,5 +1,4 @@
-Spermatodium volvaria Trevis. SPECIES
-=======
+# Spermatodium volvaria Trevis. SPECIES
 
 #### Status
 ACCEPTED

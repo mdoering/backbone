@@ -1,5 +1,4 @@
-Semiplatyophrya foissneri Wilbert & Kahan, 1986 SPECIES
-=======
+# Semiplatyophrya foissneri Wilbert & Kahan, 1986 SPECIES
 
 #### Status
 ACCEPTED

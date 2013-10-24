@@ -1,5 +1,4 @@
-Diacronema Prauser, 1958 GENUS
-=======
+# Diacronema Prauser, 1958 GENUS
 
 #### Status
 ACCEPTED

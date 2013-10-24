@@ -1,5 +1,4 @@
-Fomes novae-angliae Berk. & M.A. Curtis SPECIES
-=======
+# Fomes novae-angliae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endospora N.L.Gardner, 1927 GENUS
-=======
+# Endospora N.L.Gardner, 1927 GENUS
 
 #### Status
 SYNONYM

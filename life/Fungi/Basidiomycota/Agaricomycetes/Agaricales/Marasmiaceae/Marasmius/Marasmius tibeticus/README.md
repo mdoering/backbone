@@ -1,5 +1,4 @@
-Marasmius tibeticus M. Zang SPECIES
-=======
+# Marasmius tibeticus M. Zang SPECIES
 
 #### Status
 ACCEPTED

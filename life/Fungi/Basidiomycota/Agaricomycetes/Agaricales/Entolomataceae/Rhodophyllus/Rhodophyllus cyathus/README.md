@@ -1,5 +1,4 @@
-Rhodophyllus cyathus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus cyathus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

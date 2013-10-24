@@ -1,14 +1,13 @@
-Lecidea lepidotella Nyl. SPECIES
-=======
+# Psorinia lepidotella (Nyl.) Gotth. Schneid. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 13: 133 (1980)
 
 #### Original name
 Lecidea lepidotella Nyl.

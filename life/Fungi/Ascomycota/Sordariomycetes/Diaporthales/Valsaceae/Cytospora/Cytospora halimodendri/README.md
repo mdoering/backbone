@@ -1,5 +1,4 @@
-Cytospora halimodendri Kravtzev SPECIES
-=======
+# Cytospora halimodendri Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta destruens f. destruens FORM
-=======
+# Phyllosticta destruens Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls Sci. Nat. , Bot. , sér. 3 8: 31 (1847)
 
 #### Original name
-Phyllosticta destruens f. destruens
+Phyllosticta destruens Desm.
 
 ### Remarks
 null

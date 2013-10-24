@@ -1,17 +1,16 @@
-Cortinarius lanigeroides P.D. Orton, 1983 SPECIES
-=======
+# Cortinarius pearsonii P.D. Orton, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 36: 219 (1983)
+Naturalist, Leeds 148 (1958)
 
 #### Original name
-Cortinarius lanigeroides P.D. Orton, 1983
+Cortinarius pearsonii P.D. Orton, 1958
 
 ### Remarks
 null

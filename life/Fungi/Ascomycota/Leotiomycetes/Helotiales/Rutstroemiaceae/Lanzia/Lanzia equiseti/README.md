@@ -1,5 +1,4 @@
-Lanzia equiseti Raitv. SPECIES
-=======
+# Lanzia equiseti Raitv. SPECIES
 
 #### Status
 ACCEPTED

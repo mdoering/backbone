@@ -1,5 +1,4 @@
-Sphingomonas wittichii Yabuuchi et al., 2001 SPECIES
-=======
+# Sphingomonas wittichii Yabuuchi et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

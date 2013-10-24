@@ -1,5 +1,4 @@
-Septoria typica Gadgil & M.A. Dick, 1999 SPECIES
-=======
+# Septoria typica Gadgil & M.A. Dick, 1999 SPECIES
 
 #### Status
 ACCEPTED

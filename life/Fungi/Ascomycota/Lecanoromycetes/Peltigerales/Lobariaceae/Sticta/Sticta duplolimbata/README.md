@@ -1,14 +1,13 @@
-Sticta ciliaris f. duplolimbata Hue FORM
-=======
+# Sticta duplolimbata (Hue) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 8: 125 (1913)
 
 #### Original name
 Sticta ciliaris f. duplolimbata Hue

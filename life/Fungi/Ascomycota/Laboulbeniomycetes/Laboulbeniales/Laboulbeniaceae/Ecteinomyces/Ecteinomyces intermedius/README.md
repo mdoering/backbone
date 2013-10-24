@@ -1,5 +1,4 @@
-Ecteinomyces intermedius Speg. SPECIES
-=======
+# Ecteinomyces intermedius Speg. SPECIES
 
 #### Status
 ACCEPTED

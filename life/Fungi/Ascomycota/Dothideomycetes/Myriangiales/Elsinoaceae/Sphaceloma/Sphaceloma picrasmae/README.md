@@ -1,5 +1,4 @@
-Sphaceloma picrasmae Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma picrasmae Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

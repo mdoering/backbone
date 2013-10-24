@@ -1,8 +1,7 @@
-Pucciniastrum hydrangeae-petiolaridis Hirats. f. SPECIES
-=======
+# Pucciniastrum hydrangeae-petiolaris Hirats. f. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pucciniastrum hydrangeae-petiolaridis Hirats. f.
+Pucciniastrum hydrangeae-petiolaris Hirats. f.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macrophoma petrakiana Sacc. SPECIES
-=======
+# Macrophoma petrakiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

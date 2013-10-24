@@ -1,5 +1,4 @@
-Rhysotheca GENUS
-=======
+# Rhysotheca GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinia epilobii Velen. SPECIES
-=======
+# Uncinia epilobii Velen. SPECIES
 
 #### Status
 ACCEPTED

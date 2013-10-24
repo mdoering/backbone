@@ -1,5 +1,4 @@
-Minuscula bipes (Paulsen) Lebour SPECIES
-=======
+# Minuscula bipes (Paulsen) Lebour SPECIES
 
 #### Status
 ACCEPTED

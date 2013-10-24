@@ -1,5 +1,4 @@
-Microthyriolum cordiae Bat., Peres & F.B. Leal SPECIES
-=======
+# Microthyriolum cordiae Bat., Peres & F.B. Leal SPECIES
 
 #### Status
 ACCEPTED

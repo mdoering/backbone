@@ -1,5 +1,4 @@
-Pleiostictis pachyascus Ade SPECIES
-=======
+# Pleiostictis pachyascus Ade SPECIES
 
 #### Status
 ACCEPTED

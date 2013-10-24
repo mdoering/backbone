@@ -1,5 +1,4 @@
-Allanhancockia McCulloch, 1977 GENUS
-=======
+# Allanhancockia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

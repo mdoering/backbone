@@ -1,5 +1,4 @@
-Palaeococcus Takai et al., 2000 GENUS
-=======
+# Palaeococcus Takai et al., 2000 GENUS
 
 #### Status
 ACCEPTED

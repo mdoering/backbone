@@ -1,5 +1,4 @@
-Usnea fascinata Bystrek SPECIES
-=======
+# Usnea fascinata Bystrek SPECIES
 
 #### Status
 ACCEPTED

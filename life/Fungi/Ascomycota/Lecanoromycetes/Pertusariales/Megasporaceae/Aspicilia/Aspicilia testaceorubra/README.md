@@ -1,5 +1,4 @@
-Aspicilia testaceorubra B. de Lesd. SPECIES
-=======
+# Aspicilia testaceorubra B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

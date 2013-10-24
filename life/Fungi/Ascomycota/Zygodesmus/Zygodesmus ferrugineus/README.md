@@ -1,5 +1,4 @@
-Zygodesmus ferrugineus Preuss SPECIES
-=======
+# Zygodesmus ferrugineus Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Notheia Harvey & Bailey, 1851 GENUS
-=======
+# Notheia Harvey & Bailey, 1851 GENUS
 
 #### Status
 ACCEPTED

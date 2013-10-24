@@ -1,5 +1,4 @@
-Cercospora paeoniae Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora paeoniae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

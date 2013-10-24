@@ -1,5 +1,4 @@
-Gomphidius viscidula f. viscidula FORM
-=======
+# Gomphidius viscidula SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gomphidius viscidula f. viscidula
+Gomphidius viscidula
 
 ### Remarks
 null

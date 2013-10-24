@@ -1,5 +1,4 @@
-Benetoraceae FAMILY
-=======
+# Benetoraceae FAMILY
 
 #### Status
 ACCEPTED

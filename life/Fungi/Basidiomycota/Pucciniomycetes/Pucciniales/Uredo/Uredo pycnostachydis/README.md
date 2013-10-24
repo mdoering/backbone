@@ -1,5 +1,4 @@
-Uredo pycnostachydis Kalchbr. SPECIES
-=======
+# Uredo pycnostachydis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

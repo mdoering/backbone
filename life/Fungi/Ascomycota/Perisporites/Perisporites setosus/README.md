@@ -1,5 +1,4 @@
-Perisporites setosus Pampal. SPECIES
-=======
+# Perisporites setosus Pampal. SPECIES
 
 #### Status
 ACCEPTED

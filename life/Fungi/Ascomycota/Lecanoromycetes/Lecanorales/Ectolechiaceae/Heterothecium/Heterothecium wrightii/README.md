@@ -1,5 +1,4 @@
-Heterothecium wrightii (Tuck.) SPECIES
-=======
+# Heterothecium wrightii (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

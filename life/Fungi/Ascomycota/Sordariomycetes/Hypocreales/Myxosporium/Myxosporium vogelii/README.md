@@ -1,5 +1,4 @@
-Myxosporium vogelii Laubert SPECIES
-=======
+# Myxosporium vogelii Laubert SPECIES
 
 #### Status
 ACCEPTED

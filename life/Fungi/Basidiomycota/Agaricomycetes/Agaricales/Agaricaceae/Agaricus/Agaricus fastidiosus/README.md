@@ -1,5 +1,4 @@
-Agaricus fastidiosus Pers. SPECIES
-=======
+# Agaricus fastidiosus Pers. SPECIES
 
 #### Status
 ACCEPTED

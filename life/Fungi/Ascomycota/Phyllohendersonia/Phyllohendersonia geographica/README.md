@@ -1,5 +1,4 @@
-Phyllohendersonia geographica (Ellis & Everh.) Tassi SPECIES
-=======
+# Phyllohendersonia geographica (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

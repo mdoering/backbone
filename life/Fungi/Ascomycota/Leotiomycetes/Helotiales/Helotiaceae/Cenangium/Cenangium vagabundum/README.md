@@ -1,5 +1,4 @@
-Cenangium vagabundum (Pass. & Beltr.) Sacc. SPECIES
-=======
+# Cenangium vagabundum (Pass. & Beltr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

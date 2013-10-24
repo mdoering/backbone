@@ -1,5 +1,4 @@
-Pseudoalteromonas byunsanensis Park et al., 2005 SPECIES
-=======
+# Pseudoalteromonas byunsanensis Park et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

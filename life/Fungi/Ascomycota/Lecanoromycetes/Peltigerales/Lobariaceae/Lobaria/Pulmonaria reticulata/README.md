@@ -1,5 +1,4 @@
-Pulmonaria reticulata Hoffm. SPECIES
-=======
+# Pulmonaria reticulata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

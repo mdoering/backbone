@@ -1,5 +1,4 @@
-Lecidea inulans Kremp. SPECIES
-=======
+# Lecidea inulans Kremp. SPECIES
 
 #### Status
 ACCEPTED

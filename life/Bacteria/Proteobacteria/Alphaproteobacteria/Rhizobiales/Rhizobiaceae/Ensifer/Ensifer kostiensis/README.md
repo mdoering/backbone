@@ -1,8 +1,7 @@
-Sinorhizobium kostiense Nick et al., 1999 SPECIES
-=======
+# Ensifer kostiensis (Nick et al., 1999) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Entomophthora thripidum Samson, Ramakers & T. Oswald, 1979 SPECIES
-=======
+# Entomophthora thripidum Samson, Ramakers & T. Oswald, 1979 SPECIES
 
 #### Status
 ACCEPTED

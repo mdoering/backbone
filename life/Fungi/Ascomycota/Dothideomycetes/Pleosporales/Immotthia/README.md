@@ -1,5 +1,4 @@
-Immotthia M.E. Barr, 1987 GENUS
-=======
+# Immotthia M.E. Barr, 1987 GENUS
 
 #### Status
 ACCEPTED

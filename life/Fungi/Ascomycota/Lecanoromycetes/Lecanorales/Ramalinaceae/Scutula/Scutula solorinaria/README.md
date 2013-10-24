@@ -1,5 +1,4 @@
-Scutula solorinaria (Nyl.) P. Karst. SPECIES
-=======
+# Scutula solorinaria (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

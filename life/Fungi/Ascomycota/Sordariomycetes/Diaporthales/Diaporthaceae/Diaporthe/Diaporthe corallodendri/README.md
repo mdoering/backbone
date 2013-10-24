@@ -1,5 +1,4 @@
-Diaporthe corallodendri Speg. SPECIES
-=======
+# Diaporthe corallodendri Speg. SPECIES
 
 #### Status
 ACCEPTED

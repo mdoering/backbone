@@ -1,5 +1,4 @@
-Opegrapha lichenicola G. Thor, Lücking & Tat. Matsumoto SPECIES
-=======
+# Opegrapha lichenicola G. Thor, Lücking & Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

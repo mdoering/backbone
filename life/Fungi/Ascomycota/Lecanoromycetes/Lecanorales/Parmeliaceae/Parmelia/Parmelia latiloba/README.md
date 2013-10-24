@@ -1,5 +1,4 @@
-Parmelia latiloba A. Rich. SPECIES
-=======
+# Parmelia latiloba A. Rich. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira delicata (J. A. Barron) F. Akiba SPECIES
-=======
+# Thalassiosira delicata (J. A. Barron) F. Akiba SPECIES
 
 #### Status
 ACCEPTED

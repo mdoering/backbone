@@ -1,5 +1,4 @@
-Pseudopoulpus Takemura, 1986 GENUS
-=======
+# Pseudopoulpus Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

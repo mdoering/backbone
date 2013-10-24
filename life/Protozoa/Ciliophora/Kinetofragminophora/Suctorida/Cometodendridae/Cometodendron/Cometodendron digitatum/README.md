@@ -1,5 +1,4 @@
-Cometodendron digitatum Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron digitatum Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

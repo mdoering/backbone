@@ -1,5 +1,4 @@
-Russula tyrrhenica Sarnari SPECIES
-=======
+# Russula tyrrhenica Sarnari SPECIES
 
 #### Status
 ACCEPTED

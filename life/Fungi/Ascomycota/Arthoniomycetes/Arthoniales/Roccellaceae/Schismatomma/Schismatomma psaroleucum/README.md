@@ -1,5 +1,4 @@
-Schismatomma psaroleucum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma psaroleucum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystopus sphaericus Bonord. SPECIES
-=======
+# Cystopus sphaericus Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachydinium mediterraneum Pavillard SPECIES
-=======
+# Pachydinium mediterraneum Pavillard SPECIES
 
 #### Status
 ACCEPTED

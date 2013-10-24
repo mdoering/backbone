@@ -1,5 +1,4 @@
-Idriella lunata P.E. Nelson & S. Wilh., 1956 SPECIES
-=======
+# Idriella lunata P.E. Nelson & S. Wilh., 1956 SPECIES
 
 #### Status
 ACCEPTED

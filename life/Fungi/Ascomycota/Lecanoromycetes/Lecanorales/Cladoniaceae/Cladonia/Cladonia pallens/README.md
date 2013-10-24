@@ -1,5 +1,4 @@
-Cladonia pallens Ahti & Krog SPECIES
-=======
+# Cladonia pallens Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothrix lardacea (Cesati) Gomont SPECIES
-=======
+# Schizothrix lardacea (Cesati) Gomont SPECIES
 
 #### Status
 ACCEPTED

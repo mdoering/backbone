@@ -1,5 +1,4 @@
-Cercospora crotonis Ellis & Everh. SPECIES
-=======
+# Cercospora crotonis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

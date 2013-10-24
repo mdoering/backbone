@@ -1,5 +1,4 @@
-Clasterosporium minus Grove SPECIES
-=======
+# Clasterosporium minus Grove SPECIES
 
 #### Status
 ACCEPTED

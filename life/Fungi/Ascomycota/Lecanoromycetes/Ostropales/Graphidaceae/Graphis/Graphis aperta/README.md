@@ -1,5 +1,4 @@
-Graphis aperta Fée SPECIES
-=======
+# Graphis aperta Fée SPECIES
 
 #### Status
 ACCEPTED

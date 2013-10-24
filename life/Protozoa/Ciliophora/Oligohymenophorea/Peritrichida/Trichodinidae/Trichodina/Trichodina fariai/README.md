@@ -1,5 +1,4 @@
-Trichodina fariai Cunha & Pinto, 1928 SPECIES
-=======
+# Trichodina fariai Cunha & Pinto, 1928 SPECIES
 
 #### Status
 ACCEPTED

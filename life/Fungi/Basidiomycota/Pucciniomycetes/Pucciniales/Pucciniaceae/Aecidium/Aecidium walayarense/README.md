@@ -1,5 +1,4 @@
-Aecidium walayarense T.S. Ramakr. & Sundaram SPECIES
-=======
+# Aecidium walayarense T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

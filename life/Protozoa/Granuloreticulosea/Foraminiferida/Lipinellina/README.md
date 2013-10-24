@@ -1,17 +1,16 @@
-Rectochernyshinella Lipina, 1965 GENUS
-=======
+# Lipinellina Loeblich & Tappan, 1985 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Trudy Geol. Inst. Akad. Nauk SSSR 130: 88.
+Micropaleontology 31 (1): 92.
 
 #### Original name
-null
+Rectochernyshinella Lipina, 1965
 
 ### Remarks
 null

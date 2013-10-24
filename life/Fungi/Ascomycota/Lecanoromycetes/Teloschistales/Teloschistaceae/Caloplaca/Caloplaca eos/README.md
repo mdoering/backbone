@@ -1,5 +1,4 @@
-Caloplaca eos S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca eos S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

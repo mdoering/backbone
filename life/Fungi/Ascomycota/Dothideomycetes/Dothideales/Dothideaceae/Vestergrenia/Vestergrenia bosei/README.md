@@ -1,5 +1,4 @@
-Vestergrenia bosei E. Müll. SPECIES
-=======
+# Vestergrenia bosei E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora carestiana Sacc. SPECIES
-=======
+# Stagonospora carestiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

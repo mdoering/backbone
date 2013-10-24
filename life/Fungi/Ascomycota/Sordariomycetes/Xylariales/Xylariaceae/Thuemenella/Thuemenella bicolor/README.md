@@ -1,5 +1,4 @@
-Thuemenella bicolor (Ellis & Everh.) Boedijn SPECIES
-=======
+# Thuemenella bicolor (Ellis & Everh.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

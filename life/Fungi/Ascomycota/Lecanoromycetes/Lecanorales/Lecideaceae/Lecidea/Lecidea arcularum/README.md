@@ -1,5 +1,4 @@
-Lecidea arcularum Harm. SPECIES
-=======
+# Lecidea arcularum Harm. SPECIES
 
 #### Status
 ACCEPTED

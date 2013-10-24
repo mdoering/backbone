@@ -1,5 +1,4 @@
-Lacrymaria rotundata Dragesco, 1954 SPECIES
-=======
+# Lacrymaria rotundata Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

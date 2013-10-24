@@ -1,5 +1,4 @@
-Ovularia carthami Darpoux SPECIES
-=======
+# Ovularia carthami Darpoux SPECIES
 
 #### Status
 ACCEPTED

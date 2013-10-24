@@ -1,5 +1,4 @@
-Goussia Labbé, 1896 GENUS
-=======
+# Goussia Labbé, 1896 GENUS
 
 #### Status
 ACCEPTED

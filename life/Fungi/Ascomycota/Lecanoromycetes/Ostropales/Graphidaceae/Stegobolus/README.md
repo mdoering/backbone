@@ -1,5 +1,4 @@
-Stegobolus GENUS
-=======
+# Stegobolus GENUS
 
 #### Status
 ACCEPTED

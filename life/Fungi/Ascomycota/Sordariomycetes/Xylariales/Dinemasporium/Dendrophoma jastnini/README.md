@@ -1,5 +1,4 @@
-Dendrophoma jastnini f. jastnini FORM
-=======
+# Dendrophoma jastnini anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dendrophoma jastnini f. jastnini
+Dendrophoma jastnini anon.
 
 ### Remarks
 null

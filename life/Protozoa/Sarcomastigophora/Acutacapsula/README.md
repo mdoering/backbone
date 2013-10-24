@@ -1,5 +1,4 @@
-Acutacapsula Tikhomirova, 1983 GENUS
-=======
+# Acutacapsula Tikhomirova, 1983 GENUS
 
 #### Status
 ACCEPTED

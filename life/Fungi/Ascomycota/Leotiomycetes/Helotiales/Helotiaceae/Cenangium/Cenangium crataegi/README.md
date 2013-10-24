@@ -1,5 +1,4 @@
-Cenangium crataegi Schwein. SPECIES
-=======
+# Cenangium crataegi Schwein. SPECIES
 
 #### Status
 ACCEPTED

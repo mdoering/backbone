@@ -1,5 +1,4 @@
-Grammothelopsis bambusicola Ryvarden & de Meijer, 2002 SPECIES
-=======
+# Grammothelopsis bambusicola Ryvarden & de Meijer, 2002 SPECIES
 
 #### Status
 ACCEPTED

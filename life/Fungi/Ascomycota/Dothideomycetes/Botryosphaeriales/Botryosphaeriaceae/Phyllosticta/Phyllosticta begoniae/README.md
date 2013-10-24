@@ -1,5 +1,4 @@
-Phyllosticta begoniae Rangel SPECIES
-=======
+# Phyllosticta begoniae Rangel SPECIES
 
 #### Status
 ACCEPTED

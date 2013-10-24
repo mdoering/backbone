@@ -1,5 +1,4 @@
-Phoma caricina (Thüm.) Sacc. SPECIES
-=======
+# Phoma caricina (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

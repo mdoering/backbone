@@ -1,5 +1,4 @@
-Tricholoma portolense Murrill SPECIES
-=======
+# Tricholoma portolense Murrill SPECIES
 
 #### Status
 ACCEPTED

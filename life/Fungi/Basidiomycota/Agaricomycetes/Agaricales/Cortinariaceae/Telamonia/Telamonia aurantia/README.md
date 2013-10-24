@@ -1,5 +1,4 @@
-Telamonia aurantia Velen. SPECIES
-=======
+# Telamonia aurantia Velen. SPECIES
 
 #### Status
 ACCEPTED

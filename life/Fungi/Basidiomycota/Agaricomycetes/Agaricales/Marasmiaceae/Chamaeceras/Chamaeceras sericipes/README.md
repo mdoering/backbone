@@ -1,5 +1,4 @@
-Chamaeceras sericipes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras sericipes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

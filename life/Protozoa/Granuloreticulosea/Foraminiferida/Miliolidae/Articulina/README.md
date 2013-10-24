@@ -1,5 +1,4 @@
-Articulina d'Orbigny, 1826 GENUS
-=======
+# Articulina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

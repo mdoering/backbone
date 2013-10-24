@@ -1,5 +1,4 @@
-Xylodon gracilis (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
-=======
+# Xylodon gracilis (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

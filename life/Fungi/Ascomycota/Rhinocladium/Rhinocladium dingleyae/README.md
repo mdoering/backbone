@@ -1,5 +1,4 @@
-Rhinocladium dingleyae S. Hughes, 1980 SPECIES
-=======
+# Rhinocladium dingleyae S. Hughes, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe obtusatula E. Horak SPECIES
-=======
+# Rhodocybe obtusatula E. Horak SPECIES
 
 #### Status
 ACCEPTED

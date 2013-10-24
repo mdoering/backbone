@@ -1,5 +1,4 @@
-Periconia lichenoides Tode, 1801 SPECIES
-=======
+# Periconia lichenoides Tode, 1801 SPECIES
 
 #### Status
 ACCEPTED

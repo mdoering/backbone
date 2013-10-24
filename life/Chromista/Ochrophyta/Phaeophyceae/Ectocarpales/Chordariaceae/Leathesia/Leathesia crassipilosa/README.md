@@ -1,5 +1,4 @@
-Leathesia crassipilosa Takamatsu SPECIES
-=======
+# Leathesia crassipilosa Takamatsu SPECIES
 
 #### Status
 ACCEPTED

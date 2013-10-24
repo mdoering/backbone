@@ -1,5 +1,4 @@
-Ceratosporella fertilis R.F. Castañeda SPECIES
-=======
+# Ceratosporella fertilis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

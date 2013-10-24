@@ -1,5 +1,4 @@
-Aspicilia rimulosa (H. Magn.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
-=======
+# Aspicilia rimulosa (H. Magn.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
 
 #### Status
 ACCEPTED

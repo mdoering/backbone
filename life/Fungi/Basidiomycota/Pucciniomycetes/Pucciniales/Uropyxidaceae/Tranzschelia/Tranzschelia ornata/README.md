@@ -1,5 +1,4 @@
-Tranzschelia ornata López-Franco & J.F. Hennen, 1990 SPECIES
-=======
+# Tranzschelia ornata López-Franco & J.F. Hennen, 1990 SPECIES
 
 #### Status
 ACCEPTED

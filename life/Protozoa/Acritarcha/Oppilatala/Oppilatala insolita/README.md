@@ -1,5 +1,4 @@
-Oppilatala insolita (Cramer & Díez, 1972) Dorning, 1981 SPECIES
-=======
+# Oppilatala insolita (Cramer & Díez, 1972) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

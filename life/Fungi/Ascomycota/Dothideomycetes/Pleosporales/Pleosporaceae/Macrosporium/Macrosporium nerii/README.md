@@ -1,17 +1,16 @@
-Macrosporium nerii var. nerii VARIETY
-=======
+# Macrosporium nerii Cooke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Macrosporium nerii Cooke
 
 ### Remarks
 null

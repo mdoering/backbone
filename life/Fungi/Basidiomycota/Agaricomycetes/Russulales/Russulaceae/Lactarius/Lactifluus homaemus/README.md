@@ -1,5 +1,4 @@
-Lactifluus homaemus (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus homaemus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

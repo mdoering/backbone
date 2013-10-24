@@ -1,5 +1,4 @@
-Phaeangium punctoideum (Cooke) Sacc. & P. Syd. SPECIES
-=======
+# Phaeangium punctoideum (Cooke) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

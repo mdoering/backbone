@@ -1,5 +1,4 @@
-Bullaria longipes (Syd.) Arthur & Mains SPECIES
-=======
+# Bullaria longipes (Syd.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

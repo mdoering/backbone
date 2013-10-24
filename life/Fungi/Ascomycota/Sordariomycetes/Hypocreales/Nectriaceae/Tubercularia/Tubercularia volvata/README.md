@@ -1,5 +1,4 @@
-Tubercularia volvata Tode SPECIES
-=======
+# Tubercularia volvata Tode SPECIES
 
 #### Status
 ACCEPTED

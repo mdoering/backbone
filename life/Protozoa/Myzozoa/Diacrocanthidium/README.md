@@ -1,5 +1,4 @@
-Diacrocanthidium G.Deflandre & J.-C.Foucher GENUS
-=======
+# Diacrocanthidium G.Deflandre & J.-C.Foucher GENUS
 
 #### Status
 ACCEPTED

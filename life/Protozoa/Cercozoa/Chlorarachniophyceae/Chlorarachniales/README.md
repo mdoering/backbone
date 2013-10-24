@@ -1,5 +1,4 @@
-Chlorarachniales ORDER
-=======
+# Chlorarachniales ORDER
 
 #### Status
 ACCEPTED

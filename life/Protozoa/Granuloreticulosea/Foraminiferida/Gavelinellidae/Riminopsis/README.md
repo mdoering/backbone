@@ -1,5 +1,4 @@
-Riminopsis Revets, 1996 GENUS
-=======
+# Riminopsis Revets, 1996 GENUS
 
 #### Status
 ACCEPTED

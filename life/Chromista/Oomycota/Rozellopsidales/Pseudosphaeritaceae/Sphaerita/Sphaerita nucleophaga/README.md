@@ -1,5 +1,4 @@
-Sphaerita nucleophaga Mattes, 1924 SPECIES
-=======
+# Sphaerita nucleophaga Mattes, 1924 SPECIES
 
 #### Status
 ACCEPTED

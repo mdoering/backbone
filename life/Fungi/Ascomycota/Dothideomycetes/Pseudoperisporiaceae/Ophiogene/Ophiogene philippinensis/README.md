@@ -1,5 +1,4 @@
-Ophiogene philippinensis Petr. SPECIES
-=======
+# Ophiogene philippinensis Petr. SPECIES
 
 #### Status
 ACCEPTED

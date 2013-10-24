@@ -1,5 +1,4 @@
-Pestalotia piperis Petch SPECIES
-=======
+# Pestalotia piperis Petch SPECIES
 
 #### Status
 ACCEPTED

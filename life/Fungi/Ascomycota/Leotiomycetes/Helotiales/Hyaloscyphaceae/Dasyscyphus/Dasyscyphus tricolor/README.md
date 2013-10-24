@@ -1,14 +1,13 @@
-Proliferodiscus tricolor (Sowerby) Baral, 2009 SPECIES
-=======
+# Dasyscyphus tricolor (Sowerby) Gray, 1821 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 671 (1821)
 
 #### Original name
 null

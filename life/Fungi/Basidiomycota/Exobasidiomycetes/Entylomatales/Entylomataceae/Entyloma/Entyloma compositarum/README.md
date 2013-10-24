@@ -1,17 +1,16 @@
-Entyloma compositarum var. compositarum VARIETY
-=======
+# Entyloma compositarum Farl., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bot. Gaz. 8: 275 (1883)
 
 #### Original name
-Entyloma compositarum var. compositarum
+Entyloma compositarum Farl., 1883
 
 ### Remarks
 null

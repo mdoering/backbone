@@ -1,5 +1,4 @@
-Sainouron Sandon, 1924 GENUS
-=======
+# Sainouron Sandon, 1924 GENUS
 
 #### Status
 ACCEPTED

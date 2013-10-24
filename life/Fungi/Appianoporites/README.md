@@ -1,5 +1,4 @@
-Appianoporites S.Y. Sm., Currah & Stockey GENUS
-=======
+# Appianoporites S.Y. Sm., Currah & Stockey GENUS
 
 #### Status
 ACCEPTED

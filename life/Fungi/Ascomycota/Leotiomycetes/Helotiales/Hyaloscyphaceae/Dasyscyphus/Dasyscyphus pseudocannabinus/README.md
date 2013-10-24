@@ -1,5 +1,4 @@
-Dasyscyphus pseudocannabinus Raitv. SPECIES
-=======
+# Dasyscyphus pseudocannabinus Raitv. SPECIES
 
 #### Status
 ACCEPTED

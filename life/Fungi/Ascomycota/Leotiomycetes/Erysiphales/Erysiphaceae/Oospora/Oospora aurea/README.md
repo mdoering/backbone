@@ -1,5 +1,4 @@
-Oospora aurea (S.S. Dubois) Sartory SPECIES
-=======
+# Oospora aurea (S.S. Dubois) Sartory SPECIES
 
 #### Status
 ACCEPTED

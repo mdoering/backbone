@@ -1,5 +1,4 @@
-Ramularia epilobii-rosei Lindau SPECIES
-=======
+# Ramularia epilobii-rosei Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius elytropus Rob. Henry SPECIES
-=======
+# Cortinarius elytropus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

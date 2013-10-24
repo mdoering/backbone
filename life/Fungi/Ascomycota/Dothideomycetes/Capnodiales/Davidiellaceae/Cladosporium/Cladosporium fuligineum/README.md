@@ -1,5 +1,4 @@
-Cladosporium fuligineum Bonord. SPECIES
-=======
+# Cladosporium fuligineum Bonord. SPECIES
 
 #### Status
 ACCEPTED

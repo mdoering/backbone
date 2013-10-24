@@ -1,5 +1,4 @@
-Palustrimonas Patterson & Simpson, 1996 GENUS
-=======
+# Palustrimonas Patterson & Simpson, 1996 GENUS
 
 #### Status
 ACCEPTED

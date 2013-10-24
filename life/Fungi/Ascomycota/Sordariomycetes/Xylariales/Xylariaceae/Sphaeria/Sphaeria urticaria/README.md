@@ -1,5 +1,4 @@
-Sphaeria urticaria Mont. SPECIES
-=======
+# Sphaeria urticaria Mont. SPECIES
 
 #### Status
 ACCEPTED

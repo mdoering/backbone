@@ -1,5 +1,4 @@
-Cercospora punctiformis (Fuckel) G.A. de Vries SPECIES
-=======
+# Cercospora punctiformis (Fuckel) G.A. de Vries SPECIES
 
 #### Status
 ACCEPTED

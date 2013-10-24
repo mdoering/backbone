@@ -1,5 +1,4 @@
-Cortinarius violaeodor Rob. Henry SPECIES
-=======
+# Cortinarius violaeodor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

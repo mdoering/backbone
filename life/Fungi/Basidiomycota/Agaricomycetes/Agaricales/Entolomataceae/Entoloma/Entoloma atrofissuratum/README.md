@@ -1,5 +1,4 @@
-Entoloma atrofissuratum Noordel. & Wölfel SPECIES
-=======
+# Entoloma atrofissuratum Noordel. & Wölfel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium hydrophylli Peck SPECIES
-=======
+# Aecidium hydrophylli Peck SPECIES
 
 #### Status
 ACCEPTED

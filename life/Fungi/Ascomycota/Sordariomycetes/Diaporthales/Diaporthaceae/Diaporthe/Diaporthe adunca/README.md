@@ -1,8 +1,7 @@
-Sphaeria adunca Roberge ex Desm., 1851 SPECIES
-=======
+# Diaporthe adunca (Roberge ex Desm.) Niessl, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

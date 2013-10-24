@@ -1,5 +1,4 @@
-Mycena alphitophylla Berk. & M.A. Curtis SPECIES
-=======
+# Mycena alphitophylla Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

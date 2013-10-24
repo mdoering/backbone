@@ -1,5 +1,4 @@
-Chrysococcocystis Doflein, 1923 GENUS
-=======
+# Chrysococcocystis Doflein, 1923 GENUS
 
 #### Status
 ACCEPTED

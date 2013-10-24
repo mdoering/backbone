@@ -1,5 +1,4 @@
-Zygnemomyces K. Miura GENUS
-=======
+# Zygnemomyces K. Miura GENUS
 
 #### Status
 ACCEPTED

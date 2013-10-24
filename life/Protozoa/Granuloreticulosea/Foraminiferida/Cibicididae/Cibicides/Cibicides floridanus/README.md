@@ -1,5 +1,4 @@
-Cibicides floridanus (Cushman, 1918) SPECIES
-=======
+# Cibicides floridanus (Cushman, 1918) SPECIES
 
 #### Status
 ACCEPTED

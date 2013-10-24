@@ -1,5 +1,4 @@
-Galera cerina Bres. SPECIES
-=======
+# Galera cerina Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena ladae Velen. SPECIES
-=======
+# Mycena ladae Velen. SPECIES
 
 #### Status
 ACCEPTED

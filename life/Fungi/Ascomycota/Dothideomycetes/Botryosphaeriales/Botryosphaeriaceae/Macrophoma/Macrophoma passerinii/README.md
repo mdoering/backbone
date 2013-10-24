@@ -1,5 +1,4 @@
-Macrophoma passerinii Sacc. SPECIES
-=======
+# Macrophoma passerinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

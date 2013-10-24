@@ -1,5 +1,4 @@
-Endolimax nana (Wenyon and O'connor, 1917) SPECIES
-=======
+# Endolimax nana (Wenyon and O'connor, 1917) SPECIES
 
 #### Status
 ACCEPTED

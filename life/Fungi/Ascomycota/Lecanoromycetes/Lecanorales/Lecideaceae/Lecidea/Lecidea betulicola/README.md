@@ -1,17 +1,16 @@
-Lecidea betulicola f. betulicola FORM
-=======
+# Lecidea betulicola (Kullh.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea betulicola f. betulicola
+Biatora betulicola Kullh.
 
 ### Remarks
 null

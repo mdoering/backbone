@@ -1,5 +1,4 @@
-Phragmidium miyabeanum S. Ito & Hirats. f. SPECIES
-=======
+# Phragmidium miyabeanum S. Ito & Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

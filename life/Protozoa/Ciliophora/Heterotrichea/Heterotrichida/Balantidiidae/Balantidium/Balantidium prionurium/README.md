@@ -1,5 +1,4 @@
-Balantidium prionurium Grim, 1985 SPECIES
-=======
+# Balantidium prionurium Grim, 1985 SPECIES
 
 #### Status
 ACCEPTED

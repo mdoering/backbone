@@ -1,5 +1,4 @@
-Tricholomopsis thompsoniana (Murrill) A.H. Sm. SPECIES
-=======
+# Tricholomopsis thompsoniana (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

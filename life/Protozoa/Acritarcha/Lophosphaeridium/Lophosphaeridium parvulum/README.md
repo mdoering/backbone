@@ -1,5 +1,4 @@
-Lophosphaeridium parvulum (N. Umnova in N. Umnova & Yakovlev, 1970) N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium parvulum (N. Umnova in N. Umnova & Yakovlev, 1970) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

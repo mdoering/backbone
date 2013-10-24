@@ -1,5 +1,4 @@
-Erwinia cypripedii (Hori, 1911) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Erwinia cypripedii (Hori, 1911) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

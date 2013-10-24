@@ -1,14 +1,13 @@
-Mycoporum pygmaeum var. ventosicolum (Mudd) Jatta VARIETY
-=======
+# Muellerella ventosicola (Mudd) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 35(3): 212 (2003)
 
 #### Original name
 Microthelia ventosicola Mudd

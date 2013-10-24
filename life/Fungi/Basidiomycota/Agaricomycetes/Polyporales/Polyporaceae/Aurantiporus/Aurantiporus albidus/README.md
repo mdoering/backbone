@@ -1,5 +1,4 @@
-Aurantiporus albidus Rajchenb. & Cwielong, 1995 SPECIES
-=======
+# Aurantiporus albidus Rajchenb. & Cwielong, 1995 SPECIES
 
 #### Status
 ACCEPTED

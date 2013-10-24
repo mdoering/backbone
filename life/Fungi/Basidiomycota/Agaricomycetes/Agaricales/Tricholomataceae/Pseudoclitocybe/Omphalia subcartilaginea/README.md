@@ -1,5 +1,4 @@
-Omphalia subcartilaginea (Murrill) Murrill SPECIES
-=======
+# Omphalia subcartilaginea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

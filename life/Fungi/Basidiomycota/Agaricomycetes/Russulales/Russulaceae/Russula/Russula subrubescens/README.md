@@ -1,5 +1,4 @@
-Russula subrubescens Murrill SPECIES
-=======
+# Russula subrubescens Murrill SPECIES
 
 #### Status
 ACCEPTED

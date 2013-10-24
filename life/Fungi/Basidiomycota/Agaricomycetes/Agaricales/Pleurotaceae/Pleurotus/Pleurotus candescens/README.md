@@ -1,5 +1,4 @@
-Pleurotus candescens (F. Muell. & Berk.) Sacc. SPECIES
-=======
+# Pleurotus candescens (F. Muell. & Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium azukiae Hara SPECIES
-=======
+# Macrosporium azukiae Hara SPECIES
 
 #### Status
 ACCEPTED

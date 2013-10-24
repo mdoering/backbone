@@ -1,17 +1,16 @@
-Lophodermium iridicolum Petr. SPECIES
-=======
+# Lophodermium iridicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20(1/2): 10 (1922)
 
 #### Original name
-Lophodermium iridicolum Petr.
+Lophodermium iridicola Petr.
 
 ### Remarks
 null

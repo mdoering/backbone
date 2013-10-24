@@ -1,5 +1,4 @@
-Lecanora chlorophthalma Poelt & Tomin SPECIES
-=======
+# Lecanora chlorophthalma Poelt & Tomin SPECIES
 
 #### Status
 ACCEPTED

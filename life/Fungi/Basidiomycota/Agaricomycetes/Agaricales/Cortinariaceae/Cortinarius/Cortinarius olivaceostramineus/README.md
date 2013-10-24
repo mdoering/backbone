@@ -1,5 +1,4 @@
-Cortinarius olivaceostramineus Kauffman SPECIES
-=======
+# Cortinarius olivaceostramineus Kauffman SPECIES
 
 #### Status
 ACCEPTED

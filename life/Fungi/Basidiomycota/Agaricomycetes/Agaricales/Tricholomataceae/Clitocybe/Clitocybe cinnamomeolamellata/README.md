@@ -1,5 +1,4 @@
-Clitocybe cinnamomeolamellata Rick SPECIES
-=======
+# Clitocybe cinnamomeolamellata Rick SPECIES
 
 #### Status
 ACCEPTED

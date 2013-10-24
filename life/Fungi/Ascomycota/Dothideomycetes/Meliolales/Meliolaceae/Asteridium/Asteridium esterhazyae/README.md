@@ -1,5 +1,4 @@
-Asteridium esterhazyae Rehm SPECIES
-=======
+# Asteridium esterhazyae Rehm SPECIES
 
 #### Status
 ACCEPTED

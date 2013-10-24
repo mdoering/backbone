@@ -1,5 +1,4 @@
-Phyllosticta elaeidis V.G. Rao SPECIES
-=======
+# Phyllosticta elaeidis V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

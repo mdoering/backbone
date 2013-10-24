@@ -1,5 +1,4 @@
-Caputifera Gorog, 1995 GENUS
-=======
+# Caputifera Gorog, 1995 GENUS
 
 #### Status
 ACCEPTED

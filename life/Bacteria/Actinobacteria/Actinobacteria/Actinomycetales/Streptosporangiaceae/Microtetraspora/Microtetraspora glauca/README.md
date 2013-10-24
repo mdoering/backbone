@@ -1,5 +1,4 @@
-Microtetraspora glauca Thiemann et al., 1968 (Approved Lists, 1980) SPECIES
-=======
+# Microtetraspora glauca Thiemann et al., 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

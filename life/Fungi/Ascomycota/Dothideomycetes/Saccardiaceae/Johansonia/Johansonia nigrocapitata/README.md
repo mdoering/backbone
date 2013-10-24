@@ -1,5 +1,4 @@
-Johansonia nigrocapitata (G. Winter) Sacc., 1889 SPECIES
-=======
+# Johansonia nigrocapitata (G. Winter) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

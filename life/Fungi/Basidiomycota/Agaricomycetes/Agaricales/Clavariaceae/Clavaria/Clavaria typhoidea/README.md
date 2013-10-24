@@ -1,5 +1,4 @@
-Clavaria typhoidea Henn. SPECIES
-=======
+# Clavaria typhoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

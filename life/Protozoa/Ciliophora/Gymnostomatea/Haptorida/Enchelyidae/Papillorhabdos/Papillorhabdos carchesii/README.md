@@ -1,5 +1,4 @@
-Papillorhabdos carchesii Foissner, 1984 SPECIES
-=======
+# Papillorhabdos carchesii Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

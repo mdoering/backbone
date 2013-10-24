@@ -1,5 +1,4 @@
-Alutaceodontia (Parmasto) Hjortstam & Ryvarden, 2002 GENUS
-=======
+# Alutaceodontia (Parmasto) Hjortstam & Ryvarden, 2002 GENUS
 
 #### Status
 ACCEPTED

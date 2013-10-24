@@ -1,5 +1,4 @@
-Stictis dicksoniae Sherwood SPECIES
-=======
+# Stictis dicksoniae Sherwood SPECIES
 
 #### Status
 ACCEPTED

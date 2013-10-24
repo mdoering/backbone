@@ -1,5 +1,4 @@
-Pertusaria raesaenenii Erichsen SPECIES
-=======
+# Pertusaria raesaenenii Erichsen SPECIES
 
 #### Status
 ACCEPTED

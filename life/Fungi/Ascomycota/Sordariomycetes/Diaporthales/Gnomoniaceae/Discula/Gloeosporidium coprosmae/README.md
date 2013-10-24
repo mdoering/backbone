@@ -1,5 +1,4 @@
-Gloeosporidium coprosmae Syd., 1924 SPECIES
-=======
+# Gloeosporidium coprosmae Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina myocoproides Sacc. & Berl. SPECIES
-=======
+# Asterina myocoproides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

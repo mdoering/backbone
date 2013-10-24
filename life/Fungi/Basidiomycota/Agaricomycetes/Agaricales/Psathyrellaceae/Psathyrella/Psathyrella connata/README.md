@@ -1,5 +1,4 @@
-Psathyrella connata Kits van Wav. SPECIES
-=======
+# Psathyrella connata Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

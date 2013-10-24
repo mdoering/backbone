@@ -1,5 +1,4 @@
-Entoloma lowyi (Singer) E. Horak SPECIES
-=======
+# Entoloma lowyi (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola rubiacearum Mibey SPECIES
-=======
+# Meliola rubiacearum Mibey SPECIES
 
 #### Status
 ACCEPTED

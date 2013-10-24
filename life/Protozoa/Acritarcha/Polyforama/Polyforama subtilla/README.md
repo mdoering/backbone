@@ -1,5 +1,4 @@
-Polyforama subtilla Pykhova, 1969 SPECIES
-=======
+# Polyforama subtilla Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

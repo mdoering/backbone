@@ -1,5 +1,4 @@
-Involucrothele subincincta Servít SPECIES
-=======
+# Involucrothele subincincta Servít SPECIES
 
 #### Status
 ACCEPTED

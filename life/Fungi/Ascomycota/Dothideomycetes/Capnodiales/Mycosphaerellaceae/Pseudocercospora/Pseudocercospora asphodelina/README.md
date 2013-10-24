@@ -1,5 +1,4 @@
-Pseudocercospora asphodelina (Sacc.) U. Braun SPECIES
-=======
+# Pseudocercospora asphodelina (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

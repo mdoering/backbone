@@ -1,5 +1,4 @@
-Arthopyrenia buxicola (Nyl.) Lettau SPECIES
-=======
+# Arthopyrenia buxicola (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

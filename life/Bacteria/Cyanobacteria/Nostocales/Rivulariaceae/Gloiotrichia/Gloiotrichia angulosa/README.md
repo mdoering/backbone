@@ -1,8 +1,7 @@
-Rivularia angulosa C. Agardh SPECIES
-=======
+# Gloiotrichia angulosa (C. Agardh) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

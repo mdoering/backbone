@@ -1,5 +1,4 @@
-Vavraia J. Weiser GENUS
-=======
+# Vavraia J. Weiser GENUS
 
 #### Status
 ACCEPTED

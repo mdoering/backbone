@@ -1,5 +1,4 @@
-Sphaeria dematiosa Schwein. SPECIES
-=======
+# Sphaeria dematiosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

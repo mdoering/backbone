@@ -1,5 +1,4 @@
-Pyrenopsis lignyota (Wahlenb.) Th. Fr. SPECIES
-=======
+# Pyrenopsis lignyota (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

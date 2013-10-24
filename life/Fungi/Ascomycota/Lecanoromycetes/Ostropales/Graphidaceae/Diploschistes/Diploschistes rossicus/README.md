@@ -1,5 +1,4 @@
-Diploschistes rossicus Gyeln. SPECIES
-=======
+# Diploschistes rossicus Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerobolus cyclophorus (Desm.) Fr. SPECIES
-=======
+# Sphaerobolus cyclophorus (Desm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

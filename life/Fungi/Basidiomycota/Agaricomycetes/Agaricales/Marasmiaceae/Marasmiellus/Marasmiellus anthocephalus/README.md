@@ -1,5 +1,4 @@
-Marasmiellus anthocephalus (Sacc.) Singer SPECIES
-=======
+# Marasmiellus anthocephalus (Sacc.) Singer SPECIES
 
 #### Status
 ACCEPTED

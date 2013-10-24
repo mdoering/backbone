@@ -1,5 +1,4 @@
-Haeuslerella Parr, 1935 GENUS
-=======
+# Haeuslerella Parr, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita xanthomargaros Corner & Bas SPECIES
-=======
+# Amanita xanthomargaros Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

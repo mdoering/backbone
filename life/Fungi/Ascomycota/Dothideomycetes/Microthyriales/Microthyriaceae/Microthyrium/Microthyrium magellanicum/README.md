@@ -1,5 +1,4 @@
-Microthyrium magellanicum Speg. SPECIES
-=======
+# Microthyrium magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED

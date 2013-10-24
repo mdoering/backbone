@@ -1,5 +1,4 @@
-Textularia punctata d'Orbigny, 1852 SPECIES
-=======
+# Textularia punctata d'Orbigny, 1852 SPECIES
 
 #### Status
 ACCEPTED

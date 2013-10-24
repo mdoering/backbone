@@ -1,5 +1,4 @@
-Candelariella rhodax Poelt & Vezda SPECIES
-=======
+# Candelariella rhodax Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

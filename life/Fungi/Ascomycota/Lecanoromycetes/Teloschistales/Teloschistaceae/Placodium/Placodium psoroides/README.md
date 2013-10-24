@@ -1,5 +1,4 @@
-Placodium psoroides Tomin SPECIES
-=======
+# Placodium psoroides Tomin SPECIES
 
 #### Status
 ACCEPTED

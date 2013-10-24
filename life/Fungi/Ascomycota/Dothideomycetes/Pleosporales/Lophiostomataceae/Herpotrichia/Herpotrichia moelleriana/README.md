@@ -1,8 +1,7 @@
-Herpotrichia molleriana G. Winter SPECIES
-=======
+# Herpotrichia moelleriana G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Herpotrichia molleriana G. Winter
+Herpotrichia moelleriana G. Winter
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholoma lacunosum Peck SPECIES
-=======
+# Tricholoma lacunosum Peck SPECIES
 
 #### Status
 ACCEPTED

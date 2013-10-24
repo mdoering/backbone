@@ -1,5 +1,4 @@
-Lecanora diplotommoides (Bagl.) Stizenb. SPECIES
-=======
+# Lecanora diplotommoides (Bagl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Misgomyces hingsloni Balazuc SPECIES
-=======
+# Misgomyces hingstonii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 11(1): 49 (1975)
 
 #### Original name
-Misgomyces hingsloni Balazuc
+Misgomyces hingstonii Balazuc
 
 ### Remarks
 null

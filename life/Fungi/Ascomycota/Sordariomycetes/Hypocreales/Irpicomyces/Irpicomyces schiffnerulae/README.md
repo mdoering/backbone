@@ -1,5 +1,4 @@
-Irpicomyces schiffnerulae Deighton, 1969 SPECIES
-=======
+# Irpicomyces schiffnerulae Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

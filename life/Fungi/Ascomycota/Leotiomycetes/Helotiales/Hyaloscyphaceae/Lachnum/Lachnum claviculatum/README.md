@@ -1,5 +1,4 @@
-Lachnum claviculatum Velen. SPECIES
-=======
+# Lachnum claviculatum Velen. SPECIES
 
 #### Status
 ACCEPTED

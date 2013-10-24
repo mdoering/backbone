@@ -1,5 +1,4 @@
-Urceolaria korschelti Zick, 1928 SPECIES
-=======
+# Urceolaria korschelti Zick, 1928 SPECIES
 
 #### Status
 ACCEPTED

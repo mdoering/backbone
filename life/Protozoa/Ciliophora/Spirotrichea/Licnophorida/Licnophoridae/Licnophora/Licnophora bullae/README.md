@@ -1,5 +1,4 @@
-Licnophora bullae Dustin, 1915 SPECIES
-=======
+# Licnophora bullae Dustin, 1915 SPECIES
 
 #### Status
 ACCEPTED

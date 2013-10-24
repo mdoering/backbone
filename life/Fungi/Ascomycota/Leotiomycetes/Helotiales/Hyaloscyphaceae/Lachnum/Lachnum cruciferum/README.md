@@ -1,14 +1,13 @@
-Lachnella crucifera (W. Phillips) W. Phillips, 1887 SPECIES
-=======
+# Lachnum cruciferum (W. Phillips) Nannf., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 250 (1887)
+Trans. Br. mycol. Soc. 20: 194 (1936)
 
 #### Original name
 null

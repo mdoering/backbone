@@ -1,5 +1,4 @@
-Gloeosporium pestiferum Cooke & Massee SPECIES
-=======
+# Gloeosporium pestiferum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

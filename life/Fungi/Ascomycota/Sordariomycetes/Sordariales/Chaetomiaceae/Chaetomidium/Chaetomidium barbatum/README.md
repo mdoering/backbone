@@ -1,5 +1,4 @@
-Chaetomidium barbatum Traaen SPECIES
-=======
+# Chaetomidium barbatum Traaen SPECIES
 
 #### Status
 ACCEPTED

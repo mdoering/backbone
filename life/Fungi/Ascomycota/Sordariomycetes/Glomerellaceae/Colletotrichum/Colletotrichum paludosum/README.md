@@ -1,5 +1,4 @@
-Colletotrichum paludosum (Ellis & Galloway) Arx SPECIES
-=======
+# Colletotrichum paludosum (Ellis & Galloway) Arx SPECIES
 
 #### Status
 ACCEPTED

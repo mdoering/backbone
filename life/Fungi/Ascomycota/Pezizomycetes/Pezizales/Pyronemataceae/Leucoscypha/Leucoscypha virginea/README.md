@@ -1,5 +1,4 @@
-Leucoscypha virginea Rifai, 1968 SPECIES
-=======
+# Leucoscypha virginea Rifai, 1968 SPECIES
 
 #### Status
 ACCEPTED

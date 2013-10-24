@@ -1,5 +1,4 @@
-Agaricites wardianus (Mesch.) Mesch. SPECIES
-=======
+# Agaricites wardianus (Mesch.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium kirchneri Staritz SPECIES
-=======
+# Camarosporium kirchneri Staritz SPECIES
 
 #### Status
 ACCEPTED

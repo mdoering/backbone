@@ -1,5 +1,4 @@
-Stictis rubicunda Durieu & Lév. SPECIES
-=======
+# Stictis rubicunda Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

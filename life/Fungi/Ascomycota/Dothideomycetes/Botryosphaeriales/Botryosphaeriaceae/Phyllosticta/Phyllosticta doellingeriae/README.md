@@ -1,5 +1,4 @@
-Phyllosticta doellingeriae Cejp SPECIES
-=======
+# Phyllosticta doellingeriae Cejp SPECIES
 
 #### Status
 ACCEPTED

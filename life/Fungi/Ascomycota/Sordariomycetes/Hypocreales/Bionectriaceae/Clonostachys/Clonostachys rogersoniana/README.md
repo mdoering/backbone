@@ -1,5 +1,4 @@
-Clonostachys rogersoniana Schroers SPECIES
-=======
+# Clonostachys rogersoniana Schroers SPECIES
 
 #### Status
 ACCEPTED

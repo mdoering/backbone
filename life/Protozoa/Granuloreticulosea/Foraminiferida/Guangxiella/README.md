@@ -1,5 +1,4 @@
-Guangxiella Li, 1987 GENUS
-=======
+# Guangxiella Li, 1987 GENUS
 
 #### Status
 ACCEPTED

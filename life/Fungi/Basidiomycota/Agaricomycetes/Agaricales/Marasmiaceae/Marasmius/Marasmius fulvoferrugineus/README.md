@@ -1,5 +1,4 @@
-Marasmius fulvoferrugineus Gilliam SPECIES
-=======
+# Marasmius fulvoferrugineus Gilliam SPECIES
 
 #### Status
 ACCEPTED

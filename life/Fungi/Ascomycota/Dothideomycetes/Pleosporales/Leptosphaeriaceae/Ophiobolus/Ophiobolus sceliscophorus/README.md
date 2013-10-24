@@ -1,5 +1,4 @@
-Ophiobolus sceliscophorus Fairm. SPECIES
-=======
+# Ophiobolus sceliscophorus Fairm. SPECIES
 
 #### Status
 ACCEPTED

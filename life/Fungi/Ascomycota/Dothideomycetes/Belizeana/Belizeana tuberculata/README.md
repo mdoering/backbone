@@ -1,5 +1,4 @@
-Belizeana tuberculata Kohlm. & Volkm.-Kohlm., 1987 SPECIES
-=======
+# Belizeana tuberculata Kohlm. & Volkm.-Kohlm., 1987 SPECIES
 
 #### Status
 ACCEPTED

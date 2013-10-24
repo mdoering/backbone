@@ -1,5 +1,4 @@
-Neogyromitra GENUS
-=======
+# Neogyromitra GENUS
 
 #### Status
 ACCEPTED

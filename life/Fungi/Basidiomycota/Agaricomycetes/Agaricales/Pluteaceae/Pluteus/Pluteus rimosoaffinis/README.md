@@ -1,5 +1,4 @@
-Pluteus rimosoaffinis Singer SPECIES
-=======
+# Pluteus rimosoaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pachythallina Lynge SPECIES
-=======
+# Lecanora pachythallina Lynge SPECIES
 
 #### Status
 ACCEPTED

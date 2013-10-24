@@ -1,5 +1,4 @@
-Laestadia scrophularia Ellis & Everh. SPECIES
-=======
+# Laestadia scrophularia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

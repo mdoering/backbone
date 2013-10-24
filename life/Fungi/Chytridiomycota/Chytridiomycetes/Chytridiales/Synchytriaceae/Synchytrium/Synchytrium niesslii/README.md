@@ -1,5 +1,4 @@
-Synchytrium niesslii Bubák SPECIES
-=======
+# Synchytrium niesslii Bubák SPECIES
 
 #### Status
 ACCEPTED

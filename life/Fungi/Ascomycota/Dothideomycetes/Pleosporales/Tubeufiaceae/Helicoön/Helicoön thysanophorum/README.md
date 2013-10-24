@@ -1,5 +1,4 @@
-Helicoön thysanophorum (Ellis & Holw.) Morgan SPECIES
-=======
+# Helicoön thysanophorum (Ellis & Holw.) Morgan SPECIES
 
 #### Status
 ACCEPTED

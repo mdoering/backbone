@@ -1,5 +1,4 @@
-Puccinia gymnolomiae Arthur SPECIES
-=======
+# Puccinia gymnolomiae Arthur SPECIES
 
 #### Status
 ACCEPTED

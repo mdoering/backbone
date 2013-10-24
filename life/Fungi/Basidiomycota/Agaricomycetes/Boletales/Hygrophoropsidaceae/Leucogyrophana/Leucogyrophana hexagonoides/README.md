@@ -1,5 +1,4 @@
-Leucogyrophana hexagonoides (Burt) Domanski SPECIES
-=======
+# Leucogyrophana hexagonoides (Burt) Domanski SPECIES
 
 #### Status
 ACCEPTED

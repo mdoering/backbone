@@ -1,5 +1,4 @@
-Oxytoxum curvicaudatum Kofoid SPECIES
-=======
+# Oxytoxum curvicaudatum Kofoid SPECIES
 
 #### Status
 ACCEPTED

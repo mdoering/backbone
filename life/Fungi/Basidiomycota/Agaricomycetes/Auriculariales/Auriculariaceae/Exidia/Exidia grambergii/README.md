@@ -1,5 +1,4 @@
-Exidia grambergii Neuhoff SPECIES
-=======
+# Exidia grambergii Neuhoff SPECIES
 
 #### Status
 ACCEPTED

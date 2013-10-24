@@ -1,5 +1,4 @@
-Cladonia polia R. Sant. SPECIES
-=======
+# Cladonia polia R. Sant. SPECIES
 
 #### Status
 ACCEPTED

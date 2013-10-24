@@ -1,5 +1,4 @@
-Lecanora russeola Nyl. SPECIES
-=======
+# Lecanora russeola Nyl. SPECIES
 
 #### Status
 ACCEPTED

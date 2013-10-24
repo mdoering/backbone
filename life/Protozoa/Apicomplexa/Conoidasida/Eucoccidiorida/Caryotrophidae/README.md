@@ -1,5 +1,4 @@
-Caryotrophidae Lühe, 1916 FAMILY
-=======
+# Caryotrophidae Lühe, 1916 FAMILY
 
 #### Status
 ACCEPTED

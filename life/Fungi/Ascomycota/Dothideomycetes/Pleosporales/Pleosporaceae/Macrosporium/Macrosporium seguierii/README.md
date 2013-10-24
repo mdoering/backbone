@@ -1,5 +1,4 @@
-Macrosporium seguierii Allesch. SPECIES
-=======
+# Macrosporium seguierii Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium dothideoides Ellis & Everh. SPECIES
-=======
+# Clasterosporium dothideoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

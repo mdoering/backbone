@@ -1,5 +1,4 @@
-Placodium testaceorufum Vain. SPECIES
-=======
+# Placodium testaceorufum Vain. SPECIES
 
 #### Status
 ACCEPTED

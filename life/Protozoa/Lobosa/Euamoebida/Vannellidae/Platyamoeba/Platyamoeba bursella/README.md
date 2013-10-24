@@ -1,5 +1,4 @@
-Platyamoeba bursella Page, 1974 SPECIES
-=======
+# Platyamoeba bursella Page, 1974 SPECIES
 
 #### Status
 ACCEPTED

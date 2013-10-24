@@ -1,5 +1,4 @@
-Microthelia conodea (Niessl) Kuntze SPECIES
-=======
+# Microthelia conodea (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

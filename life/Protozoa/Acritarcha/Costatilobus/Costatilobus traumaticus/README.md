@@ -1,5 +1,4 @@
-Costatilobus traumaticus (Cramer, 1964) Playford, 1977 SPECIES
-=======
+# Costatilobus traumaticus (Cramer, 1964) Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

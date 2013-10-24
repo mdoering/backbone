@@ -1,5 +1,4 @@
-Arthonia souliei B. de Lesd. SPECIES
-=======
+# Arthonia souliei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

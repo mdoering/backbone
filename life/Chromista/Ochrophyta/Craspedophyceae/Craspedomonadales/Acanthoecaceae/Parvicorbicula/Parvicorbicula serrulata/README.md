@@ -1,5 +1,4 @@
-Parvicorbicula serrulata SPECIES
-=======
+# Parvicorbicula serrulata SPECIES
 
 #### Status
 ACCEPTED

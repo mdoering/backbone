@@ -1,5 +1,4 @@
-Micrhystridium acinaciformum Sheshegova, 1975 SPECIES
-=======
+# Micrhystridium acinaciformum Sheshegova, 1975 SPECIES
 
 #### Status
 ACCEPTED

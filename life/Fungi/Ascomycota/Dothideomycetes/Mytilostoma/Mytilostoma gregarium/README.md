@@ -1,5 +1,4 @@
-Mytilostoma gregarium (Fuckel) P. Karst. SPECIES
-=======
+# Mytilostoma gregarium (Fuckel) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

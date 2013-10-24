@@ -1,5 +1,4 @@
-Erineum aucupariae Kunze SPECIES
-=======
+# Erineum aucupariae Kunze SPECIES
 
 #### Status
 ACCEPTED

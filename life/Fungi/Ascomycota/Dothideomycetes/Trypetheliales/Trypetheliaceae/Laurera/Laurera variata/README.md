@@ -1,5 +1,4 @@
-Laurera variata (Nyl.) Zahlbr. SPECIES
-=======
+# Laurera variata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

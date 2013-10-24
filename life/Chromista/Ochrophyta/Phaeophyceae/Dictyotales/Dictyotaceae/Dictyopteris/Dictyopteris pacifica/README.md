@@ -1,5 +1,4 @@
-Dictyopteris pacifica (Yendo) Hwang, Kim & Y.Lee, 2004 SPECIES
-=======
+# Dictyopteris pacifica (Yendo) Hwang, Kim & Y.Lee, 2004 SPECIES
 
 #### Status
 ACCEPTED

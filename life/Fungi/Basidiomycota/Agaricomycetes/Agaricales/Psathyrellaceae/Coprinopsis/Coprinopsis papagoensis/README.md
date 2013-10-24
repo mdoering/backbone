@@ -1,5 +1,4 @@
-Coprinopsis papagoensis (Lindsey & Gilb.) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis papagoensis (Lindsey & Gilb.) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

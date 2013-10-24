@@ -1,5 +1,4 @@
-Cercidospora cornuta (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora cornuta (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ipomoeae-purpureae J.M. Yen SPECIES
-=======
+# Cercospora ipomoeae-purpureae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

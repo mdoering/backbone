@@ -1,5 +1,4 @@
-Echinodiscus Etayo & Diederich, 2000 GENUS
-=======
+# Echinodiscus Etayo & Diederich, 2000 GENUS
 
 #### Status
 ACCEPTED

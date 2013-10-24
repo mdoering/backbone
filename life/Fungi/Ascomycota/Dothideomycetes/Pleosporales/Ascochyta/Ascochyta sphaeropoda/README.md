@@ -1,5 +1,4 @@
-Ascochyta sphaeropoda Syd. & P. Syd. SPECIES
-=======
+# Ascochyta sphaeropoda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

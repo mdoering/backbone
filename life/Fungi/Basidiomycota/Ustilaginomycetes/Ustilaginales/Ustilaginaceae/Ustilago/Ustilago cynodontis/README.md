@@ -1,17 +1,16 @@
-Ustilago cynodontis f. ovariicola L. Ling FORM
-=======
+# Ustilago cynodontis (Pass.) Henn., 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 4: 318 (1953)
+Bull. Herb. Boissier 1: 114 (1893)
 
 #### Original name
-Ustilago cynodontis f. ovariicola L. Ling
+Ustilago carbo (DC.) Tul. & C. Tul., 1847
 
 ### Remarks
 null

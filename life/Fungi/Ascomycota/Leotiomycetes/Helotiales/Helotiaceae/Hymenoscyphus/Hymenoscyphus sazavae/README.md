@@ -1,5 +1,4 @@
-Hymenoscyphus sazavae (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus sazavae (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema javanicum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Collema javanicum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

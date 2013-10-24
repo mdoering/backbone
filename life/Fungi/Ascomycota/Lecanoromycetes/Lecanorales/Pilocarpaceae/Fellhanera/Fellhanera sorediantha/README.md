@@ -1,5 +1,4 @@
-Fellhanera sorediantha (Vezda) Vezda SPECIES
-=======
+# Fellhanera sorediantha (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

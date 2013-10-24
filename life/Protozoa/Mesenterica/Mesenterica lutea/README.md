@@ -1,5 +1,4 @@
-Mesenterica lutea (Tode) Pers. SPECIES
-=======
+# Mesenterica lutea (Tode) Pers. SPECIES
 
 #### Status
 ACCEPTED

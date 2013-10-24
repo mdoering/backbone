@@ -1,5 +1,4 @@
-Erineum fagineum var. fagineum VARIETY
-=======
+# Erineum fagineum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Erineum fagineum var. fagineum
+Erineum fagineum Pers.
 
 ### Remarks
 null

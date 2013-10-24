@@ -1,5 +1,4 @@
-Nectriopsis coccocarpiae Diederich SPECIES
-=======
+# Nectriopsis coccocarpiae Diederich SPECIES
 
 #### Status
 ACCEPTED

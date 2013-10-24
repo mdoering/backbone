@@ -1,5 +1,4 @@
-Armillaria citri (Inzenga) Sacc. SPECIES
-=======
+# Armillaria citri (Inzenga) Sacc. SPECIES
 
 #### Status
 ACCEPTED

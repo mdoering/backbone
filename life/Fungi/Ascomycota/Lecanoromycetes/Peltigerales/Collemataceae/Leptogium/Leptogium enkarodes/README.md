@@ -1,5 +1,4 @@
-Leptogium enkarodes Verdon SPECIES
-=======
+# Leptogium enkarodes Verdon SPECIES
 
 #### Status
 ACCEPTED

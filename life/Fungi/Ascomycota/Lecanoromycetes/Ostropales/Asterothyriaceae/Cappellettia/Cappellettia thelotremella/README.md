@@ -1,5 +1,4 @@
-Cappellettia thelotremella (Bagl.) Tomas. & Cif. SPECIES
-=======
+# Cappellettia thelotremella (Bagl.) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

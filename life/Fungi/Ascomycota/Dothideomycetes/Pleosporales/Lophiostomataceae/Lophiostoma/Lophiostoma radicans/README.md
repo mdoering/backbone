@@ -1,5 +1,4 @@
-Lophiostoma radicans Ellis & Everh. SPECIES
-=======
+# Lophiostoma radicans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus vitellinus Fr. SPECIES
-=======
+# Hypochnus vitellinus Fr. SPECIES
 
 #### Status
 ACCEPTED

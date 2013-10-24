@@ -1,5 +1,4 @@
-Saccobolus thaxteri Brumm., 1967 SPECIES
-=======
+# Saccobolus thaxteri Brumm., 1967 SPECIES
 
 #### Status
 ACCEPTED

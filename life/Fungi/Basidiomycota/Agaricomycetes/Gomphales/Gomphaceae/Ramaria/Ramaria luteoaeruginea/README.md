@@ -1,5 +1,4 @@
-Ramaria luteoaeruginea P. Zhang & Zhu L. Yang SPECIES
-=======
+# Ramaria luteoaeruginea P. Zhang & Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

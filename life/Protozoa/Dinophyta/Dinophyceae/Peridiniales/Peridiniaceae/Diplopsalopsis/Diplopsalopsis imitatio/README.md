@@ -1,5 +1,4 @@
-Diplopsalopsis imitatio (E. Balech) E. Balech SPECIES
-=======
+# Diplopsalopsis imitatio (E. Balech) E. Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora putrida Körb. SPECIES
-=======
+# Biatora putrida Körb. SPECIES
 
 #### Status
 ACCEPTED

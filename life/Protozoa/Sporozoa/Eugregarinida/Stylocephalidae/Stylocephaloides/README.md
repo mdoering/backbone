@@ -1,5 +1,4 @@
-Stylocephaloides Théodoridès, Desportes & Jolivet, 1965 GENUS
-=======
+# Stylocephaloides Théodoridès, Desportes & Jolivet, 1965 GENUS
 
 #### Status
 ACCEPTED

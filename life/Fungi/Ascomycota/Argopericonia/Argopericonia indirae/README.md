@@ -1,17 +1,16 @@
-Argopericonia indiraei D'Souza, S.K. Singh & Bhat SPECIES
-=======
+# Argopericonia indirae D'Souza, S.K. Singh & Bhat SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 82: 135 (2002)
 
 #### Original name
-Argopericonia indiraei D'Souza, S.K. Singh & Bhat
+Argopericonia indirae D'Souza, S.K. Singh & Bhat
 
 ### Remarks
 null

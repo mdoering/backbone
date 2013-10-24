@@ -1,5 +1,4 @@
-Methanolobus bombayensis Kadam et al., 1994 SPECIES
-=======
+# Methanolobus bombayensis Kadam et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diloma F.H. Wind & P. Cepek, 1979 GENUS
-=======
+# Diloma F.H. Wind & P. Cepek, 1979 GENUS
 
 #### Status
 ACCEPTED

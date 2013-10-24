@@ -1,5 +1,4 @@
-Cladonia congregata f. congregata FORM
-=======
+# Cladonia congregata H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia congregata f. congregata
+Cladonia congregata H. Magn.
 
 ### Remarks
 null

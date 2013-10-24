@@ -1,5 +1,4 @@
-Coniothyrium minus (Ellis & Barthol.) Petr. & Syd. SPECIES
-=======
+# Coniothyrium minus (Ellis & Barthol.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

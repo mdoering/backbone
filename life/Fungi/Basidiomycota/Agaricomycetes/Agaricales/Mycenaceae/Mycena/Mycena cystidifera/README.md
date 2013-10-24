@@ -1,5 +1,4 @@
-Mycena cystidifera Velen. SPECIES
-=======
+# Mycena cystidifera Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxofusicoccum syringae Petr. SPECIES
-=======
+# Myxofusicoccum syringae Petr. SPECIES
 
 #### Status
 ACCEPTED

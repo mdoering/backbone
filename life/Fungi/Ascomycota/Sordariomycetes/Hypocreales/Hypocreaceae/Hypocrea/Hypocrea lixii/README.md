@@ -1,5 +1,4 @@
-Hypocrea lixii Pat., 1891 SPECIES
-=======
+# Hypocrea lixii Pat., 1891 SPECIES
 
 #### Status
 ACCEPTED

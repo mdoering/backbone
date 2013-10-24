@@ -1,17 +1,16 @@
-Lactaria sublignyota Henn. SPECIES
-=======
+# Lactarius sublignyotus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monsunia 1: 14 (1899)
 
 #### Original name
-Lactaria sublignyota Henn.
+Lactarius sublignyotus Henn.
 
 ### Remarks
 null

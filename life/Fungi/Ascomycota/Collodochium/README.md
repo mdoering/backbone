@@ -1,5 +1,4 @@
-Collodochium Höhn. GENUS
-=======
+# Collodochium Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symphyosiphon Kützing, 1843 GENUS
-=======
+# Symphyosiphon Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

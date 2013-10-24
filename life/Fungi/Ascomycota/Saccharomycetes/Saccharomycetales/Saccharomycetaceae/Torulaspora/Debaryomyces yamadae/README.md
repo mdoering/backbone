@@ -1,5 +1,4 @@
-Debaryomyces yamadae (Van der Walt & Johannsen) Van der Walt et al., 1980 SPECIES
-=======
+# Debaryomyces yamadae (Van der Walt & Johannsen) Van der Walt et al., 1980 SPECIES
 
 #### Status
 DOUBTFUL

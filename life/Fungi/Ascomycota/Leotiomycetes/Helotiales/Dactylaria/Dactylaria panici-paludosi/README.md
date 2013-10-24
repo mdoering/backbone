@@ -1,5 +1,4 @@
-Dactylaria panici-paludosi Sawada SPECIES
-=======
+# Dactylaria panici-paludosi Sawada SPECIES
 
 #### Status
 ACCEPTED

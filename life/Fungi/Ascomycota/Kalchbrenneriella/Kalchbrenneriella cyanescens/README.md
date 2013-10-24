@@ -1,14 +1,13 @@
-Torula cyanescens Kalchbr., 1865 SPECIES
-=======
+# Kalchbrenneriella cyanescens (Kalchbr.) Diederich & M.S. Christ., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mat. Természettud. Közlem. 3: 296 (1865)
+in Diederich, Bryologist 105(3): 411 (2002)
 
 #### Original name
 Torula cyanescens Kalchbr., 1865

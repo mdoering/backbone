@@ -1,5 +1,4 @@
-Dimerina verrucicola (G. Winter) Theiss. SPECIES
-=======
+# Dimerina verrucicola (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ehrenbergina scannicola SPECIES
-=======
+# Ehrenbergina scannicola SPECIES
 
 #### Status
 ACCEPTED

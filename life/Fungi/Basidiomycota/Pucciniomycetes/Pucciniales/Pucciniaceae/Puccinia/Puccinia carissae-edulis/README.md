@@ -1,5 +1,4 @@
-Puccinia carissae-edulis Vienn.-Bourg. SPECIES
-=======
+# Puccinia carissae-edulis Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

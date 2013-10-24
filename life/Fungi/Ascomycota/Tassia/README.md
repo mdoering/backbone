@@ -1,17 +1,16 @@
-Chaetopeltis Saccardo, 1898 GENUS
-=======
+# Tassia Sydow & P. Sydow, 1919 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-in Tassi, Bulletin Labor. Orto Bot. de R. Univ. Siena 1: 14 (1898)
+Annls mycol. 17(1): 44 (1919)
 
 #### Original name
-Chaetopeltis Saccardo, 1898
+Tassia Sydow & P. Sydow, 1919
 
 ### Remarks
 null

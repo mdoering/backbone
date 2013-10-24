@@ -1,5 +1,4 @@
-Polyblastiopsis naegelii (Hepp) Zahlbr. SPECIES
-=======
+# Polyblastiopsis naegelii (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

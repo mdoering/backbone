@@ -1,5 +1,4 @@
-Lophiotrema affine Speg. SPECIES
-=======
+# Lophiotrema affine Speg. SPECIES
 
 #### Status
 ACCEPTED

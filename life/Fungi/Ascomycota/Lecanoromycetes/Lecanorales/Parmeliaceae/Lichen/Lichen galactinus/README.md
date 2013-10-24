@@ -1,5 +1,4 @@
-Lichen galactinus (Ach.) Lam. SPECIES
-=======
+# Lichen galactinus (Ach.) Lam. SPECIES
 
 #### Status
 ACCEPTED

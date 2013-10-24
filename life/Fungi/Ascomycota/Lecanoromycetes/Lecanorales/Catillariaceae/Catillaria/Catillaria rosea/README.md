@@ -1,5 +1,4 @@
-Catillaria rosea Riddle SPECIES
-=======
+# Catillaria rosea Riddle SPECIES
 
 #### Status
 ACCEPTED

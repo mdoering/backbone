@@ -1,5 +1,4 @@
-Coremium flavovirens Schwein. SPECIES
-=======
+# Coremium flavovirens Schwein. SPECIES
 
 #### Status
 ACCEPTED

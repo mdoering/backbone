@@ -1,5 +1,4 @@
-Hygrophorus bicolor Berk. & Broome SPECIES
-=======
+# Hygrophorus bicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

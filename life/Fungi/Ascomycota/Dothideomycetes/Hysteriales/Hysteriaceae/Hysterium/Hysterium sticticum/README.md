@@ -1,5 +1,4 @@
-Hysterium sticticum Fr. SPECIES
-=======
+# Hysterium sticticum Fr. SPECIES
 
 #### Status
 ACCEPTED

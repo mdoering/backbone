@@ -1,5 +1,4 @@
-Pseudocercosporella harcynica U. Braun SPECIES
-=======
+# Pseudocercosporella harcynica U. Braun SPECIES
 
 #### Status
 ACCEPTED

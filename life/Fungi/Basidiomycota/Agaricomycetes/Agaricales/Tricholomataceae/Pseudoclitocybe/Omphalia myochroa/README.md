@@ -1,5 +1,4 @@
-Omphalia myochroa (Fr.) Sacc. SPECIES
-=======
+# Omphalia myochroa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

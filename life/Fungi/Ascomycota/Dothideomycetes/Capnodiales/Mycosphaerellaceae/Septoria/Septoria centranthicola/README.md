@@ -1,5 +1,4 @@
-Septoria centranthicola Brunaud SPECIES
-=======
+# Septoria centranthicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

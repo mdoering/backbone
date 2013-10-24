@@ -1,5 +1,4 @@
-Vermicularia fallax Sacc. SPECIES
-=======
+# Vermicularia fallax Sacc. SPECIES
 
 #### Status
 ACCEPTED

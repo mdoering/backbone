@@ -1,5 +1,4 @@
-Isaria exoleta Fr. SPECIES
-=======
+# Isaria exoleta Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytalidium Pesante, 1957 GENUS
-=======
+# Scytalidium Pesante, 1957 GENUS
 
 #### Status
 ACCEPTED

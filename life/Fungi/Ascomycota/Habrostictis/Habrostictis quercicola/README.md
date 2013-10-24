@@ -1,5 +1,4 @@
-Habrostictis quercicola Hazsl. SPECIES
-=======
+# Habrostictis quercicola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

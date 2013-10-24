@@ -1,5 +1,4 @@
-Asterina pterygopodii Hansf. SPECIES
-=======
+# Asterina pterygopodii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora subcorticalis Fuckel SPECIES
-=======
+# Ceuthospora subcorticalis Fuckel SPECIES
 
 #### Status
 ACCEPTED

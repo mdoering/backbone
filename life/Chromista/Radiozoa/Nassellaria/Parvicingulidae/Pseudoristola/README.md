@@ -1,5 +1,4 @@
-Pseudoristola Yeh, 1987 GENUS
-=======
+# Pseudoristola Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

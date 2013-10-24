@@ -1,5 +1,4 @@
-Chaetomella furcata Cooke & Massee SPECIES
-=======
+# Chaetomella furcata Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marielliottia Shoemaker GENUS
-=======
+# Marielliottia Shoemaker GENUS
 
 #### Status
 ACCEPTED

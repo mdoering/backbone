@@ -1,5 +1,4 @@
-Cladonia polyphylla Mont. & Bosch SPECIES
-=======
+# Cladonia polyphylla Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

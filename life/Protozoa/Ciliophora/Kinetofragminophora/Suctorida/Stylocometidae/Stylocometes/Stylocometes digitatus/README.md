@@ -1,8 +1,7 @@
-Acineta digitata Stein, 1859 SPECIES
-=======
+# Stylocometes digitatus (Stein, 1859) Stein, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

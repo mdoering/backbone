@@ -1,5 +1,4 @@
-Pleurotus caryophylleus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus caryophylleus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

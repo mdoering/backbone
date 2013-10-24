@@ -1,5 +1,4 @@
-Cladonia abietiformis Harm. SPECIES
-=======
+# Cladonia abietiformis Harm. SPECIES
 
 #### Status
 ACCEPTED

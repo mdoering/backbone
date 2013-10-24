@@ -1,5 +1,4 @@
-Lecidea coccinella (Stizenb.) Hue SPECIES
-=======
+# Lecidea coccinella (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

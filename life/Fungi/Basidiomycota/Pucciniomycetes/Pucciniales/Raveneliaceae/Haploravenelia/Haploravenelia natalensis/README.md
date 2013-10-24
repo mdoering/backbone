@@ -1,5 +1,4 @@
-Haploravenelia natalensis (Syd., P. Syd. & Pole-Evans) Dietel SPECIES
-=======
+# Haploravenelia natalensis (Syd., P. Syd. & Pole-Evans) Dietel SPECIES
 
 #### Status
 ACCEPTED

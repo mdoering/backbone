@@ -1,5 +1,4 @@
-Alatospora pulchella Marvanová, 1977 SPECIES
-=======
+# Alatospora pulchella Marvanová, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albotricha laetior (P. Karst.) Raitv. SPECIES
-=======
+# Albotricha laetior (P. Karst.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

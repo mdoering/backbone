@@ -1,5 +1,4 @@
-Sphaeria parmularia Berk. SPECIES
-=======
+# Sphaeria parmularia Berk. SPECIES
 
 #### Status
 ACCEPTED

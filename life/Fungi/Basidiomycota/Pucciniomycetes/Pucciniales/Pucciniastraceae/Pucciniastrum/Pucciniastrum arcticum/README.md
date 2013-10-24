@@ -1,5 +1,4 @@
-Pucciniastrum arcticum var. arcticum Tranzschel VARIETY
-=======
+# Pucciniastrum arcticum Tranzschel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Scripta Bot. Horti Univ. Imper. Petrop. 4: 300 (1895)
 
 #### Original name
-Pucciniastrum arcticum var. arcticum Tranzschel
+Pucciniastrum arcticum Tranzschel
 
 ### Remarks
 null

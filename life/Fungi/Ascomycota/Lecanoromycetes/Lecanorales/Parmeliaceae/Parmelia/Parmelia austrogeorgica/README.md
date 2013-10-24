@@ -1,5 +1,4 @@
-Parmelia austrogeorgica C.W. Dodge SPECIES
-=======
+# Parmelia austrogeorgica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

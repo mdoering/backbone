@@ -1,5 +1,4 @@
-Hymenochaete japonica Yasuda SPECIES
-=======
+# Hymenochaete japonica Yasuda SPECIES
 
 #### Status
 ACCEPTED

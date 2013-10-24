@@ -1,5 +1,4 @@
-Natrinema pallidum McGenity et al., 1998 SPECIES
-=======
+# Natrinema pallidum McGenity et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

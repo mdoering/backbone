@@ -1,5 +1,4 @@
-Fusicoccum farlowianum Sacc. & Roum. SPECIES
-=======
+# Fusicoccum farlowianum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma monoicum (Peck) Arthur & Fromme SPECIES
-=======
+# Dicaeoma monoicum (Peck) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

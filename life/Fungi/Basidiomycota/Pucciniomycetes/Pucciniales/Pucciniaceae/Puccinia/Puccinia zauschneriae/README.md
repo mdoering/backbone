@@ -1,5 +1,4 @@
-Puccinia zauschneriae P. Syd. & Syd. SPECIES
-=======
+# Puccinia zauschneriae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

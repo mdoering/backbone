@@ -1,5 +1,4 @@
-Caloplaca citrina f. citrina FORM
-=======
+# Caloplaca citrina (Hoffm.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nouvelles archives du Museum d'Histoire Naturelle, Paris, 3 Série 3: 218 (1860)
+Nouvelles archives du Museum d'Histoire Naturelle, Paris, 3 Série 3: 218 (1861)
 
 #### Original name
-Caloplaca citrina f. citrina
+null
 
 ### Remarks
 null

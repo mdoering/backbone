@@ -1,5 +1,4 @@
-Rhizocarpon heterodoxum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Rhizocarpon heterodoxum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

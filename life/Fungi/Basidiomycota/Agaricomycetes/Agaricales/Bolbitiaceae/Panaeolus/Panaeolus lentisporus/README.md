@@ -1,5 +1,4 @@
-Panaeolus lentisporus Ew. Gerhardt SPECIES
-=======
+# Panaeolus lentisporus Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

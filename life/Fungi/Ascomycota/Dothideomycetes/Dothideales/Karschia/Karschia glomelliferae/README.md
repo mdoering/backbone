@@ -1,5 +1,4 @@
-Karschia glomelliferae (Harm.) Vouaux SPECIES
-=======
+# Karschia glomelliferae (Harm.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

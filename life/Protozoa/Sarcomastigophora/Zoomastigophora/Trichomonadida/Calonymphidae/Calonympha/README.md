@@ -1,5 +1,4 @@
-Calonympha Foà, 1905 GENUS
-=======
+# Calonympha Foà, 1905 GENUS
 
 #### Status
 ACCEPTED

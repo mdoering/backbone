@@ -1,5 +1,4 @@
-Laccaria kalosperma Beeli SPECIES
-=======
+# Laccaria kalosperma Beeli SPECIES
 
 #### Status
 ACCEPTED

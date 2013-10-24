@@ -1,5 +1,4 @@
-Euryachora epilobii (Fr.) Höhn. SPECIES
-=======
+# Euryachora epilobii (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

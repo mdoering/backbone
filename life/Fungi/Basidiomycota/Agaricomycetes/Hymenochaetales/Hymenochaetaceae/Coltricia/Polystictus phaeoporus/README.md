@@ -1,5 +1,4 @@
-Polystictus phaeoporus (Mont.) Cooke SPECIES
-=======
+# Polystictus phaeoporus (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

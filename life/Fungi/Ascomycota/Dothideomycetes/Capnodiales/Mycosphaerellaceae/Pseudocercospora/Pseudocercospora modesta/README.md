@@ -1,5 +1,4 @@
-Pseudocercospora modesta (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora modesta (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

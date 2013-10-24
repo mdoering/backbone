@@ -1,5 +1,4 @@
-Skujaella J.de Toni, 1938 GENUS
-=======
+# Skujaella J.de Toni, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Latentoverneuilina Loeblich & Tappan, 1985 GENUS
-=======
+# Latentoverneuilina Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

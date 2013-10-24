@@ -1,5 +1,4 @@
-Cortinarius pauperculus J. Favre SPECIES
-=======
+# Cortinarius pauperculus J. Favre SPECIES
 
 #### Status
 ACCEPTED

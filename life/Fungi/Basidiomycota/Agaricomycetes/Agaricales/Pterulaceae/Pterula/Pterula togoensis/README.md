@@ -1,5 +1,4 @@
-Pterula togoensis Henn. SPECIES
-=======
+# Pterula togoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

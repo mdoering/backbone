@@ -1,5 +1,4 @@
-Sphaerella homalanthi (Syd. & P. Syd.) Sacc. SPECIES
-=======
+# Sphaerella homalanthi (Syd. & P. Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

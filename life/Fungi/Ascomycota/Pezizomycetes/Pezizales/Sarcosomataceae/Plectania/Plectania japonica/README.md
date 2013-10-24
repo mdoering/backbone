@@ -1,5 +1,4 @@
-Plectania japonica (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Plectania japonica (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

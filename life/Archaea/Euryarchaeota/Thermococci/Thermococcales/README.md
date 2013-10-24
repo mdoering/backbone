@@ -1,5 +1,4 @@
-Thermococcales ORDER
-=======
+# Thermococcales ORDER
 
 #### Status
 ACCEPTED

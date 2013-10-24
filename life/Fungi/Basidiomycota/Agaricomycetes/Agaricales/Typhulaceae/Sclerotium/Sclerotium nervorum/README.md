@@ -1,5 +1,4 @@
-Sclerotium nervorum Schnizl. SPECIES
-=======
+# Sclerotium nervorum Schnizl. SPECIES
 
 #### Status
 ACCEPTED

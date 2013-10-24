@@ -1,5 +1,4 @@
-Staurochaeta minima Sacc. SPECIES
-=======
+# Staurochaeta minima Sacc. SPECIES
 
 #### Status
 ACCEPTED

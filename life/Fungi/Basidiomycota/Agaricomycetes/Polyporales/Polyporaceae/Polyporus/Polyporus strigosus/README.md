@@ -1,5 +1,4 @@
-Polyporus strigosus Pers. SPECIES
-=======
+# Polyporus strigosus Pers. SPECIES
 
 #### Status
 ACCEPTED

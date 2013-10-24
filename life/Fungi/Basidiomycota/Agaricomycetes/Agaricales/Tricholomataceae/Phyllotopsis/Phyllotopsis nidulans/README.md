@@ -1,14 +1,13 @@
-Crepidotus nidulans (Pers.) Quél., 1875 SPECIES
-=======
+# Phyllotopsis nidulans (Pers.) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 114 (1875)
+Revue Mycol. , Paris 1: 76 (1936)
 
 #### Original name
 Agaricus nidulans (Fr.) E.H.L. Krause, 1933

@@ -1,5 +1,4 @@
-Daldinia aspera Massee SPECIES
-=======
+# Daldinia aspera Massee SPECIES
 
 #### Status
 ACCEPTED

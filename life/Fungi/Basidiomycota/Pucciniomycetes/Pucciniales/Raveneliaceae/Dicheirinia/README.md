@@ -1,5 +1,4 @@
-Dicheirinia Arthur GENUS
-=======
+# Dicheirinia Arthur GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Globigerinoides trilobus subsp. trilobus SUBSPECIES
-=======
+# Globigerinoides trilobus (Reuss) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Paleobiology Database
+World Register of Marine Species
 
 #### Published in
 null

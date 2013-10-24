@@ -1,5 +1,4 @@
-Erysiphe clintonii (Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe clintonii (Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

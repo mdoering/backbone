@@ -1,17 +1,16 @@
-Eutypa flavovirescens var. flavovirescens VARIETY
-=======
+# Eutypa flavovirens (Pers.) Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 2: 57, tab. 7, fig. 1-7 (1863)
+Select. fung. carpol. (Paris) 2: 57 (1863)
 
 #### Original name
-Eutypa flavovirescens var. flavovirescens
+Sphaeria flavovirens Pers., 1801
 
 ### Remarks
 null

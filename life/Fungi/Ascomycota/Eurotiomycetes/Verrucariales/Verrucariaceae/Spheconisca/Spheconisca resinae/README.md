@@ -1,5 +1,4 @@
-Spheconisca resinae Norman SPECIES
-=======
+# Spheconisca resinae Norman SPECIES
 
 #### Status
 ACCEPTED

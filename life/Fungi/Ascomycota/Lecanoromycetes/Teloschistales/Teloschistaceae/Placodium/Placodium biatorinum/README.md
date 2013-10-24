@@ -1,5 +1,4 @@
-Placodium biatorinum (A. Massal.) M. Choisy SPECIES
-=======
+# Placodium biatorinum (A. Massal.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maccagnia carnica Mattir., 1922 SPECIES
-=======
+# Maccagnia carnica Mattir., 1922 SPECIES
 
 #### Status
 ACCEPTED

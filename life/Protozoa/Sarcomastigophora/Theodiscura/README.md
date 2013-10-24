@@ -1,5 +1,4 @@
-Theodiscura Haeckel, 1887 GENUS
-=======
+# Theodiscura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria kerriae Berk. SPECIES
-=======
+# Sphaeria kerriae Berk. SPECIES
 
 #### Status
 ACCEPTED

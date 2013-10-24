@@ -1,5 +1,4 @@
-Ptychocylis drygalskii Brandt, 1896 SPECIES
-=======
+# Ptychocylis drygalskii Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

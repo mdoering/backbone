@@ -1,5 +1,4 @@
-Pemphidium zonatum K.D. Hyde SPECIES
-=======
+# Pemphidium zonatum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius hygrophoroides Berk. & M.A. Curtis SPECIES
-=======
+# Lactarius hygrophoroides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

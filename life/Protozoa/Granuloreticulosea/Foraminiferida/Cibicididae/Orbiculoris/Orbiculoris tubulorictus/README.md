@@ -1,5 +1,4 @@
-Orbiculoris tubulorictus Loeblich & Tappan, 1994 SPECIES
-=======
+# Orbiculoris tubulorictus Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

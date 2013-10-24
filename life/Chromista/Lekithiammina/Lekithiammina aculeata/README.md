@@ -1,5 +1,4 @@
-Lekithiammina aculeata de Folin, 1887 SPECIES
-=======
+# Lekithiammina aculeata de Folin, 1887 SPECIES
 
 #### Status
 ACCEPTED

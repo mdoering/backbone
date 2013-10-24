@@ -1,5 +1,4 @@
-Cryptothelium consimile (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptothelium consimile (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

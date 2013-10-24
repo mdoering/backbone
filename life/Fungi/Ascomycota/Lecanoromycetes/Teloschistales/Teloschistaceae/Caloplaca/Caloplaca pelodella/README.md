@@ -1,5 +1,4 @@
-Caloplaca pelodella (Nyl.) Hasse SPECIES
-=======
+# Caloplaca pelodella (Nyl.) Hasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina lata Palm SPECIES
-=======
+# Taphrina lata Palm SPECIES
 
 #### Status
 ACCEPTED

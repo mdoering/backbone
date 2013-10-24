@@ -1,5 +1,4 @@
-Agaricus praecellens Kalchbr. SPECIES
-=======
+# Agaricus praecellens Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

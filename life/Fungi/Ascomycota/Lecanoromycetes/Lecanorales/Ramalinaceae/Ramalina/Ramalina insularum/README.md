@@ -1,5 +1,4 @@
-Ramalina insularum H. Magn. SPECIES
-=======
+# Ramalina insularum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

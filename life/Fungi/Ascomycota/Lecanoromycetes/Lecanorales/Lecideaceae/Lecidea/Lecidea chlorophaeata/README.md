@@ -1,5 +1,4 @@
-Lecidea chlorophaeata Nyl. SPECIES
-=======
+# Lecidea chlorophaeata Nyl. SPECIES
 
 #### Status
 ACCEPTED

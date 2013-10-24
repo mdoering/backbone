@@ -1,5 +1,4 @@
-Pseudolecidea GENUS
-=======
+# Pseudolecidea GENUS
 
 #### Status
 ACCEPTED

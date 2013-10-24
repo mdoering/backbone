@@ -1,5 +1,4 @@
-Cercospora ligustricola T.L. Tai SPECIES
-=======
+# Cercospora ligustricola T.L. Tai SPECIES
 
 #### Status
 ACCEPTED

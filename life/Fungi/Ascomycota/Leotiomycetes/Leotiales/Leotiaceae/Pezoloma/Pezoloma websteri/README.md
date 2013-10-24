@@ -1,5 +1,4 @@
-Pezoloma websteri Gamundí, 1998 SPECIES
-=======
+# Pezoloma websteri Gamundí, 1998 SPECIES
 
 #### Status
 ACCEPTED

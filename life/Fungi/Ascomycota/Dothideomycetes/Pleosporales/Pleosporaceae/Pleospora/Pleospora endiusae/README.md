@@ -1,5 +1,4 @@
-Pleospora endiusae Catt. SPECIES
-=======
+# Pleospora endiusae Catt. SPECIES
 
 #### Status
 ACCEPTED

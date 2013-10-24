@@ -1,5 +1,4 @@
-Hydnum giganteum Rabenh. SPECIES
-=======
+# Hydnum giganteum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

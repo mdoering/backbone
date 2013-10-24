@@ -1,5 +1,4 @@
-Floricola Kohlmeyer & Volkmann-Kohlmeyer, 2000 GENUS
-=======
+# Floricola Kohlmeyer & Volkmann-Kohlmeyer, 2000 GENUS
 
 #### Status
 ACCEPTED

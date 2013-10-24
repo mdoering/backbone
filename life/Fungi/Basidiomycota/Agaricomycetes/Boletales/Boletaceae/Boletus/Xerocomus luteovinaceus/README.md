@@ -1,5 +1,4 @@
-Xerocomus luteovinaceus H. Engel & E. Ludw. SPECIES
-=======
+# Xerocomus luteovinaceus H. Engel & E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

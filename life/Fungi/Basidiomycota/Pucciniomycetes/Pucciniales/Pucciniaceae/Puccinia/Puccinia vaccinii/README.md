@@ -1,5 +1,4 @@
-Puccinia vaccinii anon. SPECIES
-=======
+# Puccinia vaccinii anon. SPECIES
 
 #### Status
 ACCEPTED

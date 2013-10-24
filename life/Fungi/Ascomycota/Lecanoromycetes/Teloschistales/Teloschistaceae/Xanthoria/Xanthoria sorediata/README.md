@@ -1,8 +1,7 @@
-Rusavskia sorediata (Vain.) S. Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria sorediata (Vain.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lecanora elegans var. sorediata Vain.
 
 ### Remarks
 null

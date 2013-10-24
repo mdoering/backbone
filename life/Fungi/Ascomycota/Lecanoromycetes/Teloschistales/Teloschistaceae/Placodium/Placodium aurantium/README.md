@@ -1,5 +1,4 @@
-Placodium aurantium f. aurantium FORM
-=======
+# Placodium aurantium SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium aurantium f. aurantium
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia gracilior Müll. Arg. SPECIES
-=======
+# Arthonia gracilior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus strigosoalbus Lloyd, 1924 SPECIES
-=======
+# Postia pelliculosa (Berk.) Rajchenb., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1329 (1924)
+Sydowia 40: 248 (1988)
 
 #### Original name
-Polyporus strigosoalbus Lloyd, 1924
+Polyporus pelliculosus Berk., 1848
 
 ### Remarks
 null

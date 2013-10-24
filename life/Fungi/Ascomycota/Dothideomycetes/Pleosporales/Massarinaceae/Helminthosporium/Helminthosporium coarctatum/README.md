@@ -1,5 +1,4 @@
-Helminthosporium coarctatum Riess SPECIES
-=======
+# Helminthosporium coarctatum Riess SPECIES
 
 #### Status
 ACCEPTED

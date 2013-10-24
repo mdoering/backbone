@@ -1,5 +1,4 @@
-Chamaesiphon polymorphus Geitler SPECIES
-=======
+# Chamaesiphon polymorphus Geitler SPECIES
 
 #### Status
 ACCEPTED

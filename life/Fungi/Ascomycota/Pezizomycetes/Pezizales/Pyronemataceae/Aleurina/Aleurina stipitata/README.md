@@ -1,5 +1,4 @@
-Aleurina stipitata Rodway SPECIES
-=======
+# Aleurina stipitata Rodway SPECIES
 
 #### Status
 ACCEPTED

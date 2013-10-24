@@ -1,17 +1,16 @@
-Mawsonia harrissoni C.W. Dodge SPECIES
-=======
+# Mawsonia harrissonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Res. Exped. Rep. , Ser. B 7: (1948)
 
 #### Original name
-Mawsonia harrissoni C.W. Dodge
+Mawsonia harrissonii C.W. Dodge
 
 ### Remarks
 null

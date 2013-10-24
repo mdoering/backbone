@@ -1,5 +1,4 @@
-Padina distromatica Hauck SPECIES
-=======
+# Padina distromatica Hauck SPECIES
 
 #### Status
 ACCEPTED

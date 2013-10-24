@@ -1,5 +1,4 @@
-Sphinctrina cerasi Desm. SPECIES
-=======
+# Sphinctrina cerasi Desm. SPECIES
 
 #### Status
 ACCEPTED

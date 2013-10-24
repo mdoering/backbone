@@ -1,5 +1,4 @@
-Russula cochisei Fatto SPECIES
-=======
+# Russula cochisei Fatto SPECIES
 
 #### Status
 ACCEPTED

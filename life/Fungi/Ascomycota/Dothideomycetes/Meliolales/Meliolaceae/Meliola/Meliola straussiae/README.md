@@ -1,5 +1,4 @@
-Meliola straussiae Hansf. SPECIES
-=======
+# Meliola straussiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

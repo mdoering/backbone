@@ -1,5 +1,4 @@
-Botryohypoxylon Samuels & J.D. Rogers GENUS
-=======
+# Botryohypoxylon Samuels & J.D. Rogers GENUS
 
 #### Status
 ACCEPTED

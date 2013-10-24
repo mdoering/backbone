@@ -1,5 +1,4 @@
-Lepiota sulphurella Kalchbr. & Cooke SPECIES
-=======
+# Lepiota sulphurella Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

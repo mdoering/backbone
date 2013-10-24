@@ -1,5 +1,4 @@
-Rhachomyces furcatus Thaxt., 1895 SPECIES
-=======
+# Rhachomyces furcatus Thaxt., 1895 SPECIES
 
 #### Status
 ACCEPTED

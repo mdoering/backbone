@@ -1,5 +1,4 @@
-Peziza hydnoidea Sowerby SPECIES
-=======
+# Peziza hydnoidea Sowerby SPECIES
 
 #### Status
 ACCEPTED

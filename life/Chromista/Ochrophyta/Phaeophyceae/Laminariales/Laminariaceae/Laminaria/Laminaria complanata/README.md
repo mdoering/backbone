@@ -1,8 +1,7 @@
-Laminaria saccharina f. complanata Setchell & N.L. Gardner FORM
-=======
+# Laminaria complanata (Setchell & N.L. Gardner) Setchell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

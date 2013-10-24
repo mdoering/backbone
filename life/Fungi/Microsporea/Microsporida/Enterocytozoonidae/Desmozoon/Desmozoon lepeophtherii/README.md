@@ -1,5 +1,4 @@
-Desmozoon lepeophtherii Freeman & Sommerville, 2009 SPECIES
-=======
+# Desmozoon lepeophtherii Freeman & Sommerville, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma resedicola Garb. SPECIES
-=======
+# Phoma resedicola Garb. SPECIES
 
 #### Status
 ACCEPTED

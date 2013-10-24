@@ -1,5 +1,4 @@
-Kabathia GENUS
-=======
+# Kabathia GENUS
 
 #### Status
 ACCEPTED

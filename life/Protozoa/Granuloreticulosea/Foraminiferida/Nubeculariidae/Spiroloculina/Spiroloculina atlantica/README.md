@@ -1,5 +1,4 @@
-Spiroloculina atlantica Cushman, 1947 SPECIES
-=======
+# Spiroloculina atlantica Cushman, 1947 SPECIES
 
 #### Status
 ACCEPTED

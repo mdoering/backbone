@@ -1,17 +1,16 @@
-Actinodothis Syd. & P. Syd. GENUS
-=======
+# Amazonia Theiss. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Philipp. J. Sci. , C, Bot. 9: 174 (1914)
+Annls mycol. 11(5): 499 (1913)
 
 #### Original name
-Actinodothis Syd. & P. Syd.
+Amazonia Theiss.
 
 ### Remarks
 null

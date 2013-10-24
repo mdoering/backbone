@@ -1,5 +1,4 @@
-Irenopsis toruloidea (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis toruloidea (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

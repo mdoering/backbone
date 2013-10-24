@@ -1,5 +1,4 @@
-Acremonium vitis Catt. SPECIES
-=======
+# Acremonium vitis Catt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryoria flexuosa (Motyka) Bystrek SPECIES
-=======
+# Bryoria flexuosa (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

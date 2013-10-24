@@ -1,5 +1,4 @@
-Asteromella pomi Boerema, Loer. & Hamers SPECIES
-=======
+# Asteromella pomi Boerema, Loer. & Hamers SPECIES
 
 #### Status
 ACCEPTED

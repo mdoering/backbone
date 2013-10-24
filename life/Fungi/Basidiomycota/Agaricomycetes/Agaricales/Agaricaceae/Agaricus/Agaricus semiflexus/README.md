@@ -1,5 +1,4 @@
-Agaricus semiflexus Berk. & Broome SPECIES
-=======
+# Agaricus semiflexus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

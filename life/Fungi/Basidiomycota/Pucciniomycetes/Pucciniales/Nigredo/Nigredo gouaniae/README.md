@@ -1,5 +1,4 @@
-Nigredo gouaniae (F. Kern) Arthur SPECIES
-=======
+# Nigredo gouaniae (F. Kern) Arthur SPECIES
 
 #### Status
 ACCEPTED

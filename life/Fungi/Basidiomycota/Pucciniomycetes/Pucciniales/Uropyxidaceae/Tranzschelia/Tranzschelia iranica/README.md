@@ -1,5 +1,4 @@
-Tranzschelia iranica M. Abbasi & Gjaerum, 1997 SPECIES
-=======
+# Tranzschelia iranica M. Abbasi & Gjaerum, 1997 SPECIES
 
 #### Status
 ACCEPTED

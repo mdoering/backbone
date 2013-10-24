@@ -1,5 +1,4 @@
-Pucciniopsis Speg. GENUS
-=======
+# Pucciniopsis Speg. GENUS
 
 #### Status
 ACCEPTED

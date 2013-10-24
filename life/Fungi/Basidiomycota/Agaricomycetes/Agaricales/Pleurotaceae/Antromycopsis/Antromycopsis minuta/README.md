@@ -1,5 +1,4 @@
-Antromycopsis minuta Sacc. SPECIES
-=======
+# Antromycopsis minuta Sacc. SPECIES
 
 #### Status
 ACCEPTED

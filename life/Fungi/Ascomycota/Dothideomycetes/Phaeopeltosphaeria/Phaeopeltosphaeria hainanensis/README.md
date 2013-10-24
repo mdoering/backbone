@@ -1,5 +1,4 @@
-Phaeopeltosphaeria hainanensis Teng SPECIES
-=======
+# Phaeopeltosphaeria hainanensis Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterinella cupressina (Rehm) Theiss. SPECIES
-=======
+# Asterinella cupressina (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

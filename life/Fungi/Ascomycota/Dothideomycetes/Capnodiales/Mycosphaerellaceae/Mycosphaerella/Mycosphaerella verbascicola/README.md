@@ -1,5 +1,4 @@
-Mycosphaerella verbascicola (Schwein.) Fairm. SPECIES
-=======
+# Mycosphaerella verbascicola (Schwein.) Fairm. SPECIES
 
 #### Status
 ACCEPTED

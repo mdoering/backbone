@@ -1,5 +1,4 @@
-Lagenophrys stygia Clamp, 1990 SPECIES
-=======
+# Lagenophrys stygia Clamp, 1990 SPECIES
 
 #### Status
 ACCEPTED

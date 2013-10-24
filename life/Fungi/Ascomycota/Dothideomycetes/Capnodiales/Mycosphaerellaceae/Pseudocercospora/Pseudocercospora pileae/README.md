@@ -1,5 +1,4 @@
-Pseudocercospora pileae P.N. Singh, S.K. Singh & S.C. Tripathi SPECIES
-=======
+# Pseudocercospora pileae P.N. Singh, S.K. Singh & S.C. Tripathi SPECIES
 
 #### Status
 ACCEPTED

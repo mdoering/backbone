@@ -1,5 +1,4 @@
-Solenopezia grisea A.L. Sm. SPECIES
-=======
+# Solenopezia grisea A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella muralis Penard, 1922 SPECIES
-=======
+# Vorticella muralis Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

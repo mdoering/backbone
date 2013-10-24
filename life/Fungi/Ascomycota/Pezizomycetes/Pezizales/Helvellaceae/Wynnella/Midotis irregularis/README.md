@@ -1,5 +1,4 @@
-Midotis irregularis (Schwein.) Cooke SPECIES
-=======
+# Midotis irregularis (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

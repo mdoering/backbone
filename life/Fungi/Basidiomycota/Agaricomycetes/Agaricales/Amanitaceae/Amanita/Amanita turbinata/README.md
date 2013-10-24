@@ -1,5 +1,4 @@
-Amanita turbinata Lam. SPECIES
-=======
+# Amanita turbinata Lam. SPECIES
 
 #### Status
 ACCEPTED

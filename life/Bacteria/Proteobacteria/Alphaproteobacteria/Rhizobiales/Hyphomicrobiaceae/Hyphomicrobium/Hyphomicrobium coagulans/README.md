@@ -1,5 +1,4 @@
-Hyphomicrobium coagulans (ex Takada, 1975) Hirsch, 1989 SPECIES
-=======
+# Hyphomicrobium coagulans (ex Takada, 1975) Hirsch, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus caryophyllatus Viv. SPECIES
-=======
+# Agaricus caryophyllatus Viv. SPECIES
 
 #### Status
 ACCEPTED

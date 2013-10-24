@@ -1,17 +1,16 @@
-Leptoporus wynneae f. ellipsospora Pilát, 1937 FORM
-=======
+# Antrodiella ellipsospora (Pilát) Niemelä & Miettinen, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 52(3): 306 (1937)
+Mycotaxon 96: 219 (2006)
 
 #### Original name
-Leptoporus wynneae f. ellipsospora Pilát, 1937
+Leptoporus wynnei f. ellipsospora Pilát
 
 ### Remarks
 null

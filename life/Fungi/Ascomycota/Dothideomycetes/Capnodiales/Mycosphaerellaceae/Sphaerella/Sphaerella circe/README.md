@@ -1,5 +1,4 @@
-Sphaerella circe Sacc. SPECIES
-=======
+# Sphaerella circe Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora adelura (Griffiths) Cain SPECIES
-=======
+# Podospora adelura (Griffiths) Cain SPECIES
 
 #### Status
 ACCEPTED

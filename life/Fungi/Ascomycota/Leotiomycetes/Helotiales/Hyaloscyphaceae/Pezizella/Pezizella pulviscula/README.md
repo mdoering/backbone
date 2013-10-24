@@ -1,5 +1,4 @@
-Pezizella pulviscula (Cooke) Sacc. SPECIES
-=======
+# Pezizella pulviscula (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

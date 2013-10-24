@@ -1,5 +1,4 @@
-Marasmiellus sphaerosporus Singer SPECIES
-=======
+# Marasmiellus sphaerosporus Singer SPECIES
 
 #### Status
 ACCEPTED

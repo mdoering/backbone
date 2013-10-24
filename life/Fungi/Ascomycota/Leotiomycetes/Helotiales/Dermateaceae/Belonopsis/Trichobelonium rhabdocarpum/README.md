@@ -1,5 +1,4 @@
-Trichobelonium rhabdocarpum (Ellis) Dennis SPECIES
-=======
+# Trichobelonium rhabdocarpum (Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

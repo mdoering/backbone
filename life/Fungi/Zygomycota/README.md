@@ -1,5 +1,4 @@
-Zygomycota Moreau PHYLUM
-=======
+# Zygomycota Moreau PHYLUM
 
 #### Status
 ACCEPTED

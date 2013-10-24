@@ -1,5 +1,4 @@
-Exobasidium flos-cavendishiae Kisim.-Hor. & L.D. Gómez, 1998 SPECIES
-=======
+# Exobasidium flos-cavendishiae Kisim.-Hor. & L.D. Gómez, 1998 SPECIES
 
 #### Status
 ACCEPTED

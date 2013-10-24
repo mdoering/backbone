@@ -1,5 +1,4 @@
-Phoma paniculata Ellis & Dearn. SPECIES
-=======
+# Phoma paniculata Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

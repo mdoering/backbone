@@ -1,5 +1,4 @@
-Anisicyrtis GENUS
-=======
+# Anisicyrtis GENUS
 
 #### Status
 ACCEPTED

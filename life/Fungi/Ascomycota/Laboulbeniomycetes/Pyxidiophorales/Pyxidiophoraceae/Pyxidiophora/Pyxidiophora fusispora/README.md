@@ -1,5 +1,4 @@
-Pyxidiophora fusispora (Tul.) Maire SPECIES
-=======
+# Pyxidiophora fusispora (Tul.) Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola comata Doidge SPECIES
-=======
+# Meliola comata Doidge SPECIES
 
 #### Status
 ACCEPTED

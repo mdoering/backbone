@@ -1,5 +1,4 @@
-Coniothyrium acutiloba (Dearn. & House) Arx SPECIES
-=======
+# Coniothyrium acutiloba (Dearn. & House) Arx SPECIES
 
 #### Status
 ACCEPTED

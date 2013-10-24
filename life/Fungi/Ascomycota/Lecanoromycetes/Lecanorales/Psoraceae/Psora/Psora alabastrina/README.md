@@ -1,5 +1,4 @@
-Psora alabastrina Hoffm. SPECIES
-=======
+# Psora alabastrina Hoffm. SPECIES
 
 #### Status
 ACCEPTED

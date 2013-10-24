@@ -1,5 +1,4 @@
-Porina hemisphaerica (Eschw.) Müll. Arg. SPECIES
-=======
+# Porina hemisphaerica (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

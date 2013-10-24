@@ -1,5 +1,4 @@
-Phormidium acuminata (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium acuminata (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

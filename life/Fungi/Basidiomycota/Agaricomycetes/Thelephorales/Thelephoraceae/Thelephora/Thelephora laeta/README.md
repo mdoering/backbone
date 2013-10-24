@@ -1,5 +1,4 @@
-Thelephora laeta Mont. SPECIES
-=======
+# Thelephora laeta Mont. SPECIES
 
 #### Status
 ACCEPTED

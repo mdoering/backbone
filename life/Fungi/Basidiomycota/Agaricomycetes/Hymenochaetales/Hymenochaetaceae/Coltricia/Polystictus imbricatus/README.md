@@ -1,5 +1,4 @@
-Polystictus imbricatus Lloyd, 1918 SPECIES
-=======
+# Polystictus imbricatus Lloyd, 1918 SPECIES
 
 #### Status
 ACCEPTED

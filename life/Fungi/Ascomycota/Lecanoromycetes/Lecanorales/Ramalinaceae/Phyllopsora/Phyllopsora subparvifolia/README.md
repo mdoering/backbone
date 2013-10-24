@@ -1,5 +1,4 @@
-Phyllopsora subparvifolia (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Phyllopsora subparvifolia (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

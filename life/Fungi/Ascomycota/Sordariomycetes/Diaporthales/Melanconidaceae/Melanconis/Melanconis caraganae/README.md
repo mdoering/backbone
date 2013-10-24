@@ -1,5 +1,4 @@
-Melanconis caraganae Danilova SPECIES
-=======
+# Melanconis caraganae Danilova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe lanuginosa var. lanuginosa VARIETY
-=======
+# Inocybe lanuginosa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Führ. Pilzk. (Zwickau) 80 (1871)
+null
 
 #### Original name
-Inocybe lanuginosa var. lanuginosa
+null
 
 ### Remarks
 null

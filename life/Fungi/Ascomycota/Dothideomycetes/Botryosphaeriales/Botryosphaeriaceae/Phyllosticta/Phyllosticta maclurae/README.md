@@ -1,5 +1,4 @@
-Phyllosticta maclurae Ellis & Everh. SPECIES
-=======
+# Phyllosticta maclurae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

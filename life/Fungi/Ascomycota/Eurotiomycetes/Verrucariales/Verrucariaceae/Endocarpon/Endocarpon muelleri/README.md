@@ -1,8 +1,7 @@
-Endocarpon mullerii M. Choisy SPECIES
-=======
+# Endocarpon muelleri M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Endocarpon mullerii M. Choisy
+Endocarpon muelleri M. Choisy
 
 ### Remarks
 null

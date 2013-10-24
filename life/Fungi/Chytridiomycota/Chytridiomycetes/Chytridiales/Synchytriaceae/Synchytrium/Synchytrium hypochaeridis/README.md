@@ -1,17 +1,16 @@
-Synchytrium hypochoeridis Karling SPECIES
-=======
+# Synchytrium hypochaeridis Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 20: 51 (1968)
 
 #### Original name
-Synchytrium hypochoeridis Karling
+Synchytrium hypochaeridis Karling, 1968
 
 ### Remarks
 null

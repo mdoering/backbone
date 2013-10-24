@@ -1,5 +1,4 @@
-Sphaeria atrobarba Cooke & Ellis SPECIES
-=======
+# Sphaeria atrobarba Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cleptomyces Arthur GENUS
-=======
+# Cleptomyces Arthur GENUS
 
 #### Status
 ACCEPTED

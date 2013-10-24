@@ -1,5 +1,4 @@
-Lophosphaeridium vetulum Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Lophosphaeridium vetulum Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

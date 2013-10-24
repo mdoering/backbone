@@ -1,5 +1,4 @@
-Lembosia eugeniae-polyanthae Hansf. SPECIES
-=======
+# Lembosia eugeniae-polyanthae Hansf. SPECIES
 
 #### Status
 ACCEPTED

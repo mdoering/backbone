@@ -1,14 +1,13 @@
-Ulocolla repanda (Fr.) Bres., 1932 SPECIES
-=======
+# Exidia repanda Fr., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Mycol. (Paris) 23 (1932)
+Syst. mycol. (Lundae) 2(1): 225 (1822)
 
 #### Original name
 Exidia repanda Fr., 1822

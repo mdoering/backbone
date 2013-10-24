@@ -1,5 +1,4 @@
-Crinipellis schini Singer SPECIES
-=======
+# Crinipellis schini Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stirtonia biseptata Aptroot & Wolseley SPECIES
-=======
+# Stirtonia biseptata Aptroot & Wolseley SPECIES
 
 #### Status
 ACCEPTED

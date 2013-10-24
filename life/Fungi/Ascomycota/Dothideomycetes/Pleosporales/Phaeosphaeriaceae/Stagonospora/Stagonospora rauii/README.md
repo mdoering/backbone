@@ -1,5 +1,4 @@
-Stagonospora rauii (Ellis) Sacc. SPECIES
-=======
+# Stagonospora rauii (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

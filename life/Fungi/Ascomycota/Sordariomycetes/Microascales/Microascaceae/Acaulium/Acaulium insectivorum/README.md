@@ -1,5 +1,4 @@
-Acaulium insectivorum Sopp SPECIES
-=======
+# Acaulium insectivorum Sopp SPECIES
 
 #### Status
 ACCEPTED

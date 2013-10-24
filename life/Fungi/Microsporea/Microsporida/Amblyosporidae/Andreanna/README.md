@@ -1,5 +1,4 @@
-Andreanna A.V. Simakovaa, C.R. Vossbrinckb & T.G. Andreadis GENUS
-=======
+# Andreanna A.V. Simakovaa, C.R. Vossbrinckb & T.G. Andreadis GENUS
 
 #### Status
 ACCEPTED

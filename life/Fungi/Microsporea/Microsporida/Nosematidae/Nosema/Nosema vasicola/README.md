@@ -1,5 +1,4 @@
-Nosema vasicola SPECIES
-=======
+# Nosema vasicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora pulvinulata (Sacc. & G. Winter) U. Braun SPECIES
-=======
+# Pseudocercospora pulvinulata (Sacc. & G. Winter) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria alagranzae Harm. SPECIES
-=======
+# Verrucaria alagranzae Harm. SPECIES
 
 #### Status
 ACCEPTED

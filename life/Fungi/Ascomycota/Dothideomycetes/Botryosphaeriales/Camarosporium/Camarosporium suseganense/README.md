@@ -1,5 +1,4 @@
-Camarosporium suseganense (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Camarosporium suseganense (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

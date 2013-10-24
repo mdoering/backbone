@@ -1,5 +1,4 @@
-Hesperomyces biphylli K. Sugiy. & T. Majewski SPECIES
-=======
+# Hesperomyces biphylli K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

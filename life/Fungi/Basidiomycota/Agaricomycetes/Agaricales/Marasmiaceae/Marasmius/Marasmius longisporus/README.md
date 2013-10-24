@@ -1,5 +1,4 @@
-Marasmius longisporus var. longisporus VARIETY
-=======
+# Marasmius longisporus (Pat. & Gaillard) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius longisporus var. longisporus
+Androsaceus longisporus Pat. & Gaillard
 
 ### Remarks
 null

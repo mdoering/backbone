@@ -1,5 +1,4 @@
-Stictis pallidula Sacc. SPECIES
-=======
+# Stictis pallidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinodinomyces archaeae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Rhinodinomyces archaeae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

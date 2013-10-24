@@ -1,5 +1,4 @@
-Codinaea dimorpha Toyaz. & Udagawa SPECIES
-=======
+# Codinaea dimorpha Toyaz. & Udagawa SPECIES
 
 #### Status
 ACCEPTED

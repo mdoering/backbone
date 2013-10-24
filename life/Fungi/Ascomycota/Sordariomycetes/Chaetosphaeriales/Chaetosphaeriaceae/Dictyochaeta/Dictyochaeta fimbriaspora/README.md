@@ -1,5 +1,4 @@
-Dictyochaeta fimbriaspora Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta fimbriaspora Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

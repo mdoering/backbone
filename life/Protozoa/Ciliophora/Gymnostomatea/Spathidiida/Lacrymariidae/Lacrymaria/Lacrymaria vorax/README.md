@@ -1,5 +1,4 @@
-Lacrymaria vorax Penard, 1922 SPECIES
-=======
+# Lacrymaria vorax Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

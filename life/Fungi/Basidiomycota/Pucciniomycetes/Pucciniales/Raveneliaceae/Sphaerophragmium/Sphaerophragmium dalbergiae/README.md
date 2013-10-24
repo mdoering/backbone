@@ -1,5 +1,4 @@
-Sphaerophragmium dalbergiae Dietel, 1893 SPECIES
-=======
+# Sphaerophragmium dalbergiae Dietel, 1893 SPECIES
 
 #### Status
 ACCEPTED

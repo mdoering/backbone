@@ -1,5 +1,4 @@
-Chaetophoma glaucii Boyer & Jacz. SPECIES
-=======
+# Chaetophoma glaucii Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

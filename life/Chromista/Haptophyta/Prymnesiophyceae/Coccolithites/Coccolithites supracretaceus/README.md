@@ -1,5 +1,4 @@
-Coccolithites supracretaceus P. Reinhardt SPECIES
-=======
+# Coccolithites supracretaceus P. Reinhardt SPECIES
 
 #### Status
 ACCEPTED

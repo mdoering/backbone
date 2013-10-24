@@ -1,5 +1,4 @@
-Stereocaulon pygmaeum Vain. SPECIES
-=======
+# Stereocaulon pygmaeum Vain. SPECIES
 
 #### Status
 ACCEPTED

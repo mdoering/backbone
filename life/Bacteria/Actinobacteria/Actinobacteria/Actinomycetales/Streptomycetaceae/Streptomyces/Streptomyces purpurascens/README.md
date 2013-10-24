@@ -1,5 +1,4 @@
-Streptomyces purpurascens Lindenbein, 1952 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces purpurascens Lindenbein, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

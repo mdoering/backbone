@@ -1,5 +1,4 @@
-Phoma charticola Speg. SPECIES
-=======
+# Phoma charticola Speg. SPECIES
 
 #### Status
 ACCEPTED

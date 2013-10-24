@@ -1,5 +1,4 @@
-Stereum conchoides Lloyd SPECIES
-=======
+# Stereum conchoides Lloyd SPECIES
 
 #### Status
 ACCEPTED

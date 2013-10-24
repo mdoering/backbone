@@ -1,5 +1,4 @@
-Thermobacillus Touzel et al., 2000 GENUS
-=======
+# Thermobacillus Touzel et al., 2000 GENUS
 
 #### Status
 ACCEPTED

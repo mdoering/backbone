@@ -1,5 +1,4 @@
-Monosprorium GENUS
-=======
+# Monosprorium GENUS
 
 #### Status
 ACCEPTED

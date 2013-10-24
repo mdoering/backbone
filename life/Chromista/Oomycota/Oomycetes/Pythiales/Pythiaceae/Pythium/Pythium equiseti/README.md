@@ -1,5 +1,4 @@
-Pythium equiseti Sadeb. SPECIES
-=======
+# Pythium equiseti Sadeb. SPECIES
 
 #### Status
 ACCEPTED

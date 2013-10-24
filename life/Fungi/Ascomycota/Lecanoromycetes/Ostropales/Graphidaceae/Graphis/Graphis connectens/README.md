@@ -1,5 +1,4 @@
-Graphis connectens Zahlbr. SPECIES
-=======
+# Graphis connectens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

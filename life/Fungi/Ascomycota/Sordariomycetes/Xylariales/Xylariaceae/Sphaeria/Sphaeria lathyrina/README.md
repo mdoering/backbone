@@ -1,5 +1,4 @@
-Sphaeria lathyrina Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria lathyrina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

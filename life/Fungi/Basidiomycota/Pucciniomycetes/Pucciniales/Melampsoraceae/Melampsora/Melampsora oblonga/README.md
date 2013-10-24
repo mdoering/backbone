@@ -1,5 +1,4 @@
-Melampsora oblonga Bagchee SPECIES
-=======
+# Melampsora oblonga Bagchee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tarichium hylemyiae G. Lakon SPECIES
-=======
+# Tarichium hylemyiae G. Lakon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotarzetta Donadini GENUS
-=======
+# Hypotarzetta Donadini GENUS
 
 #### Status
 ACCEPTED

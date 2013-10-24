@@ -1,5 +1,4 @@
-Chamaemyces carmelensis M. Didukh & Wasser SPECIES
-=======
+# Chamaemyces carmelensis M. Didukh & Wasser SPECIES
 
 #### Status
 ACCEPTED

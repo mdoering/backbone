@@ -1,8 +1,7 @@
-Synechococcus diachloros var. crassiusculus Skuja VARIETY
-=======
+# Cyanobacterium crassiusculum (Skuja) J. Komárek, J. Kopeck & V. Cepák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

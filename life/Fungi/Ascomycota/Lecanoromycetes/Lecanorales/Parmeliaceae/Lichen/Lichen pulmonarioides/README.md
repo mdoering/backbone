@@ -1,5 +1,4 @@
-Lichen pulmonarioides Balb. SPECIES
-=======
+# Lichen pulmonarioides Balb. SPECIES
 
 #### Status
 ACCEPTED

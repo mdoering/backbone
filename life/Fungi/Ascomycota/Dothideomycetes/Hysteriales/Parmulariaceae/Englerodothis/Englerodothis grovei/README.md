@@ -1,5 +1,4 @@
-Englerodothis grovei (Sacc.) E. Castell., 1948 SPECIES
-=======
+# Englerodothis grovei (Sacc.) E. Castell., 1948 SPECIES
 
 #### Status
 ACCEPTED

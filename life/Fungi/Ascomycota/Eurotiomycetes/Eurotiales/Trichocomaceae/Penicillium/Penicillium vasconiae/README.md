@@ -1,5 +1,4 @@
-Penicillium vasconiae C. Ramírez & A.T. Martínez, 1980 SPECIES
-=======
+# Penicillium vasconiae C. Ramírez & A.T. Martínez, 1980 SPECIES
 
 #### Status
 ACCEPTED

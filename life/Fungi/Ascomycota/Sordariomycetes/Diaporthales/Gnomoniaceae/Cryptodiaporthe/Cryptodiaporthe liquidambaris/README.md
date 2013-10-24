@@ -1,5 +1,4 @@
-Cryptodiaporthe liquidambaris Petr. SPECIES
-=======
+# Cryptodiaporthe liquidambaris Petr. SPECIES
 
 #### Status
 ACCEPTED

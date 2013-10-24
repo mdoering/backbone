@@ -1,5 +1,4 @@
-Erimophrya monostyla Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
-=======
+# Erimophrya monostyla Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina rhododendri (Bagl.) Lettau SPECIES
-=======
+# Porina rhododendri (Bagl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placolecis Trevis. GENUS
-=======
+# Placolecis Trevis. GENUS
 
 #### Status
 ACCEPTED

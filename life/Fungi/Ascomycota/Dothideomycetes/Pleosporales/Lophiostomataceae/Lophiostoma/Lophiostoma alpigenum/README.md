@@ -1,17 +1,16 @@
-Lophiotrema alpigenum var. alpigenum (Fuckel) Sacc. VARIETY
-=======
+# Lophiostoma alpigenum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 157 (1890)
 
 #### Original name
-Lophiotrema alpigenum var. alpigenum (Fuckel) Sacc.
+Lophiostoma alpigenum Fuckel, 1870
 
 ### Remarks
 null

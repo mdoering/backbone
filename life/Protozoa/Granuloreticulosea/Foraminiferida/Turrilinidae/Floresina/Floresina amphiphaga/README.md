@@ -1,5 +1,4 @@
-Floresina amphiphaga Hallock & Talge, 1994 SPECIES
-=======
+# Floresina amphiphaga Hallock & Talge, 1994 SPECIES
 
 #### Status
 ACCEPTED

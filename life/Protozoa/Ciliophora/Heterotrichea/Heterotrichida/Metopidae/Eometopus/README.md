@@ -1,5 +1,4 @@
-Eometopus Small & Lynn, 1985 GENUS
-=======
+# Eometopus Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

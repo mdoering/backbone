@@ -1,5 +1,4 @@
-Polyporus armenicolor Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus armenicolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

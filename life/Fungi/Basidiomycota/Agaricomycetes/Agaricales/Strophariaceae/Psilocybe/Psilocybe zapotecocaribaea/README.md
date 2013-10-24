@@ -1,5 +1,4 @@
-Psilocybe zapotecocaribaea Guzmán, Ram.-Guill. & T.J. Baroni SPECIES
-=======
+# Psilocybe zapotecocaribaea Guzmán, Ram.-Guill. & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

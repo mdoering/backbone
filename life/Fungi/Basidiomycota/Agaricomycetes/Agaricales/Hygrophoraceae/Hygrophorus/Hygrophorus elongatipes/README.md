@@ -1,5 +1,4 @@
-Hygrophorus elongatipes (Peck) A.H. Sm. SPECIES
-=======
+# Hygrophorus elongatipes (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

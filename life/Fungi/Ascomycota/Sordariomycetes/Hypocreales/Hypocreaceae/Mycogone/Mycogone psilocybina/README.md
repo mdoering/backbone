@@ -1,5 +1,4 @@
-Mycogone psilocybina Morgan-Jones & D.J. Gray, 1979 SPECIES
-=======
+# Mycogone psilocybina Morgan-Jones & D.J. Gray, 1979 SPECIES
 
 #### Status
 ACCEPTED

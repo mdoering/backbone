@@ -1,17 +1,16 @@
-Microsphaera hypophylla var. kazachstanica Schwarzman VARIETY
-=======
+# Erysiphe hypophylla (Nevod.) U. Braun & Cunningt., 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Braun, Cunnington, Brielmaier-Liebetanz, Alé-Agha & Heluta, Schlechtendalia 10: 92 (2003)
 
 #### Original name
-Microsphaera hypophylla var. kazachstanica Schwarzman
+Microsphaera hypophylla Nevod., 1952
 
 ### Remarks
 null

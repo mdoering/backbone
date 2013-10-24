@@ -1,5 +1,4 @@
-Berkleasmium taishanense G.Z. Zhao & T.Y. Zhang, 2004 SPECIES
-=======
+# Berkleasmium taishanense G.Z. Zhao & T.Y. Zhang, 2004 SPECIES
 
 #### Status
 ACCEPTED

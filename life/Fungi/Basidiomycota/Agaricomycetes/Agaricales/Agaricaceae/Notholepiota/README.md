@@ -1,5 +1,4 @@
-Notholepiota E. Horak GENUS
-=======
+# Notholepiota E. Horak GENUS
 
 #### Status
 ACCEPTED

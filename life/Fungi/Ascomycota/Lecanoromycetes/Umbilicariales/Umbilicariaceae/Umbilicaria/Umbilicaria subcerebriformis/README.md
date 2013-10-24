@@ -1,5 +1,4 @@
-Umbilicaria subcerebriformis C.W. Dodge SPECIES
-=======
+# Umbilicaria subcerebriformis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

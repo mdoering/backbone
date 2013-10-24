@@ -1,5 +1,4 @@
-Cleistonium ligusticum De Not. SPECIES
-=======
+# Cleistonium ligusticum De Not. SPECIES
 
 #### Status
 ACCEPTED

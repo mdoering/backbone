@@ -1,5 +1,4 @@
-Coniosporium smilacis Gonz. Frag. SPECIES
-=======
+# Coniosporium smilacis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

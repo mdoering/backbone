@@ -1,5 +1,4 @@
-Cortinarius propinquus Eyssart. & Bidaud SPECIES
-=======
+# Cortinarius propinquus Eyssart. & Bidaud SPECIES
 
 #### Status
 ACCEPTED

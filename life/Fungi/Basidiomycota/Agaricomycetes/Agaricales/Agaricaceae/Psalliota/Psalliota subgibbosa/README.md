@@ -1,5 +1,4 @@
-Psalliota subgibbosa (Fr.) SPECIES
-=======
+# Psalliota subgibbosa (Fr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora cepae (Preuss) Sacc. SPECIES
-=======
+# Pleospora cepae (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

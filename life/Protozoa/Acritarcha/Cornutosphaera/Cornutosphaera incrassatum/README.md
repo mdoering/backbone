@@ -1,5 +1,4 @@
-Cornutosphaera incrassatum Zhong Guofang, 1987 SPECIES
-=======
+# Cornutosphaera incrassatum Zhong Guofang, 1987 SPECIES
 
 #### Status
 ACCEPTED

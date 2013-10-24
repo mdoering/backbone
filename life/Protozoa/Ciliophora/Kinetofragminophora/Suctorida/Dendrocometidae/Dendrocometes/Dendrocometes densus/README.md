@@ -1,5 +1,4 @@
-Dendrocometes densus Swarczewsky, 1928 SPECIES
-=======
+# Dendrocometes densus Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

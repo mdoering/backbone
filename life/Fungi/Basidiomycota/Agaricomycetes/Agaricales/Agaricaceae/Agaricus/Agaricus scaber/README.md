@@ -1,5 +1,4 @@
-Agaricus scaber var. scaber O.F. Müll. VARIETY
-=======
+# Agaricus scaber Sowerby SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Col. fig. Engl. Fung. Mushr. 2: 87, pl. 207 (1799)
 
 #### Original name
-Agaricus scaber var. scaber O.F. Müll.
+Agaricus scaber Sowerby
 
 ### Remarks
 null

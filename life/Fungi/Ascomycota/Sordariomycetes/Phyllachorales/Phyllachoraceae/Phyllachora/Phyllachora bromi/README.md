@@ -1,5 +1,4 @@
-Phyllachora bromi var. bromi VARIETY
-=======
+# Phyllachora bromi SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 217 (1870)
+null
 
 #### Original name
-Phyllachora bromi var. bromi
+null
 
 ### Remarks
 null

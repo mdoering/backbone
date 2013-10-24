@@ -1,5 +1,4 @@
-Ophiobolus compar P. Karst. SPECIES
-=======
+# Ophiobolus compar P. Karst. SPECIES
 
 #### Status
 ACCEPTED

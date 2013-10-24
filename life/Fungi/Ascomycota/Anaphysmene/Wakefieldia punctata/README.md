@@ -1,5 +1,4 @@
-Wakefieldia punctata G. Arnaud SPECIES
-=======
+# Wakefieldia punctata G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

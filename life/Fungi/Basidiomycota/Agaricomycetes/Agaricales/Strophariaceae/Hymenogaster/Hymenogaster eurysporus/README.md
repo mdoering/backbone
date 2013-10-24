@@ -1,5 +1,4 @@
-Hymenogaster eurysporus Soehner SPECIES
-=======
+# Hymenogaster eurysporus Soehner SPECIES
 
 #### Status
 ACCEPTED

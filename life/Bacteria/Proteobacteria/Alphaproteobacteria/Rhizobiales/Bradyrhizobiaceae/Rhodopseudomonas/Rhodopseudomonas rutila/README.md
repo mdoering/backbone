@@ -1,5 +1,4 @@
-Rhodopseudomonas rutila Akiba et al., 1983 SPECIES
-=======
+# Rhodopseudomonas rutila Akiba et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

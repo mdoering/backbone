@@ -1,5 +1,4 @@
-Ramularia doronicella Ferraris SPECIES
-=======
+# Ramularia doronicella Ferraris SPECIES
 
 #### Status
 ACCEPTED

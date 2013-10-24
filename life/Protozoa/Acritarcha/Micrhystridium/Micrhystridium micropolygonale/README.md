@@ -1,5 +1,4 @@
-Micrhystridium micropolygonale Stockmans & Willière, 1960 SPECIES
-=======
+# Micrhystridium micropolygonale Stockmans & Willière, 1960 SPECIES
 
 #### Status
 ACCEPTED

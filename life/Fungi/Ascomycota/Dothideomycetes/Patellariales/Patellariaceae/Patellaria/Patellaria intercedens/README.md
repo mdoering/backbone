@@ -1,5 +1,4 @@
-Patellaria intercedens Müll. Arg. SPECIES
-=======
+# Patellaria intercedens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

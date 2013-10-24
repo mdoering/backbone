@@ -1,5 +1,4 @@
-Proboveria loripedis Chatton & Lwoff, 1936 SPECIES
-=======
+# Proboveria loripedis Chatton & Lwoff, 1936 SPECIES
 
 #### Status
 ACCEPTED

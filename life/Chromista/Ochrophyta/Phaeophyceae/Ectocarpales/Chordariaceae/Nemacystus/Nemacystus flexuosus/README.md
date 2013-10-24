@@ -1,8 +1,7 @@
-Nemacystus ramulosus Derbès & Solier SPECIES
-=======
+# Nemacystus flexuosus (C. Agardh) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Coleosporium phlomidis Z.M. Cao & Z.Qi Li SPECIES
-=======
+# Coleosporium phlomidis Z.M. Cao & Z.Qi Li SPECIES
 
 #### Status
 ACCEPTED

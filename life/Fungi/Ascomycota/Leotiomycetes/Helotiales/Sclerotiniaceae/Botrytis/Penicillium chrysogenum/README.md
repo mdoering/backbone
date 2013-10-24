@@ -1,8 +1,7 @@
-Penicillium dipodomyis (Frisvad, Filt. & Wicklow) Banke, Frisvad & S. Rosend., 1997 SPECIES
-=======
+# Penicillium chrysogenum Thom, 1910 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

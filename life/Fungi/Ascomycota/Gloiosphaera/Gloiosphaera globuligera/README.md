@@ -1,5 +1,4 @@
-Gloiosphaera globuligera Höhn., 1902 SPECIES
-=======
+# Gloiosphaera globuligera Höhn., 1902 SPECIES
 
 #### Status
 ACCEPTED

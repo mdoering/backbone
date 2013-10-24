@@ -1,5 +1,4 @@
-Biscutum hattneri S.W. Wise SPECIES
-=======
+# Biscutum hattneri S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

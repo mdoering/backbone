@@ -1,5 +1,4 @@
-Striglia velutina (Ces.) Kuntze SPECIES
-=======
+# Striglia velutina (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

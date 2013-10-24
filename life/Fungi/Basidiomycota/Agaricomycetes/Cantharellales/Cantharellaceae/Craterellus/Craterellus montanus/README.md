@@ -1,5 +1,4 @@
-Craterellus montanus Velen. SPECIES
-=======
+# Craterellus montanus Velen. SPECIES
 
 #### Status
 ACCEPTED

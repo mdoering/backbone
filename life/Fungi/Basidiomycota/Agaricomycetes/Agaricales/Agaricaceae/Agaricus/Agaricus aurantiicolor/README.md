@@ -1,5 +1,4 @@
-Agaricus aurantiicolor Krombh. SPECIES
-=======
+# Agaricus aurantiicolor Krombh. SPECIES
 
 #### Status
 ACCEPTED

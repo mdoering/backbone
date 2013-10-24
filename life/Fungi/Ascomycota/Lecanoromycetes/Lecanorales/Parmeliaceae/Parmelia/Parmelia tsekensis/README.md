@@ -1,5 +1,4 @@
-Parmelia tsekensis (Hale) Brusse SPECIES
-=======
+# Parmelia tsekensis (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

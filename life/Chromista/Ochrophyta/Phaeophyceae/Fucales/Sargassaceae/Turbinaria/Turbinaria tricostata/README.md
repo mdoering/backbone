@@ -1,5 +1,4 @@
-Turbinaria tricostata var. weberae Barton VARIETY
-=======
+# Turbinaria tricostata E.S.Barton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphosphaera cylindrica Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera cylindrica Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

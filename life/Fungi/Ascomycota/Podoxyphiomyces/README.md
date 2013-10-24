@@ -1,5 +1,4 @@
-Podoxyphiomyces Bat., Valle & Peres GENUS
-=======
+# Podoxyphiomyces Bat., Valle & Peres GENUS
 
 #### Status
 ACCEPTED

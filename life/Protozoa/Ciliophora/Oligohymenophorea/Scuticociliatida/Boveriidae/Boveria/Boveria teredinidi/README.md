@@ -1,5 +1,4 @@
-Boveria teredinidi Pickard, 1927 SPECIES
-=======
+# Boveria teredinidi Pickard, 1927 SPECIES
 
 #### Status
 ACCEPTED

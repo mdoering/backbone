@@ -1,5 +1,4 @@
-Clitocybe gibboides (Raithelh.) Raithelh. SPECIES
-=======
+# Clitocybe gibboides (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

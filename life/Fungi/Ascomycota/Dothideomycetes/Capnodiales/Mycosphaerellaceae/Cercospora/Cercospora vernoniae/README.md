@@ -1,5 +1,4 @@
-Cercospora vernoniae Ellis & Kellerm. SPECIES
-=======
+# Cercospora vernoniae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

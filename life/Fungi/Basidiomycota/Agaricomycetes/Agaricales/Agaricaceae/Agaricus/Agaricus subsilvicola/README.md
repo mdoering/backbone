@@ -1,5 +1,4 @@
-Agaricus subsilvicola Murrill SPECIES
-=======
+# Agaricus subsilvicola Murrill SPECIES
 
 #### Status
 ACCEPTED

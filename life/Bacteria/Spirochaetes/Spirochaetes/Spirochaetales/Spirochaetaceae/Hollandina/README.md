@@ -1,5 +1,4 @@
-Hollandina (ex To et al., 1978) Bermudes et al., 1988 GENUS
-=======
+# Hollandina (ex To et al., 1978) Bermudes et al., 1988 GENUS
 
 #### Status
 ACCEPTED

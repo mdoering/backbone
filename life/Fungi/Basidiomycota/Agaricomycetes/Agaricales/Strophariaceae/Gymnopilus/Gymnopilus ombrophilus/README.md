@@ -1,5 +1,4 @@
-Gymnopilus ombrophilus Miyauchi SPECIES
-=======
+# Gymnopilus ombrophilus Miyauchi SPECIES
 
 #### Status
 ACCEPTED

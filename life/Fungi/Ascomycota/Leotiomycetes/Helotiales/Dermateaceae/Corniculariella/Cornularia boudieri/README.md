@@ -1,5 +1,4 @@
-Cornularia boudieri (Richon) Sacc. SPECIES
-=======
+# Cornularia boudieri (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monotospora ovata Sacc. SPECIES
-=======
+# Monotospora ovata Sacc. SPECIES
 
 #### Status
 ACCEPTED

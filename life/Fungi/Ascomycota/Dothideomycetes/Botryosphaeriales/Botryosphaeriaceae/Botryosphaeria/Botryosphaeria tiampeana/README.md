@@ -1,5 +1,4 @@
-Botryosphaeria tiampeana Racib. SPECIES
-=======
+# Botryosphaeria tiampeana Racib. SPECIES
 
 #### Status
 ACCEPTED

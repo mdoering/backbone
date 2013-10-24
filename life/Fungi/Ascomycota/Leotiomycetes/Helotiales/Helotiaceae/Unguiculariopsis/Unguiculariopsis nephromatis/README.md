@@ -1,17 +1,16 @@
-Unguiculariopsis nephromae Zhurb. & Zavarzin SPECIES
-=======
+# Unguiculariopsis nephromatis Zhurb. & Zavarzin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikol. Fitopatol. 41(2): 126 (2007)
 
 #### Original name
-Unguiculariopsis nephromae Zhurb. & Zavarzin
+Unguiculariopsis nephromatis Zhurb. & Zavarzin
 
 ### Remarks
 null

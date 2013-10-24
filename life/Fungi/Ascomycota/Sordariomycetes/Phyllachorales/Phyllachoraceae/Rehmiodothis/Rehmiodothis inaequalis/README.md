@@ -1,14 +1,13 @@
-Placostroma inaequale (Cooke) Theiss. & Syd., 1915 SPECIES
-=======
+# Rehmiodothis inaequalis (Cooke) H.J. Swart, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 407 (1915)
+Trans. Br. mycol. Soc. 89(4): 487 (1987)
 
 #### Original name
 Dothidella inaequalis Cooke, 1891

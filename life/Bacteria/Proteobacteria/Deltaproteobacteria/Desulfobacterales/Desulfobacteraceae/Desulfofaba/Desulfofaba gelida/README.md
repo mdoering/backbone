@@ -1,5 +1,4 @@
-Desulfofaba gelida Knoblauch et al., 1999 SPECIES
-=======
+# Desulfofaba gelida Knoblauch et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

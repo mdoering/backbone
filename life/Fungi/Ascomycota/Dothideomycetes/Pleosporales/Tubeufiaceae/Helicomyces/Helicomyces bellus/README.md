@@ -1,5 +1,4 @@
-Helicomyces bellus Morgan, 1892 SPECIES
-=======
+# Helicomyces bellus Morgan, 1892 SPECIES
 
 #### Status
 ACCEPTED

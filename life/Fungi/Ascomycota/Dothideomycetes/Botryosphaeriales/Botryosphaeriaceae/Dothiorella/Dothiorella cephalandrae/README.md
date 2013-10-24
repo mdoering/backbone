@@ -1,5 +1,4 @@
-Dothiorella cephalandrae S. Ahmad SPECIES
-=======
+# Dothiorella cephalandrae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

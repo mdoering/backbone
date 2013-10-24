@@ -1,14 +1,13 @@
-Puccinella muehlenbergiae (S. Ito) Syd. SPECIES
-=======
+# Puccinella muhlenbergiae (S. Ito) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20(3): 123 (1922)
 
 #### Original name
 Uromyces muhlenbergiae S. Ito

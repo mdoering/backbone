@@ -1,5 +1,4 @@
-Mycosphaerella actinidiae Syd. & Hara SPECIES
-=======
+# Mycosphaerella actinidiae Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED

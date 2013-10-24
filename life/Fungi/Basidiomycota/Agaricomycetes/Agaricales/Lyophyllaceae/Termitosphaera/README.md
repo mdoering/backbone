@@ -1,5 +1,4 @@
-Termitosphaera Ciferri, 1935 GENUS
-=======
+# Termitosphaera Ciferri, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protothelenella pluriseptata Fryday SPECIES
-=======
+# Protothelenella pluriseptata Fryday SPECIES
 
 #### Status
 ACCEPTED

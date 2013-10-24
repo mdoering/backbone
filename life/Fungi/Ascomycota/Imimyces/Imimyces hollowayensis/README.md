@@ -1,5 +1,4 @@
-Imimyces hollowayensis A. Hern. Gut. & B. Sutton, 1997 SPECIES
-=======
+# Imimyces hollowayensis A. Hern. Gut. & B. Sutton, 1997 SPECIES
 
 #### Status
 ACCEPTED

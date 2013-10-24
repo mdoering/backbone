@@ -1,5 +1,4 @@
-Henriquesia ochlandrae Petch SPECIES
-=======
+# Henriquesia ochlandrae Petch SPECIES
 
 #### Status
 ACCEPTED

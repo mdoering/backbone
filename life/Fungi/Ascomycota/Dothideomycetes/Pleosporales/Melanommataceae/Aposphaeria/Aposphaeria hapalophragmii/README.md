@@ -1,5 +1,4 @@
-Aposphaeria hapalophragmii Trotter SPECIES
-=======
+# Aposphaeria hapalophragmii Trotter SPECIES
 
 #### Status
 ACCEPTED

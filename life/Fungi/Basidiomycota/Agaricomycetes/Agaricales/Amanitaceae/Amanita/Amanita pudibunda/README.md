@@ -1,5 +1,4 @@
-Amanita pudibunda R. Heim SPECIES
-=======
+# Amanita pudibunda R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium bdellamorphum Speg. SPECIES
-=======
+# Helminthosporium bdellamorphum Speg. SPECIES
 
 #### Status
 ACCEPTED

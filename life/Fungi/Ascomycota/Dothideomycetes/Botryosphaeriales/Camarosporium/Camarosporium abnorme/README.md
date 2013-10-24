@@ -1,5 +1,4 @@
-Camarosporium abnorme (Peck) Sacc. SPECIES
-=======
+# Camarosporium abnorme (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps rhynchelytri Herd & Loveless SPECIES
-=======
+# Claviceps rhynchelytri Herd & Loveless SPECIES
 
 #### Status
 ACCEPTED

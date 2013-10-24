@@ -1,5 +1,4 @@
-Smittium gravimetallum Ferrington, Lichtw. & Hayford, 2000 SPECIES
-=======
+# Smittium gravimetallum Ferrington, Lichtw. & Hayford, 2000 SPECIES
 
 #### Status
 ACCEPTED

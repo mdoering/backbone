@@ -1,5 +1,4 @@
-Valsella pulcherrima (Ellis & Everh.) Berl. SPECIES
-=======
+# Valsella pulcherrima (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ophiostoma moniliforme f. moniliforme FORM
-=======
+# Ceratocystis moniliformis (Hedgc.) C. Moreau, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
 
 #### Original name
-Ophiostoma moniliforme f. moniliforme
+Ceratostomella moniliformis Hedgc., 1907
 
 ### Remarks
 null

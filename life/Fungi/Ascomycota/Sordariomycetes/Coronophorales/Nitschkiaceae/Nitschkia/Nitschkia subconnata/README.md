@@ -1,14 +1,13 @@
-Nitschkea subconnata (Sacc.) Kuntze SPECIES
-=======
+# Nitschkia subconnata (Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 501 (1898)
 
 #### Original name
 Coelosphaeria subconnata Sacc.

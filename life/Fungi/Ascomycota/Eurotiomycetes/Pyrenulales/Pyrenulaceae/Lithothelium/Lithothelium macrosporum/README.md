@@ -1,5 +1,4 @@
-Lithothelium macrosporum (R.C. Harris) Aptroot SPECIES
-=======
+# Lithothelium macrosporum (R.C. Harris) Aptroot SPECIES
 
 #### Status
 ACCEPTED

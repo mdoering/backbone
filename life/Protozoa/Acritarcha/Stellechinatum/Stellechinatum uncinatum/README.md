@@ -1,5 +1,4 @@
-Stellechinatum uncinatum (Downie, 1958) Molyneux, 1987 SPECIES
-=======
+# Stellechinatum uncinatum (Downie, 1958) Molyneux, 1987 SPECIES
 
 #### Status
 ACCEPTED

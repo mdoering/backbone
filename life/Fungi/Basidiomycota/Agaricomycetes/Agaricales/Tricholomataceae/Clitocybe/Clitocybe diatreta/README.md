@@ -1,14 +1,13 @@
-Agaricus diatretus Fr., 1818 SPECIES
-=======
+# Clitocybe diatreta (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 200 (1818)
+Führ. Pilzk. (Zwickau) 121 (1871)
 
 #### Original name
 Agaricus diatretus Fr., 1818

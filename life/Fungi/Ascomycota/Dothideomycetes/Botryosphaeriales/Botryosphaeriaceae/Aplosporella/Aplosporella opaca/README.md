@@ -1,5 +1,4 @@
-Aplosporella opaca (Cooke & Ellis) Sacc. SPECIES
-=======
+# Aplosporella opaca (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

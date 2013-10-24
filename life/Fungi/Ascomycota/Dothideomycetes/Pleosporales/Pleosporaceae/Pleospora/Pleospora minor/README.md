@@ -1,5 +1,4 @@
-Pleospora minor Wehm. SPECIES
-=======
+# Pleospora minor Wehm. SPECIES
 
 #### Status
 ACCEPTED

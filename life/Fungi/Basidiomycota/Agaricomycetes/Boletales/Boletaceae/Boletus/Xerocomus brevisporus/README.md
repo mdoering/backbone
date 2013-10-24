@@ -1,5 +1,4 @@
-Xerocomus brevisporus Heinem. SPECIES
-=======
+# Xerocomus brevisporus Heinem. SPECIES
 
 #### Status
 ACCEPTED

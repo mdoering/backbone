@@ -1,5 +1,4 @@
-Verrucaria maurula Müll. Arg. SPECIES
-=======
+# Verrucaria maurula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

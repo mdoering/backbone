@@ -1,5 +1,4 @@
-Enchelyodon elongatus Claparède & Lachmann, 1859 SPECIES
-=======
+# Enchelyodon elongatus Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

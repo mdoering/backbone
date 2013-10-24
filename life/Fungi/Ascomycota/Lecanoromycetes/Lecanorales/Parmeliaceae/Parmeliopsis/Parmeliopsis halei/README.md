@@ -1,5 +1,4 @@
-Parmeliopsis halei (Tuck.) Hale SPECIES
-=======
+# Parmeliopsis halei (Tuck.) Hale SPECIES
 
 #### Status
 ACCEPTED

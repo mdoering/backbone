@@ -1,5 +1,4 @@
-Ustilago muelleriana Thüm. SPECIES
-=======
+# Ustilago muelleriana Thüm. SPECIES
 
 #### Status
 ACCEPTED

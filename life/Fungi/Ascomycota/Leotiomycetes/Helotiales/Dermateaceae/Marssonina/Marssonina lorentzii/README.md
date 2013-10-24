@@ -1,5 +1,4 @@
-Marssonina lorentzii (Speg.) Magnus SPECIES
-=======
+# Marssonina lorentzii (Speg.) Magnus SPECIES
 
 #### Status
 ACCEPTED

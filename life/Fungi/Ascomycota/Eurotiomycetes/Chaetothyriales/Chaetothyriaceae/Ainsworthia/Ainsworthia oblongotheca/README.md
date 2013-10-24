@@ -1,5 +1,4 @@
-Ainsworthia oblongotheca A.A. Silva SPECIES
-=======
+# Ainsworthia oblongotheca A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

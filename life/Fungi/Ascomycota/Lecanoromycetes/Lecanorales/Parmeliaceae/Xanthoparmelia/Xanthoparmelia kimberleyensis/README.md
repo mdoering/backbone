@@ -1,5 +1,4 @@
-Xanthoparmelia kimberleyensis Elix SPECIES
-=======
+# Xanthoparmelia kimberleyensis Elix SPECIES
 
 #### Status
 ACCEPTED

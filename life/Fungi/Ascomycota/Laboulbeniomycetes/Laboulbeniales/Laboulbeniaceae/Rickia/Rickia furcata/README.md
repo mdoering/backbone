@@ -1,5 +1,4 @@
-Rickia furcata Thaxt. SPECIES
-=======
+# Rickia furcata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

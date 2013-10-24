@@ -1,5 +1,4 @@
-Leptogium olivaceum var. olivaceum VARIETY
-=======
+# Leptogium olivaceum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Victorian Nat. 6: 62 (1889)
+null
 
 #### Original name
-Leptogium olivaceum var. olivaceum
+null
 
 ### Remarks
 null

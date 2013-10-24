@@ -1,5 +1,4 @@
-Amanita yucatanensis Guzmán SPECIES
-=======
+# Amanita yucatanensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

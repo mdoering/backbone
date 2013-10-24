@@ -1,5 +1,4 @@
-Penicillium variabile Sopp, 1912 SPECIES
-=======
+# Penicillium variabile Sopp, 1912 SPECIES
 
 #### Status
 ACCEPTED

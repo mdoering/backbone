@@ -1,5 +1,4 @@
-Sporormia mirabilis Breton & Faurel SPECIES
-=======
+# Sporormia mirabilis Breton & Faurel SPECIES
 
 #### Status
 ACCEPTED

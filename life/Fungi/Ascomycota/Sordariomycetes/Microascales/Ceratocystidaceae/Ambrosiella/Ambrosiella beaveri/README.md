@@ -1,5 +1,4 @@
-Ambrosiella beaveri Six, De Beer & W.D. Stone SPECIES
-=======
+# Ambrosiella beaveri Six, De Beer & W.D. Stone SPECIES
 
 #### Status
 ACCEPTED

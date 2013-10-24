@@ -1,5 +1,4 @@
-Zoothamnium flavicans SPECIES
-=======
+# Zoothamnium flavicans SPECIES
 
 #### Status
 ACCEPTED

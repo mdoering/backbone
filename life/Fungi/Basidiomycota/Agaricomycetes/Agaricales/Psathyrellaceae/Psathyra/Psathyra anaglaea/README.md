@@ -1,5 +1,4 @@
-Psathyra anaglaea Maire SPECIES
-=======
+# Psathyra anaglaea Maire SPECIES
 
 #### Status
 ACCEPTED

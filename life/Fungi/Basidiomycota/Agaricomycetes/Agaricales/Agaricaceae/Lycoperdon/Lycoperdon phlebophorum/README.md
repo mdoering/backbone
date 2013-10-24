@@ -1,5 +1,4 @@
-Lycoperdon phlebophorum Berk. & Broome SPECIES
-=======
+# Lycoperdon phlebophorum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

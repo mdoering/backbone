@@ -1,17 +1,16 @@
-Ramularia geranii-silvatica Vestergr. SPECIES
-=======
+# Ramularia geranii-silvatici Vestergr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Notiser 163 (1899)
 
 #### Original name
-Ramularia geranii-silvatica Vestergr.
+Ramularia geranii-silvatici Vestergr.
 
 ### Remarks
 null

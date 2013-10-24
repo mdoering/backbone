@@ -1,5 +1,4 @@
-Caloplaca agrata (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca agrata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

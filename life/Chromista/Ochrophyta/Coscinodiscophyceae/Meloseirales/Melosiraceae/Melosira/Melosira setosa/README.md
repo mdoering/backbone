@@ -1,5 +1,4 @@
-Melosira setosa Grev., 1866 SPECIES
-=======
+# Melosira setosa Grev., 1866 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subulicystidium naviculatum Oberw., 1977 SPECIES
-=======
+# Subulicystidium naviculatum Oberw., 1977 SPECIES
 
 #### Status
 ACCEPTED

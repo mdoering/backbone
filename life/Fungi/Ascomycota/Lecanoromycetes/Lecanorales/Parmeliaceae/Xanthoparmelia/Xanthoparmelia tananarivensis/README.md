@@ -1,5 +1,4 @@
-Xanthoparmelia tananarivensis (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia tananarivensis (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus brunneoadhaerens Cleland & Rodway SPECIES
-=======
+# Polyporus brunneoadhaerens Cleland & Rodway SPECIES
 
 #### Status
 ACCEPTED

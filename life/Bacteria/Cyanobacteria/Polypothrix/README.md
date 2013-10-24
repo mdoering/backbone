@@ -1,5 +1,4 @@
-Polypothrix GENUS
-=======
+# Polypothrix GENUS
 
 #### Status
 ACCEPTED

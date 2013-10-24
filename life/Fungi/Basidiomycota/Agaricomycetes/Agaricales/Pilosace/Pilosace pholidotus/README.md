@@ -1,5 +1,4 @@
-Pilosace pholidotus (Mont.) Kuntze SPECIES
-=======
+# Pilosace pholidotus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

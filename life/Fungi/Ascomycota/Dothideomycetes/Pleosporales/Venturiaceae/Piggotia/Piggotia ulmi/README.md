@@ -1,14 +1,13 @@
-Asteroma ulmi Grev., 1824 SPECIES
-=======
+# Piggotia ulmi (Grev.) Keissl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Edin. 368 (1824)
+null
 
 #### Original name
 Asteroma ulmi Grev., 1824

@@ -1,5 +1,4 @@
-Inocybe sericeopoda Furrer-Ziogas SPECIES
-=======
+# Inocybe sericeopoda Furrer-Ziogas SPECIES
 
 #### Status
 ACCEPTED

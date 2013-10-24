@@ -1,5 +1,4 @@
-Psathyrella pruinosipes A.H. Sm. SPECIES
-=======
+# Psathyrella pruinosipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

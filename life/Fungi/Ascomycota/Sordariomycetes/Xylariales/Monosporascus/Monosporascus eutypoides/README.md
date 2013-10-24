@@ -1,14 +1,13 @@
-Rechingeriella eutypoides Petr., 1954 SPECIES
-=======
+# Monosporascus eutypoides (Petr.) Arx, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 8: 170 (1954)
+Kavaka 3: 34 (1976)
 
 #### Original name
 Rechingeriella eutypoides Petr., 1954

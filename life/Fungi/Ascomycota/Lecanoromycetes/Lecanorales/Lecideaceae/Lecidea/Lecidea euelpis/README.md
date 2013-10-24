@@ -1,5 +1,4 @@
-Lecidea euelpis (Stizenb.) Hue SPECIES
-=======
+# Lecidea euelpis (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

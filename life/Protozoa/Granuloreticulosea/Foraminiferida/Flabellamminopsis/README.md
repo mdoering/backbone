@@ -1,5 +1,4 @@
-Flabellamminopsis Matecki, 1953 GENUS
-=======
+# Flabellamminopsis Matecki, 1953 GENUS
 
 #### Status
 ACCEPTED

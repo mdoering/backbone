@@ -1,5 +1,4 @@
-Psilocybe subtropicalis Guzmán SPECIES
-=======
+# Psilocybe subtropicalis Guzmán SPECIES
 
 #### Status
 ACCEPTED

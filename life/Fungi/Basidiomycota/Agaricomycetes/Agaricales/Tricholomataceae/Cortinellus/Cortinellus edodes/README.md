@@ -1,5 +1,4 @@
-Cortinellus edodes SPECIES
-=======
+# Cortinellus edodes SPECIES
 
 #### Status
 ACCEPTED

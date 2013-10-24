@@ -1,5 +1,4 @@
-Gyrophora parvula (Hue) SPECIES
-=======
+# Gyrophora parvula (Hue) SPECIES
 
 #### Status
 ACCEPTED

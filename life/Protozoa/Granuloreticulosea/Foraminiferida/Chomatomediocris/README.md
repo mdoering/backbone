@@ -1,5 +1,4 @@
-Chomatomediocris Vdovenko in Brazhnikova & Vdovenko, 1973 GENUS
-=======
+# Chomatomediocris Vdovenko in Brazhnikova & Vdovenko, 1973 GENUS
 
 #### Status
 ACCEPTED

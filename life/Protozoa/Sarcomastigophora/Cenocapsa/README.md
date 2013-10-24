@@ -1,5 +1,4 @@
-Cenocapsa Haeckel, 1887 GENUS
-=======
+# Cenocapsa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

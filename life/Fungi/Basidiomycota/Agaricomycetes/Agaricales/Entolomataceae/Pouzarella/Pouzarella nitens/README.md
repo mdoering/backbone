@@ -1,5 +1,4 @@
-Pouzarella nitens T.J. Baroni & Cantrell SPECIES
-=======
+# Pouzarella nitens T.J. Baroni & Cantrell SPECIES
 
 #### Status
 ACCEPTED

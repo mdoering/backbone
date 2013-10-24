@@ -1,5 +1,4 @@
-Pseudokeronopsis quindaoensis SPECIES
-=======
+# Pseudokeronopsis quindaoensis SPECIES
 
 #### Status
 ACCEPTED

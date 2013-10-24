@@ -1,5 +1,4 @@
-Dictyosporites tirumalacharii (Ramanujam & Ramachar) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites tirumalacharii (Ramanujam & Ramachar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

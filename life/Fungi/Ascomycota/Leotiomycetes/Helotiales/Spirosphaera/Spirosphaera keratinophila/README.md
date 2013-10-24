@@ -1,5 +1,4 @@
-Spirosphaera keratinophila Udagawa & Uchiy., 1999 SPECIES
-=======
+# Spirosphaera keratinophila Udagawa & Uchiy., 1999 SPECIES
 
 #### Status
 ACCEPTED

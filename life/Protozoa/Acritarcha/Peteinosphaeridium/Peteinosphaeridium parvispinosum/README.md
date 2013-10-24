@@ -1,5 +1,4 @@
-Peteinosphaeridium parvispinosum Uutela, 1989 SPECIES
-=======
+# Peteinosphaeridium parvispinosum Uutela, 1989 SPECIES
 
 #### Status
 ACCEPTED

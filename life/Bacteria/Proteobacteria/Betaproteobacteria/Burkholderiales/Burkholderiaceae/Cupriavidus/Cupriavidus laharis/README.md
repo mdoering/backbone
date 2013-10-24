@@ -1,5 +1,4 @@
-Cupriavidus laharis Sato et al., 2006 SPECIES
-=======
+# Cupriavidus laharis Sato et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

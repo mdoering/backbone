@@ -1,5 +1,4 @@
-Schistostoma Stirton, 1878 GENUS
-=======
+# Schistostoma Stirton, 1878 GENUS
 
 #### Status
 ACCEPTED

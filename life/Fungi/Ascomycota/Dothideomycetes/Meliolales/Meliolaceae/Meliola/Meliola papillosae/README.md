@@ -1,5 +1,4 @@
-Meliola papillosae Bat. & H. Maia SPECIES
-=======
+# Meliola papillosae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

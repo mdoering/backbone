@@ -1,17 +1,16 @@
-Sporidesmium scutellare var. tumulosum Sacc. VARIETY
-=======
+# Trimmatostroma scutellare (Berk. & Broome) M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Dematiaceous Hyphomycetes (Kew) 28 (1976)
 
 #### Original name
-Sporidesmium scutellare var. tumulosum Sacc.
+Sporidesmium scutellare Berk. & Broome, 1850
 
 ### Remarks
 null

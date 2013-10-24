@@ -1,14 +1,13 @@
-Physalospora perversa var. uleana Rehm, 1901 VARIETY
-=======
+# Phyllachora accedens Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 113 (1901)
+Annls mycol. 13(5/6): 478 (1915)
 
 #### Original name
 Physalospora perversa var. uleana Rehm, 1901

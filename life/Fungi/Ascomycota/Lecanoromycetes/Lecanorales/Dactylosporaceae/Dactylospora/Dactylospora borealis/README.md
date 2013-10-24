@@ -1,5 +1,4 @@
-Dactylospora borealis Holien & Ihlen SPECIES
-=======
+# Dactylospora borealis Holien & Ihlen SPECIES
 
 #### Status
 ACCEPTED

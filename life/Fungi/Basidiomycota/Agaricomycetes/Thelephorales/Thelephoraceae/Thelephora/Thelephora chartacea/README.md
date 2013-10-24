@@ -1,5 +1,4 @@
-Thelephora chartacea G. Mey. SPECIES
-=======
+# Thelephora chartacea G. Mey. SPECIES
 
 #### Status
 ACCEPTED

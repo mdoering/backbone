@@ -1,5 +1,4 @@
-Stictis quadrinucleata Sherwood SPECIES
-=======
+# Stictis quadrinucleata Sherwood SPECIES
 
 #### Status
 ACCEPTED

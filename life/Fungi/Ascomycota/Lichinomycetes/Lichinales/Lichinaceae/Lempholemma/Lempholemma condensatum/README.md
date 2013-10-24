@@ -1,5 +1,4 @@
-Lempholemma condensatum (Arnold) Zahlbr. SPECIES
-=======
+# Lempholemma condensatum (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

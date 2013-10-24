@@ -1,5 +1,4 @@
-Verrucaria cassiae Spreng. SPECIES
-=======
+# Verrucaria cassiae Spreng. SPECIES
 
 #### Status
 ACCEPTED

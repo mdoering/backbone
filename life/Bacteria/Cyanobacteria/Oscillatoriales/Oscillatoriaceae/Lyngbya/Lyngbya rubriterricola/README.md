@@ -1,5 +1,4 @@
-Lyngbya rubriterricola (N. L. Gardner) P. A. C. Senna SPECIES
-=======
+# Lyngbya rubriterricola (N. L. Gardner) P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

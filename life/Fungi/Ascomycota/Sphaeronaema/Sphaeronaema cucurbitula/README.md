@@ -1,5 +1,4 @@
-Sphaeronaema cucurbitula Ces. SPECIES
-=======
+# Sphaeronaema cucurbitula Ces. SPECIES
 
 #### Status
 ACCEPTED

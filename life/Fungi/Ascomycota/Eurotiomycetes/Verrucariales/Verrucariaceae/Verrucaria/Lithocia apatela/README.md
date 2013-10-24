@@ -1,5 +1,4 @@
-Lithocia apatela A. Massal. SPECIES
-=======
+# Lithocia apatela A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylohyphites Kalgutkar & Sigler GENUS
-=======
+# Xylohyphites Kalgutkar & Sigler GENUS
 
 #### Status
 ACCEPTED

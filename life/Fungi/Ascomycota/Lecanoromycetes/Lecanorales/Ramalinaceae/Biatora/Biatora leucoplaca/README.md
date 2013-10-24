@@ -1,5 +1,4 @@
-Biatora leucoplaca (DC.) Hepp SPECIES
-=======
+# Biatora leucoplaca (DC.) Hepp SPECIES
 
 #### Status
 ACCEPTED

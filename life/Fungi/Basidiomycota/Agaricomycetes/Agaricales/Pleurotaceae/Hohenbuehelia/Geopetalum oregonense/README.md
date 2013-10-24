@@ -1,5 +1,4 @@
-Geopetalum oregonense Murrill SPECIES
-=======
+# Geopetalum oregonense Murrill SPECIES
 
 #### Status
 ACCEPTED

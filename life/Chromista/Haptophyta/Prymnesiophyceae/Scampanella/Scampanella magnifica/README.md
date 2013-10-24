@@ -1,5 +1,4 @@
-Scampanella magnifica K. Perch-Nielsen SPECIES
-=======
+# Scampanella magnifica K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

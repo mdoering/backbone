@@ -1,5 +1,4 @@
-Elaphomyces fragilisporus S. Imai SPECIES
-=======
+# Elaphomyces fragilisporus S. Imai SPECIES
 
 #### Status
 ACCEPTED

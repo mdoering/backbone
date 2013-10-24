@@ -1,5 +1,4 @@
-Phialea queletii Sacc. & Traverso SPECIES
-=======
+# Phialea queletii Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

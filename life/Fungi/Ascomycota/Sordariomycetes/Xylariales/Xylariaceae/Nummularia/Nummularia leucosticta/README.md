@@ -1,5 +1,4 @@
-Nummularia leucosticta Ellis & Morgan SPECIES
-=======
+# Nummularia leucosticta Ellis & Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chaetocladium benjaminii Embree, 1962 SPECIES
-=======
+# Piptocephalis benjaminii (Embree) R.K. Benj., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(3): 305 (1962)
+Aliso 5(3): 284 (1963)
 
 #### Original name
 Chaetocladium benjaminii Embree, 1962

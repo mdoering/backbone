@@ -1,5 +1,4 @@
-Helicosphaera mediterranea Muller, 1981 SPECIES
-=======
+# Helicosphaera mediterranea Muller, 1981 SPECIES
 
 #### Status
 ACCEPTED

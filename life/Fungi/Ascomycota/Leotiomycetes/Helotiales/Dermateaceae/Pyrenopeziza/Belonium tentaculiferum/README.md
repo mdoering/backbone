@@ -1,5 +1,4 @@
-Belonium tentaculiferum Velen. SPECIES
-=======
+# Belonium tentaculiferum Velen. SPECIES
 
 #### Status
 ACCEPTED

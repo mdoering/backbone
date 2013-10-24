@@ -1,5 +1,4 @@
-Exoascus mexicanus (Syd.) Jacz. SPECIES
-=======
+# Exoascus mexicanus (Syd.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

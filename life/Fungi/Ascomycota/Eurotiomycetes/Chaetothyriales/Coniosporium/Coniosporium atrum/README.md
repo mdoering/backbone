@@ -1,5 +1,4 @@
-Coniosporium atrum Schwein. SPECIES
-=======
+# Coniosporium atrum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dermea brunneo-pruinosa Zeller SPECIES
-=======
+# Pestalopezia brunneo-pruinosa (Zeller) Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

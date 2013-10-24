@@ -1,5 +1,4 @@
-Septoria silvicola Desm., 1859 SPECIES
-=======
+# Septoria silvicola Desm., 1859 SPECIES
 
 #### Status
 ACCEPTED

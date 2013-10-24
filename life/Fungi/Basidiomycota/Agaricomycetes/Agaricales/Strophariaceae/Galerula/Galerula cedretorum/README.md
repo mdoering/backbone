@@ -1,5 +1,4 @@
-Galerula cedretorum Maire SPECIES
-=======
+# Galerula cedretorum Maire SPECIES
 
 #### Status
 ACCEPTED

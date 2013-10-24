@@ -1,5 +1,4 @@
-Ammonidium microcladum (Downie, 1963) Lister, 1970 SPECIES
-=======
+# Ammonidium microcladum (Downie, 1963) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

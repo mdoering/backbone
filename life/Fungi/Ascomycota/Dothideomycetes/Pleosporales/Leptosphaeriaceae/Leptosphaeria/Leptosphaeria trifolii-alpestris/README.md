@@ -1,5 +1,4 @@
-Leptosphaeria trifolii-alpestris Dominik SPECIES
-=======
+# Leptosphaeria trifolii-alpestris Dominik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora moriformis Fuckel SPECIES
-=======
+# Teichospora moriformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

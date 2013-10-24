@@ -1,17 +1,16 @@
-Lecanora haywardiorum Lumbsch SPECIES
-=======
+# Lecanora melacarpella Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lumbsch et al. , Mycotaxon 45: 476 (1992)
+Bull. Herb. Boissier 3: 633 (1895)
 
 #### Original name
-Lecanora haywardiorum Lumbsch
+Lecanora melacarpella Müll. Arg.
 
 ### Remarks
 null

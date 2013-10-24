@@ -1,5 +1,4 @@
-Cladonia innominata Lendemer SPECIES
-=======
+# Cladonia innominata Lendemer SPECIES
 
 #### Status
 ACCEPTED

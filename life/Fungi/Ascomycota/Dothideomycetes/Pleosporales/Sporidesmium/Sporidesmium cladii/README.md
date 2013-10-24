@@ -1,5 +1,4 @@
-Sporidesmium cladii M.B. Ellis, 1958 SPECIES
-=======
+# Sporidesmium cladii M.B. Ellis, 1958 SPECIES
 
 #### Status
 ACCEPTED

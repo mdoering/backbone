@@ -1,5 +1,4 @@
-Epistylis arabica (Ehrenberg in, 1828) Ehrenberg, 1830 SPECIES
-=======
+# Epistylis arabica (Ehrenberg in, 1828) Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

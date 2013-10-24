@@ -1,5 +1,4 @@
-Reusella GENUS
-=======
+# Reusella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus bartholomaei Peck SPECIES
-=======
+# Polyporus bartholomaei Peck SPECIES
 
 #### Status
 ACCEPTED

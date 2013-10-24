@@ -1,5 +1,4 @@
-Phellopilus Niemelä, Wagner & Fischer, 2001 GENUS
-=======
+# Phellopilus Niemelä, Wagner & Fischer, 2001 GENUS
 
 #### Status
 ACCEPTED

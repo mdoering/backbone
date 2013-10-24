@@ -1,5 +1,4 @@
-Ochrobactrum oryzae Tripathi et al., 2006 SPECIES
-=======
+# Ochrobactrum oryzae Tripathi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla roripae Rehm SPECIES
-=======
+# Zignoëlla roripae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Crepidotus hepatizon (Berk.) Sacc., 1887 SPECIES
-=======
+# Pyrrhoglossum hepatizon (Berk.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 5: 474 (1951)
 
 #### Original name
 Agaricus hepatizon Berk., 1847

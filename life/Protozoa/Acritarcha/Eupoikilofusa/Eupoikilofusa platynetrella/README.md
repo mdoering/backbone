@@ -1,5 +1,4 @@
-Eupoikilofusa platynetrella Loeblich & Tappan, 1978 SPECIES
-=======
+# Eupoikilofusa platynetrella Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

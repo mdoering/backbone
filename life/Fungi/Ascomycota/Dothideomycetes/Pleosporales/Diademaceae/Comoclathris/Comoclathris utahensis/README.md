@@ -1,5 +1,4 @@
-Comoclathris utahensis (Ellis & Everh.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris utahensis (Ellis & Everh.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

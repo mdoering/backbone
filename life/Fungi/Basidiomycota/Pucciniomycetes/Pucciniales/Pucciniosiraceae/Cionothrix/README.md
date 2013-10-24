@@ -1,5 +1,4 @@
-Cionothrix Arthur GENUS
-=======
+# Cionothrix Arthur GENUS
 
 #### Status
 ACCEPTED

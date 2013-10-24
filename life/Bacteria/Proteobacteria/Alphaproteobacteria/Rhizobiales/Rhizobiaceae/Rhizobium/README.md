@@ -1,5 +1,4 @@
-Rhizobium GENUS
-=======
+# Rhizobium GENUS
 
 #### Status
 ACCEPTED

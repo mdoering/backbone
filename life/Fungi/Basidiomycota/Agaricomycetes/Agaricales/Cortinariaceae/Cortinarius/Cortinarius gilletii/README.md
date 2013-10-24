@@ -1,17 +1,16 @@
-Cortinarius gilleti Rob. Henry SPECIES
-=======
+# Cortinarius gilletii Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 97(3): 204 (1981)
 
 #### Original name
-Cortinarius gilleti Rob. Henry
+Cortinarius gilletii Rob. Henry
 
 ### Remarks
 null

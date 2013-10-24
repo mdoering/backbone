@@ -1,5 +1,4 @@
-Leptostroma affine Bubák SPECIES
-=======
+# Leptostroma affine Bubák SPECIES
 
 #### Status
 ACCEPTED

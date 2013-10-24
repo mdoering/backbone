@@ -1,5 +1,4 @@
-Cetraria formosana var. formosana VARIETY
-=======
+# Cetraria formosana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria formosana var. formosana
+Cetraria formosana Zahlbr.
 
 ### Remarks
 null

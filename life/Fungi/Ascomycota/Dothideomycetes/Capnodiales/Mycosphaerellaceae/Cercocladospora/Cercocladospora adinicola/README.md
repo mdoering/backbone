@@ -1,5 +1,4 @@
-Cercocladospora adinicola (A.K. Kar & M. Mandal) J.L. Mulder SPECIES
-=======
+# Cercocladospora adinicola (A.K. Kar & M. Mandal) J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

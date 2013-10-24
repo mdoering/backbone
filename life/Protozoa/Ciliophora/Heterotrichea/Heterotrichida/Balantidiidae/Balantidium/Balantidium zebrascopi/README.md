@@ -1,5 +1,4 @@
-Balantidium zebrascopi Grim, 1992 SPECIES
-=======
+# Balantidium zebrascopi Grim, 1992 SPECIES
 
 #### Status
 ACCEPTED

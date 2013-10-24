@@ -1,5 +1,4 @@
-Cyanonema Schopf GENUS
-=======
+# Cyanonema Schopf GENUS
 
 #### Status
 ACCEPTED

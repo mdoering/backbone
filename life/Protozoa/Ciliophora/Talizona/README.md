@@ -1,5 +1,4 @@
-Talizona Jankowski, 1981 GENUS
-=======
+# Talizona Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

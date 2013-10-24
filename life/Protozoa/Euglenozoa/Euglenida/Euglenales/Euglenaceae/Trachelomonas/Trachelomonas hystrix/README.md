@@ -1,5 +1,4 @@
-Trachelomonas hystrix var. truncata Matvienko VARIETY
-=======
+# Trachelomonas hystrix Teiling SPECIES
 
 #### Status
 ACCEPTED

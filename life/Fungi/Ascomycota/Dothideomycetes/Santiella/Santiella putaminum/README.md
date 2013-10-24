@@ -1,5 +1,4 @@
-Santiella putaminum Tassi SPECIES
-=======
+# Santiella putaminum Tassi SPECIES
 
 #### Status
 ACCEPTED

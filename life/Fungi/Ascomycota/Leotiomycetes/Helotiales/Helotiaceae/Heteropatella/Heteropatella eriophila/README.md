@@ -1,5 +1,4 @@
-Heteropatella eriophila Syd., 1924 SPECIES
-=======
+# Heteropatella eriophila Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

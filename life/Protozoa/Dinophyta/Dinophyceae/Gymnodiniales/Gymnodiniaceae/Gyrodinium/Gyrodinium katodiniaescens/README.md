@@ -1,5 +1,4 @@
-Gyrodinium katodiniaescens SPECIES
-=======
+# Gyrodinium katodiniaescens SPECIES
 
 #### Status
 ACCEPTED

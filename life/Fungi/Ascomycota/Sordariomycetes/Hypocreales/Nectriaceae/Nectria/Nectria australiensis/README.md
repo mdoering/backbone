@@ -1,5 +1,4 @@
-Nectria australiensis Seifert SPECIES
-=======
+# Nectria australiensis Seifert SPECIES
 
 #### Status
 ACCEPTED

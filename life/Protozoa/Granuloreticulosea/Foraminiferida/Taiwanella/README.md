@@ -1,5 +1,4 @@
-Taiwanella Huang, 2000 GENUS
-=======
+# Taiwanella Huang, 2000 GENUS
 
 #### Status
 ACCEPTED

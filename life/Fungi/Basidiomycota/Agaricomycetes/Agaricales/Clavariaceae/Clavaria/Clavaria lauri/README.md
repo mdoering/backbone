@@ -1,5 +1,4 @@
-Clavaria lauri Brot. SPECIES
-=======
+# Clavaria lauri Brot. SPECIES
 
 #### Status
 ACCEPTED

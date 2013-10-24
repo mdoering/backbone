@@ -1,5 +1,4 @@
-Cordyceps olivacea Rick SPECIES
-=======
+# Cordyceps olivacea Rick SPECIES
 
 #### Status
 ACCEPTED

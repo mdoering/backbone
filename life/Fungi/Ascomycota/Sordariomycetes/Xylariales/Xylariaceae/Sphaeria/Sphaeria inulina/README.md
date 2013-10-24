@@ -1,5 +1,4 @@
-Sphaeria inulina Durieu & Mont. SPECIES
-=======
+# Sphaeria inulina Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

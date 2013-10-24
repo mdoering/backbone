@@ -1,5 +1,4 @@
-Nocardia sebivorans Erikson {?} SPECIES
-=======
+# Nocardia sebivorans Erikson {?} SPECIES
 
 #### Status
 ACCEPTED

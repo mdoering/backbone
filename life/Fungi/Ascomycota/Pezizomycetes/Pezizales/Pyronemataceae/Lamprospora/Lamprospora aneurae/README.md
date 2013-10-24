@@ -1,5 +1,4 @@
-Lamprospora aneurae Benkert SPECIES
-=======
+# Lamprospora aneurae Benkert SPECIES
 
 #### Status
 ACCEPTED

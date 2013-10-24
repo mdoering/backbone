@@ -1,5 +1,4 @@
-Helotholus Jørgensen in Nordgaard & Joergensen, 1905 GENUS
-=======
+# Helotholus Jørgensen in Nordgaard & Joergensen, 1905 GENUS
 
 #### Status
 ACCEPTED

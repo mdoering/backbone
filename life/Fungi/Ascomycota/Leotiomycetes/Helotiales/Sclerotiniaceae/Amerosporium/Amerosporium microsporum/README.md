@@ -1,5 +1,4 @@
-Amerosporium microsporum (Cooke & Ellis) Sacc. SPECIES
-=======
+# Amerosporium microsporum (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

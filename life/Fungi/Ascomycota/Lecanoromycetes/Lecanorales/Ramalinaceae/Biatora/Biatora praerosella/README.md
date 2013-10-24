@@ -1,5 +1,4 @@
-Biatora praerosella (Nyl.) SPECIES
-=======
+# Biatora praerosella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

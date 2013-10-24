@@ -1,5 +1,4 @@
-Dothidella thieleodoxae Henn. SPECIES
-=======
+# Dothidella thieleodoxae Henn. SPECIES
 
 #### Status
 ACCEPTED

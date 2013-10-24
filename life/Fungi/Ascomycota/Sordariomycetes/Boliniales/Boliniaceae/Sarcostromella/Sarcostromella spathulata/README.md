@@ -1,5 +1,4 @@
-Sarcostromella spathulata (Berk. & Broome) Boedijn SPECIES
-=======
+# Sarcostromella spathulata (Berk. & Broome) Boedijn SPECIES
 
 #### Status
 ACCEPTED

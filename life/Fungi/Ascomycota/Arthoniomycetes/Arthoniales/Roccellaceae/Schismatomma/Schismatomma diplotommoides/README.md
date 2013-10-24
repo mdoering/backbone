@@ -1,5 +1,4 @@
-Schismatomma diplotommoides var. diplotommoides VARIETY
-=======
+# Schismatomma diplotommoides (Bagl.) Samp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Schismatomma diplotommoides var. diplotommoides
+Lecania diplotommoides Bagl.
 
 ### Remarks
 null

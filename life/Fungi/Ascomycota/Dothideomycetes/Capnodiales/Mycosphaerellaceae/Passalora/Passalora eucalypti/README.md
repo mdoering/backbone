@@ -1,5 +1,4 @@
-Passalora eucalypti (Crous & Alfenas) Crous & U. Braun SPECIES
-=======
+# Passalora eucalypti (Crous & Alfenas) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

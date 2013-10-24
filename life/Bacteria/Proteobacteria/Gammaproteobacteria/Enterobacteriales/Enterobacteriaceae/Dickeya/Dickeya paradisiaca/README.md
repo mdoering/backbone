@@ -1,8 +1,7 @@
-Erwinia paradisiaca Fernandez-Borrero and Lopez-Duque, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Dickeya paradisiaca (Fernandez-Borrero & Lopez-Duque, 1970) Samson et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

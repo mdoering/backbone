@@ -1,5 +1,4 @@
-Fomes hylocharis (Speg.) Speg. SPECIES
-=======
+# Fomes hylocharis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

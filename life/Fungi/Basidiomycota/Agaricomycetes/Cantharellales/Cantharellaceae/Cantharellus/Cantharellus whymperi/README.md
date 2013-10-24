@@ -1,5 +1,4 @@
-Cantharellus whymperi Massee & Murrill SPECIES
-=======
+# Cantharellus whymperi Massee & Murrill SPECIES
 
 #### Status
 ACCEPTED

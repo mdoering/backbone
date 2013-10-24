@@ -1,5 +1,4 @@
-Kolpoda Müller, 1773 GENUS
-=======
+# Kolpoda Müller, 1773 GENUS
 
 #### Status
 ACCEPTED

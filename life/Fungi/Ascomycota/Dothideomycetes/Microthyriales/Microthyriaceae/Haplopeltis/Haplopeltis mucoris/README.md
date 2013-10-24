@@ -1,5 +1,4 @@
-Haplopeltis mucoris Dilcher SPECIES
-=======
+# Haplopeltis mucoris Dilcher SPECIES
 
 #### Status
 ACCEPTED

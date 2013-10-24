@@ -1,5 +1,4 @@
-Endophyllum heliotropii Thirum. & Naras. SPECIES
-=======
+# Endophyllum heliotropii Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

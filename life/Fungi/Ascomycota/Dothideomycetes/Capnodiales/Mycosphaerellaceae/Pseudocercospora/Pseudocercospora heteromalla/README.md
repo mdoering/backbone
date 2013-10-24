@@ -1,5 +1,4 @@
-Pseudocercospora heteromalla (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora heteromalla (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

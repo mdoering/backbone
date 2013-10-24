@@ -1,8 +1,7 @@
-Brachonella inversa Jankowski, 1964 SPECIES
-=======
+# Metopus inversus (Jankowski, 1964) Foissner & Agatha, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

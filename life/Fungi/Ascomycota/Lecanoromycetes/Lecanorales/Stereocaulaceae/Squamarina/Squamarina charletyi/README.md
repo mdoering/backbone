@@ -1,5 +1,4 @@
-Squamarina charletyi (Werner) Werner SPECIES
-=======
+# Squamarina charletyi (Werner) Werner SPECIES
 
 #### Status
 ACCEPTED

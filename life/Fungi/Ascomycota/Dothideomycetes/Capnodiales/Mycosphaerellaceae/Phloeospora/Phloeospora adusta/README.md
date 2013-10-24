@@ -1,5 +1,4 @@
-Phloeospora adusta Heald & F.A. Wolf SPECIES
-=======
+# Phloeospora adusta Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

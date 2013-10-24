@@ -1,5 +1,4 @@
-Puccinia longior (Savile) Azbukina SPECIES
-=======
+# Puccinia longior (Savile) Azbukina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora klotzschiani Hosag., Rajendran & P. Daniel, 1989 SPECIES
-=======
+# Phyllachora klotzschiani Hosag., Rajendran & P. Daniel, 1989 SPECIES
 
 #### Status
 ACCEPTED

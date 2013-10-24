@@ -1,5 +1,4 @@
-Boreostereum borbonicum Boidin & Gilles, 2000 SPECIES
-=======
+# Boreostereum borbonicum Boidin & Gilles, 2000 SPECIES
 
 #### Status
 ACCEPTED

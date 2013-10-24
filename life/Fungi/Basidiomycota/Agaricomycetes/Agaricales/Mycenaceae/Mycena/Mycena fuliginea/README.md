@@ -1,5 +1,4 @@
-Mycena fuliginea Maas Geest. & de Meijer SPECIES
-=======
+# Mycena fuliginea Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

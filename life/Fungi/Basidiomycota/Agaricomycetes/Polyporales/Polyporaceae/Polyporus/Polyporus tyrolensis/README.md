@@ -1,5 +1,4 @@
-Polyporus tyrolensis Sacc. & Cub. SPECIES
-=======
+# Polyporus tyrolensis Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephromium lusitanicum var. lusitanicum VARIETY
-=======
+# Nephromium lusitanicum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephromium lusitanicum var. lusitanicum
+null
 
 ### Remarks
 null

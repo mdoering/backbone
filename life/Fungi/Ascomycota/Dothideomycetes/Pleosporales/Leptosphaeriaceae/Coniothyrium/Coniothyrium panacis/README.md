@@ -1,5 +1,4 @@
-Coniothyrium panacis Gonz. Frag. SPECIES
-=======
+# Coniothyrium panacis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

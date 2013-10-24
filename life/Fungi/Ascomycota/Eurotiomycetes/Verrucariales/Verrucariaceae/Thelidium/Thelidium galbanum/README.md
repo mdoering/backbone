@@ -1,5 +1,4 @@
-Thelidium galbanum (Kremp.) Körb. SPECIES
-=======
+# Thelidium galbanum (Kremp.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocryptos remigera N. Vørs SPECIES
-=======
+# Leucocryptos remigera N. Vørs SPECIES
 
 #### Status
 ACCEPTED

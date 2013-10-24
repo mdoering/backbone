@@ -1,5 +1,4 @@
-Fomes camerarius (Berk.) Sacc. SPECIES
-=======
+# Fomes camerarius (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

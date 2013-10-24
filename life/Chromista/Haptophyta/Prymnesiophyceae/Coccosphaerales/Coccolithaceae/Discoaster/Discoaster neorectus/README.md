@@ -1,5 +1,4 @@
-Discoaster neorectus SPECIES
-=======
+# Discoaster neorectus SPECIES
 
 #### Status
 ACCEPTED

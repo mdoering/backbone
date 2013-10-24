@@ -1,5 +1,4 @@
-Hygrophorus hiemalis Velen. SPECIES
-=======
+# Hygrophorus hiemalis Velen. SPECIES
 
 #### Status
 ACCEPTED

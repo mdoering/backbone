@@ -1,5 +1,4 @@
-Phyllosticta jasminorum Tognini SPECIES
-=======
+# Phyllosticta jasminorum Tognini SPECIES
 
 #### Status
 ACCEPTED

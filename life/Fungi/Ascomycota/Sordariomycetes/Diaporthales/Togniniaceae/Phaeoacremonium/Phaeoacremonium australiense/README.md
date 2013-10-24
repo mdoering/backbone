@@ -1,5 +1,4 @@
-Phaeoacremonium australiense L. Mostert, Summerb. & Crous SPECIES
-=======
+# Phaeoacremonium australiense L. Mostert, Summerb. & Crous SPECIES
 
 #### Status
 ACCEPTED

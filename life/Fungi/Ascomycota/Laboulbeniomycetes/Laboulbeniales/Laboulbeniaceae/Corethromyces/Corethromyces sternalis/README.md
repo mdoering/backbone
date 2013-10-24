@@ -1,5 +1,4 @@
-Corethromyces sternalis Speg. SPECIES
-=======
+# Corethromyces sternalis Speg. SPECIES
 
 #### Status
 ACCEPTED

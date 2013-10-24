@@ -1,5 +1,4 @@
-Cryptodiaporthe melanocraspeda Bathgate, M.E. Barr & B.L. Shearer SPECIES
-=======
+# Cryptodiaporthe melanocraspeda Bathgate, M.E. Barr & B.L. Shearer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria clavispora J.H. Mill. & Burton SPECIES
-=======
+# Leptosphaeria clavispora J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella cassiicola (Bat. & J. Silva) Hansf. SPECIES
-=======
+# Asteridiella cassiicola (Bat. & J. Silva) Hansf. SPECIES
 
 #### Status
 ACCEPTED

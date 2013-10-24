@@ -1,5 +1,4 @@
-Pycnora Hafellner GENUS
-=======
+# Pycnora Hafellner GENUS
 
 #### Status
 ACCEPTED

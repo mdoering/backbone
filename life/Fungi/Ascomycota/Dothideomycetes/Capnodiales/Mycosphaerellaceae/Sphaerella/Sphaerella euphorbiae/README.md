@@ -1,5 +1,4 @@
-Sphaerella euphorbiae Sacc. & Briard SPECIES
-=======
+# Sphaerella euphorbiae Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

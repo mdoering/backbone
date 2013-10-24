@@ -1,8 +1,7 @@
-Geaster calyculatus Fuckel SPECIES
-=======
+# Geastrum calyculatus Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster calyculatus Fuckel
+Geastrum calyculatus Fuckel
 
 ### Remarks
 null

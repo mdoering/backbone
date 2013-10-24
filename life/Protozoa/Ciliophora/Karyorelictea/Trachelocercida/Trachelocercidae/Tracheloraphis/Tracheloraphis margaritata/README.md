@@ -1,8 +1,7 @@
-Tracheloraphis margaritatus Kahl, 1933 SPECIES
-=======
+# Tracheloraphis margaritata Kahl, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

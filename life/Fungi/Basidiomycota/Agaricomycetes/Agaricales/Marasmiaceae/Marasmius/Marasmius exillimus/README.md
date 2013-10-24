@@ -1,5 +1,4 @@
-Marasmius exillimus Corner SPECIES
-=======
+# Marasmius exillimus Corner SPECIES
 
 #### Status
 ACCEPTED

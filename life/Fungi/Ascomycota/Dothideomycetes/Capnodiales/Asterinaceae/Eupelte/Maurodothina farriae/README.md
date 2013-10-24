@@ -1,17 +1,16 @@
-Maurodothina farrae Piroz. & Shoemaker SPECIES
-=======
+# Maurodothina farriae Piroz. & Shoemaker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 48(7): 1327 (1970)
 
 #### Original name
-Maurodothina farrae Piroz. & Shoemaker
+Maurodothina farriae Piroz. & Shoemaker
 
 ### Remarks
 null

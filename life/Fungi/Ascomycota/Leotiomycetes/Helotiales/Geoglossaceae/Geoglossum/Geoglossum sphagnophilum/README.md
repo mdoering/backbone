@@ -1,5 +1,4 @@
-Geoglossum sphagnophilum Ehrenb. SPECIES
-=======
+# Geoglossum sphagnophilum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

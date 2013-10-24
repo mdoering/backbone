@@ -1,5 +1,4 @@
-Cladonia nudicaulis S. Hammer SPECIES
-=======
+# Cladonia nudicaulis S. Hammer SPECIES
 
 #### Status
 ACCEPTED

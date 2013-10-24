@@ -1,5 +1,4 @@
-Farnoldia micropsis (A. Massal.) Hertel SPECIES
-=======
+# Farnoldia micropsis (A. Massal.) Hertel SPECIES
 
 #### Status
 ACCEPTED

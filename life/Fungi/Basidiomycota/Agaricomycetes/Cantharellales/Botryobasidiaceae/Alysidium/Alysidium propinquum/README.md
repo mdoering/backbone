@@ -1,5 +1,4 @@
-Alysidium propinquum (Sacc.) Kuntze SPECIES
-=======
+# Alysidium propinquum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

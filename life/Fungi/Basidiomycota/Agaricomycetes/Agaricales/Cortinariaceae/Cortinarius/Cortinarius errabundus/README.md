@@ -1,5 +1,4 @@
-Cortinarius errabundus Melot SPECIES
-=======
+# Cortinarius errabundus Melot SPECIES
 
 #### Status
 ACCEPTED

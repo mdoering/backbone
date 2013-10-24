@@ -1,14 +1,13 @@
-Verrucaria tichospora C. Knight SPECIES
-=======
+# Polyblastiopsis tichospora (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 40 (1882)
+Cat. Lich. Univers. 1: 352 (1922)
 
 #### Original name
 Verrucaria tichospora C. Knight

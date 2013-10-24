@@ -1,5 +1,4 @@
-Myriotrema myriotremoides (Nyl.) Hale SPECIES
-=======
+# Myriotrema myriotremoides (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

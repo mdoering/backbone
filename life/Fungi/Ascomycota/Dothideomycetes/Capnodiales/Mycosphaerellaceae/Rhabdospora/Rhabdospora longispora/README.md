@@ -1,5 +1,4 @@
-Rhabdospora longispora Ferraris SPECIES
-=======
+# Rhabdospora longispora Ferraris SPECIES
 
 #### Status
 ACCEPTED

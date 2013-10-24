@@ -1,5 +1,4 @@
-Meliola xylosmaticola Orejuela SPECIES
-=======
+# Meliola xylosmaticola Orejuela SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium elevatum Pers. SPECIES
-=======
+# Hysterium elevatum Pers. SPECIES
 
 #### Status
 ACCEPTED

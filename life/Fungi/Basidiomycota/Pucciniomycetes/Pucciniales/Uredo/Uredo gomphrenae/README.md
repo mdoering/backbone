@@ -1,5 +1,4 @@
-Uredo gomphrenae var. gomphrenae VARIETY
-=======
+# Uredo gomphrenae Barclay SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo gomphrenae var. gomphrenae
+Uredo gomphrenae Barclay
 
 ### Remarks
 null

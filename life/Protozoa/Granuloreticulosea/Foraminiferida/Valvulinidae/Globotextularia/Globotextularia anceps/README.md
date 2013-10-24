@@ -1,5 +1,4 @@
-Globotextularia anceps SPECIES
-=======
+# Globotextularia anceps SPECIES
 
 #### Status
 ACCEPTED

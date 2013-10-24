@@ -1,5 +1,4 @@
-Boletus simplex Schaeff. SPECIES
-=======
+# Boletus simplex Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta teucrii Lasch SPECIES
-=======
+# Ascochyta teucrii Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium aroideum Cooke & Massee SPECIES
-=======
+# Coniothyrium aroideum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

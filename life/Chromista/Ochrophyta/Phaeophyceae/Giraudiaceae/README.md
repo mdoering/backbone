@@ -1,5 +1,4 @@
-Giraudiaceae FAMILY
-=======
+# Giraudiaceae FAMILY
 
 #### Status
 ACCEPTED

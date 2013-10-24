@@ -1,5 +1,4 @@
-Spiroglutina Mikhalevich, 1993 GENUS
-=======
+# Spiroglutina Mikhalevich, 1993 GENUS
 
 #### Status
 ACCEPTED

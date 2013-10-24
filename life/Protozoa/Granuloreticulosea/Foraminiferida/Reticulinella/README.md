@@ -1,17 +1,16 @@
-Reticulina Cuvillier, Bonnefous, Hamaoui & Tixier, 1970 GENUS
-=======
+# Reticulinella Bonnefous, Hamaoui & Tixier, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Cent. Rech. Pau 3: 209.
+Bull. Cent. Rech. Pau 4: 39.
 
 #### Original name
-null
+Reticulina Cuvillier, Bonnefous, Hamaoui & Tixier, 1970
 
 ### Remarks
 null

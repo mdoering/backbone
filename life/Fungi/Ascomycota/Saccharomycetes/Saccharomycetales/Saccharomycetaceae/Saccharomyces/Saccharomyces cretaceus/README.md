@@ -1,5 +1,4 @@
-Saccharomyces cretaceus Mez {?} SPECIES
-=======
+# Saccharomyces cretaceus Mez {?} SPECIES
 
 #### Status
 ACCEPTED

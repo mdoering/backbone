@@ -1,5 +1,4 @@
-Geastrum huneckii Dörfelt SPECIES
-=======
+# Geastrum huneckii Dörfelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina sawanensis Asano SPECIES
-=======
+# Quinqueloculina sawanensis Asano SPECIES
 
 #### Status
 ACCEPTED

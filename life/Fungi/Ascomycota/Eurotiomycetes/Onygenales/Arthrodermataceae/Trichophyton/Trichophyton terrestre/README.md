@@ -1,5 +1,4 @@
-Trichophyton terrestre Durie & D. Frey, 1957 SPECIES
-=======
+# Trichophyton terrestre Durie & D. Frey, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphella acutipila E.K. Cash SPECIES
-=======
+# Dasyscyphella acutipila E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

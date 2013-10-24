@@ -1,5 +1,4 @@
-Sphaeria mammillana Fr. SPECIES
-=======
+# Sphaeria mammillana Fr. SPECIES
 
 #### Status
 ACCEPTED

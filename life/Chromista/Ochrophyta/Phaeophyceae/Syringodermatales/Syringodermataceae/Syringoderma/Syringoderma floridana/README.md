@@ -1,5 +1,4 @@
-Syringoderma floridana E.C. Henry SPECIES
-=======
+# Syringoderma floridana E.C. Henry SPECIES
 
 #### Status
 ACCEPTED

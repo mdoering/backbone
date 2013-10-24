@@ -1,17 +1,16 @@
-Cladonia transcendens var. transcendens VARIETY
-=======
+# Cladonia transcendens (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cladonia transcendens var. transcendens
+Cladonia pseudosipeana Gyeln.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Panellus pubescens (Sowerby) Z.S. Bi SPECIES
-=======
+# Panellus pubescens (Sowerby) Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

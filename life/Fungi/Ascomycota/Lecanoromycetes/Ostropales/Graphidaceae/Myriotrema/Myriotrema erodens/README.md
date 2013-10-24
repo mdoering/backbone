@@ -1,5 +1,4 @@
-Myriotrema erodens R.C. Harris SPECIES
-=======
+# Myriotrema erodens R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syracosphaera borealis Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera borealis Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

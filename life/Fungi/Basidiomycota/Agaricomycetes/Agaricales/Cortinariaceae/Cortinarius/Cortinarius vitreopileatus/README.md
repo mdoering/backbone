@@ -1,5 +1,4 @@
-Cortinarius vitreopileatus E. Horak, 1990 SPECIES
-=======
+# Cortinarius vitreopileatus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

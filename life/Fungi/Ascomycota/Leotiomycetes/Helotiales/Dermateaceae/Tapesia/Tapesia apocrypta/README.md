@@ -1,5 +1,4 @@
-Tapesia apocrypta Rehm SPECIES
-=======
+# Tapesia apocrypta Rehm SPECIES
 
 #### Status
 ACCEPTED

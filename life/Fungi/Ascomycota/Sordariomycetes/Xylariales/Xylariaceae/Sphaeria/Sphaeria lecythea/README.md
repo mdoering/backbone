@@ -1,5 +1,4 @@
-Sphaeria lecythea Schwein. SPECIES
-=======
+# Sphaeria lecythea Schwein. SPECIES
 
 #### Status
 ACCEPTED

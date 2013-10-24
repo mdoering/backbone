@@ -1,5 +1,4 @@
-Pyrenopsis assimulans (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Pyrenopsis assimulans (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

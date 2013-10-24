@@ -1,5 +1,4 @@
-Tilletia zundelii Hirschh. SPECIES
-=======
+# Tilletia zundelii Hirschh. SPECIES
 
 #### Status
 ACCEPTED

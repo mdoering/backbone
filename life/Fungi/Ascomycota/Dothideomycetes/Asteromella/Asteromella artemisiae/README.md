@@ -1,5 +1,4 @@
-Asteromella artemisiae E. Müll. SPECIES
-=======
+# Asteromella artemisiae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

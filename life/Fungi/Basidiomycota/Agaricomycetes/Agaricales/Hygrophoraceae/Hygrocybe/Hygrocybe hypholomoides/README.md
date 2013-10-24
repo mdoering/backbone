@@ -1,5 +1,4 @@
-Hygrocybe hypholomoides Henn. SPECIES
-=======
+# Hygrocybe hypholomoides Henn. SPECIES
 
 #### Status
 ACCEPTED

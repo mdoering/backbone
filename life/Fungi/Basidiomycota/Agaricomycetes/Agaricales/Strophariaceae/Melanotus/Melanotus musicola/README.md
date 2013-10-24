@@ -1,14 +1,13 @@
-Melanotus musaecola (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Melanotus musicola (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 9: 130 (1946)
 
 #### Original name
 Agaricus musicola Berk.

@@ -1,17 +1,16 @@
-Physarum nutans subsp. nutans SUBSPECIES
-=======
+# Physarum album (Bull.) Chevall., 1826 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 336 (1826)
 
 #### Original name
-null
+Sphaerocarpus albus Bull., 1791
 
 ### Remarks
 null

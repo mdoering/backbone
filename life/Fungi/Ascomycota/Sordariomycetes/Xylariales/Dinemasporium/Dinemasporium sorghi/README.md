@@ -1,5 +1,4 @@
-Dinemasporium sorghi Saccas SPECIES
-=======
+# Dinemasporium sorghi Saccas SPECIES
 
 #### Status
 ACCEPTED

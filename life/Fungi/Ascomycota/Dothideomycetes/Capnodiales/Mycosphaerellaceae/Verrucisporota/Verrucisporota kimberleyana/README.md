@@ -1,5 +1,4 @@
-Verrucisporota kimberleyana Beilharz & Pascoe SPECIES
-=======
+# Verrucisporota kimberleyana Beilharz & Pascoe SPECIES
 
 #### Status
 ACCEPTED

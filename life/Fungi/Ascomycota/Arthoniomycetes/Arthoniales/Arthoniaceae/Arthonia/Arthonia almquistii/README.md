@@ -1,5 +1,4 @@
-Arthonia almquistii Vain. SPECIES
-=======
+# Arthonia almquistii Vain. SPECIES
 
 #### Status
 ACCEPTED

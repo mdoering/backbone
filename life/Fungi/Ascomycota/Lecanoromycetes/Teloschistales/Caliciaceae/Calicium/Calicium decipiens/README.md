@@ -1,5 +1,4 @@
-Calicium decipiens A. Massal. SPECIES
-=======
+# Calicium decipiens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

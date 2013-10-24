@@ -1,5 +1,4 @@
-Mycoderma muyaga Mattlet SPECIES
-=======
+# Mycoderma muyaga Mattlet SPECIES
 
 #### Status
 ACCEPTED

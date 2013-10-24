@@ -1,5 +1,4 @@
-Anaptychia jattana C.W. Dodge SPECIES
-=======
+# Anaptychia jattana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

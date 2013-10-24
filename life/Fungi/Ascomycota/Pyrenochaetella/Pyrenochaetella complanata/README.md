@@ -1,5 +1,4 @@
-Pyrenochaetella complanata P. Karst. ex Höhn. SPECIES
-=======
+# Pyrenochaetella complanata P. Karst. ex Höhn. SPECIES
 
 #### Status
 ACCEPTED

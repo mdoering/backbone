@@ -1,5 +1,4 @@
-Entoloma aquatilis Schweers SPECIES
-=======
+# Entoloma aquatilis Schweers SPECIES
 
 #### Status
 ACCEPTED

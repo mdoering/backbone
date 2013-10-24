@@ -1,5 +1,4 @@
-Leptarchaediscus Conil, 1980 GENUS
-=======
+# Leptarchaediscus Conil, 1980 GENUS
 
 #### Status
 ACCEPTED

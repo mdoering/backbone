@@ -1,5 +1,4 @@
-Eriosporangium pallor (Arthur & Holw.) Syd. SPECIES
-=======
+# Eriosporangium pallor (Arthur & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

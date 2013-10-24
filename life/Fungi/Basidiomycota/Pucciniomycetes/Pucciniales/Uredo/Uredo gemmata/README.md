@@ -1,5 +1,4 @@
-Uredo gemmata Pat. & Har. SPECIES
-=======
+# Uredo gemmata Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

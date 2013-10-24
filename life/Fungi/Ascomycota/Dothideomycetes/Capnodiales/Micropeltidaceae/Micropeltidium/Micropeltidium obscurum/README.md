@@ -1,5 +1,4 @@
-Micropeltidium obscurum Bat. & J.L. Bezerra SPECIES
-=======
+# Micropeltidium obscurum Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

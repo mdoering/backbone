@@ -1,5 +1,4 @@
-Chaetoceros exospermum Meunier SPECIES
-=======
+# Chaetoceros exospermum Meunier SPECIES
 
 #### Status
 ACCEPTED

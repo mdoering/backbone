@@ -1,5 +1,4 @@
-Cortinarius simplex E. Horak SPECIES
-=======
+# Cortinarius simplex E. Horak SPECIES
 
 #### Status
 ACCEPTED

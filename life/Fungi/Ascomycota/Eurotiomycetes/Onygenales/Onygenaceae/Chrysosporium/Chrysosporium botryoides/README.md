@@ -1,5 +1,4 @@
-Chrysosporium botryoides Skou, 1992 SPECIES
-=======
+# Chrysosporium botryoides Skou, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella subsessile Schumach. SPECIES
-=======
+# Helvella subsessile Schumach. SPECIES
 
 #### Status
 ACCEPTED

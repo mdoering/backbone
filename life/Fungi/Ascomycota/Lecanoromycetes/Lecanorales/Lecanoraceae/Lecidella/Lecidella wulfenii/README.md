@@ -1,17 +1,16 @@
-Biatora wulfenii Hepp SPECIES
-=======
+# Lecidella wulfenii (Hepp) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 216 (1861)
 
 #### Original name
-Biatora wulfenii Hepp
+null
 
 ### Remarks
 null

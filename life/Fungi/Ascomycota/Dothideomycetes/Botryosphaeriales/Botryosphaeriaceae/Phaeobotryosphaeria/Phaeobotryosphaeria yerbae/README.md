@@ -1,5 +1,4 @@
-Phaeobotryosphaeria yerbae Speg., 1908 SPECIES
-=======
+# Phaeobotryosphaeria yerbae Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

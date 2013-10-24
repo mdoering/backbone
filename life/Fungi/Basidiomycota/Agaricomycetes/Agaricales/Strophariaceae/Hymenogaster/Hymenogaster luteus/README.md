@@ -1,17 +1,16 @@
-Hymenogaster luteus var. luteus VARIETY
-=======
+# Hymenogaster luteus Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monogr. Tuberac. (Milano) 22 (1831)
 
 #### Original name
-Hymenogaster luteus var. luteus
+Hymenogaster luteus Vittad., 1831
 
 ### Remarks
 null

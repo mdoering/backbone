@@ -1,5 +1,4 @@
-Mycotodea primulicola (G. Winter) Kirschst. SPECIES
-=======
+# Mycotodea primulicola (G. Winter) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

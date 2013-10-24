@@ -1,14 +1,13 @@
-Suillus jamaicensis (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Fistulinella jamaicensis (Murrill) Singer, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 252 (1912)
+in Singer, Araujo & Ivory, Beih. Nova Hedwigia 77: 142 (1983)
 
 #### Original name
 Gyroporus jamaicensis Murrill, 1910

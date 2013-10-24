@@ -1,5 +1,4 @@
-Arthonia auracariae Vain. SPECIES
-=======
+# Arthonia auracariae Vain. SPECIES
 
 #### Status
 ACCEPTED

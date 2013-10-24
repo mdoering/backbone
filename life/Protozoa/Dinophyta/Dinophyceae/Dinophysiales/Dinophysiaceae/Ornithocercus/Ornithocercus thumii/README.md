@@ -1,8 +1,7 @@
-Parelion thumii Schmidt SPECIES
-=======
+# Ornithocercus thumii (Schmidt) Kofoid & Skogsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

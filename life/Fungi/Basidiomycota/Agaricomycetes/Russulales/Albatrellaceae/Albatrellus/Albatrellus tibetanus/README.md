@@ -1,5 +1,4 @@
-Albatrellus tibetanus H.D. Zheng & P.G. Liu SPECIES
-=======
+# Albatrellus tibetanus H.D. Zheng & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

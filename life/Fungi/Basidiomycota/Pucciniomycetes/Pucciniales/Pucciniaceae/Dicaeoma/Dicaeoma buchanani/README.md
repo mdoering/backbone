@@ -1,5 +1,4 @@
-Dicaeoma buchanani (De Toni) Kuntze SPECIES
-=======
+# Dicaeoma buchanani (De Toni) Kuntze SPECIES
 
 #### Status
 ACCEPTED

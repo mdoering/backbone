@@ -1,5 +1,4 @@
-Hymenelia cantiana (Garov.) Arnold SPECIES
-=======
+# Hymenelia cantiana (Garov.) Arnold SPECIES
 
 #### Status
 ACCEPTED

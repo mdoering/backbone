@@ -1,5 +1,4 @@
-Mycosphaerella ebuli (Richon) Tomilin SPECIES
-=======
+# Mycosphaerella ebuli (Richon) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella albidopila Boud. SPECIES
-=======
+# Volutella albidopila Boud. SPECIES
 
 #### Status
 ACCEPTED

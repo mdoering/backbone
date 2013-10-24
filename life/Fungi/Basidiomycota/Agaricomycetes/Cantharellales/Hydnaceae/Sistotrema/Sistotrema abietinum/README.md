@@ -1,5 +1,4 @@
-Sistotrema abietinum Secr. SPECIES
-=======
+# Sistotrema abietinum Secr. SPECIES
 
 #### Status
 ACCEPTED

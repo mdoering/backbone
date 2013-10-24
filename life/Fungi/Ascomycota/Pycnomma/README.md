@@ -1,5 +1,4 @@
-Pycnomma Sydow, 1924 GENUS
-=======
+# Pycnomma Sydow, 1924 GENUS
 
 #### Status
 ACCEPTED

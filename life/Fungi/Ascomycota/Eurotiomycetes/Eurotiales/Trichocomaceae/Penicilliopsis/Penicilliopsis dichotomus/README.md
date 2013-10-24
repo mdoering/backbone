@@ -1,5 +1,4 @@
-Penicilliopsis dichotomus Hauman SPECIES
-=======
+# Penicilliopsis dichotomus Hauman SPECIES
 
 #### Status
 ACCEPTED

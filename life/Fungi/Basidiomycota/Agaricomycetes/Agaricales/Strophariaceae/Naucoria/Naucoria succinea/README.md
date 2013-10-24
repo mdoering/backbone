@@ -1,5 +1,4 @@
-Naucoria succinea Velen. SPECIES
-=======
+# Naucoria succinea Velen. SPECIES
 
 #### Status
 ACCEPTED

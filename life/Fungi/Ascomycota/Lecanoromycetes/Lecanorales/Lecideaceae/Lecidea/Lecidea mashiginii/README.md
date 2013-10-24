@@ -1,5 +1,4 @@
-Lecidea mashiginii Lynge SPECIES
-=======
+# Lecidea mashiginii Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Penicillium vaccaeorum Quintan., 1982 SPECIES
-=======
+# Penicillium roseopurpureum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

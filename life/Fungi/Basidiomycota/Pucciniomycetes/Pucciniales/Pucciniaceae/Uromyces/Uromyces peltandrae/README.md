@@ -1,5 +1,4 @@
-Uromyces peltandrae Howe SPECIES
-=======
+# Uromyces peltandrae Howe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladochytrium mori Prunet SPECIES
-=======
+# Cladochytrium mori Prunet SPECIES
 
 #### Status
 ACCEPTED

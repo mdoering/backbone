@@ -1,5 +1,4 @@
-Monacrosporium horrida Dudd. SPECIES
-=======
+# Monacrosporium horrida Dudd. SPECIES
 
 #### Status
 ACCEPTED

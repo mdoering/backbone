@@ -1,5 +1,4 @@
-Arthopyrenia spectabilis (Hepp) Zahlbr. SPECIES
-=======
+# Arthopyrenia spectabilis (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

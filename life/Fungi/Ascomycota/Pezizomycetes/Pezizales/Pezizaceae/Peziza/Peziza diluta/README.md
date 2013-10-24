@@ -1,5 +1,4 @@
-Peziza diluta Fr. SPECIES
-=======
+# Peziza diluta Fr. SPECIES
 
 #### Status
 ACCEPTED

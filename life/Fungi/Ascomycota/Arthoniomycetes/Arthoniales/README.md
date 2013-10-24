@@ -1,5 +1,4 @@
-Arthoniales Henssen ex D. Hawksw. & O.E. Erikss. ORDER
-=======
+# Arthoniales Henssen ex D. Hawksw. & O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

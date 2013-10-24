@@ -1,5 +1,4 @@
-Stereocaulon armatulum Zahlbr. SPECIES
-=======
+# Stereocaulon armatulum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

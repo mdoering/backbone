@@ -1,5 +1,4 @@
-Leptospora nuda Gucevic SPECIES
-=======
+# Leptospora nuda Gucevic SPECIES
 
 #### Status
 ACCEPTED

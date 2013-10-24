@@ -1,5 +1,4 @@
-Tintinnopsella inornata Nagy, 1986 SPECIES
-=======
+# Tintinnopsella inornata Nagy, 1986 SPECIES
 
 #### Status
 ACCEPTED

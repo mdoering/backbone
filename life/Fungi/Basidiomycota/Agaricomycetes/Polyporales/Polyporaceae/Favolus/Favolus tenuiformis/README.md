@@ -1,5 +1,4 @@
-Favolus tenuiformis (Murrill) Murrill SPECIES
-=======
+# Favolus tenuiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

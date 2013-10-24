@@ -1,5 +1,4 @@
-Platygloea lagerstroemiae Coker SPECIES
-=======
+# Platygloea lagerstroemiae Coker SPECIES
 
 #### Status
 ACCEPTED

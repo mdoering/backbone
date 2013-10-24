@@ -1,5 +1,4 @@
-Plagiogramma wallichianum Grev., 1865 SPECIES
-=======
+# Plagiogramma wallichianum Grev., 1865 SPECIES
 
 #### Status
 ACCEPTED

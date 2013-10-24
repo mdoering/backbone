@@ -1,5 +1,4 @@
-Aecidium phyteumatis Unger SPECIES
-=======
+# Aecidium phyteumatis Unger SPECIES
 
 #### Status
 ACCEPTED

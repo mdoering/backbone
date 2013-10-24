@@ -1,5 +1,4 @@
-Cystotelium inornatum (Dietel) Syd. SPECIES
-=======
+# Cystotelium inornatum (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

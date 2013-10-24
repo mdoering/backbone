@@ -1,5 +1,4 @@
-Aecidium peracarpae Dietel SPECIES
-=======
+# Aecidium peracarpae Dietel SPECIES
 
 #### Status
 ACCEPTED

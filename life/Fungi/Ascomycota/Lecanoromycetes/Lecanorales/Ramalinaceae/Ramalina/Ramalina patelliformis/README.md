@@ -1,5 +1,4 @@
-Ramalina patelliformis Kashiw. SPECIES
-=======
+# Ramalina patelliformis Kashiw. SPECIES
 
 #### Status
 ACCEPTED

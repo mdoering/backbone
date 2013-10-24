@@ -1,5 +1,4 @@
-Pezizella vincetoxici Velen. SPECIES
-=======
+# Pezizella vincetoxici Velen. SPECIES
 
 #### Status
 ACCEPTED

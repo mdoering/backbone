@@ -1,5 +1,4 @@
-Tremella umbrina Schumach. SPECIES
-=======
+# Tremella umbrina Schumach. SPECIES
 
 #### Status
 ACCEPTED

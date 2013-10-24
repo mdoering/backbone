@@ -1,5 +1,4 @@
-Thelidium metzlerianum Servít SPECIES
-=======
+# Thelidium metzlerianum Servít SPECIES
 
 #### Status
 ACCEPTED

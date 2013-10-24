@@ -1,5 +1,4 @@
-Piggotia cinnamomi Henn. SPECIES
-=======
+# Piggotia cinnamomi Henn. SPECIES
 
 #### Status
 ACCEPTED

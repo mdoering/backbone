@@ -1,5 +1,4 @@
-Crocynia candida (Müll. Arg.) Hue SPECIES
-=======
+# Crocynia candida (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exoascus fuscus (Giesenh.) Sacc. & P. Syd. SPECIES
-=======
+# Exoascus fuscus (Giesenh.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

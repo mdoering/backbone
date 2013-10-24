@@ -1,5 +1,4 @@
-Cladonia nashii Ahti SPECIES
-=======
+# Cladonia nashii Ahti SPECIES
 
 #### Status
 ACCEPTED

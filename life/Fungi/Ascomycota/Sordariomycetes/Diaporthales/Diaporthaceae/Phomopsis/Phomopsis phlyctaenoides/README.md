@@ -1,5 +1,4 @@
-Phomopsis phlyctaenoides (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Phomopsis phlyctaenoides (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

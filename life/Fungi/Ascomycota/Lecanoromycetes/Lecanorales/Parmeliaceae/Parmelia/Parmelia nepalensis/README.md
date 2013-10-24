@@ -1,5 +1,4 @@
-Parmelia nepalensis Taylor SPECIES
-=======
+# Parmelia nepalensis Taylor SPECIES
 
 #### Status
 ACCEPTED

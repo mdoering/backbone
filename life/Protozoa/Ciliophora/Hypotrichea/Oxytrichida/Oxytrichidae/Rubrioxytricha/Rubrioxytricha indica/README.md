@@ -1,5 +1,4 @@
-Rubrioxytricha indica Naqvi, Gupta, Borgohain & Sapra, 2006 SPECIES
-=======
+# Rubrioxytricha indica Naqvi, Gupta, Borgohain & Sapra, 2006 SPECIES
 
 #### Status
 ACCEPTED

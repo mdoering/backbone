@@ -1,5 +1,4 @@
-Pseudophacidium angelicae Beeli SPECIES
-=======
+# Pseudophacidium angelicae Beeli SPECIES
 
 #### Status
 ACCEPTED

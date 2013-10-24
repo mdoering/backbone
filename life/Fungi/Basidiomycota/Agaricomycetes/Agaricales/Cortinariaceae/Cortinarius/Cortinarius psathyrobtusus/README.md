@@ -1,5 +1,4 @@
-Cortinarius psathyrobtusus Rob. Henry SPECIES
-=======
+# Cortinarius psathyrobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria klotzschii var. klotzschii VARIETY
-=======
+# Clavaria klotzschii Lasch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavaria klotzschii var. klotzschii
+Clavaria klotzschii Lasch
 
 ### Remarks
 null

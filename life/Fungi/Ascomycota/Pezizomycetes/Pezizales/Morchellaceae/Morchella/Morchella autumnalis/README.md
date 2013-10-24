@@ -1,5 +1,4 @@
-Morchella autumnalis Leuba SPECIES
-=======
+# Morchella autumnalis Leuba SPECIES
 
 #### Status
 ACCEPTED

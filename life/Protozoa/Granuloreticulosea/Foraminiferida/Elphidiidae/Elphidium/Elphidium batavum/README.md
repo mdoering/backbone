@@ -1,5 +1,4 @@
-Elphidium batavum Hofker, 1968 SPECIES
-=======
+# Elphidium batavum Hofker, 1968 SPECIES
 
 #### Status
 ACCEPTED

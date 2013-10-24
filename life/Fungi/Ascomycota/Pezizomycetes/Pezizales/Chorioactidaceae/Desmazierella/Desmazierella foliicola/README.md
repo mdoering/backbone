@@ -1,5 +1,4 @@
-Desmazierella foliicola Rick SPECIES
-=======
+# Desmazierella foliicola Rick SPECIES
 
 #### Status
 ACCEPTED

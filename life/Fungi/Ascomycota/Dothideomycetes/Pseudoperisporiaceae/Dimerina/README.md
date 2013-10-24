@@ -1,17 +1,16 @@
-Dimeriopsis F. Stevens GENUS
-=======
+# Dimerina Theiss. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Ill. St. Acad. Sci. 10: 171 (1917)
+Beih. bot. Zbl. , Abt. 2 29: 46 (1912)
 
 #### Original name
-Dimeriopsis F. Stevens
+Dimerina Theiss.
 
 ### Remarks
 null

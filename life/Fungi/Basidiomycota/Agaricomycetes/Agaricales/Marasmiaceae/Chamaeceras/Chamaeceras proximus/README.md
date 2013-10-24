@@ -1,5 +1,4 @@
-Chamaeceras proximus (Berk. & Broome) Kuntze SPECIES
-=======
+# Chamaeceras proximus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta nerii Westend. SPECIES
-=======
+# Phyllosticta nerii Westend. SPECIES
 
 #### Status
 ACCEPTED

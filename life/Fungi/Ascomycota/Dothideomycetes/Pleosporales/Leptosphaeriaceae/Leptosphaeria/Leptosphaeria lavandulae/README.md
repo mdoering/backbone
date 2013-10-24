@@ -1,5 +1,4 @@
-Leptosphaeria lavandulae Sousa da Câmara SPECIES
-=======
+# Leptosphaeria lavandulae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

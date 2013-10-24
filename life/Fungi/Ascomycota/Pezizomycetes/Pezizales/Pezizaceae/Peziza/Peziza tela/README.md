@@ -1,5 +1,4 @@
-Peziza tela Berk. & M.A. Curtis SPECIES
-=======
+# Peziza tela Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

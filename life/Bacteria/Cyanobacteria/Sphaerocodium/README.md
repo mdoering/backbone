@@ -1,5 +1,4 @@
-Sphaerocodium A. Rothpletz, 1890 GENUS
-=======
+# Sphaerocodium A. Rothpletz, 1890 GENUS
 
 #### Status
 ACCEPTED

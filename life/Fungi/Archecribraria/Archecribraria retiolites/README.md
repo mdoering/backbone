@@ -1,5 +1,4 @@
-Archecribraria retiolites Locq. SPECIES
-=======
+# Archecribraria retiolites Locq. SPECIES
 
 #### Status
 ACCEPTED

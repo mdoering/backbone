@@ -1,5 +1,4 @@
-Asterostromella GENUS
-=======
+# Asterostromella GENUS
 
 #### Status
 ACCEPTED

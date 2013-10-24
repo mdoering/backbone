@@ -1,5 +1,4 @@
-Sphaerellothecium stereocaulorum Zhurb. & Triebel, 2008 SPECIES
-=======
+# Sphaerellothecium stereocaulorum Zhurb. & Triebel, 2008 SPECIES
 
 #### Status
 ACCEPTED

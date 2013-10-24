@@ -1,5 +1,4 @@
-Alphitomorpha rosae Wallr. SPECIES
-=======
+# Alphitomorpha rosae Wallr. SPECIES
 
 #### Status
 ACCEPTED

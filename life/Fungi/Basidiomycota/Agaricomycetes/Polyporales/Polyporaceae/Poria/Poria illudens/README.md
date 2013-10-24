@@ -1,5 +1,4 @@
-Poria illudens Overh. & J. Lowe SPECIES
-=======
+# Poria illudens Overh. & J. Lowe SPECIES
 
 #### Status
 ACCEPTED

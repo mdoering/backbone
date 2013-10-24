@@ -1,5 +1,4 @@
-Montagnina examinans (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Montagnina examinans (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

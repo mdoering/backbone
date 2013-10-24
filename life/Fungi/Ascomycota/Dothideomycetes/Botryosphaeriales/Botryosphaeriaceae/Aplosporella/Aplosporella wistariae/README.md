@@ -1,5 +1,4 @@
-Aplosporella wistariae Ellis & Barthol. SPECIES
-=======
+# Aplosporella wistariae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

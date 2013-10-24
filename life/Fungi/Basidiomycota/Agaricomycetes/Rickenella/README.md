@@ -1,5 +1,4 @@
-Rickenella Raithelhuber, 1973 GENUS
-=======
+# Rickenella Raithelhuber, 1973 GENUS
 
 #### Status
 ACCEPTED

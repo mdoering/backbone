@@ -1,5 +1,4 @@
-Scirrhia ostiolata Ellis & Galloway SPECIES
-=======
+# Scirrhia ostiolata Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

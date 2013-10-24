@@ -1,14 +1,13 @@
-Miyagia gravida (Cummins) Cummins, 1960 SPECIES
-=======
+# Corbulopsora gravida Cummins, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 87: 36 (1960)
+Mycologia 32: 365 (1940)
 
 #### Original name
 Corbulopsora gravida Cummins, 1940

@@ -1,5 +1,4 @@
-Asterina litseae H.S. Yates SPECIES
-=======
+# Asterina litseae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

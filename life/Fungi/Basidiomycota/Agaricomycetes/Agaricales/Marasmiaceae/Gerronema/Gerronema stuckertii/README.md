@@ -1,5 +1,4 @@
-Gerronema stuckertii (Speg.) Singer SPECIES
-=======
+# Gerronema stuckertii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

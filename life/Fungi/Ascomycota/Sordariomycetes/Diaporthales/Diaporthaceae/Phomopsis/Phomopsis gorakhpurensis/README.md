@@ -1,5 +1,4 @@
-Phomopsis gorakhpurensis Kamal, P. Kumar & R.P. Singh SPECIES
-=======
+# Phomopsis gorakhpurensis Kamal, P. Kumar & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

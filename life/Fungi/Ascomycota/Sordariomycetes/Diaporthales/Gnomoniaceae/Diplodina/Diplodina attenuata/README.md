@@ -1,5 +1,4 @@
-Diplodina attenuata Wehm. SPECIES
-=======
+# Diplodina attenuata Wehm. SPECIES
 
 #### Status
 ACCEPTED

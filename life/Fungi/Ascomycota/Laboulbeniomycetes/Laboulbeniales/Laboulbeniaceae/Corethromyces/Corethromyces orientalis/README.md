@@ -1,5 +1,4 @@
-Corethromyces orientalis Thaxt. SPECIES
-=======
+# Corethromyces orientalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium intermedium R. Sant. SPECIES
-=======
+# Lopadium intermedium R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus charisterus Berk. & Broome SPECIES
-=======
+# Agaricus charisterus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyotopileos yalensis Dilcher SPECIES
-=======
+# Dictyotopileos yalensis Dilcher SPECIES
 
 #### Status
 ACCEPTED

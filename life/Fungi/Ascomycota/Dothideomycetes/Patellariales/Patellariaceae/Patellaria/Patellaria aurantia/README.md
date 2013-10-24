@@ -1,5 +1,4 @@
-Patellaria aurantia (Pers.) Pers. SPECIES
-=======
+# Patellaria aurantia (Pers.) Pers. SPECIES
 
 #### Status
 ACCEPTED

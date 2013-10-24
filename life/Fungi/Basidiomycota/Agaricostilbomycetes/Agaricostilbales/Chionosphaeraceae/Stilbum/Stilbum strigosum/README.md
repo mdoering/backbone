@@ -1,5 +1,4 @@
-Stilbum strigosum Pers. SPECIES
-=======
+# Stilbum strigosum Pers. SPECIES
 
 #### Status
 ACCEPTED

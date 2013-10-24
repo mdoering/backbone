@@ -1,17 +1,16 @@
-Ustilago shastense Zundel SPECIES
-=======
+# Microbotryum shastense (Zundel) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 50 (1998)
 
 #### Original name
-Ustilago shastense Zundel
+Ustilago shastensis Zundel, 1940
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusicolla foliicola P. Karst. SPECIES
-=======
+# Fusicolla foliicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galzinia pedicellata Bourdot, 1922 SPECIES
-=======
+# Galzinia pedicellata Bourdot, 1922 SPECIES
 
 #### Status
 ACCEPTED

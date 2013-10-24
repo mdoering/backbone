@@ -1,5 +1,4 @@
-Aecidium diclipterae J.M. Yen SPECIES
-=======
+# Aecidium diclipterae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

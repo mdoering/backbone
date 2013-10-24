@@ -1,5 +1,4 @@
-Ameliella andreaeicola Fryday & Coppins SPECIES
-=======
+# Ameliella andreaeicola Fryday & Coppins SPECIES
 
 #### Status
 ACCEPTED

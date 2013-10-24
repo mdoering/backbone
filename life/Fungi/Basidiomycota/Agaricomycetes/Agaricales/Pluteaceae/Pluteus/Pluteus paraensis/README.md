@@ -1,5 +1,4 @@
-Pluteus paraensis Singer SPECIES
-=======
+# Pluteus paraensis Singer SPECIES
 
 #### Status
 ACCEPTED

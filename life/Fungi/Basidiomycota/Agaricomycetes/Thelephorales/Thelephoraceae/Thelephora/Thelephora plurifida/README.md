@@ -1,5 +1,4 @@
-Thelephora plurifida Sacc. SPECIES
-=======
+# Thelephora plurifida Sacc. SPECIES
 
 #### Status
 ACCEPTED

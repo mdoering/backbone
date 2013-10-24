@@ -1,5 +1,4 @@
-Readeriella toledana (Crous & Bills) Crous & U. Braun SPECIES
-=======
+# Readeriella toledana (Crous & Bills) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

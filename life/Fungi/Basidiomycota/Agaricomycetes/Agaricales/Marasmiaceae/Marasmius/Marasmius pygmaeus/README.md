@@ -1,5 +1,4 @@
-Marasmius pygmaeus Henn. SPECIES
-=======
+# Marasmius pygmaeus Henn. SPECIES
 
 #### Status
 ACCEPTED

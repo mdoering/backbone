@@ -1,5 +1,4 @@
-Pezizella miculosa Velen. SPECIES
-=======
+# Pezizella miculosa Velen. SPECIES
 
 #### Status
 ACCEPTED

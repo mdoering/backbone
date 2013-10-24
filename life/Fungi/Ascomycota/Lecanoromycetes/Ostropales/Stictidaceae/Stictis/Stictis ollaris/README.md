@@ -1,5 +1,4 @@
-Stictis ollaris Fr. SPECIES
-=======
+# Stictis ollaris Fr. SPECIES
 
 #### Status
 ACCEPTED

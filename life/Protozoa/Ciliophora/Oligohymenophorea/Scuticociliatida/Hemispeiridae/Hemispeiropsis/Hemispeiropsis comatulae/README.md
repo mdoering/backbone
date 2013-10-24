@@ -1,5 +1,4 @@
-Hemispeiropsis comatulae König, 1894 SPECIES
-=======
+# Hemispeiropsis comatulae König, 1894 SPECIES
 
 #### Status
 ACCEPTED

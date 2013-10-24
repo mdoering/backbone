@@ -1,5 +1,4 @@
-Ceuthospora magellanica Speg. SPECIES
-=======
+# Ceuthospora magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

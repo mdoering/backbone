@@ -1,5 +1,4 @@
-Sphinctrinella calcicioides Nádv. SPECIES
-=======
+# Sphinctrinella calcicioides Nádv. SPECIES
 
 #### Status
 ACCEPTED

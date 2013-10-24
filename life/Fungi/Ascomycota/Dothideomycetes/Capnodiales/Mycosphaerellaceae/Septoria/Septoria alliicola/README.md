@@ -1,5 +1,4 @@
-Septoria alliicola Bäumler SPECIES
-=======
+# Septoria alliicola Bäumler SPECIES
 
 #### Status
 ACCEPTED

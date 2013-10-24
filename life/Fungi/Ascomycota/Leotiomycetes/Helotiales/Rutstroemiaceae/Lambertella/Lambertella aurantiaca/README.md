@@ -1,5 +1,4 @@
-Lambertella aurantiaca V.P. Tewari & D.C. Pant SPECIES
-=======
+# Lambertella aurantiaca V.P. Tewari & D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

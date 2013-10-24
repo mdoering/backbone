@@ -1,5 +1,4 @@
-Peziza lenticularis Hoffm. SPECIES
-=======
+# Peziza lenticularis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

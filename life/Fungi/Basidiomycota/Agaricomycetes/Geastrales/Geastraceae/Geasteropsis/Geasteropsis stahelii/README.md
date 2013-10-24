@@ -1,5 +1,4 @@
-Geasteropsis stahelii E. Fisch. SPECIES
-=======
+# Geasteropsis stahelii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

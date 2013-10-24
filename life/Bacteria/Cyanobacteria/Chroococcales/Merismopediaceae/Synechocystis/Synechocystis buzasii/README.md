@@ -1,5 +1,4 @@
-Synechocystis buzasii Palik SPECIES
-=======
+# Synechocystis buzasii Palik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Papularia sphaerosperma var. sphaerosperma VARIETY
-=======
+# Arthrinium phaeospermum (Corda) M.B. Ellis, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 103: 8 (1965)
 
 #### Original name
-null
+Gymnosporium phaeospermum Corda, 1837
 
 ### Remarks
 null

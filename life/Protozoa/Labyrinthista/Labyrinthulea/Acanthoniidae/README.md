@@ -1,5 +1,4 @@
-Acanthoniidae FAMILY
-=======
+# Acanthoniidae FAMILY
 
 #### Status
 ACCEPTED

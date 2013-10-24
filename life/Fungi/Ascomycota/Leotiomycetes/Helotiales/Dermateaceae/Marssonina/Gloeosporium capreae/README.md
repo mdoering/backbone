@@ -1,5 +1,4 @@
-Gloeosporium capreae Allesch., 1897 SPECIES
-=======
+# Gloeosporium capreae Allesch., 1897 SPECIES
 
 #### Status
 ACCEPTED

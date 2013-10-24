@@ -1,5 +1,4 @@
-Parmelia dispersa (Pers.) Ach. SPECIES
-=======
+# Parmelia dispersa (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

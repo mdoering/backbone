@@ -1,5 +1,4 @@
-Cercospora nigrescens G. Winter SPECIES
-=======
+# Cercospora nigrescens G. Winter SPECIES
 
 #### Status
 ACCEPTED

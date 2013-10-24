@@ -1,5 +1,4 @@
-Merulius dubius Lloyd SPECIES
-=======
+# Merulius dubius Lloyd SPECIES
 
 #### Status
 ACCEPTED

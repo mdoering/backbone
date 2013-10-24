@@ -1,5 +1,4 @@
-Stigmatea lomatiae Hansf. SPECIES
-=======
+# Stigmatea lomatiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

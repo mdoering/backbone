@@ -1,5 +1,4 @@
-Phyllosticta hedysari Byzova SPECIES
-=======
+# Phyllosticta hedysari Byzova SPECIES
 
 #### Status
 ACCEPTED

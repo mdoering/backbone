@@ -1,5 +1,4 @@
-Puccinia galii-elliptici Maire SPECIES
-=======
+# Puccinia galii-elliptici Maire SPECIES
 
 #### Status
 ACCEPTED

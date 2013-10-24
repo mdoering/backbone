@@ -1,5 +1,4 @@
-Naucoria inculta (Peck) Dissing SPECIES
-=======
+# Naucoria inculta (Peck) Dissing SPECIES
 
 #### Status
 ACCEPTED

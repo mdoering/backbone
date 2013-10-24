@@ -1,5 +1,4 @@
-Synchytrium solstitiale T.L. Widmer SPECIES
-=======
+# Synchytrium solstitiale T.L. Widmer SPECIES
 
 #### Status
 ACCEPTED

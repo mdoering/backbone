@@ -1,5 +1,4 @@
-Peziza myceticola Berk. & M.A. Curtis SPECIES
-=======
+# Peziza myceticola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

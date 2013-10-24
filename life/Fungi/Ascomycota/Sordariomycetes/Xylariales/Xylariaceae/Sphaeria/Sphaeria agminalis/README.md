@@ -1,5 +1,4 @@
-Sphaeria agminalis Lév. SPECIES
-=======
+# Sphaeria agminalis Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria hemisphaerica (Alb. & Schwein.) Sacc. SPECIES
-=======
+# Aposphaeria hemisphaerica (Alb. & Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

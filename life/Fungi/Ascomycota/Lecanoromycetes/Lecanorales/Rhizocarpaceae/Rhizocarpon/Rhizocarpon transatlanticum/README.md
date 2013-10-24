@@ -1,5 +1,4 @@
-Rhizocarpon transatlanticum (Räsänen) Räsänen SPECIES
-=======
+# Rhizocarpon transatlanticum (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

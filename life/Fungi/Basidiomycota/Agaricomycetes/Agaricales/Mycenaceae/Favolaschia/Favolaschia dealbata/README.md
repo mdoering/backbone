@@ -1,5 +1,4 @@
-Favolaschia dealbata Singer SPECIES
-=======
+# Favolaschia dealbata Singer SPECIES
 
 #### Status
 ACCEPTED

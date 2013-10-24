@@ -1,5 +1,4 @@
-Uromyces hermonis Magnus SPECIES
-=======
+# Uromyces hermonis Magnus SPECIES
 
 #### Status
 ACCEPTED

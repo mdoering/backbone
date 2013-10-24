@@ -1,5 +1,4 @@
-Vogesella Grimes et al., 1997 GENUS
-=======
+# Vogesella Grimes et al., 1997 GENUS
 
 #### Status
 ACCEPTED

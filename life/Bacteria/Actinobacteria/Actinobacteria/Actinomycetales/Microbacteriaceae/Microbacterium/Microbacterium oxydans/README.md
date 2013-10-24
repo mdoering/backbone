@@ -1,8 +1,7 @@
-Brevibacterium oxydans Chatelain and Second, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Microbacterium oxydans (Chatelain & Second, 1966) Schumann et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

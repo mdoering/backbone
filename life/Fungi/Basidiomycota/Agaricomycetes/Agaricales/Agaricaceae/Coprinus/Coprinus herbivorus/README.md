@@ -1,5 +1,4 @@
-Coprinus herbivorus Singer SPECIES
-=======
+# Coprinus herbivorus Singer SPECIES
 
 #### Status
 ACCEPTED

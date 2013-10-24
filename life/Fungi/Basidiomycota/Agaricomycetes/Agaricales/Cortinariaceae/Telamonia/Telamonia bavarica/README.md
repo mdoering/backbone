@@ -1,5 +1,4 @@
-Telamonia bavarica (M.M. Moser) Hlavácek SPECIES
-=======
+# Telamonia bavarica (M.M. Moser) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

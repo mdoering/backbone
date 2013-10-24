@@ -1,5 +1,4 @@
-Scopulariopsis stercoraria (Ehrenb.) S. Hughes SPECIES
-=======
+# Scopulariopsis stercoraria (Ehrenb.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

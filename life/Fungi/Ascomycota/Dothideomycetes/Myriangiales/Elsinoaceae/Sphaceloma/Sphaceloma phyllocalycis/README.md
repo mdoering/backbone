@@ -1,5 +1,4 @@
-Sphaceloma phyllocalycis Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma phyllocalycis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

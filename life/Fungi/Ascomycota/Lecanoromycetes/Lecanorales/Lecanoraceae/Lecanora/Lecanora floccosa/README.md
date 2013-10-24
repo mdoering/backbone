@@ -1,5 +1,4 @@
-Lecanora floccosa Motyka SPECIES
-=======
+# Lecanora floccosa Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allarthonia atropallida (Vain.) Zahlbr. SPECIES
-=======
+# Allarthonia atropallida (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

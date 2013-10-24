@@ -1,17 +1,16 @@
-Xanthoconium chattoogaensis Wolfe SPECIES
-=======
+# Xanthoconium chattoogaense Wolfe, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 65(10): 2143 (1987)
 
 #### Original name
-Xanthoconium chattoogaensis Wolfe
+Xanthoconium chattoogaense Wolfe, 1987
 
 ### Remarks
 null

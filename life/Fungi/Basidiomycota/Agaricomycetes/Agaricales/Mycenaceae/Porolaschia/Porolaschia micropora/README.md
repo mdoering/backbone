@@ -1,5 +1,4 @@
-Porolaschia micropora Pat. SPECIES
-=======
+# Porolaschia micropora Pat. SPECIES
 
 #### Status
 ACCEPTED

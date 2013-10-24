@@ -1,14 +1,13 @@
-Cystoderma paradoxum A.H. Sm. & Singer, 1948 SPECIES
-=======
+# Squamanita paradoxa (A.H. Sm. & Singer) Bas, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(4): 454 (1948)
+Persoonia 3(3): 348 (1965)
 
 #### Original name
 Cystoderma paradoxum A.H. Sm. & Singer, 1948

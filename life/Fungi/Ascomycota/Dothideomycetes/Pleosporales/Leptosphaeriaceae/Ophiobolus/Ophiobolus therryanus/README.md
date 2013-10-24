@@ -1,5 +1,4 @@
-Ophiobolus therryanus Sacc. & Roum. SPECIES
-=======
+# Ophiobolus therryanus Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

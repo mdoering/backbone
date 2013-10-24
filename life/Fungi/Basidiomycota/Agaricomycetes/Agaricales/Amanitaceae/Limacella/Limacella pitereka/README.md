@@ -1,5 +1,4 @@
-Limacella pitereka Grgur. SPECIES
-=======
+# Limacella pitereka Grgur. SPECIES
 
 #### Status
 ACCEPTED

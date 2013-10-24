@@ -1,5 +1,4 @@
-Cribrogloborotalia Cushman & Bermúdez, 1936 GENUS
-=======
+# Cribrogloborotalia Cushman & Bermúdez, 1936 GENUS
 
 #### Status
 ACCEPTED

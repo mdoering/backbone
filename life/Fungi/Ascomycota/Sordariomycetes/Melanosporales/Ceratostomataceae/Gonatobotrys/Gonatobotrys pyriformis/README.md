@@ -1,5 +1,4 @@
-Gonatobotrys pyriformis V. Rao, de Hoog & Najim SPECIES
-=======
+# Gonatobotrys pyriformis V. Rao, de Hoog & Najim SPECIES
 
 #### Status
 ACCEPTED

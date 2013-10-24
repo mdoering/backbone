@@ -1,5 +1,4 @@
-Umbilicaria torrida (Ach.) Nyl. SPECIES
-=======
+# Umbilicaria torrida (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

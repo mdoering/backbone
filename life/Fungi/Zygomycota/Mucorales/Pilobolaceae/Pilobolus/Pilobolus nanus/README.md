@@ -1,5 +1,4 @@
-Pilobolus nanus Tiegh. SPECIES
-=======
+# Pilobolus nanus Tiegh. SPECIES
 
 #### Status
 ACCEPTED

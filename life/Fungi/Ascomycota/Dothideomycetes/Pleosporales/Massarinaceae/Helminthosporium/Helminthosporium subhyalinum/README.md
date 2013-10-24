@@ -1,5 +1,4 @@
-Helminthosporium subhyalinum Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Helminthosporium subhyalinum Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

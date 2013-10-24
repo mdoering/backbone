@@ -1,5 +1,4 @@
-Septobasidium hakgalanum Couch SPECIES
-=======
+# Septobasidium hakgalanum Couch SPECIES
 
 #### Status
 ACCEPTED

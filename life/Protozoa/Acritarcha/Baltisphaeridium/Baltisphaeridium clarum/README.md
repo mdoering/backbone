@@ -1,5 +1,4 @@
-Baltisphaeridium clarum Pyatiletov, 1976 SPECIES
-=======
+# Baltisphaeridium clarum Pyatiletov, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Enerthenema papillatum var. syncarpon (Sturgis) G. Lister VARIETY
-=======
+# Enerthenema papillatum (Pers.) Rostaf., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 150 (1925)
+Sluzowce monogr. (Paryz), Suppl. 28 (1876)
 
 #### Original name
-Enerthenema syncarpon Sturgis, 1913
+Stemonitis papillata Pers., 1794
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Sphacelotheca cornuta (Syd., P. Syd.) Mundk., 1939 SPECIES
-=======
+# Sporisorium cornutum (Syd. & P. Syd.) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 23: 110 (1939)
+Mycotaxon 48: 40 (1993)
 
 #### Original name
 Ustilago cornuta Syd. & P. Syd., 1906

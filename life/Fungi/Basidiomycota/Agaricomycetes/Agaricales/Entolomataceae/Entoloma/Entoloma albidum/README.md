@@ -1,14 +1,13 @@
-Entoloma canum Hesler, 1974 SPECIES
-=======
+# Entoloma albidum Murrill, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 66(4): 717 (1974)
+N. Amer. Fl. (New York) 10(2): 119 (1917)
 
 #### Original name
 Entoloma albidum Murrill, 1917

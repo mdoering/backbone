@@ -1,5 +1,4 @@
-Hypocrea purpureosplendens Yoshim. Doi SPECIES
-=======
+# Hypocrea purpureosplendens Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

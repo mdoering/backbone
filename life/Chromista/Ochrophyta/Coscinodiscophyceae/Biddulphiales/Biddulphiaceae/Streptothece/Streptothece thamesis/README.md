@@ -1,5 +1,4 @@
-Streptothece thamesis Shrubsole SPECIES
-=======
+# Streptothece thamesis Shrubsole SPECIES
 
 #### Status
 ACCEPTED

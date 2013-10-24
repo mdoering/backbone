@@ -1,5 +1,4 @@
-Leptotrichia Trevisan GENUS
-=======
+# Leptotrichia Trevisan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stirtonia gibberulosa Groenh. ex Makhija & Patw. SPECIES
-=======
+# Stirtonia gibberulosa Groenh. ex Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

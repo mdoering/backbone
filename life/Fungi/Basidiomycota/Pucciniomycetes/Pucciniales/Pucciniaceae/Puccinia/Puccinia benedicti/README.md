@@ -1,5 +1,4 @@
-Puccinia benedicti P. Syd. & Syd. SPECIES
-=======
+# Puccinia benedicti P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

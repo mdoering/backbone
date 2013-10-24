@@ -1,5 +1,4 @@
-Ammobaculites exiguus Cushman & Brönnimann, 1948 SPECIES
-=======
+# Ammobaculites exiguus Cushman & Brönnimann, 1948 SPECIES
 
 #### Status
 ACCEPTED

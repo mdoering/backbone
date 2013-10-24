@@ -1,5 +1,4 @@
-Asterina myrsines A.K. Kar & Maity SPECIES
-=======
+# Asterina myrsines A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

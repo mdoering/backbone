@@ -1,5 +1,4 @@
-Psathyrella amarella A.H. Sm. SPECIES
-=======
+# Psathyrella amarella A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

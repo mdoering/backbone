@@ -1,5 +1,4 @@
-Amphimonas divaricans Kent, 1880 SPECIES
-=======
+# Amphimonas divaricans Kent, 1880 SPECIES
 
 #### Status
 ACCEPTED

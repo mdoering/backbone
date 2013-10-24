@@ -1,5 +1,4 @@
-Pseudocercospora clibadiicola U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora clibadiicola U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

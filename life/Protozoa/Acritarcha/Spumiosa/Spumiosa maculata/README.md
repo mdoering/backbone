@@ -1,5 +1,4 @@
-Spumiosa maculata Tynni & Uutela, 1984 ex Fensome et al., 1990 SPECIES
-=======
+# Spumiosa maculata Tynni & Uutela, 1984 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia ndianensis Henn. SPECIES
-=======
+# Omphalia ndianensis Henn. SPECIES
 
 #### Status
 ACCEPTED

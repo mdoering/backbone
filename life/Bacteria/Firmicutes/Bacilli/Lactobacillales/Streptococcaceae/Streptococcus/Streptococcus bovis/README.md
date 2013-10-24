@@ -1,5 +1,4 @@
-Streptococcus bovis Orla-Jensen, 1919 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus bovis Orla-Jensen, 1919 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

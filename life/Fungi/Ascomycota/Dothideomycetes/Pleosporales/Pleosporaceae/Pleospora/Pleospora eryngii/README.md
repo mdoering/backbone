@@ -1,5 +1,4 @@
-Pleospora eryngii Politis SPECIES
-=======
+# Pleospora eryngii Politis SPECIES
 
 #### Status
 ACCEPTED

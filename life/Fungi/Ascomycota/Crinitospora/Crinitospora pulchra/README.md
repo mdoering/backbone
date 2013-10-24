@@ -1,5 +1,4 @@
-Crinitospora pulchra B. Sutton & Alcorn, 1985 SPECIES
-=======
+# Crinitospora pulchra B. Sutton & Alcorn, 1985 SPECIES
 
 #### Status
 ACCEPTED

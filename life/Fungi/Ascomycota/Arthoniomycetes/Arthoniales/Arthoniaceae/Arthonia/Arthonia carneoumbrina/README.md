@@ -1,5 +1,4 @@
-Arthonia carneoumbrina Zahlbr. SPECIES
-=======
+# Arthonia carneoumbrina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

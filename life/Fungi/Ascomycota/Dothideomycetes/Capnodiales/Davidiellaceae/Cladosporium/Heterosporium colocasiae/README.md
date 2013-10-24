@@ -1,5 +1,4 @@
-Heterosporium colocasiae Massee SPECIES
-=======
+# Heterosporium colocasiae Massee SPECIES
 
 #### Status
 ACCEPTED

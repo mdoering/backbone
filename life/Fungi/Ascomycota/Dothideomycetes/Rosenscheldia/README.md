@@ -1,17 +1,16 @@
-Rosenschoeldia L. Holm GENUS
-=======
+# Rosenscheldia Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 19: 250 (1885)
 
 #### Original name
-Rosenschoeldia L. Holm
+Rosenscheldia Speg.
 
 ### Remarks
 null

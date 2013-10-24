@@ -1,5 +1,4 @@
-Aulographum panici-maximi Cif. SPECIES
-=======
+# Aulographum panici-maximi Cif. SPECIES
 
 #### Status
 ACCEPTED

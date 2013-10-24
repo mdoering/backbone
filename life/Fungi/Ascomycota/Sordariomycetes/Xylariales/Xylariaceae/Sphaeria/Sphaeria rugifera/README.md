@@ -1,5 +1,4 @@
-Sphaeria rugifera Opiz SPECIES
-=======
+# Sphaeria rugifera Opiz SPECIES
 
 #### Status
 ACCEPTED

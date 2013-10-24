@@ -1,5 +1,4 @@
-Planistromella cattleyae (E.K. Cash & A.M.J. Watson) Aptroot, 2006 SPECIES
-=======
+# Planistromella cattleyae (E.K. Cash & A.M.J. Watson) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

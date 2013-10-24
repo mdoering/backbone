@@ -1,5 +1,4 @@
-Caloplaca leproscescens S.N. Chr. SPECIES
-=======
+# Caloplaca leproscescens S.N. Chr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tamlana crocina Lee, 2007 SPECIES
-=======
+# Tamlana crocina Lee, 2007 SPECIES
 
 #### Status
 ACCEPTED

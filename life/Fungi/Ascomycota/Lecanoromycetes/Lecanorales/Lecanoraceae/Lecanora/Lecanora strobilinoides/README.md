@@ -1,5 +1,4 @@
-Lecanora strobilinoides Giralt & Gómez-Bolea SPECIES
-=======
+# Lecanora strobilinoides Giralt & Gómez-Bolea SPECIES
 
 #### Status
 ACCEPTED

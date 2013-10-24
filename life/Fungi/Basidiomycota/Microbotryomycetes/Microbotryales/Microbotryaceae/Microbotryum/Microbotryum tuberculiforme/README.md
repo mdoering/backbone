@@ -1,14 +1,13 @@
-Bauhinus tuberculiformis (Syd. & P. Syd.) Denchev & R.T. Moore, 2006 SPECIES
-=======
+# Microbotryum tuberculiforme (Syd. & P. Syd.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Denchev, Moore & Shin, Mycol. Balcanica 3(1): 74 (2006)
+Mycotaxon 67: 51 (1998)
 
 #### Original name
 Ustilago tuberculiformis Syd. & P. Syd., 1903

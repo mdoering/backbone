@@ -1,5 +1,4 @@
-Leucocryptos Butcher, 1967 GENUS
-=======
+# Leucocryptos Butcher, 1967 GENUS
 
 #### Status
 ACCEPTED

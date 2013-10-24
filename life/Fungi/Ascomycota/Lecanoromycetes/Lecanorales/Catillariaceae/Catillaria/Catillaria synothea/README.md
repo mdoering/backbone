@@ -1,5 +1,4 @@
-Catillaria synothea var. synothea VARIETY
-=======
+# Catillaria synothea (Ach.) Beltr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catillaria synothea var. synothea
+Lecidea synothea Ach.
 
 ### Remarks
 null

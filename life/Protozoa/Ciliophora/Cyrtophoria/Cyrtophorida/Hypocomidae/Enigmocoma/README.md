@@ -1,5 +1,4 @@
-Enigmocoma GENUS
-=======
+# Enigmocoma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopus vilchensis Garrido & E. Horak, 1988 SPECIES
-=======
+# Stephanopus vilchensis Garrido & E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

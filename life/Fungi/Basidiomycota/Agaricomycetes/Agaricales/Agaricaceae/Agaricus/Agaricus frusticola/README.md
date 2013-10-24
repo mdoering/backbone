@@ -1,5 +1,4 @@
-Agaricus frusticola Berk. SPECIES
-=======
+# Agaricus frusticola Berk. SPECIES
 
 #### Status
 ACCEPTED

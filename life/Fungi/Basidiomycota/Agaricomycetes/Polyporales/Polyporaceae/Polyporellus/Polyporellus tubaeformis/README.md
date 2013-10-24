@@ -1,5 +1,4 @@
-Polyporellus tubaeformis (P. Karst.) P. Karst. SPECIES
-=======
+# Polyporellus tubaeformis (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

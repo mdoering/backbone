@@ -1,5 +1,4 @@
-Helotium sazavae Velen. SPECIES
-=======
+# Helotium sazavae Velen. SPECIES
 
 #### Status
 ACCEPTED

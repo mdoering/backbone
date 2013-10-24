@@ -1,5 +1,4 @@
-Hymenoscyphus exiguus (Cooke) Kuntze SPECIES
-=======
+# Hymenoscyphus exiguus (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

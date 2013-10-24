@@ -1,5 +1,4 @@
-Rhizocarpon clauzadei B. de Lesd. SPECIES
-=======
+# Rhizocarpon clauzadei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

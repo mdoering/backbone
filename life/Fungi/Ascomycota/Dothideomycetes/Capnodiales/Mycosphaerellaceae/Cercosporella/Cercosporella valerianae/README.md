@@ -1,5 +1,4 @@
-Cercosporella valerianae Siemaszko SPECIES
-=======
+# Cercosporella valerianae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

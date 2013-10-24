@@ -1,5 +1,4 @@
-Phaeographina chrysocarpa var. chrysocarpa VARIETY
-=======
+# Phaeographina chrysocarpa (Raddi) Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ark. Bot. 26A(1): 83 (1934)
 
 #### Original name
-Phaeographina chrysocarpa var. chrysocarpa
+Graphis chrysocarpa (Raddi) Spreng.
 
 ### Remarks
 null

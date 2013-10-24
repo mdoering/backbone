@@ -1,5 +1,4 @@
-Parmelia marina SPECIES
-=======
+# Parmelia marina SPECIES
 
 #### Status
 ACCEPTED

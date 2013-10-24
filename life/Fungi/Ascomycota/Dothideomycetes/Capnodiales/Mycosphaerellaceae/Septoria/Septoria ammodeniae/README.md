@@ -1,5 +1,4 @@
-Septoria ammodeniae Dearn. SPECIES
-=======
+# Septoria ammodeniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyella adnata (Berk. & M.A. Curtis) Pfister SPECIES
-=======
+# Pachyella adnata (Berk. & M.A. Curtis) Pfister SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma gorakhpurensis Kamal & P. Kumar SPECIES
-=======
+# Phoma gorakhpurensis Kamal & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodiacrodium torum Rasul, 1979 SPECIES
-=======
+# Lophodiacrodium torum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidelia beckettii Stirt. SPECIES
-=======
+# Aspidelia beckettii Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia mycoporoides Müll. Arg. SPECIES
-=======
+# Arthopyrenia mycoporoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

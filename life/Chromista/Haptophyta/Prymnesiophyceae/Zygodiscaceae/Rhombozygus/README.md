@@ -1,5 +1,4 @@
-Rhombozygus S.I. Shumenko, 1975 GENUS
-=======
+# Rhombozygus S.I. Shumenko, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parahsuum Yao, 1982 GENUS
-=======
+# Parahsuum Yao, 1982 GENUS
 
 #### Status
 ACCEPTED

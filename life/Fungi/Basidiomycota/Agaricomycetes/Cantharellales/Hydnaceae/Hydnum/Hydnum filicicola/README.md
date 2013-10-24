@@ -1,17 +1,16 @@
-Hydnum filicocola Berk. SPECIES
-=======
+# Hydnum filicicola Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hooker, Flora Tasman. , Fungi 2: 256 (1859)
 
 #### Original name
-Hydnum filicocola Berk.
+Hydnum filicicola Berk.
 
 ### Remarks
 null

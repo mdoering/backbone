@@ -1,5 +1,4 @@
-Hypoxylina discina Lloyd SPECIES
-=======
+# Hypoxylina discina Lloyd SPECIES
 
 #### Status
 ACCEPTED

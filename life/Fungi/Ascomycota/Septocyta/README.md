@@ -1,5 +1,4 @@
-Septocyta Petrak, 1927 GENUS
-=======
+# Septocyta Petrak, 1927 GENUS
 
 #### Status
 ACCEPTED

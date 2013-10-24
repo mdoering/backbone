@@ -1,5 +1,4 @@
-Stichomyces stilicicola Thaxt. SPECIES
-=======
+# Stichomyces stilicicola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

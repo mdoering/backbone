@@ -1,5 +1,4 @@
-Trichocladium angelicum A. Roldán & Honrubia SPECIES
-=======
+# Trichocladium angelicum A. Roldán & Honrubia SPECIES
 
 #### Status
 ACCEPTED

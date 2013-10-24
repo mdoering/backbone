@@ -1,5 +1,4 @@
-Inonotus ungulatus Ryvarden, 2005 SPECIES
-=======
+# Inonotus ungulatus Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leuconostoc durionis Leisner et al., 2005 SPECIES
-=======
+# Leuconostoc durionis Leisner et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

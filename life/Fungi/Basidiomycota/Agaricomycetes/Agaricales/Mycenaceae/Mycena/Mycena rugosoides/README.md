@@ -1,5 +1,4 @@
-Mycena rugosoides Peck SPECIES
-=======
+# Mycena rugosoides Peck SPECIES
 
 #### Status
 ACCEPTED

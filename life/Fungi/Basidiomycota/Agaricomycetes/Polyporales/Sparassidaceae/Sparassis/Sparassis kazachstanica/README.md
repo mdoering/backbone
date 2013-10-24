@@ -1,5 +1,4 @@
-Sparassis kazachstanica Schwarzman SPECIES
-=======
+# Sparassis kazachstanica Schwarzman SPECIES
 
 #### Status
 ACCEPTED

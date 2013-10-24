@@ -1,5 +1,4 @@
-Castraltia A. Richard in Dumont d'Urville, 1834 GENUS
-=======
+# Castraltia A. Richard in Dumont d'Urville, 1834 GENUS
 
 #### Status
 ACCEPTED

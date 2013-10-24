@@ -1,5 +1,4 @@
-Lecidea inscripta Stizenb. SPECIES
-=======
+# Lecidea inscripta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

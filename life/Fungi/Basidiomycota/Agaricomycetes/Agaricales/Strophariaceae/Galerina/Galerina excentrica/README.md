@@ -1,5 +1,4 @@
-Galerina excentrica E. Horak, 1988 SPECIES
-=======
+# Galerina excentrica E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

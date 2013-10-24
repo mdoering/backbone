@@ -1,14 +1,13 @@
-Phaeoisariopsis neoboutonia (Hansf.) S.C. Jong & E.F. Morris SPECIES
-=======
+# Phaeoisariopsis neoboutoniae (Hansf.) S.C. Jong & E.F. Morris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 34: 271 (1968)
 
 #### Original name
 Isariopsis neoboutoniae Hansf.

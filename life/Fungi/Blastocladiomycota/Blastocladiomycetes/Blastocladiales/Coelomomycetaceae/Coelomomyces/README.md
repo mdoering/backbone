@@ -1,5 +1,4 @@
-Coelomomyces Keilin GENUS
-=======
+# Coelomomyces Keilin GENUS
 
 #### Status
 ACCEPTED

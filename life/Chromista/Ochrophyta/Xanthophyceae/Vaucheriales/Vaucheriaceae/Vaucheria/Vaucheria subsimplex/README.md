@@ -1,8 +1,7 @@
-Vaucheria sphaerospora Nordstedt SPECIES
-=======
+# Vaucheria subsimplex P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

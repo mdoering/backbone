@@ -1,5 +1,4 @@
-Conoplea puccinioides DC. SPECIES
-=======
+# Conoplea puccinioides DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptopuccinia salviae (Unger) Syd. SPECIES
-=======
+# Leptopuccinia salviae (Unger) Syd. SPECIES
 
 #### Status
 ACCEPTED

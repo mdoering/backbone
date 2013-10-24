@@ -1,5 +1,4 @@
-Pluteus microsporus (Dennis) Singer SPECIES
-=======
+# Pluteus microsporus (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marginotricha Jankowski, 1978 GENUS
-=======
+# Marginotricha Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

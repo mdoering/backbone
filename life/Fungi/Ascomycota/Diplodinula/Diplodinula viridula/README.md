@@ -1,5 +1,4 @@
-Diplodinula viridula (Sacc. & P. Syd.) Tassi SPECIES
-=======
+# Diplodinula viridula (Sacc. & P. Syd.) Tassi SPECIES
 
 #### Status
 ACCEPTED

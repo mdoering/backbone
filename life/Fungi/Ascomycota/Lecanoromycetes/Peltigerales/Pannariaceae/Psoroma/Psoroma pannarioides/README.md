@@ -1,5 +1,4 @@
-Psoroma pannarioides Henssen SPECIES
-=======
+# Psoroma pannarioides Henssen SPECIES
 
 #### Status
 ACCEPTED

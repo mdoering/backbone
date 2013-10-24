@@ -1,5 +1,4 @@
-Volutella isabellina (Corda) Sacc. SPECIES
-=======
+# Volutella isabellina (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

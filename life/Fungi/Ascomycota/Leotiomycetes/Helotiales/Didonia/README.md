@@ -1,5 +1,4 @@
-Didonia Velenovský, 1934 GENUS
-=======
+# Didonia Velenovský, 1934 GENUS
 
 #### Status
 ACCEPTED

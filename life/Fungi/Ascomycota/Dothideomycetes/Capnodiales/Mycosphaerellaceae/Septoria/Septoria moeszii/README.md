@@ -1,5 +1,4 @@
-Septoria moeszii Smarods SPECIES
-=======
+# Septoria moeszii Smarods SPECIES
 
 #### Status
 ACCEPTED

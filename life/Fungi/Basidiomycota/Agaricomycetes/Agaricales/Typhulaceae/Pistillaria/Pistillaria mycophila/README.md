@@ -1,5 +1,4 @@
-Pistillaria mycophila (Fuckel) Corner SPECIES
-=======
+# Pistillaria mycophila (Fuckel) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo planiuscula Mont. SPECIES
-=======
+# Uredo planiuscula Mont. SPECIES
 
 #### Status
 ACCEPTED

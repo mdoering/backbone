@@ -1,5 +1,4 @@
-Phyllosticta tayuvae Viégas SPECIES
-=======
+# Phyllosticta tayuvae Viégas SPECIES
 
 #### Status
 ACCEPTED

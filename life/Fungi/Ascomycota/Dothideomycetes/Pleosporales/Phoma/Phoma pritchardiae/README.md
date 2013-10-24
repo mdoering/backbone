@@ -1,5 +1,4 @@
-Phoma pritchardiae subsp. pritchardiae SUBSPECIES
-=======
+# Phoma pritchardiae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma pritchardiae subsp. pritchardiae
+Phoma pritchardiae Cooke & Harkn.
 
 ### Remarks
 null

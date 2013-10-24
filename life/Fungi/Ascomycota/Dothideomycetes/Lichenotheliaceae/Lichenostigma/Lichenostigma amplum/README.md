@@ -1,5 +1,4 @@
-Lichenostigma amplum Calat. & Hafellner SPECIES
-=======
+# Lichenostigma amplum Calat. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

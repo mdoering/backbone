@@ -1,5 +1,4 @@
-Trichopeltula hedycaryae Theiss., 1914 SPECIES
-=======
+# Trichopeltula hedycaryae Theiss., 1914 SPECIES
 
 #### Status
 ACCEPTED

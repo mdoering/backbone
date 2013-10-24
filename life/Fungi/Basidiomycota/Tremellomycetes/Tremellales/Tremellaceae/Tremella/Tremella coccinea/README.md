@@ -1,5 +1,4 @@
-Tremella coccinea Scop. SPECIES
-=======
+# Tremella coccinea Scop. SPECIES
 
 #### Status
 ACCEPTED

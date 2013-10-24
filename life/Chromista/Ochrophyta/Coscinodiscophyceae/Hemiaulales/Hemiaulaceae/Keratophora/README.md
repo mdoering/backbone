@@ -1,5 +1,4 @@
-Keratophora Pantocsek, 1889 GENUS
-=======
+# Keratophora Pantocsek, 1889 GENUS
 
 #### Status
 ACCEPTED

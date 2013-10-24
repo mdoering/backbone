@@ -1,5 +1,4 @@
-Phyllosticta psoraleae (Cooke) Tassi SPECIES
-=======
+# Phyllosticta psoraleae (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

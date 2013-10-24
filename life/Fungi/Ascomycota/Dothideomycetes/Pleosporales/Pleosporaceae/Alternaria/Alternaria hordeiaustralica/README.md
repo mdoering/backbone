@@ -1,5 +1,4 @@
-Alternaria hordeiaustralica E.G. Simmons & Alcorn SPECIES
-=======
+# Alternaria hordeiaustralica E.G. Simmons & Alcorn SPECIES
 
 #### Status
 ACCEPTED

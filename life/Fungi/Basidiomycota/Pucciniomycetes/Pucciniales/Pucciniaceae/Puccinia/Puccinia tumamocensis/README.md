@@ -1,5 +1,4 @@
-Puccinia tumamocensis Arthur SPECIES
-=======
+# Puccinia tumamocensis Arthur SPECIES
 
 #### Status
 ACCEPTED

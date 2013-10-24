@@ -1,5 +1,4 @@
-Nummulites complanatus Lamarck SPECIES
-=======
+# Nummulites complanatus Lamarck SPECIES
 
 #### Status
 ACCEPTED

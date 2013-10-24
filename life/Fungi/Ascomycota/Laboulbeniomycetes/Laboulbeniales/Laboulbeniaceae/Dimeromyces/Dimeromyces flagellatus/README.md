@@ -1,5 +1,4 @@
-Dimeromyces flagellatus Thaxt. SPECIES
-=======
+# Dimeromyces flagellatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

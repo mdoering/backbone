@@ -1,5 +1,4 @@
-Melanconidium salicinum (Ellis & Everh.) Kuntze SPECIES
-=======
+# Melanconidium salicinum (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

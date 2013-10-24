@@ -1,5 +1,4 @@
-Aposphaeria freticola Speg. SPECIES
-=======
+# Aposphaeria freticola Speg. SPECIES
 
 #### Status
 ACCEPTED

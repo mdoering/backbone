@@ -1,5 +1,4 @@
-Discorsia nanna (Davey, 1974) Duxbury SPECIES
-=======
+# Discorsia nanna (Davey, 1974) Duxbury SPECIES
 
 #### Status
 ACCEPTED

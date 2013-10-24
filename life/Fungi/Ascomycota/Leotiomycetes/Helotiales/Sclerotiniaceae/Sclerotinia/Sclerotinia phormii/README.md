@@ -1,5 +1,4 @@
-Sclerotinia phormii J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Sclerotinia phormii J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

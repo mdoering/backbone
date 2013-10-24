@@ -1,5 +1,4 @@
-Asteridiella premnae (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella premnae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

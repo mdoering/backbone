@@ -1,17 +1,16 @@
-Ganoderma hildebrandi Henn. SPECIES
-=======
+# Ganoderma hildebrandii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patouillard, Bull. Soc. mycol. Fr. 5(2,3): 69 (1889)
 
 #### Original name
-Ganoderma hildebrandi Henn.
+Ganoderma hildebrandii Henn.
 
 ### Remarks
 null

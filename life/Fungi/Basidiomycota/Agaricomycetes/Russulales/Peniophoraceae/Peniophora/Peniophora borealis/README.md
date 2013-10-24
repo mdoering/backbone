@@ -1,5 +1,4 @@
-Peniophora borealis (Peck) Burt SPECIES
-=======
+# Peniophora borealis (Peck) Burt SPECIES
 
 #### Status
 ACCEPTED

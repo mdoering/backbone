@@ -1,5 +1,4 @@
-Euglena anabaena var. minima Mainx VARIETY
-=======
+# Euglena anabaena Mainx SPECIES
 
 #### Status
 ACCEPTED

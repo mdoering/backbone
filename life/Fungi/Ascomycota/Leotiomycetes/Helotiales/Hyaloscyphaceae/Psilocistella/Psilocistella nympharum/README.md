@@ -1,14 +1,13 @@
-Scutellinia nympharum (Velen.) Svrcek & Kubicka, 1961 SPECIES
-=======
+# Psilocistella nympharum (Velen.) Svrcek, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 15: 63 (1961)
+Ceská Mykol. 39(4): 213 (1985)
 
 #### Original name
 Hyaloscypha nympharum Velen., 1934

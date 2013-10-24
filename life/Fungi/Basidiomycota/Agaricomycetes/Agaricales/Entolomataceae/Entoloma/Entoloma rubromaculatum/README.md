@@ -1,5 +1,4 @@
-Entoloma rubromaculatum Corner & E. Horak SPECIES
-=======
+# Entoloma rubromaculatum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemastrum Raf. GENUS
-=======
+# Stemastrum Raf. GENUS
 
 #### Status
 ACCEPTED

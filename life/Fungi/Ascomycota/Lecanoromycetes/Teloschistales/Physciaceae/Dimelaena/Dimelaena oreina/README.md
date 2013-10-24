@@ -1,17 +1,16 @@
-Rinodina hueana f. hueana FORM
-=======
+# Dimelaena oreina (Ach.) Norman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nytt Mag. Natur. 7: 231 (1853)
 
 #### Original name
-Rinodina hueana f. hueana
+null
 
 ### Remarks
 null

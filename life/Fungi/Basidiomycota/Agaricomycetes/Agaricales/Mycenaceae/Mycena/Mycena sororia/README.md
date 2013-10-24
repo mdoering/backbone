@@ -1,5 +1,4 @@
-Mycena sororia Perr.-Bertr., Boissel. & Lambourd. SPECIES
-=======
+# Mycena sororia Perr.-Bertr., Boissel. & Lambourd. SPECIES
 
 #### Status
 ACCEPTED

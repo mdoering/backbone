@@ -1,5 +1,4 @@
-Ruvalia Volkova, 1999 GENUS
-=======
+# Ruvalia Volkova, 1999 GENUS
 
 #### Status
 ACCEPTED

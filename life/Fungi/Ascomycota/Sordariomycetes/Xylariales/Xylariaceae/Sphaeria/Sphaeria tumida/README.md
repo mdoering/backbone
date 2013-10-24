@@ -1,5 +1,4 @@
-Sphaeria tumida Pers. SPECIES
-=======
+# Sphaeria tumida Pers. SPECIES
 
 #### Status
 ACCEPTED

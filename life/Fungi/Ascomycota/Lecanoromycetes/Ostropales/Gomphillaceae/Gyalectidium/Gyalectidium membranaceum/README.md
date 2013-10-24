@@ -1,5 +1,4 @@
-Gyalectidium membranaceum Sérus. & Lücking SPECIES
-=======
+# Gyalectidium membranaceum Sérus. & Lücking SPECIES
 
 #### Status
 ACCEPTED

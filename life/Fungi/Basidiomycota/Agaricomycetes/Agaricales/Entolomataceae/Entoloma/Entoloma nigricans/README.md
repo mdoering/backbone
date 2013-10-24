@@ -1,5 +1,4 @@
-Entoloma nigricans Peck SPECIES
-=======
+# Entoloma nigricans Peck SPECIES
 
 #### Status
 ACCEPTED

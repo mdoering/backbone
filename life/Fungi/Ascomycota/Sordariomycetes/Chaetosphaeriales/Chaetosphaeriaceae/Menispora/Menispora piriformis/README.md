@@ -1,5 +1,4 @@
-Menispora piriformis Preuss SPECIES
-=======
+# Menispora piriformis Preuss SPECIES
 
 #### Status
 ACCEPTED

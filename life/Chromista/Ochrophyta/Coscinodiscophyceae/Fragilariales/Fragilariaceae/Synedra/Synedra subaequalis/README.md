@@ -1,5 +1,4 @@
-Synedra subaequalis Grunow SPECIES
-=======
+# Synedra subaequalis Grunow SPECIES
 
 #### Status
 ACCEPTED

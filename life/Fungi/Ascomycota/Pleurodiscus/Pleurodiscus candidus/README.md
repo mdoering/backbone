@@ -1,5 +1,4 @@
-Pleurodiscus candidus SPECIES
-=======
+# Pleurodiscus candidus SPECIES
 
 #### Status
 ACCEPTED

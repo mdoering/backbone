@@ -1,17 +1,16 @@
-Flammula spumosa var. spumosa VARIETY
-=======
+# Pholiota spumosa (Fr.) Singer, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 81 (1871)
+Lilloa 22: 517 (1948)
 
 #### Original name
-Flammula spumosa var. spumosa
+Agaricus spumosus Fr., 1821
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Phyllachora pariti-tiliacei Chardón SPECIES
-=======
+# Phyllachora paritii-tiliacei Chardón, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boln Soc. Venez. Cienc. Nat. 5(40): 354 (1939)
 
 #### Original name
-Phyllachora pariti-tiliacei Chardón
+Phyllachora paritii-tiliacei Chardón, 1939
 
 ### Remarks
 null

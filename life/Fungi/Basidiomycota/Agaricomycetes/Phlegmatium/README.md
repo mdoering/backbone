@@ -1,5 +1,4 @@
-Phlegmatium Fr. GENUS
-=======
+# Phlegmatium Fr. GENUS
 
 #### Status
 ACCEPTED

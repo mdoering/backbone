@@ -1,5 +1,4 @@
-Harpographium nematosporum Penz. & Sacc. SPECIES
-=======
+# Harpographium nematosporum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

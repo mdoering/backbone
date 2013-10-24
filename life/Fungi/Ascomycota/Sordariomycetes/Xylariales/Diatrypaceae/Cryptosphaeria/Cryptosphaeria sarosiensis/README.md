@@ -1,5 +1,4 @@
-Cryptosphaeria sarosiensis Hazsl. SPECIES
-=======
+# Cryptosphaeria sarosiensis Hazsl. SPECIES
 
 #### Status
 ACCEPTED

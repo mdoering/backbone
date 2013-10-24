@@ -1,14 +1,13 @@
-Cheilariopsis urticae (Fr.) Petr., 1959 SPECIES
-=======
+# Aporhytisma urticae (Fr.) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 13: 63 (1959)
+Annls mycol. 15(5): 318 (1917)
 
 #### Original name
 null

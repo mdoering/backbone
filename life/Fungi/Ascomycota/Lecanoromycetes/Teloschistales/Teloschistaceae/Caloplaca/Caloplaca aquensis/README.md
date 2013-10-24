@@ -1,5 +1,4 @@
-Caloplaca aquensis Houmeau & Cl. Roux SPECIES
-=======
+# Caloplaca aquensis Houmeau & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

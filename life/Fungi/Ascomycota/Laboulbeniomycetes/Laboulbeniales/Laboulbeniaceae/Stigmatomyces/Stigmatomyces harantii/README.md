@@ -1,17 +1,16 @@
-Stigmatomyces haranti H.L. Dainat SPECIES
-=======
+# Stigmatomyces harantii H.L. Dainat SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Parasit. hum. comp. 45(1): 131 (1970)
 
 #### Original name
-Stigmatomyces haranti H.L. Dainat
+Stigmatomyces harantii H.L. Dainat
 
 ### Remarks
 null

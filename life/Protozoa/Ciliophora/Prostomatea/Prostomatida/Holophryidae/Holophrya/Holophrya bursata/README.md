@@ -1,5 +1,4 @@
-Holophrya bursata SPECIES
-=======
+# Holophrya bursata SPECIES
 
 #### Status
 ACCEPTED

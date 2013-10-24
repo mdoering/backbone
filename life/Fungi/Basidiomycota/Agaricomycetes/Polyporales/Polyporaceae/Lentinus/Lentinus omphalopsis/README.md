@@ -1,5 +1,4 @@
-Lentinus omphalopsis Reichert SPECIES
-=======
+# Lentinus omphalopsis Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta michailovskoensis Elenkin & Ohl SPECIES
-=======
+# Phyllosticta michailovskoensis Elenkin & Ohl SPECIES
 
 #### Status
 ACCEPTED

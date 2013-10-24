@@ -1,5 +1,4 @@
-Clavaria simulans Berk. & Broome SPECIES
-=======
+# Clavaria simulans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

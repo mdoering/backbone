@@ -1,14 +1,13 @@
-Graphis contexta (Pers.) Nyl. SPECIES
-=======
+# Phaeographina contexta (Pers.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Balfour, Trans. R. Soc. Edinb. 31: 379 (1888)
 
 #### Original name
 Emblemia contexta Pers.

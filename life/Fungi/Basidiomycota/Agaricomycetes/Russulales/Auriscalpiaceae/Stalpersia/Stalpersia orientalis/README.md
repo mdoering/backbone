@@ -1,5 +1,4 @@
-Stalpersia orientalis Parmasto, 2001 SPECIES
-=======
+# Stalpersia orientalis Parmasto, 2001 SPECIES
 
 #### Status
 ACCEPTED

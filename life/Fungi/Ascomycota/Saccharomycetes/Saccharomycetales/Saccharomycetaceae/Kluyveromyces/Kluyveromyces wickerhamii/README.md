@@ -1,17 +1,16 @@
-Dekkeromyces wickerhamii (Phaff, M.W. Mill. & Shifrine) Santa María & Sánchez Nieto, 1970 SPECIES
-=======
+# Kluyveromyces wickerhamii (Phaff, M.W. Mill. & Shifrine) Van der Walt, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 38(3): 418 (1971)
 
 #### Original name
-null
+Saccharomyces wickerhamii Phaff, M.W. Mill. & Shifrine, 1956
 
 ### Remarks
 null

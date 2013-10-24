@@ -1,5 +1,4 @@
-Stagonospora myricae Ellis & Everh. SPECIES
-=======
+# Stagonospora myricae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

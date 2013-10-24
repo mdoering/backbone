@@ -1,5 +1,4 @@
-Dacryopinax formosus Courtec. & Lowy, 1990 SPECIES
-=======
+# Dacryopinax formosus Courtec. & Lowy, 1990 SPECIES
 
 #### Status
 ACCEPTED

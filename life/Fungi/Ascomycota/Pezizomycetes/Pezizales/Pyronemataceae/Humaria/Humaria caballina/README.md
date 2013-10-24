@@ -1,5 +1,4 @@
-Humaria caballina Rehm SPECIES
-=======
+# Humaria caballina Rehm SPECIES
 
 #### Status
 ACCEPTED

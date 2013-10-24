@@ -1,5 +1,4 @@
-Discoaster mendomobensis S.W. Wise SPECIES
-=======
+# Discoaster mendomobensis S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

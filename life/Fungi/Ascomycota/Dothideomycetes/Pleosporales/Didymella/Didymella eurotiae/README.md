@@ -1,5 +1,4 @@
-Didymella eurotiae Fairm. SPECIES
-=======
+# Didymella eurotiae Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon fontanesii Durieu & Mont. SPECIES
-=======
+# Lycoperdon fontanesii Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

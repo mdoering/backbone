@@ -1,5 +1,4 @@
-Propolina cervina Sacc., 1884 SPECIES
-=======
+# Propolina cervina Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

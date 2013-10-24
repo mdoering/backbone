@@ -1,5 +1,4 @@
-Pyxine richardsii Swinscow & Krog SPECIES
-=======
+# Pyxine richardsii Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

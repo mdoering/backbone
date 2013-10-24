@@ -1,5 +1,4 @@
-Aspergillus leucocarpus Hadlok & Stolk, 1969 SPECIES
-=======
+# Aspergillus leucocarpus Hadlok & Stolk, 1969 SPECIES
 
 #### Status
 ACCEPTED

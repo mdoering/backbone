@@ -1,5 +1,4 @@
-Tulostoma squamosum Pers., 1801 SPECIES
-=======
+# Tulostoma squamosum Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED

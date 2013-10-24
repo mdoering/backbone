@@ -1,8 +1,7 @@
-Mrázekiella Kijenskii, 1926 GENUS
-=======
+# Mrazekiella Kijenskii, 1926 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

@@ -1,5 +1,4 @@
-Melampsoridium caryophyllacearum J. Schröt. SPECIES
-=======
+# Melampsoridium caryophyllacearum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

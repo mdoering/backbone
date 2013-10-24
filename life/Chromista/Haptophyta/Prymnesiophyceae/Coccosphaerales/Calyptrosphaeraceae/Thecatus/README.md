@@ -1,5 +1,4 @@
-Thecatus J.A. Lees, 2007 GENUS
-=======
+# Thecatus J.A. Lees, 2007 GENUS
 
 #### Status
 ACCEPTED

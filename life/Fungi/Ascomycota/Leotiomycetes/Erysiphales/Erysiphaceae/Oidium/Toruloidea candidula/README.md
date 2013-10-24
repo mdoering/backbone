@@ -1,5 +1,4 @@
-Toruloidea candidula (Sacc.) Sumst. SPECIES
-=======
+# Toruloidea candidula (Sacc.) Sumst. SPECIES
 
 #### Status
 ACCEPTED

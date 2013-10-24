@@ -1,5 +1,4 @@
-Peziza laxmanni Weinm. SPECIES
-=======
+# Peziza laxmanni Weinm. SPECIES
 
 #### Status
 ACCEPTED

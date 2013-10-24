@@ -1,5 +1,4 @@
-Exosporium pedunculatum (Ellis & Everh.) W.B. Cooke SPECIES
-=======
+# Exosporium pedunculatum (Ellis & Everh.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

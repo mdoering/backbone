@@ -1,5 +1,4 @@
-Haplophragmoides columbiensis Cushman, 1925 SPECIES
-=======
+# Haplophragmoides columbiensis Cushman, 1925 SPECIES
 
 #### Status
 ACCEPTED

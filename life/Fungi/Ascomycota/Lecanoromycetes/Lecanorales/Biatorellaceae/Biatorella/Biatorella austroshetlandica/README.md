@@ -1,5 +1,4 @@
-Biatorella austroshetlandica C.W. Dodge SPECIES
-=======
+# Biatorella austroshetlandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

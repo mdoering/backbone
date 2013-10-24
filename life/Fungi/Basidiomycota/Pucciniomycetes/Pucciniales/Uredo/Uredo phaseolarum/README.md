@@ -1,17 +1,16 @@
-Uredo phaseolorum R. Hedw. ex DC. SPECIES
-=======
+# Uredo phaseolarum R. Hedw. ex DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Encycl. Méth. Bot. 8: 221 (1810)
 
 #### Original name
-Uredo phaseolorum R. Hedw. ex DC.
+Uredo phaseolarum R. Hedw. ex DC.
 
 ### Remarks
 null

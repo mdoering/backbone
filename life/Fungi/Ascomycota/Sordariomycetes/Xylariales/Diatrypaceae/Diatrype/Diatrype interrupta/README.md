@@ -1,5 +1,4 @@
-Diatrype interrupta (Mont.) Mont. & Fr. SPECIES
-=======
+# Diatrype interrupta (Mont.) Mont. & Fr. SPECIES
 
 #### Status
 ACCEPTED

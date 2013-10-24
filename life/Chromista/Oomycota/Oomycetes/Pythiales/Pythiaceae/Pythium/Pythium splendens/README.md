@@ -1,17 +1,16 @@
-Pythium splendens var. hawaiianum Sideris, 1932 VARIETY
-=======
+# Pythium splendens Hans Braun, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Journal of Agricultural Research 30: 1061 (1925)
 
 #### Original name
-null
+Pythium splendens Hans Braun, 1925
 
 ### Remarks
 null

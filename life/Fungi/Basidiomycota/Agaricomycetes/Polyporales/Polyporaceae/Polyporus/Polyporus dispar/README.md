@@ -1,5 +1,4 @@
-Polyporus dispar Kalchbr. SPECIES
-=======
+# Polyporus dispar Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

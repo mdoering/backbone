@@ -1,5 +1,4 @@
-Candida pseudohaemulonii Sugita, M. Takash., Poonwan & Mekha SPECIES
-=======
+# Candida pseudohaemulonii Sugita, M. Takash., Poonwan & Mekha SPECIES
 
 #### Status
 ACCEPTED

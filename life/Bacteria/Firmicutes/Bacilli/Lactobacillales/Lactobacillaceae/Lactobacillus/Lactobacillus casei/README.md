@@ -1,5 +1,4 @@
-Lactobacillus casei subsp. casei SUBSPECIES
-=======
+# Lactobacillus casei (Orla-Jensen, 1916) Hansen & Lessel, 1971 SPECIES
 
 #### Status
 ACCEPTED

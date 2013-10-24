@@ -1,5 +1,4 @@
-Lecidea pennina Schaer. SPECIES
-=======
+# Lecidea pennina Schaer. SPECIES
 
 #### Status
 ACCEPTED

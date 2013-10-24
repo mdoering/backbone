@@ -1,5 +1,4 @@
-Phoma ambiens Syd. SPECIES
-=======
+# Phoma ambiens Syd. SPECIES
 
 #### Status
 ACCEPTED

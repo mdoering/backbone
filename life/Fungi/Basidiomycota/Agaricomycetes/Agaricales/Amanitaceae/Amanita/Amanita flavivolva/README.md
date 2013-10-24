@@ -1,5 +1,4 @@
-Amanita flavivolva Murrill SPECIES
-=======
+# Amanita flavivolva Murrill SPECIES
 
 #### Status
 ACCEPTED

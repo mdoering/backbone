@@ -1,5 +1,4 @@
-Agaricus ochraceospadiceus J. Otto SPECIES
-=======
+# Agaricus ochraceospadiceus J. Otto SPECIES
 
 #### Status
 ACCEPTED

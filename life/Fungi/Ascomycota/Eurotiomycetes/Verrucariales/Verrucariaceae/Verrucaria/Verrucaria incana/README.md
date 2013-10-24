@@ -1,5 +1,4 @@
-Verrucaria incana (L.) P. Gaertn., G. Mey. & Scherb. SPECIES
-=======
+# Verrucaria incana (L.) P. Gaertn., G. Mey. & Scherb. SPECIES
 
 #### Status
 ACCEPTED

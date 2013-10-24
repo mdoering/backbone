@@ -1,5 +1,4 @@
-Leptosphaeria amphiloga Petr. SPECIES
-=======
+# Leptosphaeria amphiloga Petr. SPECIES
 
 #### Status
 ACCEPTED

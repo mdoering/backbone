@@ -1,5 +1,4 @@
-Cylindrosporium typhae Sacc. SPECIES
-=======
+# Cylindrosporium typhae Sacc. SPECIES
 
 #### Status
 ACCEPTED

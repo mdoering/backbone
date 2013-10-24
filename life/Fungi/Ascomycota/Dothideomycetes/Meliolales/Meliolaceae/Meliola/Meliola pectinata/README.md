@@ -1,5 +1,4 @@
-Meliola pectinata Höhn. SPECIES
-=======
+# Meliola pectinata Höhn. SPECIES
 
 #### Status
 ACCEPTED

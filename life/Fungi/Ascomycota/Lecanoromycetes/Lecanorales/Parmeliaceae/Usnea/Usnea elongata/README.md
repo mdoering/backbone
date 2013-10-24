@@ -1,5 +1,4 @@
-Usnea elongata f. elongata FORM
-=======
+# Usnea elongata Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea elongata f. elongata
+Usnea elongata Motyka
 
 ### Remarks
 null

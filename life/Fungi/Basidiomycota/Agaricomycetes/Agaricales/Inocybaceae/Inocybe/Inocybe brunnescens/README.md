@@ -1,5 +1,4 @@
-Inocybe brunnescens G.F. Atk. SPECIES
-=======
+# Inocybe brunnescens G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

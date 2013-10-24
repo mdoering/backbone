@@ -1,17 +1,16 @@
-Nematoloma castilloi Singer SPECIES
-=======
+# Naematoloma castilloi Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 236 (1969)
 
 #### Original name
-Nematoloma castilloi Singer
+Naematoloma castilloi Singer
 
 ### Remarks
 null

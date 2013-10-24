@@ -1,14 +1,13 @@
-Cystolepiota lignicola (P. Karst.) Nezdojm., 1980 SPECIES
-=======
+# Amylolepiota lignicola (P. Karst.) Harmaja, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 14(5): 389 (1980)
+Karstenia 42(2): 40 (2002)
 
 #### Original name
 Lepiota lignicola P. Karst., 1879

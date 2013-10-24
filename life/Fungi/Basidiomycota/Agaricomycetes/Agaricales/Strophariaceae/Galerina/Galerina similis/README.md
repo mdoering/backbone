@@ -1,5 +1,4 @@
-Galerina similis Kühner SPECIES
-=======
+# Galerina similis Kühner SPECIES
 
 #### Status
 ACCEPTED

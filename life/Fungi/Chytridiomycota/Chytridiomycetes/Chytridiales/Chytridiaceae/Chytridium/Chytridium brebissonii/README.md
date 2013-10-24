@@ -1,5 +1,4 @@
-Chytridium brebissonii P.A. Dang. SPECIES
-=======
+# Chytridium brebissonii P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

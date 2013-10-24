@@ -1,5 +1,4 @@
-Agaricus curtus Cooke & Massee SPECIES
-=======
+# Agaricus curtus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

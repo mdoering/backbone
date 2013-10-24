@@ -1,5 +1,4 @@
-Cladonia tessellata Ahti & Kashiw. SPECIES
-=======
+# Cladonia tessellata Ahti & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

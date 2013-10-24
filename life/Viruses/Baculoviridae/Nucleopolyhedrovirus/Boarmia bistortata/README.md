@@ -1,5 +1,4 @@
-Boarmia bistortata Npv SPECIES
-=======
+# Boarmia bistortata Npv SPECIES
 
 #### Status
 ACCEPTED

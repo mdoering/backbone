@@ -1,5 +1,4 @@
-Russula mexicana Burl. SPECIES
-=======
+# Russula mexicana Burl. SPECIES
 
 #### Status
 ACCEPTED

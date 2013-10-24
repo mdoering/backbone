@@ -1,5 +1,4 @@
-Hydnum dermatodon (Pers.) Duby SPECIES
-=======
+# Hydnum dermatodon (Pers.) Duby SPECIES
 
 #### Status
 ACCEPTED

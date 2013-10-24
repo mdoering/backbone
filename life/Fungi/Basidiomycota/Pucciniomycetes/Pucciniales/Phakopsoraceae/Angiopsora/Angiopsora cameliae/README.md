@@ -1,5 +1,4 @@
-Angiopsora cameliae (Mayor) Mains SPECIES
-=======
+# Angiopsora cameliae (Mayor) Mains SPECIES
 
 #### Status
 ACCEPTED

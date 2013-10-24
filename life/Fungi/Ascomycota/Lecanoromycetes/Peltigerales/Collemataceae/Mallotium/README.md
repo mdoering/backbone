@@ -1,5 +1,4 @@
-Mallotium GENUS
-=======
+# Mallotium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia pitardii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia pitardii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

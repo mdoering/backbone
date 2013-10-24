@@ -1,5 +1,4 @@
-Fusarium zealandicum Nirenberg & Samuels SPECIES
-=======
+# Fusarium zealandicum Nirenberg & Samuels SPECIES
 
 #### Status
 ACCEPTED

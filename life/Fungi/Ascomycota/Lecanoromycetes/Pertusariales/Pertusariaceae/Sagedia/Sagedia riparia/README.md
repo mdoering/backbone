@@ -1,5 +1,4 @@
-Sagedia riparia Hepp SPECIES
-=======
+# Sagedia riparia Hepp SPECIES
 
 #### Status
 ACCEPTED

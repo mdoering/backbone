@@ -1,17 +1,16 @@
-Lophodermium chamaecyparissi Shirai & Hara SPECIES
-=======
+# Lophodermium chamaecyparidis Shirai & Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 25: 69 (1911)
 
 #### Original name
-Lophodermium chamaecyparissi Shirai & Hara
+Lophodermium chamaecyparidis Shirai & Hara
 
 ### Remarks
 null

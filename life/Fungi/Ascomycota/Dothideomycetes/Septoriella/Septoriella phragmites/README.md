@@ -1,5 +1,4 @@
-Septoriella phragmites Oudem. SPECIES
-=======
+# Septoriella phragmites Oudem. SPECIES
 
 #### Status
 ACCEPTED

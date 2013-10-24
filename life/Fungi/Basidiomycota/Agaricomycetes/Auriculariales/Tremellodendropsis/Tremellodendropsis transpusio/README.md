@@ -1,8 +1,7 @@
-Tremellodendropsis transpusio var. minor D.A. Crawford, 1954 VARIETY
-=======
+# Tremellodendropsis transpusio D.A. Crawford, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Roy. Soc. New Zealand 82(3): 625 (1954)
 
 #### Original name
-Tremellodendropsis transpusio var. minor D.A. Crawford, 1954
+Tremellodendropsis transpusio D.A. Crawford, 1954
 
 ### Remarks
 null

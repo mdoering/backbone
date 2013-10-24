@@ -1,5 +1,4 @@
-Caloplaca neoni B. de Lesd. SPECIES
-=======
+# Caloplaca neoni B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

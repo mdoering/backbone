@@ -1,5 +1,4 @@
-Ustilago herteri var. herteri VARIETY
-=======
+# Ustilago herteri Magnus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago herteri var. herteri
+Ustilago herteri Magnus
 
 ### Remarks
 null

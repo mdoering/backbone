@@ -1,5 +1,4 @@
-Epidochiopsis atrovirens (P. Karst.) P. Karst., 1892 SPECIES
-=======
+# Epidochiopsis atrovirens (P. Karst.) P. Karst., 1892 SPECIES
 
 #### Status
 ACCEPTED

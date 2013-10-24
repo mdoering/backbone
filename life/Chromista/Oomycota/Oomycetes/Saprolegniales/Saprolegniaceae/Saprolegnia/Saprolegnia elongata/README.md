@@ -1,5 +1,4 @@
-Saprolegnia elongata Massee SPECIES
-=======
+# Saprolegnia elongata Massee SPECIES
 
 #### Status
 ACCEPTED

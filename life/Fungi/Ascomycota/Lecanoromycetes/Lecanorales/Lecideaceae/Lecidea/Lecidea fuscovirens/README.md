@@ -1,5 +1,4 @@
-Lecidea fuscovirens (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Lecidea fuscovirens (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

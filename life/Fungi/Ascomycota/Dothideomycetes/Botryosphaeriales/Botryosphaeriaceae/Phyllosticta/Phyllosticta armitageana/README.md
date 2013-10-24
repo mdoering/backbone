@@ -1,5 +1,4 @@
-Phyllosticta armitageana Sacc. SPECIES
-=======
+# Phyllosticta armitageana Sacc. SPECIES
 
 #### Status
 ACCEPTED

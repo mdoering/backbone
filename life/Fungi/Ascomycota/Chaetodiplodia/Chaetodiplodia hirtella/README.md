@@ -1,5 +1,4 @@
-Chaetodiplodia hirtella (Sacc.) Sacc. SPECIES
-=======
+# Chaetodiplodia hirtella (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

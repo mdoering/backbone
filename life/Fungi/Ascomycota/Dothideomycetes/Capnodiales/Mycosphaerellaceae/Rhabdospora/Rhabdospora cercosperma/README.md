@@ -1,5 +1,4 @@
-Rhabdospora cercosperma (Rostr.) Sacc. SPECIES
-=======
+# Rhabdospora cercosperma (Rostr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

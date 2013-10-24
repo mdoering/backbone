@@ -1,5 +1,4 @@
-Samuelsia chalalensis P. Chaverri & K.T. Hodge, 2008 SPECIES
-=======
+# Samuelsia chalalensis P. Chaverri & K.T. Hodge, 2008 SPECIES
 
 #### Status
 ACCEPTED

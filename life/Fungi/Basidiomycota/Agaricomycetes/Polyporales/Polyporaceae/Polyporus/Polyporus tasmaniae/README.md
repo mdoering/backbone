@@ -1,5 +1,4 @@
-Polyporus tasmaniae Berk. ex G. Cunn. SPECIES
-=======
+# Polyporus tasmaniae Berk. ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina revelatula (Vain.) Zahlbr. SPECIES
-=======
+# Graphina revelatula (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

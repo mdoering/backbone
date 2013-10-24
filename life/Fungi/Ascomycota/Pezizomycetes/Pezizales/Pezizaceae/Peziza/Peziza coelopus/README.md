@@ -1,5 +1,4 @@
-Peziza coelopus Mont. SPECIES
-=======
+# Peziza coelopus Mont. SPECIES
 
 #### Status
 ACCEPTED

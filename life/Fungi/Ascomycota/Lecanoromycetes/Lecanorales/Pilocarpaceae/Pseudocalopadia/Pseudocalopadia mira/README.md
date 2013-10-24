@@ -1,5 +1,4 @@
-Pseudocalopadia mira Lücking SPECIES
-=======
+# Pseudocalopadia mira Lücking SPECIES
 
 #### Status
 ACCEPTED

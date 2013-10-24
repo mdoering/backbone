@@ -1,5 +1,4 @@
-Epichloë nigricans Speg. SPECIES
-=======
+# Epichloë nigricans Speg. SPECIES
 
 #### Status
 ACCEPTED

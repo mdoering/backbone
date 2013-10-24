@@ -1,5 +1,4 @@
-Euryachora thoracella (Rutstr.) J. Schröt. SPECIES
-=======
+# Euryachora thoracella (Rutstr.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

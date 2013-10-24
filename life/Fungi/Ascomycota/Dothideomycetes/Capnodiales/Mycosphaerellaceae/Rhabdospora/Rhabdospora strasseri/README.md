@@ -1,5 +1,4 @@
-Rhabdospora strasseri Bubák SPECIES
-=======
+# Rhabdospora strasseri Bubák SPECIES
 
 #### Status
 ACCEPTED

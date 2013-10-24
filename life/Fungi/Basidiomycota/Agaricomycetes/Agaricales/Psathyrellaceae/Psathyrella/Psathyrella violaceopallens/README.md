@@ -1,5 +1,4 @@
-Psathyrella violaceopallens Contu SPECIES
-=======
+# Psathyrella violaceopallens Contu SPECIES
 
 #### Status
 ACCEPTED

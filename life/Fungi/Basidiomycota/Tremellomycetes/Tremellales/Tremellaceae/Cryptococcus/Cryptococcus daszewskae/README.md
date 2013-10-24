@@ -1,5 +1,4 @@
-Cryptococcus daszewskae M. Takash., Sugita, Shinoda & Nakase SPECIES
-=======
+# Cryptococcus daszewskae M. Takash., Sugita, Shinoda & Nakase SPECIES
 
 #### Status
 ACCEPTED

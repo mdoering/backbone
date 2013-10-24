@@ -1,5 +1,4 @@
-Laboulbenia stipitata Sugiy. SPECIES
-=======
+# Laboulbenia stipitata Sugiy. SPECIES
 
 #### Status
 ACCEPTED

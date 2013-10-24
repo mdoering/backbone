@@ -1,5 +1,4 @@
-Poromycena madecassensis (R. Heim ex R. Heim) Eyssart. & Buyck SPECIES
-=======
+# Poromycena madecassensis (R. Heim ex R. Heim) Eyssart. & Buyck SPECIES
 
 #### Status
 ACCEPTED

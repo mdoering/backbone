@@ -1,5 +1,4 @@
-Pycnopeziza W.L. White & Whetzel GENUS
-=======
+# Pycnopeziza W.L. White & Whetzel GENUS
 
 #### Status
 ACCEPTED

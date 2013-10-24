@@ -1,5 +1,4 @@
-Heppia tephra Hue SPECIES
-=======
+# Heppia tephra Hue SPECIES
 
 #### Status
 ACCEPTED

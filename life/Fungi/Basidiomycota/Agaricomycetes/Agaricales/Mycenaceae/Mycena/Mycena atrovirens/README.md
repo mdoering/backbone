@@ -1,5 +1,4 @@
-Mycena atrovirens Rea SPECIES
-=======
+# Mycena atrovirens Rea SPECIES
 
 #### Status
 ACCEPTED

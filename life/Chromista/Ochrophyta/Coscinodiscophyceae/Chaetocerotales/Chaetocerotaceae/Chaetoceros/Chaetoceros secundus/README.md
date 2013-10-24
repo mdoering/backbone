@@ -1,5 +1,4 @@
-Chaetoceros secundus Cleve SPECIES
-=======
+# Chaetoceros secundus Cleve SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria brevis Peck SPECIES
-=======
+# Septoria brevis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma therryana Sacc. & Roum. SPECIES
-=======
+# Dendrophoma therryana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

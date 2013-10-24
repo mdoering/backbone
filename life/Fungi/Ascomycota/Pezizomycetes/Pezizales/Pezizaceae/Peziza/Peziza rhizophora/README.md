@@ -1,5 +1,4 @@
-Peziza rhizophora Willd. SPECIES
-=======
+# Peziza rhizophora Willd. SPECIES
 
 #### Status
 ACCEPTED

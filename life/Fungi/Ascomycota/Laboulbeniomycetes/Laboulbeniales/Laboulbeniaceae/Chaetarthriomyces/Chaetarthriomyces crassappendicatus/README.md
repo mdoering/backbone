@@ -1,5 +1,4 @@
-Chaetarthriomyces crassappendicatus Scheloske SPECIES
-=======
+# Chaetarthriomyces crassappendicatus Scheloske SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium perottianum Verona SPECIES
-=======
+# Coniosporium perottianum Verona SPECIES
 
 #### Status
 ACCEPTED

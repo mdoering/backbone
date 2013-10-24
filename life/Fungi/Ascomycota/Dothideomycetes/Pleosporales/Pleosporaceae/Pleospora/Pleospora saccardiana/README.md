@@ -1,5 +1,4 @@
-Pleospora saccardiana Roum. SPECIES
-=======
+# Pleospora saccardiana Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella thesii (J. Schröt.) Tomilin SPECIES
-=======
+# Mycosphaerella thesii (J. Schröt.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

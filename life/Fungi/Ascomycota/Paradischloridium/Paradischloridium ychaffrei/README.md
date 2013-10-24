@@ -1,14 +1,13 @@
-Dischloridium ychaffrei (Bhat & B. Sutton) Hol.-Jech., 1988 SPECIES
-=======
+# Paradischloridium ychaffrei Bhat & B. Sutton, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 42(4): 204 (1988)
+Trans. Br. mycol. Soc. 84(4): 723 (1985)
 
 #### Original name
 Paradischloridium ychaffrei Bhat & B. Sutton, 1985

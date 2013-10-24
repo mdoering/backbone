@@ -1,5 +1,4 @@
-Anixia buxi Magnin {?} SPECIES
-=======
+# Anixia buxi Magnin {?} SPECIES
 
 #### Status
 ACCEPTED

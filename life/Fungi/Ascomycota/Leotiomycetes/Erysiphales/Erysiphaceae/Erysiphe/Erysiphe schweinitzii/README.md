@@ -1,5 +1,4 @@
-Erysiphe schweinitzii (Lév.) Trevis. SPECIES
-=======
+# Erysiphe schweinitzii (Lév.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

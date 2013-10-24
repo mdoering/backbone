@@ -1,5 +1,4 @@
-Agaricus noctiphilus Ellis SPECIES
-=======
+# Agaricus noctiphilus Ellis SPECIES
 
 #### Status
 ACCEPTED

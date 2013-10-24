@@ -1,5 +1,4 @@
-Michaelsarsia Gran, 1912 GENUS
-=======
+# Michaelsarsia Gran, 1912 GENUS
 
 #### Status
 ACCEPTED

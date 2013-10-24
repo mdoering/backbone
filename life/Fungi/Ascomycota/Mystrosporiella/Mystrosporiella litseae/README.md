@@ -1,5 +1,4 @@
-Mystrosporiella litseae Munjal & Kulshr., 1969 SPECIES
-=======
+# Mystrosporiella litseae Munjal & Kulshr., 1969 SPECIES
 
 #### Status
 ACCEPTED

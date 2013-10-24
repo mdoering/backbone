@@ -1,5 +1,4 @@
-Galera semiglobata (Murrill) Murrill SPECIES
-=======
+# Galera semiglobata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

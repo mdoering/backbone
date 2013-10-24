@@ -1,5 +1,4 @@
-Peziza fuscobadia Rebent. SPECIES
-=======
+# Peziza fuscobadia Rebent. SPECIES
 
 #### Status
 ACCEPTED

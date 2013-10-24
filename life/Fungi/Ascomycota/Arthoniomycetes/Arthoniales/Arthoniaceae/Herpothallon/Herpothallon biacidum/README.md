@@ -1,5 +1,4 @@
-Herpothallon biacidum Frisch, Elix & G. Thor SPECIES
-=======
+# Herpothallon biacidum Frisch, Elix & G. Thor SPECIES
 
 #### Status
 ACCEPTED

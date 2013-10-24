@@ -1,5 +1,4 @@
-Arachnochloris major SPECIES
-=======
+# Arachnochloris major SPECIES
 
 #### Status
 ACCEPTED

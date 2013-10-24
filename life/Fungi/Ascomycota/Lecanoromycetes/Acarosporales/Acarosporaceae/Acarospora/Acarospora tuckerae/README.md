@@ -1,5 +1,4 @@
-Acarospora tuckerae K. Knudsen SPECIES
-=======
+# Acarospora tuckerae K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

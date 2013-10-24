@@ -1,5 +1,4 @@
-Melanomma setosum var. setosum VARIETY
-=======
+# Melanomma setosum Mouton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanomma setosum var. setosum
+Melanomma setosum Mouton
 
 ### Remarks
 null

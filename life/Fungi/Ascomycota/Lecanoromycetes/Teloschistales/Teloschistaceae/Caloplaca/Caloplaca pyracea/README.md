@@ -1,5 +1,4 @@
-Caloplaca pyracea f. pyracea FORM
-=======
+# Caloplaca pyracea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia cerina var. pyracea Ach.
+null
 
 ### Remarks
 null

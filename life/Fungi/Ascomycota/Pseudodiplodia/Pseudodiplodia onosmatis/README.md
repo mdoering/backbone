@@ -1,5 +1,4 @@
-Pseudodiplodia onosmatis (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia onosmatis (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

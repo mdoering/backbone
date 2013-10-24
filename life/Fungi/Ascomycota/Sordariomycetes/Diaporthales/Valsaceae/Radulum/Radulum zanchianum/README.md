@@ -1,5 +1,4 @@
-Radulum zanchianum Rick SPECIES
-=======
+# Radulum zanchianum Rick SPECIES
 
 #### Status
 ACCEPTED

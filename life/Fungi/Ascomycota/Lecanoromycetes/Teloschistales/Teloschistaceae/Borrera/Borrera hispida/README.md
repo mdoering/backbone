@@ -1,5 +1,4 @@
-Borrera hispida SPECIES
-=======
+# Borrera hispida SPECIES
 
 #### Status
 ACCEPTED

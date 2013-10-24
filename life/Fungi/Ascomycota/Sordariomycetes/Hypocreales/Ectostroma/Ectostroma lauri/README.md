@@ -1,5 +1,4 @@
-Ectostroma lauri (Schleich.) Fr. SPECIES
-=======
+# Ectostroma lauri (Schleich.) Fr. SPECIES
 
 #### Status
 ACCEPTED

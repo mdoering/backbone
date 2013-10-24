@@ -1,5 +1,4 @@
-Humaria ahmadii E.K. Cash SPECIES
-=======
+# Humaria ahmadii E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

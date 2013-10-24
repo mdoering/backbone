@@ -1,5 +1,4 @@
-Puccinia arenariae-griffithii Kuprev. SPECIES
-=======
+# Puccinia arenariae-griffithii Kuprev. SPECIES
 
 #### Status
 ACCEPTED

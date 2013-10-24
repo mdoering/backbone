@@ -1,5 +1,4 @@
-Ramularia fagarae Sawada SPECIES
-=======
+# Ramularia fagarae Sawada SPECIES
 
 #### Status
 ACCEPTED

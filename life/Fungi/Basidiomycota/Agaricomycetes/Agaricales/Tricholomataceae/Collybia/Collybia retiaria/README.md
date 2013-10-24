@@ -1,5 +1,4 @@
-Collybia retiaria (Berk.) Singer SPECIES
-=======
+# Collybia retiaria (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

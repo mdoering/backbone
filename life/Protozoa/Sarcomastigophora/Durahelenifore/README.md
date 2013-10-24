@@ -1,5 +1,4 @@
-Durahelenifore Boundy-Sanders & Murchey in Boundy-Sanders, Sandberg, Murchey & Harris, 1999 GENUS
-=======
+# Durahelenifore Boundy-Sanders & Murchey in Boundy-Sanders, Sandberg, Murchey & Harris, 1999 GENUS
 
 #### Status
 ACCEPTED

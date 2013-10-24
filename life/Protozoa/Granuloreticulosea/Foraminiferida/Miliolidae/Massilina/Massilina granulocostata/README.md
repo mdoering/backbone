@@ -1,5 +1,4 @@
-Massilina granulocostata (Germeraad, 1946) SPECIES
-=======
+# Massilina granulocostata (Germeraad, 1946) SPECIES
 
 #### Status
 ACCEPTED

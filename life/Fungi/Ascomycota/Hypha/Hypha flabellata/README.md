@@ -1,5 +1,4 @@
-Hypha flabellata Pers. SPECIES
-=======
+# Hypha flabellata Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella dysenterica Möller SPECIES
-=======
+# Tremella dysenterica Möller SPECIES
 
 #### Status
 ACCEPTED

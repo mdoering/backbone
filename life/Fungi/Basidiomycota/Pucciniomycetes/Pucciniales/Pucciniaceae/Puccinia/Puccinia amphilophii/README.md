@@ -1,5 +1,4 @@
-Puccinia amphilophii Dietel & Holw. SPECIES
-=======
+# Puccinia amphilophii Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

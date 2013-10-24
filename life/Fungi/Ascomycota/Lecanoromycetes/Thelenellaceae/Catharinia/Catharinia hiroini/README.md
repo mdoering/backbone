@@ -1,5 +1,4 @@
-Catharinia hiroini Feltgen SPECIES
-=======
+# Catharinia hiroini Feltgen SPECIES
 
 #### Status
 ACCEPTED

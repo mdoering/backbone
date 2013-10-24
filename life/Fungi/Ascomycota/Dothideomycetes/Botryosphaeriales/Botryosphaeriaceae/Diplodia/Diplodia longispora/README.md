@@ -1,5 +1,4 @@
-Diplodia longispora Cooke & Ellis SPECIES
-=======
+# Diplodia longispora Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

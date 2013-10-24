@@ -1,5 +1,4 @@
-Opegraphella GENUS
-=======
+# Opegraphella GENUS
 
 #### Status
 ACCEPTED

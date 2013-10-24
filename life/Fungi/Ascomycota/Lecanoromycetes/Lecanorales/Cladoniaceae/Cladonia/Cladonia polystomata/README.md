@@ -1,5 +1,4 @@
-Cladonia polystomata Ahti & Sipman SPECIES
-=======
+# Cladonia polystomata Ahti & Sipman SPECIES
 
 #### Status
 ACCEPTED

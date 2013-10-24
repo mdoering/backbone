@@ -1,5 +1,4 @@
-Asteromella proustiae (Speg.) Aa SPECIES
-=======
+# Asteromella proustiae (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

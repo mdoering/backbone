@@ -1,5 +1,4 @@
-Thalassochytrium Nyvall, Pedersén & Longcore GENUS
-=======
+# Thalassochytrium Nyvall, Pedersén & Longcore GENUS
 
 #### Status
 ACCEPTED

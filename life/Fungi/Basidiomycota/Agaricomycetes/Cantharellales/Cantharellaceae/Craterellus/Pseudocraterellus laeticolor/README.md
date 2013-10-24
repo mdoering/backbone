@@ -1,5 +1,4 @@
-Pseudocraterellus laeticolor Heinem. SPECIES
-=======
+# Pseudocraterellus laeticolor Heinem. SPECIES
 
 #### Status
 ACCEPTED

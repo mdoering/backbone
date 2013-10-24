@@ -1,5 +1,4 @@
-Disematostoma colpidioides Gelei, 1954 SPECIES
-=======
+# Disematostoma colpidioides Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

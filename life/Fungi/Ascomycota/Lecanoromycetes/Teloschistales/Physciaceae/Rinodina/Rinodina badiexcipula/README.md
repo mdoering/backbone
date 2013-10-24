@@ -1,5 +1,4 @@
-Rinodina badiexcipula Sheard SPECIES
-=======
+# Rinodina badiexcipula Sheard SPECIES
 
 #### Status
 ACCEPTED

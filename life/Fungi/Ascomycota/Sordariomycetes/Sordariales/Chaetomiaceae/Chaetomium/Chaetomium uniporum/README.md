@@ -1,5 +1,4 @@
-Chaetomium uniporum Aue & E. Müll., 1967 SPECIES
-=======
+# Chaetomium uniporum Aue & E. Müll., 1967 SPECIES
 
 #### Status
 ACCEPTED

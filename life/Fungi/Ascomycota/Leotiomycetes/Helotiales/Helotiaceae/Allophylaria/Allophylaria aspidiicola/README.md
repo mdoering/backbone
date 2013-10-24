@@ -1,5 +1,4 @@
-Allophylaria aspidiicola Berk. & Broome SPECIES
-=======
+# Allophylaria aspidiicola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

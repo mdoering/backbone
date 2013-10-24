@@ -1,5 +1,4 @@
-Puccinia enixa Cummins SPECIES
-=======
+# Puccinia enixa Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina uralensis Naumov SPECIES
-=======
+# Diplodina uralensis Naumov SPECIES
 
 #### Status
 ACCEPTED

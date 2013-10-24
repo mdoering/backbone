@@ -1,14 +1,13 @@
-Pestalotia clavispora G.F. Atk., 1897 SPECIES
-=======
+# Pestalotiopsis clavispora (G.F. Atk.) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19: 335 (1949)
 
 #### Original name
 Pestalotia clavispora G.F. Atk., 1897

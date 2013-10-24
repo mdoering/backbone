@@ -1,5 +1,4 @@
-Placodium brouardii B. de Lesd. SPECIES
-=======
+# Placodium brouardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

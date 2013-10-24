@@ -1,5 +1,4 @@
-Nectriella bacillispora Traverso & Spessa SPECIES
-=======
+# Nectriella bacillispora Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

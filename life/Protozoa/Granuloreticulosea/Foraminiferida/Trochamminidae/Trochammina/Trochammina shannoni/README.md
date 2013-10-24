@@ -1,5 +1,4 @@
-Trochammina shannoni Brönniman & Whittaker, 1988 SPECIES
-=======
+# Trochammina shannoni Brönniman & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

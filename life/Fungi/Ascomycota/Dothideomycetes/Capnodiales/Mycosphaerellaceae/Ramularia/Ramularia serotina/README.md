@@ -1,5 +1,4 @@
-Ramularia serotina Ellis & Everh. SPECIES
-=======
+# Ramularia serotina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

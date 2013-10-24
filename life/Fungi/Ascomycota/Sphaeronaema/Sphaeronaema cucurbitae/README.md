@@ -1,5 +1,4 @@
-Sphaeronaema cucurbitae Rolland & Fautrey SPECIES
-=======
+# Sphaeronaema cucurbitae Rolland & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exserticlava yunnanensis L. Cai & K.D. Hyde SPECIES
-=======
+# Exserticlava yunnanensis L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

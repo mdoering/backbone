@@ -1,5 +1,4 @@
-Podospora ignota A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Podospora ignota A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

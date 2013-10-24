@@ -1,5 +1,4 @@
-Haglundia olivacea Remler SPECIES
-=======
+# Haglundia olivacea Remler SPECIES
 
 #### Status
 ACCEPTED

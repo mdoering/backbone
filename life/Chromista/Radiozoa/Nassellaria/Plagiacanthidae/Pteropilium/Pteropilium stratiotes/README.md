@@ -1,5 +1,4 @@
-Pteropilium stratiotes Haeckel, 1887 SPECIES
-=======
+# Pteropilium stratiotes Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

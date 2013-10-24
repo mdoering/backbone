@@ -1,5 +1,4 @@
-Pezizella muscicola Graddon, 1977 SPECIES
-=======
+# Pezizella muscicola Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

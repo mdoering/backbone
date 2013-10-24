@@ -1,5 +1,4 @@
-Cryptococcus mekundu Mattlet SPECIES
-=======
+# Cryptococcus mekundu Mattlet SPECIES
 
 #### Status
 ACCEPTED

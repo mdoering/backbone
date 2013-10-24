@@ -1,5 +1,4 @@
-Mycena pseudocrocata Dennis SPECIES
-=======
+# Mycena pseudocrocata Dennis SPECIES
 
 #### Status
 ACCEPTED

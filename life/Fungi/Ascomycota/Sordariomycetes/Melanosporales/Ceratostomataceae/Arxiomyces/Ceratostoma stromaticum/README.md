@@ -1,5 +1,4 @@
-Ceratostoma stromaticum Delacr. SPECIES
-=======
+# Ceratostoma stromaticum Delacr. SPECIES
 
 #### Status
 ACCEPTED

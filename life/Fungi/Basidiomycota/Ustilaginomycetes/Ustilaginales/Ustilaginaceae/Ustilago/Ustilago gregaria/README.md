@@ -1,5 +1,4 @@
-Ustilago gregaria Zundel SPECIES
-=======
+# Ustilago gregaria Zundel SPECIES
 
 #### Status
 ACCEPTED

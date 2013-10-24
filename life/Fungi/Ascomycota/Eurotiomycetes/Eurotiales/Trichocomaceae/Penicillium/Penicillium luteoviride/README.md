@@ -1,5 +1,4 @@
-Penicillium luteoviride var. luteoviride VARIETY
-=======
+# Penicillium luteoviride Biourge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 La Cellule 33(1): 242-243 (1923)
 
 #### Original name
-Penicillium luteoviride var. luteoviride
+Penicillium luteoviride Biourge
 
 ### Remarks
 null

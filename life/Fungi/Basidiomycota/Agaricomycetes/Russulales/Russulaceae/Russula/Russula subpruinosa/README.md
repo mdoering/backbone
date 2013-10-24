@@ -1,5 +1,4 @@
-Russula subpruinosa Murrill SPECIES
-=======
+# Russula subpruinosa Murrill SPECIES
 
 #### Status
 ACCEPTED

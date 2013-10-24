@@ -1,5 +1,4 @@
-Dacrymyces yunnanensis B. Liu & L. Fan SPECIES
-=======
+# Dacrymyces yunnanensis B. Liu & L. Fan SPECIES
 
 #### Status
 ACCEPTED

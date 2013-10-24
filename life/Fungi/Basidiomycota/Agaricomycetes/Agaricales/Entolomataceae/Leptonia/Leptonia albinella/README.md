@@ -1,5 +1,4 @@
-Leptonia albinella Peck SPECIES
-=======
+# Leptonia albinella Peck SPECIES
 
 #### Status
 ACCEPTED

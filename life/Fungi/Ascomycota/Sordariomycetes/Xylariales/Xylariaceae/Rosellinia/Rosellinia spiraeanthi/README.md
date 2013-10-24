@@ -1,5 +1,4 @@
-Rosellinia spiraeanthi Schwarzman SPECIES
-=======
+# Rosellinia spiraeanthi Schwarzman SPECIES
 
 #### Status
 ACCEPTED

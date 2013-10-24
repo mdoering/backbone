@@ -1,17 +1,16 @@
-Ramicola centuncula f. centuncula FORM
-=======
+# Simocybe centunculus (Fr. Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 45(3): 555 (1989)
+null
 
 #### Original name
-Agaricus centunculus Fr., 1821
+null
 
 ### Remarks
 null

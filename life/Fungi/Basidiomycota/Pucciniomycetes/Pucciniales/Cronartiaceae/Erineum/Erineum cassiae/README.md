@@ -1,5 +1,4 @@
-Erineum cassiae Pers. SPECIES
-=======
+# Erineum cassiae Pers. SPECIES
 
 #### Status
 ACCEPTED

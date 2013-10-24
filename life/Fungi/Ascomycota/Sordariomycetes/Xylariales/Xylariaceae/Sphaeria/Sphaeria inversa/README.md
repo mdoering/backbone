@@ -1,5 +1,4 @@
-Sphaeria inversa Fr. SPECIES
-=======
+# Sphaeria inversa Fr. SPECIES
 
 #### Status
 ACCEPTED

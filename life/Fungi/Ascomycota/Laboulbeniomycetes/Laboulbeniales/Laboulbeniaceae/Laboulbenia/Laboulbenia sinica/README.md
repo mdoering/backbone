@@ -1,5 +1,4 @@
-Laboulbenia sinica W. Rossi SPECIES
-=======
+# Laboulbenia sinica W. Rossi SPECIES
 
 #### Status
 ACCEPTED

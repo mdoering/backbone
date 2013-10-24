@@ -1,5 +1,4 @@
-Arachnoidiscus ehrenbergii Bailey ex Ehrenberg SPECIES
-=======
+# Arachnoidiscus ehrenbergii Bailey ex Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

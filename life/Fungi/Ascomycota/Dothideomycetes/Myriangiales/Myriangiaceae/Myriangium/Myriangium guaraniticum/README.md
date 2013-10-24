@@ -1,5 +1,4 @@
-Myriangium guaraniticum (Speg.) Arx SPECIES
-=======
+# Myriangium guaraniticum (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

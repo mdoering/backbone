@@ -1,5 +1,4 @@
-Micromonospora marina Tanasupawat, Jongrungruangchok & Kudo, 2010 SPECIES
-=======
+# Micromonospora marina Tanasupawat, Jongrungruangchok & Kudo, 2010 SPECIES
 
 #### Status
 ACCEPTED

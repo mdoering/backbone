@@ -1,5 +1,4 @@
-Discoaster druggii SPECIES
-=======
+# Discoaster druggii SPECIES
 
 #### Status
 ACCEPTED

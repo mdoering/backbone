@@ -1,5 +1,4 @@
-Myceloblastanon nitidum (Castell.) M. Ota SPECIES
-=======
+# Myceloblastanon nitidum (Castell.) M. Ota SPECIES
 
 #### Status
 ACCEPTED

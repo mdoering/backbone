@@ -1,5 +1,4 @@
-Mycosphaerella chrysobalanicola Petr. & Cif. SPECIES
-=======
+# Mycosphaerella chrysobalanicola Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotricha flexilis SPECIES
-=======
+# Pleurotricha flexilis SPECIES
 
 #### Status
 ACCEPTED

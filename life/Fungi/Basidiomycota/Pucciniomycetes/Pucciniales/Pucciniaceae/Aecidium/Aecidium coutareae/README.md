@@ -1,5 +1,4 @@
-Aecidium coutareae F. Kern & Thurst. SPECIES
-=======
+# Aecidium coutareae F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

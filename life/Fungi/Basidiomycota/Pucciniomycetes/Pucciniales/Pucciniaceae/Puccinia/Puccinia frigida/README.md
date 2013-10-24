@@ -1,5 +1,4 @@
-Puccinia frigida Kom. SPECIES
-=======
+# Puccinia frigida Kom. SPECIES
 
 #### Status
 ACCEPTED

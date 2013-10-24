@@ -1,5 +1,4 @@
-Didymella piceana Delacr. SPECIES
-=======
+# Didymella piceana Delacr. SPECIES
 
 #### Status
 ACCEPTED

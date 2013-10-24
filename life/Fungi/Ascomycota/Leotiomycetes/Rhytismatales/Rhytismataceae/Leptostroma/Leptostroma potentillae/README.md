@@ -1,5 +1,4 @@
-Leptostroma potentillae P. Karst. SPECIES
-=======
+# Leptostroma potentillae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

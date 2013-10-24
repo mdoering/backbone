@@ -1,5 +1,4 @@
-Lecanora byssiplaca Fée SPECIES
-=======
+# Lecanora byssiplaca Fée SPECIES
 
 #### Status
 ACCEPTED

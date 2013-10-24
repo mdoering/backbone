@@ -1,5 +1,4 @@
-Lacrymaria phlebophora Pat. SPECIES
-=======
+# Lacrymaria phlebophora Pat. SPECIES
 
 #### Status
 ACCEPTED

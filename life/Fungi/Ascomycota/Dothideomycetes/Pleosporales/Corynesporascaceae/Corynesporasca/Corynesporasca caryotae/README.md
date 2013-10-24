@@ -1,5 +1,4 @@
-Corynesporasca caryotae Sivan., 1996 SPECIES
-=======
+# Corynesporasca caryotae Sivan., 1996 SPECIES
 
 #### Status
 ACCEPTED

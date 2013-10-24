@@ -1,5 +1,4 @@
-Microdiplodia cycadella Gonz. Frag. SPECIES
-=======
+# Microdiplodia cycadella Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

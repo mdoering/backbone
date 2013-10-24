@@ -1,5 +1,4 @@
-Didymosphaeria socialis Sacc. SPECIES
-=======
+# Didymosphaeria socialis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomadura fibrosa Mertz & Yao, 1990 SPECIES
-=======
+# Actinomadura fibrosa Mertz & Yao, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma zillingianum Petr. SPECIES
-=======
+# Leptostroma zillingianum Petr. SPECIES
 
 #### Status
 ACCEPTED

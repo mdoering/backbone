@@ -1,5 +1,4 @@
-Corenohydnum anomalum Lloyd SPECIES
-=======
+# Corenohydnum anomalum Lloyd SPECIES
 
 #### Status
 ACCEPTED

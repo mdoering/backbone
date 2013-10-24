@@ -1,5 +1,4 @@
-Spirochaeta acuminata SPECIES
-=======
+# Spirochaeta acuminata SPECIES
 
 #### Status
 ACCEPTED

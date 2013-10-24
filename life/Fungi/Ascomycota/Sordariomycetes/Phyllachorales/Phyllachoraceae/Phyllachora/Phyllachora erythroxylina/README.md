@@ -1,5 +1,4 @@
-Phyllachora erythroxylina Petr., 1929 SPECIES
-=======
+# Phyllachora erythroxylina Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

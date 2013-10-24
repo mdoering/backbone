@@ -1,14 +1,13 @@
-Phymatotrichum epigaea (Link) Vasyag. SPECIES
-=======
+# Phymatotrichum epigaeum (Link) Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Shvartsman et al. , Flora Sporovykh Rastenii Kazakhstana [Cryptogamic Flora of Kazakhstan], 8, Fungi Imperfecti (Deuteromycetes), 1. Moniliales (Alma-Ata) (Alma-Ata) 263 (1973)
 
 #### Original name
 Botrytis epigaea Link

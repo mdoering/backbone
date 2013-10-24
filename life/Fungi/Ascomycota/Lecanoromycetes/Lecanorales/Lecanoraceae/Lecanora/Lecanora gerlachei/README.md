@@ -1,5 +1,4 @@
-Lecanora gerlachei Vain. SPECIES
-=======
+# Lecanora gerlachei Vain. SPECIES
 
 #### Status
 ACCEPTED

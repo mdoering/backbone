@@ -1,5 +1,4 @@
-Sphaeria torulispora Cooke SPECIES
-=======
+# Sphaeria torulispora Cooke SPECIES
 
 #### Status
 ACCEPTED

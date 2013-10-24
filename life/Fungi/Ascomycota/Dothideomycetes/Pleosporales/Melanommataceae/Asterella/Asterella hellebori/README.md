@@ -1,5 +1,4 @@
-Asterella hellebori (Rehm) Sacc. SPECIES
-=======
+# Asterella hellebori (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

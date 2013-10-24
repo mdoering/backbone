@@ -1,5 +1,4 @@
-Haploravenelia igualica (Arthur) Syd. SPECIES
-=======
+# Haploravenelia igualica (Arthur) Syd. SPECIES
 
 #### Status
 ACCEPTED

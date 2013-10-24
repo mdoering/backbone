@@ -1,5 +1,4 @@
-Lecidea thallophila Ohlert SPECIES
-=======
+# Lecidea thallophila Ohlert SPECIES
 
 #### Status
 ACCEPTED

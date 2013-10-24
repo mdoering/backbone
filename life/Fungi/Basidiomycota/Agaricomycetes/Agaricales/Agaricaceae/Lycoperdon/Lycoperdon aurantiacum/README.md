@@ -1,5 +1,4 @@
-Lycoperdon aurantiacum Bull. SPECIES
-=======
+# Lycoperdon aurantiacum Bull. SPECIES
 
 #### Status
 ACCEPTED

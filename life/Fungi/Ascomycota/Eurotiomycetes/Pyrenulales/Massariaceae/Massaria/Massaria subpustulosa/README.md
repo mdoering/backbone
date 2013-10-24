@@ -1,5 +1,4 @@
-Massaria subpustulosa (G.H. Otth) Jacz. SPECIES
-=======
+# Massaria subpustulosa (G.H. Otth) Jacz. SPECIES
 
 #### Status
 ACCEPTED

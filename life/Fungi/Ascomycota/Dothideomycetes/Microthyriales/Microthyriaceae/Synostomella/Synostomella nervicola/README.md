@@ -1,5 +1,4 @@
-Synostomella nervicola Petr. SPECIES
-=======
+# Synostomella nervicola Petr. SPECIES
 
 #### Status
 ACCEPTED

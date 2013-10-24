@@ -1,5 +1,4 @@
-Lecanora norlandica H. Magn. SPECIES
-=======
+# Lecanora norlandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entophysalis perrieri Frémy SPECIES
-=======
+# Entophysalis perrieri Frémy SPECIES
 
 #### Status
 ACCEPTED

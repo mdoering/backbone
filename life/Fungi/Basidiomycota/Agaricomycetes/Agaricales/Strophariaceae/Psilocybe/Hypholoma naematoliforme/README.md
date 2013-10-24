@@ -1,5 +1,4 @@
-Hypholoma naematoliforme (Guzmán) Guzmán SPECIES
-=======
+# Hypholoma naematoliforme (Guzmán) Guzmán SPECIES
 
 #### Status
 ACCEPTED

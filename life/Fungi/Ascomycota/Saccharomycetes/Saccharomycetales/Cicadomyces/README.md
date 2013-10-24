@@ -1,5 +1,4 @@
-Cicadomyces Sulc, 1911 GENUS
-=======
+# Cicadomyces Sulc, 1911 GENUS
 
 #### Status
 ACCEPTED

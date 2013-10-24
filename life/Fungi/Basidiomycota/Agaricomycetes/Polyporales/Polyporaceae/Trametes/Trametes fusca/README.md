@@ -1,5 +1,4 @@
-Trametes fusca (Link) Fr. SPECIES
-=======
+# Trametes fusca (Link) Fr. SPECIES
 
 #### Status
 ACCEPTED

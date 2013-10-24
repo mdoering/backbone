@@ -1,5 +1,4 @@
-Bipolaris israeli Steiman, Guiraud, Seigle-Mur. & Sage SPECIES
-=======
+# Bipolaris israeli Steiman, Guiraud, Seigle-Mur. & Sage SPECIES
 
 #### Status
 ACCEPTED

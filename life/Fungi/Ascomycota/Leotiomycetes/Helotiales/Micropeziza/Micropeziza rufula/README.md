@@ -1,5 +1,4 @@
-Micropeziza rufula Sacc. SPECIES
-=======
+# Micropeziza rufula Sacc. SPECIES
 
 #### Status
 ACCEPTED

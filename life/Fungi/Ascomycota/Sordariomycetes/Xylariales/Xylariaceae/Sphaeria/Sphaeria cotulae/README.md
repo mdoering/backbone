@@ -1,5 +1,4 @@
-Sphaeria cotulae Rabenh. SPECIES
-=======
+# Sphaeria cotulae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

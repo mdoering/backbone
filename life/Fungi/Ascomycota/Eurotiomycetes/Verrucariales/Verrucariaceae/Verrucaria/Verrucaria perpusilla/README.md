@@ -1,5 +1,4 @@
-Verrucaria perpusilla A.W. Russell SPECIES
-=======
+# Verrucaria perpusilla A.W. Russell SPECIES
 
 #### Status
 ACCEPTED

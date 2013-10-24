@@ -1,5 +1,4 @@
-Leptosphaeria purpurearum Auersw. SPECIES
-=======
+# Leptosphaeria purpurearum Auersw. SPECIES
 
 #### Status
 ACCEPTED

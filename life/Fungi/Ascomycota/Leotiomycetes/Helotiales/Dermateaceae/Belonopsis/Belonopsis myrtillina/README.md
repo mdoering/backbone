@@ -1,5 +1,4 @@
-Belonopsis myrtillina Remler SPECIES
-=======
+# Belonopsis myrtillina Remler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen dufresnii Bellardi SPECIES
-=======
+# Lichen dufresnii Bellardi SPECIES
 
 #### Status
 ACCEPTED

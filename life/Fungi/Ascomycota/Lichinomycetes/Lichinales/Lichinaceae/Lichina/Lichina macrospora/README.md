@@ -1,5 +1,4 @@
-Lichina macrospora Henssen, Büdel & Wessels SPECIES
-=======
+# Lichina macrospora Henssen, Büdel & Wessels SPECIES
 
 #### Status
 ACCEPTED

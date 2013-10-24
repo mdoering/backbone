@@ -1,5 +1,4 @@
-Arthonia baeaophaea Norman SPECIES
-=======
+# Arthonia baeaophaea Norman SPECIES
 
 #### Status
 ACCEPTED

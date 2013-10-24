@@ -1,8 +1,7 @@
-Bicosoeca socialis W. S. Kent SPECIES
-=======
+# Diplomitella socialis (Kent) P. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

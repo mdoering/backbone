@@ -1,5 +1,4 @@
-Peterozyma GENUS
-=======
+# Peterozyma GENUS
 
 #### Status
 ACCEPTED

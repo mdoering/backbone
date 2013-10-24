@@ -1,5 +1,4 @@
-Rhizocarpon antarcticum Räsänen SPECIES
-=======
+# Rhizocarpon antarcticum Räsänen SPECIES
 
 #### Status
 ACCEPTED

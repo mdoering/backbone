@@ -1,5 +1,4 @@
-Gyalecta farlowii Tuck. SPECIES
-=======
+# Gyalecta farlowii Tuck. SPECIES
 
 #### Status
 ACCEPTED

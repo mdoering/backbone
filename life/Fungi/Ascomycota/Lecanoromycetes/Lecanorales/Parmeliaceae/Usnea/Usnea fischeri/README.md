@@ -1,5 +1,4 @@
-Usnea fischeri G. Awasthi SPECIES
-=======
+# Usnea fischeri G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

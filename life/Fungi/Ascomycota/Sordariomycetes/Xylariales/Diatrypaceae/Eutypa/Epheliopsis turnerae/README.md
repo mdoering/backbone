@@ -1,5 +1,4 @@
-Epheliopsis turnerae Henn. SPECIES
-=======
+# Epheliopsis turnerae Henn. SPECIES
 
 #### Status
 ACCEPTED

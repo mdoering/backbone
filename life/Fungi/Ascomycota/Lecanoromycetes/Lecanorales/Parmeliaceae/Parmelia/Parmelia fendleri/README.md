@@ -1,5 +1,4 @@
-Parmelia fendleri Nyl. SPECIES
-=======
+# Parmelia fendleri Nyl. SPECIES
 
 #### Status
 ACCEPTED

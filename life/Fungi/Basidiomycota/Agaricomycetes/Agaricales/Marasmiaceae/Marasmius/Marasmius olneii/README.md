@@ -1,5 +1,4 @@
-Marasmius olneii var. olneii VARIETY
-=======
+# Marasmius olneii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius olneii var. olneii
+Marasmius olneii Berk. & M.A. Curtis
 
 ### Remarks
 null

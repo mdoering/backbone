@@ -1,5 +1,4 @@
-Agaricus septicus Fr. SPECIES
-=======
+# Agaricus septicus Fr. SPECIES
 
 #### Status
 ACCEPTED

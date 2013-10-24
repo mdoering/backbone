@@ -1,5 +1,4 @@
-Meliola nicaraguensis Speg. SPECIES
-=======
+# Meliola nicaraguensis Speg. SPECIES
 
 #### Status
 ACCEPTED

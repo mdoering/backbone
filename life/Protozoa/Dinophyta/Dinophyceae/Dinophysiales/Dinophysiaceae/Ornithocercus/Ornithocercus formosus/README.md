@@ -1,5 +1,4 @@
-Ornithocercus formosus Kofoid & Michener SPECIES
-=======
+# Ornithocercus formosus Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ankyrotrochos Vecoli, 1999 GENUS
-=======
+# Ankyrotrochos Vecoli, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lichnodictyum Bütschli in Bronn, 1889 GENUS
-=======
+# Lychnodictyum Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Bronn, Klass. Ordn. Tierr. , 1 (n. ed. ), no. 3, 1987.
+Jena. Z. , 15, 432.
 
 #### Original name
 null

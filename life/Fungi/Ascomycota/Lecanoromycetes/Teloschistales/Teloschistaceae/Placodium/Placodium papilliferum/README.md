@@ -1,5 +1,4 @@
-Placodium papilliferum Vain. SPECIES
-=======
+# Placodium papilliferum Vain. SPECIES
 
 #### Status
 ACCEPTED

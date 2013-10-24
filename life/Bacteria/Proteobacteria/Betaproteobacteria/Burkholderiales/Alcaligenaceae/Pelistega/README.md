@@ -1,5 +1,4 @@
-Pelistega Vandamme et al., 1998 GENUS
-=======
+# Pelistega Vandamme et al., 1998 GENUS
 
 #### Status
 ACCEPTED

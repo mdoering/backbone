@@ -1,5 +1,4 @@
-Mogibacterium vescum Nakazawa et al., 2000 SPECIES
-=======
+# Mogibacterium vescum Nakazawa et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

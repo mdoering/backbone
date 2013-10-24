@@ -1,14 +1,13 @@
-Dacrymyces deliquescens var. minor (Peck) L.L. Kenn., 1959 VARIETY
-=======
+# Dacrymyces minor Peck, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 50(6): 908 (1959)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 30: 49 (1878)
 
 #### Original name
 Dacrymyces minor Peck, 1878

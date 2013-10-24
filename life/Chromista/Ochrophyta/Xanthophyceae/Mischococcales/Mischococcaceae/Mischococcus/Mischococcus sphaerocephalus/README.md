@@ -1,5 +1,4 @@
-Mischococcus sphaerocephalus Vischer SPECIES
-=======
+# Mischococcus sphaerocephalus Vischer SPECIES
 
 #### Status
 ACCEPTED

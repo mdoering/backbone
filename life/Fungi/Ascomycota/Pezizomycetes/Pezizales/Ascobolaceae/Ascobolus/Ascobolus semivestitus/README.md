@@ -1,5 +1,4 @@
-Ascobolus semivestitus Boud. SPECIES
-=======
+# Ascobolus semivestitus Boud. SPECIES
 
 #### Status
 ACCEPTED

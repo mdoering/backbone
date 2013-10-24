@@ -1,5 +1,4 @@
-Macroplodia marginata (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Macroplodia marginata (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

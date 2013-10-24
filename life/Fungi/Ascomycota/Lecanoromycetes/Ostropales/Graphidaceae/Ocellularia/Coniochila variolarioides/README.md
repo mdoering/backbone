@@ -1,5 +1,4 @@
-Coniochila variolarioides (Hampe) A. Massal. SPECIES
-=======
+# Coniochila variolarioides (Hampe) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

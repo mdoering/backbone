@@ -1,5 +1,4 @@
-Cryptococcus hessleri (Rettger) Castell. & Chalm. SPECIES
-=======
+# Cryptococcus hessleri (Rettger) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

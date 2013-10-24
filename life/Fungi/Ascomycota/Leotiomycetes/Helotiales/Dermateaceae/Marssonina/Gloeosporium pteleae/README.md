@@ -1,5 +1,4 @@
-Gloeosporium pteleae Negru SPECIES
-=======
+# Gloeosporium pteleae Negru SPECIES
 
 #### Status
 ACCEPTED

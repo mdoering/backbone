@@ -1,5 +1,4 @@
-Scopulariopsis tritici K.B. Deshp. & K.S. Deshp. SPECIES
-=======
+# Scopulariopsis tritici K.B. Deshp. & K.S. Deshp. SPECIES
 
 #### Status
 ACCEPTED

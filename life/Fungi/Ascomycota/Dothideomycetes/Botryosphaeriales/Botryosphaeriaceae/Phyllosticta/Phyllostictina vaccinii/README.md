@@ -1,5 +1,4 @@
-Phyllostictina vaccinii Demaree & Wilcox {?} SPECIES
-=======
+# Phyllostictina vaccinii Demaree & Wilcox {?} SPECIES
 
 #### Status
 ACCEPTED

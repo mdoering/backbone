@@ -1,5 +1,4 @@
-Lachnea carneorufa (Mart.) Sacc. SPECIES
-=======
+# Lachnea carneorufa (Mart.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

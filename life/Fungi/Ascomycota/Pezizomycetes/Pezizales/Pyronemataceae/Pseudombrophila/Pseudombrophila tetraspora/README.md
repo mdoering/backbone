@@ -1,5 +1,4 @@
-Pseudombrophila tetraspora Harmaja SPECIES
-=======
+# Pseudombrophila tetraspora Harmaja SPECIES
 
 #### Status
 ACCEPTED

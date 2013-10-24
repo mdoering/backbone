@@ -1,5 +1,4 @@
-Paranthostomella constipata (Mont.) Savul. & Sandu SPECIES
-=======
+# Paranthostomella constipata (Mont.) Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

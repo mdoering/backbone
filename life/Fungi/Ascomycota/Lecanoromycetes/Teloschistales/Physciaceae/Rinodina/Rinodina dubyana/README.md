@@ -1,8 +1,7 @@
-Rinodina bischoffii var. aegyptiaca Müll. Arg. VARIETY
-=======
+# Rinodina dubyana (Hepp) J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lecidea dubyana Hepp
 
 ### Remarks
 null

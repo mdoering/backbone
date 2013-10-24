@@ -1,5 +1,4 @@
-Callopisma mydalaeum Körb. SPECIES
-=======
+# Callopisma mydalaeum Körb. SPECIES
 
 #### Status
 ACCEPTED

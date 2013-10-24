@@ -1,5 +1,4 @@
-Phyllopsora mauritiana (Taylor) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora mauritiana (Taylor) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

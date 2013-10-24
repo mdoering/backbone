@@ -1,5 +1,4 @@
-Tricharia sublancicarpa Herrera-Camp. & Lücking SPECIES
-=======
+# Tricharia sublancicarpa Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

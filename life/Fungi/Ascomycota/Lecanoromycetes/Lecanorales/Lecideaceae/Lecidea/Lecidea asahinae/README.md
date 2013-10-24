@@ -1,5 +1,4 @@
-Lecidea asahinae Zahlbr. SPECIES
-=======
+# Lecidea asahinae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

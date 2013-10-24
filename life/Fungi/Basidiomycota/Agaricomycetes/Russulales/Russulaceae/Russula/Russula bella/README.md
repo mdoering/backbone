@@ -1,5 +1,4 @@
-Russula bella Hongo SPECIES
-=======
+# Russula bella Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Escharisphaeridia psilata A. Kumar SPECIES
-=======
+# Escharisphaeridia psilata A. Kumar SPECIES
 
 #### Status
 ACCEPTED

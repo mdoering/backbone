@@ -1,17 +1,16 @@
-Psathyrella fimetaria Watling, 1971 SPECIES
-=======
+# Psathyrella coprophila Watling, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 31: 143 (1971)
+Notes R. bot. Gdn Edinb. 31: 146 (1971)
 
 #### Original name
-Psathyrella fimetaria Watling, 1971
+Psathyrella coprophila Watling, 1971
 
 ### Remarks
 null

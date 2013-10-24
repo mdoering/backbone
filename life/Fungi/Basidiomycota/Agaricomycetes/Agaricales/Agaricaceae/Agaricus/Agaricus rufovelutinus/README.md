@@ -1,5 +1,4 @@
-Agaricus rufovelutinus Lam. & DC. SPECIES
-=======
+# Agaricus rufovelutinus Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

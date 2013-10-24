@@ -1,5 +1,4 @@
-Monotalea Brönnimann, Whittaker & Zaninetti, 1992 GENUS
-=======
+# Monotalea Brönnimann, Whittaker & Zaninetti, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalidea scutellaris (Bagl. & Carestia) Lettau SPECIES
-=======
+# Gyalidea scutellaris (Bagl. & Carestia) Lettau SPECIES
 
 #### Status
 ACCEPTED

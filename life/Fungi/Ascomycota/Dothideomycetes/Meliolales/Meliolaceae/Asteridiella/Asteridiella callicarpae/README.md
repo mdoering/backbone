@@ -1,5 +1,4 @@
-Asteridiella callicarpae F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Asteridiella callicarpae F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

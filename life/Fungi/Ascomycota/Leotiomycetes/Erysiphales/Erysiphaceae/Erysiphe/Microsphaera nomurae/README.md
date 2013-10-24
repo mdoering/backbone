@@ -1,5 +1,4 @@
-Microsphaera nomurae U. Braun SPECIES
-=======
+# Microsphaera nomurae U. Braun SPECIES
 
 #### Status
 ACCEPTED

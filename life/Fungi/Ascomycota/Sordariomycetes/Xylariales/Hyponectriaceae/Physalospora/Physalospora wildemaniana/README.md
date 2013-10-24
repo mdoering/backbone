@@ -1,5 +1,4 @@
-Physalospora wildemaniana Sacc. SPECIES
-=======
+# Physalospora wildemaniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

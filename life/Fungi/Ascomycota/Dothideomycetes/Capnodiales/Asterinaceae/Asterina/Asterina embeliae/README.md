@@ -1,5 +1,4 @@
-Asterina embeliae Hansf. SPECIES
-=======
+# Asterina embeliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

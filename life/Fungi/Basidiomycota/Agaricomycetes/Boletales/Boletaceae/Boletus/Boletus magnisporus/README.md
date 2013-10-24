@@ -1,5 +1,4 @@
-Boletus magnisporus Frost SPECIES
-=======
+# Boletus magnisporus Frost SPECIES
 
 #### Status
 ACCEPTED

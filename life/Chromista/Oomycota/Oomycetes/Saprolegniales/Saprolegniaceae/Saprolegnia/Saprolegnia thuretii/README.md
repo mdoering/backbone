@@ -1,8 +1,7 @@
-Saprolegnia thureti de Bary SPECIES
-=======
+# Saprolegnia thuretii de Bary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Saprolegnia thureti de Bary
+Saprolegnia thuretii de Bary
 
 ### Remarks
 null

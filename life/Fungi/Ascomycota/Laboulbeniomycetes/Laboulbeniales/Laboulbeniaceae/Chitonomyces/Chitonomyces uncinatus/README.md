@@ -1,5 +1,4 @@
-Chitonomyces uncinatus Thaxt. SPECIES
-=======
+# Chitonomyces uncinatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

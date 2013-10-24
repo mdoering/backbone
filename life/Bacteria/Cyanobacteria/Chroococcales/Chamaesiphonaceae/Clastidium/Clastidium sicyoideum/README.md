@@ -1,5 +1,4 @@
-Clastidium sicyoideum Li SPECIES
-=======
+# Clastidium sicyoideum Li SPECIES
 
 #### Status
 ACCEPTED

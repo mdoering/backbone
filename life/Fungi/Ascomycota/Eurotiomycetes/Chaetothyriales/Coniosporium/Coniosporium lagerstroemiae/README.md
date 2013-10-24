@@ -1,5 +1,4 @@
-Coniosporium lagerstroemiae N.D. Sharma SPECIES
-=======
+# Coniosporium lagerstroemiae N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

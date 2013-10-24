@@ -1,5 +1,4 @@
-Euglena univittata Conrad SPECIES
-=======
+# Euglena univittata Conrad SPECIES
 
 #### Status
 ACCEPTED

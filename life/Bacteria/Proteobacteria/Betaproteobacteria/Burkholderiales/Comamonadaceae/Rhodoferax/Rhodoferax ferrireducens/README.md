@@ -1,5 +1,4 @@
-Rhodoferax ferrireducens Finneran et al., 2003 SPECIES
-=======
+# Rhodoferax ferrireducens Finneran et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

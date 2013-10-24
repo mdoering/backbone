@@ -1,5 +1,4 @@
-Huilia pseudocrustulata Hertel SPECIES
-=======
+# Huilia pseudocrustulata Hertel SPECIES
 
 #### Status
 ACCEPTED

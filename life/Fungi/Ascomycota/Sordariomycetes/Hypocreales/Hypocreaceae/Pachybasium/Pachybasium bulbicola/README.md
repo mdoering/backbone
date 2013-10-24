@@ -1,8 +1,7 @@
-Pachybasium bulbicolum Tochinai & Shimada SPECIES
-=======
+# Pachybasium bulbicola Tochinai & Shimada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pachybasium bulbicolum Tochinai & Shimada
+Pachybasium bulbicola Tochinai & Shimada
 
 ### Remarks
 null

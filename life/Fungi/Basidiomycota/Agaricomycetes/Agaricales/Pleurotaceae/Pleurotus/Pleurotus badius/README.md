@@ -1,5 +1,4 @@
-Pleurotus badius Murrill SPECIES
-=======
+# Pleurotus badius Murrill SPECIES
 
 #### Status
 ACCEPTED

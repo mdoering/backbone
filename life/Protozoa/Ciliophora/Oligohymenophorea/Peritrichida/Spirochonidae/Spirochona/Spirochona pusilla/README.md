@@ -1,5 +1,4 @@
-Spirochona pusilla Swarczewsky, 1928 SPECIES
-=======
+# Spirochona pusilla Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

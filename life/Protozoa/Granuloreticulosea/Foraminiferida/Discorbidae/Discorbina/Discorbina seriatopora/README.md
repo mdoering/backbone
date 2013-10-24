@@ -1,5 +1,4 @@
-Discorbina seriatopora Rhumbler, 1911 SPECIES
-=======
+# Discorbina seriatopora Rhumbler, 1911 SPECIES
 
 #### Status
 ACCEPTED

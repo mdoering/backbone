@@ -1,5 +1,4 @@
-Coelospharium dubium Grunow SPECIES
-=======
+# Coelospharium dubium Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pluteopsis Fayod GENUS
-=======
+# Psathyrella (Fr.) Quél. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 7 9: 377 (1889)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 152 (1872)
 
 #### Original name
-Pluteopsis Fayod
+Agaricus Linnaeus, 1753
 
 ### Remarks
 null

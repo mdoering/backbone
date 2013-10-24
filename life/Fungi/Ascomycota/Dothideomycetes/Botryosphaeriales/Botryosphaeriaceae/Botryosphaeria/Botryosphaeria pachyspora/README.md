@@ -1,5 +1,4 @@
-Botryosphaeria pachyspora Sacc. SPECIES
-=======
+# Botryosphaeria pachyspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

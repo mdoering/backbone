@@ -1,5 +1,4 @@
-Phoma peltigerae (P. Karst.) D. Hawksw., 1980 SPECIES
-=======
+# Phoma peltigerae (P. Karst.) D. Hawksw., 1980 SPECIES
 
 #### Status
 ACCEPTED

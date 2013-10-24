@@ -1,5 +1,4 @@
-Gorgoniceps brasiliensis Henn. SPECIES
-=======
+# Gorgoniceps brasiliensis Henn. SPECIES
 
 #### Status
 ACCEPTED

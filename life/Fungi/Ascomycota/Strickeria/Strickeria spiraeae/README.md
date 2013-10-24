@@ -1,5 +1,4 @@
-Strickeria spiraeae Domashova SPECIES
-=======
+# Strickeria spiraeae Domashova SPECIES
 
 #### Status
 ACCEPTED

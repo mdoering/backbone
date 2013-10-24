@@ -1,5 +1,4 @@
-Ascochyta confusa Ellis & Everh. SPECIES
-=======
+# Ascochyta confusa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

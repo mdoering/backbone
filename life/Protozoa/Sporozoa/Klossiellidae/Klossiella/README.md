@@ -1,5 +1,4 @@
-Klossiella Smith & Johnson, 1902 GENUS
-=======
+# Klossiella Smith & Johnson, 1902 GENUS
 
 #### Status
 ACCEPTED

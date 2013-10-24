@@ -1,5 +1,4 @@
-Omphalia nivea Velen. SPECIES
-=======
+# Omphalia nivea Velen. SPECIES
 
 #### Status
 ACCEPTED

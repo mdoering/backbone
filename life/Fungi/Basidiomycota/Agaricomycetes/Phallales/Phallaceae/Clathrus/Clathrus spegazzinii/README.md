@@ -1,5 +1,4 @@
-Clathrus spegazzinii (Lloyd) Sacc. & Trotter SPECIES
-=======
+# Clathrus spegazzinii (Lloyd) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllerites palaeocassiae (Ettingsh.) Mesch. SPECIES
-=======
+# Phyllerites palaeocassiae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

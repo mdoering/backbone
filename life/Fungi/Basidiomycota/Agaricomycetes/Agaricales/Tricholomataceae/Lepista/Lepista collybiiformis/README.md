@@ -1,5 +1,4 @@
-Lepista collybiiformis Singer SPECIES
-=======
+# Lepista collybiiformis Singer SPECIES
 
 #### Status
 ACCEPTED

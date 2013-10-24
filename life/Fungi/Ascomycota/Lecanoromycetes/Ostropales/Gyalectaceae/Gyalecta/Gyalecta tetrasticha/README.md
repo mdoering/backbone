@@ -1,5 +1,4 @@
-Gyalecta tetrasticha (Nyl.) Jatta SPECIES
-=======
+# Gyalecta tetrasticha (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma pseudoargyraceum Velen. SPECIES
-=======
+# Tricholoma pseudoargyraceum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Milesina kameiana Hirats. SPECIES
-=======
+# Milesina kameiana Hirats. SPECIES
 
 #### Status
 ACCEPTED

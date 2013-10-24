@@ -1,5 +1,4 @@
-Podospora taenioides (Griffiths) Cain SPECIES
-=======
+# Podospora taenioides (Griffiths) Cain SPECIES
 
 #### Status
 ACCEPTED

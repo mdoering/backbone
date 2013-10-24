@@ -1,5 +1,4 @@
-Lecanora ryrkaipiae H. Magn. SPECIES
-=======
+# Lecanora ryrkaipiae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

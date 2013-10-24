@@ -1,5 +1,4 @@
-Erysiphe magnoliae (Sawada) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe magnoliae (Sawada) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

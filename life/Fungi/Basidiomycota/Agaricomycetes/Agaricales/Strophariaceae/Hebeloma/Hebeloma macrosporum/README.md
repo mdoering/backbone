@@ -1,5 +1,4 @@
-Hebeloma macrosporum Velen. SPECIES
-=======
+# Hebeloma macrosporum Velen. SPECIES
 
 #### Status
 ACCEPTED

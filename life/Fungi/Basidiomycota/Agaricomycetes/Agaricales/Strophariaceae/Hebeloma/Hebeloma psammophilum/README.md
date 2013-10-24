@@ -1,14 +1,13 @@
-Hebeloma fastibile f. ammophila Bon, 1970 FORM
-=======
+# Hebeloma psammophilum Bon, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 86(1): 133 (1970)
+Docums Mycol. 16(no. 62): 70 (1986)
 
 #### Original name
 Hebeloma fastibile f. ammophila Bon, 1970

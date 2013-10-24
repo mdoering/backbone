@@ -1,5 +1,4 @@
-Puccinia minutissima Arthur SPECIES
-=======
+# Puccinia minutissima Arthur SPECIES
 
 #### Status
 ACCEPTED

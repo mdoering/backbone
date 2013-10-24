@@ -1,5 +1,4 @@
-Pyrenopsis caesiella Th. Fr. SPECIES
-=======
+# Pyrenopsis caesiella Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

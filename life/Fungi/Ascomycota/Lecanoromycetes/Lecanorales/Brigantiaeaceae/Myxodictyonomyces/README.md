@@ -1,5 +1,4 @@
-Myxodictyonomyces GENUS
-=======
+# Myxodictyonomyces GENUS
 
 #### Status
 ACCEPTED

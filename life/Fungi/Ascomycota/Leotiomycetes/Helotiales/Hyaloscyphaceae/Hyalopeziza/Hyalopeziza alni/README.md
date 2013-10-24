@@ -1,5 +1,4 @@
-Hyalopeziza alni E. Müll., 1968 SPECIES
-=======
+# Hyalopeziza alni E. Müll., 1968 SPECIES
 
 #### Status
 ACCEPTED

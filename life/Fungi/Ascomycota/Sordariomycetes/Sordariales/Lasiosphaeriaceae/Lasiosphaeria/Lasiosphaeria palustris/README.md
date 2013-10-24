@@ -1,5 +1,4 @@
-Lasiosphaeria palustris J. Schröt. SPECIES
-=======
+# Lasiosphaeria palustris J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

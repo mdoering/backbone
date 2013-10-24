@@ -1,5 +1,4 @@
-Coprinus asterophoroides Bogart SPECIES
-=======
+# Coprinus asterophoroides Bogart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia tumidula (Pers.) Arnold SPECIES
-=======
+# Ochrolechia tumidula (Pers.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhadinomyces gracilis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Rhadinomyces gracilis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

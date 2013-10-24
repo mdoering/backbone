@@ -1,5 +1,4 @@
-Goniosphaeridium indicum Khanna et al., 1983 SPECIES
-=======
+# Goniosphaeridium indicum Khanna et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

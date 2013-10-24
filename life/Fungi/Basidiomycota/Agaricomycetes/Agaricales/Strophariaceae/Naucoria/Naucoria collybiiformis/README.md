@@ -1,5 +1,4 @@
-Naucoria collybiiformis Murrill SPECIES
-=======
+# Naucoria collybiiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

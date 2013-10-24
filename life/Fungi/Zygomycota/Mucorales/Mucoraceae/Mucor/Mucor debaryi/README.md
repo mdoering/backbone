@@ -1,5 +1,4 @@
-Mucor debaryi (Bonord.) Berl. & De Toni SPECIES
-=======
+# Mucor debaryi (Bonord.) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

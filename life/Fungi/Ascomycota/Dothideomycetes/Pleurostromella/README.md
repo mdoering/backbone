@@ -1,5 +1,4 @@
-Pleurostromella Petr. GENUS
-=======
+# Pleurostromella Petr. GENUS
 
 #### Status
 ACCEPTED

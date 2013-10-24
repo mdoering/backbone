@@ -1,5 +1,4 @@
-Gibbera examinans (Berk. & M.A. Curtis) Arx SPECIES
-=======
+# Gibbera examinans (Berk. & M.A. Curtis) Arx SPECIES
 
 #### Status
 ACCEPTED

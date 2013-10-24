@@ -1,5 +1,4 @@
-Ichthyosporidium Caullery & Mesnil GENUS
-=======
+# Ichthyosporidium Caullery & Mesnil GENUS
 
 #### Status
 ACCEPTED

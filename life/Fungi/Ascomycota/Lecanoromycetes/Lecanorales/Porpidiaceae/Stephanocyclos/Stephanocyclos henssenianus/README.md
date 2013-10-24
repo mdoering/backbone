@@ -1,5 +1,4 @@
-Stephanocyclos henssenianus Hertel SPECIES
-=======
+# Stephanocyclos henssenianus Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geminoarcus K. Ando GENUS
-=======
+# Geminoarcus K. Ando GENUS
 
 #### Status
 ACCEPTED

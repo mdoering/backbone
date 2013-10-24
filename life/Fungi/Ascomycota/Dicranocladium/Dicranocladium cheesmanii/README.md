@@ -1,14 +1,13 @@
-Dicranocladium cheesmani (Crossl.) Sousa da Câmara SPECIES
-=======
+# Dicranocladium cheesmanii (Crossl.) Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta agron. , Lisb. 19: 43 (1931)
 
 #### Original name
 Verticicladium cheesmanii Crossl.

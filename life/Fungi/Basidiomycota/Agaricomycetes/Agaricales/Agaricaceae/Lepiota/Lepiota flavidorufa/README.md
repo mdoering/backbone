@@ -1,5 +1,4 @@
-Lepiota flavidorufa Berk. & Broome SPECIES
-=======
+# Lepiota flavidorufa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

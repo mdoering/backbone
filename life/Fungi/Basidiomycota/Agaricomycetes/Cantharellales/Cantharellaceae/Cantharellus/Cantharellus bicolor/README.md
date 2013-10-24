@@ -1,5 +1,4 @@
-Cantharellus bicolor Ces. SPECIES
-=======
+# Cantharellus bicolor Ces. SPECIES
 
 #### Status
 ACCEPTED

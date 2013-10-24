@@ -1,5 +1,4 @@
-Cantharellus croceifolius Heinem., 1958 SPECIES
-=======
+# Cantharellus croceifolius Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

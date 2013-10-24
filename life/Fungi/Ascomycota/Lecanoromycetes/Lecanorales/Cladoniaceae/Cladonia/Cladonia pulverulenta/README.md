@@ -1,5 +1,4 @@
-Cladonia pulverulenta (L. Scriba) Ahti SPECIES
-=======
+# Cladonia pulverulenta (L. Scriba) Ahti SPECIES
 
 #### Status
 ACCEPTED

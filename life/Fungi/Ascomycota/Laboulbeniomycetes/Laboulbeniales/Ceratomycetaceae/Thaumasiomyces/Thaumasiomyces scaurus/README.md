@@ -1,5 +1,4 @@
-Thaumasiomyces scaurus Thaxt., 1931 SPECIES
-=======
+# Thaumasiomyces scaurus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

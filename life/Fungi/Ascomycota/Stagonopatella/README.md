@@ -1,5 +1,4 @@
-Stagonopatella Petr. GENUS
-=======
+# Stagonopatella Petr. GENUS
 
 #### Status
 ACCEPTED

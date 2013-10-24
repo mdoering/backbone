@@ -1,5 +1,4 @@
-Sarcoscypha hirta (Schumach.) SPECIES
-=======
+# Sarcoscypha hirta (Schumach.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inderites Abramova & Martchenko, 1964 GENUS
-=======
+# Inderites Abramova & Martchenko, 1964 GENUS
 
 #### Status
 ACCEPTED

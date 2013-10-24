@@ -1,5 +1,4 @@
-Astasia clavata E.G. Pringsheim SPECIES
-=======
+# Astasia clavata E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

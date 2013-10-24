@@ -1,5 +1,4 @@
-Dendrostilbella viridipes (Boud.) Höhn. SPECIES
-=======
+# Dendrostilbella viridipes (Boud.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

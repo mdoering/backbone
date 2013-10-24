@@ -1,5 +1,4 @@
-Nostoc minutissimum Kützing SPECIES
-=======
+# Nostoc minutissimum Kützing SPECIES
 
 #### Status
 ACCEPTED

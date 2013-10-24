@@ -1,5 +1,4 @@
-Delitschia trichodelitschioides M.J. Richardson, 1998 SPECIES
-=======
+# Delitschia trichodelitschioides M.J. Richardson, 1998 SPECIES
 
 #### Status
 ACCEPTED

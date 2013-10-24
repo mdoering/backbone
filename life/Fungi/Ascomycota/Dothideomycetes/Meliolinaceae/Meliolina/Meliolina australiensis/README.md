@@ -1,5 +1,4 @@
-Meliolina australiensis S. Hughes SPECIES
-=======
+# Meliolina australiensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

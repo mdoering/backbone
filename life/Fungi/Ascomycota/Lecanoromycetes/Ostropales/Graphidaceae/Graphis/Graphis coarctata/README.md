@@ -1,5 +1,4 @@
-Graphis coarctata Stirt. SPECIES
-=======
+# Graphis coarctata Stirt. SPECIES
 
 #### Status
 ACCEPTED

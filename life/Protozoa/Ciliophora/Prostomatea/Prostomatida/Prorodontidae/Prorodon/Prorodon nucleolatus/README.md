@@ -1,5 +1,4 @@
-Prorodon nucleolatus subsp. nucleolatus SUBSPECIES
-=======
+# Prorodon nucleolatus Penard, 1938 SPECIES
 
 #### Status
 ACCEPTED

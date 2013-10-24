@@ -1,5 +1,4 @@
-Meliola irvingae Hansf. SPECIES
-=======
+# Meliola irvingae Hansf. SPECIES
 
 #### Status
 ACCEPTED

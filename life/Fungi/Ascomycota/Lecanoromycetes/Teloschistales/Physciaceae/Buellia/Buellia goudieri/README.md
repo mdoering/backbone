@@ -1,5 +1,4 @@
-Buellia goudieri (Hue) Darb. SPECIES
-=======
+# Buellia goudieri (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

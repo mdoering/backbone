@@ -1,5 +1,4 @@
-Conchophthirus difformis SPECIES
-=======
+# Conchophthirus difformis SPECIES
 
 #### Status
 ACCEPTED

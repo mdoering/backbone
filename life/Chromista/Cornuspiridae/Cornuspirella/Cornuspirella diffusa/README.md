@@ -1,8 +1,7 @@
-Cornuspira diffusa Heron-Allen & Earland, 1913 SPECIES
-=======
+# Cornuspirella diffusa (Heron-Allen & Earland, 1913) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

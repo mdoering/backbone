@@ -1,5 +1,4 @@
-Metschnikowia lochheadii Lachance, 2001 SPECIES
-=======
+# Metschnikowia lochheadii Lachance, 2001 SPECIES
 
 #### Status
 ACCEPTED

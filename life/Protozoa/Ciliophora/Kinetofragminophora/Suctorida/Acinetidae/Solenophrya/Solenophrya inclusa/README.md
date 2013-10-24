@@ -1,5 +1,4 @@
-Solenophrya inclusa Stokes, 1885 SPECIES
-=======
+# Solenophrya inclusa Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

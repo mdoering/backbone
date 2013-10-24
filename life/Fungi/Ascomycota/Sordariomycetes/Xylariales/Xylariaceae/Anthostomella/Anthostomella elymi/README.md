@@ -1,5 +1,4 @@
-Anthostomella elymi Brunaud SPECIES
-=======
+# Anthostomella elymi Brunaud SPECIES
 
 #### Status
 ACCEPTED

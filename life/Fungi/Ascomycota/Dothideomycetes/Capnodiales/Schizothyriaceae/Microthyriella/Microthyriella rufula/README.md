@@ -1,5 +1,4 @@
-Microthyriella rufula (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
-=======
+# Microthyriella rufula (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

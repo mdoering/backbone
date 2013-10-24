@@ -1,5 +1,4 @@
-Dothiorella corylina P. Karst. SPECIES
-=======
+# Dothiorella corylina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalaria kansana Tuck. SPECIES
-=======
+# Omphalaria kansana Tuck. SPECIES
 
 #### Status
 ACCEPTED

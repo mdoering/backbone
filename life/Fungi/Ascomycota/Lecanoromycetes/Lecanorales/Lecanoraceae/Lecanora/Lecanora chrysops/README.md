@@ -1,5 +1,4 @@
-Lecanora chrysops Tuck. SPECIES
-=======
+# Lecanora chrysops Tuck. SPECIES
 
 #### Status
 ACCEPTED

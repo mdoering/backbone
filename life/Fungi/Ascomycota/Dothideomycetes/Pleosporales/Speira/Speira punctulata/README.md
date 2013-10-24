@@ -1,5 +1,4 @@
-Speira punctulata var. punctulata VARIETY
-=======
+# Speira punctulata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Speira punctulata var. punctulata
+Speira punctulata Cooke & Ellis
 
 ### Remarks
 null

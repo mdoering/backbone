@@ -1,5 +1,4 @@
-Phlyctema spartii Bubák SPECIES
-=======
+# Phlyctema spartii Bubák SPECIES
 
 #### Status
 ACCEPTED

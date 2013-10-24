@@ -1,5 +1,4 @@
-Cliostomum praepallidum (Müll. Arg.) Kantvilas & Fryday SPECIES
-=======
+# Cliostomum praepallidum (Müll. Arg.) Kantvilas & Fryday SPECIES
 
 #### Status
 ACCEPTED

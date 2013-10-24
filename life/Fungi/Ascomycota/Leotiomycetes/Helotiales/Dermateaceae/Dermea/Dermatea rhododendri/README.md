@@ -1,5 +1,4 @@
-Dermatea rhododendri Rehm SPECIES
-=======
+# Dermatea rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma selectum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma selectum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

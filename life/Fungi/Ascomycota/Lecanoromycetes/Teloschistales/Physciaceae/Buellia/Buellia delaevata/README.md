@@ -1,5 +1,4 @@
-Buellia delaevata (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia delaevata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

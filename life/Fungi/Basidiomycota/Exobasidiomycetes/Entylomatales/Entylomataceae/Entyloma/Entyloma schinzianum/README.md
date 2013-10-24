@@ -1,5 +1,4 @@
-Entyloma schinzianum (Magnus) Bubák SPECIES
-=======
+# Entyloma schinzianum (Magnus) Bubák SPECIES
 
 #### Status
 ACCEPTED

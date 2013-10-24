@@ -1,5 +1,4 @@
-Acarospora glaucopsina (Nyl.) Hue SPECIES
-=======
+# Acarospora glaucopsina (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

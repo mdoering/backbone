@@ -1,11 +1,10 @@
-Sphaerotilus trichogenes (Cholodny, 1924) Pringsheim, 1949 SPECIES
-=======
+# Toxothrix trichogenes (Cholodny, 1924) Beger, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

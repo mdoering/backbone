@@ -1,5 +1,4 @@
-Hystrichokolpoma cinctum Klumpp, 1953 SPECIES
-=======
+# Hystrichokolpoma cinctum Klumpp, 1953 SPECIES
 
 #### Status
 ACCEPTED

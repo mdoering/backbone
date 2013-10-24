@@ -1,5 +1,4 @@
-Corynophrya francottei Sand, 1895 SPECIES
-=======
+# Corynophrya francottei Sand, 1895 SPECIES
 
 #### Status
 ACCEPTED

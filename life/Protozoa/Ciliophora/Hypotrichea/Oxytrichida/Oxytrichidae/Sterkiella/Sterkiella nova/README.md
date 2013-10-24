@@ -1,5 +1,4 @@
-Sterkiella nova Foissner & Berger, 1999 SPECIES
-=======
+# Sterkiella nova Foissner & Berger, 1999 SPECIES
 
 #### Status
 ACCEPTED

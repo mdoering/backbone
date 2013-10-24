@@ -1,5 +1,4 @@
-Phyllachora ambigua (Syd.) Syd., 1915 SPECIES
-=======
+# Phyllachora ambigua (Syd.) Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

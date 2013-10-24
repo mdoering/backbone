@@ -1,5 +1,4 @@
-Porosphaera Dumortier, 1822 GENUS
-=======
+# Porosphaera Dumortier, 1822 GENUS
 
 #### Status
 ACCEPTED

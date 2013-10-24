@@ -1,5 +1,4 @@
-Gonostomum kuehnelti Foissner, 1987 SPECIES
-=======
+# Gonostomum kuehnelti Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

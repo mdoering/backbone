@@ -1,5 +1,4 @@
-Scindalma circumstans (Morgan) Kuntze SPECIES
-=======
+# Scindalma circumstans (Morgan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

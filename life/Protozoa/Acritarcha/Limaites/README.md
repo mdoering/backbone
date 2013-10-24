@@ -1,5 +1,4 @@
-Limaites Padilha de Quadros, 1986 GENUS
-=======
+# Limaites Padilha de Quadros, 1986 GENUS
 
 #### Status
 ACCEPTED

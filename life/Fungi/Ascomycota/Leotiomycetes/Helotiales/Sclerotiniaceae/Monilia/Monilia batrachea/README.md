@@ -1,5 +1,4 @@
-Monilia batrachea H.H. Scott SPECIES
-=======
+# Monilia batrachea H.H. Scott SPECIES
 
 #### Status
 ACCEPTED

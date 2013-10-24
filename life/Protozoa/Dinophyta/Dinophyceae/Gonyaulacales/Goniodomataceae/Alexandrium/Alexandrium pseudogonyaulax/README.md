@@ -1,5 +1,4 @@
-Alexandrium pseudogonyaulax (Biecheler) Horiguchi ex Kita & Fukuyo SPECIES
-=======
+# Alexandrium pseudogonyaulax (Biecheler) Horiguchi ex Kita & Fukuyo SPECIES
 
 #### Status
 ACCEPTED

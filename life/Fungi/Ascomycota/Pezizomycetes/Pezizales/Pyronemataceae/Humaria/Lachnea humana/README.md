@@ -1,5 +1,4 @@
-Lachnea humana Velen. SPECIES
-=======
+# Lachnea humana Velen. SPECIES
 
 #### Status
 ACCEPTED

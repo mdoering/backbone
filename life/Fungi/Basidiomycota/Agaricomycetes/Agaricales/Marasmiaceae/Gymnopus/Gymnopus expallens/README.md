@@ -1,5 +1,4 @@
-Gymnopus expallens (Peck) Murrill SPECIES
-=======
+# Gymnopus expallens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

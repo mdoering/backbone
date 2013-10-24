@@ -1,5 +1,4 @@
-Lecanora colorata Motyka SPECIES
-=======
+# Lecanora colorata Motyka SPECIES
 
 #### Status
 ACCEPTED

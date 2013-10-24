@@ -1,5 +1,4 @@
-Cristella laciniata (Bull.) P. Karst. SPECIES
-=======
+# Cristella laciniata (Bull.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

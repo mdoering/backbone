@@ -1,5 +1,4 @@
-Malacophryidae FAMILY
-=======
+# Malacophryidae FAMILY
 
 #### Status
 ACCEPTED

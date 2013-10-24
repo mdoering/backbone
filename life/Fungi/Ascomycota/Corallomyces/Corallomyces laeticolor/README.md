@@ -1,5 +1,4 @@
-Corallomyces laeticolor (Berk. & M.A. Curtis) Höhn. & Weese SPECIES
-=======
+# Corallomyces laeticolor (Berk. & M.A. Curtis) Höhn. & Weese SPECIES
 
 #### Status
 ACCEPTED

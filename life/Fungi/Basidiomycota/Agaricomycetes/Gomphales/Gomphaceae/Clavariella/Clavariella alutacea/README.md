@@ -1,5 +1,4 @@
-Clavariella alutacea P. Karst. SPECIES
-=======
+# Clavariella alutacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

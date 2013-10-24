@@ -1,5 +1,4 @@
-Rhodomyces dendrorhous F. Ludw. SPECIES
-=======
+# Rhodomyces dendrorhous F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

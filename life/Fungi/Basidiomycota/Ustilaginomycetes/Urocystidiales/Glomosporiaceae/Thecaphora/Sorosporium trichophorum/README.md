@@ -1,5 +1,4 @@
-Sorosporium trichophorum (Tul. & C. Tul.) Zundel SPECIES
-=======
+# Sorosporium trichophorum (Tul. & C. Tul.) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palikiella hungarica Claus SPECIES
-=======
+# Palikiella hungarica Claus SPECIES
 
 #### Status
 ACCEPTED

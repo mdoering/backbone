@@ -1,5 +1,4 @@
-Phyllogloea herrerae S. Sierra & Cifuentes, 1998 SPECIES
-=======
+# Phyllogloea herrerae S. Sierra & Cifuentes, 1998 SPECIES
 
 #### Status
 ACCEPTED

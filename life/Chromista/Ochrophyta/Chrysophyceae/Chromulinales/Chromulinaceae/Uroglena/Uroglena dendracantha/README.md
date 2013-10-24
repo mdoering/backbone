@@ -1,5 +1,4 @@
-Uroglena dendracantha G. Cronberg SPECIES
-=======
+# Uroglena dendracantha G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

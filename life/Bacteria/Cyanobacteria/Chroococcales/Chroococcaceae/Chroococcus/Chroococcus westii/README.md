@@ -1,8 +1,7 @@
-Chroococcus turgidus var. subviolaceus Wille VARIETY
-=======
+# Chroococcus westii Boyle-Petersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

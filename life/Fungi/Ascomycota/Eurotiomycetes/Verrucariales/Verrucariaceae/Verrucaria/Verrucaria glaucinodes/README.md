@@ -1,5 +1,4 @@
-Verrucaria glaucinodes Nyl. SPECIES
-=======
+# Verrucaria glaucinodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

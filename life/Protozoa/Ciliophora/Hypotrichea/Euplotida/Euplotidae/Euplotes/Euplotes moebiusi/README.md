@@ -1,5 +1,4 @@
-Euplotes moebiusi subsp. moebiusi SUBSPECIES
-=======
+# Euplotes moebiusi Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

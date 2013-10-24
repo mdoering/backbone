@@ -1,5 +1,4 @@
-Panaeolus cambodginiensis Ola'h & R. Heim SPECIES
-=======
+# Panaeolus cambodginiensis Ola'h & R. Heim SPECIES
 
 #### Status
 ACCEPTED

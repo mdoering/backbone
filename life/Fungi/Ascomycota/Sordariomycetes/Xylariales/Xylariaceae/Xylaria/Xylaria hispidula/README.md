@@ -1,5 +1,4 @@
-Xylaria hispidula Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria hispidula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

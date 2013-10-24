@@ -1,5 +1,4 @@
-Oxytricha micans Gellert, 1955 SPECIES
-=======
+# Oxytricha micans Gellert, 1955 SPECIES
 
 #### Status
 ACCEPTED

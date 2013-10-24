@@ -1,5 +1,4 @@
-Acidiphilium Harrison, 1981 GENUS
-=======
+# Acidiphilium Harrison, 1981 GENUS
 
 #### Status
 ACCEPTED

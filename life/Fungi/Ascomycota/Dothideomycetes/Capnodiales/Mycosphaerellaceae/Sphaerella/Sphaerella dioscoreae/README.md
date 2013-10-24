@@ -1,5 +1,4 @@
-Sphaerella dioscoreae Pass. SPECIES
-=======
+# Sphaerella dioscoreae Pass. SPECIES
 
 #### Status
 ACCEPTED

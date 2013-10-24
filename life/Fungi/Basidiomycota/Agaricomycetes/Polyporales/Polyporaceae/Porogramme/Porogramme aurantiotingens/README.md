@@ -1,5 +1,4 @@
-Porogramme aurantiotingens (Ellis & T. Macbr.) Pat. SPECIES
-=======
+# Porogramme aurantiotingens (Ellis & T. Macbr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

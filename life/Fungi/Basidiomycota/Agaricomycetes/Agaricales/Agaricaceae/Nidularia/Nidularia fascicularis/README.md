@@ -1,5 +1,4 @@
-Nidularia fascicularis Schwein. SPECIES
-=======
+# Nidularia fascicularis Schwein. SPECIES
 
 #### Status
 ACCEPTED

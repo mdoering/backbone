@@ -1,5 +1,4 @@
-Opegrapha capensis Müll. Arg. SPECIES
-=======
+# Opegrapha capensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

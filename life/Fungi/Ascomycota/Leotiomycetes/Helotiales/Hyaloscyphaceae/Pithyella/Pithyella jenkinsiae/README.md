@@ -1,14 +1,13 @@
-Pithyella jenkinsii (Sherwood & Korf) Korf & W.Y. Zhuang SPECIES
-=======
+# Pithyella jenkinsiae (Sherwood & Korf) Korf & W.Y. Zhuang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 29: 7 (1987)
 
 #### Original name
 Helotiopsis jenkinsiae Sherwood & Korf

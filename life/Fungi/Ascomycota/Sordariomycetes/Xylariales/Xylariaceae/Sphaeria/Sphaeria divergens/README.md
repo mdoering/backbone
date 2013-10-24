@@ -1,5 +1,4 @@
-Sphaeria divergens Schwein. SPECIES
-=======
+# Sphaeria divergens Schwein. SPECIES
 
 #### Status
 ACCEPTED

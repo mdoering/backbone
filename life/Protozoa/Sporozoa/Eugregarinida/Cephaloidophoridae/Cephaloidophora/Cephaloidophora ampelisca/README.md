@@ -1,5 +1,4 @@
-Cephaloidophora ampelisca (Nowlin & Smith, 1917) SPECIES
-=======
+# Cephaloidophora ampelisca (Nowlin & Smith, 1917) SPECIES
 
 #### Status
 ACCEPTED

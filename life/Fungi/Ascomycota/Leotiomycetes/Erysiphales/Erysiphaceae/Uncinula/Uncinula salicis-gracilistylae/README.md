@@ -1,17 +1,16 @@
-Uncinula salici-gracilistylae Homma SPECIES
-=======
+# Uncinula salicis-gracilistylae Homma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Sapporo nat. Hist. Soc. 11(3): 173 (1930)
 
 #### Original name
-Uncinula salici-gracilistylae Homma
+Uncinula salicis-gracilistylae Homma
 
 ### Remarks
 null

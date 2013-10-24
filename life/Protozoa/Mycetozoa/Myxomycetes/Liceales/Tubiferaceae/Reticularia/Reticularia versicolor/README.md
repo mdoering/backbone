@@ -1,5 +1,4 @@
-Reticularia versicolor Fr. SPECIES
-=======
+# Reticularia versicolor Fr. SPECIES
 
 #### Status
 ACCEPTED

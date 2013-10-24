@@ -1,5 +1,4 @@
-Sclerotiopsis macrothecia (Fuckel) SPECIES
-=======
+# Sclerotiopsis macrothecia (Fuckel) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyponectria mohavensis Bonar SPECIES
-=======
+# Hyponectria mohavensis Bonar SPECIES
 
 #### Status
 ACCEPTED

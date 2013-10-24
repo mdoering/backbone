@@ -1,5 +1,4 @@
-Phyllosticta araliae-cordatae Sawada SPECIES
-=======
+# Phyllosticta araliae-cordatae Sawada SPECIES
 
 #### Status
 ACCEPTED

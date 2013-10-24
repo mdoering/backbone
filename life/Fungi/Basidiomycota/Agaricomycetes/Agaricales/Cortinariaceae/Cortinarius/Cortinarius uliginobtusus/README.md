@@ -1,5 +1,4 @@
-Cortinarius uliginobtusus f. uliginobtusus FORM
-=======
+# Cortinarius uliginobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius uliginobtusus f. uliginobtusus
+Cortinarius uliginobtusus Rob. Henry
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius privignoides var. leptospermus Cheype, Reumaux VARIETY
-=======
+# Cortinarius privignoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Bidaud, Carteret, Eyssartier, Moënne-Loccoz & Reumaux, Atlas des Cortinaires (Meyzieu) 12: 693 (2002)
+Bull. trimest. Soc. mycol. Fr. 44: 40 (1948)
 
 #### Original name
-Cortinarius privignoides var. leptospermus Cheype, Reumaux
+Cortinarius privignoides Rob. Henry
 
 ### Remarks
 null

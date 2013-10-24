@@ -1,5 +1,4 @@
-Clavaria cystidiophora Kauffman SPECIES
-=======
+# Clavaria cystidiophora Kauffman SPECIES
 
 #### Status
 ACCEPTED

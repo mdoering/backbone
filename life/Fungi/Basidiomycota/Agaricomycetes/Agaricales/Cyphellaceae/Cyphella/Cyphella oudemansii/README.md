@@ -1,5 +1,4 @@
-Cyphella oudemansii Sacc. SPECIES
-=======
+# Cyphella oudemansii Sacc. SPECIES
 
 #### Status
 ACCEPTED

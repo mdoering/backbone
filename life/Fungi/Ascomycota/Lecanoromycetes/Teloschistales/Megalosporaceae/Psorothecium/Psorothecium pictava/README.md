@@ -1,5 +1,4 @@
-Psorothecium pictava (Nyl.) Forssell SPECIES
-=======
+# Psorothecium pictava (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

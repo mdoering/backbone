@@ -1,5 +1,4 @@
-Trachelius trichophora sensu Schmarda, 1850 SPECIES
-=======
+# Trachelius trichophora sensu Schmarda, 1850 SPECIES
 
 #### Status
 ACCEPTED

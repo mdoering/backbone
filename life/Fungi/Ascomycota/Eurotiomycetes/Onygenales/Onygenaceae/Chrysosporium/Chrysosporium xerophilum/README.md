@@ -1,5 +1,4 @@
-Chrysosporium xerophilum Pitt, 1966 SPECIES
-=======
+# Chrysosporium xerophilum Pitt, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannularia interfixa Nyl. SPECIES
-=======
+# Pannularia interfixa Nyl. SPECIES
 
 #### Status
 ACCEPTED

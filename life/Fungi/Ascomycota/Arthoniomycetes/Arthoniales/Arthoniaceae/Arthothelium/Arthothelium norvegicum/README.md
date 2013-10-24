@@ -1,5 +1,4 @@
-Arthothelium norvegicum Coppins & Tønsberg SPECIES
-=======
+# Arthothelium norvegicum Coppins & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

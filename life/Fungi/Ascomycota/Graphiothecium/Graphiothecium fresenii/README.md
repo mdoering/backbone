@@ -1,5 +1,4 @@
-Graphiothecium fresenii Fuckel, 1870 SPECIES
-=======
+# Graphiothecium fresenii Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

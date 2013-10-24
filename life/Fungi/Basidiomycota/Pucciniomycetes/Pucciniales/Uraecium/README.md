@@ -1,5 +1,4 @@
-Uraecium Arthur GENUS
-=======
+# Uraecium Arthur GENUS
 
 #### Status
 ACCEPTED

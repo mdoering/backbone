@@ -1,5 +1,4 @@
-Opegrapha encephalographoidea Diederich SPECIES
-=======
+# Opegrapha encephalographoidea Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capronia dactylotricha Unter., Cand. & Samuels, 1995 SPECIES
-=======
+# Capronia dactylotricha Unter., Cand. & Samuels, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysosporium minus Skou, 1992 SPECIES
-=======
+# Chrysosporium minus Skou, 1992 SPECIES
 
 #### Status
 ACCEPTED

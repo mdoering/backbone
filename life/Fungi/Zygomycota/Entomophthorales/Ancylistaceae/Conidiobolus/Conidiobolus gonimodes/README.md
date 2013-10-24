@@ -1,5 +1,4 @@
-Conidiobolus gonimodes Drechsler, 1962 SPECIES
-=======
+# Conidiobolus gonimodes Drechsler, 1962 SPECIES
 
 #### Status
 ACCEPTED

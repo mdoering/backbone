@@ -1,5 +1,4 @@
-Sphaerella consociata Rehm SPECIES
-=======
+# Sphaerella consociata Rehm SPECIES
 
 #### Status
 ACCEPTED

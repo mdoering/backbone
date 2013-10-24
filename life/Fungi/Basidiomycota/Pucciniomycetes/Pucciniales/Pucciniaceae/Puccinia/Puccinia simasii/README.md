@@ -1,5 +1,4 @@
-Puccinia simasii Rangel SPECIES
-=======
+# Puccinia simasii Rangel SPECIES
 
 #### Status
 ACCEPTED

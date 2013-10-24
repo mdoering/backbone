@@ -1,5 +1,4 @@
-Togniniella acerosa Réblová, L. Mostert, W. Gams & Crous, 2004 SPECIES
-=======
+# Togniniella acerosa Réblová, L. Mostert, W. Gams & Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

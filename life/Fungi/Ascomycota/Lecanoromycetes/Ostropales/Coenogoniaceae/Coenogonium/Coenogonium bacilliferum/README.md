@@ -1,5 +1,4 @@
-Coenogonium bacilliferum (Malme) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium bacilliferum (Malme) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema lepadinoides SPECIES
-=======
+# Thelotrema lepadinoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes angulus Lloyd SPECIES
-=======
+# Fomes angulus Lloyd SPECIES
 
 #### Status
 ACCEPTED

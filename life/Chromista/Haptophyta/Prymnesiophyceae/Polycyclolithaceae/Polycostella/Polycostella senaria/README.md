@@ -1,5 +1,4 @@
-Polycostella senaria Thierstein, 1971 SPECIES
-=======
+# Polycostella senaria Thierstein, 1971 SPECIES
 
 #### Status
 ACCEPTED

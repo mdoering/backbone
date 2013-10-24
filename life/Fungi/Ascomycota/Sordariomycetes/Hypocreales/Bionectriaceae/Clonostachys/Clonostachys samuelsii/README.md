@@ -1,5 +1,4 @@
-Clonostachys samuelsii Schroers SPECIES
-=======
+# Clonostachys samuelsii Schroers SPECIES
 
 #### Status
 ACCEPTED

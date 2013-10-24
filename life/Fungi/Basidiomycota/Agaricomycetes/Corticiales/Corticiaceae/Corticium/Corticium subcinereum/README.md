@@ -1,5 +1,4 @@
-Corticium subcinereum Burt SPECIES
-=======
+# Corticium subcinereum Burt SPECIES
 
 #### Status
 ACCEPTED

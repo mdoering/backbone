@@ -1,5 +1,4 @@
-Albertiniella reticulata Kirschst., 1936 SPECIES
-=======
+# Albertiniella reticulata Kirschst., 1936 SPECIES
 
 #### Status
 ACCEPTED

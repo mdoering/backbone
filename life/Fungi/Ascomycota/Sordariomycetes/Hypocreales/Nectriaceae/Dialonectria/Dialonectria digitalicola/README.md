@@ -1,5 +1,4 @@
-Dialonectria digitalicola (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria digitalicola (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

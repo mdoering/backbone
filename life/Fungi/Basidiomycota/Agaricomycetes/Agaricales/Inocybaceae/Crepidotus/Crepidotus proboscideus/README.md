@@ -1,5 +1,4 @@
-Crepidotus proboscideus (Fr.) P. Kumm. SPECIES
-=======
+# Crepidotus proboscideus (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

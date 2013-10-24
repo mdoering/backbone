@@ -1,5 +1,4 @@
-Calonectria polythalama (Berk.) Sacc. SPECIES
-=======
+# Calonectria polythalama (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

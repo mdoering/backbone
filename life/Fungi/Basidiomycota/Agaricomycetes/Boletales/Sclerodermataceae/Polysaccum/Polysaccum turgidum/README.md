@@ -1,5 +1,4 @@
-Polysaccum turgidum Fr. SPECIES
-=======
+# Polysaccum turgidum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria silesiaca Kirschst. SPECIES
-=======
+# Plicaria silesiaca Kirschst. SPECIES
 
 #### Status
 ACCEPTED

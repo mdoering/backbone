@@ -1,5 +1,4 @@
-Phaeosporis catacrypta (Rehm) Rappaz SPECIES
-=======
+# Phaeosporis catacrypta (Rehm) Rappaz SPECIES
 
 #### Status
 ACCEPTED

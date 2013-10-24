@@ -1,5 +1,4 @@
-Pithoascus Arx, 1973 GENUS
-=======
+# Pithoascus Arx, 1973 GENUS
 
 #### Status
 ACCEPTED

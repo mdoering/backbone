@@ -1,5 +1,4 @@
-Lecidea balangiana Harm. SPECIES
-=======
+# Lecidea balangiana Harm. SPECIES
 
 #### Status
 ACCEPTED

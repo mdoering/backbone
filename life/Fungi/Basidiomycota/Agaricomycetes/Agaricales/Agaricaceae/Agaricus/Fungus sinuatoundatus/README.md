@@ -1,5 +1,4 @@
-Fungus sinuatoundatus (Brig.) Kuntze SPECIES
-=======
+# Fungus sinuatoundatus (Brig.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

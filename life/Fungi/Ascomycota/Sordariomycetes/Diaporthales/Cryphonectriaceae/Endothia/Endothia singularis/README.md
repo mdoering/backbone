@@ -1,5 +1,4 @@
-Endothia singularis (Syd. & P. Syd.) Shear & N.E. Stevens SPECIES
-=======
+# Endothia singularis (Syd. & P. Syd.) Shear & N.E. Stevens SPECIES
 
 #### Status
 ACCEPTED

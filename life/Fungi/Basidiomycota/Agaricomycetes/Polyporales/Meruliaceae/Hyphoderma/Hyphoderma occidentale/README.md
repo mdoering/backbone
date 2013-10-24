@@ -1,17 +1,16 @@
-Hyphoderma subdefinitum J. Erikss. & Å. Strid, 1975 SPECIES
-=======
+# Hyphoderma occidentale (D.P. Rogers) Boidin & Gilles, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Eriksson & Ryvarden, Cortic. N. Eur. (Oslo), <b>3</b> Coronicium-Hyphoderma 3: 539 (1975)
+Cryptog. Mycol. 15(2): 138 (1994)
 
 #### Original name
-Hyphoderma subdefinitum J. Erikss. & Å. Strid, 1975
+Galzinia occidentalis D.P. Rogers, 1944
 
 ### Remarks
 null

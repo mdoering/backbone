@@ -1,5 +1,4 @@
-Petalotricha major Jörgensen, 1925 SPECIES
-=======
+# Petalotricha major Jörgensen, 1925 SPECIES
 
 #### Status
 ACCEPTED

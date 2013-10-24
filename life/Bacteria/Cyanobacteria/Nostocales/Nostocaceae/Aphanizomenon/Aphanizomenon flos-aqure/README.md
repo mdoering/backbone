@@ -1,5 +1,4 @@
-Aphanizomenon flos-aqure (Lemmermann) Ralfs SPECIES
-=======
+# Aphanizomenon flos-aqure (Lemmermann) Ralfs SPECIES
 
 #### Status
 ACCEPTED

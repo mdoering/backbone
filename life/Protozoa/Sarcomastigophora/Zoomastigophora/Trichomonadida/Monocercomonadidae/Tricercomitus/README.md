@@ -1,5 +1,4 @@
-Tricercomitus Kirby, 1930 GENUS
-=======
+# Tricercomitus Kirby, 1930 GENUS
 
 #### Status
 ACCEPTED

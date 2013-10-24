@@ -1,14 +1,13 @@
-Spirulina Ehrenberg, 1843 GENUS
-=======
+# Spirolina Lamarck, 1804 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Ber. Verh. Preuss. Akad. Wiss. , 1843, 167.
+Ann. Mus. Hist. Nat. (Paris), 5 (28), 244.
 
 #### Original name
 null

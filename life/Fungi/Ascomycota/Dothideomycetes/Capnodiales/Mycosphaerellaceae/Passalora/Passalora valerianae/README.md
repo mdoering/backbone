@@ -1,5 +1,4 @@
-Passalora valerianae (Siemaszko) U. Braun SPECIES
-=======
+# Passalora valerianae (Siemaszko) U. Braun SPECIES
 
 #### Status
 ACCEPTED

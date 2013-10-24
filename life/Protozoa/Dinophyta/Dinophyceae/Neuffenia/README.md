@@ -1,5 +1,4 @@
-Neuffenia Brenner & Dürr, 1986 GENUS
-=======
+# Neuffenia Brenner & Dürr, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Duoforisa Li & McGowran, 1994 GENUS
-=======
+# Duoforisa Li & McGowran, 1994 GENUS
 
 #### Status
 ACCEPTED

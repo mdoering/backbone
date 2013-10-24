@@ -1,5 +1,4 @@
-Paucisphaeridium inversibuccinum (Davey & Williams, 1966) Bujak, Downie, Eaton & Williams SPECIES
-=======
+# Paucisphaeridium inversibuccinum (Davey & Williams, 1966) Bujak, Downie, Eaton & Williams SPECIES
 
 #### Status
 ACCEPTED

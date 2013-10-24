@@ -1,5 +1,4 @@
-Ascochyta ligustrina Pass. SPECIES
-=======
+# Ascochyta ligustrina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boodlea trukensis Trono SPECIES
-=======
+# Boodlea trukensis Trono SPECIES
 
 #### Status
 ACCEPTED

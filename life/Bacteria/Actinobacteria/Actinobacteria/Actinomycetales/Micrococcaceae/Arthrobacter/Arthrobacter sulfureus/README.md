@@ -1,5 +1,4 @@
-Arthrobacter sulfureus Stackebrandt et al., 1984 SPECIES
-=======
+# Arthrobacter sulfureus Stackebrandt et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

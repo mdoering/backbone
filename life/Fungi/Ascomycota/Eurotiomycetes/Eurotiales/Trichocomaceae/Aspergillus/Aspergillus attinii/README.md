@@ -1,5 +1,4 @@
-Aspergillus attinii J. Lehm. SPECIES
-=======
+# Aspergillus attinii J. Lehm. SPECIES
 
 #### Status
 ACCEPTED

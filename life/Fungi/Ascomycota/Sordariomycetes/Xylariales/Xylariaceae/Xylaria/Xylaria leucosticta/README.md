@@ -1,5 +1,4 @@
-Xylaria leucosticta Penz. & Sacc. SPECIES
-=======
+# Xylaria leucosticta Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

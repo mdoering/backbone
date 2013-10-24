@@ -1,5 +1,4 @@
-Zoothamnium cupiferum Song, 1986 SPECIES
-=======
+# Zoothamnium cupiferum Song, 1986 SPECIES
 
 #### Status
 ACCEPTED

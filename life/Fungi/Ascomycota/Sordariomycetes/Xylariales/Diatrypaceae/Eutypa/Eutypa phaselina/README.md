@@ -1,5 +1,4 @@
-Eutypa phaselina (Mont.) Sacc. SPECIES
-=======
+# Eutypa phaselina (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen cincinnatus Sm. SPECIES
-=======
+# Lichen cincinnatus Sm. SPECIES
 
 #### Status
 ACCEPTED

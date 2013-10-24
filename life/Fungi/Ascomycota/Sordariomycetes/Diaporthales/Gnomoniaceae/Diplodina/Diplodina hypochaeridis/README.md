@@ -1,8 +1,7 @@
-Diplodina hypochoeridis (Oudem.) Sacc. & P. Syd. SPECIES
-=======
+# Diplodina hypochaeridis (Oudem.) Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

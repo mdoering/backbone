@@ -1,5 +1,4 @@
-Hymenoscyphus eschscholtziae (W. Phillips & Harkn.) M.P. Sharma SPECIES
-=======
+# Hymenoscyphus eschscholtziae (W. Phillips & Harkn.) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

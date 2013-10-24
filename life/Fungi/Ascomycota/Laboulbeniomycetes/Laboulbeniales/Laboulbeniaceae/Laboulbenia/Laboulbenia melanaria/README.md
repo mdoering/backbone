@@ -1,5 +1,4 @@
-Laboulbenia melanaria Thaxt. SPECIES
-=======
+# Laboulbenia melanaria Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cosmospora marelliana (Speg.) Etayo SPECIES
-=======
+# Cosmospora marelliana (Speg.) Etayo SPECIES
 
 #### Status
 ACCEPTED

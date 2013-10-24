@@ -1,17 +1,16 @@
-Cercospora preisii Bubák, 1903 SPECIES
-=======
+# Stigmina palmivora (Sacc.) S. Hughes, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst & Pazschke, Fungi europ. extra-eur. exsicc. no. 4392 (1903)
+Mycol. Pap. 49: 13 (1952)
 
 #### Original name
-Cercospora preisii Bubák, 1903
+Exosporium palmivorum Sacc., 1898
 
 ### Remarks
 null

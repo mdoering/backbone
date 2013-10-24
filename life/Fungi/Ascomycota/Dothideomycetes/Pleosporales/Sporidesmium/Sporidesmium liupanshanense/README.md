@@ -1,5 +1,4 @@
-Sporidesmium liupanshanense W.P. Wu SPECIES
-=======
+# Sporidesmium liupanshanense W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

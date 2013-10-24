@@ -1,5 +1,4 @@
-Alphitomorpha sericea Wallr. SPECIES
-=======
+# Alphitomorpha sericea Wallr. SPECIES
 
 #### Status
 ACCEPTED

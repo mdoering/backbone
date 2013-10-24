@@ -1,5 +1,4 @@
-Pleurotheliopsis asahinae Zahlbr. SPECIES
-=======
+# Pleurotheliopsis asahinae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

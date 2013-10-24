@@ -1,5 +1,4 @@
-Cladorrhinum griseofuscum P. Karst. SPECIES
-=======
+# Cladorrhinum griseofuscum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

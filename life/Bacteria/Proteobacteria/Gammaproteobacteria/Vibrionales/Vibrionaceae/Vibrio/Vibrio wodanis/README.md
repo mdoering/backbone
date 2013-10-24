@@ -1,5 +1,4 @@
-Vibrio wodanis Lunder et al., 2000 SPECIES
-=======
+# Vibrio wodanis Lunder et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

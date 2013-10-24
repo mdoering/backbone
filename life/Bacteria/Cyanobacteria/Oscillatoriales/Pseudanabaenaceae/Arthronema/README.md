@@ -1,5 +1,4 @@
-Arthronema J. Komárek & J. Lukavský, 1988 GENUS
-=======
+# Arthronema J. Komárek & J. Lukavský, 1988 GENUS
 
 #### Status
 ACCEPTED

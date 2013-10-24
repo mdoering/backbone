@@ -1,5 +1,4 @@
-Dictyocodoma Haeckel, 1887 GENUS
-=======
+# Dictyocodoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ligulariae Togashi & Katsuki SPECIES
-=======
+# Phyllosticta ligulariae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

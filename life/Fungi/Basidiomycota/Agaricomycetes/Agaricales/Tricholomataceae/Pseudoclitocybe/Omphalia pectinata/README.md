@@ -1,5 +1,4 @@
-Omphalia pectinata Romell SPECIES
-=======
+# Omphalia pectinata Romell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pantanellium Pessagno, 1977 GENUS
-=======
+# Pantanellium Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphylotrichum subramanianii Udagawa SPECIES
-=======
+# Staphylotrichum subramanianii Udagawa SPECIES
 
 #### Status
 ACCEPTED

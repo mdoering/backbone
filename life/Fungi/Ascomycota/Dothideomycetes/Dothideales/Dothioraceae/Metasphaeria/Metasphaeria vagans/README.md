@@ -1,5 +1,4 @@
-Metasphaeria vagans f. vagans FORM
-=======
+# Metasphaeria vagans Feltgen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria vagans f. vagans
+Metasphaeria vagans Feltgen
 
 ### Remarks
 null

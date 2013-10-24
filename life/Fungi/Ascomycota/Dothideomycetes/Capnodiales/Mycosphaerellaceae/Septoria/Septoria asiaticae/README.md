@@ -1,17 +1,16 @@
-Septoria asiatica Speg. SPECIES
-=======
+# Septoria asiaticae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Univ. nac. La Plata, Ser. 2 6(1): 169 (1910)
 
 #### Original name
-Septoria asiatica Speg.
+Septoria asiaticae Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria elasticae Koord. SPECIES
-=======
+# Septoria elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora vitis-viniferae Frolov SPECIES
-=======
+# Pleospora vitis-viniferae Frolov SPECIES
 
 #### Status
 ACCEPTED

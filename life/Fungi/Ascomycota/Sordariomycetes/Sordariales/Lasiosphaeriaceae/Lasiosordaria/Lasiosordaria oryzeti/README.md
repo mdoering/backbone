@@ -1,5 +1,4 @@
-Lasiosordaria oryzeti (Sacc.) C. Moreau SPECIES
-=======
+# Lasiosordaria oryzeti (Sacc.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

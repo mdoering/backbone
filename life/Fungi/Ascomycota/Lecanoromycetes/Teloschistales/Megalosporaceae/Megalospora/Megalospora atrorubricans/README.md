@@ -1,5 +1,4 @@
-Megalospora atrorubricans (Nyl.) Zahlbr. SPECIES
-=======
+# Megalospora atrorubricans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

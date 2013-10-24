@@ -1,5 +1,4 @@
-Cortinarius montis-dei Reumaux SPECIES
-=======
+# Cortinarius montis-dei Reumaux SPECIES
 
 #### Status
 ACCEPTED

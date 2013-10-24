@@ -1,5 +1,4 @@
-Rutstroemia glandicola K.S. Thind & H. Singh SPECIES
-=======
+# Rutstroemia glandicola K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

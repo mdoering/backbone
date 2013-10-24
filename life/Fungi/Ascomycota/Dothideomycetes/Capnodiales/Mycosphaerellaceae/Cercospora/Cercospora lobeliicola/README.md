@@ -1,5 +1,4 @@
-Cercospora lobeliicola Solheim SPECIES
-=======
+# Cercospora lobeliicola Solheim SPECIES
 
 #### Status
 ACCEPTED

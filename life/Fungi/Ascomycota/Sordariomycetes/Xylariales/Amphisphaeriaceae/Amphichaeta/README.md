@@ -1,5 +1,4 @@
-Amphichaeta GENUS
-=======
+# Amphichaeta GENUS
 
 #### Status
 ACCEPTED

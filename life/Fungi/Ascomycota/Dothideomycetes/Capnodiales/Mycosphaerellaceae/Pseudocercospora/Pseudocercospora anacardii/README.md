@@ -1,5 +1,4 @@
-Pseudocercospora anacardii E. Castell. & Casulli SPECIES
-=======
+# Pseudocercospora anacardii E. Castell. & Casulli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea cinerea Motyka ex Dughi & Ducos {?} SPECIES
-=======
+# Usnea cinerea Motyka ex Dughi & Ducos {?} SPECIES
 
 #### Status
 ACCEPTED

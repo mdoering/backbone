@@ -1,5 +1,4 @@
-Strobilidium faurei Kahl, 1932 SPECIES
-=======
+# Strobilidium faurei Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

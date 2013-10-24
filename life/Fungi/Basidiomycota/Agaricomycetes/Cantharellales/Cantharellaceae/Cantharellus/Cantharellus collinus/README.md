@@ -1,5 +1,4 @@
-Cantharellus collinus Velen. SPECIES
-=======
+# Cantharellus collinus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microlecia GENUS
-=======
+# Microlecia GENUS
 
 #### Status
 ACCEPTED

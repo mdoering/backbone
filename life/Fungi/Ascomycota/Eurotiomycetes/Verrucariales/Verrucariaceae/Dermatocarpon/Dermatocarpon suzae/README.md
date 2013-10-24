@@ -1,5 +1,4 @@
-Dermatocarpon suzae Servít SPECIES
-=======
+# Dermatocarpon suzae Servít SPECIES
 
 #### Status
 ACCEPTED

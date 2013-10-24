@@ -1,17 +1,16 @@
-Elateromyces Bubák GENUS
-=======
+# Farysia Raciborski, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Prírodov. Výzk. Cech. 15(3): 32 (1912)
+null
 
 #### Original name
-Elateromyces Bubák
+null
 
 ### Remarks
 null

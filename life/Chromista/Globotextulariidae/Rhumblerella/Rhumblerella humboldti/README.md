@@ -1,5 +1,4 @@
-Rhumblerella humboldti (Todd & Bronnimann, 1957) SPECIES
-=======
+# Rhumblerella humboldti (Todd & Bronnimann, 1957) SPECIES
 
 #### Status
 ACCEPTED

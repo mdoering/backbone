@@ -1,5 +1,4 @@
-Selenosporium asperifoliorum Westend. SPECIES
-=======
+# Selenosporium asperifoliorum Westend. SPECIES
 
 #### Status
 ACCEPTED

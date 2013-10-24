@@ -1,5 +1,4 @@
-Fenestella betulae (Nitschke & Rehm) Sacc. SPECIES
-=======
+# Fenestella betulae (Nitschke & Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

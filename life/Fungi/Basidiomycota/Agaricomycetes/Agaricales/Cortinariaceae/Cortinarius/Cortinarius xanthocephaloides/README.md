@@ -1,5 +1,4 @@
-Cortinarius xanthocephaloides A.I. Ivanov SPECIES
-=======
+# Cortinarius xanthocephaloides A.I. Ivanov SPECIES
 
 #### Status
 ACCEPTED

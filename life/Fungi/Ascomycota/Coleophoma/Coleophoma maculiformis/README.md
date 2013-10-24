@@ -1,14 +1,13 @@
-Sphaeropsis maculata Cooke & Harkn. SPECIES
-=======
+# Coleophoma maculiformis (Cooke & Harkn.) Petr., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 10: 302 (1957)
 
 #### Original name
 null

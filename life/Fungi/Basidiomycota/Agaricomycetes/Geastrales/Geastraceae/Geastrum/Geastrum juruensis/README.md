@@ -1,17 +1,16 @@
-Geaster juruensis Henn. SPECIES
-=======
+# Geastrum juruensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 186 (1904)
 
 #### Original name
-Geaster juruensis Henn.
+Geastrum juruensis Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tachysoma parvistyla Stokes, 1887 SPECIES
-=======
+# Tachysoma parvistyla Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

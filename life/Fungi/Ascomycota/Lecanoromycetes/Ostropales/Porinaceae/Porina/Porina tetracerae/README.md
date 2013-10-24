@@ -1,14 +1,13 @@
-Porina tetracerae var. tetracerae VARIETY
-=======
+# Porina tetracerae (Afzel.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 6: 401 (1885)
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Phomopsis philodendri Z.D. Jiang, X.H. Zheng & P.K. Chi SPECIES
-=======
+# Phomopsis philodendri Z.D. Jiang, X.H. Zheng & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

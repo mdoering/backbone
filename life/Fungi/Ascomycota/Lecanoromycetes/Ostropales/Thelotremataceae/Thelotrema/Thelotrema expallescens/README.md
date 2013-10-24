@@ -1,5 +1,4 @@
-Thelotrema expallescens Nyl. SPECIES
-=======
+# Thelotrema expallescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

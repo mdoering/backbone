@@ -1,5 +1,4 @@
-Hormosina brevis Parr, 1950 SPECIES
-=======
+# Hormosina brevis Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED

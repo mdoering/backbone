@@ -1,5 +1,4 @@
-Achlya cornuta W.A. Archer SPECIES
-=======
+# Achlya cornuta W.A. Archer SPECIES
 
 #### Status
 ACCEPTED

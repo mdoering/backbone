@@ -1,5 +1,4 @@
-Cryptothecia evergladensis Seavey SPECIES
-=======
+# Cryptothecia evergladensis Seavey SPECIES
 
 #### Status
 ACCEPTED

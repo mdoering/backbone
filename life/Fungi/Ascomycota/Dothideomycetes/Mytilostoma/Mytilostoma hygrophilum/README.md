@@ -1,5 +1,4 @@
-Mytilostoma hygrophilum (Sacc.) P. Karst. SPECIES
-=======
+# Mytilostoma hygrophilum (Sacc.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

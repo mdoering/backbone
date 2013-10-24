@@ -1,5 +1,4 @@
-Arborispora multisurcularis K. Ando SPECIES
-=======
+# Arborispora multisurcularis K. Ando SPECIES
 
 #### Status
 ACCEPTED

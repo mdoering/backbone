@@ -1,5 +1,4 @@
-Spongospora solani Brunch. SPECIES
-=======
+# Spongospora solani Brunch. SPECIES
 
 #### Status
 ACCEPTED

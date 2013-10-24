@@ -1,17 +1,16 @@
-Tilletia rauwenhoffii A.A. Fisch. Waldh., 1877 SPECIES
-=======
+# Tilletia holci (Westend.) J. Schröt., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aperçu Syst. Ustil. 50 (1877)
+in Cohn, Beitr. Biol. Pfl. 2: 365 (1877)
 
 #### Original name
-Tilletia rauwenhoffii A.A. Fisch. Waldh., 1877
+null
 
 ### Remarks
 null

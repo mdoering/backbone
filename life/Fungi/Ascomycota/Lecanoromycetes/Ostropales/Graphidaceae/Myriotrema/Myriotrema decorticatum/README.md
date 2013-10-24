@@ -1,5 +1,4 @@
-Myriotrema decorticatum Hale SPECIES
-=======
+# Myriotrema decorticatum Hale SPECIES
 
 #### Status
 ACCEPTED

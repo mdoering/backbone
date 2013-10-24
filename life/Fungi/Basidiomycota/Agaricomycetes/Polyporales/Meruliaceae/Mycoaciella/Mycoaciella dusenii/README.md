@@ -1,5 +1,4 @@
-Mycoaciella dusenii (Henn.) Hjortstam & Ryvarden SPECIES
-=======
+# Mycoaciella dusenii (Henn.) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

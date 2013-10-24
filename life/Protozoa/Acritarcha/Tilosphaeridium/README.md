@@ -1,5 +1,4 @@
-Tilosphaeridium GENUS
-=======
+# Tilosphaeridium GENUS
 
 #### Status
 ACCEPTED

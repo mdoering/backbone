@@ -1,5 +1,4 @@
-Phleospora albanica SPECIES
-=======
+# Phleospora albanica SPECIES
 
 #### Status
 ACCEPTED

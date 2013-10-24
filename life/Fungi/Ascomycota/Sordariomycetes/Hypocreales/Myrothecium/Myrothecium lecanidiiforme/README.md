@@ -1,5 +1,4 @@
-Myrothecium lecanidiiforme Speg. SPECIES
-=======
+# Myrothecium lecanidiiforme Speg. SPECIES
 
 #### Status
 ACCEPTED

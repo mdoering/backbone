@@ -1,5 +1,4 @@
-Caloplaca epithallina Lynge SPECIES
-=======
+# Caloplaca epithallina Lynge SPECIES
 
 #### Status
 ACCEPTED

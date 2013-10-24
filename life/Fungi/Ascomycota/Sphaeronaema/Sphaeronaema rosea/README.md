@@ -1,5 +1,4 @@
-Sphaeronaema rosea P.N. Mathur & Thirum. SPECIES
-=======
+# Sphaeronaema rosea P.N. Mathur & Thirum. SPECIES
 
 #### Status
 ACCEPTED

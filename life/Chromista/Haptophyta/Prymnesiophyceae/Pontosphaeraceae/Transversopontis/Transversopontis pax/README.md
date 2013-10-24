@@ -1,5 +1,4 @@
-Transversopontis pax Stradner & Seifert, 1980 SPECIES
-=======
+# Transversopontis pax Stradner & Seifert, 1980 SPECIES
 
 #### Status
 ACCEPTED

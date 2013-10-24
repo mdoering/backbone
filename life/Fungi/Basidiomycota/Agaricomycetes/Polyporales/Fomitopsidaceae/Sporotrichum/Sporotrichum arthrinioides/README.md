@@ -1,5 +1,4 @@
-Sporotrichum arthrinioides Thüm. SPECIES
-=======
+# Sporotrichum arthrinioides Thüm. SPECIES
 
 #### Status
 ACCEPTED

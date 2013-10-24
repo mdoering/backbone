@@ -1,5 +1,4 @@
-Septoria sojina Thüm. SPECIES
-=======
+# Septoria sojina Thüm. SPECIES
 
 #### Status
 ACCEPTED

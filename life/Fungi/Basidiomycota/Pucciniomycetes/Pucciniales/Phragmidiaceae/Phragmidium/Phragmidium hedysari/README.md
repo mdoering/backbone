@@ -1,5 +1,4 @@
-Phragmidium hedysari Schwein. SPECIES
-=======
+# Phragmidium hedysari Schwein. SPECIES
 
 #### Status
 ACCEPTED

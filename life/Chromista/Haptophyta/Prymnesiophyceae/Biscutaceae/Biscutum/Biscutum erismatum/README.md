@@ -1,5 +1,4 @@
-Biscutum erismatum (Wind & Wise in Wise & Wind, 1977) Grün & Zweili, 1980 SPECIES
-=======
+# Biscutum erismatum (Wind & Wise in Wise & Wind, 1977) Grün & Zweili, 1980 SPECIES
 
 #### Status
 ACCEPTED

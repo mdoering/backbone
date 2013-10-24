@@ -1,5 +1,4 @@
-Leptosphaeria deficiens Tassi SPECIES
-=======
+# Leptosphaeria deficiens Tassi SPECIES
 
 #### Status
 ACCEPTED

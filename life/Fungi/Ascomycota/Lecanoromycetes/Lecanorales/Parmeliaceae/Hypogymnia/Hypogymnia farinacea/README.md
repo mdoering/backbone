@@ -1,17 +1,16 @@
-Ceratophyllum bitterianum (Zahlbr.) M. Choisy SPECIES
-=======
+# Hypogymnia farinacea Zopf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Justus Liebigs Annln Chem. 352: 42 (1907)
 
 #### Original name
-Parmelia bitteriana
+Hypogymnia farinacea Zopf
 
 ### Remarks
 null

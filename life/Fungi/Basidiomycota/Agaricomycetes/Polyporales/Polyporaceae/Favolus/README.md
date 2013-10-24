@@ -1,5 +1,4 @@
-Favolus Palisot de Beauvois, 1805 GENUS
-=======
+# Favolus Palisot de Beauvois, 1805 GENUS
 
 #### Status
 ACCEPTED

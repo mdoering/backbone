@@ -1,5 +1,4 @@
-Streptomyces drozdowiczii Semêdo et al., 2004 SPECIES
-=======
+# Streptomyces drozdowiczii Semêdo et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

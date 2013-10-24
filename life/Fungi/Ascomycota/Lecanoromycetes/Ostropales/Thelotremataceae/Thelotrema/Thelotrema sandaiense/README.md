@@ -1,5 +1,4 @@
-Thelotrema sandaiense Vain. SPECIES
-=======
+# Thelotrema sandaiense Vain. SPECIES
 
 #### Status
 ACCEPTED

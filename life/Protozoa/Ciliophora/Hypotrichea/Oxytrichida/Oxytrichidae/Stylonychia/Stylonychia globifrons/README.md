@@ -1,5 +1,4 @@
-Stylonychia globifrons Dumas SPECIES
-=======
+# Stylonychia globifrons Dumas SPECIES
 
 #### Status
 ACCEPTED

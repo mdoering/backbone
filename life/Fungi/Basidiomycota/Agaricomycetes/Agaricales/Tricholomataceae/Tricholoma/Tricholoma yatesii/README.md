@@ -1,5 +1,4 @@
-Tricholoma yatesii (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma yatesii (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

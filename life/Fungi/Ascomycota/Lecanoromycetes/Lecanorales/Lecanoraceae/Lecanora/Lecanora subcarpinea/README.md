@@ -1,5 +1,4 @@
-Lecanora subcarpinea Szatala SPECIES
-=======
+# Lecanora subcarpinea Szatala SPECIES
 
 #### Status
 ACCEPTED

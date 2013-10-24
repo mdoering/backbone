@@ -1,5 +1,4 @@
-Truncatoscaphus intermedius Perch-Nielsen, 1984 SPECIES
-=======
+# Truncatoscaphus intermedius Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

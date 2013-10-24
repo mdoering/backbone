@@ -1,5 +1,4 @@
-Verrucaria saprophila (A. Massal.) Trevis. SPECIES
-=======
+# Verrucaria saprophila (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

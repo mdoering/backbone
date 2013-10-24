@@ -1,5 +1,4 @@
-Verrucaria truncigena Breuss SPECIES
-=======
+# Verrucaria truncigena Breuss SPECIES
 
 #### Status
 ACCEPTED

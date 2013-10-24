@@ -1,5 +1,4 @@
-Methylophaga marina Janvier et al., 1985 SPECIES
-=======
+# Methylophaga marina Janvier et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

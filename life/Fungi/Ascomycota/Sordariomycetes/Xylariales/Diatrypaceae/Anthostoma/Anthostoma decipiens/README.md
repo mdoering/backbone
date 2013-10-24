@@ -1,14 +1,13 @@
-Cryptosphaeria decipiens (Lam. & DC.) Laessøe & Spooner, 1994 SPECIES
-=======
+# Anthostoma decipiens (DC.) Nitschke, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 49(1): 56 (1994)
+Pyrenomycetes Germanici 1: 111 (1867)
 
 #### Original name
 Sphaeria decipiens DC., 1805

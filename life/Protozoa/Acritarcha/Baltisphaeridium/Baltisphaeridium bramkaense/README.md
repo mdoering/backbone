@@ -1,5 +1,4 @@
-Baltisphaeridium bramkaense Górka, 1979 SPECIES
-=======
+# Baltisphaeridium bramkaense Górka, 1979 SPECIES
 
 #### Status
 ACCEPTED

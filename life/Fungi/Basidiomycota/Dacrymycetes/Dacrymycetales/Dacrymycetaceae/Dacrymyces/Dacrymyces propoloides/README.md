@@ -1,5 +1,4 @@
-Dacrymyces propoloides Speg. SPECIES
-=======
+# Dacrymyces propoloides Speg. SPECIES
 
 #### Status
 ACCEPTED

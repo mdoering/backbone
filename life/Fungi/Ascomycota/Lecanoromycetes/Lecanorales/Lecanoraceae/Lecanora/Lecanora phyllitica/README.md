@@ -1,5 +1,4 @@
-Lecanora phyllitica Motyka SPECIES
-=======
+# Lecanora phyllitica Motyka SPECIES
 
 #### Status
 ACCEPTED

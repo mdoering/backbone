@@ -1,5 +1,4 @@
-Pluteolus setosus Rick SPECIES
-=======
+# Pluteolus setosus Rick SPECIES
 
 #### Status
 ACCEPTED

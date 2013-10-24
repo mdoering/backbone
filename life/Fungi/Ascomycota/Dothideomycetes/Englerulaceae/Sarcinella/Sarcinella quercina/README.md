@@ -1,5 +1,4 @@
-Sarcinella quercina R.K. Verma & Kamal SPECIES
-=======
+# Sarcinella quercina R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia celtidigena (Ellis & Barthol.) Tassi SPECIES
-=======
+# Microdiplodia celtidigena (Ellis & Barthol.) Tassi SPECIES
 
 #### Status
 ACCEPTED

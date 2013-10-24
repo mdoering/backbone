@@ -1,5 +1,4 @@
-Lecania glaucolivescens (Nyl.) C.W. Dodge SPECIES
-=======
+# Lecania glaucolivescens (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma pallidum (Ellis) Berl. & Voglino, 1886 SPECIES
-=======
+# Lophiostoma pallidum (Ellis) Berl. & Voglino, 1886 SPECIES
 
 #### Status
 ACCEPTED

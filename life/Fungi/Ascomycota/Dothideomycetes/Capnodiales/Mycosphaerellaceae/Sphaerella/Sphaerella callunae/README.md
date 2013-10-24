@@ -1,5 +1,4 @@
-Sphaerella callunae Roum., 1880 SPECIES
-=======
+# Sphaerella callunae Roum., 1880 SPECIES
 
 #### Status
 ACCEPTED

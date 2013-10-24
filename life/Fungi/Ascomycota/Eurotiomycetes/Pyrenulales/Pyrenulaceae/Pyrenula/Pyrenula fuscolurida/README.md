@@ -1,5 +1,4 @@
-Pyrenula fuscolurida Vain. SPECIES
-=======
+# Pyrenula fuscolurida Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus riparielllus SPECIES
-=======
+# Boletus riparielllus SPECIES
 
 #### Status
 ACCEPTED

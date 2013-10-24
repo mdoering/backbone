@@ -1,5 +1,4 @@
-Agaricus polyglomus Berk. & Broome SPECIES
-=======
+# Agaricus polyglomus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

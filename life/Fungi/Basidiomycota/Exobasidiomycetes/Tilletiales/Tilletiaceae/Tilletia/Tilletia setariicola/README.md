@@ -1,5 +1,4 @@
-Tilletia setariicola Pavgi & Thirum. SPECIES
-=======
+# Tilletia setariicola Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

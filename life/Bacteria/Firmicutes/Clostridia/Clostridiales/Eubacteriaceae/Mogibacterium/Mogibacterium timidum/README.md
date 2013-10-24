@@ -1,8 +1,7 @@
-Eubacterium timidum Holdeman et al., 1980 SPECIES
-=======
+# Mogibacterium timidum (Holdeman et al., 1980) Nakazawa et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

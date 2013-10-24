@@ -1,5 +1,4 @@
-Pararchaeomonas Deflandre, 1932 GENUS
-=======
+# Pararchaeomonas Deflandre, 1932 GENUS
 
 #### Status
 ACCEPTED

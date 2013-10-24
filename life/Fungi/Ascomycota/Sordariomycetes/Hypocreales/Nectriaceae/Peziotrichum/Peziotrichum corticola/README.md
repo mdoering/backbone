@@ -1,5 +1,4 @@
-Peziotrichum corticola (Massee) Subram. SPECIES
-=======
+# Peziotrichum corticola (Massee) Subram. SPECIES
 
 #### Status
 ACCEPTED

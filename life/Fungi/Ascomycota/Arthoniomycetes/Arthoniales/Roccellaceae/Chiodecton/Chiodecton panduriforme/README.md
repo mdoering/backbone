@@ -1,5 +1,4 @@
-Chiodecton panduriforme Redinger SPECIES
-=======
+# Chiodecton panduriforme Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus boleticeps Pat. & Gaillard SPECIES
-=======
+# Amauroderma boleticeum (Pat. & Gaillard) Torrend, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4(2): 29 (1888)
+Brotéria 18: 132 (1920)
 
 #### Original name
 Polyporus boleticeps Pat. & Gaillard

@@ -1,17 +1,16 @@
-Stereum radiatum var. reflexum Peck VARIETY
-=======
+# Boreostereum radiatum (Peck) Parmasto, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 49: 31 (1897)
+Consp. System. Corticiac. (Tartu) 187 (1968)
 
 #### Original name
-Stereum radiatum var. reflexum Peck
+Stereum radiatum Peck, 1873
 
 ### Remarks
 null

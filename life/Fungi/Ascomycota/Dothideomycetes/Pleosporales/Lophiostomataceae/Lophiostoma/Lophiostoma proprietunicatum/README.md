@@ -1,5 +1,4 @@
-Lophiostoma proprietunicatum (K.M. Tsui, K.D. Hyde & Hodgkiss) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma proprietunicatum (K.M. Tsui, K.D. Hyde & Hodgkiss) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

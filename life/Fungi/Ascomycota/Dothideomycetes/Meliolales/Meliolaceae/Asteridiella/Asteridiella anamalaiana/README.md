@@ -1,5 +1,4 @@
-Asteridiella anamalaiana Hosag. SPECIES
-=======
+# Asteridiella anamalaiana Hosag. SPECIES
 
 #### Status
 ACCEPTED

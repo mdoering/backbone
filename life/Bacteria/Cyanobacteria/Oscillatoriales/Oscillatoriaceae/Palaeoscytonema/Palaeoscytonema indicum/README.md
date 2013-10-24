@@ -1,5 +1,4 @@
-Palaeoscytonema indicum J. Mandal & P. K. Maithy SPECIES
-=======
+# Palaeoscytonema indicum J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

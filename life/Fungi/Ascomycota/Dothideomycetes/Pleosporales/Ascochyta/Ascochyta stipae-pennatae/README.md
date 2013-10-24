@@ -1,5 +1,4 @@
-Ascochyta stipae-pennatae Punith. SPECIES
-=======
+# Ascochyta stipae-pennatae Punith. SPECIES
 
 #### Status
 ACCEPTED

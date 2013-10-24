@@ -1,5 +1,4 @@
-Ascochyta lobeliae Petch SPECIES
-=======
+# Ascochyta lobeliae Petch SPECIES
 
 #### Status
 ACCEPTED

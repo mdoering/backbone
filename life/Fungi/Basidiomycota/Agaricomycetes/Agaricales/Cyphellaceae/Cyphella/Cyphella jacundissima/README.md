@@ -1,5 +1,4 @@
-Cyphella jacundissima SPECIES
-=======
+# Cyphella jacundissima SPECIES
 
 #### Status
 ACCEPTED

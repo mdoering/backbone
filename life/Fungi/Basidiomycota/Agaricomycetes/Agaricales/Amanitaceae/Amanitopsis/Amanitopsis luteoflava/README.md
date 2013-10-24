@@ -1,5 +1,4 @@
-Amanitopsis luteoflava (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amanitopsis luteoflava (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

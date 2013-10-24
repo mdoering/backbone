@@ -1,5 +1,4 @@
-Ascobotryozyma J. Kerrigan, M.T. Sm. & J.D. Rogers GENUS
-=======
+# Ascobotryozyma J. Kerrigan, M.T. Sm. & J.D. Rogers GENUS
 
 #### Status
 ACCEPTED

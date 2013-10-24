@@ -1,5 +1,4 @@
-Sphaeria tumorum Schwein. SPECIES
-=======
+# Sphaeria tumorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

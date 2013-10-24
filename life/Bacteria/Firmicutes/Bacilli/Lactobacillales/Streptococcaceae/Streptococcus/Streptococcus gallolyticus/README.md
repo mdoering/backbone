@@ -1,5 +1,4 @@
-Streptococcus gallolyticus subsp. gallolyticus SUBSPECIES
-=======
+# Streptococcus gallolyticus Osawa et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

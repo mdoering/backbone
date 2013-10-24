@@ -1,5 +1,4 @@
-Chamonixia bispora B.C. Zhang & Y.N. Yu, 1989 SPECIES
-=======
+# Chamonixia bispora B.C. Zhang & Y.N. Yu, 1989 SPECIES
 
 #### Status
 ACCEPTED

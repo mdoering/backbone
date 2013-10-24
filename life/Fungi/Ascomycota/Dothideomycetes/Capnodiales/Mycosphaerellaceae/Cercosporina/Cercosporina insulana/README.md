@@ -1,5 +1,4 @@
-Cercosporina insulana Sacc. SPECIES
-=======
+# Cercosporina insulana Sacc. SPECIES
 
 #### Status
 ACCEPTED

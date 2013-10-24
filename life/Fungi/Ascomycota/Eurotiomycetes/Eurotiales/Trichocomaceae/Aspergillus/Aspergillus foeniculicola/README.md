@@ -1,5 +1,4 @@
-Aspergillus foeniculicola Udagawa SPECIES
-=======
+# Aspergillus foeniculicola Udagawa SPECIES
 
 #### Status
 ACCEPTED

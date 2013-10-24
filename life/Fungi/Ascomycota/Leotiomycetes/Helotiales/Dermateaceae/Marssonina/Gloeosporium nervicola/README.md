@@ -1,5 +1,4 @@
-Gloeosporium nervicola C. Massal. SPECIES
-=======
+# Gloeosporium nervicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

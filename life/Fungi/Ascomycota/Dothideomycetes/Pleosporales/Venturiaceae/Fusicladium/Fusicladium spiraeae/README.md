@@ -1,5 +1,4 @@
-Fusicladium spiraeae Karak. SPECIES
-=======
+# Fusicladium spiraeae Karak. SPECIES
 
 #### Status
 ACCEPTED

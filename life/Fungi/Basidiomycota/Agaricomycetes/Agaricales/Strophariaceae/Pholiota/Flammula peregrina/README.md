@@ -1,5 +1,4 @@
-Flammula peregrina (Fr.) Sacc. SPECIES
-=======
+# Flammula peregrina (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

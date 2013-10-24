@@ -1,5 +1,4 @@
-Bactridium magnum Cooke SPECIES
-=======
+# Bactridium magnum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium seriatum Ellis & Everh. SPECIES
-=======
+# Myxosporium seriatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

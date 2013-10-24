@@ -1,5 +1,4 @@
-Russula languida Cern. & H. Raab SPECIES
-=======
+# Russula languida Cern. & H. Raab SPECIES
 
 #### Status
 ACCEPTED

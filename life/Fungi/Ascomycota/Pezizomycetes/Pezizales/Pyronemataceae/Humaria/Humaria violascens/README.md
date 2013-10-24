@@ -1,5 +1,4 @@
-Humaria violascens Velen., 1922 SPECIES
-=======
+# Humaria violascens Velen., 1922 SPECIES
 
 #### Status
 ACCEPTED

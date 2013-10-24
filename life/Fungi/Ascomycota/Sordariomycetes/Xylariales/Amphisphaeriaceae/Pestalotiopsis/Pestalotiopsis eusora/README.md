@@ -1,5 +1,4 @@
-Pestalotiopsis eusora (Sacc.) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis eusora (Sacc.) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

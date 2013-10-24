@@ -1,5 +1,4 @@
-Fusarium mesentericum Cooke & Harkn. SPECIES
-=======
+# Fusarium mesentericum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

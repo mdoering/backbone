@@ -1,5 +1,4 @@
-Monascus fumeus Zhong Q. Li & F. Guo SPECIES
-=======
+# Monascus fumeus Zhong Q. Li & F. Guo SPECIES
 
 #### Status
 ACCEPTED

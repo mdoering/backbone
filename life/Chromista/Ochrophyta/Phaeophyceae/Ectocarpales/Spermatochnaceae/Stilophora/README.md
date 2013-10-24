@@ -1,5 +1,4 @@
-Stilophora J.G. Agardh, 1841 GENUS
-=======
+# Stilophora J.G. Agardh, 1841 GENUS
 
 #### Status
 ACCEPTED

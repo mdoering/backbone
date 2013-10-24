@@ -1,5 +1,4 @@
-Royoungia boletoides Castellano, Trappe & Malajczuk, 1992 SPECIES
-=======
+# Royoungia boletoides Castellano, Trappe & Malajczuk, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Perkinsus beihaiensis Moss, Xiao, Dungan & Reece, 2008 SPECIES
-=======
+# Perkinsus Levine GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Parasit. 64: 549 (1978)
 
 #### Original name
-null
+Perkinsus Levine
 
 ### Remarks
 null

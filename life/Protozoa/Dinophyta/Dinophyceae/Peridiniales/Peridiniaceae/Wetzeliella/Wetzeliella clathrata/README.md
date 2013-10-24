@@ -1,5 +1,4 @@
-Wetzeliella clathrata var. fasciata B. Rozen VARIETY
-=======
+# Wetzeliella clathrata Eisenack SPECIES
 
 #### Status
 ACCEPTED

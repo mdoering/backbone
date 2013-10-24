@@ -1,5 +1,4 @@
-Rubricoccus Park, Yoshizawa, Kogure & Yokota, 2010 GENUS
-=======
+# Rubricoccus Park, Yoshizawa, Kogure & Yokota, 2010 GENUS
 
 #### Status
 ACCEPTED

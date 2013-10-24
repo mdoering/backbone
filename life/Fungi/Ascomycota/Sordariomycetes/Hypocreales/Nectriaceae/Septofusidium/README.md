@@ -1,5 +1,4 @@
-Septofusidium W. Gams, 1971 GENUS
-=======
+# Septofusidium W. Gams, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe poonaensis Kamat SPECIES
-=======
+# Erysiphe poonaensis Kamat SPECIES
 
 #### Status
 ACCEPTED

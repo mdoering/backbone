@@ -1,5 +1,4 @@
-Valsa monticulosa Berk. & M.A. Curtis SPECIES
-=======
+# Valsa monticulosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

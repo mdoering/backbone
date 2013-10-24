@@ -1,5 +1,4 @@
-Hypoxiphothecaella mersinensis SPECIES
-=======
+# Hypoxiphothecaella mersinensis SPECIES
 
 #### Status
 ACCEPTED

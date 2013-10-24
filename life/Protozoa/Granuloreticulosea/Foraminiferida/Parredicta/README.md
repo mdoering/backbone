@@ -1,5 +1,4 @@
-Parredicta Li & McGowran, 1995 GENUS
-=======
+# Parredicta Li & McGowran, 1995 GENUS
 
 #### Status
 ACCEPTED

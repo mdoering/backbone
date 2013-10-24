@@ -1,5 +1,4 @@
-Cytospora cenisia Sacc. SPECIES
-=======
+# Cytospora cenisia Sacc. SPECIES
 
 #### Status
 ACCEPTED

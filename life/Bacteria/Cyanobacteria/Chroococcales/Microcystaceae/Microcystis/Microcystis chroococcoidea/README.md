@@ -1,5 +1,4 @@
-Microcystis chroococcoidea var. minor Nygaard VARIETY
-=======
+# Microcystis chroococcoidea W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

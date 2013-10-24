@@ -1,14 +1,13 @@
-Arthopyrenia areniseda A. L. Sm. SPECIES
-=======
+# Pyrenocollema arenisedum (A. L. Sm.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 49: 42 (1911)
+Lichenologist 24(4): 368 (1992)
 
 #### Original name
 Arthopyrenia areniseda A. L. Sm.

@@ -1,5 +1,4 @@
-Coccomyces concolor Sherwood, 1980 SPECIES
-=======
+# Coccomyces concolor Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

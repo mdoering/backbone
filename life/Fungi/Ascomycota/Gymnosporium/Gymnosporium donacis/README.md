@@ -1,5 +1,4 @@
-Gymnosporium donacis Niessl SPECIES
-=======
+# Gymnosporium donacis Niessl SPECIES
 
 #### Status
 ACCEPTED

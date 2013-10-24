@@ -1,5 +1,4 @@
-Tricharia variratae Lücking & Sipman SPECIES
-=======
+# Tricharia variratae Lücking & Sipman SPECIES
 
 #### Status
 ACCEPTED

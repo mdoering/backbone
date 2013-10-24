@@ -1,5 +1,4 @@
-Anisomeridium holopolium (Nyl.) R.C. Harris SPECIES
-=======
+# Anisomeridium holopolium (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

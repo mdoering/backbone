@@ -1,5 +1,4 @@
-Pleospora berberidis Rabenh. SPECIES
-=======
+# Pleospora berberidis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

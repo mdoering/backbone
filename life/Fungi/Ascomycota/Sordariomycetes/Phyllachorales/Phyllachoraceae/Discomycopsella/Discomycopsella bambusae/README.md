@@ -1,5 +1,4 @@
-Discomycopsella bambusae Henn., 1902 SPECIES
-=======
+# Discomycopsella bambusae Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

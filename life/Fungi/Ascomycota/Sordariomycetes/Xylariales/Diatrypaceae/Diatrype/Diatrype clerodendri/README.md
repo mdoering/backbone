@@ -1,5 +1,4 @@
-Diatrype clerodendri Rehm SPECIES
-=======
+# Diatrype clerodendri Rehm SPECIES
 
 #### Status
 ACCEPTED

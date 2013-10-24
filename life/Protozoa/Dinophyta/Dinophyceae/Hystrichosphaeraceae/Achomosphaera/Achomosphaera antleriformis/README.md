@@ -1,5 +1,4 @@
-Achomosphaera antleriformis P. Schiø¸ler SPECIES
-=======
+# Achomosphaera antleriformis P. Schiø¸ler SPECIES
 
 #### Status
 ACCEPTED

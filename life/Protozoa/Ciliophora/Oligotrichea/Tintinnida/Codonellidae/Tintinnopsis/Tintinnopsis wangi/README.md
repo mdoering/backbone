@@ -1,5 +1,4 @@
-Tintinnopsis wangi SPECIES
-=======
+# Tintinnopsis wangi SPECIES
 
 #### Status
 ACCEPTED

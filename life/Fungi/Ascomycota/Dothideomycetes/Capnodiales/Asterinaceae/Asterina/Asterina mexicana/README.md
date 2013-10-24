@@ -1,5 +1,4 @@
-Asterina mexicana Ellis & Everh. SPECIES
-=======
+# Asterina mexicana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

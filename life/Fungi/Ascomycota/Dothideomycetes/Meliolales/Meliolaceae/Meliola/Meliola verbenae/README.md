@@ -1,5 +1,4 @@
-Meliola verbenae (Cif.) Cif. SPECIES
-=======
+# Meliola verbenae (Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

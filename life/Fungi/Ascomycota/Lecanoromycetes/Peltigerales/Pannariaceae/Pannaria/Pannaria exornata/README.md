@@ -1,5 +1,4 @@
-Pannaria exornata (Zahlbr.) H. Magn. SPECIES
-=======
+# Pannaria exornata (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

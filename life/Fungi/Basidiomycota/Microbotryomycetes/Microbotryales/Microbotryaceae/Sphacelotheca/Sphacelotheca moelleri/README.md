@@ -1,14 +1,13 @@
-Sphacelotheca molleri (Bref.) Liro SPECIES
-=======
+# Sphacelotheca moelleri (Bref.) Liro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. 17(1): 158 (1924)
 
 #### Original name
 Ustilago moelleri Bref.

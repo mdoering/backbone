@@ -1,5 +1,4 @@
-Mycosphaerella leptopleura (De Not.) Earle SPECIES
-=======
+# Mycosphaerella leptopleura (De Not.) Earle SPECIES
 
 #### Status
 ACCEPTED

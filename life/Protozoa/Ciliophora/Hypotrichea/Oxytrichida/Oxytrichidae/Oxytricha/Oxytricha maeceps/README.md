@@ -1,5 +1,4 @@
-Oxytricha maeceps SPECIES
-=======
+# Oxytricha maeceps SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lilaceps Zeller SPECIES
-=======
+# Agaricus lilaceps Zeller SPECIES
 
 #### Status
 ACCEPTED

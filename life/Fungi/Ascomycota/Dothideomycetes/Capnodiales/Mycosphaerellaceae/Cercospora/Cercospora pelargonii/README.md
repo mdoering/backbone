@@ -1,5 +1,4 @@
-Cercospora pelargonii J.M. Mend. SPECIES
-=======
+# Cercospora pelargonii J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

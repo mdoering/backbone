@@ -1,14 +1,13 @@
-Endomyces lactis var. klebahnii Windisch, 1951 VARIETY
-=======
+# Geotrichum klebahnii (Stautz) Morenz, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxonomie und medizinische Bedeutung der zur Gattung Geotrichum Link gehorenden Arten (Med. Habil. -Schrift, Magdeburg) 180 (1960)
 
 #### Original name
 null

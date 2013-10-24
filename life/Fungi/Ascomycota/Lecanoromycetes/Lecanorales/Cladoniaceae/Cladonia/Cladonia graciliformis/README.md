@@ -1,5 +1,4 @@
-Cladonia graciliformis Zahlbr. SPECIES
-=======
+# Cladonia graciliformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

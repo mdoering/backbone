@@ -1,5 +1,4 @@
-Diplodina smarodsii Moesz SPECIES
-=======
+# Diplodina smarodsii Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loculistroma bambusae F. Patt., Charles & Veihmeyer, 1910 SPECIES
-=======
+# Loculistroma bambusae F. Patt., Charles & Veihmeyer, 1910 SPECIES
 
 #### Status
 ACCEPTED

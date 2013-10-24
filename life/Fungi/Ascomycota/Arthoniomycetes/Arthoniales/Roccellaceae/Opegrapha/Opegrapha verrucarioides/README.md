@@ -1,5 +1,4 @@
-Opegrapha verrucarioides var. verrucarioides VARIETY
-=======
+# Opegrapha verrucarioides Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Opegrapha verrucarioides var. verrucarioides
+Opegrapha verrucarioides Ach.
 
 ### Remarks
 null

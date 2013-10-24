@@ -1,5 +1,4 @@
-Poria sarawacensis Berk. ex Sacc. SPECIES
-=======
+# Poria sarawacensis Berk. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

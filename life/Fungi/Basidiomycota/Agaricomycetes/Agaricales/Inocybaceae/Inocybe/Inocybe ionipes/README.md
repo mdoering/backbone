@@ -1,5 +1,4 @@
-Inocybe ionipes Boud. SPECIES
-=======
+# Inocybe ionipes Boud. SPECIES
 
 #### Status
 ACCEPTED

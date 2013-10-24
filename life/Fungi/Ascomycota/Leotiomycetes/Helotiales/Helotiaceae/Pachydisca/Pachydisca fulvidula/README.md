@@ -1,5 +1,4 @@
-Pachydisca fulvidula f. fulvidula FORM
-=======
+# Pachydisca fulvidula Boud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pachydisca fulvidula f. fulvidula
+Pachydisca fulvidula Boud.
 
 ### Remarks
 null

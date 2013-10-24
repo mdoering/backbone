@@ -1,5 +1,4 @@
-Macrosporium leguminis-phaseoli Henn. SPECIES
-=======
+# Macrosporium leguminis-phaseoli Henn. SPECIES
 
 #### Status
 ACCEPTED

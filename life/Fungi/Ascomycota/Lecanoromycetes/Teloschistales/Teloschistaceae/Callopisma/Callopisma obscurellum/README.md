@@ -1,5 +1,4 @@
-Callopisma obscurellum (J. Lahm) J. Lahm SPECIES
-=======
+# Callopisma obscurellum (J. Lahm) J. Lahm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parachnopeziza sinensis W.Y. Zhuang & Korf, 1998 SPECIES
-=======
+# Parachnopeziza sinensis W.Y. Zhuang & Korf, 1998 SPECIES
 
 #### Status
 ACCEPTED

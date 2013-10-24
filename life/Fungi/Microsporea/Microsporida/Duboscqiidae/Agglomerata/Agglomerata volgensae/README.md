@@ -1,5 +1,4 @@
-Agglomerata volgensae J.I.R. Larsson & V.N. Voronin SPECIES
-=======
+# Agglomerata volgensae J.I.R. Larsson & V.N. Voronin SPECIES
 
 #### Status
 ACCEPTED

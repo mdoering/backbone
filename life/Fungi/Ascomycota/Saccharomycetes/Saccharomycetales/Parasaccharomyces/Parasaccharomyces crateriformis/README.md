@@ -1,5 +1,4 @@
-Parasaccharomyces crateriformis C.W. Dodge SPECIES
-=======
+# Parasaccharomyces crateriformis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

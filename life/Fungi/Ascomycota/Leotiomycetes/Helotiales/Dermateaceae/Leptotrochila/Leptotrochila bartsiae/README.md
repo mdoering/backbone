@@ -1,5 +1,4 @@
-Leptotrochila bartsiae Schüepp SPECIES
-=======
+# Leptotrochila bartsiae Schüepp SPECIES
 
 #### Status
 ACCEPTED

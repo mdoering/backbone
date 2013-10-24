@@ -1,5 +1,4 @@
-Alternaria longispora McAlpine SPECIES
-=======
+# Alternaria longispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

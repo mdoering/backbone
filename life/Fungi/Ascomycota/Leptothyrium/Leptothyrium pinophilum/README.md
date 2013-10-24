@@ -1,5 +1,4 @@
-Leptothyrium pinophilum Bubák & Kabát SPECIES
-=======
+# Leptothyrium pinophilum Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

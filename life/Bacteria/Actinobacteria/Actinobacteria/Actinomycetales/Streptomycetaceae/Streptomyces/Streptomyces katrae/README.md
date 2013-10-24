@@ -1,5 +1,4 @@
-Streptomyces katrae Gupta and Chopra, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces katrae Gupta and Chopra, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

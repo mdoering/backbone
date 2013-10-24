@@ -1,5 +1,4 @@
-Agaricus umbelliformis Scop. SPECIES
-=======
+# Agaricus umbelliformis Scop. SPECIES
 
 #### Status
 ACCEPTED

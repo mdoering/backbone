@@ -1,5 +1,4 @@
-Septotrichum flexile Corda SPECIES
-=======
+# Septotrichum flexile Corda SPECIES
 
 #### Status
 ACCEPTED

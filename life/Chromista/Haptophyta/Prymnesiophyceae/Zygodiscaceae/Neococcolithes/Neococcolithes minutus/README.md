@@ -1,5 +1,4 @@
-Neococcolithes minutus (Perch-Nielsen, 1967) Perch-Nielsen, 1971 SPECIES
-=======
+# Neococcolithes minutus (Perch-Nielsen, 1967) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

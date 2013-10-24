@@ -1,5 +1,4 @@
-Lichenothelia D. Hawksw. GENUS
-=======
+# Lichenothelia D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

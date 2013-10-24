@@ -1,5 +1,4 @@
-Meliola monninae (F. Stevens) Cif. SPECIES
-=======
+# Meliola monninae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

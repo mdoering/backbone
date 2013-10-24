@@ -1,5 +1,4 @@
-Puttemansia hyperparasitica (Sivan. & J. Kranz) Piroz. SPECIES
-=======
+# Puttemansia hyperparasitica (Sivan. & J. Kranz) Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia triumfettae N. Srivast. & Kamal SPECIES
-=======
+# Ramularia triumfettae N. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

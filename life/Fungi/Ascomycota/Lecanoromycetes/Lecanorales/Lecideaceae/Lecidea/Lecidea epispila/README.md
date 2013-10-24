@@ -1,5 +1,4 @@
-Lecidea epispila Nyl. SPECIES
-=======
+# Lecidea epispila Nyl. SPECIES
 
 #### Status
 ACCEPTED

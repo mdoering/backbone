@@ -1,5 +1,4 @@
-Mycena luteopallens Peck SPECIES
-=======
+# Mycena luteopallens Peck SPECIES
 
 #### Status
 ACCEPTED

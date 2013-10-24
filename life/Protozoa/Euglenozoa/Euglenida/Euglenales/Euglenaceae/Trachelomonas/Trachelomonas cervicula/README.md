@@ -1,5 +1,4 @@
-Trachelomonas cervicula var. annulata Svirenko VARIETY
-=======
+# Trachelomonas cervicula A. Stokes SPECIES
 
 #### Status
 ACCEPTED

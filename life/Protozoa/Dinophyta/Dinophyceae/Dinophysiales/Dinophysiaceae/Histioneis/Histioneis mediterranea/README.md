@@ -1,5 +1,4 @@
-Histioneis mediterranea Schiller, 1928 SPECIES
-=======
+# Histioneis mediterranea Schiller, 1928 SPECIES
 
 #### Status
 ACCEPTED

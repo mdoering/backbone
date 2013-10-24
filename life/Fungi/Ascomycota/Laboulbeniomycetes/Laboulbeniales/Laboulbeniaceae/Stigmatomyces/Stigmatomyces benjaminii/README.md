@@ -1,5 +1,4 @@
-Stigmatomyces benjaminii W. Rossi & A. Weir SPECIES
-=======
+# Stigmatomyces benjaminii W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

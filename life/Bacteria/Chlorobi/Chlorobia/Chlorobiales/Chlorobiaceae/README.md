@@ -1,5 +1,4 @@
-Chlorobiaceae Copeland, 1956 FAMILY
-=======
+# Chlorobiaceae Copeland, 1956 FAMILY
 
 #### Status
 ACCEPTED

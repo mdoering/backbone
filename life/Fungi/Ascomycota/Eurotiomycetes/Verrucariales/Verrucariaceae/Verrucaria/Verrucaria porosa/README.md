@@ -1,5 +1,4 @@
-Verrucaria porosa (Ach.) Eschw. SPECIES
-=======
+# Verrucaria porosa (Ach.) Eschw. SPECIES
 
 #### Status
 ACCEPTED

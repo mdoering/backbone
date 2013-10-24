@@ -1,5 +1,4 @@
-Hexaplagia Haeckel, 1881 GENUS
-=======
+# Hexaplagia Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

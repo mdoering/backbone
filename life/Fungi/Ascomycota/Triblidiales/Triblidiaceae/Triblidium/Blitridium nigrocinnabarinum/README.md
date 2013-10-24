@@ -1,17 +1,16 @@
-Rhytidopeziza nigrocinnabarina subsp. nigrocinnabarina SUBSPECIES
-=======
+# Blitridium nigrocinnabarinum (Schwein.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 65 (1892)
+Syll. fung. (Abellini) 8: 805 (1889)
 
 #### Original name
-Rhytidopeziza nigrocinnabarina subsp. nigrocinnabarina
+Patellaria nigrocinnabarina Schwein.
 
 ### Remarks
 null

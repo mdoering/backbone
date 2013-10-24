@@ -1,5 +1,4 @@
-Rosellinia atrofusca (Berk. & M.A. Curtis ex Cooke) Starbäck SPECIES
-=======
+# Rosellinia atrofusca (Berk. & M.A. Curtis ex Cooke) Starbäck SPECIES
 
 #### Status
 ACCEPTED

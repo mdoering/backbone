@@ -1,5 +1,4 @@
-Puccinia eryngii G. Winter SPECIES
-=======
+# Puccinia eryngii G. Winter SPECIES
 
 #### Status
 ACCEPTED

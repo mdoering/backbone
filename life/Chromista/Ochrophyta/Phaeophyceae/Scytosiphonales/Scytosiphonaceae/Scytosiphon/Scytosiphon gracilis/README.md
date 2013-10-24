@@ -1,5 +1,4 @@
-Scytosiphon gracilis Kogame SPECIES
-=======
+# Scytosiphon gracilis Kogame SPECIES
 
 #### Status
 ACCEPTED

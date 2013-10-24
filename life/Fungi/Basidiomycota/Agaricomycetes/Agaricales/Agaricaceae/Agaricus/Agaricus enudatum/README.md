@@ -1,5 +1,4 @@
-Agaricus enudatum Britzelm. SPECIES
-=======
+# Agaricus enudatum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium diospyri Kibishauri SPECIES
-=======
+# Verticillium diospyri Kibishauri SPECIES
 
 #### Status
 ACCEPTED

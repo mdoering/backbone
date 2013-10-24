@@ -1,17 +1,16 @@
-Sphaerophorus curtum Hook. f. & Taylor SPECIES
-=======
+# Leifidium tenerum (Laurer) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pl. Syst. Evol. 187(1-4): 235 (1993)
 
 #### Original name
-Sphaerophorus curtum Hook. f. & Taylor
+Sphaerophorus tener Mont.
 
 ### Remarks
 null

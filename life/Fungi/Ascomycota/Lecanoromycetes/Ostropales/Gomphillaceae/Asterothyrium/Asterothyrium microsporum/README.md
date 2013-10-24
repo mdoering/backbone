@@ -1,5 +1,4 @@
-Asterothyrium microsporum R. Sant. SPECIES
-=======
+# Asterothyrium microsporum R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella dactylidis (Pass.) Kirchn. SPECIES
-=======
+# Mycosphaerella dactylidis (Pass.) Kirchn. SPECIES
 
 #### Status
 ACCEPTED

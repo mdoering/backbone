@@ -1,5 +1,4 @@
-Botryodiplodia betulina Ellis & Dearn. SPECIES
-=======
+# Botryodiplodia betulina Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

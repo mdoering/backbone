@@ -1,5 +1,4 @@
-Rhabdospora nicaeaensis (Thüm.) Sacc. SPECIES
-=======
+# Rhabdospora nicaeaensis (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

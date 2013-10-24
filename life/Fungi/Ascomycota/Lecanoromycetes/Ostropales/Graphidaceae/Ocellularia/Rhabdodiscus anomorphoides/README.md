@@ -1,14 +1,13 @@
-Phaeotrema anomorphoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Rhabdodiscus anomorphoides (Nyl.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , London 30: 451 (1895)
+Ann. Acad. Sci. fenn. , Ser. A 15(6): 184 (1921)
 
 #### Original name
 Thelotrema anomorphoides Nyl.

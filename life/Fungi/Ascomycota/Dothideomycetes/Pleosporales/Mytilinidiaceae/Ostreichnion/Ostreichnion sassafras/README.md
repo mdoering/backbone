@@ -1,17 +1,16 @@
-Ostreion americanum (Duby) Sacc., 1883 SPECIES
-=======
+# Ostreichnion sassafras (Schwein.) M.E. Barr, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 765 (1883)
+Mycotaxon 3(1): 83 (1975)
 
 #### Original name
-Ostreichnion americanum Duby, 1862
+Lophium sassafras Schwein., 1832
 
 ### Remarks
 null

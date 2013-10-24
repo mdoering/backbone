@@ -1,5 +1,4 @@
-Alcanivorax borkumensis Yakimov et al., 1998 SPECIES
-=======
+# Alcanivorax borkumensis Yakimov et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

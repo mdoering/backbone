@@ -1,5 +1,4 @@
-Hysterographium variabile (Cooke & Peck) Sacc. SPECIES
-=======
+# Hysterographium variabile (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

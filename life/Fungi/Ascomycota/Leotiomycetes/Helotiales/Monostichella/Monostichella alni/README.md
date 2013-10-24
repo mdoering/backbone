@@ -1,5 +1,4 @@
-Monostichella alni (Ellis & Everh.) Arx SPECIES
-=======
+# Monostichella alni (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

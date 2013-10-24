@@ -1,5 +1,4 @@
-Syncephalastrum longisporum R.Y. Zheng, G.Q. Chen & F.M. Hu SPECIES
-=======
+# Syncephalastrum longisporum R.Y. Zheng, G.Q. Chen & F.M. Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora vitis Catt. SPECIES
-=======
+# Pleospora vitis Catt. SPECIES
 
 #### Status
 ACCEPTED

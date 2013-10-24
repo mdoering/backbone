@@ -1,5 +1,4 @@
-Agaricus assimilatus Britzelm. SPECIES
-=======
+# Agaricus assimilatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

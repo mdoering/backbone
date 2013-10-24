@@ -1,5 +1,4 @@
-Heliosomantha Haeckel, 1887 GENUS
-=======
+# Heliosomantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

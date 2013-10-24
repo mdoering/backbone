@@ -1,5 +1,4 @@
-Amphoroblastia sekelica (Servít) Servít SPECIES
-=======
+# Amphoroblastia sekelica (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

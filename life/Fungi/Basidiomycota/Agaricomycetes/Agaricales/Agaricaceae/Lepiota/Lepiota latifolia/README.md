@@ -1,5 +1,4 @@
-Lepiota latifolia Contu SPECIES
-=======
+# Lepiota latifolia Contu SPECIES
 
 #### Status
 ACCEPTED

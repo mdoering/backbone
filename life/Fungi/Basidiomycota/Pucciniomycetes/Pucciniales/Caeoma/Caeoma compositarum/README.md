@@ -1,5 +1,4 @@
-Caeoma compositarum Link SPECIES
-=======
+# Caeoma compositarum Link SPECIES
 
 #### Status
 ACCEPTED

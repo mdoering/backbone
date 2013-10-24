@@ -1,5 +1,4 @@
-Lecanora elegantula Motyka SPECIES
-=======
+# Lecanora elegantula Motyka SPECIES
 
 #### Status
 ACCEPTED

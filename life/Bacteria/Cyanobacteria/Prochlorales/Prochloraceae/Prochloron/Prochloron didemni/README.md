@@ -1,5 +1,4 @@
-Prochloron didemni R. A. Lewin ex L. Hoffmann & W. Greuter SPECIES
-=======
+# Prochloron didemni R. A. Lewin ex L. Hoffmann & W. Greuter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia callisporoides J. Steiner SPECIES
-=======
+# Buellia callisporoides J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontia coffaeina Speg. SPECIES
-=======
+# Odontia coffaeina Speg. SPECIES
 
 #### Status
 ACCEPTED

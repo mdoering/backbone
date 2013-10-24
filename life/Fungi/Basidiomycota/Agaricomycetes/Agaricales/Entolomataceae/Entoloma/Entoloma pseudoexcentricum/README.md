@@ -1,5 +1,4 @@
-Entoloma pseudoexcentricum (Romagn.) Zschiesch. SPECIES
-=======
+# Entoloma pseudoexcentricum (Romagn.) Zschiesch. SPECIES
 
 #### Status
 ACCEPTED

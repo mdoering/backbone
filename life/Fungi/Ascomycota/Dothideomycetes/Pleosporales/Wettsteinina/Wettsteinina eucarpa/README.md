@@ -1,14 +1,13 @@
-Massaria eucarpa (P. Karst.) Lind SPECIES
-=======
+# Wettsteinina eucarpa (P. Karst.) E. Müll. & Arx, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 60: 335 (1950)
 
 #### Original name
 Sphaerella eucarpa P. Karst., 1872

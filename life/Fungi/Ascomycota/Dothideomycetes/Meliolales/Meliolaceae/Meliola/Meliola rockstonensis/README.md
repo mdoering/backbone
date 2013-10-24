@@ -1,5 +1,4 @@
-Meliola rockstonensis Hansf. SPECIES
-=======
+# Meliola rockstonensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

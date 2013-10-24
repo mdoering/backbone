@@ -1,5 +1,4 @@
-Carpenteria balaniformis SPECIES
-=======
+# Carpenteria balaniformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladina densissima f. densissima FORM
-=======
+# Cladina densissima Ahti SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 79: 38 (1984)
 
 #### Original name
-Cladina densissima f. densissima
+Cladina densissima Ahti
 
 ### Remarks
 null

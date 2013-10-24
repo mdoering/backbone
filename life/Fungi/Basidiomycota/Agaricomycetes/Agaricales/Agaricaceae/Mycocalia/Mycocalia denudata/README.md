@@ -1,14 +1,13 @@
-Nidularia denudata Fr. & Nordholm, 1817 SPECIES
-=======
+# Mycocalia denudata (Fr. & Nordholm) J.T. Palmer, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. gasteromyc. (Lund) 1: 4 (1817)
+Taxon 10: 58 (1961)
 
 #### Original name
 Nidularia denudata Fr. & Nordholm, 1817

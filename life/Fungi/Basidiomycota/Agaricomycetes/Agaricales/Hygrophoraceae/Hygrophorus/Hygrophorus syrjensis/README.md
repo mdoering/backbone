@@ -1,5 +1,4 @@
-Hygrophorus syrjensis P. Karst. SPECIES
-=======
+# Hygrophorus syrjensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

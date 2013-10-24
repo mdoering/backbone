@@ -1,5 +1,4 @@
-Virgaria fusca (Cooke) Sacc. SPECIES
-=======
+# Virgaria fusca (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

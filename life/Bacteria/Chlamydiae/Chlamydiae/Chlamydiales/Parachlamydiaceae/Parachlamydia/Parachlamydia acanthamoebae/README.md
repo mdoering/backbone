@@ -1,5 +1,4 @@
-Parachlamydia acanthamoebae Everett et al., 1999 SPECIES
-=======
+# Parachlamydia acanthamoebae Everett et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haptoglossales M.W. Dick ORDER
-=======
+# Haptoglossales M.W. Dick ORDER
 
 #### Status
 ACCEPTED

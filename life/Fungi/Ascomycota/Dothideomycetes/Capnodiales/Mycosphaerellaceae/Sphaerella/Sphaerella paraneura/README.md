@@ -1,5 +1,4 @@
-Sphaerella paraneura Auersw. SPECIES
-=======
+# Sphaerella paraneura Auersw. SPECIES
 
 #### Status
 ACCEPTED

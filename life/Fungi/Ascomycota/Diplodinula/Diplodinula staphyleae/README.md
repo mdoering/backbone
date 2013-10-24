@@ -1,5 +1,4 @@
-Diplodinula staphyleae (Brunaud) Tassi SPECIES
-=======
+# Diplodinula staphyleae (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

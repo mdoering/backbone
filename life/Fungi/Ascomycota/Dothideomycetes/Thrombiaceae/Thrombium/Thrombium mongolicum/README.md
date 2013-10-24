@@ -1,5 +1,4 @@
-Thrombium mongolicum H. Magn. SPECIES
-=======
+# Thrombium mongolicum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

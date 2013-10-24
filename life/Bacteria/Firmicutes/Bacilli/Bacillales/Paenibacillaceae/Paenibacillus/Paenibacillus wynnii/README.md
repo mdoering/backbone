@@ -1,5 +1,4 @@
-Paenibacillus wynnii Rodríguez-Díaz et al., 2005 SPECIES
-=======
+# Paenibacillus wynnii Rodríguez-Díaz et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

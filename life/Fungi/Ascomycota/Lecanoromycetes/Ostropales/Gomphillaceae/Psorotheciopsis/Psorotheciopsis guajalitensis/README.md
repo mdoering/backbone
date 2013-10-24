@@ -1,5 +1,4 @@
-Psorotheciopsis guajalitensis Lücking SPECIES
-=======
+# Psorotheciopsis guajalitensis Lücking SPECIES
 
 #### Status
 ACCEPTED

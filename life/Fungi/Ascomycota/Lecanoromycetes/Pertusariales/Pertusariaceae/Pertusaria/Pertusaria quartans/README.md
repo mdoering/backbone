@@ -1,5 +1,4 @@
-Pertusaria quartans Nyl. SPECIES
-=======
+# Pertusaria quartans Nyl. SPECIES
 
 #### Status
 ACCEPTED

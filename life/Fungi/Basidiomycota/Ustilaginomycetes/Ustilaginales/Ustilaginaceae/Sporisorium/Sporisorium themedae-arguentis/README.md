@@ -1,5 +1,4 @@
-Sporisorium themedae-arguentis Vánky, 1994 SPECIES
-=======
+# Sporisorium themedae-arguentis Vánky, 1994 SPECIES
 
 #### Status
 ACCEPTED

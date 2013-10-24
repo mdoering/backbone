@@ -1,5 +1,4 @@
-Stropharia rugoso-annulata Farl. ex Murrill SPECIES
-=======
+# Stropharia rugoso-annulata Farl. ex Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora versicolor Speg. SPECIES
-=======
+# Oospora versicolor Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus norwegicus J.F. Gmel. SPECIES
-=======
+# Agaricus norwegicus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

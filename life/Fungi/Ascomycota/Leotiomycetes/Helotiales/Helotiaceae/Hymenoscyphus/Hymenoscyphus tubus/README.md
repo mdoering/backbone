@@ -1,14 +1,13 @@
-Phialea tuba (Bolton) Gillet, 1881 SPECIES
-=======
+# Hymenoscyphus tubus (Bolton) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Discomyc. (London) 126 (1887)
 
 #### Original name
 null

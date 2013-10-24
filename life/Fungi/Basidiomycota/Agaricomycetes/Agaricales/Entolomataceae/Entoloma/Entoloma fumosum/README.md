@@ -1,5 +1,4 @@
-Entoloma fumosum Hesler SPECIES
-=======
+# Entoloma fumosum Hesler SPECIES
 
 #### Status
 ACCEPTED

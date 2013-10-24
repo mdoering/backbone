@@ -1,5 +1,4 @@
-Hebeloma subochraceum (Peck) Sacc. SPECIES
-=======
+# Hebeloma subochraceum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

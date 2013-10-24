@@ -1,5 +1,4 @@
-Melanoleuca thujina (Peck) Murrill SPECIES
-=======
+# Melanoleuca thujina (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

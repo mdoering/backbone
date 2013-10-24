@@ -1,5 +1,4 @@
-Ilea torta (Mertens) Trevisan SPECIES
-=======
+# Ilea torta (Mertens) Trevisan SPECIES
 
 #### Status
 ACCEPTED

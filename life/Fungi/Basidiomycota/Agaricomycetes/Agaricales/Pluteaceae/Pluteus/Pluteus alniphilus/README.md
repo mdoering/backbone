@@ -1,5 +1,4 @@
-Pluteus alniphilus Deparis SPECIES
-=======
+# Pluteus alniphilus Deparis SPECIES
 
 #### Status
 ACCEPTED

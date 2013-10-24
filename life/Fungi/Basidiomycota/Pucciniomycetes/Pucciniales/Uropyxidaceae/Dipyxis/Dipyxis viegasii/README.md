@@ -1,17 +1,16 @@
-Cercospora viegasii Chupp, 1945 SPECIES
-=======
+# Dipyxis viegasii (Jørst.) Cummins & J.W. Baxter, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Viegas, Arq. Mus. Nac. Rio de Janeiro 8: 57 (1945)
+Mycologia 59(2): 369 (1967)
 
 #### Original name
-Cercospora viegasii Chupp, 1945
+Prospodium viegasii Jørst., 1958
 
 ### Remarks
 null

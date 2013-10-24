@@ -1,5 +1,4 @@
-Golovinia capitulopaga Mekht. SPECIES
-=======
+# Golovinia capitulopaga Mekht. SPECIES
 
 #### Status
 ACCEPTED

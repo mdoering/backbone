@@ -1,5 +1,4 @@
-Blastenia bogoriensis Zahlbr. SPECIES
-=======
+# Blastenia bogoriensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

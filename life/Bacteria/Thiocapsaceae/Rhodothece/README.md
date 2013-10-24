@@ -1,5 +1,4 @@
-Rhodothece GENUS
-=======
+# Rhodothece GENUS
 
 #### Status
 ACCEPTED

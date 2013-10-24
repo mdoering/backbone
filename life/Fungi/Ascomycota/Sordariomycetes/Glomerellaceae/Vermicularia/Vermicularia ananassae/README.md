@@ -1,5 +1,4 @@
-Vermicularia ananassae Syd. {?} SPECIES
-=======
+# Vermicularia ananassae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

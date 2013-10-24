@@ -1,5 +1,4 @@
-Clostridium cellulovorans Sleat et al., 1985 SPECIES
-=======
+# Clostridium cellulovorans Sleat et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

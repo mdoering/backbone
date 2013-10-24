@@ -1,5 +1,4 @@
-Gymnodinium nucaceum Okolodkov, 1997 SPECIES
-=======
+# Gymnodinium nucaceum Okolodkov, 1997 SPECIES
 
 #### Status
 ACCEPTED

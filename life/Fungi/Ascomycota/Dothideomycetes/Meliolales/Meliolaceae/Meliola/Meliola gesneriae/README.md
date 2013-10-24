@@ -1,5 +1,4 @@
-Meliola gesneriae F. Stevens SPECIES
-=======
+# Meliola gesneriae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

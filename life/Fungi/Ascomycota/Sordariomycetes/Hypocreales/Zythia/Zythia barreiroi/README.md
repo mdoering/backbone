@@ -1,5 +1,4 @@
-Zythia barreiroi Unamuno SPECIES
-=======
+# Zythia barreiroi Unamuno SPECIES
 
 #### Status
 ACCEPTED

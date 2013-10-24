@@ -1,5 +1,4 @@
-Involucrothele polita (Servít) Servít SPECIES
-=======
+# Involucrothele polita (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

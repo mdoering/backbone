@@ -1,5 +1,4 @@
-Lecanora hypospilota Vain. SPECIES
-=======
+# Lecanora hypospilota Vain. SPECIES
 
 #### Status
 ACCEPTED

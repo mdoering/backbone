@@ -1,14 +1,13 @@
-Muyocopron ilicinum (De Not.) Sacc., 1883 SPECIES
-=======
+# Microthyrium ilicinum De Not., 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 660 (1883)
+Erb. critt. Ital. no. 994 (1862)
 
 #### Original name
 Microthyrium ilicinum De Not., 1862

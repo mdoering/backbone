@@ -1,5 +1,4 @@
-Leptosphaeria espeletiae E. Müll. SPECIES
-=======
+# Leptosphaeria espeletiae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

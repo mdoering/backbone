@@ -1,5 +1,4 @@
-Volvariopsis jamaicensis Murrill SPECIES
-=======
+# Volvariopsis jamaicensis Murrill SPECIES
 
 #### Status
 ACCEPTED

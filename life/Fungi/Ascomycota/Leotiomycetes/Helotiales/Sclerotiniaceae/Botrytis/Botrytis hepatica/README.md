@@ -1,5 +1,4 @@
-Botrytis hepatica Wallr. SPECIES
-=======
+# Botrytis hepatica Wallr. SPECIES
 
 #### Status
 ACCEPTED

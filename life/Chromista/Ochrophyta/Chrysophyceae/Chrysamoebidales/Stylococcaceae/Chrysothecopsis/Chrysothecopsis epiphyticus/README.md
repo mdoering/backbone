@@ -1,8 +1,7 @@
-Chrysotheca epiphytica Scherffel SPECIES
-=======
+# Chrysothecopsis epiphyticus (Scherffel) W. Conrad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

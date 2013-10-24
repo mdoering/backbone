@@ -1,5 +1,4 @@
-Stenella lantanae Seema Misra, N. Srivast. & A.K. Srivast. SPECIES
-=======
+# Stenella lantanae Seema Misra, N. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

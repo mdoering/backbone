@@ -1,5 +1,4 @@
-Erysiphe cataneae SPECIES
-=======
+# Erysiphe cataneae SPECIES
 
 #### Status
 ACCEPTED

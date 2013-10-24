@@ -1,5 +1,4 @@
-Methylosinus (ex Whittenbury et al., 1970) Bowman et al., 1993 GENUS
-=======
+# Methylosinus (ex Whittenbury et al., 1970) Bowman et al., 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimastix Diesing, 1848 GENUS
-=======
+# Dimastix Diesing, 1848 GENUS
 
 #### Status
 ACCEPTED

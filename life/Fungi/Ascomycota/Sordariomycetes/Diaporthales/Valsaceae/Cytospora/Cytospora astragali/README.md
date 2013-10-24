@@ -1,5 +1,4 @@
-Cytospora astragali Garb. SPECIES
-=======
+# Cytospora astragali Garb. SPECIES
 
 #### Status
 ACCEPTED

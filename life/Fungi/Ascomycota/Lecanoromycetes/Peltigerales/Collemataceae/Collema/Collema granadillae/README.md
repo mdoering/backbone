@@ -1,5 +1,4 @@
-Collema granadillae C.W. Dodge SPECIES
-=======
+# Collema granadillae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

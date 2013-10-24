@@ -1,5 +1,4 @@
-Tricharia pallida Vezda SPECIES
-=======
+# Tricharia pallida Vezda SPECIES
 
 #### Status
 ACCEPTED

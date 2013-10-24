@@ -1,5 +1,4 @@
-Stysanus typhoides Lagarde SPECIES
-=======
+# Stysanus typhoides Lagarde SPECIES
 
 #### Status
 ACCEPTED

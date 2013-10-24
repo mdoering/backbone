@@ -1,14 +1,13 @@
-Scopulina barbata (Pers.) Lév., 1846 SPECIES
-=======
+# Scopinella barbata (Pers.) Lév., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 287 (1846)
+Michelia 1(no. 3): 284 (1878)
 
 #### Original name
 Sphaeria barbata Pers., 1794

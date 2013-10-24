@@ -1,5 +1,4 @@
-Clavaria tenacella Pers. SPECIES
-=======
+# Clavaria tenacella Pers. SPECIES
 
 #### Status
 ACCEPTED

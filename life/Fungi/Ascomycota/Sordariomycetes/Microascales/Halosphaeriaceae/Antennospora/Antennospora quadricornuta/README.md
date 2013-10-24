@@ -1,5 +1,4 @@
-Antennospora quadricornuta (Cribb & J.W. Cribb) T.W. Johnson, 1958 SPECIES
-=======
+# Antennospora quadricornuta (Cribb & J.W. Cribb) T.W. Johnson, 1958 SPECIES
 
 #### Status
 ACCEPTED

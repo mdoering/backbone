@@ -1,5 +1,4 @@
-Orbilia myriospora (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Orbilia myriospora (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

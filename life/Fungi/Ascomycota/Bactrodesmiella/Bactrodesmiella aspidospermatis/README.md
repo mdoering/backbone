@@ -1,5 +1,4 @@
-Bactrodesmiella aspidospermatis Bat., Peres & R. Garnier SPECIES
-=======
+# Bactrodesmiella aspidospermatis Bat., Peres & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

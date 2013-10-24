@@ -1,5 +1,4 @@
-Thalassiomastix Busch, 1923 GENUS
-=======
+# Thalassiomastix Busch, 1923 GENUS
 
 #### Status
 ACCEPTED

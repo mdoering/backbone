@@ -1,5 +1,4 @@
-Pyrenula hunana SPECIES
-=======
+# Pyrenula hunana SPECIES
 
 #### Status
 ACCEPTED

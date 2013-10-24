@@ -1,5 +1,4 @@
-Gobia K.B. Kordé in B.A. Trofimov, 1977 GENUS
-=======
+# Gobia K.B. Kordé in B.A. Trofimov, 1977 GENUS
 
 #### Status
 ACCEPTED

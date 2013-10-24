@@ -1,5 +1,4 @@
-Cetreliopsis hypotrachyna (Müll. Arg.) Randlane & Saag SPECIES
-=======
+# Cetreliopsis hypotrachyna (Müll. Arg.) Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

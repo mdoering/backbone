@@ -1,5 +1,4 @@
-Ectypolopus elimatus Loeblich & Wicander, 1976 SPECIES
-=======
+# Ectypolopus elimatus Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spilocaea scirpi Link SPECIES
-=======
+# Spilocaea scirpi Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora hyperici Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora hyperici Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

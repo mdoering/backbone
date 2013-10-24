@@ -1,17 +1,16 @@
-Rosellinia ligniaria var. ligniaria (Grev.) Nitschke VARIETY
-=======
+# Coniochaeta ligniaria (Grev.) Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Fuckel, Symbolae mycologicae 150 (1869)
+Grevillea 16(no. 78): 37 (1887)
 
 #### Original name
-Rosellinia ligniaria var. ligniaria (Grev.) Nitschke
+Sphaeria ligniaria Grev., 1824
 
 ### Remarks
 null

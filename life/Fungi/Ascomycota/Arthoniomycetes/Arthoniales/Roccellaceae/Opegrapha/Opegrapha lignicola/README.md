@@ -1,5 +1,4 @@
-Opegrapha lignicola Bachm. SPECIES
-=======
+# Opegrapha lignicola Bachm. SPECIES
 
 #### Status
 ACCEPTED

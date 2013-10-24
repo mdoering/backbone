@@ -1,5 +1,4 @@
-Ganoderma cupulatiprocerum X.L. Wu & X.Q. Zhang SPECIES
-=======
+# Ganoderma cupulatiprocerum X.L. Wu & X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

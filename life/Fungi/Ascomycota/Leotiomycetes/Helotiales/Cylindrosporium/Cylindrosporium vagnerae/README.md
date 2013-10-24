@@ -1,5 +1,4 @@
-Cylindrosporium vagnerae H.C. Greene SPECIES
-=======
+# Cylindrosporium vagnerae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium somma (Matzenauer, 1933) Balech, 1974 SPECIES
-=======
+# Protoperidinium somma (Matzenauer, 1933) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

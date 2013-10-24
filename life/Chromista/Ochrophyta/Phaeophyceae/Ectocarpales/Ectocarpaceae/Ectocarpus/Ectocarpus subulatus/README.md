@@ -1,5 +1,4 @@
-Ectocarpus subulatus Kützing SPECIES
-=======
+# Ectocarpus subulatus Kützing SPECIES
 
 #### Status
 ACCEPTED

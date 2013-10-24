@@ -1,14 +1,13 @@
-Ceriosporopsis sundica Jørg. Koch & E.B.G. Jones, 1986 SPECIES
-=======
+# Limacospora sundica (Jørg. Koch & E.B.G. Jones) Jørg. Koch & E.B.G. Jones, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nordic Jl Bot. 6(3): 339 (1986)
+in Jones, Koch, McKeown & Moss, Can. J. Bot. 73(7): 1013 (1995)
 
 #### Original name
 Ceriosporopsis sundica Jørg. Koch & E.B.G. Jones, 1986

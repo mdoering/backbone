@@ -1,5 +1,4 @@
-Sphacelotheca dinteri (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca dinteri (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

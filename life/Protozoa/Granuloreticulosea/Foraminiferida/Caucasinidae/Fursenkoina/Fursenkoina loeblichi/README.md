@@ -1,5 +1,4 @@
-Fursenkoina loeblichi SPECIES
-=======
+# Fursenkoina loeblichi SPECIES
 
 #### Status
 ACCEPTED

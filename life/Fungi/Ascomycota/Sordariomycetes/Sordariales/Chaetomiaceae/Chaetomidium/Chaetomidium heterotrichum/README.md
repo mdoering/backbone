@@ -1,5 +1,4 @@
-Chaetomidium heterotrichum R.J. Mey. SPECIES
-=======
+# Chaetomidium heterotrichum R.J. Mey. SPECIES
 
 #### Status
 ACCEPTED

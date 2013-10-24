@@ -1,5 +1,4 @@
-Cyttarocylis brevicollis Daday, 1887 SPECIES
-=======
+# Cyttarocylis brevicollis Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

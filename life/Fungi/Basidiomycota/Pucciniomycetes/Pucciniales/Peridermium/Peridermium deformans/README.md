@@ -1,5 +1,4 @@
-Peridermium deformans (Mayr) Tubeuf SPECIES
-=======
+# Peridermium deformans (Mayr) Tubeuf SPECIES
 
 #### Status
 ACCEPTED

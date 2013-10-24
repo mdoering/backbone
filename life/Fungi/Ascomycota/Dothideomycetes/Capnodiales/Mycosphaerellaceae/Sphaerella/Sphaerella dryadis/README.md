@@ -1,5 +1,4 @@
-Sphaerella dryadis Auersw. SPECIES
-=======
+# Sphaerella dryadis Auersw. SPECIES
 
 #### Status
 ACCEPTED

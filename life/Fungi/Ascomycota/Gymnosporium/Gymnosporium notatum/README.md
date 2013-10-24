@@ -1,5 +1,4 @@
-Gymnosporium notatum Corda SPECIES
-=======
+# Gymnosporium notatum Corda SPECIES
 
 #### Status
 ACCEPTED

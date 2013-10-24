@@ -1,5 +1,4 @@
-Fusarium stercoris Fuckel SPECIES
-=======
+# Fusarium stercoris Fuckel SPECIES
 
 #### Status
 ACCEPTED

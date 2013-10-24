@@ -1,5 +1,4 @@
-Ramalina subpollinaria Nyl. SPECIES
-=======
+# Ramalina subpollinaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia tangolaensis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia tangolaensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

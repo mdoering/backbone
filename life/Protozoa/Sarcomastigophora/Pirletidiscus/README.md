@@ -1,5 +1,4 @@
-Pirletidiscus Vachard, 1988 GENUS
-=======
+# Pirletidiscus Vachard, 1988 GENUS
 
 #### Status
 ACCEPTED

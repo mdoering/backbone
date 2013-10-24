@@ -1,17 +1,16 @@
-Sphaeria asteroma f. asteroma FORM
-=======
+# Sphaeria asteroma Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 526 (1823)
 
 #### Original name
-null
+Sphaeria asteroma Fr.
 
 ### Remarks
 null

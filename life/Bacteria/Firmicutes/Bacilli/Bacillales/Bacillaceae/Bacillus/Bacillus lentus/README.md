@@ -1,5 +1,4 @@
-Bacillus lentus Gibson, 1935 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus lentus Gibson, 1935 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

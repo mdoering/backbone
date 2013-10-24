@@ -1,5 +1,4 @@
-Bacidia mullea (Kremp.) Zahlbr. SPECIES
-=======
+# Bacidia mullea (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

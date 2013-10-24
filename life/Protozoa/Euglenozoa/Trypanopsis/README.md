@@ -1,5 +1,4 @@
-Trypanopsis Léger, 1920 GENUS
-=======
+# Trypanopsis Léger, 1920 GENUS
 
 #### Status
 ACCEPTED

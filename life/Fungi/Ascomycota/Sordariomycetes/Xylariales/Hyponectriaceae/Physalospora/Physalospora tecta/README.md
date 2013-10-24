@@ -1,5 +1,4 @@
-Physalospora tecta G. Winter SPECIES
-=======
+# Physalospora tecta G. Winter SPECIES
 
 #### Status
 ACCEPTED

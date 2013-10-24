@@ -1,5 +1,4 @@
-Phyllachora astronii Speg., 1885 SPECIES
-=======
+# Phyllachora astronii Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

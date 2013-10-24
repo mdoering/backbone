@@ -1,5 +1,4 @@
-Inocybe sapinea Velen. SPECIES
-=======
+# Inocybe sapinea Velen. SPECIES
 
 #### Status
 ACCEPTED

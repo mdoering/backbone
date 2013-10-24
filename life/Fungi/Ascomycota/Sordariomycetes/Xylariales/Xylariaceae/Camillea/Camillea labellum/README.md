@@ -1,5 +1,4 @@
-Camillea labellum Mont. SPECIES
-=======
+# Camillea labellum Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces bolivarii Gonz. Frag. SPECIES
-=======
+# Rhachomyces bolivarii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

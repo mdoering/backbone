@@ -1,5 +1,4 @@
-Physarum puniceum Emoto, 1931 SPECIES
-=======
+# Physarum puniceum Emoto, 1931 SPECIES
 
 #### Status
 ACCEPTED

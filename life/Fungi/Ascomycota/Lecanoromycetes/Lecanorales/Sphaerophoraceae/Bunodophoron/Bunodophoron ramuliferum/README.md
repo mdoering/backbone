@@ -1,14 +1,13 @@
-Sphaerophorus ramulifer I. M. Lamb SPECIES
-=======
+# Bunodophoron ramuliferum (I. M. Lamb) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 4: 426 (1955)
+Pl. Syst. Evol. 187(1-4): 234 (1993)
 
 #### Original name
 Sphaerophorus ramulifer I. M. Lamb

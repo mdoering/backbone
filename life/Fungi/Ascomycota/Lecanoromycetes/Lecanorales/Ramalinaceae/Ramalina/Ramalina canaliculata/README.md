@@ -1,5 +1,4 @@
-Ramalina canaliculata var. canaliculata VARIETY
-=======
+# Ramalina canaliculata Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Hooker, London J. Bot. 6: 188 (1847)
 
 #### Original name
-Ramalina canaliculata var. canaliculata
+Ramalina canaliculata Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diaporthe euonymi Dearn. SPECIES
-=======
+# Diaporthe euonymi Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum perniciosus Briosi & Farneti SPECIES
-=======
+# Coryneum perniciosus Briosi & Farneti SPECIES
 
 #### Status
 ACCEPTED

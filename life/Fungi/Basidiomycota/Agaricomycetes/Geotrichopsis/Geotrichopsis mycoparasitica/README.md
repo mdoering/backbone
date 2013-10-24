@@ -1,5 +1,4 @@
-Geotrichopsis mycoparasitica Tzean & Estey, 1991 SPECIES
-=======
+# Geotrichopsis mycoparasitica Tzean & Estey, 1991 SPECIES
 
 #### Status
 ACCEPTED

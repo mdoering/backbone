@@ -1,5 +1,4 @@
-Arthonia neonii SPECIES
-=======
+# Arthonia neonii SPECIES
 
 #### Status
 ACCEPTED

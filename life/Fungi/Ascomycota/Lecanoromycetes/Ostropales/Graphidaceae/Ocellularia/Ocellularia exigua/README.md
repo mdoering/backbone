@@ -1,5 +1,4 @@
-Ocellularia exigua Müll. Arg. SPECIES
-=======
+# Ocellularia exigua Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

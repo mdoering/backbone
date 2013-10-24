@@ -1,5 +1,4 @@
-Geopyxis foetida Velen. SPECIES
-=======
+# Geopyxis foetida Velen. SPECIES
 
 #### Status
 ACCEPTED

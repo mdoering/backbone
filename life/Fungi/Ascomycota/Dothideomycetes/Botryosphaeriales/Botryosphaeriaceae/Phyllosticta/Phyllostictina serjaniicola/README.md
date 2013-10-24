@@ -1,5 +1,4 @@
-Phyllostictina serjaniicola Petr. & Cif. SPECIES
-=======
+# Phyllostictina serjaniicola Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

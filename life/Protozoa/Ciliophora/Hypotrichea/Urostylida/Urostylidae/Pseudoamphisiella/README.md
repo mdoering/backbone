@@ -1,5 +1,4 @@
-Pseudoamphisiella Song, 1996 GENUS
-=======
+# Pseudoamphisiella Song, 1996 GENUS
 
 #### Status
 ACCEPTED

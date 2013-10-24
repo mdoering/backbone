@@ -1,5 +1,4 @@
-Cellvibrio fibrivorans Mergaert et al., 2003 SPECIES
-=======
+# Cellvibrio fibrivorans Mergaert et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

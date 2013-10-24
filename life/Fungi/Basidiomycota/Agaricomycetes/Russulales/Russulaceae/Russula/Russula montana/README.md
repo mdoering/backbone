@@ -1,5 +1,4 @@
-Russula montana Shaffer SPECIES
-=======
+# Russula montana Shaffer SPECIES
 
 #### Status
 ACCEPTED

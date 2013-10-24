@@ -1,5 +1,4 @@
-Enterobotryum conicum Preuss SPECIES
-=======
+# Enterobotryum conicum Preuss SPECIES
 
 #### Status
 ACCEPTED

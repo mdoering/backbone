@@ -1,5 +1,4 @@
-Aecidium nectandrae H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium nectandrae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

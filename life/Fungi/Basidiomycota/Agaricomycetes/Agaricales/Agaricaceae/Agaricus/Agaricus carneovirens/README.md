@@ -1,5 +1,4 @@
-Agaricus carneovirens Jungh. SPECIES
-=======
+# Agaricus carneovirens Jungh. SPECIES
 
 #### Status
 ACCEPTED

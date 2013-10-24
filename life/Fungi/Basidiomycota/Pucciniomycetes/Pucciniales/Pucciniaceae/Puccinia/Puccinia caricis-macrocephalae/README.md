@@ -1,5 +1,4 @@
-Puccinia caricis-macrocephalae Dietel SPECIES
-=======
+# Puccinia caricis-macrocephalae Dietel SPECIES
 
 #### Status
 ACCEPTED

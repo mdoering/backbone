@@ -1,5 +1,4 @@
-Phaeodimeris GENUS
-=======
+# Phaeodimeris GENUS
 
 #### Status
 ACCEPTED

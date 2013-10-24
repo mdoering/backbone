@@ -1,5 +1,4 @@
-Parmelia flavoglaucescens Lib. SPECIES
-=======
+# Parmelia flavoglaucescens Lib. SPECIES
 
 #### Status
 ACCEPTED

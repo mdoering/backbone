@@ -1,5 +1,4 @@
-Streptomyces avermectinius Takahashi et al., 2002 SPECIES
-=======
+# Streptomyces avermectinius Takahashi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

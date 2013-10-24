@@ -1,5 +1,4 @@
-Aspergillus racemosus Pers. SPECIES
-=======
+# Aspergillus racemosus Pers. SPECIES
 
 #### Status
 ACCEPTED

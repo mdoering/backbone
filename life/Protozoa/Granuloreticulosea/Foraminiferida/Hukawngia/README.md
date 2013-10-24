@@ -1,5 +1,4 @@
-Hukawngia Sahni & Sastri, 1954 GENUS
-=======
+# Hukawngia Sahni & Sastri, 1954 GENUS
 
 #### Status
 ACCEPTED

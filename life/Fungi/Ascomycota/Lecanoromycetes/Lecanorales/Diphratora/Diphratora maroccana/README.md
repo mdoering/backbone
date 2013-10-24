@@ -1,5 +1,4 @@
-Diphratora maroccana B. de Lesd. SPECIES
-=======
+# Diphratora maroccana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

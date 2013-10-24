@@ -1,5 +1,4 @@
-Entoloma atropileatum Dennis SPECIES
-=======
+# Entoloma atropileatum Dennis SPECIES
 
 #### Status
 ACCEPTED

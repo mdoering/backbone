@@ -1,5 +1,4 @@
-Bacidia polysporelloides (Harm.) Zahlbr. SPECIES
-=======
+# Bacidia polysporelloides (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

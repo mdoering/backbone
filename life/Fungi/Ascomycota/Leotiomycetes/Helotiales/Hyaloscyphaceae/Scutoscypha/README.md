@@ -1,5 +1,4 @@
-Scutoscypha GENUS
-=======
+# Scutoscypha GENUS
 
 #### Status
 ACCEPTED

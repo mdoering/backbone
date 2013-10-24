@@ -1,5 +1,4 @@
-Phaeopholiota crinipellis Locq. & Sarwal, 1983 SPECIES
-=======
+# Phaeopholiota crinipellis Locq. & Sarwal, 1983 SPECIES
 
 #### Status
 ACCEPTED

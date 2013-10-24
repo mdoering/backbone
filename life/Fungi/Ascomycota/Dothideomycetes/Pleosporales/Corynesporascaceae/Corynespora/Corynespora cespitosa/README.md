@@ -1,17 +1,16 @@
-Exosporium cespitosum Ellis & Barthol., 1902 SPECIES
-=======
+# Corynespora cespitosa (Ellis & Barthol.) M.B. Ellis, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 87: 39 (1963)
 
 #### Original name
-null
+Exosporium caespitosum Ellis & Barthol.
 
 ### Remarks
 null

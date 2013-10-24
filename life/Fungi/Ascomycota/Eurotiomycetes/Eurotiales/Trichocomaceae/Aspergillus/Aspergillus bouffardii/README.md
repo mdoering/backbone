@@ -1,5 +1,4 @@
-Aspergillus bouffardii Brumpt SPECIES
-=======
+# Aspergillus bouffardii Brumpt SPECIES
 
 #### Status
 ACCEPTED

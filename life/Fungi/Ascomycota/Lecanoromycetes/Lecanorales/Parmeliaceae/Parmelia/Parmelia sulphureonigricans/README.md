@@ -1,5 +1,4 @@
-Parmelia sulphureonigricans Flörke SPECIES
-=======
+# Parmelia sulphureonigricans Flörke SPECIES
 
 #### Status
 ACCEPTED

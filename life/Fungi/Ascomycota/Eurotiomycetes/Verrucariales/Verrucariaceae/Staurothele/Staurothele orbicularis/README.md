@@ -1,5 +1,4 @@
-Staurothele orbicularis (A. Massal.) Th. Fr. SPECIES
-=======
+# Staurothele orbicularis (A. Massal.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

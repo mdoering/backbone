@@ -1,5 +1,4 @@
-Dryophila muricella var. muricella VARIETY
-=======
+# Dryophila muricella anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dryophila muricella var. muricella
+Dryophila muricella anon.
 
 ### Remarks
 null

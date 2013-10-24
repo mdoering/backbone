@@ -1,5 +1,4 @@
-Pseudoparmelia salacinifera (Hale) Hale SPECIES
-=======
+# Pseudoparmelia salacinifera (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia buddleiae Gucevic SPECIES
-=======
+# Hendersonia buddleiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

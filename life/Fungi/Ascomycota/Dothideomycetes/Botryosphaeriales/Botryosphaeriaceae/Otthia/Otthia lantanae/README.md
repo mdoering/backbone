@@ -1,5 +1,4 @@
-Otthia lantanae Rehm SPECIES
-=======
+# Otthia lantanae Rehm SPECIES
 
 #### Status
 ACCEPTED

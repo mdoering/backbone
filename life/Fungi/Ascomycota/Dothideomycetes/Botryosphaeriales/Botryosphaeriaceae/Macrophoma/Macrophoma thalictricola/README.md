@@ -1,5 +1,4 @@
-Macrophoma thalictricola Gonz. Frag. SPECIES
-=======
+# Macrophoma thalictricola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

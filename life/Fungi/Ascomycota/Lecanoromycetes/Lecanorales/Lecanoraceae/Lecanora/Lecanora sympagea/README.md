@@ -1,5 +1,4 @@
-Lecanora sympagea (Ach.) Röhl. SPECIES
-=======
+# Lecanora sympagea (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

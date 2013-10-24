@@ -1,5 +1,4 @@
-Asteridiella lonicerae (W. Yamam.) Hosag. SPECIES
-=======
+# Asteridiella lonicerae (W. Yamam.) Hosag. SPECIES
 
 #### Status
 ACCEPTED

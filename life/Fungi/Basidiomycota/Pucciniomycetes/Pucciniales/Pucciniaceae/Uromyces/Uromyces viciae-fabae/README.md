@@ -1,11 +1,10 @@
-Uromyces fabae subsp. fabae SUBSPECIES
-=======
+# Uromyces viciae-fabae J. Schröt., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

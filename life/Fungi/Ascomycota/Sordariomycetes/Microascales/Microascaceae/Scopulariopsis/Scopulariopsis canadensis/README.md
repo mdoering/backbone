@@ -1,5 +1,4 @@
-Scopulariopsis canadensis F.J. Morton & G. Sm., 1963 SPECIES
-=======
+# Scopulariopsis canadensis F.J. Morton & G. Sm., 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredinopsis polypodophila H.P. Bell SPECIES
-=======
+# Uredinopsis polypodophila H.P. Bell SPECIES
 
 #### Status
 ACCEPTED

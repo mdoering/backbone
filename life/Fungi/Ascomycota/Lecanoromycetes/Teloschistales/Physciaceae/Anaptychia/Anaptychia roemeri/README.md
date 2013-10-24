@@ -1,5 +1,4 @@
-Anaptychia roemeri Poelt SPECIES
-=======
+# Anaptychia roemeri Poelt SPECIES
 
 #### Status
 ACCEPTED

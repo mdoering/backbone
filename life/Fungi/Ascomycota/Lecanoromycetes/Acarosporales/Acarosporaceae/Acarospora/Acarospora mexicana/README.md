@@ -1,5 +1,4 @@
-Acarospora mexicana B. de Lesd. SPECIES
-=======
+# Acarospora mexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria calligoni Frolov SPECIES
-=======
+# Leptosphaeria calligoni Frolov SPECIES
 
 #### Status
 ACCEPTED

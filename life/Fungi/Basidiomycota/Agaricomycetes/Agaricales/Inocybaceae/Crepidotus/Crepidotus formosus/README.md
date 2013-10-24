@@ -1,5 +1,4 @@
-Crepidotus formosus (Quél.) Sacc. & Traverso SPECIES
-=======
+# Crepidotus formosus (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

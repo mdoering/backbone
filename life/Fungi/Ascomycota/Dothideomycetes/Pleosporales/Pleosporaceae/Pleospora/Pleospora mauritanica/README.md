@@ -1,5 +1,4 @@
-Pleospora mauritanica Maire SPECIES
-=======
+# Pleospora mauritanica Maire SPECIES
 
 #### Status
 ACCEPTED

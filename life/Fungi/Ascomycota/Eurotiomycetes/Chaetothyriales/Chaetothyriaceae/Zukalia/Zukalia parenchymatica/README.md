@@ -1,5 +1,4 @@
-Zukalia parenchymatica Doidge SPECIES
-=======
+# Zukalia parenchymatica Doidge SPECIES
 
 #### Status
 ACCEPTED

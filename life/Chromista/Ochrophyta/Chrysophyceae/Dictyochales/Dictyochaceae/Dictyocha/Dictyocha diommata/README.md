@@ -1,5 +1,4 @@
-Dictyocha diommata Ehrenberg SPECIES
-=======
+# Dictyocha diommata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

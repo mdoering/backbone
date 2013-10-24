@@ -1,5 +1,4 @@
-Lecidea pithyophiloides (Vain.) Vain. SPECIES
-=======
+# Lecidea pithyophiloides (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

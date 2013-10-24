@@ -1,17 +1,16 @@
-Famintzinia morchella (A.L. Welden) Lado, 2001 SPECIES
-=======
+# Ceratiomyxa morchella A.L. Welden, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 46(1): 94 (1954)
 
 #### Original name
-null
+Ceratiomyxa morchella A.L. Welden, 1954
 
 ### Remarks
 null

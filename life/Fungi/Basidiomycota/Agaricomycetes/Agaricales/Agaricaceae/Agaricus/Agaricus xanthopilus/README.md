@@ -1,5 +1,4 @@
-Agaricus xanthopilus Mont. SPECIES
-=======
+# Agaricus xanthopilus Mont. SPECIES
 
 #### Status
 ACCEPTED

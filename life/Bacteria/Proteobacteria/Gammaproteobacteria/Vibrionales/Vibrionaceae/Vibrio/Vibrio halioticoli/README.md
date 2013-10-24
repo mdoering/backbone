@@ -1,5 +1,4 @@
-Vibrio halioticoli Sawabe et al., 1998 SPECIES
-=======
+# Vibrio halioticoli Sawabe et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

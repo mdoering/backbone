@@ -1,5 +1,4 @@
-Scleroderris betulae (Fr.) Tranzschel SPECIES
-=======
+# Scleroderris betulae (Fr.) Tranzschel SPECIES
 
 #### Status
 ACCEPTED

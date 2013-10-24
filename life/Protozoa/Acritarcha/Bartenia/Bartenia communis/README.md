@@ -1,5 +1,4 @@
-Bartenia communis Helby, 1987 SPECIES
-=======
+# Bartenia communis Helby, 1987 SPECIES
 
 #### Status
 ACCEPTED

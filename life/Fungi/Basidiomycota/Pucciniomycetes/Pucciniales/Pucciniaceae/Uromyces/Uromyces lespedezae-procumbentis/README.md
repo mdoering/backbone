@@ -1,17 +1,16 @@
-Uromyces lespedezae-procumbentis var. itoanus (Hirats. f.) Hirats. f. VARIETY
-=======
+# Uromyces lespedezae-procumbentis (Schwein.) Lagerh., 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Tottori Mycol. Inst. 10: 21 (1973)
+Cat. Pl. No. Car. 123 (1867)
 
 #### Original name
-Uromyces itoanus Hirats. f.
+Puccinia lespedezae-procumbentis Schwein., 1822
 
 ### Remarks
 null

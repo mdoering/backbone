@@ -1,5 +1,4 @@
-Cicinnobella tetracericola Bat. & A.F. Vital SPECIES
-=======
+# Cicinnobella tetracericola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

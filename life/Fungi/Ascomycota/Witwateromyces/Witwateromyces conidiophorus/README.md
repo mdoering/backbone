@@ -1,5 +1,4 @@
-Witwateromyces conidiophorus Hallbauer, Jahns & Van Warmelo SPECIES
-=======
+# Witwateromyces conidiophorus Hallbauer, Jahns & Van Warmelo SPECIES
 
 #### Status
 ACCEPTED

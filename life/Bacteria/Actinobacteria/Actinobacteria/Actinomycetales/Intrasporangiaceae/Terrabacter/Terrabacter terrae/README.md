@@ -1,5 +1,4 @@
-Terrabacter terrae Montero-Barrientos et al., 2005 SPECIES
-=======
+# Terrabacter terrae Montero-Barrientos et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

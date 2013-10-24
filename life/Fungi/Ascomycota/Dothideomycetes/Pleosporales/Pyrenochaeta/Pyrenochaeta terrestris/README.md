@@ -1,14 +1,13 @@
-Phoma terrestris H.N. Hansen, 1929 SPECIES
-=======
+# Pyrenochaeta terrestris (H.N. Hansen) Gorenz, J.C. Walker & Larson, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 19(8): 699 (1929)
+Phytopathology 38: 838 (1948)
 
 #### Original name
 Phoma terrestris H.N. Hansen, 1929

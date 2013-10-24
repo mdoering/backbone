@@ -1,5 +1,4 @@
-Lecanactis dillenii Zahlbr. SPECIES
-=======
+# Lecanactis dillenii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

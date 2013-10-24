@@ -1,5 +1,4 @@
-Macalpinomyces tilletioides Vánky, 2005 SPECIES
-=======
+# Macalpinomyces tilletioides Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypoxylon bartholomaei Peck, 1911 SPECIES
-=======
+# Biscogniauxia bartholomaei (Peck) Lar.N. Vassiljeva, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 150: 56 (1911)
+Mikol. Fitopatol. 22(5): 392 (1988)
 
 #### Original name
 Hypoxylon bartholomaei Peck, 1911

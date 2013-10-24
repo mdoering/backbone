@@ -1,5 +1,4 @@
-Dipsacomyces acuminosporus R.K. Benj., 1961 SPECIES
-=======
+# Dipsacomyces acuminosporus R.K. Benj., 1961 SPECIES
 
 #### Status
 ACCEPTED

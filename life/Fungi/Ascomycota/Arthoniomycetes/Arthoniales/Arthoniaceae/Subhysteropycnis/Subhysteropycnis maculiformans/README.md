@@ -1,5 +1,4 @@
-Subhysteropycnis maculiformans Wedin & Hafellner SPECIES
-=======
+# Subhysteropycnis maculiformans Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

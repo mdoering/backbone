@@ -1,5 +1,4 @@
-Characiosimilis P. Palik, 1966 GENUS
-=======
+# Characiosimilis P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

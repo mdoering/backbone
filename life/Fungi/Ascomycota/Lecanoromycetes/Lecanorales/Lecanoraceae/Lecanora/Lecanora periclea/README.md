@@ -1,5 +1,4 @@
-Lecanora periclea b pinicola Ach. SPECIES
-=======
+# Lecanora periclea b pinicola Ach. SPECIES
 
 #### Status
 ACCEPTED

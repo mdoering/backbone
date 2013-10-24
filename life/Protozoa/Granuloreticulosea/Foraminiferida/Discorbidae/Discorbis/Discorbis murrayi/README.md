@@ -1,5 +1,4 @@
-Discorbis murrayi SPECIES
-=======
+# Discorbis murrayi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torogregarina Geus, 1969 GENUS
-=======
+# Torogregarina Geus, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Troglomyces S. Colla GENUS
-=======
+# Troglomyces S. Colla GENUS
 
 #### Status
 ACCEPTED

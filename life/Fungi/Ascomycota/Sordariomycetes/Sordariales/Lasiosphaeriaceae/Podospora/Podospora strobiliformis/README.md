@@ -1,5 +1,4 @@
-Podospora strobiliformis Teng SPECIES
-=======
+# Podospora strobiliformis Teng SPECIES
 
 #### Status
 ACCEPTED

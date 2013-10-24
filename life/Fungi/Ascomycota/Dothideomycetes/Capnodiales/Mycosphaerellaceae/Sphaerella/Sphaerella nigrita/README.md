@@ -1,5 +1,4 @@
-Sphaerella nigrita Roum. SPECIES
-=======
+# Sphaerella nigrita Roum. SPECIES
 
 #### Status
 ACCEPTED

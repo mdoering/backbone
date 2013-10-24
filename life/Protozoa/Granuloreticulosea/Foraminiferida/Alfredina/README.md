@@ -1,5 +1,4 @@
-Alfredina S.N. Singh & Kalia, 1972 GENUS
-=======
+# Alfredina S.N. Singh & Kalia, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heptameria herpotrichioides (de Not.) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria herpotrichoides (De Not.) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 14(no. 3): 115 (1957)
 
 #### Original name
-null
+Leptosphaeria herpotrichoides De Not., 1863
 
 ### Remarks
 null

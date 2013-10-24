@@ -1,5 +1,4 @@
-Belonium valdivianum Speg. SPECIES
-=======
+# Belonium valdivianum Speg. SPECIES
 
 #### Status
 ACCEPTED

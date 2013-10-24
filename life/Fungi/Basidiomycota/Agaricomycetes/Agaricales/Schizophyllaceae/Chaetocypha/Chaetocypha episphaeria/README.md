@@ -1,5 +1,4 @@
-Chaetocypha episphaeria (Quél.) Kuntze SPECIES
-=======
+# Chaetocypha episphaeria (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

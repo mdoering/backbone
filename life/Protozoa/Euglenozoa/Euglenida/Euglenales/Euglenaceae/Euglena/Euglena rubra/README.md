@@ -1,5 +1,4 @@
-Euglena rubra Hardy SPECIES
-=======
+# Euglena rubra Hardy SPECIES
 
 #### Status
 ACCEPTED

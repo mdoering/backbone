@@ -1,5 +1,4 @@
-Neoscytalidium Crous & Slippers GENUS
-=======
+# Neoscytalidium Crous & Slippers GENUS
 
 #### Status
 ACCEPTED

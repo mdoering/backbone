@@ -1,17 +1,16 @@
-Peronospora conferta f. agrostemmae Fuckel FORM
-=======
+# Peronospora conferta (Unger) Gäum., 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 5: 314 (1847)
 
 #### Original name
-Peronospora conferta f. agrostemmae Fuckel
+Peronospora conferta (Unger) Gäum., 1918
 
 ### Remarks
 null

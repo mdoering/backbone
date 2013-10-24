@@ -1,5 +1,4 @@
-Synchytrium bupleuri J. Kunze SPECIES
-=======
+# Synchytrium bupleuri J. Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia narkandensis Deighton SPECIES
-=======
+# Ramularia narkandensis Deighton SPECIES
 
 #### Status
 ACCEPTED

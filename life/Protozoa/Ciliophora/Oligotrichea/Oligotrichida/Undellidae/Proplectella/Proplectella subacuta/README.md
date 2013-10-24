@@ -1,5 +1,4 @@
-Proplectella subacuta Kofoid & Campbell, 1929 SPECIES
-=======
+# Proplectella subacuta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

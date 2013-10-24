@@ -1,5 +1,4 @@
-Naemaspora russellii Berk. & M.A. Curtis SPECIES
-=======
+# Naemaspora russellii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

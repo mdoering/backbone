@@ -1,5 +1,4 @@
-Therrya Saccardo, 1882 GENUS
-=======
+# Therrya Saccardo, 1882 GENUS
 
 #### Status
 ACCEPTED

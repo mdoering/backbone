@@ -1,5 +1,4 @@
-Oidium pentatropidis U. Braun & Hosag. SPECIES
-=======
+# Oidium pentatropidis U. Braun & Hosag. SPECIES
 
 #### Status
 ACCEPTED

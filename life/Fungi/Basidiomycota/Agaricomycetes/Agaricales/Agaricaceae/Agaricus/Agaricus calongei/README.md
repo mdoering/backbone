@@ -1,5 +1,4 @@
-Agaricus calongei Dan.-Arr. SPECIES
-=======
+# Agaricus calongei Dan.-Arr. SPECIES
 
 #### Status
 ACCEPTED

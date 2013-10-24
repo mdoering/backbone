@@ -1,8 +1,7 @@
-Carchesium inconjunctum Korfsmeier, 1948 SPECIES
-=======
+# Pseudocarchesium inconjunctum (Korfsmeier, 1948) Sommer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

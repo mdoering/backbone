@@ -1,5 +1,4 @@
-Tessellaria G. Playfair, 1918 GENUS
-=======
+# Tessellaria G. Playfair, 1918 GENUS
 
 #### Status
 ACCEPTED

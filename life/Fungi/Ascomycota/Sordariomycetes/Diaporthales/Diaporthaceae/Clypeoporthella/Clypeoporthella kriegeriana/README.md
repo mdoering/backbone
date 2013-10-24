@@ -1,5 +1,4 @@
-Clypeoporthella kriegeriana (Rehm) Petr. SPECIES
-=======
+# Clypeoporthella kriegeriana (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

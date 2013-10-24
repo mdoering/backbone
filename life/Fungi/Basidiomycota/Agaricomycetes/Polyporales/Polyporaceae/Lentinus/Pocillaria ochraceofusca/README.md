@@ -1,5 +1,4 @@
-Pocillaria ochraceofusca (G. Mey.) Kuntze SPECIES
-=======
+# Pocillaria ochraceofusca (G. Mey.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

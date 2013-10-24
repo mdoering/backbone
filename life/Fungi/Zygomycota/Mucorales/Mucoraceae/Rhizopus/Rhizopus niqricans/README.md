@@ -1,5 +1,4 @@
-Rhizopus niqricans Ehrenburg SPECIES
-=======
+# Rhizopus niqricans Ehrenburg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodiacrodium vozmedianum Fombella-Blanco, 1987 SPECIES
-=======
+# Lophodiacrodium vozmedianum Fombella-Blanco, 1987 SPECIES
 
 #### Status
 ACCEPTED

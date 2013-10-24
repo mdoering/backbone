@@ -1,5 +1,4 @@
-Licea marginata Nann.-Bremek., 1965 SPECIES
-=======
+# Licea marginata Nann.-Bremek., 1965 SPECIES
 
 #### Status
 ACCEPTED

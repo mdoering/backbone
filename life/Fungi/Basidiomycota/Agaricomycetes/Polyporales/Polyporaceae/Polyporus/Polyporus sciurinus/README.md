@@ -1,5 +1,4 @@
-Polyporus sciurinus Kalchbr. SPECIES
-=======
+# Polyporus sciurinus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

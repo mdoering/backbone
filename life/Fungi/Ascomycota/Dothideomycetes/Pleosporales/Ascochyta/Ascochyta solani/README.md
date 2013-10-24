@@ -1,5 +1,4 @@
-Ascochyta solani Oudem. SPECIES
-=======
+# Ascochyta solani Oudem. SPECIES
 
 #### Status
 ACCEPTED

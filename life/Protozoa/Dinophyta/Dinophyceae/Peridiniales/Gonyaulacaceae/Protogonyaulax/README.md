@@ -1,5 +1,4 @@
-Protogonyaulax GENUS
-=======
+# Protogonyaulax GENUS
 
 #### Status
 ACCEPTED

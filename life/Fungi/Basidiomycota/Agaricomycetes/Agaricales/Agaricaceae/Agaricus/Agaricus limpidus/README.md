@@ -1,5 +1,4 @@
-Agaricus limpidus Fr. SPECIES
-=======
+# Agaricus limpidus Fr. SPECIES
 
 #### Status
 ACCEPTED

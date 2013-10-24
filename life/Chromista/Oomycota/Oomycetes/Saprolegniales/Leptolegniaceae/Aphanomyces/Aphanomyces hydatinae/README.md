@@ -1,5 +1,4 @@
-Aphanomyces hydatinae Valkanov SPECIES
-=======
+# Aphanomyces hydatinae Valkanov SPECIES
 
 #### Status
 ACCEPTED

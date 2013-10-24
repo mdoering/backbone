@@ -1,5 +1,4 @@
-Inocybe chelanensis D.E. Stuntz SPECIES
-=======
+# Inocybe chelanensis D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodermium schizoderma Sacc. SPECIES
-=======
+# Hypodermium schizoderma Sacc. SPECIES
 
 #### Status
 ACCEPTED

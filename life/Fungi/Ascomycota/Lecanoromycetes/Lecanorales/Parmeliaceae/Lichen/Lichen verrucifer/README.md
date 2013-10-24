@@ -1,5 +1,4 @@
-Lichen verrucifer J.F. Gmel. SPECIES
-=======
+# Lichen verrucifer J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

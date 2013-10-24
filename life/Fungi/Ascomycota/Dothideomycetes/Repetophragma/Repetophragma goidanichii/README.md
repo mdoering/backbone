@@ -1,14 +1,13 @@
-Ceratosporella goidanichii Rambelli, 1958 SPECIES
-=======
+# Repetophragma goidanichii (Rambelli) W.P. Wu, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rc. Secc. Accad. Sci. Ist. Bologna, sér. 6 5: 3 (1958)
+in Wu & Zhuang, Fungal Diversity Res. Ser. (Hong Kong) 15: 80 (2005)
 
 #### Original name
 Ceratosporella goidanichii Rambelli, 1958

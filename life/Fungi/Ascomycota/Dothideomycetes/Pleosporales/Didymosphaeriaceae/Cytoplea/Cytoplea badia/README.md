@@ -1,5 +1,4 @@
-Cytoplea badia I. Miyake & Hara SPECIES
-=======
+# Cytoplea badia I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

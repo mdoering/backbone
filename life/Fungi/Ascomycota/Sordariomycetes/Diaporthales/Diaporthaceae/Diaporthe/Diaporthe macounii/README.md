@@ -1,5 +1,4 @@
-Diaporthe macounii Dearn. SPECIES
-=======
+# Diaporthe macounii Dearn. SPECIES
 
 #### Status
 ACCEPTED

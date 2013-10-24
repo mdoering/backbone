@@ -1,5 +1,4 @@
-Macrophoma aucubana Sacc. SPECIES
-=======
+# Macrophoma aucubana Sacc. SPECIES
 
 #### Status
 ACCEPTED

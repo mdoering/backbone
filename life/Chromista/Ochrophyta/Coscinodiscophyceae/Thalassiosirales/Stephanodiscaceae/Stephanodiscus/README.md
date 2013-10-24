@@ -1,5 +1,4 @@
-Stephanodiscus Ehrenberg GENUS
-=======
+# Stephanodiscus Ehrenberg GENUS
 
 #### Status
 ACCEPTED

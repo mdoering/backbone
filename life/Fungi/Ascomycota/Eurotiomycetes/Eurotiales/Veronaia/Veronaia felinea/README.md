@@ -1,5 +1,4 @@
-Veronaia felinea (Fox & Blaxall) Benedek SPECIES
-=======
+# Veronaia felinea (Fox & Blaxall) Benedek SPECIES
 
 #### Status
 ACCEPTED

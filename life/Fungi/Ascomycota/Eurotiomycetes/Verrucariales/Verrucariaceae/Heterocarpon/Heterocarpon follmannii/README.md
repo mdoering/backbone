@@ -1,5 +1,4 @@
-Heterocarpon follmannii C.W. Dodge SPECIES
-=======
+# Heterocarpon follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

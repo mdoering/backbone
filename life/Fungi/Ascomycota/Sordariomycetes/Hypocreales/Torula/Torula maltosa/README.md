@@ -1,5 +1,4 @@
-Torula maltosa F.C. Harrison SPECIES
-=======
+# Torula maltosa F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

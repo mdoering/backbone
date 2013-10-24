@@ -1,5 +1,4 @@
-Diatrypella eutypiformis (Sacc.) L.C. Tiffany & J.C. Gilman SPECIES
-=======
+# Diatrypella eutypiformis (Sacc.) L.C. Tiffany & J.C. Gilman SPECIES
 
 #### Status
 ACCEPTED

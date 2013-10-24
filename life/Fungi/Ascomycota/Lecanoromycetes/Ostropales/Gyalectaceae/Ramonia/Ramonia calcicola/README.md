@@ -1,5 +1,4 @@
-Ramonia calcicola Canals & Gómez-Bolea SPECIES
-=======
+# Ramonia calcicola Canals & Gómez-Bolea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amurella A.G. Vologdin, 1965 GENUS
-=======
+# Amurella A.G. Vologdin, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella ulmicola (Maubl.) Petr. & Syd. SPECIES
-=======
+# Dothiorella ulmicola (Maubl.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

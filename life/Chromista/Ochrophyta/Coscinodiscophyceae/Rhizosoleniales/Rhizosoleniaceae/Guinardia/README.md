@@ -1,5 +1,4 @@
-Guinardia H. Perag. GENUS
-=======
+# Guinardia H. Perag. GENUS
 
 #### Status
 ACCEPTED

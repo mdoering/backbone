@@ -1,5 +1,4 @@
-Asteromella tricyclae (Speg.) Aa SPECIES
-=======
+# Asteromella tricyclae (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

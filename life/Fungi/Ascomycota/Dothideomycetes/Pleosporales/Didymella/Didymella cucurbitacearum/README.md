@@ -1,5 +1,4 @@
-Didymella cucurbitacearum A.J. Roy SPECIES
-=======
+# Didymella cucurbitacearum A.J. Roy SPECIES
 
 #### Status
 ACCEPTED

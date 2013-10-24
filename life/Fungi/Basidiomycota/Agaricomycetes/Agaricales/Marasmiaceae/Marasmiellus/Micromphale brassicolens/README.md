@@ -1,5 +1,4 @@
-Micromphale brassicolens var. brassicolens VARIETY
-=======
+# Micromphale brassicolens (Romagn.) P.D. Orton SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43: 178 (1960)
+null
 
 #### Original name
-Marasmius brassicolens Romagn., 1952
+null
 
 ### Remarks
 null

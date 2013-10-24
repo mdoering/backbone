@@ -1,5 +1,4 @@
-Rhodococcus triatomae Yassin, 2005 SPECIES
-=======
+# Rhodococcus triatomae Yassin, 2005 SPECIES
 
 #### Status
 ACCEPTED

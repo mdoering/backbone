@@ -1,5 +1,4 @@
-Lepiota shixingensis Z.S. Bi & T.H. Li SPECIES
-=======
+# Lepiota shixingensis Z.S. Bi & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

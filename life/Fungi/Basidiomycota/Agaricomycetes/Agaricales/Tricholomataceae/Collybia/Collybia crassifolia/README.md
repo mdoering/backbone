@@ -1,5 +1,4 @@
-Collybia crassifolia (Fr.) Bres. SPECIES
-=======
+# Collybia crassifolia (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

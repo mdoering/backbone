@@ -1,5 +1,4 @@
-Didymella parvispora Henssen SPECIES
-=======
+# Didymella parvispora Henssen SPECIES
 
 #### Status
 ACCEPTED

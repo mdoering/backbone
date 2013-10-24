@@ -1,5 +1,4 @@
-Dentalina contorta Hantken SPECIES
-=======
+# Dentalina contorta Hantken SPECIES
 
 #### Status
 ACCEPTED

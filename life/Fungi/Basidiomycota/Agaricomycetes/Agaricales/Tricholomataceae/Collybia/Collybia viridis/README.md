@@ -1,5 +1,4 @@
-Collybia viridis Beeli SPECIES
-=======
+# Collybia viridis Beeli SPECIES
 
 #### Status
 ACCEPTED

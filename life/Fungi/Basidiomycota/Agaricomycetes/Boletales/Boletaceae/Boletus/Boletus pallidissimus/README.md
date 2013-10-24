@@ -1,5 +1,4 @@
-Boletus pallidissimus Watling SPECIES
-=======
+# Boletus pallidissimus Watling SPECIES
 
 #### Status
 ACCEPTED

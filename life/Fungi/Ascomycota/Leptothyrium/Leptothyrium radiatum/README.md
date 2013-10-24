@@ -1,5 +1,4 @@
-Leptothyrium radiatum Ferd. & Winge SPECIES
-=======
+# Leptothyrium radiatum Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

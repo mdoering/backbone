@@ -1,5 +1,4 @@
-Aecidium ligustri Fr. SPECIES
-=======
+# Aecidium ligustri Fr. SPECIES
 
 #### Status
 ACCEPTED

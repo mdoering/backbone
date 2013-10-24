@@ -1,5 +1,4 @@
-Phyllachora secunda Höhn., 1920 SPECIES
-=======
+# Phyllachora secunda Höhn., 1920 SPECIES
 
 #### Status
 DOUBTFUL

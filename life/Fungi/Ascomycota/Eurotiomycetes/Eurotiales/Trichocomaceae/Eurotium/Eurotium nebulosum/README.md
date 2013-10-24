@@ -1,5 +1,4 @@
-Eurotium nebulosum Fr. SPECIES
-=======
+# Eurotium nebulosum Fr. SPECIES
 
 #### Status
 ACCEPTED

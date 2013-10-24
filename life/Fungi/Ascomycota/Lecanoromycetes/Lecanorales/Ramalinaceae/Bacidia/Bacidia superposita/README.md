@@ -1,5 +1,4 @@
-Bacidia superposita (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia superposita (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

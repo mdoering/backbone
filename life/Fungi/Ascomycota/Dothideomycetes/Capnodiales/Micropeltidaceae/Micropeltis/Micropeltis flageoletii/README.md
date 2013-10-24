@@ -1,5 +1,4 @@
-Micropeltis flageoletii Sacc. SPECIES
-=======
+# Micropeltis flageoletii Sacc. SPECIES
 
 #### Status
 ACCEPTED

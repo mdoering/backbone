@@ -1,5 +1,4 @@
-Eucyrtidium Haeckel, 1881 GENUS
-=======
+# Eucyrtidium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

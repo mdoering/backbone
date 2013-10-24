@@ -1,5 +1,4 @@
-Diaporthe hederae Wehm., 1934 SPECIES
-=======
+# Diaporthe hederae Wehm., 1934 SPECIES
 
 #### Status
 ACCEPTED

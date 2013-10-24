@@ -1,5 +1,4 @@
-Verrucispora indica Kamal & R.P. Singh SPECIES
-=======
+# Verrucispora indica Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

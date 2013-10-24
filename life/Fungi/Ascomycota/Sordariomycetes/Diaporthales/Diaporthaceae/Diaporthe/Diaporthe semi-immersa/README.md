@@ -1,5 +1,4 @@
-Diaporthe semi-immersa Nitschke SPECIES
-=======
+# Diaporthe semi-immersa Nitschke SPECIES
 
 #### Status
 ACCEPTED

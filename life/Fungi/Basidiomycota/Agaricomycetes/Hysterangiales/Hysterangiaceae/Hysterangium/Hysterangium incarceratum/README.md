@@ -1,5 +1,4 @@
-Hysterangium incarceratum Malençon SPECIES
-=======
+# Hysterangium incarceratum Malençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius isabellae Rob. Henry SPECIES
-=======
+# Cortinarius isabellae Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

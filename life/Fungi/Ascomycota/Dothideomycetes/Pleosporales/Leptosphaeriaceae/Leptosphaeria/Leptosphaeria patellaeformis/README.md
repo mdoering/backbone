@@ -1,5 +1,4 @@
-Leptosphaeria patellaeformis Pass. SPECIES
-=======
+# Leptosphaeria patellaeformis Pass. SPECIES
 
 #### Status
 ACCEPTED

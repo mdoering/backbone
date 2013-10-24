@@ -1,5 +1,4 @@
-Protoperidinium fimbriatum (Meunier) Balech SPECIES
-=======
+# Protoperidinium fimbriatum (Meunier) Balech SPECIES
 
 #### Status
 ACCEPTED

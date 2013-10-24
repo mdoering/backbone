@@ -1,5 +1,4 @@
-Parmelia mangenoti Abbayes SPECIES
-=======
+# Parmelia mangenoti Abbayes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora itzerottii Benkert SPECIES
-=======
+# Octospora itzerottii Benkert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta ambrosiana Unamuno SPECIES
-=======
+# Ascochyta ambrosiana Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula tuberculariae Nees SPECIES
-=======
+# Torula tuberculariae Nees SPECIES
 
 #### Status
 ACCEPTED

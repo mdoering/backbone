@@ -1,5 +1,4 @@
-Gorgansium Pessagno & Blome, 1980 GENUS
-=======
+# Gorgansium Pessagno & Blome, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybella rhododendri T.J. Baroni & R.H. Petersen, 1987 SPECIES
-=======
+# Rhodocybella rhododendri T.J. Baroni & R.H. Petersen, 1987 SPECIES
 
 #### Status
 ACCEPTED

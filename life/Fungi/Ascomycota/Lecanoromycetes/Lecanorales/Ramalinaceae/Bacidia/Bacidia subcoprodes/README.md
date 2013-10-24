@@ -1,5 +1,4 @@
-Bacidia subcoprodes (de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia subcoprodes (de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

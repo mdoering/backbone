@@ -1,5 +1,4 @@
-Smittium nodifixum Strongman & S.Q. Xu, 2006 SPECIES
-=======
+# Smittium nodifixum Strongman & S.Q. Xu, 2006 SPECIES
 
 #### Status
 ACCEPTED

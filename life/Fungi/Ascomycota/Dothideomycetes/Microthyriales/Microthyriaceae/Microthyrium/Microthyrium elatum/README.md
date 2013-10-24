@@ -1,5 +1,4 @@
-Microthyrium elatum Rehm SPECIES
-=======
+# Microthyrium elatum Rehm SPECIES
 
 #### Status
 ACCEPTED

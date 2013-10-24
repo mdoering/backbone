@@ -1,5 +1,4 @@
-Scytomonas Stein, 1878 GENUS
-=======
+# Scytomonas Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

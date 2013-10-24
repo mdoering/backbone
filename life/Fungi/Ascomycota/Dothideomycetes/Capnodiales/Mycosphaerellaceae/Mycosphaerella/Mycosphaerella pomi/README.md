@@ -1,17 +1,16 @@
-Phoma pomi Schulzer & Sacc. SPECIES
-=======
+# Mycosphaerella pomi (Pass.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 424 (1897)
 
 #### Original name
-Phoma pomi Schulzer & Sacc.
+Sphaerella pomi Pass., 1878
 
 ### Remarks
 null

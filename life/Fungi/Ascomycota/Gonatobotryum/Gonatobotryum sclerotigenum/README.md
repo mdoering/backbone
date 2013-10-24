@@ -1,5 +1,4 @@
-Gonatobotryum sclerotigenum Van Warmelo SPECIES
-=======
+# Gonatobotryum sclerotigenum Van Warmelo SPECIES
 
 #### Status
 ACCEPTED

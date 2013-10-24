@@ -1,5 +1,4 @@
-Gyrodinium estuariale Hulbert SPECIES
-=======
+# Gyrodinium estuariale Hulbert SPECIES
 
 #### Status
 ACCEPTED

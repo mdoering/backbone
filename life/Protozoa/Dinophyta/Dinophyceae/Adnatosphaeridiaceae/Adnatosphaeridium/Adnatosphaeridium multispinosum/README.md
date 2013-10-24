@@ -1,5 +1,4 @@
-Adnatosphaeridium multispinosum Williams & Downie, 1966 SPECIES
-=======
+# Adnatosphaeridium multispinosum Williams & Downie, 1966 SPECIES
 
 #### Status
 ACCEPTED

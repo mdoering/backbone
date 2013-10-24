@@ -1,5 +1,4 @@
-Syringammina tasmanensis Lewis, 1966 SPECIES
-=======
+# Syringammina tasmanensis Lewis, 1966 SPECIES
 
 #### Status
 ACCEPTED

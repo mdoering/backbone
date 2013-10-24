@@ -1,5 +1,4 @@
-Diplodinula pandani (Tassi) Tassi SPECIES
-=======
+# Diplodinula pandani (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotryum rickii Syd. & P. Syd. SPECIES
-=======
+# Arthrobotryum rickii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

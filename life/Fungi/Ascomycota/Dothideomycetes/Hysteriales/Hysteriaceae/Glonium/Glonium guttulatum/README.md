@@ -1,5 +1,4 @@
-Glonium guttulatum Reichert SPECIES
-=======
+# Glonium guttulatum Reichert SPECIES
 
 #### Status
 ACCEPTED

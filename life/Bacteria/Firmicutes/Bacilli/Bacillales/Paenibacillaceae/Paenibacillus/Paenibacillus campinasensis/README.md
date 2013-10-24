@@ -1,5 +1,4 @@
-Paenibacillus campinasensis Yoon et al., 1998 SPECIES
-=======
+# Paenibacillus campinasensis Yoon et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

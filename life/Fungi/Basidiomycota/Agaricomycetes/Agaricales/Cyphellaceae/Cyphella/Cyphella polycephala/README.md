@@ -1,5 +1,4 @@
-Cyphella polycephala Sacc. SPECIES
-=======
+# Cyphella polycephala Sacc. SPECIES
 
 #### Status
 ACCEPTED

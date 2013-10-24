@@ -1,5 +1,4 @@
-Dothiorella campsidis M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Dothiorella campsidis M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

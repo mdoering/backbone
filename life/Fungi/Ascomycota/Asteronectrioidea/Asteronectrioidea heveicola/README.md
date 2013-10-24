@@ -1,5 +1,4 @@
-Asteronectrioidea heveicola Cant., 1948 SPECIES
-=======
+# Asteronectrioidea heveicola Cant., 1948 SPECIES
 
 #### Status
 ACCEPTED

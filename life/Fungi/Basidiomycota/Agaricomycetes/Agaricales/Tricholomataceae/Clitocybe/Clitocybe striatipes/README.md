@@ -1,5 +1,4 @@
-Clitocybe striatipes Velen. SPECIES
-=======
+# Clitocybe striatipes Velen. SPECIES
 
 #### Status
 ACCEPTED

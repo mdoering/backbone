@@ -1,5 +1,4 @@
-Hydnum candicans Fr. SPECIES
-=======
+# Hydnum candicans Fr. SPECIES
 
 #### Status
 ACCEPTED

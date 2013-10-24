@@ -1,5 +1,4 @@
-Lloydella insignis Bres. SPECIES
-=======
+# Lloydella insignis Bres. SPECIES
 
 #### Status
 ACCEPTED

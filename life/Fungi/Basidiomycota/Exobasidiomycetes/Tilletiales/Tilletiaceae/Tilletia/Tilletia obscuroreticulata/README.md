@@ -1,17 +1,16 @@
-Tilletia obscura-reticulata Durán SPECIES
-=======
+# Tilletia obscuroreticulata Durán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ustilaginales of Mexico. Taxonomy, Symptomatology, Spore Germination and Basidial Cytology (Pullman) 160 (1987)
 
 #### Original name
-Tilletia obscura-reticulata Durán
+Tilletia obscuroreticulata Durán
 
 ### Remarks
 null

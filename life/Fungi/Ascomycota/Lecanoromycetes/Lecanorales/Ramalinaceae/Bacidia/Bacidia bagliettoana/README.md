@@ -1,17 +1,16 @@
-Bacidia muscorum var. muscorum VARIETY
-=======
+# Bacidia bagliettoana (A. Massal. & De Not.) Jatta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. Lich. Ital. 421 (1900)
 
 #### Original name
-null
+Scoliciosporum bagliettoanum A. Massal. & De Not.
 
 ### Remarks
 null

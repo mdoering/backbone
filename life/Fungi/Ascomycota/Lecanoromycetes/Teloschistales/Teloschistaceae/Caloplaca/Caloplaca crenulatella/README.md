@@ -1,17 +1,16 @@
-Gyalolechia lactea var. aestimabilis Arnold VARIETY
-=======
+# Caloplaca crenulatella (Nyl.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 37: 110 (1909)
 
 #### Original name
-null
+Lecanora crenulatella Nyl.
 
 ### Remarks
 null

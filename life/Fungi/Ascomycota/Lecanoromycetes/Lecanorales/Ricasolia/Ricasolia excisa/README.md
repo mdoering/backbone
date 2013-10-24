@@ -1,5 +1,4 @@
-Ricasolia excisa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Ricasolia excisa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

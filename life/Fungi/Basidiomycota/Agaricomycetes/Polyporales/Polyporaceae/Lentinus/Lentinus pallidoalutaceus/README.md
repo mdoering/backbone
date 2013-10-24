@@ -1,17 +1,16 @@
-Lentinus pallide-alutaceus Henn. SPECIES
-=======
+# Lentinus pallidoalutaceus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 38: 123 (1905)
 
 #### Original name
-Lentinus pallide-alutaceus Henn.
+Lentinus pallidoalutaceus Henn.
 
 ### Remarks
 null

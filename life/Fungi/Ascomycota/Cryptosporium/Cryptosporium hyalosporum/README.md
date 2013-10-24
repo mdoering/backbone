@@ -1,5 +1,4 @@
-Cryptosporium hyalosporum Mont. & Ces. SPECIES
-=======
+# Cryptosporium hyalosporum Mont. & Ces. SPECIES
 
 #### Status
 ACCEPTED

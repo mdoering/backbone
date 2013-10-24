@@ -1,5 +1,4 @@
-Lepista barbara Maire SPECIES
-=======
+# Lepista barbara Maire SPECIES
 
 #### Status
 ACCEPTED

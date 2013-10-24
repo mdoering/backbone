@@ -1,5 +1,4 @@
-Chiodecton fragosii SPECIES
-=======
+# Chiodecton fragosii SPECIES
 
 #### Status
 ACCEPTED

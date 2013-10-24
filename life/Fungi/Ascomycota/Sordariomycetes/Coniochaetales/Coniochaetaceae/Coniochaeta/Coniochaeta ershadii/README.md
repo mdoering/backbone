@@ -1,5 +1,4 @@
-Coniochaeta ershadii Zare, Asgari & W. Gams SPECIES
-=======
+# Coniochaeta ershadii Zare, Asgari & W. Gams SPECIES
 
 #### Status
 ACCEPTED

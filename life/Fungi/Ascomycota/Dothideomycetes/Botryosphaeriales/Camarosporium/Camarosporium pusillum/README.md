@@ -1,5 +1,4 @@
-Camarosporium pusillum Cooke, 1890 SPECIES
-=======
+# Camarosporium pusillum Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

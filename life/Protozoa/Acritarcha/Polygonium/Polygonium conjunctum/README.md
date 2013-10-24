@@ -1,5 +1,4 @@
-Polygonium conjunctum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium conjunctum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

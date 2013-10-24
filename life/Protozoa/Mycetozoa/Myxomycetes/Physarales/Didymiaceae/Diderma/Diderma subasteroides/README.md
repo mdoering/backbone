@@ -1,5 +1,4 @@
-Diderma subasteroides M.L. Farr, 1971 SPECIES
-=======
+# Diderma subasteroides M.L. Farr, 1971 SPECIES
 
 #### Status
 ACCEPTED

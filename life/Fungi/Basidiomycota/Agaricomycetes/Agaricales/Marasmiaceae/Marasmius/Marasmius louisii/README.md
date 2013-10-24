@@ -1,5 +1,4 @@
-Marasmius louisii Singer SPECIES
-=======
+# Marasmius louisii Singer SPECIES
 
 #### Status
 ACCEPTED

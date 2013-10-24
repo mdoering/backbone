@@ -1,5 +1,4 @@
-Melampsora daphnicola (Dietel) Jørst. SPECIES
-=======
+# Melampsora daphnicola (Dietel) Jørst. SPECIES
 
 #### Status
 ACCEPTED

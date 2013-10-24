@@ -1,17 +1,16 @@
-Porina aspera Vezda SPECIES
-=======
+# Porina deremensis F. Schill. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 67: 289 (1927)
 
 #### Original name
-null
+Porina deremensis F. Schill.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Humaria palmicola Henn. SPECIES
-=======
+# Humaria palmicola Henn. SPECIES
 
 #### Status
 ACCEPTED

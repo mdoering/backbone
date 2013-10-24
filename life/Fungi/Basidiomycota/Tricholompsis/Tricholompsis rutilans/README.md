@@ -1,5 +1,4 @@
-Tricholompsis rutilans (Schaeff. Fr.) Sing. SPECIES
-=======
+# Tricholompsis rutilans (Schaeff. Fr.) Sing. SPECIES
 
 #### Status
 ACCEPTED

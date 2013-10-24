@@ -1,5 +1,4 @@
-Lactarius pruinatus Verbeken & Buyck SPECIES
-=======
+# Lactarius pruinatus Verbeken & Buyck SPECIES
 
 #### Status
 ACCEPTED

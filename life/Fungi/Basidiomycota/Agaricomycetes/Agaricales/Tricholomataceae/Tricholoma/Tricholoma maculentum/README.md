@@ -1,5 +1,4 @@
-Tricholoma maculentum Berk. SPECIES
-=======
+# Tricholoma maculentum Berk. SPECIES
 
 #### Status
 ACCEPTED

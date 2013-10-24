@@ -1,5 +1,4 @@
-Caeoma hyperici Schwein. SPECIES
-=======
+# Caeoma hyperici Schwein. SPECIES
 
 #### Status
 ACCEPTED

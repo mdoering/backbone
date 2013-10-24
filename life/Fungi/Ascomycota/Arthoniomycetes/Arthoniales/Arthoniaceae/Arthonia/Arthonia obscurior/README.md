@@ -1,5 +1,4 @@
-Arthonia obscurior Triebel SPECIES
-=======
+# Arthonia obscurior Triebel SPECIES
 
 #### Status
 ACCEPTED

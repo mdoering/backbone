@@ -1,5 +1,4 @@
-Pseudocercospora catalpigena U. Braun & Crous SPECIES
-=======
+# Pseudocercospora catalpigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

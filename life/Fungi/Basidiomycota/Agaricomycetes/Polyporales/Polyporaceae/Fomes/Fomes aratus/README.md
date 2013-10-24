@@ -1,5 +1,4 @@
-Fomes aratus Sacc. & D. Sacc. SPECIES
-=======
+# Fomes aratus Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

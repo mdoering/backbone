@@ -1,5 +1,4 @@
-Histiocysta R.J. Davey, 1969 GENUS
-=======
+# Histiocysta R.J. Davey, 1969 GENUS
 
 #### Status
 ACCEPTED

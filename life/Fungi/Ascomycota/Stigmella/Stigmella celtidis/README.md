@@ -1,5 +1,4 @@
-Stigmella celtidis Pass. SPECIES
-=======
+# Stigmella celtidis Pass. SPECIES
 
 #### Status
 ACCEPTED

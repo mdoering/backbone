@@ -1,5 +1,4 @@
-Sarcodon ustalis (K.A. Harrison) K.A. Harrison, 1984 SPECIES
-=======
+# Sarcodon ustalis (K.A. Harrison) K.A. Harrison, 1984 SPECIES
 
 #### Status
 ACCEPTED

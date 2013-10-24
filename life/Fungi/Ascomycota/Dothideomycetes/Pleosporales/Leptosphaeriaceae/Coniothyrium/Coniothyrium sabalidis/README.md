@@ -1,5 +1,4 @@
-Coniothyrium sabalidis Sousa da Câmara SPECIES
-=======
+# Coniothyrium sabalidis Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

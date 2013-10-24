@@ -1,5 +1,4 @@
-Calopeltis jasmini Doidge SPECIES
-=======
+# Calopeltis jasmini Doidge SPECIES
 
 #### Status
 ACCEPTED

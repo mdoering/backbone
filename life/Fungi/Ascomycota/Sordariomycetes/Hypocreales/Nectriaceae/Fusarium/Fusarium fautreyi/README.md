@@ -1,5 +1,4 @@
-Fusarium fautreyi Sacc. SPECIES
-=======
+# Fusarium fautreyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

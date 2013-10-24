@@ -1,5 +1,4 @@
-Collema italicum B. de Lesd. SPECIES
-=======
+# Collema italicum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

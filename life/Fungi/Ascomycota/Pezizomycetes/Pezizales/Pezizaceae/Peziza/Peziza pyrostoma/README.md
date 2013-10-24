@@ -1,5 +1,4 @@
-Peziza pyrostoma Mont. SPECIES
-=======
+# Peziza pyrostoma Mont. SPECIES
 
 #### Status
 ACCEPTED

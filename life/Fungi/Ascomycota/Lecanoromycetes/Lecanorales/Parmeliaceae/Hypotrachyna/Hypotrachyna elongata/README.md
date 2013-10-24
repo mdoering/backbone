@@ -1,5 +1,4 @@
-Hypotrachyna elongata Kurok. & K. H. Moon SPECIES
-=======
+# Hypotrachyna elongata Kurok. & K. H. Moon SPECIES
 
 #### Status
 ACCEPTED

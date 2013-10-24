@@ -1,5 +1,4 @@
-Septonema obscurum Berk. & M.A. Curtis SPECIES
-=======
+# Septonema obscurum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fistulariella deminuta (Krog & Østh.) Bowler SPECIES
-=======
+# Fistulariella deminuta (Krog & Østh.) Bowler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen colliculosus Hoffm. SPECIES
-=======
+# Lichen colliculosus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

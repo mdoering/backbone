@@ -1,5 +1,4 @@
-Lecidea megaspora Leight. SPECIES
-=======
+# Lecidea megaspora Leight. SPECIES
 
 #### Status
 ACCEPTED

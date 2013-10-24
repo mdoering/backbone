@@ -1,5 +1,4 @@
-Endogone aggregata P.A. Tandy SPECIES
-=======
+# Endogone aggregata P.A. Tandy SPECIES
 
 #### Status
 ACCEPTED

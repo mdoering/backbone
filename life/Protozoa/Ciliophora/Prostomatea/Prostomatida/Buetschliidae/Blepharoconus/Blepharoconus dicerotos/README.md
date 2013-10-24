@@ -1,5 +1,4 @@
-Blepharoconus dicerotos SPECIES
-=======
+# Blepharoconus dicerotos SPECIES
 
 #### Status
 ACCEPTED

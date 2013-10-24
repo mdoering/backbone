@@ -1,5 +1,4 @@
-Lecanora glaucovirens Tuck. SPECIES
-=======
+# Lecanora glaucovirens Tuck. SPECIES
 
 #### Status
 ACCEPTED

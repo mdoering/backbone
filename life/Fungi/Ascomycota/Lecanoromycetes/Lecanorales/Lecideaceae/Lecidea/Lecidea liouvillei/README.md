@@ -1,5 +1,4 @@
-Lecidea liouvillei SPECIES
-=======
+# Lecidea liouvillei SPECIES
 
 #### Status
 ACCEPTED

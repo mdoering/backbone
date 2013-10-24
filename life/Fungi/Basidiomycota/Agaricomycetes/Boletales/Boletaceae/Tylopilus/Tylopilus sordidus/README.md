@@ -1,5 +1,4 @@
-Tylopilus sordidus (Frost) A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus sordidus (Frost) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyoploca myrmecophila R. Heim SPECIES
-=======
+# Dictyoploca myrmecophila R. Heim SPECIES
 
 #### Status
 ACCEPTED

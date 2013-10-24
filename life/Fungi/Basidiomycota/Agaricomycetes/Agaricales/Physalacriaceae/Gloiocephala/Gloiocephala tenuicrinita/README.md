@@ -1,5 +1,4 @@
-Gloiocephala tenuicrinita E. Horak & Desjardin SPECIES
-=======
+# Gloiocephala tenuicrinita E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

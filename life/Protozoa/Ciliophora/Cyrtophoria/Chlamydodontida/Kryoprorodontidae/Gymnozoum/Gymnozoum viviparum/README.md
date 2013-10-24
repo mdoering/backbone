@@ -1,5 +1,4 @@
-Gymnozoum viviparum Meunier, 1910 SPECIES
-=======
+# Gymnozoum viviparum Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

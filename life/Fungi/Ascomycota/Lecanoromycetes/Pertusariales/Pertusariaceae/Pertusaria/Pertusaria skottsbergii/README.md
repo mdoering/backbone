@@ -1,5 +1,4 @@
-Pertusaria skottsbergii Zahlbr. SPECIES
-=======
+# Pertusaria skottsbergii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

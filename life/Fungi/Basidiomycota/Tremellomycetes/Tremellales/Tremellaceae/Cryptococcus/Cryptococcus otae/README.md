@@ -1,5 +1,4 @@
-Cryptococcus otae Nann. SPECIES
-=======
+# Cryptococcus otae Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella bauhiniae Halder, Ray & A.K. Das SPECIES
-=======
+# Stenella bauhiniae Halder, Ray & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

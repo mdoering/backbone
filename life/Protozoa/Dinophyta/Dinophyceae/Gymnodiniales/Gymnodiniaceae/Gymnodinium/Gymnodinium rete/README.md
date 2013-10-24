@@ -1,5 +1,4 @@
-Gymnodinium rete Schütt, 1895 SPECIES
-=======
+# Gymnodinium rete Schütt, 1895 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria ravenelii Thüm. SPECIES
-=======
+# Septoria ravenelii Thüm. SPECIES
 
 #### Status
 ACCEPTED

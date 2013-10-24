@@ -1,5 +1,4 @@
-Crepidotus paxilloides Singer SPECIES
-=======
+# Crepidotus paxilloides Singer SPECIES
 
 #### Status
 ACCEPTED

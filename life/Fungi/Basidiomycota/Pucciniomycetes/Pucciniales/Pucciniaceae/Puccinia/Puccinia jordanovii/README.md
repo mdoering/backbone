@@ -1,5 +1,4 @@
-Puccinia jordanovii Hinkova SPECIES
-=======
+# Puccinia jordanovii Hinkova SPECIES
 
 #### Status
 ACCEPTED

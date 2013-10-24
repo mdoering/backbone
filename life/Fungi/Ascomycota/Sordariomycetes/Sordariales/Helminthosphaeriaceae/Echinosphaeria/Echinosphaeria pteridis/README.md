@@ -1,5 +1,4 @@
-Echinosphaeria pteridis S. Dharg. & Bhat SPECIES
-=======
+# Echinosphaeria pteridis S. Dharg. & Bhat SPECIES
 
 #### Status
 ACCEPTED

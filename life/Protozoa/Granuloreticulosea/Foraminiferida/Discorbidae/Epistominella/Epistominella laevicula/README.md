@@ -1,5 +1,4 @@
-Epistominella laevicula Resig, 1958 SPECIES
-=======
+# Epistominella laevicula Resig, 1958 SPECIES
 
 #### Status
 ACCEPTED

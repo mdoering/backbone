@@ -1,5 +1,4 @@
-Bryometopus triquetus SPECIES
-=======
+# Bryometopus triquetus SPECIES
 
 #### Status
 ACCEPTED

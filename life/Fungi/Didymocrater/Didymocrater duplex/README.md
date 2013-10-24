@@ -1,5 +1,4 @@
-Didymocrater duplex (Bonord.) Berl. & De Toni SPECIES
-=======
+# Didymocrater duplex (Bonord.) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

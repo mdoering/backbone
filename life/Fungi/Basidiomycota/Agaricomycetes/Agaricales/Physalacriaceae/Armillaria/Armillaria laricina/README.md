@@ -1,14 +1,13 @@
-Agaricus laricinus Bolton, 1788 SPECIES
-=======
+# Armillaria laricina (Bolton) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. fung. Halifax (Huddersfield) 1: 19, pl. 19 (1788)
+Syll. fung. (Abellini) 5: 81 (1887)
 
 #### Original name
 Agaricus laricinus Bolton, 1788

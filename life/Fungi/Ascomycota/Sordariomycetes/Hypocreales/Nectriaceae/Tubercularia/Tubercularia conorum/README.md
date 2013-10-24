@@ -1,5 +1,4 @@
-Tubercularia conorum Cooke & Massee SPECIES
-=======
+# Tubercularia conorum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha manca subsp. manca SUBSPECIES
-=======
+# Holosticha manca Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis multicolor (Petch) Pegler SPECIES
-=======
+# Crinipellis multicolor (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus asperellus Lév., 1855 SPECIES
-=======
+# Scutiger tuberosus Paulet, 1793 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. Champ. tab. 31, fig. 1-3 (1793)
 
 #### Original name
-null
+Scutiger tuberosus Paulet, 1793
 
 ### Remarks
 null

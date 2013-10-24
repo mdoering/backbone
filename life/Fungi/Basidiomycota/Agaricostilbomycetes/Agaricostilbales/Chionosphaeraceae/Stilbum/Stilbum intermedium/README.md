@@ -1,5 +1,4 @@
-Stilbum intermedium (Ferd. & Winge) Sacc. & Trotter SPECIES
-=======
+# Stilbum intermedium (Ferd. & Winge) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

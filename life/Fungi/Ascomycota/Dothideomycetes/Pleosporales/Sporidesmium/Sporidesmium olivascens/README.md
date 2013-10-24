@@ -1,5 +1,4 @@
-Sporidesmium olivascens (Thüm.) U. Braun SPECIES
-=======
+# Sporidesmium olivascens (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

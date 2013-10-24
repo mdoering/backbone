@@ -1,5 +1,4 @@
-Rinodina otagensis (Zahlbr.) H. Mayrhofer SPECIES
-=======
+# Rinodina otagensis (Zahlbr.) H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

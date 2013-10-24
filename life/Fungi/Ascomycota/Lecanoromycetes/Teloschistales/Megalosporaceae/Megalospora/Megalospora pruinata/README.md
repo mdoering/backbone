@@ -1,5 +1,4 @@
-Megalospora pruinata (Müll. Arg.) Sipman SPECIES
-=======
+# Megalospora pruinata (Müll. Arg.) Sipman SPECIES
 
 #### Status
 ACCEPTED

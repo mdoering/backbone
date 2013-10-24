@@ -1,5 +1,4 @@
-Dendrotrichoscypha cretacea (Velen.) Svrcek SPECIES
-=======
+# Dendrotrichoscypha cretacea (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

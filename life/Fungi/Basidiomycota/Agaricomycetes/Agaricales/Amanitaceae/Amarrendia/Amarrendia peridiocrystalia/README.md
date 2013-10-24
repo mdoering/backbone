@@ -1,5 +1,4 @@
-Amarrendia peridiocrystalia Bougher & T. Lebel, 2002 SPECIES
-=======
+# Amarrendia peridiocrystalia Bougher & T. Lebel, 2002 SPECIES
 
 #### Status
 ACCEPTED

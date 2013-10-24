@@ -1,5 +1,4 @@
-Trichoderma intricatum Samuels & Dodd SPECIES
-=======
+# Trichoderma intricatum Samuels & Dodd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moniliopsis fagi Konopacka SPECIES
-=======
+# Moniliopsis fagi Konopacka SPECIES
 
 #### Status
 ACCEPTED

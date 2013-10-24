@@ -1,5 +1,4 @@
-Xeromphalina pumanquensis M.M. Moser SPECIES
-=======
+# Xeromphalina pumanquensis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

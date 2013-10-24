@@ -1,5 +1,4 @@
-Buellia geographica Räsänen SPECIES
-=======
+# Buellia geographica Räsänen SPECIES
 
 #### Status
 ACCEPTED

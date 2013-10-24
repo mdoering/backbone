@@ -1,5 +1,4 @@
-Drosophila storea (Fr.) Murrill SPECIES
-=======
+# Drosophila storea (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

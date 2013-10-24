@@ -1,5 +1,4 @@
-Phoma punicae M.P. Srivast., Tandon, Bhargava & A.K. Ghosh SPECIES
-=======
+# Phoma punicae M.P. Srivast., Tandon, Bhargava & A.K. Ghosh SPECIES
 
 #### Status
 ACCEPTED

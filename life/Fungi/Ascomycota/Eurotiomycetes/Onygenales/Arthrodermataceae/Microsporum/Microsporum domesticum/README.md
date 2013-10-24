@@ -1,5 +1,4 @@
-Microsporum domesticum J. Webb SPECIES
-=======
+# Microsporum domesticum J. Webb SPECIES
 
 #### Status
 ACCEPTED

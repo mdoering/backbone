@@ -1,5 +1,4 @@
-Cortinarius hualo Garrido SPECIES
-=======
+# Cortinarius hualo Garrido SPECIES
 
 #### Status
 ACCEPTED

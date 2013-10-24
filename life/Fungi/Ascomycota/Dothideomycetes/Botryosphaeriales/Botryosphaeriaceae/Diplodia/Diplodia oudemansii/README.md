@@ -1,5 +1,4 @@
-Diplodia oudemansii Sacc. & P. Syd. SPECIES
-=======
+# Diplodia oudemansii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

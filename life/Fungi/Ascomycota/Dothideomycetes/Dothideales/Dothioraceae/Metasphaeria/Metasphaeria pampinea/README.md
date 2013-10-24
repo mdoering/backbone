@@ -1,5 +1,4 @@
-Metasphaeria pampinea (Pass.) Sacc. SPECIES
-=======
+# Metasphaeria pampinea (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

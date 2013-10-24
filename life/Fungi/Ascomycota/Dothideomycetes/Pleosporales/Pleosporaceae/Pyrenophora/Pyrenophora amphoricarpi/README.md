@@ -1,5 +1,4 @@
-Pyrenophora amphoricarpi Bubák SPECIES
-=======
+# Pyrenophora amphoricarpi Bubák SPECIES
 
 #### Status
 ACCEPTED

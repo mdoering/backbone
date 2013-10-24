@@ -1,5 +1,4 @@
-Umbilicaria trabeculata Frey & Poelt SPECIES
-=======
+# Umbilicaria trabeculata Frey & Poelt SPECIES
 
 #### Status
 ACCEPTED

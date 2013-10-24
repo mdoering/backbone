@@ -1,5 +1,4 @@
-Cladonia leprocephala Ahti & S. Stenroos SPECIES
-=======
+# Cladonia leprocephala Ahti & S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

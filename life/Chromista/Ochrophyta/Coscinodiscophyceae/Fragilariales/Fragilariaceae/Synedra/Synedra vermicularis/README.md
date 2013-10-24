@@ -1,5 +1,4 @@
-Synedra vermicularis (Kützing) Kützing SPECIES
-=======
+# Synedra vermicularis (Kützing) Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roseovarius halotolerans Oh, Lim, Cha, Im, Yoo, Kang, Rhee & Roh, 2009 SPECIES
-=======
+# Roseovarius halotolerans Oh, Lim, Cha, Im, Yoo, Kang, Rhee & Roh, 2009 SPECIES
 
 #### Status
 ACCEPTED

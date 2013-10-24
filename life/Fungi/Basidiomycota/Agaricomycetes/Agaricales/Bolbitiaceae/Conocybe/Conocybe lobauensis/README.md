@@ -1,5 +1,4 @@
-Conocybe lobauensis Singer & Hauskn. SPECIES
-=======
+# Conocybe lobauensis Singer & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

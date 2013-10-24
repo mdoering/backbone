@@ -1,5 +1,4 @@
-Guepinia imazekiana Kobayasi SPECIES
-=======
+# Guepinia imazekiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

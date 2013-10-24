@@ -1,5 +1,4 @@
-Puccinia kinseyi G. Cunn., 1928 SPECIES
-=======
+# Puccinia kinseyi G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

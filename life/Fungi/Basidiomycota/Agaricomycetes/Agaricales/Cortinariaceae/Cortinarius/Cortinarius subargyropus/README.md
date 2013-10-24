@@ -1,5 +1,4 @@
-Cortinarius subargyropus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subargyropus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

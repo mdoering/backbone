@@ -1,5 +1,4 @@
-Favolus intermedius Jacobashch SPECIES
-=======
+# Favolus intermedius Jacobashch SPECIES
 
 #### Status
 ACCEPTED

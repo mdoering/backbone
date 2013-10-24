@@ -1,5 +1,4 @@
-Thalloloma anguinum (Mont.) Trevis. SPECIES
-=======
+# Thalloloma anguinum (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

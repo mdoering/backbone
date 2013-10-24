@@ -1,5 +1,4 @@
-Trematosphaeria daphnes Petr. SPECIES
-=======
+# Trematosphaeria daphnes Petr. SPECIES
 
 #### Status
 ACCEPTED

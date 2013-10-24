@@ -1,5 +1,4 @@
-Sporidesmiella P.M. Kirk GENUS
-=======
+# Sporidesmiella P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

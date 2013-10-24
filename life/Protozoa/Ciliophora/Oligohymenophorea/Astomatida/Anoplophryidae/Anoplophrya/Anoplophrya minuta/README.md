@@ -1,5 +1,4 @@
-Anoplophrya minuta Heidenreich, 1935 SPECIES
-=======
+# Anoplophrya minuta Heidenreich, 1935 SPECIES
 
 #### Status
 ACCEPTED

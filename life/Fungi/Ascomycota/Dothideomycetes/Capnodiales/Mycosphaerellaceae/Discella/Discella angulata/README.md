@@ -1,5 +1,4 @@
-Discella angulata Cooke SPECIES
-=======
+# Discella angulata Cooke SPECIES
 
 #### Status
 ACCEPTED

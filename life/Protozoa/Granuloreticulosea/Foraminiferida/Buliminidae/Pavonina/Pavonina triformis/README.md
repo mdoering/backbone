@@ -1,5 +1,4 @@
-Pavonina triformis Parr, 1933 SPECIES
-=======
+# Pavonina triformis Parr, 1933 SPECIES
 
 #### Status
 ACCEPTED

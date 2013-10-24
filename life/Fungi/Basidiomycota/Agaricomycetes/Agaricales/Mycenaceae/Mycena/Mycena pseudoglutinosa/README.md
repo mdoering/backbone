@@ -1,5 +1,4 @@
-Mycena pseudoglutinosa Z.S. Bi SPECIES
-=======
+# Mycena pseudoglutinosa Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

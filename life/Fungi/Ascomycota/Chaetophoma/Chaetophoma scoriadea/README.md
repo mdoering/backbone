@@ -1,5 +1,4 @@
-Chaetophoma scoriadea Speg. SPECIES
-=======
+# Chaetophoma scoriadea Speg. SPECIES
 
 #### Status
 ACCEPTED

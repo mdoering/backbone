@@ -1,5 +1,4 @@
-Physcia vitii Nádv. SPECIES
-=======
+# Physcia vitii Nádv. SPECIES
 
 #### Status
 ACCEPTED

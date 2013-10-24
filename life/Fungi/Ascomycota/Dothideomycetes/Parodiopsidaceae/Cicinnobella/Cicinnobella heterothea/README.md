@@ -1,5 +1,4 @@
-Cicinnobella heterothea Syd. SPECIES
-=======
+# Cicinnobella heterothea Syd. SPECIES
 
 #### Status
 ACCEPTED

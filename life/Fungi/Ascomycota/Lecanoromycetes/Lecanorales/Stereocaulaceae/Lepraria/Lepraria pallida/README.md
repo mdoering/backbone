@@ -1,5 +1,4 @@
-Lepraria pallida Sipman SPECIES
-=======
+# Lepraria pallida Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loktanella salsilacus Van Trappen et al., 2004 SPECIES
-=======
+# Loktanella salsilacus Van Trappen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

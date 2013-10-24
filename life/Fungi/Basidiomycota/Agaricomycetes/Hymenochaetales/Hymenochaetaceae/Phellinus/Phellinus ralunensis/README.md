@@ -1,5 +1,4 @@
-Phellinus ralunensis Adask., Gilb. & Blanchette SPECIES
-=======
+# Phellinus ralunensis Adask., Gilb. & Blanchette SPECIES
 
 #### Status
 ACCEPTED

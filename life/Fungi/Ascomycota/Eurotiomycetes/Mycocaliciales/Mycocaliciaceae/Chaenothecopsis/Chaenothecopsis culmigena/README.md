@@ -1,5 +1,4 @@
-Chaenothecopsis culmigena (De Not. & Bagl.) Puntillo SPECIES
-=======
+# Chaenothecopsis culmigena (De Not. & Bagl.) Puntillo SPECIES
 
 #### Status
 ACCEPTED

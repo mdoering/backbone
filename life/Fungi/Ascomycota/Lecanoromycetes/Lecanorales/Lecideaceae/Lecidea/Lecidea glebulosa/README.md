@@ -1,5 +1,4 @@
-Lecidea glebulosa (Sm.) Jatta SPECIES
-=======
+# Lecidea glebulosa (Sm.) Jatta SPECIES
 
 #### Status
 ACCEPTED

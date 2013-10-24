@@ -1,5 +1,4 @@
-Phyllosticta alnigena Thüm. SPECIES
-=======
+# Phyllosticta alnigena Thüm. SPECIES
 
 #### Status
 ACCEPTED

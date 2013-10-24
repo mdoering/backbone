@@ -1,5 +1,4 @@
-Hymenoscyphus rhizomorphae (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus rhizomorphae (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

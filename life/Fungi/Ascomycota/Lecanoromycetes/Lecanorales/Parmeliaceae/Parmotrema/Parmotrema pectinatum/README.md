@@ -1,5 +1,4 @@
-Parmotrema pectinatum Jungbluth & Marcelli SPECIES
-=======
+# Parmotrema pectinatum Jungbluth & Marcelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanoascus biplatanus ined. SPECIES
-=======
+# Aphanoascus biplatanus ined. SPECIES
 
 #### Status
 ACCEPTED

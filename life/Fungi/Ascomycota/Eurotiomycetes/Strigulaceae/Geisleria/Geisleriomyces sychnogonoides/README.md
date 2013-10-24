@@ -1,5 +1,4 @@
-Geisleriomyces sychnogonoides Cif. & Tomas. SPECIES
-=======
+# Geisleriomyces sychnogonoides Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

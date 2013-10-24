@@ -1,5 +1,4 @@
-Sawadaea zhengii Y. Nomura SPECIES
-=======
+# Sawadaea zhengii Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

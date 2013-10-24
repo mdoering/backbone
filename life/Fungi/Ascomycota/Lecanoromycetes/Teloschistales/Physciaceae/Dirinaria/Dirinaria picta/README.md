@@ -1,14 +1,13 @@
-Lichen pictus Sw. SPECIES
-=======
+# Dirinaria picta (Sw.) Schaer. ex Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nova genera et species Plantarum seu prodromus descriptioneum vegetabilium maximam parte incognitorum qua sub itinere in Indiam Occidentalem annis 1783-1787 digessit Olof Swartz M. D. 146 (1788)
+Gen. Fung. (Minneapolis) 323 (1931)
 
 #### Original name
 Lichen pictus Sw.

@@ -1,5 +1,4 @@
-Janetia obovata M. Calduch, Gené, Abdullah & Guarro SPECIES
-=======
+# Janetia obovata M. Calduch, Gené, Abdullah & Guarro SPECIES
 
 #### Status
 ACCEPTED

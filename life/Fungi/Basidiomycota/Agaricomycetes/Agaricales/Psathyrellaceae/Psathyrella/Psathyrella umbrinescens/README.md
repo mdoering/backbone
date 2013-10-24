@@ -1,5 +1,4 @@
-Psathyrella umbrinescens A.H. Sm. SPECIES
-=======
+# Psathyrella umbrinescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

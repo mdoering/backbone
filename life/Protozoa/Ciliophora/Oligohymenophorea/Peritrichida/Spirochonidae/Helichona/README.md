@@ -1,5 +1,4 @@
-Helichona Plate, 1888 GENUS
-=======
+# Helichona Plate, 1888 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces bidentis Sawada SPECIES
-=======
+# Protomyces bidentis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium lepidosaphis Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium lepidosaphis Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

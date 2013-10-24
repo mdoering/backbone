@@ -1,5 +1,4 @@
-Merulius labyrinthiformis Rauschert SPECIES
-=======
+# Merulius labyrinthiformis Rauschert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutintinnus tubulosus (Ostenfeld, 1899) Kofoid & Campbell, 1939 SPECIES
-=======
+# Eutintinnus tubulosus (Ostenfeld, 1899) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha petraea Mont. SPECIES
-=======
+# Opegrapha petraea Mont. SPECIES
 
 #### Status
 ACCEPTED

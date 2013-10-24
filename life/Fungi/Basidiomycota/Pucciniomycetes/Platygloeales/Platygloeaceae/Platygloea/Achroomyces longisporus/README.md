@@ -1,5 +1,4 @@
-Achroomyces longisporus (Hauerslev) Hauerslev SPECIES
-=======
+# Achroomyces longisporus (Hauerslev) Hauerslev SPECIES
 
 #### Status
 ACCEPTED

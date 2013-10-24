@@ -1,5 +1,4 @@
-Thamnomyces chocoensis Laessøe, 2010 SPECIES
-=======
+# Thamnomyces chocoensis Laessøe, 2010 SPECIES
 
 #### Status
 ACCEPTED

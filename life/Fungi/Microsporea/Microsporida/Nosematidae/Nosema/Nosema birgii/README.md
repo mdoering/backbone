@@ -1,5 +1,4 @@
-Nosema birgii B.S. Toguebaye & B. Marchand SPECIES
-=======
+# Nosema birgii B.S. Toguebaye & B. Marchand SPECIES
 
 #### Status
 ACCEPTED

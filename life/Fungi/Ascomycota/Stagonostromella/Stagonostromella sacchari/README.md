@@ -1,5 +1,4 @@
-Stagonostromella sacchari S. Ahmad SPECIES
-=======
+# Stagonostromella sacchari S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

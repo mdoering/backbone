@@ -1,5 +1,4 @@
-Diplosporium vaginae Nann. SPECIES
-=======
+# Diplosporium vaginae Nann. SPECIES
 
 #### Status
 ACCEPTED

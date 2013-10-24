@@ -1,5 +1,4 @@
-Phyllosticta labiatarum Rabenh. SPECIES
-=======
+# Phyllosticta labiatarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

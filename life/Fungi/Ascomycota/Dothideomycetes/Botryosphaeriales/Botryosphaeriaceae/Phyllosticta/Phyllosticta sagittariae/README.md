@@ -1,5 +1,4 @@
-Phyllosticta sagittariae Rabenh. SPECIES
-=======
+# Phyllosticta sagittariae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

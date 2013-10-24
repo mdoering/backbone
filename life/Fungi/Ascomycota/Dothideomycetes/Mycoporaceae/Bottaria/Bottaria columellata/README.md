@@ -1,5 +1,4 @@
-Bottaria columellata Vain. SPECIES
-=======
+# Bottaria columellata Vain. SPECIES
 
 #### Status
 ACCEPTED

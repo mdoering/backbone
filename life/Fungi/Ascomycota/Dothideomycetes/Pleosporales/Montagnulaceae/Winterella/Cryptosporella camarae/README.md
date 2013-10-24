@@ -1,5 +1,4 @@
-Cryptosporella camarae A.C. Santos SPECIES
-=======
+# Cryptosporella camarae A.C. Santos SPECIES
 
 #### Status
 ACCEPTED

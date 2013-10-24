@@ -1,5 +1,4 @@
-Chlorociboria salviicolor (Ellis & Everh.) Korf SPECIES
-=======
+# Chlorociboria salviicolor (Ellis & Everh.) Korf SPECIES
 
 #### Status
 ACCEPTED

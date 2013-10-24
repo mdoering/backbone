@@ -1,5 +1,4 @@
-Elphidium granulosum (Sidebottom, 1909) SPECIES
-=======
+# Elphidium granulosum (Sidebottom, 1909) SPECIES
 
 #### Status
 ACCEPTED

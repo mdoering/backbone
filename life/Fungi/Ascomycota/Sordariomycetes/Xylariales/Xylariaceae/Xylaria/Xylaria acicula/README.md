@@ -1,5 +1,4 @@
-Xylaria acicula Ces. SPECIES
-=======
+# Xylaria acicula Ces. SPECIES
 
 #### Status
 ACCEPTED

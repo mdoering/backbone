@@ -1,5 +1,4 @@
-Lachnum juncinum Spooner, 1987 SPECIES
-=======
+# Lachnum juncinum Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

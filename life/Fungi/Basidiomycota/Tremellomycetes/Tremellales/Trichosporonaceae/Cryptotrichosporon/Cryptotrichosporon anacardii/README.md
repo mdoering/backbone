@@ -1,5 +1,4 @@
-Cryptotrichosporon anacardii Okoli & Boekhout, 2007 SPECIES
-=======
+# Cryptotrichosporon anacardii Okoli & Boekhout, 2007 SPECIES
 
 #### Status
 ACCEPTED

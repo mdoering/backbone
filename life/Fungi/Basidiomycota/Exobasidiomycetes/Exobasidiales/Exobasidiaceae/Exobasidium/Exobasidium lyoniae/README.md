@@ -1,5 +1,4 @@
-Exobasidium lyoniae Z.Y. Li & L. Guo SPECIES
-=======
+# Exobasidium lyoniae Z.Y. Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

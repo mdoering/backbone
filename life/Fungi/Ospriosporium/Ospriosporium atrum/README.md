@@ -1,5 +1,4 @@
-Ospriosporium atrum Corda SPECIES
-=======
+# Ospriosporium atrum Corda SPECIES
 
 #### Status
 ACCEPTED

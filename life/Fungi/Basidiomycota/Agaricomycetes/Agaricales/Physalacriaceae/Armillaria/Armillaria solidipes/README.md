@@ -1,5 +1,4 @@
-Armillaria solidipes Peck SPECIES
-=======
+# Armillaria solidipes Peck SPECIES
 
 #### Status
 ACCEPTED

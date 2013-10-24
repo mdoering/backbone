@@ -1,5 +1,4 @@
-Erysiphe moroczkovskii f. galatellae V.P. Heluta FORM
-=======
+# Erysiphe moroczkovskii V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ukr. bot. Zh. 37(2): 55 (1980)
+Ukr. bot. Zh. 37(2): 54 (1980)
 
 #### Original name
-Erysiphe moroczkovskii f. galatellae V.P. Heluta
+Erysiphe moroczkovskii V.P. Heluta
 
 ### Remarks
 null

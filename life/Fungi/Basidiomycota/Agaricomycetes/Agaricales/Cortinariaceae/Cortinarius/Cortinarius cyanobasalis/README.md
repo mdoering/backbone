@@ -1,5 +1,4 @@
-Cortinarius cyanobasalis var. cyanobasalis VARIETY
-=======
+# Cortinarius cyanobasalis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 102(1): 80 (1986)
 
 #### Original name
-Cortinarius cyanobasalis var. cyanobasalis
+Cortinarius cyanobasalis Rob. Henry
 
 ### Remarks
 null

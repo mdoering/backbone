@@ -1,5 +1,4 @@
-Polyporus subsquamosus (L.) Fr. SPECIES
-=======
+# Polyporus subsquamosus (L.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerotheca euphorbiae-hirtae U. Braun & Somani, 1986 SPECIES
-=======
+# Podosphaera euphorbiae-hirtae (U. Braun & Somani) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Braun, Mycotaxon 25(1): 263 (1986)
+Schlechtendalia 4: 28 (2000)
 
 #### Original name
 Sphaerotheca euphorbiae-hirtae U. Braun & Somani, 1986

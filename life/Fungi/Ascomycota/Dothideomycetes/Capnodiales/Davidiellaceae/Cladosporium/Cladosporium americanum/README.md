@@ -1,5 +1,4 @@
-Cladosporium americanum H.C. Greene SPECIES
-=======
+# Cladosporium americanum H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

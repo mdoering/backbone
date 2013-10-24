@@ -1,5 +1,4 @@
-Leptostromella umbellata Vestergr. SPECIES
-=======
+# Leptostromella umbellata Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fomes ferreus f. ferreus FORM
-=======
+# Daedalea dochmia (Berk. & Broome) T. Hatt., 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 69): 21 (1885)
+Mycoscience 46(5): 307 (2005)
 
 #### Original name
-Fomes ferreus f. ferreus
+Polyporus dochmius Berk. & Broome, 1875
 
 ### Remarks
 null

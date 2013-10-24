@@ -1,5 +1,4 @@
-Psathyrella pseudoparadoxa V.L. Wells & A.H. Sm. SPECIES
-=======
+# Psathyrella pseudoparadoxa V.L. Wells & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

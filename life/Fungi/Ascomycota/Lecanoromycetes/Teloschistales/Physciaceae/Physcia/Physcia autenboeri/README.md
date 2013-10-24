@@ -1,5 +1,4 @@
-Physcia autenboeri C.W. Dodge SPECIES
-=======
+# Physcia autenboeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

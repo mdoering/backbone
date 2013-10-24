@@ -1,5 +1,4 @@
-Cheiromycella moniliphora Matsush. SPECIES
-=======
+# Cheiromycella moniliphora Matsush. SPECIES
 
 #### Status
 ACCEPTED

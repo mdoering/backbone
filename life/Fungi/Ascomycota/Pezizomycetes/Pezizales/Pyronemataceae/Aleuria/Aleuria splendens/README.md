@@ -1,5 +1,4 @@
-Aleuria splendens (Quél.) J. Breitenb. & F. Kränzl. ex Bon & Courtec. SPECIES
-=======
+# Aleuria splendens (Quél.) J. Breitenb. & F. Kränzl. ex Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

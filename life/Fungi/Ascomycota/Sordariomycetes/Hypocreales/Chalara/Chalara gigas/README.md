@@ -1,5 +1,4 @@
-Chalara gigas Rostr. SPECIES
-=======
+# Chalara gigas Rostr. SPECIES
 
 #### Status
 ACCEPTED

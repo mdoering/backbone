@@ -1,14 +1,13 @@
-Nectria tonduzii (Speg.) Samuels, 1988 SPECIES
-=======
+# Bionectria tonduzii Speg., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 48: 22 (1988)
+Boletín de la Academia Nacional de Ciencias de Córdoba 23(3-4): 563 (1919)
 
 #### Original name
 Bionectria tonduzii Speg., 1919

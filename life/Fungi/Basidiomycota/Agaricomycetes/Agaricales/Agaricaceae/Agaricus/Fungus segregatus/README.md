@@ -1,5 +1,4 @@
-Fungus segregatus (Britzelm.) Kuntze SPECIES
-=======
+# Fungus segregatus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

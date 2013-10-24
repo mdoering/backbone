@@ -1,5 +1,4 @@
-Dimeromyces tomari Thaxt. SPECIES
-=======
+# Dimeromyces tomari Thaxt. SPECIES
 
 #### Status
 ACCEPTED

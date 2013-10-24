@@ -1,5 +1,4 @@
-Agrocybe washingtonensis (Murrill) Watling SPECIES
-=======
+# Agrocybe washingtonensis (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

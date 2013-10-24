@@ -1,5 +1,4 @@
-Metasphaeria tami Cruchet SPECIES
-=======
+# Metasphaeria tami Cruchet SPECIES
 
 #### Status
 ACCEPTED

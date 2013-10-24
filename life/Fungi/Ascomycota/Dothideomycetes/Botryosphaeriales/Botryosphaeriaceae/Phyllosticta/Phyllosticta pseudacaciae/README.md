@@ -1,5 +1,4 @@
-Phyllosticta pseudacaciae Pass. SPECIES
-=======
+# Phyllosticta pseudacaciae Pass. SPECIES
 
 #### Status
 ACCEPTED

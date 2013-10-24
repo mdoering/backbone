@@ -1,5 +1,4 @@
-Spinotriassocampe Kozur, 1986 GENUS
-=======
+# Spinotriassocampe Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

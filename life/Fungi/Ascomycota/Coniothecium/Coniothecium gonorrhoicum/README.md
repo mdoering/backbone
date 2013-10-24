@@ -1,5 +1,4 @@
-Coniothecium gonorrhoicum Hallier SPECIES
-=======
+# Coniothecium gonorrhoicum Hallier SPECIES
 
 #### Status
 ACCEPTED

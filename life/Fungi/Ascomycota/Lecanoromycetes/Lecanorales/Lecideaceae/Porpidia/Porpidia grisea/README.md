@@ -1,5 +1,4 @@
-Porpidia grisea Gowan SPECIES
-=======
+# Porpidia grisea Gowan SPECIES
 
 #### Status
 ACCEPTED

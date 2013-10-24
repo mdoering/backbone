@@ -1,5 +1,4 @@
-Mycosphaerella dahliae (Cooke & Ellis) Coons SPECIES
-=======
+# Mycosphaerella dahliae (Cooke & Ellis) Coons SPECIES
 
 #### Status
 ACCEPTED

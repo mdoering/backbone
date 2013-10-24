@@ -1,5 +1,4 @@
-Lecanora wattii Stirt. SPECIES
-=======
+# Lecanora wattii Stirt. SPECIES
 
 #### Status
 ACCEPTED

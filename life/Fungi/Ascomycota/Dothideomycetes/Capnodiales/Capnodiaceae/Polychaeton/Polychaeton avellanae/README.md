@@ -1,5 +1,4 @@
-Polychaeton avellanae Desm. SPECIES
-=======
+# Polychaeton avellanae Desm. SPECIES
 
 #### Status
 ACCEPTED

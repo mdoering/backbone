@@ -1,5 +1,4 @@
-Pelosphaera trunca Saidova, 1975 SPECIES
-=======
+# Pelosphaera trunca Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winterella albofusca (Cooke & Ellis) J. Reid & C. Booth SPECIES
-=======
+# Winterella albofusca (Cooke & Ellis) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

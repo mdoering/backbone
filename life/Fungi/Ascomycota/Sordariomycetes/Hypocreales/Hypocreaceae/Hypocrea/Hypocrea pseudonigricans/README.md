@@ -1,5 +1,4 @@
-Hypocrea pseudonigricans Yoshim. Doi SPECIES
-=======
+# Hypocrea pseudonigricans Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

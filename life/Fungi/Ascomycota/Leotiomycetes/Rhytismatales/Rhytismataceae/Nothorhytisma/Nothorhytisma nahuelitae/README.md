@@ -1,5 +1,4 @@
-Nothorhytisma nahuelitae Minter, P.F. Cannon, A.I. Romero & Peredo, 1998 SPECIES
-=======
+# Nothorhytisma nahuelitae Minter, P.F. Cannon, A.I. Romero & Peredo, 1998 SPECIES
 
 #### Status
 ACCEPTED

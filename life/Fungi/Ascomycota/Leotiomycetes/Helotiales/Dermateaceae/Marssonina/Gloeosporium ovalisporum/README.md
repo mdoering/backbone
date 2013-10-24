@@ -1,5 +1,4 @@
-Gloeosporium ovalisporum Ellis & Everh. SPECIES
-=======
+# Gloeosporium ovalisporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

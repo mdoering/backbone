@@ -1,5 +1,4 @@
-Haplochalara pidoplitschkoi Zhdanova SPECIES
-=======
+# Haplochalara pidoplitschkoi Zhdanova SPECIES
 
 #### Status
 ACCEPTED

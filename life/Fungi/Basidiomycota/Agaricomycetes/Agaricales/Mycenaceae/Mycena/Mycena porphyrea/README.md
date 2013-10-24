@@ -1,5 +1,4 @@
-Mycena porphyrea Maas Geest. & E. Horak SPECIES
-=======
+# Mycena porphyrea Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

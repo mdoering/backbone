@@ -1,17 +1,16 @@
-Melanomma rhododendri f. rhododendri FORM
-=======
+# Melanomma rhododendri Rehm, 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ber. naturw. Augsburg 26: 48 (1881)
 
 #### Original name
-Melanomma rhododendri f. rhododendri
+Melanomma rhododendri Rehm, 1881
 
 ### Remarks
 null

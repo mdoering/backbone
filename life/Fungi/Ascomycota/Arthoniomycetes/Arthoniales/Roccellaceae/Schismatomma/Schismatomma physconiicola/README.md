@@ -1,5 +1,4 @@
-Schismatomma physconiicola Ertz & Diederich SPECIES
-=======
+# Schismatomma physconiicola Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola psychotriae var. psychotriae VARIETY
-=======
+# Meliola psychotriae Earle SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bulletin of the New York Botanical Garden 3: 308 (1905)
 
 #### Original name
-Meliola psychotriae var. psychotriae
+Meliola psychotriae Earle
 
 ### Remarks
 null

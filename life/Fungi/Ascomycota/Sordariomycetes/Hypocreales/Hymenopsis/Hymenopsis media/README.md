@@ -1,5 +1,4 @@
-Hymenopsis media (Sacc. & G. Winter) Sacc. SPECIES
-=======
+# Hymenopsis media (Sacc. & G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

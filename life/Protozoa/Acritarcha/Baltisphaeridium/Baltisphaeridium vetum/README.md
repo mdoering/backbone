@@ -1,5 +1,4 @@
-Baltisphaeridium vetum Pykhova, 1973 SPECIES
-=======
+# Baltisphaeridium vetum Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

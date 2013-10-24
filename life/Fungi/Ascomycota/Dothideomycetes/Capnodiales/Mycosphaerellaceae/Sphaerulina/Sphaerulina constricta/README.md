@@ -1,5 +1,4 @@
-Sphaerulina constricta Starbäck SPECIES
-=======
+# Sphaerulina constricta Starbäck SPECIES
 
 #### Status
 ACCEPTED

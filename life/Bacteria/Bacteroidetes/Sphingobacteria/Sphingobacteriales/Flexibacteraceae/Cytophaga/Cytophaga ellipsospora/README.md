@@ -1,5 +1,4 @@
-Cytophaga ellipsospora SPECIES
-=======
+# Cytophaga ellipsospora SPECIES
 
 #### Status
 ACCEPTED

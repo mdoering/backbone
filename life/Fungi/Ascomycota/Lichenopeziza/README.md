@@ -1,5 +1,4 @@
-Lichenopeziza Zukal GENUS
-=======
+# Lichenopeziza Zukal GENUS
 
 #### Status
 ACCEPTED

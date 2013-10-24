@@ -1,5 +1,4 @@
-Corethromyces longicaulis Thaxt. SPECIES
-=======
+# Corethromyces longicaulis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

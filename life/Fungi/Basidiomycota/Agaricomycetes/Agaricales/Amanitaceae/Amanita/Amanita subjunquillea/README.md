@@ -1,5 +1,4 @@
-Amanita subjunquillea var. subjunquillea VARIETY
-=======
+# Amanita subjunquillea S. Imai SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 47: 424 (1933)
 
 #### Original name
-Amanita subjunquillea var. subjunquillea
+Amanita subjunquillea S. Imai
 
 ### Remarks
 null

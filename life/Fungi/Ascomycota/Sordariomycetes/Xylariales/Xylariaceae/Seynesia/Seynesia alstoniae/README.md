@@ -1,5 +1,4 @@
-Seynesia alstoniae Rehm SPECIES
-=======
+# Seynesia alstoniae Rehm SPECIES
 
 #### Status
 ACCEPTED

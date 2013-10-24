@@ -1,5 +1,4 @@
-Streptomyces cinnamoneus subsp. cinnamoneus SUBSPECIES
-=======
+# Streptomyces cinnamoneus (Benedict et al., 1952) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
 ACCEPTED

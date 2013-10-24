@@ -1,5 +1,4 @@
-Hayaster perplexus (Bramlette & Riedel) Bukry, 1973 SPECIES
-=======
+# Hayaster perplexus (Bramlette & Riedel) Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

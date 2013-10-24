@@ -1,5 +1,4 @@
-Erineum minutissimum Grev. SPECIES
-=======
+# Erineum minutissimum Grev. SPECIES
 
 #### Status
 ACCEPTED

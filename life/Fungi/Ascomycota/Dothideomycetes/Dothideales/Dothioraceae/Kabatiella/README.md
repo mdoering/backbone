@@ -1,5 +1,4 @@
-Kabatiella Bubák, 1907 GENUS
-=======
+# Kabatiella Bubák, 1907 GENUS
 
 #### Status
 ACCEPTED

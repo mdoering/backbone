@@ -1,5 +1,4 @@
-Saccharococcus Nystrand, 1984 GENUS
-=======
+# Saccharococcus Nystrand, 1984 GENUS
 
 #### Status
 ACCEPTED

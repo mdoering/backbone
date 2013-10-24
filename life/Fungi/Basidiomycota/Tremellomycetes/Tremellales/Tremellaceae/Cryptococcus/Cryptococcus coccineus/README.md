@@ -1,5 +1,4 @@
-Cryptococcus coccineus Kütz. SPECIES
-=======
+# Cryptococcus coccineus Kütz. SPECIES
 
 #### Status
 ACCEPTED

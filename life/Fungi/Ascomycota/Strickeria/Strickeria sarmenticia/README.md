@@ -1,5 +1,4 @@
-Strickeria sarmenticia (Sacc. & Speg.) Cooke SPECIES
-=======
+# Strickeria sarmenticia (Sacc. & Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

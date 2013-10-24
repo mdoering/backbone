@@ -1,5 +1,4 @@
-Streptomyces cellulolyticus Li, 1997 SPECIES
-=======
+# Streptomyces cellulolyticus Li, 1997 SPECIES
 
 #### Status
 ACCEPTED

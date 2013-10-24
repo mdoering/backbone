@@ -1,5 +1,4 @@
-Pertusaria subpupillaris Vezda SPECIES
-=======
+# Pertusaria subpupillaris Vezda SPECIES
 
 #### Status
 ACCEPTED

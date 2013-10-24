@@ -1,5 +1,4 @@
-Perenniporia pauciskeletalis Rajchenb., 1988 SPECIES
-=======
+# Perenniporia pauciskeletalis Rajchenb., 1988 SPECIES
 
 #### Status
 ACCEPTED

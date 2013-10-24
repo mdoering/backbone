@@ -1,8 +1,7 @@
-Agaricus helictum Berk. SPECIES
-=======
+# Agaricus helictus Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus helictum Berk.
+Agaricus helictus Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acineta sulcata (Jankowski, 1967) Curds, 1985 SPECIES
-=======
+# Acineta sulcata (Jankowski, 1967) Curds, 1985 SPECIES
 
 #### Status
 ACCEPTED

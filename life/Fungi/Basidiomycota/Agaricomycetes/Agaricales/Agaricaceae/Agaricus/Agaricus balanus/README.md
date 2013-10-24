@@ -1,5 +1,4 @@
-Agaricus balanus Batsch SPECIES
-=======
+# Agaricus balanus Batsch SPECIES
 
 #### Status
 ACCEPTED

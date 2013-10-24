@@ -1,5 +1,4 @@
-Wiltshirea quercifoliae Bat., Peres & Nascim. SPECIES
-=======
+# Wiltshirea quercifoliae Bat., Peres & Nascim. SPECIES
 
 #### Status
 ACCEPTED

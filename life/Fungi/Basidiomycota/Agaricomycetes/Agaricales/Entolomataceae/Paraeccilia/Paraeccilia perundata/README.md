@@ -1,5 +1,4 @@
-Paraeccilia perundata (Largent & B.L. Thomps.) Largent SPECIES
-=======
+# Paraeccilia perundata (Largent & B.L. Thomps.) Largent SPECIES
 
 #### Status
 ACCEPTED

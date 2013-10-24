@@ -1,5 +1,4 @@
-Drosophila ochracea Romagn. SPECIES
-=======
+# Drosophila ochracea Romagn. SPECIES
 
 #### Status
 ACCEPTED

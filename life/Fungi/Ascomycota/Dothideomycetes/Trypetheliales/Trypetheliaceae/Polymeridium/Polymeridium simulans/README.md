@@ -1,5 +1,4 @@
-Polymeridium simulans R.C. Harris SPECIES
-=======
+# Polymeridium simulans R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

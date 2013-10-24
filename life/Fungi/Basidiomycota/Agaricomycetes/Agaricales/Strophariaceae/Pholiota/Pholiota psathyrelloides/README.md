@@ -1,5 +1,4 @@
-Pholiota psathyrelloides Singer SPECIES
-=======
+# Pholiota psathyrelloides Singer SPECIES
 
 #### Status
 ACCEPTED

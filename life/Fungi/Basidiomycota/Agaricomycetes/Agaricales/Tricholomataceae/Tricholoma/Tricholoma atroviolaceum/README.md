@@ -1,5 +1,4 @@
-Tricholoma atroviolaceum A.H. Sm. SPECIES
-=======
+# Tricholoma atroviolaceum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aposphaeria canavalliae Massee SPECIES
-=======
+# Aposphaeria canavaliae Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aposphaeria canavalliae Massee
+Aposphaeria canavaliae Massee
 
 ### Remarks
 null

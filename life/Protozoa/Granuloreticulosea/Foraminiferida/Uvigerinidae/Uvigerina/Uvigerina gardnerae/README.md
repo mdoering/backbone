@@ -1,5 +1,4 @@
-Uvigerina gardnerae Cushman & Aplin SPECIES
-=======
+# Uvigerina gardnerae Cushman & Aplin SPECIES
 
 #### Status
 ACCEPTED

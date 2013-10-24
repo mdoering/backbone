@@ -1,5 +1,4 @@
-Trichophyton fuligineum S. Ogata SPECIES
-=======
+# Trichophyton fuligineum S. Ogata SPECIES
 
 #### Status
 ACCEPTED

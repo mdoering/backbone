@@ -1,5 +1,4 @@
-Uromyces flavicomae Liou SPECIES
-=======
+# Uromyces flavicomae Liou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urotricha terricola Alekperov & Musayev, 1988 SPECIES
-=======
+# Urotricha terricola Alekperov & Musayev, 1988 SPECIES
 
 #### Status
 ACCEPTED

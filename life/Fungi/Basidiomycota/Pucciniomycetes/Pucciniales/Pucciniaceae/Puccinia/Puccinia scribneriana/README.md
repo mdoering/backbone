@@ -1,5 +1,4 @@
-Puccinia scribneriana Arthur SPECIES
-=======
+# Puccinia scribneriana Arthur SPECIES
 
 #### Status
 ACCEPTED

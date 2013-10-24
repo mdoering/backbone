@@ -1,17 +1,16 @@
-Scolecopeltidium pithecolobiifolii Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium pithecellobiifolii Bat. & I.H. Lima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 56: 218 (1959)
 
 #### Original name
-Scolecopeltidium pithecolobiifolii Bat. & I.H. Lima
+Scolecopeltidium pithecellobiifolii Bat. & I.H. Lima
 
 ### Remarks
 null

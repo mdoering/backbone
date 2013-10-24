@@ -1,5 +1,4 @@
-Solenodonta subdigitata (Arthur & Holw.) Syd. SPECIES
-=======
+# Solenodonta subdigitata (Arthur & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

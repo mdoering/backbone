@@ -1,5 +1,4 @@
-Clistophaena Haeckel, 1887 GENUS
-=======
+# Clistophaena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

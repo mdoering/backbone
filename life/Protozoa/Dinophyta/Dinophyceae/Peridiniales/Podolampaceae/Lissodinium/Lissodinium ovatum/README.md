@@ -1,5 +1,4 @@
-Lissodinium ovatum M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium ovatum M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

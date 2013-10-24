@@ -1,8 +1,7 @@
-Pseudomonas glumae Kurita and Tabei, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Burkholderia glumae (Kurita & Tabei, 1967) Urakami et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

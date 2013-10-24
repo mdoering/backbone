@@ -1,5 +1,4 @@
-Lecania prasinoides Elenkin SPECIES
-=======
+# Lecania prasinoides Elenkin SPECIES
 
 #### Status
 ACCEPTED

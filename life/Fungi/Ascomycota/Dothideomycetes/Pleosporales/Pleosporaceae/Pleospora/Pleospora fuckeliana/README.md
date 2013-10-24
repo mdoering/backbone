@@ -1,5 +1,4 @@
-Pleospora fuckeliana Niessl SPECIES
-=======
+# Pleospora fuckeliana Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Elphidium pauciloculum (Cushman, 1944) SPECIES
-=======
+# Haynesina paucilocula (Cushman, 1944) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

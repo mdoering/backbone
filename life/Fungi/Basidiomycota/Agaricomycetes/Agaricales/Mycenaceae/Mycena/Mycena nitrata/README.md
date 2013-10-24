@@ -1,5 +1,4 @@
-Mycena nitrata Velen. SPECIES
-=======
+# Mycena nitrata Velen. SPECIES
 
 #### Status
 ACCEPTED

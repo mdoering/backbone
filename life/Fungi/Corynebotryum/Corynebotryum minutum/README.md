@@ -1,5 +1,4 @@
-Corynebotryum minutum W. Gams SPECIES
-=======
+# Corynebotryum minutum W. Gams SPECIES
 
 #### Status
 ACCEPTED

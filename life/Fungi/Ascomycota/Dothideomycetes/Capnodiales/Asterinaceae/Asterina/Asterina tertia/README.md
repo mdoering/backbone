@@ -1,5 +1,4 @@
-Asterina tertia Racib. SPECIES
-=======
+# Asterina tertia Racib. SPECIES
 
 #### Status
 ACCEPTED

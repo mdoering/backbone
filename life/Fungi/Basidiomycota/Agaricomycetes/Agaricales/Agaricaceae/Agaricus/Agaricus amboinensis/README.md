@@ -1,5 +1,4 @@
-Agaricus amboinensis Lam. SPECIES
-=======
+# Agaricus amboinensis Lam. SPECIES
 
 #### Status
 ACCEPTED

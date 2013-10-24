@@ -1,5 +1,4 @@
-Amylocorticium cumminsii Gilb. & Lindsey, 1989 SPECIES
-=======
+# Amylocorticium cumminsii Gilb. & Lindsey, 1989 SPECIES
 
 #### Status
 ACCEPTED

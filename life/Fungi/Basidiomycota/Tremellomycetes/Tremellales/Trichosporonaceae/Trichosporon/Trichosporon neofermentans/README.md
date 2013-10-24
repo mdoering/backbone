@@ -1,5 +1,4 @@
-Trichosporon neofermentans Kobay. {?} SPECIES
-=======
+# Trichosporon neofermentans Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

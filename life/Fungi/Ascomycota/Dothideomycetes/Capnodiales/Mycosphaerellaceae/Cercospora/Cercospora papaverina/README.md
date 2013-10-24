@@ -1,5 +1,4 @@
-Cercospora papaverina Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora papaverina Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

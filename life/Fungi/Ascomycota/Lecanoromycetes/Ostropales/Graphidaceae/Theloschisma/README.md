@@ -1,5 +1,4 @@
-Theloschisma GENUS
-=======
+# Theloschisma GENUS
 
 #### Status
 ACCEPTED

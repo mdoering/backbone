@@ -1,5 +1,4 @@
-Thaxteriola nigromarginata Thaxt. SPECIES
-=======
+# Thaxteriola nigromarginata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

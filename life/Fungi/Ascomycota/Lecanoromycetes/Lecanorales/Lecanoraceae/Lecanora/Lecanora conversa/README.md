@@ -1,5 +1,4 @@
-Lecanora conversa (Kremp.) Nyl. SPECIES
-=======
+# Lecanora conversa (Kremp.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

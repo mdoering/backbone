@@ -1,5 +1,4 @@
-Antromycopsis tonelliana Ferraris SPECIES
-=======
+# Antromycopsis tonelliana Ferraris SPECIES
 
 #### Status
 ACCEPTED

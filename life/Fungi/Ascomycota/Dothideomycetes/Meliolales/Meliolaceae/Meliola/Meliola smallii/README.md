@@ -1,5 +1,4 @@
-Meliola smallii var. smallii VARIETY
-=======
+# Meliola smallii Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 51: 282 (1937)
 
 #### Original name
-Meliola smallii var. smallii
+Meliola smallii Hansf. & F. Stevens
 
 ### Remarks
 null

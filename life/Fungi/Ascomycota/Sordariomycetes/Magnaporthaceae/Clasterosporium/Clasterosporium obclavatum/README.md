@@ -1,5 +1,4 @@
-Clasterosporium obclavatum Bonar SPECIES
-=======
+# Clasterosporium obclavatum Bonar SPECIES
 
 #### Status
 ACCEPTED

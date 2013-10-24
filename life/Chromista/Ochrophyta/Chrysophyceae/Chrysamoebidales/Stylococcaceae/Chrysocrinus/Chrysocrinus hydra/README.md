@@ -1,5 +1,4 @@
-Chrysocrinus hydra Pascher SPECIES
-=======
+# Chrysocrinus hydra Pascher SPECIES
 
 #### Status
 ACCEPTED

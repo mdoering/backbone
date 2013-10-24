@@ -1,5 +1,4 @@
-Amanita pareparina G.S. Ridl., 1991 SPECIES
-=======
+# Amanita pareparina G.S. Ridl., 1991 SPECIES
 
 #### Status
 ACCEPTED

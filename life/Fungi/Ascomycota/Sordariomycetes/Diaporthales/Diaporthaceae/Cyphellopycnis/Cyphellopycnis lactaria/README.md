@@ -1,5 +1,4 @@
-Cyphellopycnis lactaria B. Sutton & Peberdy SPECIES
-=======
+# Cyphellopycnis lactaria B. Sutton & Peberdy SPECIES
 
 #### Status
 ACCEPTED

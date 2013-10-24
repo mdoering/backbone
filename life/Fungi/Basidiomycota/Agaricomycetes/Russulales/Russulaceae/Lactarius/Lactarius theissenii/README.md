@@ -1,5 +1,4 @@
-Lactarius theissenii Murrill SPECIES
-=======
+# Lactarius theissenii Murrill SPECIES
 
 #### Status
 ACCEPTED

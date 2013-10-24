@@ -1,5 +1,4 @@
-Parmelia galbizans Nyl. SPECIES
-=======
+# Parmelia galbizans Nyl. SPECIES
 
 #### Status
 ACCEPTED

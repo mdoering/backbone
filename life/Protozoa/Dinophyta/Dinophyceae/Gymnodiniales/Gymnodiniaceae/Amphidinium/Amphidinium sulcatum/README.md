@@ -1,5 +1,4 @@
-Amphidinium sulcatum Kofferath SPECIES
-=======
+# Amphidinium sulcatum Kofferath SPECIES
 
 #### Status
 ACCEPTED

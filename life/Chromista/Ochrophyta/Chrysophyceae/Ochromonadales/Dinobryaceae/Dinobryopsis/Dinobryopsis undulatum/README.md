@@ -1,8 +1,7 @@
-Pseudokephyrion formosissimum SPECIES
-=======
+# Dinobryopsis undulatum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

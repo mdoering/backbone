@@ -1,5 +1,4 @@
-Sargassum cristatum J. Agardh SPECIES
-=======
+# Sargassum cristatum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

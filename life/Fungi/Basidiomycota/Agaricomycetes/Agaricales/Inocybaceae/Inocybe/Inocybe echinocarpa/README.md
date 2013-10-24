@@ -1,5 +1,4 @@
-Inocybe echinocarpa Ellis & Everh. SPECIES
-=======
+# Inocybe echinocarpa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

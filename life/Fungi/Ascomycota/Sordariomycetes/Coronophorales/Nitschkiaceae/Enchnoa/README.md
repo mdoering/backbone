@@ -1,5 +1,4 @@
-Enchnoa E.M. Fries, 1849 GENUS
-=======
+# Enchnoa E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

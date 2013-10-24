@@ -1,5 +1,4 @@
-Candelariella citrina B. de Lesd. SPECIES
-=======
+# Candelariella citrina B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitinoidella boneti Doben, 1963 SPECIES
-=======
+# Chitinoidella boneti Doben, 1963 SPECIES
 
 #### Status
 ACCEPTED

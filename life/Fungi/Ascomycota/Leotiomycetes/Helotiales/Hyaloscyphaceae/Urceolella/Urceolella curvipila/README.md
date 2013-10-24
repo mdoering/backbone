@@ -1,14 +1,13 @@
-Helotium curvipilum P. Karst., 1871 SPECIES
-=======
+# Urceolella curvipila (P. Karst.) Raschle, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 162 (1870)
+Sydowia 29(1-6): 218 (1977)
 
 #### Original name
 Helotium curvipilum P. Karst., 1871

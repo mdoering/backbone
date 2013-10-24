@@ -1,5 +1,4 @@
-Phyllosticta colutae Fiedl. SPECIES
-=======
+# Phyllosticta colutae Fiedl. SPECIES
 
 #### Status
 ACCEPTED

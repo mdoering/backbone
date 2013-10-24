@@ -1,5 +1,4 @@
-Ramalina rupestris Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina rupestris Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

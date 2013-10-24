@@ -1,5 +1,4 @@
-Irpex paleaceus Fr. SPECIES
-=======
+# Irpex paleaceus Fr. SPECIES
 
 #### Status
 ACCEPTED

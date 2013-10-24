@@ -1,5 +1,4 @@
-Haplaria fuscescens Bres. SPECIES
-=======
+# Haplaria fuscescens Bres. SPECIES
 
 #### Status
 ACCEPTED

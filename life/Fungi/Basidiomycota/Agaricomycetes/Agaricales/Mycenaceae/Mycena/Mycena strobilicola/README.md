@@ -1,5 +1,4 @@
-Mycena strobilicola J. Favre & Kühner, 1938 SPECIES
-=======
+# Mycena strobilicola J. Favre & Kühner, 1938 SPECIES
 
 #### Status
 ACCEPTED

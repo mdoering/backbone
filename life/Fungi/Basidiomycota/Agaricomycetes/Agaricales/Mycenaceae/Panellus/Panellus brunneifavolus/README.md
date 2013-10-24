@@ -1,5 +1,4 @@
-Panellus brunneifavolus Corner SPECIES
-=======
+# Panellus brunneifavolus Corner SPECIES
 
 #### Status
 ACCEPTED

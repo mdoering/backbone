@@ -1,5 +1,4 @@
-Orcadella GENUS
-=======
+# Orcadella GENUS
 
 #### Status
 ACCEPTED

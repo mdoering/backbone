@@ -1,5 +1,4 @@
-Galwayella oblonga (Seguenza, 1862) SPECIES
-=======
+# Galwayella oblonga (Seguenza, 1862) SPECIES
 
 #### Status
 ACCEPTED

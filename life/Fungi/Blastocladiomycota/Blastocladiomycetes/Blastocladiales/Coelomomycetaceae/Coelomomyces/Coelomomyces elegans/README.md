@@ -1,5 +1,4 @@
-Coelomomyces elegans Couch & Rajap. SPECIES
-=======
+# Coelomomyces elegans Couch & Rajap. SPECIES
 
 #### Status
 ACCEPTED

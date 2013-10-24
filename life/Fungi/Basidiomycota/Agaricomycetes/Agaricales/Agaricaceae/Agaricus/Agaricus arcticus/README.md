@@ -1,5 +1,4 @@
-Agaricus arcticus Sommerf. SPECIES
-=======
+# Agaricus arcticus Sommerf. SPECIES
 
 #### Status
 ACCEPTED

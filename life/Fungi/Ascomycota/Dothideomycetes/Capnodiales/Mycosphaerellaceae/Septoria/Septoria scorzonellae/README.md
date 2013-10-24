@@ -1,5 +1,4 @@
-Septoria scorzonellae W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Septoria scorzonellae W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatomma punctellum (Stirt.) Zahlbr. SPECIES
-=======
+# Schismatomma punctellum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

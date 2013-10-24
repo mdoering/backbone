@@ -1,5 +1,4 @@
-Naucoria pseudoscolecina D.A. Reid SPECIES
-=======
+# Naucoria pseudoscolecina D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

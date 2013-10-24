@@ -1,5 +1,4 @@
-Lopholeptosphaeria Sousa da Câmara GENUS
-=======
+# Lopholeptosphaeria Sousa da Câmara GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis articulata Vain. SPECIES
-=======
+# Graphis articulata Vain. SPECIES
 
 #### Status
 ACCEPTED

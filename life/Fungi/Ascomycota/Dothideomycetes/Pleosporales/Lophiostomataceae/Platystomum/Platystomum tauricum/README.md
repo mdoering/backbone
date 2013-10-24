@@ -1,5 +1,4 @@
-Platystomum tauricum Gucevic SPECIES
-=======
+# Platystomum tauricum Gucevic SPECIES
 
 #### Status
 ACCEPTED

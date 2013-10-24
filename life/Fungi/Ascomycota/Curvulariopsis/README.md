@@ -1,5 +1,4 @@
-Curvulariopsis M.B. Ellis GENUS
-=======
+# Curvulariopsis M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

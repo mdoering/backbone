@@ -1,8 +1,7 @@
-Hystrichokolpoma salacium Eaton, 1976 SPECIES
-=======
+# Hystrichokolpoma salacia Eaton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

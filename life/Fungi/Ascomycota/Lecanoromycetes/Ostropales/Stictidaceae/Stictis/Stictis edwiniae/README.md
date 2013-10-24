@@ -1,5 +1,4 @@
-Stictis edwiniae Clem. SPECIES
-=======
+# Stictis edwiniae Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca intermedia (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca intermedia (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

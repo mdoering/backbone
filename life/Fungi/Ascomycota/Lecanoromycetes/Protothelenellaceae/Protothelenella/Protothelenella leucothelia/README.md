@@ -1,14 +1,13 @@
-Verrucaria leucothelia Nyl. SPECIES
-=======
+# Protothelenella leucothelia (Nyl.) H. Mayrhofer & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 8: 170 (1866)
+Herzogia 7(1-2): 45 (1985)
 
 #### Original name
 Verrucaria leucothelia Nyl.

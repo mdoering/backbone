@@ -1,5 +1,4 @@
-Clypeosphaeria radicicola Teng SPECIES
-=======
+# Clypeosphaeria radicicola Teng SPECIES
 
 #### Status
 ACCEPTED

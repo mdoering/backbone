@@ -1,5 +1,4 @@
-Antrodia rupamii Virdi, 1992 SPECIES
-=======
+# Antrodia rupamii Virdi, 1992 SPECIES
 
 #### Status
 ACCEPTED

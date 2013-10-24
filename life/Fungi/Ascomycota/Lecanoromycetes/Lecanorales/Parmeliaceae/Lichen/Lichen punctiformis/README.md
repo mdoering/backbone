@@ -1,5 +1,4 @@
-Lichen punctiformis Hoffm. SPECIES
-=======
+# Lichen punctiformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

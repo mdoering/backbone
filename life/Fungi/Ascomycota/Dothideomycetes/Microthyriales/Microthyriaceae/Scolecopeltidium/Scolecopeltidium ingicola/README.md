@@ -1,5 +1,4 @@
-Scolecopeltidium ingicola Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium ingicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

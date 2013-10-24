@@ -1,5 +1,4 @@
-Uredo khandalensis Sathe & Rahalkar {?} SPECIES
-=======
+# Uredo khandalensis Sathe & Rahalkar {?} SPECIES
 
 #### Status
 ACCEPTED

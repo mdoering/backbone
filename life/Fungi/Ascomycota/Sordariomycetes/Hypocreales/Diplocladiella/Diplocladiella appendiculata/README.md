@@ -1,5 +1,4 @@
-Diplocladiella appendiculata Nawawi SPECIES
-=======
+# Diplocladiella appendiculata Nawawi SPECIES
 
 #### Status
 ACCEPTED

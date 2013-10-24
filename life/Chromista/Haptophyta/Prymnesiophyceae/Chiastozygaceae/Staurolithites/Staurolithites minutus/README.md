@@ -1,5 +1,4 @@
-Staurolithites minutus SPECIES
-=======
+# Staurolithites minutus SPECIES
 
 #### Status
 ACCEPTED

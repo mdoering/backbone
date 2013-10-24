@@ -1,5 +1,4 @@
-Coniophora ozonioides Lib. SPECIES
-=======
+# Coniophora ozonioides Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina semirigida Müll. Arg. SPECIES
-=======
+# Graphina semirigida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

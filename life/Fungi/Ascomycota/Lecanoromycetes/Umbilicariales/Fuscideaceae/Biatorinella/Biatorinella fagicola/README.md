@@ -1,5 +1,4 @@
-Biatorinella fagicola (Zschacke) Dechatres & Werner SPECIES
-=======
+# Biatorinella fagicola (Zschacke) Dechatres & Werner SPECIES
 
 #### Status
 ACCEPTED

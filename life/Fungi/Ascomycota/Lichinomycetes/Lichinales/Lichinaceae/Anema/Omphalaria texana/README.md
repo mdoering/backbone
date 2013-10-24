@@ -1,5 +1,4 @@
-Omphalaria texana (Tuck.) Tuck. SPECIES
-=======
+# Omphalaria texana (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

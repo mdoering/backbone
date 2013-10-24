@@ -1,5 +1,4 @@
-Edaphospathula brachycaryon Foissner & Xu, 2007 SPECIES
-=======
+# Edaphospathula brachycaryon Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

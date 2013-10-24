@@ -1,5 +1,4 @@
-Protoglossum niphophilum Trappe & Claridge, 2003 SPECIES
-=======
+# Protoglossum niphophilum Trappe & Claridge, 2003 SPECIES
 
 #### Status
 ACCEPTED

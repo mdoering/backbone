@@ -1,5 +1,4 @@
-Arthonia amboinensis Müll. Arg. SPECIES
-=======
+# Arthonia amboinensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

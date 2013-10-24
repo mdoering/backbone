@@ -1,5 +1,4 @@
-Oolithotus Reinhardt, 1968 GENUS
-=======
+# Oolithotus Reinhardt, 1968 GENUS
 
 #### Status
 ACCEPTED

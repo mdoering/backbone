@@ -1,17 +1,16 @@
-Cortinarius valgus subsp. camurus (Fr.) Melot SUBSPECIES
-=======
+# Cortinarius valgus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 20(no. 80): 70 (1990)
+Epicr. syst. mycol. (Upsaliae) 290 (1838)
 
 #### Original name
-Cortinarius camurus Fr., 1838
+Cortinarius valgus Fr., 1838
 
 ### Remarks
 null

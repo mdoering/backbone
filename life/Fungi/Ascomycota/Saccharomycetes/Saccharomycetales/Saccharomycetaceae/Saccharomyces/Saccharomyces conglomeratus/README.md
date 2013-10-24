@@ -1,5 +1,4 @@
-Saccharomyces conglomeratus Reess SPECIES
-=======
+# Saccharomyces conglomeratus Reess SPECIES
 
 #### Status
 ACCEPTED

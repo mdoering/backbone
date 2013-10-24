@@ -1,5 +1,4 @@
-Laurera chrysoglypha (Vain.) Zahlbr. SPECIES
-=======
+# Laurera chrysoglypha (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gongylia cinerea Zahlbr. SPECIES
-=======
+# Gongylia cinerea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

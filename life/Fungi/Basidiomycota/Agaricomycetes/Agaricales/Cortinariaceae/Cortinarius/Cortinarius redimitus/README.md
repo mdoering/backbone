@@ -1,5 +1,4 @@
-Cortinarius redimitus Fr. SPECIES
-=======
+# Cortinarius redimitus Fr. SPECIES
 
 #### Status
 ACCEPTED

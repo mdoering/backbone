@@ -1,5 +1,4 @@
-Phialophorophoma Linder GENUS
-=======
+# Phialophorophoma Linder GENUS
 
 #### Status
 ACCEPTED

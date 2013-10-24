@@ -1,5 +1,4 @@
-Kathistaceae Malloch & M. Blackw. FAMILY
-=======
+# Kathistaceae Malloch & M. Blackw. FAMILY
 
 #### Status
 ACCEPTED

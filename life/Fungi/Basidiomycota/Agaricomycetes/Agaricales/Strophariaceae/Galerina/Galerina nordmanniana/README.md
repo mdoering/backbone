@@ -1,5 +1,4 @@
-Galerina nordmanniana A.H. Sm. & Singer SPECIES
-=======
+# Galerina nordmanniana A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

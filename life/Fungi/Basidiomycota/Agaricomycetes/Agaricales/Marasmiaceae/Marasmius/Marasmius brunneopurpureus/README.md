@@ -1,5 +1,4 @@
-Marasmius brunneopurpureus Métrod SPECIES
-=======
+# Marasmius brunneopurpureus Métrod SPECIES
 
 #### Status
 ACCEPTED

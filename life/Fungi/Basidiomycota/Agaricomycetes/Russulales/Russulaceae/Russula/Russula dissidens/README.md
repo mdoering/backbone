@@ -1,5 +1,4 @@
-Russula dissidens Zvára SPECIES
-=======
+# Russula dissidens Zvára SPECIES
 
 #### Status
 ACCEPTED

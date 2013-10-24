@@ -1,5 +1,4 @@
-Galerina laticeps A.H. Sm. SPECIES
-=======
+# Galerina laticeps A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

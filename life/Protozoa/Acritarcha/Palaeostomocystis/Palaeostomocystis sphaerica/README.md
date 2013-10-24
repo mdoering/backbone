@@ -1,5 +1,4 @@
-Palaeostomocystis sphaerica Deflandre, 1937 SPECIES
-=======
+# Palaeostomocystis sphaerica Deflandre, 1937 SPECIES
 
 #### Status
 ACCEPTED

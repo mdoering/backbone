@@ -1,5 +1,4 @@
-Entosiphon polyaulax Skuja SPECIES
-=======
+# Entosiphon polyaulax Skuja SPECIES
 
 #### Status
 ACCEPTED

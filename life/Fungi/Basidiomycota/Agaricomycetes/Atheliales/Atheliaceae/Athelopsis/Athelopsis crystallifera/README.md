@@ -1,5 +1,4 @@
-Athelopsis crystallifera (Rick) Hjortstam & Ryvarden SPECIES
-=======
+# Athelopsis crystallifera (Rick) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

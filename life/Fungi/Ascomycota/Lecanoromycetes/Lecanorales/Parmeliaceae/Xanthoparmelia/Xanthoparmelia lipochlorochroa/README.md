@@ -1,5 +1,4 @@
-Xanthoparmelia lipochlorochroa Hale & Elix SPECIES
-=======
+# Xanthoparmelia lipochlorochroa Hale & Elix SPECIES
 
 #### Status
 ACCEPTED

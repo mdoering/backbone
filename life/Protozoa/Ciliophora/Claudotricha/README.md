@@ -1,5 +1,4 @@
-Claudotricha Gajewskaja, 1925 GENUS
-=======
+# Claudotricha Gajewskaja, 1925 GENUS
 
 #### Status
 ACCEPTED

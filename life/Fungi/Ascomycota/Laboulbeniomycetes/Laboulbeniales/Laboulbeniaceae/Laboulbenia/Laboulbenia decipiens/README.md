@@ -1,5 +1,4 @@
-Laboulbenia decipiens Thaxt. SPECIES
-=======
+# Laboulbenia decipiens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

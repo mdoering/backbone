@@ -1,17 +1,16 @@
-Cucurbitaria ammodendroni Koshk. & Frolov SPECIES
-=======
+# Cucurbitaria ammodendri Koshk. & Frolov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikoflora Podgornoi Raviniy Kopetdaga i Tsentral'nykh Karakumov [Mycoflora of the mountainous plains of Kopet Dagh and Central Kara Kum] (Ashkhabad) 84 (1973)
 
 #### Original name
-Cucurbitaria ammodendroni Koshk. & Frolov
+Cucurbitaria ammodendri Koshk. & Frolov
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Placodium rubellianum (Ach.) Räsänen SPECIES
-=======
+# Placodium rubellianum (Ach.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexapyramis Squinabol, 1903 GENUS
-=======
+# Hexapyramis Squinabol, 1903 GENUS
 
 #### Status
 ACCEPTED

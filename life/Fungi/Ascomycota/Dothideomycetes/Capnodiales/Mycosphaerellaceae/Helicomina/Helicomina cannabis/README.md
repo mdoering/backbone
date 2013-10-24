@@ -1,5 +1,4 @@
-Helicomina cannabis Ponnappa SPECIES
-=======
+# Helicomina cannabis Ponnappa SPECIES
 
 #### Status
 ACCEPTED

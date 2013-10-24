@@ -1,5 +1,4 @@
-Apiosporium pulchrum Sacc. SPECIES
-=======
+# Apiosporium pulchrum Sacc. SPECIES
 
 #### Status
 ACCEPTED

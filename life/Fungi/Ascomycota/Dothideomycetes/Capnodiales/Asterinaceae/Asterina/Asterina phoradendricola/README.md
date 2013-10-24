@@ -1,5 +1,4 @@
-Asterina phoradendricola F. Stevens & Pollack, 1946 SPECIES
-=======
+# Asterina phoradendricola F. Stevens & Pollack, 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora caladicola Chupp SPECIES
-=======
+# Cercospora caladiicola Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 57 (1954)
 
 #### Original name
-Cercospora caladicola Chupp
+Cercospora caladiicola Chupp
 
 ### Remarks
 null

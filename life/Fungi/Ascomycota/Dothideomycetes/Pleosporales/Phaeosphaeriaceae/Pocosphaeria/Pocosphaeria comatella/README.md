@@ -1,5 +1,4 @@
-Pocosphaeria comatella (Cooke & Ellis) Sacc. SPECIES
-=======
+# Pocosphaeria comatella (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

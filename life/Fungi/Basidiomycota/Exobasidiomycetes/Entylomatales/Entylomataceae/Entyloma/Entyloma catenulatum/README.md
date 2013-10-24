@@ -1,5 +1,4 @@
-Entyloma catenulatum Rostr. SPECIES
-=======
+# Entyloma catenulatum Rostr. SPECIES
 
 #### Status
 ACCEPTED

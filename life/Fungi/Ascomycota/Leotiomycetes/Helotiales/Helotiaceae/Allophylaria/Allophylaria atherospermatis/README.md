@@ -1,17 +1,16 @@
-Allophylaria alherospermi G.W. Beaton SPECIES
-=======
+# Allophylaria atherospermatis G.W. Beaton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 70(1): 76 (1978)
 
 #### Original name
-Allophylaria alherospermi G.W. Beaton
+Allophylaria atherospermatis G.W. Beaton
 
 ### Remarks
 null

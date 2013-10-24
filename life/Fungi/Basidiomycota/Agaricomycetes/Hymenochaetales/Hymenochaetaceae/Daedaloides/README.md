@@ -1,5 +1,4 @@
-Daedaloides GENUS
-=======
+# Daedaloides GENUS
 
 #### Status
 ACCEPTED

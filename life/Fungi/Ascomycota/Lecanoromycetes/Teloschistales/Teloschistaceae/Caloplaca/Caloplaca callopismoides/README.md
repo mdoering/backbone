@@ -1,14 +1,13 @@
-Caloplaca callopismodes (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca callopismoides (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 83 (1930)
 
 #### Original name
 Lecanora callopismoides Müll. Arg.

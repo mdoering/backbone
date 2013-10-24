@@ -1,5 +1,4 @@
-Myriokaryon Jankowski, 1973 GENUS
-=======
+# Myriokaryon Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

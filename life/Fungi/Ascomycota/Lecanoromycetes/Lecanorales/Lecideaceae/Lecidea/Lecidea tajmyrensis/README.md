@@ -1,5 +1,4 @@
-Lecidea tajmyrensis Malme SPECIES
-=======
+# Lecidea tajmyrensis Malme SPECIES
 
 #### Status
 ACCEPTED

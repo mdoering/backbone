@@ -1,5 +1,4 @@
-Massarina purpurascens K.D. Hyde & Aptroot SPECIES
-=======
+# Massarina purpurascens K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

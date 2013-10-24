@@ -1,5 +1,4 @@
-Helicogloea irregularis L.S. Olive SPECIES
-=======
+# Helicogloea irregularis L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

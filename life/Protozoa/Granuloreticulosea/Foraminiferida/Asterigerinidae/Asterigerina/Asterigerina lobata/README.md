@@ -1,5 +1,4 @@
-Asterigerina lobata SPECIES
-=======
+# Asterigerina lobata SPECIES
 
 #### Status
 ACCEPTED

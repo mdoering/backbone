@@ -1,5 +1,4 @@
-Phomopsis seseli Lobik SPECIES
-=======
+# Phomopsis seseli Lobik SPECIES
 
 #### Status
 ACCEPTED

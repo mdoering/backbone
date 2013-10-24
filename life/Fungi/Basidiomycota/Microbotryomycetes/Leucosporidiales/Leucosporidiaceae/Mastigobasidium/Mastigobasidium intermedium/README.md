@@ -1,5 +1,4 @@
-Mastigobasidium intermedium Golubev, 1999 SPECIES
-=======
+# Mastigobasidium intermedium Golubev, 1999 SPECIES
 
 #### Status
 ACCEPTED

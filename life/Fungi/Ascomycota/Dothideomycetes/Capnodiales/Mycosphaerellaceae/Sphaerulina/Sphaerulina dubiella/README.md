@@ -1,5 +1,4 @@
-Sphaerulina dubiella (Nyl.) D. Hawksw., 1983 SPECIES
-=======
+# Sphaerulina dubiella (Nyl.) D. Hawksw., 1983 SPECIES
 
 #### Status
 ACCEPTED

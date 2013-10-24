@@ -1,5 +1,4 @@
-Periconia albiceps Peck SPECIES
-=======
+# Periconia albiceps Peck SPECIES
 
 #### Status
 ACCEPTED

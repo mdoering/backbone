@@ -1,17 +1,16 @@
-Parodiella perisporioides f. perisporioides FORM
-=======
+# Parodiella perisporioides (Berk. & M.A. Curtis) Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parodiella perisporioides f. perisporioides
+Dothidea perisporioides Berk. & M.A. Curtis, 1876
 
 ### Remarks
 null

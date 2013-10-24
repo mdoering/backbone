@@ -1,5 +1,4 @@
-Discina Naumova, 1960 GENUS
-=======
+# Discina Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

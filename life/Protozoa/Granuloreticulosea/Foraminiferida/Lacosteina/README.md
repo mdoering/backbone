@@ -1,5 +1,4 @@
-Lacosteina Marie, 1943 GENUS
-=======
+# Lacosteina Marie, 1943 GENUS
 
 #### Status
 ACCEPTED

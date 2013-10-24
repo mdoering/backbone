@@ -1,5 +1,4 @@
-Russula gigasperma Romagn., 1962 SPECIES
-=======
+# Russula gigasperma Romagn., 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triscelophorus magnificus R.H. Petersen, 1962 SPECIES
-=======
+# Triscelophorus magnificus R.H. Petersen, 1962 SPECIES
 
 #### Status
 ACCEPTED

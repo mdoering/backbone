@@ -1,5 +1,4 @@
-Chlamydiaceae Rake, 1957 FAMILY
-=======
+# Chlamydiaceae Rake, 1957 FAMILY
 
 #### Status
 ACCEPTED

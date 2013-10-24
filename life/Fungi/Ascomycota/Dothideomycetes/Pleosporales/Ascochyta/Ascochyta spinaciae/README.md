@@ -1,5 +1,4 @@
-Ascochyta spinaciae Bond.-Mont. SPECIES
-=======
+# Ascochyta spinaciae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

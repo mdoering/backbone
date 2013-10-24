@@ -1,17 +1,16 @@
-Agaricus radiatimplicatus Kalchbr. SPECIES
-=======
+# Agaricus radiatim-plicatus Kalchbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 9(no. 51): 113 (1881)
 
 #### Original name
-Agaricus radiatimplicatus Kalchbr.
+Agaricus radiatim-plicatus Kalchbr.
 
 ### Remarks
 null

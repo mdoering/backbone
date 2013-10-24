@@ -1,5 +1,4 @@
-Dextrinocystidium Sheng H. Wu GENUS
-=======
+# Dextrinocystidium Sheng H. Wu GENUS
 
 #### Status
 ACCEPTED

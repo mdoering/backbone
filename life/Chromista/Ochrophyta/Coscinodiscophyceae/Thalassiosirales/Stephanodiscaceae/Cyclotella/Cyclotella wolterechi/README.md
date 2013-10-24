@@ -1,5 +1,4 @@
-Cyclotella wolterechi SPECIES
-=======
+# Cyclotella wolterechi SPECIES
 
 #### Status
 ACCEPTED

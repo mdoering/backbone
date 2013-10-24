@@ -1,5 +1,4 @@
-Ganoderma umbraculum (Fr.) Pat. SPECIES
-=======
+# Ganoderma umbraculum (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

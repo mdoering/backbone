@@ -1,5 +1,4 @@
-Placolecania lecanorina (C. Knight) Zahlbr. SPECIES
-=======
+# Placolecania lecanorina (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

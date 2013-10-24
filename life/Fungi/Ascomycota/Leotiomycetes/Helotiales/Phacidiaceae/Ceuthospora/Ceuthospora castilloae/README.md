@@ -1,5 +1,4 @@
-Ceuthospora castilloae Gonz. Frag. & Cif. SPECIES
-=======
+# Ceuthospora castilloae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

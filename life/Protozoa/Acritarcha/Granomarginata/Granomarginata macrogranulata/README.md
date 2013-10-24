@@ -1,5 +1,4 @@
-Granomarginata macrogranulata Chibrikova, 1972 SPECIES
-=======
+# Granomarginata macrogranulata Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

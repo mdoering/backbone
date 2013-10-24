@@ -1,8 +1,7 @@
-Nevrophyllum ochraceus Pat. SPECIES
-=======
+# Nevrophyllum ochraceum Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nevrophyllum ochraceus Pat.
+Nevrophyllum ochraceum Pat.
 
 ### Remarks
 null

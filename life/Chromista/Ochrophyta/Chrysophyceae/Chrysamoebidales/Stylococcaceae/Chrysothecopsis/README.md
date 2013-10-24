@@ -1,5 +1,4 @@
-Chrysothecopsis W.Conrad, 1931 GENUS
-=======
+# Chrysothecopsis W.Conrad, 1931 GENUS
 
 #### Status
 ACCEPTED

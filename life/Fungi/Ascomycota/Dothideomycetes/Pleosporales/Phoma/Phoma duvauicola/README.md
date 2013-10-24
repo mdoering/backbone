@@ -1,5 +1,4 @@
-Phoma duvauicola Speg. SPECIES
-=======
+# Phoma duvauicola Speg. SPECIES
 
 #### Status
 ACCEPTED

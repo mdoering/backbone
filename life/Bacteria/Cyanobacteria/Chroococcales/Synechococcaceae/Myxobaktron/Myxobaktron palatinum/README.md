@@ -1,5 +1,4 @@
-Myxobaktron palatinum Schmidle SPECIES
-=======
+# Myxobaktron palatinum Schmidle SPECIES
 
 #### Status
 ACCEPTED

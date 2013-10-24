@@ -1,5 +1,4 @@
-Anthostomella callicarpae Katum. SPECIES
-=======
+# Anthostomella callicarpae Katum. SPECIES
 
 #### Status
 ACCEPTED

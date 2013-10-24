@@ -1,5 +1,4 @@
-Sagedia rubra (Sommerf.) Schaer. SPECIES
-=======
+# Sagedia rubra (Sommerf.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

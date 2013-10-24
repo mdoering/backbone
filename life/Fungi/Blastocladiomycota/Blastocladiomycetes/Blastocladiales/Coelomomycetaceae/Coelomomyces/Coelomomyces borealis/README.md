@@ -1,5 +1,4 @@
-Coelomomyces borealis Couch & Service SPECIES
-=======
+# Coelomomyces borealis Couch & Service SPECIES
 
 #### Status
 ACCEPTED

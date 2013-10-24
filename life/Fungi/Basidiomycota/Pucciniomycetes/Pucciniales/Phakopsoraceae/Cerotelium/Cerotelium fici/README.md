@@ -1,17 +1,16 @@
-Uredo fici var. fici VARIETY
-=======
+# Cerotelium fici (Castagne) Arthur, 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 44: 509 (1917)
 
 #### Original name
-Uredo fici var. fici
+Uredo fici Castagne, 1848
 
 ### Remarks
 null

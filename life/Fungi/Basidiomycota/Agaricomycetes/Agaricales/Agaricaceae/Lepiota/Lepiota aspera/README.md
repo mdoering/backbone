@@ -1,17 +1,16 @@
-Echinoderma acutesquamosum f. acutesquamosum FORM
-=======
+# Lepiota aspera (Pers.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 22(no. 88): 28 (1993)
+Enchir. fung. (Paris) 5 (1886)
 
 #### Original name
-Echinoderma acutesquamosum f. acutesquamosum
+Agaricus asper Pers., 1793
 
 ### Remarks
 null

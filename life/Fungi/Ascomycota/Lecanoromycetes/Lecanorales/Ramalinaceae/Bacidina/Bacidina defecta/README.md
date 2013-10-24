@@ -1,14 +1,13 @@
-Woessia defecta (Vezda) Sérus. SPECIES
-=======
+# Bacidina defecta Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 58: 420 (1995)
+Nova Hedwigia 58(1-2): 124 (1994)
 
 #### Original name
 Bacidina defecta Vezda

@@ -1,14 +1,13 @@
-Cystophora fruticosum (Link) Rabenh. SPECIES
-=======
+# Coelosporium fruticulosum Link, 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 46 (1824)
 
 #### Original name
 Coelosporium fruticulosum Link, 1824

@@ -1,5 +1,4 @@
-Rotiferophthora ellipsospora Glockling SPECIES
-=======
+# Rotiferophthora ellipsospora Glockling SPECIES
 
 #### Status
 ACCEPTED

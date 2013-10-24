@@ -1,5 +1,4 @@
-Thecographa crassilabra (Mont. & Bosch) A. Massal. SPECIES
-=======
+# Thecographa crassilabra (Mont. & Bosch) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

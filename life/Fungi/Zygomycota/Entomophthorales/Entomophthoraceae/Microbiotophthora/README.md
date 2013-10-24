@@ -1,5 +1,4 @@
-Microbiotophthora GENUS
-=======
+# Microbiotophthora GENUS
 
 #### Status
 ACCEPTED

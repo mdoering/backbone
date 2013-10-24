@@ -1,5 +1,4 @@
-Pseudo-eunotia Grunow, 1881 GENUS
-=======
+# Pseudo-eunotia Grunow, 1881 GENUS
 
 #### Status
 SYNONYM

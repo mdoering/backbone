@@ -1,5 +1,4 @@
-Pleurotus puttemansii Henn. SPECIES
-=======
+# Pleurotus puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia fimbristylidis-miliaceae Sawada SPECIES
-=======
+# Cintractia fimbristylidis-miliaceae Sawada SPECIES
 
 #### Status
 ACCEPTED

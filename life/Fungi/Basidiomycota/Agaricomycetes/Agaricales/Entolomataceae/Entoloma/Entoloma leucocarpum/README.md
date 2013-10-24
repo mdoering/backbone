@@ -1,5 +1,4 @@
-Entoloma leucocarpum Noordel. SPECIES
-=======
+# Entoloma leucocarpum Noordel. SPECIES
 
 #### Status
 ACCEPTED

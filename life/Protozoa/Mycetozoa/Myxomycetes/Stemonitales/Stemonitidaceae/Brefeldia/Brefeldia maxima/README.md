@@ -1,17 +1,16 @@
-Brefeldia maxima var. sibirica Lavrov VARIETY
-=======
+# Brefeldia maxima (Fr.) Rostaf., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Vers. Syst. Mycetozoen (Strassburg) 8 (1873)
 
 #### Original name
-Brefeldia maxima var. sibirica Lavrov
+Reticularia maxima Corda
 
 ### Remarks
 null

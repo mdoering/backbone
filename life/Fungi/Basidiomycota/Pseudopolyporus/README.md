@@ -1,5 +1,4 @@
-Pseudopolyporus Hollick GENUS
-=======
+# Pseudopolyporus Hollick GENUS
 
 #### Status
 ACCEPTED

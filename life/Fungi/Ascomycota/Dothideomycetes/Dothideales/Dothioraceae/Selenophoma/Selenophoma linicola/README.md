@@ -1,5 +1,4 @@
-Selenophoma linicola Vanterp., 1947 SPECIES
-=======
+# Selenophoma linicola Vanterp., 1947 SPECIES
 
 #### Status
 ACCEPTED

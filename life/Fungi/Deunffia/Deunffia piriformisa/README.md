@@ -1,5 +1,4 @@
-Deunffia piriformisa Ye Xiarong, 1984 SPECIES
-=======
+# Deunffia piriformisa Ye Xiarong, 1984 SPECIES
 
 #### Status
 ACCEPTED

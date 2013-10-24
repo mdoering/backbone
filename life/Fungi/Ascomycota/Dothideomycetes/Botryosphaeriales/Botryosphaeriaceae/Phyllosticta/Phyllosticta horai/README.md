@@ -1,5 +1,4 @@
-Phyllosticta horai Hara ex Togashi SPECIES
-=======
+# Phyllosticta horai Hara ex Togashi SPECIES
 
 #### Status
 ACCEPTED

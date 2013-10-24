@@ -1,14 +1,13 @@
-Pluteolus luteus Peck, 1895 SPECIES
-=======
+# Bolbitius luteus (Peck) Watling, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 22: 203 (1895)
+in Watling & Gregory, Biblthca Mycol. 82: 78 (1981)
 
 #### Original name
 Pluteolus luteus Peck, 1895

@@ -1,5 +1,4 @@
-Platygrapha subreticulata Berk. & Broome SPECIES
-=======
+# Platygrapha subreticulata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

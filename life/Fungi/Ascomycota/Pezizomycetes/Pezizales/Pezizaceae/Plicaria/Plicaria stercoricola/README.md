@@ -1,5 +1,4 @@
-Plicaria stercoricola (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Plicaria stercoricola (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

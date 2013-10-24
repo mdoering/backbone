@@ -1,5 +1,4 @@
-Alexandrium foedum Balech SPECIES
-=======
+# Alexandrium foedum Balech SPECIES
 
 #### Status
 ACCEPTED

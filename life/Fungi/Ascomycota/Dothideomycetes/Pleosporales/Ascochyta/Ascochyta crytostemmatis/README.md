@@ -1,5 +1,4 @@
-Ascochyta crytostemmatis McAlpine SPECIES
-=======
+# Ascochyta crytostemmatis McAlpine SPECIES
 
 #### Status
 ACCEPTED

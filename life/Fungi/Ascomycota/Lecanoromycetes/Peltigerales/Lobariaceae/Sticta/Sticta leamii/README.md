@@ -1,5 +1,4 @@
-Sticta leamii Zahlbr. SPECIES
-=======
+# Sticta leamii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

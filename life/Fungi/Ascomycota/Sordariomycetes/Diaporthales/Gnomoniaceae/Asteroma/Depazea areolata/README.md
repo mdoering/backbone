@@ -1,5 +1,4 @@
-Depazea areolata Thüm. SPECIES
-=======
+# Depazea areolata Thüm. SPECIES
 
 #### Status
 ACCEPTED

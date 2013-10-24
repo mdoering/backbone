@@ -1,5 +1,4 @@
-Septoria lapsanae Bernaux SPECIES
-=======
+# Septoria lapsanae Bernaux SPECIES
 
 #### Status
 ACCEPTED

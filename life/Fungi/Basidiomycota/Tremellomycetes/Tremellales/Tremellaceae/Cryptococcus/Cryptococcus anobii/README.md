@@ -1,5 +1,4 @@
-Cryptococcus anobii Guég. SPECIES
-=======
+# Cryptococcus anobii Guég. SPECIES
 
 #### Status
 ACCEPTED

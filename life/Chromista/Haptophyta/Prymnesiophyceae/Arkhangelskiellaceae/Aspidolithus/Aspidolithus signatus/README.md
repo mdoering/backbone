@@ -1,5 +1,4 @@
-Aspidolithus signatus Noël, 1969 SPECIES
-=======
+# Aspidolithus signatus Noël, 1969 SPECIES
 
 #### Status
 ACCEPTED

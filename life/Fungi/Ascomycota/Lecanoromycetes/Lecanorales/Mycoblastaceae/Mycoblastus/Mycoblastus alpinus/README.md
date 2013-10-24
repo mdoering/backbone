@@ -1,17 +1,16 @@
-Mycoblastus alpinus var. alpinus (Fr.) Hellb. VARIETY
-=======
+# Mycoblastus alpinus (Fr.) Th. Fr. ex Hellb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sched. Fl. Austr. -Hung. 6: 121 (1893)
 
 #### Original name
-Mycoblastus alpinus var. alpinus (Fr.) Hellb.
+Lecidea sanguinaria var. alpina Fr.
 
 ### Remarks
 null

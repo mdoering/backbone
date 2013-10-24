@@ -1,5 +1,4 @@
-Diplodia carpini Sacc. SPECIES
-=======
+# Diplodia carpini Sacc. SPECIES
 
 #### Status
 ACCEPTED

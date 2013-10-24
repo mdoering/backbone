@@ -1,5 +1,4 @@
-Pseudophoma dictamni (Fuckel) Höhn. SPECIES
-=======
+# Pseudophoma dictamni (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

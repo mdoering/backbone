@@ -1,5 +1,4 @@
-Septoria equisetaria P. Karst. SPECIES
-=======
+# Septoria equisetaria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

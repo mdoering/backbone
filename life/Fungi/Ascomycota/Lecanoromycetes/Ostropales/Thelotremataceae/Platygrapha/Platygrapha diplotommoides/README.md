@@ -1,5 +1,4 @@
-Platygrapha diplotommoides (Bagl.) Jatta SPECIES
-=======
+# Platygrapha diplotommoides (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

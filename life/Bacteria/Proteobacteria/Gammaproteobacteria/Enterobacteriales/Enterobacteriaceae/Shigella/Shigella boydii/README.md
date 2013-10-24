@@ -1,5 +1,4 @@
-Shigella boydii Ewing, 1949 (Approved Lists, 1980) SPECIES
-=======
+# Shigella boydii Ewing, 1949 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

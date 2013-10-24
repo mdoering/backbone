@@ -1,5 +1,4 @@
-Mycena floridula Secr., 1877 SPECIES
-=======
+# Mycena floridula Secr., 1877 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium ischaemi (L. Ling) Vánky SPECIES
-=======
+# Sporisorium ischaemi (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

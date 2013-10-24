@@ -1,5 +1,4 @@
-Woodringina Loeblich & Tappan, 1957 GENUS
-=======
+# Woodringina Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

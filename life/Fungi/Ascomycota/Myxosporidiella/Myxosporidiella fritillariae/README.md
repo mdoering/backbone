@@ -1,5 +1,4 @@
-Myxosporidiella fritillariae Negru, 1960 SPECIES
-=======
+# Myxosporidiella fritillariae Negru, 1960 SPECIES
 
 #### Status
 ACCEPTED

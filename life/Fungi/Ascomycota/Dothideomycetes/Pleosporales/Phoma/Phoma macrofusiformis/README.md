@@ -1,17 +1,16 @@
-Phoma macrofusiformia Matsush. SPECIES
-=======
+# Phoma macrofusiformis Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 20 (1996)
 
 #### Original name
-Phoma macrofusiformia Matsush.
+Phoma macrofusiformis Matsush.
 
 ### Remarks
 null

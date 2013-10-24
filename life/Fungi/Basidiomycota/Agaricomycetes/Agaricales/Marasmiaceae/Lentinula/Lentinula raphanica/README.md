@@ -1,14 +1,13 @@
-Armillaria raphanica Murrill, 1943 SPECIES
-=======
+# Lentinula raphanica (Murrill) Mata & R.H. Petersen, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(4): 423 (1943)
+Mycotaxon 79: 228 (2001)
 
 #### Original name
 Armillaria raphanica Murrill, 1943

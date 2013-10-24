@@ -1,5 +1,4 @@
-Entoloma exiguum Esteve-Rav. & M. de la Cruz SPECIES
-=======
+# Entoloma exiguum Esteve-Rav. & M. de la Cruz SPECIES
 
 #### Status
 ACCEPTED

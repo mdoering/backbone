@@ -1,5 +1,4 @@
-Cortinarius flammuloides E. Horak & M.M. Moser, 1975 SPECIES
-=======
+# Cortinarius flammuloides E. Horak & M.M. Moser, 1975 SPECIES
 
 #### Status
 ACCEPTED

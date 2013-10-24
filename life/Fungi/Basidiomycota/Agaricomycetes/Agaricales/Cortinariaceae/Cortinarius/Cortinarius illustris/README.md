@@ -1,5 +1,4 @@
-Cortinarius illustris Herp. SPECIES
-=======
+# Cortinarius illustris Herp. SPECIES
 
 #### Status
 ACCEPTED

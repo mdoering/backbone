@@ -1,5 +1,4 @@
-Phyllosticta bonduc F. Stevens SPECIES
-=======
+# Phyllosticta bonduc F. Stevens SPECIES
 
 #### Status
 ACCEPTED

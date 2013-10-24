@@ -1,5 +1,4 @@
-Ctenomyces denticulatus (Sabour.) Nann. SPECIES
-=======
+# Ctenomyces denticulatus (Sabour.) Nann. SPECIES
 
 #### Status
 ACCEPTED

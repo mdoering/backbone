@@ -1,5 +1,4 @@
-Acarospora japonica Hue SPECIES
-=======
+# Acarospora japonica Hue SPECIES
 
 #### Status
 ACCEPTED

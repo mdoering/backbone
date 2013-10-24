@@ -1,5 +1,4 @@
-Thelotrema infundibularis Tat. Matsumoto SPECIES
-=======
+# Thelotrema infundibularis Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

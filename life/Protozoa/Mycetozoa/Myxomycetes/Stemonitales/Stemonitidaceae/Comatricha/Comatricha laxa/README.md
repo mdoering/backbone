@@ -1,17 +1,16 @@
-Comatricha macrosperma var. obovata Racib. VARIETY
-=======
+# Comatricha laxa Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 201 (1875)
 
 #### Original name
-Comatricha macrosperma var. obovata Racib.
+Comatricha laxa Rostaf., 1874
 
 ### Remarks
 null

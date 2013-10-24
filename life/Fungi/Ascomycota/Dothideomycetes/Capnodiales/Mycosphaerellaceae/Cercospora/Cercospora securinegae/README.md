@@ -1,5 +1,4 @@
-Cercospora securinegae M.S. Patil, 1976 SPECIES
-=======
+# Cercospora securinegae M.S. Patil, 1976 SPECIES
 
 #### Status
 ACCEPTED

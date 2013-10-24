@@ -1,5 +1,4 @@
-Boletus satisfactus Corner SPECIES
-=======
+# Boletus satisfactus Corner SPECIES
 
 #### Status
 ACCEPTED

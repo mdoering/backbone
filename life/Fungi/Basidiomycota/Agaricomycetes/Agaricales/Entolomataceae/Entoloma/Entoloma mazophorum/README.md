@@ -1,5 +1,4 @@
-Entoloma mazophorum Berk. & Broome SPECIES
-=======
+# Entoloma mazophorum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

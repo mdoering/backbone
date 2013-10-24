@@ -1,5 +1,4 @@
-Stenosemella avellana Meunier, 1919 SPECIES
-=======
+# Stenosemella avellana Meunier, 1919 SPECIES
 
 #### Status
 ACCEPTED

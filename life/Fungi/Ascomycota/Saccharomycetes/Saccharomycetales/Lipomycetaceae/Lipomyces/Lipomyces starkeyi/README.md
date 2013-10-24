@@ -1,5 +1,4 @@
-Lipomyces starkeyi Lodder & Kreger-van Rij, 1952 SPECIES
-=======
+# Lipomyces starkeyi Lodder & Kreger-van Rij, 1952 SPECIES
 
 #### Status
 ACCEPTED

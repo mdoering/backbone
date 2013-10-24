@@ -1,5 +1,4 @@
-Fusarium brachygibbosum Padwick, 1945 SPECIES
-=======
+# Fusarium brachygibbosum Padwick, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pachysoma B. D. Ryan & Poelt SPECIES
-=======
+# Lecanora pachysoma B. D. Ryan & Poelt SPECIES
 
 #### Status
 ACCEPTED

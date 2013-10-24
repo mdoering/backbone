@@ -1,5 +1,4 @@
-Physalospora melastomatis Sawada SPECIES
-=======
+# Physalospora melastomatis Sawada SPECIES
 
 #### Status
 ACCEPTED

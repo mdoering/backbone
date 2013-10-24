@@ -1,5 +1,4 @@
-Buedingiisphaeridium lunatum Le Hérissé, 1989 SPECIES
-=======
+# Buedingiisphaeridium lunatum Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

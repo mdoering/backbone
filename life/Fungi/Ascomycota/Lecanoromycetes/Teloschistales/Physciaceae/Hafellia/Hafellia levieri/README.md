@@ -1,14 +1,13 @@
-Buellia levieri Jatta SPECIES
-=======
+# Hafellia levieri (Jatta) Pusswald & Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boll. Soc. bot. ital. 258 (1911)
+in Pusswald et al. , Muelleria 8(2): 138 (1994)
 
 #### Original name
 Buellia levieri Jatta

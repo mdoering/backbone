@@ -1,5 +1,4 @@
-Ascochyta pallida Kabát & Bubák SPECIES
-=======
+# Ascochyta pallida Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

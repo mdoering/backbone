@@ -1,5 +1,4 @@
-Rinodina interrupta H. Magn. SPECIES
-=======
+# Rinodina interrupta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

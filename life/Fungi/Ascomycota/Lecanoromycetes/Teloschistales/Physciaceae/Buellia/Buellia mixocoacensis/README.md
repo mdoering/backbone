@@ -1,5 +1,4 @@
-Buellia mixocoacensis B. de Lesd. SPECIES
-=======
+# Buellia mixocoacensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

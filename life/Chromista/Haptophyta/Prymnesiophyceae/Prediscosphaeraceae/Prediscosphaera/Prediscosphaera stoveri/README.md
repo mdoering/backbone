@@ -1,8 +1,7 @@
-Prediscosphaera germanica Bukry, 1969 SPECIES
-=======
+# Prediscosphaera stoveri (Perch-Nielsen, 1968) Shafik & Stradner, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

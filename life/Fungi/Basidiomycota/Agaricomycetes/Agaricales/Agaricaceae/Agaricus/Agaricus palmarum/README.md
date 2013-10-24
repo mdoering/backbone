@@ -1,5 +1,4 @@
-Agaricus palmarum F. Brig. SPECIES
-=======
+# Agaricus palmarum F. Brig. SPECIES
 
 #### Status
 ACCEPTED

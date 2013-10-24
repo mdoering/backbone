@@ -1,5 +1,4 @@
-Chlorogloea cuauhtemocii J. Komárek & G. Montejano SPECIES
-=======
+# Chlorogloea cuauhtemocii J. Komárek & G. Montejano SPECIES
 
 #### Status
 ACCEPTED

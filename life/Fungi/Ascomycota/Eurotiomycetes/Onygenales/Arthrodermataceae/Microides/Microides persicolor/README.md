@@ -1,5 +1,4 @@
-Microides persicolor (Sabour.) De Vroey SPECIES
-=======
+# Microides persicolor (Sabour.) De Vroey SPECIES
 
 #### Status
 ACCEPTED

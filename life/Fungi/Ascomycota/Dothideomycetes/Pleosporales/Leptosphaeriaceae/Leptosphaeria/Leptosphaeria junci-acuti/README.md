@@ -1,5 +1,4 @@
-Leptosphaeria junci-acuti Gonz. Frag. SPECIES
-=======
+# Leptosphaeria junci-acuti Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

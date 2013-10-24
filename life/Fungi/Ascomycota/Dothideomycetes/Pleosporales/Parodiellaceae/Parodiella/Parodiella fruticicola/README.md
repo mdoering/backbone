@@ -1,5 +1,4 @@
-Parodiella fruticicola Ellis & Everh. SPECIES
-=======
+# Parodiella fruticicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

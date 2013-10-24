@@ -1,5 +1,4 @@
-Blastocladiella stuebenii Couch & Whiffen SPECIES
-=======
+# Blastocladiella stuebenii Couch & Whiffen SPECIES
 
 #### Status
 ACCEPTED

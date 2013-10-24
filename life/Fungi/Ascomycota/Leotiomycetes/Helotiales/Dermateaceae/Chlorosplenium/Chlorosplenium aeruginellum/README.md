@@ -1,5 +1,4 @@
-Chlorosplenium aeruginellum (P. Karst.) P. Karst. SPECIES
-=======
+# Chlorosplenium aeruginellum (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

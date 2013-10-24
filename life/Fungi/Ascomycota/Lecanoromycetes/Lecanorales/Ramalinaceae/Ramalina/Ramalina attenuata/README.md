@@ -1,5 +1,4 @@
-Ramalina attenuata (Pers.) Howe SPECIES
-=======
+# Ramalina attenuata (Pers.) Howe SPECIES
 
 #### Status
 ACCEPTED

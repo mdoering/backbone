@@ -1,8 +1,7 @@
-Hexamita phycidis Lavier, 1936 SPECIES
-=======
+# Spironucleus phycidis (Lavier, 1936) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

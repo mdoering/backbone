@@ -1,5 +1,4 @@
-Amanita gwyniana Coker SPECIES
-=======
+# Amanita gwyniana Coker SPECIES
 
 #### Status
 ACCEPTED

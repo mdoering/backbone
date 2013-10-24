@@ -1,5 +1,4 @@
-Domasia amphora Martin, 1969 emend. Hill, 1974 SPECIES
-=======
+# Domasia amphora Martin, 1969 emend. Hill, 1974 SPECIES
 
 #### Status
 ACCEPTED

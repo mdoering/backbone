@@ -1,5 +1,4 @@
-Aegeritoidea foliicola ined. SPECIES
-=======
+# Aegeritoidea foliicola ined. SPECIES
 
 #### Status
 ACCEPTED

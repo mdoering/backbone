@@ -1,5 +1,4 @@
-Chalara distans McKenzie, 1993 SPECIES
-=======
+# Chalara distans McKenzie, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Streptococcus garvieae Collins et al., 1984 SPECIES
-=======
+# Lactococcus garvieae (Collins et al., 1984) Schleifer et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Phaeosphaeria cassiaecola (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Phaeosphaeria cassiicola (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Barr, Huhndorf & Rogerson, Mem. N. Y. bot. Gdn 79: 19 (1996)
 
 #### Original name
 Leptosphaeria cassiicola Ellis & Everh.

@@ -1,5 +1,4 @@
-Isaria repens Cooke SPECIES
-=======
+# Isaria repens Cooke SPECIES
 
 #### Status
 ACCEPTED

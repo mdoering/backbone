@@ -1,5 +1,4 @@
-Mycena viscidocruenta Cleland, 1924 SPECIES
-=======
+# Mycena viscidocruenta Cleland, 1924 SPECIES
 
 #### Status
 ACCEPTED

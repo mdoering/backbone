@@ -1,5 +1,4 @@
-Ephebe lesquereuxii Bornm. SPECIES
-=======
+# Ephebe lesquereuxii Bornm. SPECIES
 
 #### Status
 ACCEPTED

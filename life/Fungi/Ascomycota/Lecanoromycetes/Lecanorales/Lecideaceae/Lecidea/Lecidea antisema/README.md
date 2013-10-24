@@ -1,5 +1,4 @@
-Lecidea antisema Müll. Arg. SPECIES
-=======
+# Lecidea antisema Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

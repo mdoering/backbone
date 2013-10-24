@@ -1,5 +1,4 @@
-Myxotrichum bicolor (Ehrenb.) Fr. SPECIES
-=======
+# Myxotrichum bicolor (Ehrenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

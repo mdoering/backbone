@@ -1,5 +1,4 @@
-Torula annulata F.C. Harrison SPECIES
-=======
+# Torula annulata F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

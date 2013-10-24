@@ -1,5 +1,4 @@
-Cerataulus laevis (Ehrenberg) Ralfs SPECIES
-=======
+# Cerataulus laevis (Ehrenberg) Ralfs SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe asema Singer SPECIES
-=======
+# Clitocybe asema Singer SPECIES
 
 #### Status
 ACCEPTED

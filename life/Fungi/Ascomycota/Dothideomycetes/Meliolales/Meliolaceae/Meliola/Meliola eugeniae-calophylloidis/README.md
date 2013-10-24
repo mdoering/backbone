@@ -1,5 +1,4 @@
-Meliola eugeniae-calophylloidis Hansf. & Deighton SPECIES
-=======
+# Meliola eugeniae-calophylloidis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

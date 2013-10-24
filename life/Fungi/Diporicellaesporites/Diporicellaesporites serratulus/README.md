@@ -1,5 +1,4 @@
-Diporicellaesporites serratulus Traverse & Ash SPECIES
-=======
+# Diporicellaesporites serratulus Traverse & Ash SPECIES
 
 #### Status
 ACCEPTED

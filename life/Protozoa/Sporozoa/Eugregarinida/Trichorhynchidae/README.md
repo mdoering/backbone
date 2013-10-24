@@ -1,5 +1,4 @@
-Trichorhynchidae FAMILY
-=======
+# Trichorhynchidae FAMILY
 
 #### Status
 ACCEPTED

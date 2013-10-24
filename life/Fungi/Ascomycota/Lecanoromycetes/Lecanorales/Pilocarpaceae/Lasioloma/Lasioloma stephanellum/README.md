@@ -1,5 +1,4 @@
-Lasioloma stephanellum (Nyl.) Lücking & Sérus. SPECIES
-=======
+# Lasioloma stephanellum (Nyl.) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

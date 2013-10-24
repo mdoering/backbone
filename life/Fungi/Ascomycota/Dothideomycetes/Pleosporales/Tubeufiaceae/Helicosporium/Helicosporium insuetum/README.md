@@ -1,5 +1,4 @@
-Helicosporium insuetum Petr. SPECIES
-=======
+# Helicosporium insuetum Petr. SPECIES
 
 #### Status
 ACCEPTED

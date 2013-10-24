@@ -1,5 +1,4 @@
-Aleuria aphanodictyon Kobayasi SPECIES
-=======
+# Aleuria aphanodictyon Kobayasi SPECIES
 
 #### Status
 ACCEPTED

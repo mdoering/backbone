@@ -1,5 +1,4 @@
-Prospodium medusae (Speg.) Cummins SPECIES
-=======
+# Prospodium medusae (Speg.) Cummins SPECIES
 
 #### Status
 ACCEPTED

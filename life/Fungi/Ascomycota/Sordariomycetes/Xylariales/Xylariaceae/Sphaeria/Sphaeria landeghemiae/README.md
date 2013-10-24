@@ -1,5 +1,4 @@
-Sphaeria landeghemiae Westend. SPECIES
-=======
+# Sphaeria landeghemiae Westend. SPECIES
 
 #### Status
 ACCEPTED

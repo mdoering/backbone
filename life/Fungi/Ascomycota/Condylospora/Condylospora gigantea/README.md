@@ -1,5 +1,4 @@
-Condylospora gigantea Nawawi & Kuthub., 1988 SPECIES
-=======
+# Condylospora gigantea Nawawi & Kuthub., 1988 SPECIES
 
 #### Status
 ACCEPTED

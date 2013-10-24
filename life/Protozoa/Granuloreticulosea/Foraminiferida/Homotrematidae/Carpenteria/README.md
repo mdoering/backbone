@@ -1,14 +1,13 @@
-Carpentaria Gray, 1858 GENUS
-=======
+# Carpenteria Gray, 1858 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Zool. Soc. London, 26, 269.
 
 #### Original name
 null

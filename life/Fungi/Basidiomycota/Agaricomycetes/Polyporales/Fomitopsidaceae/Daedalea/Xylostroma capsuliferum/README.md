@@ -1,5 +1,4 @@
-Xylostroma capsuliferum Speg. & Roum. SPECIES
-=======
+# Xylostroma capsuliferum Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

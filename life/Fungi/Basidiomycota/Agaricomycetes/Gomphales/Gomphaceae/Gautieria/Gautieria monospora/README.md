@@ -1,5 +1,4 @@
-Gautieria monospora G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Gautieria monospora G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

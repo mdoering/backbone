@@ -1,5 +1,4 @@
-Viridiannula Etayo GENUS
-=======
+# Viridiannula Etayo GENUS
 
 #### Status
 ACCEPTED

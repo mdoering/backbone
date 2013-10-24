@@ -1,5 +1,4 @@
-Phlegmacium fuscomaculatum var. fuscomaculatum VARIETY
-=======
+# Phlegmacium fuscomaculatum (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Die Gattung Phlegmacium (Schleimköpfe). Die Pilze Mitteleuropas 4 203 (1960)
 
 #### Original name
-Phlegmacium fuscomaculatum var. fuscomaculatum
+Cortinarius fuscomaculatus Jul. Schäff.
 
 ### Remarks
 null

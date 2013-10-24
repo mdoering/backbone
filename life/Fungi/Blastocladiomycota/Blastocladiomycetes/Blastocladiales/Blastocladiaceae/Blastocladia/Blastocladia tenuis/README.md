@@ -1,5 +1,4 @@
-Blastocladia tenuis Kanouse SPECIES
-=======
+# Blastocladia tenuis Kanouse SPECIES
 
 #### Status
 ACCEPTED

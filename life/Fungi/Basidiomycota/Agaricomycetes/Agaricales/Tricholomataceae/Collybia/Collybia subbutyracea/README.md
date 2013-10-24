@@ -1,5 +1,4 @@
-Collybia subbutyracea (Britzelm.) Sacc. SPECIES
-=======
+# Collybia subbutyracea (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

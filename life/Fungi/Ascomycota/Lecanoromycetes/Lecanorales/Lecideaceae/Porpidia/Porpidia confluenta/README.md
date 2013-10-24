@@ -1,5 +1,4 @@
-Porpidia confluenta Fryday SPECIES
-=======
+# Porpidia confluenta Fryday SPECIES
 
 #### Status
 ACCEPTED

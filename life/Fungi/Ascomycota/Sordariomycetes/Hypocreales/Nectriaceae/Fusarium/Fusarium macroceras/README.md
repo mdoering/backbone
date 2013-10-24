@@ -1,5 +1,4 @@
-Fusarium macroceras Wollenw. & Reinking, 1925 SPECIES
-=======
+# Fusarium macroceras Wollenw. & Reinking, 1925 SPECIES
 
 #### Status
 ACCEPTED

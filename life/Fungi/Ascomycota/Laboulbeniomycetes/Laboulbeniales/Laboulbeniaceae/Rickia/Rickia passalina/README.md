@@ -1,5 +1,4 @@
-Rickia passalina Thaxt. SPECIES
-=======
+# Rickia passalina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

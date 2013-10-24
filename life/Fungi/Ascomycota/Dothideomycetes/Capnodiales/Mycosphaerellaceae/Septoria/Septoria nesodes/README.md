@@ -1,5 +1,4 @@
-Septoria nesodes Kalchbr., 1880 SPECIES
-=======
+# Septoria nesodes Kalchbr., 1880 SPECIES
 
 #### Status
 ACCEPTED

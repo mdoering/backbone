@@ -1,5 +1,4 @@
-Chroodiscus submuralis Lücking SPECIES
-=======
+# Chroodiscus submuralis Lücking SPECIES
 
 #### Status
 ACCEPTED

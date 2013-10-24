@@ -1,5 +1,4 @@
-Lecanora mixcoacensis (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora mixcoacensis (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella ditricha (Kalchbr. & Cooke) Hansf. SPECIES
-=======
+# Asteridiella ditricha (Kalchbr. & Cooke) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaeropsis heteropatellae (Höhn.) Höhn. SPECIES
-=======
+# Microsphaeropsis heteropatellae (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

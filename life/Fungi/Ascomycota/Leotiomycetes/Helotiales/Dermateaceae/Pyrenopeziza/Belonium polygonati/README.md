@@ -1,5 +1,4 @@
-Belonium polygonati (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Belonium polygonati (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

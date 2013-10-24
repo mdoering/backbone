@@ -1,5 +1,4 @@
-Podonectria tenuispora Dennis, 1958 SPECIES
-=======
+# Podonectria tenuispora Dennis, 1958 SPECIES
 
 #### Status
 ACCEPTED

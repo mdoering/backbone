@@ -1,5 +1,4 @@
-Aspicilia caesioalba Körb. SPECIES
-=======
+# Aspicilia caesioalba Körb. SPECIES
 
 #### Status
 ACCEPTED

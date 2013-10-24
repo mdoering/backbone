@@ -1,5 +1,4 @@
-Crossopsora caucensis (Mayor) F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Crossopsora caucensis (Mayor) F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

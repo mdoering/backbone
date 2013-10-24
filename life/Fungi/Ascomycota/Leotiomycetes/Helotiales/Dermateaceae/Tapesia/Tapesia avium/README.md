@@ -1,5 +1,4 @@
-Tapesia avium Velen. SPECIES
-=======
+# Tapesia avium Velen. SPECIES
 
 #### Status
 ACCEPTED

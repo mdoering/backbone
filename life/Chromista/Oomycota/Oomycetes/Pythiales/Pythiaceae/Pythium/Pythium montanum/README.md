@@ -1,5 +1,4 @@
-Pythium montanum Nechw. SPECIES
-=======
+# Pythium montanum Nechw. SPECIES
 
 #### Status
 ACCEPTED

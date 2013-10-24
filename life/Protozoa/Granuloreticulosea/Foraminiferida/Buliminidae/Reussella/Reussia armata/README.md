@@ -1,5 +1,4 @@
-Reussia armata Parr, 1932 SPECIES
-=======
+# Reussia armata Parr, 1932 SPECIES
 
 #### Status
 DOUBTFUL

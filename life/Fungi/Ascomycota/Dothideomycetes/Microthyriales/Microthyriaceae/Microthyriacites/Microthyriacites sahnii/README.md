@@ -1,5 +1,4 @@
-Microthyriacites sahnii Rao SPECIES
-=======
+# Microthyriacites sahnii Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pocillaria martianoffiana (Kalchbr.) Kuntze, 1891 SPECIES
-=======
+# Lentinus martianoffianus Kalchbr., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Byull. mosk. Obshch. Ispyt. Prir. , biol. 52: 144 (1877)
 
 #### Original name
 Lentinus martianoffianus Kalchbr., 1877

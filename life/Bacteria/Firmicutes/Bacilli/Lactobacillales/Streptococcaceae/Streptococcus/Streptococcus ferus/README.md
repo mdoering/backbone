@@ -1,5 +1,4 @@
-Streptococcus ferus (ex Coykendall, 1977) Coykendall, 1983 SPECIES
-=======
+# Streptococcus ferus (ex Coykendall, 1977) Coykendall, 1983 SPECIES
 
 #### Status
 ACCEPTED

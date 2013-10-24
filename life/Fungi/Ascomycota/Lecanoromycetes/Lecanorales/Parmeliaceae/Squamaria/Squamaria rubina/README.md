@@ -1,5 +1,4 @@
-Squamaria rubina (Vill.) Hoffm. SPECIES
-=======
+# Squamaria rubina (Vill.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus levis Raithelh. SPECIES
-=======
+# Gymnopilus levis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

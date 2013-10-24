@@ -1,5 +1,4 @@
-Phoma eucalyptidea Thüm. SPECIES
-=======
+# Phoma eucalyptidea Thüm. SPECIES
 
 #### Status
 ACCEPTED

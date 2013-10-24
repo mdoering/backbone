@@ -1,8 +1,7 @@
-Dipodascopsis uninucleata var. wickerhamii VARIETY
-=======
+# Dipodascopsis uninucleata (Biggs) L.R. Batra & Millner, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

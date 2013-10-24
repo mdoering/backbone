@@ -1,5 +1,4 @@
-Catellatospora tsunoense Asano et al., 1989 SPECIES
-=======
+# Catellatospora tsunoense Asano et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

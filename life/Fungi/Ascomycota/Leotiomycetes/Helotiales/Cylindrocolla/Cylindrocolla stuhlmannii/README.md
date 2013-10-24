@@ -1,8 +1,7 @@
-Cylindrocolla stuhlmanni Allesch. SPECIES
-=======
+# Cylindrocolla stuhlmannii Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cylindrocolla stuhlmanni Allesch.
+Cylindrocolla stuhlmannii Allesch.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sarcogyne californica H. Magn. SPECIES
-=======
+# Sarcogyne californica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

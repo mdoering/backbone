@@ -1,5 +1,4 @@
-Dactylospora zwackhii (Zwackh) Arnold SPECIES
-=======
+# Dactylospora zwackhii (Zwackh) Arnold SPECIES
 
 #### Status
 ACCEPTED

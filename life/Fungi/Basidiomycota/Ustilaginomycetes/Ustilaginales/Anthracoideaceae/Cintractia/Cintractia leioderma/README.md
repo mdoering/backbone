@@ -1,17 +1,16 @@
-Anthracoidea leioderma (Lagerh.) Kochman & T. Majewski, 1978 SPECIES
-=======
+# Cintractia leioderma (Lagerh.) Cif., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 94(2): 181 (1978)
+Annls mycol. 29: 72 (1931)
 
 #### Original name
-Cintractia leioderma (Lagerh.) Cif., 1931
+Ustilago caricis var. leioderma Lagerh.
 
 ### Remarks
 null

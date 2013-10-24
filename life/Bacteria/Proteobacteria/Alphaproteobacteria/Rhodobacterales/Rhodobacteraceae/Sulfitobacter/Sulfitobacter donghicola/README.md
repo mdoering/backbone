@@ -1,5 +1,4 @@
-Sulfitobacter donghicola Yoon, Kang, Lee & Oh, 2007 SPECIES
-=======
+# Sulfitobacter donghicola Yoon, Kang, Lee & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

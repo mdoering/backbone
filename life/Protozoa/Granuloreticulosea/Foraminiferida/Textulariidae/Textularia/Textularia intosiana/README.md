@@ -1,5 +1,4 @@
-Textularia intosiana Nakamura SPECIES
-=======
+# Textularia intosiana Nakamura SPECIES
 
 #### Status
 ACCEPTED

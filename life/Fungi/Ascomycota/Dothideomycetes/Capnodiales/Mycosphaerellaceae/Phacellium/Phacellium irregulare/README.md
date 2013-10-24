@@ -1,5 +1,4 @@
-Phacellium irregulare (Peck) U. Braun SPECIES
-=======
+# Phacellium irregulare (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

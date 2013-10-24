@@ -1,5 +1,4 @@
-Verrucaria macularis var. striatula Schaer. VARIETY
-=======
+# Verrucaria macularis Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria macularis var. striatula Schaer.
+Verrucaria macularis Wallr.
 
 ### Remarks
 null

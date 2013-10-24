@@ -1,5 +1,4 @@
-Cortinarius claroturmalis var. claroturmalis VARIETY
-=======
+# Cortinarius claroturmalis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 17(no. 68): 38 (1987)
 
 #### Original name
-Cortinarius claroturmalis var. claroturmalis
+Cortinarius claroturmalis Rob. Henry
 
 ### Remarks
 null

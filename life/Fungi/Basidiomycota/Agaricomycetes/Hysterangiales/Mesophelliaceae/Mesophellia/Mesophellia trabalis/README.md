@@ -1,5 +1,4 @@
-Mesophellia trabalis Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia trabalis Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

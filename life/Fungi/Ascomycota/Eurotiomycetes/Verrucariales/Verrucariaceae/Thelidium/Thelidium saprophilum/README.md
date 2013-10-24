@@ -1,5 +1,4 @@
-Thelidium saprophilum (A. Massal.) Servít SPECIES
-=======
+# Thelidium saprophilum (A. Massal.) Servít SPECIES
 
 #### Status
 ACCEPTED

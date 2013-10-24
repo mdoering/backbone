@@ -1,5 +1,4 @@
-Lecanora crenigera (Zahlbr.) Motyka SPECIES
-=======
+# Lecanora crenigera (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

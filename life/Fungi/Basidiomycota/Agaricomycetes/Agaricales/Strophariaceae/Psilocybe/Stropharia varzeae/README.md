@@ -1,5 +1,4 @@
-Stropharia varzeae (Singer) Cortez SPECIES
-=======
+# Stropharia varzeae (Singer) Cortez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas cliffordii McLeod SPECIES
-=======
+# Trachelomonas cliffordii McLeod SPECIES
 
 #### Status
 ACCEPTED

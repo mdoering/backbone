@@ -1,5 +1,4 @@
-Sargassum angustifolioides Tseng & Lu, 2004 SPECIES
-=======
+# Sargassum angustifolioides Tseng & Lu, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromocyphella burtii W.B. Cooke, 1961 SPECIES
-=======
+# Chromocyphella burtii W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

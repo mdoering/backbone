@@ -1,5 +1,4 @@
-Oscillatoria supradecomposita Trentepohl SPECIES
-=======
+# Oscillatoria supradecomposita Trentepohl SPECIES
 
 #### Status
 ACCEPTED

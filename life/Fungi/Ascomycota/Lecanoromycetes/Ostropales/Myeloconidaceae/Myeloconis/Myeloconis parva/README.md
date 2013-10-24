@@ -1,5 +1,4 @@
-Myeloconis parva P. M. McCarthy & Elix SPECIES
-=======
+# Myeloconis parva P. M. McCarthy & Elix SPECIES
 
 #### Status
 ACCEPTED

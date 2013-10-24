@@ -1,17 +1,16 @@
-Gyrophora corrugata (DC.) Nyl. SPECIES
-=======
+# Umbilicaria nylanderiana (Zahlbr.) H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. sel. Scand. Exs. no. 252 (1937)
 
 #### Original name
-null
+Gyrophora nylanderiana Zahlbr.
 
 ### Remarks
 null

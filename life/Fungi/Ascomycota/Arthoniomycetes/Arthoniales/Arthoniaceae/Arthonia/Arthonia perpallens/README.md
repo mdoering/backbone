@@ -1,5 +1,4 @@
-Arthonia perpallens Nyl. SPECIES
-=======
+# Arthonia perpallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

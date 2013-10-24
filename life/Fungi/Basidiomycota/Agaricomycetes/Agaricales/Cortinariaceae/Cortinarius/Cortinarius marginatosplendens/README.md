@@ -1,5 +1,4 @@
-Cortinarius marginatosplendens Reumaux SPECIES
-=======
+# Cortinarius marginatosplendens Reumaux SPECIES
 
 #### Status
 ACCEPTED

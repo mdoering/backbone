@@ -1,5 +1,4 @@
-Sterigmatomyces elviae Sonck & Yarrow SPECIES
-=======
+# Sterigmatomyces elviae Sonck & Yarrow SPECIES
 
 #### Status
 ACCEPTED

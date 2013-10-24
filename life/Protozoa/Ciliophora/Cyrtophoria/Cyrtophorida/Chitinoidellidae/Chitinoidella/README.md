@@ -1,5 +1,4 @@
-Chitinoidella GENUS
-=======
+# Chitinoidella GENUS
 
 #### Status
 ACCEPTED

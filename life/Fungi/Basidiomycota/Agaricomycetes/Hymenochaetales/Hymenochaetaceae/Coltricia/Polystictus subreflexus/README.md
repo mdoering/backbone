@@ -1,5 +1,4 @@
-Polystictus subreflexus Lloyd SPECIES
-=======
+# Polystictus subreflexus Lloyd SPECIES
 
 #### Status
 ACCEPTED

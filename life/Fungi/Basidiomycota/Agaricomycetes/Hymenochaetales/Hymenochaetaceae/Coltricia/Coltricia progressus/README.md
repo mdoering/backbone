@@ -1,5 +1,4 @@
-Coltricia progressus Corner, 1991 SPECIES
-=======
+# Coltricia progressus Corner, 1991 SPECIES
 
 #### Status
 ACCEPTED

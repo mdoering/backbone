@@ -1,5 +1,4 @@
-Lichen gagates Lam. SPECIES
-=======
+# Lichen gagates Lam. SPECIES
 
 #### Status
 ACCEPTED

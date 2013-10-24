@@ -1,5 +1,4 @@
-Bacidia hollolensis Vain. SPECIES
-=======
+# Bacidia hollolensis Vain. SPECIES
 
 #### Status
 ACCEPTED

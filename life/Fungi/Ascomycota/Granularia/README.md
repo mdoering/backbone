@@ -1,5 +1,4 @@
-Granularia Saccardo & Ellis ex Saccardo, 1882 GENUS
-=======
+# Granularia Saccardo & Ellis ex Saccardo, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia pampangensis Petr. SPECIES
-=======
+# Lembosia pampangensis Petr. SPECIES
 
 #### Status
 ACCEPTED

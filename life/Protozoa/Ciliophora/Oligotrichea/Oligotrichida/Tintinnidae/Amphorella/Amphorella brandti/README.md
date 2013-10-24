@@ -1,5 +1,4 @@
-Amphorella brandti Jörgensen, 1924 SPECIES
-=======
+# Amphorella brandti Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

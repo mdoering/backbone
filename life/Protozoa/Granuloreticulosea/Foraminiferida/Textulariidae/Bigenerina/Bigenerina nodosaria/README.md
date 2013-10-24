@@ -1,5 +1,4 @@
-Bigenerina nodosaria SPECIES
-=======
+# Bigenerina nodosaria SPECIES
 
 #### Status
 ACCEPTED

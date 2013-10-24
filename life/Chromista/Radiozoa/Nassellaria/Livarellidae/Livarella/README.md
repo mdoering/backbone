@@ -1,5 +1,4 @@
-Livarella GENUS
-=======
+# Livarella GENUS
 
 #### Status
 ACCEPTED

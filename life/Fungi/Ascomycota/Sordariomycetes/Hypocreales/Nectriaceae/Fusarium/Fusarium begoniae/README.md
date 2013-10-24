@@ -1,5 +1,4 @@
-Fusarium begoniae Nirenberg & O'Donnell, 1998 SPECIES
-=======
+# Fusarium begoniae Nirenberg & O'Donnell, 1998 SPECIES
 
 #### Status
 ACCEPTED

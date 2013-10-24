@@ -1,5 +1,4 @@
-Cortinarius submarginalis Peck SPECIES
-=======
+# Cortinarius submarginalis Peck SPECIES
 
 #### Status
 ACCEPTED

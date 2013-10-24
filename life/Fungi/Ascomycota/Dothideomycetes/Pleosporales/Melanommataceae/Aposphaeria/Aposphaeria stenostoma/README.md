@@ -1,5 +1,4 @@
-Aposphaeria stenostoma (Penz.) Sacc. SPECIES
-=======
+# Aposphaeria stenostoma (Penz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria nubecula Pass. SPECIES
-=======
+# Didymosphaeria nubecula Pass. SPECIES
 
 #### Status
 ACCEPTED

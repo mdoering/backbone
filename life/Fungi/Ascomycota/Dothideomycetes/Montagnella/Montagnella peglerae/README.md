@@ -1,5 +1,4 @@
-Montagnella peglerae Pole-Evans SPECIES
-=======
+# Montagnella peglerae Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

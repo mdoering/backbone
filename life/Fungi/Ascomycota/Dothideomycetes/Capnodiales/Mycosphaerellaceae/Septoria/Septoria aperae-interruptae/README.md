@@ -1,5 +1,4 @@
-Septoria aperae-interruptae Bubák SPECIES
-=======
+# Septoria aperae-interruptae Bubák SPECIES
 
 #### Status
 ACCEPTED

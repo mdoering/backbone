@@ -1,5 +1,4 @@
-Lycoperdodes herculeum (Pall.) Kuntze SPECIES
-=======
+# Lycoperdodes herculeum (Pall.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora souliei (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora souliei (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

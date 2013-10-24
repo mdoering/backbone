@@ -1,5 +1,4 @@
-Schizoxylon andinum Pat. SPECIES
-=======
+# Schizoxylon andinum Pat. SPECIES
 
 #### Status
 ACCEPTED

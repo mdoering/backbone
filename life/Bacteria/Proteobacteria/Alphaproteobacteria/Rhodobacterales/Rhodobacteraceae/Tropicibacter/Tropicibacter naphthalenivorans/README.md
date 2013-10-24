@@ -1,5 +1,4 @@
-Tropicibacter naphthalenivorans Harwati, Kasai, Kodama, Susilaningsih & Watanabe, 2009 SPECIES
-=======
+# Tropicibacter naphthalenivorans Harwati, Kasai, Kodama, Susilaningsih & Watanabe, 2009 SPECIES
 
 #### Status
 ACCEPTED

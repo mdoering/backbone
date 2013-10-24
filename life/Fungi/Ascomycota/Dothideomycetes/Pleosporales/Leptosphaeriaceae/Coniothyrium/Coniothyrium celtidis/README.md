@@ -1,5 +1,4 @@
-Coniothyrium celtidis Peck SPECIES
-=======
+# Coniothyrium celtidis Peck SPECIES
 
 #### Status
 ACCEPTED

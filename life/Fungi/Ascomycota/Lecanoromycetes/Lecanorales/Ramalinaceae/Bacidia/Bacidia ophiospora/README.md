@@ -1,5 +1,4 @@
-Bacidia ophiospora (Hellb.) Th. Fr. SPECIES
-=======
+# Bacidia ophiospora (Hellb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

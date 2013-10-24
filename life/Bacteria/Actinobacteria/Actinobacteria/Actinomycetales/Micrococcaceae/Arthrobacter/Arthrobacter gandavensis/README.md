@@ -1,5 +1,4 @@
-Arthrobacter gandavensis Storms et al., 2003 SPECIES
-=======
+# Arthrobacter gandavensis Storms et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

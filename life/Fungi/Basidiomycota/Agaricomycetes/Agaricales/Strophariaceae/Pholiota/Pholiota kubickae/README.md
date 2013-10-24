@@ -1,5 +1,4 @@
-Pholiota kubickae Singer & Clémençon SPECIES
-=======
+# Pholiota kubickae Singer & Clémençon SPECIES
 
 #### Status
 ACCEPTED

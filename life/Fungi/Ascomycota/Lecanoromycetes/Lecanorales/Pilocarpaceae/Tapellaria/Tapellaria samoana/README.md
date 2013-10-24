@@ -1,5 +1,4 @@
-Tapellaria samoana Zahlbr. SPECIES
-=======
+# Tapellaria samoana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

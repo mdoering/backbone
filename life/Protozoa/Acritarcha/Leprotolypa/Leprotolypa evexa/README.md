@@ -1,5 +1,4 @@
-Leprotolypa evexa Colbath, 1979 SPECIES
-=======
+# Leprotolypa evexa Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

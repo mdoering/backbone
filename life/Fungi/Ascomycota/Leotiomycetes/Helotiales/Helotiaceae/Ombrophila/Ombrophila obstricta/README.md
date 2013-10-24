@@ -1,5 +1,4 @@
-Ombrophila obstricta P. Karst., 1889 SPECIES
-=======
+# Ombrophila obstricta P. Karst., 1889 SPECIES
 
 #### Status
 ACCEPTED

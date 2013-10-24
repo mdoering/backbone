@@ -1,5 +1,4 @@
-Cheilymenia alleghenensis Denison SPECIES
-=======
+# Cheilymenia alleghenensis Denison SPECIES
 
 #### Status
 ACCEPTED

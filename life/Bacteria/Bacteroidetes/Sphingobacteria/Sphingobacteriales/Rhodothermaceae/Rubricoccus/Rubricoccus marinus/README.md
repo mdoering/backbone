@@ -1,5 +1,4 @@
-Rubricoccus marinus Park, Yoshizawa, Kogure & Yokota, 2010 SPECIES
-=======
+# Rubricoccus marinus Park, Yoshizawa, Kogure & Yokota, 2010 SPECIES
 
 #### Status
 ACCEPTED

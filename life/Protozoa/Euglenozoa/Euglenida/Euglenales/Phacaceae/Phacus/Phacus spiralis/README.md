@@ -1,5 +1,4 @@
-Phacus spiralis Allegre & T.L. Jahn, 1943 SPECIES
-=======
+# Phacus spiralis Allegre & T.L. Jahn, 1943 SPECIES
 
 #### Status
 ACCEPTED

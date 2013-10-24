@@ -1,17 +1,16 @@
-Parmelia huachucensis T. H. Nash SPECIES
-=======
+# Xanthoparmelia huachucensis (T. H. Nash) Egan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 2(2): 221 (1975)
 
 #### Original name
-null
+Parmelia huachucensis T. H. Nash
 
 ### Remarks
 null

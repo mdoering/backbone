@@ -1,5 +1,4 @@
-Rigaudella R. Below, 1982 GENUS
-=======
+# Rigaudella R. Below, 1982 GENUS
 
 #### Status
 ACCEPTED

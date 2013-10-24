@@ -1,5 +1,4 @@
-Protodinifer C.A. Kofoid & O. Swezy, 1921 GENUS
-=======
+# Protodinifer C.A. Kofoid & O. Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

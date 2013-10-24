@@ -1,5 +1,4 @@
-Phyllachora elettariae (Berk. & Broome) Cooke, 1885 SPECIES
-=======
+# Phyllachora elettariae (Berk. & Broome) Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

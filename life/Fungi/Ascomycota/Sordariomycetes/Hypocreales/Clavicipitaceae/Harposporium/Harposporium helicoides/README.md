@@ -1,5 +1,4 @@
-Harposporium helicoides Drechsler, 1941 SPECIES
-=======
+# Harposporium helicoides Drechsler, 1941 SPECIES
 
 #### Status
 ACCEPTED

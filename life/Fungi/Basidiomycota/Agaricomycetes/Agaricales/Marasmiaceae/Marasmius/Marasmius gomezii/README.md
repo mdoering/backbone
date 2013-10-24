@@ -1,5 +1,4 @@
-Marasmius gomezii Singer SPECIES
-=======
+# Marasmius gomezii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea reticulospora H.Z. Li & Yu Li, 1995 SPECIES
-=======
+# Licea reticulospora H.Z. Li & Yu Li, 1995 SPECIES
 
 #### Status
 ACCEPTED

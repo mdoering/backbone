@@ -1,5 +1,4 @@
-Arcyria forstneri Brândza SPECIES
-=======
+# Arcyria forstneri Brândza SPECIES
 
 #### Status
 ACCEPTED

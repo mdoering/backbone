@@ -1,17 +1,16 @@
-Cercospora pini-densiflorae Hori & Nambu, 1917 SPECIES
-=======
+# Mycosphaerella gibsonii H.C. Evans, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Plant Protection, Tokyo 4: 353 (1917)
+Mycol. Pap. 153: 61 (1984)
 
 #### Original name
-Cercospora pini-densiflorae Hori & Nambu, 1917
+Mycosphaerella gibsonii H.C. Evans, 1984
 
 ### Remarks
 null

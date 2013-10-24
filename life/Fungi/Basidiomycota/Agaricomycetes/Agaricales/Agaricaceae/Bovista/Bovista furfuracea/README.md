@@ -1,5 +1,4 @@
-Bovista furfuracea Pers. SPECIES
-=======
+# Bovista furfuracea Pers. SPECIES
 
 #### Status
 ACCEPTED

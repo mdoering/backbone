@@ -1,5 +1,4 @@
-Naucoria subcuspidata Murrill SPECIES
-=======
+# Naucoria subcuspidata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo gynoxidis H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo gynoxidis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

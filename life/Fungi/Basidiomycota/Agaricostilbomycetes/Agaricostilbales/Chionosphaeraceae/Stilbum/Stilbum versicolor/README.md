@@ -1,5 +1,4 @@
-Stilbum versicolor Pat. SPECIES
-=======
+# Stilbum versicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

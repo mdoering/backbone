@@ -1,5 +1,4 @@
-Graphis kermesina Fée SPECIES
-=======
+# Graphis kermesina Fée SPECIES
 
 #### Status
 ACCEPTED

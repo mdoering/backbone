@@ -1,5 +1,4 @@
-Buedingiisphaeridium brevispinosum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium brevispinosum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

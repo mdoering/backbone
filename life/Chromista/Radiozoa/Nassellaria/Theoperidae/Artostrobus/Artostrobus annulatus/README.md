@@ -1,5 +1,4 @@
-Artostrobus annulatus (Bailey) Haeckel, 1887 SPECIES
-=======
+# Artostrobus annulatus (Bailey) Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

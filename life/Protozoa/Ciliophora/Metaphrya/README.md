@@ -1,5 +1,4 @@
-Metaphrya Ikeda, 1917 GENUS
-=======
+# Metaphrya Ikeda, 1917 GENUS
 
 #### Status
 ACCEPTED

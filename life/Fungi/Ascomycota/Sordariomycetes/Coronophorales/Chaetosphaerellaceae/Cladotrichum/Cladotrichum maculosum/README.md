@@ -1,5 +1,4 @@
-Cladotrichum maculosum (Speg.) Sacc. SPECIES
-=======
+# Cladotrichum maculosum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

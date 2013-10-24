@@ -1,5 +1,4 @@
-Placodium caespitosum SPECIES
-=======
+# Placodium caespitosum SPECIES
 
 #### Status
 ACCEPTED

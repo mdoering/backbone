@@ -1,5 +1,4 @@
-Tuberculina talini Speg. SPECIES
-=======
+# Tuberculina talini Speg. SPECIES
 
 #### Status
 ACCEPTED

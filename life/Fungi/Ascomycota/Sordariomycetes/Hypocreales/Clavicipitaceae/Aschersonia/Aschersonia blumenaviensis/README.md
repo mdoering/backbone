@@ -1,5 +1,4 @@
-Aschersonia blumenaviensis Henn. SPECIES
-=======
+# Aschersonia blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichia graminea Dearn. & House SPECIES
-=======
+# Herpotrichia graminea Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

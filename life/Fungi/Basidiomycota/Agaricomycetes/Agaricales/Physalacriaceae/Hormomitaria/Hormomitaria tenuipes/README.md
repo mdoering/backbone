@@ -1,14 +1,13 @@
-Mucronella tenuipes Lloyd, 1918 SPECIES
-=======
+# Hormomitaria tenuipes (Lloyd) Berthier, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 789 (1918)
+Revue Mycol. , Paris 33: 208 (1968)
 
 #### Original name
 Mucronella tenuipes Lloyd, 1918

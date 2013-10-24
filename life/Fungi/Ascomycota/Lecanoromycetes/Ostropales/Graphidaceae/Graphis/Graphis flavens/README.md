@@ -1,5 +1,4 @@
-Graphis flavens Müll. Arg. SPECIES
-=======
+# Graphis flavens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

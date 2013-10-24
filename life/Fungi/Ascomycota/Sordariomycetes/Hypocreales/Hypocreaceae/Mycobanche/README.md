@@ -1,5 +1,4 @@
-Mycobanche GENUS
-=======
+# Mycobanche GENUS
 
 #### Status
 ACCEPTED

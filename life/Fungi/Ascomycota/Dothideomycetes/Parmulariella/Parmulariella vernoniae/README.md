@@ -1,5 +1,4 @@
-Parmulariella vernoniae Henn., 1904 SPECIES
-=======
+# Parmulariella vernoniae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

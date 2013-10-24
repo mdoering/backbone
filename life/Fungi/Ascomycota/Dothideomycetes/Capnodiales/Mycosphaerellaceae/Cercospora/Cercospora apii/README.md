@@ -1,17 +1,16 @@
-Cercospora apii f. sp FORM
-=======
+# Cercospora apii Fresen., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 58: 1713 (1968)
+Beitr. Mykol. 3: 91 (1863)
 
 #### Original name
-Cercospora apii f. sp
+Cercospora apii Fresen., 1863
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cymathere GENUS
-=======
+# Cymathere GENUS
 
 #### Status
 ACCEPTED

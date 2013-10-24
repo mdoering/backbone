@@ -1,5 +1,4 @@
-Bispora herbicola P.Rag. Rao SPECIES
-=======
+# Bispora herbicola P.Rag. Rao SPECIES
 
 #### Status
 ACCEPTED

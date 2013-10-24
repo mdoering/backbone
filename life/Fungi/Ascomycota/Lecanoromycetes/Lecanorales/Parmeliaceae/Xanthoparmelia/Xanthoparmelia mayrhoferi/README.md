@@ -1,5 +1,4 @@
-Xanthoparmelia mayrhoferi Elix SPECIES
-=======
+# Xanthoparmelia mayrhoferi Elix SPECIES
 
 #### Status
 ACCEPTED

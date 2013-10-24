@@ -1,5 +1,4 @@
-Boletus cravetta Bellardi SPECIES
-=======
+# Boletus cravetta Bellardi SPECIES
 
 #### Status
 ACCEPTED

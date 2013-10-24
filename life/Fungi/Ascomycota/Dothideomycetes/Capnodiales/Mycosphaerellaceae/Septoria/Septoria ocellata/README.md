@@ -1,5 +1,4 @@
-Septoria ocellata (Lév.) Sacc. SPECIES
-=======
+# Septoria ocellata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trichophyton mariatti Tap. Foss., Mizrachi, A.A. Padhye & Ajello SPECIES
-=======
+# Trichophyton mariatii Tap. Foss., Mizrachi, A.A. Padhye & Ajello SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proceedings of the 5th International Conference on Mycoses 154 (1980)
 
 #### Original name
-Trichophyton mariatti Tap. Foss., Mizrachi, A.A. Padhye & Ajello
+Trichophyton mariatii Tap. Foss., Mizrachi, A.A. Padhye & Ajello
 
 ### Remarks
 null

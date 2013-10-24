@@ -1,5 +1,4 @@
-Leucoagaricus singeri (Bon ex Contu & Signor.) Consiglio & Contu SPECIES
-=======
+# Leucoagaricus singeri (Bon ex Contu & Signor.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

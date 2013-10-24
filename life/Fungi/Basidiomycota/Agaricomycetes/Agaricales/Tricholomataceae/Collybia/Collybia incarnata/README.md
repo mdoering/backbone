@@ -1,5 +1,4 @@
-Collybia incarnata G. Stev., 1964 SPECIES
-=======
+# Collybia incarnata G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora juelii Syd. & P. Syd. SPECIES
-=======
+# Phakopsora juelii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

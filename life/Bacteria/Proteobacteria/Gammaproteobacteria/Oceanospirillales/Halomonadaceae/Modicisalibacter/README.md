@@ -1,5 +1,4 @@
-Modicisalibacter Ben Ali Gam et al., 2007 GENUS
-=======
+# Modicisalibacter Ben Ali Gam et al., 2007 GENUS
 
 #### Status
 ACCEPTED

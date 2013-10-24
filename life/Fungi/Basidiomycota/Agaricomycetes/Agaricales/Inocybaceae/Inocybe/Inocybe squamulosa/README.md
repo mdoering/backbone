@@ -1,5 +1,4 @@
-Inocybe squamulosa Kobayasi SPECIES
-=======
+# Inocybe squamulosa Kobayasi SPECIES
 
 #### Status
 ACCEPTED

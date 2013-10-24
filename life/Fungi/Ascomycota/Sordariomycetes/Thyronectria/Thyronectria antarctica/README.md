@@ -1,5 +1,4 @@
-Thyronectria antarctica var. antarctica VARIETY
-=======
+# Thyronectria antarctica (Speg.) Seeler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Arnold Arbor. 21: 437 (1940)
 
 #### Original name
-Thyronectria antarctica var. antarctica
+Pleonectria antarctica Speg.
 
 ### Remarks
 null

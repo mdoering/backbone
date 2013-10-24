@@ -1,14 +1,13 @@
-Dimidiadinium Brideaux, 1977 GENUS
-=======
+# Tubotuberella Vozzhennikova GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Bull. Geol. Surv. Can. 281: 37.
+Peridinids of Jurassic, Cretaceous and Paleogene deposits in the USSR. Akad. Nauk SSSR, Inst. Geol. Geofiz. , Sibirsk. Otdel. , Moskva: 179.
 
 #### Original name
 null

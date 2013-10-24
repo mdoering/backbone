@@ -1,5 +1,4 @@
-Discula terminaliae (P. Syd. & E.J. Butler) Katum. & Y. Harada SPECIES
-=======
+# Discula terminaliae (P. Syd. & E.J. Butler) Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

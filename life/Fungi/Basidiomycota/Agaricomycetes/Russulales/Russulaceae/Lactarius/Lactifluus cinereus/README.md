@@ -1,5 +1,4 @@
-Lactifluus cinereus (Peck) Kuntze SPECIES
-=======
+# Lactifluus cinereus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

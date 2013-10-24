@@ -1,5 +1,4 @@
-Omphalina cyathiformis (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Omphalina cyathiformis (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

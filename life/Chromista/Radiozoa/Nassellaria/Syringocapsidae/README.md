@@ -1,5 +1,4 @@
-Syringocapsidae Foreman, 1973 FAMILY
-=======
+# Syringocapsidae Foreman, 1973 FAMILY
 
 #### Status
 ACCEPTED

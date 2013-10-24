@@ -1,17 +1,16 @@
-Polyporus lacteus subsp. lacteus SUBSPECIES
-=======
+# Tyromyces lacteus (Fr.) Murrill, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York), Ser. 2 9(1): 36 (1907)
 
 #### Original name
-null
+Polyporus lacteus Fr., 1821
 
 ### Remarks
 null

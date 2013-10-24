@@ -1,5 +1,4 @@
-Protomerulius javensis Burt SPECIES
-=======
+# Protomerulius javensis Burt SPECIES
 
 #### Status
 ACCEPTED

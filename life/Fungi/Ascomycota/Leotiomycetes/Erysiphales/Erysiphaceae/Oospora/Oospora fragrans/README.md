@@ -1,5 +1,4 @@
-Oospora fragrans SPECIES
-=======
+# Oospora fragrans SPECIES
 
 #### Status
 ACCEPTED

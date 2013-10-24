@@ -1,5 +1,4 @@
-Puccinia glacieri Savile SPECIES
-=======
+# Puccinia glacieri Savile SPECIES
 
 #### Status
 ACCEPTED

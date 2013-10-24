@@ -1,17 +1,16 @@
-Botryosphaeria hemidesmii Tilak & Gaikwad SPECIES
-=======
+# Botryosphaeria hemidesmi Tilak & Gaikwad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 5(2): 113 (1974)
 
 #### Original name
-Botryosphaeria hemidesmii Tilak & Gaikwad
+Botryosphaeria hemidesmi Tilak & Gaikwad
 
 ### Remarks
 null

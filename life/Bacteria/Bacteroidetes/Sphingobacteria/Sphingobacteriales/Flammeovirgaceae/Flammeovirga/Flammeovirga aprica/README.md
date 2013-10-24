@@ -1,8 +1,7 @@
-Cytophaga aprica (ex Lewin, 1969) Reichenbach, 1989 SPECIES
-=======
+# Flammeovirga aprica (Reichenbach, 1989) Nakagawa et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Boletus cicognanii Ubaldi SPECIES
-=======
+# Boletus cicognanii Ubaldi SPECIES
 
 #### Status
 ACCEPTED

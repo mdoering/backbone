@@ -1,5 +1,4 @@
-Reophax capitatus Zheng, 1988 SPECIES
-=======
+# Reophax capitatus Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

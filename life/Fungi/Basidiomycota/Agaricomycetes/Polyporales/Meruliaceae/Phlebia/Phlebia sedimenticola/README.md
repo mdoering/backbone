@@ -1,5 +1,4 @@
-Phlebia sedimenticola (S. Ahmad) S. Ahmad SPECIES
-=======
+# Phlebia sedimenticola (S. Ahmad) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

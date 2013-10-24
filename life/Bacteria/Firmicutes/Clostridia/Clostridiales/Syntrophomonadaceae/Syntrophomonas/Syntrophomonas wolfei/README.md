@@ -1,5 +1,4 @@
-Syntrophomonas wolfei subsp. wolfei McInerney et al., 1982 SUBSPECIES
-=======
+# Syntrophomonas wolfei McInerney et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kappamycetaceae Letcher FAMILY
-=======
+# Kappamycetaceae Letcher FAMILY
 
 #### Status
 ACCEPTED

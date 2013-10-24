@@ -1,5 +1,4 @@
-Ceriosphaera Haeckel, 1881 GENUS
-=======
+# Ceriosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

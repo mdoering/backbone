@@ -1,5 +1,4 @@
-Lecidea irrubescens Zahlbr. SPECIES
-=======
+# Lecidea irrubescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rimbachia palmigena Singer SPECIES
-=======
+# Rimbachia palmigena Singer SPECIES
 
 #### Status
 ACCEPTED

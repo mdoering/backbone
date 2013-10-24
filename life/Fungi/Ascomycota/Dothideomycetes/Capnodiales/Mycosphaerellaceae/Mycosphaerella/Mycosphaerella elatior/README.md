@@ -1,5 +1,4 @@
-Mycosphaerella elatior (Sacc. & Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella elatior (Sacc. & Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycodendron Massee GENUS
-=======
+# Mycodendron Massee GENUS
 
 #### Status
 ACCEPTED

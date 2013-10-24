@@ -1,5 +1,4 @@
-Phomopsis ricinella Petr. SPECIES
-=======
+# Phomopsis ricinella Petr. SPECIES
 
 #### Status
 ACCEPTED

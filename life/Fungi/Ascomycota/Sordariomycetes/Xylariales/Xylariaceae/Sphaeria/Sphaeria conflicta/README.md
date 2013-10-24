@@ -1,5 +1,4 @@
-Sphaeria conflicta Cooke SPECIES
-=======
+# Sphaeria conflicta Cooke SPECIES
 
 #### Status
 ACCEPTED

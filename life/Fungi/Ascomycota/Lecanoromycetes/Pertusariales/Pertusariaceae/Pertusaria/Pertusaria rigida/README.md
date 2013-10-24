@@ -1,5 +1,4 @@
-Pertusaria rigida Müll. Arg. SPECIES
-=======
+# Pertusaria rigida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

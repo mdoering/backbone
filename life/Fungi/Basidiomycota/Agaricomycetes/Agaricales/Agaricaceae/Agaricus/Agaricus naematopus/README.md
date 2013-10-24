@@ -1,5 +1,4 @@
-Agaricus naematopus Pers. SPECIES
-=======
+# Agaricus naematopus Pers. SPECIES
 
 #### Status
 ACCEPTED

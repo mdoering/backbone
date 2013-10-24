@@ -1,5 +1,4 @@
-Sepultaria boudieri Torrend SPECIES
-=======
+# Sepultaria boudieri Torrend SPECIES
 
 #### Status
 ACCEPTED

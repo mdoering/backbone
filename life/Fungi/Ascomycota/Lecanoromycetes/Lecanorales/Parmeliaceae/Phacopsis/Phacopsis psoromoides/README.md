@@ -1,5 +1,4 @@
-Phacopsis psoromoides Hepp SPECIES
-=======
+# Phacopsis psoromoides Hepp SPECIES
 
 #### Status
 ACCEPTED

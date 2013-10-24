@@ -1,14 +1,13 @@
-Polyporus taxi Bondartsev, 1940 SPECIES
-=======
+# Parmastomyces taxi (Bondartsev) Y.C. Dai & Niemelä, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botan. Mater. Otdela Sporovykh Rastenii, Bot. Inst. Akad. Nauk SSSR 5(1-3): 17 (1940)
+Ann. bot. fenn. 32(4): 222 (1995)
 
 #### Original name
 Polyporus taxi Bondartsev, 1940

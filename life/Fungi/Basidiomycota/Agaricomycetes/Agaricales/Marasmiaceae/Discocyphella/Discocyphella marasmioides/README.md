@@ -1,5 +1,4 @@
-Discocyphella marasmioides Henn. & E. Nyman SPECIES
-=======
+# Discocyphella marasmioides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

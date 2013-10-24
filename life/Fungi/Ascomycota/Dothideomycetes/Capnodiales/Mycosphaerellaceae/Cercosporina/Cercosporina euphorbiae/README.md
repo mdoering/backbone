@@ -1,5 +1,4 @@
-Cercosporina euphorbiae Fukui SPECIES
-=======
+# Cercosporina euphorbiae Fukui SPECIES
 
 #### Status
 ACCEPTED

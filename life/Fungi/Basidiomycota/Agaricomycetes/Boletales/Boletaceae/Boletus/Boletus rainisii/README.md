@@ -1,5 +1,4 @@
-Boletus rainisii Bessette & O.K. Mill. SPECIES
-=======
+# Boletus rainisii Bessette & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

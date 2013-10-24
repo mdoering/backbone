@@ -1,8 +1,7 @@
-Kyrtuthrix dalmatica f. epilithica Ercegovic, 1957 FORM
-=======
+# Brachytrichia dalmatica (Ercegovic) Fremy SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

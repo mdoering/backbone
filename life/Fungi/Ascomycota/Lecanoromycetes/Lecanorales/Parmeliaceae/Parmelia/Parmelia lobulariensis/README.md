@@ -1,5 +1,4 @@
-Parmelia lobulariensis J. Steiner & Zahlbr. SPECIES
-=======
+# Parmelia lobulariensis J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

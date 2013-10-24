@@ -1,5 +1,4 @@
-Spumaria micheneri Berk. SPECIES
-=======
+# Spumaria micheneri Berk. SPECIES
 
 #### Status
 ACCEPTED

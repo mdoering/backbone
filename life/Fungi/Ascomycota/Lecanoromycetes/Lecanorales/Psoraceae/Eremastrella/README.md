@@ -1,5 +1,4 @@
-Eremastrella S. Vogel GENUS
-=======
+# Eremastrella S. Vogel GENUS
 
 #### Status
 ACCEPTED

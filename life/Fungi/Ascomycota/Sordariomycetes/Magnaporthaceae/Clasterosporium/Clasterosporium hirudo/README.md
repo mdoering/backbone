@@ -1,5 +1,4 @@
-Clasterosporium hirudo (Sacc.) Sacc. SPECIES
-=======
+# Clasterosporium hirudo (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca bispora Kalb SPECIES
-=======
+# Caloplaca bispora Kalb SPECIES
 
 #### Status
 ACCEPTED

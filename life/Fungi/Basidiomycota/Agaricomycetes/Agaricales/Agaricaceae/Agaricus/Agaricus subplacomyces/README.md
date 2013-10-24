@@ -1,5 +1,4 @@
-Agaricus subplacomyces var. subplacomyces VARIETY
-=======
+# Agaricus subplacomyces SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus subplacomyces var. subplacomyces
+Agaricus subplacomyces
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calenia pseudographidea Lücking SPECIES
-=======
+# Calenia pseudographidea Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe olivaceobrunnea H.E. Bigelow SPECIES
-=======
+# Clitocybe olivaceobrunnea H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

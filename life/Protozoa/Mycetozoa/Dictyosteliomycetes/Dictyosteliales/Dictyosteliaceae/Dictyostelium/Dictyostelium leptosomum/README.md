@@ -1,5 +1,4 @@
-Dictyostelium leptosomum Cavender, S.L. Stephenson, J.C. Landolt & Vadell, 2002 SPECIES
-=======
+# Dictyostelium leptosomum Cavender, S.L. Stephenson, J.C. Landolt & Vadell, 2002 SPECIES
 
 #### Status
 ACCEPTED

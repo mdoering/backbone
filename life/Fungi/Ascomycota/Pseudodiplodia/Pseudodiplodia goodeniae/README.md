@@ -1,5 +1,4 @@
-Pseudodiplodia goodeniae Petr. SPECIES
-=======
+# Pseudodiplodia goodeniae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia catarinae Hale SPECIES
-=======
+# Xanthoparmelia catarinae Hale SPECIES
 
 #### Status
 ACCEPTED

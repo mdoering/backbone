@@ -1,5 +1,4 @@
-Corticium helvelloides (Schwein.) Massee SPECIES
-=======
+# Corticium helvelloides (Schwein.) Massee SPECIES
 
 #### Status
 ACCEPTED

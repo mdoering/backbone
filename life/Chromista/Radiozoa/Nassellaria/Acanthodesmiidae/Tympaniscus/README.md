@@ -1,5 +1,4 @@
-Tympaniscus Haeckel, 1887 GENUS
-=======
+# Tympaniscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen pantospermus Vill. SPECIES
-=======
+# Lichen pantospermus Vill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevicellicium mellinum (Bres.) Hjortstam & Ryvarden, 1980 SPECIES
-=======
+# Brevicellicium mellinum (Bres.) Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

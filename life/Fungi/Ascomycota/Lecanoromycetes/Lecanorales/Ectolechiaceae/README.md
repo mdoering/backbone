@@ -1,5 +1,4 @@
-Ectolechiaceae Zahlbr. FAMILY
-=======
+# Ectolechiaceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctomyces densus Göpp. & J.A. Menge SPECIES
-=======
+# Nyctomyces densus Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

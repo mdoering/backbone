@@ -1,5 +1,4 @@
-Vanakripa gigaspora Bhat, W.B. Kendr. & Nag Raj, 1993 SPECIES
-=======
+# Vanakripa gigaspora Bhat, W.B. Kendr. & Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

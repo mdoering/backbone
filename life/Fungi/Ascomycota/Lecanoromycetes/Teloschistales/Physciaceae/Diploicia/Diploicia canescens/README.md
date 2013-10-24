@@ -1,17 +1,16 @@
-Buellia canescens f. canescens FORM
-=======
+# Diploicia canescens (Dicks.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-G. bot. ital. 2,1,1: 197 (1846)
+null
 
 #### Original name
-Lichen canescens Dicks.
+null
 
 ### Remarks
 null

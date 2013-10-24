@@ -1,5 +1,4 @@
-Mycosphaerella milleri Hodges & F.A. Haasis, 1964 SPECIES
-=======
+# Mycosphaerella milleri Hodges & F.A. Haasis, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fumiglobus foeda (Sacc.) D.R. Reynolds & G.S. Gilbert, 2006 SPECIES
-=======
+# Fumiglobus foedus (Sacc.) D.R. Reynolds & G.S. Gilbert, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 27(3): 254 (2006)
 
 #### Original name
 Capnodium foedum Sacc.

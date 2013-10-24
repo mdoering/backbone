@@ -1,5 +1,4 @@
-Nonomuraea angiospora (Zhukova et al., 1968) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea angiospora (Zhukova et al., 1968) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

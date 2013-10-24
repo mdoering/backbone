@@ -1,5 +1,4 @@
-Lepraria nothofagi Elix & Kukwa SPECIES
-=======
+# Lepraria nothofagi Elix & Kukwa SPECIES
 
 #### Status
 ACCEPTED

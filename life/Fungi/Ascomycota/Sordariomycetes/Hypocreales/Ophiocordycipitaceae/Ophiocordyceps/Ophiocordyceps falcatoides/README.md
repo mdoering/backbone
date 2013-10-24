@@ -1,5 +1,4 @@
-Ophiocordyceps falcatoides (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps falcatoides (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

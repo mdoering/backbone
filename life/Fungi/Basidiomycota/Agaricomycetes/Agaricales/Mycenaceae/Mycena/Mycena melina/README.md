@@ -1,5 +1,4 @@
-Mycena melina Velen. SPECIES
-=======
+# Mycena melina Velen. SPECIES
 
 #### Status
 ACCEPTED

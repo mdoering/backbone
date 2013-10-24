@@ -1,5 +1,4 @@
-Depazea salicicola Thüm. SPECIES
-=======
+# Depazea salicicola Thüm. SPECIES
 
 #### Status
 ACCEPTED

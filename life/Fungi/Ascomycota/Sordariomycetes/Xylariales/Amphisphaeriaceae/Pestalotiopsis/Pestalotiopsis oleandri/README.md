@@ -1,5 +1,4 @@
-Pestalotiopsis oleandri (Guba) P.L. Zhu, Q.X. Ge & T. Xu SPECIES
-=======
+# Pestalotiopsis oleandri (Guba) P.L. Zhu, Q.X. Ge & T. Xu SPECIES
 
 #### Status
 ACCEPTED

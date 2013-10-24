@@ -1,5 +1,4 @@
-Puccinia placeae Dietel & Neger SPECIES
-=======
+# Puccinia placeae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

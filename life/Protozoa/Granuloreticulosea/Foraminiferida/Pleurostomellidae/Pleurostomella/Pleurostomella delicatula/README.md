@@ -1,5 +1,4 @@
-Pleurostomella delicatula Patterson, 1991 SPECIES
-=======
+# Pleurostomella delicatula Patterson, 1991 SPECIES
 
 #### Status
 ACCEPTED

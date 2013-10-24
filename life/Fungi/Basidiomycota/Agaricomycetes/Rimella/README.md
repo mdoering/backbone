@@ -1,5 +1,4 @@
-Rimella Rafinesque, 1819 GENUS
-=======
+# Rimella Rafinesque, 1819 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coccospora Smith, 1929 GENUS
-=======
+# Tettigonospora Smith, 1930 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Univ. Calif. Pub. Zool. , 33, 58.
+Univ. Calif. Publ. Zool. , 33, 445.
 
 #### Original name
-null
+Coccospora Smith, 1929
 
 ### Remarks
 null

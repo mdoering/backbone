@@ -1,5 +1,4 @@
-Megalospora granulans Sipman SPECIES
-=======
+# Megalospora granulans Sipman SPECIES
 
 #### Status
 ACCEPTED

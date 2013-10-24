@@ -1,5 +1,4 @@
-Ericiasphaera G. Vidal, 1990 GENUS
-=======
+# Ericiasphaera G. Vidal, 1990 GENUS
 
 #### Status
 ACCEPTED

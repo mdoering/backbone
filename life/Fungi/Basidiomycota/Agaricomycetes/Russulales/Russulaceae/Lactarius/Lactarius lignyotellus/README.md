@@ -1,5 +1,4 @@
-Lactarius lignyotellus A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius lignyotellus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

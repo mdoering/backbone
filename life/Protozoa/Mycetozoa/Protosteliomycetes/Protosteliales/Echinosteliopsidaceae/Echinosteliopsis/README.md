@@ -1,5 +1,4 @@
-Echinosteliopsis D.J. Reinh. & L.S. Olive GENUS
-=======
+# Echinosteliopsis D.J. Reinh. & L.S. Olive GENUS
 
 #### Status
 ACCEPTED

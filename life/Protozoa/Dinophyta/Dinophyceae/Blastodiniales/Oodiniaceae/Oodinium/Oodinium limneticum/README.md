@@ -1,5 +1,4 @@
-Oodinium limneticum Jakobs SPECIES
-=======
+# Oodinium limneticum Jakobs SPECIES
 
 #### Status
 ACCEPTED

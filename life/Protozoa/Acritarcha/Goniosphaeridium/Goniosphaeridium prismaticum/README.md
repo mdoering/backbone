@@ -1,5 +1,4 @@
-Goniosphaeridium prismaticum E. D. Pöthe de Baldis SPECIES
-=======
+# Goniosphaeridium prismaticum E. D. Pöthe de Baldis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta anibae Massee SPECIES
-=======
+# Phyllosticta anibae Massee SPECIES
 
 #### Status
 ACCEPTED

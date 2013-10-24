@@ -1,5 +1,4 @@
-Cephalosporium lefroyi W.T. Horne SPECIES
-=======
+# Cephalosporium lefroyi W.T. Horne SPECIES
 
 #### Status
 ACCEPTED

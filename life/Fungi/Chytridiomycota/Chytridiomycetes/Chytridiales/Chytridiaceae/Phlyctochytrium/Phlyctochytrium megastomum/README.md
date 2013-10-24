@@ -1,5 +1,4 @@
-Phlyctochytrium megastomum Karling SPECIES
-=======
+# Phlyctochytrium megastomum Karling SPECIES
 
 #### Status
 ACCEPTED

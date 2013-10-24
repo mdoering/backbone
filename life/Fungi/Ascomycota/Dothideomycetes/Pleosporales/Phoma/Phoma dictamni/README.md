@@ -1,5 +1,4 @@
-Phoma dictamni Fuckel SPECIES
-=======
+# Phoma dictamni Fuckel SPECIES
 
 #### Status
 ACCEPTED

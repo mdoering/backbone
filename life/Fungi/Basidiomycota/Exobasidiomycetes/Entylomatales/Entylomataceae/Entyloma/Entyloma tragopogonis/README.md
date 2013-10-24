@@ -1,17 +1,16 @@
-Entyloma tragopogi Lagerh. SPECIES
-=======
+# Entyloma tragopogonis Lagerh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sprawozdanie Komisji Fizjograficznej 48: 15 (1914)
 
 #### Original name
-Entyloma tragopogi Lagerh.
+Entyloma tragopogonis Lagerh.
 
 ### Remarks
 null

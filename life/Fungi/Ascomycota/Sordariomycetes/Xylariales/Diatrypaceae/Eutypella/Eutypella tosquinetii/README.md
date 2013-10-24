@@ -1,5 +1,4 @@
-Eutypella tosquinetii (Westend.) Sacc. SPECIES
-=======
+# Eutypella tosquinetii (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

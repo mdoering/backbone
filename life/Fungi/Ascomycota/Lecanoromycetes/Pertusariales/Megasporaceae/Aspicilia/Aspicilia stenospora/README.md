@@ -1,5 +1,4 @@
-Aspicilia stenospora Hue SPECIES
-=======
+# Aspicilia stenospora Hue SPECIES
 
 #### Status
 ACCEPTED

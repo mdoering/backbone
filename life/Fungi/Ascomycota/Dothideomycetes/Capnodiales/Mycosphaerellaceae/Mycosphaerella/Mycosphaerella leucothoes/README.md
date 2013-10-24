@@ -1,5 +1,4 @@
-Mycosphaerella leucothoes Miles SPECIES
-=======
+# Mycosphaerella leucothoes Miles SPECIES
 
 #### Status
 ACCEPTED

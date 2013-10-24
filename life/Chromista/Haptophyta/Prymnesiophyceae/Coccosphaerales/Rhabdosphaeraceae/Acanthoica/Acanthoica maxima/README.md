@@ -1,5 +1,4 @@
-Acanthoica maxima Heimdal SPECIES
-=======
+# Acanthoica maxima Heimdal SPECIES
 
 #### Status
 ACCEPTED

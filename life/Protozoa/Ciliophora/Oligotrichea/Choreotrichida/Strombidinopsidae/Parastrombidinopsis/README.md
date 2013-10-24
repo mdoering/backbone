@@ -1,5 +1,4 @@
-Parastrombidinopsis Kim, Jeong, Strüder-Kypke, Lynn, Kim, Kim & Lee, 2005 GENUS
-=======
+# Parastrombidinopsis Kim, Jeong, Strüder-Kypke, Lynn, Kim, Kim & Lee, 2005 GENUS
 
 #### Status
 ACCEPTED

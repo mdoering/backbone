@@ -1,5 +1,4 @@
-Minidiscus chilensis Rivera SPECIES
-=======
+# Minidiscus chilensis Rivera SPECIES
 
 #### Status
 ACCEPTED

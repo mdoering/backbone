@@ -1,5 +1,4 @@
-Valsa pennsylvanica Berk. & M.A. Curtis SPECIES
-=======
+# Valsa pennsylvanica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

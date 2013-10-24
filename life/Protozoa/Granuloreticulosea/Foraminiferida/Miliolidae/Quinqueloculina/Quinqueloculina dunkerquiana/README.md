@@ -1,8 +1,7 @@
-Miliolinella dunkerquiana Heron-Allen & Earland, 1930 SPECIES
-=======
+# Quinqueloculina dunkerquiana (Heron-Allen & Earland, 1930) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

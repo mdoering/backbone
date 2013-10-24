@@ -1,5 +1,4 @@
-Ceratostoma subpilosum Fuckel SPECIES
-=======
+# Ceratostoma subpilosum Fuckel SPECIES
 
 #### Status
 ACCEPTED

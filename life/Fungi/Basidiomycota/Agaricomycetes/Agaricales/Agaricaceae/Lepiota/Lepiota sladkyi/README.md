@@ -1,5 +1,4 @@
-Lepiota sladkyi Velen. SPECIES
-=======
+# Lepiota sladkyi Velen. SPECIES
 
 #### Status
 ACCEPTED

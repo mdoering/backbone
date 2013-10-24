@@ -1,5 +1,4 @@
-Xanthomonas perforans Jones et al., 2006 SPECIES
-=======
+# Xanthomonas perforans Jones et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

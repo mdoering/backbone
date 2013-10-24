@@ -1,17 +1,16 @@
-Diderma robusta Aramb. SPECIES
-=======
+# Diderma robustum Aramb., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boln Soc. argent. Bot. 15(2-3): 178 (1973)
 
 #### Original name
-Diderma robusta Aramb.
+Diderma robustum Aramb., 1973
 
 ### Remarks
 null

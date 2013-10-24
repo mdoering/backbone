@@ -1,14 +1,13 @@
-Mazzantia fennica Lind, 1915 SPECIES
-=======
+# Diachora fennica (Lind) E. Müll., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(1): 22 (1915)
+Trans. Bot. Soc. Edinb. , 150th anniversary supplement 71 (1986)
 
 #### Original name
 Mazzantia fennica Lind, 1915

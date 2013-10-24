@@ -1,5 +1,4 @@
-Pleospora puyae Speg. SPECIES
-=======
+# Pleospora puyae Speg. SPECIES
 
 #### Status
 ACCEPTED

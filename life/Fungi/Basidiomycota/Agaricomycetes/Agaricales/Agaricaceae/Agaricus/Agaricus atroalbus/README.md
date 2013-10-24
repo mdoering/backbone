@@ -1,5 +1,4 @@
-Agaricus atroalbus var. atroalbus VARIETY
-=======
+# Agaricus atroalbus Bolton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hist. fung. Halifax (Huddersfield) 3: 137 (1790)
 
 #### Original name
-Agaricus atroalbus var. atroalbus
+Agaricus atroalbus Bolton
 
 ### Remarks
 null

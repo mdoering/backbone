@@ -1,5 +1,4 @@
-Bacidia consanguinea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia consanguinea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

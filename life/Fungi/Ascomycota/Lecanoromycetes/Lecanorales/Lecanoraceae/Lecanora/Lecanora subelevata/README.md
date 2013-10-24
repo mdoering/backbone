@@ -1,5 +1,4 @@
-Lecanora subelevata (H. Magn.) Hertel SPECIES
-=======
+# Lecanora subelevata (H. Magn.) Hertel SPECIES
 
 #### Status
 ACCEPTED

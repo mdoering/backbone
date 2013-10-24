@@ -1,5 +1,4 @@
-Verrucaria polygonia Körb. SPECIES
-=======
+# Verrucaria polygonia Körb. SPECIES
 
 #### Status
 ACCEPTED

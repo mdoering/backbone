@@ -1,17 +1,16 @@
-Cladosporium anonae Nann. SPECIES
-=======
+# Cladosporium annonae Nann. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti R. Accad. Fisiocrit. Siena, Sér. 10 4(1-2): 91 (1929)
 
 #### Original name
-Cladosporium anonae Nann.
+Cladosporium annonae Nann.
 
 ### Remarks
 null

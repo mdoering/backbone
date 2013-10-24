@@ -1,5 +1,4 @@
-Synchytrium fraxini M.T. Cook SPECIES
-=======
+# Synchytrium fraxini M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

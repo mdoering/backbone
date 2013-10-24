@@ -1,14 +1,13 @@
-Oxneria tibelii (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Oxneria tibellii (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 60(4): 432 (2003)
 
 #### Original name
 Xanthoria tibellii S.Y. Kondr. & Kärnefelt

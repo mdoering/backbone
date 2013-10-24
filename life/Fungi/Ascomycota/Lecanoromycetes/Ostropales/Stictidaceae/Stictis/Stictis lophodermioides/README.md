@@ -1,5 +1,4 @@
-Stictis lophodermioides Seaver & Waterston SPECIES
-=======
+# Stictis lophodermioides Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

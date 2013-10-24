@@ -1,5 +1,4 @@
-Polyblastia solvens Anzi SPECIES
-=======
+# Polyblastia solvens Anzi SPECIES
 
 #### Status
 ACCEPTED

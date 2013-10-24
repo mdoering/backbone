@@ -1,5 +1,4 @@
-Sporidesmium sparsum Fresen. SPECIES
-=======
+# Sporidesmium sparsum Fresen. SPECIES
 
 #### Status
 ACCEPTED

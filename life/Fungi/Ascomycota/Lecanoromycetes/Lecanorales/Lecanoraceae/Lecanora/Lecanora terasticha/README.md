@@ -1,5 +1,4 @@
-Lecanora terasticha SPECIES
-=======
+# Lecanora terasticha SPECIES
 
 #### Status
 ACCEPTED

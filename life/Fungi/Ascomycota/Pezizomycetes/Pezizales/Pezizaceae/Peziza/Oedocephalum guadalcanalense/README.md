@@ -1,5 +1,4 @@
-Oedocephalum guadalcanalense Matsush. SPECIES
-=======
+# Oedocephalum guadalcanalense Matsush. SPECIES
 
 #### Status
 ACCEPTED

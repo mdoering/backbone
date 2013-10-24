@@ -1,5 +1,4 @@
-Aspidisca pelvis SPECIES
-=======
+# Aspidisca pelvis SPECIES
 
 #### Status
 ACCEPTED

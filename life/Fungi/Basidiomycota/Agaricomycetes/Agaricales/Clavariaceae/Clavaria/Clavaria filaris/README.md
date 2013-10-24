@@ -1,5 +1,4 @@
-Clavaria filaris Kalchbr. SPECIES
-=======
+# Clavaria filaris Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

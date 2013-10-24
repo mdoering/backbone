@@ -1,8 +1,7 @@
-Macrosporium cassiaecola Thüm. SPECIES
-=======
+# Macrosporium cassiicola Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrosporium cassiaecola Thüm.
+Macrosporium cassiicola Thüm.
 
 ### Remarks
 null

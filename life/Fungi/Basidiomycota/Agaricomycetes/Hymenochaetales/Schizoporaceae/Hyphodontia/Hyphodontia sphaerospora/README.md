@@ -1,14 +1,13 @@
-Hyphodontia arguta var. sphaerospora (N. Maek.) N. Maek., 1994 VARIETY
-=======
+# Hyphodontia sphaerospora (N. Maek.) Hjortstam, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Tottori Mycol. Inst. 32: 72 (1994)
+in Hjortstam & Ryvarden, Syn. Fung. (Oslo) 15: 12 (2002)
 
 #### Original name
 Grandinia arguta var. sphaerospora N. Maek., 1993

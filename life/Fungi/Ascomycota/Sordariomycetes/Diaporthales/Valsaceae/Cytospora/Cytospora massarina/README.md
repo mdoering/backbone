@@ -1,5 +1,4 @@
-Cytospora massarina Sacc. SPECIES
-=======
+# Cytospora massarina Sacc. SPECIES
 
 #### Status
 ACCEPTED

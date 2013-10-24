@@ -1,5 +1,4 @@
-Stemphylium sphaericum Sacc. SPECIES
-=======
+# Stemphylium sphaericum Sacc. SPECIES
 
 #### Status
 ACCEPTED

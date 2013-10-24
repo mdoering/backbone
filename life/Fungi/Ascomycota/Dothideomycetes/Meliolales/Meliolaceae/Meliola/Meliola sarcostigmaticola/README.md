@@ -1,5 +1,4 @@
-Meliola sarcostigmaticola Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola sarcostigmaticola Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

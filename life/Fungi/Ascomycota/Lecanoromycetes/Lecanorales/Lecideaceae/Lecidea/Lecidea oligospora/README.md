@@ -1,5 +1,4 @@
-Lecidea oligospora SPECIES
-=======
+# Lecidea oligospora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cistellina chamaeleontina (Peck) J.H. Haines SPECIES
-=======
+# Cistellina chamaeleontina (Peck) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

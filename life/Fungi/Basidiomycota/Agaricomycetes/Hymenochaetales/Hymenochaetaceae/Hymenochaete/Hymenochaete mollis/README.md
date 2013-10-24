@@ -1,5 +1,4 @@
-Hymenochaete mollis Bres., 1915 SPECIES
-=======
+# Hymenochaete mollis Bres., 1915 SPECIES
 
 #### Status
 ACCEPTED

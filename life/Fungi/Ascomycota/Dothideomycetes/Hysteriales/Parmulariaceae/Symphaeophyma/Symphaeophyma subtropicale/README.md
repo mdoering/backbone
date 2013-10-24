@@ -1,5 +1,4 @@
-Symphaeophyma subtropicale Speg., 1912 SPECIES
-=======
+# Symphaeophyma subtropicale Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

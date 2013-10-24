@@ -1,5 +1,4 @@
-Vaginulina bradyi Cushman SPECIES
-=======
+# Vaginulina bradyi Cushman SPECIES
 
 #### Status
 ACCEPTED

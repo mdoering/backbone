@@ -1,5 +1,4 @@
-Tubercularia sambuci Corda SPECIES
-=======
+# Tubercularia sambuci Corda SPECIES
 
 #### Status
 ACCEPTED

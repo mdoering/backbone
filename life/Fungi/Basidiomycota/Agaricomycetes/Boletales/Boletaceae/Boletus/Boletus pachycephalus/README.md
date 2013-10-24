@@ -1,5 +1,4 @@
-Boletus pachycephalus Massee SPECIES
-=======
+# Boletus pachycephalus Massee SPECIES
 
 #### Status
 ACCEPTED

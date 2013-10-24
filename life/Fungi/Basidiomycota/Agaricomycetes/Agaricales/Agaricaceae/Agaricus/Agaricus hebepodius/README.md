@@ -1,5 +1,4 @@
-Agaricus hebepodius Fr. SPECIES
-=======
+# Agaricus hebepodius Fr. SPECIES
 
 #### Status
 ACCEPTED

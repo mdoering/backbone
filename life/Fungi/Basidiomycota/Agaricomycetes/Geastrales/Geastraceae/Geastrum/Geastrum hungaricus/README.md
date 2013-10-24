@@ -1,8 +1,7 @@
-Geaster hungaricus Hollós SPECIES
-=======
+# Geastrum hungaricus Hollós SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster hungaricus Hollós
+Geastrum hungaricus Hollós
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myxacium duramarum Jul. Schäff. SPECIES
-=======
+# Myxacium duramarum Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

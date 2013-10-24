@@ -1,5 +1,4 @@
-Parmelia griseola C.W. Dodge & G.E. Baker SPECIES
-=======
+# Parmelia griseola C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

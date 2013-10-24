@@ -1,5 +1,4 @@
-Ditremis andamanica Makhija & Patw. SPECIES
-=======
+# Ditremis andamanica Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

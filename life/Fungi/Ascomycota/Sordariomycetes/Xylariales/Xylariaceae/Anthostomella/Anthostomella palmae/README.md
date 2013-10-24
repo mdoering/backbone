@@ -1,5 +1,4 @@
-Anthostomella palmae K.D. Hyde & B.S. Lu, 2000 SPECIES
-=======
+# Anthostomella palmae K.D. Hyde & B.S. Lu, 2000 SPECIES
 
 #### Status
 ACCEPTED

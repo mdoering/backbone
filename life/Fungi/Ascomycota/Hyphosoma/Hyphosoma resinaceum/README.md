@@ -1,14 +1,13 @@
-Hyphosoma resinacea (Cooke) S. Hughes SPECIES
-=======
+# Hyphosoma resinaceum (Cooke) S. Hughes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 36: 78 (1958)
 
 #### Original name
 Helminthosporium resinaceum Cooke

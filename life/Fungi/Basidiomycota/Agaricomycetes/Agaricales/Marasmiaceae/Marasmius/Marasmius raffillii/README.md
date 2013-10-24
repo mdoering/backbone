@@ -1,5 +1,4 @@
-Marasmius raffillii Massee SPECIES
-=======
+# Marasmius raffillii Massee SPECIES
 
 #### Status
 ACCEPTED

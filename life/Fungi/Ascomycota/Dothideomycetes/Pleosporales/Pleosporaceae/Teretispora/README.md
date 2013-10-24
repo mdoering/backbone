@@ -1,5 +1,4 @@
-Teretispora E.G. Simmons GENUS
-=======
+# Teretispora E.G. Simmons GENUS
 
 #### Status
 ACCEPTED

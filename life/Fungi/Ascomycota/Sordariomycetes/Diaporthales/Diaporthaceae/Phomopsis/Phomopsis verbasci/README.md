@@ -1,5 +1,4 @@
-Phomopsis verbasci D. Hawksw. & Punith., 1973 SPECIES
-=======
+# Phomopsis verbasci D. Hawksw. & Punith., 1973 SPECIES
 
 #### Status
 ACCEPTED

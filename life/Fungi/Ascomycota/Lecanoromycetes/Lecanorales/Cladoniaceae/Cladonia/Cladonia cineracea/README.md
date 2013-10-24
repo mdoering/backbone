@@ -1,5 +1,4 @@
-Cladonia cineracea Ahti SPECIES
-=======
+# Cladonia cineracea Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum crispifolium Yamada SPECIES
-=======
+# Sargassum crispifolium Yamada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Candida methanolophaga Kumam. & M. Yamam., 1987 SPECIES
-=======
+# Candida succiphila J.D. Lee & Komag., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Syst. Bacteriol. 30(2): 518 (1980)
 
 #### Original name
-null
+Candida succiphila J.D. Lee & Komag., 1980
 
 ### Remarks
 null

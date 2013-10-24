@@ -1,5 +1,4 @@
-Xylaria psidii J.D. Rogers & Hemmes SPECIES
-=======
+# Xylaria psidii J.D. Rogers & Hemmes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia diversicolor Ach. SPECIES
-=======
+# Parmelia diversicolor Ach. SPECIES
 
 #### Status
 ACCEPTED

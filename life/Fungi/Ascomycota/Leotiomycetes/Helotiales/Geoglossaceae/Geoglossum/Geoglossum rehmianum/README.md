@@ -1,5 +1,4 @@
-Geoglossum rehmianum Henn. SPECIES
-=======
+# Geoglossum rehmianum Henn. SPECIES
 
 #### Status
 ACCEPTED

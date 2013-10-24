@@ -1,5 +1,4 @@
-Dendronina limosa var. humilis Heron-Allen & Earland, 1922 VARIETY
-=======
+# Dendronina limosa Heron-Allen & Earland, 1922 SPECIES
 
 #### Status
 ACCEPTED

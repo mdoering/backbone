@@ -1,5 +1,4 @@
-Cortinarius anisatus H. Lindstr., Kytöv. & Niskanen SPECIES
-=======
+# Cortinarius anisatus H. Lindstr., Kytöv. & Niskanen SPECIES
 
 #### Status
 ACCEPTED

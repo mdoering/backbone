@@ -1,5 +1,4 @@
-Veronaea hedychii D.J. Soares & R.W. Barreto SPECIES
-=======
+# Veronaea hedychii D.J. Soares & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

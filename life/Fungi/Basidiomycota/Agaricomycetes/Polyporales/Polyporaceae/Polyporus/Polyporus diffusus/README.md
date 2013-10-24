@@ -1,5 +1,4 @@
-Polyporus diffusus Fr. SPECIES
-=======
+# Polyporus diffusus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula palmigena Bubak SPECIES
-=======
+# Torula palmigena Bubak SPECIES
 
 #### Status
 ACCEPTED

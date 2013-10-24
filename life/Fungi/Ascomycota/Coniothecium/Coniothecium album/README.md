@@ -1,5 +1,4 @@
-Coniothecium album Miura SPECIES
-=======
+# Coniothecium album Miura SPECIES
 
 #### Status
 ACCEPTED

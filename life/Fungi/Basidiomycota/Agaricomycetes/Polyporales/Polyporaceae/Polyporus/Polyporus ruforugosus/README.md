@@ -1,5 +1,4 @@
-Polyporus ruforugosus Lloyd SPECIES
-=======
+# Polyporus ruforugosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

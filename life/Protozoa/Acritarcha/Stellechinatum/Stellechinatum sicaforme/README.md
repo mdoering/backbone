@@ -1,5 +1,4 @@
-Stellechinatum sicaforme Molyneux in Molyneux & Rushton, 1988 SPECIES
-=======
+# Stellechinatum sicaforme Molyneux in Molyneux & Rushton, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyberlindnera GENUS
-=======
+# Cyberlindnera GENUS
 
 #### Status
 ACCEPTED

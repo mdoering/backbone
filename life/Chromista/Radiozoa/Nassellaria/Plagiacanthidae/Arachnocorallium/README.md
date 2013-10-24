@@ -1,5 +1,4 @@
-Arachnocorallium Haeckel, 1887 GENUS
-=======
+# Arachnocorallium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

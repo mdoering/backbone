@@ -1,5 +1,4 @@
-Asteroma genistae Gonz. Frag. SPECIES
-=======
+# Asteroma genistae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

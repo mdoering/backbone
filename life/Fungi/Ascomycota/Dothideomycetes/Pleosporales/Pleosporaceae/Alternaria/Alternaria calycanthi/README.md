@@ -1,5 +1,4 @@
-Alternaria calycanthi (Cavara) P. Joly SPECIES
-=======
+# Alternaria calycanthi (Cavara) P. Joly SPECIES
 
 #### Status
 ACCEPTED

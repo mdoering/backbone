@@ -1,8 +1,7 @@
-Holosticha alveolata Kahl, 1932 SPECIES
-=======
+# Apodileptus visscheri Dragesco SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Acanthostigma zeae Saccas, 1951 SPECIES
-=======
+# Acanthostigma zeae Saccas, 1951 SPECIES
 
 #### Status
 ACCEPTED

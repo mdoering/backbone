@@ -1,5 +1,4 @@
-Phoma catananchicae Gonz. Frag. SPECIES
-=======
+# Phoma catananchicae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoisaria von Höhnel, 1909 GENUS
-=======
+# Phaeoisaria von Höhnel, 1909 GENUS
 
 #### Status
 ACCEPTED

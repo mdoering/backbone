@@ -1,5 +1,4 @@
-Pseudomycena dilatata (Bull.) Cejp SPECIES
-=======
+# Pseudomycena dilatata (Bull.) Cejp SPECIES
 
 #### Status
 ACCEPTED

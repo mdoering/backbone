@@ -1,5 +1,4 @@
-Torula terrestris P.C. Misra, 1967 SPECIES
-=======
+# Torula terrestris P.C. Misra, 1967 SPECIES
 
 #### Status
 ACCEPTED

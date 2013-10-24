@@ -1,5 +1,4 @@
-Diplodia spurca (Wallr.) Sacc. SPECIES
-=======
+# Diplodia spurca (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

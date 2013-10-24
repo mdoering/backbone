@@ -1,5 +1,4 @@
-Inocybe mytiliodora Stangl & Vauras SPECIES
-=======
+# Inocybe mytiliodora Stangl & Vauras SPECIES
 
 #### Status
 ACCEPTED

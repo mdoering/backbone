@@ -1,5 +1,4 @@
-Ascophora fructicola Corda SPECIES
-=======
+# Ascophora fructicola Corda SPECIES
 
 #### Status
 ACCEPTED

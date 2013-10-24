@@ -1,5 +1,4 @@
-Pseudobaeospora lamingtonensis Aberdeen SPECIES
-=======
+# Pseudobaeospora lamingtonensis Aberdeen SPECIES
 
 #### Status
 ACCEPTED

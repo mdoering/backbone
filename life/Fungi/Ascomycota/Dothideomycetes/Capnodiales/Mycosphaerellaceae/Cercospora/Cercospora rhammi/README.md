@@ -1,5 +1,4 @@
-Cercospora rhammi SPECIES
-=======
+# Cercospora rhammi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium nigrescens Davis SPECIES
-=======
+# Synchytrium nigrescens Davis SPECIES
 
 #### Status
 ACCEPTED

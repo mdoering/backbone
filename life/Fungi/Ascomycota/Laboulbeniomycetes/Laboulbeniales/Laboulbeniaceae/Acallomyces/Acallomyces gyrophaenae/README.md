@@ -1,14 +1,13 @@
-Stigmatomyces gyrophaenae Thaxt., 1931 SPECIES
-=======
+# Acallomyces gyrophaenae (Thaxt.) I.I. Tav., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 165 (1931)
+Mycologia 65(4): 933 (1973)
 
 #### Original name
 Stigmatomyces gyrophaenae Thaxt., 1931

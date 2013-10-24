@@ -1,5 +1,4 @@
-Schizochora Syd. & P. Syd. GENUS
-=======
+# Schizochora Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosphaera stephanandrae (Jacz.) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera stephanandrae (Jacz.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia agaves Earle SPECIES
-=======
+# Lembosia agaves Earle SPECIES
 
 #### Status
 ACCEPTED

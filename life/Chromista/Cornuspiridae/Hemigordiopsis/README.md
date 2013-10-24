@@ -1,5 +1,4 @@
-Hemigordiopsis Reichel, 1945 GENUS
-=======
+# Hemigordiopsis Reichel, 1945 GENUS
 
 #### Status
 ACCEPTED

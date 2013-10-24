@@ -1,5 +1,4 @@
-Trogia revoluta Corner SPECIES
-=======
+# Trogia revoluta Corner SPECIES
 
 #### Status
 ACCEPTED

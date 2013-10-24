@@ -1,5 +1,4 @@
-Lecanora liparia (Ach.) Ach. SPECIES
-=======
+# Lecanora liparia (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

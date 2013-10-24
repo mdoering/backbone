@@ -1,5 +1,4 @@
-Xylosphaera fulvella (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Xylosphaera fulvella (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

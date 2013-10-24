@@ -1,5 +1,4 @@
-Proliferodiscus caeruleoniger Spooner, 1987 SPECIES
-=======
+# Proliferodiscus caeruleoniger Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

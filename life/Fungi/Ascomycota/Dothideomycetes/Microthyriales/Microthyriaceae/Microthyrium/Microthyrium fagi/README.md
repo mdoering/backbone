@@ -1,5 +1,4 @@
-Microthyrium fagi J.P. Ellis, 1977 SPECIES
-=======
+# Microthyrium fagi J.P. Ellis, 1977 SPECIES
 
 #### Status
 ACCEPTED

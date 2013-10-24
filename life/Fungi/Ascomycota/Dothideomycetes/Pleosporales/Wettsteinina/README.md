@@ -1,5 +1,4 @@
-Wettsteinina Höhn. GENUS
-=======
+# Wettsteinina Höhn. GENUS
 
 #### Status
 ACCEPTED

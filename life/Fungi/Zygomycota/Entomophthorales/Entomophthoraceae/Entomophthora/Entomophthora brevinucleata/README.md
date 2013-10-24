@@ -1,5 +1,4 @@
-Entomophthora brevinucleata S. Keller & Wilding, 1985 SPECIES
-=======
+# Entomophthora brevinucleata S. Keller & Wilding, 1985 SPECIES
 
 #### Status
 ACCEPTED

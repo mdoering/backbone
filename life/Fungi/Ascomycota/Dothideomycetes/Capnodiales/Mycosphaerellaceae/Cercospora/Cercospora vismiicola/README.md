@@ -1,17 +1,16 @@
-Cercospora vismicola Chupp SPECIES
-=======
+# Cercospora vismiicola Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 257 (1954)
 
 #### Original name
-Cercospora vismicola Chupp
+Cercospora vismiicola Chupp
 
 ### Remarks
 null

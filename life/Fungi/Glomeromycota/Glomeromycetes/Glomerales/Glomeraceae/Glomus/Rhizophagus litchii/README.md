@@ -1,5 +1,4 @@
-Rhizophagus litchii Pandey {?} & J.K. Misra SPECIES
-=======
+# Rhizophagus litchii Pandey {?} & J.K. Misra SPECIES
 
 #### Status
 ACCEPTED

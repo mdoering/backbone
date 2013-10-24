@@ -1,5 +1,4 @@
-Lauriomyces ellipticus Somrith. & E.B.G. Jones SPECIES
-=======
+# Lauriomyces ellipticus Somrith. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

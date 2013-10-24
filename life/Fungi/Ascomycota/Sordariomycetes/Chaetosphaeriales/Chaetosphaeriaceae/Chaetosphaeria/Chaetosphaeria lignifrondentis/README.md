@@ -1,5 +1,4 @@
-Chaetosphaeria lignifrondentis Réblová & W. Gams SPECIES
-=======
+# Chaetosphaeria lignifrondentis Réblová & W. Gams SPECIES
 
 #### Status
 ACCEPTED

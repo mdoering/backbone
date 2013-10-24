@@ -1,5 +1,4 @@
-Caeoma lichtensteiniae Doidge SPECIES
-=======
+# Caeoma lichtensteiniae Doidge SPECIES
 
 #### Status
 ACCEPTED

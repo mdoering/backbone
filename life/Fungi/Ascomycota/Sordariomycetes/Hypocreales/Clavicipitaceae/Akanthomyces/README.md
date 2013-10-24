@@ -1,5 +1,4 @@
-Akanthomyces Lebert, 1858 GENUS
-=======
+# Akanthomyces Lebert, 1858 GENUS
 
 #### Status
 ACCEPTED

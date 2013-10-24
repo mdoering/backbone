@@ -1,5 +1,4 @@
-Blysmasphaera brasiliensis Brönnimann, 1988 SPECIES
-=======
+# Blysmasphaera brasiliensis Brönnimann, 1988 SPECIES
 
 #### Status
 ACCEPTED

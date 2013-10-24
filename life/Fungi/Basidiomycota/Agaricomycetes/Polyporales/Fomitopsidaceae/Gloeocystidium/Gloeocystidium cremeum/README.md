@@ -1,5 +1,4 @@
-Gloeocystidium cremeum Rick SPECIES
-=======
+# Gloeocystidium cremeum Rick SPECIES
 
 #### Status
 ACCEPTED

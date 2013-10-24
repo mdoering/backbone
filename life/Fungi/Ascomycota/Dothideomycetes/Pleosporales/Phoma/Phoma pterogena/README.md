@@ -1,5 +1,4 @@
-Phoma pterogena Pass. SPECIES
-=======
+# Phoma pterogena Pass. SPECIES
 
 #### Status
 ACCEPTED

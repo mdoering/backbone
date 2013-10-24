@@ -1,5 +1,4 @@
-Hamatocanthoscypha phaeotricha (K. Holm & L. Holm) Raitv. SPECIES
-=======
+# Hamatocanthoscypha phaeotricha (K. Holm & L. Holm) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea rugosa Allesch. SPECIES
-=======
+# Daedalea rugosa Allesch. SPECIES
 
 #### Status
 ACCEPTED

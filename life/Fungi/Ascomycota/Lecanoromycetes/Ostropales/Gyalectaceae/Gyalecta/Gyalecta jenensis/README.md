@@ -1,17 +1,16 @@
-Patellaria cupularis (Hedw.) Wibel SPECIES
-=======
+# Gyalecta jenensis (Batsch) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lichen cupularis Hedw.
+null
 
 ### Remarks
 null

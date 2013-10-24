@@ -1,5 +1,4 @@
-Thermutis friesii (C. Agardh) Flot. SPECIES
-=======
+# Thermutis friesii (C. Agardh) Flot. SPECIES
 
 #### Status
 ACCEPTED

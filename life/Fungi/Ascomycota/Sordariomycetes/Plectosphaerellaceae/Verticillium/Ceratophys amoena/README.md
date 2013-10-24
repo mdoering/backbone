@@ -1,5 +1,4 @@
-Ceratophys amoena Ribaut, 1920 SPECIES
-=======
+# Ceratophys amoena Ribaut, 1920 SPECIES
 
 #### Status
 ACCEPTED

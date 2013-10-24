@@ -1,5 +1,4 @@
-Togniniella Réblová, L. Mostert, W. Gams & Crous GENUS
-=======
+# Togniniella Réblová, L. Mostert, W. Gams & Crous GENUS
 
 #### Status
 ACCEPTED

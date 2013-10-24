@@ -1,5 +1,4 @@
-Pterula pungens (Lév.) Sacc. SPECIES
-=======
+# Pterula pungens (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

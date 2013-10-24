@@ -1,14 +1,13 @@
-Fungus subgibbosus (Fr.) Kuntze, 1898 SPECIES
-=======
+# Agaricus subgibbosus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 480 (1898)
+null
 
 #### Original name
 Agaricus subgibbosus Fr., 1838

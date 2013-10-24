@@ -1,5 +1,4 @@
-Pezicula tetraspora Sacc. SPECIES
-=======
+# Pezicula tetraspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phragmonaevia euphorbicola Rehm SPECIES
-=======
+# Phragmonaevia euphorbiicola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39(4): 213 (1900)
 
 #### Original name
-Phragmonaevia euphorbicola Rehm
+Phragmonaevia euphorbiicola Rehm
 
 ### Remarks
 null

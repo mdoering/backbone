@@ -1,5 +1,4 @@
-Hygrocybe polychroma Bougher & A.M. Young SPECIES
-=======
+# Hygrocybe polychroma Bougher & A.M. Young SPECIES
 
 #### Status
 ACCEPTED

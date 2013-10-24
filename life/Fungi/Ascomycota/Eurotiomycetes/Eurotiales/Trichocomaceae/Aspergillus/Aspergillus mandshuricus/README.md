@@ -1,5 +1,4 @@
-Aspergillus mandshuricus Hanawa SPECIES
-=======
+# Aspergillus mandshuricus Hanawa SPECIES
 
 #### Status
 ACCEPTED

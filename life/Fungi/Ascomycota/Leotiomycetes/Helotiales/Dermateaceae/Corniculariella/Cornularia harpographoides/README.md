@@ -1,5 +1,4 @@
-Cornularia harpographoides Dearn. SPECIES
-=======
+# Cornularia harpographoides Dearn. SPECIES
 
 #### Status
 ACCEPTED

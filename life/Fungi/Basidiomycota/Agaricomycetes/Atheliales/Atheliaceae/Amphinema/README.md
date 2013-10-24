@@ -1,17 +1,16 @@
-Diplonema P. Karsten, 1889 GENUS
-=======
+# Amphinema P. Karsten, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 48: 430 (1889)
+Bidr. Känn. Finl. Nat. Folk 51: 228 (1892)
 
 #### Original name
-Diplonema P. Karsten, 1889
+Amphinema P. Karsten, 1892
 
 ### Remarks
 null

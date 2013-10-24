@@ -1,5 +1,4 @@
-Microthelia minutula Zahlbr. SPECIES
-=======
+# Microthelia minutula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

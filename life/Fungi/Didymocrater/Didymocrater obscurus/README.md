@@ -1,5 +1,4 @@
-Didymocrater obscurus H. Mart. SPECIES
-=======
+# Didymocrater obscurus H. Mart. SPECIES
 
 #### Status
 ACCEPTED

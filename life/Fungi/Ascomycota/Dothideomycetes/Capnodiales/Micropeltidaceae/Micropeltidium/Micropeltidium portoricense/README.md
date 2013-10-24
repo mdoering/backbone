@@ -1,5 +1,4 @@
-Micropeltidium portoricense Speg. SPECIES
-=======
+# Micropeltidium portoricense Speg. SPECIES
 
 #### Status
 ACCEPTED

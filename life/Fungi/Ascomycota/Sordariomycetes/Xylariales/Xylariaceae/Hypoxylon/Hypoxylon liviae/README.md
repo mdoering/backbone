@@ -1,5 +1,4 @@
-Hypoxylon liviae Granmo SPECIES
-=======
+# Hypoxylon liviae Granmo SPECIES
 
 #### Status
 ACCEPTED

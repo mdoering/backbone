@@ -1,5 +1,4 @@
-Heimiomyces fulvus E. Horak SPECIES
-=======
+# Heimiomyces fulvus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyonomyces pyriformis T.N. Taylor, Hass & W. Remy SPECIES
-=======
+# Lyonomyces pyriformis T.N. Taylor, Hass & W. Remy SPECIES
 
 #### Status
 ACCEPTED

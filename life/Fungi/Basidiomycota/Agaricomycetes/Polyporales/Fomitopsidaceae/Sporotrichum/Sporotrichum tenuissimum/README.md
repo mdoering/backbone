@@ -1,5 +1,4 @@
-Sporotrichum tenuissimum Grev. SPECIES
-=======
+# Sporotrichum tenuissimum Grev. SPECIES
 
 #### Status
 ACCEPTED

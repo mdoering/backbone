@@ -1,5 +1,4 @@
-Amanita sanguinea Lam. SPECIES
-=======
+# Amanita sanguinea Lam. SPECIES
 
 #### Status
 ACCEPTED

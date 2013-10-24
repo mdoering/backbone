@@ -1,5 +1,4 @@
-Ganoderma lingua (Nees) Pat. SPECIES
-=======
+# Ganoderma lingua (Nees) Pat. SPECIES
 
 #### Status
 ACCEPTED

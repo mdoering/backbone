@@ -1,5 +1,4 @@
-Blastenia ferruginella (Nyl.) Müll. Arg. SPECIES
-=======
+# Blastenia ferruginella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

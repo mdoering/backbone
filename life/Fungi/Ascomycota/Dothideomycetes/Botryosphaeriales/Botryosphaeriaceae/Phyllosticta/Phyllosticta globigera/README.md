@@ -1,5 +1,4 @@
-Phyllosticta globigera Sacc. SPECIES
-=======
+# Phyllosticta globigera Sacc. SPECIES
 
 #### Status
 ACCEPTED

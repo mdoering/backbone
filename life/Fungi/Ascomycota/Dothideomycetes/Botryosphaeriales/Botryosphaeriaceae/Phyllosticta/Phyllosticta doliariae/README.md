@@ -1,5 +1,4 @@
-Phyllosticta doliariae Bat. & Silva {?} SPECIES
-=======
+# Phyllosticta doliariae Bat. & Silva {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodinula parietariae (Brunaud) Tassi SPECIES
-=======
+# Diplodinula parietariae (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

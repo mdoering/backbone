@@ -1,5 +1,4 @@
-Sarcophoma garganica (Sacc.) Arx SPECIES
-=======
+# Sarcophoma garganica (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

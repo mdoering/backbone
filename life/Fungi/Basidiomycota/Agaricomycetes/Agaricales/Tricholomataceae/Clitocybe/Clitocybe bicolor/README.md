@@ -1,5 +1,4 @@
-Clitocybe bicolor (R.E.D. Baker & W.T. Dale) Dennis SPECIES
-=======
+# Clitocybe bicolor (R.E.D. Baker & W.T. Dale) Dennis SPECIES
 
 #### Status
 ACCEPTED

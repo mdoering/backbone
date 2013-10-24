@@ -1,5 +1,4 @@
-Lophodermium platyplacum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lophodermium platyplacum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

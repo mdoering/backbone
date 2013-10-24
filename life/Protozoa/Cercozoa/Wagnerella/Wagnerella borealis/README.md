@@ -1,5 +1,4 @@
-Wagnerella borealis Mereschkowsky, 1878 SPECIES
-=======
+# Wagnerella borealis Mereschkowsky, 1878 SPECIES
 
 #### Status
 ACCEPTED

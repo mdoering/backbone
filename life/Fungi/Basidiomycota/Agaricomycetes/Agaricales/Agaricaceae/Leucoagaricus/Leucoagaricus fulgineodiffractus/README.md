@@ -1,5 +1,4 @@
-Leucoagaricus fulgineodiffractus Bellù & Lanzoni SPECIES
-=======
+# Leucoagaricus fulgineodiffractus Bellù & Lanzoni SPECIES
 
 #### Status
 ACCEPTED

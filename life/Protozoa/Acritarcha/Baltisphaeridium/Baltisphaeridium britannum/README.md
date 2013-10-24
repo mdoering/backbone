@@ -1,5 +1,4 @@
-Baltisphaeridium britannum (Deunff, 1965) Jux, 1975 SPECIES
-=======
+# Baltisphaeridium britannum (Deunff, 1965) Jux, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nucellosphaeridium bellum Timofeev, 1969 SPECIES
-=======
+# Nucellosphaeridium bellum Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

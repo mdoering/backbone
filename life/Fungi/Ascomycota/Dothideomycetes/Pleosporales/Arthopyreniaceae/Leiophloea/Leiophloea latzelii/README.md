@@ -1,5 +1,4 @@
-Leiophloea latzelii (Zahlbr.) Riedl SPECIES
-=======
+# Leiophloea latzelii (Zahlbr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

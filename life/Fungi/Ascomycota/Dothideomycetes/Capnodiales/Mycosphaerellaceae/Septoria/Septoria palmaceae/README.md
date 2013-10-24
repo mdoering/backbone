@@ -1,5 +1,4 @@
-Septoria palmaceae Gonz. Frag. & Cif. SPECIES
-=======
+# Septoria palmaceae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus cancellatus Vent. SPECIES
-=======
+# Phallus cancellatus Vent. SPECIES
 
 #### Status
 ACCEPTED

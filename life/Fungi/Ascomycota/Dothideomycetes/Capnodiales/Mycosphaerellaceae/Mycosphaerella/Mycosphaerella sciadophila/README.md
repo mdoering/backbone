@@ -1,5 +1,4 @@
-Mycosphaerella sciadophila (Pass.) Magnus SPECIES
-=======
+# Mycosphaerella sciadophila (Pass.) Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta ceratina Tuck. SPECIES
-=======
+# Gyalecta ceratina Tuck. SPECIES
 
 #### Status
 ACCEPTED

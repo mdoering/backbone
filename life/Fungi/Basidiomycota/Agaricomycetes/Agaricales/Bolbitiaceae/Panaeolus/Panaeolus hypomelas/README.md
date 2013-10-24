@@ -1,5 +1,4 @@
-Panaeolus hypomelas (Fr.) Sacc. SPECIES
-=======
+# Panaeolus hypomelas (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

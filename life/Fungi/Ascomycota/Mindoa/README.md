@@ -1,5 +1,4 @@
-Mindoa Petr. GENUS
-=======
+# Mindoa Petr. GENUS
 
 #### Status
 ACCEPTED

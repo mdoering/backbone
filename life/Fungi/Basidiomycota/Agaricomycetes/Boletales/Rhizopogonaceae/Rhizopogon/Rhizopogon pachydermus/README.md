@@ -1,5 +1,4 @@
-Rhizopogon pachydermus K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon pachydermus K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

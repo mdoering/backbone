@@ -1,5 +1,4 @@
-Botryochloropsis H.R.Preisig & C.Wilhelm, 1989 GENUS
-=======
+# Botryochloropsis H.R.Preisig & C.Wilhelm, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rubrobacter taiwanensis Chen et al., 2004 SPECIES
-=======
+# Rubrobacter taiwanensis Chen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus spiculifer Berk. SPECIES
-=======
+# Agaricus spiculifer Berk. SPECIES
 
 #### Status
 ACCEPTED

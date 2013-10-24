@@ -1,5 +1,4 @@
-Leptonia aripoana (Dennis) Dennis SPECIES
-=======
+# Leptonia aripoana (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

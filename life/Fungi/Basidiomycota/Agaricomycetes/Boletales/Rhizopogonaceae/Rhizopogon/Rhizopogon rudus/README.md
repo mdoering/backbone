@@ -1,5 +1,4 @@
-Rhizopogon rudus A.H. Sm. SPECIES
-=======
+# Rhizopogon rudus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

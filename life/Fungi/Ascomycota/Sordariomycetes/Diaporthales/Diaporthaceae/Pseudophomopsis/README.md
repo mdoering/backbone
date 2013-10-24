@@ -1,5 +1,4 @@
-Pseudophomopsis GENUS
-=======
+# Pseudophomopsis GENUS
 
 #### Status
 ACCEPTED

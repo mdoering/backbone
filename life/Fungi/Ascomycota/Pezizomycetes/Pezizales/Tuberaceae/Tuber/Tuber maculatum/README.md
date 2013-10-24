@@ -1,17 +1,16 @@
-Tuber maculatum f. maculatum FORM
-=======
+# Tuber maculatum Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 45 (1831)
 
 #### Original name
-null
+Tuber maculatum Vittad., 1831
 
 ### Remarks
 null

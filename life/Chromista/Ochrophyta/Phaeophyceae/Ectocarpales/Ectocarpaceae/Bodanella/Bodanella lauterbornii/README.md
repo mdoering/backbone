@@ -1,5 +1,4 @@
-Bodanella lauterbornii Zimmermann SPECIES
-=======
+# Bodanella lauterbornii Zimmermann SPECIES
 
 #### Status
 ACCEPTED

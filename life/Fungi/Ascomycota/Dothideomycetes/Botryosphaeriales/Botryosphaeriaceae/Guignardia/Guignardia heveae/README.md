@@ -1,5 +1,4 @@
-Guignardia heveae Syd. & P. Syd., 1916 SPECIES
-=======
+# Guignardia heveae Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

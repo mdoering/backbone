@@ -1,5 +1,4 @@
-Alpova pseudostipitatus Calonge & Siquier, 2000 SPECIES
-=======
+# Alpova pseudostipitatus Calonge & Siquier, 2000 SPECIES
 
 #### Status
 ACCEPTED

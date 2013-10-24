@@ -1,5 +1,4 @@
-Eunotogramma laevis Grunow SPECIES
-=======
+# Eunotogramma laevis Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia pupa Eichwald, 1849 SPECIES
-=======
+# Cothurnia pupa Eichwald, 1849 SPECIES
 
 #### Status
 ACCEPTED

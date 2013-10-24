@@ -1,5 +1,4 @@
-Russula cistorum Bidaud SPECIES
-=======
+# Russula cistorum Bidaud SPECIES
 
 #### Status
 ACCEPTED

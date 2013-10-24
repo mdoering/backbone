@@ -1,5 +1,4 @@
-Archaeopontosphaera primitiva Jafar, 1983 SPECIES
-=======
+# Archaeopontosphaera primitiva Jafar, 1983 SPECIES
 
 #### Status
 ACCEPTED

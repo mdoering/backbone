@@ -1,5 +1,4 @@
-Peronospora sinensis D.Z. Tang SPECIES
-=======
+# Peronospora sinensis D.Z. Tang SPECIES
 
 #### Status
 ACCEPTED

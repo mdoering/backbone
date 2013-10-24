@@ -1,5 +1,4 @@
-Oropagis Friend & Riedel, 1967 GENUS
-=======
+# Oropagis Friend & Riedel, 1967 GENUS
 
 #### Status
 ACCEPTED

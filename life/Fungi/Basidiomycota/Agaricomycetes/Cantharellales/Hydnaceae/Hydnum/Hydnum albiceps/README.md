@@ -1,5 +1,4 @@
-Hydnum albiceps Berk. & Ravenel ex Cooke SPECIES
-=======
+# Hydnum albiceps Berk. & Ravenel ex Cooke SPECIES
 
 #### Status
 ACCEPTED

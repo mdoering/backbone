@@ -1,5 +1,4 @@
-Larnacostupa Haeckel, 1887 GENUS
-=======
+# Larnacostupa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

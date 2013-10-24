@@ -1,5 +1,4 @@
-Stagonosporopsis carpathicola Petr. SPECIES
-=======
+# Stagonosporopsis carpathicola Petr. SPECIES
 
 #### Status
 ACCEPTED

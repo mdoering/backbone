@@ -1,5 +1,4 @@
-Hysterium adinae R.K. Verma, N. Sharma & Soni, 2008 SPECIES
-=======
+# Hysterium adinae R.K. Verma, N. Sharma & Soni, 2008 SPECIES
 
 #### Status
 ACCEPTED

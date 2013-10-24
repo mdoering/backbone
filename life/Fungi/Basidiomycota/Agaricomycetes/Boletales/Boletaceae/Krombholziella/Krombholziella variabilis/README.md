@@ -1,5 +1,4 @@
-Krombholziella variabilis (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella variabilis (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

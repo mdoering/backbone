@@ -1,5 +1,4 @@
-Agaricus conveniens Schulzer SPECIES
-=======
+# Agaricus conveniens Schulzer SPECIES
 
 #### Status
 ACCEPTED

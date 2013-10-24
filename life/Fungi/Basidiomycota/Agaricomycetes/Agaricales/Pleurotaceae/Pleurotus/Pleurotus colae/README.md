@@ -1,5 +1,4 @@
-Pleurotus colae Massee SPECIES
-=======
+# Pleurotus colae Massee SPECIES
 
 #### Status
 ACCEPTED

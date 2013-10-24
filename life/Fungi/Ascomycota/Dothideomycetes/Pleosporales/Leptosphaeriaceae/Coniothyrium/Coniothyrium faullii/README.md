@@ -1,5 +1,4 @@
-Coniothyrium faullii Darker SPECIES
-=======
+# Coniothyrium faullii Darker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globigerinoides obliquus subsp. obliquus SUBSPECIES
-=======
+# Globigerinoides obliquus Bolli SPECIES
 
 #### Status
 ACCEPTED

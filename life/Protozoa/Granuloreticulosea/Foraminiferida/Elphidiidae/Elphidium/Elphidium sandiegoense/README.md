@@ -1,5 +1,4 @@
-Elphidium sandiegoense (Lankford, 1973 in Lankford & Phleger, 1973) SPECIES
-=======
+# Elphidium sandiegoense (Lankford, 1973 in Lankford & Phleger, 1973) SPECIES
 
 #### Status
 ACCEPTED

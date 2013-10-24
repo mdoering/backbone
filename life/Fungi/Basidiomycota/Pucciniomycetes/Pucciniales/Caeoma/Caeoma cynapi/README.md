@@ -1,5 +1,4 @@
-Caeoma cynapi (DC.) Schltdl. SPECIES
-=======
+# Caeoma cynapi (DC.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

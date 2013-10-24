@@ -1,5 +1,4 @@
-Aecidium pavoniae-odoratae T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Aecidium pavoniae-odoratae T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

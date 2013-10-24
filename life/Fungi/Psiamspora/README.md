@@ -1,5 +1,4 @@
-Psiamspora Locq. & Sal.-Cheb. GENUS
-=======
+# Psiamspora Locq. & Sal.-Cheb. GENUS
 
 #### Status
 ACCEPTED

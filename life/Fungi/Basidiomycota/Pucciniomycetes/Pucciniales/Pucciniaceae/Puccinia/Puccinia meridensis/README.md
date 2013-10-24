@@ -1,5 +1,4 @@
-Puccinia meridensis F. Kern SPECIES
-=======
+# Puccinia meridensis F. Kern SPECIES
 
 #### Status
 ACCEPTED

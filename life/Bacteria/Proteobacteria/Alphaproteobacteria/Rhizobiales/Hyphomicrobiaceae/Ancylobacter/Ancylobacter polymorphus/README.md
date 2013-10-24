@@ -1,5 +1,4 @@
-Ancylobacter polymorphus Xin et al., 2006 SPECIES
-=======
+# Ancylobacter polymorphus Xin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

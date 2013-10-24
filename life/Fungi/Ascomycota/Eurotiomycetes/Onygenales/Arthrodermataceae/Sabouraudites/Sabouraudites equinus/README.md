@@ -1,5 +1,4 @@
-Sabouraudites equinus (Delacr. & E. Bodin) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites equinus (Delacr. & E. Bodin) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

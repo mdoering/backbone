@@ -1,5 +1,4 @@
-Cercosporella struthiopteridis Siemaszko SPECIES
-=======
+# Cercosporella struthiopteridis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

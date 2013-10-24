@@ -1,14 +1,13 @@
-Hysteropeziza erumpens (Grev.) Rabenh., 1874 SPECIES
-=======
+# Mollisia erumpens (Grev.) W. Phillips SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia (1874)
+null
 
 #### Original name
 null

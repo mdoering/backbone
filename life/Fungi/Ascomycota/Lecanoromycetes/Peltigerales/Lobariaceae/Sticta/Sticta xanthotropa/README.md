@@ -1,5 +1,4 @@
-Sticta xanthotropa (Kremp.) D.J. Galloway SPECIES
-=======
+# Sticta xanthotropa (Kremp.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia pterocelastri Laughton SPECIES
-=======
+# Pestalotia pterocelastri Laughton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hyalopus pammeli (R.E. Buchanan) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus pammelii (R.E. Buchanan) M.A.J. Barbosa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notarisia 26 (1941)
 
 #### Original name
 Cephalosporium pammelii R.E. Buchanan

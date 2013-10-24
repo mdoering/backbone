@@ -1,5 +1,4 @@
-Gloeoporus subvinaceus Corner, 1992 SPECIES
-=======
+# Gloeoporus subvinaceus Corner, 1992 SPECIES
 
 #### Status
 ACCEPTED

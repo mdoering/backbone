@@ -1,5 +1,4 @@
-Delicatula subtilis Velen. SPECIES
-=======
+# Delicatula subtilis Velen. SPECIES
 
 #### Status
 ACCEPTED

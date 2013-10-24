@@ -1,5 +1,4 @@
-Idriella jambosae R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Idriella jambosae R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

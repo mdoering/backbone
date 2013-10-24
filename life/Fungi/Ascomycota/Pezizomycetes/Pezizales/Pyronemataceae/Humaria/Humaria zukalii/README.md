@@ -1,5 +1,4 @@
-Humaria zukalii Rehm SPECIES
-=======
+# Humaria zukalii Rehm SPECIES
 
 #### Status
 ACCEPTED

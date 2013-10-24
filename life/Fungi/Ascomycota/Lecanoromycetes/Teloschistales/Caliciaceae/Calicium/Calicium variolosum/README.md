@@ -1,5 +1,4 @@
-Calicium variolosum Fr. SPECIES
-=======
+# Calicium variolosum Fr. SPECIES
 
 #### Status
 ACCEPTED

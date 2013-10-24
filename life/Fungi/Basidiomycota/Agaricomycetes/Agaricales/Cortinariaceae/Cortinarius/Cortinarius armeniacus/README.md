@@ -1,5 +1,4 @@
-Cortinarius armeniacus var. armeniacus VARIETY
-=======
+# Cortinarius armeniacus (Schaeff.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 304 (1838)
 
 #### Original name
-Cortinarius armeniacus var. armeniacus
+Agaricus armeniacus Schaeff.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia amphibola (Ach.) Arnold SPECIES
-=======
+# Aspicilia amphibola (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

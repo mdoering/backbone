@@ -1,5 +1,4 @@
-Penicillium echinulatum var. discolor Frisvad VARIETY
-=======
+# Penicillium echinulatum E. Dale SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+La Cellule 33: 278 (1923)
 
 #### Original name
-Penicillium echinulatum var. discolor Frisvad
+Penicillium echinulatum E. Dale
 
 ### Remarks
 null

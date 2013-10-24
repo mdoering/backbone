@@ -1,8 +1,7 @@
-Graphis balbisii Fée SPECIES
-=======
+# Hemithecium balbisii (Fée) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Graphis balbisii Fée
 
 ### Remarks
 null

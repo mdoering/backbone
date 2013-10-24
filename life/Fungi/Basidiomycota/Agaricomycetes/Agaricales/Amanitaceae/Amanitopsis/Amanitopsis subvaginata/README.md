@@ -1,5 +1,4 @@
-Amanitopsis subvaginata Cleland SPECIES
-=======
+# Amanitopsis subvaginata Cleland SPECIES
 
 #### Status
 ACCEPTED

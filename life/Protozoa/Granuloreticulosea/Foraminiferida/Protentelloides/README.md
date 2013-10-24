@@ -1,5 +1,4 @@
-Protentelloides Zhang & Scott, 1995 GENUS
-=======
+# Protentelloides Zhang & Scott, 1995 GENUS
 
 #### Status
 ACCEPTED

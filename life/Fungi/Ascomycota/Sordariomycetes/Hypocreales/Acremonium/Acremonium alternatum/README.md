@@ -1,5 +1,4 @@
-Acremonium alternatum Link, 1809 SPECIES
-=======
+# Acremonium alternatum Link, 1809 SPECIES
 
 #### Status
 ACCEPTED

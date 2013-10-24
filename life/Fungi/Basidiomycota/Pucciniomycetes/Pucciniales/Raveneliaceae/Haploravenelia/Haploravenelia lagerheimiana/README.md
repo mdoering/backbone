@@ -1,5 +1,4 @@
-Haploravenelia lagerheimiana (Dietel) Syd. SPECIES
-=======
+# Haploravenelia lagerheimiana (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

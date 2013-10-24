@@ -1,5 +1,4 @@
-Pestalotia littoralis Av.-Saccá SPECIES
-=======
+# Pestalotia littoralis Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

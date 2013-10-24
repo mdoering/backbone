@@ -1,5 +1,4 @@
-Syntrophococcus sucromutans Krumholz & Bryant, 1986 SPECIES
-=======
+# Syntrophococcus sucromutans Krumholz & Bryant, 1986 SPECIES
 
 #### Status
 ACCEPTED

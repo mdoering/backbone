@@ -1,5 +1,4 @@
-Trichodina matsu SPECIES
-=======
+# Trichodina matsu SPECIES
 
 #### Status
 ACCEPTED

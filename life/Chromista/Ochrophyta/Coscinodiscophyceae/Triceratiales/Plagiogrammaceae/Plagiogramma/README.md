@@ -1,5 +1,4 @@
-Plagiogramma Grev. GENUS
-=======
+# Plagiogramma Grev. GENUS
 
 #### Status
 ACCEPTED

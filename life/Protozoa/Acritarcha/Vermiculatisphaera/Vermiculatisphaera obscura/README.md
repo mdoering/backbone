@@ -1,5 +1,4 @@
-Vermiculatisphaera obscura Miller & Eames, 1982 SPECIES
-=======
+# Vermiculatisphaera obscura Miller & Eames, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria teucriicola Brunaud SPECIES
-=======
+# Septoria teucriicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

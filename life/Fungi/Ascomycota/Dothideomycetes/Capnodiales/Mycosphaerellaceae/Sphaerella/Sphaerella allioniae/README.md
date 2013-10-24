@@ -1,5 +1,4 @@
-Sphaerella allioniae Speg. SPECIES
-=======
+# Sphaerella allioniae Speg. SPECIES
 
 #### Status
 ACCEPTED

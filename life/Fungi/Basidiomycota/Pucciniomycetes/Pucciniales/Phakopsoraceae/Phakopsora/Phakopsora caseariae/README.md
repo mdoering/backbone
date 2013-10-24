@@ -1,5 +1,4 @@
-Phakopsora caseariae Yadav SPECIES
-=======
+# Phakopsora caseariae Yadav SPECIES
 
 #### Status
 ACCEPTED

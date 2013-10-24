@@ -1,5 +1,4 @@
-Uredo ipomoeae-pentaphyllae Henn. SPECIES
-=======
+# Uredo ipomoeae-pentaphyllae Henn. SPECIES
 
 #### Status
 ACCEPTED

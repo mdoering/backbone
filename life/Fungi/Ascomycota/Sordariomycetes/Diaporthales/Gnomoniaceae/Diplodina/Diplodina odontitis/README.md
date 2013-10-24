@@ -1,5 +1,4 @@
-Diplodina odontitis Nann. SPECIES
-=======
+# Diplodina odontitis Nann. SPECIES
 
 #### Status
 ACCEPTED

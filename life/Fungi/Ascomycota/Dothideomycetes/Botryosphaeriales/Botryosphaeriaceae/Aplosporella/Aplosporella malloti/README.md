@@ -1,5 +1,4 @@
-Aplosporella malloti S. Ahmad & Arshad SPECIES
-=======
+# Aplosporella malloti S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

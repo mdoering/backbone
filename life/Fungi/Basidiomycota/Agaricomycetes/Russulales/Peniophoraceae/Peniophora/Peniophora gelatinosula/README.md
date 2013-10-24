@@ -1,5 +1,4 @@
-Peniophora gelatinosula Rick SPECIES
-=======
+# Peniophora gelatinosula Rick SPECIES
 
 #### Status
 ACCEPTED

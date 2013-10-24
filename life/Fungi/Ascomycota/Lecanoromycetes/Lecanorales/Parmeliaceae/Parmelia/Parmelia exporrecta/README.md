@@ -1,5 +1,4 @@
-Parmelia exporrecta Kurok. SPECIES
-=======
+# Parmelia exporrecta Kurok. SPECIES
 
 #### Status
 ACCEPTED

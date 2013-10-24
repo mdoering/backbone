@@ -1,5 +1,4 @@
-Aspicilia centromela (Nyl.) Hue SPECIES
-=======
+# Aspicilia centromela (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplonaevia latispora Raitv. SPECIES
-=======
+# Diplonaevia latispora Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium acicola Henn. SPECIES
-=======
+# Sclerotium acicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita leiocephala (DC.) Quél. SPECIES
-=======
+# Amanita leiocephala (DC.) Quél. SPECIES
 
 #### Status
 ACCEPTED

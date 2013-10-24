@@ -1,5 +1,4 @@
-Asterina splendens Pat. SPECIES
-=======
+# Asterina splendens Pat. SPECIES
 
 #### Status
 ACCEPTED

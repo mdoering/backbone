@@ -1,17 +1,16 @@
-Xylodon nudisetus (Warcup & P.H.B. Talbot) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia nudiseta Warcup & P.H.B. Talbot, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 46(4): 468 (1963)
 
 #### Original name
-null
+Hyphodontia nudiseta Warcup & P.H.B. Talbot, 1963
 
 ### Remarks
 null

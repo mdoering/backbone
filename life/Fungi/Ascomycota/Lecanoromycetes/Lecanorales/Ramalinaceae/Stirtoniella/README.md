@@ -1,5 +1,4 @@
-Stirtoniella D.J. Galloway, Hafellner & Elix GENUS
-=======
+# Stirtoniella D.J. Galloway, Hafellner & Elix GENUS
 
 #### Status
 ACCEPTED

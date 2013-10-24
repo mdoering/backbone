@@ -1,5 +1,4 @@
-Usnea amplissima Stirt. SPECIES
-=======
+# Usnea amplissima Stirt. SPECIES
 
 #### Status
 ACCEPTED

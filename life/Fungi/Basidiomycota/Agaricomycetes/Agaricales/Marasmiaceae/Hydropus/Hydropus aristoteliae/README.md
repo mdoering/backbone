@@ -1,5 +1,4 @@
-Hydropus aristoteliae (Singer) Singer SPECIES
-=======
+# Hydropus aristoteliae (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

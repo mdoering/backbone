@@ -1,14 +1,13 @@
-Clavaria fragillima Sacc. & P. Syd., 1902 SPECIES
-=======
+# Ramaria fragillima (Sacc. & P. Syd.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 206 (1902)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 588 (1950)
 
 #### Original name
 Clavaria echinospora Berk. & Broome, 1875

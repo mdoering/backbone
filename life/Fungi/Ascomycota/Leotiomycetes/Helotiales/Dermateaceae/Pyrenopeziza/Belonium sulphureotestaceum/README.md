@@ -1,5 +1,4 @@
-Belonium sulphureotestaceum Höhn. SPECIES
-=======
+# Belonium sulphureotestaceum Höhn. SPECIES
 
 #### Status
 ACCEPTED

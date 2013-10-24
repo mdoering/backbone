@@ -1,5 +1,4 @@
-Eolichen heppii Zukal SPECIES
-=======
+# Eolichen heppii Zukal SPECIES
 
 #### Status
 ACCEPTED

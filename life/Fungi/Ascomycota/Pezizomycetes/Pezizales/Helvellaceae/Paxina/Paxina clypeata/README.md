@@ -1,5 +1,4 @@
-Paxina clypeata (Pers.) Linder SPECIES
-=======
+# Paxina clypeata (Pers.) Linder SPECIES
 
 #### Status
 ACCEPTED

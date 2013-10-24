@@ -1,5 +1,4 @@
-Irenopsis verbenae (Cif.) J.L. Crane & A.G. Jones SPECIES
-=======
+# Irenopsis verbenae (Cif.) J.L. Crane & A.G. Jones SPECIES
 
 #### Status
 ACCEPTED

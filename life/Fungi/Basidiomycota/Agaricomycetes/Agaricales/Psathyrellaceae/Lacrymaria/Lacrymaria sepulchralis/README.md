@@ -1,5 +1,4 @@
-Lacrymaria sepulchralis (Singer, A.H. Sm. & Guzmán) Watling SPECIES
-=======
+# Lacrymaria sepulchralis (Singer, A.H. Sm. & Guzmán) Watling SPECIES
 
 #### Status
 ACCEPTED

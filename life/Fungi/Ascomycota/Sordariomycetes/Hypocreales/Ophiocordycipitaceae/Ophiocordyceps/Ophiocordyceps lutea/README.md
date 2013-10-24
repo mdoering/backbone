@@ -1,5 +1,4 @@
-Ophiocordyceps lutea (Moureau) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps lutea (Moureau) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

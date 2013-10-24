@@ -1,5 +1,4 @@
-Helotium contortum W.L. White SPECIES
-=======
+# Helotium contortum W.L. White SPECIES
 
 #### Status
 ACCEPTED

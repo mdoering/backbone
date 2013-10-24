@@ -1,5 +1,4 @@
-Oxytricha truncata subsp. truncata SUBSPECIES
-=======
+# Oxytricha truncata SPECIES
 
 #### Status
 ACCEPTED

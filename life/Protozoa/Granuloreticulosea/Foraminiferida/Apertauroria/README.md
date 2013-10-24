@@ -1,5 +1,4 @@
-Apertauroria Sabirov in Zadorozhnyj & Yuferev, 1984 GENUS
-=======
+# Apertauroria Sabirov in Zadorozhnyj & Yuferev, 1984 GENUS
 
 #### Status
 ACCEPTED

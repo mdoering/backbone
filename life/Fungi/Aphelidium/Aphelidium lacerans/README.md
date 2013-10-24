@@ -1,5 +1,4 @@
-Aphelidium lacerans de Bruyne SPECIES
-=======
+# Aphelidium lacerans de Bruyne SPECIES
 
 #### Status
 ACCEPTED

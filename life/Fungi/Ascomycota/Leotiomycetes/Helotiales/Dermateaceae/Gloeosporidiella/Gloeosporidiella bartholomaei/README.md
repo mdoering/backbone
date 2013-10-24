@@ -1,5 +1,4 @@
-Gloeosporidiella bartholomaei (Dearn.) Arx SPECIES
-=======
+# Gloeosporidiella bartholomaei (Dearn.) Arx SPECIES
 
 #### Status
 ACCEPTED

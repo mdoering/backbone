@@ -1,5 +1,4 @@
-Euglena brevifilagellum Prescott & Gojdics SPECIES
-=======
+# Euglena brevifilagellum Prescott & Gojdics SPECIES
 
 #### Status
 ACCEPTED

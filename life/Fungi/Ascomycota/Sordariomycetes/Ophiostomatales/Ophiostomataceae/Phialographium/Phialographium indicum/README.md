@@ -1,5 +1,4 @@
-Phialographium indicum V.G. Rao & B. Sutton SPECIES
-=======
+# Phialographium indicum V.G. Rao & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia conturbata var. conturbata Müll. Arg. VARIETY
-=======
+# Xanthoparmelia conturbata (Müll. Arg.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 71: 44 (1888)
+null
 
 #### Original name
-Parmelia conturbata var. conturbata Müll. Arg.
+null
 
 ### Remarks
 null

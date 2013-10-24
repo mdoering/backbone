@@ -1,5 +1,4 @@
-Peziza neocornui Häffner SPECIES
-=======
+# Peziza neocornui Häffner SPECIES
 
 #### Status
 ACCEPTED

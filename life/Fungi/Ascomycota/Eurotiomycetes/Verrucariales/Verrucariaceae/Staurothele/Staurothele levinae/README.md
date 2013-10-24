@@ -1,5 +1,4 @@
-Staurothele levinae Oxner SPECIES
-=======
+# Staurothele levinae Oxner SPECIES
 
 #### Status
 ACCEPTED

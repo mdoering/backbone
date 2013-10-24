@@ -1,5 +1,4 @@
-Polyblastiopsis ocellata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis ocellata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

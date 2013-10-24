@@ -1,5 +1,4 @@
-Geoglossum rotundiforme A. Kawam. SPECIES
-=======
+# Geoglossum rotundiforme A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

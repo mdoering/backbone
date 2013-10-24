@@ -1,5 +1,4 @@
-Gymnopus badipus (Pers.) Gray SPECIES
-=======
+# Gymnopus badipus (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

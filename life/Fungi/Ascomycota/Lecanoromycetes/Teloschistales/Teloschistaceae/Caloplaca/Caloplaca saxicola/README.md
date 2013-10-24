@@ -1,11 +1,10 @@
-Caloplaca murorum f. murorum FORM
-=======
+# Caloplaca saxicola (Hoffm.) Nordin SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

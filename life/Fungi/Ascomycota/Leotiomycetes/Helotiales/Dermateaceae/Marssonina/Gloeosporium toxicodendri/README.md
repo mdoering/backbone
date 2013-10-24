@@ -1,5 +1,4 @@
-Gloeosporium toxicodendri Ellis & G. Martin SPECIES
-=======
+# Gloeosporium toxicodendri Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca westiana Murrill SPECIES
-=======
+# Melanoleuca westiana Murrill SPECIES
 
 #### Status
 ACCEPTED

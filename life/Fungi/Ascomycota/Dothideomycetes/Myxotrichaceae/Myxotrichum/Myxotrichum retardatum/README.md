@@ -1,5 +1,4 @@
-Myxotrichum retardatum Udagawa & Uchiy. SPECIES
-=======
+# Myxotrichum retardatum Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza nigritella (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Pyrenopeziza nigritella (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

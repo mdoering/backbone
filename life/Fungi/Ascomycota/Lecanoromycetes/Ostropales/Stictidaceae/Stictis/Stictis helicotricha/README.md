@@ -1,5 +1,4 @@
-Stictis helicotricha Ellis & Everh. SPECIES
-=======
+# Stictis helicotricha Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

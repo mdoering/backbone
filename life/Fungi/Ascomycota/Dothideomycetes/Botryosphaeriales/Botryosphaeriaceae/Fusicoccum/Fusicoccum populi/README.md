@@ -1,5 +1,4 @@
-Fusicoccum populi Voglino SPECIES
-=======
+# Fusicoccum populi Voglino SPECIES
 
 #### Status
 ACCEPTED

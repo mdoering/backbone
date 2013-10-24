@@ -1,8 +1,7 @@
-Phaeographis deightoni C.W. Dodge SPECIES
-=======
+# Phaeographis deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographis deightoni C.W. Dodge
+Phaeographis deightonii C.W. Dodge
 
 ### Remarks
 null

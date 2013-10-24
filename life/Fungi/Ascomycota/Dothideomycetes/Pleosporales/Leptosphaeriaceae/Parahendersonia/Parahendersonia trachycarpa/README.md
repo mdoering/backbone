@@ -1,5 +1,4 @@
-Parahendersonia trachycarpa Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
-=======
+# Parahendersonia trachycarpa Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
 
 #### Status
 ACCEPTED

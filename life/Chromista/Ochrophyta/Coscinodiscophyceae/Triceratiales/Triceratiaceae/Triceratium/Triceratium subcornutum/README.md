@@ -1,5 +1,4 @@
-Triceratium subcornutum Grunow, 1886 SPECIES
-=======
+# Triceratium subcornutum Grunow, 1886 SPECIES
 
 #### Status
 ACCEPTED

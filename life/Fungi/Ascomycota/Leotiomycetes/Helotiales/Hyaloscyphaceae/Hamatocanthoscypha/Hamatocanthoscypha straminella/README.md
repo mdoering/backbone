@@ -1,5 +1,4 @@
-Hamatocanthoscypha straminella (P. Karst.) Huhtinen SPECIES
-=======
+# Hamatocanthoscypha straminella (P. Karst.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

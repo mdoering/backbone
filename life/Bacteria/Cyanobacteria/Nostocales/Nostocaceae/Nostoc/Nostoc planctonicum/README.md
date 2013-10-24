@@ -1,5 +1,4 @@
-Nostoc planctonicum Poretsky & Tschernow SPECIES
-=======
+# Nostoc planctonicum Poretsky & Tschernow SPECIES
 
 #### Status
 ACCEPTED

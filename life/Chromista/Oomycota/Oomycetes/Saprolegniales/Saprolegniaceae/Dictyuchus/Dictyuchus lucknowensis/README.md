@@ -1,5 +1,4 @@
-Dictyuchus lucknowensis J.N. Rai & J.K. Misra SPECIES
-=======
+# Dictyuchus lucknowensis J.N. Rai & J.K. Misra SPECIES
 
 #### Status
 ACCEPTED

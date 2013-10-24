@@ -1,5 +1,4 @@
-Platybursa Haeckel, 1881 GENUS
-=======
+# Platybursa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

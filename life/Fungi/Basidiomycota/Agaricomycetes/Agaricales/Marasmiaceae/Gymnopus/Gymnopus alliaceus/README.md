@@ -1,5 +1,4 @@
-Gymnopus alliaceus Murrill SPECIES
-=======
+# Gymnopus alliaceus Murrill SPECIES
 
 #### Status
 ACCEPTED

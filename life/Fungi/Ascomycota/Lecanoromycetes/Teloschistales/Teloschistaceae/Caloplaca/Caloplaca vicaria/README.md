@@ -1,5 +1,4 @@
-Caloplaca vicaria H. Magn. SPECIES
-=======
+# Caloplaca vicaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

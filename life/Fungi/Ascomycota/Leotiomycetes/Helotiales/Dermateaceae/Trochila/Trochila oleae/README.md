@@ -1,5 +1,4 @@
-Trochila oleae (De Not.) Fr. SPECIES
-=======
+# Trochila oleae (De Not.) Fr. SPECIES
 
 #### Status
 ACCEPTED

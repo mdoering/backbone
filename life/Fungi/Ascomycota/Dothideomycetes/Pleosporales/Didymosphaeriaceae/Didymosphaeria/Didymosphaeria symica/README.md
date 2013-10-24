@@ -1,5 +1,4 @@
-Didymosphaeria symica Petr. SPECIES
-=======
+# Didymosphaeria symica Petr. SPECIES
 
 #### Status
 ACCEPTED

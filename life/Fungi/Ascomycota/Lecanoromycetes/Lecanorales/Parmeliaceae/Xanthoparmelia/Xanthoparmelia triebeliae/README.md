@@ -1,5 +1,4 @@
-Xanthoparmelia triebeliae Elix SPECIES
-=======
+# Xanthoparmelia triebeliae Elix SPECIES
 
 #### Status
 ACCEPTED

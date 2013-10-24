@@ -1,5 +1,4 @@
-Inocybe sublongipes Murrill SPECIES
-=======
+# Inocybe sublongipes Murrill SPECIES
 
 #### Status
 ACCEPTED

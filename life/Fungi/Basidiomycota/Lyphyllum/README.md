@@ -1,5 +1,4 @@
-Lyphyllum GENUS
-=======
+# Lyphyllum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loricophrya Matthes, 1956 GENUS
-=======
+# Loricophrya Matthes, 1956 GENUS
 
 #### Status
 ACCEPTED

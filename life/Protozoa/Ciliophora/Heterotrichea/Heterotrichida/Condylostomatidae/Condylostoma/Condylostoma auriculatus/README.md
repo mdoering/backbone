@@ -1,5 +1,4 @@
-Condylostoma auriculatus (Kahl, 1932) Faure-Fremiet, 1936 SPECIES
-=======
+# Condylostoma auriculatus (Kahl, 1932) Faure-Fremiet, 1936 SPECIES
 
 #### Status
 ACCEPTED

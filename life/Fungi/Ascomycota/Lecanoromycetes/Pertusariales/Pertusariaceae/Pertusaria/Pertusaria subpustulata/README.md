@@ -1,5 +1,4 @@
-Pertusaria subpustulata Nyl. SPECIES
-=======
+# Pertusaria subpustulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lalaria americana R.T. Moore SPECIES
-=======
+# Lalaria americana R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

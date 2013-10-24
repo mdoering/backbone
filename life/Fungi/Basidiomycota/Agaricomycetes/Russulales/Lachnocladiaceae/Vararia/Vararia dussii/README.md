@@ -1,5 +1,4 @@
-Vararia dussii Boidin & Lanq., 1977 SPECIES
-=======
+# Vararia dussii Boidin & Lanq., 1977 SPECIES
 
 #### Status
 ACCEPTED

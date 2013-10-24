@@ -1,5 +1,4 @@
-Marasmius kembangus Desjardin & E. Horak SPECIES
-=======
+# Marasmius kembangus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cellfalcicula GENUS
-=======
+# Cellfalcicula GENUS
 
 #### Status
 ACCEPTED

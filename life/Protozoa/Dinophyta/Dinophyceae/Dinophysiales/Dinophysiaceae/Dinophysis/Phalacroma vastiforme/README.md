@@ -1,5 +1,4 @@
-Phalacroma vastiforme Tai & Skogsberg, 1934 SPECIES
-=======
+# Phalacroma vastiforme Tai & Skogsberg, 1934 SPECIES
 
 #### Status
 DOUBTFUL

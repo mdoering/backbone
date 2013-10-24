@@ -1,14 +1,13 @@
-Mycocentrospora camelliae Deighton, 1983 SPECIES
-=======
+# Pseudocercospora camelliae (Deighton) U. Braun, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 151: 6 (1983)
+Mycotaxon 48: 282 (1993)
 
 #### Original name
 Mycocentrospora camelliae Deighton, 1983

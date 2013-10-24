@@ -1,5 +1,4 @@
-Xylaria complanata Ces. SPECIES
-=======
+# Xylaria complanata Ces. SPECIES
 
 #### Status
 ACCEPTED

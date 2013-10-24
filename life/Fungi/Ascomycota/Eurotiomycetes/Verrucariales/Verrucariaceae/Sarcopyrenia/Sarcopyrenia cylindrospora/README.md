@@ -1,14 +1,13 @@
-Verrucaria cylindrospora P. Crouan & H. Crouan SPECIES
-=======
+# Sarcopyrenia cylindrospora (P. Crouan & H. Crouan) M.B. Aguirre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Navarro-Rosinés & Hladun, Candollea 45(2): 476 (1990)
 
 #### Original name
 Verrucaria cylindrospora P. Crouan & H. Crouan

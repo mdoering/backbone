@@ -1,5 +1,4 @@
-Verrucaria lignyota Wahlenb. SPECIES
-=======
+# Verrucaria lignyota Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

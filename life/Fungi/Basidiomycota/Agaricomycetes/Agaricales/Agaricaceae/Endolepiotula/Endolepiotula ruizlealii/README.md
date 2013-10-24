@@ -1,5 +1,4 @@
-Endolepiotula ruizlealii Singer, 1963 SPECIES
-=======
+# Endolepiotula ruizlealii Singer, 1963 SPECIES
 
 #### Status
 ACCEPTED

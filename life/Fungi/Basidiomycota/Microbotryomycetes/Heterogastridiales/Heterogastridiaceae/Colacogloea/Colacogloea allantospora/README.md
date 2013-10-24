@@ -1,5 +1,4 @@
-Colacogloea allantospora Ginns & Bandoni, 2002 SPECIES
-=======
+# Colacogloea allantospora Ginns & Bandoni, 2002 SPECIES
 
 #### Status
 ACCEPTED

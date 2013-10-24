@@ -1,5 +1,4 @@
-Chytridium angulosum A. Braun SPECIES
-=======
+# Chytridium angulosum A. Braun SPECIES
 
 #### Status
 ACCEPTED

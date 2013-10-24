@@ -1,14 +1,13 @@
-Peronospora erophilae Gäum., 1918 SPECIES
-=======
+# Hyaloperonospora erophilae (Gäum.) Göker, Voglmayr, Riethm., Weiss & Oberw., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. , Abt. 1 35: 135 (1918)
+Can. J. Bot. 81(7): 681 (2003)
 
 #### Original name
 Peronospora erophilae Gäum., 1918

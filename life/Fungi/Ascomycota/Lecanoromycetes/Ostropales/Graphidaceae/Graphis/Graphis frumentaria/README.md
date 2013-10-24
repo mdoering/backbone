@@ -1,5 +1,4 @@
-Graphis frumentaria Fée SPECIES
-=======
+# Graphis frumentaria Fée SPECIES
 
 #### Status
 ACCEPTED

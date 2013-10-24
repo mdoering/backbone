@@ -1,5 +1,4 @@
-Citrobacter album SPECIES
-=======
+# Citrobacter album SPECIES
 
 #### Status
 ACCEPTED

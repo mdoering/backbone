@@ -1,5 +1,4 @@
-Trichosporium GENUS
-=======
+# Trichosporium GENUS
 
 #### Status
 DOUBTFUL

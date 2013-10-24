@@ -1,5 +1,4 @@
-Trachelius anaticula Dujardin, 1841 SPECIES
-=======
+# Trachelius anaticula Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

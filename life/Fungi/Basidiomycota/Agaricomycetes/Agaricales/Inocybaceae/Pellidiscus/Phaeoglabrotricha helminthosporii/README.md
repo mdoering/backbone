@@ -1,5 +1,4 @@
-Phaeoglabrotricha helminthosporii Pat. SPECIES
-=======
+# Phaeoglabrotricha helminthosporii Pat. SPECIES
 
 #### Status
 ACCEPTED

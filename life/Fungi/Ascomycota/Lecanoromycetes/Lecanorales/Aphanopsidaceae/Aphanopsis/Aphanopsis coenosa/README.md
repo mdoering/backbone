@@ -1,14 +1,13 @@
-Collema coenosum Ach. SPECIES
-=======
+# Aphanopsis coenosa (Ach.) Coppins & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+Lichenologist 16(3): 248 (1984)
 
 #### Original name
 Collema coenosum Ach.

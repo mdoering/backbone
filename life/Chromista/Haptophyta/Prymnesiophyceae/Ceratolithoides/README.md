@@ -1,5 +1,4 @@
-Ceratolithoides M.N. Bramlette & E. Martini, 1964 GENUS
-=======
+# Ceratolithoides M.N. Bramlette & E. Martini, 1964 GENUS
 
 #### Status
 ACCEPTED

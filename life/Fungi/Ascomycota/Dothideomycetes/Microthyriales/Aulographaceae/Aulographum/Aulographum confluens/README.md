@@ -1,5 +1,4 @@
-Aulographum confluens Earle SPECIES
-=======
+# Aulographum confluens Earle SPECIES
 
 #### Status
 ACCEPTED

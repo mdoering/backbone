@@ -1,5 +1,4 @@
-Paecilomyces huaxiensis Z.Q. Liang & Y.F. Han SPECIES
-=======
+# Paecilomyces huaxiensis Z.Q. Liang & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

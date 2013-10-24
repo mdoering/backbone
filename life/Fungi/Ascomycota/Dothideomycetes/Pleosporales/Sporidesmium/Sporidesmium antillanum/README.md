@@ -1,5 +1,4 @@
-Sporidesmium antillanum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Sporidesmium antillanum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

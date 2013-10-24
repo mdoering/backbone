@@ -1,5 +1,4 @@
-Proteobacteria PHYLUM
-=======
+# Proteobacteria PHYLUM
 
 #### Status
 ACCEPTED

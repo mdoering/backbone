@@ -1,5 +1,4 @@
-Hendersonulina epilobii (Fautrey) Tassi SPECIES
-=======
+# Hendersonulina epilobii (Fautrey) Tassi SPECIES
 
 #### Status
 ACCEPTED

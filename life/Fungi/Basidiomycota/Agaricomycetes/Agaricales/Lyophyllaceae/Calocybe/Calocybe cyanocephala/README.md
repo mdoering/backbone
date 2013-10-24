@@ -1,5 +1,4 @@
-Calocybe cyanocephala (Pat.) Pegler SPECIES
-=======
+# Calocybe cyanocephala (Pat.) Pegler SPECIES
 
 #### Status
 ACCEPTED

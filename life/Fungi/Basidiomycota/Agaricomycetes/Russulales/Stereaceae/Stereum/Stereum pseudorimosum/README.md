@@ -1,5 +1,4 @@
-Stereum pseudorimosum Boidin & Gilles, 1989 SPECIES
-=======
+# Stereum pseudorimosum Boidin & Gilles, 1989 SPECIES
 
 #### Status
 ACCEPTED

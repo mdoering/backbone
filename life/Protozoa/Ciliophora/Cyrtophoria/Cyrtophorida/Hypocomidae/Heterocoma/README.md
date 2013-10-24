@@ -1,5 +1,4 @@
-Heterocoma Chatton & Lwoff, 1939 GENUS
-=======
+# Heterocoma Chatton & Lwoff, 1939 GENUS
 
 #### Status
 ACCEPTED

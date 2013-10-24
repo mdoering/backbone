@@ -1,5 +1,4 @@
-Porophora thionea SPECIES
-=======
+# Porophora thionea SPECIES
 
 #### Status
 ACCEPTED

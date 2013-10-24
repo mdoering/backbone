@@ -1,5 +1,4 @@
-Laccaria vinaceobrunnea G.M. Muell. SPECIES
-=======
+# Laccaria vinaceobrunnea G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea trichroa Nyl. SPECIES
-=======
+# Lecidea trichroa Nyl. SPECIES
 
 #### Status
 ACCEPTED

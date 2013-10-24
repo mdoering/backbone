@@ -1,5 +1,4 @@
-Inocybe caespitosa Velen. SPECIES
-=======
+# Inocybe caespitosa Velen. SPECIES
 
 #### Status
 ACCEPTED

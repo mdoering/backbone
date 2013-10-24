@@ -1,5 +1,4 @@
-Amphiloma bracteatum (Hoffm.) Körb. SPECIES
-=======
+# Amphiloma bracteatum (Hoffm.) Körb. SPECIES
 
 #### Status
 ACCEPTED

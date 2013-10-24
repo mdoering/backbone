@@ -1,5 +1,4 @@
-Tuberculina pamparum Speg. SPECIES
-=======
+# Tuberculina pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

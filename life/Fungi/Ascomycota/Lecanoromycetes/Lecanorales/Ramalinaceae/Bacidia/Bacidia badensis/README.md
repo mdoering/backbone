@@ -1,5 +1,4 @@
-Bacidia badensis (Körb.) Zahlbr. SPECIES
-=======
+# Bacidia badensis (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

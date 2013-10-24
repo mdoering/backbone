@@ -1,5 +1,4 @@
-Stagonospora rubri-albida Dearn. & House SPECIES
-=======
+# Stagonospora rubri-albida Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

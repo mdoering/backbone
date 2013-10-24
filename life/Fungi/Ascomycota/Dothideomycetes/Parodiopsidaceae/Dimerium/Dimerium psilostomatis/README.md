@@ -1,5 +1,4 @@
-Dimerium psilostomatis (Thüm.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium psilostomatis (Thüm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

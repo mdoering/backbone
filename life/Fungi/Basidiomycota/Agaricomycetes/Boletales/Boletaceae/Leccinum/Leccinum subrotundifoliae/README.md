@@ -1,14 +1,13 @@
-Leccinum subrotondifoliae (J. Blum) Bon SPECIES
-=======
+# Leccinum subrotundifoliae (J. Blum) Bon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 9(no. 35): 41 (1979)
 
 #### Original name
 Boletus subrotundifoliae J. Blum

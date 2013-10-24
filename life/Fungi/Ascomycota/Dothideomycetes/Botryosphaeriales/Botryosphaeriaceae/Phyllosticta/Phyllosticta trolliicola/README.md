@@ -1,5 +1,4 @@
-Phyllosticta trolliicola Bondartsev SPECIES
-=======
+# Phyllosticta trolliicola Bondartsev SPECIES
 
 #### Status
 ACCEPTED

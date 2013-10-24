@@ -1,5 +1,4 @@
-Microeccrina fertilis Maessen SPECIES
-=======
+# Microeccrina fertilis Maessen SPECIES
 
 #### Status
 ACCEPTED

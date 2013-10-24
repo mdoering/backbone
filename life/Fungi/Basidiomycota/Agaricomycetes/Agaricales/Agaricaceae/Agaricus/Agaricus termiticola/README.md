@@ -1,5 +1,4 @@
-Agaricus termiticola Heinem. SPECIES
-=======
+# Agaricus termiticola Heinem. SPECIES
 
 #### Status
 ACCEPTED

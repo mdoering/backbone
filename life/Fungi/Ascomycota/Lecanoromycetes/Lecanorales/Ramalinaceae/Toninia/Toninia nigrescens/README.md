@@ -1,5 +1,4 @@
-Toninia nigrescens Anzi SPECIES
-=======
+# Toninia nigrescens Anzi SPECIES
 
 #### Status
 ACCEPTED

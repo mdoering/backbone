@@ -1,5 +1,4 @@
-Mechercharimyces mesophilus Matsuo, Katsuta, Matsuda, Shizuri, Yokota & Kasai, 2006 SPECIES
-=======
+# Mechercharimyces mesophilus Matsuo, Katsuta, Matsuda, Shizuri, Yokota & Kasai, 2006 SPECIES
 
 #### Status
 ACCEPTED

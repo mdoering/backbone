@@ -1,5 +1,4 @@
-Leptosphaeria verwoerdiana Du Plessis SPECIES
-=======
+# Leptosphaeria verwoerdiana Du Plessis SPECIES
 
 #### Status
 ACCEPTED

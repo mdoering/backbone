@@ -1,5 +1,4 @@
-Vorticella utriculus Stokes, 1885 SPECIES
-=======
+# Vorticella utriculus Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

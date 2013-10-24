@@ -1,5 +1,4 @@
-Gymnomyces longisporus T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces longisporus T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

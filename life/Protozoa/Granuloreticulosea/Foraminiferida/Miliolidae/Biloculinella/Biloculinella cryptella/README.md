@@ -1,8 +1,7 @@
-Triloculina cryptella d'Orbigny, 1839 SPECIES
-=======
+# Biloculinella cryptella d'Orbigny, 1839 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Balanophrya latericollaris Wang, 1930 SPECIES
-=======
+# Balanophrya latericollaris Wang, 1930 SPECIES
 
 #### Status
 ACCEPTED

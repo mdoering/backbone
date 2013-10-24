@@ -1,5 +1,4 @@
-Dicheirinia panamensis J.R. Hern., M. Piepenbr. & Vega Rios SPECIES
-=======
+# Dicheirinia panamensis J.R. Hern., M. Piepenbr. & Vega Rios SPECIES
 
 #### Status
 ACCEPTED

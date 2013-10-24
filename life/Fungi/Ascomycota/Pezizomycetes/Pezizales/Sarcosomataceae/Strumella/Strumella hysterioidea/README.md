@@ -1,5 +1,4 @@
-Strumella hysterioidea Cooke & Massee, 1889 SPECIES
-=======
+# Strumella hysterioidea Cooke & Massee, 1889 SPECIES
 
 #### Status
 ACCEPTED

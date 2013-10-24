@@ -1,5 +1,4 @@
-Epipyxis sinuosa Hilliard SPECIES
-=======
+# Epipyxis sinuosa Hilliard SPECIES
 
 #### Status
 ACCEPTED

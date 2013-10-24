@@ -1,5 +1,4 @@
-Endogone versiformis P. Karst. SPECIES
-=======
+# Endogone versiformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

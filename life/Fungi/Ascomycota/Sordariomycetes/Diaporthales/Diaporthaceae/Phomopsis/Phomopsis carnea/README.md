@@ -1,5 +1,4 @@
-Phomopsis carnea (Lib. ex Thüm.) Petr., 1921 SPECIES
-=======
+# Phomopsis carnea (Lib. ex Thüm.) Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

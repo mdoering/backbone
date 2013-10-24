@@ -1,17 +1,16 @@
-Erinella pommeranica Ruhland, 1900 SPECIES
-=======
+# Lachnellula pseudofarinacea (P. Crouan & H. Crouan) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(2): 184 (1962)
 
 #### Original name
-Erinella pommeranica Ruhland, 1900
+null
 
 ### Remarks
 null

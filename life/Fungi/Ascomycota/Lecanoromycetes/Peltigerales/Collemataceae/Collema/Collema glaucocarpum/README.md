@@ -1,5 +1,4 @@
-Collema glaucocarpum (Nyl.) Hue SPECIES
-=======
+# Collema glaucocarpum (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

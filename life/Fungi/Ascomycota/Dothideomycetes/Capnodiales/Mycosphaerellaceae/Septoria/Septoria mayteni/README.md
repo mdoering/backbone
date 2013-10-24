@@ -1,5 +1,4 @@
-Septoria mayteni G. Winter SPECIES
-=======
+# Septoria mayteni G. Winter SPECIES
 
 #### Status
 ACCEPTED

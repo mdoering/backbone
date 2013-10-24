@@ -1,5 +1,4 @@
-Laryngosigma Loeblich & Tappan, 1953 GENUS
-=======
+# Laryngosigma Loeblich & Tappan, 1953 GENUS
 
 #### Status
 ACCEPTED

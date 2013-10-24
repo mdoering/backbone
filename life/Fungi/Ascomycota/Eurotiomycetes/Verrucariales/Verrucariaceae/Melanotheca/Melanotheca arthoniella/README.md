@@ -1,5 +1,4 @@
-Melanotheca arthoniella Nyl. SPECIES
-=======
+# Melanotheca arthoniella Nyl. SPECIES
 
 #### Status
 ACCEPTED

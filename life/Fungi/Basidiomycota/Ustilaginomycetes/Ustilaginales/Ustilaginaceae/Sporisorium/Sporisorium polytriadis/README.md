@@ -1,5 +1,4 @@
-Sporisorium polytriadis (Massee) Vánky SPECIES
-=======
+# Sporisorium polytriadis (Massee) Vánky SPECIES
 
 #### Status
 ACCEPTED

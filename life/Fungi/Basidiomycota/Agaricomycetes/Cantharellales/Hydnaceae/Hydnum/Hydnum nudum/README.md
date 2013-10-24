@@ -1,5 +1,4 @@
-Hydnum nudum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum nudum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia leathsi Speg. SPECIES
-=======
+# Laboulbenia leathsi Speg. SPECIES
 
 #### Status
 ACCEPTED

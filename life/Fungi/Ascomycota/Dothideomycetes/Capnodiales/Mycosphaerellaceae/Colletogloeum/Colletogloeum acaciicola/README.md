@@ -1,5 +1,4 @@
-Colletogloeum acaciicola B. Sutton & H.J. Swart SPECIES
-=======
+# Colletogloeum acaciicola B. Sutton & H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

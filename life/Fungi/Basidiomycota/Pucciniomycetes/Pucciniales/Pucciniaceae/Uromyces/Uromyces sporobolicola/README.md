@@ -1,5 +1,4 @@
-Uromyces sporobolicola J.C. Lindq. SPECIES
-=======
+# Uromyces sporobolicola J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neosumatrina Chedija, 1989 GENUS
-=======
+# Neosumatrina Chedija, 1989 GENUS
 
 #### Status
 ACCEPTED

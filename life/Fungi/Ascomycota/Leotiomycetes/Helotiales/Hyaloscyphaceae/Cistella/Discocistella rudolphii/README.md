@@ -1,14 +1,13 @@
-Discocistella rudolphi (Velen.) Svrcek SPECIES
-=======
+# Discocistella rudolphii (Velen.) Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 43(2): 72 (1989)
 
 #### Original name
 Pezizella rudolphii Velen.

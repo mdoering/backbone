@@ -1,5 +1,4 @@
-Uromyces uniporulus F. Kern SPECIES
-=======
+# Uromyces uniporulus F. Kern SPECIES
 
 #### Status
 ACCEPTED

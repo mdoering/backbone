@@ -1,5 +1,4 @@
-Lecidea helvetica Spreng. SPECIES
-=======
+# Lecidea helvetica Spreng. SPECIES
 
 #### Status
 ACCEPTED

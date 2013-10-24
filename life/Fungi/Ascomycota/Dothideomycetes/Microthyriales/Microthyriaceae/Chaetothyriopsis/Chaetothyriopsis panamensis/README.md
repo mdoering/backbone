@@ -1,5 +1,4 @@
-Chaetothyriopsis panamensis F. Stevens & Dorman SPECIES
-=======
+# Chaetothyriopsis panamensis F. Stevens & Dorman SPECIES
 
 #### Status
 ACCEPTED

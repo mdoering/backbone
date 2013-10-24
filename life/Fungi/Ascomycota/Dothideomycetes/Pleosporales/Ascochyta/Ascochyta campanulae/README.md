@@ -1,5 +1,4 @@
-Ascochyta campanulae Garb. SPECIES
-=======
+# Ascochyta campanulae Garb. SPECIES
 
 #### Status
 ACCEPTED

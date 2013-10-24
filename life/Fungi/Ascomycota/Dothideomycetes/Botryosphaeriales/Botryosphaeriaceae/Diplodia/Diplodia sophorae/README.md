@@ -1,5 +1,4 @@
-Diplodia sophorae Speg. & Sacc. SPECIES
-=======
+# Diplodia sophorae Speg. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

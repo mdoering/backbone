@@ -1,14 +1,13 @@
-Haplotrichum laeticolor (Berk. & Broome) Sacc., 1886 SPECIES
-=======
+# Oedocephalum laeticolor Berk. & Broome, 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 48 (1886)
+Ann. Mag. nat. Hist. , Ser. 3 15: 402 (1865)
 
 #### Original name
 Oedocephalum laeticolor Berk. & Broome, 1865

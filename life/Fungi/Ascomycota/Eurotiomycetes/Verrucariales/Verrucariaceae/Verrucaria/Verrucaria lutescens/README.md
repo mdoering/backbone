@@ -1,5 +1,4 @@
-Verrucaria lutescens (Hoffm.) Hoffm. SPECIES
-=======
+# Verrucaria lutescens (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

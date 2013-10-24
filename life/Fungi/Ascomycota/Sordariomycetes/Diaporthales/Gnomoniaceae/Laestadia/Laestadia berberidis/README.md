@@ -1,5 +1,4 @@
-Laestadia berberidis Delacr. SPECIES
-=======
+# Laestadia berberidis Delacr. SPECIES
 
 #### Status
 ACCEPTED

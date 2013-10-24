@@ -1,5 +1,4 @@
-Trichia caerulea Trentep. SPECIES
-=======
+# Trichia caerulea Trentep. SPECIES
 
 #### Status
 ACCEPTED

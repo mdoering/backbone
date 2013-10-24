@@ -1,5 +1,4 @@
-Agaricus cestatus Fr. SPECIES
-=======
+# Agaricus cestatus Fr. SPECIES
 
 #### Status
 ACCEPTED

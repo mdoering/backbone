@@ -1,14 +1,13 @@
-Hypochnus coeruleus Bres., 1903 SPECIES
-=======
+# Tomentella coerulea (Bres.) Höhn. & Litsch., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(1/2): 109 (1903)
+Wiesner Festschrift (Wien) 77 (1908)
 
 #### Original name
 Hypochnus coeruleus Bres., 1903

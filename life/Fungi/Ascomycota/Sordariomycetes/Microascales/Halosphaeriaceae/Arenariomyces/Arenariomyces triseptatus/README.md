@@ -1,5 +1,4 @@
-Arenariomyces triseptatus Kohlm., 1984 SPECIES
-=======
+# Arenariomyces triseptatus Kohlm., 1984 SPECIES
 
 #### Status
 ACCEPTED

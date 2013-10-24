@@ -1,5 +1,4 @@
-Porphyrellus GENUS
-=======
+# Porphyrellus GENUS
 
 #### Status
 ACCEPTED

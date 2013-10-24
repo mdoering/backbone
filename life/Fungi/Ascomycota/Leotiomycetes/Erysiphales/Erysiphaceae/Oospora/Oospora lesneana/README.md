@@ -1,5 +1,4 @@
-Oospora lesneana Pat. & Har. SPECIES
-=======
+# Oospora lesneana Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium furcosum Le Hérissé, 1989 SPECIES
-=======
+# Baltisphaeridium furcosum Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopus equinus var. annamensis N. Bernard VARIETY
-=======
+# Rhizopus equinus Costantin & Lucet SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 30: 232 (1914)
+null
 
 #### Original name
-Rhizopus equinus var. annamensis N. Bernard
+Rhizopus equinus Costantin & Lucet
 
 ### Remarks
 null

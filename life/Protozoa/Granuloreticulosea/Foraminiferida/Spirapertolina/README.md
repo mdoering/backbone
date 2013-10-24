@@ -1,5 +1,4 @@
-Spirapertolina Ciry, 1964 GENUS
-=======
+# Spirapertolina Ciry, 1964 GENUS
 
 #### Status
 ACCEPTED

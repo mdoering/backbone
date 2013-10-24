@@ -1,5 +1,4 @@
-Uromyces elatus Syd. & P. Syd. SPECIES
-=======
+# Uromyces elatus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

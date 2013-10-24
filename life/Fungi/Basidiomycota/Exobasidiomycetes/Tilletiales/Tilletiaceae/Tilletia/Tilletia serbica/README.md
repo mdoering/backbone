@@ -1,5 +1,4 @@
-Tilletia serbica Ranoj. SPECIES
-=======
+# Tilletia serbica Ranoj. SPECIES
 
 #### Status
 ACCEPTED

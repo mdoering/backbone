@@ -1,5 +1,4 @@
-Striadiporites asper (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Striadiporites asper (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

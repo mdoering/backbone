@@ -1,5 +1,4 @@
-Aecidium faveolatum Schwein. SPECIES
-=======
+# Aecidium faveolatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

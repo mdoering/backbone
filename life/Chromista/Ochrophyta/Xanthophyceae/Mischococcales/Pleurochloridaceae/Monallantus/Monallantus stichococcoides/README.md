@@ -1,5 +1,4 @@
-Monallantus stichococcoides Pascher SPECIES
-=======
+# Monallantus stichococcoides Pascher SPECIES
 
 #### Status
 ACCEPTED

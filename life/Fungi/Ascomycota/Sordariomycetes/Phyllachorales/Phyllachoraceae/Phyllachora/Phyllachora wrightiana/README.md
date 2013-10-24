@@ -1,5 +1,4 @@
-Phyllachora wrightiana Speg., 1924 SPECIES
-=======
+# Phyllachora wrightiana Speg., 1924 SPECIES
 
 #### Status
 ACCEPTED

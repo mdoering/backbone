@@ -1,5 +1,4 @@
-Asterothyrium robinsonii Vain. SPECIES
-=======
+# Asterothyrium robinsonii Vain. SPECIES
 
 #### Status
 ACCEPTED

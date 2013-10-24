@@ -1,5 +1,4 @@
-Asteridiella cyphopoda (Cif.) Hansf. SPECIES
-=======
+# Asteridiella cyphopoda (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

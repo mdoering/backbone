@@ -1,5 +1,4 @@
-Pertusaria disgrediens Nyl. SPECIES
-=======
+# Pertusaria disgrediens Nyl. SPECIES
 
 #### Status
 ACCEPTED

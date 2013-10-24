@@ -1,5 +1,4 @@
-Clavaria coriacea var. coriacea VARIETY
-=======
+# Clavaria coriacea Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hist. Champ. France (Paris) 10: 198 (1791)
 
 #### Original name
-Clavaria coriacea var. coriacea
+Clavaria coriacea Bull.
 
 ### Remarks
 null

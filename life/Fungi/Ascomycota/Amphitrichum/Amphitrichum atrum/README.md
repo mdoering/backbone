@@ -1,5 +1,4 @@
-Amphitrichum atrum Tode SPECIES
-=======
+# Amphitrichum atrum Tode SPECIES
 
 #### Status
 ACCEPTED

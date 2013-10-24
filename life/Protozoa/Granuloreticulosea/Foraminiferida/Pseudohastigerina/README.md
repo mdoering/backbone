@@ -1,5 +1,4 @@
-Pseudohastigerina Banner & Blow, 1959 GENUS
-=======
+# Pseudohastigerina Banner & Blow, 1959 GENUS
 
 #### Status
 ACCEPTED

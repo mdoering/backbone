@@ -1,5 +1,4 @@
-Agaricus juglandinus Pers. SPECIES
-=======
+# Agaricus juglandinus Pers. SPECIES
 
 #### Status
 ACCEPTED

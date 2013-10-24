@@ -1,5 +1,4 @@
-Verrucaria hymenelioides (Körb.) Stizenb. SPECIES
-=======
+# Verrucaria hymenelioides (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

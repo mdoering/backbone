@@ -1,5 +1,4 @@
-Hypholoma marcescibile (Britzelm.) Sacc. SPECIES
-=======
+# Hypholoma marcescibile (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

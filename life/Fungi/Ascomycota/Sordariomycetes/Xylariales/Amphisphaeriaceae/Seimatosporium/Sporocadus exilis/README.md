@@ -1,5 +1,4 @@
-Sporocadus exilis Corda SPECIES
-=======
+# Sporocadus exilis Corda SPECIES
 
 #### Status
 ACCEPTED

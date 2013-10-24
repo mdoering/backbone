@@ -1,5 +1,4 @@
-Lecidea asemanta Vain. SPECIES
-=======
+# Lecidea asemanta Vain. SPECIES
 
 #### Status
 ACCEPTED

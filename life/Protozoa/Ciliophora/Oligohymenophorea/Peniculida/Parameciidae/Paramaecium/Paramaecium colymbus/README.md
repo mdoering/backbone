@@ -1,5 +1,4 @@
-Paramaecium colymbus (Müller, 1773) Bory SPECIES
-=======
+# Paramaecium colymbus (Müller, 1773) Bory SPECIES
 
 #### Status
 ACCEPTED

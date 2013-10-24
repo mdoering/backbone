@@ -1,5 +1,4 @@
-Dendrosarcus putredinis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus putredinis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

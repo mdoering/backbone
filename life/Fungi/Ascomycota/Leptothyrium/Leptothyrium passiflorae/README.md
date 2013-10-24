@@ -1,5 +1,4 @@
-Leptothyrium passiflorae Berk. & M.A. Curtis SPECIES
-=======
+# Leptothyrium passiflorae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

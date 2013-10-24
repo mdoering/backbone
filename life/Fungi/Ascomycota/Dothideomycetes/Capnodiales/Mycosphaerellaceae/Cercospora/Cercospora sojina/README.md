@@ -1,17 +1,16 @@
-Cercospora daizu Miuri {?}, 1921 SPECIES
-=======
+# Cercospora sojina Hara, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nogyo Sekai Tokyo 9: 28 (1915)
 
 #### Original name
-Cercospora daizu Miuri {?}, 1921
+Cercospora sojina Hara, 1915
 
 ### Remarks
 null

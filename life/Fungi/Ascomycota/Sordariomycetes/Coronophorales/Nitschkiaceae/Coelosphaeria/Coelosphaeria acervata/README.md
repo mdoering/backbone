@@ -1,5 +1,4 @@
-Coelosphaeria acervata P. Karst. SPECIES
-=======
+# Coelosphaeria acervata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naviculopsis lata var. obliqua D. Bukry VARIETY
-=======
+# Naviculopsis lata (Deflandre) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

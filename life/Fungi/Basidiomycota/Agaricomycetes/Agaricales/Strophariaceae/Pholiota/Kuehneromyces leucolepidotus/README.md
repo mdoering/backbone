@@ -1,14 +1,13 @@
-Pholiota mutabilis f. leucolepidota (P.D. Orton) E. Ludw., 2001 FORM
-=======
+# Kuehneromyces leucolepidotus (P.D. Orton) Pegler & T.W.K. Young, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pilzkompendium (Eching) 1([2]): 556 (2001)
+Kew Bull. 27(3): 487 (1972)
 
 #### Original name
 Galerina leucolepidota P.D. Orton, 1969

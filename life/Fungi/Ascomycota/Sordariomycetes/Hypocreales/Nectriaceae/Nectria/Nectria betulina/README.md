@@ -1,5 +1,4 @@
-Nectria betulina Rehm SPECIES
-=======
+# Nectria betulina Rehm SPECIES
 
 #### Status
 ACCEPTED

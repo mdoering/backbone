@@ -1,5 +1,4 @@
-Lophomarginata glumacea N. Umnova & Fanderflit, 1971 SPECIES
-=======
+# Lophomarginata glumacea N. Umnova & Fanderflit, 1971 SPECIES
 
 #### Status
 ACCEPTED

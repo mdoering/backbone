@@ -1,5 +1,4 @@
-Podospora didyma J.H. Mirza & Cain, 1970 SPECIES
-=======
+# Podospora didyma J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

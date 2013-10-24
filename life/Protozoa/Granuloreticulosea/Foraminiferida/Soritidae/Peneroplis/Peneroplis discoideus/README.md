@@ -1,5 +1,4 @@
-Peneroplis discoideus SPECIES
-=======
+# Peneroplis discoideus SPECIES
 
 #### Status
 ACCEPTED

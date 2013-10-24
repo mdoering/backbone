@@ -1,5 +1,4 @@
-Ceratolithoides sesquipedalis SPECIES
-=======
+# Ceratolithoides sesquipedalis SPECIES
 
 #### Status
 ACCEPTED

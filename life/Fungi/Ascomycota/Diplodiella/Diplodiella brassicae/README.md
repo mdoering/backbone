@@ -1,5 +1,4 @@
-Diplodiella brassicae (Cooke) Grove, 1937 SPECIES
-=======
+# Diplodiella brassicae (Cooke) Grove, 1937 SPECIES
 
 #### Status
 ACCEPTED

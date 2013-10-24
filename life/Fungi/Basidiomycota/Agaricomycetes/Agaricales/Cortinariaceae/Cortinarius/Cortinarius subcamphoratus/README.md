@@ -1,17 +1,16 @@
-Cortinaria subcamphorata Murrill SPECIES
-=======
+# Cortinarius subcamphoratus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 284 (1946)
 
 #### Original name
-Cortinaria subcamphorata Murrill
+Cortinarius subcamphoratus Murrill
 
 ### Remarks
 null

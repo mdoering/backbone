@@ -1,5 +1,4 @@
-Hypocrea sulawesensis Yoshim. Doi SPECIES
-=======
+# Hypocrea sulawesensis Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

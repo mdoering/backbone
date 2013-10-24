@@ -1,5 +1,4 @@
-Helvella subfusispora B. Liu & J.Z. Cao SPECIES
-=======
+# Helvella subfusispora B. Liu & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

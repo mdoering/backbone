@@ -1,5 +1,4 @@
-Naevia tiliae (Kleb.) Nannf. SPECIES
-=======
+# Naevia tiliae (Kleb.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

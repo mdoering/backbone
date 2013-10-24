@@ -1,5 +1,4 @@
-Helotium littoreum P. Crouan & H. Crouan SPECIES
-=======
+# Helotium littoreum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

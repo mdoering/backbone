@@ -1,5 +1,4 @@
-Ozonium trichomallum Speg. SPECIES
-=======
+# Ozonium trichomallum Speg. SPECIES
 
 #### Status
 ACCEPTED

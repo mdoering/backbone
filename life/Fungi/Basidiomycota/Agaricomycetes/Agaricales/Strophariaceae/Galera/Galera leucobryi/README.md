@@ -1,5 +1,4 @@
-Galera leucobryi Velen. SPECIES
-=======
+# Galera leucobryi Velen. SPECIES
 
 #### Status
 ACCEPTED

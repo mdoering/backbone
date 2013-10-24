@@ -1,5 +1,4 @@
-Mycena gigantospora Massee SPECIES
-=======
+# Mycena gigantospora Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium paspali Henn. SPECIES
-=======
+# Fusarium paspali Henn. SPECIES
 
 #### Status
 ACCEPTED

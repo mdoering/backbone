@@ -1,5 +1,4 @@
-Pucciniosira triumfettae Lagerh., 1892 SPECIES
-=======
+# Pucciniosira triumfettae Lagerh., 1892 SPECIES
 
 #### Status
 ACCEPTED

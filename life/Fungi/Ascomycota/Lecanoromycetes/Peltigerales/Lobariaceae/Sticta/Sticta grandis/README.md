@@ -1,5 +1,4 @@
-Sticta grandis Stirt. SPECIES
-=======
+# Sticta grandis Stirt. SPECIES
 
 #### Status
 ACCEPTED

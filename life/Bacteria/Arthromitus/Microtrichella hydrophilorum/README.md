@@ -1,5 +1,4 @@
-Microtrichella hydrophilorum Maessen SPECIES
-=======
+# Microtrichella hydrophilorum Maessen SPECIES
 
 #### Status
 ACCEPTED

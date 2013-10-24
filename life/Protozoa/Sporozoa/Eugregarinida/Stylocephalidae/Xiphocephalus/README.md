@@ -1,5 +1,4 @@
-Xiphocephalus Théodoridès, 1964 GENUS
-=======
+# Xiphocephalus Théodoridès, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniangium velatum Flot. SPECIES
-=======
+# Coniangium velatum Flot. SPECIES
 
 #### Status
 ACCEPTED

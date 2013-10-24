@@ -1,5 +1,4 @@
-Physcia orientalis Kashiw. SPECIES
-=======
+# Physcia orientalis Kashiw. SPECIES
 
 #### Status
 ACCEPTED

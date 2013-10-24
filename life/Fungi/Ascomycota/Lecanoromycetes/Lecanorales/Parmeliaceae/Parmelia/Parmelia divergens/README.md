@@ -1,5 +1,4 @@
-Parmelia divergens (Ach.) Spreng. SPECIES
-=======
+# Parmelia divergens (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

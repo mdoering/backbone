@@ -1,5 +1,4 @@
-Septoria carthami Murashk., 1926 SPECIES
-=======
+# Septoria carthami Murashk., 1926 SPECIES
 
 #### Status
 ACCEPTED

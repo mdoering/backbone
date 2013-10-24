@@ -1,5 +1,4 @@
-Sphaerella minimipuncta Cooke SPECIES
-=======
+# Sphaerella minimipuncta Cooke SPECIES
 
 #### Status
 ACCEPTED

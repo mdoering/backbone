@@ -1,5 +1,4 @@
-Uredo polygoni var. polygoni Pers. VARIETY
-=======
+# Uredo polygoni Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 233 (1803)
 
 #### Original name
-Uredo polygoni var. polygoni Pers.
+Uredo polygoni Schumach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oligosphaeridium prolixispinosum Davey & Williams, 1966 SPECIES
-=======
+# Oligosphaeridium prolixispinosum Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

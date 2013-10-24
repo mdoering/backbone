@@ -1,5 +1,4 @@
-Chromulina sporangifera J.W.G. Lund SPECIES
-=======
+# Chromulina sporangifera J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

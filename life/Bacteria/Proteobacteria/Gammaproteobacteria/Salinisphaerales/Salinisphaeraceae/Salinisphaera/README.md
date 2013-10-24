@@ -1,5 +1,4 @@
-Salinisphaera Antunes, Eder, Fareleira, Santos & Huber, 2003 GENUS
-=======
+# Salinisphaera Antunes, Eder, Fareleira, Santos & Huber, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calathella columbiana Agerer, 1983 SPECIES
-=======
+# Calathella columbiana Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

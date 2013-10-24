@@ -1,5 +1,4 @@
-Cortinarius gallairei Rob. Henry SPECIES
-=======
+# Cortinarius gallairei Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

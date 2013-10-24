@@ -1,5 +1,4 @@
-Trichodinella lawleri Lom & Haldar, 1977 SPECIES
-=======
+# Trichodinella lawleri Lom & Haldar, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cora textilis (Spreng.) Fr. SPECIES
-=======
+# Cora textilis (Spreng.) Fr. SPECIES
 
 #### Status
 ACCEPTED

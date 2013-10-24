@@ -1,17 +1,16 @@
-Orbiliopsis Höhn. GENUS
-=======
+# Parorbiliopsis Spooner & Dennis GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Weese, Mitt. bot. Inst. tech. Hochsch. Wien 3(3): 101 (1926)
+Sydowia 38: 303 (1986)
 
 #### Original name
-Orbiliopsis Höhn.
+Parorbiliopsis Spooner & Dennis
 
 ### Remarks
 null

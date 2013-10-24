@@ -1,8 +1,7 @@
-Saccharothrix cryophilis Labeda & Lechevalier, 1989 SPECIES
-=======
+# Crossiella cryophila (Labeda & Lechevalier, 1989) Labeda, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

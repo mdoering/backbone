@@ -1,5 +1,4 @@
-Auriscalpium andinum (Pat.) Ryvarden, 2001 SPECIES
-=======
+# Auriscalpium andinum (Pat.) Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

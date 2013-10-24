@@ -1,5 +1,4 @@
-Pseudocercospora geicola U. Braun, 1991 SPECIES
-=======
+# Pseudocercospora geicola U. Braun, 1991 SPECIES
 
 #### Status
 ACCEPTED

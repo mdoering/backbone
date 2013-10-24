@@ -1,5 +1,4 @@
-Meliola scaevolicola (F. Stevens) Cif. SPECIES
-=======
+# Meliola scaevolicola (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

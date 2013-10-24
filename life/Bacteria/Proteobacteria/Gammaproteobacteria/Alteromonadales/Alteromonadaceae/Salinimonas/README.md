@@ -1,5 +1,4 @@
-Salinimonas Jeon, Lim, Park & Kim, 2005 GENUS
-=======
+# Salinimonas Jeon, Lim, Park & Kim, 2005 GENUS
 
 #### Status
 ACCEPTED

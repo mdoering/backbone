@@ -1,5 +1,4 @@
-Helicosporium diplosporum Ellis & Everh. SPECIES
-=======
+# Helicosporium diplosporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

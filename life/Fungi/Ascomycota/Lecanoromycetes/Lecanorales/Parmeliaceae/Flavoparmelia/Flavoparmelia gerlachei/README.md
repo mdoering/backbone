@@ -1,17 +1,16 @@
-Parmelia antarctica Vainio SPECIES
-=======
+# Flavoparmelia gerlachei (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(2): 604 (1986)
 
 #### Original name
-null
+Parmelia gerlachei Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora barleriae-cristatae Govindu & Thirum. SPECIES
-=======
+# Cercospora barleriae-cristatae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

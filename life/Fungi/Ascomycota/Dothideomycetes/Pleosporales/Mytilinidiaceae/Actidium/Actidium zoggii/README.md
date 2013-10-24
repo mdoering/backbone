@@ -1,5 +1,4 @@
-Actidium zoggii Butin SPECIES
-=======
+# Actidium zoggii Butin SPECIES
 
 #### Status
 ACCEPTED

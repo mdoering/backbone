@@ -1,5 +1,4 @@
-Lecidea goniophiliza J. Steiner SPECIES
-=======
+# Lecidea goniophiliza J. Steiner SPECIES
 
 #### Status
 ACCEPTED

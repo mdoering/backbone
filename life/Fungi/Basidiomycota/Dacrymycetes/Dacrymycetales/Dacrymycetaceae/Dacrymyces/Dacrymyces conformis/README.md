@@ -1,5 +1,4 @@
-Dacrymyces conformis (P. Karst.) Neuhoff SPECIES
-=======
+# Dacrymyces conformis (P. Karst.) Neuhoff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium cucurbita Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium cucurbita Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

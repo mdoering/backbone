@@ -1,5 +1,4 @@
-Coprinopsis austrofriesii (Redhead & Pegler) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis austrofriesii (Redhead & Pegler) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

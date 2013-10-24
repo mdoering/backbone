@@ -1,14 +1,13 @@
-Microglaena brasiliensis Müll. Arg. SPECIES
-=======
+# Thelenella brasiliensis (Müll. Arg.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 34: 293 (1896)
 
 #### Original name
 Microglaena brasiliensis Müll. Arg.

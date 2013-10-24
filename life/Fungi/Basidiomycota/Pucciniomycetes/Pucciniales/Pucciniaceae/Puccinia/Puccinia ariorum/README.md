@@ -1,5 +1,4 @@
-Puccinia ariorum M. Abbasi, Hedjar., Gjaerum & M. Scholler SPECIES
-=======
+# Puccinia ariorum M. Abbasi, Hedjar., Gjaerum & M. Scholler SPECIES
 
 #### Status
 ACCEPTED

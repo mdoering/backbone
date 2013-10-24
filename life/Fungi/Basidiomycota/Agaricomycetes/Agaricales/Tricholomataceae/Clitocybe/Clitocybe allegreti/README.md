@@ -1,5 +1,4 @@
-Clitocybe allegreti De Seynes SPECIES
-=======
+# Clitocybe allegreti De Seynes SPECIES
 
 #### Status
 ACCEPTED

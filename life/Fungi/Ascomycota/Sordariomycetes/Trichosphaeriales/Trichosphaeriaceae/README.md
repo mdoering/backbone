@@ -1,5 +1,4 @@
-Trichosphaeriaceae G. Winter FAMILY
-=======
+# Trichosphaeriaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

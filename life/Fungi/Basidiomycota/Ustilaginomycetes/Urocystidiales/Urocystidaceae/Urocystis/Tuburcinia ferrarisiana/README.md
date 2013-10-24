@@ -1,5 +1,4 @@
-Tuburcinia ferrarisiana Cif. SPECIES
-=======
+# Tuburcinia ferrarisiana Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina viridimammata (Pilát) Bresinsky SPECIES
-=======
+# Omphalina viridimammata (Pilát) Bresinsky SPECIES
 
 #### Status
 ACCEPTED

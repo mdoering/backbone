@@ -1,17 +1,16 @@
-Ceuthospora betulae (Fuckel) Arx, 1957 SPECIES
-=======
+# Phacidium betulinum Mouton, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 51(3): 63 (1957)
+Bull. Soc. R. Bot. Belg. 39: 50 (1900)
 
 #### Original name
-Gloeosporidium betulae Fuckel
+Phacidium betulinum Mouton, 1900
 
 ### Remarks
 null

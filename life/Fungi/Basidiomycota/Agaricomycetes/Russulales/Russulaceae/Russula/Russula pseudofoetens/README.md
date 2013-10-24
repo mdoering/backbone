@@ -1,5 +1,4 @@
-Russula pseudofoetens Murrill SPECIES
-=======
+# Russula pseudofoetens Murrill SPECIES
 
 #### Status
 ACCEPTED

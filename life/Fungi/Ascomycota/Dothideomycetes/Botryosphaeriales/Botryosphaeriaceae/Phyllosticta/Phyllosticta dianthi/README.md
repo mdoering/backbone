@@ -1,5 +1,4 @@
-Phyllosticta dianthi Lagière SPECIES
-=======
+# Phyllosticta dianthi Lagière SPECIES
 
 #### Status
 ACCEPTED

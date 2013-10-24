@@ -1,5 +1,4 @@
-Bacidia crocynoides A.L. Sm. SPECIES
-=======
+# Bacidia crocynoides A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

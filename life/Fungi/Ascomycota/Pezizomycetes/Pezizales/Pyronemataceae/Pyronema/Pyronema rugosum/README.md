@@ -1,5 +1,4 @@
-Pyronema rugosum Pat. SPECIES
-=======
+# Pyronema rugosum Pat. SPECIES
 
 #### Status
 ACCEPTED

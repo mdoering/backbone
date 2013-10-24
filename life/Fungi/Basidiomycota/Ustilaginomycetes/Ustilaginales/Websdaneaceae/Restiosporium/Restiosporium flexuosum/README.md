@@ -1,5 +1,4 @@
-Restiosporium flexuosum Vánky, 2006 SPECIES
-=======
+# Restiosporium flexuosum Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

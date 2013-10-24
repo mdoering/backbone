@@ -1,5 +1,4 @@
-Sphaeronaema subtile (Fr.) Bonord. SPECIES
-=======
+# Sphaeronaema subtile (Fr.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

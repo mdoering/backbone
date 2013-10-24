@@ -1,5 +1,4 @@
-Chaetosphaeria sylvatica F.A. Fernández & Huhndorf SPECIES
-=======
+# Chaetosphaeria sylvatica F.A. Fernández & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

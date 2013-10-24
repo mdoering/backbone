@@ -1,5 +1,4 @@
-Milesina pycnograndis Arthur SPECIES
-=======
+# Milesina pycnograndis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina fulgens (Cooke & Harkn.) Jacz. SPECIES
-=======
+# Taphrina fulgens (Cooke & Harkn.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

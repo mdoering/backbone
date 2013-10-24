@@ -1,14 +1,13 @@
-Parmularia reticulata Starbäck, 1905 SPECIES
-=======
+# Mintera reticulata (Starbäck) Inácio & P.F. Cannon, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 5(7): 6 (1905)
+Mycol. Res. 107(1): 86 (2003)
 
 #### Original name
 Parmularia reticulata Starbäck, 1905

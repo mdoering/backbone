@@ -1,5 +1,4 @@
-Diaporthe leucosarca Ellis & Everh. SPECIES
-=======
+# Diaporthe leucosarca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirostromella populi (Jaap) Höhn. SPECIES
-=======
+# Sirostromella populi (Jaap) Höhn. SPECIES
 
 #### Status
 ACCEPTED

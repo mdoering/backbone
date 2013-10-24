@@ -1,5 +1,4 @@
-Marasmius eorotula Singer SPECIES
-=======
+# Marasmius eorotula Singer SPECIES
 
 #### Status
 ACCEPTED

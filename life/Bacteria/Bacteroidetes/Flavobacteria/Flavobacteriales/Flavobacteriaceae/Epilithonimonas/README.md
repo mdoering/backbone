@@ -1,5 +1,4 @@
-Epilithonimonas O'Sullivan et al., 2006 GENUS
-=======
+# Epilithonimonas O'Sullivan et al., 2006 GENUS
 
 #### Status
 ACCEPTED

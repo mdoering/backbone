@@ -1,5 +1,4 @@
-Cytospora pleurocolla Pat. SPECIES
-=======
+# Cytospora pleurocolla Pat. SPECIES
 
 #### Status
 ACCEPTED

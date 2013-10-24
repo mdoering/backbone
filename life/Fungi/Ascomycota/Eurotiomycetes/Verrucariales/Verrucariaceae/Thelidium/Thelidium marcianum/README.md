@@ -1,5 +1,4 @@
-Thelidium marcianum B. de Lesd. SPECIES
-=======
+# Thelidium marcianum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

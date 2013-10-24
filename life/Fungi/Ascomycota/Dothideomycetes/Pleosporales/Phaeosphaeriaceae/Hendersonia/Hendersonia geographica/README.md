@@ -1,5 +1,4 @@
-Hendersonia geographica Ellis & Everh. SPECIES
-=======
+# Hendersonia geographica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora speciosa Mehlisch SPECIES
-=======
+# Phytophthora speciosa Mehlisch SPECIES
 
 #### Status
 ACCEPTED

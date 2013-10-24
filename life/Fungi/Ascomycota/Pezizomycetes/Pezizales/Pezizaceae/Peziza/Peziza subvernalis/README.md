@@ -1,5 +1,4 @@
-Peziza subvernalis Peck SPECIES
-=======
+# Peziza subvernalis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coutourea quercina Pat. SPECIES
-=======
+# Coutourea quercina Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola micromera Syd. & P. Syd. SPECIES
-=======
+# Meliola micromera Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

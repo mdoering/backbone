@@ -1,5 +1,4 @@
-Leptonia spurceifolia Watling SPECIES
-=======
+# Leptonia spurceifolia Watling SPECIES
 
 #### Status
 ACCEPTED

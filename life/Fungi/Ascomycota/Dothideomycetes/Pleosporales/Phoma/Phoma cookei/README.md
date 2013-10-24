@@ -1,5 +1,4 @@
-Phoma cookei Pirotta SPECIES
-=======
+# Phoma cookei Pirotta SPECIES
 
 #### Status
 ACCEPTED

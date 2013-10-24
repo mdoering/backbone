@@ -1,5 +1,4 @@
-Coprinarius hydrophorus (Bull.) P. Kumm. SPECIES
-=======
+# Coprinarius hydrophorus (Bull.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

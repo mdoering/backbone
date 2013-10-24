@@ -1,5 +1,4 @@
-Hexagonia wightii (Klotzsch) Fr. SPECIES
-=======
+# Hexagonia wightii (Klotzsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

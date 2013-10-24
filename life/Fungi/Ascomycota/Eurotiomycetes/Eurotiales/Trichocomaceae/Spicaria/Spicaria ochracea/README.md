@@ -1,5 +1,4 @@
-Spicaria ochracea (Boud.) Vuill. SPECIES
-=======
+# Spicaria ochracea (Boud.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

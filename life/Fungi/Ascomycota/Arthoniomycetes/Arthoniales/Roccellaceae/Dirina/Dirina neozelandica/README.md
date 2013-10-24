@@ -1,5 +1,4 @@
-Dirina neozelandica (Redinger) Sparrius SPECIES
-=======
+# Dirina neozelandica (Redinger) Sparrius SPECIES
 
 #### Status
 ACCEPTED

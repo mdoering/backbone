@@ -1,5 +1,4 @@
-Mycena stannea var. stannea VARIETY
-=======
+# Mycena stannea (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mém. Soc. Émul. Montbéliard, Sér. 2 5: 242 (1872)
 
 #### Original name
-Mycena stannea var. stannea
+Agaricus stanneus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria delitescens Wallr. SPECIES
-=======
+# Sphaeria delitescens Wallr. SPECIES
 
 #### Status
 ACCEPTED

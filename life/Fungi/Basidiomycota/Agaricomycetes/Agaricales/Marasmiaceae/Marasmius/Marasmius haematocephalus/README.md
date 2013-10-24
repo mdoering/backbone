@@ -1,17 +1,16 @@
-Marasmius haematocephalus var. haematocephalus VARIETY
-=======
+# Marasmius haematocephalus (Mont.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 382 (1838)
 
 #### Original name
-Marasmius haematocephalus var. haematocephalus
+Agaricus haematocephalus Mont., 1837
 
 ### Remarks
 null

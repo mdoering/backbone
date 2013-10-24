@@ -1,5 +1,4 @@
-Peronospora teloxydis Jacz. & P.A. Jacz. SPECIES
-=======
+# Peronospora teloxydis Jacz. & P.A. Jacz. SPECIES
 
 #### Status
 ACCEPTED

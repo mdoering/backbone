@@ -1,5 +1,4 @@
-Entoloma pseudopapillatum (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma pseudopapillatum (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

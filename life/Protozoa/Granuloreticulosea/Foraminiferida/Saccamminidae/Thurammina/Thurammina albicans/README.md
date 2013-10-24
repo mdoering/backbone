@@ -1,5 +1,4 @@
-Thurammina albicans Brady, 1879 SPECIES
-=======
+# Thurammina albicans Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

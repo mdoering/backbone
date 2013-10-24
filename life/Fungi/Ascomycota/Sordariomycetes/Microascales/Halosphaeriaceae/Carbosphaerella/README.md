@@ -1,5 +1,4 @@
-Carbosphaerella I. Schmidt GENUS
-=======
+# Carbosphaerella I. Schmidt GENUS
 
 #### Status
 ACCEPTED

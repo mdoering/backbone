@@ -1,5 +1,4 @@
-Nephromopsis globulans (Nyl. ex Hue) M.J. Lai SPECIES
-=======
+# Nephromopsis globulans (Nyl. ex Hue) M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

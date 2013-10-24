@@ -1,5 +1,4 @@
-Entylomella schinziana (Magnus) Höhn. SPECIES
-=======
+# Entylomella schinziana (Magnus) Höhn. SPECIES
 
 #### Status
 ACCEPTED

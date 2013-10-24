@@ -1,5 +1,4 @@
-Tanyosphaeridium fusiforme K. Matsuoka SPECIES
-=======
+# Tanyosphaeridium fusiforme K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

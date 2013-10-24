@@ -1,5 +1,4 @@
-Cetraria lacunosa var. lacunosa VARIETY
-=======
+# Cetraria lacunosa Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria lacunosa var. lacunosa
+Cetraria lacunosa Ach.
 
 ### Remarks
 null

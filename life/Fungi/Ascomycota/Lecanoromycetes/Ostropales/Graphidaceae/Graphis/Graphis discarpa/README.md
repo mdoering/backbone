@@ -1,5 +1,4 @@
-Graphis discarpa A.W. Archer SPECIES
-=======
+# Graphis discarpa A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

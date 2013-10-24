@@ -1,5 +1,4 @@
-Phyllosticta canangae Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta canangae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

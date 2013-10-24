@@ -1,5 +1,4 @@
-Puccinia grosii Font Quer SPECIES
-=======
+# Puccinia grosii Font Quer SPECIES
 
 #### Status
 ACCEPTED

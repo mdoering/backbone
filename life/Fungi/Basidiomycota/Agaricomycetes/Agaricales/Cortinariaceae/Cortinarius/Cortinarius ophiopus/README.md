@@ -1,5 +1,4 @@
-Cortinarius ophiopus f. ophiopus FORM
-=======
+# Cortinarius ophiopus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius ophiopus f. ophiopus
+Cortinarius ophiopus Peck
 
 ### Remarks
 null

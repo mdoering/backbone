@@ -1,5 +1,4 @@
-Calycina palustris (Peck) Kuntze SPECIES
-=======
+# Calycina palustris (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

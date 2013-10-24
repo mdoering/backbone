@@ -1,5 +1,4 @@
-Isthmocystis S. Duxbury, 1979 GENUS
-=======
+# Isthmocystis S. Duxbury, 1979 GENUS
 
 #### Status
 ACCEPTED

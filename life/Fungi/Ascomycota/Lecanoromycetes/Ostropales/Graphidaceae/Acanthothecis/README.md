@@ -1,17 +1,16 @@
-Acanthothecomyces Cif. & Tomas. GENUS
-=======
+# Acanthothecis Clem. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 75 (1953)
+Gen. fung. (Minneapolis) 59 (1909)
 
 #### Original name
-Acanthothecomyces Cif. & Tomas.
+Acanthothecis Clem.
 
 ### Remarks
 null

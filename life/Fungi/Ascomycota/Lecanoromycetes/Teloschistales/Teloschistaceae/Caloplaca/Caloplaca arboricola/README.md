@@ -1,5 +1,4 @@
-Caloplaca arboricola B. de Lesd. SPECIES
-=======
+# Caloplaca arboricola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

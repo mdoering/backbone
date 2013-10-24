@@ -1,5 +1,4 @@
-Rhodococcus roseus (ex Grotenfelt, 1889) Tsukamura et al., 1991 SPECIES
-=======
+# Rhodococcus roseus (ex Grotenfelt, 1889) Tsukamura et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

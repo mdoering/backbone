@@ -1,5 +1,4 @@
-Klebahnia montanoae (Arthur & Holw.) Arthur SPECIES
-=======
+# Klebahnia montanoae (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

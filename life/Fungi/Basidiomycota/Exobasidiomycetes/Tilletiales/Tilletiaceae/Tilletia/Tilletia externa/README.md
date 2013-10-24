@@ -1,5 +1,4 @@
-Tilletia externa Griffiths SPECIES
-=======
+# Tilletia externa Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaemyces Earle, 1909 GENUS
-=======
+# Chamaemyces Earle, 1909 GENUS
 
 #### Status
 ACCEPTED

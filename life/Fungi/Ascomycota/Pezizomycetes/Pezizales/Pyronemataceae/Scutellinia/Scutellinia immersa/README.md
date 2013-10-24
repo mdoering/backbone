@@ -1,5 +1,4 @@
-Scutellinia immersa Svrcek SPECIES
-=======
+# Scutellinia immersa Svrcek SPECIES
 
 #### Status
 ACCEPTED

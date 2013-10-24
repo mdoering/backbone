@@ -1,8 +1,7 @@
-Valsa hypodermia SPECIES
-=======
+# Quaternaria abnormis (Fr.) Berl. & Voglino, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Valsa hypodermia
+Sphaeria abnormis Fr., 1823
 
 ### Remarks
 null

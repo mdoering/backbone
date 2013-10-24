@@ -1,5 +1,4 @@
-Marasmius flammans Berk. SPECIES
-=======
+# Marasmius flammans Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus madagascariensis Pat. SPECIES
-=======
+# Cantharellus madagascariensis Pat. SPECIES
 
 #### Status
 ACCEPTED

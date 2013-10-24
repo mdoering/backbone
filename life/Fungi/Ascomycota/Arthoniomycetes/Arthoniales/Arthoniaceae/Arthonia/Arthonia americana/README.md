@@ -1,5 +1,4 @@
-Arthonia americana Vain. SPECIES
-=======
+# Arthonia americana Vain. SPECIES
 
 #### Status
 ACCEPTED

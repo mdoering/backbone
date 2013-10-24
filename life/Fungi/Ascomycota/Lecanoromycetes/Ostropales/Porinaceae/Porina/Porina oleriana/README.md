@@ -1,5 +1,4 @@
-Porina oleriana (A. Massal.) Lettau SPECIES
-=======
+# Porina oleriana (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

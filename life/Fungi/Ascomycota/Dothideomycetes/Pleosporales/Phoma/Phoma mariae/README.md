@@ -1,5 +1,4 @@
-Phoma mariae G.P. Clinton SPECIES
-=======
+# Phoma mariae G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

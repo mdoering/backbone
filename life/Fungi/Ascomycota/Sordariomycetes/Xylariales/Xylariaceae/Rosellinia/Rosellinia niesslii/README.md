@@ -1,5 +1,4 @@
-Rosellinia niesslii Auersw. SPECIES
-=======
+# Rosellinia niesslii Auersw. SPECIES
 
 #### Status
 ACCEPTED

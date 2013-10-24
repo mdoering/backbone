@@ -1,5 +1,4 @@
-Pseudocercospora siraitiae R. Kirschner & U. Braun SPECIES
-=======
+# Pseudocercospora siraitiae R. Kirschner & U. Braun SPECIES
 
 #### Status
 ACCEPTED

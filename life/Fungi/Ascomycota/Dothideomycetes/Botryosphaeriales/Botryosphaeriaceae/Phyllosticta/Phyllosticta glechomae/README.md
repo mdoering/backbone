@@ -1,5 +1,4 @@
-Phyllosticta glechomae Sacc. SPECIES
-=======
+# Phyllosticta glechomae Sacc. SPECIES
 
 #### Status
 ACCEPTED

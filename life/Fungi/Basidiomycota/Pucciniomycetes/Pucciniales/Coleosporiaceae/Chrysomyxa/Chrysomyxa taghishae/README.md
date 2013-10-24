@@ -1,5 +1,4 @@
-Chrysomyxa taghishae Balf.-Browne SPECIES
-=======
+# Chrysomyxa taghishae Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

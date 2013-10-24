@@ -1,5 +1,4 @@
-Clasterosporium cornutum Ellis & Everh. SPECIES
-=======
+# Clasterosporium cornutum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

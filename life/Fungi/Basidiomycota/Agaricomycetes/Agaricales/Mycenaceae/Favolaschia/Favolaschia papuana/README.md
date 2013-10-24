@@ -1,5 +1,4 @@
-Favolaschia papuana Kobayasi, 1982 SPECIES
-=======
+# Favolaschia papuana Kobayasi, 1982 SPECIES
 
 #### Status
 ACCEPTED

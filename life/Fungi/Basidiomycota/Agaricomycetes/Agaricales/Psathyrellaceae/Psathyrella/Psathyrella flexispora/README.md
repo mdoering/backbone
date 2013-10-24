@@ -1,5 +1,4 @@
-Psathyrella flexispora T.J. Wallace & P.D. Orton, 1960 SPECIES
-=======
+# Psathyrella flexispora T.J. Wallace & P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

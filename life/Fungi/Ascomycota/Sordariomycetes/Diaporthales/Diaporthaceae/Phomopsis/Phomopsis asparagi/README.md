@@ -1,14 +1,13 @@
-Phoma asparagi Sacc., 1878 SPECIES
-=======
+# Phomopsis asparagi (Sacc.) Grove, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 257 (1878)
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 169 (1935)
 
 #### Original name
 Phoma asparagi Sacc., 1878

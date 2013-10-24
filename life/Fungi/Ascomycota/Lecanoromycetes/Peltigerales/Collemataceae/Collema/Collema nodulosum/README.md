@@ -1,5 +1,4 @@
-Collema nodulosum Nyl. SPECIES
-=======
+# Collema nodulosum Nyl. SPECIES
 
 #### Status
 ACCEPTED

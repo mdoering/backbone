@@ -1,5 +1,4 @@
-Trichophyton camerounense (M. Ota & Gaillard) Nann. SPECIES
-=======
+# Trichophyton camerounense (M. Ota & Gaillard) Nann. SPECIES
 
 #### Status
 ACCEPTED

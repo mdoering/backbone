@@ -1,5 +1,4 @@
-Tricholoma fumosellum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma fumosellum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

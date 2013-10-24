@@ -1,14 +1,13 @@
-Comatricha amoena Nann.-Bremek., 1968 SPECIES
-=======
+# Stemonitopsis amoena (Nann.-Bremek.) Nann.-Bremek., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 71: 45 (1968)
+Nederlandse Myxomyceten (Amsterdam) 205 (1975)
 
 #### Original name
 Comatricha amoena Nann.-Bremek., 1968

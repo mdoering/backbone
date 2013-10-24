@@ -1,5 +1,4 @@
-Uromyces euryopsidicola A.R. Wood & M. Scholler, 2005 SPECIES
-=======
+# Uromyces euryopsidicola A.R. Wood & M. Scholler, 2005 SPECIES
 
 #### Status
 ACCEPTED

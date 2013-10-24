@@ -1,5 +1,4 @@
-Siphula dissoluta Nyl., 1888 SPECIES
-=======
+# Siphula dissoluta Nyl., 1888 SPECIES
 
 #### Status
 DOUBTFUL

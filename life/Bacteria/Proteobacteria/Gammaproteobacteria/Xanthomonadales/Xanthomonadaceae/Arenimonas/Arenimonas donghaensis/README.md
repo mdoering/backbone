@@ -1,5 +1,4 @@
-Arenimonas donghaensis Kwon, Kim, Weon, Baek & Go, 2007 SPECIES
-=======
+# Arenimonas donghaensis Kwon, Kim, Weon, Baek & Go, 2007 SPECIES
 
 #### Status
 ACCEPTED

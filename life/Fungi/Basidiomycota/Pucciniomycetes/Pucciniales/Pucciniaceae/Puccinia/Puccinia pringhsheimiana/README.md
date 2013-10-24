@@ -1,5 +1,4 @@
-Puccinia pringhsheimiana Kleb. SPECIES
-=======
+# Puccinia pringhsheimiana Kleb. SPECIES
 
 #### Status
 ACCEPTED

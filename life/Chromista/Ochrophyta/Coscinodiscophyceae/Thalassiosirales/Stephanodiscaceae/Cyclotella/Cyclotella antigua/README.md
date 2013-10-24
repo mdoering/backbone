@@ -1,5 +1,4 @@
-Cyclotella antigua W. Sm., 1853 SPECIES
-=======
+# Cyclotella antigua W. Sm., 1853 SPECIES
 
 #### Status
 ACCEPTED

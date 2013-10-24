@@ -1,5 +1,4 @@
-Lecidea lecheri SPECIES
-=======
+# Lecidea lecheri SPECIES
 
 #### Status
 ACCEPTED

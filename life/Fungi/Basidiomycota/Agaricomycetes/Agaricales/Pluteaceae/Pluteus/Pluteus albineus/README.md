@@ -1,5 +1,4 @@
-Pluteus albineus Bonnard SPECIES
-=======
+# Pluteus albineus Bonnard SPECIES
 
 #### Status
 ACCEPTED

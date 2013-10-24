@@ -1,5 +1,4 @@
-Micropeltis heveae Bat. & Peres SPECIES
-=======
+# Micropeltis heveae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

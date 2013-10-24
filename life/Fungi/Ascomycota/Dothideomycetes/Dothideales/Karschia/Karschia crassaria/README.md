@@ -1,5 +1,4 @@
-Karschia crassaria Vouaux SPECIES
-=======
+# Karschia crassaria Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus vernalis Fr. SPECIES
-=======
+# Polyporus vernalis Fr. SPECIES
 
 #### Status
 ACCEPTED

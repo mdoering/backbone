@@ -1,5 +1,4 @@
-Phaeociboria brasiliensis Syd. SPECIES
-=======
+# Phaeociboria brasiliensis Syd. SPECIES
 
 #### Status
 ACCEPTED

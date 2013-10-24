@@ -1,5 +1,4 @@
-Amylosporus wrightii Rajchenb., 1983 SPECIES
-=======
+# Amylosporus wrightii Rajchenb., 1983 SPECIES
 
 #### Status
 ACCEPTED

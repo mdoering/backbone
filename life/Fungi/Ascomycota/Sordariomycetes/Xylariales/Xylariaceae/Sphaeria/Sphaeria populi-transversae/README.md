@@ -1,5 +1,4 @@
-Sphaeria populi-transversae A. Braun SPECIES
-=======
+# Sphaeria populi-transversae A. Braun SPECIES
 
 #### Status
 ACCEPTED

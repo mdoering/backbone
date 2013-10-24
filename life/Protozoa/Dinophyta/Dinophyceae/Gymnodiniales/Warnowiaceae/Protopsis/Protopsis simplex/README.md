@@ -1,5 +1,4 @@
-Protopsis simplex Lebour SPECIES
-=======
+# Protopsis simplex Lebour SPECIES
 
 #### Status
 ACCEPTED

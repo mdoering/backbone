@@ -1,5 +1,4 @@
-Albugo ipomoeae-panduranae (Schwein) Sawada SPECIES
-=======
+# Albugo ipomoeae-panduranae (Schwein) Sawada SPECIES
 
 #### Status
 ACCEPTED

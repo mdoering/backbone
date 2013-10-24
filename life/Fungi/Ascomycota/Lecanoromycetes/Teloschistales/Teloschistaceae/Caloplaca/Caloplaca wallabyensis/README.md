@@ -1,5 +1,4 @@
-Caloplaca wallabyensis Elix, S. Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca wallabyensis Elix, S. Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

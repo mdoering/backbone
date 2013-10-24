@@ -1,5 +1,4 @@
-Sphaeromonas communis E. Liebet., 1910 SPECIES
-=======
+# Sphaeromonas communis E. Liebet., 1910 SPECIES
 
 #### Status
 ACCEPTED

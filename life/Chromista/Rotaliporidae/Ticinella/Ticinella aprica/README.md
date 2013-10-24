@@ -1,5 +1,4 @@
-Ticinella aprica Loeblich & Tappan, 1961 SPECIES
-=======
+# Ticinella aprica Loeblich & Tappan, 1961 SPECIES
 
 #### Status
 ACCEPTED

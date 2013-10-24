@@ -1,5 +1,4 @@
-Microthyrium concatenatum Rehm SPECIES
-=======
+# Microthyrium concatenatum Rehm SPECIES
 
 #### Status
 ACCEPTED

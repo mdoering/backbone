@@ -1,5 +1,4 @@
-Tuburcinia pacifica Lavrov SPECIES
-=======
+# Tuburcinia pacifica Lavrov SPECIES
 
 #### Status
 ACCEPTED

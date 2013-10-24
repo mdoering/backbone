@@ -1,5 +1,4 @@
-Fragilaria longiceps (Ehrenb.) Lange-Bertalot SPECIES
-=======
+# Fragilaria longiceps (Ehrenb.) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

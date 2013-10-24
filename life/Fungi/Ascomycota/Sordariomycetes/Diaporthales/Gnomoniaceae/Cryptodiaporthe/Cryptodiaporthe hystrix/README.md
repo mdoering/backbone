@@ -1,17 +1,16 @@
-Valsa hystrix Tode SPECIES
-=======
+# Cryptodiaporthe hystrix (Tode) Petr., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 19(1/2): 119 (1921)
 
 #### Original name
-null
+Sphaeria hystrix Tode, 1791
 
 ### Remarks
 null

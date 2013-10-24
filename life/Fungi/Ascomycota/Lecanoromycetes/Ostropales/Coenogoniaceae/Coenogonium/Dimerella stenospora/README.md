@@ -1,5 +1,4 @@
-Dimerella stenospora Malme SPECIES
-=======
+# Dimerella stenospora Malme SPECIES
 
 #### Status
 ACCEPTED

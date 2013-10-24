@@ -1,5 +1,4 @@
-Cytospora frangulae Truszk. SPECIES
-=======
+# Cytospora frangulae Truszk. SPECIES
 
 #### Status
 ACCEPTED

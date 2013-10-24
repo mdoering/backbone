@@ -1,5 +1,4 @@
-Sphaerulina worsdellii Massee SPECIES
-=======
+# Sphaerulina worsdellii Massee SPECIES
 
 #### Status
 ACCEPTED

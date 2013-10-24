@@ -1,5 +1,4 @@
-Ramaria alborosea Schild, 1992 SPECIES
-=======
+# Ramaria alborosea Schild, 1992 SPECIES
 
 #### Status
 ACCEPTED

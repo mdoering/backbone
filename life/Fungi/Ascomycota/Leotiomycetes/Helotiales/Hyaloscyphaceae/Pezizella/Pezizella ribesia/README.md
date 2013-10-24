@@ -1,5 +1,4 @@
-Pezizella ribesia Velen. SPECIES
-=======
+# Pezizella ribesia Velen. SPECIES
 
 #### Status
 ACCEPTED

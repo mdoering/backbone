@@ -1,5 +1,4 @@
-Lecanora omblensis Zahlbr. SPECIES
-=======
+# Lecanora omblensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pollaccia borealis A. Funk SPECIES
-=======
+# Pollaccia borealis A. Funk SPECIES
 
 #### Status
 ACCEPTED

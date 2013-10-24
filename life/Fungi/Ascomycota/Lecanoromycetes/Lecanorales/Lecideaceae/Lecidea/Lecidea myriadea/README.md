@@ -1,5 +1,4 @@
-Lecidea myriadea (Fée) Zenker SPECIES
-=======
+# Lecidea myriadea (Fée) Zenker SPECIES
 
 #### Status
 ACCEPTED

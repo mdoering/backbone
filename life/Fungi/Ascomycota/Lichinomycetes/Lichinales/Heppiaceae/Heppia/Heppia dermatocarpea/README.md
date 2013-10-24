@@ -1,5 +1,4 @@
-Heppia dermatocarpea Räsänen SPECIES
-=======
+# Heppia dermatocarpea Räsänen SPECIES
 
 #### Status
 ACCEPTED

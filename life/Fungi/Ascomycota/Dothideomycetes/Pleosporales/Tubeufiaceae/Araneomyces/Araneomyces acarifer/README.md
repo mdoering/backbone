@@ -1,14 +1,13 @@
-Titaea acarifera (Höhn.) Damon, 1952 SPECIES
-=======
+# Araneomyces acarifer Höhn., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 894 (1909)
 
 #### Original name
 Araneomyces acarifer Höhn., 1909

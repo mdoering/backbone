@@ -1,5 +1,4 @@
-Mycothyridium americanum (Ellis & Everh.) Petr. SPECIES
-=======
+# Mycothyridium americanum (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

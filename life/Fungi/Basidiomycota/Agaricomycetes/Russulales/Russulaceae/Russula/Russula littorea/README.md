@@ -1,5 +1,4 @@
-Russula littorea Pennycook, 2003 SPECIES
-=======
+# Russula littorea Pennycook, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton vanderbylii Zahlbr. SPECIES
-=======
+# Chiodecton vanderbylii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

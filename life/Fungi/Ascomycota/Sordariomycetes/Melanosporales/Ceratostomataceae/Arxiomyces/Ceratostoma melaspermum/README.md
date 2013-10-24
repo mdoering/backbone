@@ -1,5 +1,4 @@
-Ceratostoma melaspermum Ellis & Everh. SPECIES
-=======
+# Ceratostoma melaspermum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

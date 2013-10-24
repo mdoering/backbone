@@ -1,5 +1,4 @@
-Dictyothyrium fuegianum (Speg.) Speg. SPECIES
-=======
+# Dictyothyrium fuegianum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

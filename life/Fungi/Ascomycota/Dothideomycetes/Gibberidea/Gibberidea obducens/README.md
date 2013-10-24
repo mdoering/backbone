@@ -1,5 +1,4 @@
-Gibberidea obducens Rick SPECIES
-=======
+# Gibberidea obducens Rick SPECIES
 
 #### Status
 ACCEPTED

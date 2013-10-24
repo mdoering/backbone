@@ -1,5 +1,4 @@
-Tichothecium nanellum (Ohlert) Arnold SPECIES
-=======
+# Tichothecium nanellum (Ohlert) Arnold SPECIES
 
 #### Status
 ACCEPTED

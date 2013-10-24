@@ -1,5 +1,4 @@
-Puccinia tranzscheliana I.E. Brezhnev SPECIES
-=======
+# Puccinia tranzscheliana I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

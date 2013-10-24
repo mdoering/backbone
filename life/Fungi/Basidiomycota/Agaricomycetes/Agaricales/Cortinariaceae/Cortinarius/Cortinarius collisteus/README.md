@@ -1,5 +1,4 @@
-Cortinarius collisteus J.M. Mend. SPECIES
-=======
+# Cortinarius collisteus J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

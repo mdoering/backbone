@@ -1,5 +1,4 @@
-Diplodia ampelopidis Allesch. SPECIES
-=======
+# Diplodia ampelopidis Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mollisia cinerea var. cinerea VARIETY
-=======
+# Mollisia cinerea (Bartsch Ex Fries) Karsten SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 189 (1871)
+null
 
 #### Original name
-Mollisia cinerea var. cinerea
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psilocybe nigrella Peck SPECIES
-=======
+# Psilocybe nigrella Peck SPECIES
 
 #### Status
 ACCEPTED

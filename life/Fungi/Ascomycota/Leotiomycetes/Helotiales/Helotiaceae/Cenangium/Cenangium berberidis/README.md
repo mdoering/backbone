@@ -1,5 +1,4 @@
-Cenangium berberidis Rehm SPECIES
-=======
+# Cenangium berberidis Rehm SPECIES
 
 #### Status
 ACCEPTED

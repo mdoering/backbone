@@ -1,5 +1,4 @@
-Dischloridium cylindrospermum S.K. Srivast. SPECIES
-=======
+# Dischloridium cylindrospermum S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

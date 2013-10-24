@@ -1,5 +1,4 @@
-Citrus bent SPECIES
-=======
+# Citrus bent SPECIES
 
 #### Status
 ACCEPTED

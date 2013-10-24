@@ -1,5 +1,4 @@
-Collybia olivacea Lambotte SPECIES
-=======
+# Collybia olivacea Lambotte SPECIES
 
 #### Status
 ACCEPTED

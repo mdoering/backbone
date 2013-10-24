@@ -1,5 +1,4 @@
-Nocardia concava Kageyama et al., 2005 SPECIES
-=======
+# Nocardia concava Kageyama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

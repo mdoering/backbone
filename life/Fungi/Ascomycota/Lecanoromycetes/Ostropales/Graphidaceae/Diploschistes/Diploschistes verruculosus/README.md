@@ -1,5 +1,4 @@
-Diploschistes verruculosus Gyeln. SPECIES
-=======
+# Diploschistes verruculosus Gyeln. SPECIES
 
 #### Status
 ACCEPTED

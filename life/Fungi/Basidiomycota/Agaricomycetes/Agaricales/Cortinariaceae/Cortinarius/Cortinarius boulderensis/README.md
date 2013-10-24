@@ -1,5 +1,4 @@
-Cortinarius boulderensis var. boulderensis VARIETY
-=======
+# Cortinarius boulderensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(3): 206 (1944)
 
 #### Original name
-Cortinarius boulderensis var. boulderensis
+Cortinarius boulderensis A.H. Sm.
 
 ### Remarks
 null

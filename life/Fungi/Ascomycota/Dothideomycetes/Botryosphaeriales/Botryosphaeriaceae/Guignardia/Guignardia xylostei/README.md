@@ -1,17 +1,16 @@
-Discosphaerina xylostei (Reusser) Sivan., 1984 SPECIES
-=======
+# Guignardia xylostei Reusser, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 51: 223 (1964)
 
 #### Original name
-null
+Guignardia xylostei Reusser, 1964
 
 ### Remarks
 null

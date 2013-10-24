@@ -1,5 +1,4 @@
-Vaucheria bicornigera T.J. Entwisle SPECIES
-=======
+# Vaucheria bicornigera T.J. Entwisle SPECIES
 
 #### Status
 ACCEPTED

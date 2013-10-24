@@ -1,5 +1,4 @@
-Cortinarius imbricatoides Rob. Henry SPECIES
-=======
+# Cortinarius imbricatoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

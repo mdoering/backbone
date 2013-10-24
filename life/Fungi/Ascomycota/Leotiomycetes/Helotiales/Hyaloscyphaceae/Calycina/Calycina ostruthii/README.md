@@ -1,5 +1,4 @@
-Calycina ostruthii (Saut.) Kuntze SPECIES
-=======
+# Calycina ostruthii (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

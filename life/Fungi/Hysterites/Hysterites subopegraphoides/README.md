@@ -1,5 +1,4 @@
-Hysterites subopegraphoides (Geyl.) Mesch. SPECIES
-=======
+# Hysterites subopegraphoides (Geyl.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria gigaspora Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria gigaspora Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

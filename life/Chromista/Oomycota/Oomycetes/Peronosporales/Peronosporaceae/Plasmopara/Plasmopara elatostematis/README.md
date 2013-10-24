@@ -1,5 +1,4 @@
-Plasmopara elatostematis (Togashi & Onuma) S. Ito & Tokun. SPECIES
-=======
+# Plasmopara elatostematis (Togashi & Onuma) S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

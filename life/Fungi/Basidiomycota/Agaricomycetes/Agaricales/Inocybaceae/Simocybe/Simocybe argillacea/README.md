@@ -1,5 +1,4 @@
-Simocybe argillacea E. Horak SPECIES
-=======
+# Simocybe argillacea E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia vanderbylii Zahlbr. SPECIES
-=======
+# Bacidia vanderbylii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

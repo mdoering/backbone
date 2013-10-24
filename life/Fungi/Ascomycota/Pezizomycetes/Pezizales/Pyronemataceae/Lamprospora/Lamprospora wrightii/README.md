@@ -1,14 +1,13 @@
-Peziza wrightii Berk. & M.A. Curtis, 1865 SPECIES
-=======
+# Lamprospora wrightii (Berk. & M.A. Curtis) Seaver, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 15: 444 (1865)
+Mycologia 6(1): 15 (1914)
 
 #### Original name
 Peziza wrightii Berk. & M.A. Curtis, 1865

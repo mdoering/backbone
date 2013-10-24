@@ -1,5 +1,4 @@
-Panellus brunneomaculatus Corner, 1986 SPECIES
-=======
+# Panellus brunneomaculatus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

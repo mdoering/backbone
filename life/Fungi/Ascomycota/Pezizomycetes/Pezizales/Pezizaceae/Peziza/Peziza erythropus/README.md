@@ -1,5 +1,4 @@
-Peziza erythropus Saut. SPECIES
-=======
+# Peziza erythropus Saut. SPECIES
 
 #### Status
 ACCEPTED

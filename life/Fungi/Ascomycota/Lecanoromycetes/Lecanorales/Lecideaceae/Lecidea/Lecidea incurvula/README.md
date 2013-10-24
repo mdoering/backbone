@@ -1,5 +1,4 @@
-Lecidea incurvula Müll. Arg. SPECIES
-=======
+# Lecidea incurvula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanopsamma improvisa (P. Karst.) Sacc. SPECIES
-=======
+# Melanopsamma improvisa (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

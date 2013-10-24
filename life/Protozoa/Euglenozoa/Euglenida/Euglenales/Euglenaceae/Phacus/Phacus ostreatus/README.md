@@ -1,5 +1,4 @@
-Phacus ostreatus Pochmann SPECIES
-=======
+# Phacus ostreatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

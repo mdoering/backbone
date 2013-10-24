@@ -1,5 +1,4 @@
-Paracolaniella Wang, 1966 GENUS
-=======
+# Paracolaniella Wang, 1966 GENUS
 
 #### Status
 ACCEPTED

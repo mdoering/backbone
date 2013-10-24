@@ -1,5 +1,4 @@
-Carpolites ellipticus SPECIES
-=======
+# Carpolites ellipticus SPECIES
 
 #### Status
 DOUBTFUL

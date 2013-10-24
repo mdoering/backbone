@@ -1,5 +1,4 @@
-Aspergillus mucoroideus Cooke SPECIES
-=======
+# Aspergillus mucoroideus Cooke SPECIES
 
 #### Status
 ACCEPTED

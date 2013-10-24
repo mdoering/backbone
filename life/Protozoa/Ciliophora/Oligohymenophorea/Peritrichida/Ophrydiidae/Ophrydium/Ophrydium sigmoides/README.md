@@ -1,5 +1,4 @@
-Ophrydium sigmoides Kellicott, ? SPECIES
-=======
+# Ophrydium sigmoides Kellicott, ? SPECIES
 
 #### Status
 ACCEPTED

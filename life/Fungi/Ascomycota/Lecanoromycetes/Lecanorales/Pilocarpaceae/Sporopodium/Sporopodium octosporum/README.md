@@ -1,5 +1,4 @@
-Sporopodium octosporum Lücking SPECIES
-=======
+# Sporopodium octosporum Lücking SPECIES
 
 #### Status
 ACCEPTED

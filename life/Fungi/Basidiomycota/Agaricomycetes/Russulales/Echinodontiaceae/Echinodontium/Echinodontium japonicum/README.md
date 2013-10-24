@@ -1,5 +1,4 @@
-Echinodontium japonicum Imazeki, 1935 SPECIES
-=======
+# Echinodontium japonicum Imazeki, 1935 SPECIES
 
 #### Status
 ACCEPTED

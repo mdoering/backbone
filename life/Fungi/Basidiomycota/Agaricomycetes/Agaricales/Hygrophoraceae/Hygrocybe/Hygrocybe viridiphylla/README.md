@@ -1,5 +1,4 @@
-Hygrocybe viridiphylla Lodge, S.A. Cantrell & Baroni SPECIES
-=======
+# Hygrocybe viridiphylla Lodge, S.A. Cantrell & Baroni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora annonifolii (Bat. & Peres) U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora annonifolii (Bat. & Peres) U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora ellisii Sacc. & P. Syd. SPECIES
-=======
+# Rhabdospora ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacospora Jørg. Koch & E.B.G. Jones GENUS
-=======
+# Limacospora Jørg. Koch & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

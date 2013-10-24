@@ -1,5 +1,4 @@
-Stentor fuscus Fromentel, 1876 SPECIES
-=======
+# Stentor fuscus Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

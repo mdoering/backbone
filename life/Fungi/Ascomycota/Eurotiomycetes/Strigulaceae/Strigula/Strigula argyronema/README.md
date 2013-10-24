@@ -1,5 +1,4 @@
-Strigula argyronema var. argyronema VARIETY
-=======
+# Strigula argyronema Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Engler's Bot. Jahrb. 6: 379 (1885)
 
 #### Original name
-Strigula argyronema var. argyronema
+Strigula argyronema Müll. Arg.
 
 ### Remarks
 null

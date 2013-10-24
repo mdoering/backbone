@@ -1,5 +1,4 @@
-Lithopterella Haeckel, 1887 GENUS
-=======
+# Lithopterella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

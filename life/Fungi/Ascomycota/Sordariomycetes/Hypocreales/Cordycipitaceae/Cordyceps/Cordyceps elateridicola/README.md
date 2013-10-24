@@ -1,5 +1,4 @@
-Cordyceps elateridicola Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps elateridicola Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

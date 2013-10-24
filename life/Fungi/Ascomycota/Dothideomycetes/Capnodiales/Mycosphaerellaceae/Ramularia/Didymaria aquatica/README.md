@@ -1,5 +1,4 @@
-Didymaria aquatica Starbäck SPECIES
-=======
+# Didymaria aquatica Starbäck SPECIES
 
 #### Status
 ACCEPTED

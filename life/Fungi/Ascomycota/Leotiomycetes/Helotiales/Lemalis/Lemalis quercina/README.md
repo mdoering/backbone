@@ -1,5 +1,4 @@
-Lemalis quercina Schwein. SPECIES
-=======
+# Lemalis quercina Schwein. SPECIES
 
 #### Status
 ACCEPTED

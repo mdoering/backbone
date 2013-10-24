@@ -1,5 +1,4 @@
-Chromophysomonas H.R.Preisig & D.J.Hibberd, 1982 GENUS
-=======
+# Chromophysomonas H.R.Preisig & D.J.Hibberd, 1982 GENUS
 
 #### Status
 ACCEPTED

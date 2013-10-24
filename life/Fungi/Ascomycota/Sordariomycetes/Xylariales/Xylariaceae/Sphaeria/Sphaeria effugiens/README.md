@@ -1,5 +1,4 @@
-Sphaeria effugiens P. Karst. SPECIES
-=======
+# Sphaeria effugiens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

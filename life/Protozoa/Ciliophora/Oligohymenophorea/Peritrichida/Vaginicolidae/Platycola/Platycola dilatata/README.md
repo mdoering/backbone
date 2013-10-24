@@ -1,8 +1,7 @@
-Vaginicola dilatata Fromentel, 1876 SPECIES
-=======
+# Platycola dilatata sensu Dons, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

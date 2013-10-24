@@ -1,8 +1,7 @@
-Didymosphaeria feltgeni Syd. SPECIES
-=======
+# Didymosphaeria feltgenii Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosphaeria feltgeni Syd.
+Didymosphaeria feltgenii Syd.
 
 ### Remarks
 null

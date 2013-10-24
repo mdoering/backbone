@@ -1,5 +1,4 @@
-Heterothecium turbinatum (Tuck.) SPECIES
-=======
+# Heterothecium turbinatum (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

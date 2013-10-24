@@ -1,5 +1,4 @@
-Actinomma trinacria (Haeckel) Cortese & Bjorklund, 1998 SPECIES
-=======
+# Actinomma trinacria (Haeckel) Cortese & Bjorklund, 1998 SPECIES
 
 #### Status
 ACCEPTED

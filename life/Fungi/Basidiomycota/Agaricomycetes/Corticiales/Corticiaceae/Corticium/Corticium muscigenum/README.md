@@ -1,5 +1,4 @@
-Corticium muscigenum Berk. & Broome SPECIES
-=======
+# Corticium muscigenum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

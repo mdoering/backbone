@@ -1,5 +1,4 @@
-Mycena albidocinerea Velen. SPECIES
-=======
+# Mycena albidocinerea Velen. SPECIES
 
 #### Status
 ACCEPTED

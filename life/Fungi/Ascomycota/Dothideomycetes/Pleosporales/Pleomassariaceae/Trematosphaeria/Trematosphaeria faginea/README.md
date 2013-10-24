@@ -1,5 +1,4 @@
-Trematosphaeria faginea Morgan SPECIES
-=======
+# Trematosphaeria faginea Morgan SPECIES
 
 #### Status
 ACCEPTED

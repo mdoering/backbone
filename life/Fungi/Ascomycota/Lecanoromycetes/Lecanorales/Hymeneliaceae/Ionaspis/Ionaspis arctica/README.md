@@ -1,5 +1,4 @@
-Ionaspis arctica Lynge SPECIES
-=======
+# Ionaspis arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

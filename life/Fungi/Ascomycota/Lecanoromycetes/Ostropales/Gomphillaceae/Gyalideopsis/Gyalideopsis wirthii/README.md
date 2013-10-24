@@ -1,5 +1,4 @@
-Gyalideopsis wirthii Kalb & Vezda SPECIES
-=======
+# Gyalideopsis wirthii Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

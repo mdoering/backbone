@@ -1,5 +1,4 @@
-Periacineta triangularis SPECIES
-=======
+# Periacineta triangularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporidina Petr. GENUS
-=======
+# Gloeosporidina Petr. GENUS
 
 #### Status
 ACCEPTED

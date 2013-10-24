@@ -1,5 +1,4 @@
-Octospora menzeliana Timm SPECIES
-=======
+# Octospora menzeliana Timm SPECIES
 
 #### Status
 ACCEPTED

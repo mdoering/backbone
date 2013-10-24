@@ -1,5 +1,4 @@
-Pseudorhizopogon Kobayasi GENUS
-=======
+# Pseudorhizopogon Kobayasi GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria vagans f. vagans FORM
-=======
+# Sphaeria vagans Haller, 1768 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 532 (1823)
+Syst. Nat. , Edn 13 1: LII (1768)
 
 #### Original name
-Sphaeria vagans f. vagans
+Sphaeria vagans Haller, 1768
 
 ### Remarks
 null

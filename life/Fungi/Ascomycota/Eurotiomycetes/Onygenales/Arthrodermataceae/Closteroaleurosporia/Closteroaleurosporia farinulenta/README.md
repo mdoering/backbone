@@ -1,5 +1,4 @@
-Closteroaleurosporia farinulenta (Sabour.) Grigoraki SPECIES
-=======
+# Closteroaleurosporia farinulenta (Sabour.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

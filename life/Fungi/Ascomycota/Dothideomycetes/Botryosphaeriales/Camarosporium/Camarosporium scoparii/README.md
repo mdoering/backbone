@@ -1,5 +1,4 @@
-Camarosporium scoparii Petr. SPECIES
-=======
+# Camarosporium scoparii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma euphorbiae Sacc. SPECIES
-=======
+# Phoma euphorbiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

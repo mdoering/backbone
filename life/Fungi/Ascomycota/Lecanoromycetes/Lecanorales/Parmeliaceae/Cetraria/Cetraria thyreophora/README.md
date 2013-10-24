@@ -1,5 +1,4 @@
-Cetraria thyreophora (Ach.) Röhl. SPECIES
-=======
+# Cetraria thyreophora (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

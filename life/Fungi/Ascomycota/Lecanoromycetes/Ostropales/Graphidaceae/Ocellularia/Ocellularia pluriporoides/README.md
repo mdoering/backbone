@@ -1,5 +1,4 @@
-Ocellularia pluriporoides Homchant. & Coppins SPECIES
-=======
+# Ocellularia pluriporoides Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

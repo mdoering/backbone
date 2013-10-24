@@ -1,5 +1,4 @@
-Hygrophorus stenophyllus Mont. SPECIES
-=======
+# Hygrophorus stenophyllus Mont. SPECIES
 
 #### Status
 ACCEPTED

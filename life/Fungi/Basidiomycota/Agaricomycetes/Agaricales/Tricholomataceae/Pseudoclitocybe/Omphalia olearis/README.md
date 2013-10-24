@@ -1,5 +1,4 @@
-Omphalia olearis Cleland SPECIES
-=======
+# Omphalia olearis Cleland SPECIES
 
 #### Status
 ACCEPTED

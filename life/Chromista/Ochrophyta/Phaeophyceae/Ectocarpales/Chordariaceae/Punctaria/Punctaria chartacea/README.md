@@ -1,5 +1,4 @@
-Punctaria chartacea Setchell & N.L. Gardner SPECIES
-=======
+# Punctaria chartacea Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

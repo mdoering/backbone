@@ -1,5 +1,4 @@
-Asterella furcata (Pat.) Sacc. SPECIES
-=======
+# Asterella furcata (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

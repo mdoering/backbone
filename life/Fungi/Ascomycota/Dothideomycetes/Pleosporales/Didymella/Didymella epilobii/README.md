@@ -1,17 +1,16 @@
-Phoma epilobii Preuss SPECIES
-=======
+# Didymella epilobii (Fuckel) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 38: no. 282 (1855)
+null
 
 #### Original name
-Phoma epilobii Preuss
+Didymella epilobii (Fuckel) Sacc., 1882
 
 ### Remarks
 null

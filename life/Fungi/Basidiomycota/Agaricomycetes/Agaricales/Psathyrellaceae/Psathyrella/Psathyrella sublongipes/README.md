@@ -1,5 +1,4 @@
-Psathyrella sublongipes A.H. Sm. SPECIES
-=======
+# Psathyrella sublongipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

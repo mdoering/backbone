@@ -1,5 +1,4 @@
-Phaeographina pudica var. pudica VARIETY
-=======
+# Phaeographina pudica (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina pudica var. pudica
+Graphis pudica Mont. & Bosch
 
 ### Remarks
 null

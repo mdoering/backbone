@@ -1,5 +1,4 @@
-Trochammina montagui Brönnimann & Whittacker, 1988 SPECIES
-=======
+# Trochammina montagui Brönnimann & Whittacker, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon miliaceum Bull. SPECIES
-=======
+# Hypoxylon miliaceum Bull. SPECIES
 
 #### Status
 ACCEPTED

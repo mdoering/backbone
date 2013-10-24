@@ -1,5 +1,4 @@
-Trigonactinium Haeckel, 1887 GENUS
-=======
+# Trigonactinium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

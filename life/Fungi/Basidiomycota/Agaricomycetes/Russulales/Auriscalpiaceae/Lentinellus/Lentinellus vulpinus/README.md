@@ -1,17 +1,16 @@
-Lentinus auricula var. auricula VARIETY
-=======
+# Lentinellus vulpinus (Sowerby) Kühner & Maire, 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öfvers. K. VetenskAkad. Forh. 29 (1862)
+Bull. trimest. Soc. mycol. Fr. 50: 16 (1934)
 
 #### Original name
-Lentinus auricula var. auricula
+Agaricus vulpinus Sowerby, 1803
 
 ### Remarks
 null

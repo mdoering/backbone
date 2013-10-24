@@ -1,5 +1,4 @@
-Lecidea craspedia (Ach.) Hue SPECIES
-=======
+# Lecidea craspedia (Ach.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo alismacearum P. Crouan & H. Crouan SPECIES
-=======
+# Uredo alismacearum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

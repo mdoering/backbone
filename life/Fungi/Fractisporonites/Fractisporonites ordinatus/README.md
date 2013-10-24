@@ -1,5 +1,4 @@
-Fractisporonites ordinatus Sheffy & Dilcher SPECIES
-=======
+# Fractisporonites ordinatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophoronomyces coralloidis Cif. & Tomas. SPECIES
-=======
+# Sphaerophoronomyces coralloidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

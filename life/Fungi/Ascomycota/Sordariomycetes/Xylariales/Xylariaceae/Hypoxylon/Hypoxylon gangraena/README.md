@@ -1,5 +1,4 @@
-Hypoxylon gangraena Ces. SPECIES
-=======
+# Hypoxylon gangraena Ces. SPECIES
 
 #### Status
 ACCEPTED

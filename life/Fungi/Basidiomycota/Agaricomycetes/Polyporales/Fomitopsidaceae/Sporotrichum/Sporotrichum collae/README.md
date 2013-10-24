@@ -1,5 +1,4 @@
-Sporotrichum collae Link SPECIES
-=======
+# Sporotrichum collae Link SPECIES
 
 #### Status
 ACCEPTED

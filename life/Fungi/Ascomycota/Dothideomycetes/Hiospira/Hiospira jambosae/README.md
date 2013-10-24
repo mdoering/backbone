@@ -1,5 +1,4 @@
-Hiospira jambosae Bat., J.L. Bezerra & Peres SPECIES
-=======
+# Hiospira jambosae Bat., J.L. Bezerra & Peres SPECIES
 
 #### Status
 ACCEPTED

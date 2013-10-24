@@ -1,5 +1,4 @@
-Protoblastenia aurata Poelt & Vezda SPECIES
-=======
+# Protoblastenia aurata Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

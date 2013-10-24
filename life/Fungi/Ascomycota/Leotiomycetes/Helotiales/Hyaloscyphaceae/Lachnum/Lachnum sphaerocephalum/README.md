@@ -1,5 +1,4 @@
-Lachnum sphaerocephalum (Wallr.) Sacc. SPECIES
-=======
+# Lachnum sphaerocephalum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodon mollis (P. Karst.) Henn. SPECIES
-=======
+# Phaeodon mollis (P. Karst.) Henn. SPECIES
 
 #### Status
 ACCEPTED

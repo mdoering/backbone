@@ -1,5 +1,4 @@
-Coreomyces arcuatus Thaxt. SPECIES
-=======
+# Coreomyces arcuatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

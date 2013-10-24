@@ -1,5 +1,4 @@
-Macrosporium readeri G. Winter SPECIES
-=======
+# Macrosporium readeri G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius foliolum (Kalchbr.) Kuntze SPECIES
-=======
+# Merulius foliolum (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

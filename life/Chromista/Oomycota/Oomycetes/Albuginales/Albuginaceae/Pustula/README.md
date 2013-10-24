@@ -1,5 +1,4 @@
-Pustula Thines, 2005 GENUS
-=======
+# Pustula Thines, 2005 GENUS
 
 #### Status
 ACCEPTED

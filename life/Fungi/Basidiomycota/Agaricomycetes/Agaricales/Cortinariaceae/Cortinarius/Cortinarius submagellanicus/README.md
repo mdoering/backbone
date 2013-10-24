@@ -1,5 +1,4 @@
-Cortinarius submagellanicus Gasparini SPECIES
-=======
+# Cortinarius submagellanicus Gasparini SPECIES
 
 #### Status
 ACCEPTED

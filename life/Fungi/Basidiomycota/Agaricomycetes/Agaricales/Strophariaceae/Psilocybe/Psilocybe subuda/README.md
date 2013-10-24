@@ -1,5 +1,4 @@
-Psilocybe subuda Cleland SPECIES
-=======
+# Psilocybe subuda Cleland SPECIES
 
 #### Status
 ACCEPTED

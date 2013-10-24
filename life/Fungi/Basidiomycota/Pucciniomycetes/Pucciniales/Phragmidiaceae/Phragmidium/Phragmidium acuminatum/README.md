@@ -1,17 +1,16 @@
-Aregma phragmidium subsp. acuminatum (Fr.) Fr. SUBSPECIES
-=======
+# Phragmidium acuminatum (Fr.) Cooke, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 497 (1832)
+Trans. New Zealand Inst. 61: 403 (1930)
 
 #### Original name
-Aregma acuminatum Fr., 1815
+Phragmidium acuminatum (Fr.) Cooke, 1871
 
 ### Remarks
 null

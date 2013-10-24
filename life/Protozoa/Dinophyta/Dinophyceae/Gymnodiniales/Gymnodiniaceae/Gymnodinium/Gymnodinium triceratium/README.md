@@ -1,8 +1,7 @@
-Gymnodinium impar Harris SPECIES
-=======
+# Gymnodinium triceratium Skuja SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

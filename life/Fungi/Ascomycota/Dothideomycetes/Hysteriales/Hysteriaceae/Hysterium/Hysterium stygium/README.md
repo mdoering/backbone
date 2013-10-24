@@ -1,5 +1,4 @@
-Hysterium stygium Cooke SPECIES
-=======
+# Hysterium stygium Cooke SPECIES
 
 #### Status
 ACCEPTED

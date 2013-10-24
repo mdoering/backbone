@@ -1,5 +1,4 @@
-Prosthecobacter vanneervenii Hedlund et al., 1998 SPECIES
-=======
+# Prosthecobacter vanneervenii Hedlund et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

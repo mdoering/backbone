@@ -1,5 +1,4 @@
-Lecidea inops Th. Fr. SPECIES
-=======
+# Lecidea inops Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

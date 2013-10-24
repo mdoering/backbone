@@ -1,5 +1,4 @@
-Siphula orphnina Hue SPECIES
-=======
+# Siphula orphnina Hue SPECIES
 
 #### Status
 ACCEPTED

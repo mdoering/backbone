@@ -1,5 +1,4 @@
-Aspicilia aeneola Motyka SPECIES
-=======
+# Aspicilia aeneola Motyka SPECIES
 
 #### Status
 ACCEPTED

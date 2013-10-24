@@ -1,5 +1,4 @@
-Trichia piriformis Hoffm. SPECIES
-=======
+# Trichia piriformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

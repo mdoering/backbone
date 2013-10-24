@@ -1,5 +1,4 @@
-Zaghouania Pat. GENUS
-=======
+# Zaghouania Pat. GENUS
 
 #### Status
 ACCEPTED

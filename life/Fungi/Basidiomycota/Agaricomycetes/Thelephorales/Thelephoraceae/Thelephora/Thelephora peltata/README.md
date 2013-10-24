@@ -1,5 +1,4 @@
-Thelephora peltata Pers. SPECIES
-=======
+# Thelephora peltata Pers. SPECIES
 
 #### Status
 ACCEPTED

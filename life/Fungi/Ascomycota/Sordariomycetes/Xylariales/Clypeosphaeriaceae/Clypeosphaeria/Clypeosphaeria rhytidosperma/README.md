@@ -1,5 +1,4 @@
-Clypeosphaeria rhytidosperma (Speg.) Rick SPECIES
-=======
+# Clypeosphaeria rhytidosperma (Speg.) Rick SPECIES
 
 #### Status
 ACCEPTED

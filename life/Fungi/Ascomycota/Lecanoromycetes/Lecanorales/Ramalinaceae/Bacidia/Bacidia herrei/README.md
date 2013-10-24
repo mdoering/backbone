@@ -1,5 +1,4 @@
-Bacidia herrei Zahlbr. SPECIES
-=======
+# Bacidia herrei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

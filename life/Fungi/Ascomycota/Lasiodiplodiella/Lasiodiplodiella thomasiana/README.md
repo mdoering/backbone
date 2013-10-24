@@ -1,5 +1,4 @@
-Lasiodiplodiella thomasiana (Sacc.) Zambett. SPECIES
-=======
+# Lasiodiplodiella thomasiana (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

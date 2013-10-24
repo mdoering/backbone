@@ -1,17 +1,16 @@
-Mycovellosiella zizyphi Bhalla, Kavita Srivast. & A.K. Srivast. SPECIES
-=======
+# Mycovellosiella ziziphi Bhalla, Kavita Srivast. & A.K. Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 48(2): 201 (1996)
 
 #### Original name
-Mycovellosiella zizyphi Bhalla, Kavita Srivast. & A.K. Srivast.
+Mycovellosiella ziziphi Bhalla, Kavita Srivast. & A.K. Srivast.
 
 ### Remarks
 null

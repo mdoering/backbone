@@ -1,5 +1,4 @@
-Xanthoanaptychia S.Y. Kondr. & Kärnefelt GENUS
-=======
+# Xanthoanaptychia S.Y. Kondr. & Kärnefelt GENUS
 
 #### Status
 ACCEPTED

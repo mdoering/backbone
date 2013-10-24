@@ -1,5 +1,4 @@
-Acineta grandis Kent, 1882 SPECIES
-=======
+# Acineta grandis Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

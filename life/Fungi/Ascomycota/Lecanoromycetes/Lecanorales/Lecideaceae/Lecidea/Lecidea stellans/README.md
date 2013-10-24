@@ -1,5 +1,4 @@
-Lecidea stellans Stizenb. SPECIES
-=======
+# Lecidea stellans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

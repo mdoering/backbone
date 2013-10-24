@@ -1,5 +1,4 @@
-Endothiella gyrosa Sacc., 1906 SPECIES
-=======
+# Endothiella gyrosa Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

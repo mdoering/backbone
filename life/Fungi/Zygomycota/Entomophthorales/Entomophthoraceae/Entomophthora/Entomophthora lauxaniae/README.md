@@ -1,5 +1,4 @@
-Entomophthora lauxaniae Bubák SPECIES
-=======
+# Entomophthora lauxaniae Bubák SPECIES
 
 #### Status
 ACCEPTED

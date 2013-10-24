@@ -1,5 +1,4 @@
-Palawaniopsis Bat., Cif. & Nascim. GENUS
-=======
+# Palawaniopsis Bat., Cif. & Nascim. GENUS
 
 #### Status
 ACCEPTED

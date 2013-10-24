@@ -1,5 +1,4 @@
-Marasmius haematodes Berk. SPECIES
-=======
+# Marasmius haematodes Berk. SPECIES
 
 #### Status
 ACCEPTED

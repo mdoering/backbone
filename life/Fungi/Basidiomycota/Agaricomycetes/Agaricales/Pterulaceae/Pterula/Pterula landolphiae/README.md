@@ -1,5 +1,4 @@
-Pterula landolphiae Lloyd SPECIES
-=======
+# Pterula landolphiae Lloyd SPECIES
 
 #### Status
 ACCEPTED

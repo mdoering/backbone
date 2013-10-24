@@ -1,5 +1,4 @@
-Polyporus chudei Pat. SPECIES
-=======
+# Polyporus chudei Pat. SPECIES
 
 #### Status
 ACCEPTED

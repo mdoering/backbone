@@ -1,5 +1,4 @@
-Phaeothyrium Petr. GENUS
-=======
+# Phaeothyrium Petr. GENUS
 
 #### Status
 ACCEPTED

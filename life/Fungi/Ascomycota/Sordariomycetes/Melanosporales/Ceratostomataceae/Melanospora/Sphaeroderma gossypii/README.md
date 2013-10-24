@@ -1,5 +1,4 @@
-Sphaeroderma gossypii Av.-Saccá SPECIES
-=======
+# Sphaeroderma gossypii Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

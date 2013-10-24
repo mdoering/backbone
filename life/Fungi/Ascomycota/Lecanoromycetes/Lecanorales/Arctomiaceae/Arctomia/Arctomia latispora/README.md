@@ -1,5 +1,4 @@
-Arctomia latispora Øvstedal SPECIES
-=======
+# Arctomia latispora Øvstedal SPECIES
 
 #### Status
 ACCEPTED

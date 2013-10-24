@@ -1,5 +1,4 @@
-Pyrenodesmia heufleriana A. Massal. SPECIES
-=======
+# Pyrenodesmia heufleriana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

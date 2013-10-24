@@ -1,14 +1,13 @@
-Coniothyrium concors (Schulzer & Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium consors (Schulzer & Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 459 (1898)
 
 #### Original name
 Aposphaeria consors Schulzer & Sacc.

@@ -1,5 +1,4 @@
-Myxotrichum dendromorphum Matsush. SPECIES
-=======
+# Myxotrichum dendromorphum Matsush. SPECIES
 
 #### Status
 ACCEPTED

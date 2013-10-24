@@ -1,5 +1,4 @@
-Gliocladium agaricinum Cooke & Massee SPECIES
-=======
+# Gliocladium agaricinum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

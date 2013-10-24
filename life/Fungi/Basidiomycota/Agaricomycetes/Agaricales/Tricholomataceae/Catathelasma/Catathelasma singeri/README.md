@@ -1,5 +1,4 @@
-Catathelasma singeri Mitchel & A.H. Sm., 1978 SPECIES
-=======
+# Catathelasma singeri Mitchel & A.H. Sm., 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecatovalvia Yan, 1995 GENUS
-=======
+# Thecatovalvia Yan, 1995 GENUS
 
 #### Status
 ACCEPTED

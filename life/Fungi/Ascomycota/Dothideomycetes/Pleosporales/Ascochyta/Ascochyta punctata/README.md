@@ -1,5 +1,4 @@
-Ascochyta punctata Naumov SPECIES
-=======
+# Ascochyta punctata Naumov SPECIES
 
 #### Status
 ACCEPTED

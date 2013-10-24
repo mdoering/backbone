@@ -1,5 +1,4 @@
-Zythia occultata Bres. SPECIES
-=======
+# Zythia occultata Bres. SPECIES
 
 #### Status
 ACCEPTED

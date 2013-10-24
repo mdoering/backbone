@@ -1,17 +1,16 @@
-Pleospora allii (Rabenh.) Ces. & De Not., 1863 SPECIES
-=======
+# Stemphylium vesicarium (Wallr.) E.G. Simmons, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1: 218 (1863)
+Mycologia 61(1): 9 (1969)
 
 #### Original name
-Sphaeria allii Rabenh., 1846
+Helminthosporium vesicarium Wallr., 1833
 
 ### Remarks
 null

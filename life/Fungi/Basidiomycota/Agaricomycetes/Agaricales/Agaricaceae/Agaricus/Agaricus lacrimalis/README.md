@@ -1,5 +1,4 @@
-Agaricus lacrimalis Batsch SPECIES
-=======
+# Agaricus lacrimalis Batsch SPECIES
 
 #### Status
 ACCEPTED

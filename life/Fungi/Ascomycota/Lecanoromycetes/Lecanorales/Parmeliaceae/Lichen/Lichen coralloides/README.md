@@ -1,5 +1,4 @@
-Lichen coralloides Dubois SPECIES
-=======
+# Lichen coralloides Dubois SPECIES
 
 #### Status
 ACCEPTED

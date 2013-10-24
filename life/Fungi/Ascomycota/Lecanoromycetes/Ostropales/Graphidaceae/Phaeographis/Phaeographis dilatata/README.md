@@ -1,5 +1,4 @@
-Phaeographis dilatata (Vain.) Redinger SPECIES
-=======
+# Phaeographis dilatata (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

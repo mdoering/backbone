@@ -1,5 +1,4 @@
-Meliola daphniphyllicola B. Song & T.H. Li SPECIES
-=======
+# Meliola daphniphyllicola B. Song & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

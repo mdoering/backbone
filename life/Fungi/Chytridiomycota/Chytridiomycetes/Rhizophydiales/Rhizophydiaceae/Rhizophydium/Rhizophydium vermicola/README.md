@@ -1,5 +1,4 @@
-Rhizophydium vermicola Sparrow SPECIES
-=======
+# Rhizophydium vermicola Sparrow SPECIES
 
 #### Status
 ACCEPTED

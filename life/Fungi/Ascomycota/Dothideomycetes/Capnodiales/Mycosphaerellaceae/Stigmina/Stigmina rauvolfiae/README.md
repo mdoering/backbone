@@ -1,5 +1,4 @@
-Stigmina rauvolfiae M.B. Ellis SPECIES
-=======
+# Stigmina rauvolfiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

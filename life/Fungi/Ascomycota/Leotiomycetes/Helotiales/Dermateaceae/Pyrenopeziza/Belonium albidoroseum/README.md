@@ -1,5 +1,4 @@
-Belonium albidoroseum (Rehm) Rehm SPECIES
-=======
+# Belonium albidoroseum (Rehm) Rehm SPECIES
 
 #### Status
 ACCEPTED

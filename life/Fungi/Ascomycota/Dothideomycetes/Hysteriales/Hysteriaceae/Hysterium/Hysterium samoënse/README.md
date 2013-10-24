@@ -1,5 +1,4 @@
-Hysterium samoënse Höhn. SPECIES
-=======
+# Hysterium samoënse Höhn. SPECIES
 
 #### Status
 ACCEPTED

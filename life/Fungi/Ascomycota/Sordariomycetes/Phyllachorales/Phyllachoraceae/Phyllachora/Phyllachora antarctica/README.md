@@ -1,5 +1,4 @@
-Phyllachora antarctica Speg., 1924 SPECIES
-=======
+# Phyllachora antarctica Speg., 1924 SPECIES
 
 #### Status
 ACCEPTED

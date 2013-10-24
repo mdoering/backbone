@@ -1,5 +1,4 @@
-Hexagonia muelleri Berk. SPECIES
-=======
+# Hexagonia muelleri Berk. SPECIES
 
 #### Status
 ACCEPTED

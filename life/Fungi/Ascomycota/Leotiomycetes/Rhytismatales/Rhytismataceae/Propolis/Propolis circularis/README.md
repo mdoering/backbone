@@ -1,5 +1,4 @@
-Propolis circularis Farl. SPECIES
-=======
+# Propolis circularis Farl. SPECIES
 
 #### Status
 ACCEPTED

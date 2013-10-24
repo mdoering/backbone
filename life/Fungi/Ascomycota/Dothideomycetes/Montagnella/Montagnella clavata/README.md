@@ -1,5 +1,4 @@
-Montagnella clavata Pat. SPECIES
-=======
+# Montagnella clavata Pat. SPECIES
 
 #### Status
 ACCEPTED

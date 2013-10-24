@@ -1,5 +1,4 @@
-Mycena raeborrhiza (Lasch) Gillet SPECIES
-=======
+# Mycena raeborrhiza (Lasch) Gillet SPECIES
 
 #### Status
 ACCEPTED

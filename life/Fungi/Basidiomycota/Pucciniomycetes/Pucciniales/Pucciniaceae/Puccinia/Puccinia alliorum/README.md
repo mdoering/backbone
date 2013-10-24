@@ -1,5 +1,4 @@
-Puccinia alliorum Corda SPECIES
-=======
+# Puccinia alliorum Corda SPECIES
 
 #### Status
 ACCEPTED

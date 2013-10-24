@@ -1,5 +1,4 @@
-Lecanora hungarica Szatala SPECIES
-=======
+# Lecanora hungarica Szatala SPECIES
 
 #### Status
 ACCEPTED

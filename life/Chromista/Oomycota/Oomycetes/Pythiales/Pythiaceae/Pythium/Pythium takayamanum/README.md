@@ -1,5 +1,4 @@
-Pythium takayamanum M. Senda SPECIES
-=======
+# Pythium takayamanum M. Senda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus anacoelus var. queenslandicus McLeod VARIETY
-=======
+# Phacus anacoelus A. Stokes SPECIES
 
 #### Status
 ACCEPTED

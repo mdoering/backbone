@@ -1,5 +1,4 @@
-Cryptovalsa extorris Sacc. SPECIES
-=======
+# Cryptovalsa extorris Sacc. SPECIES
 
 #### Status
 ACCEPTED

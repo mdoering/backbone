@@ -1,5 +1,4 @@
-Aecidium senecionis-scandentis Sawada SPECIES
-=======
+# Aecidium senecionis-scandentis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Intranstylum asellicolum Kahl, 1935 SPECIES
-=======
+# Intranstylum asellicola Kahl, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Phyllachora americana Parbery, 1967 SPECIES
-=======
+# Phyllachora americana Parbery, 1967 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Helotium angustum (Singer) Redhead SPECIES
-=======
+# Helotium angustum (Singer) Redhead SPECIES
 
 #### Status
 ACCEPTED

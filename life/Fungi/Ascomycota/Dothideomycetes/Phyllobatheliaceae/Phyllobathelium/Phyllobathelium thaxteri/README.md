@@ -1,17 +1,16 @@
-Phyllobathelium thaxteri var. heterogena VARIETY
-=======
+# Phyllobathelium thaxteri (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 8: 142 (1932)
 
 #### Original name
-Phyllobathelium thaxteri var. heterogena
+Thelenella thaxteri Vain.
 
 ### Remarks
 null

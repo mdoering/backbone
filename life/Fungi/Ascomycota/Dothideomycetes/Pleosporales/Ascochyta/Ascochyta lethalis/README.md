@@ -1,5 +1,4 @@
-Ascochyta lethalis Ellis & Barthol. SPECIES
-=======
+# Ascochyta lethalis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

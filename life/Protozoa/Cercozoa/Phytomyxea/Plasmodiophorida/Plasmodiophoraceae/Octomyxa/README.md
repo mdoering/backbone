@@ -1,5 +1,4 @@
-Octomyxa Couch, J. Leitn. & Whiffen GENUS
-=======
+# Octomyxa Couch, J. Leitn. & Whiffen GENUS
 
 #### Status
 ACCEPTED

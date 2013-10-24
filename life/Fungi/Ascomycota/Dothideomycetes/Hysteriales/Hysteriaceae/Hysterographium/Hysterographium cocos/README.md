@@ -1,5 +1,4 @@
-Hysterographium cocos Weedon SPECIES
-=======
+# Hysterographium cocos Weedon SPECIES
 
 #### Status
 ACCEPTED

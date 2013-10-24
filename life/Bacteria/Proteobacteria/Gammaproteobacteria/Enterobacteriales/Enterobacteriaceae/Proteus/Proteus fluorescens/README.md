@@ -1,5 +1,4 @@
-Proteus fluorescens SPECIES
-=======
+# Proteus fluorescens SPECIES
 
 #### Status
 ACCEPTED

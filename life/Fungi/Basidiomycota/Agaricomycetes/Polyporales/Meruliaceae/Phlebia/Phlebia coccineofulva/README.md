@@ -1,17 +1,16 @@
-Corticium martianum Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Phlebia coccineofulva Schwein., 1834 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 12): 179 (1873)
+Trans. Am. phil. Soc. , Ser. 2 4(2): 165 (1834)
 
 #### Original name
-Corticium martianum Berk. & M.A. Curtis, 1873
+Phlebia coccineofulva Schwein., 1834
 
 ### Remarks
 null

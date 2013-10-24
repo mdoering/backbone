@@ -1,5 +1,4 @@
-Secoliga carneonivea (Anzi) Arnold SPECIES
-=======
+# Secoliga carneonivea (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

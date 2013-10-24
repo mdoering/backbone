@@ -1,5 +1,4 @@
-Anthostoma minor (Ellis & Everh.) E. Müll. SPECIES
-=======
+# Anthostoma minor (Ellis & Everh.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

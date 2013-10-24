@@ -1,5 +1,4 @@
-Protogastrostyla Gong, Kim, Kim, Min, Roberts, Warren, Choi, 2007 GENUS
-=======
+# Protogastrostyla Gong, Kim, Kim, Min, Roberts, Warren, Choi, 2007 GENUS
 
 #### Status
 ACCEPTED

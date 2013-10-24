@@ -1,5 +1,4 @@
-Janetia garryae (Bonar) S. Hughes SPECIES
-=======
+# Janetia garryae (Bonar) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

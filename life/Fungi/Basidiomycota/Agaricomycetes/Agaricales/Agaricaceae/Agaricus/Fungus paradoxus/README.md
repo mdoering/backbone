@@ -1,5 +1,4 @@
-Fungus paradoxus (Henn.) Kuntze SPECIES
-=======
+# Fungus paradoxus (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

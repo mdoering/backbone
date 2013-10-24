@@ -1,14 +1,13 @@
-Psilocybe caerulea (Kreisel) Noordel., 1995 SPECIES
-=======
+# Stropharia caerulea Kreisel, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 128 (1995)
+Beih. Sydowia 8: 229 (1979)
 
 #### Original name
 Stropharia caerulea Kreisel, 1979

@@ -1,14 +1,13 @@
-Lecidea atronivea Arnold SPECIES
-=======
+# Carbonea atronivea (Arnold) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 19: 442 (1983)
 
 #### Original name
 Lecidea atronivea Arnold

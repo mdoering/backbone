@@ -1,5 +1,4 @@
-Telamonia pilatii (Svrcek) Hlavácek SPECIES
-=======
+# Telamonia pilatii (Svrcek) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopetalum puellula (Speg.) E. Horak SPECIES
-=======
+# Geopetalum puellula (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

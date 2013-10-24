@@ -1,5 +1,4 @@
-Phyllopsora longispora Swinscow & Krog SPECIES
-=======
+# Phyllopsora longispora Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

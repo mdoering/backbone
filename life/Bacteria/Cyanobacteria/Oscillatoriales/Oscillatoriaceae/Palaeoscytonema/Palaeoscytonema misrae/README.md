@@ -1,5 +1,4 @@
-Palaeoscytonema misrae J. Mandal & P. K. Maithy SPECIES
-=======
+# Palaeoscytonema misrae J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

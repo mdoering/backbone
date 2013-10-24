@@ -1,5 +1,4 @@
-Buellia mawsonii C.W. Dodge SPECIES
-=======
+# Buellia mawsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

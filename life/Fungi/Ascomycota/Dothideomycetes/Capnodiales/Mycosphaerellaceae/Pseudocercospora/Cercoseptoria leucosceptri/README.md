@@ -1,5 +1,4 @@
-Cercoseptoria leucosceptri (Keissl.) Petr. SPECIES
-=======
+# Cercoseptoria leucosceptri (Keissl.) Petr. SPECIES
 
 #### Status
 ACCEPTED

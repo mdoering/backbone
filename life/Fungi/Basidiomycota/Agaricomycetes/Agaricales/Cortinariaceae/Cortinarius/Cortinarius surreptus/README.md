@@ -1,5 +1,4 @@
-Cortinarius surreptus E. Horak SPECIES
-=======
+# Cortinarius surreptus E. Horak SPECIES
 
 #### Status
 ACCEPTED

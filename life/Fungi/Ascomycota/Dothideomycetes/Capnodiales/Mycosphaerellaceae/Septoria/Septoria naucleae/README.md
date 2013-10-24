@@ -1,5 +1,4 @@
-Septoria naucleae Cejp & Deighton SPECIES
-=======
+# Septoria naucleae Cejp & Deighton SPECIES
 
 #### Status
 ACCEPTED

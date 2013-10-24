@@ -1,5 +1,4 @@
-Portalia V. González, Vánky & Platas GENUS
-=======
+# Portalia V. González, Vánky & Platas GENUS
 
 #### Status
 ACCEPTED

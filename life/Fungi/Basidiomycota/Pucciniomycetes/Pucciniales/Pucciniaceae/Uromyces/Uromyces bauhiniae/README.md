@@ -1,5 +1,4 @@
-Uromyces bauhiniae Henn. SPECIES
-=======
+# Uromyces bauhiniae Henn. SPECIES
 
 #### Status
 ACCEPTED

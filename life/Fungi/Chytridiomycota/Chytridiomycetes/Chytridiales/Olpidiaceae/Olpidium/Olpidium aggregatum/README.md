@@ -1,5 +1,4 @@
-Olpidium aggregatum P.A. Dang. SPECIES
-=======
+# Olpidium aggregatum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

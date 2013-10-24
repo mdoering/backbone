@@ -1,5 +1,4 @@
-Cercospora triumfettae-rhomboideae R.K. Srivast., Narayan & N. Kumari SPECIES
-=======
+# Cercospora triumfettae-rhomboideae R.K. Srivast., Narayan & N. Kumari SPECIES
 
 #### Status
 ACCEPTED

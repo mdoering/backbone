@@ -1,5 +1,4 @@
-Strombidium filificum Kahl, 1932 SPECIES
-=======
+# Strombidium filificum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia fouquieriensis Bungartz SPECIES
-=======
+# Buellia fouquieriensis Bungartz SPECIES
 
 #### Status
 ACCEPTED

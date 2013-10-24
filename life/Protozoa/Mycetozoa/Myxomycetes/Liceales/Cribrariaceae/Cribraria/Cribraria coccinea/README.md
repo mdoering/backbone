@@ -1,5 +1,4 @@
-Cribraria coccinea Pers. SPECIES
-=======
+# Cribraria coccinea Pers. SPECIES
 
 #### Status
 ACCEPTED

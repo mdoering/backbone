@@ -1,5 +1,4 @@
-Phyllosticta doronicella Maire SPECIES
-=======
+# Phyllosticta doronicella Maire SPECIES
 
 #### Status
 ACCEPTED

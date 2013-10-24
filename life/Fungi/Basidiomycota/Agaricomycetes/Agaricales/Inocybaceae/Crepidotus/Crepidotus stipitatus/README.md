@@ -1,5 +1,4 @@
-Crepidotus stipitatus Kauffman SPECIES
-=======
+# Crepidotus stipitatus Kauffman SPECIES
 
 #### Status
 ACCEPTED

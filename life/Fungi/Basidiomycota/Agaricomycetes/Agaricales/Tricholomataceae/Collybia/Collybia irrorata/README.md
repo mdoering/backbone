@@ -1,5 +1,4 @@
-Collybia irrorata Pat. SPECIES
-=======
+# Collybia irrorata Pat. SPECIES
 
 #### Status
 ACCEPTED

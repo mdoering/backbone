@@ -1,5 +1,4 @@
-Hansfordia S. Hughes, 1951 GENUS
-=======
+# Hansfordia S. Hughes, 1951 GENUS
 
 #### Status
 ACCEPTED

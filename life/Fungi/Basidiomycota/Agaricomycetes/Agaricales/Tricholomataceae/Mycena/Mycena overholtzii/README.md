@@ -1,5 +1,4 @@
-Mycena overholtzii Smith & Solheim SPECIES
-=======
+# Mycena overholtzii Smith & Solheim SPECIES
 
 #### Status
 ACCEPTED

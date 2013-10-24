@@ -1,5 +1,4 @@
-Stagonospora querci Sawada SPECIES
-=======
+# Stagonospora querci Sawada SPECIES
 
 #### Status
 ACCEPTED

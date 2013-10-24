@@ -1,5 +1,4 @@
-Lecidea reveniens Nyl. SPECIES
-=======
+# Lecidea reveniens Nyl. SPECIES
 
 #### Status
 ACCEPTED

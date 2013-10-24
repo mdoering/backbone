@@ -1,5 +1,4 @@
-Myxofusicoccum pteleae Panas. SPECIES
-=======
+# Myxofusicoccum pteleae Panas. SPECIES
 
 #### Status
 ACCEPTED

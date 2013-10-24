@@ -1,5 +1,4 @@
-Panus luteus Dennis SPECIES
-=======
+# Panus luteus Dennis SPECIES
 
 #### Status
 ACCEPTED

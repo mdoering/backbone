@@ -1,5 +1,4 @@
-Perisporium iridis (Schwein.) Fr. SPECIES
-=======
+# Perisporium iridis (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

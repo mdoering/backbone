@@ -1,5 +1,4 @@
-Podospora alloeochaeta Mirza & Cain SPECIES
-=======
+# Podospora alloeochaeta Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

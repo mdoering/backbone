@@ -1,5 +1,4 @@
-Papposphaera simplicissima H. A. Thomsen SPECIES
-=======
+# Papposphaera simplicissima H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia occultata Feltgen SPECIES
-=======
+# Rosellinia occultata Feltgen SPECIES
 
 #### Status
 ACCEPTED

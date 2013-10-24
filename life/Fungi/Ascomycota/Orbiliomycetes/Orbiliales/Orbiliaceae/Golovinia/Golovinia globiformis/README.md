@@ -1,5 +1,4 @@
-Golovinia globiformis Mekht. SPECIES
-=======
+# Golovinia globiformis Mekht. SPECIES
 
 #### Status
 ACCEPTED

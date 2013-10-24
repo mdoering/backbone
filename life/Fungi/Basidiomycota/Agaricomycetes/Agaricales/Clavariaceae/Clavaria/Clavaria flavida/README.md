@@ -1,5 +1,4 @@
-Clavaria flavida Pers. SPECIES
-=======
+# Clavaria flavida Pers. SPECIES
 
 #### Status
 ACCEPTED

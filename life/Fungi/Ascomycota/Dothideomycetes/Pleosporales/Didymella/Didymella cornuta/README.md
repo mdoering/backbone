@@ -1,5 +1,4 @@
-Didymella cornuta Ellis & Everh. SPECIES
-=======
+# Didymella cornuta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

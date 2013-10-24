@@ -1,5 +1,4 @@
-Saccharomyces cirratus Boutroux SPECIES
-=======
+# Saccharomyces cirratus Boutroux SPECIES
 
 #### Status
 ACCEPTED

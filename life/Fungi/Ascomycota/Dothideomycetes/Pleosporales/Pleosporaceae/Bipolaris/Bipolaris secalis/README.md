@@ -1,5 +1,4 @@
-Bipolaris secalis Sisterna SPECIES
-=======
+# Bipolaris secalis Sisterna SPECIES
 
 #### Status
 ACCEPTED

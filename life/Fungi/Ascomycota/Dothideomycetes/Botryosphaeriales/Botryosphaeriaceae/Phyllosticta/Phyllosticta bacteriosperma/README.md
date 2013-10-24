@@ -1,5 +1,4 @@
-Phyllosticta bacteriosperma Pass. SPECIES
-=======
+# Phyllosticta bacteriosperma Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria granulata G. Karst., 1907 SPECIES
-=======
+# Fragilaria granulata G. Karst., 1907 SPECIES
 
 #### Status
 ACCEPTED

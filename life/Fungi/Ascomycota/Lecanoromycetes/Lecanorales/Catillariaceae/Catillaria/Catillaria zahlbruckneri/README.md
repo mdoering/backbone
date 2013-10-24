@@ -1,5 +1,4 @@
-Catillaria zahlbruckneri Fink SPECIES
-=======
+# Catillaria zahlbruckneri Fink SPECIES
 
 #### Status
 ACCEPTED

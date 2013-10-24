@@ -1,17 +1,16 @@
-Inocybe pyriodora f. incarnata (Bres.) Nespiak FORM
-=======
+# Inocybe pyriodora (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska. Grzyby (Mycota). Podstawczaki (Basidiomycetes), Bedlkowe (Agaricales), Zaslonakowate (Cortinariaceae), Strzepiak (Inocybe) 19: 44 (1990)
+Führ. Pilzk. (Zwickau) 180 (1871)
 
 #### Original name
-Inocybe incarnata Bres., 1884
+Agaricus pyriodorus Pers., 1801
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peronospora pseudostellariae G.Y. Yin & Z.S. Yang SPECIES
-=======
+# Peronospora pseudostellariae G.Y. Yin & Z.S. Yang SPECIES
 
 #### Status
 ACCEPTED

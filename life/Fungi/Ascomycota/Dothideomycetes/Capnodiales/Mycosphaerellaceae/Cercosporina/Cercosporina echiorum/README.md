@@ -1,5 +1,4 @@
-Cercosporina echiorum (Maire) Sacc. SPECIES
-=======
+# Cercosporina echiorum (Maire) Sacc. SPECIES
 
 #### Status
 ACCEPTED

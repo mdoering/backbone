@@ -1,5 +1,4 @@
-Sorites hofkeri Lacroix, 1940 SPECIES
-=======
+# Sorites hofkeri Lacroix, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa sibirica Thüm. SPECIES
-=======
+# Valsa sibirica Thüm. SPECIES
 
 #### Status
 ACCEPTED

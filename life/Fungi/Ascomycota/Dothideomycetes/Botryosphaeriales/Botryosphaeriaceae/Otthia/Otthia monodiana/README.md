@@ -1,5 +1,4 @@
-Otthia monodiana Sacc. & Roum. SPECIES
-=======
+# Otthia monodiana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

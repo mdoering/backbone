@@ -1,5 +1,4 @@
-Endolpidium GENUS
-=======
+# Endolpidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus minimus Pat. SPECIES
-=======
+# Cyathus minimus Pat. SPECIES
 
 #### Status
 ACCEPTED

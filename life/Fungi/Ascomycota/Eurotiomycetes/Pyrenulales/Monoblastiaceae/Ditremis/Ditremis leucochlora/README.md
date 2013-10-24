@@ -1,5 +1,4 @@
-Ditremis leucochlora (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Ditremis leucochlora (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

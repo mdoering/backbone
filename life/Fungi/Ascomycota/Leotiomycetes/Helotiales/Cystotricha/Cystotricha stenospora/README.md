@@ -1,5 +1,4 @@
-Cystotricha stenospora Berk. & M.A. Curtis SPECIES
-=======
+# Cystotricha stenospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

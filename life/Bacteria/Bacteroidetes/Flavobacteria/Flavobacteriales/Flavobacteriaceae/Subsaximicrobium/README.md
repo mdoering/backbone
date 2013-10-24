@@ -1,5 +1,4 @@
-Subsaximicrobium Bowman & Nichols, 2005 GENUS
-=======
+# Subsaximicrobium Bowman & Nichols, 2005 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Akanthomyces websteri Hywel-Jones SPECIES
-=======
+# Akanthomyces websteri Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

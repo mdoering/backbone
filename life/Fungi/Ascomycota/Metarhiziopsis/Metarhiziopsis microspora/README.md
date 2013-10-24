@@ -1,5 +1,4 @@
-Metarhiziopsis microspora D.W. Li, Cowles & Vossbrinck SPECIES
-=======
+# Metarhiziopsis microspora D.W. Li, Cowles & Vossbrinck SPECIES
 
 #### Status
 ACCEPTED

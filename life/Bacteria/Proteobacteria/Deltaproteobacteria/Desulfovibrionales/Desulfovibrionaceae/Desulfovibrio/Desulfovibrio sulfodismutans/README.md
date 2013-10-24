@@ -1,5 +1,4 @@
-Desulfovibrio sulfodismutans Bak & Pfennig, 1988 SPECIES
-=======
+# Desulfovibrio sulfodismutans Bak & Pfennig, 1988 SPECIES
 
 #### Status
 ACCEPTED

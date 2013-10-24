@@ -1,5 +1,4 @@
-Aconthaspis GENUS
-=======
+# Aconthaspis GENUS
 
 #### Status
 ACCEPTED

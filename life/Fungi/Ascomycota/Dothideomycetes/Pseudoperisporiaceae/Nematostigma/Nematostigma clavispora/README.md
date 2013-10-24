@@ -1,5 +1,4 @@
-Nematostigma clavispora Syd. SPECIES
-=======
+# Nematostigma clavispora Syd. SPECIES
 
 #### Status
 ACCEPTED

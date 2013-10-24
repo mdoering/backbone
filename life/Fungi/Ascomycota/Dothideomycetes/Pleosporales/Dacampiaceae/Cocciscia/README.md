@@ -1,5 +1,4 @@
-Cocciscia Norman GENUS
-=======
+# Cocciscia Norman GENUS
 
 #### Status
 ACCEPTED

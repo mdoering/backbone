@@ -1,5 +1,4 @@
-Caeoma formosum Schltdl. SPECIES
-=======
+# Caeoma formosum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

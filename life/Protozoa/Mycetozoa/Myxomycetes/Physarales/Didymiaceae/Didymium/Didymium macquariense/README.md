@@ -1,5 +1,4 @@
-Didymium macquariense G. Moreno & S.L. Stephenson, 2006 SPECIES
-=======
+# Didymium macquariense G. Moreno & S.L. Stephenson, 2006 SPECIES
 
 #### Status
 ACCEPTED

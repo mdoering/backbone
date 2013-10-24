@@ -1,5 +1,4 @@
-Diaporthella Petr. GENUS
-=======
+# Diaporthella Petr. GENUS
 
 #### Status
 ACCEPTED

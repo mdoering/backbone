@@ -1,5 +1,4 @@
-Sclerotium medullare Schwein., 1832 SPECIES
-=======
+# Sclerotium medullare Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

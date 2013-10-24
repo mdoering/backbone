@@ -1,5 +1,4 @@
-Ascochyta siemaszkoi Melnik SPECIES
-=======
+# Ascochyta siemaszkoi Melnik SPECIES
 
 #### Status
 ACCEPTED

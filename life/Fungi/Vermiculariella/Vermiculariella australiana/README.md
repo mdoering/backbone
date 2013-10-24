@@ -1,5 +1,4 @@
-Vermiculariella australiana (McAlpine) Sacc. & D. Sacc. SPECIES
-=======
+# Vermiculariella australiana (McAlpine) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

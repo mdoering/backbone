@@ -1,5 +1,4 @@
-Trametes microporoides Corner SPECIES
-=======
+# Trametes microporoides Corner SPECIES
 
 #### Status
 ACCEPTED

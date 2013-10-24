@@ -1,5 +1,4 @@
-Lecidea ammiospiloides (Nyl.) Hue SPECIES
-=======
+# Lecidea ammiospiloides (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

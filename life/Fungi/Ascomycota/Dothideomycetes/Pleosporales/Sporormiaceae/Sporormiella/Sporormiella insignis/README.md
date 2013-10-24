@@ -1,5 +1,4 @@
-Sporormiella insignis (Niessl) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella insignis (Niessl) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

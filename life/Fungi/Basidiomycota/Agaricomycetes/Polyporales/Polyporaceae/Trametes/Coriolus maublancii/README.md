@@ -1,5 +1,4 @@
-Coriolus maublancii Pilát SPECIES
-=======
+# Coriolus maublancii Pilát SPECIES
 
 #### Status
 ACCEPTED

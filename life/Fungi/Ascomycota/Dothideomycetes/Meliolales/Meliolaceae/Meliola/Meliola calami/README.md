@@ -1,5 +1,4 @@
-Meliola calami Hansf. & Deighton SPECIES
-=======
+# Meliola calami Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

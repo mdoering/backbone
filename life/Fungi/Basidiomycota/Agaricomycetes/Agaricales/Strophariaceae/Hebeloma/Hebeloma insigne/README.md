@@ -1,5 +1,4 @@
-Hebeloma insigne A.H. Sm., V.S. Evenson & Mitchel, 1983 SPECIES
-=======
+# Hebeloma insigne A.H. Sm., V.S. Evenson & Mitchel, 1983 SPECIES
 
 #### Status
 ACCEPTED

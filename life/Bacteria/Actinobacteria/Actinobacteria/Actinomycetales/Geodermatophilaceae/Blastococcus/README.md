@@ -1,5 +1,4 @@
-Blastococcus GENUS
-=======
+# Blastococcus GENUS
 
 #### Status
 ACCEPTED

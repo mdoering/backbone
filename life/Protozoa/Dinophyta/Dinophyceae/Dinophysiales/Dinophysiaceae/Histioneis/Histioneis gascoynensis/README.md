@@ -1,5 +1,4 @@
-Histioneis gascoynensis Wood, 1963 SPECIES
-=======
+# Histioneis gascoynensis Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

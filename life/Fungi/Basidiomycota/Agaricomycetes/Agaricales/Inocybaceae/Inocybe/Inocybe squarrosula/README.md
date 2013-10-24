@@ -1,5 +1,4 @@
-Inocybe squarrosula P. Karst. SPECIES
-=======
+# Inocybe squarrosula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

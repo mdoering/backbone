@@ -1,5 +1,4 @@
-Colletotrichum toluiferae F. Stevens & Solheim SPECIES
-=======
+# Colletotrichum toluiferae F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

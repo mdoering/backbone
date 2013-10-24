@@ -1,5 +1,4 @@
-Glomospiranella Dain, 1953 GENUS
-=======
+# Glomospiranella Dain, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora macrospora Unger SPECIES
-=======
+# Peronospora macrospora Unger SPECIES
 
 #### Status
 ACCEPTED

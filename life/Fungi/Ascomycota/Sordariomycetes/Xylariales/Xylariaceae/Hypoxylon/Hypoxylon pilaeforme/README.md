@@ -1,5 +1,4 @@
-Hypoxylon pilaeforme Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon pilaeforme Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia leptodermidis Barclay SPECIES
-=======
+# Puccinia leptodermidis Barclay SPECIES
 
 #### Status
 ACCEPTED

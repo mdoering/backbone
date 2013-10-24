@@ -1,5 +1,4 @@
-Phyllachora callistemonis langdonii (Hansf.) C.A. Pearce & K.D. Hyde, 1994 INFRASPECIFIC_NAME
-=======
+# Phyllachora callistemonis SPECIES
 
 #### Status
 ACCEPTED

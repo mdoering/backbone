@@ -1,5 +1,4 @@
-Gloeosporium truncatum (Bonord.) Sacc. SPECIES
-=======
+# Gloeosporium truncatum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus caldariorum Henn. SPECIES
-=======
+# Pluteus caldariorum Henn. SPECIES
 
 #### Status
 ACCEPTED

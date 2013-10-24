@@ -1,5 +1,4 @@
-Cercospora diospyri-morrisianae Sawada SPECIES
-=======
+# Cercospora diospyri-morrisianae Sawada SPECIES
 
 #### Status
 ACCEPTED

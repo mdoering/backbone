@@ -1,5 +1,4 @@
-Calonectria circumposita Kirschst. SPECIES
-=======
+# Calonectria circumposita Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stipella latispora L.G. Valle, 2007 SPECIES
-=======
+# Stipella latispora L.G. Valle, 2007 SPECIES
 
 #### Status
 ACCEPTED

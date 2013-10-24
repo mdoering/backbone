@@ -1,5 +1,4 @@
-Rhabdoderma compositum (G.M. Smith) Fedorov SPECIES
-=======
+# Rhabdoderma compositum (G.M. Smith) Fedorov SPECIES
 
 #### Status
 ACCEPTED

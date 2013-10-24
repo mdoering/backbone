@@ -1,5 +1,4 @@
-Zignoëlla abscondita (Ellis & Everh.) Fairm. SPECIES
-=======
+# Zignoëlla abscondita (Ellis & Everh.) Fairm. SPECIES
 
 #### Status
 ACCEPTED

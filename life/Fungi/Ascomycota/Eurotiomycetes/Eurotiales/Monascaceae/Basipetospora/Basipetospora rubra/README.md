@@ -1,5 +1,4 @@
-Basipetospora rubra G.T. Cole & W.B. Kendr., 1968 SPECIES
-=======
+# Basipetospora rubra G.T. Cole & W.B. Kendr., 1968 SPECIES
 
 #### Status
 ACCEPTED

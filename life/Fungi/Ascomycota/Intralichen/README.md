@@ -1,5 +1,4 @@
-Intralichen D. Hawksw. & M.S. Cole GENUS
-=======
+# Intralichen D. Hawksw. & M.S. Cole GENUS
 
 #### Status
 ACCEPTED

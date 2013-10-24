@@ -1,5 +1,4 @@
-Meliola dichotoma Berk. & M.A. Curtis SPECIES
-=======
+# Meliola dichotoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia aura Lalicker & McCullough, 1940 SPECIES
-=======
+# Textularia aura Lalicker & McCullough, 1940 SPECIES
 
 #### Status
 ACCEPTED

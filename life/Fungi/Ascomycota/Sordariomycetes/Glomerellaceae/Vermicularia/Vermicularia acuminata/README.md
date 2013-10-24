@@ -1,5 +1,4 @@
-Vermicularia acuminata Schwein. SPECIES
-=======
+# Vermicularia acuminata Schwein. SPECIES
 
 #### Status
 ACCEPTED

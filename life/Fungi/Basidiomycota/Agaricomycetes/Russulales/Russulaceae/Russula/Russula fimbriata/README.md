@@ -1,5 +1,4 @@
-Russula fimbriata Buyck SPECIES
-=======
+# Russula fimbriata Buyck SPECIES
 
 #### Status
 ACCEPTED

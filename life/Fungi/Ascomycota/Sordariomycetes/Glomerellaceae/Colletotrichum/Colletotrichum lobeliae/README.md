@@ -1,5 +1,4 @@
-Colletotrichum lobeliae F. Stevens SPECIES
-=======
+# Colletotrichum lobeliae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

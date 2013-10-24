@@ -1,5 +1,4 @@
-Clitopilus pallidus R. Heim SPECIES
-=======
+# Clitopilus pallidus R. Heim SPECIES
 
 #### Status
 ACCEPTED

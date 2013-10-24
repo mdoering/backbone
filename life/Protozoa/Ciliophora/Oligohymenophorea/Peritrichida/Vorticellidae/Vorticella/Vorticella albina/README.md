@@ -1,5 +1,4 @@
-Vorticella albina Müller, 1786 SPECIES
-=======
+# Vorticella albina Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

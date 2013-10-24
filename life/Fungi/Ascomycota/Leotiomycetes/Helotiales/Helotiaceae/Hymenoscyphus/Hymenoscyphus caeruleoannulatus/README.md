@@ -1,5 +1,4 @@
-Hymenoscyphus caeruleoannulatus Svrcek SPECIES
-=======
+# Hymenoscyphus caeruleoannulatus Svrcek SPECIES
 
 #### Status
 ACCEPTED

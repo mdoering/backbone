@@ -1,5 +1,4 @@
-Chlorophyllum humei (Murrill) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum humei (Murrill) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

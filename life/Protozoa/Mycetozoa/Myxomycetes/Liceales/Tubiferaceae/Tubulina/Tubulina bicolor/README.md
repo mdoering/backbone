@@ -1,5 +1,4 @@
-Tubulina bicolor Poir. SPECIES
-=======
+# Tubulina bicolor Poir. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia tablensis Hale, T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia tablensis Hale, T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthroderma glorise Ajello SPECIES
-=======
+# Arthroderma glorise Ajello SPECIES
 
 #### Status
 ACCEPTED

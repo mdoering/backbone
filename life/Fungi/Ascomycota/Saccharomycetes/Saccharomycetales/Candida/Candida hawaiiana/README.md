@@ -1,5 +1,4 @@
-Candida hawaiiana Lachance, J.M. Bowles & Starmer SPECIES
-=======
+# Candida hawaiiana Lachance, J.M. Bowles & Starmer SPECIES
 
 #### Status
 ACCEPTED

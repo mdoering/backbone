@@ -1,5 +1,4 @@
-Diatrype delacourei Fabre SPECIES
-=======
+# Diatrype delacourei Fabre SPECIES
 
 #### Status
 ACCEPTED

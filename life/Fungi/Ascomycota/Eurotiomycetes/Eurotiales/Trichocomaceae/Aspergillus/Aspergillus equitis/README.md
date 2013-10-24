@@ -1,5 +1,4 @@
-Aspergillus equitis Samson & W. Gams SPECIES
-=======
+# Aspergillus equitis Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

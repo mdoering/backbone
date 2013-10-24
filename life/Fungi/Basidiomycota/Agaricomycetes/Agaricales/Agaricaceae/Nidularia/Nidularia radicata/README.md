@@ -1,5 +1,4 @@
-Nidularia radicata Fr. SPECIES
-=======
+# Nidularia radicata Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Octavianinaceae FAMILY
-=======
+# Boletaceae Chevall. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 248 (1826)
 
 #### Original name
-null
+Boletaceae Chevall.
 
 ### Remarks
 null

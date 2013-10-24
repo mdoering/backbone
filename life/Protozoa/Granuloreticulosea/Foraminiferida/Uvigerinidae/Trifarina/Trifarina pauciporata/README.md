@@ -1,8 +1,7 @@
-Angulogerina pauciporata Hofker, 1956 SPECIES
-=======
+# Trifarina pauciporata (Hofker, 1956) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

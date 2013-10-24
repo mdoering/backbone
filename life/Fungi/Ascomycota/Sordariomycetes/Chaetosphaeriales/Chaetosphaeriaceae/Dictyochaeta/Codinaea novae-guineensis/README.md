@@ -1,5 +1,4 @@
-Codinaea novae-guineensis Matsush. SPECIES
-=======
+# Codinaea novae-guineensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

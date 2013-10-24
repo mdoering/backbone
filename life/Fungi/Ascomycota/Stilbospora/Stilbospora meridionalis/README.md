@@ -1,14 +1,13 @@
-Hendersonia meridionalis D. Sacc. SPECIES
-=======
+# Stilbospora meridionalis (D. Sacc.) B. Sutton & Dyko, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotheca ital. no. 302 (1898)
+Mycol. Res. 93(4): 477 (1989)
 
 #### Original name
 Hendersonia meridionalis D. Sacc.

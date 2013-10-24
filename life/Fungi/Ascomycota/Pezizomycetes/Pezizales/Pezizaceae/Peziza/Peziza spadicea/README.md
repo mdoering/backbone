@@ -1,5 +1,4 @@
-Peziza spadicea Batsch SPECIES
-=======
+# Peziza spadicea Batsch SPECIES
 
 #### Status
 ACCEPTED

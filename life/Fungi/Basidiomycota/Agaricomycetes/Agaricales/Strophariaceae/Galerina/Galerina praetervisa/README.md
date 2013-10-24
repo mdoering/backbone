@@ -1,5 +1,4 @@
-Galerina praetervisa Singer SPECIES
-=======
+# Galerina praetervisa Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria vindobonensis var. vindobonensis VARIETY
-=======
+# Verrucaria vindobonensis Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria vindobonensis var. vindobonensis
+Verrucaria vindobonensis Zschacke
 
 ### Remarks
 null

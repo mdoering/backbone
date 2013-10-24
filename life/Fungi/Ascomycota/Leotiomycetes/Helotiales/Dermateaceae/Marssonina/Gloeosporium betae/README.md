@@ -1,5 +1,4 @@
-Gloeosporium betae Dearn. & Barthol. SPECIES
-=======
+# Gloeosporium betae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

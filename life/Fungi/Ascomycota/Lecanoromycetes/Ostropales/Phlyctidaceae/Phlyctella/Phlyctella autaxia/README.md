@@ -1,5 +1,4 @@
-Phlyctella autaxia Nyl. SPECIES
-=======
+# Phlyctella autaxia Nyl. SPECIES
 
 #### Status
 ACCEPTED

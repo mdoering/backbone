@@ -1,5 +1,4 @@
-Lecidea haumanii Zahlbr. SPECIES
-=======
+# Lecidea haumanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

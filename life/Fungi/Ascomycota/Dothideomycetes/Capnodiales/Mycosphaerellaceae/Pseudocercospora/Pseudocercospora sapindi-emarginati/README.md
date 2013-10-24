@@ -1,5 +1,4 @@
-Pseudocercospora sapindi-emarginati (T.S. Ramakr. & K. Ramakr.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora sapindi-emarginati (T.S. Ramakr. & K. Ramakr.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

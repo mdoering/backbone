@@ -1,17 +1,16 @@
-Dothidella eugeniae (Thüm. ex Cooke) Berl. & Voglino, 1886 SPECIES
-=======
+# Phyllachora eugeniae Thüm. ex Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 13(no. 67): 64 (1885)
 
 #### Original name
-null
+Phyllachora eugeniae Thüm. ex Cooke, 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acarospora duriana B. de Lesd. & Samp. SPECIES
-=======
+# Acarospora duriana B. de Lesd. & Samp. SPECIES
 
 #### Status
 ACCEPTED

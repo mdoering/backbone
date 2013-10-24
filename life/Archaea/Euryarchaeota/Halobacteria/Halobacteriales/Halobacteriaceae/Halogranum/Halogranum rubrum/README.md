@@ -1,5 +1,4 @@
-Halogranum rubrum Cui, Gao, Sun, Dong, Xu, Zhou, Liu, Oren & Zhou, 2010 SPECIES
-=======
+# Halogranum rubrum Cui, Gao, Sun, Dong, Xu, Zhou, Liu, Oren & Zhou, 2010 SPECIES
 
 #### Status
 ACCEPTED

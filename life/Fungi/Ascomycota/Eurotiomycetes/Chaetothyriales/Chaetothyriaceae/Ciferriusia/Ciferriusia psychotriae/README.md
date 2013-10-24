@@ -1,5 +1,4 @@
-Ciferriusia psychotriae Bat. SPECIES
-=======
+# Ciferriusia psychotriae Bat. SPECIES
 
 #### Status
 ACCEPTED

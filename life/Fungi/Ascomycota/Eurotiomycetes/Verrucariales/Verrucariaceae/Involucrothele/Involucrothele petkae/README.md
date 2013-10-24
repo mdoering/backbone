@@ -1,5 +1,4 @@
-Involucrothele petkae Servít SPECIES
-=======
+# Involucrothele petkae Servít SPECIES
 
 #### Status
 ACCEPTED

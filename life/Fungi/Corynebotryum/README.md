@@ -1,5 +1,4 @@
-Corynebotryum W. Gams GENUS
-=======
+# Corynebotryum W. Gams GENUS
 
 #### Status
 ACCEPTED

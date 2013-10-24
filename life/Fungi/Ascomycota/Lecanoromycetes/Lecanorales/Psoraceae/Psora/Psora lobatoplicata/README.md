@@ -1,5 +1,4 @@
-Psora lobatoplicata B. de Lesd. SPECIES
-=======
+# Psora lobatoplicata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

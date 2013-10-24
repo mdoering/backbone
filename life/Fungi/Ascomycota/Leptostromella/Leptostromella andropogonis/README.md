@@ -1,5 +1,4 @@
-Leptostromella andropogonis Dearn. & House SPECIES
-=======
+# Leptostromella andropogonis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

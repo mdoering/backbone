@@ -1,5 +1,4 @@
-Coprinus inamoenus P. Karst. SPECIES
-=======
+# Coprinus inamoenus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

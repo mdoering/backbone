@@ -1,5 +1,4 @@
-Lophosphaeridium kryptoradiatum Vanguestaine, 1974 SPECIES
-=======
+# Lophosphaeridium kryptoradiatum Vanguestaine, 1974 SPECIES
 
 #### Status
 ACCEPTED

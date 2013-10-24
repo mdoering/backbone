@@ -1,5 +1,4 @@
-Pseudoclitocybe beschidica Singer & Kuthan SPECIES
-=======
+# Pseudoclitocybe beschidica Singer & Kuthan SPECIES
 
 #### Status
 ACCEPTED

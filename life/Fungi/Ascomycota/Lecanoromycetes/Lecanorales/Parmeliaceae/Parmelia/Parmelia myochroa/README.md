@@ -1,5 +1,4 @@
-Parmelia myochroa (Ehrh.) Schaer. SPECIES
-=======
+# Parmelia myochroa (Ehrh.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

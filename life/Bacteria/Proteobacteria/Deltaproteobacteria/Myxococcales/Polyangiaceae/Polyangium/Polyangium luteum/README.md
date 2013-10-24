@@ -1,5 +1,4 @@
-Polyangium luteum (ex Krzemieniewska & Krzemieniewski, 1927) Brockman, 1989 SPECIES
-=======
+# Polyangium luteum (ex Krzemieniewska & Krzemieniewski, 1927) Brockman, 1989 SPECIES
 
 #### Status
 ACCEPTED

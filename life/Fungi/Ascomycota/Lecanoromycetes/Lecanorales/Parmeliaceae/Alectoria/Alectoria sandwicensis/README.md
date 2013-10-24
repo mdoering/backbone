@@ -1,5 +1,4 @@
-Alectoria sandwicensis H. Magn. SPECIES
-=======
+# Alectoria sandwicensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

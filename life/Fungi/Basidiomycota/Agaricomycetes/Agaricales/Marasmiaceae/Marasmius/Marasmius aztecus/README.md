@@ -1,5 +1,4 @@
-Marasmius aztecus Singer SPECIES
-=======
+# Marasmius aztecus Singer SPECIES
 
 #### Status
 ACCEPTED

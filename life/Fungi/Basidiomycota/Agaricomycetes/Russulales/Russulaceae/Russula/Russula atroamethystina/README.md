@@ -1,5 +1,4 @@
-Russula atroamethystina Alfaro, Singer & L.D. Gómez SPECIES
-=======
+# Russula atroamethystina Alfaro, Singer & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

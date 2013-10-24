@@ -1,5 +1,4 @@
-Prospodium transformans (Ellis & Everh.) Cummins SPECIES
-=======
+# Prospodium transformans (Ellis & Everh.) Cummins SPECIES
 
 #### Status
 ACCEPTED

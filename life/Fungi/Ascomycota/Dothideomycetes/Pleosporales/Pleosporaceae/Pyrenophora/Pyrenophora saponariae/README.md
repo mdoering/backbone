@@ -1,5 +1,4 @@
-Pyrenophora saponariae Gonz. Frag. SPECIES
-=======
+# Pyrenophora saponariae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

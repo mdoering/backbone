@@ -1,5 +1,4 @@
-Lepiota rubescens Beeli SPECIES
-=======
+# Lepiota rubescens Beeli SPECIES
 
 #### Status
 ACCEPTED

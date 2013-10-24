@@ -1,5 +1,4 @@
-Aecidium collapsum Mains SPECIES
-=======
+# Aecidium collapsum Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neottiella aphanodictyon (Kobayasi) Dissing, Korf & Sivertsen SPECIES
-=======
+# Neottiella aphanodictyon (Kobayasi) Dissing, Korf & Sivertsen SPECIES
 
 #### Status
 ACCEPTED

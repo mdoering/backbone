@@ -1,5 +1,4 @@
-Lecanora oblutescens Nyl. SPECIES
-=======
+# Lecanora oblutescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

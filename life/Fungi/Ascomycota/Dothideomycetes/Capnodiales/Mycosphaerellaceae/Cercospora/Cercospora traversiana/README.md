@@ -1,17 +1,16 @@
-Cercospora traversiana var. trigonellae-coeruleae (Viv.) Savul. & Sandu VARIETY
-=======
+# Cercospora traversiana Sacc., 1904 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 73: 127 (1933)
+Annls mycol. 2(1): 18 (1904)
 
 #### Original name
-Cercospora radiata f. trigonellae-coeruleae Viv.
+Cercospora traversiana Sacc., 1904
 
 ### Remarks
 null

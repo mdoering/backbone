@@ -1,5 +1,4 @@
-Aecidium myrsines McNabb, 1962 SPECIES
-=======
+# Aecidium myrsines McNabb, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus minimus Vaill. ex Roussel SPECIES
-=======
+# Cantharellus minimus Vaill. ex Roussel SPECIES
 
 #### Status
 ACCEPTED

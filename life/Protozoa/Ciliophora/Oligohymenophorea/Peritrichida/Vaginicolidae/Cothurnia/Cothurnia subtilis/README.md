@@ -1,5 +1,4 @@
-Cothurnia subtilis SPECIES
-=======
+# Cothurnia subtilis SPECIES
 
 #### Status
 ACCEPTED

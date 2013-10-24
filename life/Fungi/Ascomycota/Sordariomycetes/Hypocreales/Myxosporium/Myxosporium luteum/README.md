@@ -1,5 +1,4 @@
-Myxosporium luteum Ellis & Everh. SPECIES
-=======
+# Myxosporium luteum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

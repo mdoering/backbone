@@ -1,5 +1,4 @@
-Dendrosarcus lichenicola (Speg.) Kuntze SPECIES
-=======
+# Dendrosarcus lichenicola (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

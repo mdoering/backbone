@@ -1,5 +1,4 @@
-Pseudocercospora cannabina (Wakef.) Deighton SPECIES
-=======
+# Pseudocercospora cannabina (Wakef.) Deighton SPECIES
 
 #### Status
 ACCEPTED

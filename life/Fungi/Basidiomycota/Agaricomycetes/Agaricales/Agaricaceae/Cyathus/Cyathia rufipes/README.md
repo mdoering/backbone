@@ -1,5 +1,4 @@
-Cyathia rufipes (Ellis & Everh.) V.S. White SPECIES
-=======
+# Cyathia rufipes (Ellis & Everh.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola trompilliana (Toro) Cif. SPECIES
-=======
+# Meliola trompilliana (Toro) Cif. SPECIES
 
 #### Status
 ACCEPTED

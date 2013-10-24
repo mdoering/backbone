@@ -1,17 +1,16 @@
-Pseudocercosporella pogostemoniae A.K. Singh & Kamal SPECIES
-=======
+# Pseudocercosporella pogostemonis A.K. Singh & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 53(10): 544 (1984)
 
 #### Original name
-Pseudocercosporella pogostemoniae A.K. Singh & Kamal
+Pseudocercosporella pogostemonis A.K. Singh & Kamal
 
 ### Remarks
 null

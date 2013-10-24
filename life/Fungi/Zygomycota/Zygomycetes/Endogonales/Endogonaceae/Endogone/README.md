@@ -1,5 +1,4 @@
-Endogone Link GENUS
-=======
+# Endogone Link GENUS
 
 #### Status
 ACCEPTED

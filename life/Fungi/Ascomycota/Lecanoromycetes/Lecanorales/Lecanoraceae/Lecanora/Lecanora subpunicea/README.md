@@ -1,5 +1,4 @@
-Lecanora subpunicea Stizenb. SPECIES
-=======
+# Lecanora subpunicea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

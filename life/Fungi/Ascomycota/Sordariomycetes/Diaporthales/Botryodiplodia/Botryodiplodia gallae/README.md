@@ -1,17 +1,16 @@
-Dothiorella gallae (Schwein.) Starbäck SPECIES
-=======
+# Botryodiplodia gallae (Schwein.) Petr. & Syd., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Gattung der Pyrenomyzeten, Sphaeropsideen und Melanconieen 152 (1926)
 
 #### Original name
-null
+Sphaeria gallae Schwein., 1832
 
 ### Remarks
 null

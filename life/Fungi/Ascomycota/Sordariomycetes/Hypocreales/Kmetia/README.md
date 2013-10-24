@@ -1,5 +1,4 @@
-Kmetia Bres. & Sacc. GENUS
-=======
+# Kmetia Bres. & Sacc. GENUS
 
 #### Status
 ACCEPTED

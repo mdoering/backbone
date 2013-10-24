@@ -1,11 +1,10 @@
-Miliolina trigonula var. angusteoralis Wiesner, 1931 VARIETY
-=======
+# Triloculina trigonula (Lamarck, 1804) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

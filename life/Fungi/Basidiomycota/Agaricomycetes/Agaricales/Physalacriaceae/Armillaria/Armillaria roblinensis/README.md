@@ -1,5 +1,4 @@
-Armillaria roblinensis Velen. SPECIES
-=======
+# Armillaria roblinensis Velen. SPECIES
 
 #### Status
 ACCEPTED

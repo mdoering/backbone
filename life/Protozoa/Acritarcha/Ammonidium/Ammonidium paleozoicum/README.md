@@ -1,5 +1,4 @@
-Ammonidium paleozoicum (Stockmans & Willière, 1962) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Ammonidium paleozoicum (Stockmans & Willière, 1962) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

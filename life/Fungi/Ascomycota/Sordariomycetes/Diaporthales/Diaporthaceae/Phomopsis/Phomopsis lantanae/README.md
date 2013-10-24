@@ -1,5 +1,4 @@
-Phomopsis lantanae (M.E.A. Costa & Sousa da Câmara) B. Sutton SPECIES
-=======
+# Phomopsis lantanae (M.E.A. Costa & Sousa da Câmara) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea chondroidea Flagey SPECIES
-=======
+# Lecidea chondroidea Flagey SPECIES
 
 #### Status
 ACCEPTED

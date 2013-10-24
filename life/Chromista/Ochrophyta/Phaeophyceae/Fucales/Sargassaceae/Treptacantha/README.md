@@ -1,5 +1,4 @@
-Treptacantha Kützing, 1843 GENUS
-=======
+# Treptacantha Kützing, 1843 GENUS
 
 #### Status
 SYNONYM

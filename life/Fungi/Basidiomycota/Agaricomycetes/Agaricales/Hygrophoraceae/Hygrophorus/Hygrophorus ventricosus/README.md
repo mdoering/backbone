@@ -1,5 +1,4 @@
-Hygrophorus ventricosus Berk. & Broome SPECIES
-=======
+# Hygrophorus ventricosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

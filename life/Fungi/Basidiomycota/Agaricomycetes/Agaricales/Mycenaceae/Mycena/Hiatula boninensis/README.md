@@ -1,5 +1,4 @@
-Hiatula boninensis Berk. & M.A. Curtis SPECIES
-=======
+# Hiatula boninensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

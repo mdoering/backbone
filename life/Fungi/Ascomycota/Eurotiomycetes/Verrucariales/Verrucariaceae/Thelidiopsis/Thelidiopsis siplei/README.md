@@ -1,5 +1,4 @@
-Thelidiopsis siplei C.W. Dodge SPECIES
-=======
+# Thelidiopsis siplei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

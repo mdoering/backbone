@@ -1,5 +1,4 @@
-Protanoplophrya GENUS
-=======
+# Protanoplophrya GENUS
 
 #### Status
 ACCEPTED

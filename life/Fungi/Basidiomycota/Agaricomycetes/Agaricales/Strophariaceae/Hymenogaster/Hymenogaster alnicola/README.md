@@ -1,5 +1,4 @@
-Hymenogaster alnicola A.H. Sm. SPECIES
-=======
+# Hymenogaster alnicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

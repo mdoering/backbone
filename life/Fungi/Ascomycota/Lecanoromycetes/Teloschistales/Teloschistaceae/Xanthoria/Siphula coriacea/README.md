@@ -1,5 +1,4 @@
-Siphula coriacea Taylor ex Nyl., 1860 SPECIES
-=======
+# Siphula coriacea Taylor ex Nyl., 1860 SPECIES
 
 #### Status
 DOUBTFUL

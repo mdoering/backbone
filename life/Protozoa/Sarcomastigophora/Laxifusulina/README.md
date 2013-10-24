@@ -1,5 +1,4 @@
-Laxifusulina Xia, 1981 GENUS
-=======
+# Laxifusulina Xia, 1981 GENUS
 
 #### Status
 ACCEPTED

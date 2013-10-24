@@ -1,5 +1,4 @@
-Harposporium leptospira Drechsler, 1969 SPECIES
-=======
+# Harposporium leptospira Drechsler, 1969 SPECIES
 
 #### Status
 ACCEPTED

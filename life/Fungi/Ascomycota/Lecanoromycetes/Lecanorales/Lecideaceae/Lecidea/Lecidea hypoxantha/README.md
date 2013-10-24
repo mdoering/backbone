@@ -1,5 +1,4 @@
-Lecidea hypoxantha Fée SPECIES
-=======
+# Lecidea hypoxantha Fée SPECIES
 
 #### Status
 ACCEPTED

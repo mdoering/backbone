@@ -1,5 +1,4 @@
-Passalora chromolaenae Crous & Den Breeÿen SPECIES
-=======
+# Passalora chromolaenae Crous & Den Breeÿen SPECIES
 
 #### Status
 ACCEPTED

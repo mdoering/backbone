@@ -1,5 +1,4 @@
-Lepidoton dubium Seligo SPECIES
-=======
+# Lepidoton dubium Seligo SPECIES
 
 #### Status
 ACCEPTED

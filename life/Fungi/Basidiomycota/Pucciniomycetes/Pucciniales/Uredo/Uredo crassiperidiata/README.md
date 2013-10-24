@@ -1,5 +1,4 @@
-Uredo crassiperidiata Cummins SPECIES
-=======
+# Uredo crassiperidiata Cummins SPECIES
 
 #### Status
 ACCEPTED

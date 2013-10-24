@@ -1,5 +1,4 @@
-Lamprospora tuberculatella Seaver SPECIES
-=======
+# Lamprospora tuberculatella Seaver SPECIES
 
 #### Status
 ACCEPTED

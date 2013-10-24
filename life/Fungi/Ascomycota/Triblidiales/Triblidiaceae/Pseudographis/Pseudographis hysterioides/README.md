@@ -1,5 +1,4 @@
-Pseudographis hysterioides Feltgen SPECIES
-=======
+# Pseudographis hysterioides Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton palmense Vain. SPECIES
-=======
+# Chiodecton palmense Vain. SPECIES
 
 #### Status
 ACCEPTED

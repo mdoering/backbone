@@ -1,8 +1,7 @@
-Tachysoma persincirra sensu Hemberger, 1985 SPECIES
-=======
+# Lamtostyla islandica Berger & Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

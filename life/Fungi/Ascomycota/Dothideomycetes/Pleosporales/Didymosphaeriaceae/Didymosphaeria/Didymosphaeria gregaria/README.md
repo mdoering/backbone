@@ -1,5 +1,4 @@
-Didymosphaeria gregaria var. gregaria VARIETY
-=======
+# Didymosphaeria gregaria Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 12(4): 176 (1881)
 
 #### Original name
-Didymosphaeria gregaria var. gregaria
+Didymosphaeria gregaria Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium allenii Clinton SPECIES
-=======
+# Aecidium allenii Clinton SPECIES
 
 #### Status
 ACCEPTED

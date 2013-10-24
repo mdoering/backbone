@@ -1,5 +1,4 @@
-Prunulus syringeus Murrill SPECIES
-=======
+# Prunulus syringeus Murrill SPECIES
 
 #### Status
 ACCEPTED

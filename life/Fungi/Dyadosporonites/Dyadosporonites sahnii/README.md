@@ -1,5 +1,4 @@
-Dyadosporonites sahnii (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Dyadosporonites sahnii (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

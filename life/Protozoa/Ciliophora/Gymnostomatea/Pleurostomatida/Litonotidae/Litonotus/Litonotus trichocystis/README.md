@@ -1,8 +1,7 @@
-Lionotus trichocystis SPECIES
-=======
+# Litonotus trichocystis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

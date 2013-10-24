@@ -1,5 +1,4 @@
-Cellvibrio ostraviensis Mergaert et al., 2003 SPECIES
-=======
+# Cellvibrio ostraviensis Mergaert et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

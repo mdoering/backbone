@@ -1,5 +1,4 @@
-Desulfovibrio gracilis Magot et al., 2004 SPECIES
-=======
+# Desulfovibrio gracilis Magot et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

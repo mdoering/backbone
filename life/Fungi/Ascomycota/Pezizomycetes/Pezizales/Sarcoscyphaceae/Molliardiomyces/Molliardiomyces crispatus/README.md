@@ -1,5 +1,4 @@
-Molliardiomyces crispatus Paden SPECIES
-=======
+# Molliardiomyces crispatus Paden SPECIES
 
 #### Status
 ACCEPTED

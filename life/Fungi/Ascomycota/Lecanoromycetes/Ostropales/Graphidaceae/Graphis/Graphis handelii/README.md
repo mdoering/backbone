@@ -1,5 +1,4 @@
-Graphis handelii Zahlbr. SPECIES
-=======
+# Graphis handelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

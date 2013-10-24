@@ -1,5 +1,4 @@
-Parmelia controversa (A. Massal.) Hepp SPECIES
-=======
+# Parmelia controversa (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

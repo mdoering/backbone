@@ -1,5 +1,4 @@
-Agaricus concentricus Pers. SPECIES
-=======
+# Agaricus concentricus Pers. SPECIES
 
 #### Status
 ACCEPTED

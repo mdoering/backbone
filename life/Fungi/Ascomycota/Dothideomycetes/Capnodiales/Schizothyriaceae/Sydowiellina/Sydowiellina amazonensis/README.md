@@ -1,5 +1,4 @@
-Sydowiellina amazonensis Bat. & Peres SPECIES
-=======
+# Sydowiellina amazonensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

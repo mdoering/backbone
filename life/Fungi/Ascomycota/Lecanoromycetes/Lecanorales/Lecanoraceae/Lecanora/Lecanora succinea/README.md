@@ -1,5 +1,4 @@
-Lecanora succinea Martin-Donos {?} & Jeanbert {?} SPECIES
-=======
+# Lecanora succinea Martin-Donos {?} & Jeanbert {?} SPECIES
 
 #### Status
 ACCEPTED

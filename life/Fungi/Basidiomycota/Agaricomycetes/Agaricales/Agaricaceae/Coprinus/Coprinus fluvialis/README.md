@@ -1,5 +1,4 @@
-Coprinus fluvialis Lancon. & Uljé SPECIES
-=======
+# Coprinus fluvialis Lancon. & Uljé SPECIES
 
 #### Status
 ACCEPTED

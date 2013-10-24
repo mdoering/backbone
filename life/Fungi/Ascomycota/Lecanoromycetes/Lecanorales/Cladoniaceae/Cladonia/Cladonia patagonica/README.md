@@ -1,5 +1,4 @@
-Cladonia patagonica A. Evans SPECIES
-=======
+# Cladonia patagonica A. Evans SPECIES
 
 #### Status
 ACCEPTED

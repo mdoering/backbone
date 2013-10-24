@@ -1,5 +1,4 @@
-Boletus rickeni Gramberg SPECIES
-=======
+# Boletus rickeni Gramberg SPECIES
 
 #### Status
 ACCEPTED

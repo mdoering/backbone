@@ -1,5 +1,4 @@
-Anthocyrtidium zanguebaricum (Ehrenberg) Haeckel, 1887 SPECIES
-=======
+# Anthocyrtidium zanguebaricum (Ehrenberg) Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

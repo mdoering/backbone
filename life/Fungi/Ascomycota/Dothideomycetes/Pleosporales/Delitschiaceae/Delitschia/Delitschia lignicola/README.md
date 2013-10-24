@@ -1,5 +1,4 @@
-Delitschia lignicola Mouton SPECIES
-=======
+# Delitschia lignicola Mouton SPECIES
 
 #### Status
 ACCEPTED

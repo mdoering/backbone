@@ -1,5 +1,4 @@
-Boletus elvela Batsch SPECIES
-=======
+# Boletus elvela Batsch SPECIES
 
 #### Status
 ACCEPTED

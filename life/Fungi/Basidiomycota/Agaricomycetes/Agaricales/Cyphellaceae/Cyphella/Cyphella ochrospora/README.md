@@ -1,5 +1,4 @@
-Cyphella ochrospora Pat. SPECIES
-=======
+# Cyphella ochrospora Pat. SPECIES
 
 #### Status
 ACCEPTED

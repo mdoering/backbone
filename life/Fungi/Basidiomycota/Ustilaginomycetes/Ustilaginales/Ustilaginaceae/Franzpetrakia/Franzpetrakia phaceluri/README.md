@@ -1,5 +1,4 @@
-Franzpetrakia phaceluri Vánky, R.G. Shivas & L. Guo SPECIES
-=======
+# Franzpetrakia phaceluri Vánky, R.G. Shivas & L. Guo SPECIES
 
 #### Status
 ACCEPTED

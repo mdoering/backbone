@@ -1,5 +1,4 @@
-Boletus raphanolens Corner SPECIES
-=======
+# Boletus raphanolens Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanobrevibacter gottschalkii Miller & Lin, 2002 SPECIES
-=======
+# Methanobrevibacter gottschalkii Miller & Lin, 2002 SPECIES
 
 #### Status
 ACCEPTED

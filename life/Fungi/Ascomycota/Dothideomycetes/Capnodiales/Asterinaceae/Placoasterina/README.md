@@ -1,5 +1,4 @@
-Placoasterina Toro GENUS
-=======
+# Placoasterina Toro GENUS
 
 #### Status
 ACCEPTED

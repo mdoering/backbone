@@ -1,5 +1,4 @@
-Diploicia quercina (Darb.) C.W. Dodge SPECIES
-=======
+# Diploicia quercina (Darb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

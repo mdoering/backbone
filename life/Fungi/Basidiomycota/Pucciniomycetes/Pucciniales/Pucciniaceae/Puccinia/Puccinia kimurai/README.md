@@ -1,5 +1,4 @@
-Puccinia kimurai Hirats. f. & Yoshin. SPECIES
-=======
+# Puccinia kimurai Hirats. f. & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

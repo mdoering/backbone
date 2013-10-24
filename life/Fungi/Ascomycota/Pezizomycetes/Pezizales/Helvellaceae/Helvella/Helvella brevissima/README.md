@@ -1,5 +1,4 @@
-Helvella brevissima Peck SPECIES
-=======
+# Helvella brevissima Peck SPECIES
 
 #### Status
 ACCEPTED

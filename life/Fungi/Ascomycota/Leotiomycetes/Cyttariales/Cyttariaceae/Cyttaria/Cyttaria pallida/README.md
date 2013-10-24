@@ -1,5 +1,4 @@
-Cyttaria pallida Rawlings, 1956 SPECIES
-=======
+# Cyttaria pallida Rawlings, 1956 SPECIES
 
 #### Status
 ACCEPTED

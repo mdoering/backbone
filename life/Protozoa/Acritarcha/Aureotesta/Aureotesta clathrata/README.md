@@ -1,5 +1,4 @@
-Aureotesta clathrata Vavrdová, 1972 SPECIES
-=======
+# Aureotesta clathrata Vavrdová, 1972 SPECIES
 
 #### Status
 ACCEPTED

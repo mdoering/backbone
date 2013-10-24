@@ -1,5 +1,4 @@
-Volvariella castanea (Massee) G.C. Rath SPECIES
-=======
+# Volvariella castanea (Massee) G.C. Rath SPECIES
 
 #### Status
 ACCEPTED

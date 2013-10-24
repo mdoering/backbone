@@ -1,5 +1,4 @@
-Triporisporonites ovalis Sheffy & Dilcher SPECIES
-=======
+# Triporisporonites ovalis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

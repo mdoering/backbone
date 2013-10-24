@@ -1,5 +1,4 @@
-Thiomicrospira frisia Brinkhoff et al., 1999 SPECIES
-=======
+# Thiomicrospira frisia Brinkhoff et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

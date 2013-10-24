@@ -1,5 +1,4 @@
-Gymnozoum intermedium (Agatha, Spindler & Wilbert, 1993) Dale, 1996 SPECIES
-=======
+# Gymnozoum intermedium (Agatha, Spindler & Wilbert, 1993) Dale, 1996 SPECIES
 
 #### Status
 ACCEPTED

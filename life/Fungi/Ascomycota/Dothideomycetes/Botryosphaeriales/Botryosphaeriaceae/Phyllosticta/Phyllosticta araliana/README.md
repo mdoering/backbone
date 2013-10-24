@@ -1,5 +1,4 @@
-Phyllosticta araliana E. Young SPECIES
-=======
+# Phyllosticta araliana E. Young SPECIES
 
 #### Status
 ACCEPTED

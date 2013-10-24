@@ -1,5 +1,4 @@
-Pestalotia eriobotryae McAlpine SPECIES
-=======
+# Pestalotia eriobotryae McAlpine SPECIES
 
 #### Status
 ACCEPTED

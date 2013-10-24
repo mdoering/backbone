@@ -1,5 +1,4 @@
-Verrucaria diffluens Nyl. SPECIES
-=======
+# Verrucaria diffluens Nyl. SPECIES
 
 #### Status
 ACCEPTED

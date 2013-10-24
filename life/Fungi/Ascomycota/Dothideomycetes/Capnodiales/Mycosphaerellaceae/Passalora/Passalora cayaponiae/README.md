@@ -1,5 +1,4 @@
-Passalora cayaponiae (F. Stevens & Solheim) U. Braun & Crous SPECIES
-=======
+# Passalora cayaponiae (F. Stevens & Solheim) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

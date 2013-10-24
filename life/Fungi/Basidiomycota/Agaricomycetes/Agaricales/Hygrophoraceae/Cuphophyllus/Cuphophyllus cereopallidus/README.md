@@ -1,5 +1,4 @@
-Cuphophyllus cereopallidus f. cereopallidus FORM
-=======
+# Cuphophyllus cereopallidus (Clémençon) Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 14(no. 56): 11 (1985)
 
 #### Original name
-Cuphophyllus cereopallidus f. cereopallidus
+Camarophyllus cereopallidus Clémençon
 
 ### Remarks
 null

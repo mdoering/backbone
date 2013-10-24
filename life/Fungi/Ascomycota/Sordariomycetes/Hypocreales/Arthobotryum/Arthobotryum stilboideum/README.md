@@ -1,5 +1,4 @@
-Arthobotryum stilboideum Ces. SPECIES
-=======
+# Arthobotryum stilboideum Ces. SPECIES
 
 #### Status
 ACCEPTED

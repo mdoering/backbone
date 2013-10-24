@@ -1,5 +1,4 @@
-Gloeosporium tenuisporum McAlpine SPECIES
-=======
+# Gloeosporium tenuisporum McAlpine SPECIES
 
 #### Status
 ACCEPTED

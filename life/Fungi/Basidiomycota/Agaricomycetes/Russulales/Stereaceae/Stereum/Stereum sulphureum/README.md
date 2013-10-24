@@ -1,5 +1,4 @@
-Stereum sulphureum Rick SPECIES
-=======
+# Stereum sulphureum Rick SPECIES
 
 #### Status
 ACCEPTED

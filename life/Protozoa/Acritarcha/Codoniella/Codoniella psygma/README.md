@@ -1,5 +1,4 @@
-Codoniella psygma R. J. Davey SPECIES
-=======
+# Codoniella psygma R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

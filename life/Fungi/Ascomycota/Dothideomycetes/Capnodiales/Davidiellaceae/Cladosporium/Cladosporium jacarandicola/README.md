@@ -1,5 +1,4 @@
-Cladosporium jacarandicola K. Schub., U. Braun & C.F. Hill, 2004 SPECIES
-=======
+# Cladosporium jacarandicola K. Schub., U. Braun & C.F. Hill, 2004 SPECIES
 
 #### Status
 ACCEPTED

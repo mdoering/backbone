@@ -1,5 +1,4 @@
-Gibberella engleriana Henn. SPECIES
-=======
+# Gibberella engleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

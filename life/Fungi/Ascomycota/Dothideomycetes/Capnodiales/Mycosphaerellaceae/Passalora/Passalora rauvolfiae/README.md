@@ -1,5 +1,4 @@
-Passalora rauvolfiae (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora rauvolfiae (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

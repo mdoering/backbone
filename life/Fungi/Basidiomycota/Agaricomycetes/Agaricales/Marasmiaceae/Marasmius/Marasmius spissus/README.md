@@ -1,5 +1,4 @@
-Marasmius spissus Gilliam SPECIES
-=======
+# Marasmius spissus Gilliam SPECIES
 
 #### Status
 ACCEPTED

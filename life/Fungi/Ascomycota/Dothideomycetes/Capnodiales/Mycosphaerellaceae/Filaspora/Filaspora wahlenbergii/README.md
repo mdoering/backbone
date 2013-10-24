@@ -1,17 +1,16 @@
-Filaspora wahlenbergiae (Speg.) Kuntze SPECIES
-=======
+# Filaspora wahlenbergii (Speg.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 477 (1898)
 
 #### Original name
-Septoria wahlenbergii Speg.
+Septoria wahlenbergiae Speg.
 
 ### Remarks
 null

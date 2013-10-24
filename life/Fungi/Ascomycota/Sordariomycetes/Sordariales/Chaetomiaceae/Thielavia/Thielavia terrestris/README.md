@@ -1,14 +1,13 @@
-Allescheria terrestris Apinis, 1963 SPECIES
-=======
+# Thielavia terrestris (Apinis) Malloch & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 5: 68 (1963)
+Can. J. Bot. 50(1): 66 (1972)
 
 #### Original name
 Allescheria terrestris Apinis, 1963

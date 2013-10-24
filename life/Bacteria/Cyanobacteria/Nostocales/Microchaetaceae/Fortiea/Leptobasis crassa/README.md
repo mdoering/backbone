@@ -1,8 +1,7 @@
-Microchaete crassa G.S. West SPECIES
-=======
+# Leptobasis crassa (G.S. West) Geitler SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

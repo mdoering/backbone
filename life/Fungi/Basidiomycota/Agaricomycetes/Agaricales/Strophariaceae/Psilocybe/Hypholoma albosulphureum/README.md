@@ -1,5 +1,4 @@
-Hypholoma albosulphureum Pat. SPECIES
-=======
+# Hypholoma albosulphureum Pat. SPECIES
 
 #### Status
 ACCEPTED

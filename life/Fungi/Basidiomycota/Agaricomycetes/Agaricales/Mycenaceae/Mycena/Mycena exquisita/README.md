@@ -1,5 +1,4 @@
-Mycena exquisita (Berk.) Sacc. SPECIES
-=======
+# Mycena exquisita (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

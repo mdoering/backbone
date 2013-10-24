@@ -1,5 +1,4 @@
-Saccharomycopsis selenospora (Nadson & Krassiln.) Kurtzman & Robnett, 1995 SPECIES
-=======
+# Saccharomycopsis selenospora (Nadson & Krassiln.) Kurtzman & Robnett, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sarcographa elmeri (Vain.) Sipman SPECIES
-=======
+# Thelotrema elmeri Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 64: 179 (1997)
+Ann. Acad. Sci. fenn. , Ser. A 15(6): 184 (1921)
 
 #### Original name
 Thelotrema elmeri Vain.

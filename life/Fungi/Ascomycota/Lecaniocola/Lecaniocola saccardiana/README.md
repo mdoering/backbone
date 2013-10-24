@@ -1,5 +1,4 @@
-Lecaniocola saccardiana (Berl.) Brain SPECIES
-=======
+# Lecaniocola saccardiana (Berl.) Brain SPECIES
 
 #### Status
 ACCEPTED

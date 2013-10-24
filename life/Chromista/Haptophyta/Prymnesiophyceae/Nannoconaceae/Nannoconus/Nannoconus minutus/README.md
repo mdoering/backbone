@@ -1,5 +1,4 @@
-Nannoconus minutus Bronnimann, 1955 SPECIES
-=======
+# Nannoconus minutus Bronnimann, 1955 SPECIES
 
 #### Status
 ACCEPTED

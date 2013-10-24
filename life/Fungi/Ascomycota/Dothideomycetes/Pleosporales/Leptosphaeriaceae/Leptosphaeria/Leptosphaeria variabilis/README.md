@@ -1,5 +1,4 @@
-Leptosphaeria variabilis Unamuno SPECIES
-=======
+# Leptosphaeria variabilis Unamuno SPECIES
 
 #### Status
 ACCEPTED

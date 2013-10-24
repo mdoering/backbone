@@ -1,5 +1,4 @@
-Lecidea tephrodes Müll. Arg. SPECIES
-=======
+# Lecidea tephrodes Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora sphalera Poelt & Leuckert SPECIES
-=======
+# Lecanora sphalera Poelt & Leuckert SPECIES
 
 #### Status
 ACCEPTED

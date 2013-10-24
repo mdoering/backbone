@@ -1,5 +1,4 @@
-Polyporus spadiceus Bres. SPECIES
-=======
+# Polyporus spadiceus Bres. SPECIES
 
 #### Status
 ACCEPTED

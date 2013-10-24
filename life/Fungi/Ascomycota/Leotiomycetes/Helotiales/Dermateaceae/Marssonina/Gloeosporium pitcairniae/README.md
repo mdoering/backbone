@@ -1,5 +1,4 @@
-Gloeosporium pitcairniae Bond.-Mont. SPECIES
-=======
+# Gloeosporium pitcairniae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

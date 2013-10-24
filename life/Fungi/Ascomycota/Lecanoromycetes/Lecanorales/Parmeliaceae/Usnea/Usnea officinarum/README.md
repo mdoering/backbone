@@ -1,5 +1,4 @@
-Usnea officinarum (Crantz) Wallr. SPECIES
-=======
+# Usnea officinarum (Crantz) Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia contrasta Hale SPECIES
-=======
+# Xanthoparmelia contrasta Hale SPECIES
 
 #### Status
 ACCEPTED

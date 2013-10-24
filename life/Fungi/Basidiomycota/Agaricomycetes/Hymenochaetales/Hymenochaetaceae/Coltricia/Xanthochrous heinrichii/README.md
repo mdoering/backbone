@@ -1,5 +1,4 @@
-Xanthochrous heinrichii (Pilát) Pilát SPECIES
-=======
+# Xanthochrous heinrichii (Pilát) Pilát SPECIES
 
 #### Status
 ACCEPTED

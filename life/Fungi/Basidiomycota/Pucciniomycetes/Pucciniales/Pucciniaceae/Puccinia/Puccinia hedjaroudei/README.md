@@ -1,5 +1,4 @@
-Puccinia hedjaroudei M. Abbasi SPECIES
-=======
+# Puccinia hedjaroudei M. Abbasi SPECIES
 
 #### Status
 ACCEPTED

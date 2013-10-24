@@ -1,17 +1,16 @@
-Micropera stellata Jacz. SPECIES
-=======
+# Sphaeronaema stellatum Ellis, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 6: 107 (1876)
 
 #### Original name
-Micropera stellata Jacz.
+Sphaeronaema stellatum Ellis, 1876
 
 ### Remarks
 null

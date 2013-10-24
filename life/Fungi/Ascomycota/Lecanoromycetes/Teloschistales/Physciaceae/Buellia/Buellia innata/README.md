@@ -1,5 +1,4 @@
-Buellia innata Müll. Arg. SPECIES
-=======
+# Buellia innata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

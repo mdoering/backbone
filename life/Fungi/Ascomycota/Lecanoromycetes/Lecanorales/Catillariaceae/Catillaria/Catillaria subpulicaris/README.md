@@ -1,5 +1,4 @@
-Catillaria subpulicaris (Anzi) Lettau SPECIES
-=======
+# Catillaria subpulicaris (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

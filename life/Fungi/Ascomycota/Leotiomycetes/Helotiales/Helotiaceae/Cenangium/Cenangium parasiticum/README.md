@@ -1,5 +1,4 @@
-Cenangium parasiticum Fuckel SPECIES
-=======
+# Cenangium parasiticum Fuckel SPECIES
 
 #### Status
 ACCEPTED

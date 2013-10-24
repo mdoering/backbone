@@ -1,5 +1,4 @@
-Psilonia junci Corda SPECIES
-=======
+# Psilonia junci Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cinerascens Beardslee SPECIES
-=======
+# Russula cinerascens Beardslee SPECIES
 
 #### Status
 ACCEPTED

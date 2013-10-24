@@ -1,5 +1,4 @@
-Winterella platensis Speg. SPECIES
-=======
+# Winterella platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

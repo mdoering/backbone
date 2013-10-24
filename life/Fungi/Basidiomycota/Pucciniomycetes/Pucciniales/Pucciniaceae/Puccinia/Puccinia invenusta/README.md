@@ -1,5 +1,4 @@
-Puccinia invenusta Syd. SPECIES
-=======
+# Puccinia invenusta Syd. SPECIES
 
 #### Status
 ACCEPTED

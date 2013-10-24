@@ -1,5 +1,4 @@
-Usnea gigantea Vain. SPECIES
-=======
+# Usnea gigantea Vain. SPECIES
 
 #### Status
 ACCEPTED

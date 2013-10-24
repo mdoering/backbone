@@ -1,5 +1,4 @@
-Secoliga acicularis (Anzi) Arnold SPECIES
-=======
+# Secoliga acicularis (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

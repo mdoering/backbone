@@ -1,5 +1,4 @@
-Puteoscortum E.R. Wicander & A.R. Loeblich Jr., 1977 GENUS
-=======
+# Puteoscortum E.R. Wicander & A.R. Loeblich Jr., 1977 GENUS
 
 #### Status
 ACCEPTED

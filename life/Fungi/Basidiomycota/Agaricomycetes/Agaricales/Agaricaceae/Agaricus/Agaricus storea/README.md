@@ -1,5 +1,4 @@
-Agaricus storea Fr. SPECIES
-=======
+# Agaricus storea Fr. SPECIES
 
 #### Status
 ACCEPTED

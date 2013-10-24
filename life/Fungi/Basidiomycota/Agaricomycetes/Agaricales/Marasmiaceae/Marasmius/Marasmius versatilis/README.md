@@ -1,5 +1,4 @@
-Marasmius versatilis Fr. SPECIES
-=======
+# Marasmius versatilis Fr. SPECIES
 
 #### Status
 ACCEPTED

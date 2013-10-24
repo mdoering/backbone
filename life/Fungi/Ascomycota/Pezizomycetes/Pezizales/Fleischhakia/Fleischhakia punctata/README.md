@@ -1,5 +1,4 @@
-Fleischhakia punctata Auersw. SPECIES
-=======
+# Fleischhakia punctata Auersw. SPECIES
 
 #### Status
 ACCEPTED

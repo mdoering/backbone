@@ -1,5 +1,4 @@
-Dictyosporium circinatum Cooke & Harkn. SPECIES
-=======
+# Dictyosporium circinatum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

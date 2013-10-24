@@ -1,5 +1,4 @@
-Lecidea attingens (Arnold) Hedl. SPECIES
-=======
+# Lecidea attingens (Arnold) Hedl. SPECIES
 
 #### Status
 ACCEPTED

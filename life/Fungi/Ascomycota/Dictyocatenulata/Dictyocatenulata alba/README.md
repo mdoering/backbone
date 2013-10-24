@@ -1,5 +1,4 @@
-Dictyocatenulata alba Finley & E.F. Morris, 1967 SPECIES
-=======
+# Dictyocatenulata alba Finley & E.F. Morris, 1967 SPECIES
 
 #### Status
 ACCEPTED

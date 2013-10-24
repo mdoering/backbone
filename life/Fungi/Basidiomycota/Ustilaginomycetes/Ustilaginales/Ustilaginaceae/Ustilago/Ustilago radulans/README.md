@@ -1,5 +1,4 @@
-Ustilago radulans Vánky SPECIES
-=======
+# Ustilago radulans Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella flagellata Petch SPECIES
-=======
+# Cyphella flagellata Petch SPECIES
 
 #### Status
 ACCEPTED

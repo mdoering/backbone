@@ -1,5 +1,4 @@
-Peridermium appalachianum Hepting & Cummins SPECIES
-=======
+# Peridermium appalachianum Hepting & Cummins SPECIES
 
 #### Status
 ACCEPTED

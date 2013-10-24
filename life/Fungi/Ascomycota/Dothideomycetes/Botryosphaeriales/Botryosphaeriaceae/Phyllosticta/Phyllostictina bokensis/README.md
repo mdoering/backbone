@@ -1,5 +1,4 @@
-Phyllostictina bokensis (Henn.) Arx SPECIES
-=======
+# Phyllostictina bokensis (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia consimilis Durieu & Mont. SPECIES
-=======
+# Diplodia consimilis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

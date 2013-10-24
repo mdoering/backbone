@@ -1,5 +1,4 @@
-Dicaeoma doloris (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma doloris (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

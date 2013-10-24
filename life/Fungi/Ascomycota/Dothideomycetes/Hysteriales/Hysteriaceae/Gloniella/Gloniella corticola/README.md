@@ -1,5 +1,4 @@
-Gloniella corticola A. Pande & V.G. Rao SPECIES
-=======
+# Gloniella corticola A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

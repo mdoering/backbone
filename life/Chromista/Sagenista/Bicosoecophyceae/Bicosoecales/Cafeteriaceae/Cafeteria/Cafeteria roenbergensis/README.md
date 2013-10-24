@@ -1,5 +1,4 @@
-Cafeteria roenbergensis Fenchel & D.J. Patterson SPECIES
-=======
+# Cafeteria roenbergensis Fenchel & D.J. Patterson SPECIES
 
 #### Status
 ACCEPTED

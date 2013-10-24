@@ -1,5 +1,4 @@
-Passalora litseae (Goh & W.H. Hsieh) Poonam Srivast. SPECIES
-=======
+# Passalora litseae (Goh & W.H. Hsieh) Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

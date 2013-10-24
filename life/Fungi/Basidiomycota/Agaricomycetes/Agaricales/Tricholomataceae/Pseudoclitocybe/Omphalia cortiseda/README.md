@@ -1,5 +1,4 @@
-Omphalia cortiseda P. Karst. SPECIES
-=======
+# Omphalia cortiseda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

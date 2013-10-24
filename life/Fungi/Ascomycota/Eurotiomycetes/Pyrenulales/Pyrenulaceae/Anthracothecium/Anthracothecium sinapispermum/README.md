@@ -1,14 +1,13 @@
-Sphaeromphale sinapisperma (Fée) Trevis. SPECIES
-=======
+# Anthracothecium sinapispermum (Fée) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linnaea 43: 45 (1880)
 
 #### Original name
 Verrucaria sinapisperma Fée

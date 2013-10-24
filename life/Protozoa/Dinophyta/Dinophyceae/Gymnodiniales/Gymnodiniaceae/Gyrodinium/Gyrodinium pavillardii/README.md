@@ -1,5 +1,4 @@
-Gyrodinium pavillardii Biecheler SPECIES
-=======
+# Gyrodinium pavillardii Biecheler SPECIES
 
 #### Status
 ACCEPTED

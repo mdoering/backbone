@@ -1,5 +1,4 @@
-Aulodictyum Haeckel, 1887 GENUS
-=======
+# Aulodictyum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

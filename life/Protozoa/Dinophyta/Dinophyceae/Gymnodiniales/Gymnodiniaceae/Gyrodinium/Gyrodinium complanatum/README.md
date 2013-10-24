@@ -1,5 +1,4 @@
-Gyrodinium complanatum P.H. Campbell, 1973 SPECIES
-=======
+# Gyrodinium complanatum P.H. Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

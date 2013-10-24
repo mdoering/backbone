@@ -1,5 +1,4 @@
-Puccinia ourisiae Dietel & Neger SPECIES
-=======
+# Puccinia ourisiae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella rhizophorae Singer SPECIES
-=======
+# Psathyrella rhizophorae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus bingensis Heinem. SPECIES
-=======
+# Agaricus bingensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia oederi A. Blytt SPECIES
-=======
+# Puccinia oederi A. Blytt SPECIES
 
 #### Status
 ACCEPTED

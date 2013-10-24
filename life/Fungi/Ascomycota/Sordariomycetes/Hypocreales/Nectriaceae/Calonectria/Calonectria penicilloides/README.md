@@ -1,5 +1,4 @@
-Calonectria penicilloides (Tubaki) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
-=======
+# Calonectria penicilloides (Tubaki) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

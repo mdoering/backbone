@@ -1,5 +1,4 @@
-Sphingobium indicum Pal et al., 2005 SPECIES
-=======
+# Sphingobium indicum Pal et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

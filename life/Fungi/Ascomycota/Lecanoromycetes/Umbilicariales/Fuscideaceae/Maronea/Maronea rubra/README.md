@@ -1,5 +1,4 @@
-Maronea rubra SPECIES
-=======
+# Maronea rubra SPECIES
 
 #### Status
 ACCEPTED

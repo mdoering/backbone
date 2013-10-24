@@ -1,5 +1,4 @@
-Polyporellus penetralis (Sm.) Pilát SPECIES
-=======
+# Polyporellus penetralis (Sm.) Pilát SPECIES
 
 #### Status
 ACCEPTED

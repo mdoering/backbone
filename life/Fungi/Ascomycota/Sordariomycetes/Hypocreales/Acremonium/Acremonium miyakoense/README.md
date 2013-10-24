@@ -1,5 +1,4 @@
-Acremonium miyakoense Matsush., 1985 SPECIES
-=======
+# Acremonium miyakoense Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

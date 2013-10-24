@@ -1,5 +1,4 @@
-Meliola gaillardiana F. Stevens SPECIES
-=======
+# Meliola gaillardiana F. Stevens SPECIES
 
 #### Status
 ACCEPTED

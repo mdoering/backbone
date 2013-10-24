@@ -1,5 +1,4 @@
-Nectria erythrina (Syd. & P. Syd.) Rossman SPECIES
-=======
+# Nectria erythrina (Syd. & P. Syd.) Rossman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoniptera quercina Velen. SPECIES
-=======
+# Pseudoniptera quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

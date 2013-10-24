@@ -1,5 +1,4 @@
-Triplosphaeria GENUS
-=======
+# Triplosphaeria GENUS
 
 #### Status
 ACCEPTED

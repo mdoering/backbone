@@ -1,5 +1,4 @@
-Lecidea enteroleuca var. enteroleuca VARIETY
-=======
+# Lecidea enteroleuca Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. univ. 177 (1810)
 
 #### Original name
-Lecidea enteroleuca var. enteroleuca
+Lecidea enteroleuca Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius melanotus Kalchbr. SPECIES
-=======
+# Cortinarius melanotus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

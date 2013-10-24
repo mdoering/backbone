@@ -1,8 +1,7 @@
-Parvicorbicula spinifera Leadbeater, 1973 SPECIES
-=======
+# Campyloacantha spinifera (Leadbeater, 1973) Hara & Takahashi, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

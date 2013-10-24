@@ -1,5 +1,4 @@
-Naucoria bergii Speg. SPECIES
-=======
+# Naucoria bergii Speg. SPECIES
 
 #### Status
 ACCEPTED

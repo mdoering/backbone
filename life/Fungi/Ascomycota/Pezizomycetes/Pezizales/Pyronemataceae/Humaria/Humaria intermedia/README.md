@@ -1,5 +1,4 @@
-Humaria intermedia Velen. SPECIES
-=======
+# Humaria intermedia Velen. SPECIES
 
 #### Status
 ACCEPTED

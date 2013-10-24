@@ -1,5 +1,4 @@
-Aecidium detritum Thüm. SPECIES
-=======
+# Aecidium detritum Thüm. SPECIES
 
 #### Status
 ACCEPTED

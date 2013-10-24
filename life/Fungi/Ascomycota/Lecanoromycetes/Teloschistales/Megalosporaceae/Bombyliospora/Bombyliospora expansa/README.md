@@ -1,5 +1,4 @@
-Bombyliospora expansa Zahlbr. SPECIES
-=======
+# Bombyliospora expansa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

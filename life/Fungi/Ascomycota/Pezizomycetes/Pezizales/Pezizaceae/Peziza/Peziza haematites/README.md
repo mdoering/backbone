@@ -1,5 +1,4 @@
-Peziza haematites Wallr. SPECIES
-=======
+# Peziza haematites Wallr. SPECIES
 
 #### Status
 ACCEPTED

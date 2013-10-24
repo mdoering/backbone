@@ -1,5 +1,4 @@
-Aphelaria acericola M.P. Christ. SPECIES
-=======
+# Aphelaria acericola M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

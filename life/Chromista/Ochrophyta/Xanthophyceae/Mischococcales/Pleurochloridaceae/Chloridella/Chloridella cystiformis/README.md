@@ -1,5 +1,4 @@
-Chloridella cystiformis Pascher SPECIES
-=======
+# Chloridella cystiformis Pascher SPECIES
 
 #### Status
 ACCEPTED

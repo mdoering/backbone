@@ -1,17 +1,16 @@
-Corynelia clavata var. clavata Mont. VARIETY
-=======
+# Corynelia clavata (L.) Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 1073 (1891)
 
 #### Original name
-Corynelia clavata var. clavata Mont.
+Corynelia clavata (L.) Sacc., 1891
 
 ### Remarks
 null

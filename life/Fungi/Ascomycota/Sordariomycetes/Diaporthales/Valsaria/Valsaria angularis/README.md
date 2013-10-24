@@ -1,5 +1,4 @@
-Valsaria angularis (Peck) Sacc. SPECIES
-=======
+# Valsaria angularis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

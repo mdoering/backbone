@@ -1,5 +1,4 @@
-Montagnea spegazzinii Raithelh. SPECIES
-=======
+# Montagnea spegazzinii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

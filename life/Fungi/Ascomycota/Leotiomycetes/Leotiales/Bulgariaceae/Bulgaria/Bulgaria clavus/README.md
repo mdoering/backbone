@@ -1,5 +1,4 @@
-Bulgaria clavus Wallr. SPECIES
-=======
+# Bulgaria clavus Wallr. SPECIES
 
 #### Status
 ACCEPTED

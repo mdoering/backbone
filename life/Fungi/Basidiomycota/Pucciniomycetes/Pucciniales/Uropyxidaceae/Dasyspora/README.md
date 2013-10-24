@@ -1,5 +1,4 @@
-Dasyspora Berk. & M.A. Curtis GENUS
-=======
+# Dasyspora Berk. & M.A. Curtis GENUS
 
 #### Status
 ACCEPTED

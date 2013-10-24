@@ -1,17 +1,16 @@
-Milesina hiratsukai Morim. SPECIES
-=======
+# Milesina hiratsukae Morim., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 28(10): 313 (1953)
 
 #### Original name
-Milesina hiratsukai Morim.
+Milesina hiratsukae Morim., 1953
 
 ### Remarks
 null

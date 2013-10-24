@@ -1,5 +1,4 @@
-Geobacter metallireducens Lovley et al., 1995 SPECIES
-=======
+# Geobacter metallireducens Lovley et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plasmopara cercidis C.G. Shaw SPECIES
-=======
+# Plasmopara cercidis C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

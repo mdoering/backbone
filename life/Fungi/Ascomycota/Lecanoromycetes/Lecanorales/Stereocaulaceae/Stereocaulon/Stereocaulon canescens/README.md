@@ -1,5 +1,4 @@
-Stereocaulon canescens Kashiw. SPECIES
-=======
+# Stereocaulon canescens Kashiw. SPECIES
 
 #### Status
 ACCEPTED

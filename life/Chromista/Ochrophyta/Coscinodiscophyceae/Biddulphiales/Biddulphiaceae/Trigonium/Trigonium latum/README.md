@@ -1,5 +1,4 @@
-Trigonium latum var. dissimile (Grunow ex A. Schmidt) T. V. Desikachary VARIETY
-=======
+# Trigonium latum (Grev.) A. Mann, 1925 SPECIES
 
 #### Status
 ACCEPTED

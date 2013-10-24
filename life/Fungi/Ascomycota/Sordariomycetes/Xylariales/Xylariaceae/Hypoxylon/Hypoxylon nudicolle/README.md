@@ -1,5 +1,4 @@
-Hypoxylon nudicolle Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon nudicolle Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

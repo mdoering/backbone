@@ -1,5 +1,4 @@
-Lagynophrya costata Kahl, 1933 SPECIES
-=======
+# Lagynophrya costata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

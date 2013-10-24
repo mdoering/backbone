@@ -1,5 +1,4 @@
-Cenangium caespitosum (Fuckel) Rehm SPECIES
-=======
+# Cenangium caespitosum (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

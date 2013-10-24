@@ -1,5 +1,4 @@
-Phyllosticta phari Speg. SPECIES
-=======
+# Phyllosticta phari Speg. SPECIES
 
 #### Status
 ACCEPTED

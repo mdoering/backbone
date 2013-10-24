@@ -1,5 +1,4 @@
-Plagiosphaera quercicola Kobayasi SPECIES
-=======
+# Plagiosphaera quercicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

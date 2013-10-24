@@ -1,5 +1,4 @@
-Uredo copaiferae Henn. SPECIES
-=======
+# Uredo copaiferae Henn. SPECIES
 
 #### Status
 ACCEPTED

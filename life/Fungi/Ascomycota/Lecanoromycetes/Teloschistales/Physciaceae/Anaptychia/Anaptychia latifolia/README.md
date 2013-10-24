@@ -1,5 +1,4 @@
-Anaptychia latifolia (Meyen & Flot.) A. Massal. SPECIES
-=======
+# Anaptychia latifolia (Meyen & Flot.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

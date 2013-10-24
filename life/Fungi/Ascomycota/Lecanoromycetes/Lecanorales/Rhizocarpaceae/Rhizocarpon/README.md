@@ -1,17 +1,16 @@
-Rhizocarponomyces Cif. & Tomas. GENUS
-=======
+# Rhizocarpon Ramond ex DC. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 38, 65 (1953)
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 365 (1805)
 
 #### Original name
-Rhizocarponomyces Cif. & Tomas.
+Rhizocarpon Ramond ex DC.
 
 ### Remarks
 null

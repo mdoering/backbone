@@ -1,5 +1,4 @@
-Metasphaeria ebulina Petr. SPECIES
-=======
+# Metasphaeria ebulina Petr. SPECIES
 
 #### Status
 ACCEPTED

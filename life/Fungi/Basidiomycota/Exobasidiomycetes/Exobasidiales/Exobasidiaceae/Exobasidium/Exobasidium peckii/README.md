@@ -1,5 +1,4 @@
-Exobasidium peckii Halst. SPECIES
-=======
+# Exobasidium peckii Halst. SPECIES
 
 #### Status
 ACCEPTED

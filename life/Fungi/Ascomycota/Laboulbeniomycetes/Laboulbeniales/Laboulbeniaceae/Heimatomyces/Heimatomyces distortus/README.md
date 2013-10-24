@@ -1,5 +1,4 @@
-Heimatomyces distortus Thaxt. SPECIES
-=======
+# Heimatomyces distortus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

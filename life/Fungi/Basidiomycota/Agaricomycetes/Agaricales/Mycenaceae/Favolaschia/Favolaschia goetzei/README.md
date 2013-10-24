@@ -1,5 +1,4 @@
-Favolaschia goetzei Henn. SPECIES
-=======
+# Favolaschia goetzei Henn. SPECIES
 
 #### Status
 ACCEPTED

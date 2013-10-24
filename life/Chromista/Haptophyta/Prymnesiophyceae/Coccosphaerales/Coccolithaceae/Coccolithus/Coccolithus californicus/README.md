@@ -1,5 +1,4 @@
-Coccolithus californicus F. R. Sullivan SPECIES
-=======
+# Coccolithus californicus F. R. Sullivan SPECIES
 
 #### Status
 ACCEPTED

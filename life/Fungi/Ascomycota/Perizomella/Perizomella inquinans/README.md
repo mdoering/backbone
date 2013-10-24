@@ -1,5 +1,4 @@
-Perizomella inquinans Syd., 1927 SPECIES
-=======
+# Perizomella inquinans Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

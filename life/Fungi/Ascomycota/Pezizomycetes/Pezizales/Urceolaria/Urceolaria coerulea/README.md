@@ -1,5 +1,4 @@
-Urceolaria coerulea SPECIES
-=======
+# Urceolaria coerulea SPECIES
 
 #### Status
 ACCEPTED

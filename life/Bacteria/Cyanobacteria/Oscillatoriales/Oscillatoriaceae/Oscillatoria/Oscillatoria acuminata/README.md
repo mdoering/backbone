@@ -1,5 +1,4 @@
-Oscillatoria acuminata Gomont SPECIES
-=======
+# Oscillatoria acuminata Gomont SPECIES
 
 #### Status
 ACCEPTED

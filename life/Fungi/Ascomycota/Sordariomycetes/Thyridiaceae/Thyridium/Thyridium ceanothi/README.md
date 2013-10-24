@@ -1,5 +1,4 @@
-Thyridium ceanothi Dearn. & House SPECIES
-=======
+# Thyridium ceanothi Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

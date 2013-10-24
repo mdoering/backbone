@@ -1,5 +1,4 @@
-Sphaeronaema himalayense Wehm. SPECIES
-=======
+# Sphaeronaema himalayense Wehm. SPECIES
 
 #### Status
 ACCEPTED

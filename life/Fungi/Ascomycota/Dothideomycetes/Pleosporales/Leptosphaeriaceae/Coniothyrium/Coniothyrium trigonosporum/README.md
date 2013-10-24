@@ -1,5 +1,4 @@
-Coniothyrium trigonosporum Rangel SPECIES
-=======
+# Coniothyrium trigonosporum Rangel SPECIES
 
 #### Status
 ACCEPTED

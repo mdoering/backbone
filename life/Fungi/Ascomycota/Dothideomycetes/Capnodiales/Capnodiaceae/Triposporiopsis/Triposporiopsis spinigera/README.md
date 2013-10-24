@@ -1,5 +1,4 @@
-Triposporiopsis spinigera (Höhn.) W. Yamam. SPECIES
-=======
+# Triposporiopsis spinigera (Höhn.) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

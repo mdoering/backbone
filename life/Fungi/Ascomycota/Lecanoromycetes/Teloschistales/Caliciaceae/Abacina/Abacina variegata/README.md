@@ -1,5 +1,4 @@
-Abacina variegata (Fr.) Norman SPECIES
-=======
+# Abacina variegata (Fr.) Norman SPECIES
 
 #### Status
 ACCEPTED

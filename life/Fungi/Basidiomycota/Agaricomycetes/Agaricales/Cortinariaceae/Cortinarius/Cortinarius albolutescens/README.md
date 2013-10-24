@@ -1,5 +1,4 @@
-Cortinarius albolutescens Reumaux SPECIES
-=======
+# Cortinarius albolutescens Reumaux SPECIES
 
 #### Status
 ACCEPTED

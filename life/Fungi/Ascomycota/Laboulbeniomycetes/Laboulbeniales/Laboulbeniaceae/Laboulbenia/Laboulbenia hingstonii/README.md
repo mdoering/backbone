@@ -1,5 +1,4 @@
-Laboulbenia hingstonii (Balazuc) I.I. Tav. SPECIES
-=======
+# Laboulbenia hingstonii (Balazuc) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

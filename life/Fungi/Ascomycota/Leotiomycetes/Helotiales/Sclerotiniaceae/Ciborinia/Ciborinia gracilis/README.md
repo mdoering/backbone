@@ -1,5 +1,4 @@
-Ciborinia gracilis (Clem.) Whetzel SPECIES
-=======
+# Ciborinia gracilis (Clem.) Whetzel SPECIES
 
 #### Status
 ACCEPTED

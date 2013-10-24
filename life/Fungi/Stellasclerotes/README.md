@@ -1,5 +1,4 @@
-Stellasclerotes Bene GENUS
-=======
+# Stellasclerotes Bene GENUS
 
 #### Status
 ACCEPTED

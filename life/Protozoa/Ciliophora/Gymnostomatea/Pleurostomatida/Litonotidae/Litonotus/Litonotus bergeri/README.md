@@ -1,5 +1,4 @@
-Litonotus bergeri Lin, Li, Gong, Warren & Song, 2008 SPECIES
-=======
+# Litonotus bergeri Lin, Li, Gong, Warren & Song, 2008 SPECIES
 
 #### Status
 ACCEPTED

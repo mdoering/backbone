@@ -1,5 +1,4 @@
-Prospodium baphiicola J.M. Yen SPECIES
-=======
+# Prospodium baphiicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

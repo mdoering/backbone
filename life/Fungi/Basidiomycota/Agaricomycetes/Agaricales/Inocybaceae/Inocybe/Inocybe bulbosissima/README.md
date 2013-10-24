@@ -1,5 +1,4 @@
-Inocybe bulbosissima (Kühner) Bon SPECIES
-=======
+# Inocybe bulbosissima (Kühner) Bon SPECIES
 
 #### Status
 ACCEPTED

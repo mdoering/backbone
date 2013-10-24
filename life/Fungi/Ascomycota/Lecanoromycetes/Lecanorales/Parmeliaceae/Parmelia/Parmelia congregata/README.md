@@ -1,5 +1,4 @@
-Parmelia congregata Kurok. SPECIES
-=======
+# Parmelia congregata Kurok. SPECIES
 
 #### Status
 ACCEPTED

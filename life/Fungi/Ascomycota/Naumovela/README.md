@@ -1,5 +1,4 @@
-Naumovela Kravtzev GENUS
-=======
+# Naumovela Kravtzev GENUS
 
 #### Status
 ACCEPTED

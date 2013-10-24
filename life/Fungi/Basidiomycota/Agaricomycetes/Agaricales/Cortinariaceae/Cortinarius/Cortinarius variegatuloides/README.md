@@ -1,5 +1,4 @@
-Cortinarius variegatuloides Remaux SPECIES
-=======
+# Cortinarius variegatuloides Remaux SPECIES
 
 #### Status
 ACCEPTED

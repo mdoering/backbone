@@ -1,5 +1,4 @@
-Kalmusia sambuci P. Karst. SPECIES
-=======
+# Kalmusia sambuci P. Karst. SPECIES
 
 #### Status
 ACCEPTED

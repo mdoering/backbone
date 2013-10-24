@@ -1,17 +1,16 @@
-Septoria canavalliae Lyon SPECIES
-=======
+# Septoria canavaliae Lyon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sydow, Fungi exotici exsiccati, Fascicle 4: no. 191
 
 #### Original name
-Septoria canavalliae Lyon
+Septoria canavaliae Lyon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Irenina anthocleistae Hansf. & Deighton SPECIES
-=======
+# Irenina anthocleistae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

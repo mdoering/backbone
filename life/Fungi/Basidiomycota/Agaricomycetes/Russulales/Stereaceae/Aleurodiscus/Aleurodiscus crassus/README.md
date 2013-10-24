@@ -1,5 +1,4 @@
-Aleurodiscus crassus Lloyd SPECIES
-=======
+# Aleurodiscus crassus Lloyd SPECIES
 
 #### Status
 ACCEPTED

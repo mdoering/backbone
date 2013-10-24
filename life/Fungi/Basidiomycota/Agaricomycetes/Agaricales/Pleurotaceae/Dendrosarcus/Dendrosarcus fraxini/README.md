@@ -1,5 +1,4 @@
-Dendrosarcus fraxini (G.H. Otth) Kuntze SPECIES
-=======
+# Dendrosarcus fraxini (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

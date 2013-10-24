@@ -1,5 +1,4 @@
-Entoloma translucidum E. Horak, 1973 SPECIES
-=======
+# Entoloma translucidum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pimelobacter Suzuki & Komagata, 1983 GENUS
-=======
+# Pimelobacter Suzuki & Komagata, 1983 GENUS
 
 #### Status
 ACCEPTED

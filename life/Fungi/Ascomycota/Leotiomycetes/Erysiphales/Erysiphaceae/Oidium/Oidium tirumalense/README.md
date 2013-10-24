@@ -1,17 +1,16 @@
-Oidium tirumalensis Bagyan. & Jagad. SPECIES
-=======
+# Oidium tirumalense Bagyan. & Jagad. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Bot. Indica 19(1): 126 (1991)
 
 #### Original name
-Oidium tirumalensis Bagyan. & Jagad.
+Oidium tirumalense Bagyan. & Jagad.
 
 ### Remarks
 null

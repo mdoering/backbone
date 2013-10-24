@@ -1,5 +1,4 @@
-Pseudocercospora scurinegae SPECIES
-=======
+# Pseudocercospora scurinegae SPECIES
 
 #### Status
 ACCEPTED

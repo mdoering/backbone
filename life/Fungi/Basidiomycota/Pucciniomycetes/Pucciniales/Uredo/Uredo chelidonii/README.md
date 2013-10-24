@@ -1,5 +1,4 @@
-Uredo chelidonii Schwein. SPECIES
-=======
+# Uredo chelidonii Schwein. SPECIES
 
 #### Status
 ACCEPTED

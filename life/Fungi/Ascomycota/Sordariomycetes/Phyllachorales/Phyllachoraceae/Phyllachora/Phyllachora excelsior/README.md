@@ -1,5 +1,4 @@
-Phyllachora excelsior Orton, 1944 SPECIES
-=======
+# Phyllachora excelsior Orton, 1944 SPECIES
 
 #### Status
 ACCEPTED

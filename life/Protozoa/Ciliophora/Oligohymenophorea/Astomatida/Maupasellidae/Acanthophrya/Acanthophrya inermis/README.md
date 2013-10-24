@@ -1,8 +1,7 @@
-Opalina inermis Stein, 1859 SPECIES
-=======
+# Acanthophrya inermis (Stein, 1859) Heidenreich, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hygrocybe cystidiorubra A.M. Young SPECIES
-=======
+# Hygrocybe cystidiorubra A.M. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliodiscetta Haeckel, 1887 GENUS
-=======
+# Heliodiscetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia sanguinosa (Kremp.) Gyeln. SPECIES
-=======
+# Parmelia sanguinosa (Kremp.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

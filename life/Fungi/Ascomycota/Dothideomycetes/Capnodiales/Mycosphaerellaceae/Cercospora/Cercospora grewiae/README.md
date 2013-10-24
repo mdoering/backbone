@@ -1,5 +1,4 @@
-Cercospora grewiae H.C. Srivast. & P.R. Mehta SPECIES
-=======
+# Cercospora grewiae H.C. Srivast. & P.R. Mehta SPECIES
 
 #### Status
 ACCEPTED

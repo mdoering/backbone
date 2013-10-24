@@ -1,5 +1,4 @@
-Lecidora smaragdocarpa (Nyl.) Motyka SPECIES
-=======
+# Lecidora smaragdocarpa (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

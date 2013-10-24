@@ -1,5 +1,4 @@
-Lecidea triseptatuloides Harm. SPECIES
-=======
+# Lecidea triseptatuloides Harm. SPECIES
 
 #### Status
 ACCEPTED

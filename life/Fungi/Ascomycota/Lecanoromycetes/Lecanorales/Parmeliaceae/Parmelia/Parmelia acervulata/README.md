@@ -1,5 +1,4 @@
-Parmelia acervulata Spreng. SPECIES
-=======
+# Parmelia acervulata Spreng. SPECIES
 
 #### Status
 ACCEPTED

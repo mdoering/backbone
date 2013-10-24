@@ -1,5 +1,4 @@
-Phellinites Singer & S. Archang. GENUS
-=======
+# Phellinites Singer & S. Archang. GENUS
 
 #### Status
 ACCEPTED

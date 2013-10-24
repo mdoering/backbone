@@ -1,5 +1,4 @@
-Guepinella myriospora Wedd. SPECIES
-=======
+# Guepinella myriospora Wedd. SPECIES
 
 #### Status
 ACCEPTED

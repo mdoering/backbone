@@ -1,5 +1,4 @@
-Phyllosticta allescheri Syd. SPECIES
-=======
+# Phyllosticta allescheri Syd. SPECIES
 
 #### Status
 ACCEPTED

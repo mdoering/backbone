@@ -1,5 +1,4 @@
-Pseudopolymorphina novangliae (Cushman, 1923) SPECIES
-=======
+# Pseudopolymorphina novangliae (Cushman, 1923) SPECIES
 
 #### Status
 ACCEPTED

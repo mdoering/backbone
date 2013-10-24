@@ -1,5 +1,4 @@
-Phyllosticta muehlenbeckiae Shreem. SPECIES
-=======
+# Phyllosticta muehlenbeckiae Shreem. SPECIES
 
 #### Status
 ACCEPTED

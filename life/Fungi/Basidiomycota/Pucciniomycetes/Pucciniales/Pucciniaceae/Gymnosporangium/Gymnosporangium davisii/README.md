@@ -1,5 +1,4 @@
-Gymnosporangium davisii F. Kern, 1908 SPECIES
-=======
+# Gymnosporangium davisii F. Kern, 1908 SPECIES
 
 #### Status
 ACCEPTED

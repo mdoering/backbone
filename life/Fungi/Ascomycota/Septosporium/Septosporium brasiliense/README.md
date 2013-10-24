@@ -1,17 +1,16 @@
-Septosporium brasiliensis Bat. SPECIES
-=======
+# Septosporium brasiliense Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista & Vital, Anais Soc. Biol. Pernambuco 15(2): 391 (1957)
 
 #### Original name
-Septosporium brasiliensis Bat.
+Septosporium brasiliense Bat.
 
 ### Remarks
 null

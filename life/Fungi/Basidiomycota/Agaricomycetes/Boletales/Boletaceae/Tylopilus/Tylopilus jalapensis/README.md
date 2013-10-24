@@ -1,5 +1,4 @@
-Tylopilus jalapensis Singer & J. García SPECIES
-=======
+# Tylopilus jalapensis Singer & J. García SPECIES
 
 #### Status
 ACCEPTED

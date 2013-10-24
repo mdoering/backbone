@@ -1,5 +1,4 @@
-Sarcoscypha alphitodes (Berk.) Cooke SPECIES
-=======
+# Sarcoscypha alphitodes (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

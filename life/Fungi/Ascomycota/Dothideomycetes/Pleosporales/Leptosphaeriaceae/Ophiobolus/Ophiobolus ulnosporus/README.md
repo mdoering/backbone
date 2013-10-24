@@ -1,14 +1,13 @@
-Rhaphidophora ulnospora (Cooke) Sacc., 1878 SPECIES
-=======
+# Ophiobolus ulnosporus (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 243 (1878)
+Syll. fung. (Abellini) 2: 339 (1883)
 
 #### Original name
 Sphaeria ulnospora Cooke, 1871

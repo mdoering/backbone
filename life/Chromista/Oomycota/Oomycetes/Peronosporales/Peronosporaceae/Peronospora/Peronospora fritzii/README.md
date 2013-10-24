@@ -1,5 +1,4 @@
-Peronospora fritzii J. Schröt. SPECIES
-=======
+# Peronospora fritzii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

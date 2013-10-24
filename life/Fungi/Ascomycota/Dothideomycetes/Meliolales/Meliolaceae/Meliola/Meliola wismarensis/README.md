@@ -1,5 +1,4 @@
-Meliola wismarensis var. wismarensis VARIETY
-=======
+# Meliola wismarensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 26(3/4): 191 (1928)
 
 #### Original name
-Meliola wismarensis var. wismarensis
+Meliola wismarensis F. Stevens
 
 ### Remarks
 null

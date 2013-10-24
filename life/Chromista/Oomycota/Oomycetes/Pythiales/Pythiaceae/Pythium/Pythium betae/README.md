@@ -1,5 +1,4 @@
-Pythium betae M. Takah. SPECIES
-=======
+# Pythium betae M. Takah. SPECIES
 
 #### Status
 ACCEPTED

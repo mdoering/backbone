@@ -1,5 +1,4 @@
-Hypogymnia subcrustacea (Flot.) Kurok. SPECIES
-=======
+# Hypogymnia subcrustacea (Flot.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

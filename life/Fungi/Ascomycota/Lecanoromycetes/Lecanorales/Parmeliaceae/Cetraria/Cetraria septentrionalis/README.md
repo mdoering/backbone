@@ -1,5 +1,4 @@
-Cetraria septentrionalis Tuck. SPECIES
-=======
+# Cetraria septentrionalis Tuck. SPECIES
 
 #### Status
 ACCEPTED

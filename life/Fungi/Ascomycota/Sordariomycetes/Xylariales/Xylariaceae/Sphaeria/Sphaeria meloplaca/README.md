@@ -1,5 +1,4 @@
-Sphaeria meloplaca Schwein. SPECIES
-=======
+# Sphaeria meloplaca Schwein. SPECIES
 
 #### Status
 ACCEPTED

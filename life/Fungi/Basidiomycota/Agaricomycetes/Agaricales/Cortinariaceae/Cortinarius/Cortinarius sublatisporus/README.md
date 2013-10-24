@@ -1,5 +1,4 @@
-Cortinarius sublatisporus Svrcek SPECIES
-=======
+# Cortinarius sublatisporus Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinia sarothamni Velen. SPECIES
-=======
+# Uncinia sarothamni Velen. SPECIES
 
 #### Status
 ACCEPTED

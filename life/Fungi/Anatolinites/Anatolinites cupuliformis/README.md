@@ -1,5 +1,4 @@
-Anatolinites cupuliformis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Anatolinites cupuliformis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola torricelliae A.K. Kar & Maity SPECIES
-=======
+# Meliola torricelliae A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

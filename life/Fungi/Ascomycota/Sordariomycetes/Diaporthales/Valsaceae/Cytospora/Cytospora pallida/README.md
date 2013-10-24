@@ -1,5 +1,4 @@
-Cytospora pallida Ellis & Everh. SPECIES
-=======
+# Cytospora pallida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

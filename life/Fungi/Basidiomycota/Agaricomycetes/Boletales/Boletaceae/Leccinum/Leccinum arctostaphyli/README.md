@@ -1,5 +1,4 @@
-Leccinum arctostaphyli V.L. Wells & Kempton SPECIES
-=======
+# Leccinum arctostaphyli V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

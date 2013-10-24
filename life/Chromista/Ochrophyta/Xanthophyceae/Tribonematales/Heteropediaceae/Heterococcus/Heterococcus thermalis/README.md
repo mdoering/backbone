@@ -1,5 +1,4 @@
-Heterococcus thermalis Pitschmann SPECIES
-=======
+# Heterococcus thermalis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

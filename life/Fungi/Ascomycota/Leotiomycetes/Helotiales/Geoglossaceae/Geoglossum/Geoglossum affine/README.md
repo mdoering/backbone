@@ -1,17 +1,16 @@
-Geoglossum affinis E.J. Durand SPECIES
-=======
+# Geoglossum affine E.J. Durand SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 6: 421 (1908)
 
 #### Original name
-Geoglossum affinis E.J. Durand
+Geoglossum affine E.J. Durand
 
 ### Remarks
 null

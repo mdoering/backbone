@@ -1,5 +1,4 @@
-Sporopodium inocarpi Vain. SPECIES
-=======
+# Sporopodium inocarpi Vain. SPECIES
 
 #### Status
 ACCEPTED

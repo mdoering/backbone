@@ -1,5 +1,4 @@
-Phylloporus rubriceps Corner SPECIES
-=======
+# Phylloporus rubriceps Corner SPECIES
 
 #### Status
 ACCEPTED

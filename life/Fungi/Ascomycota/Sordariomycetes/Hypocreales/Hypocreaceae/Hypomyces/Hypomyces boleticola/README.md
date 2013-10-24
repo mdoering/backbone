@@ -1,5 +1,4 @@
-Hypomyces boleticola (Schwein.) Sacc. SPECIES
-=======
+# Hypomyces boleticola (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

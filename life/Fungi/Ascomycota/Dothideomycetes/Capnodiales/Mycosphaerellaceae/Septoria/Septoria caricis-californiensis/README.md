@@ -1,5 +1,4 @@
-Septoria caricis-californiensis Punith. SPECIES
-=======
+# Septoria caricis-californiensis Punith. SPECIES
 
 #### Status
 ACCEPTED

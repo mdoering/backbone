@@ -1,5 +1,4 @@
-Hymenobacter actinosclerus Collins et al., 2000 SPECIES
-=======
+# Hymenobacter actinosclerus Collins et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

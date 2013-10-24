@@ -1,5 +1,4 @@
-Cylindrosporium acaciae Anahosur SPECIES
-=======
+# Cylindrosporium acaciae Anahosur SPECIES
 
 #### Status
 ACCEPTED

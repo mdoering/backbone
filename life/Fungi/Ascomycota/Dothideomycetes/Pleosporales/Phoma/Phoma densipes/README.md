@@ -1,5 +1,4 @@
-Phoma densipes Penz. & Sacc. SPECIES
-=======
+# Phoma densipes Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

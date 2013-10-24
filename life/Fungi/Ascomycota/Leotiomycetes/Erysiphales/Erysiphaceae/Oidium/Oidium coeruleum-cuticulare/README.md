@@ -1,17 +1,16 @@
-Oidium coeruleus-cuticularis Greco SPECIES
-=======
+# Oidium coeruleum-cuticulare Greco SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Origine des Tumeurs (Etiologie du Cancer, etc. ) et Observations de Mycoses (Blastomycoses, etc. ) Argentines (Buenos Aires) 54 (1916)
 
 #### Original name
-Oidium coeruleus-cuticularis Greco
+Oidium coeruleum-cuticulare Greco
 
 ### Remarks
 null

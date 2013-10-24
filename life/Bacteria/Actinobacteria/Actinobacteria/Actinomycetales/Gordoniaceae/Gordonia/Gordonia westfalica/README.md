@@ -1,5 +1,4 @@
-Gordonia westfalica Linos et al., 2002 SPECIES
-=======
+# Gordonia westfalica Linos et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

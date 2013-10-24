@@ -1,17 +1,16 @@
-Heptameria disseminata (De Not. & Carestia) Cooke, 1889 SPECIES
-=======
+# Davidiella disseminata (De Not. & Carestia) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 78 (2006)
 
 #### Original name
-null
+Sphaerella disseminata De Not. & Carestia, 1871
 
 ### Remarks
 null

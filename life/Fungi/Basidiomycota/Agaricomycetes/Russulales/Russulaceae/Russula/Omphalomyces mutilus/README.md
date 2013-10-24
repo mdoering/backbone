@@ -1,5 +1,4 @@
-Omphalomyces mutilus Battarra SPECIES
-=======
+# Omphalomyces mutilus Battarra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus leucophaeus Pers. SPECIES
-=======
+# Boletus leucophaeus Pers. SPECIES
 
 #### Status
 ACCEPTED

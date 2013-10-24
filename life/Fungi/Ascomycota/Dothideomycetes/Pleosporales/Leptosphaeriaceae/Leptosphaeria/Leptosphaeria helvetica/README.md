@@ -1,5 +1,4 @@
-Leptosphaeria helvetica Sacc. & Speg. SPECIES
-=======
+# Leptosphaeria helvetica Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

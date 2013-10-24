@@ -1,5 +1,4 @@
-Hegneriella Earl, 1971 GENUS
-=======
+# Hegneriella Earl, 1971 GENUS
 
 #### Status
 ACCEPTED

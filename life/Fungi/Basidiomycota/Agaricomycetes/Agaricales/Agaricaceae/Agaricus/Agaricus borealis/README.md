@@ -1,5 +1,4 @@
-Agaricus borealis Fr. SPECIES
-=======
+# Agaricus borealis Fr. SPECIES
 
 #### Status
 ACCEPTED

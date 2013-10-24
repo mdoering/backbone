@@ -1,5 +1,4 @@
-Pleospora ephedrae Fabre SPECIES
-=======
+# Pleospora ephedrae Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puttemansia tucumanensis Petr. SPECIES
-=======
+# Puttemansia tucumanensis Petr. SPECIES
 
 #### Status
 ACCEPTED

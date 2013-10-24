@@ -1,5 +1,4 @@
-Dolabra C. Booth & W.P. Ting, 1964 GENUS
-=======
+# Dolabra C. Booth & W.P. Ting, 1964 GENUS
 
 #### Status
 ACCEPTED

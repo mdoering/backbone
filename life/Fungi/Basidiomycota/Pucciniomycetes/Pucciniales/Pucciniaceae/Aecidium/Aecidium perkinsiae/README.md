@@ -1,5 +1,4 @@
-Aecidium perkinsiae Henn. SPECIES
-=======
+# Aecidium perkinsiae Henn. SPECIES
 
 #### Status
 ACCEPTED

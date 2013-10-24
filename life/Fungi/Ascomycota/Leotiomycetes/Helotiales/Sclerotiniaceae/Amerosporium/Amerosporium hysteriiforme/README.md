@@ -1,5 +1,4 @@
-Amerosporium hysteriiforme Pass. SPECIES
-=======
+# Amerosporium hysteriiforme Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pulchrevirens (Anzi) Stizenb. SPECIES
-=======
+# Lecanora pulchrevirens (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

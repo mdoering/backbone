@@ -1,5 +1,4 @@
-Hydnum amarescens Quél. SPECIES
-=======
+# Hydnum amarescens Quél. SPECIES
 
 #### Status
 ACCEPTED

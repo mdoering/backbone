@@ -1,5 +1,4 @@
-Diorchidium puiggarii Speg. SPECIES
-=======
+# Diorchidium puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

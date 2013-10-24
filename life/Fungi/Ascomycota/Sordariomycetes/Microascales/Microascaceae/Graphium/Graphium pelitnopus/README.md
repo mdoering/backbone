@@ -1,5 +1,4 @@
-Graphium pelitnopus (Corda) Sacc. SPECIES
-=======
+# Graphium pelitnopus (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

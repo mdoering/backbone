@@ -1,5 +1,4 @@
-Schizocladia E.C.Henry, Okuda & Kawai, 2003 GENUS
-=======
+# Schizocladia E.C.Henry, Okuda & Kawai, 2003 GENUS
 
 #### Status
 ACCEPTED

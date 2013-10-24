@@ -1,5 +1,4 @@
-Brachysporium canadense Ellis & Everh. SPECIES
-=======
+# Brachysporium canadense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proplectella globosa SPECIES
-=======
+# Proplectella globosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago brizae (Ule) Liro SPECIES
-=======
+# Ustilago brizae (Ule) Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia tuberifera Velen. SPECIES
-=======
+# Collybia tuberifera Velen. SPECIES
 
 #### Status
 ACCEPTED

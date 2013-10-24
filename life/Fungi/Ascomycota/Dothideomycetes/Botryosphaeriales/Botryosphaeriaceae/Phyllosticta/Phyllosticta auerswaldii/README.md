@@ -1,5 +1,4 @@
-Phyllosticta auerswaldii Allesch. SPECIES
-=======
+# Phyllosticta auerswaldii Allesch. SPECIES
 
 #### Status
 ACCEPTED

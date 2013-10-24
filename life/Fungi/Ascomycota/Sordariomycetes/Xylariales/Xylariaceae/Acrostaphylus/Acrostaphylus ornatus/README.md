@@ -1,5 +1,4 @@
-Acrostaphylus ornatus J.N. Rai & Wadhwani SPECIES
-=======
+# Acrostaphylus ornatus J.N. Rai & Wadhwani SPECIES
 
 #### Status
 ACCEPTED

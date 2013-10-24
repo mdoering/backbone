@@ -1,14 +1,13 @@
-Melanelia poeltii Essl. SPECIES
-=======
+# Melanohalea poeltii (Essl.) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(1): 215 (1987)
+Mycol. Res. 108(8): 883 (2004)
 
 #### Original name
 Melanelia poeltii Essl.

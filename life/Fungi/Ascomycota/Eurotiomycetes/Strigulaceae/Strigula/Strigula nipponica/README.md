@@ -1,5 +1,4 @@
-Strigula nipponica H. Harada SPECIES
-=======
+# Strigula nipponica H. Harada SPECIES
 
 #### Status
 ACCEPTED

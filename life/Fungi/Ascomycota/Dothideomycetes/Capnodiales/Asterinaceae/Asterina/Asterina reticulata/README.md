@@ -1,5 +1,4 @@
-Asterina reticulata Kalchbr. & Cooke SPECIES
-=======
+# Asterina reticulata Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

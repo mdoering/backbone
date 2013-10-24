@@ -1,5 +1,4 @@
-Phalansterium intestinum Cienkowsky SPECIES
-=======
+# Phalansterium intestinum Cienkowsky SPECIES
 
 #### Status
 ACCEPTED

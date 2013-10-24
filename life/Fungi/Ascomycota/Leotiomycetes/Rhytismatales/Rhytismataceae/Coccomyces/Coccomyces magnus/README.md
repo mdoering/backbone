@@ -1,5 +1,4 @@
-Coccomyces magnus Y.R. Lin & Z.Z. Li, 2000 SPECIES
-=======
+# Coccomyces magnus Y.R. Lin & Z.Z. Li, 2000 SPECIES
 
 #### Status
 ACCEPTED

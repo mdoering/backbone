@@ -1,5 +1,4 @@
-Coccomyces parasiticus P.R. Johnst., 1993 SPECIES
-=======
+# Coccomyces parasiticus P.R. Johnst., 1993 SPECIES
 
 #### Status
 ACCEPTED

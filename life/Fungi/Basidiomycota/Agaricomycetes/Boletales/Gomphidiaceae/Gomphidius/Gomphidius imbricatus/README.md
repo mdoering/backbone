@@ -1,5 +1,4 @@
-Gomphidius imbricatus Hruby SPECIES
-=======
+# Gomphidius imbricatus Hruby SPECIES
 
 #### Status
 ACCEPTED

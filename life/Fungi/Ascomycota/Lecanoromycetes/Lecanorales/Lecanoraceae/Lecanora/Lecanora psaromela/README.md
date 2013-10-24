@@ -1,5 +1,4 @@
-Lecanora psaromela Nyl. SPECIES
-=======
+# Lecanora psaromela Nyl. SPECIES
 
 #### Status
 ACCEPTED

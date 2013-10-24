@@ -1,5 +1,4 @@
-Ustulina Tul. & C. Tul. GENUS
-=======
+# Ustulina Tul. & C. Tul. GENUS
 
 #### Status
 ACCEPTED

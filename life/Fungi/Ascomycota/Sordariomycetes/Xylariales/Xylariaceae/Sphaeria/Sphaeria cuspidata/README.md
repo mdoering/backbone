@@ -1,5 +1,4 @@
-Sphaeria cuspidata Fr. SPECIES
-=======
+# Sphaeria cuspidata Fr. SPECIES
 
 #### Status
 ACCEPTED

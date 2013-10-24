@@ -1,5 +1,4 @@
-Leptosphaeria sporoboli Ellis & Galloway SPECIES
-=======
+# Leptosphaeria sporoboli Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

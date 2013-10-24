@@ -1,5 +1,4 @@
-Peziza aeruginella (P. Karst.) Nyl. SPECIES
-=======
+# Peziza aeruginella (P. Karst.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

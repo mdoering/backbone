@@ -1,5 +1,4 @@
-Polyporus pellucidus Berk. SPECIES
-=======
+# Polyporus pellucidus Berk. SPECIES
 
 #### Status
 ACCEPTED

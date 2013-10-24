@@ -1,5 +1,4 @@
-Chaetothyrium echinulatum W. Yamam. SPECIES
-=======
+# Chaetothyrium echinulatum W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

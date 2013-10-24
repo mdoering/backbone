@@ -1,17 +1,16 @@
-Licea capitatoides var. fujiokana Y. Yamam. VARIETY
-=======
+# Licea capitatoides Nann.-Bremek. & Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 26(3): 112 (2000)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 93(3): 269 (1990)
 
 #### Original name
-Licea capitatoides var. fujiokana Y. Yamam.
+Licea capitatoides Nann.-Bremek. & Y. Yamam., 1990
 
 ### Remarks
 null

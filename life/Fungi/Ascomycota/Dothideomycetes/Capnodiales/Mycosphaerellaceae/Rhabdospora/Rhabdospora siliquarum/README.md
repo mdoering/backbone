@@ -1,5 +1,4 @@
-Rhabdospora siliquarum Fautrey SPECIES
-=======
+# Rhabdospora siliquarum Fautrey SPECIES
 
 #### Status
 ACCEPTED

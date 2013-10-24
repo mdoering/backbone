@@ -1,5 +1,4 @@
-Sarcographa atroflava Fée SPECIES
-=======
+# Sarcographa atroflava Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria leiplacoides Müll. Arg. SPECIES
-=======
+# Pertusaria leiplacoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

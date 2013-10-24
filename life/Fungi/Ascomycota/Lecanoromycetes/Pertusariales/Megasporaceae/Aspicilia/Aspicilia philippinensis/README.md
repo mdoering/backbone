@@ -1,5 +1,4 @@
-Aspicilia philippinensis Räsänen SPECIES
-=======
+# Aspicilia philippinensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

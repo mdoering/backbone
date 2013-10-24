@@ -1,5 +1,4 @@
-Mycobacterium phocaicum Adékambi et al., 2006 SPECIES
-=======
+# Mycobacterium phocaicum Adékambi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetocypha Corda GENUS
-=======
+# Chaetocypha Corda GENUS
 
 #### Status
 ACCEPTED

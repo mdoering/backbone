@@ -1,5 +1,4 @@
-Chroococcidiopsis Geitler, 1933 GENUS
-=======
+# Chroococcidiopsis Geitler, 1933 GENUS
 
 #### Status
 ACCEPTED

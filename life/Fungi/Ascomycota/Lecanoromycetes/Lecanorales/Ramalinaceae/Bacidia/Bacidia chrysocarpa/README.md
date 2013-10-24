@@ -1,5 +1,4 @@
-Bacidia chrysocarpa C. Knight SPECIES
-=======
+# Bacidia chrysocarpa C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia colludens SPECIES
-=======
+# Buellia colludens SPECIES
 
 #### Status
 ACCEPTED

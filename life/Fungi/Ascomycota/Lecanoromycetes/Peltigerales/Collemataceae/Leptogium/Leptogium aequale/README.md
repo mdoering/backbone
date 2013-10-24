@@ -1,5 +1,4 @@
-Leptogium aequale (Arnold) P.M. Jørg. SPECIES
-=======
+# Leptogium aequale (Arnold) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis laanii (Kits van Wav.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis laanii (Kits van Wav.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

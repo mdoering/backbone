@@ -1,5 +1,4 @@
-Boletus permagnificus Pöder SPECIES
-=======
+# Boletus permagnificus Pöder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulimina tenuis SPECIES
-=======
+# Bulimina tenuis SPECIES
 
 #### Status
 ACCEPTED

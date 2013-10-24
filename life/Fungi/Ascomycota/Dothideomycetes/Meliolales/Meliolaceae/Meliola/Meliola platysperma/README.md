@@ -1,5 +1,4 @@
-Meliola platysperma Theiss. SPECIES
-=======
+# Meliola platysperma Theiss. SPECIES
 
 #### Status
 ACCEPTED

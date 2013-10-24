@@ -1,17 +1,16 @@
-Mytilidion carpinaceum Velen. SPECIES
-=======
+# Mytilinidion carpinaceum Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae Novissimae 98 (1947)
 
 #### Original name
-Mytilidion carpinaceum Velen.
+Mytilinidion carpinaceum Velen.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Laboulbenia rhagoveliae R.K. Benj. SPECIES
-=======
+# Laboulbenia rhagoveliae R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

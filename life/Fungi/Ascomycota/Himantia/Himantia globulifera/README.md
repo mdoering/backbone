@@ -1,5 +1,4 @@
-Himantia globulifera Schumach. SPECIES
-=======
+# Himantia globulifera Schumach. SPECIES
 
 #### Status
 ACCEPTED

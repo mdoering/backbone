@@ -1,5 +1,4 @@
-Polystictus rubidus (Berk.) Fr. SPECIES
-=======
+# Polystictus rubidus (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

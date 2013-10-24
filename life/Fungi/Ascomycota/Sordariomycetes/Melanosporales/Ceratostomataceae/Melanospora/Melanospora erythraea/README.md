@@ -1,5 +1,4 @@
-Melanospora erythraea Möller SPECIES
-=======
+# Melanospora erythraea Möller SPECIES
 
 #### Status
 ACCEPTED

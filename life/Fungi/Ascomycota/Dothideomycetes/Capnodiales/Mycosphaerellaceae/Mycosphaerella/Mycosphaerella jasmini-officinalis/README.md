@@ -1,5 +1,4 @@
-Mycosphaerella jasmini-officinalis Siemaszko SPECIES
-=======
+# Mycosphaerella jasmini-officinalis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

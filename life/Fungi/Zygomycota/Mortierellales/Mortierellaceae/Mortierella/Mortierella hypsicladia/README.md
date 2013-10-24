@@ -1,5 +1,4 @@
-Mortierella hypsicladia Degawa & W. Gams, 2004 SPECIES
-=======
+# Mortierella hypsicladia Degawa & W. Gams, 2004 SPECIES
 
 #### Status
 ACCEPTED

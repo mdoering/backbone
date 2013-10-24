@@ -1,5 +1,4 @@
-Acanthocystis spiculifera (Berk.) Boedijn SPECIES
-=======
+# Acanthocystis spiculifera (Berk.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

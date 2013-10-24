@@ -1,5 +1,4 @@
-Glenospora metaeuropea Castell. SPECIES
-=======
+# Glenospora metaeuropea Castell. SPECIES
 
 #### Status
 ACCEPTED

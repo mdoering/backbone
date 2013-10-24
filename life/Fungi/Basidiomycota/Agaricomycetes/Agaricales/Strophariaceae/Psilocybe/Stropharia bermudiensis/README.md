@@ -1,5 +1,4 @@
-Stropharia bermudiensis (Massee) Murrill SPECIES
-=======
+# Stropharia bermudiensis (Massee) Murrill SPECIES
 
 #### Status
 ACCEPTED

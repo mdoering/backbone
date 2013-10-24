@@ -1,5 +1,4 @@
-Chroodiscus minor Kantvilas & Vezda SPECIES
-=======
+# Chroodiscus minor Kantvilas & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium longofilum (Maier, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium longofilum (Maier, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

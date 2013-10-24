@@ -1,5 +1,4 @@
-Pseudocercospora daturina (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora daturina (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina agglutinata SPECIES
-=======
+# Quinqueloculina agglutinata SPECIES
 
 #### Status
 ACCEPTED

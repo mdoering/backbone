@@ -1,8 +1,7 @@
-Sporonema nigropunctata I. Hino & Katum. SPECIES
-=======
+# Sporonema nigropunctatum I. Hino & Katum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporonema nigropunctata I. Hino & Katum.
+Sporonema nigropunctatum I. Hino & Katum.
 
 ### Remarks
 null

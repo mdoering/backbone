@@ -1,5 +1,4 @@
-Mollisia gallincola Velen. SPECIES
-=======
+# Mollisia gallincola Velen. SPECIES
 
 #### Status
 ACCEPTED

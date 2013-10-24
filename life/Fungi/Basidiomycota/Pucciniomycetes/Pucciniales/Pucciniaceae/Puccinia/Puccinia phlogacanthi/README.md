@@ -1,5 +1,4 @@
-Puccinia phlogacanthi Syd. & P. Syd. SPECIES
-=======
+# Puccinia phlogacanthi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

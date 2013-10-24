@@ -1,5 +1,4 @@
-Podaxis beringamensis Priest & M. Lenz SPECIES
-=======
+# Podaxis beringamensis Priest & M. Lenz SPECIES
 
 #### Status
 ACCEPTED

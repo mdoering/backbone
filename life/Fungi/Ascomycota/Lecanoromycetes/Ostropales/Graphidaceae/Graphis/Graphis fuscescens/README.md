@@ -1,5 +1,4 @@
-Graphis fuscescens Vain. SPECIES
-=======
+# Graphis fuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

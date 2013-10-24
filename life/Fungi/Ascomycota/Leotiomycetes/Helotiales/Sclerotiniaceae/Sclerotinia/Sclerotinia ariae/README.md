@@ -1,5 +1,4 @@
-Sclerotinia ariae Schellenb. SPECIES
-=======
+# Sclerotinia ariae Schellenb. SPECIES
 
 #### Status
 ACCEPTED

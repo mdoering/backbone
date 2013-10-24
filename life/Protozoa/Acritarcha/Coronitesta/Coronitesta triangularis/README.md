@@ -1,5 +1,4 @@
-Coronitesta triangularis Uutela & Tynni, 1991 SPECIES
-=======
+# Coronitesta triangularis Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

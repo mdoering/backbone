@@ -1,5 +1,4 @@
-Austroboletus subflavidus (Murrill) Wolfe SPECIES
-=======
+# Austroboletus subflavidus (Murrill) Wolfe SPECIES
 
 #### Status
 ACCEPTED

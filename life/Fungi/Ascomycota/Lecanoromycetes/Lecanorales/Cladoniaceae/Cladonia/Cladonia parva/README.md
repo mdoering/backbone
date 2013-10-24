@@ -1,5 +1,4 @@
-Cladonia parva Ahti & Krog SPECIES
-=======
+# Cladonia parva Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

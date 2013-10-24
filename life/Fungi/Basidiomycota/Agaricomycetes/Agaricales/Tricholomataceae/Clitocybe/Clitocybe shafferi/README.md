@@ -1,5 +1,4 @@
-Clitocybe shafferi H.E. Bigelow SPECIES
-=======
+# Clitocybe shafferi H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

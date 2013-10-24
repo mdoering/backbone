@@ -1,5 +1,4 @@
-Megacollybia rodmanii f. rodmanii FORM
-=======
+# Megacollybia rodmanii J.L. Mata, Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Hughes et al. , Rep. Tottori Mycol. Inst. 45: 42 (2008)
 
 #### Original name
-Megacollybia rodmanii f. rodmanii
+Megacollybia rodmanii J.L. Mata, Aime & T.W. Henkel
 
 ### Remarks
 null

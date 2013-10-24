@@ -1,5 +1,4 @@
-Trichodina modesta Lom, 1970 SPECIES
-=======
+# Trichodina modesta Lom, 1970 SPECIES
 
 #### Status
 ACCEPTED

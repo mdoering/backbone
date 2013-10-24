@@ -1,5 +1,4 @@
-Harpographium olivaceum (J.C. Schmidt) Sacc. SPECIES
-=======
+# Harpographium olivaceum (J.C. Schmidt) Sacc. SPECIES
 
 #### Status
 ACCEPTED

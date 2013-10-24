@@ -1,5 +1,4 @@
-Terana diaphana (Speg.) Kuntze SPECIES
-=======
+# Terana diaphana (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

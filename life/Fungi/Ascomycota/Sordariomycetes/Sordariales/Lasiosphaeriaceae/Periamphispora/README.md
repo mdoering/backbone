@@ -1,5 +1,4 @@
-Periamphispora J.C. Krug GENUS
-=======
+# Periamphispora J.C. Krug GENUS
 
 #### Status
 ACCEPTED

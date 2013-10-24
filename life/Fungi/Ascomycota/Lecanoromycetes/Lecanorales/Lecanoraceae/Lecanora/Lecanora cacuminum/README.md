@@ -1,5 +1,4 @@
-Lecanora cacuminum Müll. Arg. SPECIES
-=======
+# Lecanora cacuminum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

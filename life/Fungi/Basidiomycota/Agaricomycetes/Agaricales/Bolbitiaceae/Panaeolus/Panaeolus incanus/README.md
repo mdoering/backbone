@@ -1,5 +1,4 @@
-Panaeolus incanus Quél. SPECIES
-=======
+# Panaeolus incanus Quél. SPECIES
 
 #### Status
 ACCEPTED

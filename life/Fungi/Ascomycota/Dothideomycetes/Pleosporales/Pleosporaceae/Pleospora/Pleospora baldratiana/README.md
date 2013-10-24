@@ -1,5 +1,4 @@
-Pleospora baldratiana Bacc. SPECIES
-=======
+# Pleospora baldratiana Bacc. SPECIES
 
 #### Status
 ACCEPTED

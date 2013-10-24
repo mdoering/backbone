@@ -1,5 +1,4 @@
-Septoria ophiopogonis Pass. SPECIES
-=======
+# Septoria ophiopogonis Pass. SPECIES
 
 #### Status
 ACCEPTED

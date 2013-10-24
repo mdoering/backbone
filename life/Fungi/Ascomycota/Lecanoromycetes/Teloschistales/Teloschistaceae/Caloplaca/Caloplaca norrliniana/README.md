@@ -1,5 +1,4 @@
-Caloplaca norrliniana (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca norrliniana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

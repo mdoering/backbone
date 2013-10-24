@@ -1,17 +1,16 @@
-Bilimbia byssoboliza (Nyl.) A.L. Sm. SPECIES
-=======
+# Bacidia carneoglauca (Nyl.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 141 (1911)
+Monogr. Brit. Lich. 2: 155 (1911)
 
 #### Original name
-Lecidea byssoboliza Nyl.
+Lecidea carneoglauca Nyl.
 
 ### Remarks
 null

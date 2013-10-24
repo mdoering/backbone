@@ -1,5 +1,4 @@
-Dothiorella santali K. Taylor, Barber & T.I. Burgess SPECIES
-=======
+# Dothiorella santali K. Taylor, Barber & T.I. Burgess SPECIES
 
 #### Status
 ACCEPTED

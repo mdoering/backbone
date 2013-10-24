@@ -1,5 +1,4 @@
-Gonytrichella Emoto & Tubaki, 1971 GENUS
-=======
+# Gonytrichella Emoto & Tubaki, 1971 GENUS
 
 #### Status
 ACCEPTED

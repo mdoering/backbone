@@ -1,14 +1,13 @@
-Dictyocephala Ehrenberg, 1869 GENUS
-=======
+# Dictyocephalus Ehrenberg, 1861 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Monatsber. Akad. Wiss. Berlin, 1869, 262 tabell.
+MonatsBer. Akad. Wiss. Berlin, 1860, 830.
 
 #### Original name
 null

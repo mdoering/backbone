@@ -1,5 +1,4 @@
-Lecidea lividescens SPECIES
-=======
+# Lecidea lividescens SPECIES
 
 #### Status
 ACCEPTED

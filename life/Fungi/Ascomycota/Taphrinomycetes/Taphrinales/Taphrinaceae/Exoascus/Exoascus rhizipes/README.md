@@ -1,5 +1,4 @@
-Exoascus rhizipes G.F. Atk. SPECIES
-=======
+# Exoascus rhizipes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

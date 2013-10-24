@@ -1,8 +1,7 @@
-Leëlla Dunbar & Skinner, 1937 GENUS
-=======
+# Leella Dunbar & Skinner, 1937 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

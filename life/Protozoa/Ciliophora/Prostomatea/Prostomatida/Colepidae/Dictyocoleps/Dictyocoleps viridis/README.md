@@ -1,5 +1,4 @@
-Dictyocoleps viridis (Ehrenberg) Diesing, 1866 SPECIES
-=======
+# Dictyocoleps viridis (Ehrenberg) Diesing, 1866 SPECIES
 
 #### Status
 ACCEPTED

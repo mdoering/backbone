@@ -1,5 +1,4 @@
-Pulparia arctica P. Karst. SPECIES
-=======
+# Pulparia arctica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

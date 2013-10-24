@@ -1,5 +1,4 @@
-Minchinia dentali (Arvy) SPECIES
-=======
+# Minchinia dentali (Arvy) SPECIES
 
 #### Status
 ACCEPTED

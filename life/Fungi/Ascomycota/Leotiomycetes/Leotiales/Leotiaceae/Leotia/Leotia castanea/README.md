@@ -1,5 +1,4 @@
-Leotia castanea Teng SPECIES
-=======
+# Leotia castanea Teng SPECIES
 
 #### Status
 ACCEPTED

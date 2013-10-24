@@ -1,5 +1,4 @@
-Crepidotus subcuneiformis Murrill SPECIES
-=======
+# Crepidotus subcuneiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

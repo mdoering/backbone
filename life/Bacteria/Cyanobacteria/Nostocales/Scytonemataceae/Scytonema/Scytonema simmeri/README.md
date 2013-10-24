@@ -1,5 +1,4 @@
-Scytonema simmeri Schmidle SPECIES
-=======
+# Scytonema simmeri Schmidle SPECIES
 
 #### Status
 ACCEPTED

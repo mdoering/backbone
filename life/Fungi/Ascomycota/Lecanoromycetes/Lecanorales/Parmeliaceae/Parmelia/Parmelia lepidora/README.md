@@ -1,5 +1,4 @@
-Parmelia lepidora Ach. SPECIES
-=======
+# Parmelia lepidora Ach. SPECIES
 
 #### Status
 ACCEPTED

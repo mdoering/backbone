@@ -1,11 +1,10 @@
-Cryothecomonadidae Cavalier-Smith, 1993 FAMILY
-=======
+# Protaspidae Cavalier-Smith, 1993 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
 null

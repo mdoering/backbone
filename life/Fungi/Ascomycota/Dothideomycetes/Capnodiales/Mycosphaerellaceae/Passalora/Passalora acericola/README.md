@@ -1,5 +1,4 @@
-Passalora acericola (X.J. Liu & Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora acericola (X.J. Liu & Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

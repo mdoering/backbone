@@ -1,5 +1,4 @@
-Agaricus scotodes Berk. & Broome SPECIES
-=======
+# Agaricus scotodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

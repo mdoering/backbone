@@ -1,5 +1,4 @@
-Graphis pongamiae Vain. SPECIES
-=======
+# Graphis pongamiae Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Choanophyra infundibulifera SPECIES
-=======
+# Choanophyra infundibulifera SPECIES
 
 #### Status
 ACCEPTED

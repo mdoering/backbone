@@ -1,5 +1,4 @@
-Rhizidium parasiticum S.N. Dasgupta SPECIES
-=======
+# Rhizidium parasiticum S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

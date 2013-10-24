@@ -1,5 +1,4 @@
-Scrippsiella sweeneyae Balech ex A.R. Loeblich Iii SPECIES
-=======
+# Scrippsiella sweeneyae Balech ex A.R. Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

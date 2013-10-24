@@ -1,5 +1,4 @@
-Cortinarius carneinatus Soop SPECIES
-=======
+# Cortinarius carneinatus Soop SPECIES
 
 #### Status
 ACCEPTED

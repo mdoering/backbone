@@ -1,5 +1,4 @@
-Boletus lutescens Pers. SPECIES
-=======
+# Boletus lutescens Pers. SPECIES
 
 #### Status
 ACCEPTED

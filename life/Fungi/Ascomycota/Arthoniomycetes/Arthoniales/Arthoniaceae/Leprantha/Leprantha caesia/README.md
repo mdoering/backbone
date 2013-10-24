@@ -1,5 +1,4 @@
-Leprantha caesia (Flot.) Körb. SPECIES
-=======
+# Leprantha caesia (Flot.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora brachypoda Speg., 1882 SPECIES
-=======
+# Pseudocercospora brachypoda (Speg.) U. Braun, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi argentini pugillus 4: no. 338 (1882)
+Schlechtendalia 5: 59 (2000)
 
 #### Original name
 Cercospora brachypoda Speg., 1882

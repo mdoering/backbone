@@ -1,5 +1,4 @@
-Tricholoma subsejunctum Peck SPECIES
-=======
+# Tricholoma subsejunctum Peck SPECIES
 
 #### Status
 ACCEPTED

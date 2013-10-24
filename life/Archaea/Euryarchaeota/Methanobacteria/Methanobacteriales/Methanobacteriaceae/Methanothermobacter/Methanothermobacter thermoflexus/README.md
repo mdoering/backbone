@@ -1,8 +1,7 @@
-Methanobacterium thermoflexum Kotelnikova et al., 1994 SPECIES
-=======
+# Methanothermobacter thermoflexus (Kotelnikova et al., 1994) Boone, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

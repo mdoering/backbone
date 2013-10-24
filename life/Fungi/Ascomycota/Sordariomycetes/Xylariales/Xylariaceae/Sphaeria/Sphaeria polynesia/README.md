@@ -1,5 +1,4 @@
-Sphaeria polynesia Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria polynesia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

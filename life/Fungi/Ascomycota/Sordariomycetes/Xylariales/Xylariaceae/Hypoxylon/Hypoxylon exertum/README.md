@@ -1,5 +1,4 @@
-Hypoxylon exertum Fr. SPECIES
-=======
+# Hypoxylon exertum Fr. SPECIES
 
 #### Status
 ACCEPTED

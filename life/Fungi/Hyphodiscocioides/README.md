@@ -1,5 +1,4 @@
-Hyphodiscocioides T. Matsushima, 1993 GENUS
-=======
+# Hyphodiscocioides T. Matsushima, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria calycanthi (Schwein.) Sacc. SPECIES
-=======
+# Botryosphaeria calycanthi (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

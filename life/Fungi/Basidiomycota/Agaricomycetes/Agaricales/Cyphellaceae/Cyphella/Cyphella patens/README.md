@@ -1,5 +1,4 @@
-Cyphella patens A.L. Sm. SPECIES
-=======
+# Cyphella patens A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichaptum strigosum Corner, 1987 SPECIES
-=======
+# Trichaptum strigosum Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

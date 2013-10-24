@@ -1,5 +1,4 @@
-Coleosporium actaeae P. Karst. SPECIES
-=======
+# Coleosporium actaeae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

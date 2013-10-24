@@ -1,5 +1,4 @@
-Entoloma coeruleomagnum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma coeruleomagnum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

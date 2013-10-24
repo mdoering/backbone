@@ -1,5 +1,4 @@
-Lichen orbiculatus Schreb. SPECIES
-=======
+# Lichen orbiculatus Schreb. SPECIES
 
 #### Status
 ACCEPTED

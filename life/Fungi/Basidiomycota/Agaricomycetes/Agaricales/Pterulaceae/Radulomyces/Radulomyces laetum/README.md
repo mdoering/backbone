@@ -1,5 +1,4 @@
-Radulomyces laetum (P. Karst.) SPECIES
-=======
+# Radulomyces laetum (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

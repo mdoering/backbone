@@ -1,5 +1,4 @@
-Deltoidinia Jiabo, 1978 GENUS
-=======
+# Deltoidinia Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

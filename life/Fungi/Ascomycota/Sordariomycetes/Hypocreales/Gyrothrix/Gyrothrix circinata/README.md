@@ -1,14 +1,13 @@
-Campsotrichum circinatum Berk. & M.A. Curtis, 1875 SPECIES
-=======
+# Gyrothrix circinata (Berk. & M.A. Curtis) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Grevillea 3(no. 28): 146 (1875)
+Can. J. Bot. 36: 771 (1958)
 
 #### Original name
 Campsotrichum circinatum Berk. & M.A. Curtis, 1875

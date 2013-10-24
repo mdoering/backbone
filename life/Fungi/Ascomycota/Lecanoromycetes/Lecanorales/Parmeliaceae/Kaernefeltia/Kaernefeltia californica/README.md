@@ -1,14 +1,13 @@
-Cetraria californica Tuck. SPECIES
-=======
+# Kaernefeltia californica (Tuck.) A. Thell & Goward SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 99(2): 126 (1996)
 
 #### Original name
 Cetraria californica Tuck.

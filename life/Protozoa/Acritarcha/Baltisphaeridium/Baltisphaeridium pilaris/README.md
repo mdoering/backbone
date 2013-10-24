@@ -1,5 +1,4 @@
-Baltisphaeridium pilaris SPECIES
-=======
+# Baltisphaeridium pilaris SPECIES
 
 #### Status
 ACCEPTED

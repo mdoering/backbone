@@ -1,5 +1,4 @@
-Omphalia bakeri Murrill SPECIES
-=======
+# Omphalia bakeri Murrill SPECIES
 
 #### Status
 ACCEPTED

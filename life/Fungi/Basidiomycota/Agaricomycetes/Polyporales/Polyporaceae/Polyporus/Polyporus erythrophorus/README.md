@@ -1,5 +1,4 @@
-Polyporus erythrophorus G.H. Otth SPECIES
-=======
+# Polyporus erythrophorus G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

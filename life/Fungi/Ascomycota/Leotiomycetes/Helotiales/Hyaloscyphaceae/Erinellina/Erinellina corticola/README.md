@@ -1,5 +1,4 @@
-Erinellina corticola (Massee) Teng SPECIES
-=======
+# Erinellina corticola (Massee) Teng SPECIES
 
 #### Status
 ACCEPTED

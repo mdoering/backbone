@@ -1,14 +1,13 @@
-Lecidea rhypoderma C. Knight SPECIES
-=======
+# Lecanora rhypoderma (C. Knight) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 23: 389 (1891)
 
 #### Original name
 Lecidea rhypoderma C. Knight

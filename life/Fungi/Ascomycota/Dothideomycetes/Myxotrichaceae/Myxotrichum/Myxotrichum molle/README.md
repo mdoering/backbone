@@ -1,5 +1,4 @@
-Myxotrichum molle Fr. SPECIES
-=======
+# Myxotrichum molle Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tryblidiella rufula var. rufula VARIETY
-=======
+# Rhytidhysteron rufulum (Spreng.) Speg., 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 757 (1883)
+Anal. Soc. cient. argent. 90: 177 (1920)
 
 #### Original name
-Tryblidiella rufula var. rufula
+Hysterium rufulum Spreng., 1820
 
 ### Remarks
 null

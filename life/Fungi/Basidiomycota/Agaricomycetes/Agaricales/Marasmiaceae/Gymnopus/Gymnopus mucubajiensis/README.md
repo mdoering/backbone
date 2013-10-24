@@ -1,5 +1,4 @@
-Gymnopus mucubajiensis (Dennis) Halling SPECIES
-=======
+# Gymnopus mucubajiensis (Dennis) Halling SPECIES
 
 #### Status
 ACCEPTED

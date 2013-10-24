@@ -1,5 +1,4 @@
-Cercospora caleifolii Bat., H.P. Upadhyay & J.P. Costa SPECIES
-=======
+# Cercospora caleifolii Bat., H.P. Upadhyay & J.P. Costa SPECIES
 
 #### Status
 ACCEPTED

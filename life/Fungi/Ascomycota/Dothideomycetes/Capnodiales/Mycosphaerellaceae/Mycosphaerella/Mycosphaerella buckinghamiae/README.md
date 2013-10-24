@@ -1,5 +1,4 @@
-Mycosphaerella buckinghamiae Crous & Summerell, 2000 SPECIES
-=======
+# Mycosphaerella buckinghamiae Crous & Summerell, 2000 SPECIES
 
 #### Status
 ACCEPTED

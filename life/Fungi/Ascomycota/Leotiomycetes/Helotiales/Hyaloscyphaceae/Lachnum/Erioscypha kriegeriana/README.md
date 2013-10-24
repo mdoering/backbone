@@ -1,5 +1,4 @@
-Erioscypha kriegeriana Kirschst. SPECIES
-=======
+# Erioscypha kriegeriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

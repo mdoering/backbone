@@ -1,5 +1,4 @@
-Leptosphaeria trevoae Speg. SPECIES
-=======
+# Leptosphaeria trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

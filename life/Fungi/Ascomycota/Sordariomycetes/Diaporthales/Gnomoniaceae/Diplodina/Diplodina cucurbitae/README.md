@@ -1,5 +1,4 @@
-Diplodina cucurbitae Nevod. SPECIES
-=======
+# Diplodina cucurbitae Nevod. SPECIES
 
 #### Status
 ACCEPTED

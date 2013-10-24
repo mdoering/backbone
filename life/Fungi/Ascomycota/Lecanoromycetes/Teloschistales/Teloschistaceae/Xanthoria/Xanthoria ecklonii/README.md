@@ -1,14 +1,13 @@
-Xanthoria eckloni (A. Massal.) C.W. Dodge SPECIES
-=======
+# Xanthoria ecklonii (A. Massal.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 119 (1971)
 
 #### Original name
 Niopsora ecklonii A. Massal.

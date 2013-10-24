@@ -1,5 +1,4 @@
-Caloplaca baileyi H. Magn. SPECIES
-=======
+# Caloplaca baileyi H. Magn. SPECIES
 
 #### Status
 ACCEPTED

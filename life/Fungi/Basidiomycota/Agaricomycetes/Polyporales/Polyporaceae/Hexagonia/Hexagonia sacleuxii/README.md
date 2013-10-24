@@ -1,5 +1,4 @@
-Hexagonia sacleuxii Har. & Pat. SPECIES
-=======
+# Hexagonia sacleuxii Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

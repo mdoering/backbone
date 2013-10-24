@@ -1,14 +1,13 @@
-Aplococcus E. Roze, 1896 GENUS
-=======
+# Aphanocapsa Nageli, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 10: 319-323.
+Nägeli, 1849. Neue Denkschr. Allg. Schweiz. Ges. Gesammten Naturwiss. 10(7): 52.
 
 #### Original name
 null

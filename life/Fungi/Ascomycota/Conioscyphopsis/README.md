@@ -1,5 +1,4 @@
-Conioscyphopsis Goh & K.D. Hyde GENUS
-=======
+# Conioscyphopsis Goh & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

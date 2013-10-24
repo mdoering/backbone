@@ -1,5 +1,4 @@
-Ustilago ischaemi-anthephoroidis S. Ito SPECIES
-=======
+# Ustilago ischaemi-anthephoroidis S. Ito SPECIES
 
 #### Status
 ACCEPTED

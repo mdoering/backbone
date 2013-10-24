@@ -1,8 +1,7 @@
-Dasyscypha ulei (G. Winter) Sacc. SPECIES
-=======
+# Dasyscyphus ulei (G. Winter) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

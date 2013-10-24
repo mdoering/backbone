@@ -1,5 +1,4 @@
-Phaeographis alba (C. Knight) Müll. Arg. SPECIES
-=======
+# Phaeographis alba (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

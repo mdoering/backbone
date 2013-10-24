@@ -1,5 +1,4 @@
-Phellinus scorodocarpi var. scorodocarpi VARIETY
-=======
+# Phellinus scorodocarpi Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 101: 139 (1991)
 
 #### Original name
-Phellinus scorodocarpi var. scorodocarpi
+Phellinus scorodocarpi Corner
 
 ### Remarks
 null

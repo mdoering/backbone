@@ -1,5 +1,4 @@
-Flahaultia Arnaud, 1952 GENUS
-=======
+# Flahaultia Arnaud, 1952 GENUS
 
 #### Status
 ACCEPTED

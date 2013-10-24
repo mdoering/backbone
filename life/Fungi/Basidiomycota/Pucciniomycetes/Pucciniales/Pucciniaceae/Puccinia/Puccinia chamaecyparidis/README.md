@@ -1,17 +1,16 @@
-Puccinia chamaecyparissi Trotter SPECIES
-=======
+# Puccinia chamaecyparidis Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 21: 644 (1912)
 
 #### Original name
-Puccinia chamaecyparissi Trotter
+Puccinia chamaecyparidis Trotter
 
 ### Remarks
 null

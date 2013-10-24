@@ -1,5 +1,4 @@
-Myxomonas betae Brzez. SPECIES
-=======
+# Myxomonas betae Brzez. SPECIES
 
 #### Status
 ACCEPTED

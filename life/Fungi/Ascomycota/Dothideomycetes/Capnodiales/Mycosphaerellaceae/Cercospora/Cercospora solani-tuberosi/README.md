@@ -1,5 +1,4 @@
-Cercospora solani-tuberosi Thirum. SPECIES
-=======
+# Cercospora solani-tuberosi Thirum. SPECIES
 
 #### Status
 ACCEPTED

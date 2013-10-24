@@ -1,5 +1,4 @@
-Cintractia lipocarphae Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Cintractia lipocarphae Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

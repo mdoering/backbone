@@ -1,5 +1,4 @@
-Calonectria ferruginea Rehm SPECIES
-=======
+# Calonectria ferruginea Rehm SPECIES
 
 #### Status
 ACCEPTED

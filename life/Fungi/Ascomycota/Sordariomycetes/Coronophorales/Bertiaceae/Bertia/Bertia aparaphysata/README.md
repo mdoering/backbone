@@ -1,5 +1,4 @@
-Bertia aparaphysata Rick SPECIES
-=======
+# Bertia aparaphysata Rick SPECIES
 
 #### Status
 ACCEPTED

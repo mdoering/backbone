@@ -1,5 +1,4 @@
-Stysanus parasiticus Desm. SPECIES
-=======
+# Stysanus parasiticus Desm. SPECIES
 
 #### Status
 ACCEPTED

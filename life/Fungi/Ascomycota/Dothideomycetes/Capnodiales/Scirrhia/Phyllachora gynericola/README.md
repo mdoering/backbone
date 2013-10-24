@@ -1,5 +1,4 @@
-Phyllachora gynericola Orejuela, 1944 SPECIES
-=======
+# Phyllachora gynericola Orejuela, 1944 SPECIES
 
 #### Status
 DOUBTFUL

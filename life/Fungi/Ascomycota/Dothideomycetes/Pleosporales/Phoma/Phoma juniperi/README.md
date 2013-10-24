@@ -1,5 +1,4 @@
-Phoma juniperi (Desm.) Sacc. SPECIES
-=======
+# Phoma juniperi (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

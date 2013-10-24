@@ -1,5 +1,4 @@
-Acarospora bullata Anzi SPECIES
-=======
+# Acarospora bullata Anzi SPECIES
 
 #### Status
 ACCEPTED

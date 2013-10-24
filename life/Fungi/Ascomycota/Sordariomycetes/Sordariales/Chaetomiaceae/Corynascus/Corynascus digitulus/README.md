@@ -1,5 +1,4 @@
-Corynascus digitulus Stchigel et al. {?} ined. SPECIES
-=======
+# Corynascus digitulus Stchigel et al. {?} ined. SPECIES
 
 #### Status
 ACCEPTED

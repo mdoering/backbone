@@ -1,5 +1,4 @@
-Chapsa pseudoexanthismocarpa (Patw. & C. Kulk.) Rivas Plata & Lücking SPECIES
-=======
+# Chapsa pseudoexanthismocarpa (Patw. & C. Kulk.) Rivas Plata & Lücking SPECIES
 
 #### Status
 ACCEPTED

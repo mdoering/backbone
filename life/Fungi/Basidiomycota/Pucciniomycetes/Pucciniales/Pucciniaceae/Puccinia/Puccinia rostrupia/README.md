@@ -1,5 +1,4 @@
-Puccinia rostrupia anon. SPECIES
-=======
+# Puccinia rostrupia anon. SPECIES
 
 #### Status
 ACCEPTED

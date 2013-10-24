@@ -1,5 +1,4 @@
-Chlamydotomus cellaris (Hansgirg {?} ) Trevis. SPECIES
-=======
+# Chlamydotomus cellaris (Hansgirg {?} ) Trevis. SPECIES
 
 #### Status
 ACCEPTED

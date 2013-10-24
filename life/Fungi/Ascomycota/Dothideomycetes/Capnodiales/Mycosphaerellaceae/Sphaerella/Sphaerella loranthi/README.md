@@ -1,5 +1,4 @@
-Sphaerella loranthi (Syd.) Sacc. SPECIES
-=======
+# Sphaerella loranthi (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

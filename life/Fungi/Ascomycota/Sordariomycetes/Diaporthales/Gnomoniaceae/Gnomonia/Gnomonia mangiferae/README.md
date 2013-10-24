@@ -1,5 +1,4 @@
-Gnomonia mangiferae G. Malhotra & Mukerji SPECIES
-=======
+# Gnomonia mangiferae G. Malhotra & Mukerji SPECIES
 
 #### Status
 ACCEPTED

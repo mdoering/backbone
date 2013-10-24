@@ -1,5 +1,4 @@
-Thompsonites Bensh, 1987 GENUS
-=======
+# Thompsonites Bensh, 1987 GENUS
 
 #### Status
 ACCEPTED

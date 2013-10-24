@@ -1,5 +1,4 @@
-Macrosporium tau-saghyzianum Zerova SPECIES
-=======
+# Macrosporium tau-saghyzianum Zerova SPECIES
 
 #### Status
 ACCEPTED

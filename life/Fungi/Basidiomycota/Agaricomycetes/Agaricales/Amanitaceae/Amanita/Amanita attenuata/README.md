@@ -1,5 +1,4 @@
-Amanita attenuata Lam. SPECIES
-=======
+# Amanita attenuata Lam. SPECIES
 
 #### Status
 ACCEPTED

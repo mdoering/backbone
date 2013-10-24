@@ -1,5 +1,4 @@
-Cercospora onagrae Purkay. & Mallik SPECIES
-=======
+# Cercospora onagrae Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha lusitanica Egea & Torrente SPECIES
-=======
+# Opegrapha lusitanica Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia comandrae (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia comandrae (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

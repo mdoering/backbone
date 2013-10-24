@@ -1,5 +1,4 @@
-Leotia viscosa Fr. SPECIES
-=======
+# Leotia viscosa Fr. SPECIES
 
 #### Status
 ACCEPTED

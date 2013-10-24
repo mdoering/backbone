@@ -1,5 +1,4 @@
-Umbilicaria membranacea Laurer SPECIES
-=======
+# Umbilicaria membranacea Laurer SPECIES
 
 #### Status
 ACCEPTED

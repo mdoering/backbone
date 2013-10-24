@@ -1,5 +1,4 @@
-Prachtflorella microspora (Rivolta) Matr. SPECIES
-=======
+# Prachtflorella microspora (Rivolta) Matr. SPECIES
 
 #### Status
 ACCEPTED

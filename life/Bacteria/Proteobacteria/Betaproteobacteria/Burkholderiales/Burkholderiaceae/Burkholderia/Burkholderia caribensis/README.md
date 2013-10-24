@@ -1,5 +1,4 @@
-Burkholderia caribensis Achouak et al., 1999 SPECIES
-=======
+# Burkholderia caribensis Achouak et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

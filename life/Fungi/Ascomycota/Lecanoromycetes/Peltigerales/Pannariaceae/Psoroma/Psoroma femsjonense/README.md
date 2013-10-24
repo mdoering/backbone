@@ -1,5 +1,4 @@
-Psoroma femsjonense Fr. SPECIES
-=======
+# Psoroma femsjonense Fr. SPECIES
 
 #### Status
 ACCEPTED

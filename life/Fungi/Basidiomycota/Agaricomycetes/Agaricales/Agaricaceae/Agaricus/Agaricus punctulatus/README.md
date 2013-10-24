@@ -1,5 +1,4 @@
-Agaricus punctulatus Kalchbr. SPECIES
-=======
+# Agaricus punctulatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia confluens P. Syd. & Syd. SPECIES
-=======
+# Puccinia confluens P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

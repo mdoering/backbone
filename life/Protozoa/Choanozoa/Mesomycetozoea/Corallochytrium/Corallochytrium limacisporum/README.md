@@ -1,5 +1,4 @@
-Corallochytrium limacisporum Raghuk., 1987 SPECIES
-=======
+# Corallochytrium limacisporum Raghuk., 1987 SPECIES
 
 #### Status
 ACCEPTED

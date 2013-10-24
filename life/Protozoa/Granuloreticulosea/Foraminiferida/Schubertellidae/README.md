@@ -1,5 +1,4 @@
-Schubertellidae Skinner, 1931 FAMILY
-=======
+# Schubertellidae Skinner, 1931 FAMILY
 
 #### Status
 ACCEPTED

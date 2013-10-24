@@ -1,5 +1,4 @@
-Proliferodiscus caeruleoalbus (Rehm) SPECIES
-=======
+# Proliferodiscus caeruleoalbus (Rehm) SPECIES
 
 #### Status
 ACCEPTED

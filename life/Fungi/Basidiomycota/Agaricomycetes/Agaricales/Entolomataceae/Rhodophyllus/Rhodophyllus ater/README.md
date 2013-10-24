@@ -1,5 +1,4 @@
-Rhodophyllus ater Hongo SPECIES
-=======
+# Rhodophyllus ater Hongo SPECIES
 
 #### Status
 ACCEPTED

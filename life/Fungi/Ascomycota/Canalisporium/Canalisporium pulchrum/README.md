@@ -1,5 +1,4 @@
-Canalisporium pulchrum (Hol.-Jech. & Mercado) Nawawi & Kuthub. SPECIES
-=======
+# Canalisporium pulchrum (Hol.-Jech. & Mercado) Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

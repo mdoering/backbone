@@ -1,8 +1,7 @@
-Microcystis pulverea f. racemiformis (Nygaard) Hollerbach FORM
-=======
+# Aphanocapsa nubilum J. Komárek & H. Kling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

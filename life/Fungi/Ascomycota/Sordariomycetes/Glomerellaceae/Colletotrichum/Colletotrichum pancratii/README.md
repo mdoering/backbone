@@ -1,17 +1,16 @@
-Colletotrichum pancratiae Hasija SPECIES
-=======
+# Colletotrichum pancratii Hasija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 32: 413 (1962)
 
 #### Original name
-Colletotrichum pancratiae Hasija
+Colletotrichum pancratii Hasija
 
 ### Remarks
 null

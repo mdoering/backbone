@@ -1,5 +1,4 @@
-Circinotrichum palmicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Circinotrichum palmicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

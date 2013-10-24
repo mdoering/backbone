@@ -1,5 +1,4 @@
-Helminthosphaeria hercynica Kirschst. SPECIES
-=======
+# Helminthosphaeria hercynica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

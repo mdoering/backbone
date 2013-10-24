@@ -1,5 +1,4 @@
-Dictyota major W.R. Taylor SPECIES
-=======
+# Dictyota major W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

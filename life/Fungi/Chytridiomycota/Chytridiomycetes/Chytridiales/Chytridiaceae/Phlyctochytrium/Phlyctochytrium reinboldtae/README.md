@@ -1,5 +1,4 @@
-Phlyctochytrium reinboldtae Persiel SPECIES
-=======
+# Phlyctochytrium reinboldtae Persiel SPECIES
 
 #### Status
 ACCEPTED

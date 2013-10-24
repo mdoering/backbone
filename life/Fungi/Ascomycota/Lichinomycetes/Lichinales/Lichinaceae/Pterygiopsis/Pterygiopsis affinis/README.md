@@ -1,5 +1,4 @@
-Pterygiopsis affinis (A. Massal.) Henssen SPECIES
-=======
+# Pterygiopsis affinis (A. Massal.) Henssen SPECIES
 
 #### Status
 ACCEPTED

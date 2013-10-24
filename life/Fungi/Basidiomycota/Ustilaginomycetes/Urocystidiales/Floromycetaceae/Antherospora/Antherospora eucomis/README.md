@@ -1,5 +1,4 @@
-Antherospora eucomis Vánky, 2009 SPECIES
-=======
+# Antherospora eucomis Vánky, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Odontia columellifera G. Cunn., 1959 SPECIES
-=======
+# Mycoacia columellifera (G. Cunn.) Hjortstam, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 86(1-2): 84 (1959)
+Mycotaxon 54: 188 (1995)
 
 #### Original name
 Odontia columellifera G. Cunn., 1959

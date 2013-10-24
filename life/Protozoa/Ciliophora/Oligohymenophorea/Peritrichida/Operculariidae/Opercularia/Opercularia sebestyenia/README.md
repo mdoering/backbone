@@ -1,5 +1,4 @@
-Opercularia sebestyenia SPECIES
-=======
+# Opercularia sebestyenia SPECIES
 
 #### Status
 ACCEPTED

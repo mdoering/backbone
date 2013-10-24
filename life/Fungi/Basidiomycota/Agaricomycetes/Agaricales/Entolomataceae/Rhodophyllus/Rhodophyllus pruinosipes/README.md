@@ -1,5 +1,4 @@
-Rhodophyllus pruinosipes Singer SPECIES
-=======
+# Rhodophyllus pruinosipes Singer SPECIES
 
 #### Status
 ACCEPTED

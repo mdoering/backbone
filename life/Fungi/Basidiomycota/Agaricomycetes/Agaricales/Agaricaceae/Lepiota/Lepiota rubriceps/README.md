@@ -1,5 +1,4 @@
-Lepiota rubriceps Murrill SPECIES
-=======
+# Lepiota rubriceps Murrill SPECIES
 
 #### Status
 ACCEPTED

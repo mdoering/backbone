@@ -1,5 +1,4 @@
-Bacidia ioessa SPECIES
-=======
+# Bacidia ioessa SPECIES
 
 #### Status
 ACCEPTED

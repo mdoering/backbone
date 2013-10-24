@@ -1,5 +1,4 @@
-Podospora coprogena Speg. SPECIES
-=======
+# Podospora coprogena Speg. SPECIES
 
 #### Status
 ACCEPTED

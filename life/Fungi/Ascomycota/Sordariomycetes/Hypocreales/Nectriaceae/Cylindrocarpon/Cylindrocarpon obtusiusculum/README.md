@@ -1,5 +1,4 @@
-Cylindrocarpon obtusiusculum (Sacc.) U. Braun SPECIES
-=======
+# Cylindrocarpon obtusiusculum (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

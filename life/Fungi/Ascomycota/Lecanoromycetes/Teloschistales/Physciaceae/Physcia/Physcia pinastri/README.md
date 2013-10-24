@@ -1,5 +1,4 @@
-Physcia pinastri (Scop.) DC. SPECIES
-=======
+# Physcia pinastri (Scop.) DC. SPECIES
 
 #### Status
 ACCEPTED

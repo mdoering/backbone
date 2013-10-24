@@ -1,5 +1,4 @@
-Macrophoma azorici A.C. Santos SPECIES
-=======
+# Macrophoma azorici A.C. Santos SPECIES
 
 #### Status
 ACCEPTED

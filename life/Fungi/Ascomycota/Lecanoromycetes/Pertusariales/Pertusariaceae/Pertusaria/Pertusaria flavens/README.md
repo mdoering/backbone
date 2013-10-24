@@ -1,5 +1,4 @@
-Pertusaria flavens Nyl. SPECIES
-=======
+# Pertusaria flavens Nyl. SPECIES
 
 #### Status
 ACCEPTED

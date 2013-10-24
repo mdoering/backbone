@@ -1,5 +1,4 @@
-Haploravenelia pygmaea (Lagerh. & Dietel) Dietel SPECIES
-=======
+# Haploravenelia pygmaea (Lagerh. & Dietel) Dietel SPECIES
 
 #### Status
 ACCEPTED

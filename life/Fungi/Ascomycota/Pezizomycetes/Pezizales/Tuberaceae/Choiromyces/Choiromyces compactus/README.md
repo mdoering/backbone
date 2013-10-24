@@ -1,5 +1,4 @@
-Choiromyces compactus Gilkey SPECIES
-=======
+# Choiromyces compactus Gilkey SPECIES
 
 #### Status
 ACCEPTED

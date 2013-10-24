@@ -1,5 +1,4 @@
-Stereocaulon patagonicum I.M. Lamb SPECIES
-=======
+# Stereocaulon patagonicum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius soliformis Murrill SPECIES
-=======
+# Marasmius soliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

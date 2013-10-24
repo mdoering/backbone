@@ -1,5 +1,4 @@
-Hafellia pruinosa Marbach & Kalb SPECIES
-=======
+# Hafellia pruinosa Marbach & Kalb SPECIES
 
 #### Status
 ACCEPTED

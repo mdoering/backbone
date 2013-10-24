@@ -1,5 +1,4 @@
-Aphotistus fuscus Humb. SPECIES
-=======
+# Aphotistus fuscus Humb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera melanocoma Mont. & Bosch SPECIES
-=======
+# Peltigera melanocoma Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

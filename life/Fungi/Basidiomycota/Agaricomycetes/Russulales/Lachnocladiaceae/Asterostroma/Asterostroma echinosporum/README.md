@@ -1,5 +1,4 @@
-Asterostroma echinosporum Boidin, Lanq. & Gilles SPECIES
-=======
+# Asterostroma echinosporum Boidin, Lanq. & Gilles SPECIES
 
 #### Status
 ACCEPTED

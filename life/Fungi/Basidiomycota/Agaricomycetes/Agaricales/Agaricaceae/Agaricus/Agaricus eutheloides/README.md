@@ -1,5 +1,4 @@
-Agaricus eutheloides Peck SPECIES
-=======
+# Agaricus eutheloides Peck SPECIES
 
 #### Status
 ACCEPTED

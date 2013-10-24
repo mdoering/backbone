@@ -1,5 +1,4 @@
-Paxillus sulphureus Berk. SPECIES
-=======
+# Paxillus sulphureus Berk. SPECIES
 
 #### Status
 ACCEPTED

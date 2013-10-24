@@ -1,17 +1,16 @@
-Physoderma claytonianum var. claytonianum VARIETY
-=======
+# Physoderma claytonianum Greene SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Farlowia 1: 569 (1944)
 
 #### Original name
-null
+Physoderma claytonianum Greene
 
 ### Remarks
 null

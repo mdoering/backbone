@@ -1,5 +1,4 @@
-Aplosporella dalbergiae (Died.) Petr. & Syd. SPECIES
-=======
+# Aplosporella dalbergiae (Died.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

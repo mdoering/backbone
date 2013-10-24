@@ -1,5 +1,4 @@
-Lecidea leucococcoides Nyl. SPECIES
-=======
+# Lecidea leucococcoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

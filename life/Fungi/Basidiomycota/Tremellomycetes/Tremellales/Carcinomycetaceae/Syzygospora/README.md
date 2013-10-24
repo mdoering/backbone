@@ -1,17 +1,16 @@
-Heterocephalacria Berthier GENUS
-=======
+# Syzygospora G.W. Martin, 1937 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycotaxon 12(1): 114 (1980)
+null
 
 #### Original name
-Heterocephalacria Berthier
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Balcanella Tikhomirova, 1989 GENUS
-=======
+# Balcanella Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

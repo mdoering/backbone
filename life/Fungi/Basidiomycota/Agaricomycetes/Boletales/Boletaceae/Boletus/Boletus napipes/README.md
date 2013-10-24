@@ -1,5 +1,4 @@
-Boletus napipes F. Muell. SPECIES
-=======
+# Boletus napipes F. Muell. SPECIES
 
 #### Status
 ACCEPTED

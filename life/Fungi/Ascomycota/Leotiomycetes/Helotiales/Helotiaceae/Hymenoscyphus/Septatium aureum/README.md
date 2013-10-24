@@ -1,5 +1,4 @@
-Septatium aureum Velen. SPECIES
-=======
+# Septatium aureum Velen. SPECIES
 
 #### Status
 ACCEPTED

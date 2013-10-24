@@ -1,5 +1,4 @@
-Isaria cocoa Lloyd SPECIES
-=======
+# Isaria cocoa Lloyd SPECIES
 
 #### Status
 ACCEPTED

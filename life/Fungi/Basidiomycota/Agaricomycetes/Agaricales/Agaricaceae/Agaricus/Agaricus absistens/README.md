@@ -1,5 +1,4 @@
-Agaricus absistens Britzelm. SPECIES
-=======
+# Agaricus absistens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

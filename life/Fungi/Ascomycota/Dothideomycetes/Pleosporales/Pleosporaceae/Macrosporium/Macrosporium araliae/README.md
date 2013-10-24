@@ -1,5 +1,4 @@
-Macrosporium araliae Dearn. & House SPECIES
-=======
+# Macrosporium araliae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

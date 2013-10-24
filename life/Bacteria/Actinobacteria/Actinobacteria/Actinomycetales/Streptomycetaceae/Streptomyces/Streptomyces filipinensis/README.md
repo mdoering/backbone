@@ -1,5 +1,4 @@
-Streptomyces filipinensis Ammann et al., 1955 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces filipinensis Ammann et al., 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

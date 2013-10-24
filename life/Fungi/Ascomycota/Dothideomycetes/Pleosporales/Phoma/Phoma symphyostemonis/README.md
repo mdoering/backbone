@@ -1,8 +1,7 @@
-Phoma symphyostemi Speg. SPECIES
-=======
+# Phoma symphyostemonis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma symphyostemi Speg.
+Phoma symphyostemonis Speg.
 
 ### Remarks
 null

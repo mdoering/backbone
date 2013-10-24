@@ -1,5 +1,4 @@
-Hydrocybe minima Velen. SPECIES
-=======
+# Hydrocybe minima Velen. SPECIES
 
 #### Status
 ACCEPTED

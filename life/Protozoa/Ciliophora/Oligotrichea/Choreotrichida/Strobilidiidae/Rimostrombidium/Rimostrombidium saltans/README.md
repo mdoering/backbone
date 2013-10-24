@@ -1,5 +1,4 @@
-Rimostrombidium saltans SPECIES
-=======
+# Rimostrombidium saltans SPECIES
 
 #### Status
 ACCEPTED

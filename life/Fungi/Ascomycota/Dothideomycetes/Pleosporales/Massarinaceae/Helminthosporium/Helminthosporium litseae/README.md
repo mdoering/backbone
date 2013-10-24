@@ -1,17 +1,16 @@
-Helminthosporium litsae S. Chowdhury SPECIES
-=======
+# Helminthosporium litseae S. Chowdhury SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 18: 86 (1955)
 
 #### Original name
-Helminthosporium litsae S. Chowdhury
+Helminthosporium litseae S. Chowdhury
 
 ### Remarks
 null

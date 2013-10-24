@@ -1,5 +1,4 @@
-Cortinarius aspenensis Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius aspenensis Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

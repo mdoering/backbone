@@ -1,5 +1,4 @@
-Pyrenopsis phylliscella Nyl. SPECIES
-=======
+# Pyrenopsis phylliscella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulveroboletus flavipes (Berk.) E. Horak SPECIES
-=======
+# Pulveroboletus flavipes (Berk.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

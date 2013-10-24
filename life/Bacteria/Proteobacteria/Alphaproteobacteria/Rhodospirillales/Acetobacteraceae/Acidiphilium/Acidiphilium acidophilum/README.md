@@ -1,8 +1,7 @@
-Thiobacillus acidophilus (ex Guay & Silver, 1975) Harrison, 1983 SPECIES
-=======
+# Acidiphilium acidophilum (Harrison, 1983) Hiraishi et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

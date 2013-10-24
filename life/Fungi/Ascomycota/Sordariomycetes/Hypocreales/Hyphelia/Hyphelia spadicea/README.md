@@ -1,5 +1,4 @@
-Hyphelia spadicea Fr. SPECIES
-=======
+# Hyphelia spadicea Fr. SPECIES
 
 #### Status
 ACCEPTED

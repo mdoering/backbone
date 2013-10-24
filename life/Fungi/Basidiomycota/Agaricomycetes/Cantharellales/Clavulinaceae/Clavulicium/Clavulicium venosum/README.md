@@ -1,14 +1,13 @@
-Terana venosa (Berk. & Ravenel) Kuntze, 1891 SPECIES
-=======
+# Clavulicium venosum (Berk. & Ravenel) Ginns, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 873 (1891)
+Mycotaxon 44(1): 213 (1992)
 
 #### Original name
 null

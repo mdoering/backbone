@@ -1,5 +1,4 @@
-Stellechinatum tolontolum (Cramer, 1964) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Stellechinatum tolontolum (Cramer, 1964) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

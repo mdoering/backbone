@@ -1,5 +1,4 @@
-Cercospora lecheae Chupp & H.C. Greene SPECIES
-=======
+# Cercospora lecheae Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

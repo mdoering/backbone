@@ -1,5 +1,4 @@
-Agaricus stipularis Fr. SPECIES
-=======
+# Agaricus stipularis Fr. SPECIES
 
 #### Status
 ACCEPTED

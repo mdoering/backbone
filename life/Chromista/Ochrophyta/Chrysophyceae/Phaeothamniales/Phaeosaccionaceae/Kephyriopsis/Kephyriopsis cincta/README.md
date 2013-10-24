@@ -1,5 +1,4 @@
-Kephyriopsis cincta SPECIES
-=======
+# Kephyriopsis cincta SPECIES
 
 #### Status
 ACCEPTED

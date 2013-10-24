@@ -1,5 +1,4 @@
-Bryoria ambigua (Motyka) Bystrek & Fabisz. SPECIES
-=======
+# Bryoria ambigua (Motyka) Bystrek & Fabisz. SPECIES
 
 #### Status
 ACCEPTED

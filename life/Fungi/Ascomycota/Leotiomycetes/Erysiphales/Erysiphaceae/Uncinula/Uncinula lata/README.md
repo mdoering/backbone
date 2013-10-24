@@ -1,5 +1,4 @@
-Uncinula lata Y. Nomura & Tanda SPECIES
-=======
+# Uncinula lata Y. Nomura & Tanda SPECIES
 
 #### Status
 ACCEPTED

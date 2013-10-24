@@ -1,5 +1,4 @@
-Boletus ovalisporus Cleland & Cheel SPECIES
-=======
+# Boletus ovalisporus Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

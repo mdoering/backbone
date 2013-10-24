@@ -1,5 +1,4 @@
-Paxina GENUS
-=======
+# Paxina GENUS
 
 #### Status
 ACCEPTED

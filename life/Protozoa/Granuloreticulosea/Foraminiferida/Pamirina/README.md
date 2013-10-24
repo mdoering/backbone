@@ -1,5 +1,4 @@
-Pamirina Leven, 1970 GENUS
-=======
+# Pamirina Leven, 1970 GENUS
 
 #### Status
 ACCEPTED

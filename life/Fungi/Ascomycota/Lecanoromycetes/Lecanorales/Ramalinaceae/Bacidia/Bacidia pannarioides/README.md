@@ -1,5 +1,4 @@
-Bacidia pannarioides C. Knight SPECIES
-=======
+# Bacidia pannarioides C. Knight SPECIES
 
 #### Status
 ACCEPTED

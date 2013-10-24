@@ -1,5 +1,4 @@
-Agaricus martineziensis Heinem. SPECIES
-=======
+# Agaricus martineziensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

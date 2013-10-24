@@ -1,5 +1,4 @@
-Xylaria fockei (Miq.) Cooke SPECIES
-=======
+# Xylaria fockei (Miq.) Cooke SPECIES
 
 #### Status
 ACCEPTED

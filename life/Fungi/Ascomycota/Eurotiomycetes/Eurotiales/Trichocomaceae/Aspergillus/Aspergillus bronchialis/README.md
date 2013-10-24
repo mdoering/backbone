@@ -1,5 +1,4 @@
-Aspergillus bronchialis Blumentritt {?} SPECIES
-=======
+# Aspergillus bronchialis Blumentritt {?} SPECIES
 
 #### Status
 ACCEPTED

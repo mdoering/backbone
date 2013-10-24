@@ -1,5 +1,4 @@
-Aleurodiscus utahensis Lindsey & Gilb., 1983 SPECIES
-=======
+# Aleurodiscus utahensis Lindsey & Gilb., 1983 SPECIES
 
 #### Status
 ACCEPTED

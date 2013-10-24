@@ -1,5 +1,4 @@
-Hebeloma thomasianum Cooke SPECIES
-=======
+# Hebeloma thomasianum Cooke SPECIES
 
 #### Status
 ACCEPTED

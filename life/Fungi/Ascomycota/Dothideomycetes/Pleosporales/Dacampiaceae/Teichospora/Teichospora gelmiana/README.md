@@ -1,5 +1,4 @@
-Teichospora gelmiana Berl. & Bres. SPECIES
-=======
+# Teichospora gelmiana Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

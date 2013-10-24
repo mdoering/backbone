@@ -1,5 +1,4 @@
-Scutellinia torrentis (Rehm) T. Schumach. SPECIES
-=======
+# Scutellinia torrentis (Rehm) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

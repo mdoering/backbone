@@ -1,5 +1,4 @@
-Dicaeoma salviae (Tracy & Gall.) Kuntze SPECIES
-=======
+# Dicaeoma salviae (Tracy & Gall.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

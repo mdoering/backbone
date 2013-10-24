@@ -1,5 +1,4 @@
-Circulodinium hirtellum G. Alberti SPECIES
-=======
+# Circulodinium hirtellum G. Alberti SPECIES
 
 #### Status
 ACCEPTED

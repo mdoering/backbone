@@ -1,5 +1,4 @@
-Lecanora melanhaematica Hue SPECIES
-=======
+# Lecanora melanhaematica Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria bogia A.W. Archer & Elix SPECIES
-=======
+# Pertusaria bogia A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

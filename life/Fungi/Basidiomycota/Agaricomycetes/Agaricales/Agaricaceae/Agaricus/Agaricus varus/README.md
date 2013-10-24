@@ -1,5 +1,4 @@
-Agaricus varus Berk. SPECIES
-=======
+# Agaricus varus Berk. SPECIES
 
 #### Status
 ACCEPTED

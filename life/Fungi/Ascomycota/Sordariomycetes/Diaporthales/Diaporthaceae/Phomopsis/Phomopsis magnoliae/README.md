@@ -1,5 +1,4 @@
-Phomopsis magnoliae M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis magnoliae M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

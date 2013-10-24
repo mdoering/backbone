@@ -1,5 +1,4 @@
-Phloeospora chenopodii Ellis & Kellerm. SPECIES
-=======
+# Phloeospora chenopodii Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

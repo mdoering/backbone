@@ -1,5 +1,4 @@
-Odontia farinacea Ces. SPECIES
-=======
+# Odontia farinacea Ces. SPECIES
 
 #### Status
 ACCEPTED

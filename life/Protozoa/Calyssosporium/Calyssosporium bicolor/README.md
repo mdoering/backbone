@@ -1,5 +1,4 @@
-Calyssosporium bicolor Corda SPECIES
-=======
+# Calyssosporium bicolor Corda SPECIES
 
 #### Status
 ACCEPTED

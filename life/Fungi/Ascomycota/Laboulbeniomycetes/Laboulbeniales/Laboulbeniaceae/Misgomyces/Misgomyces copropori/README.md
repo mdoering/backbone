@@ -1,5 +1,4 @@
-Misgomyces copropori Thaxt. SPECIES
-=======
+# Misgomyces copropori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

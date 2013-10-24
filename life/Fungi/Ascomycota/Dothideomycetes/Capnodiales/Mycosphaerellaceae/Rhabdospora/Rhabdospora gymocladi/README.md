@@ -1,5 +1,4 @@
-Rhabdospora gymocladi Hollós SPECIES
-=======
+# Rhabdospora gymocladi Hollós SPECIES
 
 #### Status
 ACCEPTED

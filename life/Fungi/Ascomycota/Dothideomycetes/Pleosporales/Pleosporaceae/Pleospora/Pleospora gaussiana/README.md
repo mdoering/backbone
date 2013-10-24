@@ -1,5 +1,4 @@
-Pleospora gaussiana Henn. SPECIES
-=======
+# Pleospora gaussiana Henn. SPECIES
 
 #### Status
 ACCEPTED

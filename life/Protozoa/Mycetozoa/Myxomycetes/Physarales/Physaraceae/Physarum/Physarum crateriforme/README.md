@@ -1,17 +1,16 @@
-Physarum crateriforme var. columellatum (Nann.-Bremek. & Y. Yamam.) D.W. Mitch. VARIETY
-=======
+# Physarum crateriforme Petch, 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in McHugh, Stephenson, Mitchell & Brims, N. Z. Jl Bot. 41(3): 495 (2003)
+Ann. R. bot. Gdns Peradeniya 4: 304 (1909)
 
 #### Original name
-Physarum columellatum Nann.-Bremek. & Y. Yamam., 1987
+Physarum crateriforme Petch, 1909
 
 ### Remarks
 null

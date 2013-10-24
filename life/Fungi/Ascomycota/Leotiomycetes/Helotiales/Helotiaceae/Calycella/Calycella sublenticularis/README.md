@@ -1,17 +1,16 @@
-Helotium sublenticulare var. ferrugineum Killerm. VARIETY
-=======
+# Calycella sublenticularis (Hornem.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Helotium sublenticulare var. ferrugineum Killerm.
+null
 
 ### Remarks
 null

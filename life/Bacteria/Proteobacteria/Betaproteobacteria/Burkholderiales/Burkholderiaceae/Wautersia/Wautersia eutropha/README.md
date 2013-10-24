@@ -1,8 +1,7 @@
-Alcaligenes eutrophus Davis, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Wautersia eutropha (Davis, 1969) Vaneechoutte et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

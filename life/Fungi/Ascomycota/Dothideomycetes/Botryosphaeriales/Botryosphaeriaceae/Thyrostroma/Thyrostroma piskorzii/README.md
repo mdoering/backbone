@@ -1,5 +1,4 @@
-Thyrostroma piskorzii Petr. SPECIES
-=======
+# Thyrostroma piskorzii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cytosporella anonae A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Cytosporella annonae A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 16(3): 180 (1954)
 
 #### Original name
-Cytosporella anonae A.C. Santos & Sousa da Câmara
+Cytosporella annonae A.C. Santos & Sousa da Câmara
 
 ### Remarks
 null

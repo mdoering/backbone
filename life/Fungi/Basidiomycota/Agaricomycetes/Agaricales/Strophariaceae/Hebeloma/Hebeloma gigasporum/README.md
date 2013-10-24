@@ -1,5 +1,4 @@
-Hebeloma gigasporum (Cooke & Massee) Sacc. SPECIES
-=======
+# Hebeloma gigasporum (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

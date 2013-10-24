@@ -1,5 +1,4 @@
-Catapyrenium alvarense Breuss SPECIES
-=======
+# Catapyrenium alvarense Breuss SPECIES
 
 #### Status
 ACCEPTED

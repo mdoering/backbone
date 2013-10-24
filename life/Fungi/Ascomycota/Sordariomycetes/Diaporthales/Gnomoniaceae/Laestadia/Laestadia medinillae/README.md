@@ -1,5 +1,4 @@
-Laestadia medinillae Rangel SPECIES
-=======
+# Laestadia medinillae Rangel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum morifolium Hara SPECIES
-=======
+# Colletotrichum morifolium Hara SPECIES
 
 #### Status
 ACCEPTED

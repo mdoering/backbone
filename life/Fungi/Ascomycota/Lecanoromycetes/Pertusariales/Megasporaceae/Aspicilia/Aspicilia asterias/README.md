@@ -1,5 +1,4 @@
-Aspicilia asterias Mereschk. SPECIES
-=======
+# Aspicilia asterias Mereschk. SPECIES
 
 #### Status
 ACCEPTED

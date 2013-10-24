@@ -1,5 +1,4 @@
-Cortinarius caligatus f. caligatus Malençon FORM
-=======
+# Cortinarius caligatus Malençon SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Champignon Supérieurs du Maroc 1: 482 (1970)
 
 #### Original name
-Cortinarius caligatus f. caligatus Malençon
+Cortinarius caligatus Malençon
 
 ### Remarks
 null

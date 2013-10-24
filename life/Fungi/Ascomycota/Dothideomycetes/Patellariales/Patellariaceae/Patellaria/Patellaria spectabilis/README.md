@@ -1,5 +1,4 @@
-Patellaria spectabilis (Flörke) Wallr. SPECIES
-=======
+# Patellaria spectabilis (Flörke) Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pittierodothis miconiae Chardón SPECIES
-=======
+# Pittierodothis miconiae Chardón SPECIES
 
 #### Status
 ACCEPTED

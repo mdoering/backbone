@@ -1,5 +1,4 @@
-Corynespora leptoderridicola Deighton & M.B. Ellis, 1957 SPECIES
-=======
+# Corynespora leptoderridicola Deighton & M.B. Ellis, 1957 SPECIES
 
 #### Status
 ACCEPTED

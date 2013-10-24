@@ -1,5 +1,4 @@
-Pyxidiophora spinuliformis (Speg.) N. Lundq. SPECIES
-=======
+# Pyxidiophora spinuliformis (Speg.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

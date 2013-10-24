@@ -1,5 +1,4 @@
-Patellaria nigromarginata Fuckel SPECIES
-=======
+# Patellaria nigromarginata Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria luzulae G. Winter SPECIES
-=======
+# Leptosphaeria luzulae G. Winter SPECIES
 
 #### Status
 ACCEPTED

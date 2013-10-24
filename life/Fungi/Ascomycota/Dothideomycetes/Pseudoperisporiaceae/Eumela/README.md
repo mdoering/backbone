@@ -1,5 +1,4 @@
-Eumela Sydow, 1925 GENUS
-=======
+# Eumela Sydow, 1925 GENUS
 
 #### Status
 ACCEPTED

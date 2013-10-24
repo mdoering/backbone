@@ -1,5 +1,4 @@
-Rhizocarpon lusitanicum var. lusitanicum (Nyl.) Arnold VARIETY
-=======
+# Rhizocarpon lusitanicum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon lusitanicum var. lusitanicum (Nyl.) Arnold
+Lecidea lusitanica Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletellus retisporus (Pat. & Baker) Sing. SPECIES
-=======
+# Boletellus retisporus (Pat. & Baker) Sing. SPECIES
 
 #### Status
 ACCEPTED

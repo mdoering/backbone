@@ -1,17 +1,16 @@
-Stereum complicatum var. laceratum Peck VARIETY
-=======
+# Stereum complicatum (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 46: 137 (1894)
+Epicr. syst. mycol. (Upsaliae) 548 (1838)
 
 #### Original name
-Stereum complicatum var. laceratum Peck
+Thelephora complicata Fr., 1828
 
 ### Remarks
 null

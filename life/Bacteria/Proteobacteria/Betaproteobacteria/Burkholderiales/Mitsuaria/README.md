@@ -1,5 +1,4 @@
-Mitsuaria Amakata et al., 2005 GENUS
-=======
+# Mitsuaria Amakata et al., 2005 GENUS
 
 #### Status
 ACCEPTED

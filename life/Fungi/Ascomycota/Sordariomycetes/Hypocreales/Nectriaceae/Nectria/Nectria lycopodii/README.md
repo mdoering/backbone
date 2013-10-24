@@ -1,5 +1,4 @@
-Nectria lycopodii (Lév.) Sacc. SPECIES
-=======
+# Nectria lycopodii (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

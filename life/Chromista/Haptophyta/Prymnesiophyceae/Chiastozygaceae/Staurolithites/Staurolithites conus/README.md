@@ -1,5 +1,4 @@
-Staurolithites conus T. R. Worsley SPECIES
-=======
+# Staurolithites conus T. R. Worsley SPECIES
 
 #### Status
 ACCEPTED

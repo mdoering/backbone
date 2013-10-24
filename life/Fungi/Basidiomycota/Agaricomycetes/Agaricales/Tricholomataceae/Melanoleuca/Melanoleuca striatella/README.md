@@ -1,5 +1,4 @@
-Melanoleuca striatella Murrill SPECIES
-=======
+# Melanoleuca striatella Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermilacinia leopardina Spjut SPECIES
-=======
+# Vermilacinia leopardina Spjut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seimatosporium nipponicum Matsush. SPECIES
-=======
+# Seimatosporium nipponicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

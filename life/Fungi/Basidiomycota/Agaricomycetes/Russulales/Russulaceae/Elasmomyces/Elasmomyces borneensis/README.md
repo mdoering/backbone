@@ -1,5 +1,4 @@
-Elasmomyces borneensis (Petri) Zeller & C.W. Dodge SPECIES
-=======
+# Elasmomyces borneensis (Petri) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

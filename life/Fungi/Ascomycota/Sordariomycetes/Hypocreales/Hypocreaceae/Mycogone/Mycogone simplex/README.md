@@ -1,5 +1,4 @@
-Mycogone simplex Corda SPECIES
-=======
+# Mycogone simplex Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces tehuelches Speg. SPECIES
-=======
+# Uromyces tehuelches Speg. SPECIES
 
 #### Status
 ACCEPTED

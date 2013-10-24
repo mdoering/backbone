@@ -1,17 +1,16 @@
-Macrosporium antennaeforme Berk. & M.A. Curtis SPECIES
-=======
+# Sirosporium antenniforme (Berk. & M.A. Curtis) Bubák & Serebrian., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia, Beibl. 52: 273 (1912)
 
 #### Original name
-Macrosporium antennaeforme Berk. & M.A. Curtis
+Macrosporium antenniforme Berk. & M.A. Curtis, 1875
 
 ### Remarks
 null

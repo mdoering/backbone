@@ -1,5 +1,4 @@
-Peziza confluens var. confluens VARIETY
-=======
+# Peziza confluens Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza confluens var. confluens
+Peziza confluens Pers.
 
 ### Remarks
 null

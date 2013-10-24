@@ -1,5 +1,4 @@
-Pseudocolus schellenbergiae (Sumst.) A.E. Johnson SPECIES
-=======
+# Pseudocolus schellenbergiae (Sumst.) A.E. Johnson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellisiella trichocampta Sousa da Câmara SPECIES
-=======
+# Ellisiella trichocampta Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

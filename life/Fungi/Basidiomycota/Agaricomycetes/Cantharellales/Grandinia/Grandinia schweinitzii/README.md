@@ -1,5 +1,4 @@
-Grandinia schweinitzii Bres. SPECIES
-=======
+# Grandinia schweinitzii Bres. SPECIES
 
 #### Status
 ACCEPTED

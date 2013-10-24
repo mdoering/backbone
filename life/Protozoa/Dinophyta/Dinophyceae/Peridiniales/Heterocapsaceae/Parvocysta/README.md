@@ -1,5 +1,4 @@
-Parvocysta T.Bjaerke, 1980 GENUS
-=======
+# Parvocysta T.Bjaerke, 1980 GENUS
 
 #### Status
 ACCEPTED

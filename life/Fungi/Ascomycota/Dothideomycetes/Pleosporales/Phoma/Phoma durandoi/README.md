@@ -1,5 +1,4 @@
-Phoma durandoi Maire SPECIES
-=======
+# Phoma durandoi Maire SPECIES
 
 #### Status
 ACCEPTED

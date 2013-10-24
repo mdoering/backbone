@@ -1,5 +1,4 @@
-Hendersonia assans (Pass.) Kuntze SPECIES
-=======
+# Hendersonia assans (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

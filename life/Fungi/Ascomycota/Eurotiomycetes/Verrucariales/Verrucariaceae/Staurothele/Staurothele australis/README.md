@@ -1,5 +1,4 @@
-Staurothele australis Groenh. SPECIES
-=======
+# Staurothele australis Groenh. SPECIES
 
 #### Status
 ACCEPTED

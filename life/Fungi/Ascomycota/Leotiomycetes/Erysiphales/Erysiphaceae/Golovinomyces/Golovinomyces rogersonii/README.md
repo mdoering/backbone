@@ -1,5 +1,4 @@
-Golovinomyces rogersonii U. Braun SPECIES
-=======
+# Golovinomyces rogersonii U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olla striata (Gamundí & Giaiotti) Raitv. SPECIES
-=======
+# Olla striata (Gamundí & Giaiotti) Raitv. SPECIES
 
 #### Status
 ACCEPTED

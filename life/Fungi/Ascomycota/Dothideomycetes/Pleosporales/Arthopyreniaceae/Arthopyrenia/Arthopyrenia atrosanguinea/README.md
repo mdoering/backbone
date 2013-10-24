@@ -1,5 +1,4 @@
-Arthopyrenia atrosanguinea A. Massal. SPECIES
-=======
+# Arthopyrenia atrosanguinea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

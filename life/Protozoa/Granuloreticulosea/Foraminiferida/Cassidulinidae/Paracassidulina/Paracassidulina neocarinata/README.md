@@ -1,5 +1,4 @@
-Paracassidulina neocarinata (Thalman, 1950) SPECIES
-=======
+# Paracassidulina neocarinata (Thalman, 1950) SPECIES
 
 #### Status
 ACCEPTED

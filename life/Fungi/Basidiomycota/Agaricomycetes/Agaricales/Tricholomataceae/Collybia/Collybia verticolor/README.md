@@ -1,5 +1,4 @@
-Collybia verticolor Berk. & Broome SPECIES
-=======
+# Collybia verticolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces bicolor Ellis SPECIES
-=======
+# Uromyces bicolor Ellis SPECIES
 
 #### Status
 ACCEPTED

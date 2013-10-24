@@ -1,5 +1,4 @@
-Agaricus haedinus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus haedinus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

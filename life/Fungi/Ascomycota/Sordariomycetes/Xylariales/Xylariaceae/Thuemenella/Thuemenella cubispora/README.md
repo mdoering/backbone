@@ -1,5 +1,4 @@
-Thuemenella cubispora (Ellis & Holw.) Boedijn SPECIES
-=======
+# Thuemenella cubispora (Ellis & Holw.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

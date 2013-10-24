@@ -1,5 +1,4 @@
-Cercospora angustata Chupp & Solheim SPECIES
-=======
+# Cercospora angustata Chupp & Solheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporium giganteum Syd. SPECIES
-=======
+# Dictyosporium giganteum Syd. SPECIES
 
 #### Status
 ACCEPTED

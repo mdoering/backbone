@@ -1,5 +1,4 @@
-Amanita conicoverrucosa A.E. Wood SPECIES
-=======
+# Amanita conicoverrucosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

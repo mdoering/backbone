@@ -1,5 +1,4 @@
-Pseudobaeospora calcarea Clémençon & Ayer SPECIES
-=======
+# Pseudobaeospora calcarea Clémençon & Ayer SPECIES
 
 #### Status
 ACCEPTED

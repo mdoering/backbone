@@ -1,8 +1,7 @@
-Cystobia irregularis Minchin, 1893 SPECIES
-=======
+# Gonospora irregularis (Minchin, 1893) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

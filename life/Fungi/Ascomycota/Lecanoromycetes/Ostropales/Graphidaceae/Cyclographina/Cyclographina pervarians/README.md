@@ -1,14 +1,13 @@
-Helminthocarpon pervarians (Nyl.) Vain. SPECIES
-=======
+# Cyclographina pervarians (Nyl.) D.D. Awasthi & M. Joshi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Norw. Jl Bot. 26(3): 173 (1979)
 
 #### Original name
 Graphis pervarians Nyl.

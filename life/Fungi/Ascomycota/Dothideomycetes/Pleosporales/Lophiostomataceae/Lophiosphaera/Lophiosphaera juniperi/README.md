@@ -1,5 +1,4 @@
-Lophiosphaera juniperi Munk SPECIES
-=======
+# Lophiosphaera juniperi Munk SPECIES
 
 #### Status
 ACCEPTED

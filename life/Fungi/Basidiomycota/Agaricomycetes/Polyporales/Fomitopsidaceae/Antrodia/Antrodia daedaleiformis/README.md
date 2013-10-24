@@ -1,17 +1,16 @@
-Poria daedaliformis Henn. SPECIES
-=======
+# Antrodia daedaleiformis (Henn.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 250 (1980)
 
 #### Original name
-Poria daedaliformis Henn.
+Poria daedaleiformis Henn., 1900
 
 ### Remarks
 null

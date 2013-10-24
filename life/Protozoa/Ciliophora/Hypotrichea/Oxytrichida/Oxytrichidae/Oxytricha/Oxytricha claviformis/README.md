@@ -1,5 +1,4 @@
-Oxytricha claviformis Gelei, 1954 SPECIES
-=======
+# Oxytricha claviformis Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

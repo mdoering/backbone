@@ -1,5 +1,4 @@
-Sphaeria cotylyglossa Rebent. SPECIES
-=======
+# Sphaeria cotylyglossa Rebent. SPECIES
 
 #### Status
 ACCEPTED

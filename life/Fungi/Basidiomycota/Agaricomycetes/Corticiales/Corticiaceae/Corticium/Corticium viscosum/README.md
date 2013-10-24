@@ -1,17 +1,16 @@
-Corticium viscosum var. viscosum VARIETY
-=======
+# Corticium viscosum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 18 (1800)
+null
 
 #### Original name
-Corticium viscosum var. viscosum
+null
 
 ### Remarks
 null

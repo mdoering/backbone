@@ -1,14 +1,13 @@
-Verrucaria warmingii Kremp. SPECIES
-=======
+# Pyrenula warmingii (Kremp.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 5: 395 (1874)
+Flora, Jena 67: 664 (1884)
 
 #### Original name
 Verrucaria warmingii Kremp.

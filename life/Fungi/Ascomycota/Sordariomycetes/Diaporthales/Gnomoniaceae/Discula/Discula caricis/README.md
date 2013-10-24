@@ -1,5 +1,4 @@
-Discula caricis E.A. Ellis, 1941 SPECIES
-=======
+# Discula caricis E.A. Ellis, 1941 SPECIES
 
 #### Status
 ACCEPTED

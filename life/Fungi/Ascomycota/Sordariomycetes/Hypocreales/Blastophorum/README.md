@@ -1,5 +1,4 @@
-Blastophorum Matsush. GENUS
-=======
+# Blastophorum Matsush. GENUS
 
 #### Status
 ACCEPTED

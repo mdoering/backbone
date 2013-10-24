@@ -1,5 +1,4 @@
-Xanthoria tenax L. Lindblom SPECIES
-=======
+# Xanthoria tenax L. Lindblom SPECIES
 
 #### Status
 ACCEPTED

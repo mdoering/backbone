@@ -1,5 +1,4 @@
-Phlegmacium canolilacinum (Britzelm.) M.M. Moser SPECIES
-=======
+# Phlegmacium canolilacinum (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

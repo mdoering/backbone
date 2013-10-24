@@ -1,5 +1,4 @@
-Tephromela colensoica Rambold & Knoph SPECIES
-=======
+# Tephromela colensoica Rambold & Knoph SPECIES
 
 #### Status
 ACCEPTED

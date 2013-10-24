@@ -1,5 +1,4 @@
-Hypocrea megalosulphurea Yoshim. Doi SPECIES
-=======
+# Hypocrea megalosulphurea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

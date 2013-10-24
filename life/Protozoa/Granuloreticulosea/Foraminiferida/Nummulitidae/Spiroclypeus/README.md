@@ -1,5 +1,4 @@
-Spiroclypeus Douvillé, 1905 GENUS
-=======
+# Spiroclypeus Douvillé, 1905 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula exigua Müll. Arg. SPECIES
-=======
+# Pyrenula exigua Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

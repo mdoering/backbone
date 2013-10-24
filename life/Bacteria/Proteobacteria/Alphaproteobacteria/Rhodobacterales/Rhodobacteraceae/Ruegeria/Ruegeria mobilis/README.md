@@ -1,5 +1,4 @@
-Ruegeria mobilis Muramatsu, Uchino, Kasai, Suzuki & Nakagawa, 2007 SPECIES
-=======
+# Ruegeria mobilis Muramatsu, Uchino, Kasai, Suzuki & Nakagawa, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus vaginalis Embley et al., 1989 SPECIES
-=======
+# Lactobacillus vaginalis Embley et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrophora fimetaria (Link) Fr. SPECIES
-=======
+# Hydrophora fimetaria (Link) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocostaspora apilongissima E.B.G. Jones, R.G. Johnson & S.T. Moss, 1983 SPECIES
-=======
+# Ocostaspora apilongissima E.B.G. Jones, R.G. Johnson & S.T. Moss, 1983 SPECIES
 
 #### Status
 ACCEPTED

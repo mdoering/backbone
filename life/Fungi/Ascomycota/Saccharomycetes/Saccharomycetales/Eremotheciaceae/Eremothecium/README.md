@@ -1,17 +1,16 @@
-Spermophthora S.F. Ashby & W. Nowell GENUS
-=======
+# Eremothecium Borzí GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 40: 72 (1926)
+Nuovo Giorn. Bot. Ital. 20: 455 (1888)
 
 #### Original name
-Spermophthora S.F. Ashby & W. Nowell
+Eremothecium Borzí
 
 ### Remarks
 null

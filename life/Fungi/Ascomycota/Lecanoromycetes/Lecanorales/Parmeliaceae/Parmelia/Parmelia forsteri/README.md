@@ -1,5 +1,4 @@
-Parmelia forsteri Leight. SPECIES
-=======
+# Parmelia forsteri Leight. SPECIES
 
 #### Status
 ACCEPTED

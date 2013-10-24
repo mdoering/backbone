@@ -1,5 +1,4 @@
-Phytophthora agaves Gandara SPECIES
-=======
+# Phytophthora agaves Gandara SPECIES
 
 #### Status
 ACCEPTED

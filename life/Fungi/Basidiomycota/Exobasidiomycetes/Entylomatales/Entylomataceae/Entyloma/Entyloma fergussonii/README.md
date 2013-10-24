@@ -1,17 +1,16 @@
-Cylindrosporium myosotidis f. myosotidis FORM
-=======
+# Entyloma fergussonii (Berk. & Broome) Plowr., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 533 (1879)
+British Ured. & Ustilag. 289 (1889)
 
 #### Original name
-Cylindrosporium myosotidis f. myosotidis
+Protomyces fergussonii Berk. & Broome, 1875
 
 ### Remarks
 null

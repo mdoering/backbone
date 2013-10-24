@@ -1,5 +1,4 @@
-Stokesiella cavanillesiana P. González SPECIES
-=======
+# Stokesiella cavanillesiana P. González SPECIES
 
 #### Status
 ACCEPTED

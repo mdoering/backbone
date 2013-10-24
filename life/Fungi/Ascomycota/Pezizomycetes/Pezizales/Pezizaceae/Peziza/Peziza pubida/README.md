@@ -1,5 +1,4 @@
-Peziza pubida Berk. & M.A. Curtis SPECIES
-=======
+# Peziza pubida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

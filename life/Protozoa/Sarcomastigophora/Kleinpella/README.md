@@ -1,5 +1,4 @@
-Kleinpella Finger & Lipps in Finger, Lipps, Weaver & Miller, 1990 GENUS
-=======
+# Kleinpella Finger & Lipps in Finger, Lipps, Weaver & Miller, 1990 GENUS
 
 #### Status
 ACCEPTED

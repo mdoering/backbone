@@ -1,5 +1,4 @@
-Leptospora dematium Hazsl. SPECIES
-=======
+# Leptospora dematium Hazsl. SPECIES
 
 #### Status
 ACCEPTED

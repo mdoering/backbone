@@ -1,5 +1,4 @@
-Fomes livescens Speg. SPECIES
-=======
+# Fomes livescens Speg. SPECIES
 
 #### Status
 ACCEPTED

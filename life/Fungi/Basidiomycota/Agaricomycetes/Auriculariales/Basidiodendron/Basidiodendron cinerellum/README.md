@@ -1,5 +1,4 @@
-Basidiodendron cinerellum (Bourdot & Galzin) P. Roberts SPECIES
-=======
+# Basidiodendron cinerellum (Bourdot & Galzin) P. Roberts SPECIES
 
 #### Status
 ACCEPTED

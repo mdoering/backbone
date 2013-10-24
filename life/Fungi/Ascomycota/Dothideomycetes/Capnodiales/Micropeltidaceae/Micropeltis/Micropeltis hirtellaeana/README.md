@@ -1,5 +1,4 @@
-Micropeltis hirtellaeana Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis hirtellaeana Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

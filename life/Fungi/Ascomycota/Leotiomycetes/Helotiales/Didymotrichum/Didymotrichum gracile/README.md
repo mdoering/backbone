@@ -1,5 +1,4 @@
-Didymotrichum gracile (Corda) Bonord. SPECIES
-=======
+# Didymotrichum gracile (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

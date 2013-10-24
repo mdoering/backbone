@@ -1,5 +1,4 @@
-Meliola knoxiae Petr. SPECIES
-=======
+# Meliola knoxiae Petr. SPECIES
 
 #### Status
 ACCEPTED

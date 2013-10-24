@@ -1,5 +1,4 @@
-Parmelia zahlbruckneri Lynge SPECIES
-=======
+# Parmelia zahlbruckneri Lynge SPECIES
 
 #### Status
 ACCEPTED

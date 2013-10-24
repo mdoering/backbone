@@ -1,5 +1,4 @@
-Acanthopleuribacteraceae Fukunaga, Kurahashi, Yanagi, Yokota & Harayama, 2008 FAMILY
-=======
+# Acanthopleuribacteraceae Fukunaga, Kurahashi, Yanagi, Yokota & Harayama, 2008 FAMILY
 
 #### Status
 ACCEPTED

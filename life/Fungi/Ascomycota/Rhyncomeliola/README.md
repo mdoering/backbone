@@ -1,5 +1,4 @@
-Rhyncomeliola Spegazzini, 1884 GENUS
-=======
+# Rhyncomeliola Spegazzini, 1884 GENUS
 
 #### Status
 ACCEPTED

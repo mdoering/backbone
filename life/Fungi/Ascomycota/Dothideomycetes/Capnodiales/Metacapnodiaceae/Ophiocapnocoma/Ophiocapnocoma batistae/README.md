@@ -1,5 +1,4 @@
-Ophiocapnocoma batistae S. Hughes, 1967 SPECIES
-=======
+# Ophiocapnocoma batistae S. Hughes, 1967 SPECIES
 
 #### Status
 ACCEPTED

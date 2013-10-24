@@ -1,5 +1,4 @@
-Glugea vincentiae Vagelli, Parama, Sanmartin & Leiro, 2005 SPECIES
-=======
+# Glugea vincentiae Vagelli, Parama, Sanmartin & Leiro, 2005 SPECIES
 
 #### Status
 ACCEPTED

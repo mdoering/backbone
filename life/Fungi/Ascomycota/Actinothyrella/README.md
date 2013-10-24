@@ -1,5 +1,4 @@
-Actinothyrella Edward, Kr.P. Singh, S.C. Tripathi, M.K. Sinha & Ranade GENUS
-=======
+# Actinothyrella Edward, Kr.P. Singh, S.C. Tripathi, M.K. Sinha & Ranade GENUS
 
 #### Status
 ACCEPTED

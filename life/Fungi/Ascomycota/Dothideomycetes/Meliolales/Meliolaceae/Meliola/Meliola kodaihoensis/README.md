@@ -1,5 +1,4 @@
-Meliola kodaihoensis W. Yamam. SPECIES
-=======
+# Meliola kodaihoensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

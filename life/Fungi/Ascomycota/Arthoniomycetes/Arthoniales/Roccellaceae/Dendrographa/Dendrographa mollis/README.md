@@ -1,5 +1,4 @@
-Dendrographa mollis (Hampe) M. Choisy SPECIES
-=======
+# Dendrographa mollis (Hampe) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

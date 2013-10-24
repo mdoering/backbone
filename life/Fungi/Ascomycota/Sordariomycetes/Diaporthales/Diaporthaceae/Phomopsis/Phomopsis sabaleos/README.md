@@ -1,5 +1,4 @@
-Phomopsis sabaleos (Ces.) Bond.-Mont. SPECIES
-=======
+# Phomopsis sabaleos (Ces.) Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

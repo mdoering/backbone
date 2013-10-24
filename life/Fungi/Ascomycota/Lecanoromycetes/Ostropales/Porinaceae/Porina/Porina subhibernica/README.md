@@ -1,5 +1,4 @@
-Porina subhibernica Upreti SPECIES
-=======
+# Porina subhibernica Upreti SPECIES
 
 #### Status
 ACCEPTED

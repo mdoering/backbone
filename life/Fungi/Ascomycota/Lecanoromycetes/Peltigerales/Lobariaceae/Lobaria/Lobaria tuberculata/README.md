@@ -1,5 +1,4 @@
-Lobaria tuberculata Yoshim. SPECIES
-=======
+# Lobaria tuberculata Yoshim. SPECIES
 
 #### Status
 ACCEPTED

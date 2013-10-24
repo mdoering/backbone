@@ -1,5 +1,4 @@
-Trochila potentillae Rostr. SPECIES
-=======
+# Trochila potentillae Rostr. SPECIES
 
 #### Status
 ACCEPTED

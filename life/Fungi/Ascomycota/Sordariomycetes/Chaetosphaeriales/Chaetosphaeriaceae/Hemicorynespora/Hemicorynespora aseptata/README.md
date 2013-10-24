@@ -1,5 +1,4 @@
-Hemicorynespora aseptata Hol.-Jech. SPECIES
-=======
+# Hemicorynespora aseptata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

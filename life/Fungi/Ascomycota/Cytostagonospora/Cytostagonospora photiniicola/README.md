@@ -1,5 +1,4 @@
-Cytostagonospora photiniicola Bubák, 1916 SPECIES
-=======
+# Cytostagonospora photiniicola Bubák, 1916 SPECIES
 
 #### Status
 ACCEPTED

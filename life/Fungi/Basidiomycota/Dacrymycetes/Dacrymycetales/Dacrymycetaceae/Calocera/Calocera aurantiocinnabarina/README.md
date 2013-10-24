@@ -1,5 +1,4 @@
-Calocera aurantiocinnabarina (Speg.) Sacc. SPECIES
-=======
+# Calocera aurantiocinnabarina (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

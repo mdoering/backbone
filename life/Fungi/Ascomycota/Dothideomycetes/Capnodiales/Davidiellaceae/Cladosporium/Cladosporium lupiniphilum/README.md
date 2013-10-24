@@ -1,5 +1,4 @@
-Cladosporium lupiniphilum U. Braun, 1998 SPECIES
-=======
+# Cladosporium lupiniphilum U. Braun, 1998 SPECIES
 
 #### Status
 ACCEPTED

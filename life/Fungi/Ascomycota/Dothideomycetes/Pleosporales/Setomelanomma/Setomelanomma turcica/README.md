@@ -1,17 +1,16 @@
-Luttrellia turcica (Pass.) Khokhr. SPECIES
-=======
+# Setomelanomma turcica (Luttr.) K.J. Leonard & Suggs, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gornostai in Azbukina et al. (Eds), Vodorosli, Griby i Mkhi Dal'nego Vostoka (Vladivostok) 81 (1978)
+null
 
 #### Original name
-Helminthosporium turcicum Pass.
+null
 
 ### Remarks
 null

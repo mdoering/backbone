@@ -1,5 +1,4 @@
-Lizonia polytrichi-pilosi Döbbeler SPECIES
-=======
+# Lizonia polytrichi-pilosi Döbbeler SPECIES
 
 #### Status
 ACCEPTED

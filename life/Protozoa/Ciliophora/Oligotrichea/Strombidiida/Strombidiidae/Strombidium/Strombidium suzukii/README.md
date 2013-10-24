@@ -1,5 +1,4 @@
-Strombidium suzukii Xu, Warren & Song, 2009 SPECIES
-=======
+# Strombidium suzukii Xu, Warren & Song, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria malaleuca Kunze SPECIES
-=======
+# Sphaeria malaleuca Kunze SPECIES
 
 #### Status
 ACCEPTED

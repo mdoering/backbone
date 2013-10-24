@@ -1,14 +1,13 @@
-Myriosclerotinia longisclerotialis (Whetzel) N.F. Buchw., 1949 SPECIES
-=======
+# Sclerotinia longisclerotialis Whetzel, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. VetHojsk. Aarsskr. 32: 156 (1949)
+Mycologia 21(1): 28 (1929)
 
 #### Original name
 Sclerotinia longisclerotialis Whetzel, 1929

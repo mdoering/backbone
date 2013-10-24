@@ -1,5 +1,4 @@
-Hauerina occidentalis SPECIES
-=======
+# Hauerina occidentalis SPECIES
 
 #### Status
 ACCEPTED

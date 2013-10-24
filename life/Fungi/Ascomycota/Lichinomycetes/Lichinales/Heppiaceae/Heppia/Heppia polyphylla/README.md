@@ -1,5 +1,4 @@
-Heppia polyphylla B. de Lesd. SPECIES
-=======
+# Heppia polyphylla B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

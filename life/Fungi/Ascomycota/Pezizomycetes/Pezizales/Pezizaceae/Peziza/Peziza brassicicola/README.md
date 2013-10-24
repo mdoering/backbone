@@ -1,8 +1,7 @@
-Peziza brassicaecola Berk. SPECIES
-=======
+# Peziza brassicicola Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza brassicaecola Berk.
+Peziza brassicicola Berk.
 
 ### Remarks
 null

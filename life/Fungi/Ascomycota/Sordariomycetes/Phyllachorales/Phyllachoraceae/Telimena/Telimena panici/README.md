@@ -1,5 +1,4 @@
-Telimena panici Theiss. & Syd., 1915 SPECIES
-=======
+# Telimena panici Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

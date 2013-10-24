@@ -1,14 +1,13 @@
-Brevicellopsis allantospora (Hjortstam & Ryvarden) Hjortstam & Ryvarden, 2008 SPECIES
-=======
+# Brevicellicium allantosporum Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. 25: 15 (2008)
+Mycotaxon 12(1): 170 (1980)
 
 #### Original name
 Brevicellicium allantosporum Hjortstam & Ryvarden, 1980

@@ -1,5 +1,4 @@
-Stromatostysanus pungens (Wallr.) U. Braun SPECIES
-=======
+# Stromatostysanus pungens (Wallr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cheiromycina flabelliformis B. Sutton, 1986 SPECIES
-=======
+# Cheiromycina flabelliformis B. Sutton, 1986 SPECIES
 
 #### Status
 ACCEPTED

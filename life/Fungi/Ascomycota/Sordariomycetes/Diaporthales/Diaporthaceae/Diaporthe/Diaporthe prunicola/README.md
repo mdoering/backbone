@@ -1,5 +1,4 @@
-Diaporthe prunicola (Peck) Wehm. SPECIES
-=======
+# Diaporthe prunicola (Peck) Wehm. SPECIES
 
 #### Status
 ACCEPTED

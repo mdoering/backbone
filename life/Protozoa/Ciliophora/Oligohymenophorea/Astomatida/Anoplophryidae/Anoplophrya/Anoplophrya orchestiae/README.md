@@ -1,5 +1,4 @@
-Anoplophrya orchestiae SPECIES
-=======
+# Anoplophrya orchestiae SPECIES
 
 #### Status
 ACCEPTED

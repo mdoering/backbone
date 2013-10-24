@@ -1,14 +1,13 @@
-Omphalia pyxidata var. rivulicola J. Favre, 1955 VARIETY
-=======
+# Omphalina rivulicola (J. Favre) Lamoure SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ergebn. wiss. Unters. schweiz. NatnParks 5: 33 (1955)
+null
 
 #### Original name
 Omphalia pyxidata var. rivulicola J. Favre, 1955

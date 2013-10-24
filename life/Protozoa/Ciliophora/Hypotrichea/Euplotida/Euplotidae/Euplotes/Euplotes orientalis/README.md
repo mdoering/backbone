@@ -1,5 +1,4 @@
-Euplotes orientalis Jiang, Zhang, Warren, Al-Rasheid & Song, 2009 SPECIES
-=======
+# Euplotes orientalis Jiang, Zhang, Warren, Al-Rasheid & Song, 2009 SPECIES
 
 #### Status
 ACCEPTED

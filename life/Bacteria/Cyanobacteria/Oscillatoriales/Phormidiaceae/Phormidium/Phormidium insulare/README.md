@@ -1,5 +1,4 @@
-Phormidium insulare (N. L. Gardner) P. A. C. Senna & P. Compère SPECIES
-=======
+# Phormidium insulare (N. L. Gardner) P. A. C. Senna & P. Compère SPECIES
 
 #### Status
 ACCEPTED

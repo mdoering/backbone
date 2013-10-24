@@ -1,5 +1,4 @@
-Pintospora Carini, 1944 GENUS
-=======
+# Pintospora Carini, 1944 GENUS
 
 #### Status
 ACCEPTED

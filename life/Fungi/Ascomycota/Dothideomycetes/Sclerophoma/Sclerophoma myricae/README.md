@@ -1,5 +1,4 @@
-Sclerophoma myricae Died. SPECIES
-=======
+# Sclerophoma myricae Died. SPECIES
 
 #### Status
 ACCEPTED

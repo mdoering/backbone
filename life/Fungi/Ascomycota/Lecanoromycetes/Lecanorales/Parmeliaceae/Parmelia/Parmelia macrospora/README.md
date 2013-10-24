@@ -1,5 +1,4 @@
-Parmelia macrospora J.D. Zhao SPECIES
-=======
+# Parmelia macrospora J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

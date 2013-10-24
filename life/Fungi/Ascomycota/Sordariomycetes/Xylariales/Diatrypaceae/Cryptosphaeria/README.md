@@ -1,17 +1,16 @@
-Cryptosphaerina Lambotte & Fautrey ex Sacc. & P. Syd. GENUS
-=======
+# Cryptosphaeria Cesati & De Notaris, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 521 (1902)
+Comm. Soc. crittog. Ital. 1(4): 231 (1863)
 
 #### Original name
-Cryptosphaerina Lambotte & Fautrey ex Sacc. & P. Syd.
+Cryptosphaeria Cesati & De Notaris, 1853
 
 ### Remarks
 null

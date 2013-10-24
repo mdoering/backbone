@@ -1,17 +1,16 @@
-Protendomycopsis Windisch GENUS
-=======
+# Trichosporon Behrend GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Biol. Pfl. 41: 355 (1965)
+Berliner Klin. Wochenschr. 21: 464 (1890)
 
 #### Original name
-Protendomycopsis Windisch
+Trichosporon Behrend
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota cristatoides Einhell. SPECIES
-=======
+# Lepiota cristatoides Einhell. SPECIES
 
 #### Status
 ACCEPTED

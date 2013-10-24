@@ -1,5 +1,4 @@
-Hypoxylon hughesii Y.M. Ju & J.D. Rogers, 1996 SPECIES
-=======
+# Hypoxylon hughesii Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
 ACCEPTED

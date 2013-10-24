@@ -1,5 +1,4 @@
-Depazea stachydicola Lasch SPECIES
-=======
+# Depazea stachydicola Lasch SPECIES
 
 #### Status
 ACCEPTED

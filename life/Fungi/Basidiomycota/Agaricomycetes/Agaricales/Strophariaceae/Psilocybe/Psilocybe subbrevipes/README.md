@@ -1,5 +1,4 @@
-Psilocybe subbrevipes A.H. Sm. & Hesler SPECIES
-=======
+# Psilocybe subbrevipes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

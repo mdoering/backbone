@@ -1,5 +1,4 @@
-Phyllosticta clusiae Allesch. SPECIES
-=======
+# Phyllosticta clusiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

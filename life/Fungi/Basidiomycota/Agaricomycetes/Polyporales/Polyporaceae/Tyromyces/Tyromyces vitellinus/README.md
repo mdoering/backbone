@@ -1,5 +1,4 @@
-Tyromyces vitellinus Ryvarden & Hauskn. SPECIES
-=======
+# Tyromyces vitellinus Ryvarden & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

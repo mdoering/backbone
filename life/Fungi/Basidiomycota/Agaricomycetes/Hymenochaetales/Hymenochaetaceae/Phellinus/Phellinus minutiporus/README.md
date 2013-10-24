@@ -1,5 +1,4 @@
-Phellinus minutiporus Bondartseva & S. Herrera, 1980 SPECIES
-=======
+# Phellinus minutiporus Bondartseva & S. Herrera, 1980 SPECIES
 
 #### Status
 ACCEPTED

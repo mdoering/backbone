@@ -1,5 +1,4 @@
-Mycenoporella GENUS
-=======
+# Mycenoporella GENUS
 
 #### Status
 ACCEPTED

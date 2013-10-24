@@ -1,5 +1,4 @@
-Septoria pulchella Berk. & M.A. Curtis SPECIES
-=======
+# Septoria pulchella Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

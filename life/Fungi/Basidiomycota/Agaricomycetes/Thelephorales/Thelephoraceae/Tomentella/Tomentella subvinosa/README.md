@@ -1,14 +1,13 @@
-Hypochnus subvinosus Burt, 1916 SPECIES
-=======
+# Tomentella subvinosa (Burt) Bourdot & Galzin, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 3: 231 (1916)
+Bull. trimest. Soc. mycol. Fr. 40(2): 146 (1924)
 
 #### Original name
 Hypochnus subvinosus Burt, 1916

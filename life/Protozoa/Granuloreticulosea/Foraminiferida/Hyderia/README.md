@@ -1,5 +1,4 @@
-Hyderia Haque, 1962 GENUS
-=======
+# Hyderia Haque, 1962 GENUS
 
 #### Status
 ACCEPTED

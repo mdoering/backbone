@@ -1,5 +1,4 @@
-Helicomyces Link GENUS
-=======
+# Helicomyces Link GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea stenholmii H. Magn. SPECIES
-=======
+# Lecidea stenholmii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

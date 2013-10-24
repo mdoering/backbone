@@ -1,5 +1,4 @@
-Lachnum helotiiforme Velen. SPECIES
-=======
+# Lachnum helotiiforme Velen. SPECIES
 
 #### Status
 ACCEPTED

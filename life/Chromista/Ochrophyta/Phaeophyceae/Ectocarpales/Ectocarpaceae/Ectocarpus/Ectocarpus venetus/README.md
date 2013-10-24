@@ -1,5 +1,4 @@
-Ectocarpus venetus Kützing SPECIES
-=======
+# Ectocarpus venetus Kützing SPECIES
 
 #### Status
 ACCEPTED

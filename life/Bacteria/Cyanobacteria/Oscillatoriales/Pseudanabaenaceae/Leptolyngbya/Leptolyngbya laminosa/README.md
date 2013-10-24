@@ -1,8 +1,7 @@
-Phormidium laminosum (C.Agardh) ex Gomont SPECIES
-=======
+# Leptolyngbya laminosa (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Synchytrium linderniae S. Ito SPECIES
-=======
+# Synchytrium linderniae S. Ito SPECIES
 
 #### Status
 ACCEPTED

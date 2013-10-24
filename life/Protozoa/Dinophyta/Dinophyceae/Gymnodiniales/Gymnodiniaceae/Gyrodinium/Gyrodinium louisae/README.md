@@ -1,5 +1,4 @@
-Gyrodinium louisae Conrad & Kufferath SPECIES
-=======
+# Gyrodinium louisae Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

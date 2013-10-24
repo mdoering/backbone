@@ -1,5 +1,4 @@
-Psathyra cinchonensis Murrill SPECIES
-=======
+# Psathyra cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

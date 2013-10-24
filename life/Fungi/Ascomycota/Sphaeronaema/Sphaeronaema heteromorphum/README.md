@@ -1,5 +1,4 @@
-Sphaeronaema heteromorphum Durieu & Mont. SPECIES
-=======
+# Sphaeronaema heteromorphum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

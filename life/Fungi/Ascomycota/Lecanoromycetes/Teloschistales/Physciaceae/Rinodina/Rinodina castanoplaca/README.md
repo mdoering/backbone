@@ -1,5 +1,4 @@
-Rinodina castanoplaca (Nyl.) H. Olivier SPECIES
-=======
+# Rinodina castanoplaca (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

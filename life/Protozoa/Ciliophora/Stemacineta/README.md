@@ -1,5 +1,4 @@
-Stemacineta Yankovskii, 1978 GENUS
-=======
+# Stemacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

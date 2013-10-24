@@ -1,5 +1,4 @@
-Schizopeltis coutareae Bat. & I.H. Lima SPECIES
-=======
+# Schizopeltis coutareae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

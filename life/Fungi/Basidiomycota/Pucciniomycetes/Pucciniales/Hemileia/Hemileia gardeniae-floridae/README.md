@@ -1,5 +1,4 @@
-Hemileia gardeniae-floridae Sawada SPECIES
-=======
+# Hemileia gardeniae-floridae Sawada SPECIES
 
 #### Status
 ACCEPTED

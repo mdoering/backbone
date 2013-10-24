@@ -1,5 +1,4 @@
-Microthyriella domingensis Cif. SPECIES
-=======
+# Microthyriella domingensis Cif. SPECIES
 
 #### Status
 ACCEPTED

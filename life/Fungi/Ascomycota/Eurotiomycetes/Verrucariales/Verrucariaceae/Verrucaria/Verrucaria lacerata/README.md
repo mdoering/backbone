@@ -1,5 +1,4 @@
-Verrucaria lacerata Servít SPECIES
-=======
+# Verrucaria lacerata Servít SPECIES
 
 #### Status
 ACCEPTED

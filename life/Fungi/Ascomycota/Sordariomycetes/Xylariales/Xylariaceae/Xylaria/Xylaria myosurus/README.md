@@ -1,5 +1,4 @@
-Xylaria myosurus Mont., 1855 SPECIES
-=======
+# Xylaria myosurus Mont., 1855 SPECIES
 
 #### Status
 ACCEPTED

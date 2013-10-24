@@ -1,5 +1,4 @@
-Dimerium sasae Hara SPECIES
-=======
+# Dimerium sasae Hara SPECIES
 
 #### Status
 ACCEPTED

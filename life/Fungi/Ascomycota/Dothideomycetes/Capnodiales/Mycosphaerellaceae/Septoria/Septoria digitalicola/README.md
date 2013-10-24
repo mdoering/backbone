@@ -1,5 +1,4 @@
-Septoria digitalicola Unamuno SPECIES
-=======
+# Septoria digitalicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

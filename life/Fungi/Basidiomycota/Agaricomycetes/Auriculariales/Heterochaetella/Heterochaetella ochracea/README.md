@@ -1,5 +1,4 @@
-Heterochaetella ochracea Viégas SPECIES
-=======
+# Heterochaetella ochracea Viégas SPECIES
 
 #### Status
 ACCEPTED

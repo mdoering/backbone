@@ -1,17 +1,16 @@
-Niesslia anacardiae Sathe & K.M. Mogarkar SPECIES
-=======
+# Niesslia anacardii Sathe & K.M. Mogarkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 10(1-2): 13 (1975)
 
 #### Original name
-Niesslia anacardiae Sathe & K.M. Mogarkar
+Niesslia anacardii Sathe & K.M. Mogarkar
 
 ### Remarks
 null

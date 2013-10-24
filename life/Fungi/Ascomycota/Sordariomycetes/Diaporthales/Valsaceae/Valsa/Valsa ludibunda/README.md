@@ -1,5 +1,4 @@
-Valsa ludibunda Sacc. SPECIES
-=======
+# Valsa ludibunda Sacc. SPECIES
 
 #### Status
 ACCEPTED

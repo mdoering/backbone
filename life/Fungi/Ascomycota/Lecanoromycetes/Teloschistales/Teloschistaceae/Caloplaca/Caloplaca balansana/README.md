@@ -1,5 +1,4 @@
-Caloplaca balansana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca balansana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

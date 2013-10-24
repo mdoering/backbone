@@ -1,5 +1,4 @@
-Chaetomium macrosporum Sacc. & Penz. SPECIES
-=======
+# Chaetomium macrosporum Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

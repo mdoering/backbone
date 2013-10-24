@@ -1,5 +1,4 @@
-Hysterium macrosporum Teng, 1933 SPECIES
-=======
+# Hysterium macrosporum Teng, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phlegmacium volvatum (A.H. Sm.) M.M. Moser, 1960 SPECIES
-=======
+# Cortinarius volvatus A.H. Sm., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Gatt. Phlegm. 216 (1960)
+Contr. Univ. Mich. Herb. 2: 12 (1939)
 
 #### Original name
 Cortinarius volvatus A.H. Sm., 1939

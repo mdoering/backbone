@@ -1,5 +1,4 @@
-Teichospora morthieri Fuckel SPECIES
-=======
+# Teichospora morthieri Fuckel SPECIES
 
 #### Status
 ACCEPTED

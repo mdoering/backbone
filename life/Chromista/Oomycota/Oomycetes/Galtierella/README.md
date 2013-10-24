@@ -1,5 +1,4 @@
-Galtierella M. Krings, T.N. Taylor, N. Dotzler & A.L. Decombeix, 2010 GENUS
-=======
+# Galtierella M. Krings, T.N. Taylor, N. Dotzler & A.L. Decombeix, 2010 GENUS
 
 #### Status
 ACCEPTED

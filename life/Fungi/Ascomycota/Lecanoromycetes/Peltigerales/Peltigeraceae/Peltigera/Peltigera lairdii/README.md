@@ -1,17 +1,16 @@
-Peltigera lairdi C.W. Dodge & E.D. Rudolph SPECIES
-=======
+# Peltigera lairdii C.W. Dodge & E.D. Rudolph SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 42: 138 (1955)
 
 #### Original name
-Peltigera lairdi C.W. Dodge & E.D. Rudolph
+Peltigera lairdii C.W. Dodge & E.D. Rudolph
 
 ### Remarks
 null

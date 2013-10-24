@@ -1,5 +1,4 @@
-Sinophysis Nie & Wang, 1944 GENUS
-=======
+# Sinophysis Nie & Wang, 1944 GENUS
 
 #### Status
 ACCEPTED

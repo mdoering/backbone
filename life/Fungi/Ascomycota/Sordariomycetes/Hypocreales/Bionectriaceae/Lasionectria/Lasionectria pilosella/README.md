@@ -1,5 +1,4 @@
-Lasionectria pilosella Oudem. & Fautrey SPECIES
-=======
+# Lasionectria pilosella Oudem. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

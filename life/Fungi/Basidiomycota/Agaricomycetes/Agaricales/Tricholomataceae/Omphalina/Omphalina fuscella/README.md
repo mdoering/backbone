@@ -1,5 +1,4 @@
-Omphalina fuscella Quél. SPECIES
-=======
+# Omphalina fuscella Quél. SPECIES
 
 #### Status
 ACCEPTED

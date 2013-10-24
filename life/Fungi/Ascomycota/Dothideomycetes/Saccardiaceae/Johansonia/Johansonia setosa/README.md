@@ -1,8 +1,7 @@
-Ravenelula setosa G. Winter, 1885 SPECIES
-=======
+# Johansonia setosa (G. Winter) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Mycovellosiella delicatissima (Kalchbr. & Cooke) U. Braun SPECIES
-=======
+# Mycovellosiella delicatissima (Kalchbr. & Cooke) U. Braun SPECIES
 
 #### Status
 ACCEPTED

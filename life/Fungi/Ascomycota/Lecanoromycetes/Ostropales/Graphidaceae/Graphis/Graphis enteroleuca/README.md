@@ -1,5 +1,4 @@
-Graphis enteroleuca Ach. SPECIES
-=======
+# Graphis enteroleuca Ach. SPECIES
 
 #### Status
 ACCEPTED

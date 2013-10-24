@@ -1,5 +1,4 @@
-Myrmecocystis cerebriformis Harkn. SPECIES
-=======
+# Myrmecocystis cerebriformis Harkn. SPECIES
 
 #### Status
 ACCEPTED

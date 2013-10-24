@@ -1,5 +1,4 @@
-Mycoderma saprogenes-sake Takah. SPECIES
-=======
+# Mycoderma saprogenes-sake Takah. SPECIES
 
 #### Status
 ACCEPTED

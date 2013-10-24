@@ -1,5 +1,4 @@
-Ornatisporites M.G. Parsons & G. Norris, 1999 GENUS
-=======
+# Ornatisporites M.G. Parsons & G. Norris, 1999 GENUS
 
 #### Status
 ACCEPTED

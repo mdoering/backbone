@@ -1,5 +1,4 @@
-Inocybe holophaea (Fr.) P. Karst. SPECIES
-=======
+# Inocybe holophaea (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

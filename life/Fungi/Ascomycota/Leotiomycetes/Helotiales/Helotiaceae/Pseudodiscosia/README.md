@@ -1,5 +1,4 @@
-Pseudodiscosia GENUS
-=======
+# Pseudodiscosia GENUS
 
 #### Status
 ACCEPTED

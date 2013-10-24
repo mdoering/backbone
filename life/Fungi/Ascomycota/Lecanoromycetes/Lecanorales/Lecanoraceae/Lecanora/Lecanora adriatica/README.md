@@ -1,5 +1,4 @@
-Lecanora adriatica Zahlbr. SPECIES
-=======
+# Lecanora adriatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

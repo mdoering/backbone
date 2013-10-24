@@ -1,5 +1,4 @@
-Mackenziea livistonae Yanna & K.D. Hyde SPECIES
-=======
+# Mackenziea livistonae Yanna & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

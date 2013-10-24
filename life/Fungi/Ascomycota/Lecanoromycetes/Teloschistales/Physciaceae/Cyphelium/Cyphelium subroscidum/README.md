@@ -1,5 +1,4 @@
-Cyphelium subroscidum Eitner SPECIES
-=======
+# Cyphelium subroscidum Eitner SPECIES
 
 #### Status
 ACCEPTED

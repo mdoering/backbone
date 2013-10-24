@@ -1,5 +1,4 @@
-Corethromyces elegans Maire SPECIES
-=======
+# Corethromyces elegans Maire SPECIES
 
 #### Status
 ACCEPTED

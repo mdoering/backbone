@@ -1,5 +1,4 @@
-Gelatinopycnis Dyko & B. Sutton GENUS
-=======
+# Gelatinopycnis Dyko & B. Sutton GENUS
 
 #### Status
 ACCEPTED

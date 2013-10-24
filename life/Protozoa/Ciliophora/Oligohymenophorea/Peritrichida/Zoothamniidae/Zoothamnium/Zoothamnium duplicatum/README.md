@@ -1,5 +1,4 @@
-Zoothamnium duplicatum Kahl, 1933 SPECIES
-=======
+# Zoothamnium duplicatum Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

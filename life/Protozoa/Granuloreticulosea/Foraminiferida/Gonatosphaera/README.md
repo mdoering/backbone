@@ -1,5 +1,4 @@
-Gonatosphaera Guppy, 1895 GENUS
-=======
+# Gonatosphaera Guppy, 1895 GENUS
 
 #### Status
 ACCEPTED

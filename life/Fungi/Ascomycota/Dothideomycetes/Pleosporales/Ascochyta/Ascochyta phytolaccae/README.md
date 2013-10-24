@@ -1,5 +1,4 @@
-Ascochyta phytolaccae Sacc. & Scalia SPECIES
-=======
+# Ascochyta phytolaccae Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

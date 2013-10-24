@@ -1,5 +1,4 @@
-Caenomorpha lauterborni Kahl, 1927 SPECIES
-=======
+# Caenomorpha lauterborni Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

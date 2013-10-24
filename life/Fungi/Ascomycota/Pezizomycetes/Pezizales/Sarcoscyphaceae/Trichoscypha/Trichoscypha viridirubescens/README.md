@@ -1,5 +1,4 @@
-Trichoscypha viridirubescens (R.G. Bagn.) Sacc. SPECIES
-=======
+# Trichoscypha viridirubescens (R.G. Bagn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

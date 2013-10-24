@@ -1,5 +1,4 @@
-Mycosphaerella holopteleae Naphade SPECIES
-=======
+# Mycosphaerella holopteleae Naphade SPECIES
 
 #### Status
 ACCEPTED

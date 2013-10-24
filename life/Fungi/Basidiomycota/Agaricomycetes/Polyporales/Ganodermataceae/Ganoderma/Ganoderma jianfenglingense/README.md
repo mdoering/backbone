@@ -1,5 +1,4 @@
-Ganoderma jianfenglingense X.L. Wu, 1996 SPECIES
-=======
+# Ganoderma jianfenglingense X.L. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

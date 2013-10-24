@@ -1,5 +1,4 @@
-Spinophenia Szczechura, 1969 GENUS
-=======
+# Spinophenia Szczechura, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria margaritae Vanev & Sameva SPECIES
-=======
+# Septoria margaritae Vanev & Sameva SPECIES
 
 #### Status
 ACCEPTED

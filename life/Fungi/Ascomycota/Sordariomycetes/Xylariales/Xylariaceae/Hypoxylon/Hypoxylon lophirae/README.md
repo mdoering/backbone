@@ -1,5 +1,4 @@
-Hypoxylon lophirae (C. Ciccar.) C. Ciccar. SPECIES
-=======
+# Hypoxylon lophirae (C. Ciccar.) C. Ciccar. SPECIES
 
 #### Status
 ACCEPTED

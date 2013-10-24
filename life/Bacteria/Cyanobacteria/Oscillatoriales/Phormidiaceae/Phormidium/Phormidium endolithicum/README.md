@@ -1,5 +1,4 @@
-Phormidium endolithicum Ercegovic, 1932 SPECIES
-=======
+# Phormidium endolithicum Ercegovic, 1932 SPECIES
 
 #### Status
 ACCEPTED

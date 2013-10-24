@@ -1,5 +1,4 @@
-Cortinarius perlaetissimus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius perlaetissimus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

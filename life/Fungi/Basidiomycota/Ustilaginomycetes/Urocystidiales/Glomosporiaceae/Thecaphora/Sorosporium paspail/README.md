@@ -1,5 +1,4 @@
-Sorosporium paspail McAlp. SPECIES
-=======
+# Sorosporium paspail McAlp. SPECIES
 
 #### Status
 DOUBTFUL

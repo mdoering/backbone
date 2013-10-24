@@ -1,5 +1,4 @@
-Dimerella africana Vezda SPECIES
-=======
+# Dimerella africana Vezda SPECIES
 
 #### Status
 ACCEPTED

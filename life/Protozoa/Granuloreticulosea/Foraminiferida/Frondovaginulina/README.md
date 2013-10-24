@@ -1,5 +1,4 @@
-Frondovaginulina Schubert, 1912 GENUS
-=======
+# Frondovaginulina Schubert, 1912 GENUS
 
 #### Status
 ACCEPTED

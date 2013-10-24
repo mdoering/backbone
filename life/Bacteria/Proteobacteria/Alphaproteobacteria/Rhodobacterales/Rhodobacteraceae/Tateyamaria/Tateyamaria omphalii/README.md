@@ -1,5 +1,4 @@
-Tateyamaria omphalii Kurahashi & Yokota, 2008 SPECIES
-=======
+# Tateyamaria omphalii Kurahashi & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

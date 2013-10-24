@@ -1,5 +1,4 @@
-Marasmiellus albuscorticis (Secr.) Singer SPECIES
-=======
+# Marasmiellus albuscorticis (Secr.) Singer SPECIES
 
 #### Status
 ACCEPTED

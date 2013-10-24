@@ -1,5 +1,4 @@
-Ascochyta moeszii Smarods SPECIES
-=======
+# Ascochyta moeszii Smarods SPECIES
 
 #### Status
 ACCEPTED

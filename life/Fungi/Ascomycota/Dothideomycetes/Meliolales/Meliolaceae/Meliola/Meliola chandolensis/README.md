@@ -1,5 +1,4 @@
-Meliola chandolensis C.R. Patil ex Hosag. SPECIES
-=======
+# Meliola chandolensis C.R. Patil ex Hosag. SPECIES
 
 #### Status
 ACCEPTED

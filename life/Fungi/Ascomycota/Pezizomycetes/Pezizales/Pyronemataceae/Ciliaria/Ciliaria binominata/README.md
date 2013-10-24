@@ -1,8 +1,7 @@
-Sphaerospora binominata Massee SPECIES
-=======
+# Ciliaria binominata (Massee) Boud. ex Ramsb., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

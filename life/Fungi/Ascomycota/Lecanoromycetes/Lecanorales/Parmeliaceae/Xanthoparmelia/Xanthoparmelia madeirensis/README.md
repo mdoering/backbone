@@ -1,5 +1,4 @@
-Xanthoparmelia madeirensis Elix & Schumm SPECIES
-=======
+# Xanthoparmelia madeirensis Elix & Schumm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudonectria sulphurata (Ellis & Everh.) Seaver SPECIES
-=======
+# Pseudonectria sulphurata (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

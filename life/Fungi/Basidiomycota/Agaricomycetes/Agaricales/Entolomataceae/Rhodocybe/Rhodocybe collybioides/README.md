@@ -1,5 +1,4 @@
-Rhodocybe collybioides Singer SPECIES
-=======
+# Rhodocybe collybioides Singer SPECIES
 
 #### Status
 ACCEPTED

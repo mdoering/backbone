@@ -1,5 +1,4 @@
-Dimerosporina arecae R. Menon SPECIES
-=======
+# Dimerosporina arecae R. Menon SPECIES
 
 #### Status
 ACCEPTED

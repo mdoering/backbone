@@ -1,5 +1,4 @@
-Cylindrosporium lactucicola Ellis & Everh. SPECIES
-=======
+# Cylindrosporium lactucicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Richoniella Costantin & L.M. Dufour GENUS
-=======
+# Richoniella Costantin & L.M. Dufour GENUS
 
 #### Status
 ACCEPTED

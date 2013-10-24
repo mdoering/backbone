@@ -1,5 +1,4 @@
-Pluteus aethalus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pluteus aethalus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

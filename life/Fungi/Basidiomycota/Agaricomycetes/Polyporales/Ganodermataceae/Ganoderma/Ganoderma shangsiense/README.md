@@ -1,5 +1,4 @@
-Ganoderma shangsiense J.D. Zhao, 1988 SPECIES
-=======
+# Ganoderma shangsiense J.D. Zhao, 1988 SPECIES
 
 #### Status
 ACCEPTED

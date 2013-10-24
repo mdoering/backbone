@@ -1,5 +1,4 @@
-Phoma sambucicola P. Karst. SPECIES
-=======
+# Phoma sambucicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

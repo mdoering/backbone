@@ -1,5 +1,4 @@
-Cryptothecia javanica Groenh. SPECIES
-=======
+# Cryptothecia javanica Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemileia cumminsii Ritschel SPECIES
-=======
+# Hemileia cumminsii Ritschel SPECIES
 
 #### Status
 ACCEPTED

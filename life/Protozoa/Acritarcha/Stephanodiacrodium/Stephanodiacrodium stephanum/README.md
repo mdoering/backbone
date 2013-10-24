@@ -1,5 +1,4 @@
-Stephanodiacrodium stephanum (Vavrdová, 1976) Vavrdová, 1986 SPECIES
-=======
+# Stephanodiacrodium stephanum (Vavrdová, 1976) Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

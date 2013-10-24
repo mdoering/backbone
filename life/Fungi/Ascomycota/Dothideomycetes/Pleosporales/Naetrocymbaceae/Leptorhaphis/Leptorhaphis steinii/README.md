@@ -1,5 +1,4 @@
-Leptorhaphis steinii Körb. SPECIES
-=======
+# Leptorhaphis steinii Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium syringae Schwein. SPECIES
-=======
+# Hysterium syringae Schwein. SPECIES
 
 #### Status
 ACCEPTED

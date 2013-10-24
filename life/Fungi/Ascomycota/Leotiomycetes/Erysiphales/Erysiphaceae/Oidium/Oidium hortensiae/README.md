@@ -1,5 +1,4 @@
-Oidium hortensiae Jørst., 1925 SPECIES
-=======
+# Oidium hortensiae Jørst., 1925 SPECIES
 
 #### Status
 ACCEPTED

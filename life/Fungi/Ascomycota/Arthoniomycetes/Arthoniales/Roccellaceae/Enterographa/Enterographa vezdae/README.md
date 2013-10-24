@@ -1,17 +1,16 @@
-Enterographa vezdai Sparrius SPECIES
-=======
+# Enterographa vezdae Sparrius SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 89: 63 (2004)
 
 #### Original name
-Enterographa vezdai Sparrius
+Enterographa effusa (Fée) A. Massal.
 
 ### Remarks
 null

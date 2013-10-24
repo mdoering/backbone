@@ -1,5 +1,4 @@
-Petersenia palmariae Van der Meer & Pueschel, 1985 SPECIES
-=======
+# Petersenia palmariae Van der Meer & Pueschel, 1985 SPECIES
 
 #### Status
 ACCEPTED

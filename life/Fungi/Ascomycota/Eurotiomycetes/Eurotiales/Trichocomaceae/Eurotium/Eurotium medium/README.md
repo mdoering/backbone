@@ -1,5 +1,4 @@
-Eurotium medium C.F.W. Meissn., 1897 SPECIES
-=======
+# Eurotium medium C.F.W. Meissn., 1897 SPECIES
 
 #### Status
 ACCEPTED

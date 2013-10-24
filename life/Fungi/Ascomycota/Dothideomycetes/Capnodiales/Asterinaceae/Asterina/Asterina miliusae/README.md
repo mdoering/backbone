@@ -1,5 +1,4 @@
-Asterina miliusae Hosag. & C.K. Biju, 2004 SPECIES
-=======
+# Asterina miliusae Hosag. & C.K. Biju, 2004 SPECIES
 
 #### Status
 ACCEPTED

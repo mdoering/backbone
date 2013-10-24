@@ -1,5 +1,4 @@
-Cortinarius minicaninus Rob. Henry SPECIES
-=======
+# Cortinarius minicaninus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

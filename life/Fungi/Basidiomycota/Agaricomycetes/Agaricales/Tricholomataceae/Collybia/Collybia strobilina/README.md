@@ -1,5 +1,4 @@
-Collybia strobilina Velen. SPECIES
-=======
+# Collybia strobilina Velen. SPECIES
 
 #### Status
 ACCEPTED

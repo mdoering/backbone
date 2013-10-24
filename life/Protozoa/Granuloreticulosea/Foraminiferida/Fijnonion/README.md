@@ -1,5 +1,4 @@
-Fijnonion GENUS
-=======
+# Fijnonion GENUS
 
 #### Status
 ACCEPTED

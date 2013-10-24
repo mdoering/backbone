@@ -1,5 +1,4 @@
-Marasmius venustus Hino {?} SPECIES
-=======
+# Marasmius venustus Hino {?} SPECIES
 
 #### Status
 ACCEPTED

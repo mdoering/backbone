@@ -1,17 +1,16 @@
-Arthonia tumidula var. tumidula VARIETY
-=======
+# Arthonia cinnabarina (DC.) Wallr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues J. Bot. 1: 11 (1806)
+Fl. crypt. Germ. (Nürnberg) 3: 320 (1831)
 
 #### Original name
-Spiloma tumidula Ach.
+Coniocarpon cinnabarinum DC.
 
 ### Remarks
 null

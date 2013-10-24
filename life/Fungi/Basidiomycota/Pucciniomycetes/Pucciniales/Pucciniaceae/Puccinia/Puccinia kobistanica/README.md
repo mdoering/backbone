@@ -1,5 +1,4 @@
-Puccinia kobistanica Uljan. SPECIES
-=======
+# Puccinia kobistanica Uljan. SPECIES
 
 #### Status
 ACCEPTED

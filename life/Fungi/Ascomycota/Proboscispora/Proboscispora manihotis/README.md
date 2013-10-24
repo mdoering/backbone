@@ -1,5 +1,4 @@
-Proboscispora manihotis Punith., 1984 SPECIES
-=======
+# Proboscispora manihotis Punith., 1984 SPECIES
 
 #### Status
 ACCEPTED

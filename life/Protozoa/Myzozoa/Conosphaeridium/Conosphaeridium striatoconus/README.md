@@ -1,5 +1,4 @@
-Conosphaeridium striatoconus (Deflandre & Cookson, 1955) Cookson & Eisenack SPECIES
-=======
+# Conosphaeridium striatoconus (Deflandre & Cookson, 1955) Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

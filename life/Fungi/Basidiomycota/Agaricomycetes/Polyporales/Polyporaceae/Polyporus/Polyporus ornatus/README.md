@@ -1,5 +1,4 @@
-Polyporus ornatus Peck SPECIES
-=======
+# Polyporus ornatus Peck SPECIES
 
 #### Status
 ACCEPTED

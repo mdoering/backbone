@@ -1,5 +1,4 @@
-Didymosphaeria dimastospora Sousa da Câmara SPECIES
-=======
+# Didymosphaeria dimastospora Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

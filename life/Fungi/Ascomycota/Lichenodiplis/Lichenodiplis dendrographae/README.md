@@ -1,5 +1,4 @@
-Lichenodiplis dendrographae Diederich & van den Boom SPECIES
-=======
+# Lichenodiplis dendrographae Diederich & van den Boom SPECIES
 
 #### Status
 ACCEPTED

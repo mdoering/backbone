@@ -1,5 +1,4 @@
-Capsosira brebissonii Kützing ex Bornet & Flahault SPECIES
-=======
+# Capsosira brebissonii Kützing ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

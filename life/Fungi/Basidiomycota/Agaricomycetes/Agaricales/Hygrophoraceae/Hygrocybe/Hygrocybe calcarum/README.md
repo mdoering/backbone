@@ -1,5 +1,4 @@
-Hygrocybe calcarum Gröger SPECIES
-=======
+# Hygrocybe calcarum Gröger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus illitus With. SPECIES
-=======
+# Agaricus illitus With. SPECIES
 
 #### Status
 ACCEPTED

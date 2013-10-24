@@ -1,5 +1,4 @@
-Spiculogloea subminuta Hauerslev, 1999 SPECIES
-=======
+# Spiculogloea subminuta Hauerslev, 1999 SPECIES
 
 #### Status
 ACCEPTED

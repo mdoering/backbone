@@ -1,14 +1,13 @@
-Helotium floridianum Redhead, 1982 SPECIES
-=======
+# Lactocollybia albida (Murrill) Singer, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(10): 2005 (1982)
+Agaric. mod. Tax. (Koenigstein), Edn 4 282 (1986)
 
 #### Original name
 Gymnopus albidus Murrill, 1939

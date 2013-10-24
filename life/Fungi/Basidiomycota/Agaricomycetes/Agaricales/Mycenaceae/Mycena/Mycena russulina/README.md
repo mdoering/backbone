@@ -1,5 +1,4 @@
-Mycena russulina Berk. SPECIES
-=======
+# Mycena russulina Berk. SPECIES
 
 #### Status
 ACCEPTED

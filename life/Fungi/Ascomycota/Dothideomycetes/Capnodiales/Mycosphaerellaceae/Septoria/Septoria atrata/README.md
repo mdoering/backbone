@@ -1,5 +1,4 @@
-Septoria atrata Roberge SPECIES
-=======
+# Septoria atrata Roberge SPECIES
 
 #### Status
 ACCEPTED

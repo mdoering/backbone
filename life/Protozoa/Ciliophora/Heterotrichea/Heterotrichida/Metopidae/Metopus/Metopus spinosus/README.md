@@ -1,5 +1,4 @@
-Metopus spinosus Kahl, 1927 SPECIES
-=======
+# Metopus spinosus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

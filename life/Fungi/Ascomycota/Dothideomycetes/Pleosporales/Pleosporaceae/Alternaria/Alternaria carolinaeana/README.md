@@ -1,5 +1,4 @@
-Alternaria carolinaeana Unamuno SPECIES
-=======
+# Alternaria carolinaeana Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia megatherium P. Syd. & Syd. SPECIES
-=======
+# Puccinia megatherium P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

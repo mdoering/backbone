@@ -1,5 +1,4 @@
-Synedra aggregata Brébisson SPECIES
-=======
+# Synedra aggregata Brébisson SPECIES
 
 #### Status
 ACCEPTED

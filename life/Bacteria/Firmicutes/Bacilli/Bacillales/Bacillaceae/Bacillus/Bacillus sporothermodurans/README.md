@@ -1,5 +1,4 @@
-Bacillus sporothermodurans Pettersson et al., 1996 SPECIES
-=======
+# Bacillus sporothermodurans Pettersson et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopentalastrum Kozur & Mostler, 1978 GENUS
-=======
+# Pseudopentalastrum Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

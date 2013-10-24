@@ -1,14 +1,13 @@
-Microthelia subconodea (E. Bommer, M. Rousseau & Sacc.) Kuntze SPECIES
-=======
+# Microthelia subconoidea (E. Bommer, M. Rousseau & Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 498 (1898)
 
 #### Original name
 Didymosphaeria subconoidea E. Bommer, M. Rousseau & Sacc.

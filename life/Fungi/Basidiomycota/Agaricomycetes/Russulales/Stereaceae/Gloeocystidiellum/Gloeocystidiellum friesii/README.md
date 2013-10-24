@@ -1,5 +1,4 @@
-Gloeocystidiellum friesii S. Lundell SPECIES
-=======
+# Gloeocystidiellum friesii S. Lundell SPECIES
 
 #### Status
 ACCEPTED

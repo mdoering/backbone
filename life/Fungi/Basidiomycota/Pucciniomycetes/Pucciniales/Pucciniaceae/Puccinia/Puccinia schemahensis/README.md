@@ -1,5 +1,4 @@
-Puccinia schemahensis Uljan. SPECIES
-=======
+# Puccinia schemahensis Uljan. SPECIES
 
 #### Status
 ACCEPTED

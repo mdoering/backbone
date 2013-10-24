@@ -1,5 +1,4 @@
-Odontia irpicoidea Rick SPECIES
-=======
+# Odontia irpicoidea Rick SPECIES
 
 #### Status
 ACCEPTED

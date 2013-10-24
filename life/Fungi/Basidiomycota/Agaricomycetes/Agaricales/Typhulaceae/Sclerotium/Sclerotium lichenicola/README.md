@@ -1,5 +1,4 @@
-Sclerotium lichenicola Svendsen {?} SPECIES
-=======
+# Sclerotium lichenicola Svendsen {?} SPECIES
 
 #### Status
 ACCEPTED

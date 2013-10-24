@@ -1,5 +1,4 @@
-Pleospora aceris-tatarici Sandu SPECIES
-=======
+# Pleospora aceris-tatarici Sandu SPECIES
 
 #### Status
 ACCEPTED

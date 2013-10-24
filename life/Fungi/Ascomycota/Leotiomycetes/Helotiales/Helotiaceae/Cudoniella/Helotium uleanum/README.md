@@ -1,5 +1,4 @@
-Helotium uleanum (Rehm) Dennis SPECIES
-=======
+# Helotium uleanum (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

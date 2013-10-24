@@ -1,5 +1,4 @@
-Penicillium duninii Sidibe SPECIES
-=======
+# Penicillium duninii Sidibe SPECIES
 
 #### Status
 ACCEPTED

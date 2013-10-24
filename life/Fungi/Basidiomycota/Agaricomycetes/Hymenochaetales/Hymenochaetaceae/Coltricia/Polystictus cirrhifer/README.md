@@ -1,8 +1,7 @@
-Polystictus cirrhiferum Berk. SPECIES
-=======
+# Polystictus cirrhifer Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

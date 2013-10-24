@@ -1,5 +1,4 @@
-Ascomyces fulgens Cooke & Harkn. SPECIES
-=======
+# Ascomyces fulgens Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pselaphidomyces pselapti Speg., 1917 SPECIES
-=======
+# Pselaphidomyces pselapti Speg., 1917 SPECIES
 
 #### Status
 ACCEPTED

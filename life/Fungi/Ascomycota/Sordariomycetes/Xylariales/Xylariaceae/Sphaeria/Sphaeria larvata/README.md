@@ -1,5 +1,4 @@
-Sphaeria larvata Fr. SPECIES
-=======
+# Sphaeria larvata Fr. SPECIES
 
 #### Status
 ACCEPTED

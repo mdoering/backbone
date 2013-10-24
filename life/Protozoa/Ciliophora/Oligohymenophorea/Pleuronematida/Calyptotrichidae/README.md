@@ -1,5 +1,4 @@
-Calyptotrichidae Small & Lynn, 1985 FAMILY
-=======
+# Calyptotrichidae Small & Lynn, 1985 FAMILY
 
 #### Status
 ACCEPTED

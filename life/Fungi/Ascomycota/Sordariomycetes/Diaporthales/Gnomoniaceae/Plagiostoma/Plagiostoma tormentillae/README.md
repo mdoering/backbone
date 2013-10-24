@@ -1,17 +1,16 @@
-Gnomoniopsis tormentillae (Lind) Sogonov, 2008 SPECIES
-=======
+# Plagiostoma tormentillae (Lind) Bolay, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 81: 436 (1972)
 
 #### Original name
-null
+Gnomoniella tormentillae Lind, 1928
 
 ### Remarks
 null

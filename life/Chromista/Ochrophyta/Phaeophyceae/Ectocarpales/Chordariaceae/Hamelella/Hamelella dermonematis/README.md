@@ -1,8 +1,7 @@
-Ectocarpus dermonematis Børgesen SPECIES
-=======
+# Hamelella dermonematis (Børgesen) K. Srinivasan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

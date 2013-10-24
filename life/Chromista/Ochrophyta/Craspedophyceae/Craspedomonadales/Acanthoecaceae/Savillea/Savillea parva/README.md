@@ -1,11 +1,10 @@
-Ellisiella parva Norris, 1965 SPECIES
-=======
+# Savillea parva (Ellis, 1930) Loeblich Iii, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

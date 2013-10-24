@@ -1,14 +1,13 @@
-Verrucaria argilospila Nyl. SPECIES
-=======
+# Pyrenocollema argilospilum (Nyl.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 57: 15 (1874)
+Lichenologist 24(4): 368 (1992)
 
 #### Original name
 Verrucaria argilospila Nyl.

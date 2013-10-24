@@ -1,5 +1,4 @@
-Cortinarius collybioides Reumaux SPECIES
-=======
+# Cortinarius collybioides Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota pyrocephala (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota pyrocephala (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

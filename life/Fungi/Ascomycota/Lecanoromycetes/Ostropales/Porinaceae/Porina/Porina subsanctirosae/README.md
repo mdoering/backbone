@@ -1,5 +1,4 @@
-Porina subsanctirosae Makhija, Adaw. & Patw. SPECIES
-=======
+# Porina subsanctirosae Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

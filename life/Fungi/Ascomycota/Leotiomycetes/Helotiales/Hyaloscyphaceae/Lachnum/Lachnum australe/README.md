@@ -1,5 +1,4 @@
-Lachnum australe (Speg.) Gamundí SPECIES
-=======
+# Lachnum australe (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

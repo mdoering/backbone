@@ -1,5 +1,4 @@
-Phyllachora nervisequens (Lingelsh.) Petr., 1929 SPECIES
-=======
+# Phyllachora nervisequens (Lingelsh.) Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Phyllosticta bumeliae Underw. & Earle SPECIES
-=======
+# Phyllosticta bumeliae Underw. & Earle SPECIES
 
 #### Status
 ACCEPTED

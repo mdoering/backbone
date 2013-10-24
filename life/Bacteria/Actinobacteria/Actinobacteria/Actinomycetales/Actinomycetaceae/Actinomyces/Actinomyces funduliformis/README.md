@@ -1,5 +1,4 @@
-Actinomyces funduliformis Sartory, R. Sartory & Bouteille SPECIES
-=======
+# Actinomyces funduliformis Sartory, R. Sartory & Bouteille SPECIES
 
 #### Status
 ACCEPTED

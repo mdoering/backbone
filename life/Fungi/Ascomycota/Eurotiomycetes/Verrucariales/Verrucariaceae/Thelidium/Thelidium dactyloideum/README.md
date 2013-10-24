@@ -1,5 +1,4 @@
-Thelidium dactyloideum Arnold SPECIES
-=======
+# Thelidium dactyloideum Arnold SPECIES
 
 #### Status
 ACCEPTED

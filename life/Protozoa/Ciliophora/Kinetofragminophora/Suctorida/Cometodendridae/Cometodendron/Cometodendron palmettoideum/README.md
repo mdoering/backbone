@@ -1,5 +1,4 @@
-Cometodendron palmettoideum Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron palmettoideum Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

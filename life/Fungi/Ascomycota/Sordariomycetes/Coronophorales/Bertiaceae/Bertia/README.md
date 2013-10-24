@@ -1,5 +1,4 @@
-Bertia De Notaris, 1844 GENUS
-=======
+# Bertia De Notaris, 1844 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria byssotecta Rehm SPECIES
-=======
+# Nectria byssotecta Rehm SPECIES
 
 #### Status
 ACCEPTED

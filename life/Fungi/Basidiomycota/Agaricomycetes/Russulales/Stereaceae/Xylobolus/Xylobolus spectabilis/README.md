@@ -1,17 +1,16 @@
-Stereogloeocystidium radiatofissum (Berk. & Broome) Rick, 1940 SPECIES
-=======
+# Xylobolus spectabilis (Klotzsch) Boidin, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 23: 341 (1958)
 
 #### Original name
-null
+Stereum spectabile Klotzsch, 1958
 
 ### Remarks
 null

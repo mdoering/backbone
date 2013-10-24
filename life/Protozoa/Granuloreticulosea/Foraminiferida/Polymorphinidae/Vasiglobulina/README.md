@@ -1,5 +1,4 @@
-Vasiglobulina Poag, 1969 GENUS
-=======
+# Vasiglobulina Poag, 1969 GENUS
 
 #### Status
 ACCEPTED

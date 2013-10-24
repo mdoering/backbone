@@ -1,5 +1,4 @@
-Pseudodictyomitrella escheri SPECIES
-=======
+# Pseudodictyomitrella escheri SPECIES
 
 #### Status
 ACCEPTED

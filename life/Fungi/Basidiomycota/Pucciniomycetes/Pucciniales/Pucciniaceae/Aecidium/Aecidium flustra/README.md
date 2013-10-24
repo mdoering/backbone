@@ -1,5 +1,4 @@
-Aecidium flustra Berk. SPECIES
-=======
+# Aecidium flustra Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xenosphaeria pycnostigma (Nyl.) Arnold SPECIES
-=======
+# Xenosphaeria pycnostigma (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

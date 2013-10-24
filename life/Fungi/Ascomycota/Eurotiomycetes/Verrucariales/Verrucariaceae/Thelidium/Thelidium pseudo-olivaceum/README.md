@@ -1,5 +1,4 @@
-Thelidium pseudo-olivaceum (Nyl.) SPECIES
-=======
+# Thelidium pseudo-olivaceum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

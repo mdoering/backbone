@@ -1,5 +1,4 @@
-Xanthoparmelia calvinia Hale SPECIES
-=======
+# Xanthoparmelia calvinia Hale SPECIES
 
 #### Status
 ACCEPTED

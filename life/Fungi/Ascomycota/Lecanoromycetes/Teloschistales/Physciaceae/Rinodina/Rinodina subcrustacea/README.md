@@ -1,14 +1,13 @@
-Physcia subcrustacea Müll. Arg. SPECIES
-=======
+# Rinodina subcrustacea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 33 (1893)
+Cat. Lich. Univers. 7: 567 (1931)
 
 #### Original name
 Physcia subcrustacea Müll. Arg.

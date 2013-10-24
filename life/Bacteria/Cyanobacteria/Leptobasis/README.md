@@ -1,5 +1,4 @@
-Leptobasis Elenkin, 1915 GENUS
-=======
+# Leptobasis Elenkin, 1915 GENUS
 
 #### Status
 SYNONYM

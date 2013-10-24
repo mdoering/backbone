@@ -1,5 +1,4 @@
-Diplodina oudemansii (Oudem.) Allesch. SPECIES
-=======
+# Diplodina oudemansii (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

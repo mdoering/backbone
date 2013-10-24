@@ -1,5 +1,4 @@
-Uredo wantoatensis Cummins SPECIES
-=======
+# Uredo wantoatensis Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena adirondackensis Murrill SPECIES
-=======
+# Mycena adirondackensis Murrill SPECIES
 
 #### Status
 ACCEPTED

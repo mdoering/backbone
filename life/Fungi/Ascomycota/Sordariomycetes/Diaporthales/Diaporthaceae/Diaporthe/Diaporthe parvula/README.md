@@ -1,5 +1,4 @@
-Diaporthe parvula Tschern. SPECIES
-=======
+# Diaporthe parvula Tschern. SPECIES
 
 #### Status
 ACCEPTED

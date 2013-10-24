@@ -1,14 +1,13 @@
-Epidochium albescens Sacc. & Malbr., 1881 SPECIES
-=======
+# Efibulobasidium albescens (Sacc. & Malbr.) K. Wells, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 305 (1881)
+Mycologia 67(1): 149 (1975)
 
 #### Original name
 Epidochium albescens Sacc. & Malbr., 1881

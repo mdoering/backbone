@@ -1,5 +1,4 @@
-Buellia pithecellobii var. pithecellobii VARIETY
-=======
+# Buellia pithecellobii Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia pithecellobii var. pithecellobii
+Buellia pithecellobii Vain.
 
 ### Remarks
 null

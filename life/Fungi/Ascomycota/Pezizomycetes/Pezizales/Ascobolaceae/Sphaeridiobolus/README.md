@@ -1,5 +1,4 @@
-Sphaeridiobolus GENUS
-=======
+# Sphaeridiobolus GENUS
 
 #### Status
 ACCEPTED

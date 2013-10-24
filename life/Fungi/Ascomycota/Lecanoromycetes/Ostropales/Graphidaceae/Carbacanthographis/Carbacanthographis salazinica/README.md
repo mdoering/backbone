@@ -1,14 +1,13 @@
-Graphina salazinica A.W. Archer SPECIES
-=======
+# Carbacanthographis salazinica (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 77: 176 (2001)
+Telopea 11(1): 70 (2005)
 
 #### Original name
 Graphina salazinica A.W. Archer

@@ -1,5 +1,4 @@
-Tetracrium coccicola Höhn. SPECIES
-=======
+# Tetracrium coccicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

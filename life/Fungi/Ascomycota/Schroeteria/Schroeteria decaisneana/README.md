@@ -1,5 +1,4 @@
-Schroeteria decaisneana (Boud.) De Toni, 1888 SPECIES
-=======
+# Schroeteria decaisneana (Boud.) De Toni, 1888 SPECIES
 
 #### Status
 ACCEPTED

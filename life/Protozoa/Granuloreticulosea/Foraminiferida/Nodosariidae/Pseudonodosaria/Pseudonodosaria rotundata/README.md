@@ -1,8 +1,7 @@
-Rectoglandulina rotundata (Reuss, 1850) SPECIES
-=======
+# Pseudonodosaria rotundata (Reuss, 1850) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

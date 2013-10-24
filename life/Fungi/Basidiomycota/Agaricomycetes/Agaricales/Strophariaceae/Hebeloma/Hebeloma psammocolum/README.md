@@ -1,5 +1,4 @@
-Hebeloma psammocolum Bohus SPECIES
-=======
+# Hebeloma psammocolum Bohus SPECIES
 
 #### Status
 ACCEPTED

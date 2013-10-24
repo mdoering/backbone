@@ -1,5 +1,4 @@
-Caloplaca microphylla Zahlbr. SPECIES
-=======
+# Caloplaca microphylla Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

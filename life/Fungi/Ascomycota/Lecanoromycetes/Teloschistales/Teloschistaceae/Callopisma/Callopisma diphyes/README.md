@@ -1,5 +1,4 @@
-Callopisma diphyes Arnold SPECIES
-=======
+# Callopisma diphyes Arnold SPECIES
 
 #### Status
 ACCEPTED

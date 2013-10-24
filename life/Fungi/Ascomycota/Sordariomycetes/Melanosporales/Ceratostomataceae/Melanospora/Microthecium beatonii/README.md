@@ -1,5 +1,4 @@
-Microthecium beatonii D. Hawksw. SPECIES
-=======
+# Microthecium beatonii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

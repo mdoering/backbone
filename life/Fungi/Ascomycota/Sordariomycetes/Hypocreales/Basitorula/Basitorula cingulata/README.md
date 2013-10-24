@@ -1,5 +1,4 @@
-Basitorula cingulata G. Arnaud SPECIES
-=======
+# Basitorula cingulata G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

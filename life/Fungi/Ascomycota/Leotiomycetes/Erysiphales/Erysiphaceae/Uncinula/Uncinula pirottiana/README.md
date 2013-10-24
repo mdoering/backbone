@@ -1,5 +1,4 @@
-Uncinula pirottiana Bacc. SPECIES
-=======
+# Uncinula pirottiana Bacc. SPECIES
 
 #### Status
 ACCEPTED

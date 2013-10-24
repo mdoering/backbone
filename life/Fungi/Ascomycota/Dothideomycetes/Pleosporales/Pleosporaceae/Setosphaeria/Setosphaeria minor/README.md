@@ -1,5 +1,4 @@
-Setosphaeria minor Alcorn, 1986 SPECIES
-=======
+# Setosphaeria minor Alcorn, 1986 SPECIES
 
 #### Status
 ACCEPTED

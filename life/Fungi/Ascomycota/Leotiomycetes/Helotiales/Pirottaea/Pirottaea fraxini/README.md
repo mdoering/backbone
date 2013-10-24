@@ -1,5 +1,4 @@
-Pirottaea fraxini Velen. SPECIES
-=======
+# Pirottaea fraxini Velen. SPECIES
 
 #### Status
 ACCEPTED

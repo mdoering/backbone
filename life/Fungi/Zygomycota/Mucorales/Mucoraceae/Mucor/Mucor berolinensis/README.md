@@ -1,5 +1,4 @@
-Mucor berolinensis Naumov SPECIES
-=======
+# Mucor berolinensis Naumov SPECIES
 
 #### Status
 ACCEPTED

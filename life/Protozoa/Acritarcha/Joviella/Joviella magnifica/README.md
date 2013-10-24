@@ -1,5 +1,4 @@
-Joviella magnifica Matsuoka & Bujak, 1988 SPECIES
-=======
+# Joviella magnifica Matsuoka & Bujak, 1988 SPECIES
 
 #### Status
 ACCEPTED

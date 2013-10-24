@@ -1,5 +1,4 @@
-Puccinia ifraniana Guyot & Malençon SPECIES
-=======
+# Puccinia ifraniana Guyot & Malençon SPECIES
 
 #### Status
 ACCEPTED

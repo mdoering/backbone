@@ -1,5 +1,4 @@
-Gorgoniceps tremellina (Bonord.) Sacc. & Traverso SPECIES
-=======
+# Gorgoniceps tremellina (Bonord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

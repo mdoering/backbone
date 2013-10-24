@@ -1,5 +1,4 @@
-Melanconium merrillii Syd. SPECIES
-=======
+# Melanconium merrillii Syd. SPECIES
 
 #### Status
 ACCEPTED

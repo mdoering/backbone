@@ -1,5 +1,4 @@
-Asteroma euphorbiacearum Grove SPECIES
-=======
+# Asteroma euphorbiacearum Grove SPECIES
 
 #### Status
 ACCEPTED

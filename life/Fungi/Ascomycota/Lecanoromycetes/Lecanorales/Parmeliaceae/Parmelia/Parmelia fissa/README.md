@@ -1,5 +1,4 @@
-Parmelia fissa Pers. SPECIES
-=======
+# Parmelia fissa Pers. SPECIES
 
 #### Status
 ACCEPTED

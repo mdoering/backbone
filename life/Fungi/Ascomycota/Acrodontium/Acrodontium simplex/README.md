@@ -1,14 +1,13 @@
-Beauveria simplex F. Mangenot, 1952 SPECIES
-=======
+# Acrodontium simplex (F. Mangenot) de Hoog, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Recherches méthodiques sur les champignons de certains bois en décomposition 40 (1952)
+Stud. Mycol. 1: 33 (1972)
 
 #### Original name
 Beauveria simplex F. Mangenot, 1952

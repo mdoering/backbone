@@ -1,5 +1,4 @@
-Metasphaeria staritzii Rehm SPECIES
-=======
+# Metasphaeria staritzii Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria colebrookeae Sukapure & Thirum. SPECIES
-=======
+# Septoria colebrookeae Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agyrium minus Velen. SPECIES
-=======
+# Agyrium minus Velen. SPECIES
 
 #### Status
 ACCEPTED

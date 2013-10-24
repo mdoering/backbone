@@ -1,5 +1,4 @@
-Lyngbya majuscula (Dillwyn) Harvey SPECIES
-=======
+# Lyngbya majuscula (Dillwyn) Harvey SPECIES
 
 #### Status
 ACCEPTED

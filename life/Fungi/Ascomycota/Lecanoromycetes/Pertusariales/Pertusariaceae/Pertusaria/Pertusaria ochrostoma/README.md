@@ -1,5 +1,4 @@
-Pertusaria ochrostoma (Müll. Arg.) Vain. SPECIES
-=======
+# Pertusaria ochrostoma (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

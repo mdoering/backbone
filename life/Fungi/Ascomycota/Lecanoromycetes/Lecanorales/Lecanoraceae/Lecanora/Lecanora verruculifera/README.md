@@ -1,5 +1,4 @@
-Lecanora verruculifera (Oxner) Tomin SPECIES
-=======
+# Lecanora verruculifera (Oxner) Tomin SPECIES
 
 #### Status
 ACCEPTED

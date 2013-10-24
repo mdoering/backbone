@@ -1,5 +1,4 @@
-Cordyceps fistulosa Lév. SPECIES
-=======
+# Cordyceps fistulosa Lév. SPECIES
 
 #### Status
 ACCEPTED

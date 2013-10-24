@@ -1,5 +1,4 @@
-Newinia kigeliae Eboh, 1983 SPECIES
-=======
+# Newinia kigeliae Eboh, 1983 SPECIES
 
 #### Status
 ACCEPTED

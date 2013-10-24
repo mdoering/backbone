@@ -1,5 +1,4 @@
-Protoperidinium claudicans (Paulsen) Balech SPECIES
-=======
+# Protoperidinium claudicans (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

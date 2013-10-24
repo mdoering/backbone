@@ -1,5 +1,4 @@
-Parmelia protoflavescens Zahlbr. SPECIES
-=======
+# Parmelia protoflavescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

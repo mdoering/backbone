@@ -1,5 +1,4 @@
-Tubercularia leptosperma Speg. SPECIES
-=======
+# Tubercularia leptosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

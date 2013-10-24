@@ -1,5 +1,4 @@
-Scarificatina GENUS
-=======
+# Scarificatina GENUS
 
 #### Status
 ACCEPTED

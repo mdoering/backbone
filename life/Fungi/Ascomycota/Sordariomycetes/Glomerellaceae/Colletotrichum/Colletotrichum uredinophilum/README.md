@@ -1,5 +1,4 @@
-Colletotrichum uredinophilum Hulea SPECIES
-=======
+# Colletotrichum uredinophilum Hulea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phymatodiscus guaraniticus Speg. SPECIES
-=======
+# Phymatodiscus guaraniticus Speg. SPECIES
 
 #### Status
 ACCEPTED

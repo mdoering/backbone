@@ -1,14 +1,13 @@
-Selenichum Labbé, 1899 GENUS
-=======
+# Selenidium Giard, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Tierreich, 5, 48.
+C. R. Ass. Franç. , 13, 1884, 192.
 
 #### Original name
 null

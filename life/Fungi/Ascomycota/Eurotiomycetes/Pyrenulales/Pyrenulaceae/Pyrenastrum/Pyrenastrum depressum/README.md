@@ -1,5 +1,4 @@
-Pyrenastrum depressum Müll. Arg. SPECIES
-=======
+# Pyrenastrum depressum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

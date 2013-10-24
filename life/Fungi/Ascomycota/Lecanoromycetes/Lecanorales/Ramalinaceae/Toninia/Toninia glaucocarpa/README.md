@@ -1,5 +1,4 @@
-Toninia glaucocarpa Timdal SPECIES
-=======
+# Toninia glaucocarpa Timdal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria hercegensis Servít SPECIES
-=======
+# Verrucaria hercegensis Servít SPECIES
 
 #### Status
 ACCEPTED

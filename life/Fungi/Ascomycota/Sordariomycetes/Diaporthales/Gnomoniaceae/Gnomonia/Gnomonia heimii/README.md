@@ -1,5 +1,4 @@
-Gnomonia heimii Negru SPECIES
-=======
+# Gnomonia heimii Negru SPECIES
 
 #### Status
 ACCEPTED

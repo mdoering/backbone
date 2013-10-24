@@ -1,5 +1,4 @@
-Pleuroceras labradorense M. Monod SPECIES
-=======
+# Pleuroceras labradorense M. Monod SPECIES
 
 #### Status
 ACCEPTED

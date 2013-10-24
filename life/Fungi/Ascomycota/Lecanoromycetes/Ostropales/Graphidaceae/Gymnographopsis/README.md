@@ -1,5 +1,4 @@
-Gymnographopsis C.W. Dodge GENUS
-=======
+# Gymnographopsis C.W. Dodge GENUS
 
 #### Status
 ACCEPTED

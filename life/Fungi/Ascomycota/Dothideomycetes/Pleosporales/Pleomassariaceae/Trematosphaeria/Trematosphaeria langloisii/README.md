@@ -1,5 +1,4 @@
-Trematosphaeria langloisii (Ellis & Everh.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Trematosphaeria langloisii (Ellis & Everh.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerula australis (Dörfelt) R.H. Petersen SPECIES
-=======
+# Xerula australis (Dörfelt) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

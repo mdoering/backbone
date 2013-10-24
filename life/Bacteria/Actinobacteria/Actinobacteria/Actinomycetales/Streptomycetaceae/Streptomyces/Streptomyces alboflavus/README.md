@@ -1,11 +1,10 @@
-Actinomyces alboflavus Waksman & Curtis, 1916 SPECIES
-=======
+# Streptomyces alboflavus (Waksman and Curtis, 1916) Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

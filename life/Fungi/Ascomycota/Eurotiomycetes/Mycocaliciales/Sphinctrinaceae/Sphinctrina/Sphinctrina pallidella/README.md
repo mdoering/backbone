@@ -1,5 +1,4 @@
-Sphinctrina pallidella (Willey) Selva SPECIES
-=======
+# Sphinctrina pallidella (Willey) Selva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia phillyreae Mochado SPECIES
-=======
+# Hendersonia phillyreae Mochado SPECIES
 
 #### Status
 ACCEPTED

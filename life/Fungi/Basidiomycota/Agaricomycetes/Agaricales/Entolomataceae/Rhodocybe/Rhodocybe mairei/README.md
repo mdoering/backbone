@@ -1,5 +1,4 @@
-Rhodocybe mairei T.J. Baroni SPECIES
-=======
+# Rhodocybe mairei T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

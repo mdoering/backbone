@@ -1,17 +1,16 @@
-Rubelia Nieuwl. GENUS
-=======
+# Scutellinia (Cooke) Lambotte, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Am. Midl. Nat. 4: 386 (1916)
+null
 
 #### Original name
-Rubelia Nieuwl.
+null
 
 ### Remarks
 null

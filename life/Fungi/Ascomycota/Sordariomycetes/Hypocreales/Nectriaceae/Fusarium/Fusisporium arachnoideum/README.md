@@ -1,5 +1,4 @@
-Fusisporium arachnoideum Corda SPECIES
-=======
+# Fusisporium arachnoideum Corda SPECIES
 
 #### Status
 ACCEPTED

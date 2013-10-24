@@ -1,5 +1,4 @@
-Pseudokeronopsis pulchra Borror & Wicklow, 1983 SPECIES
-=======
+# Pseudokeronopsis pulchra Borror & Wicklow, 1983 SPECIES
 
 #### Status
 ACCEPTED

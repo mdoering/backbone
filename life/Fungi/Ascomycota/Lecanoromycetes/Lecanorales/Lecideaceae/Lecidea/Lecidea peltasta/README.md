@@ -1,5 +1,4 @@
-Lecidea peltasta Stirt. SPECIES
-=======
+# Lecidea peltasta Stirt. SPECIES
 
 #### Status
 ACCEPTED

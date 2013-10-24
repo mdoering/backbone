@@ -1,17 +1,16 @@
-Nectria peltigerae W. Phillips & Plowr., 1875 SPECIES
-=======
+# Pronectria robergei (Mont. & Desm.) Lowen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 29): 23 (1875)
+Mycotaxon 39: 462 (1990)
 
 #### Original name
-Nectria peltigerae W. Phillips & Plowr., 1875
+Nectria robergei Mont. & Desm., 1857
 
 ### Remarks
 null

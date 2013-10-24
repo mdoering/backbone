@@ -1,5 +1,4 @@
-Kretzschmaria pauxilla Ces. SPECIES
-=======
+# Kretzschmaria pauxilla Ces. SPECIES
 
 #### Status
 ACCEPTED

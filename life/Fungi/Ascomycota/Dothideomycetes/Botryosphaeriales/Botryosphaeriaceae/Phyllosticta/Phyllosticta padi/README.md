@@ -1,5 +1,4 @@
-Phyllosticta padi Brunaud SPECIES
-=======
+# Phyllosticta padi Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium passerinii Thüm. SPECIES
-=======
+# Leptothyrium passerinii Thüm. SPECIES
 
 #### Status
 ACCEPTED

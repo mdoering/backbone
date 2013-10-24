@@ -1,5 +1,4 @@
-Clitocybe violaceifolia Murrill SPECIES
-=======
+# Clitocybe violaceifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Strombidion sulcatum Claparède & Lachmann, 1859 SPECIES
-=======
+# Rimostrombidium sulcatum (Tucolesco, 1962) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Dicaeoma podophylli (Schwein.) Kuntze, 1898 SPECIES
-=======
+# Puccinia podophylli Schwein., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Schr. naturf. Ges. Leipzig 1: 72 (1822)
 
 #### Original name
 Puccinia podophylli Schwein., 1822

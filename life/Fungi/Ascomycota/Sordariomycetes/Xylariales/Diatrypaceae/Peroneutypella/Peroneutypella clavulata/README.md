@@ -1,5 +1,4 @@
-Peroneutypella clavulata (Cooke) Berl. SPECIES
-=======
+# Peroneutypella clavulata (Cooke) Berl. SPECIES
 
 #### Status
 ACCEPTED

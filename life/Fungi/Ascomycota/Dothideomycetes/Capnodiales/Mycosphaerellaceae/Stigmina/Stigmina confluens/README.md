@@ -1,5 +1,4 @@
-Stigmina confluens (Lieneman) U. Braun SPECIES
-=======
+# Stigmina confluens (Lieneman) U. Braun SPECIES
 
 #### Status
 ACCEPTED

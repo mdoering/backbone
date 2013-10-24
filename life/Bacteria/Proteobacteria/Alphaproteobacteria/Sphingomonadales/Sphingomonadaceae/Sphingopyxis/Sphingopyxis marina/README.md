@@ -1,5 +1,4 @@
-Sphingopyxis marina Kim, Lim & Chun, 2008 SPECIES
-=======
+# Sphingopyxis marina Kim, Lim & Chun, 2008 SPECIES
 
 #### Status
 ACCEPTED

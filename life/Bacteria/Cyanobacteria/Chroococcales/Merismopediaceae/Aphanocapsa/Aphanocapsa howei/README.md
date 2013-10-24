@@ -1,5 +1,4 @@
-Aphanocapsa howei Collins SPECIES
-=======
+# Aphanocapsa howei Collins SPECIES
 
 #### Status
 ACCEPTED

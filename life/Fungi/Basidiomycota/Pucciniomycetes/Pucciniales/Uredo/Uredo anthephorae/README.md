@@ -1,5 +1,4 @@
-Uredo anthephorae Syd. & P. Syd. SPECIES
-=======
+# Uredo anthephorae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

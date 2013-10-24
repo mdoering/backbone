@@ -1,5 +1,4 @@
-Rhodophyllus lowyi Singer SPECIES
-=======
+# Rhodophyllus lowyi Singer SPECIES
 
 #### Status
 ACCEPTED

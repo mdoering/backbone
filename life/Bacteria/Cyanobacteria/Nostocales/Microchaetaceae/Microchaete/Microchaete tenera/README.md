@@ -1,5 +1,4 @@
-Microchaete tenera var. tenuis Bharadwaja VARIETY
-=======
+# Microchaete tenera Thuret ex Bornet SPECIES
 
 #### Status
 ACCEPTED

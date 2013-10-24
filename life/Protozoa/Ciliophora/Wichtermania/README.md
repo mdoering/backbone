@@ -1,5 +1,4 @@
-Wichtermania Earl, 1972 GENUS
-=======
+# Wichtermania Earl, 1972 GENUS
 
 #### Status
 ACCEPTED

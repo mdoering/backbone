@@ -1,5 +1,4 @@
-Agaricus novoguineensis Heinem. SPECIES
-=======
+# Agaricus novoguineensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

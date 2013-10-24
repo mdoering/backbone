@@ -1,5 +1,4 @@
-Neottiospora geranii (J. Schröt.) H.C. Greene SPECIES
-=======
+# Neottiospora geranii (J. Schröt.) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

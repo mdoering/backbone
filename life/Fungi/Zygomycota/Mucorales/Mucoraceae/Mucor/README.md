@@ -1,17 +1,16 @@
-Calyptromyces H. Karst. GENUS
-=======
+# Mucor Fresenius, 1850 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 7: 365 (1849)
+Beitr. Mykol. 1: 7 (1850)
 
 #### Original name
-Calyptromyces H. Karst.
+Mucor Fresenius, 1850
 
 ### Remarks
 null

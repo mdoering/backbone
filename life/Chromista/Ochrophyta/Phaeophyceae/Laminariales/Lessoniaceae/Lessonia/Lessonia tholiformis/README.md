@@ -1,5 +1,4 @@
-Lessonia tholiformis C.H.Hay SPECIES
-=======
+# Lessonia tholiformis C.H.Hay SPECIES
 
 #### Status
 ACCEPTED

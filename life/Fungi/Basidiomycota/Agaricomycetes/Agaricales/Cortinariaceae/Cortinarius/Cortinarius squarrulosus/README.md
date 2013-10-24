@@ -1,5 +1,4 @@
-Cortinarius squarrulosus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius squarrulosus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

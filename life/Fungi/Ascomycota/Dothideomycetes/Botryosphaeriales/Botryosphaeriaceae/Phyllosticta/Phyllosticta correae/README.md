@@ -1,5 +1,4 @@
-Phyllosticta correae McAlpine SPECIES
-=======
+# Phyllosticta correae McAlpine SPECIES
 
 #### Status
 ACCEPTED

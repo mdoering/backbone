@@ -1,5 +1,4 @@
-Marasmiellus osmophorus Dennis SPECIES
-=======
+# Marasmiellus osmophorus Dennis SPECIES
 
 #### Status
 ACCEPTED

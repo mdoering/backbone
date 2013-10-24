@@ -1,5 +1,4 @@
-Pleurotus aquifolii (Fr.) Gillet SPECIES
-=======
+# Pleurotus aquifolii (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

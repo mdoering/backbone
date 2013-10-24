@@ -1,5 +1,4 @@
-Clitocybe vulpecula Kalchbr. SPECIES
-=======
+# Clitocybe vulpecula Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

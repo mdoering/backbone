@@ -1,5 +1,4 @@
-Cladonia convoluta f. convoluta FORM
-=======
+# Cladonia convoluta (Lam.) Cout. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia convoluta f. convoluta
+Lichen convolutus Lamkey
 
 ### Remarks
 null

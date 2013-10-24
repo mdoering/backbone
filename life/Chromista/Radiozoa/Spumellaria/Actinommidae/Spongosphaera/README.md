@@ -1,5 +1,4 @@
-Spongosphaera Ehrenberg, 1847 GENUS
-=======
+# Spongosphaera Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

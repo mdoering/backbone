@@ -1,5 +1,4 @@
-Ascochyta kashmeriana Padwick & Merh SPECIES
-=======
+# Ascochyta kashmeriana Padwick & Merh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea solida Motyka SPECIES
-=======
+# Usnea solida Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cometodendron pendunculatum Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron pendunculatum Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED
